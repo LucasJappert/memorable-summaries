@@ -2,6 +2,17 @@
 
 Resúmenes interactivos para repasar y memorizar conceptos. Stack: Vue 3, Vite, TypeScript.
 
+## Pipeline de generación (IA)
+
+**Comando natural:** «Generame el html del libro Sapiens» → el agente sigue [`AGENTS.md`](AGENTS.md).
+
+Detalle del circuito en **[docs/PIPELINE.md](docs/PIPELINE.md)**:
+
+1. Libro → `summaries/<slug>.md` (prompt en `docs/prompts/01-resumen-desde-libro.md`)
+2. MD → `src/data/<slug>.ts` (prompt en `docs/prompts/02-vista-desde-resumen.md`)
+
+Plantilla del MD intermedio: `docs/templates/resumen-libro.template.md`
+
 ## Desarrollo
 
 ```bash

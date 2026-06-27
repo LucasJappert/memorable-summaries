@@ -1,0 +1,22 @@
+---
+description: Orquesta la generación de resúmenes memorizables de libros (epub → MD → Vue)
+alwaysApply: true
+---
+
+# Generar resumen / HTML de un libro
+
+Cuando el usuario pida generar el **html**, **resumen** o **vista** de un libro, leé y ejecutá **`AGENTS.md`** en la raíz del repo.
+
+## Resumen del flujo
+
+1. Resolver slug desde nombre del libro / archivo `*.epub` o `*.pdf` en raíz
+2. Si no existe `summaries/<slug>.md` → paso A con `docs/prompts/01-resumen-desde-libro.md` + plantilla
+3. Paso B con `docs/prompts/02-vista-desde-resumen.md` → `src/data/<slug-corto>.ts`
+4. Integrar en `src/App.vue` si es libro nuevo
+5. `npm run build` (obligatorio)
+
+**«HTML» = app Vue por defecto.** HTML standalone en `legacy/` solo si lo pide explícitamente.
+
+**Idioma:** resumen y vista en **español**; `meta.title` en idioma original; `meta.titleEs` si el libro no está en español (hero: `Original — Traducción`).
+
+Referencia completa: `AGENTS.md`, `docs/PIPELINE.md`.

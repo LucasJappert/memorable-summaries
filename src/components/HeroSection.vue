@@ -6,7 +6,9 @@ defineProps<{ meta: BookMeta }>()
 
 <template>
   <header class="hero">
-    <h1>{{ meta.title }}</h1>
+    <h1>
+      {{ meta.title }}<template v-if="meta.titleEs"> — {{ meta.titleEs }}</template>
+    </h1>
     <p class="subtitle">{{ meta.subtitle }}</p>
     <p class="author">{{ meta.author }}</p>
     <p class="meta">

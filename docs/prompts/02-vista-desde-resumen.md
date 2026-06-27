@@ -1,0 +1,104 @@
+# Prompt 02 — Vista memorizable desde el resumen MD
+
+Usá este prompt con un `summaries/<slug>.md` ya revisado.  
+**Salida esperada:** `src/data/<slug-corto>.ts` (y opcionalmente HTML standalone).
+
+---
+
+## Instrucciones para la IA
+
+Convertí el resumen Markdown estructurado en datos tipados para la app Vue 3 del proyecto.
+
+### Archivos de referencia (leer antes de generar)
+
+- `src/types/book.ts` — interfaces TypeScript
+- `src/data/universo-nada.ts` — ejemplo completo
+- `src/assets/styles.css` — estilos (solo si generás HTML)
+- `legacy/resumen-universo-de-la-nada.html` — referencia visual HTML
+
+### Reglas estrictas
+
+1. **No agregues contenido** que no esté en el `.md`. Solo transformá formato.
+2. **Respetá los tipos** de `BookSummary` y `ContentBlock`
+3. **IDs de sección** = los del `.md` (prefacio, cap1, …)
+4. **Idioma:** conservar `title` original + `titleEs` si existe; el resto ya debe estar en español en el `.md`
+5. **HTML inline** permitido en `paragraph.html` y `list.items` (`<strong>`, `<em>`, `<sup>`)
+6. **Export** con nombre camelCase: `export const sapiens: BookSummary = { ... }`
+7. **Archivo** en `src/data/<slug-corto>.ts`
+
+### Mapeo MD → TypeScript
+
+| Bloque MD | Tipo TS |
+|-----------|---------|
+| Frontmatter | `meta` |
+| `title` | `meta.title` (idioma original) |
+| `title_es` | `meta.titleEs` (opcional; solo si title no está en español) |
+| Tabla `# Contenido` | `toc[]` |
+| Sección `# capN` | `sections[]` con `blocks[]` |
+| `<!-- paragraph -->` | `{ type: 'paragraph', html: '...' }` |
+| `<!-- quote -->` | `{ type: 'quote', text, attribution? }` |
+| `<!-- key -->` | `{ type: 'paragraph', html: '...' }` |
+| `<!-- concept-grid -->` | `{ type: 'concept-grid', items: [{ icon?, title, description }] }` |
+| `<!-- big-numbers -->` | `{ type: 'big-numbers', items: [{ value, label }] }` |
+| `<!-- timeline -->` | `{ type: 'timeline', items: [{ year, text }] }` |
+| `<!-- list -->` | `{ type: 'list', items: ['...'] }` |
+| `# conceptos` | `keyConcepts[]` (extraer del concept-grid de esa sección) |
+| `# cronologia` | `chronology[]` |
+| `# figuras` | `figures[]` |
+| `# cierre` | `closing: { title, lines[], highlight }` |
+| `# footer` | `footer: { line1, line2 }` |
+
+### Secciones especiales
+
+- `# conceptos`, `# cronologia`, `# figuras`, `# cierre`, `# footer` **no van** en `sections[]`
+- Su contenido se mapea a las propiedades top-level de `BookSummary`
+- Los capítulos normales sí van en `sections[]`
+
+### Integración en la app
+
+Después de crear el `.ts`, actualizá `src/App.vue`:
+
+```ts
+import { nombreLibro } from './data/nombre-libro'
+const book = nombreLibro
+```
+
+(Cuando haya múltiples libros, migrar a router — por ahora reemplazar import.)
+
+### Verificación
+
+```bash
+npm run build
+```
+
+Debe pasar sin errores de `vue-tsc`.
+
+---
+
+## Variante: HTML standalone (opcional)
+
+Si se pide HTML en lugar de (o además de) Vue:
+
+1. Reutilizá **exactamente** los estilos de `src/assets/styles.css`
+2. Estructura: starfield → hero → toc → sections → conceptos → cronologia → figuras → cierre → footer
+3. Clases CSS existentes: `.section`, `.concept-card`, `.quote`, `.timeline`, etc.
+4. Guardar en `legacy/resumen-<slug>.html`
+5. **No duplicar lógica**: el `.md` sigue siendo la fuente; el HTML es otro target
+
+---
+
+## Ejemplo de invocación (usuario)
+
+> Convertí `summaries/universo-de-la-nada.md` a `src/data/universo-nada.ts`.
+> Seguí `src/types/book.ts` y el ejemplo `src/data/universo-nada.ts`.
+> Reglas en `docs/prompts/02-vista-desde-resumen.md`.
+
+---
+
+## Checklist post-generación
+
+- [ ] `npm run build` pasa
+- [ ] TOC enlaza a todos los `#id`
+- [ ] Citas tienen attribution cuando corresponde
+- [ ] `closing.highlight` es la frase marcada en el MD
+- [ ] No hay contenido inventado respecto al `.md`

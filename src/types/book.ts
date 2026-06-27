@@ -1,5 +1,8 @@
 export interface BookMeta {
+  /** Título en idioma original del libro */
   title: string
+  /** Traducción al español del título; omitir si el original ya está en español */
+  titleEs?: string
   subtitle: string
   author: string
   meta: string[]
