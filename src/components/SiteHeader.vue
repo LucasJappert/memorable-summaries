@@ -2,17 +2,32 @@
 import { computed, onMounted, onUnmounted, ref, watch } from 'vue'
 import type { TocItem } from '../types/book'
 import { useActiveSection } from '../composables/useActiveSection'
+import { useScrollHeader } from '../composables/useScrollHeader'
 import BrandLogo from './BrandLogo.vue'
 
 const props = defineProps<{ toc: TocItem[] }>()
 
 const menuOpen = ref(false)
+const isMobileNav = ref(true)
 
 const sectionIds = computed(() => props.toc.map((item) => item.id))
 const { activeId } = useActiveSection(sectionIds)
 
+const { headerVisible } = useScrollHeader({
+  enabled: () => isMobileNav.value && !menuOpen.value,
+})
+
+const headerHidden = computed(() => isMobileNav.value && !headerVisible.value && !menuOpen.value)
+
+const mediaMobileNav = window.matchMedia('(max-width: 1023px)')
+
+function updateNavMode() {
+  isMobileNav.value = mediaMobileNav.matches
+}
+
 watch(menuOpen, (open) => {
   document.body.style.overflow = open ? 'hidden' : ''
+  if (open) headerVisible.value = true
 })
 
 function toggleMenu() {
@@ -27,15 +42,21 @@ function onKeydown(event: KeyboardEvent) {
   if (event.key === 'Escape') closeMenu()
 }
 
-onMounted(() => window.addEventListener('keydown', onKeydown))
+onMounted(() => {
+  updateNavMode()
+  window.addEventListener('keydown', onKeydown)
+  mediaMobileNav.addEventListener('change', updateNavMode)
+})
+
 onUnmounted(() => {
   window.removeEventListener('keydown', onKeydown)
+  mediaMobileNav.removeEventListener('change', updateNavMode)
   document.body.style.overflow = ''
 })
 </script>
 
 <template>
-  <header class="site-header">
+  <header class="site-header" :class="{ 'site-header--hidden': headerHidden }">
     <div class="site-header__inner">
       <a href="#" class="site-header__brand" aria-label="Memorable Summaries — inicio">
         <BrandLogo :size="32" />

@@ -473,6 +473,14 @@
     backdrop-filter: blur(16px);
     -webkit-backdrop-filter: blur(16px);
     border-bottom: 1px solid var(--border);
+    transform: translateY(0);
+    transition: transform 0.28s ease, opacity 0.28s ease;
+    will-change: transform;
+  }
+  .site-header--hidden {
+    transform: translateY(calc(-100% - env(safe-area-inset-top, 0px)));
+    pointer-events: none;
+    opacity: 0;
   }
   .site-header__inner {
     display: flex;
