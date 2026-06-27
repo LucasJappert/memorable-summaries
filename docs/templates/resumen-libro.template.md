@@ -30,8 +30,8 @@ lang: es
 ## num: Prefacio
 ## title: Título de la sección
 
-<!-- paragraph -->
-Texto del párrafo. Usar **negrita** para términos clave y *cursiva* para énfasis suave.
+<!-- paragraph lead -->
+Texto del primer párrafo. Usar <span class="term">términos</span>, <span class="person">personas</span> y <span class="num">1945</span>.
 
 <!-- paragraph -->
 Segundo párrafo si hace falta. Máximo 3–4 párrafos por sección.
@@ -41,7 +41,7 @@ Segundo párrafo si hace falta. Máximo 3–4 párrafos por sección.
 — Autor
 
 <!-- key -->
-**Clave:** Una sola frase que resume la sección.
+Una sola frase que resume la sección (sin prefijo «Clave:»).
 
 ---
 

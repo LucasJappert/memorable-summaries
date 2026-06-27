@@ -173,17 +173,17 @@ El **punto de cruce** marca cuando la mejora la impulsa el propio sistema más q
 ## num: 05
 ## title: Ventaja estratégica decisiva
 
-<!-- paragraph -->
-¿Un solo proyecto obtendrá **ventaja estratégica decisiva** (VSD) — capacidad de dominar el mundo? Depende de la velocidad del despegue y la difusión de innovaciones. En despegue rápido, casi seguro un solo proyecto; en lento, varios en paralelo. Brechas históricas en carreras tecnológicas: meses a años (bomba atómica, Sputnik, bomba H).
+<!-- paragraph lead -->
+¿Un solo proyecto obtendrá <span class="term">ventaja estratégica decisiva</span> (VSD) — capacidad de dominar el mundo? Depende de la velocidad del despegue y la difusión de innovaciones. En despegue rápido, casi seguro un solo proyecto; en lento, varios en paralelo. Brechas históricas en carreras tecnológicas: <span class="num">meses a años</span> (bomba atómica, Sputnik, bomba H).
 
 <!-- paragraph -->
-Una IA tiene ventajas: sin problemas de agencia interna, lealtad perfecta de módulos, capacidad de operaciones clandestinas. El proyecto ganador podría ser desde un **hacker solitario** (IA semilla simple) hasta un consorcio industrial (emulación cerebral). Los estados probablemente **nacionalizarían** proyectos prometedores si detectaran el despegue — pero el fracaso total de inteligencia es posible.
+Una IA tiene ventajas: sin problemas de agencia interna, lealtad perfecta de módulos, capacidad de operaciones clandestinas. El proyecto ganador podría ser desde un <span class="term">hacker solitario</span> (IA semilla simple) hasta un consorcio industrial (emulación cerebral). Los estados probablemente nacionalizarían proyectos prometedores si detectaran el despegue — pero el fracaso total de inteligencia es posible.
 
 <!-- paragraph -->
-Analogía con el monopolio nuclear de EE.UU. (1945-49): Russell y von Neumann propusieron primer golpe; el **Plan Baruch** (1946) propuso control internacional — rechazado por Stalin. Una superinteligencia con VSD tiene **menos inhibiciones** que humanos: utilidad no acotada, sin aversión al riesgo, sin problemas de coordinación interna, costos de conquista potencialmente mínimos.
+Analogía con el monopolio nuclear de EE.UU. (<span class="num">1945–49</span>): <span class="person">Russell</span> y <span class="person">von Neumann</span> propusieron primer golpe; el <span class="term">Plan Baruch</span> (<span class="num">1946</span>) propuso control internacional — rechazado por <span class="person">Stalin</span>. Una superinteligencia con VSD tiene menos inhibiciones que humanos: utilidad no acotada, sin aversión al riesgo, sin problemas de coordinación interna, costos de conquista potencialmente mínimos.
 
 <!-- key -->
-**Clave:** Es probable que un superinteligente con VSD forme un **singleton** — una agencia global única de toma de decisiones.
+Es probable que un superinteligente con VSD forme un <span class="key-term">singleton</span> — una agencia global única de toma de decisiones.
 
 ---
 

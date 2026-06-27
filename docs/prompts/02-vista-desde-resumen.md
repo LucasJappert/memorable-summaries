@@ -22,7 +22,9 @@ Convertí el resumen Markdown estructurado en datos tipados para la app Vue 3 de
 2. **Respetá los tipos** de `BookSummary` y `ContentBlock`
 3. **IDs de sección** = los del `.md` (prefacio, cap1, …)
 4. **Idioma:** conservar `title` original + `titleEs` si existe; el resto ya debe estar en español en el `.md`
-5. **HTML inline** permitido en `paragraph.html` y `list.items` (`<strong>`, `<em>`, `<sup>`)
+5. **HTML inline** permitido en `paragraph.html`, `key.html` y `list.items`:
+   - Etiquetas: `<strong>`, `<em>`, `<sup>`
+   - Marcadores semánticos: `<span class="term">`, `<span class="person">`, `<span class="num">`, `<span class="key-term">` (solo en bloques `key`)
 6. **Export** con nombre camelCase: `export const sapiens: BookSummary = { ... }`
 7. **Archivo** en `src/data/<slug-corto>.ts`
 
@@ -36,8 +38,9 @@ Convertí el resumen Markdown estructurado en datos tipados para la app Vue 3 de
 | Tabla `# Contenido` | `toc[]` |
 | Sección `# capN` | `sections[]` con `blocks[]` |
 | `<!-- paragraph -->` | `{ type: 'paragraph', html: '...' }` |
+| `<!-- paragraph lead -->` | `{ type: 'paragraph', html: '...', variant: 'lead' }` |
 | `<!-- quote -->` | `{ type: 'quote', text, attribution? }` |
-| `<!-- key -->` | `{ type: 'paragraph', html: '...' }` |
+| `<!-- key -->` | `{ type: 'key', html: '...' }` (sin «Clave:» en el texto) |
 | `<!-- concept-grid -->` | `{ type: 'concept-grid', items: [{ icon?, title, description }] }` |
 | `<!-- big-numbers -->` | `{ type: 'big-numbers', items: [{ value, label }] }` |
 | `<!-- timeline -->` | `{ type: 'timeline', items: [{ year, text }] }` |

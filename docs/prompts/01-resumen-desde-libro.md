@@ -34,15 +34,46 @@ Sos un editor especializado en resúmenes para **memorización activa**. Tu tare
 
 | Marcador | Cuándo usarlo |
 |----------|---------------|
-| `<!-- paragraph -->` | Texto narrativo. Negrita para términos clave. |
+| `<!-- paragraph -->` | Texto narrativo. Usar **marcadores semánticos** (ver abajo). |
+| `<!-- paragraph lead -->` | Primer párrafo de la sección (opcional; más aire visual). |
 | `<!-- quote -->` | Citas textuales o casi textuales del autor. Formato `> texto` + `— Autor` |
-| `<!-- key -->` | Una frase **Clave:** al final de secciones densas |
+| `<!-- key -->` | Una frase al final de secciones densas (sin escribir «Clave:»; la UI lo agrega). |
 | `<!-- concept-grid -->` | Tabla icon\|title\|description — comparaciones, triadas, definiciones |
 | `<!-- big-numbers -->` | Tabla value\|label — porcentajes, magnitudes, órdenes de grandeza |
 | `<!-- timeline -->` | Tabla year\|text — futuro del universo, historia de descubrimientos |
 | `<!-- list -->` | Viñetas con **término** — definición |
 | `<!-- figures -->` | Tabla name\|role — personajes históricos |
 | `<!-- closing -->` | 6 líneas + `<!-- highlight -->` para la frase central |
+
+### Marcadores semánticos (en párrafos y listas)
+
+Usá `<span class="...">` en lugar de negrita genérica. **Cada clase = un significado fijo.**
+
+| Clase | Uso | Ejemplo |
+|-------|-----|---------|
+| `term` | Concepto o término técnico (1.ª aparición en la sección) | `<span class="term">ventaja estratégica decisiva</span>` |
+| `person` | Persona, institución o estado | `<span class="person">Russell</span>` |
+| `key-term` | Término central del bloque `<!-- key -->` (no usar en párrafos) | `<span class="key-term">singleton</span>` |
+| `num` | Cifra, fecha, magnitud, rango temporal | `<span class="num">1945–49</span>` |
+
+**Reglas de densidad:**
+
+- Máximo **3–5** spans semánticos por párrafo (no marcar todo).
+- **1** bloque `<!-- key -->` por sección (solo si la sección es densa).
+- 2.ª aparición del mismo concepto: texto plano o `**negrita**` sin color.
+- Emojis: solo en iconos de `concept-grid` (máx. 1 por tarjeta) y en cronología/TOC del template; **no** en prosa de párrafos.
+- **No** uses `key-term` en párrafos; reservalo para el bloque `<!-- key -->` (1 término destacado en menta).
+
+**Ejemplo de párrafo:**
+
+```html
+<!-- paragraph lead -->
+¿Un solo proyecto obtendrá <span class="term">ventaja estratégica decisiva</span> (VSD)?
+Brechas históricas: <span class="num">meses a años</span> (bomba atómica, Sputnik).
+
+<!-- key -->
+Es probable que forme un <span class="key-term">singleton</span> — agencia global única.
+```
 
 ### Criterios de memorización
 
@@ -51,6 +82,7 @@ Sos un editor especializado en resúmenes para **memorización activa**. Tu tare
 - Preferí **cifras redondas** y **fechas** como anclas
 - El **cierre** debe responder: «¿Cuál es la tesis del autor en una frase?»
 - Usá emojis solo en iconos de concept-grid (opcional, máx. 1 por tarjeta)
+- Preferí **marcadores semánticos** (`term`, `person`, `key-term`, `num`) sobre negrita indiscriminada
 
 ### Entrada
 

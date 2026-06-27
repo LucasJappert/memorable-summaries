@@ -44,6 +44,13 @@ export interface QuoteBlock {
 export interface ParagraphBlock {
   type: 'paragraph'
   html: string
+  /** Primer párrafo de sección: tipografía más grande y aire extra */
+  variant?: 'default' | 'lead'
+}
+
+export interface KeyBlock {
+  type: 'key'
+  html: string
 }
 
 export interface ConceptGridBlock {
@@ -73,6 +80,7 @@ export interface DividerBlock {
 export type ContentBlock =
   | QuoteBlock
   | ParagraphBlock
+  | KeyBlock
   | ConceptGridBlock
   | BigNumbersBlock
   | TimelineBlock

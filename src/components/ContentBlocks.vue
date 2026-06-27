@@ -6,7 +6,13 @@ defineProps<{ blocks: ContentBlock[] }>()
 
 <template>
   <template v-for="(block, index) in blocks" :key="index">
-    <p v-if="block.type === 'paragraph'" v-html="block.html" />
+    <p
+      v-if="block.type === 'paragraph'"
+      :class="{ lead: block.variant === 'lead' }"
+      v-html="block.html"
+    />
+
+    <div v-else-if="block.type === 'key'" class="callout-key" v-html="block.html" />
 
     <blockquote v-else-if="block.type === 'quote'" class="quote">
       <span v-html="block.text" />
