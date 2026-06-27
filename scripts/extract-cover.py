@@ -51,7 +51,7 @@ except ImportError:
 COVERS_DIR = Path("public/covers")
 MAX_WIDTH = 420
 OPEN_LIBRARY_SEARCH = "https://openlibrary.org/search.json"
-OPEN_LIBRARY_COVER = "https://covers.openlibrary.org/b/id/{cover_id}-M.jpg"
+OPEN_LIBRARY_COVER = "https://covers.openlibrary.org/b/id/{cover_id}-L.jpg"
 GOOGLE_BOOKS_API = "https://www.googleapis.com/books/v1/volumes"
 USER_AGENT = "MemorableSummaries/1.0 (personal library; cover fetch)"
 
@@ -162,7 +162,9 @@ def fetch_cover_online(title: str, author: str | None) -> bytes | None:
 def find_cover_href(opf: ET.Element, manifest: dict[str, str], base_dir: str) -> str | None:
     cover_id: str | None = None
 
-    for meta in opf.findall(f".//{q('meta', OPF_NS)}"):
+    for meta in opf.iter():
+        if not meta.tag.endswith("meta"):
+            continue
         name = (meta.get("name") or "").lower()
         if name == "cover":
             cover_id = meta.get("content")
@@ -176,13 +178,25 @@ def find_cover_href(opf: ET.Element, manifest: dict[str, str], base_dir: str) ->
                 break
 
     if not cover_id:
+        image_ext = (".jpg", ".jpeg", ".png", ".webp", ".gif")
+        cover_candidates: list[tuple[str, str]] = []
         for item_id, href in manifest.items():
+            lower_href = href.lower()
+            if not any(lower_href.endswith(ext) for ext in image_ext):
+                continue
             if re.search(r"cover", item_id, re.I) or re.search(r"cover", href, re.I):
-                cover_id = item_id
-                break
+                cover_candidates.append((item_id, href))
+
+        if cover_candidates:
+            for item_id, href in cover_candidates:
+                if re.search(r"cover", Path(href).name, re.I):
+                    cover_id = item_id
+                    break
+            if not cover_id:
+                cover_id = cover_candidates[0][0]
 
     if cover_id and cover_id in manifest:
-        return resolve_href(base_dir, manifest[cover_id])
+        return manifest[cover_id]
 
     return None
 
