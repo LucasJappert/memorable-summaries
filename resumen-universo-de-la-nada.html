@@ -1,0 +1,1229 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Un universo de la nada — Resumen</title>
+<style>
+  :root {
+    --bg: #0a0e1a;
+    --surface: #12182b;
+    --surface2: #1a2240;
+    --accent: #7c8cf0;
+    --accent2: #f0a87c;
+    --accent3: #7cf0c8;
+    --text: #e0e4f0;
+    --text2: #989cb8;
+    --border: #2a3050;
+    --radius: 12px;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.7;
+    font-size: 16px;
+    overflow-x: hidden;
+  }
+
+  /* ===== STARRY BACKGROUND ===== */
+  .star-blue, .star-white, .star-yellow, .star-orange, .star-bright {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  /* Layer 1: Tiny blue-white stars — many, fast twinkle */
+  .star-blue {
+    width:1px; height:1px; background:transparent; box-shadow:
+      1309px 228px #aaccff,
+      1518px 563px #bbddff,
+      457px 285px #aaccff,
+      1385px 178px #aaddff,
+      864px 65px #aaccff,
+      191px 447px #bbddff,
+      1034px 54px #aaddff,
+      407px 859px #bbddff,
+      919px 569px #aaccff,
+      1554px 326px #99bbff,
+      696px 569px #bbddff,
+      440px 689px #aaccff,
+      189px 778px #aaccff,
+      735px 704px #aaddff,
+      541px 88px #99bbff,
+      1098px 255px #99bbff,
+      161px 600px #aaddff,
+      1813px 740px #aaddff,
+      393px 142px #aaccff,
+      1354px 466px #88aaff,
+      163px 476px #aaccff,
+      778px 569px #99bbff,
+      1301px 747px #bbddff,
+      758px 727px #bbddff,
+      1372px 546px #aaccff,
+      1247px 350px #aaddff,
+      1493px 501px #bbddff,
+      946px 777px #88aaff,
+      1895px 449px #88aaff,
+      1726px 114px #bbddff,
+      1683px 65px #88aaff,
+      821px 548px #aaccff,
+      432px 644px #bbddff,
+      1342px 1022px #99bbff,
+      1811px 939px #bbddff,
+      542px 285px #bbddff,
+      1525px 538px #aaddff,
+      877px 817px #88aaff,
+      449px 283px #aaddff,
+      1010px 186px #aaccff,
+      1763px 224px #bbddff,
+      1285px 327px #99bbff,
+      1221px 130px #99bbff,
+      781px 958px #aaddff,
+      514px 23px #aaccff,
+      1396px 546px #88aaff,
+      228px 601px #99bbff,
+      323px 929px #aaccff,
+      1478px 539px #aaddff,
+      1560px 365px #aaddff,
+      1869px 217px #88aaff,
+      1723px 1039px #aaddff,
+      407px 313px #88aaff,
+      1561px 330px #aaddff,
+      1594px 1px #aaddff,
+      663px 1000px #aaccff,
+      229px 743px #88aaff,
+      490px 118px #bbddff,
+      1798px 161px #aaccff,
+      1498px 995px #aaccff,
+      1557px 257px #bbddff,
+      1351px 973px #aaddff,
+      338px 542px #aaddff,
+      1786px 866px #bbddff,
+      1104px 411px #88aaff,
+      817px 764px #99bbff,
+      1842px 924px #aaccff,
+      507px 460px #aaccff,
+      692px 43px #aaddff,
+      1134px 471px #aaddff,
+      451px 14px #aaccff,
+      1449px 120px #bbddff,
+      138px 64px #88aaff,
+      145px 487px #88aaff,
+      1370px 994px #bbddff,
+      1104px 270px #aaddff,
+      1180px 968px #bbddff,
+      1606px 968px #99bbff,
+      389px 193px #aaccff,
+      1349px 882px #88aaff,
+      867px 841px #99bbff,
+      1769px 110px #aaccff,
+      124px 824px #88aaff,
+      1639px 223px #bbddff,
+      392px 389px #aaddff,
+      918px 287px #99bbff,
+      375px 570px #99bbff,
+      511px 154px #99bbff,
+      1654px 200px #aaccff,
+      1335px 30px #aaccff,
+      1897px 484px #bbddff,
+      832px 994px #99bbff,
+      437px 821px #aaccff,
+      337px 776px #aaccff,
+      799px 543px #99bbff,
+      584px 866px #aaddff,
+      1355px 996px #bbddff,
+      388px 607px #bbddff,
+      119px 124px #88aaff,
+      117px 102px #aaddff,
+      976px 1029px #aaddff,
+      322px 116px #aaddff,
+      164px 380px #aaccff,
+      1218px 139px #bbddff,
+      826px 245px #aaddff,
+      504px 81px #aaddff,
+      167px 858px #aaddff,
+      1157px 647px #88aaff,
+      418px 643px #bbddff,
+      543px 810px #bbddff,
+      1375px 614px #99bbff,
+      647px 148px #aaccff,
+      938px 204px #aaccff,
+      1101px 436px #aaddff,
+      543px 271px #88aaff,
+      1804px 140px #bbddff,
+      756px 583px #bbddff,
+      897px 619px #aaddff,
+      1652px 16px #aaddff,
+      613px 212px #bbddff;
+  }
+
+  /* Layer 2: Tiny white stars — abundant, varied twinkle */
+  .star-white {
+    width:1px; height:1px; background:transparent; box-shadow:
+      541px 236px #ffffff,
+      1520px 318px #f0f0ff,
+      577px 431px #f0f0ff,
+      416px 540px #fffafa,
+      1000px 514px #ffffff,
+      189px 867px #f0f0ff,
+      90px 7px #f0f0ff,
+      1579px 267px #f0f0ff,
+      330px 904px #fffafa,
+      1445px 875px #fffafa,
+      19px 229px #ffffff,
+      1808px 305px #fffafa,
+      73px 756px #fffafa,
+      1131px 303px #ddddee,
+      261px 85px #f0f0ff,
+      746px 81px #f0f0ff,
+      430px 511px #ffffff,
+      724px 832px #fffafa,
+      1534px 316px #eeeedd,
+      1770px 332px #eeeedd,
+      1805px 844px #ffffff,
+      367px 680px #ddddee,
+      1642px 508px #f0f0ff,
+      326px 221px #ddddee,
+      1786px 79px #ddddee,
+      455px 408px #ddddee,
+      716px 625px #eeeedd,
+      456px 48px #eeeedd,
+      816px 672px #f0f0ff,
+      1770px 142px #f0f0ff,
+      719px 1043px #ddddee,
+      1391px 678px #ffffff,
+      236px 534px #eeeedd,
+      1189px 543px #ffffff,
+      222px 889px #f0f0ff,
+      1492px 642px #ddddee,
+      1241px 1047px #ffffff,
+      788px 389px #f0f0ff,
+      90px 893px #ffffff,
+      1064px 403px #f0f0ff,
+      883px 143px #f0f0ff,
+      1276px 642px #ffffff,
+      1474px 615px #fffafa,
+      633px 836px #f0f0ff,
+      824px 605px #fffafa,
+      260px 392px #ddddee,
+      1361px 776px #eeeedd,
+      1260px 616px #ddddee,
+      1122px 0px #f0f0ff,
+      587px 430px #ddddee,
+      1609px 659px #ddddee,
+      904px 905px #eeeedd,
+      1046px 969px #eeeedd,
+      1349px 173px #f0f0ff,
+      1055px 686px #ffffff,
+      1676px 481px #f0f0ff,
+      460px 407px #eeeedd,
+      50px 94px #eeeedd,
+      973px 149px #ddddee,
+      848px 398px #ddddee,
+      1012px 818px #eeeedd,
+      302px 11px #ffffff,
+      1594px 870px #eeeedd,
+      360px 951px #ffffff,
+      1141px 510px #ffffff,
+      934px 273px #ddddee,
+      1367px 649px #ddddee,
+      1254px 1033px #ddddee,
+      1701px 913px #eeeedd,
+      1523px 972px #ddddee,
+      530px 506px #f0f0ff,
+      1568px 992px #eeeedd,
+      562px 900px #ffffff,
+      1461px 585px #eeeedd,
+      556px 687px #f0f0ff,
+      1828px 165px #eeeedd,
+      308px 473px #ddddee,
+      1421px 312px #eeeedd,
+      131px 849px #ddddee,
+      677px 954px #ddddee,
+      127px 423px #ddddee,
+      797px 40px #fffafa,
+      779px 976px #ffffff,
+      720px 611px #ddddee,
+      1747px 858px #fffafa,
+      1530px 451px #ddddee,
+      449px 558px #ddddee,
+      994px 59px #ddddee,
+      688px 828px #eeeedd,
+      1721px 957px #eeeedd,
+      1274px 55px #ddddee,
+      1212px 55px #ffffff,
+      1316px 877px #eeeedd,
+      1775px 945px #eeeedd,
+      102px 532px #ddddee,
+      670px 433px #ddddee,
+      669px 691px #ddddee,
+      569px 863px #f0f0ff,
+      1709px 167px #ddddee,
+      39px 106px #f0f0ff,
+      459px 140px #ffffff,
+      1544px 63px #eeeedd,
+      408px 41px #fffafa,
+      312px 488px #eeeedd,
+      969px 234px #fffafa,
+      446px 952px #f0f0ff,
+      1570px 755px #eeeedd,
+      1240px 234px #eeeedd,
+      637px 221px #fffafa,
+      52px 638px #fffafa,
+      1387px 768px #ddddee,
+      1464px 406px #ffffff,
+      1212px 497px #ffffff,
+      1427px 617px #fffafa,
+      1649px 247px #fffafa,
+      1602px 84px #f0f0ff,
+      1091px 877px #f0f0ff,
+      141px 1036px #f0f0ff,
+      25px 860px #ddddee,
+      216px 887px #f0f0ff,
+      1301px 941px #eeeedd,
+      891px 360px #fffafa,
+      1332px 553px #fffafa,
+      1655px 990px #ddddee,
+      892px 549px #f0f0ff,
+      1744px 502px #ffffff,
+      571px 923px #eeeedd,
+      1536px 951px #fffafa,
+      1249px 776px #f0f0ff,
+      58px 1012px #f0f0ff;
+  }
+
+  /* Layer 3: Medium yellow-white stars */
+  .star-yellow {
+    width:2px; height:2px; background:transparent; filter:drop-shadow(0 0 2px rgba(255,220,80,0.2)); box-shadow:
+      372px 998px #ffeebb,
+      726px 529px #ffcc66,
+      572px 565px #ffe4a0,
+      20px 391px #ffdd88,
+      494px 832px #eedd99,
+      1137px 492px #eedd99,
+      1322px 1005px #eedd99,
+      1623px 35px #ffdd88,
+      602px 453px #eedd99,
+      1416px 498px #ffcc66,
+      1359px 755px #eedd99,
+      1133px 704px #eedd99,
+      1527px 677px #ffcc66,
+      1439px 929px #ffcc66,
+      627px 514px #ffeebb,
+      247px 394px #ffcc66,
+      244px 379px #ffeebb,
+      443px 991px #ffcc66,
+      1483px 579px #ffdd88,
+      1705px 397px #ffcc66,
+      465px 739px #ffeebb,
+      619px 28px #ffe4a0,
+      259px 561px #ffdd88,
+      111px 598px #ffeebb,
+      1306px 1005px #ffdd88,
+      1787px 25px #ffe4a0,
+      582px 961px #eedd99,
+      902px 697px #ffeebb,
+      105px 517px #eedd99,
+      233px 133px #eedd99,
+      1007px 151px #ffe4a0,
+      1289px 109px #ffeebb,
+      305px 622px #ffdd88,
+      508px 242px #ffe4a0,
+      1565px 852px #ffe4a0,
+      1220px 462px #ffe4a0,
+      779px 922px #eedd99,
+      608px 878px #ffcc66,
+      1164px 123px #ffe4a0,
+      1515px 203px #ffeebb,
+      1281px 432px #ffcc66,
+      1352px 166px #ffeebb,
+      491px 355px #ffe4a0,
+      153px 320px #ffdd88,
+      836px 922px #ffe4a0,
+      962px 596px #ffdd88,
+      474px 590px #ffcc66,
+      1439px 929px #ffdd88,
+      1407px 478px #ffcc66,
+      1613px 405px #eedd99,
+      235px 460px #ffeebb,
+      1860px 544px #ffeebb,
+      146px 122px #ffeebb,
+      1623px 629px #ffe4a0,
+      1533px 591px #eedd99,
+      254px 959px #ffcc66,
+      1433px 824px #ffcc66,
+      1024px 1011px #eedd99,
+      164px 81px #eedd99,
+      1504px 660px #ffe4a0;
+  }
+
+  /* Layer 4: Medium orange stars */
+  .star-orange {
+    width:2px; height:2px; background:transparent; filter:drop-shadow(0 0 2px rgba(255,140,60,0.2)); box-shadow:
+      512px 52px #ffaa44,
+      468px 42px #ff9933,
+      1180px 82px #ff8833,
+      963px 905px #ff9933,
+      371px 892px #ee7722,
+      186px 962px #ff9933,
+      836px 682px #ff9933,
+      1372px 214px #ff8833,
+      675px 843px #ee7722,
+      590px 820px #ffaa55,
+      75px 931px #ffaa44,
+      644px 516px #ff9933,
+      237px 827px #ffaa55,
+      1689px 2px #ffaa55,
+      946px 846px #ffaa44,
+      384px 740px #ffaa55,
+      1549px 1020px #ee7722,
+      1556px 105px #ff8833,
+      546px 268px #ff9933,
+      897px 992px #ffaa44,
+      59px 490px #ff8833,
+      636px 28px #ffaa55,
+      835px 190px #ff8833,
+      1723px 232px #ee7722,
+      240px 315px #ee7722,
+      1467px 597px #ffaa55,
+      1444px 559px #ee7722,
+      1709px 988px #ee7722,
+      499px 935px #ffaa55,
+      296px 785px #ff8833,
+      1887px 1040px #ff8833,
+      1769px 142px #ff9933,
+      1582px 849px #ff9933,
+      1613px 1039px #ff9933,
+      1680px 5px #ff9933,
+      1486px 611px #ffaa55,
+      1187px 1002px #ff8833,
+      914px 991px #ff9933,
+      680px 772px #ee7722,
+      659px 386px #ff8833,
+      1171px 784px #ff8833,
+      1753px 841px #ffaa44,
+      651px 968px #ee7722,
+      790px 311px #ee7722,
+      75px 258px #ffaa55;
+  }
+
+  /* Layer 5: Large bright stars — mix of colors */
+  .star-bright {
+    width:3px; height:3px; background:transparent; filter:drop-shadow(0 0 3px rgba(255,255,255,0.3)); box-shadow:
+      1208px 679px #ffdd88,
+      1790px 901px #ffdd88,
+      1077px 935px #ffffff,
+      1479px 295px #88aaff,
+      1783px 316px #ffdd88,
+      961px 542px #ffcc66,
+      1276px 814px #ffdd88,
+      1744px 672px #88aaff,
+      648px 999px #ffffff,
+      1264px 140px #ffaa44,
+      1292px 588px #ffaa44,
+      1529px 185px #88aaff,
+      201px 205px #ffeebb,
+      340px 613px #ffffff,
+      94px 664px #ffffff,
+      600px 734px #ffcc66,
+      882px 298px #ffaa44,
+      1087px 843px #aaccff,
+      348px 358px #ffdd88,
+      1248px 783px #ffaa44,
+      1019px 293px #ffaa44,
+      944px 520px #ffeebb,
+      522px 19px #ffeebb,
+      1845px 589px #aaccff,
+      151px 904px #ffcc66,
+      1203px 612px #88aaff,
+      1413px 512px #ffeebb,
+      1731px 618px #ffaa44,
+      787px 989px #ffdd88,
+      485px 781px #ffcc66;
+  }
+
+  /* Ensure content is above stars */
+  .container, .toc, .footer { position: relative; z-index: 2; }
+  .hero { position: relative; z-index: 2; overflow: hidden; }
+
+  /* Hero */
+  .hero {
+    min-height: 70vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 2rem 1.5rem;
+    background: linear-gradient(135deg, rgba(10,14,26,0.85) 0%, rgba(18,24,43,0.85) 40%, rgba(26,16,48,0.85) 70%, rgba(10,14,26,0.85) 100%);
+  }
+  .hero::before {
+    content: '';
+    position: absolute;
+    width: 600px;
+    height: 600px;
+    background: radial-gradient(circle, rgba(124,140,240,0.08) 0%, transparent 70%);
+    top: -200px;
+    right: -200px;
+    pointer-events: none;
+  }
+  .hero::after {
+    content: '';
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    background: radial-gradient(circle, rgba(240,168,124,0.06) 0%, transparent 70%);
+    bottom: -100px;
+    left: -100px;
+    pointer-events: none;
+  }
+  .hero h1 {
+    font-size: clamp(2rem, 6vw, 3.5rem);
+    font-weight: 800;
+    background: linear-gradient(135deg, var(--accent), var(--accent3));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-bottom: 0.5rem;
+    position: relative;
+    z-index: 1;
+    text-shadow: 0 0 40px rgba(124,140,240,0.2), 0 0 80px rgba(124,140,240,0.1);
+  }
+  .hero .subtitle {
+    font-size: clamp(1rem, 2.5vw, 1.3rem);
+    color: var(--text2);
+    max-width: 600px;
+    margin: 0.5rem auto 1.5rem;
+    position: relative;
+    z-index: 1;
+  }
+  .hero .author {
+    font-size: 1rem;
+    color: var(--accent2);
+    position: relative;
+    z-index: 1;
+  }
+  .hero .meta {
+    font-size: 0.85rem;
+    color: var(--text2);
+    margin-top: 1rem;
+    position: relative;
+    z-index: 1;
+  }
+  .hero .meta span { display: inline-block; margin: 0 0.5rem; }
+
+  /* Container */
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+  }
+
+  /* TOC */
+  .toc {
+    margin: 3rem auto;
+    max-width: 800px;
+    padding: 0 1.5rem;
+  }
+  .toc h2 {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--accent);
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+  }
+  .toc-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 0.5rem;
+  }
+  .toc-item {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    padding: 0.6rem 0.9rem;
+    background: rgba(18,24,43,0.82);
+    backdrop-filter: blur(2px);
+    -webkit-backdrop-filter: blur(2px);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    text-decoration: none;
+    color: var(--text);
+    font-size: 0.9rem;
+    transition: all 0.2s;
+  }
+  .toc-item:hover {
+    background: var(--surface2);
+    border-color: var(--accent);
+    transform: translateY(-1px);
+  }
+  .toc-num {
+    color: var(--accent);
+    font-weight: 700;
+    font-size: 0.8rem;
+    min-width: 1.6rem;
+    text-align: right;
+  }
+
+  /* Sections */
+  .section {
+    margin: 3rem 0;
+    padding: 2rem 1.5rem;
+    background: rgba(18,24,43,0.88);
+    backdrop-filter: blur(2px);
+    -webkit-backdrop-filter: blur(2px);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .section-header {
+    display: flex;
+    align-items: center;
+    gap: 0.8rem;
+    margin-bottom: 1rem;
+  }
+  .section-num {
+    background: var(--accent);
+    color: #fff;
+    font-weight: 700;
+    font-size: 0.75rem;
+    padding: 0.2rem 0.6rem;
+    border-radius: 4px;
+    white-space: nowrap;
+  }
+  .section h2 {
+    font-size: 1.2rem;
+    font-weight: 700;
+  }
+  .section h3 {
+    font-size: 1rem;
+    font-weight: 600;
+    color: var(--accent3);
+    margin: 1.2rem 0 0.4rem;
+  }
+  .section p {
+    margin: 0.6rem 0;
+    color: var(--text);
+    font-size: 0.95rem;
+  }
+
+  /* Quotes */
+  .quote {
+    margin: 1.2rem 0;
+    padding: 1.2rem 1.2rem 1.2rem 1.8rem;
+    border-left: 3px solid var(--accent2);
+    background: rgba(240,168,124,0.06);
+    backdrop-filter: blur(2px);
+    -webkit-backdrop-filter: blur(2px);
+    border-radius: 0 var(--radius) var(--radius) 0;
+    font-style: italic;
+    color: var(--accent2);
+    font-size: 0.95rem;
+  }
+  .quote .attribution {
+    display: block;
+    margin-top: 0.4rem;
+    font-style: normal;
+    font-size: 0.8rem;
+    color: var(--text2);
+  }
+
+  /* Concept Cards */
+  .concept-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 1rem;
+    margin: 1.2rem 0;
+  }
+  .concept-card {
+    background: rgba(26,34,64,0.8);
+    backdrop-filter: blur(2px);
+    -webkit-backdrop-filter: blur(2px);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1.2rem;
+    transition: all 0.2s;
+  }
+  .concept-card:hover {
+    border-color: var(--accent);
+    transform: translateY(-2px);
+  }
+  .concept-card h4 {
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--accent);
+    margin-bottom: 0.3rem;
+  }
+  .concept-card p {
+    font-size: 0.85rem;
+    color: var(--text2);
+    margin: 0;
+    line-height: 1.5;
+  }
+
+  /* Timeline */
+  .timeline {
+    position: relative;
+    padding-left: 2rem;
+    margin: 1.5rem 0;
+  }
+  .timeline::before {
+    content: '';
+    position: absolute;
+    left: 0.5rem;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: linear-gradient(to bottom, var(--accent), var(--accent3));
+  }
+  .timeline-item {
+    position: relative;
+    margin-bottom: 1.2rem;
+    padding: 0.6rem 0.8rem;
+    background: rgba(18,24,43,0.6);
+    backdrop-filter: blur(2px);
+    -webkit-backdrop-filter: blur(2px);
+    border-radius: 8px;
+    border: 1px solid rgba(42,48,80,0.4);
+  }
+  .timeline-item::before {
+    content: '';
+    position: absolute;
+    left: -1.7rem;
+    top: 0.5rem;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: var(--accent);
+    border: 2px solid var(--bg);
+  }
+  .timeline-item .year {
+    font-weight: 700;
+    color: var(--accent);
+    font-size: 0.8rem;
+    display: block;
+  }
+  .timeline-item p {
+    margin: 0.2rem 0;
+    font-size: 0.9rem;
+  }
+
+  /* Key Figures */
+  .figures {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 1rem;
+    margin: 1.2rem 0;
+  }
+  .figure-card {
+    background: rgba(26,34,64,0.8);
+    backdrop-filter: blur(2px);
+    -webkit-backdrop-filter: blur(2px);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    padding: 1rem;
+    text-align: center;
+  }
+  .figure-card .name {
+    font-weight: 700;
+    color: var(--accent);
+    font-size: 0.9rem;
+  }
+  .figure-card .role {
+    font-size: 0.8rem;
+    color: var(--text2);
+    margin-top: 0.2rem;
+  }
+
+  /* Numbers */
+  .big-numbers {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 1rem;
+    margin: 1.5rem 0;
+  }
+  .big-num {
+    text-align: center;
+    padding: 1.2rem 0.8rem;
+    background: rgba(26,34,64,0.8);
+    backdrop-filter: blur(2px);
+    -webkit-backdrop-filter: blur(2px);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+  }
+  .big-num .num {
+    font-size: 1.6rem;
+    font-weight: 800;
+    color: var(--accent3);
+  }
+  .big-num .label {
+    font-size: 0.8rem;
+    color: var(--text2);
+    margin-top: 0.2rem;
+  }
+
+  /* Divider */
+  .divider {
+    height: 1px;
+    background: linear-gradient(90deg, transparent, var(--border), transparent);
+    margin: 3rem auto;
+    max-width: 400px;
+  }
+
+  /* Footer */
+  .footer {
+    text-align: center;
+    padding: 3rem 1.5rem;
+    color: var(--text2);
+    font-size: 0.85rem;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  @media (max-width: 600px) {
+    .section { padding: 1.5rem 1rem; }
+    .concept-grid { grid-template-columns: 1fr; }
+    .figures { grid-template-columns: repeat(2, 1fr); }
+    .big-numbers { grid-template-columns: repeat(2, 1fr); }
+    .toc-grid { grid-template-columns: 1fr; }
+    .hero { min-height: 60vh; padding: 2rem 1rem; }
+  }
+</style>
+</head>
+<body>
+  <!-- Starfield layers -->
+  <div class="star-blue" aria-hidden="true"></div>
+  <div class="star-white" aria-hidden="true"></div>
+  <div class="star-yellow" aria-hidden="true"></div>
+  <div class="star-orange" aria-hidden="true"></div>
+  <div class="star-bright" aria-hidden="true"></div>
+
+<!-- HERO -->
+<header class="hero">
+  <h1>Un universo de la nada</h1>
+  <p class="subtitle">¿Por qué hay algo en vez de nada?</p>
+  <p class="author">Lawrence M. Krauss</p>
+  <p class="meta">
+    <span>📖 2012 · Ed. Pasado &amp; Presente</span>
+    <span>✍️ Postfacio de Richard Dawkins</span>
+  </p>
+</header>
+
+<div class="toc">
+  <h2>⸻ Contenido</h2>
+  <div class="toc-grid">
+    <a href="#prefacio" class="toc-item"><span class="toc-num">00</span>Prefacio</a>
+    <a href="#cap1" class="toc-item"><span class="toc-num">01</span>Un relato de misterio cósmico: el principio</a>
+    <a href="#cap2" class="toc-item"><span class="toc-num">02</span>Pesar el universo</a>
+    <a href="#cap3" class="toc-item"><span class="toc-num">03</span>Luz del principio de los tiempos</a>
+    <a href="#cap4" class="toc-item"><span class="toc-num">04</span>Mucho ruido por nada</a>
+    <a href="#cap5" class="toc-item"><span class="toc-num">05</span>El universo desenfrenado</a>
+    <a href="#cap6" class="toc-item"><span class="toc-num">06</span>Regalos a cambio de nada</a>
+    <a href="#cap7" class="toc-item"><span class="toc-num">07</span>Nuestro deprimente futuro</a>
+    <a href="#cap8" class="toc-item"><span class="toc-num">08</span>¿Accidente magnífico?</a>
+    <a href="#cap9" class="toc-item"><span class="toc-num">09</span>Nada es algo</a>
+    <a href="#cap10" class="toc-item"><span class="toc-num">10</span>La nada es inestable</a>
+    <a href="#cap11" class="toc-item"><span class="toc-num">11</span>Mundos felices</a>
+    <a href="#epilogo" class="toc-item"><span class="toc-num">—</span>Epílogo &amp; Postfacio</a>
+    <a href="#conceptos" class="toc-item"><span class="toc-num">✦</span>Conceptos clave</a>
+    <a href="#cronologia" class="toc-item"><span class="toc-num">◈</span>Cronología</a>
+  </div>
+</div>
+
+<div class="container">
+
+<!-- PREFACIO -->
+<section class="section" id="prefacio">
+  <div class="section-header">
+    <span class="section-num">Prefacio</span>
+    <h2>La pregunta fundamental</h2>
+  </div>
+  <p>Krauss arranca con una confesión franca: no siente ninguna cercanía con la idea de que la creación requiera un creador. Copos de nieve y arcoíris surgen espontáneamente de leyes físicas simples — nadie sugiere que un dios los fabrique uno por uno. ¿Por qué habría de ser distinto con el universo entero?</p>
+  <p>La pregunta «¿quién creó al creador?» es la trampa clásica de toda Causa Primera. Krauss declara su objetivo desde la primera página: mostrar que la nada es <strong>inherentemente inestable</strong>, y que el universo <em>pudo</em> surgir de la nada por procesos puramente físicos, sin necesidad de ningún agente externo.</p>
+</section>
+
+<!-- CAP 1 -->
+<section class="section" id="cap1">
+  <div class="section-header">
+    <span class="section-num">01</span>
+    <h2>Un relato de misterio cósmico: el principio</h2>
+  </div>
+  <p>En 1916 Einstein completa la relatividad general. Descubre que sus ecuaciones describen un universo dinámico — se expande o se contrae— pero él, convencido de que el universo es estático, se inventa la <strong>constante cosmológica</strong>: una fuerza repulsiva que contrarresta la gravedad y mantiene todo en su sitio.</p>
+  <p>En 1929, Edwin Hubble descubre que las galaxias se alejan unas de otras: el universo se expande. Einstein llama a su constante cosmológica «el mayor error de mi vida». Nace el Big Bang. Pero queda una pregunta incómoda: si el universo se expande hoy, en el pasado estuvo más comprimido... hasta un punto inicial.</p>
+  <div class="quote">
+    «En la teoría de Einstein [...] la gravedad es una fuerza de pura atracción. Esto significa que es imposible tener un conjunto de masas en reposo perpetuo: su atracción gravitatoria mutua terminará provocando que colapsen hacia el interior.»
+    <span class="attribution">— Lawrence M. Krauss</span>
+  </div>
+  <p><strong>Clave:</strong> El universo <em>tuvo</em> un principio. No es eterno ni estático. La cosmología pasa de ser filosofía a ser ciencia medible.</p>
+</section>
+
+<!-- CAP 2 -->
+<section class="section" id="cap2">
+  <div class="section-header">
+    <span class="section-num">02</span>
+    <h2>Un relato de misterio cósmico: pesar el universo</h2>
+  </div>
+  <p>De la pregunta «¿cómo empezó?» pasamos a «¿cómo terminará?». La respuesta depende de cuánta masa tiene el universo. Si tiene suficiente, la gravedad frenará la expansión y todo colapsará en un Big Crunch. Si no, se expandirá para siempre.</p>
+  <p>Vera Rubin, pionera ignorada por Princeton (no aceptaban mujeres hasta 1975), mide la velocidad de rotación de las galaxias. Descubre algo alucinante: las estrellas en los bordes de las galaxias giran tan rápido como las del centro. Según la física newtoniana, deberían salir despedidas. Algo las retiene.</p>
+  <p>Ese algo es <strong>materia oscura</strong> — materia que no vemos pero cuya gravedad sentimos. Hay <strong>10 veces más materia oscura que materia visible</strong>. Pero ni siquiera toda esa materia suma suficiente densidad para hacer el universo plano.</p>
+</section>
+
+<!-- CAP 3 -->
+<section class="section" id="cap3">
+  <div class="section-header">
+    <span class="section-num">03</span>
+    <h2>Luz del principio de los tiempos</h2>
+  </div>
+  <p>Medir la geometría del universo es el desafío. ¿Es plano como una hoja (en 3D), o curvo como un globo? El truco: usar el <strong>fondo cósmico de microondas</strong> (CMB) — la luz fósil del Big Bang.</p>
+  <p>El satélite WMAP (2003) mapea las fluctuaciones de temperatura del CMB con precisión asombrosa. El resultado: el universo es <strong>plano</strong>, con una precisión del ~0.5%. Pero para que sea plano, hace falta una densidad crítica de materia/energía. La materia visible + oscura solo cubre el ~30%. ¿Dónde está el 70% restante?</p>
+  <div class="big-numbers">
+    <div class="big-num"><span class="num">~5%</span><div class="label">Materia visible (átomos)</div></div>
+    <div class="big-num"><span class="num">~25%</span><div class="label">Materia oscura</div></div>
+    <div class="big-num"><span class="num">~70%</span><div class="label">Energía oscura ⬤</div></div>
+  </div>
+  <p>La energía que falta no está en las galaxias, ni en los cúmulos, ni en ninguna forma de materia. Está en el <strong>espacio vacío</strong> mismo.</p>
+</section>
+
+<!-- CAP 4 -->
+<section class="section" id="cap4">
+  <div class="section-header">
+    <span class="section-num">04</span>
+    <h2>Mucho ruido por nada</h2>
+  </div>
+  <p>En 1998, dos equipos independientes (Perlmutter, Riess, Schmidt) miden supernovas lejanas para ver cómo la expansión del universo ha cambiado con el tiempo. Esperaban encontrar que la expansión se frena (por la gravedad). Encontraron lo contrario: <strong>la expansión se acelera</strong>.</p>
+  <p>Algo empuja al universo a expandirse cada vez más rápido. Ese algo es la <strong>energía oscura</strong> — la energía inherente al espacio vacío. Es la constante cosmológica de Einstein, resucitada. Y domina el universo.</p>
+  <div class="quote">
+    «La energía del espacio vacío no solo no es cero, sino que toma un valor que es 120 órdenes de magnitud menor que el cálculo basado en la física de partículas.»
+    <span class="attribution">— Lawrence M. Krauss</span>
+  </div>
+  <p><strong>La peor predicción de la física:</strong> los cálculos teóricos predicen un valor de energía del vacío 10<sup>120</sup> veces mayor que el observado. Es el mayor desajuste entre teoría y observación en la historia de la ciencia.</p>
+</section>
+
+<!-- CAP 5 -->
+<section class="section" id="cap5">
+  <div class="section-header">
+    <span class="section-num">05</span>
+    <h2>El universo desenfrenado</h2>
+  </div>
+  <p>Krauss y Michael Turner proponen en 1995 una herejía: el universo es plano (intuición teórica), con ~30% de materia oscura y el ~70% restante... en el espacio vacío. Nadie se lo toma en serio. Hasta que las supernovas de 1998 demuestran que tenían razón.</p>
+  <p>Pero el valor de la energía oscura sigue siendo un misterio descorazonador. Los físicos cuánticos calculan que la energía del vacío debería ser enorme (efectos de partículas virtuales a escalas de Planck). El hecho de que sea casi cero —pero no exactamente cero— requiere un ajuste de 120 órdenes de magnitud.</p>
+  <p>Es como si hubieras dejado caer un lápiz y estuviera perfectamente equilibrado sobre su punta durante miles de millones de años. Eso no es natural.</p>
+</section>
+
+<!-- CAP 6 -->
+<section class="section" id="cap6">
+  <div class="section-header">
+    <span class="section-num">06</span>
+    <h2>Regalos a cambio de nada</h2>
+  </div>
+  <p>La <strong>inflación cósmica</strong> (Alan Guth, 1981): una fracción de segundo después del Big Bang, el universo experimentó una expansión exponencial, duplicando su tamaño cada 10<sup>-34</sup> segundos. En un instante, una región microscópica se estiró hasta escalas astronómicas.</p>
+  <p>Esta idea, loca en su momento, explicaba tres problemas clave:</p>
+  <div class="concept-grid">
+    <div class="concept-card">
+      <h4>🌡️ Uniformidad</h4>
+      <p>Por qué el CMB tiene la misma temperatura en todo el cielo — regiones que nunca estuvieron en contacto térmico.</p>
+    </div>
+    <div class="concept-card">
+      <h4>📐 Planitud</h4>
+      <p>Por qué el universo es tan cercanamente plano — la inflación estiró cualquier curvatura hasta hacerla indetectable.</p>
+    </div>
+    <div class="concept-card">
+      <h4>🌀 Semillas</h4>
+      <p>Las fluctuaciones cuánticas durante la inflación se estiraron a escalas macroscópicas, dando origen a las galaxias y estructuras.</p>
+    </div>
+  </div>
+  <p>Lo más extraordinario: la inflación es un mecanismo por el cual <strong>algo enorme y complejo surge de una región casi infinitesimal</strong>. Es un primer vistazo de cómo «algo» puede venir «de nada».</p>
+</section>
+
+<!-- CAP 7 -->
+<section class="section" id="cap7">
+  <div class="section-header">
+    <span class="section-num">07</span>
+    <h2>Nuestro deprimente futuro</h2>
+  </div>
+  <p>La expansión acelerada tiene consecuencias sombrías. Las galaxias se alejan cada vez más rápido. Eventualmente, se mueven más rápido que la luz (por la expansión del espacio mismo, no por movimiento real) y desaparecen de nuestro horizonte visible.</p>
+  <p><strong>Dentro de billones de años:</strong></p>
+  <div class="timeline">
+    <div class="timeline-item">
+      <span class="year">~2,000 millones de años</span>
+      <p>El grupo local (Vía Láctea + Andrómeda) se fusiona en una galaxia elíptica gigante.</p>
+    </div>
+    <div class="timeline-item">
+      <span class="year">~100,000 millones de años</span>
+      <p>Todas las galaxias fuera del grupo local desaparecen del horizonte. El cielo se vuelve negro y vacío.</p>
+    </div>
+    <div class="timeline-item">
+      <span class="year">~1 billón de años</span>
+      <p>La expansión acelera tanto que incluso nuestra galaxia se desgarra (Big Rip, si la energía oscura crece).</p>
+    </div>
+    <div class="timeline-item">
+      <span class="year">~10<sup>100</sup> años</span>
+      <p>Los agujeros negros se evaporan por radiación de Hawking. El universo se vuelve frío, oscuro y vacío.</p>
+    </div>
+  </div>
+  <div class="quote">
+    «Todas las estructuras que podemos ver, como las estrellas y las galaxias, fueron creadas por fluctuaciones cuánticas de la nada. Y el promedio total de energía gravitacional newtoniana de todos los objetos de nuestro universo es igual a nada. Disfrute usted de esta idea mientras pueda.»
+    <span class="attribution">— Lawrence M. Krauss</span>
+  </div>
+  <p>Ironía cósmica: vivimos en el mejor momento para la cosmología. Dentro de unos pocos miles de millones de años, los futuros astrónomos no tendrán evidencia alguna del Big Bang — todas las galaxias habrán desaparecido del cielo.</p>
+</section>
+
+<!-- CAP 8 -->
+<section class="section" id="cap8">
+  <div class="section-header">
+    <span class="section-num">08</span>
+    <h2>¿Accidente magnífico?</h2>
+  </div>
+  <p>Si las constantes del universo fueran ligeramente distintas, no existiríamos. La gravedad es increíblemente débil comparada con las otras fuerzas. La masa del protón es precisamente la adecuada. El valor de la energía oscura es misteriosamente pequeño.</p>
+  <p>Hay dos explicaciones posibles:</p>
+  <div class="concept-grid">
+    <div class="concept-card">
+      <h4>🎯 Propósito divino</h4>
+      <p>Las constantes fueron elegidas por un creador para permitir la vida. El argumento del «Diseño Inteligente».</p>
+    </div>
+    <div class="concept-card">
+      <h4>📊 <strong>Principio antrópico</strong></h4>
+      <p>Existen infinitos universos con distintas constantes. Nosotros vivimos en uno donde las constantes permiten la vida simplemente porque... si no, no estaríamos aquí para preguntarlo.</p>
+    </div>
+  </div>
+  <p>Krauss se inclina por la segunda, pero no como una respuesta definitiva — más bien como una consecuencia inevitable si el multiverso es real. Y la <strong>inflación eterna</strong> sugiere precisamente eso: un universo en constante expansión que produce infinitos universos burbuja.</p>
+</section>
+
+<!-- CAP 9 -->
+<section class="section" id="cap9">
+  <div class="section-header">
+    <span class="section-num">09</span>
+    <h2>Nada es algo</h2>
+  </div>
+  <p>Newton demostró que el universo entero podía ser explicado por leyes naturales. Esto fue revolucionario: quitó el capricho divino de la ecuación. Pero quedaba la pregunta de quién puso las leyes.</p>
+  <p>Krauss argumenta que la física cuántica disuelve la distinción entre «algo» y «nada». El vacío cuántico no es un vacío absoluto:</p>
+  <ul style="color: var(--text2); font-size: 0.9rem; margin: 0.8rem 0 0.8rem 1.5rem; line-height: 1.8;">
+    <li><strong>Partículas virtuales</strong> — pares partícula-antipartícula que aparecen y desaparecen constantemente.</li>
+    <li><strong>Campos cuánticos</strong> — incluso en su estado de mínima energía, los campos tienen energía de punto cero.</li>
+    <li><strong>Efecto Casimir</strong> — dos placas metálicas cercanas se atraen por la presión del vacío cuántico. Es medible en laboratorio. La «nada» ejerce presión física.</li>
+  </ul>
+  <div class="quote">
+    «En tanto nadie mire, todo vale. Los sistemas continúan moviéndose, aunque sea solo momentáneamente, entre todos los estados posibles, incluidos estados que no se permitirían si el sistema estuviera siendo objeto de mediciones.»
+    <span class="attribution">— Lawrence M. Krauss (sobre la mecánica cuántica)</span>
+  </div>
+</section>
+
+<!-- CAP 10 -->
+<section class="section" id="cap10">
+  <div class="section-header">
+    <span class="section-num">10</span>
+    <h2>La nada es inestable</h2>
+  </div>
+  <p>Este es el corazón del libro. La idea central: <strong>la nada no es estable</strong>. En mecánica cuántica, un sistema puede decaer de un estado de alta energía a uno de baja energía emitiendo el exceso. Pero si el estado de mínima energía (la «nada verdadera») no existe realmente, entonces incluso el vacío puede decaer. Las fluctuaciones cuánticas pueden crear algo a partir de nada.</p>
+  <p>Krauss describe el proceso en términos accesibles:</p>
+  <div class="concept-grid">
+    <div class="concept-card">
+      <h4>🫧 Creación espontánea</h4>
+      <p>Las fluctuaciones cuánticas pueden producir partículas que persisten si la geometría del espacio lo permite (ej: campos eléctricos, agujeros negros).</p>
+    </div>
+    <div class="concept-card">
+      <h4>⚡ Radiación de Hawking</h4>
+      <p>Los agujeros negros emiten radiación porque pares virtuales se separan en el horizonte de sucesos: una partícula escapa, la otra cae. Algo de la nada.</p>
+    </div>
+    <div class="concept-card">
+      <h4>🌌 Universo túnel</h4>
+      <p>El universo pudo surgir de la nada por efecto túnel cuántico — una transición desde «no-espacio» a espacio-tiempo. Las leyes cuánticas no necesitan un «antes».</p>
+    </div>
+  </div>
+  <p>La ecuación clave: <strong>Ω = 1</strong> (universo plano) significa que la energía total del universo es <em>exactamente cero</em>. La energía positiva de la materia se cancela con la energía negativa de la gravedad. El universo es la máxima expresión de «nada» disfrazada de todo.</p>
+  <div class="quote">
+    «La energía total del universo podría ser exactamente cero. Si es así, el universo no solo pudo surgir de la nada — <em>debió</em> surgir de la nada.»
+  </div>
+</section>
+
+<!-- CAP 11 -->
+<section class="section" id="cap11">
+  <div class="section-header">
+    <span class="section-num">11</span>
+    <h2>Mundos felices</h2>
+  </div>
+  <p>Si el universo puede surgir de la nada, ¿qué pasa con las <strong>leyes</strong> mismas? ¿De dónde vienen las reglas del juego?</p>
+  <p>Krauss plantea que quizás las leyes de la física no son eternas ni externas. En la <strong>teoría de cuerdas</strong> y el <strong>panorama del multiverso</strong>, las leyes que observamos en nuestro universo son solo una configuración local entre 10<sup>500</sup> posibilidades. No hay una ley fundamental única — hay un paisaje de posibilidades, y nosotros habitamos una de ellas.</p>
+  <p>¿Es esto una respuesta satisfactoria? Algunos dirán que no. Pero Krauss argumenta que es <em>científica</em>: si la inflación eterna genera un número suficientemente grande de universos, entonces la «selección natural cósmica» es tan inevitable como la biológica.</p>
+  <div class="quote">
+    «¿Qué pasaría si Dios decretase que la violación y el asesinato son moralmente aceptables? ¿Lo serían entonces? [...] Si Dios tiene que acabar apelando a la razón, entonces ¿por qué no eliminar del todo al intermediario?»
+    <span class="attribution">— Steven Pinker (citado por Krauss)</span>
+  </div>
+</section>
+
+<!-- EPÍLOGO -->
+<section class="section" id="epilogo">
+  <div class="section-header">
+    <span class="section-num">—</span>
+    <h2>Epílogo &amp; Postfacio de Richard Dawkins</h2>
+  </div>
+  <p>Krauss cierra con una reflexión personal: la ciencia nos ha llevado a una cúspide desde la cual podemos enfrentar las preguntas más profundas. Un universo sin propósito ni guía no es deprimente — es <strong>estimulante</strong>. El hecho de nuestra existencia, efímera y contingente, cobra más significado precisamente porque no está garantizada por un plan divino.</p>
+  <p>Nos compara con Sísifo de Camus: empujar la roca colina arriba una y otra vez, sabiendo que caerá. Y sonreír. El viaje científico contiene su propia recompensa, independientemente del resultado.</p>
+  <p>El <strong>postfacio de Dawkins</strong> es una oda al poder predictivo de la física. Mientras los teólogos especulan sobre «ángeles en cabezas de alfiler», los físicos pueden contar sus partículas con precisión de 10<sup>10</sup>. La edad del universo se conoce hasta la cuarta cifra significativa. La ciencia funciona — nos lleva a Saturno, predice el comportamiento de la materia con exactitud pasmosa. Y lo hace basándose en supuestos que parecen más increíbles que cualquier teología.</p>
+</section>
+
+<div class="divider"></div>
+
+<!-- CONCEPTOS CLAVE -->
+<section class="section" id="conceptos">
+  <div class="section-header">
+    <span class="section-num">✦</span>
+    <h2>Conceptos clave</h2>
+  </div>
+  <div class="concept-grid">
+    <div class="concept-card">
+      <h4>Inflatón</h4>
+      <p>Campo hipotético cuya energía impulsó la inflación cósmica. Su decaimiento generó todas las partículas del universo.</p>
+    </div>
+    <div class="concept-card">
+      <h4>Energía oscura</h4>
+      <p>Energía del espacio vacío que acelera la expansión del universo. Constituye el ~70% del contenido total.</p>
+    </div>
+    <div class="concept-card">
+      <h4>Materia oscura</h4>
+      <p>Materia invisible que interactúa gravitacionalmente pero no emite luz. ~25% del universo.</p>
+    </div>
+    <div class="concept-card">
+      <h4>Constante cosmológica</h4>
+      <p>Término en las ecuaciones de Einstein que representa una densidad de energía constante del vacío.</p>
+    </div>
+    <div class="concept-card">
+      <h4>Fluctuaciones cuánticas</h4>
+      <p>Variaciones temporales en la energía del vacío. Semilla de toda estructura en el universo.</p>
+    </div>
+    <div class="concept-card">
+      <h4>Principio antrópico</h4>
+      <p>Observamos un universo compatible con nuestra existencia porque si no fuera así, no estaríamos aquí para observarlo.</p>
+    </div>
+    <div class="concept-card">
+      <h4>Efecto Casimir</h4>
+      <p>Atracción entre dos placas metálicas cercanas causada por la presión del vacío cuántico. Demostración experimental de que el vacío no está vacío.</p>
+    </div>
+    <div class="concept-card">
+      <h4>Big Rip</h4>
+      <p>Escenario donde la energía oscura se intensifica y termina desgarrándolo todo, incluso átomos.</p>
+    </div>
+  </div>
+</section>
+
+<!-- CRONOLOGÍA -->
+<section class="section" id="cronologia">
+  <div class="section-header">
+    <span class="section-num">◈</span>
+    <h2>Cronología de los descubrimientos</h2>
+  </div>
+  <div class="timeline">
+    <div class="timeline-item">
+      <span class="year">1916</span>
+      <p>Einstein completa la relatividad general. Inventa la constante cosmológica para mantener el universo estático.</p>
+    </div>
+    <div class="timeline-item">
+      <span class="year">1929</span>
+      <p>Hubble descubre la expansión del universo. Einstein abandona su constante cosmológica.</p>
+    </div>
+    <div class="timeline-item">
+      <span class="year">1965</span>
+      <p>Penzias y Wilson descubren el fondo cósmico de microondas — la prueba definitiva del Big Bang.</p>
+    </div>
+    <div class="timeline-item">
+      <span class="year">1970s</span>
+      <p>Vera Rubin descubre que las galaxias rotan «mal» — evidencia de materia oscura.</p>
+    </div>
+    <div class="timeline-item">
+      <span class="year">1981</span>
+      <p>Alan Guth propone la inflación cósmica.</p>
+    </div>
+    <div class="timeline-item">
+      <span class="year">1995</span>
+      <p>Krauss y Turner proponen que el 70% del universo podría ser energía del vacío.</p>
+    </div>
+    <div class="timeline-item">
+      <span class="year">1998</span>
+      <p>Perlmutter, Riess y Schmidt descubren que la expansión se acelera. Energía oscura confirmada.</p>
+    </div>
+    <div class="timeline-item">
+      <span class="year">2003</span>
+      <p>WMAP confirma que el universo es plano y que la energía oscura domina.</p>
+    </div>
+    <div class="timeline-item">
+      <span class="year">2011</span>
+      <p>Premio Nobel a Perlmutter, Riess y Schmidt por el descubrimiento de la energía oscura.</p>
+    </div>
+  </div>
+</section>
+
+<!-- FIGURAS CLAVE -->
+<section class="section">
+  <div class="section-header">
+    <span class="section-num">✦</span>
+    <h2>Figuras clave</h2>
+  </div>
+  <div class="figures">
+    <div class="figure-card">
+      <div class="name">Albert Einstein</div>
+      <div class="role">Relatividad general · Constante cosmológica</div>
+    </div>
+    <div class="figure-card">
+      <div class="name">Edwin Hubble</div>
+      <div class="role">Expansión del universo</div>
+    </div>
+    <div class="figure-card">
+      <div class="name">Vera Rubin</div>
+      <div class="role">Materia oscura (rotación galáctica)</div>
+    </div>
+    <div class="figure-card">
+      <div class="name">Alan Guth</div>
+      <div class="role">Inflación cósmica</div>
+    </div>
+    <div class="figure-card">
+      <div class="name">Michael Turner</div>
+      <div class="role">Energía oscura (coautor con Krauss)</div>
+    </div>
+    <div class="figure-card">
+      <div class="name">Perlmutter/Riess/Schmidt</div>
+      <div class="role">Expansión acelerada (Nobel 2011)</div>
+    </div>
+    <div class="figure-card">
+      <div class="name">Richard Feynman</div>
+      <div class="role">Electrodinámica cuántica · Vacío cuántico</div>
+    </div>
+    <div class="figure-card">
+      <div class="name">Stephen Hawking</div>
+      <div class="role">Radiación de Hawking · Universo sin bordes</div>
+    </div>
+  </div>
+</section>
+
+<!-- CIERRE -->
+<section class="section" style="text-align:center; border-color: var(--accent3);">
+  <h3 style="color: var(--accent3); margin-bottom: 0.5rem;">La idea central</h3>
+  <p style="font-size: 1.1rem; line-height: 1.8;">
+    La nada es inestable.<br>
+    El universo no solo pudo surgir de la nada —<br>
+    <strong style="color: var(--accent3);">probablemente debió hacerlo</strong>.<br><br>
+    La energía total del cosmos es cero.<br>
+    Todo lo que existe es una fluctuación cuántica.<br>
+    Somos parte de la nada que, por un momento,<br>
+    aprendió a preguntarse por sí misma.
+  </p>
+</section>
+
+</div>
+
+<footer class="footer">
+  <p>Resumen generado a partir de la obra de Lawrence M. Krauss</p>
+  <p style="margin-top:0.3rem; opacity:0.5;"><em>"Un universo de la nada" · Ediciones de Pasado & Presente · 2012</em></p>
+</footer>
+
+</body>
+</html>
