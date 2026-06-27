@@ -261,7 +261,12 @@ def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description="Extrae texto de .epub o .pdf")
     parser.add_argument("query", nargs="?", help="Ruta al libro o búsqueda parcial (ej. sapiens)")
     parser.add_argument("-o", "--output", type=Path, help="Archivo de salida (default: .extracted/<slug>.txt)")
-    parser.add_argument("--search-dir", type=Path, default=Path("."), help="Directorio de búsqueda")
+    parser.add_argument(
+        "--search-dir",
+        type=Path,
+        default=Path("fuentes"),
+        help="Directorio de búsqueda (default: fuentes/)",
+    )
     parser.add_argument("--list", action="store_true", help="Listar libros en search-dir")
     parser.add_argument("--meta", action="store_true", help="Solo metadatos")
     args = parser.parse_args(argv)

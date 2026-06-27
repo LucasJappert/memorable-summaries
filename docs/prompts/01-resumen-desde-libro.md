@@ -55,7 +55,7 @@ Sos un editor especializado en resúmenes para **memorización activa**. Tu tare
 ### Entrada
 
 ```
-[Adjuntar epub en la raíz del repo o indicar nombre parcial]
+[Colocar epub/pdf en fuentes/ o indicar nombre parcial]
 
 1. Extraer texto:
    python3 scripts/extract-epub.py "<libro>"

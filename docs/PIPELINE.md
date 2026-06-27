@@ -56,7 +56,7 @@ El `.md` intermedio actúa como **contrato**: si el paso 1 respeta la plantilla,
 
 ## Checklist por libro nuevo
 
-1. [ ] Colocar el libro fuente (epub/pdf) — **no commitear** (está en `.gitignore`)
+1. [ ] Colocar el libro fuente en `fuentes/` (epub/pdf) — **no commitear**
 2. [ ] Extraer texto: `python3 scripts/extract-epub.py "<libro>"`
 3. [ ] Ejecutar prompt 01 con la plantilla → `summaries/<slug>.md`
 4. [ ] Revisar: citas, cifras, nombres, orden de capítulos

@@ -79,11 +79,11 @@ El usuario puede decir: `Sapiens`, `sapiens`, `Un universo de la nada`, nombre p
 
 ### Buscar archivo fuente
 
-Buscar en la **raíz del repo** (no commiteados, en `.gitignore`):
+Buscar en **`fuentes/`** (no commiteada, ver `.gitignore`):
 
 ```
-*.epub
-*.pdf
+fuentes/*.epub
+fuentes/*.pdf
 ```
 
 Matching fuzzy: comparar título del libro contra el nombre del archivo, case-insensitive.
@@ -120,10 +120,10 @@ Si hay ambigüedad entre varios archivos, **preguntar** al usuario cuál usar.
    python3 scripts/extract-epub.py "<nombre o slug>"
    # → .extracted/<slug>.txt
    ```
-   - Busca `*.epub` y `*.pdf` en la raíz; acepta nombre parcial (`sapiens`, `Homo Deus`)
+   - Busca `*.epub` y `*.pdf` en **`fuentes/`**; acepta nombre parcial (`sapiens`, `Homo Deus`)
    - Detecta EPUB real, PDF (aunque tenga extensión `.epub`) y MOBI disfrazado
    - MOBI/AZW: **no soportado** → pedir conversión a EPUB (Calibre) u otro archivo
-   - Listar disponibles: `python3 scripts/extract-epub.py --list .`
+   - Listar disponibles: `python3 scripts/extract-epub.py --list`
 2. Leer `.extracted/<slug>.txt` por capítulos (no cargar todo de una si es muy largo)
 3. Generar `summaries/<slug>.md` con **todos** los capítulos del índice original
 4. Incluir: prefacio, capítulos, conceptos clave, cronología, figuras, cierre, footer

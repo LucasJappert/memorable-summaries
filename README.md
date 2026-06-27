@@ -16,12 +16,12 @@ Plantilla del MD intermedio: `docs/templates/resumen-libro.template.md`
 ### Extraer texto de un epub
 
 ```bash
-python3 scripts/extract-epub.py sapiens          # busca *sapiens*.epub en la raíz
-python3 scripts/extract-epub.py --list .         # listar epubs disponibles
+python3 scripts/extract-epub.py sapiens          # busca en fuentes/
+python3 scripts/extract-epub.py --list           # listar libros disponibles
 python3 scripts/extract-epub.py libro.epub -o .extracted/mi-libro.txt
 ```
 
-Salida en `.extracted/` (gitignored, regenerable).
+Libros fuente en **`fuentes/`** (gitignored). Salida extraída en `.extracted/` (regenerable).
 
 ## Desarrollo
 
@@ -58,6 +58,7 @@ base: '/nombre-del-repo/'
 
 ## Estructura
 
+- `fuentes/` — libros originales (.epub, .pdf), no commiteados
 - `src/data/` — contenido de cada libro en TypeScript
 - `src/components/` — bloques reutilizables (timeline, concept cards, etc.)
 - `legacy/` — HTML original de referencia

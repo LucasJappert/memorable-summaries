@@ -9,7 +9,7 @@ Cuando el usuario pida generar el **html**, **resumen** o **vista** de un libro,
 
 ## Resumen del flujo
 
-1. Resolver slug desde nombre del libro / archivo `*.epub` o `*.pdf` en raíz
+1. Resolver slug desde nombre del libro / archivo en **`fuentes/`**
 2. **Extraer epub:** `python3 scripts/extract-epub.py "<libro>"` → `.extracted/<slug>.txt`
 3. Si no existe `summaries/<slug>.md` → paso A con `docs/prompts/01-resumen-desde-libro.md` + plantilla
 4. Paso B con `docs/prompts/02-vista-desde-resumen.md` → `src/data/<slug-corto>.ts`
