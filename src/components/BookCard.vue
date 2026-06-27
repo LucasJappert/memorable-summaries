@@ -40,6 +40,10 @@ const bookLink = computed(() => {
   <article class="book-tile">
     <RouterLink :to="bookLink" class="book-tile__link" :aria-label="linkLabel">
       <div class="book-tile__cover-wrap">
+        <span v-if="book.readingOrder" class="book-tile__order-chip">
+          {{ book.readingOrder }}
+        </span>
+
         <CoverArt :slug="book.slug" :meta="book.meta" :done="status === 'done'">
           <span
             v-if="status === 'reading' && progress > 0"

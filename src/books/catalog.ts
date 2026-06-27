@@ -1,4 +1,5 @@
 import type { BookSummary } from '../types/book'
+import { getReadingOrder } from './reading-order'
 import { cosmos } from '../data/cosmos'
 import { universoNada } from '../data/universo-nada'
 import { biggestIdeasUniverse } from '../data/biggest-ideas-universe'
@@ -6,12 +7,15 @@ import { sevenBriefLessons } from '../data/seven-brief-lessons'
 import { selfishGene } from '../data/selfish-gene'
 import { whyEvolutionIsTrue } from '../data/why-evolution-is-true'
 import { blindWatchmaker } from '../data/blind-watchmaker'
+import { vitalQuestion } from '../data/vital-question'
 import { wonderfulLife } from '../data/wonderful-life'
 import { superintelligence } from '../data/superintelligence'
 
 export interface BookCatalogEntry {
   slug: string
   meta: BookSummary['meta']
+  /** Número en orden-de-lectura.md; omitir si no está en la lista */
+  readingOrder?: number
   sectionOrder: string[]
   sectionLabels: Record<string, string>
 }
@@ -35,9 +39,12 @@ function buildCatalogEntry(book: BookSummary): BookCatalogEntry {
     ...Object.fromEntries(EXTRA_SECTIONS.map((item) => [item.id, item.label])),
   }
 
+  const readingOrder = getReadingOrder(book.slug)
+
   return {
     slug: book.slug,
     meta: book.meta,
+    ...(readingOrder !== undefined ? { readingOrder } : {}),
     sectionOrder,
     sectionLabels,
   }
@@ -52,6 +59,7 @@ const ALL_BOOKS: BookSummary[] = [
   selfishGene,
   whyEvolutionIsTrue,
   blindWatchmaker,
+  vitalQuestion,
   wonderfulLife,
   superintelligence,
 ]

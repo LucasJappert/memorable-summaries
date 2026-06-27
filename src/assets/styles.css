@@ -1424,6 +1424,25 @@
   .book-tile__cover-wrap {
     position: relative;
   }
+  .book-tile__order-chip {
+    position: absolute;
+    top: 0.45rem;
+    left: 0.45rem;
+    z-index: 4;
+    min-width: 1.35rem;
+    padding: 0.12rem 0.38rem;
+    border-radius: 999px;
+    font-size: 0.62rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    line-height: 1.2;
+    text-align: center;
+    color: rgba(232, 236, 255, 0.95);
+    background: rgba(12, 16, 32, 0.82);
+    border: 1px solid rgba(124, 140, 240, 0.45);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.35);
+    pointer-events: none;
+  }
   .book-tile__cover-wrap::after {
     content: '';
     position: absolute;
