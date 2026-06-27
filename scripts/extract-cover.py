@@ -50,8 +50,9 @@ except ImportError:
 
 COVERS_DIR = Path("public/covers")
 MAX_WIDTH = 420
+MIN_COVER_WIDTH = 300
 OPEN_LIBRARY_SEARCH = "https://openlibrary.org/search.json"
-OPEN_LIBRARY_COVER = "https://covers.openlibrary.org/b/id/{cover_id}-L.jpg"
+OPEN_LIBRARY_SIZES = ("L",)
 GOOGLE_BOOKS_API = "https://www.googleapis.com/books/v1/volumes"
 USER_AGENT = "MemorableSummaries/1.0 (personal library; cover fetch)"
 
@@ -68,8 +69,23 @@ COVER_META: dict[str, tuple[str, str]] = {
     "why-evolution-is-true": ("Why Evolution Is True", "Jerry Coyne"),
     "blind-watchmaker": ("The Blind Watchmaker", "Richard Dawkins"),
     "vital-question": ("The Vital Question", "Nick Lane"),
-    "wonderful-life": ("Wonderful Life", "Stephen Jay Gould"),
+    "wonderful-life": (
+        "Wonderful Life: The Burgess Shale and the Nature of History",
+        "Stephen Jay Gould",
+    ),
     "superintelligence": ("Superintelligence", "Nick Bostrom"),
+}
+
+# ISBN opcional para portadas de mayor resolución en Open Library
+COVER_ISBN: dict[str, str] = {
+    "wonderful-life": "039330700X",
+    "cosmos": "9780345539434",
+    "blind-watchmaker": "9780141026169",
+}
+
+# EPUB alternativo cuando el de fuentes/ falla (MOBI, DRM, etc.)
+COVER_EPUB_OVERRIDE: dict[str, str] = {
+    "seven-brief-lessons": "fuentes/_converted/seven-brief-lessons.epub",
 }
 
 
@@ -82,7 +98,34 @@ def http_get(url: str, timeout: int = 20) -> bytes | None:
         return None
 
 
-def fetch_open_library_cover(title: str, author: str | None) -> bytes | None:
+def image_width(data: bytes) -> int:
+    if not HAS_PIL:
+        return len(data)
+    try:
+        image = Image.open(io.BytesIO(data))
+        return image.width
+    except OSError:
+        return 0
+
+
+def pick_best_cover(candidates: list[bytes]) -> bytes | None:
+    if not candidates:
+        return None
+    return max(candidates, key=image_width)
+
+
+def good_enough(width: int) -> bool:
+    return width >= MIN_COVER_WIDTH
+
+
+def upgrade_google_books_url(url: str) -> str:
+    url = url.replace("http://", "https://")
+    url = re.sub(r"zoom=\d+", "zoom=0", url)
+    url = re.sub(r"edge=curl&?", "", url)
+    return url
+
+
+def fetch_open_library_covers(title: str, author: str | None) -> list[bytes]:
     author_short = author.split(",")[0].strip() if author else None
     queries: list[dict[str, str]] = []
     if author_short:
@@ -90,6 +133,10 @@ def fetch_open_library_cover(title: str, author: str | None) -> bytes | None:
     queries.append({"title": title, "limit": "8"})
     if author_short:
         queries.append({"q": f"{title} {author_short}", "limit": "8"})
+
+    found: list[bytes] = []
+    seen_urls: set[str] = set()
+    best_width = 0
 
     for params in queries:
         url = f"{OPEN_LIBRARY_SEARCH}?{urllib.parse.urlencode(params)}"
@@ -102,26 +149,45 @@ def fetch_open_library_cover(title: str, author: str | None) -> bytes | None:
             continue
 
         for doc in payload.get("docs") or []:
+            urls: list[str] = []
             cover_id = doc.get("cover_i")
-            if not cover_id:
-                continue
-            cover_url = OPEN_LIBRARY_COVER.format(cover_id=cover_id)
-            data = http_get(cover_url)
-            if data and len(data) > 500:
-                return data
+            if cover_id:
+                urls.append(f"https://covers.openlibrary.org/b/id/{cover_id}-L.jpg")
+            edition_key = doc.get("cover_edition_key") or doc.get("edition_key")
+            if edition_key:
+                urls.append(f"https://covers.openlibrary.org/b/olid/{edition_key}-L.jpg")
 
-    return None
+            for cover_url in urls:
+                if cover_url in seen_urls:
+                    continue
+                seen_urls.add(cover_url)
+                data = http_get(cover_url)
+                if not data or len(data) <= 500:
+                    continue
+                width = image_width(data)
+                if width < 80:
+                    continue
+                found.append(data)
+                best_width = max(best_width, width)
+                if good_enough(best_width):
+                    return found
+
+    return found
 
 
-def fetch_google_books_cover(title: str, author: str | None) -> bytes | None:
+def fetch_google_books_covers(title: str, author: str | None) -> list[bytes]:
     author_short = author.split(",")[0].strip() if author else None
     queries: list[str] = [f"intitle:{title}"]
     if author_short:
         queries.append(f"intitle:{title} inauthor:{author_short}")
         queries.append(f"{title} {author_short}")
 
+    found: list[bytes] = []
+    seen_urls: set[str] = set()
+    best_width = 0
+
     for query_str in queries:
-        params = urllib.parse.urlencode({"q": query_str, "maxResults": "5"})
+        params = urllib.parse.urlencode({"q": query_str, "maxResults": "3"})
         raw = http_get(f"{GOOGLE_BOOKS_API}?{params}")
         if not raw:
             continue
@@ -132,31 +198,47 @@ def fetch_google_books_cover(title: str, author: str | None) -> bytes | None:
 
         for item in payload.get("items") or []:
             links = (item.get("volumeInfo") or {}).get("imageLinks") or {}
-            for key in (
-                "extraLarge",
-                "large",
-                "medium",
-                "small",
-                "thumbnail",
-                "smallThumbnail",
-            ):
+            for key in ("extraLarge", "large", "medium", "small", "thumbnail"):
                 img_url = links.get(key)
                 if not img_url:
                     continue
-                img_url = img_url.replace("http://", "https://")
+                img_url = upgrade_google_books_url(img_url)
+                if img_url in seen_urls:
+                    continue
+                seen_urls.add(img_url)
                 data = http_get(img_url)
-                if data and len(data) > 500:
-                    return data
+                if not data or len(data) <= 500:
+                    continue
+                width = image_width(data)
+                if width < 80:
+                    continue
+                found.append(data)
+                best_width = max(best_width, width)
+                if good_enough(best_width):
+                    return found
 
-    return None
+    return found
+
+
+def fetch_isbn_covers(isbn: str) -> list[bytes]:
+    found: list[bytes] = []
+    for size in OPEN_LIBRARY_SIZES:
+        url = f"https://covers.openlibrary.org/b/isbn/{isbn}-{size}.jpg"
+        data = http_get(url)
+        if data and len(data) > 500 and image_width(data) >= 80:
+            found.append(data)
+    return found
 
 
 def fetch_cover_online(title: str, author: str | None) -> bytes | None:
-    for fetcher in (fetch_open_library_cover, fetch_google_books_cover):
-        data = fetcher(title, author)
-        if data:
-            return data
-    return None
+    candidates: list[bytes] = []
+    candidates.extend(fetch_open_library_covers(title, author))
+    candidates.extend(fetch_google_books_covers(title, author))
+    best = pick_best_cover(candidates)
+    if best and image_width(best) >= MIN_COVER_WIDTH:
+        return best
+    # Si nada alcanza MIN_COVER_WIDTH, devolver la mejor disponible
+    return best
 
 
 def find_cover_href(opf: ET.Element, manifest: dict[str, str], base_dir: str) -> str | None:
@@ -287,25 +369,98 @@ def extract_cover(
     if not output_slug:
         raise ValueError("Indicá --slug con --online-only")
 
-    cover_bytes: bytes | None = None
-
-    if book_path and fmt == "epub":
-        cover_bytes_tuple = extract_epub_cover_bytes(book_path)
-        if cover_bytes_tuple:
-            cover_bytes = cover_bytes_tuple[0]
-
-    if cover_bytes is None:
-        meta_title, meta_author = resolve_cover_metadata(
-            output_slug, title, author, book_path, fmt
-        )
-        if meta_title:
-            cover_bytes = fetch_cover_online(meta_title, meta_author)
+    cover_bytes = resolve_cover_bytes(
+        output_slug,
+        search_dir,
+        title=title,
+        author=author,
+        book_path=book_path,
+        fmt=fmt,
+    )
 
     if not cover_bytes:
         return None
 
-    saved = save_cover_image(cover_bytes, output_slug)
-    return saved
+    return save_cover_image(cover_bytes, output_slug)
+
+
+def resolve_cover_bytes(
+    output_slug: str,
+    search_dir: Path,
+    title: str | None = None,
+    author: str | None = None,
+    book_path: Path | None = None,
+    fmt: str | None = None,
+) -> bytes | None:
+    candidates: list[bytes] = []
+
+    if book_path and fmt == "epub":
+        cover_bytes_tuple = extract_epub_cover_bytes(book_path)
+        if cover_bytes_tuple:
+            candidates.append(cover_bytes_tuple[0])
+
+    if output_slug in COVER_ISBN:
+        candidates.extend(fetch_isbn_covers(COVER_ISBN[output_slug]))
+
+    meta_title, meta_author = resolve_cover_metadata(
+        output_slug, title, author, book_path, fmt
+    )
+    if meta_title:
+        ol = fetch_open_library_covers(meta_title, meta_author)
+        candidates.extend(ol)
+        best = pick_best_cover(candidates)
+        if best and good_enough(image_width(best)):
+            return best
+        candidates.extend(fetch_google_books_covers(meta_title, meta_author))
+
+    return pick_best_cover(candidates)
+
+
+def existing_cover_width(slug: str) -> int:
+    path = COVERS_DIR / f"{slug}.jpg"
+    if not path.exists():
+        return 0
+    return image_width(path.read_bytes())
+
+
+def upgrade_cover(
+    slug: str,
+    search_dir: Path,
+    *,
+    force: bool = False,
+) -> Path | None:
+    """Re-fetch cover if missing or lower resolution than available sources."""
+    path = COVERS_DIR / f"{slug}.jpg"
+    current_width = existing_cover_width(slug)
+    if not force and current_width >= MIN_COVER_WIDTH:
+        return path
+
+    book_path: Path | None = None
+    fmt: str | None = None
+    query: str | None = None
+    if slug in COVER_META:
+        title, author = COVER_META[slug]
+        try:
+            book_path = find_book(title, search_dir)
+            query = book_path.name
+            fmt = detect_format(book_path)
+        except FileNotFoundError:
+            pass
+
+    new_bytes = resolve_cover_bytes(
+        slug,
+        search_dir,
+        book_path=book_path,
+        fmt=fmt,
+    )
+    if not new_bytes:
+        return path if path.exists() else None
+
+    new_width = image_width(new_bytes)
+    if not force and current_width > 0 and new_width <= current_width:
+        return path
+
+    return save_cover_image(new_bytes, slug)
 
 
 def save_cover_image(data: bytes, slug: str) -> Path:
@@ -352,6 +507,16 @@ def main(argv: list[str] | None = None) -> int:
         help="Descargar portadas online faltantes para slugs en COVER_META",
     )
     parser.add_argument(
+        "--upgrade",
+        action="store_true",
+        help="Mejorar portadas existentes con baja resolución (<300px)",
+    )
+    parser.add_argument(
+        "--force",
+        action="store_true",
+        help="Con --upgrade: re-descargar todas las portadas del catálogo",
+    )
+    parser.add_argument(
         "--all",
         action="store_true",
         help="Extraer portadas de todos los libros en fuentes/",
@@ -370,13 +535,36 @@ def main(argv: list[str] | None = None) -> int:
             try:
                 result = extract_cover(None, slug, search_dir, online_only=True)
                 if result:
-                    print(f"OK  {slug} → {result}")
+                    w = existing_cover_width(slug)
+                    print(f"OK  {slug} → {result} ({w}px)")
                     ok += 1
                 else:
                     print(f"FAIL {slug} (sin portada online)")
             except Exception as exc:
                 print(f"FAIL {slug}: {exc}")
         print(f"Listo: {ok} portadas nuevas")
+        return 0
+
+    if args.upgrade:
+        ok = 0
+        for slug in COVER_META:
+            before = existing_cover_width(slug)
+            if not args.force and before >= MIN_COVER_WIDTH:
+                print(f"SKIP {slug} ({before}px ≥ {MIN_COVER_WIDTH})")
+                continue
+            try:
+                result = upgrade_cover(slug, search_dir, force=args.force)
+                after = existing_cover_width(slug)
+                if result and after > before:
+                    print(f"OK  {slug}: {before}px → {after}px")
+                    ok += 1
+                elif result:
+                    print(f"SKIP {slug}: sin mejora ({before}px → {after}px)")
+                else:
+                    print(f"FAIL {slug}")
+            except Exception as exc:
+                print(f"FAIL {slug}: {exc}")
+        print(f"Listo: {ok} portadas mejoradas")
         return 0
 
     if args.all:
