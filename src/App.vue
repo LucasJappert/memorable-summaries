@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { superintelligence } from './data/superintelligence'
 import Starfield from './components/Starfield.vue'
+import SiteHeader from './components/SiteHeader.vue'
 import HeroSection from './components/HeroSection.vue'
 import TableOfContents from './components/TableOfContents.vue'
 import BookSection from './components/BookSection.vue'
@@ -14,6 +15,7 @@ const book = superintelligence
 <template>
   <Starfield />
 
+  <SiteHeader />
   <HeroSection :meta="book.meta" />
   <TableOfContents :items="book.toc" />
 
