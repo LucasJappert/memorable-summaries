@@ -1,12 +1,21 @@
 <script setup lang="ts">
-import { onMounted } from 'vue'
+import { computed, onMounted } from 'vue'
 import { bookCatalog } from '../books/catalog'
 import SiteHeader from '../components/SiteHeader.vue'
 import BookCard from '../components/BookCard.vue'
+import { getBookReadingStatus, STATUS_SORT_ORDER } from '../reading/status'
 
 onMounted(() => {
   window.scrollTo(0, 0)
 })
+
+const sortedCatalog = computed(() =>
+  [...bookCatalog].sort((a, b) => {
+    const orderA = STATUS_SORT_ORDER[getBookReadingStatus(a.slug)]
+    const orderB = STATUS_SORT_ORDER[getBookReadingStatus(b.slug)]
+    return orderA - orderB
+  }),
+)
 </script>
 
 <template>
@@ -19,7 +28,7 @@ onMounted(() => {
     </header>
 
     <div class="library-shelf">
-      <BookCard v-for="book in bookCatalog" :key="book.slug" :book="book" />
+      <BookCard v-for="book in sortedCatalog" :key="book.slug" :book="book" />
     </div>
   </main>
 </template>

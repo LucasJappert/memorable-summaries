@@ -1,12 +1,15 @@
 <script setup lang="ts">
 import { computed, onMounted, onUnmounted, ref, watch } from 'vue'
-import { RouterLink } from 'vue-router'
+import { RouterLink, useRoute } from 'vue-router'
 import type { TocItem } from '../types/book'
 import { useActiveSection } from '../composables/useActiveSection'
 import { useScrollHeader } from '../composables/useScrollHeader'
 import BrandLogo from './BrandLogo.vue'
 
 const props = defineProps<{ toc?: TocItem[] }>()
+
+const route = useRoute()
+const isBookPage = computed(() => route.name === 'book')
 
 const menuOpen = ref(false)
 const isMobileNav = ref(true)
@@ -60,10 +63,27 @@ onUnmounted(() => {
 <template>
   <header class="site-header" :class="{ 'site-header--hidden': headerHidden }">
     <div class="site-header__inner">
-      <RouterLink to="/" class="site-header__brand" aria-label="Memorable Summaries — biblioteca">
-        <BrandLogo :size="32" />
-        <span class="site-header__title">Memorable Summaries</span>
-      </RouterLink>
+      <div class="site-header__start">
+        <RouterLink
+          v-if="isBookPage"
+          to="/"
+          class="site-header__back"
+          aria-label="Volver a la biblioteca"
+        >
+          <span class="site-header__back-icon" aria-hidden="true">←</span>
+          <span class="site-header__back-label">Biblioteca</span>
+        </RouterLink>
+
+        <RouterLink
+          v-else
+          to="/"
+          class="site-header__brand"
+          aria-label="Memorable Summaries — biblioteca"
+        >
+          <BrandLogo :size="32" />
+          <span class="site-header__title">Memorable Summaries</span>
+        </RouterLink>
+      </div>
 
       <button
         v-if="hasToc"
@@ -111,6 +131,15 @@ onUnmounted(() => {
           </div>
 
           <div class="nav-drawer__list">
+            <RouterLink
+              to="/"
+              class="nav-drawer__item nav-drawer__item--library"
+              @click="closeMenu"
+            >
+              <span class="nav-drawer__num" aria-hidden="true">←</span>
+              <span class="nav-drawer__label">Biblioteca</span>
+            </RouterLink>
+
             <a
               v-for="item in toc!"
               :key="item.id"

@@ -2,6 +2,7 @@
 import { computed } from 'vue'
 import type { BookCatalogEntry } from '../books/catalog'
 import { readReadingPosition } from '../reading/storage'
+import { getBookProgress, getBookReadingStatus } from '../reading/status'
 import CoverArt from './CoverArt.vue'
 
 const props = defineProps<{ book: BookCatalogEntry }>()
@@ -12,20 +13,9 @@ const displayTitle = computed(
   () => props.book.meta.titleEs?.trim() || props.book.meta.title,
 )
 
-const progress = computed(() => reading.value?.progress ?? 0)
+const progress = computed(() => getBookProgress(props.book.slug))
 
-const status = computed(() => {
-  if (!reading.value) return 'new'
-  if (progress.value >= 98) return 'done'
-  return 'reading'
-})
-
-const coverBadge = computed(() => {
-  if (status.value === 'new') return 'New'
-  if (status.value === 'done') return 'Done'
-  if (progress.value <= 0) return 'Started'
-  return `${progress.value}%`
-})
+const status = computed(() => getBookReadingStatus(props.book.slug))
 
 const linkLabel = computed(() => {
   if (status.value === 'reading') {
@@ -34,7 +24,7 @@ const linkLabel = computed(() => {
   if (status.value === 'done') {
     return `${displayTitle.value}. Completado.`
   }
-  return `${displayTitle.value}. New.`
+  return `${displayTitle.value}. Sin empezar.`
 })
 
 const bookLink = computed(() => {
@@ -49,26 +39,31 @@ const bookLink = computed(() => {
 <template>
   <article class="book-tile">
     <RouterLink :to="bookLink" class="book-tile__link" :aria-label="linkLabel">
-      <CoverArt :slug="book.slug" :meta="book.meta" :done="status === 'done'">
-        <span
-          class="cover-art__badge"
-          :class="`cover-art__badge--${status}`"
-        >
-          {{ coverBadge }}
-        </span>
-
-        <div class="book-tile__cover-progress" role="presentation">
+      <div class="book-tile__cover-wrap">
+        <CoverArt :slug="book.slug" :meta="book.meta" :done="status === 'done'">
           <span
-            class="book-tile__cover-progress-fill"
-            :class="{ 'book-tile__cover-progress-fill--done': status === 'done' }"
-            :style="{ width: status === 'new' ? '0%' : `${progress}%` }"
-          />
-        </div>
-      </CoverArt>
+            v-if="status === 'reading' && progress > 0"
+            class="cover-art__badge cover-art__badge--reading"
+          >
+            {{ progress }}%
+          </span>
+
+          <div class="book-tile__cover-progress" role="presentation">
+            <span
+              class="book-tile__cover-progress-fill"
+              :class="{ 'book-tile__cover-progress-fill--done': status === 'done' }"
+              :style="{ width: status === 'new' ? '0%' : `${progress}%` }"
+            />
+          </div>
+        </CoverArt>
+      </div>
 
       <div class="book-tile__info">
         <h2 class="book-tile__title">{{ displayTitle }}</h2>
         <p class="book-tile__author">{{ book.meta.author }}</p>
+        <p class="book-tile__subtitle">
+          {{ book.meta.subtitle || '' }}
+        </p>
       </div>
     </RouterLink>
   </article>

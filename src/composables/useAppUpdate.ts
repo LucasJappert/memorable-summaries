@@ -1,5 +1,11 @@
 const VERSION_STORAGE_KEY = 'app-version'
 
+let swRegistration: ServiceWorkerRegistration | undefined
+
+export function setServiceWorkerRegistration(registration: ServiceWorkerRegistration | undefined): void {
+  swRegistration = registration
+}
+
 export async function checkForAppUpdate(): Promise<void> {
   if (import.meta.env.DEV) return
 
@@ -24,4 +30,23 @@ export async function checkForAppUpdate(): Promise<void> {
   } catch {
     // Sin red: seguir con la versión cacheada
   }
+}
+
+function runUpdateChecks(): void {
+  void checkForAppUpdate()
+  void swRegistration?.update()
+}
+
+export function initAppUpdates(): void {
+  if (import.meta.env.DEV) return
+
+  runUpdateChecks()
+
+  document.addEventListener('visibilitychange', () => {
+    if (document.visibilityState === 'visible') runUpdateChecks()
+  })
+
+  window.addEventListener('pageshow', (event) => {
+    if (event.persisted) runUpdateChecks()
+  })
 }
