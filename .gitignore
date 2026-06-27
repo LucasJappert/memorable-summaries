@@ -27,6 +27,8 @@ dist-ssr
 *.tsbuildinfo
 
 # Libros fuente (no van al deploy)
+*.epub
+*.pdf
 fuentes/**
 !fuentes/README.md
 
