@@ -1,6 +1,13 @@
 import type { BookSummary } from '../types/book'
-import { superintelligence } from '../data/superintelligence'
+import { cosmos } from '../data/cosmos'
 import { universoNada } from '../data/universo-nada'
+import { biggestIdeasUniverse } from '../data/biggest-ideas-universe'
+import { sevenBriefLessons } from '../data/seven-brief-lessons'
+import { selfishGene } from '../data/selfish-gene'
+import { whyEvolutionIsTrue } from '../data/why-evolution-is-true'
+import { blindWatchmaker } from '../data/blind-watchmaker'
+import { wonderfulLife } from '../data/wonderful-life'
+import { superintelligence } from '../data/superintelligence'
 
 export interface BookCatalogEntry {
   slug: string
@@ -36,15 +43,24 @@ function buildCatalogEntry(book: BookSummary): BookCatalogEntry {
   }
 }
 
-export const bookCatalog: BookCatalogEntry[] = [
-  buildCatalogEntry(superintelligence),
-  buildCatalogEntry(universoNada),
+/** Fase 1–2 (orden-de-lectura.md) + superintelligence */
+const ALL_BOOKS: BookSummary[] = [
+  cosmos,
+  universoNada,
+  biggestIdeasUniverse,
+  sevenBriefLessons,
+  selfishGene,
+  whyEvolutionIsTrue,
+  blindWatchmaker,
+  wonderfulLife,
+  superintelligence,
 ]
 
-const booksBySlug = new Map<string, BookSummary>([
-  [superintelligence.slug, superintelligence],
-  [universoNada.slug, universoNada],
-])
+export const bookCatalog: BookCatalogEntry[] = ALL_BOOKS.map(buildCatalogEntry)
+
+const booksBySlug = new Map<string, BookSummary>(
+  ALL_BOOKS.map((book) => [book.slug, book]),
+)
 
 export function getBookBySlug(slug: string): BookSummary | undefined {
   return booksBySlug.get(slug)
