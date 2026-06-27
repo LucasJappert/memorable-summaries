@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { universoNada } from './data/universo-nada'
+import { superintelligence } from './data/superintelligence'
 import Starfield from './components/Starfield.vue'
 import HeroSection from './components/HeroSection.vue'
 import TableOfContents from './components/TableOfContents.vue'
@@ -8,7 +8,7 @@ import ConceptGrid from './components/ConceptGrid.vue'
 import Timeline from './components/Timeline.vue'
 import FiguresGrid from './components/FiguresGrid.vue'
 
-const book = universoNada
+const book = superintelligence
 </script>
 
 <template>

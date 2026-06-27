@@ -39,22 +39,23 @@ npm run preview
 
 ## Deploy
 
-### Netlify
-
-Conectá el repo y Netlify usará `netlify.toml` automáticamente.
-
 ### GitHub Pages
 
+Push a `main` dispara el workflow `.github/workflows/deploy.yml`.
+
+1. En el repo: **Settings → Pages → Build and deployment → Source: GitHub Actions**
+2. Tras el primer push, la app queda en:  
+   **https://lucasjappert.github.io/memorable-summaries/**
+
+Build local con el mismo base path:
+
 ```bash
-npm run build
-# Publicá el contenido de dist/ con GitHub Actions o gh-pages
+VITE_BASE_PATH=/memorable-summaries/ npm run build
 ```
 
-Para SPA en GitHub Pages, agregá en `vite.config.ts`:
+### Netlify
 
-```ts
-base: '/nombre-del-repo/'
-```
+Conectá el repo y Netlify usará `netlify.toml` automáticamente (base `/`, sin prefijo de repo).
 
 ## Estructura
 
