@@ -115,10 +115,19 @@ Si hay ambigüedad entre varios archivos, **preguntar** al usuario cuál usar.
 
 **Acciones:**
 
-1. Leer el epub/pdf fuente (herramientas disponibles: extracción de texto, etc.)
-2. Generar `summaries/<slug>.md` con **todos** los capítulos del índice original
-3. Incluir: prefacio, capítulos, conceptos clave, cronología, figuras, cierre, footer
-4. **No inventar** citas ni cifras
+1. **Extraer texto del libro** (obligatorio antes de resumir):
+   ```bash
+   python3 scripts/extract-epub.py "<nombre o slug>"
+   # → .extracted/<slug>.txt
+   ```
+   - Busca `*.epub` y `*.pdf` en la raíz; acepta nombre parcial (`sapiens`, `Homo Deus`)
+   - Detecta EPUB real, PDF (aunque tenga extensión `.epub`) y MOBI disfrazado
+   - MOBI/AZW: **no soportado** → pedir conversión a EPUB (Calibre) u otro archivo
+   - Listar disponibles: `python3 scripts/extract-epub.py --list .`
+2. Leer `.extracted/<slug>.txt` por capítulos (no cargar todo de una si es muy largo)
+3. Generar `summaries/<slug>.md` con **todos** los capítulos del índice original
+4. Incluir: prefacio, capítulos, conceptos clave, cronología, figuras, cierre, footer
+5. **No inventar** citas ni cifras
 
 **No generar** TypeScript ni HTML en este paso.
 
@@ -190,6 +199,7 @@ Referencia de estilos y estructura:
 | Ejemplo MD | `summaries/universo-de-la-nada.md` |
 | Estilos | `src/assets/styles.css` |
 | Componentes Vue | `src/components/` |
+| **Extractor epub** | `scripts/extract-epub.py` → `.extracted/<slug>.txt` |
 
 ---
 

@@ -30,5 +30,8 @@ dist-ssr
 *.epub
 *.pdf
 
+# Texto extraído de epubs (regenerable)
+.extracted/
+
 # HTML legacy de referencia (opcional)
 legacy/

@@ -55,7 +55,12 @@ Sos un editor especializado en resúmenes para **memorización activa**. Tu tare
 ### Entrada
 
 ```
-[Adjuntar o pegar el libro / capítulos / notas]
+[Adjuntar epub en la raíz del repo o indicar nombre parcial]
+
+1. Extraer texto:
+   python3 scripts/extract-epub.py "<libro>"
+2. Leer .extracted/<slug>.txt y generar summaries/<slug>.md
+
 Slug deseado: <slug>
 ```
 

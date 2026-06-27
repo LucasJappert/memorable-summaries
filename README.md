@@ -13,6 +13,16 @@ Detalle del circuito en **[docs/PIPELINE.md](docs/PIPELINE.md)**:
 
 Plantilla del MD intermedio: `docs/templates/resumen-libro.template.md`
 
+### Extraer texto de un epub
+
+```bash
+python3 scripts/extract-epub.py sapiens          # busca *sapiens*.epub en la raíz
+python3 scripts/extract-epub.py --list .         # listar epubs disponibles
+python3 scripts/extract-epub.py libro.epub -o .extracted/mi-libro.txt
+```
+
+Salida en `.extracted/` (gitignored, regenerable).
+
 ## Desarrollo
 
 ```bash

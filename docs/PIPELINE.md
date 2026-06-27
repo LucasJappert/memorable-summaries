@@ -8,6 +8,8 @@ Flujo en **dos pasos** para que cualquier IA pueda reproducir resúmenes memoriz
 ```
 Libro (.epub / .pdf / texto)
         │
+        ▼  scripts/extract-epub.py  (epub → .extracted/<slug>.txt)
+        │
         ▼  Prompt 01 — docs/prompts/01-resumen-desde-libro.md
         │
 summaries/<slug>.md          ← fuente de verdad intermedia (humana + IA)
@@ -55,11 +57,12 @@ El `.md` intermedio actúa como **contrato**: si el paso 1 respeta la plantilla,
 ## Checklist por libro nuevo
 
 1. [ ] Colocar el libro fuente (epub/pdf) — **no commitear** (está en `.gitignore`)
-2. [ ] Ejecutar prompt 01 con la plantilla → `summaries/<slug>.md`
-3. [ ] Revisar: citas, cifras, nombres, orden de capítulos
-4. [ ] Ejecutar prompt 02 → `src/data/<slug>.ts`
-5. [ ] Registrar el libro en `src/App.vue` o en un router/listado (cuando haya varios)
-6. [ ] `npm run build` para verificar tipos
+2. [ ] Extraer texto: `python3 scripts/extract-epub.py "<libro>"`
+3. [ ] Ejecutar prompt 01 con la plantilla → `summaries/<slug>.md`
+4. [ ] Revisar: citas, cifras, nombres, orden de capítulos
+5. [ ] Ejecutar prompt 02 → `src/data/<slug>.ts`
+6. [ ] Registrar el libro en `src/App.vue` o en un router/listado (cuando haya varios)
+7. [ ] `npm run build` para verificar tipos
 
 ## Principios de diseño (memorización)
 
