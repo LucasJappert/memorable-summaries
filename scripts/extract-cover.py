@@ -446,7 +446,6 @@ def upgrade_cover(
         title, author = COVER_META[slug]
         try:
             book_path = find_book(title, search_dir)
-            query = book_path.name
             fmt = detect_format(book_path)
         except FileNotFoundError:
             pass
