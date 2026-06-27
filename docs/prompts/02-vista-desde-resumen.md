@@ -33,6 +33,7 @@ Convertí el resumen Markdown estructurado en datos tipados para la app Vue 3 de
 | Bloque MD | Tipo TS |
 |-----------|---------|
 | Frontmatter | `meta` |
+| `slug` | `slug` (identificador del libro para persistencia de lectura) |
 | `title` | `meta.title` (idioma original) |
 | `title_es` | `meta.titleEs` (opcional; solo si title no está en español) |
 | Tabla `# Contenido` | `toc[]` |
@@ -67,6 +68,8 @@ const book = nombreLibro
 ```
 
 (Cuando haya múltiples libros, migrar a router — por ahora reemplazar import.)
+
+Después de crear el `.ts`, registrá el libro en `src/books/catalog.ts` (aparece en la biblioteca).
 
 ### Verificación
 

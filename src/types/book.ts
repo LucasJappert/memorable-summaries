@@ -6,6 +6,13 @@ export interface BookMeta {
   subtitle: string
   author: string
   meta: string[]
+  /** Overrides opcionales para la portada generativa */
+  cover?: {
+    monogram?: string
+    motif?: 'constellation' | 'orbit' | 'grid' | 'wave'
+    /** Ruta pública override; default /covers/<slug>.jpg */
+    image?: string
+  }
 }
 
 export interface TocItem {
@@ -96,6 +103,7 @@ export interface Section {
 }
 
 export interface BookSummary {
+  slug: string
   meta: BookMeta
   toc: TocItem[]
   sections: Section[]

@@ -1,16 +1,18 @@
 <script setup lang="ts">
 import { computed, onMounted, onUnmounted, ref, watch } from 'vue'
+import { RouterLink } from 'vue-router'
 import type { TocItem } from '../types/book'
 import { useActiveSection } from '../composables/useActiveSection'
 import { useScrollHeader } from '../composables/useScrollHeader'
 import BrandLogo from './BrandLogo.vue'
 
-const props = defineProps<{ toc: TocItem[] }>()
+const props = defineProps<{ toc?: TocItem[] }>()
 
 const menuOpen = ref(false)
 const isMobileNav = ref(true)
+const hasToc = computed(() => (props.toc?.length ?? 0) > 0)
 
-const sectionIds = computed(() => props.toc.map((item) => item.id))
+const sectionIds = computed(() => props.toc?.map((item) => item.id) ?? [])
 const { activeId } = useActiveSection(sectionIds)
 
 const { headerVisible } = useScrollHeader({
@@ -58,12 +60,13 @@ onUnmounted(() => {
 <template>
   <header class="site-header" :class="{ 'site-header--hidden': headerHidden }">
     <div class="site-header__inner">
-      <a href="#" class="site-header__brand" aria-label="Memorable Summaries — inicio">
+      <RouterLink to="/" class="site-header__brand" aria-label="Memorable Summaries — biblioteca">
         <BrandLogo :size="32" />
         <span class="site-header__title">Memorable Summaries</span>
-      </a>
+      </RouterLink>
 
       <button
+        v-if="hasToc"
         type="button"
         class="site-header__menu-btn"
         aria-label="Menú de capítulos"
@@ -82,7 +85,7 @@ onUnmounted(() => {
 
   <Teleport to="body">
     <Transition name="nav-drawer">
-      <div v-if="menuOpen" class="nav-drawer" role="presentation">
+      <div v-if="menuOpen && hasToc" class="nav-drawer" role="presentation">
         <button
           type="button"
           class="nav-drawer__backdrop"
@@ -109,7 +112,7 @@ onUnmounted(() => {
 
           <div class="nav-drawer__list">
             <a
-              v-for="item in toc"
+              v-for="item in toc!"
               :key="item.id"
               :href="`#${item.id}`"
               class="nav-drawer__item"
