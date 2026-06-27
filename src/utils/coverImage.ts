@@ -1,5 +1,6 @@
 /** Cover image paths for a book slug (public/covers/). */
 
 export function coverImageUrl(slug: string): string {
-  return `/covers/${slug}.jpg`
+  const base = import.meta.env.BASE_URL
+  return `${base}covers/${slug}.jpg`
 }
