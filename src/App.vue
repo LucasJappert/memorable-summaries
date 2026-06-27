@@ -17,7 +17,7 @@ const book = superintelligence
   <Starfield />
   <ReadingProgress />
 
-  <SiteHeader />
+  <SiteHeader :toc="book.toc" />
   <HeroSection :meta="book.meta" />
 
   <div class="page-layout">
