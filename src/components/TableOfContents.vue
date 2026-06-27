@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import { computed, ref } from 'vue'
-import { RouterLink } from 'vue-router'
 import type { TocItem } from '../types/book'
 import { useActiveSection } from '../composables/useActiveSection'
 
@@ -23,11 +22,6 @@ const hiddenCount = computed(() => Math.max(0, props.items.length - previewCount
     aria-label="Contenido"
   >
     <h2 class="toc__heading">⸻ Contenido</h2>
-    <RouterLink to="/" class="toc-item toc-item--library">
-      <span class="toc-num" aria-hidden="true">←</span>
-      <span class="toc-label">Biblioteca</span>
-      <span class="toc-chevron" aria-hidden="true">›</span>
-    </RouterLink>
     <div class="toc-grid">
       <a
         v-for="(item, index) in items"
