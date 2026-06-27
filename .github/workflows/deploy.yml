@@ -30,6 +30,14 @@ jobs:
         env:
           VITE_BASE_PATH: /memorable-summaries/
 
+      - name: Verificar build de producción
+        run: |
+          if grep -q 'src/main.ts' dist/index.html; then
+            echo "::error::dist/index.html apunta a src/main.ts (build incorrecto)"
+            exit 1
+          fi
+          touch dist/.nojekyll
+
       # SPA fallback para rutas directas en GitHub Pages
       - run: cp dist/index.html dist/404.html
 

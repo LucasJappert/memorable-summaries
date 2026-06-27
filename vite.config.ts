@@ -28,6 +28,8 @@ function versionJsonPlugin(version: string): Plugin {
 export default defineConfig(({ mode }) => {
   const base = process.env.VITE_BASE_PATH || '/'
   const version = buildVersion()
+  const navigateFallback =
+    base === '/' ? '/index.html' : `${base.replace(/\/$/, '')}/index.html`
 
   return {
     base,
@@ -72,7 +74,8 @@ export default defineConfig(({ mode }) => {
         workbox: {
           // HTML fuera del precache: siempre intenta red primero
           globPatterns: ['**/*.{js,css,svg,png,woff,woff2}'],
-          navigateFallback: 'index.html',
+          navigateFallback,
+          navigateFallbackDenylist: [/^\/_/, /\/[^/?]+\.[^/]+$/],
           runtimeCaching: [
             {
               urlPattern: ({ request }) => request.mode === 'navigate',
