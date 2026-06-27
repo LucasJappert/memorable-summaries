@@ -35,5 +35,9 @@ fuentes/**
 # Texto extraído de epubs (regenerable)
 .extracted/
 
+# Python
+__pycache__/
+*.py[cod]
+
 # HTML legacy de referencia (opcional)
 legacy/
