@@ -437,8 +437,12 @@ def upgrade_cover(
 
     book_path: Path | None = None
     fmt: str | None = None
-    query: str | None = None
-    if slug in COVER_META:
+    if slug in COVER_EPUB_OVERRIDE:
+        override = Path(COVER_EPUB_OVERRIDE[slug])
+        if override.exists():
+            book_path = override.resolve()
+            fmt = "epub"
+    if slug in COVER_META and book_path is None:
         title, author = COVER_META[slug]
         try:
             book_path = find_book(title, search_dir)
