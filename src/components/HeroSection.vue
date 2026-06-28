@@ -2,13 +2,13 @@
 import type { BookMeta } from '../types/book'
 import CoverArt from './CoverArt.vue'
 
-defineProps<{ meta: BookMeta; slug: string }>()
+defineProps<{ meta: BookMeta; slug: string; done?: boolean }>()
 </script>
 
 <template>
   <header class="hero">
     <div class="hero__cover" aria-hidden="true">
-      <CoverArt :slug="slug" :meta="meta" />
+      <CoverArt :slug="slug" :meta="meta" :done="done" />
     </div>
 
     <div class="hero__body">

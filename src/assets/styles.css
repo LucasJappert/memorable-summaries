@@ -1411,6 +1411,8 @@
     min-width: 0;
   }
   .book-tile__link {
+    position: relative;
+    overflow: hidden;
     flex: 1;
     display: flex;
     flex-direction: column;
@@ -1578,23 +1580,50 @@
     color: var(--accent3);
     border-color: rgba(124, 240, 200, 0.25);
   }
-  .book-tile__cover-progress {
+  .cover-art__badge--done {
+    top: 0.32rem;
+    right: 0.32rem;
+    left: auto;
+    display: grid;
+    place-items: center;
+    width: 1.35rem;
+    height: 1.35rem;
+    padding: 0;
+    border-radius: 999px;
+    text-transform: none;
+    color: #0a1814;
+    background: #9ef0d8;
+    border-color: rgba(255, 255, 255, 0.35);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+  }
+  .cover-art__check {
+    width: 0.72rem;
+    height: 0.72rem;
+    display: block;
+  }
+  .book-tile__progress {
     position: absolute;
     left: 0;
     right: 0;
     bottom: 0;
-    height: 3px;
-    background: rgba(0, 0, 0, 0.45);
-    z-index: 4;
+    height: 4px;
+    border-radius: 0;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 6;
+    overflow: hidden;
+    pointer-events: none;
   }
-  .book-tile__cover-progress-fill {
+  .book-tile__progress-fill {
     display: block;
     height: 100%;
-    background: var(--accent3);
-    transition: width 0.25s ease;
+    border-radius: inherit;
+    background: linear-gradient(90deg, rgba(124, 240, 200, 0.85), var(--accent3));
+    box-shadow: 0 0 6px rgba(124, 240, 200, 0.35);
+    transition: width 0.3s ease;
   }
-  .book-tile__cover-progress-fill--done {
-    background: #9ef0d8;
+  .book-tile__progress-fill--done {
+    background: linear-gradient(90deg, #9ef0d8, #7ce8c8);
+    box-shadow: 0 0 8px rgba(158, 240, 216, 0.45);
   }
   .book-tile__info {
     flex: 1;

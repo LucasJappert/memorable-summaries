@@ -51,14 +51,6 @@ const bookLink = computed(() => {
           >
             {{ progress }}%
           </span>
-
-          <div class="book-tile__cover-progress" role="presentation">
-            <span
-              class="book-tile__cover-progress-fill"
-              :class="{ 'book-tile__cover-progress-fill--done': status === 'done' }"
-              :style="{ width: status === 'new' ? '0%' : `${progress}%` }"
-            />
-          </div>
         </CoverArt>
       </div>
 
@@ -68,6 +60,19 @@ const bookLink = computed(() => {
         <p class="book-tile__subtitle">
           {{ book.meta.subtitle || '' }}
         </p>
+      </div>
+
+      <div
+        v-if="status !== 'new'"
+        class="book-tile__progress"
+        role="presentation"
+        :aria-hidden="true"
+      >
+        <span
+          class="book-tile__progress-fill"
+          :class="{ 'book-tile__progress-fill--done': status === 'done' }"
+          :style="{ width: `${progress}%` }"
+        />
       </div>
     </RouterLink>
   </article>

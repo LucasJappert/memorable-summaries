@@ -132,6 +132,23 @@ function onPhotoError() {
       <span class="cover-art__monogram">{{ monogram }}</span>
     </template>
 
+    <span
+      v-if="done"
+      class="cover-art__badge cover-art__badge--done"
+      aria-hidden="true"
+    >
+      <svg class="cover-art__check" viewBox="0 0 12 12" aria-hidden="true">
+        <path
+          d="M2.5 6.2 4.8 8.5 9.5 3.5"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="1.8"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+      </svg>
+    </span>
+
     <slot />
   </div>
 </template>

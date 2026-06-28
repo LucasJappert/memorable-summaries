@@ -1,21 +1,20 @@
 <script setup lang="ts">
 import { computed, onMounted } from 'vue'
-import { bookCatalog } from '../books/catalog'
+import { bookCatalog, type BookCatalogEntry } from '../books/catalog'
 import SiteHeader from '../components/SiteHeader.vue'
 import BookCard from '../components/BookCard.vue'
-import { getBookReadingStatus, STATUS_SORT_ORDER } from '../reading/status'
+
+function compareByReadingOrder(a: BookCatalogEntry, b: BookCatalogEntry): number {
+  const orderA = a.readingOrder ?? Number.MAX_SAFE_INTEGER
+  const orderB = b.readingOrder ?? Number.MAX_SAFE_INTEGER
+  return orderA - orderB
+}
 
 onMounted(() => {
   window.scrollTo(0, 0)
 })
 
-const sortedCatalog = computed(() =>
-  [...bookCatalog].sort((a, b) => {
-    const orderA = STATUS_SORT_ORDER[getBookReadingStatus(a.slug)]
-    const orderB = STATUS_SORT_ORDER[getBookReadingStatus(b.slug)]
-    return orderA - orderB
-  }),
-)
+const sortedCatalog = computed(() => [...bookCatalog].sort(compareByReadingOrder))
 </script>
 
 <template>

@@ -9,6 +9,7 @@ import ConceptGrid from '../components/ConceptGrid.vue'
 import Timeline from '../components/Timeline.vue'
 import FiguresGrid from '../components/FiguresGrid.vue'
 import { useReadingPosition } from '../composables/useReadingPosition'
+import { getBookReadingStatus } from '../reading/status'
 
 const props = defineProps<{ slug: string }>()
 
@@ -50,6 +51,8 @@ const sectionLabels = computed(() => {
 
 const bookSlug = computed(() => props.slug)
 
+const readingStatus = computed(() => getBookReadingStatus(props.slug))
+
 useReadingPosition(bookSlug, readingSectionIds, sectionLabels)
 </script>
 
@@ -58,7 +61,7 @@ useReadingPosition(bookSlug, readingSectionIds, sectionLabels)
     <ReadingProgress />
 
     <SiteHeader :toc="navToc" :book-title="headerBookTitle" />
-    <HeroSection :meta="book.meta" :slug="book.slug" />
+    <HeroSection :meta="book.meta" :slug="book.slug" :done="readingStatus === 'done'" />
 
     <div class="page-layout">
       <main id="contenido" class="page-layout__main">
