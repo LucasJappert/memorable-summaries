@@ -74,6 +74,31 @@ COVER_META: dict[str, tuple[str, str]] = {
         "Stephen Jay Gould",
     ),
     "superintelligence": ("Superintelligence", "Nick Bostrom"),
+    "origins": ("Origins: Fourteen Billion Years of Cosmic Evolution", "Neil deGrasse Tyson"),
+    "intelligent-life-universe": (
+        "Intelligent Life in the Universe",
+        "Peter Ulmschneider",
+    ),
+    "biosignatures-astrobiology": (
+        "From Fossils to Astrobiology",
+        "Joseph Seckbach",
+    ),
+    "incognito": ("Incognito: The Secret Lives of the Brain", "David Eagleman"),
+    "future-of-the-mind": ("The Future of the Mind", "Michio Kaku"),
+    "emperors-new-mind": (
+        "The Emperor's New Mind",
+        "Roger Penrose",
+    ),
+    "life-3-0": (
+        "Life 3.0: Being Human in the Age of Artificial Intelligence",
+        "Max Tegmark",
+    ),
+    "our-mathematical-universe": (
+        "Our Mathematical Universe",
+        "Max Tegmark",
+    ),
+    "homo-deus": ("Homo Deus", "Yuval Noah Harari"),
+    "21-lessons": ("21 Lessons for the 21st Century", "Yuval Noah Harari"),
 }
 
 # ISBN opcional para portadas de mayor resolución en Open Library
@@ -81,6 +106,7 @@ COVER_ISBN: dict[str, str] = {
     "wonderful-life": "039330700X",
     "cosmos": "9780345539434",
     "blind-watchmaker": "9780141026169",
+    "life-3-0": "9780525558613",
 }
 
 # EPUB alternativo cuando el de fuentes/ falla (MOBI, DRM, etc.)
