@@ -4,7 +4,6 @@ import { getBookBySlug } from '../books/catalog'
 import ReadingProgress from '../components/ReadingProgress.vue'
 import SiteHeader from '../components/SiteHeader.vue'
 import HeroSection from '../components/HeroSection.vue'
-import TableOfContents from '../components/TableOfContents.vue'
 import BookSection from '../components/BookSection.vue'
 import ConceptGrid from '../components/ConceptGrid.vue'
 import Timeline from '../components/Timeline.vue'
@@ -14,6 +13,20 @@ import { useReadingPosition } from '../composables/useReadingPosition'
 const props = defineProps<{ slug: string }>()
 
 const book = computed(() => getBookBySlug(props.slug))
+
+const headerBookTitle = computed(
+  () => book.value?.meta.titleEs?.trim() || book.value?.meta.title,
+)
+
+const navToc = computed(() => {
+  if (!book.value) return []
+  return [
+    ...book.value.toc,
+    { id: 'conceptos', num: '✦', label: 'Conceptos clave' },
+    { id: 'cronologia', num: '◈', label: 'Cronología' },
+    { id: 'figuras', num: '✦', label: 'Figuras clave' },
+  ]
+})
 
 const readingSectionIds = computed(() => {
   if (!book.value) return []
@@ -44,15 +57,11 @@ useReadingPosition(bookSlug, readingSectionIds, sectionLabels)
   <template v-if="book">
     <ReadingProgress />
 
-    <SiteHeader :toc="book.toc" />
-    <HeroSection :meta="book.meta" />
+    <SiteHeader :toc="navToc" :book-title="headerBookTitle" />
+    <HeroSection :meta="book.meta" :slug="book.slug" />
 
     <div class="page-layout">
-      <aside class="page-layout__sidebar" aria-label="Navegación del libro">
-        <TableOfContents :items="book.toc" />
-      </aside>
-
-      <main class="page-layout__main">
+      <main id="contenido" class="page-layout__main">
         <div class="container">
           <BookSection v-for="section in book.sections" :key="section.id" :section="section" />
 

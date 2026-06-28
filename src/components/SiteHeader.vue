@@ -6,7 +6,10 @@ import { useActiveSection } from '../composables/useActiveSection'
 import { useScrollHeader } from '../composables/useScrollHeader'
 import BrandLogo from './BrandLogo.vue'
 
-const props = defineProps<{ toc?: TocItem[] }>()
+const props = defineProps<{
+  toc?: TocItem[]
+  bookTitle?: string
+}>()
 
 const route = useRoute()
 const isBookPage = computed(() => route.name === 'book')
@@ -84,6 +87,14 @@ onUnmounted(() => {
           <span class="site-header__title">Memorable Summaries</span>
         </RouterLink>
       </div>
+
+      <p
+        v-if="isBookPage && bookTitle"
+        class="site-header__book-title"
+        :title="bookTitle"
+      >
+        {{ bookTitle }}
+      </p>
 
       <button
         v-if="hasToc"
