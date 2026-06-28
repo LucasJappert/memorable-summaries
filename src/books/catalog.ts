@@ -10,6 +10,16 @@ import { blindWatchmaker } from '../data/blind-watchmaker'
 import { vitalQuestion } from '../data/vital-question'
 import { wonderfulLife } from '../data/wonderful-life'
 import { superintelligence } from '../data/superintelligence'
+import { origins } from '../data/origins'
+import { intelligentLifeUniverse } from '../data/intelligent-life-universe'
+import { biosignaturesAstrobiology } from '../data/biosignatures-astrobiology'
+import { incognito } from '../data/incognito'
+import { futureOfTheMind } from '../data/future-of-the-mind'
+import { emperorsNewMind } from '../data/emperors-new-mind'
+import { life30 } from '../data/life-3-0'
+import { ourMathematicalUniverse } from '../data/our-mathematical-universe'
+import { homoDeus } from '../data/homo-deus'
+import { twentyOneLessons } from '../data/21-lessons'
 
 export interface BookCatalogEntry {
   slug: string
@@ -50,7 +60,7 @@ function buildCatalogEntry(book: BookSummary): BookCatalogEntry {
   }
 }
 
-/** Fase 1–2 (orden-de-lectura.md) + superintelligence */
+/** Fases 1–6 (orden-de-lectura.md), sin libros bloqueados ni Sapiens */
 const ALL_BOOKS: BookSummary[] = [
   cosmos,
   universoNada,
@@ -61,7 +71,17 @@ const ALL_BOOKS: BookSummary[] = [
   blindWatchmaker,
   vitalQuestion,
   wonderfulLife,
+  origins,
+  intelligentLifeUniverse,
+  biosignaturesAstrobiology,
+  incognito,
+  futureOfTheMind,
+  emperorsNewMind,
+  life30,
   superintelligence,
+  ourMathematicalUniverse,
+  homoDeus,
+  twentyOneLessons,
 ]
 
 export const bookCatalog: BookCatalogEntry[] = ALL_BOOKS.map(buildCatalogEntry)

@@ -12,9 +12,17 @@ export const READING_ORDER_BY_SLUG: Record<string, number> = {
   'blind-watchmaker': 7,
   'vital-question': 8,
   'wonderful-life': 9,
-  // Fase 3+
-  // origins: 10,
+  origins: 10,
+  'intelligent-life-universe': 11,
+  'biosignatures-astrobiology': 12,
+  incognito: 14,
+  'future-of-the-mind': 17,
+  'emperors-new-mind': 18,
+  'life-3-0': 19,
   superintelligence: 20,
+  'our-mathematical-universe': 21,
+  'homo-deus': 23,
+  '21-lessons': 24,
 }
 
 export function getReadingOrder(slug: string): number | undefined {
