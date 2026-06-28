@@ -101,12 +101,12 @@ COVER_META: dict[str, tuple[str, str]] = {
     "21-lessons": ("21 Lessons for the 21st Century", "Yuval Noah Harari"),
 }
 
-# ISBN opcional para portadas de mayor resolución en Open Library
-COVER_ISBN: dict[str, str] = {
+# ISBN opcional para portadas de mayor resolución en Open Library (validados por título)
+COVER_ISBN: dict[str, str | list[str]] = {
     "wonderful-life": "039330700X",
     "cosmos": "9780345539434",
     "blind-watchmaker": "9780141026169",
-    "life-3-0": "9780525558613",
+    "life-3-0": ["9781101946596", "1101946598"],
 }
 
 # EPUB alternativo cuando el de fuentes/ falla (MOBI, DRM, etc.)
@@ -152,107 +152,238 @@ def upgrade_google_books_url(url: str) -> str:
 
 
 def fetch_open_library_covers(title: str, author: str | None) -> list[bytes]:
-    author_short = author.split(",")[0].strip() if author else None
-    queries: list[dict[str, str]] = []
-    if author_short:
-        queries.append({"title": title, "author": author_short, "limit": "8"})
-    queries.append({"title": title, "limit": "8"})
-    if author_short:
-        queries.append({"q": f"{title} {author_short}", "limit": "8"})
-
     found: list[bytes] = []
     seen_urls: set[str] = set()
     best_width = 0
 
-    for params in queries:
-        url = f"{OPEN_LIBRARY_SEARCH}?{urllib.parse.urlencode(params)}"
-        raw = http_get(url)
-        if not raw:
-            continue
-        try:
-            payload = json.loads(raw.decode("utf-8"))
-        except (json.JSONDecodeError, UnicodeDecodeError):
-            continue
+    for query_title, query_author in build_cover_queries(title, author):
+        params_list: list[dict[str, str]] = []
+        if query_author:
+            params_list.append({"title": query_title, "author": query_author, "limit": "8"})
+        params_list.append({"title": query_title, "limit": "8"})
+        if query_author:
+            params_list.append({"q": f"{query_title} {query_author}", "limit": "8"})
 
-        for doc in payload.get("docs") or []:
-            urls: list[str] = []
-            cover_id = doc.get("cover_i")
-            if cover_id:
-                urls.append(f"https://covers.openlibrary.org/b/id/{cover_id}-L.jpg")
-            edition_key = doc.get("cover_edition_key") or doc.get("edition_key")
-            if edition_key:
-                urls.append(f"https://covers.openlibrary.org/b/olid/{edition_key}-L.jpg")
+        for params in params_list:
+            url = f"{OPEN_LIBRARY_SEARCH}?{urllib.parse.urlencode(params)}"
+            raw = http_get(url)
+            if not raw:
+                continue
+            try:
+                payload = json.loads(raw.decode("utf-8"))
+            except (json.JSONDecodeError, UnicodeDecodeError):
+                continue
 
-            for cover_url in urls:
-                if cover_url in seen_urls:
+            for doc in payload.get("docs") or []:
+                doc_title = doc.get("title")
+                doc_authors = doc.get("author_name") or []
+                if not title_matches(title, doc_title):
                     continue
-                seen_urls.add(cover_url)
-                data = http_get(cover_url)
-                if not data or len(data) <= 500:
+                if author and not author_matches(author, doc_authors):
                     continue
-                width = image_width(data)
-                if width < 80:
-                    continue
-                found.append(data)
-                best_width = max(best_width, width)
-                if good_enough(best_width):
-                    return found
+
+                urls: list[str] = []
+                cover_id = doc.get("cover_i")
+                if cover_id:
+                    urls.append(f"https://covers.openlibrary.org/b/id/{cover_id}-L.jpg")
+                edition_key = doc.get("cover_edition_key") or doc.get("edition_key")
+                if edition_key:
+                    urls.append(f"https://covers.openlibrary.org/b/olid/{edition_key}-L.jpg")
+
+                for cover_url in urls:
+                    if cover_url in seen_urls:
+                        continue
+                    seen_urls.add(cover_url)
+                    data = http_get(cover_url)
+                    if not data or len(data) <= 500:
+                        continue
+                    width = image_width(data)
+                    if width < 80:
+                        continue
+                    found.append(data)
+                    best_width = max(best_width, width)
+                    if good_enough(best_width):
+                        return found
 
     return found
 
 
 def fetch_google_books_covers(title: str, author: str | None) -> list[bytes]:
-    author_short = author.split(",")[0].strip() if author else None
-    queries: list[str] = [f"intitle:{title}"]
-    if author_short:
-        queries.append(f"intitle:{title} inauthor:{author_short}")
-        queries.append(f"{title} {author_short}")
-
     found: list[bytes] = []
     seen_urls: set[str] = set()
     best_width = 0
 
-    for query_str in queries:
-        params = urllib.parse.urlencode({"q": query_str, "maxResults": "3"})
-        raw = http_get(f"{GOOGLE_BOOKS_API}?{params}")
-        if not raw:
-            continue
-        try:
-            payload = json.loads(raw.decode("utf-8"))
-        except (json.JSONDecodeError, UnicodeDecodeError):
-            continue
+    for query_title, query_author in build_cover_queries(title, author):
+        query_strings: list[str] = [f'intitle:"{query_title}"']
+        if query_author:
+            query_strings.append(f'intitle:"{query_title}" inauthor:"{query_author}"')
+            query_strings.append(f"{query_title} {query_author}")
 
-        for item in payload.get("items") or []:
-            links = (item.get("volumeInfo") or {}).get("imageLinks") or {}
-            for key in ("extraLarge", "large", "medium", "small", "thumbnail"):
-                img_url = links.get(key)
-                if not img_url:
+        for query_str in query_strings:
+            params = urllib.parse.urlencode({"q": query_str, "maxResults": "5"})
+            raw = http_get(f"{GOOGLE_BOOKS_API}?{params}")
+            if not raw:
+                continue
+            try:
+                payload = json.loads(raw.decode("utf-8"))
+            except (json.JSONDecodeError, UnicodeDecodeError):
+                continue
+
+            for item in payload.get("items") or []:
+                volume = item.get("volumeInfo") or {}
+                volume_title = volume.get("title")
+                volume_authors = volume.get("authors") or []
+                if not title_matches(title, volume_title):
                     continue
-                img_url = upgrade_google_books_url(img_url)
-                if img_url in seen_urls:
+                if author and not author_matches(author, volume_authors):
                     continue
-                seen_urls.add(img_url)
-                data = http_get(img_url)
-                if not data or len(data) <= 500:
-                    continue
-                width = image_width(data)
-                if width < 80:
-                    continue
-                found.append(data)
-                best_width = max(best_width, width)
-                if good_enough(best_width):
-                    return found
+
+                links = volume.get("imageLinks") or {}
+                for key in ("extraLarge", "large", "medium", "small", "thumbnail"):
+                    img_url = links.get(key)
+                    if not img_url:
+                        continue
+                    img_url = upgrade_google_books_url(img_url)
+                    if img_url in seen_urls:
+                        continue
+                    seen_urls.add(img_url)
+                    data = http_get(img_url)
+                    if not data or len(data) <= 500:
+                        continue
+                    width = image_width(data)
+                    if width < 80:
+                        continue
+                    found.append(data)
+                    best_width = max(best_width, width)
+                    if good_enough(best_width):
+                        return found
 
     return found
 
 
-def fetch_isbn_covers(isbn: str) -> list[bytes]:
+def normalize_text(value: str) -> str:
+    value = value.lower()
+    value = re.sub(r"[^\w\s]", " ", value, flags=re.UNICODE)
+    return re.sub(r"\s+", " ", value).strip()
+
+
+def title_tokens(title: str) -> list[str]:
+    stop = {"the", "a", "an", "de", "la", "el", "los", "las", "y", "and", "of", "for"}
+    return [t for t in normalize_text(title).split() if len(t) > 2 and t not in stop]
+
+
+def title_matches(expected: str, found: str | None) -> bool:
+    if not found:
+        return False
+    found_norm = normalize_text(found)
+    tokens = title_tokens(expected)
+    if not tokens:
+        return True
+    hits = sum(1 for token in tokens if token in found_norm)
+    return hits >= max(1, len(tokens) // 2)
+
+
+def author_matches(expected: str | None, found_authors: list[str] | None) -> bool:
+    if not expected:
+        return True
+    if not found_authors:
+        return False
+    expected_last = normalize_text(expected.split(",")[0]).split()[-1]
+    for author in found_authors:
+        if expected_last and expected_last in normalize_text(author):
+            return True
+    return False
+
+
+def build_cover_queries(title: str, author: str | None) -> list[tuple[str, str | None]]:
+    """Variantes de búsqueda: título completo, corto y con/sin autor."""
+    author_short = author.split(",")[0].strip() if author else None
+    short_title = title.split(":")[0].strip()
+    queries: list[tuple[str, str | None]] = []
+    seen: set[tuple[str, str | None]] = set()
+
+    for candidate_title in (title, short_title):
+        for candidate_author in (author_short, None):
+            key = (candidate_title, candidate_author)
+            if key in seen:
+                continue
+            seen.add(key)
+            queries.append(key)
+    return queries
+
+
+def fetch_isbn_metadata(isbn: str) -> tuple[str | None, list[str]] | None:
+    raw = http_get(f"https://openlibrary.org/isbn/{isbn}.json")
+    if not raw:
+        return None
+    try:
+        payload = json.loads(raw.decode("utf-8"))
+    except (json.JSONDecodeError, UnicodeDecodeError):
+        return None
+    title = payload.get("title")
+    authors: list[str] = []
+    for author_ref in payload.get("authors") or []:
+        key = author_ref.get("key") if isinstance(author_ref, dict) else None
+        if not key:
+            continue
+        author_raw = http_get(f"https://openlibrary.org{key}.json")
+        if not author_raw:
+            continue
+        try:
+            author_payload = json.loads(author_raw.decode("utf-8"))
+        except (json.JSONDecodeError, UnicodeDecodeError):
+            continue
+        name = author_payload.get("name")
+        if name:
+            authors.append(name)
+    return title, authors
+
+
+def fetch_isbn_covers(
+    isbn: str,
+    *,
+    expected_title: str | None = None,
+    expected_author: str | None = None,
+) -> list[bytes]:
+    meta = fetch_isbn_metadata(isbn)
+    if meta:
+        found_title, found_authors = meta
+        if expected_title and not title_matches(expected_title, found_title):
+            return []
+        if expected_author and not author_matches(expected_author, found_authors):
+            return []
+
     found: list[bytes] = []
     for size in OPEN_LIBRARY_SIZES:
         url = f"https://covers.openlibrary.org/b/isbn/{isbn}-{size}.jpg"
         data = http_get(url)
         if data and len(data) > 500 and image_width(data) >= 80:
             found.append(data)
+    return found
+
+
+def fetch_isbn_covers_for_slug(
+    slug: str,
+    expected_title: str,
+    expected_author: str | None,
+) -> list[bytes]:
+    isbns = COVER_ISBN.get(slug)
+    if not isbns:
+        return []
+    if isinstance(isbns, str):
+        isbns = [isbns]
+
+    found: list[bytes] = []
+    for isbn in isbns:
+        found.extend(
+            fetch_isbn_covers(
+                isbn,
+                expected_title=expected_title,
+                expected_author=expected_author,
+            )
+        )
+        if found and good_enough(image_width(pick_best_cover(found) or b"")):
+            break
     return found
 
 
@@ -426,18 +557,28 @@ def resolve_cover_bytes(
             candidates.append(cover_bytes_tuple[0])
 
     if output_slug in COVER_ISBN:
-        candidates.extend(fetch_isbn_covers(COVER_ISBN[output_slug]))
+        meta_title, meta_author = resolve_cover_metadata(
+            output_slug, title, author, book_path, fmt
+        )
+        if meta_title:
+            candidates.extend(
+                fetch_isbn_covers_for_slug(
+                    output_slug,
+                    meta_title,
+                    meta_author,
+                )
+            )
 
     meta_title, meta_author = resolve_cover_metadata(
         output_slug, title, author, book_path, fmt
     )
     if meta_title:
-        ol = fetch_open_library_covers(meta_title, meta_author)
-        candidates.extend(ol)
-        best = pick_best_cover(candidates)
-        if best and good_enough(image_width(best)):
-            return best
-        candidates.extend(fetch_google_books_covers(meta_title, meta_author))
+        for fetcher in (fetch_open_library_covers, fetch_google_books_covers):
+            found = fetcher(meta_title, meta_author)
+            candidates.extend(found)
+            best = pick_best_cover(candidates)
+            if best and good_enough(image_width(best)):
+                return best
 
     return pick_best_cover(candidates)
 
