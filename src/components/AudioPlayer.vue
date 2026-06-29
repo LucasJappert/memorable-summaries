@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { computed, onBeforeUnmount, ref, watch } from 'vue'
+import { audioUrl, publicAssetUrl } from '../utils/audioUrl'
 
 const props = withDefaults(
   defineProps<{
@@ -11,7 +12,9 @@ const props = withDefaults(
   { available: undefined },
 )
 
-const src = computed(() => props.audioSrc ?? `/audio/${props.slug}.mp3`)
+const src = computed(() =>
+  props.audioSrc ? publicAssetUrl(props.audioSrc) : audioUrl(props.slug),
+)
 
 const audioEl = ref<HTMLAudioElement | null>(null)
 const progressEl = ref<HTMLDivElement | null>(null)

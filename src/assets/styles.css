@@ -2118,6 +2118,12 @@
       --gutter-right: max(var(--gutter), env(safe-area-inset-right, 0px));
     }
 
+    .audio-player {
+      width: 100%;
+      max-width: none;
+      margin-top: 0.85rem;
+    }
+
     .hero {
       padding-left: var(--gutter-left);
       padding-right: var(--gutter-right);

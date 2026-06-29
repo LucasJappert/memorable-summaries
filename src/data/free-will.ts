@@ -11,7 +11,6 @@ export const freeWill: BookSummary = {
       "📖 2012 · Free Press / Simon & Schuster",
       "✍️ Ensayo breve · neurociencia y filosofía",
     ],
-    audio: '/audio/free-will.mp3',
   },
   toc: [
   {
