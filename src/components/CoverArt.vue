@@ -8,6 +8,7 @@ const props = defineProps<{
   slug: string
   meta: BookMeta
   done?: boolean
+  hasAudio?: boolean
 }>()
 
 const theme = computed(() => coverThemeFromSlug(props.slug))
@@ -131,6 +132,20 @@ function onPhotoError() {
 
       <span class="cover-art__monogram">{{ monogram }}</span>
     </template>
+
+    <span
+      v-if="hasAudio"
+      class="cover-art__badge cover-art__badge--audio"
+      title="Narración en audio disponible"
+      aria-hidden="true"
+    >
+      <svg class="cover-art__audio-icon" viewBox="0 0 24 24" aria-hidden="true">
+        <path
+          d="M12 3a9 9 0 0 0-9 9v7c0 1.1.9 2 2 2h1v-8H5a7 7 0 0 1 14 0v8h1c1.1 0 2-.9 2-2v-7a9 9 0 0 0-9-9z"
+          fill="currentColor"
+        />
+      </svg>
+    </span>
 
     <span
       v-if="done"

@@ -28,6 +28,7 @@ legacy/<slug>.html           ← HTML standalone con el mismo CSS
 |------|-----|---------|
 | **1 → `.md`** | Extraer y condensar el libro | Revisable, editable, barato de iterar. Separás *contenido* de *presentación*. |
 | **2 → `.ts` / `.html`** | Maquetar para memorizar | Formato fijo, visual, reutiliza componentes y estilos existentes. |
+| **3 → `audio/*.wav`** | Narración TTS de un resumen | Un `.md` por vez; ver `docs/prompts/03-audio-desde-resumen.md` |
 
 Si mezclás extracción y maquetado en un solo prompt, la IA suele:
 - perder capítulos o conceptos clave,

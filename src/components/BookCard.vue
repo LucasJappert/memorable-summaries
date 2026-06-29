@@ -2,6 +2,7 @@
 import { computed } from 'vue'
 import type { BookCatalogEntry } from '../books/catalog'
 import { readReadingPosition } from '../reading/storage'
+import { bookHasAudio } from '../books/audio-catalog'
 import { getBookProgress, getBookReadingStatus } from '../reading/status'
 import CoverArt from './CoverArt.vue'
 
@@ -17,14 +18,17 @@ const progress = computed(() => getBookProgress(props.book.slug))
 
 const status = computed(() => getBookReadingStatus(props.book.slug))
 
+const hasAudio = computed(() => bookHasAudio(props.book.slug))
+
 const linkLabel = computed(() => {
+  const audioNote = hasAudio.value ? ' Incluye narración en audio.' : ''
   if (status.value === 'reading') {
-    return `${displayTitle.value}. Continuar en ${reading.value?.sectionLabel ?? 'lectura'}, ${progress.value}% leído.`
+    return `${displayTitle.value}. Continuar en ${reading.value?.sectionLabel ?? 'lectura'}, ${progress.value}% leído.${audioNote}`
   }
   if (status.value === 'done') {
-    return `${displayTitle.value}. Completado.`
+    return `${displayTitle.value}. Completado.${audioNote}`
   }
-  return `${displayTitle.value}. Sin empezar.`
+  return `${displayTitle.value}. Sin empezar.${audioNote}`
 })
 
 const bookLink = computed(() => {
@@ -44,7 +48,12 @@ const bookLink = computed(() => {
           {{ book.readingOrder }}
         </span>
 
-        <CoverArt :slug="book.slug" :meta="book.meta" :done="status === 'done'">
+        <CoverArt
+          :slug="book.slug"
+          :meta="book.meta"
+          :done="status === 'done'"
+          :has-audio="hasAudio"
+        >
           <span
             v-if="status === 'reading' && progress > 0"
             class="cover-art__badge cover-art__badge--reading"

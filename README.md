@@ -10,6 +10,7 @@ Detalle del circuito en **[docs/PIPELINE.md](docs/PIPELINE.md)**:
 
 1. Libro → `summaries/<slug>.md` (prompt en `docs/prompts/01-resumen-desde-libro.md`)
 2. MD → `src/data/<slug>.ts` (prompt en `docs/prompts/02-vista-desde-resumen.md`)
+3. MD → `audio/<slug>.wav` (prompt en `docs/prompts/03-audio-desde-resumen.md`) — **un libro por vez**
 
 Plantilla del MD intermedio: `docs/templates/resumen-libro.template.md`
 

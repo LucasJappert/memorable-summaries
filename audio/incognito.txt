@@ -1,0 +1,225 @@
+Incógnito: Las vidas secretas del cerebro, de David Eagleman.
+
+Prólogo. El yo no está al volante
+
+El epígrafe del libro cita a Blaise Pascal: el hombre es incapaz de ver la nada de la que emerge y el infinito en que se pierde. David Eagleman propone una caída paralela a la de Galileo: no solo fuimos expulsados del centro del universo, sino del centro de nosotros mismos.
+
+Antes del capítulo 1, el autor enumera enigmas que el libro resolverá: ¿cómo puedes enfadarte contigo mismo?, ¿por qué las rocas suben tras mirar una cascada?, ¿por qué William Douglas decía que podía jugar al fútbol estando paralizado?, ¿por qué Thomas Edison electrocutó a Topsy?, ¿por qué las stripers ganan más en ciertos días del mes?, ¿qué comparten Ulises y la crisis de las hipotecas subprime?
+
+Cita: El hombre es igualmente incapaz de ver la nada de la que emerge y el infinito en que se pierde. — Blaise Pascal, Pensées
+
+Idea clave: La neurociencia moderna confirma la intuición de Pascal: la mayor parte de lo que hacemos y pensamos ocurre incógnito, bajo el umbral de la conciencia.
+
+Capítulo uno. Hay alguien en mi cabeza, pero no soy yo
+
+El cerebro pesa unos 1,4 kg y contiene cientos de miles de millones de neuronas; cada una es tan compleja como una ciudad. Una célula típica hace unas 10 000 conexiones: en un solo centímetro cúbico hay tantas sinapsis como estrellas en la Vía Láctea.
+
+En 1949, Arthur Alberts grabó música en África occidental; un nativo acusó al magnetófono de robarle la lengua. Igual que la voz es física aunque parezca etérea, los pensamientos dependen de sustancia cerebral: el sueño profundo los elimina, el alcohol o el café los modulan, y una lesión del tamaño de un ded meñique puede cambiar la música, el color o el riesgo que percibes.
+
+Un experimento reciente: hombres califican fotos de mujeres; las pupilas dilatadas (señal de excitación sexual) las eligen como más atractivas, pero ninguno puede explicar por qué. Algo en el cerebro sabía lo que la conciencia ignoraba. La conciencia es como un periódico ligero (USA Today): resume lo ya decidido en coaliciones neuronales; llegas tarde a la información.
+
+Conciencia mínima. El yo consciente es la parte más pequeña de la actividad cerebral; la mayoría opera sin permiso de acceso.
+
+🎙️. Tremendous magic
+
+🌙. Analogía Galileo
+
+Cita: Hay alguien en mi cabeza, pero no soy yo. — Pink Floyd (citado por Eagleman)
+
+Idea clave: El primer hallazgo al estudiar nuestro propio circuito: casi todo lo que hacemos, pensamos y sentimos no está bajo control consciente.
+
+Capítulo dos. El testimonio de los sentidos: ¿cómo es realmente la experiencia?
+
+Ernst Mach notó que tiras de papel uniformes, juntas, parecen tener gradiente de sombra (bandas de Mach): llevamos siglos sin ver lo obvio hasta que alguien lo señala. Somos observadores pésimos de nuestra propia experiencia; la introspección no ayuda.
+
+Mover el brazo no revela la tormenta neural subyacente; Charles Sherrington concluyó que la experiencia del movimiento es un producto mental distinto de los músculos. La visión ocupa cerca de un tercio del cerebro humano; escenas ambiguas (Torre de Pisa lejana vs. maqueta cercana) se desambiguan con contexto y trucos. Pacientes que recuperan la vista tras décadas de ceguera deben reaprender a ver.
+
+~⅓. Cerebro humano dedicado a visión
+
+~0,4 s. Tiempo de una recta de Nolan Ryan (100,9 mph)
+
+~0,5 s. Retraso de la conciencia respecto al acto
+
+Ilusiones como ceguera al cambio: cambios enormes (caja, jeep) pasan desapercibidos si no prestas atención; en un experimento, el experimentador se sustituye por otro tras una puerta y la mayoría sigue dando indicaciones. La periferia tiene resolución pésima; el cerebro construye un boceto 2½-D, no un modelo 3-D completo. Alfred Yarbus (1967): según la pregunta sobre un cuadro de Repin, los ojos muestrean distintas zonas (caras, ropa, edades).
+
+El punto ciego ocupa el diámetro de 17 lunas; el cerebro rellena el fondo. Helmholtz llamó inferencia inconsciente a las suposiciones sobre la luz desde arriba. Tras una cascada, las rocas parecen subir (efecto post-movimiento): movimiento sin cambio de posición. Mike McBeath demostró que los jardineros de béisbol no calculan posición ni velocidad: mantienen la trayectoria en línea recta desde su punto de vista.
+
+Paul Bach-y-Rita: cámara → vibradores en la espalda → los ciegos acaban viendo. Eric Weihenmayer escala con BrainPort (electrodos en la lengua). El cerebro en la oscuridad del cráneo: no importa de dónde vengan los impulsos si correlacionan con el movimiento. El sistema nervioso central genera actividad interna modulada por los sentidos, no construida desde cero (Thomas Graham Brown, gato en cinta sin nervios sensoriales).
+
+Idea clave: Primera lección: no confíes en los sentidos; la percepción es construcción activa, no registro fiel del mundo.
+
+Capítulo tres. Mente: la brecha
+
+Cambiar de carril en un simulador: casi todos giran a la derecha y enderezan; la maniobra real exige girar a la derecha, cruzar el centro y corregir a la izquierda. Sabes hacerlo al volante, pero no puedes describirlo: es memoria procedimental, un tipo de memoria implícita.
+
+Los mejores sexadores de pollos japoneses distinguen machos y hembras por vent sexing sin poder articular las señales; el maestro solo dice sí o no. Igual con los spotters de aviones en la Segunda Guerra Mundial. Pacientes con amnesia anterógrada mejoran en Tetris sin recordar haber jugado.
+
+Tests de asociación implícita (IAT): tiempos de reacción revelan sesgos raciales, de peso o religiosos que la introspección niega. John Jones (2004): en Georgia y Florida, más matrimonios entre personas cuya inicial coincide (egotismo implícito). Priming, efecto mera exposición, ilusión de verdad: lo oído antes parece más creíble. Antoine Bechara: la conductancia cutánea advierte de mazos malos ~13 cartas antes de que la conciencia lo sepa (~25).
+
+La conciencia entrena al robot: el tenista consciente al aprender, automático en Wimbledon. Quemar tareas en el circuito aporta velocidad y eficiencia energética (Kasparov ~20 W vs. Deep Blue miles de vatios). Tetris: cerebro muy activo al aprender, casi silencioso como experto.
+
+🚗. Brecha conocimiento-acceso
+
+🎯. Intuición corporal
+
+🎾. CEO vs. robot
+
+Cita: No puedo abarcar todo lo que soy. — Agustín de Hipona
+
+Idea clave: Hay un abismo entre lo que el cerebro ejecuta y lo que la mente puede inspeccionar; la conciencia interfiere si se mete en detalles que no comprende.
+
+Capítulo cuatro. Las clases de pensamientos pensables
+
+Una rana no desea a un humano; un koala come heces maternales para digerir eucalipto. Nada es inherentemente sabroso: la deliciosidad indexa utilidad evolutiva. Lo mismo aplica a lógica, ética, belleza y amor: hay pensamientos que puedes pensar y categorías enteras que no.
+
+Jakob von Uexküll (1909): cada especie habita su Umwelt (mundo percibido) dentro del Umgebung (realidad más amplia). Veemos menos de una diez billonésima del espectro electromagnético. ~15 % de mujeres tienen un cuarto tipo de fotorreceptor; ven colores indistinguibles para el resto.
+
+Sinestesia: ~1 % fusiona sentidos (días en color, números en espacio). Bebés no son tabula rasa: prefieren caras, sorprenden ante objetos sólidos que se traspasan, distinguen animado de inanimado. Leda Cosmides y John Tooby: el problema lógico de cartas falla; la versión menores y alcohol se resuelve fácil — cerebro especializado en intercambio social, no en lógica abstracta.
+
+Belleza: proporción cintura-cadera ~0,67–0,8; dilatación pupilar atrae sin que el hombre lo sepa. Efecto vislumbre: rostros breves parecen más bellos. Strippers: ~68 $/h en pico de fertilidad vs. ~35 $/h menstruando; anticonceptivas pierden el pico. Feromonas/MHC: mujeres prefieren olores de hombres con MHC disímil. Vasopresina y el gen RS3 334 correlacionan con infidelidad en hombres suecos.
+
+Instinto vs. automatización. Instintos vienen en el ADN; automatizar (bicicleta, tenis) ocurre en la vida; ambos quedan fuera del acceso consciente.
+
+Instinct blindness. Cosmides/Tooby: no vemos los programas que más nos gobiernan porque funcionan demasiado bien.
+
+James. Hacer extraño lo natural: preguntar por qué sonreímos, por qué palpita el corazón ante multitudes.
+
+Idea clave: La evolución talló un Umwelt estrecho de pensamientos posibles; lo obvio es solo lo que nuestro hardware permite captar.
+
+Capítulo cinco. El cerebro es un equipo de rivales
+
+Mel Gibson (2006): borracho, insultos antisemitas; sobrio, disculpas sinceras. ¿Cuál es el verdadero Gibson? Eagleman: ambos — el cerebro contiene multitudes (Walt Whitman).
+
+Marvin Minsky: mente como sociedad de subagentes especializados sin mente propia. La democracia neuronal compite por un único canal de comportamiento: tarta de chocolate vs. dieta. Sistemas racional (mundo externo) vs. emocional (estado interno). Dilema del tranvía: cambiar agujas (abstracto) vs. empujar al hombre (activa emoción) — Joshua Greene.
+
+Kahneman y Tversky: $100 ahora vs. $110 en una semana → ahora; $100 en 52 semanas vs. $110 en 53 → esperar. Descuento temporal con forma de dos procesos (Sam McClure). Hipotecas subprime explotaron el lo quiero ya. Contratos de Ulises: atarse al mástil — clubes navideños, IRS como alcancía, depósitos para adelgazar.
+
+Cerebro dividido (Roger Sperry, Nobel): hemisferios pueden aprender por separado; mano derecha elige manzana, izquierda lápiz. Gazzaniga/LeDoux: gallina + pala de nieve → el hemisferio izquierdo inventa: Necesitas pala para limpiar el gallinero. Anosognosia: William O. Douglas negaba su parálisis; el cerebro fabrica narrativas coherentes (test de Stroop, lápiz entre dientes).
+
+⚖️. Team of rivals
+
+⏳. Ulises
+
+🧩. Reinventión
+
+Idea clave: No hay un solo yo al volante: hay coaliciones en conflicto y un intérprete narrativo que justifica lo ya decidido.
+
+Capítulo seis. Por qué la culpabilidad es la pregunta equivocada
+
+1 ago 1966: Charles Whitman, ex marine, dispara desde la torre de Texas (13 muertos, 33 heridos). Autopsia: glioblastoma comprimiendo amígdala. ¿Cambia eso su culpa?
+
+Alex: tumor orbitofrontal → pedofilia repentina; al extirparlo, normal; al recidivar el tumor, vuelve el comportamiento. Demencia frontotemporal: desinhibición social masiva. Parkinson con pramipexol (dopamina): ludopatía compulsiva reversible al bajar la dosis. Genes, plomo, maltrato infantil: distintos puntos de partida; no elegimos ni naturaleza ni crianza.
+
+El gen peligroso que multiplica por 8–44 la violencia: el cromosoma Y. Metáfora del elefante Tyke (86 disparos en Honolulu): no preguntamos culpa del elefante; ¿por qué sí del humano si el hardware es homólogo?
+
+Benjamin Libet: potencial de readiness ~1 s antes del impulso consciente de mover el dedo. Veto de Libet no salva el libre albedrío con evidencia. Principio de automatismo suficiente: aunque existiera libre albedrío, sería margen mínimo sobre maquinaria automática.
+
+Sustituir culpabilidad por modificabilidad: sentencia prospectiva (¿reincidirá?) con tablas actuariales para delitos sexuales (mejor que psiquiatras). Prefrontal workout: neurofeedback para fortalecer control de impulsos vs. lobotomía. No exculpar: explicar ≠ exculpar; aún hay que apartar peligrosos.
+
+Año 1966. Whitman en la torre de Texas; tumor en amígdala
+
+Año 1987. Kenneth Parks: homicidio sonambúlico; absuelto
+
+Año 2008. Gen RS3 334 de vasopresina y parejas en Suecia
+
+Año s. XXI. Eagleman: Initiative on Neuroscience and Law
+
+Idea clave: La pregunta legal no debe ser ¿cuánto culpable? sino ¿qué hacemos desde aquí? — modificabilidad y riesgo futuro.
+
+Capítulo siete. Vida después de la monarquía
+
+Tras Galileo, Hutton, Darwin, cuántica, ADN y neurociencia, ¿queda algo del hombre? Eagleman: cada destronamiento abrió realidades más vastas — millones de planetas con vida, selección natural aplicada en laboratorio, transistores y MRI.
+
+Entender el cerebro mejora política social: contratos de Ulises para dietas o jubilación; virtud como frenos que dominan motores fuertes, no ausencia de tentación. Montaigne en su torre: ¿Qué sé yo? — conocerse exige ciencia y introspección, con límites (100 millones de neuronas entéricas inaccesibles).
+
+Phineas Gage (1848): barra de hierro por lóbulo frontal → ya no es Gage. Drogas, serotonina, epilepsia temporal (voces proféticas), rabia: microcambios, macroconducta. Pero el reduccionismo solo no basta: genes + ambiente (Caspi: depresión con alelo corto + eventos adversos; abuso infantil + MAOA).
+
+Emergencia: propiedades del conjunto (vuelo, contención) no están en piezas sueltas. Analogía radio Kalahari: dañar circuitos silencia voces, pero ondas existían sin conocerlas. Materialismo no implica cinismo: si el cerebro fuera lo bastante simple para entenderlo, no seríamos lo bastante listos.
+
+Idea clave: Caer del trono consciente no empobrece: revela un cosmos interior tan prodigioso como el exterior.
+
+Conceptos clave
+
+Incógnito. Operaciones neuronales sin acceso consciente; el yo es un resumen tardío.
+
+Umwelt. Mundo subjetivo que cada especie (o cerebro) puede captar; fracción del Umgebung.
+
+Memoria implícita. Saber hacer sin poder declarar cómo (cambiar de carril, Tetris en amnésicos).
+
+Inferencia inconsciente. El cerebro completa datos sensoriales con suposiciones previas (Helmholtz).
+
+Team of rivals. Subpoblaciones neuronales compiten por el control del comportamiento.
+
+Contrato de Ulises. El yo presente ata al futuro contra tentaciones (club navideño, depósito).
+
+Automatismo suficiente. El libre albedrío, si existe, es marginal; la política legal puede prescindir de él.
+
+Modificabilidad. Criterio prospectivo para castigo/rehabilitación: ¿puede cambiar el cerebro?
+
+Instinct blindness. Invisibilidad de programas evolutivos que funcionan demasiado bien.
+
+Emergencia. Mente no reducible a piezas; propiedades nuevas del sistema completo.
+
+Cronología de hitos citados
+
+Año 1225–74. Aquino: acciones sin deliberación → categoría aparte (semilla de lo inconsciente)
+
+Año 1610. Galileo observa lunas de Júpiter; caída del geocentrismo
+
+Año 1646–1716. Leibniz: percepciones petites, apetencias inconscientes
+
+Año 1765. Publicación póstuma de Leibniz, New Essays
+
+Año 1895. Freud y Breuer: Studies on Hysteria; iceberg mental
+
+Año 1900. Freud: The Interpretation of Dreams
+
+Año 1949. Alberts graba música en África; metáfora tremendous magic
+
+Año 1960s. Libet: actividad cerebral antes del impulso consciente
+
+Año 1961. Primera cirugía de cerebro dividido en humanos (epilepsia)
+
+Año 1966. Masacre de la torre de Texas (Whitman)
+
+Año 1981. Gazzaniga/LeDoux: narrador post hoc en split-brain
+
+Año 2004. Jones: egotismo implícito en matrimonios por inicial
+
+Año 2011. Publicación de Incognito (Pantheon/Canongate)
+
+Figuras clave
+
+David Eagleman, Autor · Percepción y acción · Neurociencia y derecho
+
+Blaise Pascal, Epígrafe: nada e infinito; Umwelt filosófico
+
+Galileo Galilei, Modelo de destronamiento: Tierra pierde el centro
+
+Sigmund Freud, Iceberg psíquico; acceso limitado a lo inconsciente
+
+Hermann von Helmholtz, Inferencia inconsciente en visión
+
+Paul Bach-y-Rita, Sustitución sensorial: ver con la espalda o la lengua
+
+Marvin Minsky, Sociedad de mentes · subagentes
+
+Antonio Damasio, Marcador somático · decisiones y emoción
+
+Benjamin Libet, Potencial de readiness vs. conciencia
+
+Charles Whitman, Torre de Texas · tumor y culpabilidad
+
+La idea central
+
+La conciencia es un monarca que hereda un reino que no construyó.
+
+Neuronas, genes y rivales internos deciden antes de que llegue el titular.
+
+Confiar solo en introspección es chocar como piloto que ignora sus instrumentos.
+
+Pero destronar al yo abre un cosmos interior tan vasto como el cielo de Galileo.
+
+La pregunta útil no es ¿soy libre? sino ¿qué hacemos con lo que sabemos del cerebro?
+
+Eso — política, derecho, virtud — es la vida después de la monarquía.

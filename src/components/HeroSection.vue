@@ -1,14 +1,21 @@
 <script setup lang="ts">
+import { computed } from 'vue'
 import type { BookMeta } from '../types/book'
+import { bookHasAudio } from '../books/audio-catalog'
+import AudioPlayer from './AudioPlayer.vue'
 import CoverArt from './CoverArt.vue'
 
-defineProps<{ meta: BookMeta; slug: string; done?: boolean }>()
+const props = defineProps<{ meta: BookMeta; slug: string; done?: boolean }>()
+
+const hasAudio = computed(() => bookHasAudio(props.slug))
+
+const audioSrc = computed(() => props.meta.audio ?? `/audio/${props.slug}.mp3`)
 </script>
 
 <template>
   <header class="hero">
     <div class="hero__cover" aria-hidden="true">
-      <CoverArt :slug="slug" :meta="meta" :done="done" />
+      <CoverArt :slug="slug" :meta="meta" :done="done" :has-audio="hasAudio" />
     </div>
 
     <div class="hero__body">
@@ -26,6 +33,7 @@ defineProps<{ meta: BookMeta; slug: string; done?: boolean }>()
       <p class="meta">
         <span v-for="item in meta.meta" :key="item">{{ item }}</span>
       </p>
+      <AudioPlayer :slug="slug" :audio-src="audioSrc" class="hero__audio" />
       <a href="#contenido" class="hero__cta">Ver capítulos ↓</a>
     </div>
   </header>

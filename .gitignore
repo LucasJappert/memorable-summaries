@@ -35,6 +35,11 @@ fuentes/**
 # Texto extraído de epubs (regenerable)
 .extracted/
 
+# Audio TTS — commitear public/audio/*.mp3; intermedios regenerables
+audio/*/chunks/
+audio/*.wav
+audio/*.mp3
+
 # Python
 __pycache__/
 *.py[cod]

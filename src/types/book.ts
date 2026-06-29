@@ -6,6 +6,8 @@ export interface BookMeta {
   subtitle: string
   author: string
   meta: string[]
+  /** Ruta pública del audio narrado; default /audio/<slug>.mp3 */
+  audio?: string
   /** Overrides opcionales para la portada generativa */
   cover?: {
     monogram?: string

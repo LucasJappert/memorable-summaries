@@ -1,0 +1,163 @@
+Siete breves lecciones de física, de Carlo Rovelli.
+
+Prefacio. Siete lecciones para quien no sabe nada
+
+Estas lecciones están escritas para quienes ignoran casi todo de la ciencia moderna. Juntas ofrecen una panorámica rápida de lo más fascinante de la revolución física de los siglos XX y XXI — y de las preguntas que aún abren.
+
+La primera lección trata la relatividad general de Einstein; la segunda, la mecánica cuántica; la tercera, el cosmos; la cuarta, partículas elementales; la quinta, gravedad cuántica; la sexta, probabilidad y calor de agujeros negros; la séptima, nosotros mismos frente a ese mundo.
+
+Son expansiones de artículos publicados en el suplemento dominical del diario italiano Il Sole 24 Ore. Rovelli agradece a Armando Massarenti por abrir las páginas culturales del domingo a la ciencia.
+
+Capítulo uno. La teoría más bella (relatividad general)
+
+En 1905 Einstein envió tres artículos revolucionarios al Annalen der Physik. El tercero fue la relatividad especial; pero no encajaba con la gravedad newtoniana. Diez años de trabajo culminaron en noviembre de 1915 con la relatividad general, la teoría más bella según Lev Landau.
+
+Tras Faraday y Maxwell, Einstein comprendió que la gravedad debe transmitirse por un campo. Su genialidad: el campo gravitatorio es el espacio mismo. Newton imaginó espacio vacío + fuerza a distancia; Einstein unificó ambos: espacio que ondula, se curva y retuerce.
+
+Gauss describió superficies curvas; su alumno Riemann generalizó a dimensiones superiores. La curvatura R equivale a la energía de la materia. Predicciones verificadas: desviación de la luz (1919), dilatación temporal en altura, agujeros negros, expansión del universo, radiación cósmica de fondo, ondas gravitacionales (precisión 1:10¹¹).
+
+Cita: El campo gravitatorio no está difundido en el espacio: el campo gravitatorio es ese espacio. — Carlo Rovelli (parafraseando la idea de Einstein)
+
+Idea clave: Una intuición elemental — espacio = campo gravitatorio — se condensa en una ecuación que predijo un universo más extraño que cualquier ficción.
+
+Capítulo dos. Quanta (mecánica cuántica)
+
+Relatividad general: gema compacta de una sola mente. Mecánica cuántica: éxito experimental enorme pero envuelta en misterio. Nació en 1900 cuando Max Planck repartió la energía del campo en cuantos para resolver la radiación de cuerpo negro.
+
+Einstein (1905) mostró que los cuantos de luz son reales — fotones. Me parece que… escribió, como Darwin con la evolución. Bohr en Copenhague: electrones saltan entre órbitas discretas; Heisenberg: el electrón no siempre existe, solo al interactuar; la química entera sale de una ecuación.
+
+Probabilidad en el corazón de la física. Einstein nominó a Heisenberg al Nobel pero rechazó la interpretación: Dios no juega a los dados. Bohr defendió que la realidad es relacional. Un siglo después seguimos sin acuerdo: ¿realidad indescribible, pista incompleta o interacción como esencia?
+
+Idea clave: La mecánica cuántica no describe qué es un sistema, sino cómo afecta a otro — y funciona demasiado bien para ignorarla.
+
+Capítulo tres. Arquitectura del cosmos
+
+Antes de medir, la ciencia es visión. Anaximandro (~VI a.C.) reemplazó cielo arriba, tierra abajo por Tierra flotando en el espacio. Aristóteles y Ptolomeo: esferas celestes. Copérnico: el Sol en el centro; Galileo: movimiento relativo en barcos.
+
+El Sol es una estrella entre cien mil millones en la Galaxia; la Galaxia, un punto entre cientos de miles de millones de galaxias (foto Hubble). La mayoría de esas estrellas tienen planetas — miles de billones de mundos posibles.
+
+Pero el espacio no es plano: está curvado, ondulado como el mar, con agujeros negros. El universo entero emergió de una nube minúscula, caliente y densa hace unos 15 mil millones de años. ¿Antes? ¿Otros universos? Aún no lo sabemos.
+
+Idea clave: Cada salto cosmológico humilló nuestra posición central — y amplió la maravilla.
+
+Capítulo cuatro. Partículas (Modelo Estándar)
+
+Todo lo tangible: electrones y quarks (nombre de Gell-Mann, inspirado en Joyce). Gluones pegan quarks en protones y neutrones. Fotones, neutrinos, bosón de Higgs (2013, CERN): menos de diez tipos de ladrillos elementales.
+
+Partículas = cuantos de campos cuánticos; no piedras eternas sino excitaciones efímeras del vacío, que nunca está vacío (fluctuaciones como oleaje mínimo). El Modelo Estándar (1970s) predice todo lo medido, pero parece parcheado; renormalización funciona pero deja mal sabor.
+
+Limitación: materia oscura — masa gravitatoria invisible alrededor de galaxias, no descrita por el Modelo Estándar. Teorías elegantes (SU(5), supersimetría) fallaron en experimentos (desintegración del protón, partículas super simétricas).
+
+Idea clave: Por ahora el Modelo Estándar es lo mejor que tenemos para la materia — feo quizá, pero extraordinariamente preciso.
+
+Capítulo cinco. Granos de espacio (gravedad cuántica)
+
+Relatividad general: espacio curvo y continuo. Mecánica cuántica: saltos discretos. Ambas funcionan; ambas se contradicen. Gravedad cuántica busca la síntesis — como Newton unió caídas y órbitas, Maxwell electricidad y magnetismo.
+
+Gravedad cuántica de bucles (Rovelli): el espacio no es continuo sino granular — átomos de espacio ~10⁻³³ cm, enlazados en redes. El espacio no contiene cosas: es esa red. El tiempo fundamental también desaparece; el cambio es local, sin orquesta única.
+
+Predicciones especulativas: estrellas colapsadas rebotan como estrella de Planck; agujeros negros explotan en cámara lenta; el Big Bang pudo ser un Big Bounce de un universo anterior. Aún sin verificación experimental directa.
+
+Idea clave: Espacio y tiempo emergen de interacciones cuánticas — la realidad más lejana aún de nuestros instintos.
+
+Capítulo seis. Probabilidad, tiempo y calor de agujeros negros
+
+¿Qué es el calor? Calor = átomos que se mueven más rápido. Siempre fluye de lo caliente a lo frío — ahí nace la diferencia pasado/futuro cuando hay fricción. Boltzmann: es pura probabilidad; estadísticamente más probable equilibrar temperaturas.
+
+Esta probabilidad clásica (ignorancia de microestados) difiere de la cuántica. El ahora no existe objetivamente en física — Einstein a Besso: past, present and future son ilusión persistente. El flujo del tiempo emerge de termodinámica e interacciones limitadas, no de ecuaciones exactas.
+
+Stephen Hawking: agujeros negros tienen temperatura y emiten calor (radiación Hawking) — primer indicio de espacio caliente. Une cuántica, gravedad y termodinámica; clave Rosetta del tiempo.
+
+Idea clave: Solo cuando hay intercambio de calor distinguimos pasado de futuro; nuestro reloj interior es estadístico, no fundamental.
+
+Capítulo siete. Nosotros (cierre reflexivo)
+
+¿Qué somos en un cosmos de quanta y campos? Observadores que construyen la fotografía de la realidad; nodos en una red de intercambio de información; parte integral del mundo, no espectadores externos.
+
+Schelling creía al hombre cumbre de la naturaleza; hoy sabemos que somos un rincón remoto, parientes de mariposas y álamos. Kant pensaba categorías universales; evolucionan con nuestra especie. La ciencia no es ficción campamental: sigue rastros como antepasados en la sabana.
+
+Libertad sin violar leyes naturales: actuar según procesos neuronales internos (Spinoza: yo = complejo neuronal). Consciencia aún abierta (Tononi, teoría de información integrada). Valores, lágrimas y música son tan reales por ser naturaleza.
+
+Cita: No estamos hechos de algo distinto a la naturaleza; somos naturaleza, en una de sus infinitas variaciones. — Carlo Rovelli
+
+Idea clave: Conocer el universo cuántico no nos aleja de lo humano — nos sitúa en casa, hechos del mismo polvo estelar.
+
+Conceptos clave
+
+Relatividad general. Gravedad = curvatura del espaciotiempo; espacio y campo unificados.
+
+Cuantos. Paquetes discretos de energía; luz como fotones.
+
+Mecánica cuántica. Probabilidad, saltos, realidad relacional entre interacciones.
+
+Modelo Estándar. Teoría de partículas elementales y fuerzas (excepto gravedad).
+
+Materia oscura. Masa gravitatoria no explicada por partículas conocidas.
+
+Gravedad cuántica de bucles. Espacio granular; tiempo emergente de procesos locales.
+
+Entropía. Desorden estadístico; flecha del tiempo termodinámica.
+
+Radiación Hawking. Agujeros negros emiten calor por efectos cuánticos.
+
+Big Bounce. Posible rebote cósmico previo al Big Bang.
+
+Realidad relacional. Propiedades definidas por interacciones, no substancias aisladas.
+
+Cronología de hitos
+
+Año 1900. Planck introduce cuantos de energía (cuerpo negro).
+
+Año 1905. Einstein: fotones, relatividad especial, movimiento browniano.
+
+Año 1915. Einstein completa relatividad general.
+
+Año 1919. Medición de desviación de luz estelar confirma Einstein.
+
+Año 1920s. Bohr, Heisenberg, Schrödinger: mecánica cuántica madura.
+
+Año 1930. Expansión del universo observada.
+
+Año 1960s–70s. Modelo Estándar de partículas; descubrimiento de CMB.
+
+Año 1906. Boltzmann muere; entropía estadística reconocida después.
+
+Año 1970s. Teoría SU(5) propuesta; protón no se desintegra.
+
+Año 2013. Higgs boson detectado en LHC (CERN).
+
+Año 2014–2016. Rovelli publica lecciones (Adelphi / Riverhead).
+
+Figuras clave
+
+Albert Einstein, Relatividad especial y general · Fotones
+
+Max Planck, Origen de los cuantos (1900)
+
+Niels Bohr, Modelo atómico · Copenhague
+
+Werner Heisenberg, Matriz cuántica · Incertidumbre
+
+James Clerk Maxwell, Campo electromagnético
+
+Carl Friedrich Gauss, Geometría de superficies
+
+Bernhard Riemann, Curvatura multidimensional
+
+Murray Gell-Mann, Quarks · Modelo Estándar
+
+Ludwig Boltzmann, Entropía estadística
+
+Stephen Hawking, Radiación de agujeros negros
+
+La idea central
+
+La física del siglo XX regaló dos joyas incompatibles pero prodigiosas.
+
+Relatividad y cuántica cambiaron espacio, tiempo, materia y azar.
+
+Seguimos buscando el lenguaje que las una — y qué somos dentro.
+
+En el borde del océano de lo desconocido brilla el misterio.
+
+Y eso, dice Rovelli, es lo más hermoso.
