@@ -99,6 +99,32 @@ COVER_META: dict[str, tuple[str, str]] = {
     ),
     "homo-deus": ("Homo Deus", "Yuval Noah Harari"),
     "21-lessons": ("21 Lessons for the 21st Century", "Yuval Noah Harari"),
+    "why-does-world-exist": (
+        "Why Does the World Exist?",
+        "Jim Holt",
+    ),
+    "murmurs-of-earth": ("Murmurs of Earth", "Carl Sagan"),
+    "the-brain": ("The Brain: The Story of You", "David Eagleman"),
+    "how-we-learn": ("How We Learn", "Stanislas Dehaene"),
+    "sapiens": ("Sapiens: A Brief History of Humankind", "Yuval Noah Harari"),
+    "determined": ("Determined", "Robert Sapolsky"),
+    "free-will": ("Free Will", "Sam Harris"),
+    "ego-tunnel": ("The Ego Tunnel", "Thomas Metzinger"),
+    "godel-escher-bach": (
+        "Gödel, Escher, Bach: An Eternal Golden Braid",
+        "Douglas Hofstadter",
+    ),
+    "livewired": ("Livewired", "David Eagleman"),
+    "self-assembling-brain": (
+        "The Self-Assembling Brain",
+        "Peter Robin Hiesinger",
+    ),
+    "fabric-of-reality": ("The Fabric of Reality", "David Deutsch"),
+    "beginning-of-infinity": (
+        "The Beginning of Infinity",
+        "David Deutsch",
+    ),
+    "black-swan": ("The Black Swan", "Nassim Nicholas Taleb"),
 }
 
 # ISBN opcional para portadas de mayor resolución en Open Library (validados por título)
