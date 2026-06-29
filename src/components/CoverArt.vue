@@ -141,7 +141,7 @@ function onPhotoError() {
     >
       <svg class="cover-art__audio-icon" viewBox="0 0 24 24" aria-hidden="true">
         <path
-          d="M12 3a9 9 0 0 0-9 9v7c0 1.1.9 2 2 2h1v-8H5a7 7 0 0 1 14 0v8h1c1.1 0 2-.9 2-2v-7a9 9 0 0 0-9-9z"
+          d="M12 1C7.03 1 3 5.03 3 10v7c0 1.66 1.34 3 3 3h1v-9H5c0-3.87 3.13-7 7-7s7 3.13 7 7v9h1c1.66 0 3-1.34 3-3v-7c0-4.97-4.03-9-9-9zm-4 18v-2H6c-.55 0-1-.45-1-1v-4h3v7zm10 0v-7h3v4c0 .55-.45 1-1 1h-2v2z"
           fill="currentColor"
         />
       </svg>
