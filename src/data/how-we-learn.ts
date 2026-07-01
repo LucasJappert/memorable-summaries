@@ -103,7 +103,7 @@ export const howWeLearn: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "En <span class=\"num\">2009</span>, <span class=\"person\">Felipe</span>, un niño brasileño tetrapléjico y ciego por un disparo, escribía novelas trilingües desde su cama en el hospital Sarah de Brasilia. Casos como el suyo —junto a <span class=\"person\">Helen Keller</span>, el matemático ciego <span class=\"person\">Emmanuel Giroux</span> o el pintor <span class=\"person\">Nico</span> con medio cerebro— muestran la extraordinaria <span class=\"term\">plasticidad</span> humana.",
+          html: "En <span class=\"num\">2009</span>, <span class=\"person\">Felipe</span>, un niño brasileño tetrapléjico y ciego por un disparo, escribía novelas trilingües desde su cama en el hospital Sarah de Brasilia. Casos como el suyo, junto a <span class=\"person\">Helen Keller</span>, el matemático ciego <span class=\"person\">Emmanuel Giroux</span> o el pintor <span class=\"person\">Nico</span> con medio cerebro, muestran la extraordinaria <span class=\"term\">plasticidad</span> humana.",
         },
         {
           type: 'paragraph',
@@ -111,7 +111,7 @@ export const howWeLearn: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Dehaene</span> propone que somos <span class=\"term\">Homo docens</span>: la especie que se enseña a sí misma. El genoma (~<span class=\"num\">750 MB</span>) no puede pre-cablear ~<span class=\"num\">10¹⁵</span> bits de conexiones sinápticas; el aprendizaje complementa los genes. Incluso el nematodo <span class=\"term\">C. elegans</span> aprende por habituación y asociación.",
+          html: "<span class=\"person\">Dehaene</span> propone que somos <span class=\"term\">Homo docens</span>: la especie que se enseña a sí misma. El genoma (~<span class=\"num\">750 MB</span>) no puede pre-cablear ~<span class=\"num\">10¹⁵</span> bits de conexiones sinápticas. El aprendizaje complementa los genes. Incluso el nematodo <span class=\"term\">C. elegans</span> aprende por habituación y asociación.",
         },
         {
           type: 'quote',
@@ -136,11 +136,11 @@ export const howWeLearn: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Segunda: <span class=\"term\">ajustar parámetros</span> del modelo (prismas que desplazan la visión; fonemas del japonés vs. inglés; parámetro de «posición de cabeza» en sintaxis). Tercera: explotar la <span class=\"term\">explosión combinatoria</span> —~<span class=\"num\">50</span> parámetros binarios de gramática generan millones de lenguas posibles.",
+          html: "La segunda definición es <span class=\"term\">ajustar parámetros</span> del modelo (prismas que desplazan la visión, fonemas del japonés frente al inglés, parámetro de «posición de cabeza» en sintaxis). La tercera explota la <span class=\"term\">explosión combinatoria</span>: ~<span class=\"num\">50</span> parámetros binarios de gramática generan millones de lenguas posibles.",
         },
         {
           type: 'paragraph',
-          html: "Cuarta: <span class=\"term\">minimizar errores</span> como redes profundas (LeNet de <span class=\"person\">Yann LeCun</span> para códigos postales). Quinta a séptima: comprimir información, seleccionar lo relevante y generalizar —principios compartidos con el aprendizaje automático.",
+          html: "La cuarta es <span class=\"term\">minimizar errores</span> como las redes profundas (LeNet de <span class=\"person\">Yann LeCun</span> para códigos postales). De la quinta a la séptima: comprimir información, seleccionar lo relevante y generalizar. Son principios compartidos con el aprendizaje automático.",
         },
         {
           type: 'concept-grid',
@@ -184,7 +184,7 @@ export const howWeLearn: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Jerry Fodor</span> postuló un <span class=\"term\">lenguaje del pensamiento</span> recursivo; <span class=\"person\">Descartes</span> ya sospechaba que las máquinas no compondrían significados como los humanos. AlphaGo no generaliza a variantes del tablero.",
+          html: "<span class=\"person\">Jerry Fodor</span> postuló un <span class=\"term\">lenguaje del pensamiento</span> recursivo. <span class=\"person\">Descartes</span> ya sospechaba que las máquinas no compondrían significados como los humanos. AlphaGo no generaliza a variantes del tablero.",
         },
         {
           type: 'list',
@@ -212,11 +212,11 @@ export const howWeLearn: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"term\">Concepto de objeto</span>: bebés se sorprenden si un sólido desaparece, atraviesa paredes o se parte en dos varillas. <span class=\"term\">Sentido numérico</span>: discriminan cardinalidades, incluso cruzando sonidos e imágenes; hacen «1+1=2» y «5+5≠5». <span class=\"person\">Piaget</span> se equivocó: objetos y números son innatos y se refinan.",
+          html: "En el <span class=\"term\">concepto de objeto</span>, los bebés se sorprenden si un sólido desaparece, atraviesa paredes o se parte en dos varillas. En el <span class=\"term\">sentido numérico</span>, discriminan cardinalidades incluso cruzando sonidos e imágenes. Hacen «1+1=2» y «5+5≠5». <span class=\"person\">Piaget</span> se equivocó: objetos y números son innatos y se refinan.",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"term\">Probabilidad bayesiana</span>: bebés miran más tiempo resultados improbables en urnas de bolas; hacen inferencia inversa (muestras rojas → urna roja). <span class=\"person\">Fei Xu</span> y <span class=\"person\">Luca Bonatti</span> muestran deducción lógica antes del lenguaje.",
+          html: "En <span class=\"term\">probabilidad bayesiana</span>, los bebés miran más tiempo resultados improbables en urnas de bolas. Hacen inferencia inversa (muestras rojas → urna roja). <span class=\"person\">Fei Xu</span> y <span class=\"person\">Luca Bonatti</span> muestran deducción lógica antes del lenguaje.",
         },
         {
           type: 'big-numbers',
@@ -245,15 +245,15 @@ export const howWeLearn: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "<span class=\"person\">Gaston Bachelard</span>: el niño nace con cerebro <em>inacabado</em>, no vacío. La RMf de <span class=\"person\">Ghislaine Dehaene-Lambertz</span> mostró que bebés de <span class=\"num\">2 meses</span> activan la misma jerarquía lingüística que adultos (auditivo → temporal → <span class=\"term\">Broca</span>).",
+          html: "Según <span class=\"person\">Gaston Bachelard</span>, el niño nace con cerebro <em>inacabado</em>, no vacío. La RMf de <span class=\"person\">Ghislaine Dehaene-Lambertz</span> mostró que bebés de <span class=\"num\">2 meses</span> activan la misma jerarquía lingüística que adultos (auditivo → temporal → <span class=\"term\">Broca</span>).",
         },
         {
           type: 'paragraph',
-          html: "El <span class=\"term\">fascículo arcuato</span> conecta áreas de lenguaje desde el nacimiento; todas las «autopistas» de fibras principales están en su lugar. Durante el tercer trimestre, axones siguen gradientes químicos genéticos —como nervios que ya apuntan a dedos en el feto.",
+          html: "El <span class=\"term\">fascículo arcuato</span> conecta áreas de lenguaje desde el nacimiento. Todas las «autopistas» de fibras principales están en su lugar. Durante el tercer trimestre, los axones siguen gradientes químicos genéticos, como nervios que ya apuntan a dedos en el feto.",
         },
         {
           type: 'paragraph',
-          html: "La corteza se pliega progresivamente; a las <span class=\"num\">35 semanas</span> los surcos principales y la asimetría temporal ya existen. El ADN no detalla cada sinapsis, pero sí el andamiaje regional.",
+          html: "La corteza se pliega progresivamente. A las <span class=\"num\">35 semanas</span> los surcos principales y la asimetría temporal ya existen. El ADN no detalla cada sinapsis, pero sí el andamiaje regional.",
         },
         {
           type: 'key',
@@ -269,11 +269,11 @@ export const howWeLearn: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "<span class=\"person\">Santiago Ramón y Cajal</span> descubrió neuronas, dendritas, axones y <span class=\"term\">sinapsis</span> —unidades de cómputo nanoscópicas. Aprender modifica fuerza sináptica según la regla de <span class=\"person\">Donald Hebb</span>: «neuronas que disparan juntas, se conectan juntas».",
+          html: "<span class=\"person\">Santiago Ramón y Cajal</span> descubrió neuronas, dendritas, axones y <span class=\"term\">sinapsis</span>, unidades de cómputo nanoscópicas. Aprender modifica la fuerza sináptica con la regla hebbiana «neuronas que disparan juntas, se conectan juntas», formulada por <span class=\"person\">Donald Hebb</span>.",
         },
         {
           type: 'paragraph',
-          html: "Moduladores (<span class=\"term\">dopamina</span>, <span class=\"term\">acetilcolina</span>, serotonina) marcan qué episodios merecen memoria —p. ej. el <span class=\"num\">11-S</span>. La amígdala y el hipocampo consolidan lo emocionalmente relevante.",
+          html: "Los moduladores (<span class=\"term\">dopamina</span>, <span class=\"term\">acetilcolina</span>, serotonina) marcan qué episodios merecen memoria, por ejemplo el <span class=\"num\">11-S</span>. La amígdala y el hipocampo consolidan lo emocionalmente relevante.",
         },
         {
           type: 'paragraph',
@@ -313,11 +313,11 @@ export const howWeLearn: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Adultos analfabetos difieren en memoria verbal, reconocimiento de formas y espejos; leer <em>mejora</em> la memoria, no la arruina (<span class=\"person\">Platón</span> se equivocaba). La escolarización transforma el sentido numérico: la recta numérica exacta y «n+1» son logros culturales.",
+          html: "Los adultos analfabetos difieren en memoria verbal, reconocimiento de formas y espejos. Leer <em>mejora</em> la memoria, no la arruina (<span class=\"person\">Platón</span> se equivocaba). La escolarización transforma el sentido numérico: la recta numérica exacta y «n+1» son logros culturales.",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"term\">Hipótesis del reciclaje neuronal</span>: cada invención cultural (alfabeto, cifras) debe encontrar un «nicho neuronal» —circuitos evolutivos lo bastante similares y flexibles. Leer recicla áreas visuales; calcular, circuitos de cantidad.",
+          html: "La <span class=\"term\">hipótesis del reciclaje neuronal</span> sostiene que cada invención cultural (alfabeto, cifras) debe encontrar un «nicho neuronal»: circuitos evolutivos lo bastante similares y flexibles. Leer recicla áreas visuales. Calcular recicla circuitos de cantidad.",
         },
         {
           type: 'paragraph',
@@ -341,7 +341,7 @@ export const howWeLearn: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Yoshua Bengio</span> y <span class=\"person\">Kyunghyun Cho</span> (<span class=\"num\">2014</span>) integraron atención en traducción automática; hoy las IA «iluminan» píxeles relevantes. En humanos, la atención consciente amplifica disparos hasta la corteza prefrontal y favorece potenciación a largo plazo.",
+          html: "<span class=\"person\">Yoshua Bengio</span> y <span class=\"person\">Kyunghyun Cho</span> (<span class=\"num\">2014</span>) integraron atención en traducción automática. Hoy las IA «iluminan» píxeles relevantes. En humanos, la atención consciente amplifica disparos hasta la corteza prefrontal y favorece potenciación a largo plazo.",
         },
         {
           type: 'paragraph',
@@ -361,7 +361,7 @@ export const howWeLearn: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Segundo pilar: <span class=\"term\">compromiso activo</span>. El experimento de carrusel de <span class=\"person\">Richard Held</span> y <span class=\"person\">Alan Hein</span> (<span class=\"num\">1963</span>): gatitos activos desarrollan visión normal; pasivos quedan ciegos funcionales.",
+          html: "El segundo pilar es el <span class=\"term\">compromiso activo</span>. El experimento de carrusel de <span class=\"person\">Richard Held</span> y <span class=\"person\">Alan Hein</span> (<span class=\"num\">1963</span>) mostró que gatitos activos desarrollan visión normal. Los pasivos quedan ciegos funcionales.",
         },
         {
           type: 'paragraph',
@@ -369,7 +369,7 @@ export const howWeLearn: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Henry Roediger</span>: dificultad deseable que exige esfuerzo cognitivo mejora retención. Pasividad deja huellas mínimas.",
+          html: "<span class=\"person\">Henry Roediger</span> mostró que la dificultad deseable que exige esfuerzo cognitivo mejora la retención. La pasividad deja huellas mínimas.",
         },
         {
           type: 'key',
@@ -385,11 +385,11 @@ export const howWeLearn: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Tercer pilar: <span class=\"term\">retroalimentación del error</span>. <span class=\"person\">Alexander Grothendieck</span> creyó π=3 por trazar círculos; su «error» fue descubrimiento genuino. Sin error no hay progreso.",
+          html: "El tercer pilar es la <span class=\"term\">retroalimentación del error</span>. <span class=\"person\">Alexander Grothendieck</span> creyó π=3 por trazar círculos. Su «error» fue descubrimiento genuino. Sin error no hay progreso.",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Robert Rescorla</span> y <span class=\"person\">Allan Wagner</span>: el cerebro aprende solo si hay <span class=\"term\">error de predicción</span> —«organisms only learn when events violate their expectations». La sorpresa impulsa condicionamiento pavloviano y reglas delta del aprendizaje automático.",
+          html: "<span class=\"person\">Robert Rescorla</span> y <span class=\"person\">Allan Wagner</span> mostraron que el cerebro aprende solo si hay <span class=\"term\">error de predicción</span>: «organisms only learn when events violate their expectations». La sorpresa impulsa el condicionamiento pavloviano y las reglas delta del aprendizaje automático.",
         },
         {
           type: 'paragraph',
@@ -414,11 +414,11 @@ export const howWeLearn: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Cuarto pilar: <span class=\"term\">consolidación</span>. Un lector principiante tarda ~<span class=\"num\">0,2 s</span> por letra; tras ~<span class=\"num\">3 años</span> lee palabras de 3–8 letras en paralelo. Lo consciente y lento se automatiza.",
+          html: "El cuarto pilar es la <span class=\"term\">consolidación</span>. Un lector principiante tarda ~<span class=\"num\">0,2 s</span> por letra. Después de ~<span class=\"num\">3 años</span> lee palabras de 3–8 letras en paralelo. Lo consciente y lento se automatiza.",
         },
         {
           type: 'paragraph',
-          html: "Lectores expertos liberan corteza parietal/prefrontal; la lectura migra a circuitos especializados (<span class=\"term\">área de forma visual de palabras</span>). Igual ocurre con mecanografía, música o cálculo —control pasa a ganglios basales.",
+          html: "Los lectores expertos liberan corteza parietal y prefrontal. La lectura migra a circuitos especializados (<span class=\"term\">área de forma visual de palabras</span>). Igual ocurre con mecanografía, música o cálculo: el control pasa a ganglios basales.",
         },
         {
           type: 'paragraph',
@@ -451,11 +451,11 @@ export const howWeLearn: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Mitad a desechar: bebés no son esponjas pasivas; plasticidad no es ilimitada; errores son necesarios; sueño no es descanso vacío; las máquinas no superan un recién nacido en eficiencia global.",
+          html: "Mitad a desechar: los bebés no son esponjas pasivas. La plasticidad no es ilimitada. Los errores son necesarios. El sueño no es descanso vacío. Las máquinas no superan un recién nacido en eficiencia global.",
         },
         {
           type: 'paragraph',
-          html: "Dehaene lista mensajes prácticos: no subestimar niños; aprovechar ventanas sensibles del lenguaje; enriquecer entorno; enseñar con los cuatro pilares (atención, compromiso, error, consolidación); valorar sueño y espaciado; formar docentes en ciencia del aprendizaje.",
+          html: "Dehaene lista mensajes prácticos: no subestimar niños, aprovechar ventanas sensibles del lenguaje, enriquecer entorno, enseñar con los cuatro pilares (atención, compromiso, error, consolidación), valorar sueño y espaciado, formar docentes en ciencia del aprendizaje.",
         },
         {
           type: 'paragraph',

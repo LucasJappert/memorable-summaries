@@ -93,11 +93,11 @@ export const intelligentLifeUniverse: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Una de las preguntas más apasionantes para la humanidad es si estamos solos en el universo. Desde la prehistoria hasta la antigüedad se creyó en seres inteligentes no humanos; hoy la ciencia muestra que, desde la revolución copernicana, todo intento de definir nuestra posición como excepcional ha fracasado.",
+          html: "Una de las preguntas más apasionantes para la humanidad es si estamos solos en el universo. Desde la prehistoria hasta la antigüedad se creyó en seres inteligentes no humanos. Hoy la ciencia muestra que, desde la revolución copernicana, todo intento de definir nuestra posición como excepcional ha fracasado.",
         },
         {
           type: 'paragraph',
-          html: "Si otras civilizaciones existen, ¿cómo encontrarlas? ¿Por qué no hay rastro astronómico ni terrestre de ellas pese a los avances tecnológicos? ¿Son demasiado pocas las planetas habitables, o la vida —y sobre todo la inteligencia— es un evento extremadamente raro? <span class=\"person\">Ulmschneider</span> organiza el libro en tres partes: planetas, vida e inteligencia.",
+          html: "Si otras civilizaciones existen, ¿cómo encontrarlas? ¿Por qué no hay rastro astronómico ni terrestre de ellas pese a los avances tecnológicos? ¿Son demasiado pocas las planetas habitables, o la vida (y sobre todo la inteligencia) es un evento extremadamente raro? <span class=\"person\">Ulmschneider</span> organiza el libro en tres partes: planetas, vida e inteligencia.",
         },
         {
           type: 'paragraph',
@@ -122,11 +122,11 @@ export const intelligentLifeUniverse: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "La vida —aquí y probablemente en otros mundos— surge en estrecha asociación con planetas, estrellas y galaxias. Los organismos vivos y los planetas están hechos de elementos sintetizados en estrellas; comprender su historia es el primer paso hacia la astrobiología.",
+          html: "La vida, aquí y probablemente en otros mundos, surge en estrecha asociación con planetas, estrellas y galaxias. Los organismos vivos y los planetas están hechos de elementos sintetizados en estrellas. Comprender su historia es el primer paso hacia la astrobiología.",
         },
         {
           type: 'paragraph',
-          html: "Hace unos <span class=\"num\">14 mil millones de años</span> el universo apareció en el <span class=\"term\">Big Bang</span>. La ley de Hubble (<span class=\"person\">Edwin Hubble</span>, <span class=\"num\">1924</span>) y la radiación cósmica de fondo de <span class=\"num\">3 K</span> confirman un origen caliente y denso. Tras ~1 millón de años se formaron H y He; tras ~100 millones, el universo se enfrió por debajo de <span class=\"num\">300 K</span> y entró en una «edad oscura» de ~1 mil millones de años.",
+          html: "Hace unos <span class=\"num\">14 mil millones de años</span> el universo apareció en el <span class=\"term\">Big Bang</span>. La ley de Hubble (<span class=\"person\">Edwin Hubble</span>, <span class=\"num\">1924</span>) y la radiación cósmica de fondo de <span class=\"num\">3 K</span> confirman un origen caliente y denso. Un millón de años después se formaron H y He. Cien millones de años más tarde el universo se enfrió por debajo de <span class=\"num\">300 K</span> y entró en una «edad oscura» de ~1 mil millones de años.",
         },
         {
           type: 'paragraph',
@@ -196,11 +196,11 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "En el <span class=\"term\">disco solar</span>, la fricción entre material interno y externo desacelera la rotación y permite que la materia migre hacia la estrella. La temperatura decrece con la distancia: cerca del Sol (<span class=\"num\">&lt;3 AU</span>) se acumulan silicatos y hierro; más allá de la <span class=\"term\">línea de hielo</span> (~150 K, ~3 AU) dominan los granos de hielo (H₂O).",
+          html: "En el <span class=\"term\">disco solar</span>, la fricción entre material interno y externo desacelera la rotación y permite que la materia migre hacia la estrella. La temperatura decrece con la distancia. Cerca del Sol (menos de <span class=\"num\">3 AU</span>) se acumulan silicatos y hierro. Más allá de la <span class=\"term\">línea de hielo</span> (~150 K, ~3 AU) dominan los granos de hielo (H₂O).",
         },
         {
           type: 'paragraph',
-          html: "El polvo sedimenta en el plano ecuatorial del disco; fuerzas eléctricas aglutinan granos de &lt;1 μm hasta ~1 mm en ~10 000 años, y cuerpos de ~10 km (planetesimales tipo Ceres) en ~100 000 años. Simulaciones de <span class=\"person\">Wetherill</span> muestran que de ~500 planetesimales entre 0,4 y 2 AU quedan pocos protoplanetas en decenas de millones de años.",
+          html: "El polvo sedimenta en el plano ecuatorial del disco. Fuerzas eléctricas aglutinan granos menores de 1 μm hasta ~1 mm en ~10 000 años, y cuerpos de ~10 km (planetesimales tipo Ceres) en ~100 000 años. Simulaciones de <span class=\"person\">Wetherill</span> muestran que de ~500 planetesimales entre 0,4 y 2 AU quedan pocos protoplanetas en decenas de millones de años.",
         },
         {
           type: 'concept-grid',
@@ -249,7 +249,7 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La Luna se formó por impacto de un planetesimal del tamaño de Marte con la proto-Tierra hace <span class=\"num\">4,527 Ga</span>: los núcleos metálicos se fusionaron y el manto ligero salió expulsado. Inicialmente orbitaba a ~3,6 radios terrestres; las mareas frenaron la rotación de 5 h a 24 h y alejaron la Luna hasta ~63 radios terrestres.",
+          html: "La Luna se formó por impacto de un planetesimal del tamaño de Marte con la proto-Tierra hace <span class=\"num\">4,527 Ga</span>. Los núcleos metálicos se fusionaron y el manto ligero salió expulsado. Inicialmente orbitaba a ~3,6 radios terrestres. Las mareas frenaron la rotación de 5 h a 24 h y alejaron la Luna hasta ~63 radios terrestres.",
         },
         {
           type: 'timeline',
@@ -294,15 +294,15 @@ export const intelligentLifeUniverse: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Hasta <span class=\"num\">1995</span> los exoplanetas eran teóricos; para octubre de <span class=\"num\">2005</span> se habían detectado más de <span class=\"num\">165</span> alrededor de estrellas de secuencia principal —todos tipo Júpiter, inhóspitos para la vida.",
+          html: "Hasta <span class=\"num\">1995</span> los exoplanetas eran teóricos. En octubre de <span class=\"num\">2005</span> ya se habían detectado más de <span class=\"num\">165</span> alrededor de estrellas de secuencia principal. Todos eran tipo Júpiter, inhóspitos para la vida.",
         },
         {
           type: 'paragraph',
-          html: "Estrellas: fusión de H en el núcleo (masa &gt;0,075 M☉). Planetas: &lt;13 M<sub>Júpiter</sub>. Entre ambos, las <span class=\"term\">enanas marrones</span> (13–75 M<sub>J</sub>) queman deuterio brevemente. Un tercio de los exoplanetas detectados supera 2 M<sub>J</sub>; el más pequeño (Gliese 876 d) tiene 7,3 M<sub>Tierra</sub>. Curiosamente, la mitad orbita dentro de 0,5 AU —mucho más cerca que Mercurio—, contrario a la teoría clásica de formación joviana más allá de 3 AU.",
+          html: "Las estrellas fusionan H en el núcleo (masa superior a <span class=\"num\">0,075 M☉</span>). Los planetas tienen menos de 13 M<sub>Júpiter</sub>. Entre ambos, las <span class=\"term\">enanas marrones</span> (13–75 M<sub>J</sub>) queman deuterio brevemente. Un tercio de los exoplanetas detectados supera 2 M<sub>J</sub>. El más pequeño (Gliese 876 d) tiene 7,3 M<sub>Tierra</sub>. Curiosamente, la mitad orbita dentro de 0,5 AU, mucho más cerca que Mercurio, contrario a la teoría clásica de formación joviana más allá de 3 AU.",
         },
         {
           type: 'paragraph',
-          html: "Métodos de búsqueda: <span class=\"term\">velocidad radial</span> (variaciones Doppler de la estrella; todos los de la Tabla 4.1), tránsitos, microlentes gravitacionales y, en el futuro, imagen directa (requiere telescopios de decenas de km o interferometría espacial). La detección directa permitiría analizar atmósferas buscando H₂O y O₃ como biosignaturas.",
+          html: "Los métodos de búsqueda incluyen <span class=\"term\">velocidad radial</span> (variaciones Doppler de la estrella, usada en todos los de la Tabla 4.1), tránsitos, microlentes gravitacionales e, en el futuro, imagen directa (requiere telescopios de decenas de km o interferometría espacial). La detección directa permitiría analizar atmósferas buscando H₂O y O₃ como biosignaturas.",
         },
         {
           type: 'list',
@@ -327,11 +327,11 @@ export const intelligentLifeUniverse: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Buscar vida inteligente implica buscar planetas tipo Tierra. La mayoría de organismos son vulnerables; los extremófilos terrestres se adaptaron por selección darwiniana, no contradicen que la vida florece en condiciones benignas.",
+          html: "Buscar vida inteligente implica buscar planetas tipo Tierra. La mayoría de organismos son vulnerables. Los extremófilos terrestres se adaptaron por selección darwiniana, pero no contradicen que la vida florece en condiciones benignas.",
         },
         {
           type: 'paragraph',
-          html: "El <span class=\"term\">carbono</span> es excepcional: &gt;10 millones de compuestos orgánicos frente a ~200 000 inorgánicos. Cuatro enlaces covalentes permiten estructuras espaciales complejas; el CO₂ es gas biológicamente activo, a diferencia del SiO₂ sólido. La vida extraterrestre probablemente también usará química orgánica.",
+          html: "El <span class=\"term\">carbono</span> es excepcional: más de 10 millones de compuestos orgánicos frente a ~200 000 inorgánicos. Cuatro enlaces covalentes permiten estructuras espaciales complejas. El CO₂ es gas biológicamente activo, a diferencia del SiO₂ sólido. La vida extraterrestre probablemente también usará química orgánica.",
         },
         {
           type: 'paragraph',
@@ -397,7 +397,7 @@ export const intelligentLifeUniverse: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "¿Qué es la vida? Tras secuenciar organismos primitivos —incluidas micoplasmas con ~300 genes—, la definición precisa está al alcance. Fenomenológicamente: metabolismo, crecimiento, uso de energía, individualidad, reproducción y mutación en ambiente abiótico. Los virus no califican.",
+          html: "¿Qué es la vida? Tras secuenciar organismos primitivos, incluidas micoplasmas con ~300 genes, la definición precisa está al alcance. Fenomenológicamente: metabolismo, crecimiento, uso de energía, individualidad, reproducción y mutación en ambiente abiótico. Los virus no califican.",
         },
         {
           type: 'paragraph',
@@ -405,7 +405,7 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La bioquímica terrestre se basa en cuatro clases de compuestos: <span class=\"term\">proteínas</span> (20 aminoácidos L-quirales codificados por ADN), <span class=\"term\">carbohidratos</span>, <span class=\"term\">lípidos</span> y <span class=\"term\">ácidos nucleicos</span> (ADN/ARN). El código genético traduce tripletes de bases en aminoácidos; el ATP es la moneda energética.",
+          html: "La bioquímica terrestre se basa en cuatro clases de compuestos: <span class=\"term\">proteínas</span> (20 aminoácidos L-quirales codificados por ADN), <span class=\"term\">carbohidratos</span>, <span class=\"term\">lípidos</span> y <span class=\"term\">ácidos nucleicos</span> (ADN/ARN). El código genético traduce tripletes de bases en aminoácidos. El ATP es la moneda energética.",
         },
         {
           type: 'concept-grid',
@@ -434,7 +434,7 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Teorías del origen: (1) mundo del ARN — difícil sin ribozimas previas; (2) arcilla autorreplicante (<span class=\"person\">Cairns-Smith</span>); (3) <span class=\"term\">mundo hierro-azufre</span> de Wächtershäuser en chimeneas hidrotermales; (4) «fumadores negros» con microcavernas (<span class=\"person\">Martin & Russell</span>). El LUCA sigue buscándose. Ulmschneider concluye: no sabemos el detalle, pero debe haber una ruta química plausible.",
+          html: "Las teorías del origen incluyen (1) mundo del ARN, difícil sin ribozimas previas, (2) arcilla autorreplicante (<span class=\"person\">Cairns-Smith</span>), (3) <span class=\"term\">mundo hierro-azufre</span> de Wächtershäuser en chimeneas hidrotermales y (4) «fumadores negros» con microcavernas (<span class=\"person\">Martin & Russell</span>). El LUCA sigue buscándose. Ulmschneider concluye: no sabemos el detalle, pero debe haber una ruta química plausible.",
         },
         {
           type: 'key',
@@ -450,15 +450,15 @@ export const intelligentLifeUniverse: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "¿La vida extraterrestre evolucionaría hacia la inteligencia? En la Tierra, las primeras células aparecieron en pocos cientos de millones de años; los eucariotas y multicelularidad tardaron ~3 Ga más; la inteligencia humana, otros ~800 Ma. Dos motores: mutación (azar) y selección natural (direccional).",
+          html: "¿La vida extraterrestre evolucionaría hacia la inteligencia? En la Tierra, las primeras células aparecieron en pocos cientos de millones de años. Los eucariotas y la multicelularidad tardaron ~3 Ga más. La inteligencia humana, otros ~800 Ma. Dos motores impulsan el cambio: mutación (azar) y selección natural (direccional).",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Darwin</span>: en la lucha por la supervivencia, mutaciones aleatorias del ADN producen variantes; la selección favorece las más eficientes. Incluso ventajas pequeñas, con tiempo suficiente, dominan. El debate: ¿la selección predice inteligencia a largo plazo o solo adaptaciones locales? Ulmschneider argumenta que la <span class=\"term\">convergencia evolutiva</span> (p. ej. inteligencia en cuervos comparable a monos) demuestra direccionalidad impuesta por las leyes naturales.",
+          html: "<span class=\"person\">Darwin</span> argumentó que, en la lucha por la supervivencia, mutaciones aleatorias del ADN producen variantes y la selección favorece las más eficientes. Incluso ventajas pequeñas, con tiempo suficiente, dominan. El debate persiste: ¿la selección predice inteligencia a largo plazo o solo adaptaciones locales? Ulmschneider argumenta que la <span class=\"term\">convergencia evolutiva</span> (p. ej. inteligencia en cuervos comparable a monos) demuestra direccionalidad impuesta por las leyes naturales.",
         },
         {
           type: 'paragraph',
-          html: "Hitos: endosimbiosis (mitocondrias, cloroplastos) → eucariotas; oxígeno como catástrofe ambiental (~2,4 Ga); multicelularidad y genes <span class=\"term\">HOX</span> (~630–542 Ma, explosión ediacárica); conquista de la tierra por plantas (~470 Ma, Ordovícico) y animales; evento K/T (<span class=\"num\">65 Ma</span>, impacto de ~10 km) extinguió dinosaurios no aviares y abrió camino a mamíferos.",
+          html: "Entre los hitos evolutivos figuran la endosimbiosis (mitocondrias, cloroplastos) hacia eucariotas, el oxígeno como catástrofe ambiental (~2,4 Ga), la multicelularidad y los genes <span class=\"term\">HOX</span> (~630–542 Ma, explosión ediacárica), la conquista de la tierra por plantas (~470 Ma, Ordovícico) y animales, y el evento K/T (<span class=\"num\">65 Ma</span>, impacto de ~10 km), que extinguió dinosaurios no aviares y abrió camino a mamíferos.",
         },
         {
           type: 'timeline',
@@ -491,7 +491,7 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La inteligencia humana requiere: visión estereoscópica (árbol → sabana), bipedestación con manos libres, vida social, cerebro grande (~30 000 genes), lenguaje y cultura de herramientas. Desde Australopithecus hasta H. sapiens, el volumen cerebral se triplicó. La conquista de la tierra —mutualismo plantas-animales, selvas tropicales— fue condición previa para primates e inteligencia tecnológica.",
+          html: "La inteligencia humana requiere visión estereoscópica (árbol → sabana), bipedestación con manos libres, vida social, cerebro grande (~30 000 genes), lenguaje y cultura de herramientas. Desde Australopithecus hasta H. sapiens, el volumen cerebral se triplicó. La conquista de la tierra, con mutualismo plantas-animales y selvas tropicales, fue condición previa para primates e inteligencia tecnológica.",
         },
         {
           type: 'key',
@@ -511,11 +511,11 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "En el Sistema Solar: <span class=\"term\">Europa</span> (Júpiter) tiene océano subsuperficial bajo hielo; vida primitiva es posible. <span class=\"term\">Marte</span> tuvo ríos, deltas y océano norteño; atmósfera densa de CO₂ durante cientos de millones de años, luego glaciation irreversible al cesar la tectónica (~2 Ga). Las misiones Viking (<span class=\"num\">1976</span>) no detectaron vida; meteoritos marcianos (ALH84001) suscitaron debate sobre fósiles microscópicos.",
+          html: "En el Sistema Solar, <span class=\"term\">Europa</span> (Júpiter) tiene océano subsuperficial bajo hielo. La vida primitiva es posible. <span class=\"term\">Marte</span> tuvo ríos, deltas y océano norteño. Mantuvo atmósfera densa de CO₂ durante cientos de millones de años, luego sufrió glaciation irreversible al cesar la tectónica (~2 Ga). Las misiones Viking (<span class=\"num\">1976</span>) no detectaron vida. Los meteoritos marcianos (ALH84001) suscitaron debate sobre fósiles microscópicos.",
         },
         {
           type: 'paragraph',
-          html: "Fuera del Sistema Solar: detectar H₂O (banda ~8 μm), O₂ y O₃ (biosignaturas: O₂ de fotosíntesis, O₃ fotoquímico). Lovelock (<span class=\"num\">1965</span>): la vida produce compuestos fuera del equilibrio termodinámico — el metano terrestre es 10¹⁴ veces más abundante de lo esperado. El espectro infrarrojo de la Tierra muestra H₂O y O₃; Venus y Marte solo CO₂ dominante.",
+          html: "Fuera del Sistema Solar conviene detectar H₂O (banda ~8 μm), O₂ y O₃. Son biosignaturas: O₂ de fotosíntesis, O₃ fotoquímico. Lovelock (<span class=\"num\">1965</span>) señaló que la vida produce compuestos fuera del equilibrio termodinámico. El metano terrestre es 10¹⁴ veces más abundante de lo esperado. El espectro infrarrojo de la Tierra muestra H₂O y O₃. Venus y Marte solo CO₂ dominante.",
         },
         {
           type: 'list',
@@ -527,7 +527,7 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Los <span class=\"term\">OVNI</span>: desde <span class=\"num\">1947</span> (Kenneth Arnold) miles de avistamientos; el informe Condon (<span class=\"num\">1969</span>) concluyó que 21 años de estudio no añadieron conocimiento científico. Engelados deliberados y malinterpretaciones explican la mayoría de casos.",
+          html: "Los <span class=\"term\">OVNI</span> generaron miles de avistamientos desde <span class=\"num\">1947</span> (Kenneth Arnold). El informe Condon (<span class=\"num\">1969</span>) concluyó que 21 años de estudio no añadieron conocimiento científico. Engelados deliberados y malinterpretaciones explican la mayoría de casos.",
         },
         {
           type: 'key',
@@ -547,15 +547,15 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Colonización del Sistema Solar: estaciones espaciales, bases lunares y marcianas, minería de asteroides cercanos a la Tierra. Hábitats de <span class=\"person\">O'Neill</span> — cilindros rotatorios de ~6 km × 30 km con «valles» iluminados artificialmente — podrían albergar hasta 20 millones de personas, autosuficientes industrialmente.",
+          html: "La colonización del Sistema Solar incluye estaciones espaciales, bases lunares y marcianas, y minería de asteroides cercanos a la Tierra. Hábitats de <span class=\"person\">O'Neill</span>, cilindros rotatorios de ~6 km × 30 km con «valles» iluminados artificialmente, podrían albergar hasta 20 millones de personas, autosuficientes industrialmente.",
         },
         {
           type: 'paragraph',
-          html: "Viaje interestelar: con ~100 km/s, α Centauri requiere ~12 000 años; a c/20 (~15 000 km/s), ~80 años. Probablemente solo sondas no tripuladas (<span class=\"term\">sondas von Neumann</span> que se autorreplican) en los próximos siglos. Androides miniaturizados con reloj biológico ralentizado facilitarían viajes de siglos.",
+          html: "El viaje interestelar es lento: con ~100 km/s, α Centauri requiere ~12 000 años. A c/20 (~15 000 km/s), ~80 años. Probablemente solo sondas no tripuladas (<span class=\"term\">sondas von Neumann</span> que se autorreplican) en los próximos siglos. Androides miniaturizados con reloj biológico ralentizado facilitarían viajes de siglos.",
         },
         {
           type: 'paragraph',
-          html: "Dominio biológico: secuenciación del genoma humano (<span class=\"num\">2001–2003</span>, ~3,2 mil millones de bases, ~30 000 genes); creación de vida mínima en laboratorio a partir de micoplasmas (~300 genes); comprensión del envejecimiento (telómeros, apoptosis). Sociedades conectadas mentalmente y androides autoconscientes son especulaciones para el siglo XXI.",
+          html: "El dominio biológico avanza con la secuenciación del genoma humano (<span class=\"num\">2001–2003</span>, ~3,2 mil millones de bases, ~30 000 genes), la creación de vida mínima en laboratorio a partir de micoplasmas (~300 genes) y la comprensión del envejecimiento (telómeros, apoptosis). Sociedades conectadas mentalmente y androides autoconscientes son especulaciones para el siglo XXI.",
         },
         {
           type: 'concept-grid',
@@ -584,7 +584,7 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Peligros externos (supernovas, rayos gamma, impactos) son poco probables como extinción total. Los peligros internos — daño ambiental, invenciones incontrolables, guerra — son los formidables. Estrategias de supervivencia: distribuir la humanidad en colonias espaciales, controlar armas de destrucción masiva, educar responsabilidad social. Si no controlamos nuestra «oscuridad» irracional, la humanidad está condenada — y quizá lo estuvieron civilizaciones extraterrestres anteriores.",
+          html: "Los peligros externos (supernovas, rayos gamma, impactos) son poco probables como extinción total. Los peligros internos (daño ambiental, invenciones incontrolables, guerra) son los formidables. Estrategias de supervivencia: distribuir la humanidad en colonias espaciales, controlar armas de destrucción masiva, educar responsabilidad social. Si no controlamos nuestra «oscuridad» irracional, la humanidad está condenada, y quizá lo estuvieron civilizaciones extraterrestres anteriores.",
         },
         {
           type: 'key',
@@ -600,15 +600,15 @@ export const intelligentLifeUniverse: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Tras construir el marco (planetas habitables, origen y evolución de la vida, futuro humano), Ulmschneider aborda la pregunta central: ¿existen civilizaciones inteligentes y por qué no las vemos?",
+          html: "Después de construir el marco (planetas habitables, origen y evolución de la vida, futuro humano), Ulmschneider aborda la pregunta central: ¿existen civilizaciones inteligentes y por qué no las vemos?",
         },
         {
           type: 'paragraph',
-          html: "Argumento a favor: la evolución química hacia la vida parece plausible (<span class=\"person\">Christian de Duve</span>); la convergencia evolutiva sugiere que acumular información (genes → software cultural) es estrategia universal bajo las mismas leyes naturales. Las sociedades de estrellas G de población I podrían existir desde hace ~5 Ga (10 Ga de formación estelar − 4,6 Ga de evolución).",
+          html: "El argumento a favor es que la evolución química hacia la vida parece plausible (<span class=\"person\">Christian de Duve</span>). La convergencia evolutiva sugiere que acumular información (genes → software cultural) es estrategia universal bajo las mismas leyes naturales. Las sociedades de estrellas G de población I podrían existir desde hace ~5 Ga (10 Ga de formación estelar − 4,6 Ga de evolución).",
         },
         {
           type: 'paragraph',
-          html: "Naturaleza de los extraterrestres: extrapolación lineal del número de genes sugiere que una civilización mil millones de años más avanzada difiere de nosotros tanto como nosotros de un organismo unicelular. Serían «casi divinos» en conocimiento y poder. En su etapa comparable a la nuestra, podrían parecerse a humanos (plan corporal dictado por visión estereoscópica, manipulación, comunicación); millones de años después, probablemente androides no orgánicos.",
+          html: "Sobre la naturaleza de los extraterrestres, la extrapolación lineal del número de genes sugiere que una civilización mil millones de años más avanzada difiere de nosotros tanto como nosotros de un organismo unicelular. Serían «casi divinos» en conocimiento y poder. En su etapa comparable a la nuestra, podrían parecerse a humanos (plan corporal dictado por visión estereoscópica, manipulación, comunicación). Millones de años después, probablemente serían androides no orgánicos.",
         },
         {
           type: 'big-numbers',
@@ -633,11 +633,11 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"term\">SETI</span>: desde el proyecto Ozma de <span class=\"person\">Frank Drake</span> (<span class=\"num\">1960</span>) hasta META, BETA, SERENDIP (Arecibo) y búsquedas ópticas de pulsos láser. Ventana de microondas «water hole» (1–20 GHz): mínimo ruido de fondo galáctico. Resultado hasta <span class=\"num\">2005</span>: nulo. Con receptores actuales se detectaría una emisora de 3 kW a 100 Ly, no a 1 700 Ly.",
+          html: "<span class=\"term\">SETI</span> abarca desde el proyecto Ozma de <span class=\"person\">Frank Drake</span> (<span class=\"num\">1960</span>) hasta META, BETA, SERENDIP (Arecibo) y búsquedas ópticas de pulsos láser. La ventana de microondas «water hole» (1–20 GHz) tiene mínimo ruido de fondo galáctico. Resultado hasta <span class=\"num\">2005</span>: nulo. Los receptores actuales detectarían una emisora de 3 kW a 100 Ly, no a 1 700 Ly.",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"term\">Paradoja de Fermi</span> (<span class=\"num\">1950</span>, Los Alamos): si hay millones de civilizaciones, ¿dónde están? Respuestas posibles: (1) no existen o ya perecieron; (2) visita técnicamente imposible; (3) están cerca pero indetectables; (4) no les interesamos (<span class=\"term\">hipótesis del zoo</span>). Ulmschneider favorece que la mayoría se autodestruyeron y que las supervivientes evitan contacto o usan medios que no detectamos.",
+          html: "La <span class=\"term\">Paradoja de Fermi</span> (<span class=\"num\">1950</span>, Los Alamos) pregunta: si hay millones de civilizaciones, ¿dónde están? Respuestas posibles: (1) no existen o ya perecieron, (2) visita técnicamente imposible, (3) están cerca pero indetectables, (4) no les interesamos (<span class=\"term\">hipótesis del zoo</span>). Ulmschneider favorece que la mayoría se autodestruyeron y que las supervivientes evitan contacto o usan medios que no detectamos.",
         },
         {
           type: 'quote',
@@ -780,13 +780,11 @@ export const intelligentLifeUniverse: BookSummary = {
   closing: {
     title: "La idea central",
     lines: [
-  "La vida inteligente no es un accidente cósmico aislado:",
-  "requiere estrellas que forjen carbono, planetas en zona habitables continuamente estables,",
-  "química orgánica, miles de millones de años de evolución darwiniana",
-  "y la conquista de la tierra firme con manos libres.",
-  "La paradoja de Fermi no prueba nuestra singularidad:",
-  "prueba que el conocimiento sin responsabilidad es letal.",
-  "Buscar —por radio, espectroscopía o geología planetaria— sigue siendo la única forma de saberlo."
+  "La vida inteligente no es un accidente cósmico aislado: requiere estrellas que forjen carbono, planetas estables en la CHZ y millones de años de evolución en tierra firme.",
+  "También exige química orgánica, evolución darwiniana y manos libres para manipular el entorno.",
+  "La paradoja de Fermi no prueba nuestra singularidad.",
+  "Prueba que el conocimiento sin responsabilidad es letal.",
+  "Buscar por radio, espectroscopía o geología planetaria sigue siendo la única forma de saberlo."
 ],
     highlight: "Si las leyes de la naturaleza son universales, la inteligencia debería ser frecuente; si no la vemos, el cuello de botella es la supervivencia de las civilizaciones tecnológicas, no el origen de la vida.",
   },

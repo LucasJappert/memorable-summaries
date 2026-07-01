@@ -153,15 +153,15 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Hofstadter improvisa sobre el <span class=\"term\">Musikalisches Opfer</span> de Bach ante Federico el Grande (<span class=\"num\">1747</span>). Autorreferencia en Bach, Escher y Gödel prepara el hilo dorado del libro: sistemas formales, niveles y paradojas. Breve historia de la lógica y debate sobre inteligencia artificial.",
+          html: "Hofstadter improvisa sobre el <span class=\"term\">Musikalisches Opfer</span> de Bach ante Federico el Grande (<span class=\"num\">1747</span>). La autorreferencia en Bach, Escher y Gödel prepara el hilo dorado del libro: sistemas formales, niveles y paradojas. Recorre una breve historia de la lógica y el debate sobre inteligencia artificial.",
         },
         {
           type: 'paragraph',
-          html: "Los diálogos entre <span class=\"person\">Tortuga</span> y <span class=\"person\">Aquiles</span> (y el <span class=\"person\">Cangrejo</span>, la <span class=\"person\">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.",
+          html: "Los diálogos entre <span class=\"person\">Tortuga</span> y <span class=\"person\">Aquiles</span> (y el <span class=\"person\">Cangrejo</span>, la <span class=\"person\">Hormiguera</span>) dramatizan cada capítulo con fugas, cánones y juegos de niveles. Esa forma musical encarna la tesis central del libro.",
         },
         {
           type: 'key',
-          html: "Capítulo 00: Introducción: una ofrenda músico-lógica — pieza del bucle eterno entre forma y significado.",
+          html: "El libro entrelaza matemática, arte y música en un mismo patrón de bucles y niveles.",
         },
       ],
     },
@@ -173,15 +173,11 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Sistema formal MIU: cadenas de M, I, U; axioma MI; reglas de producción. ¿Se puede derivar MU? Introduce teorema, axioma, derivación, procedimiento de decisión, trabajar dentro/fuera del sistema. La inteligencia humana nota patrones (todos los teoremas empiezan con M); la máquina ciega no.",
-        },
-        {
-          type: 'paragraph',
-          html: "Los diálogos entre <span class=\"person\">Tortuga</span> y <span class=\"person\">Aquiles</span> (y el <span class=\"person\">Cangrejo</span>, la <span class=\"person\">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.",
+          html: "El sistema formal MIU usa cadenas de M, I y U. Parte del axioma MI y aplica reglas de producción. La pregunta es si se puede derivar MU. Aquí aparecen teorema, axioma, derivación, procedimiento de decisión y la distinción entre trabajar dentro o fuera del sistema. La inteligencia humana detecta patrones que la máquina ciega no ve: todos los teoremas empiezan con M.",
         },
         {
           type: 'key',
-          html: "Capítulo I: El acertijo MU — pieza del bucle eterno entre forma y significado.",
+          html: "El acertijo MU muestra cómo el significado aparece cuando alguien observa el sistema desde fuera.",
         },
       ],
     },
@@ -193,15 +189,11 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Sistema pq: símbolos adquieren significado por <span class=\"term\">isomorfismo</span> entre teoremas y aritmética. Significado conecta forma, verdad y manipulación simbólica.",
-        },
-        {
-          type: 'paragraph',
-          html: "Los diálogos entre <span class=\"person\">Tortuga</span> y <span class=\"person\">Aquiles</span> (y el <span class=\"person\">Cangrejo</span>, la <span class=\"person\">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.",
+          html: "El sistema pq muestra cómo los símbolos adquieren significado por <span class=\"term\">isomorfismo</span> entre teoremas y aritmética. El significado conecta forma, verdad y manipulación simbólica.",
         },
         {
           type: 'key',
-          html: "Capítulo II: Significado y forma en matemáticas — pieza del bucle eterno entre forma y significado.",
+          html: "Faltando el isomorfismo, los símbolos serían marcas vacías sin relación con hechos numéricos.",
         },
       ],
     },
@@ -213,15 +205,11 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Distinción figura/fondo en arte ↔ teoremas/no-teoremas. Conjuntos <span class=\"term\">recursivamente enumerables</span> vs. <span class=\"term\">recursivos</span>: ¿la figura contiene la misma información que el fondo?",
-        },
-        {
-          type: 'paragraph',
-          html: "Los diálogos entre <span class=\"person\">Tortuga</span> y <span class=\"person\">Aquiles</span> (y el <span class=\"person\">Cangrejo</span>, la <span class=\"person\">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.",
+          html: "La distinción figura/fondo en arte se corresponde con teoremas y no-teoremas. Los conjuntos <span class=\"term\">recursivamente enumerables</span> y <span class=\"term\">recursivos</span> plantean si la figura contiene la misma información que el fondo.",
         },
         {
           type: 'key',
-          html: "Capítulo III: Figura y fondo — pieza del bucle eterno entre forma y significado.",
+          html: "En lógica y en arte, lo omitido puede ser tan informativo como lo destacado.",
         },
       ],
     },
@@ -233,15 +221,11 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Explica ideas del diálogo Contracrostipunctus. Geometría euclidiana y no euclidiana ilustran términos indefinidos y rivalidad de sistemas consistentes.",
-        },
-        {
-          type: 'paragraph',
-          html: "Los diálogos entre <span class=\"person\">Tortuga</span> y <span class=\"person\">Aquiles</span> (y el <span class=\"person\">Cangrejo</span>, la <span class=\"person\">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.",
+          html: "Hofstadter explica ideas del diálogo Contracrostipunctus. La geometría euclidiana y la no euclidiana ilustran términos indefinidos y la rivalidad de sistemas consistentes.",
         },
         {
           type: 'key',
-          html: "Capítulo IV: Consistencia, completitud y geometría — pieza del bucle eterno entre forma y significado.",
+          html: "Varios sistemas pueden ser consistentes sin ser únicos ni definitivos.",
         },
       ],
     },
@@ -253,15 +237,11 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Recursión en música, lenguaje, geometría, física y programas. Historias dentro de historias (Little Harmonic Labyrinth).",
-        },
-        {
-          type: 'paragraph',
-          html: "Los diálogos entre <span class=\"person\">Tortuga</span> y <span class=\"person\">Aquiles</span> (y el <span class=\"person\">Cangrejo</span>, la <span class=\"person\">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.",
+          html: "La recursión aparece en música, lenguaje, geometría, física y programas. Historias dentro de historias, como en Little Harmonic Labyrinth, muestran el patrón en acción.",
         },
         {
           type: 'key',
-          html: "Capítulo V: Estructuras y procesos recursivos — pieza del bucle eterno entre forma y significado.",
+          html: "La recursión anida la misma estructura dentro de sí misma, como una fuga dentro de otra fuga.",
         },
       ],
     },
@@ -273,15 +253,11 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Significado repartido entre mensaje, decodificador y receptor (ADN, tablillas, discos en el espacio). ¿Existe significado absoluto sin inteligencia?",
-        },
-        {
-          type: 'paragraph',
-          html: "Los diálogos entre <span class=\"person\">Tortuga</span> y <span class=\"person\">Aquiles</span> (y el <span class=\"person\">Cangrejo</span>, la <span class=\"person\">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.",
+          html: "El significado se reparte entre mensaje, decodificador y receptor. Hofstadter lo ilustra con ADN, tablillas y discos en el espacio. ¿Existe significado absoluto sin inteligencia?",
         },
         {
           type: 'key',
-          html: "Capítulo VI: La ubicación del significado — pieza del bucle eterno entre forma y significado.",
+          html: "El sentido no vive solo en el símbolo ni solo en la mente que lo interpreta.",
         },
       ],
     },
@@ -293,15 +269,11 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Reglas formales para «y», «o», «no». Isomorfismo y adquisición automática de significado; ejemplos tipo koan zen («Zentences»).",
-        },
-        {
-          type: 'paragraph',
-          html: "Los diálogos entre <span class=\"person\">Tortuga</span> y <span class=\"person\">Aquiles</span> (y el <span class=\"person\">Cangrejo</span>, la <span class=\"person\">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.",
+          html: "Hofstadter introduce reglas formales para «y», «o» y «no». El isomorfismo permite adquirir significado de forma automática. Los ejemplos tipo koan zen («Zentences») muestran la paradoja en acción.",
         },
         {
           type: 'key',
-          html: "Capítulo VII: El cálculo proposicional — pieza del bucle eterno entre forma y significado.",
+          html: "La lógica formal puede imitar el juego entre reglas y sentido que caracteriza los koan.",
         },
       ],
     },
@@ -313,15 +285,11 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Extensión del cálculo proposicional para aritmética mediante manipulación simbólica rígida. Contraste entre razonamiento formal y pensamiento humano.",
-        },
-        {
-          type: 'paragraph',
-          html: "Los diálogos entre <span class=\"person\">Tortuga</span> y <span class=\"person\">Aquiles</span> (y el <span class=\"person\">Cangrejo</span>, la <span class=\"person\">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.",
+          html: "La TNT extiende el cálculo proposicional para tratar la aritmética mediante manipulación simbólica rígida. Hofstadter contrasta el razonamiento formal con el pensamiento humano.",
         },
         {
           type: 'key',
-          html: "Capítulo VIII: Teoría tipográfica de números (TNT) — pieza del bucle eterno entre forma y significado.",
+          html: "TNT prepara el terreno para hablar de aritmética como pura tipografía simbólica.",
         },
       ],
     },
@@ -333,15 +301,11 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Ideas zen de Mumon como espejo metafórico de la filosofía matemática. Introducción a la <span class=\"term\">numeración de Gödel</span> y primer recorrido del teorema de incompletitud.",
-        },
-        {
-          type: 'paragraph',
-          html: "Los diálogos entre <span class=\"person\">Tortuga</span> y <span class=\"person\">Aquiles</span> (y el <span class=\"person\">Cangrejo</span>, la <span class=\"person\">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.",
+          html: "Las ideas zen de Mumon funcionan como espejo metafórico de la filosofía matemática. Hofstadter introduce la <span class=\"term\">numeración de Gödel</span> y ofrece un primer recorrido del teorema de incompletitud.",
         },
         {
           type: 'key',
-          html: "Capítulo IX: Mumon y Gödel — pieza del bucle eterno entre forma y significado.",
+          html: "Mumon y Gödel comparten el arte de desorientar para revelar límites del lenguaje formal.",
         },
       ],
     },
@@ -353,15 +317,11 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Diálogos basados en el <span class=\"term\">Clave bien temperado</span>. Debate holismo vs. reduccionismo; la colonia de hormigas <span class=\"person\">Aunt Hillary</span> como mente emergente.",
-        },
-        {
-          type: 'paragraph',
-          html: "Los diálogos entre <span class=\"person\">Tortuga</span> y <span class=\"person\">Aquiles</span> (y el <span class=\"person\">Cangrejo</span>, la <span class=\"person\">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.",
+          html: "Los diálogos se basan en el <span class=\"term\">Clave bien temperado</span>. Hofstadter debate holismo frente a reduccionismo. La colonia de hormigas <span class=\"person\">Aunt Hillary</span> funciona como mente emergente.",
         },
         {
           type: 'key',
-          html: "Capítulo Preludio: Preludio y Fuga de la hormiga — pieza del bucle eterno entre forma y significado.",
+          html: "Aunt Hillary muestra cómo una mente puede surgir de partes que, aisladas, no piensan.",
         },
       ],
     },
@@ -373,15 +333,11 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Niveles al ver tableros, imágenes y computadoras: lenguaje máquina, ensamblador, compilador, SO. ¿Cuántos niveles intermedios existen en equipos deportivos, átomos, clima?",
-        },
-        {
-          type: 'paragraph',
-          html: "Los diálogos entre <span class=\"person\">Tortuga</span> y <span class=\"person\">Aquiles</span> (y el <span class=\"person\">Cangrejo</span>, la <span class=\"person\">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.",
+          html: "Hofstadter analiza niveles al ver tableros, imágenes y computadoras: lenguaje máquina, ensamblador, compilador y sistema operativo. Pregunta cuántos niveles intermedios existen en equipos deportivos, átomos o clima.",
         },
         {
           type: 'key',
-          html: "Capítulo X: Niveles de descripción y sistemas informáticos — pieza del bucle eterno entre forma y significado.",
+          html: "Cada nivel describe la misma realidad con un vocabulario distinto y una granularidad propia.",
         },
       ],
     },
@@ -393,15 +349,11 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "¿Cómo el hardware cerebral sostiene pensamientos? Estructura macro y micro del cerebro; relación especulativa entre conceptos y actividad neural.",
-        },
-        {
-          type: 'paragraph',
-          html: "Los diálogos entre <span class=\"person\">Tortuga</span> y <span class=\"person\">Aquiles</span> (y el <span class=\"person\">Cangrejo</span>, la <span class=\"person\">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.",
+          html: "¿Cómo el hardware cerebral sostiene pensamientos? Hofstadter recorre la estructura macro y micro del cerebro y explora la relación especulativa entre conceptos y actividad neural.",
         },
         {
           type: 'key',
-          html: "Capítulo XI: Cerebros y pensamientos — pieza del bucle eterno entre forma y significado.",
+          html: "El cerebro es hardware biológico, pero los pensamientos parecen habitar otro nivel de descripción.",
         },
       ],
     },
@@ -413,15 +365,11 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Poemas Jabberwocky traducidos: ¿se pueden mapear lenguajes y mentes? Analogía geográfica para comunicación entre cerebros.",
-        },
-        {
-          type: 'paragraph',
-          html: "Los diálogos entre <span class=\"person\">Tortuga</span> y <span class=\"person\">Aquiles</span> (y el <span class=\"person\">Cangrejo</span>, la <span class=\"person\">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.",
+          html: "Hofstadter traduce poemas Jabberwocky y pregunta si se pueden mapear lenguajes y mentes. Usa una analogía geográfica para la comunicación entre cerebros.",
         },
         {
           type: 'key',
-          html: "Capítulo XII: Mentes y pensamientos — pieza del bucle eterno entre forma y significado.",
+          html: "Traducir Jabberwocky obliga a separar forma lingüística de contenido mental.",
         },
       ],
     },
@@ -433,15 +381,11 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Lenguajes que realizan búsquedas finitas (BlooP) o potencialmente infinitas (FlooP). Intuición de funciones primitivo-recursivas y recursivas generales, clave en la prueba de Gödel.",
-        },
-        {
-          type: 'paragraph',
-          html: "Los diálogos entre <span class=\"person\">Tortuga</span> y <span class=\"person\">Aquiles</span> (y el <span class=\"person\">Cangrejo</span>, la <span class=\"person\">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.",
+          html: "Hofstadter presenta lenguajes que realizan búsquedas finitas (BlooP) o potencialmente infinitas (FlooP). Introduce la intuición de funciones primitivo-recursivas y recursivas generales, clave en la prueba de Gödel.",
         },
         {
           type: 'key',
-          html: "Capítulo XIII: BlooP, FlooP y GlooP — pieza del bucle eterno entre forma y significado.",
+          html: "BlooP y FlooP separan lo que siempre termina de lo que puede buscar sin límite fijo.",
         },
       ],
     },
@@ -453,15 +397,11 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Prueba de incompletitud de Gödel (<span class=\"num\">1931</span>): si TNT es consistente, es incompleta. Vínculos con geometrías euclidianas/no euclidianas e implicaciones filosóficas.",
-        },
-        {
-          type: 'paragraph',
-          html: "Los diálogos entre <span class=\"person\">Tortuga</span> y <span class=\"person\">Aquiles</span> (y el <span class=\"person\">Cangrejo</span>, la <span class=\"person\">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.",
+          html: "Hofstadter expone la prueba de incompletitud de Gödel (<span class=\"num\">1931</span>): si TNT es consistente, es incompleta. Relaciona el resultado con geometrías euclidianas y no euclidianas y con sus implicaciones filosóficas.",
         },
         {
           type: 'key',
-          html: "Capítulo XIV: Proposiciones formalmente indemostrables — pieza del bucle eterno entre forma y significado.",
+          html: "Gödel demuestra que ningún sistema formal suficientemente rico puede cerrarse sobre sí mismo.",
         },
       ],
     },
@@ -473,15 +413,11 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Repetibilidad del argumento gödeliano: TNT es «esencialmente incompleta». Crítica al argumento de <span class=\"person\">J. R. Lucas</span> sobre mente mecánica.",
-        },
-        {
-          type: 'paragraph',
-          html: "Los diálogos entre <span class=\"person\">Tortuga</span> y <span class=\"person\">Aquiles</span> (y el <span class=\"person\">Cangrejo</span>, la <span class=\"person\">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.",
+          html: "El argumento gödeliano es repetible: TNT es «esencialmente incompleta». Hofstadter critica el argumento de <span class=\"person\">J. R. Lucas</span> sobre la mente mecánica.",
         },
         {
           type: 'key',
-          html: "Capítulo XV: Saltar fuera del sistema — pieza del bucle eterno entre forma y significado.",
+          html: "Saltar fuera del sistema no garantiza por sí solo superioridad de la mente humana.",
         },
       ],
     },
@@ -493,15 +429,11 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Autorreferencia y entidades autorreproductoras (programas, ADN). Difusa frontera entre sistema y entorno que lo replica.",
-        },
-        {
-          type: 'paragraph',
-          html: "Los diálogos entre <span class=\"person\">Tortuga</span> y <span class=\"person\">Aquiles</span> (y el <span class=\"person\">Cangrejo</span>, la <span class=\"person\">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.",
+          html: "Hofstadter explora autorreferencia y entidades autorreproductoras, como programas y ADN. La frontera entre sistema y entorno que lo replica se vuelve difusa.",
         },
         {
           type: 'key',
-          html: "Capítulo XVI: Autoref y autorep — pieza del bucle eterno entre forma y significado.",
+          html: "Autorreferencia y autorreproducción son dos caras del mismo bucle vital y formal.",
         },
       ],
     },
@@ -513,15 +445,11 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "<span class=\"term\">Tesis de Church-Turing</span>; problema de la parada; teorema de verdad de Tarski. Habilidades matemáticas humanas vs. simulación mecánica.",
-        },
-        {
-          type: 'paragraph',
-          html: "Los diálogos entre <span class=\"person\">Tortuga</span> y <span class=\"person\">Aquiles</span> (y el <span class=\"person\">Cangrejo</span>, la <span class=\"person\">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.",
+          html: "Hofstadter presenta la <span class=\"term\">Tesis de Church-Turing</span>, el problema de la parada y el teorema de verdad de Tarski. Contrasta habilidades matemáticas humanas con simulación mecánica.",
         },
         {
           type: 'key',
-          html: "Capítulo XVII: Church, Turing, Tarski y otros — pieza del bucle eterno entre forma y significado.",
+          html: "Church, Turing y Tarski fijan los límites de lo computable, demostrable y decidable.",
         },
       ],
     },
@@ -533,15 +461,11 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Test de Turing; historia abreviada de IA: juegos, teoremas, música, lenguaje natural. Programa SHRDLU de <span class=\"person\">Terry Winograd</span> en mundo de bloques.",
-        },
-        {
-          type: 'paragraph',
-          html: "Los diálogos entre <span class=\"person\">Tortuga</span> y <span class=\"person\">Aquiles</span> (y el <span class=\"person\">Cangrejo</span>, la <span class=\"person\">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.",
+          html: "Hofstadter repasa el test de Turing y ofrece una historia abreviada de IA: juegos, teoremas, música y lenguaje natural. Destaca el programa SHRDLU de <span class=\"person\">Terry Winograd</span> en un mundo de bloques.",
         },
         {
           type: 'key',
-          html: "Capítulo XVIII: Inteligencia artificial: retrospectiva — pieza del bucle eterno entre forma y significado.",
+          html: "SHRDLU mostró que entender lenguaje exige representar un mini-mundo, no solo parsear frases.",
         },
       ],
     },
@@ -553,15 +477,11 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Marcos («frames») y representación en capas de contextos. Creatividad e interacción de conceptos; preguntas abiertas del autor.",
-        },
-        {
-          type: 'paragraph',
-          html: "Los diálogos entre <span class=\"person\">Tortuga</span> y <span class=\"person\">Aquiles</span> (y el <span class=\"person\">Cangrejo</span>, la <span class=\"person\">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.",
+          html: "Hofstadter analiza marcos («frames») y representación en capas de contextos. Explora creatividad e interacción de conceptos y deja preguntas abiertas sobre el futuro de la IA.",
         },
         {
           type: 'key',
-          html: "Capítulo XIX: Inteligencia artificial: perspectivas — pieza del bucle eterno entre forma y significado.",
+          html: "La inteligencia artificial necesita marcos flexibles, no solo reglas fijas de manipulación simbólica.",
         },
       ],
     },
@@ -573,15 +493,11 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Sistemas que se voltean sobre sí mismos: ciencia, gobierno, arte, cerebros. ¿Libertad y conciencia ligadas a bucles de Gödel? Cierre que reúne Bach, Escher y Gödel en un gran bucle autorreferencial.",
-        },
-        {
-          type: 'paragraph',
-          html: "Los diálogos entre <span class=\"person\">Tortuga</span> y <span class=\"person\">Aquiles</span> (y el <span class=\"person\">Cangrejo</span>, la <span class=\"person\">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.",
+          html: "Hofstadter describe sistemas que se voltean sobre sí mismos: ciencia, gobierno, arte y cerebros. Pregunta si libertad y conciencia se ligan a bucles de Gödel. El cierre reúne Bach, Escher y Gödel en un gran bucle autorreferencial.",
         },
         {
           type: 'key',
-          html: "Capítulo XX: Bucles extraños o jerarquías enredadas — pieza del bucle eterno entre forma y significado.",
+          html: "El libro termina donde empezó: tres dominios distintos tejiendo el mismo bucle dorado.",
         },
       ],
     },
@@ -704,18 +620,15 @@ export const godelEscherBach: BookSummary = {
     title: "La idea central",
     lines: [
   "Mente, máquina y matemática comparten un patrón: saltar niveles y volver al origen.",
-  "La incompletitud no es defecto: es síntoma de riqueza suficiente para hablar de sí misma.",
+  "La incompletitud no es defecto sino síntoma de riqueza suficiente para hablar de sí misma.",
   "Bach, Escher y Gödel son tres caras de un mismo bucle dorado.",
   "Entender requiere danzar entre reduccionismo y holismo, forma y significado.",
-  "El libro cierra como empezó: una ofrenda que se referencia a sí misma.",
-  "# footer",
-  "line1: Resumen generado a partir de la obra de Douglas R. Hofstadter",
-  "line2: \"Gödel, Escher, Bach\" · Basic Books · 1979"
+  "El libro cierra como empezó: una ofrenda que se referencia a sí misma."
 ],
     highlight: "La identidad emerge de bucles extraños que nos observan observándonos",
   },
   footer: {
-    line1: "",
-    line2: "",
+    line1: "Resumen generado a partir de la obra de Douglas R. Hofstadter",
+    line2: "\"Gödel, Escher, Bach\" · Basic Books · 1979",
   },
 }

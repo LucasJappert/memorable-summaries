@@ -41,7 +41,7 @@ lang: es
 ## title: Agradecimientos y propósito
 
 <!-- paragraph lead -->
-Tegmark agradece a familia, colegas y revisores — entre ellos <span class="person">Edward Witten</span>, <span class="person">David Deutsch</span> y <span class="person">Andrei Linde</span> — por ayudarlo a escribir este libro autobiográfico-científico. Su esposa <span class="person">Meia</span> es su musa principal.
+Tegmark agradece a familia, colegas y revisores, entre ellos <span class="person">Edward Witten</span>, <span class="person">David Deutsch</span> y <span class="person">Andrei Linde</span>, por ayudarlo a escribir este libro autobiográfico-científico. Su esposa <span class="person">Meia</span> es su musa principal.
 
 <!-- paragraph -->
 El libro no es un texto de consenso comunitario: es la búsqueda personal del autor sobre la naturaleza última de la realidad, desde la cosmología hasta la mecánica cuántica y la hipótesis de que el universo físico es un objeto matemático.
@@ -60,7 +60,7 @@ El libro abre con un relato personal: en <span class="num">1985</span>, Tegmark 
 La física revela que la realidad es mucho más extraña de lo que parece: el acero es casi vacío, las partículas pueden estar en varios lugares a la vez, el tiempo se dilata a alta velocidad y la inflación cósmica sugiere copias infinitas de nosotros en el espacio. La evolución explica por qué nuestra intuición falla fuera de la escala humana.
 
 <!-- paragraph -->
-Tegmark adopta el enfoque del detective: empezar con preguntas como «¿Qué tan grande es el universo?» y «¿De qué está hecho todo?». Tras leer a <span class="person">Richard Feynman</span>, abandonó la economía en Estocolmo y se dedicó a la física. Galileo dijo que la naturaleza está escrita en el lenguaje de las matemáticas; el objetivo del libro es explorar hasta qué punto eso es literalmente cierto.
+Tegmark adopta el enfoque del detective: empezar con preguntas como «¿Qué tan grande es el universo?» y «¿De qué está hecho todo?». La lectura de <span class="person">Richard Feynman</span> lo llevó a abandonar la economía en Estocolmo y dedicarse a la física. <span class="person">Galileo</span> dijo que la naturaleza está escrita en el lenguaje de las matemáticas, y el objetivo del libro es explorar hasta qué punto eso es literalmente cierto.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -80,10 +80,10 @@ La lección principal de la física: <span class="key-term">la realidad última 
 ## title: Nuestro lugar en el espacio
 
 <!-- paragraph lead -->
-Un niño de cinco años pregunta: «¿El espacio continúa para siempre?» — una pregunta científica seria sin respuesta definitiva en la Tierra. Tegmark lista <span class="num">16</span> preguntas cosmológicas frecuentes; once se responden en los capítulos <span class="num">2–5</span>.
+Un niño de cinco años pregunta: «¿El espacio continúa para siempre?». Es una pregunta científica seria sin respuesta definitiva en la Tierra. Tegmark lista <span class="num">16</span> preguntas cosmológicas frecuentes, y once se responden en los capítulos <span class="num">2–5</span>.
 
 <!-- paragraph -->
-La historia es de subestimación repetida: Eratóstenes midió la circunferencia terrestre (~<span class="num">40.000 km</span>); <span class="person">Aristarco</span> calculó distancias a la Luna y al Sol; <span class="person">Friedrich Bessel</span> midió la paralaje de <span class="num">61 Cygni</span> (~un millón de veces más lejos que el Sol); <span class="person">Edwin Hubble</span> mostró que Andrómeda está a millones de años luz.
+La historia es de subestimación repetida. <span class="person">Eratóstenes</span> midió la circunferencia terrestre (~<span class="num">40.000 km</span>). <span class="person">Aristarco</span> calculó distancias a la Luna y al Sol. <span class="person">Friedrich Bessel</span> midió la paralaje de <span class="num">61 Cygni</span> (~un millón de veces más lejos que el Sol). <span class="person">Edwin Hubble</span> mostró que Andrómeda está a millones de años luz.
 
 <!-- paragraph -->
 <span class="person">Einstein</span> permitió espacio finito sin borde (como la superficie de una esfera o un toro) y curvado. Los matemáticos tratan el espacio como objeto con propiedades puramente numéricas: dimensionalidad, curvatura, topología. Tegmark anticipa que el espacio mismo podría ser matemático.
@@ -106,13 +106,13 @@ Cada vez que ampliamos el horizonte, descubrimos que lo conocido forma parte de 
 ## title: Nuestro lugar en el tiempo
 
 <!-- paragraph lead -->
-<span class="person">Newton</span> unificó cielo y tierra: la Luna no cae porque orbita a ~<span class="num">1 km/s</span>; un cañón a <span class="num">7,9 km/s</span> orbitaría la Tierra. Las mareas frenan la rotación terrestre: el sistema Tierra-Luna no puede tener más de ~<span class="num">4–5 mil millones</span> de años en su forma actual.
+<span class="person">Newton</span> unificó cielo y tierra: la Luna no cae porque orbita a ~<span class="num">1 km/s</span>. Un cañón a <span class="num">7,9 km/s</span> orbitaría la Tierra. Las mareas frenan la rotación terrestre, y el sistema Tierra-Luna no puede tener más de ~<span class="num">4–5 mil millones</span> de años en su forma actual.
 
 <!-- paragraph -->
-Las nubes moleculares gigantes colapsan por gravedad vs. presión, formando estrellas y discos protoplanetarios «en forma de pizza». La datación radiactiva del uranio fija la edad de rocas y meteoritos en ~<span class="num">4,5 mil millones</span> de años. <span class="person">Alexander Friedmann</span> (<span class="num">1922</span>) predijo un universo en expansión; <span class="person">Georges Lemaître</span> lo redescubrió; <span class="person">Edwin Hubble</span> (<span class="num">1929</span>) confirmó la ley v = Hd con edad ~<span class="num">14 mil millones</span> de años.
+Las nubes moleculares gigantes colapsan por gravedad frente a presión, formando estrellas y discos protoplanetarios «en forma de pizza». La datación radiactiva del uranio fija la edad de rocas y meteoritos en ~<span class="num">4,5 mil millones</span> de años. <span class="person">Alexander Friedmann</span> (<span class="num">1922</span>) predijo un universo en expansión. <span class="person">Georges Lemaître</span> lo redescubrió, y <span class="person">Edwin Hubble</span> (<span class="num">1929</span>) confirmó la ley v = Hd con edad ~<span class="num">14 mil millones</span> de años.
 
 <!-- paragraph -->
-<span class="person">George Gamow</span> predijo plasma caliente y radiación de microondas (~<span class="num">5 K</span>; medida ~<span class="num">3 K</span> por <span class="person">Penzias</span> y <span class="person">Wilson</span>, Nobel <span class="num">1978</span>). COBE (<span class="num">1992</span>), WMAP y Planck cartografiaron fluctuaciones del CMB. La nucleosíntesis del Big Bang predice ~<span class="num">25%</span> de helio, confirmado. Las semillas de estructura cósmica quedan para el capítulo <span class="num">5</span>.
+<span class="person">George Gamow</span> predijo plasma caliente y radiación de microondas (~<span class="num">5 K</span>, medida ~<span class="num">3 K</span> por <span class="person">Penzias</span> y <span class="person">Wilson</span>, Nobel <span class="num">1978</span>). COBE (<span class="num">1992</span>), WMAP y Planck cartografiaron fluctuaciones del CMB. La nucleosíntesis del Big Bang predice ~<span class="num">25%</span> de helio, confirmado. Las semillas de estructura cósmica quedan para el capítulo <span class="num">5</span>.
 
 <!-- timeline -->
 | year | text |
@@ -135,13 +135,13 @@ Telescopios = máquinas del tiempo: mirar lejos es mirar al pasado cósmico.
 ## title: Nuestro universo en cifras
 
 <!-- paragraph lead -->
-Tras el CMB, la pregunta clave es el origen del <span class="term">gran patrón cósmico</span>: galaxias agrupadas en filamentos. La gravedad amplifica fluctuaciones pequeñas; pero necesita semillas. En los <span class="num">90</span>, la cosmología carecía de datos de precisión.
+Tras el CMB, la pregunta clave es el origen del <span class="term">gran patrón cósmico</span>: galaxias agrupadas en filamentos. La gravedad amplifica fluctuaciones pequeñas, pero necesita semillas. En los <span class="num">90</span>, la cosmología carecía de datos de precisión.
 
 <!-- paragraph -->
-El <span class="term">espectro de potencia</span> del CMB codifica información cosmológica. Los picos acústicos (~<span class="num">1°</span> angular) indican espacio plano y densidad total ~<span class="num">10⁻²⁶ kg/m³</span>. Materia ordinaria ~<span class="num">5%</span>, materia oscura ~<span class="num">25%</span>, energía oscura ~<span class="num">70%</span> — confirmado por supernovas Ia (<span class="person">Perlmutter</span>, <span class="person">Riess</span>, Nobel <span class="num">2011</span>).
+El <span class="term">espectro de potencia</span> del CMB codifica información cosmológica. Los picos acústicos (~<span class="num">1°</span> angular) indican espacio plano y densidad total ~<span class="num">10⁻²⁶ kg/m³</span>. Materia ordinaria ~<span class="num">5%</span>, materia oscura ~<span class="num">25%</span>, energía oscura ~<span class="num">70%</span>, confirmado por supernovas Ia (<span class="person">Perlmutter</span>, <span class="person">Riess</span>, Nobel <span class="num">2011</span>).
 
 <!-- paragraph -->
-Tegmark contribuyó al análisis de datos (Saskatoon, QMAP, WMAP). Boomerang (<span class="num">2000</span>) confirmó el primer pico; DASI y MAXIMA restauraron el segundo pico (~<span class="num">5%</span> átomos, coherente con nucleosíntesis). Mapas 3D de galaxias (SDSS) complementan al CMB para desambiguar parámetros. Planck (<span class="num">2013</span>) confirmó el modelo estándar con precisión sin sorpresas mayores — salvo el misterioso «eje del mal» en multipolos bajos.
+Tegmark contribuyó al análisis de datos (Saskatoon, QMAP, WMAP). Boomerang (<span class="num">2000</span>) confirmó el primer pico. DASI y MAXIMA restauraron el segundo pico (~<span class="num">5%</span> átomos, coherente con nucleosíntesis). Mapas 3D de galaxias (SDSS) complementan al CMB para desambiguar parámetros. Planck (<span class="num">2013</span>) confirmó el modelo estándar con precisión sin sorpresas mayores, salvo el misterioso «eje del mal» en multipolos bajos.
 
 <!-- big-numbers -->
 | value | label |
@@ -165,7 +165,7 @@ La cosmología pasó de especulativa a <span class="key-term">ciencia de precisi
 El modelo de Friedmann tiene tres problemas: el <span class="term">horizonte</span> (regiones del CMB demasiado similares para haber interactuado), la <span class="term">planitud</span> (Ω≈1 es inestable) y el origen del <span class="term">Big Bang</span>. <span class="person">Alan Guth</span> (<span class="num">~1980</span>) propuso la <span class="term">inflación cósmica</span>: un fragmento de materia con presión negativa se expande exponencialmente.
 
 <!-- paragraph -->
-La inflación resuelve los tres problemas: convierte una mota subatómica en un universo observable en ~<span class="num">10⁻³⁵ s</span>; estira el espacio hasta planitud (predicción Ω=1 confirmada al <span class="num">1%</span>); y las fluctuaciones cuánticas del inflatón se estiran hasta tamaños galácticos (Q ≈ <span class="num">0,002%</span>, espectro casi scale-invariant con n ≈ <span class="num">0,96</span>).
+La inflación resuelve los tres problemas. Convierte una mota subatómica en un universo observable en ~<span class="num">10⁻³⁵ s</span>. Estira el espacio hasta planitud (predicción Ω=1 confirmada al <span class="num">1%</span>). Las fluctuaciones cuánticas del inflatón se estiran hasta tamaños galácticos (Q ≈ <span class="num">0,002%</span>, espectro casi scale-invariant con n ≈ <span class="num">0,96</span>).
 
 <!-- paragraph -->
 <span class="person">Andrei Linde</span> desarrolló la <span class="term">inflación eterna</span>: la inflación no termina en todas partes a la vez, generando burbujas con distintas propiedades. La energía oscura actual es una «segunda inflación» lenta (doble de tamaño cada ~<span class="num">8 mil millones</span> de años). Ondas gravitacionales en la polarización del CMB serían evidencia definitiva.
@@ -194,7 +194,7 @@ Los universos paralelos no son una teoría suelta: son predicciones de teorías 
 El <span class="term">multiverso de nivel II</span> surge cuando las ecuaciones de la inflación tienen múltiples soluciones estables: cada solución se realiza en regiones distintas con leyes físicas o constantes diferentes. Esto podría explicar el <span class="term">ajuste fino</span> de constantes compatibles con la vida.
 
 <!-- paragraph -->
-Los estudiantes en universos paralelos de nivel I aprenden la misma física pero distinta historia; en nivel II, distinta física también. Las constantes medidas serían parte de nuestro «código postal cósmico», no necesariamente fundamentales. La crítica pasó de «no tiene sentido» a «no me gusta».
+Los estudiantes en universos paralelos de nivel I aprenden la misma física pero distinta historia. En nivel II, distinta física también. Las constantes medidas serían parte de nuestro «código postal cósmico», no necesariamente fundamentales. La crítica pasó de «no tiene sentido» a «no me gusta».
 
 <!-- list -->
 - **Nivel I** — Regiones inobservables del mismo espacio; mismas leyes; copias de ti a distancia finita o infinita.
@@ -211,13 +211,13 @@ La inflación convierte ecuaciones con múltiples soluciones en <span class="key
 ## title: Legos cósmicos
 
 <!-- paragraph lead -->
-Todo está hecho de los mismos bloques: <span class="num">80</span> átomos estables, compuestos de protones, neutrones y electrones; estos de <span class="term">quarks</span> (up, down y cuatro inestables) y <span class="term">leptones</span>. Colisiones en el LHC producen bosones W, Z, Higgs; los neutrinos atraviesan la Tierra sin interactuar.
+Todo está hecho de los mismos bloques: <span class="num">80</span> átomos estables, compuestos de protones, neutrones y electrones. Estos a su vez se componen de <span class="term">quarks</span> (up, down y cuatro inestables) y <span class="term">leptones</span>. Colisiones en el LHC producen bosones W, Z, Higgs, y los neutrinos atraviesan la Tierra sin interactuar.
 
 <!-- paragraph -->
-Las partículas elementales se describen solo por <span class="term">números cuánticos</span> (carga, spin, masa, etc.) — no tienen propiedades más allá de lo matemático. Colisiones pueden crear partículas más pesadas vía E=mc² conservando energía, momento y cargas. La teoría de cuerdas sugiere vibraciones fundamentales a energías ~<span class="num">10¹³</span> veces mayores que las actuales.
+Las partículas elementales se describen solo por <span class="term">números cuánticos</span> (carga, spin, masa, etc.), sin propiedades más allá de lo matemático. Colisiones pueden crear partículas más pesadas vía E=mc² conservando energía, momento y cargas. La teoría de cuerdas sugiere vibraciones fundamentales a energías ~<span class="num">10¹³</span> veces mayores que las actuales.
 
 <!-- paragraph -->
-La luz es fotones; el arcoíris y las líneas espectrales de Fraunhofer se explican con cuántica. Los átomos no colapsan gracias al principio de incertidumbre de Heisenberg. Tegmark relata su confusión inicial con la mecánica cuántica en Estocolmo y su posterior trabajo en Berkeley.
+La luz son fotones. El arcoíris y las líneas espectrales de Fraunhofer se explican con cuántica. Los átomos no colapsan gracias al principio de incertidumbre de Heisenberg. Tegmark relata su confusión inicial con la mecánica cuántica en Estocolmo y su posterior trabajo en Berkeley.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -237,10 +237,10 @@ Los bloques más profundos parecen ser <span class="key-term">objetos matemátic
 ## title: El multiverso de nivel III
 
 <!-- paragraph lead -->
-La versión matemáticamente más simple de la cuántica: una sola <span class="term">función de onda</span> en el espacio de Hilbert, gobernada siempre por la ecuación de <span class="person">Schrödinger</span>. Las partículas pueden estar en superposición; la «observación» no está definida en las ecuaciones.
+La versión matemáticamente más simple de la cuántica postula una sola <span class="term">función de onda</span> en el espacio de Hilbert, gobernada siempre por la ecuación de <span class="person">Schrödinger</span>. Las partículas pueden estar en superposición, y la «observación» no está definida en las ecuaciones.
 
 <!-- paragraph -->
-La interpretación de <span class="person">Hugh Everett</span> (<span class="num">1957</span>): cada medición cuántica bifurca el universo — no hay colapso aleatorio, sino <span class="term">decoherencia</span> que oculta ramas paralelas. El azar cuántico sería ilusión por ignorancia de en qué copia estás. Tu cerebro decoherencia constantemente; la «conciencia cuántica» queda desmentida.
+<span class="person">Hugh Everett</span> propuso en <span class="num">1957</span> que cada medición cuántica bifurca el universo. No hay colapso aleatorio, sino <span class="term">decoherencia</span> que oculta ramas paralelas. El azar cuántico sería ilusión por ignorancia de en qué copia estás. Tu cerebro decoherencia constantemente, y la «conciencia cuántica» queda desmentida.
 
 <!-- paragraph -->
 El multiverso cuántico (nivel III) se unifica con el espacial (nivel I): la función de onda describe copias infinitas en el espacio. Si el espacio es infinito y uniforme, colapsar la función de onda no cambia el resultado observable. Tegmark es escéptico sobre la «inmortalidad cuántica» subjetiva (lo retoma en cap. <span class="num">11</span>).
@@ -263,7 +263,7 @@ Sin colapso ad hoc, la ecuación de Schrödinger predice <span class="key-term">
 Tegmark distingue tres capas: <span class="term">realidad externa</span> (mundo físico independiente), <span class="term">realidad interna</span> (modelo en tu cerebro, distorsionado por sentidos) y <span class="term">realidad consensuada</span> (descripción compartida entre observadores conscientes).
 
 <!-- paragraph -->
-La física teórica describe la realidad externa con matemáticas muy distintas de la experiencia subjetiva. Demócrito ya separaba «por convención» (dulce, amargo) de «en verdad» (átomos y vacío). La pregunta de Douglas Adams se divide: las ciencias físicas derivan la realidad consensuada desde la externa; las ciencias cognitivas derivan la interna desde la consensuada.
+La física teórica describe la realidad externa con matemáticas muy distintas de la experiencia subjetiva. <span class="person">Demócrito</span> ya separaba «por convención» (dulce, amargo) de «en verdad» (átomos y vacío). La pregunta de Douglas Adams se divide: las ciencias físicas derivan la realidad consensuada desde la externa, y las ciencias cognitivas derivan la interna desde la consensuada.
 
 <!-- paragraph -->
 La conciencia no impide entender la realidad física externa por completo. Tegmark relata la pérdida de su maleta rumbo a un documental sobre Everett — metáfora de cuánto filtra nuestra percepción.
@@ -279,13 +279,13 @@ Una sola realidad externa, pero <span class="key-term">perspectivas complementar
 ## title: Realidad física y realidad matemática
 
 <!-- paragraph lead -->
-Galileo: la naturaleza está escrita en matemáticas. Wigner: la «efectividad irrazonable» de las matemáticas en ciencia es un misterio. En <span class="num">1990</span>, Tegmark formula la <span class="term">Hipótesis del Universo Matemático (MUH)</span>: la realidad externa no solo se describe con matemáticas — <em>es</em> una estructura matemática.
+<span class="person">Galileo</span> sostuvo que la naturaleza está escrita en matemáticas. <span class="person">Eugene Wigner</span> llamó misterio a la «efectividad irrazonable» de las matemáticas en ciencia. En <span class="num">1990</span>, Tegmark formuló la <span class="term">Hipótesis del Universo Matemático (MUH)</span>: la realidad externa no solo se describe con matemáticas, sino que <em>es</em> una estructura matemática.
 
 <!-- paragraph -->
 La <span class="term">Hipótesis de Realidad Externa</span> postula un mundo independiente de humanos. Una teoría del todo sin «equipaje» humano debe ser puramente matemática. Una estructura matemática = conjunto de entidades abstractas con relaciones entre ellas (enteros, sólidos platónicos, etc.).
 
 <!-- paragraph -->
-Si aceptas realidad externa independiente de humanos, debes aceptar que la realidad física es estructura matemática — nada más tiene descripción sin equipaje. El árbol de teorías (relatividad → mecánica clásica → química → biología) muestra derivaciones parciales; la ToE estaría en la raíz.
+Si aceptas realidad externa independiente de humanos, debes aceptar que la realidad física es estructura matemática. Nada más tiene descripción sin equipaje. El árbol de teorías (relatividad → mecánica clásica → química → biología) muestra derivaciones parciales, y la ToE estaría en la raíz.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -305,10 +305,10 @@ Vivimos dentro de un objeto matemático gigante — más complejo que un <span c
 ## title: ¿Es el tiempo una ilusión?
 
 <!-- paragraph lead -->
-Einstein: el pasado, presente y futuro son «ilusión persistente». Bajo la MUH, las estructuras matemáticas son eternas e inmutables: el espacio y el tiempo existen <em>en</em> ellas, no al revés. Si la historia cósmica fuera una película, la estructura matemática sería el DVD completo.
+<span class="person">Einstein</span> afirmó que el pasado, presente y futuro son «ilusión persistente». Bajo la MUH, las estructuras matemáticas son eternas e inmutables: el espacio y el tiempo existen <em>en</em> ellas, no al revés. Si la historia cósmica fuera una película, la estructura matemática sería el DVD completo.
 
 <!-- paragraph -->
-Implicaciones: flujo temporal, cambio, creación y destrucción serían ilusiones. Tú eres una subestructura autoconsciente — en relatividad general, un «trenzado» complejo en el espaciotiempo; en cuántica, un patrón que ramifica. La realidad subjetiva cinematográfica existe solo en tu modelo cerebral, con recuerdos editados que simulan pasado.
+El flujo temporal, el cambio, la creación y la destrucción serían ilusiones. Tú eres una subestructura autoconsciente. En relatividad general, un «trenzado» complejo en el espaciotiempo. En cuántica, un patrón que ramifica. La realidad subjetiva cinematográfica existe solo en tu modelo cerebral, con recuerdos editados que simulan pasado.
 
 <!-- paragraph -->
 Los qualia («yo», «rojo», «dulce») son parte del modelo interno, no de la realidad externa matemática. La percepción de un punto de vista subjetivo es qualia igual que el color.
@@ -334,7 +334,7 @@ La MUH implica que existencia matemática = existencia física: todo lo que exis
 Jerarquía de cuatro niveles: I (regiones lejanas del espacio), II (regiones post-inflacionarias), III (ramas cuánticas en espacio de Hilbert), IV (otras estructuras matemáticas). Explorar el nivel IV requiere computadoras e ideas, no cohetes. Estructuras simples pueden listarse como un «directorio telefónico» matemático.
 
 <!-- paragraph -->
-¿Vivimos en una simulación? Tegmark argumenta que una simulación perfecta <em>es</em> otra estructura matemática — no refuta la MUH. La vida inteligente parece rara; la mayoría de niveles I, II y IV serían inhabitables. El universo matemático más simple compatible con observaciones podría ser el nuestro.
+¿Vivimos en una simulación? Tegmark argumenta que una simulación perfecta <em>es</em> otra estructura matemática y no refuta la MUH. La vida inteligente parece rara, y la mayoría de niveles I, II y IV serían inhabitables. El universo matemático más simple compatible con observaciones podría ser el nuestro.
 
 <!-- list -->
 - **Nivel I** — Mismo espacio, mismas leyes; regiones fuera del horizonte observable.
@@ -353,13 +353,13 @@ El multiverso IV es el más diverso: <span class="key-term">cualquier estructura
 ## title: Vida, nuestro universo y todo lo demás
 
 <!-- paragraph lead -->
-Las expediciones hacia lo grande y lo pequeño convergen en estructuras matemáticas. En escalas humanas la tela matemática es fácil de ignorar; en las extremas, evidente. Si la realidad es matemática, todo es en principio comprensible — limitados solo por la imaginación.
+Las expediciones hacia lo grande y lo pequeño convergen en estructuras matemáticas. En escalas humanas la tela matemática es fácil de ignorar. En las extremas, resulta evidente. Si la realidad es matemática, todo es en principio comprensible, limitados solo por la imaginación.
 
 <!-- paragraph -->
 Futuro del universo: posible <span class="term">Big Chill</span> (expansión acelerada), Big Crunch, Big Rip, Big Snap o burbujas de muerte. No hay evidencia de vida tan avanzada como la humana en todo el universo observable. El potencial futuro de la vida supera con creces lo visto hasta ahora.
 
 <!-- paragraph -->
-Tegmark advierte sobre riesgos existenciales poco atendidos: guerra nuclear accidental e inteligencia artificial hostil. Desde una perspectiva cósmica, problemas cotidianos (multas, desamores) encogen; pero la responsabilidad de preservar la vida consciente en el universo es enorme.
+Tegmark advierte sobre riesgos existenciales poco atendidos: guerra nuclear accidental e inteligencia artificial hostil. Desde una perspectiva cósmica, problemas cotidianos (multas, desamores) encogen. La responsabilidad de preservar la vida consciente en el universo es enorme.
 
 <!-- big-numbers -->
 | value | label |
@@ -445,10 +445,8 @@ Somos parte consciente de una estructura matemática; nuestro futuro depende de 
 ## title: La idea central
 
 <!-- closing -->
-La realidad física no solo se describe con matemáticas.
-Bajo la Hipótesis del Universo Matemático, es una estructura matemática.
-El multiverso tiene cuatro niveles: espacial, inflacionario, cuántico y matemático.
-El tiempo, el cambio y el azar cuántico serían ilusiones desde la vista de pájaro.
+La realidad física no solo se describe con matemáticas: bajo la Hipótesis del Universo Matemático, es una estructura matemática.
+El multiverso tiene cuatro niveles (espacial, inflacionario, cuántico y matemático), y desde la vista de pájaro el tiempo, el cambio y el azar cuántico serían ilusiones.
 <!-- highlight -->Nuestro universo no está hecho de matemáticas: nuestro universo es matemáticas<!-- /highlight -->
 Las expediciones al macro y al micro convergen en la misma conclusión.
 Somos subestructuras autoconscientes dentro de un objeto matemático colosal.

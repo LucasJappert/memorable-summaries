@@ -127,11 +127,11 @@ export const origins: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Esta segunda edición incorpora descubrimientos recientes: unos <span class=\"num\">5.000 exoplanetas</span> detectados; ondas gravitacionales registradas por primera vez en <span class=\"num\">2017</span>; cinco cuerpos del Sistema Solar —Ceres, Europa, Encélado, Titán además de Marte— como candidatos para buscar vida; y una discrepancia entre métodos para medir la expansión cósmica, la «crisis en cosmología».",
+          html: "Esta segunda edición incorpora descubrimientos recientes: unos <span class=\"num\">5.000 exoplanetas</span> detectados, ondas gravitacionales registradas por primera vez en <span class=\"num\">2017</span>, cinco cuerpos del Sistema Solar (Ceres, Europa, Encélado, Titán además de Marte) como candidatos para buscar vida, y una discrepancia entre métodos para medir la expansión cósmica, la «crisis en cosmología».",
         },
         {
           type: 'paragraph',
-          html: "Los humanos fascinan los orígenes por razones lógicas y emocionales. Pero cada avance revela que habitamos un <span class=\"term\">grano de polvo cósmico</span> en los suburbios de una galaxia común, entre al menos <span class=\"num\">100.000 millones de galaxias</span>. Los mitos de creación suelen pasar rápido del universo a la historia humana, como si fuéramos el centro.",
+          html: "Los humanos fascinan los orígenes por razones lógicas y emocionales. Cada avance revela que habitamos un <span class=\"term\">grano de polvo cósmico</span> en los suburbios de una galaxia común, entre al menos <span class=\"num\">100.000 millones de galaxias</span>. Los mitos de creación suelen pasar rápido del universo a la historia humana, como si fuéramos el centro.",
         },
         {
           type: 'paragraph',
@@ -151,11 +151,11 @@ export const origins: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Al principio hubo física. Materia, energía, espacio y tiempo —las cuatro protagonistas del drama cósmico— subyacen a toda química y biología. Aplicada al cielo, esa física es <span class=\"term\">astrofísica</span>.",
+          html: "Al principio hubo física. Materia, energía, espacio y tiempo (las cuatro protagonistas del drama cósmico) subyacen a toda química y biología. Aplicada al cielo, esa física es <span class=\"term\">astrofísica</span>.",
         },
         {
           type: 'paragraph',
-          html: "La física clásica (pre-1900) funciona en laboratorios cotidianos; la <span class=\"term\">física moderna</span> opera en regímenes extremos de temperatura, densidad y presión —como los primeros momentos del universo— donde la intuición falla y mandan relatividad y mecánica cuántica.",
+          html: "La física clásica (pre-1900) funciona en laboratorios cotidianos. La <span class=\"term\">física moderna</span> opera en regímenes extremos de temperatura, densidad y presión, como los primeros momentos del universo, donde la intuición falla y mandan relatividad y mecánica cuántica.",
         },
         {
           type: 'paragraph',
@@ -216,11 +216,11 @@ export const origins: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Carl Anderson</span> descubrió el positrón en <span class=\"num\">1932</span>, predicho por la ecuación de <span class=\"person\">Paul Dirac</span>. Desde <span class=\"num\">1996</span>, el equipo de <span class=\"person\">Walter Oelert</span> en el CERN creó átomos de antihidrógeno —nueve en la primera ronda— que sobrevivieron menos de <span class=\"num\">40 nanosegundos</span> antes de aniquilarse.",
+          html: "<span class=\"person\">Carl Anderson</span> descubrió el positrón en <span class=\"num\">1932</span>, predicho por la ecuación de <span class=\"person\">Paul Dirac</span>. Desde <span class=\"num\">1996</span>, el equipo de <span class=\"person\">Walter Oelert</span> en el CERN creó átomos de antihidrógeno (nueve en la primera ronda) que sobrevivieron menos de <span class=\"num\">40 nanosegundos</span> antes de aniquilarse.",
         },
         {
           type: 'paragraph',
-          html: "Los fotones gamma de alta energía pueden crear pares electrón-positrón (E = mc² al revés). El universo primordial produjo partículas y antipartículas en igual cantidad, pero una asimetría minúscula —<span class=\"num\">un billón y uno frente a un billón</span>— dejó materia suficiente para galaxias, estrellas y planetas.",
+          html: "Los fotones gamma de alta energía pueden crear pares electrón-positrón (E = mc² al revés). El universo primordial produjo partículas y antipartículas en igual cantidad, pero una asimetría minúscula (<span class=\"num\">un billón y uno frente a un billón</span>) dejó materia suficiente para galaxias, estrellas y planetas.",
         },
         {
           type: 'quote',
@@ -245,7 +245,7 @@ export const origins: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Tras el Big Bang, durante <span class=\"num\">380.000 años</span> el universo fue opaco: los fotones rebotaban en electrones libres. Al bajar la temperatura por debajo de ~<span class=\"num\">3.000 K</span>, los electrones se acoplaron a núcleos formando átomos —el <span class=\"term\">tiempo de desacoplamiento</span>— y la luz quedó libre.",
+          html: "Tras el Big Bang, durante <span class=\"num\">380.000 años</span> el universo fue opaco: los fotones rebotaban en electrones libres. Al bajar la temperatura por debajo de ~<span class=\"num\">3.000 K</span>, los electrones se acoplaron a núcleos formando átomos (el <span class=\"term\">tiempo de desacoplamiento</span>) y la luz quedó libre.",
         },
         {
           type: 'paragraph',
@@ -290,7 +290,7 @@ export const origins: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Vera Rubin</span> confirmó el patrón en galaxias espirales: las estrellas en los bordes orbitan más rápido de lo que permite la materia luminosa. La materia oscura no emite luz ni interactúa electromagnéticamente; solo se detecta por gravedad. Constituye la mayor parte de la masa del universo.",
+          html: "<span class=\"person\">Vera Rubin</span> confirmó el patrón en galaxias espirales: las estrellas en los bordes orbitan más rápido de lo que permite la materia luminosa. La materia oscura no emite luz ni interactúa electromagnéticamente. Solo se detecta por gravedad y constituye la mayor parte de la masa del universo.",
         },
         {
           type: 'concept-grid',
@@ -330,7 +330,7 @@ export const origins: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Einstein introdujo la constante cosmológica en <span class=\"num\">1915</span> para «congelar» un universo estático; la llamó su «mayor error» tras el descubrimiento de Hubble de la expansión. Pero en <span class=\"num\">1998</span> las supernovas tipo Ia demostraron que la expansión <em>acelera</em>: el vacío contiene energía repulsiva.",
+          html: "<span class=\"person\">Einstein</span> introdujo la constante cosmológica en <span class=\"num\">1915</span> para «congelar» un universo estático y la llamó su «mayor error» tras el descubrimiento de Hubble de la expansión. En <span class=\"num\">1998</span> las supernovas tipo Ia demostraron que la expansión <em>acelera</em>: el vacío contiene energía repulsiva.",
         },
         {
           type: 'big-numbers',
@@ -367,7 +367,7 @@ export const origins: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Dos métodos independientes para medir la <span class=\"term\">constante de Hubble</span> (H₀) —velocidad de recesión por megaparsec— dan resultados discordantes: ~<span class=\"num\">67</span> vs ~<span class=\"num\">73</span> km/s/Mpc, una diferencia del ~10%.",
+          html: "Dos métodos independientes para medir la <span class=\"term\">constante de Hubble</span> (H₀), la velocidad de recesión por megaparsec, dan resultados discordantes: ~<span class=\"num\">67</span> frente a ~<span class=\"num\">73</span> km/s/Mpc, una diferencia del ~10%.",
         },
         {
           type: 'paragraph',
@@ -375,7 +375,7 @@ export const origins: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Antes del telescopio Hubble, los valores de H₀ divergían por factor 2 (50 vs 100). Que hoy la discordancia sea solo ~10% es progreso; pero si persiste, podría abrir nueva física más allá del modelo estándar.",
+          html: "Antes del telescopio Hubble, los valores de H₀ divergían por factor 2 (50 frente a 100). Que hoy la discordancia sea solo ~10% es progreso, pero si persiste podría abrir nueva física más allá del modelo estándar.",
         },
         {
           type: 'timeline',
@@ -416,7 +416,7 @@ export const origins: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El <span class=\"term\">principio antrópico</span> responde que solo en universos con parámetros compatibles con galaxias, estrellas y vida puede haber observadores. El <span class=\"term\">multiverso</span> —infinitos universos con leyes y constantes aleatorias— explicaría por qué el nuestro tiene valores «apenas» aptos para vida, aunque la hipótesis es difícil de verificar.",
+          html: "El <span class=\"term\">principio antrópico</span> responde que solo en universos con parámetros compatibles con galaxias, estrellas y vida puede haber observadores. El <span class=\"term\">multiverso</span>, con infinitos universos de leyes y constantes aleatorias, explicaría por qué el nuestro tiene valores «apenas» aptos para vida, aunque la hipótesis es difícil de verificar.",
         },
         {
           type: 'concept-grid',
@@ -493,7 +493,7 @@ export const origins: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Tras el Big Bang, la materia era casi uniforme; hoy forma cúmulos, galaxias, estrellas y planetas. Esa organización exige unir <span class=\"term\">mecánica cuántica</span> (fluctuaciones minúsculas) con <span class=\"term\">relatividad general</span> (gravedad a gran escala) — una unificación aún incompleta.",
+          html: "Tras el Big Bang, la materia era casi uniforme. Hoy forma cúmulos, galaxias, estrellas y planetas. Esa organización exige unir <span class=\"term\">mecánica cuántica</span> (fluctuaciones minúsculas) con <span class=\"term\">relatividad general</span> (gravedad a gran escala), una unificación aún incompleta.",
         },
         {
           type: 'paragraph',
@@ -501,7 +501,7 @@ export const origins: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Las <span class=\"term\">fluctuaciones cuánticas</span> durante la inflación se estiraron hasta volverse irregularidades gravitacionales. La materia oscura aceleró el colapso; el gas bariónico se calentó y formó estrellas. El modelo ΛCDM (materia oscura + energía oscura + bariones) reproduce las observaciones del CBR y la estructura a gran escala.",
+          html: "Las <span class=\"term\">fluctuaciones cuánticas</span> durante la inflación se estiraron hasta volverse irregularidades gravitacionales. La materia oscura aceleró el colapso y el gas bariónico se calentó y formó estrellas. El modelo ΛCDM (materia oscura + energía oscura + bariones) reproduce las observaciones del CBR y la estructura a gran escala.",
         },
         {
           type: 'key',
@@ -525,7 +525,7 @@ export const origins: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Estrellas en fase de <span class=\"term\">gigante roja</span> expulsan granos de polvo al espacio. En regiones como la nebulosa de Orión, miles de estrellas nacen de nubes de ~un millón de masas solares. Sin polvo y gas no habría segunda generación estelar ni elementos pesados para planetas y vida.",
+          html: "Estrellas en fase de <span class=\"term\">gigante roja</span> expulsan granos de polvo al espacio. En regiones como la nebulosa de Orión, miles de estrellas nacen de nubes de ~un millón de masas solares. El polvo y el gas son indispensables para una segunda generación estelar y para los elementos pesados que forman planetas y vida.",
         },
         {
           type: 'key',
@@ -565,7 +565,7 @@ export const origins: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Copérnico situó la Tierra entre los planetas del Sol; eso sugiere mundos innumerables con posibles habitantes. <span class=\"person\">Giordano Bruno</span> pagó con la vida en <span class=\"num\">1600</span> su defensa de mundos alienígenas.",
+          html: "Copérnico situó la Tierra entre los planetas del Sol, lo que sugiere mundos innumerables con posibles habitantes. <span class=\"person\">Giordano Bruno</span> pagó con la vida en <span class=\"num\">1600</span> su defensa de mundos alienígenas.",
         },
         {
           type: 'paragraph',
@@ -589,7 +589,7 @@ export const origins: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Solo conocemos un ejemplo de vida: la terrestre, basada en ADN. Sin comparaciones múltiples, la astrobiología infiere principios generales desde la química y la historia de la Tierra, evitando el <span class=\"term\">antropomorfismo</span>.",
+          html: "Solo conocemos un ejemplo de vida: la terrestre, basada en ADN. La astrobiología infiere principios generales desde la química y la historia de la Tierra, evitando el <span class=\"term\">antropomorfismo</span> porque carece de comparaciones múltiples.",
         },
         {
           type: 'paragraph',
@@ -597,7 +597,7 @@ export const origins: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La detección masiva de exoplanetas inclina hacia el optimismo sobre vida abundante, pero cada término de Drake sigue incierto. Resultados negativos fortalecerían el pesimismo; positivos en el Sistema Solar sugerirían vida común en la galaxia.",
+          html: "La detección masiva de exoplanetas inclina hacia el optimismo sobre vida abundante, pero cada término de Drake sigue incierto. Resultados negativos fortalecerían el pesimismo. Hallazgos positivos en el Sistema Solar sugerirían vida común en la galaxia.",
         },
         {
           type: 'list',
@@ -621,7 +621,7 @@ export const origins: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Definición operativa de vida: conjuntos de objetos que se <span class=\"term\">reproducen y evolucionan</span> — no basta autorreplicarse (el fuego también lo hace). Ningún objeto aislado califica; hay que seguir poblaciones en el tiempo.",
+          html: "Definición operativa de vida: conjuntos de objetos que se <span class=\"term\">reproducen y evolucionan</span>. No basta autorreplicarse (el fuego también lo hace). Ningún objeto aislado califica: hay que seguir poblaciones en el tiempo.",
         },
         {
           type: 'paragraph',
@@ -629,7 +629,7 @@ export const origins: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El origen exacto en la Tierra (~<span class=\"num\">4.000–4.600 millones de años</span> atrás) carece de registro fósil claro. Experimentos como <span class=\"person\">Miller-Urey</span> (<span class=\"num\">1953</span>) muestran aminoácidos desde atmósferas primitivas simuladas; hipótesis del ARN primero, quimiosíntesis en fumarolas o panspermia siguen en debate.",
+          html: "El origen exacto en la Tierra (~<span class=\"num\">4.000–4.600 millones de años</span> atrás) carece de registro fósil claro. Experimentos como <span class=\"person\">Miller-Urey</span> (<span class=\"num\">1953</span>) muestran aminoácidos desde atmósferas primitivas simuladas. Las hipótesis del ARN primero, la quimiosíntesis en fumarolas o la panspermia siguen en debate.",
         },
         {
           type: 'key',
@@ -649,7 +649,7 @@ export const origins: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El carbono forma hasta cuatro enlaces débiles y versátiles; el silicio —favorito de la ciencia ficción— enlaza fuerte con oxígeno en rocas estables, poco apto para metabolismo acuoso. Vida alienígena probablemente también será <span class=\"term\">basada en carbono</span>.",
+          html: "El carbono forma hasta cuatro enlaces débiles y versátiles. El silicio, favorito de la ciencia ficción, enlaza fuerte con oxígeno en rocas estables y resulta poco apto para metabolismo acuoso. La vida alienígena probablemente también será <span class=\"term\">basada en carbono</span>.",
         },
         {
           type: 'paragraph',
@@ -689,7 +689,7 @@ export const origins: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Para vida <em>compleja</em> hay que mirar exoplanetas: en el Sistema Solar solo se esperan formas primitivas. Con ~<span class=\"num\">5.000 exoplanetas</span>, los dos primeros términos de Drake apuntan alto; los de habitabilidad, origen, inteligencia y longevidad civilizatoria siguen casi tan inciertos como antes.",
+          html: "Para vida <em>compleja</em> hay que mirar exoplanetas, porque en el Sistema Solar solo se esperan formas primitivas. Ya hay ~<span class=\"num\">5.000 exoplanetas</span> catalogados, y los dos primeros términos de Drake apuntan alto. Los de habitabilidad, origen, inteligencia y longevidad civilizatoria siguen casi tan inciertos como antes.",
         },
         {
           type: 'paragraph',
@@ -697,7 +697,7 @@ export const origins: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El <span class=\"term\">SETI</span> busca señales de radio u ópticas artificiales sin éxito concluyente. Explorar la galaxia entera tardaría millones de años; la escucha electromagnética es el método viable. Detectar biosfirmas espectroscópicas en atmósferas exoplanetarias es la próxima frontera.",
+          html: "El <span class=\"term\">SETI</span> busca señales de radio u ópticas artificiales sin éxito concluyente. Explorar la galaxia entera tardaría millones de años, y la escucha electromagnética es el método viable. Detectar biosfirmas espectroscópicas en atmósferas exoplanetarias es la próxima frontera.",
         },
         {
           type: 'key',
@@ -713,7 +713,7 @@ export const origins: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Los cinco sentidos humanos son asombrosos pero estrechos. La ciencia moderna añade docenas de «sentidos» artificiales — telescopios, microscopios, detectores de radiación gravitacional — que convierten datos en formas que podemos interpretar.",
+          html: "Los cinco sentidos humanos son asombrosos pero estrechos. La ciencia moderna añade docenas de «sentidos» artificiales (telescopios, microscopios, detectores de radiación gravitacional) que convierten datos en formas que podemos interpretar.",
         },
         {
           type: 'paragraph',

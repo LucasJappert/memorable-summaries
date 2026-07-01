@@ -55,7 +55,7 @@ lang: es
 <span class="person">Joseph Seckbach</span> y <span class="person">Maud M. Walsh</span> presentan el volumen 12 de la serie COLE (<span class="term">Cellular Origin, Life in Extreme Habitats and Astrobiology</span>): un compendio sobre el registro de vida en la Tierra como guía para investigar biosignaturas en el cosmos.
 
 <!-- paragraph -->
-La astrobiología integra astronomía, química y ciencias planetarias. Este libro reúne a <span class="num">30</span> contribuyentes de <span class="num">16</span> países en tres bloques — geología, biología y ciencias espaciales — más un cierre sobre Marte y perspectivas generales.
+La astrobiología integra astronomía, química y ciencias planetarias. Este libro reúne a <span class="num">30</span> contribuyentes de <span class="num">16</span> países en tres bloques (geología, biología y ciencias espaciales), con un cierre sobre Marte y perspectivas generales.
 
 <!-- key -->
 El registro fósil terrestre calibra qué buscar, dónde buscarlo y con qué cautela interpretarlo fuera de la Tierra.
@@ -135,7 +135,7 @@ Un microfósil arcaico exige demostrar que la señal es contemporánea al depós
 Solo Pilbara y Barberton conservan pilas estratigráficas arcaicas intactas con bajo metamorfismo. Isua y rocas más antiguas (~<span class="num">3,85 Ga</span>) están más alteradas. Los esfuerzos se centran en cherts, bandas ferríferas, rocas hidrotermales y, recientemente, rocas volcánicas.
 
 <!-- paragraph -->
-Cada reporte exige preguntarse: ¿es la estructura auténticamente biogénica y está en contexto estratigráfico coherente? El consenso científico sobre la vida más antigua sigue siendo elude.
+Cada reporte exige preguntarse: ¿es la estructura auténticamente biogénica y está en contexto estratigráfico coherente? El consenso científico sobre la vida más antigua sigue siendo elusivo.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -161,7 +161,7 @@ Buscar vida antigua es elegir la roca correcta y someter cada señal a un están
 Usan espectroscopía IR in situ — relevante para misiones a Marte sin retorno de muestras. Preguntan si el orgánico silicificado conserva bandas IR características y si el orgánico modifica la morfología del gel de sílice aunque luego desaparezca.
 
 <!-- paragraph -->
-Los silicatos son abundantes en Tierra y Marte; expandir el catálogo terrestre de biosignaturas minerales facilita distinguir procesos biológicos de abióticos en otros mundos.
+Los silicatos son abundantes en Tierra y Marte. Expandir el catálogo terrestre de biosignaturas minerales facilita distinguir procesos biológicos de abióticos en otros mundos.
 
 <!-- key -->
 La silicificación puede preservar orgánico dentro del sílice o dejar solo huellas morfológicas inorgánicas del compuesto original.
@@ -177,7 +177,7 @@ La silicificación puede preservar orgánico dentro del sílice o dejar solo hue
 <span class="person">Shuhai Xiao</span> y <span class="person">James D. Schiffbauer</span> analizan la <span class="term">fosfatización</span> como vía tafonómica excepcional para microbios blandos — el modelo más plausible si hubo vida microscópica en otros planetas.
 
 <!-- paragraph -->
-La biosfera Arcaico-Proterozoica (<span class="num">3,5–0,54 Ga</span>) fue casi enteramente microbiana y sin esqueletos. Butterfield identifica seis estilos de preservación excepcional; la fosfatización tridimensional de la Formación Doushantuo (~<span class="num">635–551 Ma</span>) es una de las más potentes.
+La biosfera Arcaico-Proterozoica (<span class="num">3,5–0,54 Ga</span>) fue casi enteramente microbiana y sin esqueletos. Butterfield identifica seis estilos de preservación excepcional. La fosfatización tridimensional de la Formación Doushantuo (~<span class="num">635–551 Ma</span>) es una de las más potentes.
 
 <!-- paragraph -->
 Si existieron organismos extraterrestres microscópicos, buscar ventanas fosfáticas analogas debería ser prioridad estratégica.
@@ -196,7 +196,7 @@ En mundos antiguos, la evidencia morfológica de vida será microscópica, bland
 <span class="person">Vinod Chandra Tewari</span> describe microfósiles del Dolomita Buxa (Himalaya nororiental, India): <span class="num">27</span> taxones de cianobacterias, acritarcos y microfósiles en forma de vaso en el Ediacárico.
 
 <!-- paragraph -->
-El registro precámbrico indio — cuenca Krol, formaciones Blaini/Tal — enlaza glaciaciones marinoanas, biota ediacárica y transición al Cámbrico. Los fósiles de Buxa ocurren entre la diamictita Blaini y los depósitos del Tal.
+El registro precámbrico indio (cuenca Krol, formaciones Blaini/Tal) enlaza glaciaciones marinoanas, biota ediacárica y transición al Cámbrico. Los fósiles de Buxa ocurren entre la diamictita Blaini y los depósitos del Tal.
 
 <!-- paragraph -->
 Usa el registro terrestre como modelo para la escasez de roca disponible en otros planetas: cada muestra marciana será estadísticamente preciosa.
@@ -215,7 +215,7 @@ La diversidad microbiana ediacárica del Himalaya ilustra qué buscar cuando el 
 <span class="person">Brendan P. Burns</span>, <span class="person">Malcolm R. Walter</span> y <span class="person">Brett A. Neilan</span> revisan estromatolitos como analogos vivos del registro fósil más antiguo y abundante de la Tierra (<span class="num">3,5 Ga</span>–<span class="num">0,6 Ga</span>).
 
 <!-- paragraph -->
-Los estromatolitos dominaron el registro macrofósil precámbrico; su declive coincide con cambios químicos del océano, competencia algal y pastoreo/bioturbación por metazoos. Persisten hoy en ambientes extremos (Shark Bay, Yellowstone) con pocos consumidores.
+Los estromatolitos dominaron el registro macrofósil precámbrico. Su declive coincide con cambios químicos del océano, competencia algal y pastoreo o bioturbación por metazoos. Persisten hoy en ambientes extremos (Shark Bay, Yellowstone) con pocos consumidores.
 
 <!-- paragraph -->
 Perfilado lipídico y diversidad microbiana en mats modernos vinculan firmas químicas estables con componentes bióticos — puente entre geología y microbiología.
@@ -237,7 +237,7 @@ Estromatolito moderno + microfósil antiguo + biomarcador lipídico = tríada cl
 La mayoría de microbios en ecosistemas termales no se preservan como microfósiles carbonosos auténticos, pero influyen en la textura del sinter mediante procesos biológicos, químicos y sedimentarios concurrentes.
 
 <!-- paragraph -->
-Reconocer esa influencia en depósitos hidrotermales terrestres — y potencialmente marcianos — requiere entender la interacción comunidad-mineral durante la acreción del sinter.
+Reconocer esa influencia en depósitos hidrotermales terrestres, y potencialmente marcianos, requiere entender la interacción comunidad-mineral durante la acreción del sinter.
 
 <!-- key -->
 Ausencia de microfósil carbonoso no descarta vida: la biofábrica sedimentaria puede ser la biosignatura.
@@ -253,7 +253,7 @@ Ausencia de microfósil carbonoso no descarta vida: la biofábrica sedimentaria 
 <span class="person">Hubertus Porada</span> y <span class="person">Patrick G. Eriksson</span> comparan rasgos de <span class="term">mantos microbianos</span> en paleodesiertos del Grupo Waterberg (~<span class="num">2,0–1,8 Ga</span>, cratón Kaapvaal) y planicies supramareales modernas.
 
 <!-- paragraph -->
-Tras eventos de impacto planetario-estabilizadores (~<span class="num">3.850 Ma</span>), las cianobacterias oxigén fotosintéticas aparecen en el registro desde ~<span class="num">3,5 Ga</span>. Ambientes áridos extremos preservaron proxies de desecación, inundación flash y cicatrización de grietas en areniscas finas.
+Después de eventos de impacto planetario-estabilizadores (~<span class="num">3.850 Ma</span>), las cianobacterias oxigénicas fotosintéticas aparecen en el registro desde ~<span class="num">3,5 Ga</span>. Ambientes áridos extremos preservaron proxies de desecación, inundación flash y cicatrización de grietas en areniscas finas.
 
 <!-- paragraph -->
 Los rasgos sedimentarios de mats en siliciclásticos complementan el registro carbonático de estromatolitos y amplían el catálogo de biosignaturas para Marte.
@@ -291,7 +291,7 @@ Origen de la vida y origen de los animales comparten el mismo problema epistemol
 <span class="person">Helga Stan-Lotter</span> y coautores revisan la vida <span class="term">intraterrestre</span> en granito, permafrost, cuevas y minas — relevante para subsuelos marcianos y el océano subsuperficial de Europa.
 
 <!-- paragraph -->
-Las superficies de planetas sin atmósfera protectora (Marte, posiblemente Europa) están esterilizadas por UV; el subsuelo promete refugio. Preguntas abiertas: ¿son los microbios tan antiguos como la roca? ¿Existen formas dormantes distintas de endosporas?
+Las superficies de planetas sin atmósfera protectora (Marte, posiblemente Europa) están esterilizadas por UV. El subsuelo promete refugio. Preguntas abiertas: ¿son los microbios tan antiguos como la roca? ¿Existen formas dormantes distintas de endosporas?
 
 <!-- paragraph -->
 Investigación aplicada (residuos radiactivos, acuíferos contaminados) informa instrumentos y estrategias para buscar organics y vida en profundidad extraterrestre.
@@ -332,7 +332,7 @@ Impacto + hidrotermalismo = sistema que puede generar, albergar y preservar bios
 Los carbonatos authigénicos derivados de metano precipitan con comunidades microbianas (arqueas metanotróficas ANME-1/2/3, consorcios simbióticos con metazoos) que fijan la base trófica. El metano en Europa, Titán y Marte reaviva el interés en este trazador biogénico potencial.
 
 <!-- paragraph -->
-Si la vida marciana fue microbiana y hubo periodos húmedos, los ecosistemas tipo filtración de metano — con alto potencial de fosilización por interacciones microbio-mineral — son analogos prioritarios para misiones ESA/NASA.
+Si la vida marciana fue microbiana y hubo periodos húmedos, los ecosistemas tipo filtración de metano, con alto potencial de fosilización por interacciones microbio-mineral, son analogos prioritarios para misiones ESA/NASA.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -415,7 +415,7 @@ Vida microbiana puede ser común; civilización radio-detectable, probablemente 
 Formula BP→VI→BC→∆W→∆Π (interacciones virtuales, acoplamientos biológicos, aumento de extropía). Extiende la noción de vida al Sol, ciclos estelares y formas «intermitentes u ocultas» en el vacío.
 
 <!-- paragraph -->
-Posición minoritaria y altamente especulativa dentro del volumen; ilustra el espectro filosófico de la astrobiología más allá del empirismo geológico.
+Es una posición minoritaria y altamente especulativa dentro del volumen. Ilustra el espectro filosófico de la astrobiología más allá del empirismo geológico.
 
 <!-- key -->
 Grandpierre amplía «vida» más allá de la bioquímica terrestre — útil como contraste metodológico, no como guía operativa de misión.
@@ -431,7 +431,7 @@ Grandpierre amplía «vida» más allá de la bioquímica terrestre — útil co
 <span class="person">Julian Chela-Flores</span> y coautores integran <span class="term">clima espacial</span>, observaciones solares históricas, núcleos de hielo, anillos de árboles y materiales extraterrestres para reconstruir condiciones que afectaron la vida temprana.
 
 <!-- paragraph -->
-Meteoritos, lunares y cometas conservan implantes iónicos y radionúcleidos de rayos cósmicos; archivos terrestres (sedimentos marinos, corales, nódulos de manganeso) registran proxies climáticos detallados.
+Meteoritos, lunares y cometas conservan implantes iónicos y radionúcleidos de rayos cósmicos. Archivos terrestres (sedimentos marinos, corales, nódulos de manganeso) registran proxies climáticos detallados.
 
 <!-- paragraph -->
 El clima espacial y la actividad solar temprana son factores en el origen y evolución de la biosfera — puente entre astronomía y paleobiología.
@@ -450,10 +450,10 @@ La vida no evolucionó aislada del entorno cósmico: el Sol y el clima espacial 
 <span class="person">Donald R. Prothero</span> cuestiona la moda de explicar extinciones masivas por impactos extraterrestres: solo el límite Cretácico-Paleógeno (~<span class="num">65 Ma</span>) tiene evidencia impactante sólida.
 
 <!-- paragraph -->
-Horizontes propuestos en otras grandes extinciones resultaron de edad o tamaño incorrectos; muchos impactos del Eoceno tardío no causaron extinción. Las erupciones de basalto de inundación tampoco explican todos los eventos.
+Horizontes propuestos en otras grandes extinciones resultaron de edad o tamaño incorrectos. Muchos impactos del Eoceno tardío no causaron extinción. Las erupciones de basalto de inundación tampoco explican todos los eventos.
 
 <!-- paragraph -->
-Cada extinción masiva muestra un patrón distinto; modelos únicos (impacto, volcanismo, CO₂/O₂) fallan como explicación universal — lección de humildad para correlacionar impactos cósmicos y evolución biológica.
+Cada extinción masiva muestra un patrón distinto. Los modelos únicos (impacto, volcanismo, CO₂/O₂) fallan como explicación universal. Es una lección de humildad para correlacionar impactos cósmicos y evolución biológica.
 
 <!-- key -->
 Impacto ≠ extinción automática; la astrobiología debe evitar narrativas simples sobre catástrofes cósmicas y biosfera.
@@ -507,7 +507,7 @@ Condición cosmológica previa a cualquier biosfera: universo con origen en el t
 <span class="person">Koichiro Matsuno</span> distingue <span class="term">improntas moleculares</span> como registro leído por el paleontólogo versus memoria descifrada por un cuerpo material interno a la organización viva.
 
 <!-- paragraph -->
-Átomos son reliquias del Big Bang; ADN de dinosaurios puede reiniciar síntesis proteica en un ribosoma adecuado — borrosidad entre registro pasivo y agencia biológica.
+Los átomos son reliquias del Big Bang. El ADN de dinosaurios puede reiniciar síntesis proteica en un ribosoma adecuado. Eso borra la frontera entre registro pasivo y agencia biológica.
 
 <!-- paragraph -->
 Las improntas moleculares, lejos de ser solo obstáculo, pueden identificar unidades materiales capaces de buscar contextos donde encajar — marco para origen de la vida en contexto cosmológico.
@@ -526,7 +526,7 @@ Biosignatura molecular: ¿evidencia externa para el científico o memoria operat
 <span class="person">Alfonso F. Davila</span> y coautores repasan el meteorito marciano <span class="term">ALH84001</span>: carbonatos, estructuras nanoescala y PAHs que en <span class="num">1996</span> alimentaron la controversia sobre vida marciana fossilizada.
 
 <!-- paragraph -->
-Desde Schiaparelli y Lowell hasta Mariner y Viking, Marte pasó de mundo habitable imaginado a desierto CO₂-frío; ALH84001 reabrió el debate científico y público sobre biosignaturas en material retornado.
+Desde Schiaparelli y Lowell hasta Mariner y Viking, Marte pasó de mundo habitable imaginado a desierto frío de CO₂. ALH84001 reabrió el debate científico y público sobre biosignaturas en material retornado.
 
 <!-- paragraph -->
 Independientemente del veredicto final, el caso definió estándares de evidencia, complejidad interpretativa y la edad dorada de exploración espacial astrobiológica.
@@ -545,7 +545,7 @@ ALH84001 = lección sobre cautela: señales ambiguas bajo máximo escrutinio med
 <span class="person">David C. Fernández-Remolar</span> y coautores mapean <span class="term">ventanas de preservación</span> en el registro geológico marciano según mineralogía orbital y in situ (filosilicatos noaquianos, sulfatos hesperianos).
 
 <!-- paragraph -->
-Marte tuvo hidrología activa: deltas, fluvial, lacustre. Terrains Noachianos (>~<span class="num">3,8 Ga</span>) concentran filosilicatos en estratos arcaicos; Hesperiano (<span class="num">3,8–3,0 Ga</span>) muestra sulfatos ferríferos — ambientes distintos para trazas paleobiológicas.
+Marte tuvo hidrología activa: deltas, fluvial, lacustre. Los terrenos noaquianos (>~<span class="num">3,8 Ga</span>) concentran filosilicatos en estratos arcaicos. En el Hesperiano (<span class="num">3,8–3,0 Ga</span>) predominan sulfatos ferríferos. Son ambientes distintos para trazas paleobiológicas.
 
 <!-- paragraph -->
 Integrar geomorfología, mineralogía y geoquímica define dónde buscar texturas organosedimentarias, quimiofósiles o moléculas orgánicas preservables.
@@ -564,7 +564,7 @@ No buscar vida «en Marte» genérico: buscar la ventana mineralógica y tempora
 <span class="person">Joseph Seckbach</span>, <span class="person">Julian Chela-Flores</span>, <span class="person">Aharon Oren</span> y <span class="person">François Raulin</span> cierran el volumen recordando que aún no hay detección confirmada de vida extraterrestre, pero el registro fósil terrestre orienta dónde y cómo buscar.
 
 <!-- paragraph -->
-Repasan estromatolitos como fósiles más antiguos (~<span class="num">3,5 Ga</span> en Australia; posibles señales a ~<span class="num">3,85 Ga</span> en Groenlandia), «fósiles vivientes» y la definición multidisciplinaria de astrobiología.
+Repasan estromatolitos como fósiles más antiguos (~<span class="num">3,5 Ga</span> en Australia, posibles señales a ~<span class="num">3,85 Ga</span> en Groenlandia), «fósiles vivientes» y la definición multidisciplinaria de astrobiología.
 
 <!-- paragraph -->
 Enfatizan analogías extremas, biosignaturas morfológicas y geoquímicas, y la necesidad de cruzar paleontología, microbiología y exploración planetaria.

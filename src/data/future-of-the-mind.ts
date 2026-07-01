@@ -185,7 +185,7 @@ export const futureOfTheMind: BookSummary = {
       blocks: [
         {
           type: 'paragraph',
-          html: "Kaku propone una <span class=\"term\">teoría espacio-temporal de la conciencia</span>: ser consciente es construir modelos del entorno y simular futuros para alcanzar metas. Con ese criterio define niveles de conciencia desde <span class=\"num\">0</span> hasta <span class=\"num\">III</span>, según la complejidad del modelo de mundo y de sí mismo.",
+          html: "Kaku propone una <span class=\"term\">teoría espacio-temporal de la conciencia</span>: ser consciente es construir modelos del entorno y simular futuros para alcanzar metas. A partir de ese criterio define niveles de conciencia desde <span class=\"num\">0</span> hasta <span class=\"num\">III</span> según la complejidad del modelo de mundo y de sí mismo.",
         },
         {
           type: 'paragraph',
@@ -193,7 +193,7 @@ export const futureOfTheMind: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "También describe la confabulación estudiada por <span class=\"person\">Michael Gazzaniga</span>: el “intérprete” del hemisferio izquierdo fabrica narrativas coherentes incluso cuando desconoce causas reales. La conciencia, por tanto, es poderosa pero no transparente para sí misma.",
+          html: "<span class=\"person\">Michael Gazzaniga</span> estudió la confabulación: el «intérprete» del hemisferio izquierdo fabrica narrativas coherentes incluso cuando desconoce causas reales. La conciencia, por tanto, es poderosa pero no transparente para sí misma.",
         },
         {
           type: 'concept-grid',
@@ -228,7 +228,7 @@ export const futureOfTheMind: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El interés militar y médico se cruza en proyectos asociados a <span class=\"person\">DARPA</span>: devolver comunicación a pacientes con parálisis y acelerar interacción humano-máquina. Kaku subraya que la precisión mejora con algoritmos y sensores más finos, pero aún depende de entrenamiento y contexto.",
+          html: "El interés militar y médico se cruza en proyectos de <span class=\"person\">DARPA</span> que buscan devolver comunicación a pacientes con parálisis y acelerar la interacción humano-máquina. Kaku subraya que la precisión mejora con algoritmos y sensores más finos, pero aún depende de entrenamiento y contexto.",
         },
         {
           type: 'paragraph',
@@ -349,7 +349,7 @@ export const futureOfTheMind: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "En genética, menciona candidatos como <span class=\"term\">HAR1</span> y <span class=\"term\">ASPM</span>; en física, recuerda límites energéticos y temporales del procesamiento cerebral. Aumentar inteligencia tiene fronteras materiales, no solo pedagógicas o computacionales.",
+          html: "En genética, menciona candidatos como <span class=\"term\">HAR1</span> y <span class=\"term\">ASPM</span>. En física, recuerda límites energéticos y temporales del procesamiento cerebral. Aumentar inteligencia tiene fronteras materiales, no solo pedagógicas o computacionales.",
         },
         {
           type: 'concept-grid',
@@ -384,7 +384,7 @@ export const futureOfTheMind: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Con MRI, grupos de <span class=\"person\">Kyoto</span> y Berkeley reconstruyen imágenes oníricas rudimentarias. El avance conecta con la decodificación visual vista en telepatía y sugiere que, con más resolución, podrían “fotografiarse” escenas soñadas de forma creciente.",
+          html: "Grupos de <span class=\"person\">Kyoto</span> y Berkeley usan MRI para reconstruir imágenes oníricas rudimentarias. El avance conecta con la decodificación visual vista en telepatía y sugiere que, con más resolución, podrían «fotografiarse» escenas soñadas de forma creciente.",
         },
         {
           type: 'paragraph',
@@ -540,7 +540,7 @@ export const futureOfTheMind: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Kaku revisa supercomputación (incluyendo plataformas como <span class=\"person\">Blue Gene</span>) y el desafío del <span class=\"term\">conectoma</span>: no basta listar neuronas; hay que modelar conexiones dinámicas, plasticidad y sincronía temporal en múltiples escalas.",
+          html: "Kaku revisa supercomputación (incluyendo plataformas como <span class=\"person\">Blue Gene</span>) y el desafío del <span class=\"term\">conectoma</span>. No basta listar neuronas: hay que modelar conexiones dinámicas, plasticidad y sincronía temporal en múltiples escalas.",
         },
         {
           type: 'paragraph',
@@ -618,7 +618,7 @@ export const futureOfTheMind: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Para viajes interestelares, considera conceptos relativistas como <span class=\"term\">agujeros de gusano</span> y discute límites prácticos de energía, estabilidad y causalidad. No son tecnologías cercanas, pero sirven para pensar qué exigiría trasladar conciencia a escala cósmica.",
+          html: "En viajes interestelares, Kaku considera conceptos relativistas como <span class=\"term\">agujeros de gusano</span> y discute límites prácticos de energía, estabilidad y causalidad. No son tecnologías cercanas, pero sirven para pensar qué exigiría trasladar conciencia a escala cósmica.",
         },
         {
           type: 'paragraph',
@@ -653,7 +653,7 @@ export const futureOfTheMind: BookSummary = {
       blocks: [
         {
           type: 'paragraph',
-          html: "Con datos de exoplanetas (misiones tipo <span class=\"person\">Kepler</span>), Kaku normaliza la posibilidad de mundos habitables. La cuestión deja de ser “si hay vida” para pasar a “qué formas de <span class=\"term\">conciencia</span> pueden surgir en entornos distintos”.",
+          html: "Datos de exoplanetas (misiones tipo <span class=\"person\">Kepler</span>) llevan a Kaku a normalizar la posibilidad de mundos habitables. La cuestión deja de ser «si hay vida» para pasar a «qué formas de <span class=\"term\">conciencia</span> pueden surgir en entornos distintos».",
         },
         {
           type: 'paragraph',
@@ -723,7 +723,7 @@ export const futureOfTheMind: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El cierre del apéndice pasa por <span class=\"person\">Libet</span> y el libre albedrío: señales cerebrales anticipan decisiones conscientes por milisegundos. Para Kaku, esto no clausura la libertad humana, pero obliga a redefinirla en términos de procesos distribuidos y escalas temporales.",
+          html: "Los experimentos de <span class=\"person\">Libet</span> muestran que señales cerebrales anticipan decisiones conscientes por milisegundos. Kaku sostiene que esto no clausura la libertad humana, pero obliga a redefinirla en términos de procesos distribuidos y escalas temporales.",
         },
         {
           type: 'concept-grid',

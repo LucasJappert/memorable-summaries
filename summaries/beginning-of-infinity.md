@@ -125,7 +125,7 @@ La relevancia humana proviene de poder crear conocimiento universal, no de ocupa
 Deutsch compara la evolución biológica con la creación de conocimiento: en ambos casos hay variación y selección, pero en dominios y mecanismos distintos.
 
 <!-- paragraph -->
-Las adaptaciones biológicas son conocimiento codificado en genes; las teorías humanas son conocimiento codificado en ideas sujetas a crítica explícita.
+Las adaptaciones biológicas son conocimiento codificado en genes. Las teorías humanas son conocimiento codificado en ideas sujetas a crítica explícita.
 
 <!-- paragraph -->
 La diferencia decisiva es la velocidad y flexibilidad: la evolución cultural puede corregir errores de forma deliberada, mientras la biológica opera sin intención consciente.
@@ -223,7 +223,7 @@ Deutsch redefine <span class="term">optimismo</span> como tesis epistemológica:
 No es una actitud complaciente ni profecía de final feliz. Exige responsabilidad, crítica institucional y disposición a corregir errores.
 
 <!-- paragraph -->
-El pesimismo paraliza porque desincentiva la búsqueda de soluciones; el optimismo racional, en cambio, parte de que no hay autoridad final y por eso siempre puede haber mejora.
+El pesimismo paraliza porque desincentiva la búsqueda de soluciones. El optimismo racional, en cambio, parte de que no hay autoridad final y por eso siempre puede haber mejora.
 
 <!-- key -->
 Optimismo racional es compromiso activo con la resolución de problemas mediante mejores explicaciones.
@@ -239,7 +239,7 @@ Optimismo racional es compromiso activo con la resolución de problemas mediante
 En formato de diálogo, Deutsch dramatiza una teoría del conocimiento inspirada en <span class="person">Karl Popper</span>, usando personajes de la tradición socrática.
 
 <!-- paragraph -->
-La escena enfatiza el <span class="term">falibilismo</span>: no hay justificación última infalible; lo que hay son conjeturas, críticas y correcciones sucesivas.
+La escena enfatiza el <span class="term">falibilismo</span>: no hay justificación última infalible. Lo que hay son conjeturas, críticas y correcciones sucesivas.
 
 <!-- paragraph -->
 También muestra la fragilidad de la comunicación intelectual: incluso entre interlocutores brillantes, las ideas nuevas se malinterpretan con facilidad y requieren trabajo explicativo continuo.
@@ -296,7 +296,7 @@ La ciencia progresa cuando integra filosofía crítica, no cuando finge prescind
 El análisis de sistemas de reparto político muestra que decidir no es aplicar una fórmula cerrada, sino crear y evaluar nuevas opciones bajo criterios en tensión.
 
 <!-- paragraph -->
-Paradojas de asignación evidencian que no existe regla neutral perfecta para todos los valores simultáneamente; hay conflictos reales entre nociones de justicia.
+Paradojas de asignación evidencian que no existe regla neutral perfecta para todos los valores simultáneamente. Hay conflictos reales entre nociones de justicia.
 
 <!-- paragraph -->
 Deutsch extrae una lección general: los buenos marcos institucionales permiten corrección de errores y reforma crítica en vez de blindar procedimientos supuestamente definitivos.
@@ -334,7 +334,7 @@ La estética participa del mismo proyecto racional: explicar mejor por qué cier
 Las culturas evolucionan mediante <span class="term">memes</span>: ideas que se replican en mentes y prácticas sociales, análogas a genes pero con dinámica propia.
 
 <!-- paragraph -->
-A diferencia de los genes, los memes incluyen mecanismos de copia, interpretación y control social; por eso pueden reforzar tanto apertura crítica como rigidez dogmática.
+A diferencia de los genes, los memes incluyen mecanismos de copia, interpretación y control social. Por eso pueden reforzar tanto apertura crítica como rigidez dogmática.
 
 <!-- paragraph -->
 El capítulo distingue entre culturas dinámicas, que toleran corrección, y culturas estáticas, que privilegian preservación frente a verdad.
@@ -372,7 +372,7 @@ La creatividad evoluciona porque permite enfrentar problemas nuevos que ningún 
 Las sociedades estáticas pueden durar siglos, pero terminan fracasando cuando un problema supera su capacidad de generar conocimiento correctivo.
 
 <!-- paragraph -->
-El ejemplo de <span class="person">Rapa Nui</span> se usa para discutir narrativas simplistas de colapso: no basta culpar recursos o geografía; importan ideas, instituciones y márgenes de corrección.
+El ejemplo de <span class="person">Rapa Nui</span> se usa para discutir narrativas simplistas de colapso. No basta culpar recursos o geografía: importan ideas, instituciones y márgenes de corrección.
 
 <!-- paragraph -->
 Deutsch cuestiona visiones deterministas sobre “límites finales” y argumenta que la sostenibilidad real depende de progreso científico-tecnológico continuo.
@@ -394,7 +394,7 @@ El cierre reúne la tesis del libro: siempre que una civilización adopta métod
 Deutsch rechaza las dos variantes de “ya casi llegamos”: la pesimista, que declara límites definitivos al conocimiento, y la optimista ingenua, que promete cierre próximo de preguntas fundamentales.
 
 <!-- paragraph -->
-El “inicio del infinito” no garantiza éxito automático; exige elegir instituciones y prácticas que mantengan vivo el ciclo de conjetura, crítica, corrección y nueva creación.
+El “inicio del infinito” no garantiza éxito automático. Exige elegir instituciones y prácticas que mantengan vivo el ciclo de conjetura, crítica, corrección y nueva creación.
 
 <!-- key -->
 El futuro depende de elegir entre una infinitud de ignorancia o una infinitud de conocimiento en expansión.

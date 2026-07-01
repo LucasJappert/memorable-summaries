@@ -122,7 +122,7 @@ export const beginningOfInfinity: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Las adaptaciones biológicas son conocimiento codificado en genes; las teorías humanas son conocimiento codificado en ideas sujetas a crítica explícita.",
+          html: "Las adaptaciones biológicas son conocimiento codificado en genes. Las teorías humanas son conocimiento codificado en ideas sujetas a crítica explícita.",
         },
         {
           type: 'paragraph',
@@ -246,7 +246,7 @@ export const beginningOfInfinity: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El pesimismo paraliza porque desincentiva la búsqueda de soluciones; el optimismo racional, en cambio, parte de que no hay autoridad final y por eso siempre puede haber mejora.",
+          html: "El pesimismo paraliza porque desincentiva la búsqueda de soluciones. El optimismo racional, en cambio, parte de que no hay autoridad final y por eso siempre puede haber mejora.",
         },
         {
           type: 'key',
@@ -266,7 +266,7 @@ export const beginningOfInfinity: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La escena enfatiza el <span class=\"term\">falibilismo</span>: no hay justificación última infalible; lo que hay son conjeturas, críticas y correcciones sucesivas.",
+          html: "La escena enfatiza el <span class=\"term\">falibilismo</span>: no hay justificación última infalible. Lo que hay son conjeturas, críticas y correcciones sucesivas.",
         },
         {
           type: 'paragraph',
@@ -338,7 +338,7 @@ export const beginningOfInfinity: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Paradojas de asignación evidencian que no existe regla neutral perfecta para todos los valores simultáneamente; hay conflictos reales entre nociones de justicia.",
+          html: "Paradojas de asignación evidencian que no existe regla neutral perfecta para todos los valores simultáneamente. Hay conflictos reales entre nociones de justicia.",
         },
         {
           type: 'paragraph',
@@ -386,7 +386,7 @@ export const beginningOfInfinity: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "A diferencia de los genes, los memes incluyen mecanismos de copia, interpretación y control social; por eso pueden reforzar tanto apertura crítica como rigidez dogmática.",
+          html: "A diferencia de los genes, los memes incluyen mecanismos de copia, interpretación y control social. Por eso pueden reforzar tanto apertura crítica como rigidez dogmática.",
         },
         {
           type: 'paragraph',
@@ -434,7 +434,7 @@ export const beginningOfInfinity: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El ejemplo de <span class=\"person\">Rapa Nui</span> se usa para discutir narrativas simplistas de colapso: no basta culpar recursos o geografía; importan ideas, instituciones y márgenes de corrección.",
+          html: "El ejemplo de <span class=\"person\">Rapa Nui</span> se usa para discutir narrativas simplistas de colapso. No basta culpar recursos o geografía: importan ideas, instituciones y márgenes de corrección.",
         },
         {
           type: 'paragraph',
@@ -462,7 +462,7 @@ export const beginningOfInfinity: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El “inicio del infinito” no garantiza éxito automático; exige elegir instituciones y prácticas que mantengan vivo el ciclo de conjetura, crítica, corrección y nueva creación.",
+          html: "El “inicio del infinito” no garantiza éxito automático. Exige elegir instituciones y prácticas que mantengan vivo el ciclo de conjetura, crítica, corrección y nueva creación.",
         },
         {
           type: 'key',

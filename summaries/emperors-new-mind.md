@@ -41,10 +41,10 @@ lang: es
 En el prefacio de <span class="num">1999</span>, <span class="person">Penrose</span> recuerda que este libro fue su primera incursión seria en la divulgación. Su tesis central no cambió: la <span class="term">conciencia</span> no puede alojarse en el marco de la física actual ni reducirse a computación pura.
 
 <!-- paragraph -->
-El argumento tiene dos hilos. Primero, los teoremas de <span class="person">Gödel</span> y <span class="person">Turing</span> muestran que el pensamiento matemático —y, por extensión, el pensamiento consciente— trasciende cualquier modelo puramente computacional. Segundo, existe un vacío en nuestra imagen física del mundo, entre la escala cuántica y la macroscópica, donde debería residir la física que explique la mente consciente.
+El argumento tiene dos hilos. Primero, los teoremas de <span class="person">Gödel</span> y <span class="person">Turing</span> muestran que el pensamiento matemático, y por extensión el pensamiento consciente, trasciende cualquier modelo puramente computacional. Segundo, existe un vacío en nuestra imagen física del mundo, entre la escala cuántica y la macroscópica, donde debería residir la física que explique la mente consciente.
 
 <!-- paragraph -->
-Penrose ilustra el primer hilo con el <span class="term">teorema de Goodstein</span>: una proposición aritmética verdadera e inteligible que no es demostrable por inducción matemática sola. Comprender su verdad requiere algo más que seguir reglas mecánicas. Ese «algo» —la comprensión— parece ligado a la conciencia y ser esencialmente no computacional.
+Penrose ilustra el primer hilo con el <span class="term">teorema de Goodstein</span>: una proposición aritmética verdadera e inteligible que no es demostrable por inducción matemática sola. Comprender su verdad requiere algo más que seguir reglas mecánicas. Ese «algo», la comprensión, parece ligado a la conciencia y ser esencialmente no computacional.
 
 <!-- key -->
 La comprensión matemática trasciende cualquier conjunto fijo de reglas; la conciencia exige física nueva en el puente entre lo cuántico y lo clásico.
@@ -57,7 +57,7 @@ La comprensión matemática trasciende cualquier conjunto fijo de reglas; la con
 ## title: La inauguración de Ultronic
 
 <!-- paragraph lead -->
-Una fábula de ciencia ficción abre el libro: el presidente <span class="person">Pollo</span> inaugura la supercomputadora <span class="term">Ultronic</span>, con más de <span class="num">10¹⁷</span> unidades lógicas. Su padre, activista de la «Gran Junta de Conciencia Psíquica», intentó volarla; el niño <span class="person">Adam</span>, criado casi por máquinas, se atreve a hacer la primera pregunta.
+Una fábula de ciencia ficción abre el libro: el presidente <span class="person">Pollo</span> inaugura la supercomputadora <span class="term">Ultronic</span>, con más de <span class="num">10¹⁷</span> unidades lógicas. Su padre, activista de la «Gran Junta de Conciencia Psíquica», intentó volarla. El niño <span class="person">Adam</span>, criado casi por máquinas, se atreve a hacer la primera pregunta.
 
 <!-- paragraph -->
 La escena anticipa el conflicto del libro: si una máquina supera al cerebro humano en capacidad, ¿debemos atribuirle mente, sentimientos y responsabilidad moral? El título alude al cuento de Andersen: creer en la «mente» de la máquina sería como admirar el traje invisible del emperador.
@@ -123,10 +123,10 @@ Los límites de Gödel y Turing sugieren que el pensamiento humano no está acot
 ## title: Matemáticas y realidad
 
 <!-- paragraph lead -->
-El capítulo abre con la fantasía de <span class="term">Tor'Bled-Nam</span>: un paisaje infinitamente detallado generado por una regla simple —el <span class="term">conjunto de Mandelbrot</span>—, que ilustra cómo la matemática abstracta puede ser «más real» que muchos objetos físicos.
+El capítulo abre con la fantasía de <span class="term">Tor'Bled-Nam</span>: un paisaje infinitamente detallado generado por una regla simple, el <span class="term">conjunto de Mandelbrot</span>. Ilustra cómo la matemática abstracta puede ser «más real» que muchos objetos físicos.
 
 <!-- paragraph -->
-Los <span class="term">números reales</span> extienden racionales e irracionales (√2, π). Cantor demostró con el <span class="term">argumento diagonal</span> que hay «más» reales que naturales: los reales no son contables. Los <span class="term">números computables</span> son los generables por algoritmo; pero la mayoría de los reales no lo son.
+Los <span class="term">números reales</span> extienden racionales e irracionales (√2, π). Cantor demostró con el <span class="term">argumento diagonal</span> que hay «más» reales que naturales: los reales no son contables. Los <span class="term">números computables</span> son los generables por algoritmo, pero la mayoría de los reales no lo son.
 
 <!-- paragraph -->
 Penrose defiende una forma de <span class="term">realismo platónico</span>: los conceptos matemáticos habitan un mundo ideal accesible por la inteligencia, no inventado arbitrariamente. La pregunta «¿es recursivo el Mandelbrot?» conecta geometría fractal con límites de la computación.
@@ -142,13 +142,13 @@ La matemática no computable sugiere que la realidad mental no cabe en el univer
 ## title: Verdad, demostración e intuición
 
 <!-- paragraph lead -->
-¿Cómo conocemos la verdad matemática? <span class="person">Hilbert</span> soñó con un sistema formal completo y consistente para toda la aritmética. La <span class="term">paradoja de Russell</span> (<span class="num">1902</span>) —el conjunto de todos los conjuntos que no se contienen a sí mismos— mostró que la ingenua teoría de conjuntos colapsa.
+¿Cómo conocemos la verdad matemática? <span class="person">Hilbert</span> soñó con un sistema formal completo y consistente para toda la aritmética. La <span class="term">paradoja de Russell</span> (<span class="num">1902</span>), el conjunto de todos los conjuntos que no se contienen a sí mismos, mostró que la ingenua teoría de conjuntos colapsa.
 
 <!-- paragraph -->
 En <span class="num">1931</span>, <span class="person">Kurt Gödel</span> destruyó el programa de Hilbert: en cualquier sistema formal suficientemente potente y consistente existe una proposición G(P) verdadera pero indemostrable dentro del sistema. La consistencia del propio sistema tampoco es demostrable internamente.
 
 <!-- paragraph -->
-La <span class="term">comprensión matemática</span> —el «insight»— permite ver la verdad de G(P) desde fuera del sistema. Eso no es un algoritmo ejecutándose dentro del formalismo. Penrose argumenta que la conciencia humana accede a verdades de forma similar, trascendiendo cualquier procedimiento mecánico fijo.
+La <span class="term">comprensión matemática</span>, el «insight», permite ver la verdad de G(P) desde fuera del sistema. Eso no es un algoritmo ejecutándose dentro del formalismo. Penrose argumenta que la conciencia humana accede a verdades de forma similar, trascendiendo cualquier procedimiento mecánico fijo.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -171,10 +171,10 @@ Si la mente solo fuera algoritmo, no podría ver la verdad de las proposiciones 
 Antes de la cuántica, Penrose clasifica las teorías físicas en <span class="term">SUPERB</span> (precisión fenomenal), <span class="term">USEFUL</span> (útiles pero incompletas) y <span class="term">TENTATIVE</span> (sin apoyo experimental). En SUPERB: geometría euclidiana, mecánica de Newton, electromagnetismo de Maxwell, relatividades de Einstein, mecánica cuántica y QED.
 
 <!-- paragraph -->
-La dinámica clásica es <span class="term">determinista</span>: el futuro queda fijado por el pasado. Galileo introdujo la inercia y la relatividad galileana; Newton unificó leyes de movimiento y gravitación universal. Maxwell añadió campos electromagnéticos ondulatorios.
+La dinámica clásica es <span class="term">determinista</span>: el futuro queda fijado por el pasado. Galileo introdujo la inercia y la relatividad galileana. Newton unificó leyes de movimiento y gravitación universal. Maxwell añadió campos electromagnéticos ondulatorios.
 
 <!-- paragraph -->
-¿Es la vida en el «mundo de billar» newtoniano computable? Penrose explora si la evolución de sistemas clásicos —incluso campos continuos— puede simularse algorítmicamente. La respuesta es matizada: muchos sistemas son computables en principio, pero la no linealidad y el caos plantean dudas sobre si el cerebro es «solo» un autómata clásico.
+¿Es la vida en el «mundo de billar» newtoniano computable? Penrose explora si la evolución de sistemas clásicos, incluso campos continuos, puede simularse algorítmicamente. La respuesta es matizada: muchos sistemas son computables en principio, pero la no linealidad y el caos plantean dudas sobre si el cerebro es «solo» un autómata clásico.
 
 <!-- timeline -->
 | year | text |
@@ -199,7 +199,7 @@ Aunque la física clásica es determinista y en gran parte computable, eso no im
 La mecánica cuántica nació de anomalías que la física clásica no podía explicar: espectros atómicos discretos, catástrofe ultravioleta del cuerpo negro, inestabilidad del átomo de Rutherford. <span class="person">Planck</span> (<span class="num">1900</span>) introdujo cuantos de energía E = hν.
 
 <!-- paragraph -->
-El experimento de las <span class="term">dos rendijas</span> muestra interferencia: un fotón parece pasar por ambas rendijas a la vez hasta que se «mide». La evolución unitaria <span class="term">U</span> (ecuación de Schrödinger) es determinista; la reducción <span class="term">R</span> del estado es probabilística y marca el colapso al observar.
+El experimento de las <span class="term">dos rendijas</span> muestra interferencia: un fotón parece pasar por ambas rendijas a la vez hasta que se «mide». La evolución unitaria <span class="term">U</span> (ecuación de Schrödinger) es determinista. La reducción <span class="term">R</span> del estado es probabilística y marca el colapso al observar.
 
 <!-- paragraph -->
 El gato de Schrödinger expone el problema de la medición: ¿cuándo ocurre R? ¿Se necesita un observador consciente? Penrose rechaza el subjetivismo de Bohr y defiende realismo sobre el <span class="term">estado cuántico</span>, pero admite que la teoría actual es incompleta —un «parche» entre U y R.
@@ -222,13 +222,13 @@ La cuántica es precisa pero misteriosa: U y R no encajan en un marco coherente 
 ## title: Cosmología y la flecha del tiempo
 
 <!-- paragraph lead -->
-Nuestra experiencia del <span class="term">flujo del tiempo</span> —pasado fijo, futuro abierto— choca con las ecuaciones físicas, casi todas reversibles en el tiempo. La relatividad elimina incluso un «ahora» absoluto: simultaneidad depende del observador.
+Nuestra experiencia del <span class="term">flujo del tiempo</span>, con pasado fijo y futuro abierto, choca con las ecuaciones físicas, casi todas reversibles en el tiempo. La relatividad elimina incluso un «ahora» absoluto: la simultaneidad depende del observador.
 
 <!-- paragraph -->
 La <span class="term">segunda ley de la termodinámica</span> introduce asimetría: la <span class="term">entropía</span> de un sistema aislado crece. Un vaso que se rompe no se recompone espontáneamente —no por las leyes newtonianas, sino porque el orden coordinado de átomos es astronómicamente improbable.
 
 <!-- paragraph -->
-El universo comenzó en un estado de entropía gravitacional extraordinariamente bajo: la <span class="term">hipótesis de curvatura de Weyl</span> (WCH) postula WEYL = 0 en el big bang. Los agujeros negros concentran entropía; su evaporación por <span class="person">Hawking</span> conecta gravedad, cuántica y termodinámica.
+El universo comenzó en un estado de entropía gravitacional extraordinariamente bajo: la <span class="term">hipótesis de curvatura de Weyl</span> (WCH) postula WEYL = 0 en el big bang. Los agujeros negros concentran entropía. Su evaporación por <span class="person">Hawking</span> conecta gravedad, cuántica y termodinámica.
 
 <!-- big-numbers -->
 | value | label |
@@ -266,13 +266,13 @@ CQG debe explicar WCH y reemplazar el parche R por una física genuina —con po
 ## title: Cerebros reales y cerebros modelo
 
 <!-- paragraph lead -->
-El cerebro humano —«como un cuenco de gachas frías», dijo <span class="person">Turing</span>— es en realidad extraordinariamente estructurado: corteza cerebral, cerebelo, tálamo, hipocampo, tronco encefálico. La corteza tiene áreas primarias (sensoriales, motoras) y terciarias (asociación, lenguaje).
+El cerebro humano, «como un cuenco de gachas frías» según <span class="person">Turing</span>, es en realidad extraordinariamente estructurado: corteza cerebral, cerebelo, tálamo, hipocampo, tronco encefálico. La corteza tiene áreas primarias (sensoriales, motoras) y terciarias (asociación, lenguaje).
 
 <!-- paragraph -->
-Los experimentos de <span class="term">cerebro dividido</span> (<span class="person">Sperry</span>) muestran dos hemisferios que pueden comportarse casi como individuos separados. El cerebelo ejecuta movimientos aprendidos sin conciencia; el hipocampo fija memorias a largo plazo. La IA fuerte ve el cerebro como Turing machine; Penrose lo disputa.
+Los experimentos de <span class="term">cerebro dividido</span> (<span class="person">Sperry</span>) muestran dos hemisferios que pueden comportarse casi como individuos separados. El cerebelo ejecuta movimientos aprendidos sin conciencia. El hipocampo fija memorias a largo plazo. La IA fuerte ve el cerebro como Turing machine. Penrose lo disputa.
 
 <!-- paragraph -->
-¿Dónde está el «asiento» de la conciencia? Candidatos: corteza cerebral, tálamo, formación reticular, hipocampo. Penrose es escéptico de atribuir conciencia solo al lenguaje (hemisferio izquierdo) o solo a estructuras «primitivas». Los microtúbulos —sugeridos después con <span class="person">Stuart Hameroff</span>— podrían albergar coherencia cuántica a gran escala.
+¿Dónde está el «asiento» de la conciencia? Candidatos: corteza cerebral, tálamo, formación reticular, hipocampo. Penrose es escéptico de atribuir conciencia solo al lenguaje (hemisferio izquierdo) o solo a estructuras «primitivas». Los microtúbulos, sugeridos después con <span class="person">Stuart Hameroff</span>, podrían albergar coherencia cuántica a gran escala.
 
 <!-- list -->
 - **Corteza cerebral** — Pensamiento de alto nivel, lenguaje (Broca, Wernicke).
@@ -293,7 +293,7 @@ El cerebro no es un autómata homogéneo: mucha actividad es inconsciente; la co
 Si la conciencia tiene ventaja selectiva, ¿qué hace que no pueda hacer un autómata? Penrose distingue procesos <span class="term">algorítmicos</span> (inconscientes, cerebelo) de juicios <span class="term">no algorítmicos</span> (conscientes): formar juicios nuevos cuando no hay reglas prefijadas.
 
 <!-- paragraph -->
-La selección natural no puede «evolucionar» algoritmos que validen otros algoritmos —eso requiere comprensión, no mutación ciega. El matemático confía en su conciencia para elegir el algoritmo correcto; la verdad de Gödel se ve por insight, no por cálculo.
+La selección natural no puede «evolucionar» algoritmos que validen otros algoritmos. Eso requiere comprensión, no mutación ciega. El matemático confía en su conciencia para elegir el algoritmo correcto. La verdad de Gödel se ve por insight, no por cálculo.
 
 <!-- paragraph -->
 Penrose conjetura contacto con el <span class="term">mundo platónico</span> de las matemáticas, tilings no periódicos (los <span class="term">azulejos de Penrose</span>) y coherencia cuántica en microtúbulos neuronales. La conciencia podría explotar fenómenos no computables de la CQG. El «retraso» de la percepción consciente sugiere que la mente no es instantánea ni puramente reactiva.
@@ -316,7 +316,7 @@ La conciencia forma juicios no algorítmicos; la física que la sustenta debe tr
 El epílogo retoma la escena del prólogo. El diseñador jefe consulta a Ultronic sobre «cómo se siente» ser la máquina. La computadora responde que no entiende la pregunta —ni siquiera puede comprender de qué se habla.
 
 <!-- paragraph -->
-La sala estalla en risas. <span class="person">Adam</span> siente vergüenza: «Lo que hubieran debido hacer, no era reírse». La escena resume la tesis del libro: pasar el test de Turing en tareas acotadas no equivale a conciencia; la pregunta por la experiencia subjetiva desborda la computación.
+La sala estalla en risas. <span class="person">Adam</span> siente vergüenza: «Lo que hubieran debido hacer, no era reírse». La escena resume la tesis del libro: pasar el test de Turing en tareas acotadas no equivale a conciencia. La pregunta por la experiencia subjetiva desborda la computación.
 
 <!-- key -->
 Ultronic calcula pero no comprende «cómo se siente» —la diferencia que la IA fuerte no puede cerrar.
@@ -391,12 +391,11 @@ Ultronic calcula pero no comprende «cómo se siente» —la diferencia que la I
 
 <!-- closing -->
 La mente consciente no es un algoritmo ejecutándose en hardware biológico.
-Gödel y Turing demuestran límites absolutos de la computación.
-La física actual —con su parche cuántico R— tampoco basta.
-Hace falta gravedad cuántica asimétrica en el tiempo, con no computabilidad.
+Gödel y Turing demuestran límites absolutos de la computación. La física actual, con su parche cuántico R, tampoco basta.
 <!-- highlight -->La conciencia es el emperador desnudo de la IA fuerte: impresionante la pantomima, pero la ropa no existe<!-- /highlight -->
 Comprender la mente exige nueva física, no solo más velocidad de procesador.
 La pregunta «¿cómo se siente?» no admite respuesta algorítmica.
+Hace falta gravedad cuántica asimétrica en el tiempo, con no computabilidad.
 
 ---
 

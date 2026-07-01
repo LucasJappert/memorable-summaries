@@ -41,7 +41,7 @@ lang: es
 El libro abre con una fábula: un alien escanea una semilla de manzana y obtiene toda su estructura molecular, pero no puede anticipar la forma del árbol sin dejar que crezca. Esa escena introduce la tesis central: el cerebro no se entiende como <span class="term">plano final</span>, sino como proceso de <span class="term">autoensamblaje</span> que requiere <span class="num">tiempo</span> y energía.
 
 <!-- paragraph -->
-Para <span class="person">Hiesinger</span>, la pregunta clave es qué tipo de información contienen los genes cuando “codifican” un cerebro. El genoma no trae un diagrama de conectividad terminado; trae reglas que se ejecutan paso a paso en interacción con el entorno celular cambiante.
+Para <span class="person">Hiesinger</span>, la pregunta clave es qué tipo de información contienen los genes cuando “codifican” un cerebro. El genoma no trae un diagrama de conectividad terminado. Trae reglas que se ejecutan paso a paso en interacción con el entorno celular cambiante.
 
 <!-- paragraph -->
 El prólogo prepara un puente entre <span class="term">neurobiología del desarrollo</span> e <span class="term">IA</span>: en ambos campos importa menos fotografiar el estado final que comprender cómo las reglas locales generan organización global. El desafío no es solo describir conexiones, sino explicar cómo emergen.
@@ -60,7 +60,7 @@ El cerebro se parece más a un programa que se ejecuta que a un cableado prefija
 La introducción enfrenta dos tradiciones: la de la <span class="term">neurobiología</span>, que estudia cómo se cablea el cerebro biológico, y la de la <span class="term">inteligencia artificial</span>, que suele iniciar con redes prefabricadas y luego entrenarlas. En ambos casos aparece el mismo problema: qué información es realmente necesaria para lograr una red funcional.
 
 <!-- paragraph -->
-El ejemplo de la mariposa monarca resume la dificultad: migra hasta <span class="num">3.000 millas</span> hacia zonas de invernada precisas, y el ciclo completo puede tomar <span class="num">3–5 generaciones</span>. La ruta no puede explicarse solo por aprendizaje individual; hay información de desarrollo ya incorporada antes del aprendizaje.
+El ejemplo de la mariposa monarca resume la dificultad: migra hasta <span class="num">3.000 millas</span> hacia zonas de invernada precisas. El ciclo completo puede tomar <span class="num">3–5 generaciones</span>. La ruta no puede explicarse solo por aprendizaje individual. Hay información de desarrollo ya incorporada antes del aprendizaje.
 
 <!-- paragraph -->
 El autor propone mirar el cableado cerebral como navegación en un mapa que se construye mientras se navega. No hay “GPS” con destino final inscrito, sino una secuencia de estados donde cada etapa habilita o restringe la siguiente.
@@ -109,13 +109,13 @@ El desarrollo cerebral usa información algorítmica: no describe el cerebro, lo
 ## title: Ruido e información relevante
 
 <!-- paragraph lead -->
-Aquí el autor invierte una intuición habitual: el <span class="term">ruido</span> no siempre destruye precisión; muchas veces la habilita. Procesos como la quimiotaxis bacteriana o la diversidad inmunológica funcionan gracias a variación aleatoria seguida de selección.
+Aquí el autor invierte una intuición habitual: el <span class="term">ruido</span> no siempre destruye precisión. Muchas veces la habilita. Procesos como la quimiotaxis bacteriana o la diversidad inmunológica funcionan gracias a variación aleatoria seguida de selección.
 
 <!-- paragraph -->
 En neurodesarrollo, mecanismos como la variabilidad de ramificación y la señalización tipo <span class="term">Notch</span> permiten romper simetrías y obtener patrones robustos. El ruido puede ser parte del programa, no un error externo.
 
 <!-- paragraph -->
-Esto conecta con <span class="term">penetrancia</span>: una mutación puede no expresarse igual en todos los individuos por dependencia de contexto, umbrales y procesos estocásticos. La “información relevante” no es absoluta; depende del nivel donde se evalúa el fenotipo.
+Esto conecta con <span class="term">penetrancia</span>: una mutación puede no expresarse igual en todos los individuos por dependencia de contexto, umbrales y procesos estocásticos. La “información relevante” no es absoluta. Depende del nivel donde se evalúa el fenotipo.
 
 <!-- key -->
 La precisión biológica suele surgir de ruido + selección, no de control perfecto sin variación.
@@ -192,7 +192,7 @@ Entender requiere cambiar de nivel sin perder de vista cómo cada nivel condicio
 ## title: Desarrollo cerebral e IA (eres tu historia)
 
 <!-- paragraph lead -->
-El capítulo sostiene que la función es continuación del desarrollo: aprender también es crecimiento algorítmico. En cerebros y redes, cada entrada nueva se procesa sobre un estado previo; por eso el orden de experiencias importa.
+El capítulo sostiene que la función es continuación del desarrollo: aprender también es crecimiento algorítmico. En cerebros y redes, cada entrada nueva se procesa sobre un estado previo. Por eso el orden de experiencias importa.
 
 <!-- paragraph -->
 La frase “<span class="term">you are your history</span>” resume la idea: memoria y sesgo surgen de esa acumulación temporal. El cerebro no guarda datos como un archivo neutral, sino que reconfigura reglas internas con cada experiencia.
@@ -211,10 +211,10 @@ Toda inteligencia funciona con arrastre histórico: cada aprendizaje reescribe p
 ## title: Autoensamblaje vs construir primero y entrenar después
 
 <!-- paragraph lead -->
-Aquí se contraponen dos estrategias: <span class="term">diseño top-down</span> (arquitectura fija + entrenamiento) y <span class="term">autoensamblaje</span> (estructura que emerge durante el proceso). La IA dominante usa la primera; el cerebro biológico combina crecimiento, poda, actividad y aprendizaje.
+Aquí se contraponen dos estrategias: <span class="term">diseño top-down</span> (arquitectura fija más entrenamiento) y <span class="term">autoensamblaje</span> (estructura que emerge durante el proceso). La IA dominante usa la primera. El cerebro biológico combina crecimiento, poda, actividad y aprendizaje.
 
 <!-- paragraph -->
-El autor no niega los éxitos del enfoque actual, pero señala su atajo central: omitir la etapa de desarrollo estructural. En el cerebro, número de conexiones, tipos neuronales y circuitos cambian mientras se aprende; no son solo pesos sinápticos sobre arquitectura estática.
+El autor no niega los éxitos del enfoque actual, pero señala su atajo central: omitir la etapa de desarrollo estructural. En el cerebro, el número de conexiones, los tipos neuronales y los circuitos cambian mientras se aprende. No son solo pesos sinápticos sobre arquitectura estática.
 
 <!-- paragraph -->
 Por eso propone explorar más seriamente enfoques evolutivos y de codificación indirecta, donde genotipo, desarrollo y rendimiento se conecten en ciclos de selección. El objetivo no es copiar biología por fetichismo, sino entender qué atajos rompen capacidades generales.

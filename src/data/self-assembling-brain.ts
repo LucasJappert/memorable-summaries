@@ -26,7 +26,7 @@ export const selfAssemblingBrain: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Para <span class=\"person\">Hiesinger</span>, la pregunta clave es qué tipo de información contienen los genes cuando “codifican” un cerebro. El genoma no trae un diagrama de conectividad terminado; trae reglas que se ejecutan paso a paso en interacción con el entorno celular cambiante.",
+          html: "Para <span class=\"person\">Hiesinger</span>, la pregunta clave es qué tipo de información contienen los genes cuando “codifican” un cerebro. El genoma no trae un diagrama de conectividad terminado. Trae reglas que se ejecutan paso a paso en interacción con el entorno celular cambiante.",
         },
         {
           type: 'paragraph',
@@ -50,7 +50,7 @@ export const selfAssemblingBrain: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El ejemplo de la mariposa monarca resume la dificultad: migra hasta <span class=\"num\">3.000 millas</span> hacia zonas de invernada precisas, y el ciclo completo puede tomar <span class=\"num\">3–5 generaciones</span>. La ruta no puede explicarse solo por aprendizaje individual; hay información de desarrollo ya incorporada antes del aprendizaje.",
+          html: "El ejemplo de la mariposa monarca resume la dificultad: migra hasta <span class=\"num\">3.000 millas</span> hacia zonas de invernada precisas. El ciclo completo puede tomar <span class=\"num\">3–5 generaciones</span>. La ruta no puede explicarse solo por aprendizaje individual. Hay información de desarrollo ya incorporada antes del aprendizaje.",
         },
         {
           type: 'paragraph',
@@ -134,7 +134,7 @@ export const selfAssemblingBrain: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Aquí el autor invierte una intuición habitual: el <span class=\"term\">ruido</span> no siempre destruye precisión; muchas veces la habilita. Procesos como la quimiotaxis bacteriana o la diversidad inmunológica funcionan gracias a variación aleatoria seguida de selección.",
+          html: "Aquí el autor invierte una intuición habitual: el <span class=\"term\">ruido</span> no siempre destruye precisión. Muchas veces la habilita. Procesos como la quimiotaxis bacteriana o la diversidad inmunológica funcionan gracias a variación aleatoria seguida de selección.",
         },
         {
           type: 'paragraph',
@@ -142,7 +142,7 @@ export const selfAssemblingBrain: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Esto conecta con <span class=\"term\">penetrancia</span>: una mutación puede no expresarse igual en todos los individuos por dependencia de contexto, umbrales y procesos estocásticos. La “información relevante” no es absoluta; depende del nivel donde se evalúa el fenotipo.",
+          html: "Esto conecta con <span class=\"term\">penetrancia</span>: una mutación puede no expresarse igual en todos los individuos por dependencia de contexto, umbrales y procesos estocásticos. La “información relevante” no es absoluta. Depende del nivel donde se evalúa el fenotipo.",
         },
         {
           type: 'key',
@@ -250,7 +250,7 @@ export const selfAssemblingBrain: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El capítulo sostiene que la función es continuación del desarrollo: aprender también es crecimiento algorítmico. En cerebros y redes, cada entrada nueva se procesa sobre un estado previo; por eso el orden de experiencias importa.",
+          html: "El capítulo sostiene que la función es continuación del desarrollo: aprender también es crecimiento algorítmico. En cerebros y redes, cada entrada nueva se procesa sobre un estado previo. Por eso el orden de experiencias importa.",
         },
         {
           type: 'paragraph',
@@ -274,11 +274,11 @@ export const selfAssemblingBrain: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Aquí se contraponen dos estrategias: <span class=\"term\">diseño top-down</span> (arquitectura fija + entrenamiento) y <span class=\"term\">autoensamblaje</span> (estructura que emerge durante el proceso). La IA dominante usa la primera; el cerebro biológico combina crecimiento, poda, actividad y aprendizaje.",
+          html: "Aquí se contraponen dos estrategias: <span class=\"term\">diseño top-down</span> (arquitectura fija más entrenamiento) y <span class=\"term\">autoensamblaje</span> (estructura que emerge durante el proceso). La IA dominante usa la primera. El cerebro biológico combina crecimiento, poda, actividad y aprendizaje.",
         },
         {
           type: 'paragraph',
-          html: "El autor no niega los éxitos del enfoque actual, pero señala su atajo central: omitir la etapa de desarrollo estructural. En el cerebro, número de conexiones, tipos neuronales y circuitos cambian mientras se aprende; no son solo pesos sinápticos sobre arquitectura estática.",
+          html: "El autor no niega los éxitos del enfoque actual, pero señala su atajo central: omitir la etapa de desarrollo estructural. En el cerebro, el número de conexiones, los tipos neuronales y los circuitos cambian mientras se aprende. No son solo pesos sinápticos sobre arquitectura estática.",
         },
         {
           type: 'paragraph',

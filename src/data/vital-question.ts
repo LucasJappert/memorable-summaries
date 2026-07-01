@@ -98,7 +98,7 @@ export const vitalQuestion: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Hay un <span class=\"term\">agujero negro</span> en el corazón de la biología: no sabemos por qué la vida es como es. Toda la vida compleja en la Tierra comparte un ancestro común que surgió una sola vez en <span class=\"num\">4 000 millones</span> de años — una célula ya tan sofisticada como las nuestras, que transmitió esa complejidad a árboles, abejas y hongos. Las células humanas son prácticamente indistinguibles de las de un hongo al microscopio; sexo, suicidio celular y senescencia aparecen en formas comparables solo en eucariotas, nunca en bacterias.",
+          html: "Hay un <span class=\"term\">agujero negro</span> en el corazón de la biología: no sabemos por qué la vida es como es. Toda la vida compleja en la Tierra comparte un ancestro común que surgió una sola vez en <span class=\"num\">4 000 millones</span> de años — una célula ya tan sofisticada como las nuestras, que transmitió esa complejidad a árboles, abejas y hongos. Las células humanas son prácticamente indistinguibles de las de un hongo al microscopio. Sexo, suicidio celular y senescencia aparecen en formas comparables solo en eucariotas, nunca en bacterias.",
         },
         {
           type: 'paragraph',
@@ -122,15 +122,15 @@ export const vitalQuestion: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Los telescopios de <span class=\"term\">SETI</span> en California buscan señales extraterrestres, pero sus preguntas rebotan sobre la biología terrestre: ¿debería la vida usar ondas de radio, carbono, agua u oxígeno? La biología evolutiva conoce la historia molecular, pero predice poco sobre qué partes del relato son contingencia y cuáles leyes físicas. <span class=\"person\">Jacques Monod</span> veía el origen de la vida como accidente; otros lo consideran inevitable.",
+          html: "Los telescopios de <span class=\"term\">SETI</span> en California buscan señales extraterrestres, pero sus preguntas rebotan sobre la biología terrestre: ¿debería la vida usar ondas de radio, carbono, agua u oxígeno? La biología evolutiva conoce la historia molecular, pero predice poco sobre qué partes del relato son contingencia y cuáles leyes físicas. <span class=\"person\">Jacques Monod</span> veía el origen de la vida como accidente. Otros lo consideran inevitable.",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Erwin Schrödinger</span>, en <em>What is Life?</em> (<span class=\"num\">1944</span>), propuso que la vida elude localmente la entropía mediante los genes como «cristal aperiódico» portador de código. La era del ADN — iniciada por <span class=\"person\">Crick</span> y <span class=\"person\">Watson</span> (<span class=\"num\">1953</span>) — convirtió la biología en ciencia de la información. Los genomas varían enormemente (cebollas y salamandras superan al humano en ADN); si la información no impone límites estructurales, no podemos predecir la vida en otros planetas.",
+          html: "<span class=\"person\">Erwin Schrödinger</span>, en <em>What is Life?</em> (<span class=\"num\">1944</span>), propuso que la vida elude localmente la entropía mediante los genes como «cristal aperiódico» portador de código. La era del ADN, iniciada por <span class=\"person\">Crick</span> y <span class=\"person\">Watson</span> (<span class=\"num\">1953</span>), convirtió la biología en ciencia de la información. Los genomas varían enormemente (cebollas y salamandras superan al humano en ADN). Si la información no impone límites estructurales, no podemos predecir la vida en otros planetas.",
         },
         {
           type: 'paragraph',
-          html: "La historia temprana de la Tierra (<span class=\"num\">~4 500 millones</span> de años) muestra océanos desde los cristales de circón más antiguos; la vida aparece hacia los <span class=\"num\">3 800–3 500 millones</span> de años. Para los <span class=\"num\">3 200 millones</span> de años, las bacterias ya dominaban casi todas las vías metabólicas; la fotosíntesis oxigénica y el <span class=\"term\">Gran Evento de Oxidación</span> (~<span class=\"num\">2 400 millones</span> de años) transformaron el planeta. La versión textbook — oxígeno como «freno liberado» que permitió células complejas por endosimbiosis gradual — es, según Lane, incorrecta.",
+          html: "La historia temprana de la Tierra (<span class=\"num\">~4 500 millones</span> de años) muestra océanos desde los cristales de circón más antiguos. La vida aparece hacia los <span class=\"num\">3 800–3 500 millones</span> de años. Hacia los <span class=\"num\">3 200 millones</span> de años, las bacterias ya dominaban casi todas las vías metabólicas. La fotosíntesis oxigénica y el <span class=\"term\">Gran Evento de Oxidación</span> (~<span class=\"num\">2 400 millones</span> de años) transformaron el planeta. La versión textbook, oxígeno como «freno liberado» que permitió células complejas por endosimbiosis gradual, es, según Lane, incorrecta.",
         },
         {
           type: 'paragraph',
@@ -175,11 +175,11 @@ export const vitalQuestion: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Los virus son maquinaria molecular letal, pero la mayoría de los biólogos no los clasifica como vivos: carecen de metabolismo propio y dependen del huésped. Plantas, animales y virus parasitan su entorno; la diferencia es cuántos «apoyos» externos necesitan. La definición de la NASA — sistema químico autosustentable capaz de evolución darwiniana — ignora la dependencia del medio.",
+          html: "Los virus son maquinaria molecular letal, pero la mayoría de los biólogos no los clasifica como vivos: carecen de metabolismo propio y dependen del huésped. Plantas, animales y virus parasitan su entorno. La diferencia es cuántos «apoyos» externos necesitan. La definición de la NASA, sistema químico autosustentable capaz de evolución darwiniana, ignora la dependencia del medio.",
         },
         {
           type: 'paragraph',
-          html: "Esporas, semillas y <span class=\"term\">tardígrados</span> sobreviven deshidratación, radiación y vacío sin metabolizar; no están «muertos» porque pueden reanudar la vida. La distinción entre vida (estructura) y lo viviente (crecer, proliferar) depende del entorno. Conocemos bien cómo los genes codifican componentes, pero poco sobre cómo las restricciones físicas moldean la evolución celular.",
+          html: "Esporas, semillas y <span class=\"term\">tardígrados</span> sobreviven deshidratación, radiación y vacío sin metabolizar. No están «muertos» porque pueden reanudar la vida. La distinción entre vida (estructura) y lo viviente (crecer, proliferar) depende del entorno. Conocemos bien cómo los genes codifican componentes, pero poco sobre cómo las restricciones físicas moldean la evolución celular.",
         },
         {
           type: 'paragraph',
@@ -187,11 +187,11 @@ export const vitalQuestion: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Esencialmente toda vida usa <span class=\"term\">quimiosmosis</span>: flujo de protones a través de membranas para sintetizar ATP. El <span class=\"term\">ATP sintasa</span> — motor rotatorio universal en bacterias, arqueas y eucariotas — debería ser tan emblemático del vivir como la doble hélice. <span class=\"person\">Peter Mitchell</span> propuso esto en <span class=\"num\">1961</span> contra décadas de resistencia («guerras ox phos»); ganó el Nobel en <span class=\"num\">1978</span>. La vida se basa en carbono parcialmente reducido (≈ CH₂O) y en química redox; la pregunta abierta es por qué protones y electrones, no solo química en tubo de ensayo.",
+          html: "Esencialmente toda vida usa <span class=\"term\">quimiosmosis</span>: flujo de protones a través de membranas para sintetizar ATP. El <span class=\"term\">ATP sintasa</span>, motor rotatorio universal en bacterias, arqueas y eucariotas, debería ser tan emblemático del vivir como la doble hélice. <span class=\"person\">Peter Mitchell</span> propuso esto en <span class=\"num\">1961</span> contra décadas de resistencia («guerras ox phos»). Ganó el Nobel en <span class=\"num\">1978</span>. La vida se basa en carbono parcialmente reducido (≈ CH₂O) y en química redox. La pregunta abierta es por qué protones y electrones, no solo química en tubo de ensayo.",
         },
         {
           type: 'key',
-          html: "Vivir exige flujo continuo de energía y carbono; la <span class=\"key-term\">proticidad</span> (gradientes de protones) es tan universal como el código genético.",
+          html: "Vivir exige flujo continuo de energía y carbono. La <span class=\"key-term\">proticidad</span> (gradientes de protones) es tan universal como el código genético.",
         },
       ],
     },
@@ -203,7 +203,7 @@ export const vitalQuestion: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Las vías metabólicas encauzan el flujo de carbono como molinos de agua; sin enzimas, el origen de la vida requería órdenes de magnitud más energía. Una célula primitiva sin catalizadores podría necesitar <span class=\"num\">40 toneladas</span> de «desecho» para producir <span class=\"num\">1 gramo</span> de biomasa. El experimento <span class=\"person\">Miller-Urey</span> (<span class=\"num\">1953</span>) reforzó la imagen de la <span class=\"term\">sopa primordial</span>, pero concentrar precursores en océanos abiertos es termodinámicamente inviable.",
+          html: "Las vías metabólicas encauzan el flujo de carbono como molinos de agua. Faltando enzimas, el origen de la vida requería órdenes de magnitud más energía. Una célula primitiva sin catalizadores podría necesitar <span class=\"num\">40 toneladas</span> de «desecho» para producir <span class=\"num\">1 gramo</span> de biomasa. El experimento <span class=\"person\">Miller-Urey</span> (<span class=\"num\">1953</span>) reforzó la imagen de la <span class=\"term\">sopa primordial</span>, pero concentrar precursores en océanos abiertos es termodinámicamente inviable.",
         },
         {
           type: 'paragraph',
@@ -211,7 +211,7 @@ export const vitalQuestion: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El carbono forma enlaces versátiles; el CO₂ actúa como «ladrillo Lego» gaseoso, imposible de replicar con silicio. La respiración moderna separa metabolismo energético y carbono, conectados por ATP; la fermentación existe pero rinde poco. La química redox es versátil: bacterias «comen» rocas, gases o minerales con el mismo equipamiento respiratorio básico.",
+          html: "El carbono forma enlaces versátiles. El CO₂ actúa como «ladrillo Lego» gaseoso, imposible de replicar con silicio. La respiración moderna separa metabolismo energético y carbono, conectados por ATP. La fermentación existe pero rinde poco. La química redox es versátil: bacterias «comen» rocas, gases o minerales con el mismo equipamiento respiratorio básico.",
         },
         {
           type: 'paragraph',
@@ -231,7 +231,7 @@ export const vitalQuestion: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Para muchos investigadores, la vida es información copiable; sin replicación no hay selección natural. El <span class=\"term\">mundo del ARN</span> propone que el ARN sirvió de plantilla y catalizador antes del ADN y las proteínas. Pero los nucleótidos deben formarse y unirse en un mismo ambiente con energía para activar monómeros — la replicación sin metabolismo agota sus propios bloques de construcción en pocas generaciones.",
+          html: "Para muchos investigadores, la vida es información copiable. Sin replicación no hay selección natural. El <span class=\"term\">mundo del ARN</span> propone que el ARN sirvió de plantilla y catalizador antes del ADN y las proteínas. Pero los nucleótidos deben formarse y unirse en un mismo ambiente con energía para activar monómeros — la replicación sin metabolismo agota sus propios bloques de construcción en pocas generaciones.",
         },
         {
           type: 'paragraph',
@@ -239,7 +239,7 @@ export const vitalQuestion: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La termodinámica favorece cierto espectro de orgánicos (descargas eléctricas, química cósmica, reactores de alta presión), sugiriendo que nucleótidos y aminoácidos podrían formarse convergentemente. Pero la información biológica — código genético, ribosomas, transcripción — aparece ya operativa en el ancestro común de bacterias y arqueas (<span class=\"term\">LUCA</span>), sin intermediarios reconstruibles.",
+          html: "La termodinámica favorece cierto espectro de orgánicos (descargas eléctricas, química cósmica, reactores de alta presión), sugiriendo que nucleótidos y aminoácidos podrían formarse convergentemente. No obstante, la información biológica (código genético, ribosomas, transcripción) aparece ya operativa en el ancestro común de bacterias y arqueas (<span class=\"term\">LUCA</span>), sin intermediarios reconstruibles.",
         },
         {
           type: 'paragraph',
@@ -263,11 +263,11 @@ export const vitalQuestion: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "LUCA, reconstruida por genes universales (~<span class=\"num\">100</span>), ya tenía código genético, ribosomas, ATP sintasa y quimiosmosis, pero membranas, paredes celulares y maquinaria de replicación del ADN difieren radicalmente entre bacterias y arqueas. No encaja en océano abierto; encaja en respiraderos donde geología y bioquímica se funden sin frontera dura entre planeta vivo y célula viva.",
+          html: "LUCA, reconstruida por genes universales (~<span class=\"num\">100</span>), ya tenía código genético, ribosomas, ATP sintasa y quimiosmosis, pero membranas, paredes celulares y maquinaria de replicación del ADN difieren radicalmente entre bacterias y arqueas. No encaja en océano abierto. Encaja en respiraderos donde geología y bioquímica se funden sin frontera dura entre planeta vivo y célula viva.",
         },
         {
           type: 'paragraph',
-          html: "Solo existen <span class=\"num\">6</span> vías de fijación de carbono; cinco requieren energía externa. La sexta — acetil-CoA — opera con H₂ + CO₂ en condiciones geológicas de respiraderos alcalinos, donde el pH alcalino interior y el océano ligeramente ácido generan gradientes de protones naturales que podrían haber precedido a la quimiosmosis biológica.",
+          html: "Solo existen <span class=\"num\">6</span> vías de fijación de carbono. Cinco requieren energía externa. La sexta, acetil-CoA, opera con H₂ + CO₂ en condiciones geológicas de respiraderos alcalinos, donde el pH alcalino interior y el océano ligeramente ácido generan gradientes de protones naturales que podrían haber precedido a la quimiosmosis biológica.",
         },
         {
           type: 'paragraph',
@@ -287,11 +287,11 @@ export const vitalQuestion: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Todos los eucariotas — plantas, animales, algas, hongos, protistas — comparten un ancestro común que surgió <span class=\"term\">una sola vez</span> en la historia terrestre. No hubo múltiples experimentos exitosos de complejidad morfológica en bacterias o arqueas pese a <span class=\"num\">4 000 millones</span> de años, upheavals ambientales y el Gran Evento de Oxidación.",
+          html: "Todos los eucariotas, plantas, animales, algas, hongos, protistas, comparten un ancestro común que surgió <span class=\"term\">una sola vez</span> en la historia terrestre. No hubo múltiples experimentos exitosos de complejidad morfológica en bacterias o arqueas pese a <span class=\"num\">4 000 millones</span> de años, upheavals ambientales y el Gran Evento de Oxidación.",
         },
         {
           type: 'paragraph',
-          html: "El último ancestro eucariota común (<span class=\"term\">LECA</span>) ya era una célula «moderna»: núcleo, mitocondrias, citoesqueleto dinámico, sexo, cromosomas lineales y cinco supergrupos que irradian explosivamente. No hay intermediarios fósiles ni genéticos genuinos entre bacterias y eucariotas; los archezoa son eucariotas regresivos, no eslabones perdidos.",
+          html: "El último ancestro eucariota común (<span class=\"term\">LECA</span>) ya era una célula «moderna»: núcleo, mitocondrias, citoesqueleto dinámico, sexo, cromosomas lineales y cinco supergrupos que irradian explosivamente. No hay intermediarios fósiles ni genéticos genuinos entre bacterias y eucariotas. Los archezoa son eucariotas regresivos, no eslabones perdidos.",
         },
         {
           type: 'paragraph',
@@ -299,7 +299,7 @@ export const vitalQuestion: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La endosimbiosis no es un salto no darwiniano: es un evento singular que transformó el paisaje selectivo; después todo fue evolución gradual. La rareza del cruce explica por qué la complejidad morfológica no se repitió: la barrera entre procariota y eucariota es un vacío ecológico y genético que la naturaleza «aborrece» pero no llena.",
+          html: "La endosimbiosis no es un salto no darwiniano: es un evento singular que transformó el paisaje selectivo. Después todo fue evolución gradual. La rareza del cruce explica por qué la complejidad morfológica no se repitió: la barrera entre procariota y eucariota es un vacío ecológico y genético que la naturaleza «aborrece» pero no llena.",
         },
         {
           type: 'key',
@@ -315,11 +315,11 @@ export const vitalQuestion: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "<span class=\"person\">Carl Woese</span> comparó el gen del ARN ribosomal (<span class=\"num\">1960s–70s</span>) y descubrió un tercer dominio — <span class=\"term\">Archaea</span> — tan distante de bacterias como de eucariotas en secuencia, aunque morfológicamente idénticos a bacterias. Su árbol de tres dominios equiparaba bacterias, arqueas y eucariotas como linajes primarios independientes.",
+          html: "<span class=\"person\">Carl Woese</span> comparó el gen del ARN ribosomal (<span class=\"num\">1960s–70s</span>) y descubrió un tercer dominio, <span class=\"term\">Archaea</span>, tan distante de bacterias como de eucariotas en secuencia, aunque morfológicamente idénticos a bacterias. Su árbol de tres dominios equiparaba bacterias, arqueas y eucariotas como linajes primarios independientes.",
         },
         {
           type: 'paragraph',
-          html: "La revolución genómica invierte parte de ese cuadro: eucariotas son quimeras — ~<span class=\"num\">75 %</span> de genes con homólogos procariotas provienen de bacterias, ~<span class=\"num\">25 %</span> de arqueas. El árbol de Woese refleja un solo gen, no la historia celular completa. Margulis tenía razón sobre mitocondrias y cloroplastos; estaba equivocada sobre cilios, núcleo y endosimbiosis serial masiva.",
+          html: "La revolución genómica invierte parte de ese cuadro: eucariotas son quimeras — ~<span class=\"num\">75 %</span> de genes con homólogos procariotas provienen de bacterias, ~<span class=\"num\">25 %</span> de arqueas. El árbol de Woese refleja un solo gen, no la historia celular completa. Margulis tenía razón sobre mitocondrias y cloroplastos. Estaba equivocada sobre cilios, núcleo y endosimbiosis serial masiva.",
         },
         {
           type: 'paragraph',
@@ -327,11 +327,11 @@ export const vitalQuestion: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La genómica confirma que la célula huésped del origen eucariota era un arquea sin fagocitosis, no una ameba predadora. El huésped carecía de casi toda la complejidad eucariota; la adquirió después de incorporar la bacteria que se convertiría en mitocondria.",
+          html: "La genómica confirma que la célula huésped del origen eucariota era un arquea sin fagocitosis, no una ameba predadora. El huésped carecía de casi toda la complejidad eucariota. La adquirió después de incorporar la bacteria que se convertiría en mitocondria.",
         },
         {
           type: 'key',
-          html: "Bacterias y arqueas son dominios <span class=\"key-term\">bioquímicamente divergentes</span>; los eucariotas fusionaron ambos en un solo evento.",
+          html: "Bacterias y arqueas son dominios <span class=\"key-term\">bioquímicamente divergentes</span>. Los eucariotas fusionaron ambos en un solo evento.",
         },
       ],
     },
@@ -343,7 +343,7 @@ export const vitalQuestion: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "La <span class=\"term\">hipótesis del hidrógeno</span> (Martin y Müller, <span class=\"num\">1998</span>) propone un arquea metanógeno que consumía H₂ + CO₂ y un endosimbionte bacteriano que le suministraba H₂; la simbiosis explica el mosaico génico eucariota y predice que no existió eucariota sin mitocondrias. Todas las predicciones han sido confirmadas por genómica en dos décadas.",
+          html: "La <span class=\"term\">hipótesis del hidrógeno</span> (Martin y Müller, <span class=\"num\">1998</span>) propone un arquea metanógeno que consumía H₂ + CO₂ y un endosimbionte bacteriano que le suministraba H₂. La simbiosis explica el mosaico génico eucariota y predice que no existió eucariota sin mitocondrias. Todas las predicciones han sido confirmadas por genómica en dos décadas.",
         },
         {
           type: 'paragraph',
@@ -351,7 +351,7 @@ export const vitalQuestion: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El huésped arqueano no podía fagocitar; la incorporación del endosimbionte requirió otro mecanismo (p. ej. predación fallida, parasitismo o fusión). Lo crucial: la simbiosis rompió restricciones energéticas que mantenían a procariotas pequeños y genomas limitados durante eones.",
+          html: "El huésped arqueano no podía fagocitar. La incorporación del endosimbionte requirió otro mecanismo (p. ej. predación fallida, parasitismo o fusión). Lo crucial: la simbiosis rompió restricciones energéticas que mantenían a procariotas pequeños y genomas limitados durante eones.",
         },
         {
           type: 'paragraph',
@@ -359,7 +359,7 @@ export const vitalQuestion: BookSummary = {
         },
         {
           type: 'key',
-          html: "Un arquea + una bacteria = origen eucariota; la <span class=\"key-term\">hipótesis del hidrógeno</span> es la explicación más parsimoniosa y mejor corroborada.",
+          html: "Un arquea + una bacteria = origen eucariota. La <span class=\"key-term\">hipótesis del hidrógeno</span> es la explicación más parsimoniosa y mejor corroborada.",
         },
       ],
     },
@@ -371,11 +371,11 @@ export const vitalQuestion: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Las mitocondrias derivan de <span class=\"term\">α-proteobacterias</span>; conservan genoma propio (<span class=\"num\">13</span> genes en humanos, de miles originales) y sintetizan la mayor parte del ATP celular. Margulis demostró la endosimbiosis en los <span class=\"num\">1980</span>; hoy sabemos que todos los eucariotas, incluidos aparentes excepciones, conservan orgánulos derivados de mitocondrias (hidrogenosomas, mitosomas).",
+          html: "Las mitocondrias derivan de <span class=\"term\">α-proteobacterias</span>. Conservan genoma propio (<span class=\"num\">13</span> genes en humanos, de miles originales) y sintetizan la mayor parte del ATP celular. Margulis demostró la endosimbiosis en los <span class=\"num\">1980</span>. Hoy sabemos que todos los eucariotas, incluidos aparentes excepciones, conservan orgánulos derivados de mitocondrias (hidrogenosomas, mitosomas).",
         },
         {
           type: 'paragraph',
-          html: "La transferencia génica del endosimbionte al núcleo reemplazó la mayoría de genes mitocondriales; el huésped integró vías bacterianas y arqueanas en redes metabólicas híbridas. La cloroplasta llegó después, solo en algas y plantas; las mitocondrias son universales y anteriores a toda complejidad eucariota.",
+          html: "La transferencia génica del endosimbionte al núcleo reemplazó la mayoría de genes mitocondriales. El huésped integró vías bacterianas y arqueanas en redes metabólicas híbridas. La cloroplasta llegó después, solo en algas y plantas. Las mitocondrias son universales y anteriores a toda complejidad eucariota.",
         },
         {
           type: 'paragraph',
@@ -399,11 +399,11 @@ export const vitalQuestion: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Procariotas tienen ~<span class=\"num\">15 000</span> veces menos volumen celular que eucariotas medios; sus genomas más grandes rondan <span class=\"num\">12 Mb</span> frente a miles de Mb eucariotas. Pese a virtuosismo bioquímico, bacterias y arqueas no cambiaron morfológicamente en <span class=\"num\">4 000 millones</span> de años. La restricción es energética: <span class=\"term\">energía por gen</span>.",
+          html: "Procariotas tienen ~<span class=\"num\">15 000</span> veces menos volumen celular que eucariotas medios. Sus genomas más grandes rondan <span class=\"num\">12 Mb</span> frente a miles de Mb eucariotas. Pese a virtuosismo bioquímico, bacterias y arqueas no cambiaron morfológicamente en <span class=\"num\">4 000 millones</span> de años. La restricción es energética: <span class=\"term\">energía por gen</span>.",
         },
         {
           type: 'paragraph',
-          html: "Escalar una bacteria al tamaño eucariota aumenta el área de membrana ~<span class=\"num\">625</span> veces pero el volumen ~<span class=\"num\">15 000</span> veces. La síntesis de ATP depende de la membrana; el coste proteico escala con el volumen. Sin sistema de transporte intracelular sofisticado, una bacteria gigante necesitaría miles de copias del genoma — <span class=\"term\">poliploidia extrema</span> — solo para mantener energía por gen constante.",
+          html: "Escalar una bacteria al tamaño eucariota aumenta el área de membrana ~<span class=\"num\">625</span> veces pero el volumen ~<span class=\"num\">15 000</span> veces. La síntesis de ATP depende de la membrana. El coste proteico escala con el volumen. Careciendo de un sistema de transporte intracelular sofisticado, una bacteria gigante necesitaría miles de copias del genoma (<span class=\"term\">poliploidia extrema</span>) solo para mantener energía por gen constante.",
         },
         {
           type: 'paragraph',
@@ -411,7 +411,7 @@ export const vitalQuestion: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Las mitocondrias resuelven el problema: genomas bacterianos reducidos dentro de una célula grande producen ATP localmente sin multiplicar genomas completos en la periferia. Un eucariota obtiene ~<span class=\"num\">100 000</span> veces más energía por gen que una bacteria del mismo tamaño. Las leyes de potencia de superficie/volumen impiden la complejidad procariota; solo la endosimbiosis la liberó.",
+          html: "Las mitocondrias resuelven el problema: genomas bacterianos reducidos dentro de una célula grande producen ATP localmente sin multiplicar genomas completos en la periferia. Un eucariota obtiene ~<span class=\"num\">100 000</span> veces más energía por gen que una bacteria del mismo tamaño. Las leyes de potencia de superficie/volumen impiden la complejidad procariota. Solo la endosimbiosis la liberó.",
         },
         {
           type: 'big-numbers',
@@ -432,7 +432,7 @@ export const vitalQuestion: BookSummary = {
         },
         {
           type: 'key',
-          html: "La complejidad requiere <span class=\"key-term\">energía por gen</span> masiva; solo mitocondrias endosimbióticas la hacen posible.",
+          html: "La complejidad requiere <span class=\"key-term\">energía por gen</span> masiva. Solo mitocondrias endosimbióticas la hacen posible.",
         },
       ],
     },
@@ -444,19 +444,19 @@ export const vitalQuestion: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Tras la endosimbiosis, los eucariotas acumularon en poco tiempo geológico (posiblemente ~<span class=\"num\">2 millones</span> de años) núcleo, sistemas de membranas, citoesqueleto y sexo — rasgos universales ausentes en procariotas. La uniformidad eucariota sugiere población pequeña, inestable, con reproducción sexual que mezcla rasgos y evita divergencia.",
+          html: "Después de la endosimbiosis, los eucariotas acumularon en poco tiempo geológico (posiblemente ~<span class=\"num\">2 millones</span> de años) núcleo, sistemas de membranas, citoesqueleto y sexo. Son rasgos universales ausentes en procariotas. La uniformidad eucariota sugiere población pequeña, inestable, con reproducción sexual que mezcla rasgos y evita divergencia.",
         },
         {
           type: 'paragraph',
-          html: "Los eucariotas tienen <span class=\"term\">genes en trozos</span> (intrones) empalados por el esplicosoma; los precursores son intrones móviles bacterianos (grupo II) transferidos desde el endosimbionte. La invasión de intrones elevó la tasa de mutación y exigió recombinación genómica completa — sexo total — frente a transferencia génica lateral, insuficiente para genomas grandes.",
+          html: "Los eucariotas tienen <span class=\"term\">genes en trozos</span> (intrones) empalados por el esplicosoma. Los precursores son intrones móviles bacterianos (grupo II) transferidos desde el endosimbionte. La invasión de intrones elevó la tasa de mutación y exigió recombinación genómica completa, sexo total, frente a transferencia génica lateral, insuficiente para genomas grandes.",
         },
         {
           type: 'paragraph',
-          html: "El sexo rompe la <span class=\"term\">interferencia selectiva</span> de la reproducción clonal: permite que la selección «vea» genes individualmente. Dos sexos surgen para mantener la calidad mitocondrial: el citoplasma (y mitocondrias) se hereda de la madre; el sexo filtra compatibilidad entre genomas nuclear y mitocondrial. La línea germinal inmortal contrasta con el cuerpo mortal somático.",
+          html: "El sexo rompe la <span class=\"term\">interferencia selectiva</span> de la reproducción clonal: permite que la selección «vea» genes individualmente. Dos sexos surgen para mantener la calidad mitocondrial: el citoplasma (y mitocondrias) se hereda de la madre. El sexo filtra compatibilidad entre genomas nuclear y mitocondrial. La línea germinal inmortal contrasta con el cuerpo mortal somático.",
         },
         {
           type: 'paragraph',
-          html: "La <span class=\"term\">apoptosis</span> — muerte celular programada — emerge de la fisiología respiratoria: genomas nuclear y mitocondrial desajustados ralentizan el flujo de electrones, generan radicales libres, liberan citocromo c y colapsan el potencial de membrana. Este mecanismo, conservado en plantas y levaduras, elimina células con genomas incompatibles — base evolutiva del suicidio celular y la senescencia.",
+          html: "La <span class=\"term\">apoptosis</span>, muerte celular programada, emerge de la fisiología respiratoria: genomas nuclear y mitocondrial desajustados ralentizan el flujo de electrones, generan radicales libres, liberan citocromo c y colapsan el potencial de membrana. Este mecanismo, conservado en plantas y levaduras, elimina células con genomas incompatibles — base evolutiva del suicidio celular y la senescencia.",
         },
         {
           type: 'key',
@@ -476,7 +476,7 @@ export const vitalQuestion: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La coevolución mitonuclear explica enfermedades mitocondriales, apoptosis en desarrollo embrionario y el ~<span class=\"num\">40 %</span> de abortos espontáneos tempranos posiblemente bioenergéticos. Aves y murciélagos — alta demanda aeróbica — tienen umbrales bajos de muerte celular: mitocondrias casi perfectas, baja fecundidad, longevidad extendida (palomas ~<span class=\"num\">30</span> años vs. ratas ~<span class=\"num\">3–4</span>).",
+          html: "La coevolución mitonuclear explica enfermedades mitocondriales, apoptosis en desarrollo embrionario y el ~<span class=\"num\">40 %</span> de abortos espontáneos tempranos posiblemente bioenergéticos. Aves y murciélagos, alta demanda aeróbica, tienen umbrales bajos de muerte celular: mitocondrias casi perfectas, baja fecundidad, longevidad extendida (palomas ~<span class=\"num\">30</span> años vs. ratas ~<span class=\"num\">3–4</span>).",
         },
         {
           type: 'paragraph',
@@ -639,8 +639,7 @@ export const vitalQuestion: BookSummary = {
     title: "La idea central",
     lines: [
   "La vida es quimiosmótica desde el origen: protones, membranas y carbono reducido.",
-  "Las bacterias exploraron el metabolismo pero quedaron atrapadas por la física del tamaño.",
-  "Una sola endosimbiosis rompió ese techo energético y creó la quimera eucariota.",
+  "Las bacterias exploraron el metabolismo, pero una sola endosimbiosis rompió el techo energético y creó la quimera eucariota.",
   "Sexo, dos sexos, apoptosis y enfermedad son predicciones de dos genomas compartiendo una cadena respiratoria.",
   "En otros planetas rocosos con agua, la misma química de respiraderos alcalinos podría repetir el guion.",
   "La cuestión vital tiene respuesta bioenergética, no solo informacional."

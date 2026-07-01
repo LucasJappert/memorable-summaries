@@ -172,7 +172,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La astrobiología integra astronomía, química y ciencias planetarias. Este libro reúne a <span class=\"num\">30</span> contribuyentes de <span class=\"num\">16</span> países en tres bloques — geología, biología y ciencias espaciales — más un cierre sobre Marte y perspectivas generales.",
+          html: "La astrobiología integra astronomía, química y ciencias planetarias. Este libro reúne a <span class=\"num\">30</span> contribuyentes de <span class=\"num\">16</span> países en tres bloques (geología, biología y ciencias espaciales), con un cierre sobre Marte y perspectivas generales.",
         },
         {
           type: 'key',
@@ -273,7 +273,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Cada reporte exige preguntarse: ¿es la estructura auténticamente biogénica y está en contexto estratigráfico coherente? El consenso científico sobre la vida más antigua sigue siendo elude.",
+          html: "Cada reporte exige preguntarse: ¿es la estructura auténticamente biogénica y está en contexto estratigráfico coherente? El consenso científico sobre la vida más antigua sigue siendo elusivo.",
         },
         {
           type: 'concept-grid',
@@ -317,7 +317,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Los silicatos son abundantes en Tierra y Marte; expandir el catálogo terrestre de biosignaturas minerales facilita distinguir procesos biológicos de abióticos en otros mundos.",
+          html: "Los silicatos son abundantes en Tierra y Marte. Expandir el catálogo terrestre de biosignaturas minerales facilita distinguir procesos biológicos de abióticos en otros mundos.",
         },
         {
           type: 'key',
@@ -337,7 +337,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La biosfera Arcaico-Proterozoica (<span class=\"num\">3,5–0,54 Ga</span>) fue casi enteramente microbiana y sin esqueletos. Butterfield identifica seis estilos de preservación excepcional; la fosfatización tridimensional de la Formación Doushantuo (~<span class=\"num\">635–551 Ma</span>) es una de las más potentes.",
+          html: "La biosfera Arcaico-Proterozoica (<span class=\"num\">3,5–0,54 Ga</span>) fue casi enteramente microbiana y sin esqueletos. Butterfield identifica seis estilos de preservación excepcional. La fosfatización tridimensional de la Formación Doushantuo (~<span class=\"num\">635–551 Ma</span>) es una de las más potentes.",
         },
         {
           type: 'paragraph',
@@ -361,7 +361,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El registro precámbrico indio — cuenca Krol, formaciones Blaini/Tal — enlaza glaciaciones marinoanas, biota ediacárica y transición al Cámbrico. Los fósiles de Buxa ocurren entre la diamictita Blaini y los depósitos del Tal.",
+          html: "El registro precámbrico indio (cuenca Krol, formaciones Blaini/Tal) enlaza glaciaciones marinoanas, biota ediacárica y transición al Cámbrico. Los fósiles de Buxa ocurren entre la diamictita Blaini y los depósitos del Tal.",
         },
         {
           type: 'paragraph',
@@ -385,7 +385,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Los estromatolitos dominaron el registro macrofósil precámbrico; su declive coincide con cambios químicos del océano, competencia algal y pastoreo/bioturbación por metazoos. Persisten hoy en ambientes extremos (Shark Bay, Yellowstone) con pocos consumidores.",
+          html: "Los estromatolitos dominaron el registro macrofósil precámbrico. Su declive coincide con cambios químicos del océano, competencia algal y pastoreo o bioturbación por metazoos. Persisten hoy en ambientes extremos (Shark Bay, Yellowstone) con pocos consumidores.",
         },
         {
           type: 'paragraph',
@@ -413,7 +413,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Reconocer esa influencia en depósitos hidrotermales terrestres — y potencialmente marcianos — requiere entender la interacción comunidad-mineral durante la acreción del sinter.",
+          html: "Reconocer esa influencia en depósitos hidrotermales terrestres, y potencialmente marcianos, requiere entender la interacción comunidad-mineral durante la acreción del sinter.",
         },
         {
           type: 'key',
@@ -433,7 +433,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Tras eventos de impacto planetario-estabilizadores (~<span class=\"num\">3.850 Ma</span>), las cianobacterias oxigén fotosintéticas aparecen en el registro desde ~<span class=\"num\">3,5 Ga</span>. Ambientes áridos extremos preservaron proxies de desecación, inundación flash y cicatrización de grietas en areniscas finas.",
+          html: "Después de eventos de impacto planetario-estabilizadores (~<span class=\"num\">3.850 Ma</span>), las cianobacterias oxigénicas fotosintéticas aparecen en el registro desde ~<span class=\"num\">3,5 Ga</span>. Ambientes áridos extremos preservaron proxies de desecación, inundación flash y cicatrización de grietas en areniscas finas.",
         },
         {
           type: 'paragraph',
@@ -481,7 +481,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Las superficies de planetas sin atmósfera protectora (Marte, posiblemente Europa) están esterilizadas por UV; el subsuelo promete refugio. Preguntas abiertas: ¿son los microbios tan antiguos como la roca? ¿Existen formas dormantes distintas de endosporas?",
+          html: "Las superficies de planetas sin atmósfera protectora (Marte, posiblemente Europa) están esterilizadas por UV. El subsuelo promete refugio. Preguntas abiertas: ¿son los microbios tan antiguos como la roca? ¿Existen formas dormantes distintas de endosporas?",
         },
         {
           type: 'paragraph',
@@ -533,7 +533,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Si la vida marciana fue microbiana y hubo periodos húmedos, los ecosistemas tipo filtración de metano — con alto potencial de fosilización por interacciones microbio-mineral — son analogos prioritarios para misiones ESA/NASA.",
+          html: "Si la vida marciana fue microbiana y hubo periodos húmedos, los ecosistemas tipo filtración de metano, con alto potencial de fosilización por interacciones microbio-mineral, son analogos prioritarios para misiones ESA/NASA.",
         },
         {
           type: 'concept-grid',
@@ -649,7 +649,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Posición minoritaria y altamente especulativa dentro del volumen; ilustra el espectro filosófico de la astrobiología más allá del empirismo geológico.",
+          html: "Es una posición minoritaria y altamente especulativa dentro del volumen. Ilustra el espectro filosófico de la astrobiología más allá del empirismo geológico.",
         },
         {
           type: 'key',
@@ -669,7 +669,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Meteoritos, lunares y cometas conservan implantes iónicos y radionúcleidos de rayos cósmicos; archivos terrestres (sedimentos marinos, corales, nódulos de manganeso) registran proxies climáticos detallados.",
+          html: "Meteoritos, lunares y cometas conservan implantes iónicos y radionúcleidos de rayos cósmicos. Archivos terrestres (sedimentos marinos, corales, nódulos de manganeso) registran proxies climáticos detallados.",
         },
         {
           type: 'paragraph',
@@ -693,11 +693,11 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Horizontes propuestos en otras grandes extinciones resultaron de edad o tamaño incorrectos; muchos impactos del Eoceno tardío no causaron extinción. Las erupciones de basalto de inundación tampoco explican todos los eventos.",
+          html: "Horizontes propuestos en otras grandes extinciones resultaron de edad o tamaño incorrectos. Muchos impactos del Eoceno tardío no causaron extinción. Las erupciones de basalto de inundación tampoco explican todos los eventos.",
         },
         {
           type: 'paragraph',
-          html: "Cada extinción masiva muestra un patrón distinto; modelos únicos (impacto, volcanismo, CO₂/O₂) fallan como explicación universal — lección de humildad para correlacionar impactos cósmicos y evolución biológica.",
+          html: "Cada extinción masiva muestra un patrón distinto. Los modelos únicos (impacto, volcanismo, CO₂/O₂) fallan como explicación universal. Es una lección de humildad para correlacionar impactos cósmicos y evolución biológica.",
         },
         {
           type: 'key',
@@ -765,7 +765,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Átomos son reliquias del Big Bang; ADN de dinosaurios puede reiniciar síntesis proteica en un ribosoma adecuado — borrosidad entre registro pasivo y agencia biológica.",
+          html: "Los átomos son reliquias del Big Bang. El ADN de dinosaurios puede reiniciar síntesis proteica en un ribosoma adecuado. Eso borra la frontera entre registro pasivo y agencia biológica.",
         },
         {
           type: 'paragraph',
@@ -789,7 +789,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Desde Schiaparelli y Lowell hasta Mariner y Viking, Marte pasó de mundo habitable imaginado a desierto CO₂-frío; ALH84001 reabrió el debate científico y público sobre biosignaturas en material retornado.",
+          html: "Desde Schiaparelli y Lowell hasta Mariner y Viking, Marte pasó de mundo habitable imaginado a desierto frío de CO₂. ALH84001 reabrió el debate científico y público sobre biosignaturas en material retornado.",
         },
         {
           type: 'paragraph',
@@ -813,7 +813,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Marte tuvo hidrología activa: deltas, fluvial, lacustre. Terrains Noachianos (>~<span class=\"num\">3,8 Ga</span>) concentran filosilicatos en estratos arcaicos; Hesperiano (<span class=\"num\">3,8–3,0 Ga</span>) muestra sulfatos ferríferos — ambientes distintos para trazas paleobiológicas.",
+          html: "Marte tuvo hidrología activa: deltas, fluvial, lacustre. Los terrenos noaquianos (>~<span class=\"num\">3,8 Ga</span>) concentran filosilicatos en estratos arcaicos. En el Hesperiano (<span class=\"num\">3,8–3,0 Ga</span>) predominan sulfatos ferríferos. Son ambientes distintos para trazas paleobiológicas.",
         },
         {
           type: 'paragraph',
@@ -837,7 +837,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Repasan estromatolitos como fósiles más antiguos (~<span class=\"num\">3,5 Ga</span> en Australia; posibles señales a ~<span class=\"num\">3,85 Ga</span> en Groenlandia), «fósiles vivientes» y la definición multidisciplinaria de astrobiología.",
+          html: "Repasan estromatolitos como fósiles más antiguos (~<span class=\"num\">3,5 Ga</span> en Australia, posibles señales a ~<span class=\"num\">3,85 Ga</span> en Groenlandia), «fósiles vivientes» y la definición multidisciplinaria de astrobiología.",
         },
         {
           type: 'paragraph',

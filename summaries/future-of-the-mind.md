@@ -85,13 +85,13 @@ La mente dejó de ser una caja negra cuando pudimos relacionar <span class="key-
 ## title: Conciencia: mirada de un físico
 
 <!-- paragraph -->
-Kaku propone una <span class="term">teoría espacio-temporal de la conciencia</span>: ser consciente es construir modelos del entorno y simular futuros para alcanzar metas. Con ese criterio define niveles de conciencia desde <span class="num">0</span> hasta <span class="num">III</span>, según la complejidad del modelo de mundo y de sí mismo.
+Kaku propone una <span class="term">teoría espacio-temporal de la conciencia</span>: ser consciente es construir modelos del entorno y simular futuros para alcanzar metas. A partir de ese criterio define niveles de conciencia desde <span class="num">0</span> hasta <span class="num">III</span> según la complejidad del modelo de mundo y de sí mismo.
 
 <!-- paragraph -->
 La capacidad de humor, ironía y lectura de intenciones depende de la <span class="term">Theory of Mind</span>, soportada en parte por redes sociales del cerebro y por las <span class="term">neuronas espejo</span>. Estos mecanismos permiten anticipar lo que otro sabe, desea o ignora.
 
 <!-- paragraph -->
-También describe la confabulación estudiada por <span class="person">Michael Gazzaniga</span>: el “intérprete” del hemisferio izquierdo fabrica narrativas coherentes incluso cuando desconoce causas reales. La conciencia, por tanto, es poderosa pero no transparente para sí misma.
+<span class="person">Michael Gazzaniga</span> estudió la confabulación: el «intérprete» del hemisferio izquierdo fabrica narrativas coherentes incluso cuando desconoce causas reales. La conciencia, por tanto, es poderosa pero no transparente para sí misma.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -111,7 +111,7 @@ También describe la confabulación estudiada por <span class="person">Michael G
 La “telepatía” aparece en versión tecnológica: interfaces cerebro-máquina que traducen actividad neural. Experimentos de <span class="person">Jack Gallant</span> reconstruyen imágenes y videos borrosos a partir de fMRI, mientras registros <span class="term">ECoG</span> convierten patrones corticales en palabras o comandos básicos.
 
 <!-- paragraph -->
-El interés militar y médico se cruza en proyectos asociados a <span class="person">DARPA</span>: devolver comunicación a pacientes con parálisis y acelerar interacción humano-máquina. Kaku subraya que la precisión mejora con algoritmos y sensores más finos, pero aún depende de entrenamiento y contexto.
+El interés militar y médico se cruza en proyectos de <span class="person">DARPA</span> que buscan devolver comunicación a pacientes con parálisis y acelerar la interacción humano-máquina. Kaku subraya que la precisión mejora con algoritmos y sensores más finos, pero aún depende de entrenamiento y contexto.
 
 <!-- paragraph -->
 El capítulo introduce la dimensión política: si pensamientos pueden inferirse, la <span class="term">privacidad mental</span> se vuelve un derecho central. Como metáfora de defensa, menciona blindajes tipo <span class="term">jaula de Faraday</span> y, hacia adelante, nanosensores capaces de leer señales con menos invasión.
@@ -183,7 +183,7 @@ La historia del cerebro de <span class="person">Albert Einstein</span>, conserva
 También examina sabios autistas, estimulación magnética transcraneal y la posibilidad de “desinhibir” capacidades latentes. Estas ventanas sugieren que inteligencia no es un único factor, sino un equilibrio entre redes especializadas, control ejecutivo y contexto.
 
 <!-- paragraph -->
-En genética, menciona candidatos como <span class="term">HAR1</span> y <span class="term">ASPM</span>; en física, recuerda límites energéticos y temporales del procesamiento cerebral. Aumentar inteligencia tiene fronteras materiales, no solo pedagógicas o computacionales.
+En genética, menciona candidatos como <span class="term">HAR1</span> y <span class="term">ASPM</span>. En física, recuerda límites energéticos y temporales del procesamiento cerebral. Aumentar inteligencia tiene fronteras materiales, no solo pedagógicas o computacionales.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -203,7 +203,7 @@ En genética, menciona candidatos como <span class="term">HAR1</span> y <span cl
 Kaku recupera la hipótesis de <span class="person">Allan Hobson</span> (activación-síntesis): los sueños emergen cuando la corteza construye narrativas a partir de señales internas durante REM. No son profecías místicas, sino simulaciones cerebrales con lógica cambiante.
 
 <!-- paragraph -->
-Con MRI, grupos de <span class="person">Kyoto</span> y Berkeley reconstruyen imágenes oníricas rudimentarias. El avance conecta con la decodificación visual vista en telepatía y sugiere que, con más resolución, podrían “fotografiarse” escenas soñadas de forma creciente.
+Grupos de <span class="person">Kyoto</span> y Berkeley usan MRI para reconstruir imágenes oníricas rudimentarias. El avance conecta con la decodificación visual vista en telepatía y sugiere que, con más resolución, podrían «fotografiarse» escenas soñadas de forma creciente.
 
 <!-- paragraph -->
 El capítulo incluye <span class="term">sueño lúcido</span> y contacto experimental con soñadores en laboratorios europeos, además de escenarios tipo *Inception* mediante lentes de contacto proyectivas. Kaku advierte que manipular sueños abre aplicaciones terapéuticas y dilemas de autonomía mental.
@@ -295,7 +295,7 @@ La pregunta de fondo no es solo si una máquina calcula, sino si puede sostener 
 El capítulo centraliza megaproyectos: <span class="person">BRAIN Initiative</span> (≈ <span class="num">3.000 millones de dólares</span>) y <span class="person">Human Brain Project</span> (≈ <span class="num">1,19 mil millones de euros</span>). Ambos buscan mapear circuitos y simular funciones para pasar de atlas descriptivo a teoría operacional.
 
 <!-- paragraph -->
-Kaku revisa supercomputación (incluyendo plataformas como <span class="person">Blue Gene</span>) y el desafío del <span class="term">conectoma</span>: no basta listar neuronas; hay que modelar conexiones dinámicas, plasticidad y sincronía temporal en múltiples escalas.
+Kaku revisa supercomputación (incluyendo plataformas como <span class="person">Blue Gene</span>) y el desafío del <span class="term">conectoma</span>. No basta listar neuronas: hay que modelar conexiones dinámicas, plasticidad y sincronía temporal en múltiples escalas.
 
 <!-- paragraph -->
 Si la arquitectura mental pudiera reproducirse con fidelidad, surge la pregunta por continuidad personal e inmortalidad. ¿Copiar un patrón cerebral preserva al sujeto o solo crea un duplicado funcional? El autor usa esta tensión como puente hacia capítulos finales.
@@ -341,7 +341,7 @@ La visión de nanobots médicos y neuronales apunta a reparar tejidos, mejorar m
 Aquí Kaku especula con escenarios extremos: registrar un conectoma con tecnologías ópticas y “enviarlo” como información. En ese marco, la mente se trataría como <span class="term">patrón energético-informacional</span> antes que como sustancia fija.
 
 <!-- paragraph -->
-Para viajes interestelares, considera conceptos relativistas como <span class="term">agujeros de gusano</span> y discute límites prácticos de energía, estabilidad y causalidad. No son tecnologías cercanas, pero sirven para pensar qué exigiría trasladar conciencia a escala cósmica.
+En viajes interestelares, Kaku considera conceptos relativistas como <span class="term">agujeros de gusano</span> y discute límites prácticos de energía, estabilidad y causalidad. No son tecnologías cercanas, pero sirven para pensar qué exigiría trasladar conciencia a escala cósmica.
 
 <!-- paragraph -->
 También introduce la <span class="term">computación cuántica</span> como posible plataforma para simular procesos complejos, aunque sin afirmar que la conciencia sea inherentemente cuántica. La tesis es prudente: la física abre puertas, pero no autoriza atajos mágicos.
@@ -361,7 +361,7 @@ También introduce la <span class="term">computación cuántica</span> como posi
 ## title: La mente alienígena
 
 <!-- paragraph -->
-Con datos de exoplanetas (misiones tipo <span class="person">Kepler</span>), Kaku normaliza la posibilidad de mundos habitables. La cuestión deja de ser “si hay vida” para pasar a “qué formas de <span class="term">conciencia</span> pueden surgir en entornos distintos”.
+Datos de exoplanetas (misiones tipo <span class="person">Kepler</span>) llevan a Kaku a normalizar la posibilidad de mundos habitables. La cuestión deja de ser «si hay vida» para pasar a «qué formas de <span class="term">conciencia</span> pueden surgir en entornos distintos».
 
 <!-- paragraph -->
 La búsqueda tecnológica (SETI) se conecta con la <span class="term">ecuación de Drake</span> como marco probabilístico, no como predicción cerrada. El autor recuerda que incluso en la Tierra ya coexisten múltiples “mundos mentales”, desde mamíferos sociales hasta inteligencia colectiva de enjambre.
@@ -409,7 +409,7 @@ El apéndice repasa debates sobre si la mecánica cuántica explica rasgos de la
 Compara interpretaciones como <span class="term">Copenhague</span>, propuestas de <span class="person">Wigner</span> y enfoques de <span class="term">muchos mundos</span>. Aunque suenan compatibles con especulaciones sobre conciencia, el autor evita afirmar evidencia definitiva de un “cerebro cuántico” operativo.
 
 <!-- paragraph -->
-El cierre del apéndice pasa por <span class="person">Libet</span> y el libre albedrío: señales cerebrales anticipan decisiones conscientes por milisegundos. Para Kaku, esto no clausura la libertad humana, pero obliga a redefinirla en términos de procesos distribuidos y escalas temporales.
+Los experimentos de <span class="person">Libet</span> muestran que señales cerebrales anticipan decisiones conscientes por milisegundos. Kaku sostiene que esto no clausura la libertad humana, pero obliga a redefinirla en términos de procesos distribuidos y escalas temporales.
 
 <!-- concept-grid -->
 | icon | title | description |

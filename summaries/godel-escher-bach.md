@@ -49,11 +49,11 @@ lang: es
 ## title: Introducción: una ofrenda músico-lógica
 
 <!-- paragraph lead -->
-Hofstadter improvisa sobre el <span class="term">Musikalisches Opfer</span> de Bach ante Federico el Grande (<span class="num">1747</span>). Autorreferencia en Bach, Escher y Gödel prepara el hilo dorado del libro: sistemas formales, niveles y paradojas. Breve historia de la lógica y debate sobre inteligencia artificial.
+Hofstadter improvisa sobre el <span class="term">Musikalisches Opfer</span> de Bach ante Federico el Grande (<span class="num">1747</span>). La autorreferencia en Bach, Escher y Gödel prepara el hilo dorado del libro: sistemas formales, niveles y paradojas. Recorre una breve historia de la lógica y el debate sobre inteligencia artificial.
 <!-- paragraph -->
-Los diálogos entre <span class="person">Tortuga</span> y <span class="person">Aquiles</span> (y el <span class="person">Cangrejo</span>, la <span class="person">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.
+Los diálogos entre <span class="person">Tortuga</span> y <span class="person">Aquiles</span> (y el <span class="person">Cangrejo</span>, la <span class="person">Hormiguera</span>) dramatizan cada capítulo con fugas, cánones y juegos de niveles. Esa forma musical encarna la tesis central del libro.
 <!-- key -->
-Capítulo 00: Introducción: una ofrenda músico-lógica — pieza del bucle eterno entre forma y significado.
+El libro entrelaza matemática, arte y música en un mismo patrón de bucles y niveles.
 
 
 ---
@@ -64,11 +64,9 @@ Capítulo 00: Introducción: una ofrenda músico-lógica — pieza del bucle ete
 ## title: El acertijo MU
 
 <!-- paragraph lead -->
-Sistema formal MIU: cadenas de M, I, U; axioma MI; reglas de producción. ¿Se puede derivar MU? Introduce teorema, axioma, derivación, procedimiento de decisión, trabajar dentro/fuera del sistema. La inteligencia humana nota patrones (todos los teoremas empiezan con M); la máquina ciega no.
-<!-- paragraph -->
-Los diálogos entre <span class="person">Tortuga</span> y <span class="person">Aquiles</span> (y el <span class="person">Cangrejo</span>, la <span class="person">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.
+El sistema formal MIU usa cadenas de M, I y U. Parte del axioma MI y aplica reglas de producción. La pregunta es si se puede derivar MU. Aquí aparecen teorema, axioma, derivación, procedimiento de decisión y la distinción entre trabajar dentro o fuera del sistema. La inteligencia humana detecta patrones que la máquina ciega no ve: todos los teoremas empiezan con M.
 <!-- key -->
-Capítulo I: El acertijo MU — pieza del bucle eterno entre forma y significado.
+El acertijo MU muestra cómo el significado aparece cuando alguien observa el sistema desde fuera.
 
 
 ---
@@ -79,11 +77,9 @@ Capítulo I: El acertijo MU — pieza del bucle eterno entre forma y significado
 ## title: Significado y forma en matemáticas
 
 <!-- paragraph lead -->
-Sistema pq: símbolos adquieren significado por <span class="term">isomorfismo</span> entre teoremas y aritmética. Significado conecta forma, verdad y manipulación simbólica.
-<!-- paragraph -->
-Los diálogos entre <span class="person">Tortuga</span> y <span class="person">Aquiles</span> (y el <span class="person">Cangrejo</span>, la <span class="person">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.
+El sistema pq muestra cómo los símbolos adquieren significado por <span class="term">isomorfismo</span> entre teoremas y aritmética. El significado conecta forma, verdad y manipulación simbólica.
 <!-- key -->
-Capítulo II: Significado y forma en matemáticas — pieza del bucle eterno entre forma y significado.
+Faltando el isomorfismo, los símbolos serían marcas vacías sin relación con hechos numéricos.
 
 
 ---
@@ -94,11 +90,9 @@ Capítulo II: Significado y forma en matemáticas — pieza del bucle eterno ent
 ## title: Figura y fondo
 
 <!-- paragraph lead -->
-Distinción figura/fondo en arte ↔ teoremas/no-teoremas. Conjuntos <span class="term">recursivamente enumerables</span> vs. <span class="term">recursivos</span>: ¿la figura contiene la misma información que el fondo?
-<!-- paragraph -->
-Los diálogos entre <span class="person">Tortuga</span> y <span class="person">Aquiles</span> (y el <span class="person">Cangrejo</span>, la <span class="person">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.
+La distinción figura/fondo en arte se corresponde con teoremas y no-teoremas. Los conjuntos <span class="term">recursivamente enumerables</span> y <span class="term">recursivos</span> plantean si la figura contiene la misma información que el fondo.
 <!-- key -->
-Capítulo III: Figura y fondo — pieza del bucle eterno entre forma y significado.
+En lógica y en arte, lo omitido puede ser tan informativo como lo destacado.
 
 
 ---
@@ -109,11 +103,9 @@ Capítulo III: Figura y fondo — pieza del bucle eterno entre forma y significa
 ## title: Consistencia, completitud y geometría
 
 <!-- paragraph lead -->
-Explica ideas del diálogo Contracrostipunctus. Geometría euclidiana y no euclidiana ilustran términos indefinidos y rivalidad de sistemas consistentes.
-<!-- paragraph -->
-Los diálogos entre <span class="person">Tortuga</span> y <span class="person">Aquiles</span> (y el <span class="person">Cangrejo</span>, la <span class="person">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.
+Hofstadter explica ideas del diálogo Contracrostipunctus. La geometría euclidiana y la no euclidiana ilustran términos indefinidos y la rivalidad de sistemas consistentes.
 <!-- key -->
-Capítulo IV: Consistencia, completitud y geometría — pieza del bucle eterno entre forma y significado.
+Varios sistemas pueden ser consistentes sin ser únicos ni definitivos.
 
 
 ---
@@ -124,11 +116,9 @@ Capítulo IV: Consistencia, completitud y geometría — pieza del bucle eterno 
 ## title: Estructuras y procesos recursivos
 
 <!-- paragraph lead -->
-Recursión en música, lenguaje, geometría, física y programas. Historias dentro de historias (Little Harmonic Labyrinth).
-<!-- paragraph -->
-Los diálogos entre <span class="person">Tortuga</span> y <span class="person">Aquiles</span> (y el <span class="person">Cangrejo</span>, la <span class="person">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.
+La recursión aparece en música, lenguaje, geometría, física y programas. Historias dentro de historias, como en Little Harmonic Labyrinth, muestran el patrón en acción.
 <!-- key -->
-Capítulo V: Estructuras y procesos recursivos — pieza del bucle eterno entre forma y significado.
+La recursión anida la misma estructura dentro de sí misma, como una fuga dentro de otra fuga.
 
 
 ---
@@ -139,11 +129,9 @@ Capítulo V: Estructuras y procesos recursivos — pieza del bucle eterno entre 
 ## title: La ubicación del significado
 
 <!-- paragraph lead -->
-Significado repartido entre mensaje, decodificador y receptor (ADN, tablillas, discos en el espacio). ¿Existe significado absoluto sin inteligencia?
-<!-- paragraph -->
-Los diálogos entre <span class="person">Tortuga</span> y <span class="person">Aquiles</span> (y el <span class="person">Cangrejo</span>, la <span class="person">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.
+El significado se reparte entre mensaje, decodificador y receptor. Hofstadter lo ilustra con ADN, tablillas y discos en el espacio. ¿Existe significado absoluto sin inteligencia?
 <!-- key -->
-Capítulo VI: La ubicación del significado — pieza del bucle eterno entre forma y significado.
+El sentido no vive solo en el símbolo ni solo en la mente que lo interpreta.
 
 
 ---
@@ -154,11 +142,9 @@ Capítulo VI: La ubicación del significado — pieza del bucle eterno entre for
 ## title: El cálculo proposicional
 
 <!-- paragraph lead -->
-Reglas formales para «y», «o», «no». Isomorfismo y adquisición automática de significado; ejemplos tipo koan zen («Zentences»).
-<!-- paragraph -->
-Los diálogos entre <span class="person">Tortuga</span> y <span class="person">Aquiles</span> (y el <span class="person">Cangrejo</span>, la <span class="person">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.
+Hofstadter introduce reglas formales para «y», «o» y «no». El isomorfismo permite adquirir significado de forma automática. Los ejemplos tipo koan zen («Zentences») muestran la paradoja en acción.
 <!-- key -->
-Capítulo VII: El cálculo proposicional — pieza del bucle eterno entre forma y significado.
+La lógica formal puede imitar el juego entre reglas y sentido que caracteriza los koan.
 
 
 ---
@@ -169,11 +155,9 @@ Capítulo VII: El cálculo proposicional — pieza del bucle eterno entre forma 
 ## title: Teoría tipográfica de números (TNT)
 
 <!-- paragraph lead -->
-Extensión del cálculo proposicional para aritmética mediante manipulación simbólica rígida. Contraste entre razonamiento formal y pensamiento humano.
-<!-- paragraph -->
-Los diálogos entre <span class="person">Tortuga</span> y <span class="person">Aquiles</span> (y el <span class="person">Cangrejo</span>, la <span class="person">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.
+La TNT extiende el cálculo proposicional para tratar la aritmética mediante manipulación simbólica rígida. Hofstadter contrasta el razonamiento formal con el pensamiento humano.
 <!-- key -->
-Capítulo VIII: Teoría tipográfica de números (TNT) — pieza del bucle eterno entre forma y significado.
+TNT prepara el terreno para hablar de aritmética como pura tipografía simbólica.
 
 
 ---
@@ -184,11 +168,9 @@ Capítulo VIII: Teoría tipográfica de números (TNT) — pieza del bucle etern
 ## title: Mumon y Gödel
 
 <!-- paragraph lead -->
-Ideas zen de Mumon como espejo metafórico de la filosofía matemática. Introducción a la <span class="term">numeración de Gödel</span> y primer recorrido del teorema de incompletitud.
-<!-- paragraph -->
-Los diálogos entre <span class="person">Tortuga</span> y <span class="person">Aquiles</span> (y el <span class="person">Cangrejo</span>, la <span class="person">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.
+Las ideas zen de Mumon funcionan como espejo metafórico de la filosofía matemática. Hofstadter introduce la <span class="term">numeración de Gödel</span> y ofrece un primer recorrido del teorema de incompletitud.
 <!-- key -->
-Capítulo IX: Mumon y Gödel — pieza del bucle eterno entre forma y significado.
+Mumon y Gödel comparten el arte de desorientar para revelar límites del lenguaje formal.
 
 
 ---
@@ -199,11 +181,9 @@ Capítulo IX: Mumon y Gödel — pieza del bucle eterno entre forma y significad
 ## title: Preludio y Fuga de la hormiga
 
 <!-- paragraph lead -->
-Diálogos basados en el <span class="term">Clave bien temperado</span>. Debate holismo vs. reduccionismo; la colonia de hormigas <span class="person">Aunt Hillary</span> como mente emergente.
-<!-- paragraph -->
-Los diálogos entre <span class="person">Tortuga</span> y <span class="person">Aquiles</span> (y el <span class="person">Cangrejo</span>, la <span class="person">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.
+Los diálogos se basan en el <span class="term">Clave bien temperado</span>. Hofstadter debate holismo frente a reduccionismo. La colonia de hormigas <span class="person">Aunt Hillary</span> funciona como mente emergente.
 <!-- key -->
-Capítulo Preludio: Preludio y Fuga de la hormiga — pieza del bucle eterno entre forma y significado.
+Aunt Hillary muestra cómo una mente puede surgir de partes que, aisladas, no piensan.
 
 
 ---
@@ -214,11 +194,9 @@ Capítulo Preludio: Preludio y Fuga de la hormiga — pieza del bucle eterno ent
 ## title: Niveles de descripción y sistemas informáticos
 
 <!-- paragraph lead -->
-Niveles al ver tableros, imágenes y computadoras: lenguaje máquina, ensamblador, compilador, SO. ¿Cuántos niveles intermedios existen en equipos deportivos, átomos, clima?
-<!-- paragraph -->
-Los diálogos entre <span class="person">Tortuga</span> y <span class="person">Aquiles</span> (y el <span class="person">Cangrejo</span>, la <span class="person">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.
+Hofstadter analiza niveles al ver tableros, imágenes y computadoras: lenguaje máquina, ensamblador, compilador y sistema operativo. Pregunta cuántos niveles intermedios existen en equipos deportivos, átomos o clima.
 <!-- key -->
-Capítulo X: Niveles de descripción y sistemas informáticos — pieza del bucle eterno entre forma y significado.
+Cada nivel describe la misma realidad con un vocabulario distinto y una granularidad propia.
 
 
 ---
@@ -229,11 +207,9 @@ Capítulo X: Niveles de descripción y sistemas informáticos — pieza del bucl
 ## title: Cerebros y pensamientos
 
 <!-- paragraph lead -->
-¿Cómo el hardware cerebral sostiene pensamientos? Estructura macro y micro del cerebro; relación especulativa entre conceptos y actividad neural.
-<!-- paragraph -->
-Los diálogos entre <span class="person">Tortuga</span> y <span class="person">Aquiles</span> (y el <span class="person">Cangrejo</span>, la <span class="person">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.
+¿Cómo el hardware cerebral sostiene pensamientos? Hofstadter recorre la estructura macro y micro del cerebro y explora la relación especulativa entre conceptos y actividad neural.
 <!-- key -->
-Capítulo XI: Cerebros y pensamientos — pieza del bucle eterno entre forma y significado.
+El cerebro es hardware biológico, pero los pensamientos parecen habitar otro nivel de descripción.
 
 
 ---
@@ -244,11 +220,9 @@ Capítulo XI: Cerebros y pensamientos — pieza del bucle eterno entre forma y s
 ## title: Mentes y pensamientos
 
 <!-- paragraph lead -->
-Poemas Jabberwocky traducidos: ¿se pueden mapear lenguajes y mentes? Analogía geográfica para comunicación entre cerebros.
-<!-- paragraph -->
-Los diálogos entre <span class="person">Tortuga</span> y <span class="person">Aquiles</span> (y el <span class="person">Cangrejo</span>, la <span class="person">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.
+Hofstadter traduce poemas Jabberwocky y pregunta si se pueden mapear lenguajes y mentes. Usa una analogía geográfica para la comunicación entre cerebros.
 <!-- key -->
-Capítulo XII: Mentes y pensamientos — pieza del bucle eterno entre forma y significado.
+Traducir Jabberwocky obliga a separar forma lingüística de contenido mental.
 
 
 ---
@@ -259,11 +233,9 @@ Capítulo XII: Mentes y pensamientos — pieza del bucle eterno entre forma y si
 ## title: BlooP, FlooP y GlooP
 
 <!-- paragraph lead -->
-Lenguajes que realizan búsquedas finitas (BlooP) o potencialmente infinitas (FlooP). Intuición de funciones primitivo-recursivas y recursivas generales, clave en la prueba de Gödel.
-<!-- paragraph -->
-Los diálogos entre <span class="person">Tortuga</span> y <span class="person">Aquiles</span> (y el <span class="person">Cangrejo</span>, la <span class="person">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.
+Hofstadter presenta lenguajes que realizan búsquedas finitas (BlooP) o potencialmente infinitas (FlooP). Introduce la intuición de funciones primitivo-recursivas y recursivas generales, clave en la prueba de Gödel.
 <!-- key -->
-Capítulo XIII: BlooP, FlooP y GlooP — pieza del bucle eterno entre forma y significado.
+BlooP y FlooP separan lo que siempre termina de lo que puede buscar sin límite fijo.
 
 
 ---
@@ -274,11 +246,9 @@ Capítulo XIII: BlooP, FlooP y GlooP — pieza del bucle eterno entre forma y si
 ## title: Proposiciones formalmente indemostrables
 
 <!-- paragraph lead -->
-Prueba de incompletitud de Gödel (<span class="num">1931</span>): si TNT es consistente, es incompleta. Vínculos con geometrías euclidianas/no euclidianas e implicaciones filosóficas.
-<!-- paragraph -->
-Los diálogos entre <span class="person">Tortuga</span> y <span class="person">Aquiles</span> (y el <span class="person">Cangrejo</span>, la <span class="person">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.
+Hofstadter expone la prueba de incompletitud de Gödel (<span class="num">1931</span>): si TNT es consistente, es incompleta. Relaciona el resultado con geometrías euclidianas y no euclidianas y con sus implicaciones filosóficas.
 <!-- key -->
-Capítulo XIV: Proposiciones formalmente indemostrables — pieza del bucle eterno entre forma y significado.
+Gödel demuestra que ningún sistema formal suficientemente rico puede cerrarse sobre sí mismo.
 
 
 ---
@@ -289,11 +259,9 @@ Capítulo XIV: Proposiciones formalmente indemostrables — pieza del bucle eter
 ## title: Saltar fuera del sistema
 
 <!-- paragraph lead -->
-Repetibilidad del argumento gödeliano: TNT es «esencialmente incompleta». Crítica al argumento de <span class="person">J. R. Lucas</span> sobre mente mecánica.
-<!-- paragraph -->
-Los diálogos entre <span class="person">Tortuga</span> y <span class="person">Aquiles</span> (y el <span class="person">Cangrejo</span>, la <span class="person">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.
+El argumento gödeliano es repetible: TNT es «esencialmente incompleta». Hofstadter critica el argumento de <span class="person">J. R. Lucas</span> sobre la mente mecánica.
 <!-- key -->
-Capítulo XV: Saltar fuera del sistema — pieza del bucle eterno entre forma y significado.
+Saltar fuera del sistema no garantiza por sí solo superioridad de la mente humana.
 
 
 ---
@@ -304,11 +272,9 @@ Capítulo XV: Saltar fuera del sistema — pieza del bucle eterno entre forma y 
 ## title: Autoref y autorep
 
 <!-- paragraph lead -->
-Autorreferencia y entidades autorreproductoras (programas, ADN). Difusa frontera entre sistema y entorno que lo replica.
-<!-- paragraph -->
-Los diálogos entre <span class="person">Tortuga</span> y <span class="person">Aquiles</span> (y el <span class="person">Cangrejo</span>, la <span class="person">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.
+Hofstadter explora autorreferencia y entidades autorreproductoras, como programas y ADN. La frontera entre sistema y entorno que lo replica se vuelve difusa.
 <!-- key -->
-Capítulo XVI: Autoref y autorep — pieza del bucle eterno entre forma y significado.
+Autorreferencia y autorreproducción son dos caras del mismo bucle vital y formal.
 
 
 ---
@@ -319,11 +285,9 @@ Capítulo XVI: Autoref y autorep — pieza del bucle eterno entre forma y signif
 ## title: Church, Turing, Tarski y otros
 
 <!-- paragraph lead -->
-<span class="term">Tesis de Church-Turing</span>; problema de la parada; teorema de verdad de Tarski. Habilidades matemáticas humanas vs. simulación mecánica.
-<!-- paragraph -->
-Los diálogos entre <span class="person">Tortuga</span> y <span class="person">Aquiles</span> (y el <span class="person">Cangrejo</span>, la <span class="person">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.
+Hofstadter presenta la <span class="term">Tesis de Church-Turing</span>, el problema de la parada y el teorema de verdad de Tarski. Contrasta habilidades matemáticas humanas con simulación mecánica.
 <!-- key -->
-Capítulo XVII: Church, Turing, Tarski y otros — pieza del bucle eterno entre forma y significado.
+Church, Turing y Tarski fijan los límites de lo computable, demostrable y decidable.
 
 
 ---
@@ -334,11 +298,9 @@ Capítulo XVII: Church, Turing, Tarski y otros — pieza del bucle eterno entre 
 ## title: Inteligencia artificial: retrospectiva
 
 <!-- paragraph lead -->
-Test de Turing; historia abreviada de IA: juegos, teoremas, música, lenguaje natural. Programa SHRDLU de <span class="person">Terry Winograd</span> en mundo de bloques.
-<!-- paragraph -->
-Los diálogos entre <span class="person">Tortuga</span> y <span class="person">Aquiles</span> (y el <span class="person">Cangrejo</span>, la <span class="person">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.
+Hofstadter repasa el test de Turing y ofrece una historia abreviada de IA: juegos, teoremas, música y lenguaje natural. Destaca el programa SHRDLU de <span class="person">Terry Winograd</span> en un mundo de bloques.
 <!-- key -->
-Capítulo XVIII: Inteligencia artificial: retrospectiva — pieza del bucle eterno entre forma y significado.
+SHRDLU mostró que entender lenguaje exige representar un mini-mundo, no solo parsear frases.
 
 
 ---
@@ -349,11 +311,9 @@ Capítulo XVIII: Inteligencia artificial: retrospectiva — pieza del bucle eter
 ## title: Inteligencia artificial: perspectivas
 
 <!-- paragraph lead -->
-Marcos («frames») y representación en capas de contextos. Creatividad e interacción de conceptos; preguntas abiertas del autor.
-<!-- paragraph -->
-Los diálogos entre <span class="person">Tortuga</span> y <span class="person">Aquiles</span> (y el <span class="person">Cangrejo</span>, la <span class="person">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.
+Hofstadter analiza marcos («frames») y representación en capas de contextos. Explora creatividad e interacción de conceptos y deja preguntas abiertas sobre el futuro de la IA.
 <!-- key -->
-Capítulo XIX: Inteligencia artificial: perspectivas — pieza del bucle eterno entre forma y significado.
+La inteligencia artificial necesita marcos flexibles, no solo reglas fijas de manipulación simbólica.
 
 
 ---
@@ -364,11 +324,9 @@ Capítulo XIX: Inteligencia artificial: perspectivas — pieza del bucle eterno 
 ## title: Bucles extraños o jerarquías enredadas
 
 <!-- paragraph lead -->
-Sistemas que se voltean sobre sí mismos: ciencia, gobierno, arte, cerebros. ¿Libertad y conciencia ligadas a bucles de Gödel? Cierre que reúne Bach, Escher y Gödel en un gran bucle autorreferencial.
-<!-- paragraph -->
-Los diálogos entre <span class="person">Tortuga</span> y <span class="person">Aquiles</span> (y el <span class="person">Cangrejo</span>, la <span class="person">Hormiguera</span>) dramatizan el capítulo con fugas, cánones y juegos de niveles — forma musical de la tesis central.
+Hofstadter describe sistemas que se voltean sobre sí mismos: ciencia, gobierno, arte y cerebros. Pregunta si libertad y conciencia se ligan a bucles de Gödel. El cierre reúne Bach, Escher y Gödel en un gran bucle autorreferencial.
 <!-- key -->
-Capítulo XX: Bucles extraños o jerarquías enredadas — pieza del bucle eterno entre forma y significado.
+El libro termina donde empezó: tres dominios distintos tejiendo el mismo bucle dorado.
 
 
 ---
@@ -442,12 +400,13 @@ Capítulo XX: Bucles extraños o jerarquías enredadas — pieza del bucle etern
 
 <!-- closing -->
 Mente, máquina y matemática comparten un patrón: saltar niveles y volver al origen.
-La incompletitud no es defecto: es síntoma de riqueza suficiente para hablar de sí misma.
+La incompletitud no es defecto sino síntoma de riqueza suficiente para hablar de sí misma.
+<!-- highlight -->La identidad emerge de bucles extraños que nos observan observándonos<!-- /highlight -->
 Bach, Escher y Gödel son tres caras de un mismo bucle dorado.
 Entender requiere danzar entre reduccionismo y holismo, forma y significado.
 El libro cierra como empezó: una ofrenda que se referencia a sí misma.
-<!-- highlight -->La identidad emerge de bucles extraños que nos observan observándonos<!-- /highlight -->
 
+---
 
 # footer
 

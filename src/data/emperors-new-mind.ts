@@ -102,11 +102,11 @@ export const emperorsNewMind: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El argumento tiene dos hilos. Primero, los teoremas de <span class=\"person\">Gödel</span> y <span class=\"person\">Turing</span> muestran que el pensamiento matemático —y, por extensión, el pensamiento consciente— trasciende cualquier modelo puramente computacional. Segundo, existe un vacío en nuestra imagen física del mundo, entre la escala cuántica y la macroscópica, donde debería residir la física que explique la mente consciente.",
+          html: "El argumento tiene dos hilos. Primero, los teoremas de <span class=\"person\">Gödel</span> y <span class=\"person\">Turing</span> muestran que el pensamiento matemático, y por extensión el pensamiento consciente, trasciende cualquier modelo puramente computacional. Segundo, existe un vacío en nuestra imagen física del mundo, entre la escala cuántica y la macroscópica, donde debería residir la física que explique la mente consciente.",
         },
         {
           type: 'paragraph',
-          html: "Penrose ilustra el primer hilo con el <span class=\"term\">teorema de Goodstein</span>: una proposición aritmética verdadera e inteligible que no es demostrable por inducción matemática sola. Comprender su verdad requiere algo más que seguir reglas mecánicas. Ese «algo» —la comprensión— parece ligado a la conciencia y ser esencialmente no computacional.",
+          html: "Penrose ilustra el primer hilo con el <span class=\"term\">teorema de Goodstein</span>: una proposición aritmética verdadera e inteligible que no es demostrable por inducción matemática sola. Comprender su verdad requiere algo más que seguir reglas mecánicas. Ese «algo», la comprensión, parece ligado a la conciencia y ser esencialmente no computacional.",
         },
         {
           type: 'key',
@@ -122,7 +122,7 @@ export const emperorsNewMind: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Una fábula de ciencia ficción abre el libro: el presidente <span class=\"person\">Pollo</span> inaugura la supercomputadora <span class=\"term\">Ultronic</span>, con más de <span class=\"num\">10¹⁷</span> unidades lógicas. Su padre, activista de la «Gran Junta de Conciencia Psíquica», intentó volarla; el niño <span class=\"person\">Adam</span>, criado casi por máquinas, se atreve a hacer la primera pregunta.",
+          html: "Una fábula de ciencia ficción abre el libro: el presidente <span class=\"person\">Pollo</span> inaugura la supercomputadora <span class=\"term\">Ultronic</span>, con más de <span class=\"num\">10¹⁷</span> unidades lógicas. Su padre, activista de la «Gran Junta de Conciencia Psíquica», intentó volarla. El niño <span class=\"person\">Adam</span>, criado casi por máquinas, se atreve a hacer la primera pregunta.",
         },
         {
           type: 'paragraph',
@@ -218,11 +218,11 @@ export const emperorsNewMind: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El capítulo abre con la fantasía de <span class=\"term\">Tor'Bled-Nam</span>: un paisaje infinitamente detallado generado por una regla simple —el <span class=\"term\">conjunto de Mandelbrot</span>—, que ilustra cómo la matemática abstracta puede ser «más real» que muchos objetos físicos.",
+          html: "El capítulo abre con la fantasía de <span class=\"term\">Tor'Bled-Nam</span>: un paisaje infinitamente detallado generado por una regla simple, el <span class=\"term\">conjunto de Mandelbrot</span>. Ilustra cómo la matemática abstracta puede ser «más real» que muchos objetos físicos.",
         },
         {
           type: 'paragraph',
-          html: "Los <span class=\"term\">números reales</span> extienden racionales e irracionales (√2, π). Cantor demostró con el <span class=\"term\">argumento diagonal</span> que hay «más» reales que naturales: los reales no son contables. Los <span class=\"term\">números computables</span> son los generables por algoritmo; pero la mayoría de los reales no lo son.",
+          html: "Los <span class=\"term\">números reales</span> extienden racionales e irracionales (√2, π). Cantor demostró con el <span class=\"term\">argumento diagonal</span> que hay «más» reales que naturales: los reales no son contables. Los <span class=\"term\">números computables</span> son los generables por algoritmo, pero la mayoría de los reales no lo son.",
         },
         {
           type: 'paragraph',
@@ -242,7 +242,7 @@ export const emperorsNewMind: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "¿Cómo conocemos la verdad matemática? <span class=\"person\">Hilbert</span> soñó con un sistema formal completo y consistente para toda la aritmética. La <span class=\"term\">paradoja de Russell</span> (<span class=\"num\">1902</span>) —el conjunto de todos los conjuntos que no se contienen a sí mismos— mostró que la ingenua teoría de conjuntos colapsa.",
+          html: "¿Cómo conocemos la verdad matemática? <span class=\"person\">Hilbert</span> soñó con un sistema formal completo y consistente para toda la aritmética. La <span class=\"term\">paradoja de Russell</span> (<span class=\"num\">1902</span>), el conjunto de todos los conjuntos que no se contienen a sí mismos, mostró que la ingenua teoría de conjuntos colapsa.",
         },
         {
           type: 'paragraph',
@@ -250,7 +250,7 @@ export const emperorsNewMind: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La <span class=\"term\">comprensión matemática</span> —el «insight»— permite ver la verdad de G(P) desde fuera del sistema. Eso no es un algoritmo ejecutándose dentro del formalismo. Penrose argumenta que la conciencia humana accede a verdades de forma similar, trascendiendo cualquier procedimiento mecánico fijo.",
+          html: "La <span class=\"term\">comprensión matemática</span>, el «insight», permite ver la verdad de G(P) desde fuera del sistema. Eso no es un algoritmo ejecutándose dentro del formalismo. Penrose argumenta que la conciencia humana accede a verdades de forma similar, trascendiendo cualquier procedimiento mecánico fijo.",
         },
         {
           type: 'concept-grid',
@@ -290,11 +290,11 @@ export const emperorsNewMind: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La dinámica clásica es <span class=\"term\">determinista</span>: el futuro queda fijado por el pasado. Galileo introdujo la inercia y la relatividad galileana; Newton unificó leyes de movimiento y gravitación universal. Maxwell añadió campos electromagnéticos ondulatorios.",
+          html: "La dinámica clásica es <span class=\"term\">determinista</span>: el futuro queda fijado por el pasado. Galileo introdujo la inercia y la relatividad galileana. Newton unificó leyes de movimiento y gravitación universal. Maxwell añadió campos electromagnéticos ondulatorios.",
         },
         {
           type: 'paragraph',
-          html: "¿Es la vida en el «mundo de billar» newtoniano computable? Penrose explora si la evolución de sistemas clásicos —incluso campos continuos— puede simularse algorítmicamente. La respuesta es matizada: muchos sistemas son computables en principio, pero la no linealidad y el caos plantean dudas sobre si el cerebro es «solo» un autómata clásico.",
+          html: "¿Es la vida en el «mundo de billar» newtoniano computable? Penrose explora si la evolución de sistemas clásicos, incluso campos continuos, puede simularse algorítmicamente. La respuesta es matizada: muchos sistemas son computables en principio, pero la no linealidad y el caos plantean dudas sobre si el cerebro es «solo» un autómata clásico.",
         },
         {
           type: 'timeline',
@@ -339,7 +339,7 @@ export const emperorsNewMind: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El experimento de las <span class=\"term\">dos rendijas</span> muestra interferencia: un fotón parece pasar por ambas rendijas a la vez hasta que se «mide». La evolución unitaria <span class=\"term\">U</span> (ecuación de Schrödinger) es determinista; la reducción <span class=\"term\">R</span> del estado es probabilística y marca el colapso al observar.",
+          html: "El experimento de las <span class=\"term\">dos rendijas</span> muestra interferencia: un fotón parece pasar por ambas rendijas a la vez hasta que se «mide». La evolución unitaria <span class=\"term\">U</span> (ecuación de Schrödinger) es determinista. La reducción <span class=\"term\">R</span> del estado es probabilística y marca el colapso al observar.",
         },
         {
           type: 'paragraph',
@@ -379,7 +379,7 @@ export const emperorsNewMind: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Nuestra experiencia del <span class=\"term\">flujo del tiempo</span> —pasado fijo, futuro abierto— choca con las ecuaciones físicas, casi todas reversibles en el tiempo. La relatividad elimina incluso un «ahora» absoluto: simultaneidad depende del observador.",
+          html: "Nuestra experiencia del <span class=\"term\">flujo del tiempo</span>, con pasado fijo y futuro abierto, choca con las ecuaciones físicas, casi todas reversibles en el tiempo. La relatividad elimina incluso un «ahora» absoluto: la simultaneidad depende del observador.",
         },
         {
           type: 'paragraph',
@@ -387,7 +387,7 @@ export const emperorsNewMind: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El universo comenzó en un estado de entropía gravitacional extraordinariamente bajo: la <span class=\"term\">hipótesis de curvatura de Weyl</span> (WCH) postula WEYL = 0 en el big bang. Los agujeros negros concentran entropía; su evaporación por <span class=\"person\">Hawking</span> conecta gravedad, cuántica y termodinámica.",
+          html: "El universo comenzó en un estado de entropía gravitacional extraordinariamente bajo: la <span class=\"term\">hipótesis de curvatura de Weyl</span> (WCH) postula WEYL = 0 en el big bang. Los agujeros negros concentran entropía. Su evaporación por <span class=\"person\">Hawking</span> conecta gravedad, cuántica y termodinámica.",
         },
         {
           type: 'big-numbers',
@@ -440,15 +440,15 @@ export const emperorsNewMind: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El cerebro humano —«como un cuenco de gachas frías», dijo <span class=\"person\">Turing</span>— es en realidad extraordinariamente estructurado: corteza cerebral, cerebelo, tálamo, hipocampo, tronco encefálico. La corteza tiene áreas primarias (sensoriales, motoras) y terciarias (asociación, lenguaje).",
+          html: "El cerebro humano, «como un cuenco de gachas frías» según <span class=\"person\">Turing</span>, es en realidad extraordinariamente estructurado: corteza cerebral, cerebelo, tálamo, hipocampo, tronco encefálico. La corteza tiene áreas primarias (sensoriales, motoras) y terciarias (asociación, lenguaje).",
         },
         {
           type: 'paragraph',
-          html: "Los experimentos de <span class=\"term\">cerebro dividido</span> (<span class=\"person\">Sperry</span>) muestran dos hemisferios que pueden comportarse casi como individuos separados. El cerebelo ejecuta movimientos aprendidos sin conciencia; el hipocampo fija memorias a largo plazo. La IA fuerte ve el cerebro como Turing machine; Penrose lo disputa.",
+          html: "Los experimentos de <span class=\"term\">cerebro dividido</span> (<span class=\"person\">Sperry</span>) muestran dos hemisferios que pueden comportarse casi como individuos separados. El cerebelo ejecuta movimientos aprendidos sin conciencia. El hipocampo fija memorias a largo plazo. La IA fuerte ve el cerebro como Turing machine. Penrose lo disputa.",
         },
         {
           type: 'paragraph',
-          html: "¿Dónde está el «asiento» de la conciencia? Candidatos: corteza cerebral, tálamo, formación reticular, hipocampo. Penrose es escéptico de atribuir conciencia solo al lenguaje (hemisferio izquierdo) o solo a estructuras «primitivas». Los microtúbulos —sugeridos después con <span class=\"person\">Stuart Hameroff</span>— podrían albergar coherencia cuántica a gran escala.",
+          html: "¿Dónde está el «asiento» de la conciencia? Candidatos: corteza cerebral, tálamo, formación reticular, hipocampo. Penrose es escéptico de atribuir conciencia solo al lenguaje (hemisferio izquierdo) o solo a estructuras «primitivas». Los microtúbulos, sugeridos después con <span class=\"person\">Stuart Hameroff</span>, podrían albergar coherencia cuántica a gran escala.",
         },
         {
           type: 'list',
@@ -476,7 +476,7 @@ export const emperorsNewMind: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La selección natural no puede «evolucionar» algoritmos que validen otros algoritmos —eso requiere comprensión, no mutación ciega. El matemático confía en su conciencia para elegir el algoritmo correcto; la verdad de Gödel se ve por insight, no por cálculo.",
+          html: "La selección natural no puede «evolucionar» algoritmos que validen otros algoritmos. Eso requiere comprensión, no mutación ciega. El matemático confía en su conciencia para elegir el algoritmo correcto. La verdad de Gödel se ve por insight, no por cálculo.",
         },
         {
           type: 'paragraph',
@@ -504,7 +504,7 @@ export const emperorsNewMind: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La sala estalla en risas. <span class=\"person\">Adam</span> siente vergüenza: «Lo que hubieran debido hacer, no era reírse». La escena resume la tesis del libro: pasar el test de Turing en tareas acotadas no equivale a conciencia; la pregunta por la experiencia subjetiva desborda la computación.",
+          html: "La sala estalla en risas. <span class=\"person\">Adam</span> siente vergüenza: «Lo que hubieran debido hacer, no era reírse». La escena resume la tesis del libro: pasar el test de Turing en tareas acotadas no equivale a conciencia. La pregunta por la experiencia subjetiva desborda la computación.",
         },
         {
           type: 'key',
@@ -639,11 +639,10 @@ export const emperorsNewMind: BookSummary = {
     title: "La idea central",
     lines: [
   "La mente consciente no es un algoritmo ejecutándose en hardware biológico.",
-  "Gödel y Turing demuestran límites absolutos de la computación.",
-  "La física actual —con su parche cuántico R— tampoco basta.",
-  "Hace falta gravedad cuántica asimétrica en el tiempo, con no computabilidad.",
+  "Gödel y Turing demuestran límites absolutos de la computación. La física actual, con su parche cuántico R, tampoco basta.",
   "Comprender la mente exige nueva física, no solo más velocidad de procesador.",
-  "La pregunta «¿cómo se siente?» no admite respuesta algorítmica."
+  "La pregunta «¿cómo se siente?» no admite respuesta algorítmica.",
+  "Hace falta gravedad cuántica asimétrica en el tiempo, con no computabilidad."
 ],
     highlight: "La conciencia es el emperador desnudo de la IA fuerte: impresionante la pantomima, pero la ropa no existe",
   },

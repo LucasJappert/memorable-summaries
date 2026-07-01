@@ -39,13 +39,13 @@ lang: es
 ## title: Homo docens
 
 <!-- paragraph lead -->
-En <span class="num">2009</span>, <span class="person">Felipe</span>, un niño brasileño tetrapléjico y ciego por un disparo, escribía novelas trilingües desde su cama en el hospital Sarah de Brasilia. Casos como el suyo —junto a <span class="person">Helen Keller</span>, el matemático ciego <span class="person">Emmanuel Giroux</span> o el pintor <span class="person">Nico</span> con medio cerebro— muestran la extraordinaria <span class="term">plasticidad</span> humana.
+En <span class="num">2009</span>, <span class="person">Felipe</span>, un niño brasileño tetrapléjico y ciego por un disparo, escribía novelas trilingües desde su cama en el hospital Sarah de Brasilia. Casos como el suyo, junto a <span class="person">Helen Keller</span>, el matemático ciego <span class="person">Emmanuel Giroux</span> o el pintor <span class="person">Nico</span> con medio cerebro, muestran la extraordinaria <span class="term">plasticidad</span> humana.
 
 <!-- paragraph -->
 Pero la plasticidad es caprichosa: la <span class="term">alexia pura</span> puede dejar a lectores brillantes incapaces de leer «perro» tras un microictus, mientras otros niños superan traumas enormes. ¿Qué reglas gobiernan el aprendizaje?
 
 <!-- paragraph -->
-<span class="person">Dehaene</span> propone que somos <span class="term">Homo docens</span>: la especie que se enseña a sí misma. El genoma (~<span class="num">750 MB</span>) no puede pre-cablear ~<span class="num">10¹⁵</span> bits de conexiones sinápticas; el aprendizaje complementa los genes. Incluso el nematodo <span class="term">C. elegans</span> aprende por habituación y asociación.
+<span class="person">Dehaene</span> propone que somos <span class="term">Homo docens</span>: la especie que se enseña a sí misma. El genoma (~<span class="num">750 MB</span>) no puede pre-cablear ~<span class="num">10¹⁵</span> bits de conexiones sinápticas. El aprendizaje complementa los genes. Incluso el nematodo <span class="term">C. elegans</span> aprende por habituación y asociación.
 
 <!-- quote -->
 > Si no supiéramos cómo aprendemos, ¿cómo sabríamos enseñar?
@@ -65,10 +65,10 @@ Aprender es la mayor ventaja evolutiva humana; la escuela la amplifica, pero dep
 Primera definición: <span class="term">aprender es formar un modelo interno del mundo exterior</span> —mapas mentales del barrio, del cuerpo, del lenguaje, de otras mentes. Incluso soñar es simular con esos modelos.
 
 <!-- paragraph -->
-Segunda: <span class="term">ajustar parámetros</span> del modelo (prismas que desplazan la visión; fonemas del japonés vs. inglés; parámetro de «posición de cabeza» en sintaxis). Tercera: explotar la <span class="term">explosión combinatoria</span> —~<span class="num">50</span> parámetros binarios de gramática generan millones de lenguas posibles.
+La segunda definición es <span class="term">ajustar parámetros</span> del modelo (prismas que desplazan la visión, fonemas del japonés frente al inglés, parámetro de «posición de cabeza» en sintaxis). La tercera explota la <span class="term">explosión combinatoria</span>: ~<span class="num">50</span> parámetros binarios de gramática generan millones de lenguas posibles.
 
 <!-- paragraph -->
-Cuarta: <span class="term">minimizar errores</span> como redes profundas (LeNet de <span class="person">Yann LeCun</span> para códigos postales). Quinta a séptima: comprimir información, seleccionar lo relevante y generalizar —principios compartidos con el aprendizaje automático.
+La cuarta es <span class="term">minimizar errores</span> como las redes profundas (LeNet de <span class="person">Yann LeCun</span> para códigos postales). De la quinta a la séptima: comprimir información, seleccionar lo relevante y generalizar. Son principios compartidos con el aprendizaje automático.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -94,7 +94,7 @@ Las redes profundas imitan procesamiento visual rápido, pero el cerebro humano 
 Ventajas humanas: <span class="term">abstracción</span> (reconocer «A» en cualquier fuente), <span class="term">eficiencia de datos</span> (niños Tsimane con ~<span class="num">60 h</span>/año de habla vs. sistemas que necesitan miles de horas), <span class="term">aprendizaje social</span>, <span class="term">aprendizaje en un ensayo</span>, <span class="term">sistematicidad</span> (reglas como «cada número tiene sucesor»), <span class="term">composición</span> de habilidades.
 
 <!-- paragraph -->
-<span class="person">Jerry Fodor</span> postuló un <span class="term">lenguaje del pensamiento</span> recursivo; <span class="person">Descartes</span> ya sospechaba que las máquinas no compondrían significados como los humanos. AlphaGo no generaliza a variantes del tablero.
+<span class="person">Jerry Fodor</span> postuló un <span class="term">lenguaje del pensamiento</span> recursivo. <span class="person">Descartes</span> ya sospechaba que las máquinas no compondrían significados como los humanos. AlphaGo no generaliza a variantes del tablero.
 
 <!-- list -->
 - **Conceptos abstractos** — Esencia de objetos, no píxeles superficiales.
@@ -115,10 +115,10 @@ Homo sapiens combina dos sistemas: reconocimiento rápido (tipo red profunda) y 
 Contrario a <span class="person">Locke</span>, <span class="person">Rousseau</span> o <span class="person">Turing</span>, el recién nacido no es una pizarra vacía. Posee <span class="term">conocimiento núcleo</span> invisible porque no se manifiesta en conducta madura.
 
 <!-- paragraph -->
-<span class="term">Concepto de objeto</span>: bebés se sorprenden si un sólido desaparece, atraviesa paredes o se parte en dos varillas. <span class="term">Sentido numérico</span>: discriminan cardinalidades, incluso cruzando sonidos e imágenes; hacen «1+1=2» y «5+5≠5». <span class="person">Piaget</span> se equivocó: objetos y números son innatos y se refinan.
+En el <span class="term">concepto de objeto</span>, los bebés se sorprenden si un sólido desaparece, atraviesa paredes o se parte en dos varillas. En el <span class="term">sentido numérico</span>, discriminan cardinalidades incluso cruzando sonidos e imágenes. Hacen «1+1=2» y «5+5≠5». <span class="person">Piaget</span> se equivocó: objetos y números son innatos y se refinan.
 
 <!-- paragraph -->
-<span class="term">Probabilidad bayesiana</span>: bebés miran más tiempo resultados improbables en urnas de bolas; hacen inferencia inversa (muestras rojas → urna roja). <span class="person">Fei Xu</span> y <span class="person">Luca Bonatti</span> muestran deducción lógica antes del lenguaje.
+En <span class="term">probabilidad bayesiana</span>, los bebés miran más tiempo resultados improbables en urnas de bolas. Hacen inferencia inversa (muestras rojas → urna roja). <span class="person">Fei Xu</span> y <span class="person">Luca Bonatti</span> muestran deducción lógica antes del lenguaje.
 
 <!-- big-numbers -->
 | value | label |
@@ -137,13 +137,13 @@ Los bebés son científicos estadísticos: simulan, predicen y se sorprenden ant
 ## title: Nacimiento de un cerebro
 
 <!-- paragraph lead -->
-<span class="person">Gaston Bachelard</span>: el niño nace con cerebro <em>inacabado</em>, no vacío. La RMf de <span class="person">Ghislaine Dehaene-Lambertz</span> mostró que bebés de <span class="num">2 meses</span> activan la misma jerarquía lingüística que adultos (auditivo → temporal → <span class="term">Broca</span>).
+Según <span class="person">Gaston Bachelard</span>, el niño nace con cerebro <em>inacabado</em>, no vacío. La RMf de <span class="person">Ghislaine Dehaene-Lambertz</span> mostró que bebés de <span class="num">2 meses</span> activan la misma jerarquía lingüística que adultos (auditivo → temporal → <span class="term">Broca</span>).
 
 <!-- paragraph -->
-El <span class="term">fascículo arcuato</span> conecta áreas de lenguaje desde el nacimiento; todas las «autopistas» de fibras principales están en su lugar. Durante el tercer trimestre, axones siguen gradientes químicos genéticos —como nervios que ya apuntan a dedos en el feto.
+El <span class="term">fascículo arcuato</span> conecta áreas de lenguaje desde el nacimiento. Todas las «autopistas» de fibras principales están en su lugar. Durante el tercer trimestre, los axones siguen gradientes químicos genéticos, como nervios que ya apuntan a dedos en el feto.
 
 <!-- paragraph -->
-La corteza se pliega progresivamente; a las <span class="num">35 semanas</span> los surcos principales y la asimetría temporal ya existen. El ADN no detalla cada sinapsis, pero sí el andamiaje regional.
+La corteza se pliega progresivamente. A las <span class="num">35 semanas</span> los surcos principales y la asimetría temporal ya existen. El ADN no detalla cada sinapsis, pero sí el andamiaje regional.
 
 <!-- key -->
 Naturaleza provee mapa cortical especializado; nurture refina conexiones locales.
@@ -156,10 +156,10 @@ Naturaleza provee mapa cortical especializado; nurture refina conexiones locales
 ## title: Parte del entorno
 
 <!-- paragraph lead -->
-<span class="person">Santiago Ramón y Cajal</span> descubrió neuronas, dendritas, axones y <span class="term">sinapsis</span> —unidades de cómputo nanoscópicas. Aprender modifica fuerza sináptica según la regla de <span class="person">Donald Hebb</span>: «neuronas que disparan juntas, se conectan juntas».
+<span class="person">Santiago Ramón y Cajal</span> descubrió neuronas, dendritas, axones y <span class="term">sinapsis</span>, unidades de cómputo nanoscópicas. Aprender modifica la fuerza sináptica con la regla hebbiana «neuronas que disparan juntas, se conectan juntas», formulada por <span class="person">Donald Hebb</span>.
 
 <!-- paragraph -->
-Moduladores (<span class="term">dopamina</span>, <span class="term">acetilcolina</span>, serotonina) marcan qué episodios merecen memoria —p. ej. el <span class="num">11-S</span>. La amígdala y el hipocampo consolidan lo emocionalmente relevante.
+Los moduladores (<span class="term">dopamina</span>, <span class="term">acetilcolina</span>, serotonina) marcan qué episodios merecen memoria, por ejemplo el <span class="num">11-S</span>. La amígdala y el hipocampo consolidan lo emocionalmente relevante.
 
 <!-- paragraph -->
 La plasticidad tiene ventanas sensibles y límites espaciales (milímetros). Experiencias enriquecen dendritas y espinas, pero sobre un esqueleto innato.
@@ -182,10 +182,10 @@ Aprender es cambiar sinapsis bajo reglas hebbianas moduladas por emoción y aten
 ## title: Recicla tu cerebro
 
 <!-- paragraph lead -->
-Adultos analfabetos difieren en memoria verbal, reconocimiento de formas y espejos; leer <em>mejora</em> la memoria, no la arruina (<span class="person">Platón</span> se equivocaba). La escolarización transforma el sentido numérico: la recta numérica exacta y «n+1» son logros culturales.
+Los adultos analfabetos difieren en memoria verbal, reconocimiento de formas y espejos. Leer <em>mejora</em> la memoria, no la arruina (<span class="person">Platón</span> se equivocaba). La escolarización transforma el sentido numérico: la recta numérica exacta y «n+1» son logros culturales.
 
 <!-- paragraph -->
-<span class="term">Hipótesis del reciclaje neuronal</span>: cada invención cultural (alfabeto, cifras) debe encontrar un «nicho neuronal» —circuitos evolutivos lo bastante similares y flexibles. Leer recicla áreas visuales; calcular, circuitos de cantidad.
+La <span class="term">hipótesis del reciclaje neuronal</span> sostiene que cada invención cultural (alfabeto, cifras) debe encontrar un «nicho neuronal»: circuitos evolutivos lo bastante similares y flexibles. Leer recicla áreas visuales. Calcular recicla circuitos de cantidad.
 
 <!-- paragraph -->
 Diferente de <span class="term">exaptación</span> evolutiva (lenta, genética): el reciclaje ocurre en días o años dentro de un individuo. <span class="person">Nabokov</span> subrayaba lo milagroso de que signos escritos contengan mundos.
@@ -204,7 +204,7 @@ Educar es reconverter circuitos ancestrales hacia funciones culturales nuevas.
 Primer pilar: <span class="term">atención</span> selecciona información bajo saturación sensorial. <span class="person">Michael Posner</span> distingue alerta, orientación y control ejecutivo. Sin atención, aprender es buscar una aguja en un pajar.
 
 <!-- paragraph -->
-<span class="person">Yoshua Bengio</span> y <span class="person">Kyunghyun Cho</span> (<span class="num">2014</span>) integraron atención en traducción automática; hoy las IA «iluminan» píxeles relevantes. En humanos, la atención consciente amplifica disparos hasta la corteza prefrontal y favorece potenciación a largo plazo.
+<span class="person">Yoshua Bengio</span> y <span class="person">Kyunghyun Cho</span> (<span class="num">2014</span>) integraron atención en traducción automática. Hoy las IA «iluminan» píxeles relevantes. En humanos, la atención consciente amplifica disparos hasta la corteza prefrontal y favorece potenciación a largo plazo.
 
 <!-- paragraph -->
 Sistemas de alerta (dopamina, acetilcolina) pueden reabrir plasticidad —experimentos de <span class="person">Michael Merzenich</span> en ratones. Pasión temprana puede invadir mapas corticales.
@@ -220,13 +220,13 @@ Sin atención correcta no hay aprendizaje profundo; el docente debe capturar y g
 ## title: Compromiso activo
 
 <!-- paragraph lead -->
-Segundo pilar: <span class="term">compromiso activo</span>. El experimento de carrusel de <span class="person">Richard Held</span> y <span class="person">Alan Hein</span> (<span class="num">1963</span>): gatitos activos desarrollan visión normal; pasivos quedan ciegos funcionales.
+El segundo pilar es el <span class="term">compromiso activo</span>. El experimento de carrusel de <span class="person">Richard Held</span> y <span class="person">Alan Hein</span> (<span class="num">1963</span>) mostró que gatitos activos desarrollan visión normal. Los pasivos quedan ciegos funcionales.
 
 <!-- paragraph -->
 Activo no es fidgeting: es generar hipótesis y probarlas mentalmente. El efecto de <span class="term">profundidad de procesamiento</span>: quien juzga si una palabra es animal la recuerda ~<span class="num">75 %</span> vs. ~<span class="num">33 %</span> quien mira mayúsculas. La corteza frontal y el hipocampo predicen recuerdo futuro.
 
 <!-- paragraph -->
-<span class="person">Henry Roediger</span>: dificultad deseable que exige esfuerzo cognitivo mejora retención. Pasividad deja huellas mínimas.
+<span class="person">Henry Roediger</span> mostró que la dificultad deseable que exige esfuerzo cognitivo mejora la retención. La pasividad deja huellas mínimas.
 
 <!-- key -->
 El cerebro aprende formulando modelos y sometiéndolos a prueba, no acumulando datos pasivamente.
@@ -239,10 +239,10 @@ El cerebro aprende formulando modelos y sometiéndolos a prueba, no acumulando d
 ## title: Retroalimentación del error
 
 <!-- paragraph lead -->
-Tercer pilar: <span class="term">retroalimentación del error</span>. <span class="person">Alexander Grothendieck</span> creyó π=3 por trazar círculos; su «error» fue descubrimiento genuino. Sin error no hay progreso.
+El tercer pilar es la <span class="term">retroalimentación del error</span>. <span class="person">Alexander Grothendieck</span> creyó π=3 por trazar círculos. Su «error» fue descubrimiento genuino. Sin error no hay progreso.
 
 <!-- paragraph -->
-<span class="person">Robert Rescorla</span> y <span class="person">Allan Wagner</span>: el cerebro aprende solo si hay <span class="term">error de predicción</span> —«organisms only learn when events violate their expectations». La sorpresa impulsa condicionamiento pavloviano y reglas delta del aprendizaje automático.
+<span class="person">Robert Rescorla</span> y <span class="person">Allan Wagner</span> mostraron que el cerebro aprende solo si hay <span class="term">error de predicción</span>: «organisms only learn when events violate their expectations». La sorpresa impulsa el condicionamiento pavloviano y las reglas delta del aprendizaje automático.
 
 <!-- paragraph -->
 Los tres pilares se entrelazan: atención selecciona inputs, compromiso activo genera predicciones, error las corrige.
@@ -262,10 +262,10 @@ La calidad del feedback determina la velocidad de aprendizaje.
 ## title: Consolidación
 
 <!-- paragraph lead -->
-Cuarto pilar: <span class="term">consolidación</span>. Un lector principiante tarda ~<span class="num">0,2 s</span> por letra; tras ~<span class="num">3 años</span> lee palabras de 3–8 letras en paralelo. Lo consciente y lento se automatiza.
+El cuarto pilar es la <span class="term">consolidación</span>. Un lector principiante tarda ~<span class="num">0,2 s</span> por letra. Después de ~<span class="num">3 años</span> lee palabras de 3–8 letras en paralelo. Lo consciente y lento se automatiza.
 
 <!-- paragraph -->
-Lectores expertos liberan corteza parietal/prefrontal; la lectura migra a circuitos especializados (<span class="term">área de forma visual de palabras</span>). Igual ocurre con mecanografía, música o cálculo —control pasa a ganglios basales.
+Los lectores expertos liberan corteza parietal y prefrontal. La lectura migra a circuitos especializados (<span class="term">área de forma visual de palabras</span>). Igual ocurre con mecanografía, música o cálculo: el control pasa a ganglios basales.
 
 <!-- paragraph -->
 El <span class="term">sueño</span> consolida: desde <span class="person">Jenkins y Dallenbach</span> (<span class="num">1924</span>) se sabe que distribuir estudio y dormir multiplica retención. De noche el cerebro replaya lo importante.
@@ -287,10 +287,10 @@ Automatizar libera recursos ejecutivos para tareas superiores; el sueño es part
 ## title: Reconciliar educación y neurociencia
 
 <!-- paragraph lead -->
-Mitad a desechar: bebés no son esponjas pasivas; plasticidad no es ilimitada; errores son necesarios; sueño no es descanso vacío; las máquinas no superan un recién nacido en eficiencia global.
+Mitad a desechar: los bebés no son esponjas pasivas. La plasticidad no es ilimitada. Los errores son necesarios. El sueño no es descanso vacío. Las máquinas no superan un recién nacido en eficiencia global.
 
 <!-- paragraph -->
-Dehaene lista mensajes prácticos: no subestimar niños; aprovechar ventanas sensibles del lenguaje; enriquecer entorno; enseñar con los cuatro pilares (atención, compromiso, error, consolidación); valorar sueño y espaciado; formar docentes en ciencia del aprendizaje.
+Dehaene lista mensajes prácticos: no subestimar niños, aprovechar ventanas sensibles del lenguaje, enriquecer entorno, enseñar con los cuatro pilares (atención, compromiso, error, consolidación), valorar sueño y espaciado, formar docentes en ciencia del aprendizaje.
 
 <!-- paragraph -->
 Comparaciones TIMSS alarman: países como Francia cayeron en matemáticas mientras Asia avanza —la ciencia del aprendizaje puede invertir la tendencia si se aplica en aula y política.
