@@ -71,10 +71,19 @@ function normalizeEntry(
   return entry
 }
 
+export type CorpusSearchScope = 'read' | 'all'
+
 export function getDoneBookSlugs(): string[] {
   return bookCatalog
     .map((book) => book.slug)
     .filter((slug) => getBookReadingStatus(slug) === 'done')
+}
+
+export function getSearchableSlugs(scope: CorpusSearchScope = 'read'): string[] {
+  if (scope === 'all') {
+    return bookCatalog.map((book) => book.slug)
+  }
+  return getDoneBookSlugs()
 }
 
 export async function loadBookIndex(slug: string): Promise<CorpusIndex | null> {
@@ -106,13 +115,14 @@ export async function loadBookIndex(slug: string): Promise<CorpusIndex | null> {
 
 export async function searchCorpus(
   query: string,
-  maxResults = 24,
+  options: { maxResults?: number; scope?: CorpusSearchScope } = {},
 ): Promise<CorpusSearchResult[]> {
+  const { maxResults = 24, scope = 'read' } = options
   const q = normalize(query.trim())
   if (!q) return []
 
-  const doneSlugs = getDoneBookSlugs()
-  const indexes = await Promise.all(doneSlugs.map((slug) => loadBookIndex(slug)))
+  const slugs = getSearchableSlugs(scope)
+  const indexes = await Promise.all(slugs.map((slug) => loadBookIndex(slug)))
   const results: CorpusSearchResult[] = []
 
   for (const index of indexes) {
