@@ -87,7 +87,7 @@ const filteredCatalog = computed(() => {
 const statusFilters: Array<{ id: StatusFilter; label: string }> = [
   { id: 'all', label: 'Todos' },
   { id: 'reading', label: 'En curso' },
-  { id: 'new', label: 'Por hacer' },
+  { id: 'new', label: 'Por leer' },
   { id: 'done', label: 'Leídos' },
   { id: 'audio', label: 'Con audio' },
 ]

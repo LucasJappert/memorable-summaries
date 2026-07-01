@@ -50,6 +50,11 @@
   gap: 0.35rem;
 }
 .library-filter {
+  display: inline-flex;
+  align-items: center;
+  flex: 0 0 auto;
+  width: auto;
+  max-width: 100%;
   padding: 0.32rem 0.62rem;
   border-radius: 999px;
   border: 1px solid rgba(42, 48, 80, 0.75);
