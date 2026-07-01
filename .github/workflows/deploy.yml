@@ -29,6 +29,7 @@ jobs:
       - run: npm run build
         env:
           VITE_BASE_PATH: /memorable-summaries/
+          VITE_SITE_URL: https://lucasjappert.github.io
 
       - name: Verificar build de producción
         run: |

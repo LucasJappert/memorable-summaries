@@ -23,10 +23,18 @@ function renderSeoHead(options) {
   const description = escapeHtml(options.description)
   const canonicalUrl = escapeHtml(options.canonicalUrl)
   const imageUrl = escapeHtml(options.imageUrl)
+  const imageWidth = options.imageWidth
+  const imageHeight = options.imageHeight
 
   const jsonLdBlock = options.jsonLd
     ? `\n    <script type="application/ld+json">${JSON.stringify(options.jsonLd)}</script>`
     : ''
+
+  const imageDimensionTags =
+    imageWidth && imageHeight
+      ? `\n    <meta property="og:image:width" content="${imageWidth}" />
+    <meta property="og:image:height" content="${imageHeight}" />`
+      : ''
 
   return `    <meta charset="UTF-8" />
     <meta name="viewport" content="${VIEWPORT}" />
@@ -37,7 +45,7 @@ function renderSeoHead(options) {
     <meta property="og:url" content="${canonicalUrl}" />
     <meta property="og:title" content="${title}" />
     <meta property="og:description" content="${description}" />
-    <meta property="og:image" content="${imageUrl}" />
+    <meta property="og:image" content="${imageUrl}" />${imageDimensionTags}
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="${title}" />
     <meta name="twitter:description" content="${description}" />
@@ -62,12 +70,15 @@ ${headInner}${assetsBlock}
 
 function patchHomeIndexHtml(indexHtml) {
   const { headAssets, bodyScripts } = extractBuiltAssets(indexHtml)
+  const homeImage = HOME_SEO.image()
   const headInner = renderSeoHead({
     title: HOME_SEO.title,
     description: HOME_SEO.description,
     canonicalUrl: HOME_SEO.canonicalUrl(),
     ogType: 'website',
-    imageUrl: HOME_SEO.imageUrl(),
+    imageUrl: homeImage.url,
+    imageWidth: homeImage.width,
+    imageHeight: homeImage.height,
   })
 
   return renderHtmlPage(headInner, headAssets, bodyScripts)
@@ -86,6 +97,8 @@ function generateBookPages(headAssets, bodyScripts) {
       canonicalUrl: entry.canonicalUrl,
       ogType: 'article',
       imageUrl: entry.imageUrl,
+      imageWidth: entry.imageWidth,
+      imageHeight: entry.imageHeight,
       jsonLd: buildBookJsonLd(entry),
     })
 

@@ -133,6 +133,7 @@ COVER_ISBN: dict[str, str | list[str]] = {
     "cosmos": "9780345539434",
     "blind-watchmaker": "9780141026169",
     "life-3-0": ["9781101946596", "1101946598"],
+    "how-we-learn": "9780525559887",
 }
 
 # EPUB alternativo cuando el de fuentes/ falla (MOBI, DRM, etc.)

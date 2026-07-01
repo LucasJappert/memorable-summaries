@@ -9,6 +9,8 @@ export interface PageMetaInput {
   ogType?: 'website' | 'article'
   /** Ruta relativa o URL absoluta */
   ogImage?: string
+  ogImageWidth?: number
+  ogImageHeight?: number
   jsonLd?: Record<string, unknown> | Record<string, unknown>[]
 }
 
@@ -81,6 +83,12 @@ function setPageMeta(meta: PageMetaInput): void {
   if (ogImage) {
     setMetaTag('property', 'og:image', ogImage)
     setMetaTag('name', 'twitter:image', ogImage)
+    if (meta.ogImageWidth) {
+      setMetaTag('property', 'og:image:width', String(meta.ogImageWidth))
+    }
+    if (meta.ogImageHeight) {
+      setMetaTag('property', 'og:image:height', String(meta.ogImageHeight))
+    }
   }
 
   setMetaTag('name', 'twitter:card', 'summary_large_image')
