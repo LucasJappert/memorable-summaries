@@ -1,6 +1,7 @@
 <script setup lang="ts">
 import { computed } from 'vue'
 import { RouterLink } from 'vue-router'
+import SectionPageHero from '../components/SectionPageHero.vue'
 import { bookCatalog, getBookBySlug } from '../books/catalog'
 import { READING_PHASES } from '../books/reading-phases'
 import { getBookReadingStatus } from '../reading/status'
@@ -67,19 +68,17 @@ const totalConcepts = computed(() =>
 </script>
 
 <template>
-  <div class="concept-index-page">
-    <main class="concept-index">
-      <header class="concept-index__hero">
-        <RouterLink to="/" class="concept-index__back">← Biblioteca</RouterLink>
-        <p class="concept-index__label">Conceptos que viste</p>
-        <h1 class="concept-index__title">Glosario por fase</h1>
-        <p v-if="totalConcepts > 0" class="concept-index__count">
-          {{ totalConcepts }} conceptos de libros leídos
-        </p>
-        <p v-else class="concept-index__empty">
-          Aún no hay conceptos: marcá libros como leídos al llegar a «Conceptos clave».
-        </p>
-      </header>
+  <div class="section-page concept-index-page">
+    <main class="section-page__inner concept-index">
+      <SectionPageHero
+        variant="concepts"
+        title="Conceptos"
+        :subtitle="
+          totalConcepts > 0
+            ? `${totalConcepts} conceptos de libros leídos, agrupados por fase.`
+            : 'Marcá libros como leídos al llegar a «Figuras clave» para ver sus conceptos aquí.'
+        "
+      />
 
       <section
         v-for="group in phaseGroups"
@@ -107,3 +106,5 @@ const totalConcepts = computed(() =>
     </main>
   </div>
 </template>
+
+<style src="./ConceptIndexView.css"></style>

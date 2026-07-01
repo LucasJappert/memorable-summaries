@@ -1,0 +1,159 @@
+.tensions__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+}
+
+.tension-card {
+  margin-bottom: 0;
+  padding: 1.1rem 1.15rem;
+  border-radius: calc(var(--radius) + 2px);
+  border: 1px solid rgba(124, 140, 240, 0.28);
+  background: linear-gradient(
+    145deg,
+    rgba(24, 30, 58, 0.92),
+    rgba(14, 18, 34, 0.88)
+  );
+}
+
+.tension-card--locked {
+  border-color: rgba(42, 48, 80, 0.65);
+  background: rgba(18, 24, 43, 0.72);
+}
+
+.tension-card__head {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+.tension-card__badge {
+  flex-shrink: 0;
+  padding: 0.2rem 0.5rem;
+  border-radius: 999px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  color: var(--text2);
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.tension-card__badge--done {
+  color: var(--accent3);
+  border-color: rgba(124, 240, 200, 0.35);
+  background: rgba(124, 240, 200, 0.08);
+}
+
+.tension-card__checklist {
+  list-style: none;
+  margin: 0 0 0.65rem;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+}
+
+.tension-card__check-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  min-width: 0;
+}
+
+.tension-card__check {
+  flex-shrink: 0;
+  width: 1.25rem;
+  text-align: center;
+  font-size: 0.85rem;
+  color: var(--text2);
+  opacity: 0.55;
+}
+
+.tension-card__check--done {
+  color: var(--accent3);
+  opacity: 1;
+}
+
+.tension-card__hint {
+  margin-left: auto;
+  flex-shrink: 0;
+  font-size: 0.72rem;
+  color: var(--text2);
+  opacity: 0.85;
+}
+
+.tension-card__locked-msg {
+  margin: 0;
+  padding-top: 0.35rem;
+  font-size: 0.82rem;
+  color: var(--text2);
+  font-style: italic;
+}
+
+.tension-card--compact {
+  margin-bottom: 0.85rem;
+  padding: 0.85rem 1rem;
+}
+
+.tension-card__title {
+  margin: 0;
+  font-size: 1rem;
+  color: var(--accent2);
+}
+
+.tension-card__books {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.45rem 0.65rem;
+  margin-bottom: 0.85rem;
+}
+
+.tension-card__book {
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--accent3);
+  text-decoration: none;
+}
+
+.tension-card__vs {
+  color: var(--text2);
+  font-size: 0.85rem;
+}
+
+.tension-card__line {
+  margin: 0 0 0.55rem;
+  padding-left: 0.75rem;
+  border-left: 2px solid rgba(124, 240, 200, 0.35);
+  font-size: 0.88rem;
+  font-style: italic;
+  color: var(--text2);
+  line-height: 1.5;
+}
+
+.tension-card__line--b {
+  border-left-color: rgba(124, 140, 240, 0.4);
+}
+
+.tension-card__synthesis {
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.tension-card__synthesis p {
+  margin: 0 0 0.45rem;
+  font-size: 0.88rem;
+  line-height: 1.55;
+  color: var(--text);
+}
+
+.tension-card__synthesis p:last-child {
+  margin-bottom: 0;
+}

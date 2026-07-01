@@ -1,0 +1,16 @@
+
+.btn-primary,
+.quick-review__cta,
+.phase-recap__cta {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.65rem 1.1rem;
+  border-radius: var(--radius);
+  background: var(--accent);
+  color: var(--bg);
+  text-decoration: none;
+  border: none;
+  font: inherit;
+  cursor: pointer;
+}

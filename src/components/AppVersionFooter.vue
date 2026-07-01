@@ -11,3 +11,5 @@ import { APP_VERSION } from '../version'
     </RouterLink>
   </footer>
 </template>
+
+<style src="./AppVersionFooter.css"></style>

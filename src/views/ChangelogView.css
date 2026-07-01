@@ -1,0 +1,187 @@
+/* Changelog */
+.changelog-page {
+  position: relative;
+  z-index: 2;
+  min-height: 100dvh;
+}
+.changelog {
+  max-width: var(--layout-max);
+  margin: 0 auto;
+  padding: 0.75rem var(--gutter-left) 2.5rem var(--gutter-right);
+}
+.changelog__hero {
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid rgba(42, 48, 80, 0.55);
+}
+.changelog__back {
+  display: inline-block;
+  margin-bottom: 0.75rem;
+  font-size: 0.8125rem;
+  color: var(--text2);
+  text-decoration: none;
+}
+@media (hover: hover) {
+  .changelog__back:hover {
+    color: var(--accent3);
+  }
+}
+.changelog__hero-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+.changelog__title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+.changelog__version-chip {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.28rem 0.65rem;
+  border-radius: 999px;
+  border: 1px solid rgba(124, 140, 240, 0.45);
+  background: rgba(36, 44, 82, 0.88);
+  color: var(--accent);
+  font-size: 0.8125rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+.changelog__version {
+  margin-bottom: 1.5rem;
+}
+.changelog__version-head {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem 0.75rem;
+  margin-bottom: 1rem;
+}
+.changelog__version-number {
+  font-size: 1.125rem;
+  font-weight: 700;
+  color: var(--accent);
+}
+.changelog__latest {
+  padding: 0.15rem 0.45rem;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--accent3) 22%, var(--surface));
+  border: 1px solid color-mix(in srgb, var(--accent3) 45%, transparent);
+  color: var(--accent3);
+  font-size: 0.6875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.changelog__date {
+  font-size: 0.8125rem;
+  color: var(--text2);
+}
+.changelog__category {
+  margin-bottom: 1.1rem;
+}
+.changelog__category-chip {
+  display: inline-flex;
+  align-items: center;
+  margin-bottom: 0.55rem;
+  padding: 0.2rem 0.55rem;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+.changelog__category-chip--success {
+  color: #0a1814;
+  background: linear-gradient(145deg, #b8f5e4, var(--accent3));
+  border: 1px solid rgba(255, 255, 255, 0.25);
+}
+.changelog__category-chip--info {
+  color: var(--text);
+  background: color-mix(in srgb, var(--accent) 24%, var(--surface));
+  border: 1px solid color-mix(in srgb, var(--accent) 45%, transparent);
+}
+.changelog__category-chip--warning {
+  color: #1a1408;
+  background: linear-gradient(145deg, #ffe2c4, var(--accent2));
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+.changelog__changes {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+  padding-left: 0.35rem;
+}
+.changelog__change-title {
+  font-size: 0.9375rem;
+  font-weight: 600;
+  line-height: 1.45;
+}
+.changelog__change-desc {
+  margin-top: 0.25rem;
+  padding-left: 0.85rem;
+  font-size: 0.875rem;
+  color: var(--text2);
+  line-height: 1.5;
+}
+.changelog__subitems {
+  list-style: none;
+  margin-top: 0.35rem;
+  padding-left: 1.1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+.changelog__subitem {
+  position: relative;
+  padding-left: 0.85rem;
+  font-size: 0.875rem;
+  color: var(--text2);
+  line-height: 1.5;
+}
+.changelog__subitem::before {
+  content: '›';
+  position: absolute;
+  left: 0;
+  color: var(--accent);
+  font-weight: 700;
+}
+.changelog__nested {
+  list-style: none;
+  margin-top: 0.25rem;
+  padding-left: 0.85rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+.changelog__nested li {
+  position: relative;
+  padding-left: 0.75rem;
+  font-size: 0.8125rem;
+  color: var(--text2);
+}
+.changelog__nested li::before {
+  content: '–';
+  position: absolute;
+  left: 0;
+  color: var(--text2);
+}
+.changelog__empty {
+  font-size: 0.875rem;
+  color: var(--text2);
+}
+.changelog__divider {
+  margin-top: 1.25rem;
+  border: none;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--border), transparent);
+}
+.changelog__more {
+  margin-top: 0.5rem;
+  text-align: center;
+  font-size: 0.8125rem;
+  color: var(--text2);
+}

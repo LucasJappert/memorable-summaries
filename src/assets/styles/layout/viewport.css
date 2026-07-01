@@ -1,0 +1,29 @@
+
+/* Shared viewport tokens — affect many components */
+@media (max-width: 1023px) {
+  :root {
+    --gutter: 0.75rem;
+    --gutter-left: max(var(--gutter), env(safe-area-inset-left, 0px));
+    --gutter-right: max(var(--gutter), env(safe-area-inset-right, 0px));
+  }
+}
+
+@media (min-width: 768px) {
+  :root {
+    --layout-max: 960px;
+    --gutter: 1.25rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  :root {
+    --layout-max: 1180px;
+    --gutter: 1.5rem;
+  }
+}
+
+@media (min-width: 1280px) {
+  :root {
+    --layout-max: 1280px;
+  }
+}

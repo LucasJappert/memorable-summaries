@@ -5,3 +5,5 @@
   <div class="star-orange" aria-hidden="true" />
   <div class="star-bright" aria-hidden="true" />
 </template>
+
+<style src="./starfield.css"></style>

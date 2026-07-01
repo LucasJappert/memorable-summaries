@@ -121,3 +121,5 @@ onUnmounted(() => window.removeEventListener('keydown', onKeydown))
     </Transition>
   </Teleport>
 </template>
+
+<style src="./SearchSheet.css"></style>

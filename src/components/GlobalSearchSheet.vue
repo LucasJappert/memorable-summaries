@@ -1,142 +1,140 @@
-<script setup lang="ts">
-import { computed, onMounted, onUnmounted, ref, watch } from 'vue'
-import { useRouter } from 'vue-router'
-import { searchCorpus, type CorpusSearchResult } from '../search/corpus-search'
-import { readingRevision } from '../reading/revision'
-
-const props = defineProps<{
-  open: boolean
-}>()
-
-const emit = defineEmits<{
-  close: []
-}>()
-
-const router = useRouter()
-const query = ref('')
-const inputRef = ref<HTMLInputElement | null>(null)
-const results = ref<CorpusSearchResult[]>([])
-const searching = ref(false)
-let searchTimer: ReturnType<typeof setTimeout> | null = null
-
-const normalizedQuery = computed(() => query.value.trim())
-
-const emptyHint = computed(() => {
-  if (!normalizedQuery.value) {
-    return 'Escribí para buscar solo en libros que ya leíste.'
-  }
-  if (searching.value) return 'Buscando…'
-  return `Sin resultados para «${normalizedQuery.value}»`
-})
-
-function close() {
-  emit('close')
-}
-
-function onSelect(result: CorpusSearchResult) {
-  close()
-  void router.push(`/libro/${result.slug}#${result.sectionId}`)
-}
-
-function onKeydown(event: KeyboardEvent) {
-  if (event.key === 'Escape') close()
-}
-
-async function runSearch(q: string) {
-  if (!q.trim()) {
-    results.value = []
-    searching.value = false
-    return
-  }
-  searching.value = true
-  readingRevision.value
-  results.value = await searchCorpus(q)
-  searching.value = false
-}
-
-watch(
-  () => props.open,
-  (open) => {
-    if (open) {
-      query.value = ''
-      results.value = []
-      requestAnimationFrame(() => inputRef.value?.focus())
-    }
-  },
-)
-
-watch(query, (value) => {
-  if (searchTimer) clearTimeout(searchTimer)
-  searchTimer = setTimeout(() => {
-    void runSearch(value)
-  }, 180)
-})
-
-onMounted(() => window.addEventListener('keydown', onKeydown))
-onUnmounted(() => {
-  window.removeEventListener('keydown', onKeydown)
-  if (searchTimer) clearTimeout(searchTimer)
-})
-</script>
-
-<template>
-  <Teleport to="body">
-    <Transition name="book-search">
-      <div
-        v-if="open"
-        class="global-search book-search-sheet"
-        data-open="true"
-        role="presentation"
-      >
-        <button
-          type="button"
-          class="book-search-sheet__backdrop"
-          aria-label="Cerrar búsqueda"
-          @click="close"
-        />
-
-        <div class="book-search-sheet__panel" role="dialog" aria-label="Buscar en libros leídos">
-          <div class="book-search-sheet__header">
-            <label class="book-search-sheet__field">
-              <svg class="book-search-sheet__field-icon" viewBox="0 0 24 24" aria-hidden="true">
-                <path
-                  d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0016 9.5 6.5 6.5 0 109.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C8.01 14 6 11.99 6 9.5S8.01 5 10.5 5 15 7.01 15 9.5 12.99 14 10.5 14z"
-                  fill="currentColor"
-                />
-              </svg>
-              <input
-                ref="inputRef"
-                v-model="query"
-                type="search"
-                enterkeyhint="search"
-                placeholder="Buscar en libros leídos…"
-                autocomplete="off"
-                autocapitalize="off"
-              />
-            </label>
-            <button type="button" class="book-search-sheet__close" aria-label="Cerrar" @click="close">
-              ✕
-            </button>
-          </div>
-
-          <p class="global-search__hint">Solo libros marcados como leídos · ⌘K / Ctrl+K</p>
-
-          <ul class="book-search-sheet__list">
-            <li v-if="results.length === 0" class="book-search-sheet__empty">
-              {{ emptyHint }}
-            </li>
-            <li v-for="(item, index) in results" :key="`${item.slug}-${item.sectionId}-${index}`">
-              <button type="button" class="global-search__item book-search-sheet__item" @click="onSelect(item)">
-                <span class="global-search__meta">
-                  <span class="global-search__book">{{ item.bookTitle }}</span>
-                  <span class="global-search__section">{{ item.sectionTitle }}</span>
-                </span>
-                <span class="global-search__snippet">{{ item.snippet }}</span>
-              </button>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </Transition>
-  </Teleport>
-</template>
+<script setup lang="ts">
+import { computed, onMounted, onUnmounted, ref, watch } from 'vue'
+import { useRouter } from 'vue-router'
+import { searchCorpus, type CorpusSearchResult } from '../search/corpus-search'
+import { readingRevision } from '../reading/revision'
+import { highlightSearchText } from '../utils/highlight-text'
+
+const open = defineModel<boolean>('open', { required: true })
+
+const router = useRouter()
+const query = ref('')
+const inputRef = ref<HTMLInputElement | null>(null)
+const results = ref<CorpusSearchResult[]>([])
+const searching = ref(false)
+let searchTimer: ReturnType<typeof setTimeout> | null = null
+
+const normalizedQuery = computed(() => query.value.trim())
+
+const emptyHint = computed(() => {
+  if (!normalizedQuery.value) {
+    return 'Escribí para buscar solo en libros que ya leíste.'
+  }
+  if (searching.value) return 'Buscando…'
+  return `Sin resultados para «${normalizedQuery.value}»`
+})
+
+function close() {
+  open.value = false
+}
+
+function onSelect(result: CorpusSearchResult) {
+  close()
+  void router.push(`/libro/${result.slug}#${result.sectionId}`)
+}
+
+function highlighted(text: string): string {
+  return highlightSearchText(text, normalizedQuery.value)
+}
+
+function onKeydown(event: KeyboardEvent) {
+  if (event.key === 'Escape' && open.value) close()
+}
+
+async function runSearch(q: string) {
+  if (!q.trim()) {
+    results.value = []
+    searching.value = false
+    return
+  }
+  searching.value = true
+  readingRevision.value
+  results.value = await searchCorpus(q)
+  searching.value = false
+}
+
+watch(open, (isOpen) => {
+  if (isOpen) {
+    query.value = ''
+    results.value = []
+    requestAnimationFrame(() => inputRef.value?.focus())
+  }
+})
+
+watch(query, (value) => {
+  if (searchTimer) clearTimeout(searchTimer)
+  searchTimer = setTimeout(() => {
+    void runSearch(value)
+  }, 180)
+})
+
+onMounted(() => window.addEventListener('keydown', onKeydown))
+onUnmounted(() => {
+  window.removeEventListener('keydown', onKeydown)
+  if (searchTimer) clearTimeout(searchTimer)
+})
+</script>
+
+<template>
+  <Teleport to="body">
+    <Transition name="book-search">
+      <div
+        v-if="open"
+        class="global-search book-search-sheet"
+        role="presentation"
+        @click.self="close"
+      >
+        <div
+          class="book-search-sheet__panel"
+          role="dialog"
+          aria-modal="true"
+          aria-label="Buscar en libros leídos"
+          @click.stop
+        >
+          <div class="book-search-sheet__header">
+            <label class="book-search-sheet__field">
+              <svg class="book-search-sheet__field-icon" viewBox="0 0 24 24" aria-hidden="true">
+                <path
+                  d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0016 9.5 6.5 6.5 0 109.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C8.01 14 6 11.99 6 9.5S8.01 5 10.5 5 15 7.01 15 9.5 12.99 14 10.5 14z"
+                  fill="currentColor"
+                />
+              </svg>
+              <input
+                ref="inputRef"
+                v-model="query"
+                type="search"
+                enterkeyhint="search"
+                placeholder="Buscar en libros leídos…"
+                autocomplete="off"
+                autocapitalize="off"
+              />
+            </label>
+            <button type="button" class="book-search-sheet__close" aria-label="Cerrar" @click="close">
+              ✕
+            </button>
+          </div>
+
+          <p class="global-search__hint">Solo libros marcados como leídos · ⌘K / Ctrl+K</p>
+
+          <ul class="book-search-sheet__list">
+            <li v-if="results.length === 0" class="book-search-sheet__empty">
+              {{ emptyHint }}
+            </li>
+            <li v-for="(item, index) in results" :key="`${item.slug}-${item.sectionId}-${index}`">
+              <button type="button" class="global-search__item book-search-sheet__item" @click="onSelect(item)">
+                <span class="global-search__meta">
+                  <span class="global-search__book" v-html="highlighted(item.bookTitle)" />
+                  <span class="global-search__section" v-html="highlighted(item.sectionTitle)" />
+                </span>
+                <span class="global-search__snippet" v-html="highlighted(item.snippet)" />
+              </button>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </Transition>
+  </Teleport>
+</template>
+
+<style src="./SearchSheet.css"></style>
+

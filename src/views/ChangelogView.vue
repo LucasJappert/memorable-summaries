@@ -120,3 +120,5 @@ usePageMeta(
     </main>
   </div>
 </template>
+
+<style src="./ChangelogView.css"></style>

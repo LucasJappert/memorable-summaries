@@ -383,3 +383,5 @@ defineExpose({ rootEl })
     </button>
   </div>
 </template>
+
+<style src="./AudioPlayer.css"></style>

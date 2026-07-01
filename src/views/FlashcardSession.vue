@@ -166,3 +166,5 @@ onMounted(() => {
     </div>
   </div>
 </template>
+
+<style src="./retention.css"></style>

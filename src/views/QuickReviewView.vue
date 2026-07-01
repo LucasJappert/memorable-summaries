@@ -55,3 +55,5 @@ function goToFlashcards() {
     <RouterLink to="/">Volver a la biblioteca</RouterLink>
   </div>
 </template>
+
+<style src="./retention.css"></style>

@@ -1,0 +1,240 @@
+/* Audio player — glass (iOS / WhatsApp style) */
+.audio-player {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  width: min(100%, 34rem);
+  margin: 1rem auto 0;
+  padding: 0.8rem 1rem;
+  border-radius: calc(var(--radius) + 4px);
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  isolation: isolate;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  background: rgba(14, 18, 32, 0.72);
+  box-shadow:
+    0 4px 24px rgba(0, 0, 0, 0.28),
+    inset 0 1px 0 rgba(255, 255, 255, 0.08);
+}
+@supports ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {
+  .audio-player {
+    background: rgba(12, 16, 30, 0.42);
+    backdrop-filter: blur(22px) saturate(165%);
+    -webkit-backdrop-filter: blur(22px) saturate(165%);
+  }
+}
+.audio-player::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  pointer-events: none;
+  z-index: 0;
+  background: linear-gradient(
+    165deg,
+    rgba(255, 255, 255, 0.14) 0%,
+    rgba(255, 255, 255, 0.04) 38%,
+    transparent 62%
+  );
+}
+.audio-player > * {
+  position: relative;
+  z-index: 1;
+}
+.audio-player--floating {
+  position: fixed;
+  top: calc(env(safe-area-inset-top, 0px) + 3.15rem);
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 55;
+  width: min(calc(100% - var(--gutter-left) - var(--gutter-right)), 34rem);
+  margin: 0;
+  border-color: rgba(255, 255, 255, 0.14);
+  box-shadow:
+    0 10px 40px rgba(0, 0, 0, 0.45),
+    0 0 0 0.5px rgba(124, 140, 240, 0.2),
+    inset 0 1px 0 rgba(255, 255, 255, 0.1);
+}
+.audio-player--dock-top {
+  top: calc(env(safe-area-inset-top, 0px) + 0.55rem);
+  z-index: 54;
+}
+@media (min-width: 1024px) {
+  .audio-player--floating:not(.audio-player--dock-top) {
+    top: calc(env(safe-area-inset-top, 0px) + 4.15rem);
+    right: max(1.25rem, env(safe-area-inset-right, 0px));
+    left: auto;
+    transform: none;
+    width: min(26rem, calc(100vw - 2.5rem));
+  }
+}
+@supports ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {
+  .audio-player--floating {
+    background: rgba(10, 14, 28, 0.38);
+    backdrop-filter: blur(32px) saturate(185%);
+    -webkit-backdrop-filter: blur(32px) saturate(185%);
+  }
+}
+.hero__audio-wrap {
+  width: min(100%, 34rem);
+  margin: 0.85rem auto 0;
+}
+.hero__audio {
+  margin-top: 0;
+  width: 100%;
+}
+.hero__audio-spacer {
+  width: 100%;
+  pointer-events: none;
+}
+.audio-player__btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.06);
+  color: var(--accent3);
+  cursor: pointer;
+  transition: border-color 0.2s, background 0.2s, color 0.2s, box-shadow 0.2s;
+  -webkit-tap-highlight-color: transparent;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.06);
+}
+@supports ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {
+  .audio-player__btn {
+    background: rgba(255, 255, 255, 0.08);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+  }
+}
+.audio-player__btn--play {
+  width: 3rem;
+  height: 3rem;
+}
+.audio-player__btn--skip {
+  position: relative;
+  width: 2.7rem;
+  height: 2.7rem;
+  color: var(--text2);
+}
+.audio-player__skip-icon {
+  width: 1.2rem;
+  height: 1.2rem;
+}
+.audio-player__skip-icon--forward {
+  transform: scaleX(-1);
+}
+.audio-player__skip-label {
+  position: absolute;
+  right: 0.28rem;
+  bottom: 0.18rem;
+  font-size: 0.58rem;
+  font-weight: 700;
+  line-height: 1;
+  letter-spacing: -0.02em;
+  color: currentColor;
+  pointer-events: none;
+}
+.audio-player__btn:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+.audio-player__btn:active {
+  background: rgba(255, 255, 255, 0.12);
+  border-color: rgba(124, 140, 240, 0.45);
+}
+@media (hover: hover) {
+  .audio-player__btn:hover {
+    background: rgba(255, 255, 255, 0.14);
+    border-color: rgba(124, 140, 240, 0.5);
+    color: var(--accent);
+  }
+}
+.audio-player__icon {
+  width: 1.35rem;
+  height: 1.35rem;
+}
+.audio-player__track {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.42rem;
+  order: 0;
+}
+.audio-player__progress {
+  position: relative;
+  height: 0.5rem;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.08);
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.22);
+  cursor: pointer;
+  touch-action: none;
+  user-select: none;
+}
+.audio-player__progress--dragging {
+  cursor: grabbing;
+}
+.audio-player__progress:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+.audio-player__progress-fill {
+  position: absolute;
+  inset: 0 auto 0 0;
+  border-radius: inherit;
+  background: linear-gradient(90deg, var(--accent), var(--accent3));
+  pointer-events: none;
+}
+.audio-player__progress-thumb {
+  position: absolute;
+  top: 50%;
+  width: 0.95rem;
+  height: 0.95rem;
+  margin-left: -0.475rem;
+  border-radius: 50%;
+  background: var(--text);
+  box-shadow: 0 0 0 2px rgba(124, 140, 240, 0.35);
+  transform: translateY(-50%);
+  pointer-events: auto;
+  cursor: grab;
+  touch-action: none;
+  transition: transform 0.12s ease, box-shadow 0.12s ease;
+}
+.audio-player__progress:hover .audio-player__progress-thumb,
+.audio-player__progress:focus-visible .audio-player__progress-thumb {
+  transform: translateY(-50%) scale(1.12);
+}
+.audio-player__progress--dragging .audio-player__progress-thumb {
+  cursor: grabbing;
+  transform: translateY(-50%) scale(1.18);
+  box-shadow:
+    0 0 0 3px rgba(124, 140, 240, 0.45),
+    0 2px 8px rgba(0, 0, 0, 0.35);
+  transition: none;
+}
+.audio-player__progress-thumb::before {
+  content: '';
+  position: absolute;
+  inset: -0.55rem;
+}
+.audio-player__time {
+  font-size: 0.85rem;
+  font-variant-numeric: tabular-nums;
+  color: var(--text2);
+  text-align: left;
+  line-height: 1.2;
+}
+
+@media (max-width: 1023px) {
+  .audio-player {
+    width: 100%;
+    max-width: none;
+  }
+  .audio-player--floating {
+    width: calc(100% - var(--gutter-left) - var(--gutter-right));
+    max-width: none;
+  }
+}

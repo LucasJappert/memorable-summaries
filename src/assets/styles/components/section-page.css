@@ -1,0 +1,223 @@
+/* Secondary views: Conceptos, Tensiones, etc. */
+
+.section-page {
+  min-height: 100dvh;
+  padding:
+    max(0.65rem, env(safe-area-inset-top, 0px))
+    max(var(--gutter-right), env(safe-area-inset-right, 0px))
+    0
+    max(var(--gutter-left), env(safe-area-inset-left, 0px));
+}
+
+.section-page__inner {
+  max-width: 42rem;
+  margin: 0 auto;
+}
+
+.section-hero {
+  margin-bottom: 1.35rem;
+}
+
+.section-hero__panel {
+  position: relative;
+  padding: 1rem 1.15rem 1.05rem;
+  border-radius: calc(var(--radius) + 4px);
+  border: 1px solid rgba(124, 140, 240, 0.22);
+  background: linear-gradient(
+    145deg,
+    rgba(26, 34, 64, 0.92) 0%,
+    rgba(14, 18, 34, 0.78) 100%
+  );
+  box-shadow:
+    0 14px 42px rgba(0, 0, 0, 0.38),
+    inset 0 1px 0 rgba(255, 255, 255, 0.09);
+  overflow: hidden;
+  isolation: isolate;
+}
+
+@supports ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {
+  .section-hero__panel {
+    background: linear-gradient(
+      145deg,
+      rgba(22, 28, 52, 0.72) 0%,
+      rgba(12, 16, 30, 0.58) 100%
+    );
+    backdrop-filter: blur(18px) saturate(160%);
+    -webkit-backdrop-filter: blur(18px) saturate(160%);
+  }
+}
+
+.section-hero__panel::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  pointer-events: none;
+  background: linear-gradient(
+    165deg,
+    rgba(255, 255, 255, 0.1) 0%,
+    rgba(255, 255, 255, 0.02) 38%,
+    transparent 62%
+  );
+}
+
+.section-hero__panel::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(
+    90deg,
+    var(--accent) 0%,
+    var(--accent3) 52%,
+    var(--accent2) 100%
+  );
+  opacity: 0.9;
+  box-shadow: 0 0 18px rgba(124, 140, 240, 0.35);
+}
+
+.section-hero--tensions .section-hero__panel::after {
+  background: linear-gradient(90deg, var(--accent2) 0%, var(--accent) 55%, var(--accent3) 100%);
+}
+
+.section-hero--concepts .section-hero__panel::after {
+  background: linear-gradient(90deg, var(--accent3) 0%, var(--accent) 60%, #a8b4ff 100%);
+}
+
+.section-hero--library .section-hero__panel::after {
+  background: linear-gradient(90deg, var(--accent3) 0%, var(--accent) 48%, var(--accent2) 100%);
+}
+
+.section-hero__title {
+  position: relative;
+  z-index: 1;
+  margin: 0 0 0.4rem;
+}
+
+.section-hero__title-text {
+  display: block;
+  font-size: clamp(1.55rem, 5.5vw, 2.05rem);
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  line-height: 1.05;
+  background: linear-gradient(
+    118deg,
+    #ffffff 0%,
+    #dce2ff 28%,
+    var(--accent) 62%,
+    var(--accent3) 100%
+  );
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  filter: drop-shadow(0 2px 14px rgba(124, 140, 240, 0.28));
+}
+
+.section-hero--tensions .section-hero__title-text {
+  background: linear-gradient(
+    118deg,
+    #ffffff 0%,
+    #ffe8d4 30%,
+    var(--accent2) 58%,
+    var(--accent) 100%
+  );
+  -webkit-background-clip: text;
+  background-clip: text;
+  filter: drop-shadow(0 2px 14px rgba(240, 168, 124, 0.22));
+}
+
+.section-hero--concepts .section-hero__title-text {
+  background: linear-gradient(
+    118deg,
+    #ffffff 0%,
+    #d4ffe8 28%,
+    var(--accent3) 55%,
+    var(--accent) 100%
+  );
+  -webkit-background-clip: text;
+  background-clip: text;
+  filter: drop-shadow(0 2px 14px rgba(124, 240, 200, 0.24));
+}
+
+.section-hero--library .section-hero__title-text {
+  background: linear-gradient(
+    118deg,
+    #ffffff 0%,
+    #dce2ff 22%,
+    var(--accent) 58%,
+    var(--accent3) 100%
+  );
+  -webkit-background-clip: text;
+  background-clip: text;
+  filter: drop-shadow(0 2px 14px rgba(124, 140, 240, 0.3));
+}
+
+.section-hero__title-glow {
+  display: block;
+  width: 3.25rem;
+  height: 3px;
+  margin-top: 0.5rem;
+  border-radius: 999px;
+  background: linear-gradient(90deg, var(--accent), var(--accent3));
+  box-shadow:
+    0 0 14px rgba(124, 240, 200, 0.5),
+    0 0 28px rgba(124, 140, 240, 0.25);
+}
+
+.section-hero--tensions .section-hero__title-glow {
+  background: linear-gradient(90deg, var(--accent2), var(--accent));
+  box-shadow:
+    0 0 14px rgba(240, 168, 124, 0.45),
+    0 0 24px rgba(124, 140, 240, 0.2);
+}
+
+.section-hero--concepts .section-hero__title-glow {
+  background: linear-gradient(90deg, var(--accent3), var(--accent));
+  box-shadow:
+    0 0 14px rgba(124, 240, 200, 0.48),
+    0 0 22px rgba(124, 140, 240, 0.22);
+}
+
+.section-hero--library .section-hero__title-glow {
+  background: linear-gradient(90deg, var(--accent), var(--accent3));
+  box-shadow:
+    0 0 14px rgba(124, 140, 240, 0.45),
+    0 0 26px rgba(124, 240, 200, 0.28);
+}
+
+.section-hero__subtitle {
+  position: relative;
+  z-index: 1;
+  margin: 0;
+  font-size: 0.88rem;
+  color: var(--text2);
+  line-height: 1.5;
+}
+
+.section-hero__meta {
+  position: relative;
+  z-index: 1;
+  margin: 0.55rem 0 0;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--accent3);
+}
+
+.section-hero--tensions .section-hero__meta {
+  color: var(--accent2);
+}
+
+.section-hero--library .section-hero__meta {
+  color: var(--accent3);
+}
+
+.section-hero--library .library-hero__cta {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  width: 100%;
+  max-width: 100%;
+  margin-top: 0.7rem;
+}

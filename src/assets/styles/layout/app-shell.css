@@ -1,0 +1,4 @@
+/* Espacio inferior global: evita que AppBottomBar tape contenido al hacer scroll */
+.app-shell {
+  padding-bottom: calc(var(--bottom-bar-clearance) + env(safe-area-inset-bottom, 0px));
+}

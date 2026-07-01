@@ -1,0 +1,35 @@
+.review-nudge {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+  padding: 0.75rem 1rem;
+  border-radius: var(--radius);
+  border: 1px solid var(--accent3);
+  background: color-mix(in srgb, var(--accent3) 12%, var(--surface));
+}
+
+.review-nudge__text {
+  margin: 0;
+  font-size: 0.92rem;
+  line-height: 1.5;
+}
+
+.review-nudge__link {
+  color: var(--accent3);
+  font-weight: 600;
+}
+
+.review-nudge__dismiss {
+  flex-shrink: 0;
+  width: 1.75rem;
+  height: 1.75rem;
+  border: none;
+  border-radius: 999px;
+  background: transparent;
+  color: var(--text2);
+  font-size: 1.2rem;
+  line-height: 1;
+  cursor: pointer;
+}

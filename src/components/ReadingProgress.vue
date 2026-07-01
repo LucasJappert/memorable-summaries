@@ -11,3 +11,5 @@ const { progress } = useScrollProgress()
     aria-hidden="true"
   />
 </template>
+
+<style src="./ReadingProgress.css"></style>

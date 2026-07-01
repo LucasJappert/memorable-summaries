@@ -1,0 +1,2 @@
+/* Ensure content is above stars */
+.container, .toc, .footer, .page-layout, .site-header { position: relative; z-index: 2; }

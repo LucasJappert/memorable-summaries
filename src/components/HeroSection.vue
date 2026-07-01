@@ -109,3 +109,5 @@ onBeforeUnmount(() => {
     </div>
   </header>
 </template>
+
+<style src="./HeroSection.css"></style>

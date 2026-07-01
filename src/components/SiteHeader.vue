@@ -98,3 +98,5 @@ onUnmounted(() => {
     </div>
   </header>
 </template>
+
+<style src="./SiteHeader.css"></style>

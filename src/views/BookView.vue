@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, nextTick, onUnmounted, ref, watch } from 'vue'
+import { computed, nextTick, onUnmounted, ref, watch, watchEffect } from 'vue'
 import { getBookBySlug } from '../books/catalog'
 import { bookHasAudio } from '../books/audio-catalog'
 import ReadingProgress from '../components/ReadingProgress.vue'
@@ -9,13 +9,16 @@ import ConceptGrid from '../components/ConceptGrid.vue'
 import Timeline from '../components/Timeline.vue'
 import FiguresGrid from '../components/FiguresGrid.vue'
 import ClosingSection from '../components/ClosingSection.vue'
-import MobileBookBar from '../components/MobileBookBar.vue'
 import BookNavDrawer from '../components/BookNavDrawer.vue'
 import AudioPlayer from '../components/AudioPlayer.vue'
 import { useActiveSection } from '../composables/useActiveSection'
 import { useMediaQuery } from '../composables/useMediaQuery'
 import { usePageMeta } from '../composables/usePageMeta'
 import { useReadingPosition } from '../composables/useReadingPosition'
+import {
+  registerBookBottomBar,
+  unregisterBookBottomBar,
+} from '../composables/useAppBottomBar'
 import ReadCelebration from '../components/ReadCelebration.vue'
 import { absoluteUrl, bookOgImageUrl } from '../config/site'
 import {
@@ -193,6 +196,20 @@ function toggleAudio() {
 function scrollToCover() {
   window.scrollTo({ top: 0, behavior: 'smooth' })
 }
+
+watchEffect((onCleanup) => {
+  registerBookBottomBar({
+    hasAudio: hasAudio.value,
+    menuOpen: menuOpen.value,
+    audioOpen: audioVisible.value,
+    handlers: {
+      scrollToTop: scrollToCover,
+      toggleMenu,
+      toggleAudio,
+    },
+  })
+  onCleanup(() => unregisterBookBottomBar())
+})
 </script>
 
 <template>
@@ -270,15 +287,6 @@ function scrollToCover() {
       </main>
     </div>
 
-    <MobileBookBar
-      :has-audio="hasAudio"
-      :audio-open="audioVisible"
-      :menu-open="menuOpen"
-      @scroll-top="scrollToCover"
-      @toggle-menu="toggleMenu"
-      @toggle-audio="toggleAudio"
-    />
-
     <BookNavDrawer
       :open="menuOpen"
       :toc="navToc"
@@ -287,6 +295,8 @@ function scrollToCover() {
     />
   </div>
 </template>
+
+<style src="./BookView.css"></style>
 
 <style scoped>
 .footer-meta {

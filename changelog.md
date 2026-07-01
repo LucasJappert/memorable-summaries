@@ -1,5 +1,32 @@
 ### Changelog
 
+## [Versión 0.2.1]
+
+> 2026-07-01
+
+### Ajustes UX/UI
+
+-   📱 **Barra inferior unificada**
+    -   `AppBottomBar` reemplaza las barras móvil separadas de biblioteca y libro.
+    -   En biblioteca: inicio, búsqueda, continuar lectura y menú global.
+    -   En libro: biblioteca, portada, audio (si hay) e índice del capítulo, con barra de progreso de scroll.
+
+-   🧭 **Menú global de la app**
+    -   Drawer lateral con acceso a biblioteca, fases de lectura, conceptos y tensiones.
+    -   Cierra al navegar o con Escape; no compite con la búsqueda global.
+
+-   🎨 **Diseño modular**
+    -   Estilos globales divididos en `src/assets/styles/` (tokens, layout, utilidades).
+    -   CSS por componente/vista para mantenimiento más simple.
+    -   Hero reutilizable (`SectionPageHero`) en biblioteca, conceptos y tensiones.
+
+-   🔍 **Búsqueda global**
+    -   Resaltado de coincidencias en resultados (insensible a mayúsculas y tildes).
+    -   Atajo Ctrl/Cmd+K integrado desde la raíz de la app.
+
+-   ✨ **Microinteracciones**
+    -   Efecto *press ripple* adaptado a la nueva barra inferior y botones compactos.
+
 ## [Versión 0.2.0]
 
 > 2026-07-01
@@ -45,20 +72,20 @@
 -   ✅ **Panel al completar lectura**
     -   Puente al siguiente libro, «Ir al siguiente» y enlace a repaso.
 
--   📱 **Barra inferior en biblioteca (móvil)**
-    -   Pill con marca al navegar la estantería (navegación completa tipo libro: pendiente).
-
 ### Cambios/Mejoras
 
 -   📖 **Criterio «leído»**
     -   El libro cuenta como leído al llegar a **Figuras clave** (compatibilidad con progreso anterior en localStorage).
 
+-   ✍️ **Calidad de los resúmenes**
+    -   Revisión editorial (nivel B) de los 34 libros: prosa más clara, cierres sin repetición, menos estilo telegráfico.
+    -   Conversión mecánica MD → TS con `md-to-ts.py` y lint con `lint-summary.py`.
+    -   Regeneración de narración TTS para libros con audio tras actualizar textos.
+
 -   🛠️ **Pipeline e índice**
     -   `build-corpus-index.py` → `public/index/` (búsqueda, flashcards).
     -   `export-anki.py` para exportar tarjetas TSV.
-
--   🔊 **Narración**
-    -   Actualización de textos de audio para el catálogo actual de libros.
+    -   Prompt `01c-correccion-minima.md` para pulido conservador por sección.
 
 ## [Versión 0.1.0]
 

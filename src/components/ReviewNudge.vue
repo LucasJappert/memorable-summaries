@@ -47,3 +47,5 @@ function dismiss() {
     </button>
   </aside>
 </template>
+
+<style src="./ReviewNudge.css"></style>
