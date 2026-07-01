@@ -8,7 +8,7 @@ import {
 } from '../composables/useGlobalSearch'
 import { appNavMenuOpen, closeAppNavMenu, toggleAppNavMenu } from '../composables/useAppNavMenu'
 import { useAppBottomBarBook } from '../composables/useAppBottomBar'
-import { useNextInRoute } from '../composables/useNextInRoute'
+import { useNextInRoute, isContinueAction } from '../composables/useNextInRoute'
 import { useScrollProgress } from '../composables/useScrollProgress'
 import { readReadingPosition, hasMeaningfulScroll } from '../reading/storage'
 import { readingRevision } from '../reading/revision'
@@ -16,7 +16,7 @@ import AudioIcon from './icons/AudioIcon.vue'
 
 const route = useRoute()
 const { bookBarState } = useAppBottomBarBook()
-const { continueBook, continueStatus } = useNextInRoute()
+const { continueBook, continueSource, continueStatus } = useNextInRoute()
 
 const isBook = computed(() => route.name === 'book')
 const isLibrary = computed(() => route.name === 'library')
@@ -51,7 +51,7 @@ const continueActive = computed(() => {
 
 const continueLabel = computed(() => {
   if (!continueBook.value) return 'Repasar tarjetas'
-  return continueStatus.value === 'reading' ? 'Continuar lectura' : 'Siguiente libro'
+  return isContinueAction(continueSource.value) ? 'Continuar lectura' : 'Siguiente libro'
 })
 
 function isActive(name: string): boolean {

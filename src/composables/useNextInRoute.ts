@@ -1,7 +1,10 @@
 import { computed } from 'vue'
 import { bookCatalog, type BookCatalogEntry } from '../books/catalog'
 import { READING_ORDER_BY_SLUG } from '../books/reading-order'
+import { readAudioPosition } from '../reading/audio-storage'
+import { readLastVisitedBook } from '../reading/last-visited'
 import { getBookReadingStatus } from '../reading/status'
+import { readReadingPosition } from '../reading/storage'
 import { readingRevision } from '../reading/revision'
 
 const ORDERED_SLUGS = Object.entries(READING_ORDER_BY_SLUG)
@@ -29,31 +32,77 @@ export function getPreviousBook(slug: string): BookCatalogEntry | undefined {
   return findCatalogEntry(ORDERED_SLUGS[index - 1])
 }
 
-export function getContinueBook(): BookCatalogEntry | undefined {
+function getBookActivityUpdatedAt(slug: string): number {
+  const readingAt = readReadingPosition(slug)?.updatedAt ?? 0
+  const audioAt = readAudioPosition(slug)?.updatedAt ?? 0
+  return Math.max(readingAt, audioAt)
+}
+
+export type ContinueBookSource = 'last-visited' | 'active-reading' | 'next-new'
+
+export interface ContinueBookResult {
+  book: BookCatalogEntry
+  source: ContinueBookSource
+}
+
+function findMostRecentlyActiveReadingBook(): BookCatalogEntry | undefined {
+  let bestSlug: string | undefined
+  let bestUpdatedAt = 0
+
   for (const slug of ORDERED_SLUGS) {
-    if (getBookReadingStatus(slug) === 'reading') {
-      return findCatalogEntry(slug)
+    if (getBookReadingStatus(slug) !== 'reading') continue
+
+    const updatedAt = getBookActivityUpdatedAt(slug)
+    if (!bestSlug || updatedAt > bestUpdatedAt) {
+      bestSlug = slug
+      bestUpdatedAt = updatedAt
     }
   }
 
+  return bestSlug ? findCatalogEntry(bestSlug) : undefined
+}
+
+export function getContinueBookResult(): ContinueBookResult | undefined {
+  const lastVisited = readLastVisitedBook()
+  if (lastVisited) {
+    const entry = findCatalogEntry(lastVisited.slug)
+    if (entry) return { book: entry, source: 'last-visited' }
+  }
+
+  const activeReading = findMostRecentlyActiveReadingBook()
+  if (activeReading) return { book: activeReading, source: 'active-reading' }
+
   for (const slug of ORDERED_SLUGS) {
     if (getBookReadingStatus(slug) === 'new') {
-      return findCatalogEntry(slug)
+      const entry = findCatalogEntry(slug)
+      if (entry) return { book: entry, source: 'next-new' }
     }
   }
 
   return undefined
 }
 
+export function getContinueBook(): BookCatalogEntry | undefined {
+  return getContinueBookResult()?.book
+}
+
 export function bookDisplayTitle(book: BookCatalogEntry): string {
   return book.meta.titleEs?.trim() || book.meta.title
 }
 
+export function isContinueAction(source: ContinueBookSource | null | undefined): boolean {
+  return source === 'last-visited' || source === 'active-reading'
+}
+
 export function useNextInRoute() {
-  const continueBook = computed(() => {
+  const continueResult = computed(() => {
     readingRevision.value
-    return getContinueBook()
+    return getContinueBookResult()
   })
+
+  const continueBook = computed(() => continueResult.value?.book)
+
+  const continueSource = computed(() => continueResult.value?.source ?? null)
 
   const continueStatus = computed(() => {
     readingRevision.value
@@ -66,14 +115,17 @@ export function useNextInRoute() {
     const book = continueBook.value
     if (!book) return null
     const title = bookDisplayTitle(book)
-    return continueStatus.value === 'reading' ? `Continuar: ${title}` : `Siguiente: ${title}`
+    const prefix = isContinueAction(continueSource.value) ? 'Continuar' : 'Siguiente'
+    return `${prefix}: ${title}`
   })
 
   return {
     getNextBook,
     getPreviousBook,
     getContinueBook,
+    getContinueBookResult,
     continueBook,
+    continueSource,
     continueStatus,
     continueLabel,
   }

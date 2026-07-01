@@ -7,7 +7,7 @@ import AppVersionFooter from '../components/AppVersionFooter.vue'
 import BookCard from '../components/BookCard.vue'
 import ReviewNudge from '../components/ReviewNudge.vue'
 import SectionPageHero from '../components/SectionPageHero.vue'
-import { useNextInRoute, bookDisplayTitle } from '../composables/useNextInRoute'
+import { useNextInRoute, bookDisplayTitle, isContinueAction } from '../composables/useNextInRoute'
 import { usePageMeta } from '../composables/usePageMeta'
 import { defaultOgImageUrl } from '../config/site'
 import { countReadBooks, getBookReadingStatus } from '../reading/status'
@@ -24,7 +24,7 @@ type StatusFilter = 'all' | 'reading' | 'new' | 'done' | 'audio'
 
 const statusFilter = ref<StatusFilter>('all')
 
-const { continueBook, continueStatus } = useNextInRoute()
+const { continueBook, continueSource, continueStatus } = useNextInRoute()
 
 onMounted(() => {
   window.scrollTo(0, 0)
@@ -69,7 +69,7 @@ const continueLink = computed(() => {
 
 const continuePrefix = computed(() => {
   if (!continueBook.value) return null
-  return continueStatus.value === 'reading' ? 'Continuar:' : 'Siguiente:'
+  return isContinueAction(continueSource.value) ? 'Continuar:' : 'Siguiente:'
 })
 
 const continueTitle = computed(() => {

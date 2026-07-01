@@ -1,3 +1,5 @@
+import { bumpReadingRevision } from './revision'
+
 export const AUDIO_STORAGE_PREFIX = 'memorable-summaries:audio:'
 
 export interface AudioPosition {
@@ -28,8 +30,10 @@ export function readAudioPosition(slug: string): AudioPosition | null {
 
 export function writeAudioPosition(slug: string, position: AudioPosition) {
   localStorage.setItem(audioStorageKey(slug), JSON.stringify(position))
+  bumpReadingRevision()
 }
 
 export function clearAudioPosition(slug: string) {
   localStorage.removeItem(audioStorageKey(slug))
+  bumpReadingRevision()
 }

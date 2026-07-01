@@ -40,7 +40,8 @@ const visible = ref(props.available !== false)
 const playing = ref(false)
 const duration = ref(0)
 const currentTime = ref(0)
-const restored = ref(false)
+const savedCurrentTime = ref<number | null>(null)
+const restoreApplied = ref(false)
 const hasEnded = ref(false)
 const isDragging = ref(false)
 let lastSaveAt = 0
@@ -66,12 +67,26 @@ watch(src, () => {
   playing.value = false
   currentTime.value = 0
   duration.value = 0
-  restored.value = false
+  savedCurrentTime.value = null
+  restoreApplied.value = false
   hasEnded.value = false
   if (props.available !== false) visible.value = true
   audioEl.value?.pause()
   audioEl.value?.load()
+  loadSavedPosition()
 })
+
+function loadSavedPosition() {
+  const saved = readAudioPosition(props.slug)
+  if (saved && saved.currentTime > 0) {
+    savedCurrentTime.value = saved.currentTime
+    currentTime.value = saved.currentTime
+    return
+  }
+
+  savedCurrentTime.value = null
+  restoreApplied.value = true
+}
 
 function formatTime(seconds: number): string {
   if (!Number.isFinite(seconds) || seconds < 0) return '0:00'
@@ -83,6 +98,7 @@ function formatTime(seconds: number): string {
 function persistPosition(force = false) {
   const audio = audioEl.value
   if (!audio || !Number.isFinite(audio.currentTime)) return
+  if (!restoreApplied.value && savedCurrentTime.value !== null) return
 
   const now = Date.now()
   if (!force && now - lastSaveAt < SAVE_INTERVAL_MS) return
@@ -95,14 +111,16 @@ function persistPosition(force = false) {
 }
 
 function restorePosition() {
+  if (restoreApplied.value) return
+
   const audio = audioEl.value
-  if (!audio || restored.value || !Number.isFinite(audio.duration) || audio.duration <= 0) return
+  if (!audio || !Number.isFinite(audio.duration) || audio.duration <= 0) return
 
-  const saved = readAudioPosition(props.slug)
-  restored.value = true
-  if (!saved || saved.currentTime <= 0) return
+  restoreApplied.value = true
+  const saved = savedCurrentTime.value
+  if (!saved || saved <= 0) return
 
-  const next = Math.min(saved.currentTime, Math.max(audio.duration - 0.5, 0))
+  const next = Math.min(saved, Math.max(audio.duration - 0.5, 0))
   if (next <= 0) return
 
   audio.currentTime = next
@@ -124,6 +142,7 @@ function togglePlay() {
   if (playing.value) {
     audio.pause()
   } else {
+    restorePosition()
     void audio.play()
   }
 }
@@ -158,6 +177,10 @@ function onTimeUpdate() {
 
 function onLoadedMetadata() {
   if (audioEl.value) duration.value = audioEl.value.duration
+  restorePosition()
+}
+
+function onDurationChange() {
   restorePosition()
 }
 
@@ -246,6 +269,7 @@ function onVisibilityChange() {
 }
 
 onMounted(() => {
+  loadSavedPosition()
   window.addEventListener('beforeunload', () => persistPosition(true))
   document.addEventListener('visibilitychange', onVisibilityChange)
 })
@@ -281,6 +305,7 @@ defineExpose({ rootEl })
       @pause="onPause"
       @timeupdate="onTimeUpdate"
       @loadedmetadata="onLoadedMetadata"
+      @durationchange="onDurationChange"
       @ended="onEnded"
       @error="onError"
     />
