@@ -2,6 +2,9 @@ import { existsSync, readFileSync } from 'node:fs'
 import { resolve } from 'node:path'
 import { bookCatalog } from '../src/books/catalog'
 import {
+  DEFAULT_OG_IMAGE,
+  DEFAULT_OG_IMAGE_HEIGHT,
+  DEFAULT_OG_IMAGE_WIDTH,
   DEFAULT_SITE_DESCRIPTION,
   SITE_NAME,
   bookCanonicalPath,
@@ -149,10 +152,13 @@ export function readDistIndexHtml(distDir: string): string {
 }
 
 export function getHomeSeoImage(rootDir = resolve(import.meta.dirname, '..')): SeoImageMeta {
+  const imagePath = resolve(rootDir, 'public', DEFAULT_OG_IMAGE)
+  const dimensions = existsSync(imagePath) ? readJpegDimensions(imagePath) : null
+
   return {
-    url: buildAbsoluteUrl('pwa-icon-512.png'),
-    width: 512,
-    height: 512,
+    url: buildAbsoluteUrl(DEFAULT_OG_IMAGE),
+    width: dimensions?.width ?? DEFAULT_OG_IMAGE_WIDTH,
+    height: dimensions?.height ?? DEFAULT_OG_IMAGE_HEIGHT,
   }
 }
 

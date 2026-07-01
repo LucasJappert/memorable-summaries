@@ -1,4 +1,4 @@
-import { bookCoverPath } from '../utils/seo'
+import { DEFAULT_OG_IMAGE, bookCoverPath } from '../utils/seo'
 
 export const DEFAULT_SITE_URL = 'https://memorable-summaries.example.com'
 
@@ -29,5 +29,5 @@ export function bookOgImageUrl(slug: string): string {
 }
 
 export function defaultOgImageUrl(): string {
-  return absoluteUrl('pwa-icon-512.png')
+  return absoluteUrl(DEFAULT_OG_IMAGE)
 }

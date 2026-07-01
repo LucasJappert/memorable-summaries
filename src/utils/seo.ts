@@ -3,6 +3,11 @@ export const SITE_NAME = 'Memorable Summaries'
 export const DEFAULT_SITE_DESCRIPTION =
   'Resúmenes interactivos para memorizar libros'
 
+/** Imagen OG de la home (public/og-home.jpg). */
+export const DEFAULT_OG_IMAGE = 'og-home.jpg'
+export const DEFAULT_OG_IMAGE_WIDTH = 1200
+export const DEFAULT_OG_IMAGE_HEIGHT = 630
+
 export function formatBookDisplayTitle(meta: {
   title: string
   titleEs?: string

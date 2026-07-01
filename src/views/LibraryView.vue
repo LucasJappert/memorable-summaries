@@ -13,7 +13,12 @@ import { defaultOgImageUrl } from '../config/site'
 import { countReadBooks, getBookReadingStatus } from '../reading/status'
 import { readReadingPosition, hasMeaningfulScroll } from '../reading/storage'
 import { readingRevision } from '../reading/revision'
-import { DEFAULT_SITE_DESCRIPTION, SITE_NAME } from '../utils/seo'
+import {
+  DEFAULT_OG_IMAGE_HEIGHT,
+  DEFAULT_OG_IMAGE_WIDTH,
+  DEFAULT_SITE_DESCRIPTION,
+  SITE_NAME,
+} from '../utils/seo'
 
 type StatusFilter = 'all' | 'reading' | 'new' | 'done' | 'audio'
 
@@ -99,6 +104,8 @@ usePageMeta(
     canonicalPath: '',
     ogType: 'website' as const,
     ogImage: defaultOgImageUrl(),
+    ogImageWidth: DEFAULT_OG_IMAGE_WIDTH,
+    ogImageHeight: DEFAULT_OG_IMAGE_HEIGHT,
   })),
 )
 </script>
