@@ -1,6 +1,14 @@
-import { onMounted, onUnmounted, toValue, type MaybeRef } from 'vue'
+import { onMounted, onUnmounted, ref, toValue, type MaybeRef } from 'vue'
+import { READ_COMPLETE_FROM_SECTION } from '../reading/status'
+import {
+  getFurthestSectionId,
+  hasReachedConceptosByProgress,
+} from '../reading/section-progress'
 import {
   computeScrollProgress,
+  hasMeaningfulScroll,
+  markBookRead,
+  markBookUnread,
   readReadingPosition,
   writeReadingPosition,
 } from '../reading/storage'
@@ -19,35 +27,127 @@ function getCurrentSectionId(sectionIds: string[]): string {
   return current
 }
 
+function computeReachedConceptos(
+  ids: string[],
+  stored: ReturnType<typeof readReadingPosition>,
+  sectionId: string,
+): boolean {
+  if (stored?.manualUnread) return false
+
+  const furthestSectionId = getFurthestSectionId(ids, stored?.furthestSectionId)
+  return (
+    stored?.reachedConceptos === true ||
+    hasReachedConceptosByProgress(ids, furthestSectionId) ||
+    hasReachedConceptosByProgress(ids, sectionId)
+  )
+}
+
+function resolveReadState(
+  ids: string[],
+  stored: ReturnType<typeof readReadingPosition>,
+  sectionId: string,
+  furthestSectionId: string,
+) {
+  let manualUnread = stored?.manualUnread === true
+  let unreadBelowConceptos = stored?.unreadBelowConceptos === true
+  let reachedConceptos = false
+
+  if (manualUnread) {
+    const conceptosIndex = ids.indexOf(READ_COMPLETE_FROM_SECTION)
+    const furthestIndex = ids.indexOf(furthestSectionId)
+
+    if (conceptosIndex >= 0 && furthestIndex >= 0 && furthestIndex < conceptosIndex) {
+      unreadBelowConceptos = true
+    }
+
+    if (unreadBelowConceptos && hasReachedConceptosByProgress(ids, furthestSectionId)) {
+      manualUnread = false
+      unreadBelowConceptos = false
+      reachedConceptos = true
+    }
+  } else {
+    reachedConceptos = computeReachedConceptos(ids, stored, sectionId)
+  }
+
+  return { manualUnread, unreadBelowConceptos, reachedConceptos }
+}
+
 export function useReadingPosition(
   slug: MaybeRef<string>,
   sectionIds: MaybeRef<string[]>,
   sectionLabels: MaybeRef<Record<string, string>>,
 ) {
+  const isMarkedRead = ref(false)
+  const bookJustCompleted = ref(false)
+
   let saveTimer: ReturnType<typeof setTimeout> | null = null
   let restoring = false
+  let initialPersistDone = false
+  let sessionStartedAsRead = false
   let lastSavedScrollY = -1
   let lastSavedSectionId = ''
+  let lastSavedReachedConceptos = false
+
+  function celebrateReadCompletion() {
+    bookJustCompleted.value = true
+    sessionStartedAsRead = true
+  }
 
   function persist(sectionId: string, scrollY: number) {
     if (restoring) return
-    if (sectionId === lastSavedSectionId && Math.abs(scrollY - lastSavedScrollY) < 8) return
 
+    const ids = toValue(sectionIds)
+    const bookSlug = toValue(slug)
+    const stored = readReadingPosition(bookSlug)
+    const furthestSectionId = getFurthestSectionId(ids, stored?.furthestSectionId)
+    const { manualUnread, unreadBelowConceptos, reachedConceptos } = resolveReadState(
+      ids,
+      stored,
+      sectionId,
+      furthestSectionId,
+    )
+
+    if (
+      sectionId === lastSavedSectionId &&
+      Math.abs(scrollY - lastSavedScrollY) < 8 &&
+      reachedConceptos === lastSavedReachedConceptos
+    ) {
+      return
+    }
+
+    if (
+      initialPersistDone &&
+      !sessionStartedAsRead &&
+      !lastSavedReachedConceptos &&
+      reachedConceptos
+    ) {
+      celebrateReadCompletion()
+    }
+
+    isMarkedRead.value = reachedConceptos
     lastSavedSectionId = sectionId
     lastSavedScrollY = scrollY
+    lastSavedReachedConceptos = reachedConceptos
 
     const labels = toValue(sectionLabels)
-    writeReadingPosition(toValue(slug), {
-      sectionId,
-      sectionLabel: labels[sectionId] ?? sectionId,
+    const savedSectionId = hasMeaningfulScroll(scrollY) ? sectionId : ''
+    const savedSectionLabel = savedSectionId ? (labels[sectionId] ?? sectionId) : ''
+
+    writeReadingPosition(bookSlug, {
+      sectionId: savedSectionId,
+      sectionLabel: savedSectionLabel,
       scrollY,
       progress: computeScrollProgress(),
       updatedAt: Date.now(),
+      furthestSectionId,
+      reachedConceptos,
+      manualUnread,
+      unreadBelowConceptos,
     })
 
-    const hash = sectionId ? `#${sectionId}` : ''
+    const hash = savedSectionId ? `#${savedSectionId}` : ''
+    const url = `${window.location.pathname}${window.location.search}${hash}`
     if (window.location.hash !== hash) {
-      const url = `${window.location.pathname}${window.location.search}${hash}`
       history.replaceState(history.state, '', url)
     }
   }
@@ -63,43 +163,50 @@ export function useReadingPosition(
     saveTimer = setTimeout(saveNow, 280)
   }
 
+  function clearLocationHash() {
+    if (!window.location.hash) return
+    history.replaceState(
+      history.state,
+      '',
+      `${window.location.pathname}${window.location.search}`,
+    )
+  }
+
   function restore() {
     const ids = toValue(sectionIds)
     const bookSlug = toValue(slug)
     const stored = readReadingPosition(bookSlug)
     const hashId = window.location.hash.replace(/^#/, '')
-    const hashValid = hashId && ids.includes(hashId)
+    const hashValid = Boolean(hashId && ids.includes(hashId))
 
-    let targetScrollY = stored?.scrollY ?? 0
-    let targetSectionId = stored?.sectionId ?? (hashValid ? hashId : '')
+    const savedScrollY = stored?.scrollY ?? 0
+    const hasSavedScroll = hasMeaningfulScroll(savedScrollY)
 
-    if (!stored && hashValid) {
-      targetSectionId = hashId
-      targetScrollY = 0
-    }
-
-    if (!targetSectionId && targetScrollY <= 0) return
+    if (!stored && !hashValid) return
 
     restoring = true
     const html = document.documentElement
     const prevBehavior = html.style.scrollBehavior
     html.style.scrollBehavior = 'auto'
 
-    if (targetScrollY > 0) {
-      window.scrollTo(0, targetScrollY)
-    } else if (targetSectionId) {
-      document.getElementById(targetSectionId)?.scrollIntoView()
-    }
-
-    if (targetSectionId) {
-      const hash = `#${targetSectionId}`
-      if (window.location.hash !== hash) {
-        history.replaceState(
-          history.state,
-          '',
-          `${window.location.pathname}${window.location.search}${hash}`,
-        )
+    if (hasSavedScroll) {
+      window.scrollTo(0, savedScrollY)
+      const sectionFromStore = stored?.sectionId ?? ''
+      if (sectionFromStore) {
+        const hash = `#${sectionFromStore}`
+        if (window.location.hash !== hash) {
+          history.replaceState(
+            history.state,
+            '',
+            `${window.location.pathname}${window.location.search}${hash}`,
+          )
+        }
       }
+    } else if (hashValid) {
+      document.getElementById(hashId)?.scrollIntoView()
+    } else {
+      window.scrollTo(0, 0)
+      clearLocationHash()
     }
 
     requestAnimationFrame(() => {
@@ -108,7 +215,7 @@ export function useReadingPosition(
       saveNow()
     })
 
-    return targetScrollY > 0 ? targetScrollY : undefined
+    return hasSavedScroll ? savedScrollY : undefined
   }
 
   onMounted(() => {
@@ -116,13 +223,26 @@ export function useReadingPosition(
       history.scrollRestoration = 'manual'
     }
 
+    const bookSlug = toValue(slug)
+    const ids = toValue(sectionIds)
+    const stored = readReadingPosition(bookSlug)
+    const startedRead = computeReachedConceptos(ids, stored, stored?.sectionId ?? '')
+    sessionStartedAsRead = startedRead
+    isMarkedRead.value = startedRead
+    lastSavedReachedConceptos = startedRead
+
     requestAnimationFrame(() => {
       const restoredY = restore()
-      if (restoredY && restoredY > 0 && document.fonts) {
+      if (restoredY && hasMeaningfulScroll(restoredY) && document.fonts) {
         document.fonts.ready.then(() => {
           window.scrollTo(0, restoredY)
         })
       }
+
+      requestAnimationFrame(() => {
+        initialPersistDone = true
+        saveNow()
+      })
     })
 
     window.addEventListener('scroll', debouncedSave, { passive: true })
@@ -134,10 +254,62 @@ export function useReadingPosition(
     if (document.visibilityState === 'hidden') saveNow()
   }
 
+  function markRead() {
+    const wasRead = isMarkedRead.value
+    const ids = toValue(sectionIds)
+    const bookSlug = toValue(slug)
+    const labels = toValue(sectionLabels)
+    const stored = readReadingPosition(bookSlug)
+    const sectionId = stored?.sectionId || getCurrentSectionId(ids) || ids[0] || ''
+    const conceptosIndex = ids.indexOf(READ_COMPLETE_FROM_SECTION)
+    let furthestSectionId = stored?.furthestSectionId ?? sectionId
+
+    if (conceptosIndex >= 0) {
+      const furthestIndex = ids.indexOf(furthestSectionId)
+      if (furthestIndex < conceptosIndex) {
+        furthestSectionId = READ_COMPLETE_FROM_SECTION
+      }
+    }
+
+    markBookRead(bookSlug, {
+      sectionId,
+      sectionLabel: labels[sectionId] ?? sectionId,
+      scrollY: stored?.scrollY ?? window.scrollY,
+      progress: stored?.progress ?? computeScrollProgress(),
+      furthestSectionId,
+    })
+
+    lastSavedReachedConceptos = true
+    isMarkedRead.value = true
+
+    if (!wasRead && initialPersistDone) {
+      celebrateReadCompletion()
+    } else if (!wasRead) {
+      sessionStartedAsRead = true
+    }
+  }
+
+  function markUnread() {
+    const bookSlug = toValue(slug)
+    if (!markBookUnread(bookSlug)) return
+
+    sessionStartedAsRead = false
+    lastSavedReachedConceptos = false
+    isMarkedRead.value = false
+    bookJustCompleted.value = false
+  }
+
+  function toggleMarkedRead() {
+    if (isMarkedRead.value) markUnread()
+    else markRead()
+  }
+
   onUnmounted(() => {
     if (saveTimer) clearTimeout(saveTimer)
     window.removeEventListener('scroll', debouncedSave)
     window.removeEventListener('pagehide', saveNow)
     document.removeEventListener('visibilitychange', onVisibilityChange)
   })
+
+  return { isMarkedRead, bookJustCompleted, toggleMarkedRead }
 }

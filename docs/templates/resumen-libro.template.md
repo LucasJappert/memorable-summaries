@@ -20,8 +20,23 @@ lang: es
 <!-- toc: id | num | label -->
 | id | num | label |
 |----|-----|-------|
+| cierre | ★ | La idea central |
 | prefacio | 00 | Prefacio |
 | cap1 | 01 | Título del capítulo 1 |
+
+---
+
+# cierre
+
+## title: La idea central
+
+<!-- closing -->
+La tesis en una línea.
+Segunda línea que desarrolla.
+<!-- highlight -->frase más importante<!-- /highlight -->
+Cuarta línea.
+Quinta línea.
+Sexta línea poética o memorable.
 
 ---
 
@@ -113,20 +128,6 @@ Contenido...
 | name | role |
 |------|------|
 | Nombre Apellido | Contribución principal · segundo dato |
-
----
-
-# cierre
-
-## title: La idea central
-
-<!-- closing -->
-La tesis en una línea.
-Segunda línea que desarrolla.
-<!-- highlight -->frase más importante<!-- /highlight -->
-Cuarta línea.
-Quinta línea.
-Sexta línea poética o memorable.
 
 ---
 

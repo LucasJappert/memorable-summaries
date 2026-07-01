@@ -192,13 +192,17 @@ def md_to_narration(md_path: Path) -> str:
     author = meta.get("author", "")
     intro = f"{title}, de {author}." if author else f"{title}."
 
-    paragraphs: list[str] = [intro]
+    chapter_paragraphs: list[str] = []
+    closing_paragraphs: list[str] = []
+    extra_paragraphs: list[str] = []
+    target = chapter_paragraphs
     lines = body.splitlines()
     i = 0
     skip_toc = False
     section_num = ""
     section_title = ""
     pending_comment = ""
+    current_section = ""
 
     while i < len(lines):
         line = lines[i]
@@ -216,9 +220,15 @@ def md_to_narration(md_path: Path) -> str:
                 continue
 
         if stripped.startswith("# ") and not stripped.startswith("## "):
-            section_id = stripped[2:].strip().lower()
-            if section_id == "footer":
+            current_section = stripped[2:].strip().lower()
+            if current_section == "footer":
                 break
+            if current_section == "cierre":
+                target = closing_paragraphs
+            elif current_section in {"conceptos", "cronologia", "figuras"}:
+                target = extra_paragraphs
+            else:
+                target = chapter_paragraphs
             section_num = ""
             section_title = ""
             i += 1
@@ -232,7 +242,7 @@ def md_to_narration(md_path: Path) -> str:
             section_title = stripped.split(":", 1)[1].strip()
             heading = section_heading(section_num, section_title)
             if heading:
-                paragraphs.append(heading)
+                target.append(heading)
             i += 1
             continue
 
@@ -257,19 +267,19 @@ def md_to_narration(md_path: Path) -> str:
             elif "big-numbers" in pending_comment:
                 kind = "big-numbers"
             rows = parse_markdown_table(table_lines)
-            paragraphs.extend(narrate_table(rows, kind))
+            target.extend(narrate_table(rows, kind))
             pending_comment = ""
             continue
 
         if stripped.startswith(">"):
             quote = clean_inline(stripped.lstrip("> ").strip())
             if quote:
-                paragraphs.append(f"Cita: {quote}")
+                target.append(f"Cita: {quote}")
             i += 1
             if i < len(lines) and lines[i].strip().startswith("—"):
                 attribution = clean_inline(lines[i].strip().lstrip("—").strip())
                 if attribution:
-                    paragraphs[-1] += f" — {attribution}"
+                    target[-1] += f" — {attribution}"
                 i += 1
             continue
 
@@ -278,7 +288,7 @@ def md_to_narration(md_path: Path) -> str:
             item = re.sub(r"\*\*([^*]+)\*\*", r"\1", item)
             item = item.replace(" — ", ". ")
             if item:
-                paragraphs.append(item)
+                target.append(item)
             i += 1
             continue
 
@@ -297,16 +307,17 @@ def md_to_narration(md_path: Path) -> str:
         if stripped:
             text = clean_inline(stripped)
             if pending_comment == "key":
-                paragraphs.append(f"Idea clave: {text}")
+                target.append(f"Idea clave: {text}")
             elif pending_comment == "closing":
-                paragraphs.append(text)
+                target.append(text)
             elif pending_comment == "quote":
-                paragraphs.append(f"Cita: {text}")
+                target.append(f"Cita: {text}")
             else:
-                paragraphs.append(text)
+                target.append(text)
         pending_comment = ""
         i += 1
 
+    paragraphs = [intro, *closing_paragraphs, *chapter_paragraphs, *extra_paragraphs]
     text = "\n\n".join(p for p in paragraphs if p.strip())
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text

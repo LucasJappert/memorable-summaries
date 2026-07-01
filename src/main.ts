@@ -12,6 +12,11 @@ import '@fontsource/ibm-plex-sans/latin-ext-500.css'
 import '@fontsource/ibm-plex-sans/latin-ext-600.css'
 import '@fontsource/ibm-plex-sans/latin-ext-700.css'
 import './assets/styles.css'
+import { preventPinchZoom } from './utils/preventPinchZoom'
+import { initPressRipple } from './utils/pressRipple'
+
+preventPinchZoom()
+initPressRipple()
 
 if (import.meta.env.PROD) {
   registerSW({

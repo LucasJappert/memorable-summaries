@@ -57,6 +57,7 @@ Convertí el resumen Markdown estructurado en datos tipados para la app Vue 3 de
 - `# conceptos`, `# cronologia`, `# figuras`, `# cierre`, `# footer` **no van** en `sections[]`
 - Su contenido se mapea a las propiedades top-level de `BookSummary`
 - Los capítulos normales sí van en `sections[]`
+- En la app, **`closing` se muestra primero** (antes del prólogo/prefacio), aunque en el `.md` `# cierre` puede estar al inicio o al final del archivo
 
 ### Integración en la app
 
@@ -86,7 +87,7 @@ Debe pasar sin errores de `vue-tsc`.
 Si se pide HTML en lugar de (o además de) Vue:
 
 1. Reutilizá **exactamente** los estilos de `src/assets/styles.css`
-2. Estructura: starfield → hero → toc → sections → conceptos → cronologia → figuras → cierre → footer
+2. Estructura: starfield → hero → **cierre (idea central)** → toc → sections → conceptos → cronologia → figuras → footer
 3. Clases CSS existentes: `.section`, `.concept-card`, `.quote`, `.timeline`, etc.
 4. Guardar en `legacy/resumen-<slug>.html`
 5. **No duplicar lógica**: el `.md` sigue siendo la fuente; el HTML es otro target

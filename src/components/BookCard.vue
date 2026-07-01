@@ -1,22 +1,32 @@
 <script setup lang="ts">
 import { computed } from 'vue'
 import type { BookCatalogEntry } from '../books/catalog'
-import { readReadingPosition } from '../reading/storage'
+import { readReadingPosition, hasMeaningfulScroll } from '../reading/storage'
+import { readingRevision } from '../reading/revision'
 import { bookHasAudio } from '../books/audio-catalog'
 import { getBookProgress, getBookReadingStatus } from '../reading/status'
 import CoverArt from './CoverArt.vue'
 
 const props = defineProps<{ book: BookCatalogEntry }>()
 
-const reading = computed(() => readReadingPosition(props.book.slug))
+const reading = computed(() => {
+  readingRevision.value
+  return readReadingPosition(props.book.slug)
+})
 
 const displayTitle = computed(
   () => props.book.meta.titleEs?.trim() || props.book.meta.title,
 )
 
-const progress = computed(() => getBookProgress(props.book.slug))
+const progress = computed(() => {
+  readingRevision.value
+  return getBookProgress(props.book.slug)
+})
 
-const status = computed(() => getBookReadingStatus(props.book.slug))
+const status = computed(() => {
+  readingRevision.value
+  return getBookReadingStatus(props.book.slug)
+})
 
 const hasAudio = computed(() => bookHasAudio(props.book.slug))
 
@@ -33,7 +43,11 @@ const linkLabel = computed(() => {
 
 const bookLink = computed(() => {
   const base = `/libro/${props.book.slug}`
-  if (status.value === 'reading' && reading.value?.sectionId) {
+  if (
+    status.value === 'reading' &&
+    reading.value?.sectionId &&
+    hasMeaningfulScroll(reading.value.scrollY)
+  ) {
     return `${base}#${reading.value.sectionId}`
   }
   return base
