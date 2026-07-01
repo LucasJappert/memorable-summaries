@@ -66,7 +66,7 @@ export const fabricOfReality: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Con <span class=\"person\">Popper</span>, propone que la ciencia avanza resolviendo problemas: se formulan conjeturas, se critican y se reemplazan por explicaciones mejores. El experimento refuta errores, pero no otorga certeza final.",
+          html: "Siguiendo a <span class=\"person\">Popper</span>, Deutsch sostiene que la ciencia avanza resolviendo problemas. Se formulan conjeturas, se critican y se reemplazan por explicaciones mejores. El experimento refuta errores, pero no otorga certeza final.",
         },
         {
           type: 'key',
@@ -126,7 +126,7 @@ export const fabricOfReality: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Deutsch combina la idea de <span class=\"term\">máquina universal</span> con límites de tipo diagonal (Cantor/Turing): hay procesos que pueden emularse universalmente y otros que quedan fuera de todo cálculo físico posible.",
+          html: "Deutsch combina la idea de <span class=\"term\">máquina universal</span> con límites de tipo diagonal (Cantor y Turing). Hay procesos que pueden emularse universalmente y otros que quedan fuera de todo cálculo físico posible.",
         },
         {
           type: 'key',
@@ -226,7 +226,7 @@ export const fabricOfReality: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Deutsch insiste en que intuiciones temporales clásicas pueden bloquear buenas explicaciones cuánticas; entender el tiempo exige revisar esos marcos.",
+          html: "Deutsch insiste en que las intuiciones temporales clásicas pueden bloquear buenas explicaciones cuánticas. Entender el tiempo exige revisar esos marcos.",
         },
         {
           type: 'key',
@@ -286,7 +286,7 @@ export const fabricOfReality: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Más que un final cerrado, Deutsch propone un horizonte abierto en el que las leyes de la naturaleza y la capacidad explicativa de mentes racionales co-determinan lo posible.",
+          html: "Más que un final cerrado, Deutsch propone un horizonte abierto. En él, las leyes de la naturaleza y la capacidad explicativa de mentes racionales codeterminan lo posible.",
         },
         {
           type: 'key',

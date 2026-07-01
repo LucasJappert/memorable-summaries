@@ -357,7 +357,7 @@ def setup_hermes_import() -> None:
         sys.path.insert(0, root)
 
 
-def run_tts(slug: str, text: str, export_mp3: bool) -> None:
+def run_tts(slug: str, text: str, export_mp3: bool, force: bool = False) -> None:
     setup_hermes_import()
     from core.audio import concat_wavs, probe_duration
     from core.config import load_config
@@ -368,13 +368,16 @@ def run_tts(slug: str, text: str, export_mp3: bool) -> None:
 
     chunks = split_chunks(text)
     chunk_dir = AUDIO_DIR / slug / "chunks"
+    if force and chunk_dir.exists():
+        import shutil
+        shutil.rmtree(chunk_dir)
     chunk_dir.mkdir(parents=True, exist_ok=True)
 
     wav_paths: list[Path] = []
     for idx, chunk in enumerate(chunks, start=1):
         wav_path = chunk_dir / f"chunk{idx:03d}.wav"
         wav_paths.append(wav_path)
-        if wav_path.exists() and wav_path.stat().st_size > 0:
+        if not force and wav_path.exists() and wav_path.stat().st_size > 0:
             print(f"  chunk {idx}/{len(chunks)} — ya existe, omitiendo")
             continue
         print(f"  chunk {idx}/{len(chunks)} — sintetizando ({len(chunk)} chars)")
@@ -416,6 +419,7 @@ def main() -> None:
     parser.add_argument("--tts", action="store_true", help="Generar audio con Edge TTS (Hermes)")
     parser.add_argument("--mp3", action="store_true", help="Exportar MP3 y copiar a public/audio/")
     parser.add_argument("--text-only", action="store_true", help="Solo generar audio/<slug>.txt")
+    parser.add_argument("--force", action="store_true", help="Regenerar chunks TTS aunque ya existan")
     args = parser.parse_args()
 
     slug = resolve_slug(args.book)
@@ -434,12 +438,12 @@ def main() -> None:
         return
 
     if args.tts:
-        run_tts(slug, narration, export_mp3=args.mp3)
+        run_tts(slug, narration, export_mp3=args.mp3, force=args.force)
     elif args.mp3:
         wav_path = AUDIO_DIR / f"{slug}.wav"
         if not wav_path.exists():
             raise SystemExit(f"No existe {wav_path}; corré con --tts primero")
-        run_tts(slug, narration, export_mp3=True)
+        run_tts(slug, narration, export_mp3=True, force=args.force)
 
 
 if __name__ == "__main__":

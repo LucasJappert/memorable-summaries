@@ -284,14 +284,49 @@ def convert(md_path: Path, out_path: Path, export_name: str) -> None:
     print(f"Wrote {out_path}")
 
 
+TS_OVERRIDES: dict[str, tuple[str, str]] = {
+    "universo-de-la-nada": ("universo-nada.ts", "universoNada"),
+    "21-lessons": ("21-lessons.ts", "twentyOneLessons"),
+}
+
+
+def slug_to_export(slug: str) -> str:
+    if slug in TS_OVERRIDES:
+        return TS_OVERRIDES[slug][1]
+    parts = slug.split("-")
+    if not parts:
+        return slug
+    return parts[0] + "".join(p[:1].upper() + p[1:] for p in parts[1:])
+
+
+def resolve_job(arg: str) -> tuple[Path, Path, str]:
+    slug = arg.removesuffix(".md")
+    md = ROOT / "summaries" / f"{slug}.md"
+    if slug in TS_OVERRIDES:
+        ts_name, export_name = TS_OVERRIDES[slug]
+        ts = ROOT / "src" / "data" / ts_name
+        return md, ts, export_name
+    ts = ROOT / "src" / "data" / f"{slug}.ts"
+    return md, ts, slug_to_export(slug)
+
+
 def main() -> None:
-    jobs = [
-        (ROOT / "summaries/cosmos.md", ROOT / "src/data/cosmos.ts", "cosmos"),
-        (ROOT / "summaries/wonderful-life.md", ROOT / "src/data/wonderful-life.ts", "wonderfulLife"),
-    ]
-    if len(sys.argv) > 1:
+    jobs: list[tuple[Path, Path, str]] = []
+    if len(sys.argv) == 1:
+        jobs = [
+            (ROOT / "summaries/cosmos.md", ROOT / "src/data/cosmos.ts", "cosmos"),
+            (ROOT / "summaries/wonderful-life.md", ROOT / "src/data/wonderful-life.ts", "wonderfulLife"),
+        ]
+    elif len(sys.argv) == 2:
+        jobs = [resolve_job(sys.argv[1])]
+    elif len(sys.argv) == 3 and sys.argv[1] == "--all":
+        jobs = [resolve_job(p.stem) for p in sorted((ROOT / "summaries").glob("*.md"))]
+    else:
         jobs = [(Path(sys.argv[1]), Path(sys.argv[2]), sys.argv[3])]
     for md, ts, name in jobs:
+        if not md.exists():
+            print(f"Skip (no MD): {md}", file=sys.stderr)
+            continue
         convert(md, ts, name)
 
 

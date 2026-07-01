@@ -14,7 +14,10 @@ Libro (.epub / .pdf / texto)
         │
 summaries/<slug>.md          ← fuente de verdad intermedia (humana + IA)
         │
-        ▼  Prompt 02 — docs/prompts/02-vista-desde-resumen.md
+        ▼  (opcional) Prompt 01c — docs/prompts/01c-correccion-minima.md
+        │  scripts/lint-summary.py
+        │
+        ▼  scripts/md-to-ts.py  (preferir sobre IA manual)
         │
 src/data/<slug>.ts           ← datos tipados para la app Vue
         │
@@ -27,7 +30,8 @@ legacy/<slug>.html           ← HTML standalone con el mismo CSS
 | Paso | Rol | Ventaja |
 |------|-----|---------|
 | **1 → `.md`** | Extraer y condensar el libro | Revisable, editable, barato de iterar. Separás *contenido* de *presentación*. |
-| **2 → `.ts` / `.html`** | Maquetar para memorizar | Formato fijo, visual, reutiliza componentes y estilos existentes. |
+| **1c → pulido** | Corrección mínima por sección | Elimina repeticiones y telegráfico sin cambiar la esencia. |
+| **2 → `.ts` / `.html`** | Maquetar para memorizar | `md-to-ts.py` mecánico; prompt 02 solo si hace falta. |
 | **3 → `audio/*.wav`** | Narración TTS de un resumen | Un `.md` por vez; ver `docs/prompts/03-audio-desde-resumen.md` |
 
 Si mezclás extracción y maquetado en un solo prompt, la IA suele:
@@ -43,7 +47,10 @@ El `.md` intermedio actúa como **contrato**: si el paso 1 respeta la plantilla,
 |---------|-----------|
 | `docs/templates/resumen-libro.template.md` | Esquema que debe seguir todo resumen intermedio |
 | `docs/prompts/01-resumen-desde-libro.md` | Prompt para generar el `.md` desde el libro |
+| `docs/prompts/01c-correccion-minima.md` | Corrección mínima por sección (redundancias, claridad) |
 | `docs/prompts/02-vista-desde-resumen.md` | Prompt para generar `src/data/*.ts` (y opcionalmente HTML) |
+| `scripts/md-to-ts.py` | Conversor mecánico MD → TS (preferido para Paso B) |
+| `scripts/lint-summary.py` | Lint de redundancias, cierre y telegráfico |
 | `summaries/<slug>.md` | Un archivo por libro (generado por IA, revisable por vos) |
 | `src/types/book.ts` | Tipos TypeScript — referencia del modelo de datos |
 | `src/data/<slug>.ts` | Datos consumidos por la app |
@@ -61,9 +68,10 @@ El `.md` intermedio actúa como **contrato**: si el paso 1 respeta la plantilla,
 2. [ ] Extraer texto: `python3 scripts/extract-epub.py "<libro>"`
 3. [ ] Ejecutar prompt 01 con la plantilla → `summaries/<slug>.md`
 4. [ ] Revisar: citas, cifras, nombres, orden de capítulos
-5. [ ] Ejecutar prompt 02 → `src/data/<slug>.ts`
-6. [ ] Registrar el libro en `src/App.vue` o en un router/listado (cuando haya varios)
-7. [ ] `npm run build` para verificar tipos
+5. [ ] (Opcional) Paso C: `01c-correccion-minima.md` + `python3 scripts/lint-summary.py <slug>`
+6. [ ] `python3 scripts/md-to-ts.py <slug>` → `src/data/<slug-corto>.ts`
+7. [ ] Registrar el libro en `src/books/catalog.ts` (cuando haya varios)
+8. [ ] `npm run build` para verificar tipos
 
 ## Principios de diseño (memorización)
 

@@ -19,6 +19,7 @@ Convertí el resumen Markdown estructurado en datos tipados para la app Vue 3 de
 ### Reglas estrictas
 
 1. **No agregues contenido** que no esté en el `.md`. Solo transformá formato.
+1b. **Preferí `scripts/md-to-ts.py`** para la conversión mecánica. Si generás TS a mano, `closing.lines` **no** debe incluir el texto de `closing.highlight`.
 2. **Respetá los tipos** de `BookSummary` y `ContentBlock`
 3. **IDs de sección** = los del `.md` (prefacio, cap1, …)
 4. **Idioma:** conservar `title` original + `titleEs` si existe; el resto ya debe estar en español en el `.md`
@@ -49,7 +50,7 @@ Convertí el resumen Markdown estructurado en datos tipados para la app Vue 3 de
 | `# conceptos` | `keyConcepts[]` (extraer del concept-grid de esa sección) |
 | `# cronologia` | `chronology[]` |
 | `# figuras` | `figures[]` |
-| `# cierre` | `closing: { title, lines[], highlight }` |
+| `# cierre` | `closing: { title, lines[], highlight }` — `lines` = líneas del `<!-- closing -->` **sin** el bloque `<!-- highlight -->` |
 | `# footer` | `footer: { line1, line2 }` |
 
 ### Secciones especiales

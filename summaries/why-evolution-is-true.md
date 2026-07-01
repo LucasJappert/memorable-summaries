@@ -40,10 +40,10 @@ lang: es
 El <span class="num">20 de diciembre de 2005</span>, el juez <span class="person">John Jones III</span> falló en *Kitzmiller v. Dover*: el «diseño inteligente» en las escuelas de Pensilvania era inconstitucional — teología disfrazada de ciencia, no ciencia. Coyne lo vivió como victoria temporal: el creacionismo es como un payaso inflable que siempre vuelve a levantarse.
 
 <!-- paragraph -->
-El mantra de los opositores — «la teoría de la evolución está en crisis» — es falso. La evolución no es solo una «teoría»: es un <span class="term">hecho</span> respaldado por un siglo y medio de evidencia que confirma la propuesta darwiniana, especialmente la selección natural. Este libro resume las líneas principales de prueba para quienes dudan o necesitan argumentos.
+El mantra de los opositores, «la teoría de la evolución está en crisis», es falso. La evolución no es solo una «teoría»: es un <span class="term">hecho</span> respaldado por un siglo y medio de evidencia que confirma la propuesta darwiniana, especialmente la selección natural. Este libro resume las líneas principales de prueba para quienes dudan o necesitan argumentos.
 
 <!-- paragraph -->
-En la introducción, Coyne recuerda a <span class="person">Darwin</span>: la evolución muestra nuestro lugar en el árbol de la vida y reemplaza mitos milenarios. La selección natural es un mecanismo de belleza asombrosa y simplicidad. Los biólogos confían en el darwinismo tanto como en la existencia de átomos — pero fuera de la ciencia persisten resistencias psicológicas y religiosas.
+En la introducción, Coyne recuerda a <span class="person">Darwin</span>. Según él, la evolución muestra nuestro lugar en el árbol de la vida y reemplaza mitos milenarios. La selección natural es un mecanismo de belleza asombrosa y simplicidad. Los biólogos confían en el darwinismo tanto como en la existencia de átomos, pero fuera de la ciencia persisten resistencias psicológicas y religiosas.
 
 <!-- quote -->
 > «Hay grandeza en esta visión de la vida... de tan simple un principio han continuado y continúan evolucionando formas infinitas, las más hermosas y maravillosas.»
@@ -63,10 +63,10 @@ Coyne escribe para quienes aceptan la evolución pero no saben cómo defenderla 
 La naturaleza parece diseñada: camaleones, colibríes, orquídeas que engañan a polinizadores. <span class="person">William Paley</span> (<span class="num">1802</span>) argumentó que, como un reloj implica relojero, la complejidad biológica implica un Diseñador. Darwin ofreció la alternativa: <span class="term">evolución</span> y <span class="term">selección natural</span>.
 
 <!-- paragraph -->
-La evolución moderna se resume en seis componentes: (1) cambio genético en el tiempo; (2) <span class="term">gradualismo</span> — cambios grandes requieren miles o millones de generaciones; (3) <span class="term">especiación</span> — linajes que dejan de intercambiar genes; (4) <span class="term">ascendencia común</span> — todos compartimos ancestros; (5) selección natural como mecanismo principal; (6) otros mecanismos menores (deriva génica, etc.).
+La evolución moderna se resume en seis componentes: cambio genético en el tiempo, <span class="term">gradualismo</span> (cambios grandes requieren miles o millones de generaciones), <span class="term">especiación</span> (linajes que dejan de intercambiar genes), <span class="term">ascendencia común</span> (todos compartimos ancestros), selección natural como mecanismo principal, y otros mecanismos menores como la deriva génica.
 
 <!-- paragraph -->
-Los árboles filogenéticos muestran relaciones anidadas: vertebrados comparten columna; reptiles y mamíferos comparten huevo amniótico; mamíferos tienen pelo y leche. Esta jerarquía natural predató a Darwin; él explicó por qué existe: la divergencia por descendencia con modificación.
+Los árboles filogenéticos muestran relaciones anidadas: los vertebrados comparten columna, los reptiles y mamíferos comparten huevo amniótico, y los mamíferos tienen pelo y leche. Esta jerarquía natural predató a Darwin, quien explicó por qué existe: la divergencia por descendencia con modificación.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -89,7 +89,7 @@ Los árboles filogenéticos muestran relaciones anidadas: vertebrados comparten 
 La historia de la vida está escrita en fósiles — un museo desgarrado pero legible. Paleontólogos como <span class="person">Paul Sereno</span> arriesgan el Sahara para descubrir especies como *Afrovenator* y *Jobaria* que reescriben la evolución de dinosaurios.
 
 <!-- paragraph -->
-Formarse fósiles requiere enterramiento rápido en sedimentos; los tejidos blandos casi nunca fossilizan. De entre <span class="num">17 millones</span> y <span class="num">4 mil millones</span> de especies estimadas, conocemos ~<span class="num">250.000</span> fósiles — una muestra pequeña pero suficiente. Geólogos creacionistas ordenaron capas por <span class="term">superposición</span> (<span class="person">Nicolaus Steno</span>, s. XVII) antes del darwinismo.
+Formarse fósiles requiere enterramiento rápido en sedimentos, y los tejidos blandos casi nunca fossilizan. De entre <span class="num">17 millones</span> y <span class="num">4 mil millones</span> de especies estimadas, conocemos ~<span class="num">250.000</span> fósiles, una muestra pequeña pero suficiente. Geólogos creacionistas ordenaron capas por <span class="term">superposición</span> (<span class="person">Nicolaus Steno</span>, s. XVII) antes del darwinismo.
 
 <!-- paragraph -->
 Desde ~<span class="num">1945</span>, la datación radiométrica mide edades absolutas. La secuencia confirma predicciones evolutivas: especies más primitivas en capas más antiguas, transiciones como dinosaurios emplumados entre reptiles y aves, y fósiles que combinan rasgos de grupos hoy separados.
@@ -112,13 +112,13 @@ Los fósiles no son prueba circunstancial: son predicciones cumplidas del árbol
 ## title: Vestigios: remanentes, embriones y mal diseño
 
 <!-- paragraph lead -->
-Los organismos son <span class="term">palimpsestos</span> evolutivos — como manuscritos medievales reescritos donde trazas del texto original persisten. <span class="person">Theodosius Dobzhansky</span>: «Nada en biología tiene sentido excepto a la luz de la evolución.»
+Los organismos son <span class="term">palimpsestos</span> evolutivos, como manuscritos medievales reescritos donde trazas del texto original persisten. <span class="person">Theodosius Dobzhansky</span> resumió la idea: «Nada en biología tiene sentido excepto a la luz de la evolución.»
 
 <!-- paragraph -->
 Los <span class="term">órganos vestigiales</span> son rasgos que perdieron la función para la cual evolucionaron: alas de avestruz (útiles pero reveladoras de ancestros voladores), apéndice, pelos erector pili. Un rasgo puede ser vestigial y funcional a la vez — lo vestigial indica la función ancestral, no ausencia de uso actual.
 
 <!-- paragraph -->
-Los <span class="term">atavismos</span> reactivan genes antiguos silenciados. El desarrollo embrionario muestra fases compartidas entre especies emparentadas. El «mal diseño» — nervio laríngeo recurrente, espalda dolorosa humana — encaja con historia evolutiva, no con diseño óptimo de novo.
+Los <span class="term">atavismos</span> reactivan genes antiguos silenciados. El desarrollo embrionario muestra fases compartidas entre especies emparentadas. El «mal diseño» (nervio laríngeo recurrente, espalda dolorosa humana) encaja con historia evolutiva, no con diseño óptimo de novo.
 
 <!-- list -->
 - **Palimpsesto** — Capas de historia evolutiva legibles en anatomía, ADN y desarrollo.
@@ -136,13 +136,13 @@ Los vestigios refutan el diseño inteligente optimizado: muestran <span class="k
 ## title: La geografía de la vida
 
 <!-- paragraph lead -->
-La biogeografía — dónde viven las especies — fue crucial para Darwin en las islas Galápagos y en todo su viaje en el *Beagle*. Especies similares habitan regiones próximas; islas oceánicas tienen fauna endémica emparentada con continentes vecinos.
+La <span class="term">biogeografía</span>, el estudio de dónde viven las especies, fue crucial para Darwin en las islas Galápagos y en todo su viaje en el *Beagle*. Especies similares habitan regiones próximas, y las islas oceánicas tienen fauna endémica emparentada con continentes vecinos.
 
 <!-- paragraph -->
 Los patrones de distribución encajan con dispersión limitada y especiación en aislamiento: marsupiales en Australia, cactáceas en América, lemures en Madagascar. No hay explicación creacionista coherente para por qué un Diseñador pondría especies relacionadas exactamente donde la geología permite dispersión histórica.
 
 <!-- paragraph -->
-Fósiles de la misma edad en continentes separados muestran formas emparentadas — prueba de conexiones terrestres pasadas (Pangea, puentes de tierra) o de dispersión oceánica. La geología y la biología convergen en una narrativa temporal única.
+Fósiles de la misma edad en continentes separados muestran formas emparentadas, lo que prueba conexiones terrestres pasadas (Pangea, puentes de tierra) o dispersión oceánica. La geología y la biología convergen en una narrativa temporal única.
 
 <!-- key -->
 La geografía de la vida es un mapa de <span class="key-term">historia evolutiva</span>: dónde se separaron linajes y cómo dispersaron.
@@ -155,10 +155,10 @@ La geografía de la vida es un mapa de <span class="key-term">historia evolutiva
 ## title: El motor de la evolución
 
 <!-- paragraph lead -->
-La <span class="term">selección natural</span> explica adaptaciones asombrosas: el avispón gigante asiático que masacra colmenas europeas — las abejas nativas de Japón, en cambio, forman una bola caliente a <span class="num">117 °F</span> y «cocinan» al explorador en <span class="num">20 minutos</span>.
+La <span class="term">selección natural</span> explica adaptaciones asombrosas. El avispón gigante asiático masacra colmenas europeas, pero las abejas nativas de Japón forman una bola caliente a <span class="num">117 °F</span> y «cocinan» al explorador en <span class="num">20 minutos</span>.
 
 <!-- paragraph -->
-Las abejas europeas, sin historia con el depredador, carecen de defensa — exactamente lo que predice la evolución. Coyne documenta parasitismo manipulador (gusanos que convierten hormigas en «bayas» para pájaros), mimetismo (insectos hoja, orquídeas que imitan insectos) y adaptaciones de depredación especializadas.
+Las abejas europeas, sin historia con el depredador, carecen de defensa, exactamente lo que predice la evolución. Coyne documenta parasitismo manipulador (gusanos que convierten hormigas en «bayas» para pájaros), mimetismo (insectos hoja, orquídeas que imitan insectos) y adaptaciones de depredación especializadas.
 
 <!-- paragraph -->
 La selección natural no es fuerza consciente: es resultado de variación heredable, superproducción y diferencias en supervivencia/reproducción. Las adaptaciones «malvadas» del parasitismo y las «ingeniosas» del mutualismo son productos del mismo motor.
@@ -181,13 +181,13 @@ La selección natural es el <span class="key-term">motor</span> que esculpe la c
 ## title: Cómo el sexo impulsa la evolución
 
 <!-- paragraph lead -->
-La reproducción sexual parece costosa — solo la mitad de genes pasan, hay que encontrar pareja — pero domina la vida multicelular. ¿Por qué? Porque mezcla genes y permite respuesta rápida a parásitos y cambio ambiental.
+La reproducción sexual parece costosa, porque solo la mitad de los genes pasan y hay que encontrar pareja, pero domina la vida multicelular. ¿Por qué? Porque mezcla genes y permite respuesta rápida a parásitos y cambio ambiental.
 
 <!-- paragraph -->
 Coyne explica hipótesis clásicas: la <span class="term">lotería de Weismann</span> (variabilidad), la <span class="term">hipótesis del Rey Rojo</span> (carrera armamentística con parásitos que evolucionan rápido) y la recombinación que rompe combinaciones de genes deleterios.
 
 <!-- paragraph -->
-El sexo genera variación sobre la cual actúa la selección; sin él, las especies asexuales acumulan mutaciones deleterias (declive de Muller) y quedan vulnerables a enfermedades. La paradoja del sexo sigue activa, pero la evidencia favorece ventajas evolutivas claras.
+El sexo genera variación sobre la cual actúa la selección. Las especies asexuales, privadas de reproducción sexual, acumulan mutaciones deleterias (declive de Muller) y quedan vulnerables a enfermedades. La paradoja del sexo sigue activa, pero la evidencia favorece ventajas evolutivas claras.
 
 <!-- key -->
 El sexo es motor evolutivo porque genera <span class="key-term">variación genética</span> — materia prima de la selección natural.
@@ -200,13 +200,13 @@ El sexo es motor evolutivo porque genera <span class="key-term">variación gené
 ## title: El origen de las especies
 
 <!-- paragraph lead -->
-Darwin tituló su libro *El origen de las especies* pero, sin genética, no explicó del todo las barreras reproductivas. La comprensión moderna — área de investigación de Coyne — llegó en la década de <span class="num">1930</span>.
+Darwin tituló su libro *El origen de las especies*, pero sin genética no explicó del todo las barreras reproductivas. La comprensión moderna, área de investigación de Coyne, llegó en la década de <span class="num">1930</span>.
 
 <!-- paragraph -->
-La <span class="term">especiación</span> ocurre cuando poblaciones acumulan diferencias genéticas hasta perder capacidad de intercambiar genes: aislamiento geográfico, selección divergente, incompatibilidad cromosómica. No es evento dramático visible — dos poblaciones de reptiles que dejan de cruzarse parecen idénticas al inicio.
+La <span class="term">especiación</span> ocurre cuando poblaciones acumulan diferencias genéticas hasta perder capacidad de intercambiar genes: aislamiento geográfico, selección divergente, incompatibilidad cromosómica. No es un evento dramático visible. Dos poblaciones de reptiles que dejan de cruzarse parecen idénticas al inicio.
 
 <!-- paragraph -->
-Modos principales: <span class="term">alopátrica</span> (poblaciones separadas geográficamente) y <span class="term">simpátrica</span> (misma área, a menudo por cambio de host o poliploidía en plantas). El 99+ % de especies se extingue sin descendientes; la diversidad actual es fruto de ramificaciones exitosas.
+Los modos principales son la especiación <span class="term">alopátrica</span> (poblaciones separadas geográficamente) y la <span class="term">simpátrica</span> (misma área, a menudo por cambio de host o poliploidía en plantas). Más del 99 % de las especies se extingue sin descendientes, y la diversidad actual es fruto de ramificaciones exitosas.
 
 <!-- key -->
 Especiación = evolución de <span class="key-term">barreras reproductivas</span>; explica por qué hay millones de especies en vez de una sola.
@@ -219,13 +219,13 @@ Especiación = evolución de <span class="key-term">barreras reproductivas</span
 ## title: ¿Qué hay de nosotros?
 
 <!-- paragraph lead -->
-Los humanos no estamos fuera de la evolución. Compartimos ~<span class="num">98–99 %</span> del ADN con chimpancés; fósiles documentan transición de *Australopithecus* a *Homo*, con aumento cerebral, bipedestación y uso de herramientas.
+Los humanos no estamos fuera de la evolución. Compartimos ~<span class="num">98–99 %</span> del ADN con chimpancés, y los fósiles documentan la transición de *Australopithecus* a *Homo*, con aumento cerebral, bipedestación y uso de herramientas.
 
 <!-- paragraph -->
-Coyne aborda racionalismo vs. creacionismo humano: no hay «salto» inexplicable en complejidad. Rasgos humanos — lenguaje, moralidad, cultura — tienen precursores animales y bases cerebrales evolutivas. La evolución no dicta ética; quien saca «somos solo monos» como excusa para inmoralidad comete falacia naturalista.
+Coyne aborda racionalismo frente a creacionismo humano: no hay «salto» inexplicable en complejidad. Rasgos humanos (lenguaje, moralidad, cultura) tienen precursores animales y bases cerebrales evolutivas. La evolución no dicta ética, y quien saca «somos solo monos» como excusa para inmoralidad comete falacia naturalista.
 
 <!-- paragraph -->
-La genética poblacional muestra que la raza humana es contínuo genético, no categorías discretas. Somos una especie joven (~<span class="num">200.000</span>–<span class="num">300.000</span> años) con poca diversidad genética comparada con otros primates — resultado de cuello de botella y expansión reciente.
+La genética poblacional muestra que la raza humana es un continuo genético, no categorías discretas. Somos una especie joven (~<span class="num">200.000</span>–<span class="num">300.000</span> años) con poca diversidad genética comparada con otros primates, resultado de cuello de botella y expansión reciente.
 
 <!-- key -->
 Somos <span class="key-term">primates evolucionados</span> — producto del mismo proceso documentado en el resto de la vida.
@@ -238,10 +238,10 @@ Somos <span class="key-term">primates evolucionados</span> — producto del mism
 ## title: Evolución revisitada
 
 <!-- paragraph lead -->
-Coyne cierra reafirmando: la evolución es tan cierta como cualquier hecho científico. No depende de fe; depende de evidencia convergente de fósiles, biogeografía, genética, anatomía comparada y experimentos de laboratorio (ej. evolución de bacterias resistentes en tiempo real).
+Coyne cierra reafirmando que la evolución es tan cierta como cualquier hecho científico. No depende de fe, sino de evidencia convergente de fósiles, biogeografía, genética, anatomía comparada y experimentos de laboratorio (por ejemplo, evolución de bacterias resistentes en tiempo real).
 
 <!-- paragraph -->
-Los «agujeros» alegados por creacionistas — origen de la vida, detalles de algunas transiciones — no invalidan el núcleo darwiniano. La ciencia progresa llenando vacíos; el diseño inteligente no predice ni explica nada testeable.
+Los «agujeros» alegados por creacionistas (origen de la vida, detalles de algunas transiciones) no invalidan el núcleo darwiniano. La ciencia progresa llenando vacíos, y el diseño inteligente no predice ni explica nada testeable.
 
 <!-- paragraph -->
 Aceptar la evolución no elimina sentido ni moral — libera de mitos falsos sobre nuestros orígenes y conecta con el resto del mundo vivo. Darwin tenía razón en la grandiosidad de esta visión de la vida.
@@ -323,9 +323,8 @@ La evolución no está en crisis: es el <span class="key-term">marco unificador<
 <!-- closing -->
 La evolución no es una creencia opcional: es hecho científico.
 Fósiles, genes, geografía y desarrollo convergen en la misma historia.
+<!-- highlight -->La evolución es verdad tan cierta como la gravedad<!-- /highlight -->
 La selección natural explica la complejidad sin diseñador.
-La evolución es verdad —
-<!-- highlight -->tan cierta como la gravedad<!-- /highlight -->
 Entenderla no empobrece la vida humana: revela nuestro parentesco con todo lo vivo.
 La resistencia viene de la religión, no de lagunas en la evidencia.
 

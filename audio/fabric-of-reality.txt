@@ -1,5 +1,17 @@
 El tejido de la realidad, de David Deutsch.
 
+La idea central
+
+La tesis de Deutsch es que la realidad se vuelve inteligible solo cuando unimos física cuántica, teoría del conocimiento, computación y evolución.
+
+Ese cruce reemplaza la búsqueda de certezas finales por un programa de mejora constante de explicaciones.
+
+En ese marco, los universos paralelos, los límites del cálculo y la vida como información replicable dejan de ser temas separados.
+
+La racionalidad no garantiza infalibilidad, pero sí progreso crítico.
+
+El tejido de la realidad es, también, el tejido de cómo aprendemos a entenderla.
+
 Prefacio. Tomar en serio las teorías profundas
 
 Deutsch sostiene que una comprensión real del mundo exige tomar en serio las mejores teorías científicas como explicaciones, no solo como instrumentos de predicción.
@@ -20,7 +32,7 @@ Capítulo dos. Resolución de problemas
 
 Deutsch rechaza el inductivismo: repetir observaciones no basta para justificar teorías ni para crearlas.
 
-Con Popper, propone que la ciencia avanza resolviendo problemas: se formulan conjeturas, se critican y se reemplazan por explicaciones mejores. El experimento refuta errores, pero no otorga certeza final.
+Siguiendo a Popper, Deutsch sostiene que la ciencia avanza resolviendo problemas. Se formulan conjeturas, se critican y se reemplazan por explicaciones mejores. El experimento refuta errores, pero no otorga certeza final.
 
 Idea clave: El conocimiento crece por crítica racional entre explicaciones rivales, no por acumulación de casos.
 
@@ -44,7 +56,7 @@ Capítulo cinco. Universalidad y límites del cálculo
 
 Si toda realidad virtual depende de cómputo, su frontera coincide con la computabilidad física.
 
-Deutsch combina la idea de máquina universal con límites de tipo diagonal (Cantor/Turing): hay procesos que pueden emularse universalmente y otros que quedan fuera de todo cálculo físico posible.
+Deutsch combina la idea de máquina universal con límites de tipo diagonal (Cantor y Turing). Hay procesos que pueden emularse universalmente y otros que quedan fuera de todo cálculo físico posible.
 
 Idea clave: La computación puede ser universal dentro de lo físicamente computable, pero no abarcar todo lo lógicamente imaginable.
 
@@ -84,7 +96,7 @@ Capítulo diez. El tiempo: primer concepto cuántico
 
 El tiempo no es un añadido externo a la teoría cuántica: atraviesa su forma de describir cambio y posibilidad.
 
-Deutsch insiste en que intuiciones temporales clásicas pueden bloquear buenas explicaciones cuánticas; entender el tiempo exige revisar esos marcos.
+Deutsch insiste en que las intuiciones temporales clásicas pueden bloquear buenas explicaciones cuánticas. Entender el tiempo exige revisar esos marcos.
 
 Idea clave: Pensar el tiempo cuánticamente implica abandonar simplificaciones clásicas sobre historia y causalidad.
 
@@ -108,7 +120,7 @@ Capítulo 13. Los fines del universo
 
 El cierre proyecta las consecuencias cosmológicas del marco propuesto: límites físicos, destino de la complejidad y futuro del conocimiento.
 
-Más que un final cerrado, Deutsch propone un horizonte abierto en el que las leyes de la naturaleza y la capacidad explicativa de mentes racionales co-determinan lo posible.
+Más que un final cerrado, Deutsch propone un horizonte abierto. En él, las leyes de la naturaleza y la capacidad explicativa de mentes racionales codeterminan lo posible.
 
 Idea clave: El futuro cósmico depende de la interacción entre restricciones físicas y creación continua de conocimiento.
 
@@ -167,15 +179,3 @@ Charles Darwin, Teoría evolutiva de la selección natural aplicada al origen de
 Kurt Gödel, Lógico; límites de demostración en sistemas formales.
 
 Richard Dawkins, Biólogo; desarrollo y difusión del concepto de replicador/meme.
-
-La idea central
-
-La tesis de Deutsch es que la realidad se vuelve inteligible solo cuando unimos física cuántica, teoría del conocimiento, computación y evolución.
-
-Ese cruce reemplaza la búsqueda de certezas finales por un programa de mejora constante de explicaciones.
-
-En ese marco, los universos paralelos, los límites del cálculo y la vida como información replicable dejan de ser temas separados.
-
-La racionalidad no garantiza infalibilidad, pero sí progreso crítico.
-
-El tejido de la realidad es, también, el tejido de cómo aprendemos a entenderla.

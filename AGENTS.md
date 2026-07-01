@@ -55,13 +55,19 @@ Usuario: "Generame el html del libro Sapiens"
             └─ Si el usuario pide regenerar contenido → PASO A
         │
         ▼
-[3] PASO B (MD → src/data/<slug-corto>.ts)
+[3] PASO C (opcional) — corrección mínima por sección
+    │   docs/prompts/01c-correccion-minima.md
+    │   python3 scripts/lint-summary.py <slug>
         │
         ▼
-[4] INTEGRAR en src/App.vue (si es libro nuevo)
+[4] PASO B (MD → src/data/<slug-corto>.ts) — preferir script:
+    │   python3 scripts/md-to-ts.py <slug>
         │
         ▼
-[5] npm run build  (obligatorio, debe pasar)
+[5] INTEGRAR en src/books/catalog.ts (si es libro nuevo)
+        │
+        ▼
+[6] npm run build  (obligatorio, debe pasar)
         │
         ▼
 [6] (Opcional) legacy/resumen-<slug>.html  ← solo si lo pidió
@@ -133,6 +139,20 @@ Si hay ambigüedad entre varios archivos, **preguntar** al usuario cuál usar.
 
 ---
 
+## Paso C — Corrección mínima (opcional, recomendado)
+
+**Leer:** `docs/prompts/01c-correccion-minima.md`
+
+Corregir **solo** redundancias, telegráfico y gramática en `# prefacio` y `# capN`. No cambiar ideas ni citas.
+
+```bash
+python3 scripts/lint-summary.py <slug>   # detectar párrafos sospechosos
+```
+
+Luego `python3 scripts/md-to-ts.py <slug>` y `npm run build`.
+
+---
+
 ## Paso B — MD → `src/data/<slug-corto>.ts`
 
 **Leer y seguir al pie de la letra:**
@@ -143,7 +163,11 @@ Si hay ambigüedad entre varios archivos, **preguntar** al usuario cuál usar.
 
 **Acciones:**
 
-1. Transformar el `.md` a `BookSummary` tipado
+1. **Preferir el script mecánico** (evita errores en `closing` y bloques):
+   ```bash
+   python3 scripts/md-to-ts.py <slug>
+   ```
+2. Si hace falta conversión manual, seguir `docs/prompts/02-vista-desde-resumen.md`
 2. **No agregar contenido** que no esté en el `.md`
 3. Secciones `# conceptos`, `# cronologia`, `# figuras`, `# cierre`, `# footer` → propiedades top-level, **no** van en `sections[]`
 

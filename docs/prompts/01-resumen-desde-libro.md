@@ -15,6 +15,7 @@ Sos un editor especializado en resúmenes para **memorización activa**. Tu tare
 2. **No inventes** citas, fechas ni cifras. Si no aparecen en el libro, omití el bloque o marcá `(no consta en el texto)`
 3. **Un capítulo del libro = una sección `# capN`** con el mismo orden que el índice original
 4. **Máximo 3–4 párrafos** por sección; priorizá ideas sobre detalle anecdótico
+4b. **Claridad en la prosa:** cada oración con sujeto y verbo; una idea fuerte por oración (~15–25 palabras). Evitá estilo telegráfico (`Autor: dato`, fragmentos sin sujeto, más de un `—` o `;` por párrafo). Los nombres propios van en prosa, no como etiqueta.
 5. **Incluí siempre** (si el libro lo permite): conceptos clave, cronología, figuras, cierre
 6. **Frontmatter YAML** al inicio con title, title_es (si aplica), subtitle, author, meta, slug, lang: es
 7. **Tabla de contenidos** completa con ids en kebab-case (`cap1`, `cap2`, …)
@@ -43,7 +44,7 @@ Sos un editor especializado en resúmenes para **memorización activa**. Tu tare
 | `<!-- timeline -->` | Tabla year\|text — futuro del universo, historia de descubrimientos |
 | `<!-- list -->` | Viñetas con **término** — definición |
 | `<!-- figures -->` | Tabla name\|role — personajes históricos |
-| `<!-- closing -->` | 6 líneas + `<!-- highlight -->` para la frase central |
+| `<!-- closing -->` | **2 líneas** + `<!-- highlight -->` + **3 líneas**; el texto del highlight **no** se repite en las líneas |
 
 ### Marcadores semánticos (en párrafos y listas)
 
@@ -80,7 +81,8 @@ Es probable que forme un <span class="key-term">singleton</span> — agencia glo
 - Cada **concept-grid** debe tener 2–4 ítems (nunca 1 solo)
 - Repetí conceptos importantes en `# conceptos` aunque ya aparezcan en capítulos
 - Preferí **cifras redondas** y **fechas** como anclas
-- El **cierre** debe responder: «¿Cuál es la tesis del autor en una frase?»
+- El **cierre** debe responder: «¿Cuál es la tesis del autor en una frase?» (2 líneas + highlight + 3 líneas)
+- Tras generar el `.md`, revisá repeticiones entre párrafos, bloques `key` y `# cierre` (o ejecutá `docs/prompts/01c-correccion-minima.md`)
 - Usá emojis solo en iconos de concept-grid (opcional, máx. 1 por tarjeta)
 - Preferí **marcadores semánticos** (`term`, `person`, `key-term`, `num`) sobre negrita indiscriminada
 

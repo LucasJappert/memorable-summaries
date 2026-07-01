@@ -76,7 +76,7 @@ La interferencia cuántica apunta a una realidad con múltiples universos físic
 Deutsch rechaza el <span class="term">inductivismo</span>: repetir observaciones no basta para justificar teorías ni para crearlas.
 
 <!-- paragraph -->
-Con <span class="person">Popper</span>, propone que la ciencia avanza resolviendo problemas: se formulan conjeturas, se critican y se reemplazan por explicaciones mejores. El experimento refuta errores, pero no otorga certeza final.
+Siguiendo a <span class="person">Popper</span>, Deutsch sostiene que la ciencia avanza resolviendo problemas. Se formulan conjeturas, se critican y se reemplazan por explicaciones mejores. El experimento refuta errores, pero no otorga certeza final.
 
 <!-- key -->
 El conocimiento crece por crítica racional entre explicaciones rivales, no por acumulación de casos.
@@ -124,7 +124,7 @@ La virtualidad no es un apéndice tecnológico: ilumina la estructura de la expe
 Si toda realidad virtual depende de cómputo, su frontera coincide con la <span class="term">computabilidad física</span>.
 
 <!-- paragraph -->
-Deutsch combina la idea de <span class="term">máquina universal</span> con límites de tipo diagonal (Cantor/Turing): hay procesos que pueden emularse universalmente y otros que quedan fuera de todo cálculo físico posible.
+Deutsch combina la idea de <span class="term">máquina universal</span> con límites de tipo diagonal (Cantor y Turing). Hay procesos que pueden emularse universalmente y otros que quedan fuera de todo cálculo físico posible.
 
 <!-- key -->
 La computación puede ser universal dentro de lo físicamente computable, pero no abarcar todo lo lógicamente imaginable.
@@ -204,7 +204,7 @@ La matemática expresa estructuras objetivas que dialogan con física, prueba y 
 El <span class="term">tiempo</span> no es un añadido externo a la teoría cuántica: atraviesa su forma de describir cambio y posibilidad.
 
 <!-- paragraph -->
-Deutsch insiste en que intuiciones temporales clásicas pueden bloquear buenas explicaciones cuánticas; entender el tiempo exige revisar esos marcos.
+Deutsch insiste en que las intuiciones temporales clásicas pueden bloquear buenas explicaciones cuánticas. Entender el tiempo exige revisar esos marcos.
 
 <!-- key -->
 Pensar el tiempo cuánticamente implica abandonar simplificaciones clásicas sobre historia y causalidad.
@@ -252,7 +252,7 @@ La «trama» de la realidad se vuelve inteligible cuando los cuatro hilos se lee
 El cierre proyecta las consecuencias cosmológicas del marco propuesto: límites físicos, destino de la complejidad y futuro del conocimiento.
 
 <!-- paragraph -->
-Más que un final cerrado, Deutsch propone un horizonte abierto en el que las leyes de la naturaleza y la capacidad explicativa de mentes racionales co-determinan lo posible.
+Más que un final cerrado, Deutsch propone un horizonte abierto. En él, las leyes de la naturaleza y la capacidad explicativa de mentes racionales codeterminan lo posible.
 
 <!-- key -->
 El futuro cósmico depende de la interacción entre restricciones físicas y creación continua de conocimiento.

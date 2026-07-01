@@ -1,10 +1,22 @@
 Libre albedrío, de Sam Harris.
 
+La idea central
+
+Las intenciones aparecen en conciencia como si brotaran del vacío.
+
+En realidad vienen de causas ocultas que no elegimos ni controlamos.
+
+Podemos reformar justicia y compasión sin el fantasma del autor inmortal.
+
+Reconocerlo no anula elecciones ni esfuerzos: cambia cómo los juzgamos.
+
+Perder la ilusión puede aumentar la libertad vivida y la compasión.
+
 Prólogo. La ilusión que sostiene la moral
 
-La pregunta del libre albedrío toca casi todo lo que nos importa: moral, ley, política, religión, culpa y logro personal. Sin ella, criminales y pecadores serían relojes mal calibrados y la justicia retributiva perdería sentido. Sam Harris abre con el caso de Cheshire (2007): Steven Hayes y Joshua Komisarjevsky asesinaron a Jennifer Petit y a sus hijas tras una noche de violencia.
+La pregunta del libre albedrío toca casi todo lo que nos importa: moral, ley, política, religión, culpa y logro personal. Si no existiera, criminales y pecadores serían relojes mal calibrados y la justicia retributiva perdería sentido. Sam Harris abre con el caso de Cheshire (2007): Steven Hayes y Joshua Komisarjevsky asesinaron a Jennifer Petit y a sus hijas tras una noche de violencia.
 
-Ante semejante horror, casi todos sentimos que los culpables deben responder moralmente. Pero si intercambiáramos átomo por átomo con Komisarjevsky —genes, infancia, cerebro idéntico— actuaríamos igual que él. El papel de la suerte parece decisivo. Un tumor cerebral que explique la violencia desplazaría nuestra culpa; la neurofisiología ordinaria haría lo mismo.
+Ante semejante horror, casi todos sentimos que los culpables deben responder moralmente. Pero si intercambiáramos átomo por átomo con Komisarjevsky (genes, infancia y cerebro idénticos), actuaríamos igual que él. El papel de la suerte parece decisivo. Un tumor cerebral que explique la violencia desplazaría nuestra culpa, y la neurofisiología ordinaria haría lo mismo.
 
 Cita: El libre albedrío es una ilusión. Nuestras voluntades no son de nuestra propia creación. — Sam Harris
 
@@ -12,11 +24,11 @@ Idea clave: No somos los autores conscientes de nuestros pensamientos: las inten
 
 Capítulo uno. Orígenes inconscientes de la voluntad
 
-Procesamos solo una fracción minúscula de lo que el cerebro calcula en cada instante. Esta mañana Harris tomó café, no té; no sabe por qué. La elección apareció en conciencia, no la originó allí.
+Procesamos solo una fracción minúscula de lo que el cerebro calcula en cada instante. Esta mañana Harris tomó café, no té, y no sabe por qué. La elección apareció en conciencia, pero no se originó allí.
 
-Benjamin Libet (1983) detectó actividad motora unos 300 ms antes de que la persona sintiera haber decidido moverse. Con fMRI, John-Dylan Haynes predijo la elección 7–10 s antes; registros directos de 256 neuronas alcanzaron ~80 % de precisión a 700 ms. Antes de que parezcamos libres, el cerebro ya decidió.
+Benjamin Libet (1983) detectó actividad motora unos 300 ms antes de que la persona sintiera haber decidido moverse. Con fMRI, John-Dylan Haynes predijo la elección 7–10 s antes. Registros directos de 256 neuronas alcanzaron ~80 % de precisión a 700 ms. Antes de que parezcamos libres, el cerebro ya decidió.
 
-Aunque el alma fuera inmaterial, no ayudaría: si no sabes qué hará tu alma, no controlas nada. La distinción voluntario/involuntario existe, pero no salva el libre albedrío: las intenciones siguen siendo misteriosas en origen.
+Aunque el alma fuera inmaterial, no ayudaría: si no sabes qué hará tu alma, no controlas nada. La distinción voluntario/involuntario existe, pero no salva el libre albedrío. Las intenciones siguen siendo misteriosas en origen.
 
 Retraso consciente. La conciencia llega tarde a decisiones ya iniciadas en el cerebro.
 
@@ -24,15 +36,15 @@ Testigo, no autor. Somos testigos de impulsos, no su fuente última.
 
 Alma sin ventaja. Incluso dualismo deja intacto el problema de la responsabilidad.
 
-Idea clave: Para tener libre albedrío de verdad habría que controlar todas las influencias que moldean cada pensamiento —pero ¿qué influiría en esas influencias?
+Idea clave: Para tener libre albedrío de verdad habría que controlar todas las influencias que moldean cada pensamiento. Pero entonces, ¿qué influiría en esas influencias?
 
 Capítulo dos. Cambiar de tema
 
 El libre albedrío nace de una experiencia sentida, no de un argumento abstracto. En filosofía conviven determinismo, libertarianismo y compatibilismo.
 
-Los compatibilistas —como Daniel Dennett— dicen que actuar según tus deseos sin coacción externa es libertad. Pero eso no coincide con lo que la gente siente: creer poder haber actuado de otro modo con el universo idéntico. Si las causas cerebrales son totalmente eficaces, la responsabilidad personal convencional pierde anclaje.
+Los compatibilistas, como Daniel Dennett, dicen que actuar según tus deseos sin coacción externa es libertad. Pero eso no coincide con lo que la gente siente: creer poder haber actuado de otro modo con el universo idéntico. Si las causas cerebrales son totalmente eficaces, la responsabilidad personal convencional pierde anclaje.
 
-Dennett afirma que somos también la neurofisiología inconsciente. Harris responde: somos polvo de estrellas, pero no nos sentimos estrellas; esa identidad no guía la intuición moral. El compatibilismo ignora la fuente del problema: la sensación de autoría consciente.
+Dennett afirma que somos también la neurofisiología inconsciente. Harris responde que somos polvo de estrellas, pero no nos sentimos estrellas, y esa identidad no guía la intuición moral. El compatibilismo ignora la fuente del problema: la sensación de autoría consciente.
 
 Cita: Un títere es libre mientras ame sus cuerdas. — Crítica al compatibilismo (parafraseado)
 
@@ -40,9 +52,9 @@ Idea clave: Los compatibilistas cambian el tema: sustituyen la experiencia psico
 
 Capítulo tres. Causa y efecto
 
-Toda acción humana puede reducirse a eventos impersonales: genes, neurotransmisores, músculos. Algunos esperan que el azar cuántico o la aleatoriedad sináptica —como la de Martin Heisenberg— abra espacio al libre albedrío.
+Toda acción humana puede reducirse a eventos impersonales: genes, neurotransmisores y músculos. Algunos esperan que el azar cuántico o la aleatoriedad sináptica (como la de Martin Heisenberg) abra espacio al libre albedrío.
 
-Pero un neurotransmisor liberado al azar no es yo decidiendo: es suerte, no responsabilidad. Si cada acto fuera aleatorio, no habría mente coherente. La indeterminación cuántica no hace inteligible el concepto: si todo está determinado, el futuro ya está fijado; si hay azar, tampoco merecemos crédito.
+Pero un neurotransmisor liberado al azar no es yo decidiendo: es suerte, no responsabilidad. Si cada acto fuera aleatorio, no habría mente coherente. La indeterminación cuántica no hace inteligible el concepto. Si todo está determinado, el futuro ya está fijado. Si hay azar, tampoco merecemos crédito.
 
 ~300 ms. Ventaja neural sobre la conciencia de moverse (Libet)
 
@@ -52,11 +64,11 @@ Idea clave: Ni determinismo ni azar cuántico producen la libertad que la gente 
 
 Capítulo cuatro. Elecciones, esfuerzos e intenciones
 
-Podemos distinguir estados volicionales de reflejos automáticos; la atención consciente importa para planificar y corregir. Pero todo el proceso —dolor, pensamientos, terapia física— surge sin que el yo consciente lo haya creado.
+Podemos distinguir estados volicionales de reflejos automáticos, y la atención consciente importa para planificar y corregir. Pero todo el proceso (dolor, pensamientos, terapia física) surge sin que el yo consciente lo haya creado.
 
 Confundir determinismo con fatalismo es un error: sentarse a esperar también es una elección con consecuencias. Las decisiones son estados causales del cerebro que producen resultados reales. Aun así, la próxima elección emergerá de causas previas que el testigo consciente no trajo a la existencia.
 
-Harris relata cambios de vida —dieta, artes marciales, emprendimiento— que parecen prueba de voluntad. Pero no puede explicar por qué funcionó esta vez y no antes. Puedes elegir lo que quieres, pero no elegir qué quieres ni por qué un deseo vence a otro.
+Harris relata cambios de vida (dieta, artes marciales, emprendimiento) que parecen prueba de voluntad. Pero no puede explicar por qué funcionó esta vez y no antes. Puedes elegir lo que quieres, pero no elegir qué quieres ni por qué un deseo vence a otro.
 
 Cita: Puedes hacer lo que decidas —pero no puedes decidir qué decidirás. — Sam Harris
 
@@ -66,19 +78,19 @@ Capítulo cinco. ¿La verdad nos haría daño?
 
 Estudios muestran que leer argumentos contra el libre albedrío puede aumentar trampa en exámenes o agresividad. La preocupación no es infundada, pero Harris no teme degradar la moral de sus lectores.
 
-Perder la ilusión aumentó su compasión, perdón y disminuyó el sentido de merecer la buena suerte. En clase de autodefensa, en cambio, un golpea los ojos sigue siendo útil aunque el agresor sea víctima de causas previas.
+Perder la ilusión aumentó su compasión y su perdón, y disminuyó el sentido de merecer la buena suerte. En clase de autodefensa, en cambio, un golpea los ojos sigue siendo útil aunque el agresor sea víctima de causas previas.
 
-Conocer causas de humor o azúcar en sangre puede mejorar el control práctico sin restaurar libre albedrío. Cambiar inputs —habilidades, relaciones, hábitos de atención— transforma vidas aunque nada sea libre en el sentido mítico.
+Conocer causas de humor o azúcar en sangre puede mejorar el control práctico sin restaurar libre albedrío. Cambiar inputs (habilidades, relaciones, hábitos de atención) transforma vidas aunque nada sea libre en el sentido mítico.
 
 Idea clave: Reconocer la ilusión puede aumentar la libertad vivida: menos identificación rígida con el pasado y más espacio para cambiar.
 
 Capítulo seis. Responsabilidad moral
 
-La Corte Suprema de EE. UU. (United States v. Grayson, 1978) vincula el libre albedrío al sistema penal. Harris propone responsabilidad sin ilusión: ser responsable es que la conducta refleje la mente global —creencias, deseos, historial.
+La Corte Suprema de EE. UU. (United States v. Grayson, 1978) vincula el libre albedrío al sistema penal. Harris propone responsabilidad sin ilusión: ser responsable es que la conducta refleje la mente global (creencias, deseos, historial).
 
-Cinco casos graduales (niño de 4 años, abusado de 12, adulto abusado, psicópata, psicópata con tumor) muestran cómo el contexto modula la indignación aunque el cerebro sea siempre la causa. El tumor absuelve porque parece adventicio; pero a medida que entendemos causas, la línea entre casos 4 y 5 se difumina.
+Cinco casos graduales (niño de 4 años, abusado de 12, adulto abusado, psicópata, psicópata con tumor) muestran cómo el contexto modula la indignación aunque el cerebro sea siempre la causa. El tumor absuelve porque parece adventicio. Pero a medida que entendemos causas, la línea entre casos 4 y 5 se difumina.
 
-Encarcelar peligrosos protege a otros; el odio retributivo se debilita al ver a depredadores como desafortunados. Si existiera cura barata del mal, retenerla como castigo sería absurdo —lo que revela cuánto depende la venganza de ignorar causas.
+Encarcelar peligrosos protege a otros, y el odio retributivo se debilita al ver a depredadores como desafortunados. Si existiera cura barata del mal, retenerla como castigo sería absurdo. Eso revela cuánto depende la venganza de ignorar causas.
 
 Contención. Alejar peligros sin odiar al agente.
 
@@ -90,17 +102,17 @@ Idea clave: Podemos responsabilizar conductas compatibles con el carácter sin c
 
 Capítulo siete. Política
 
-Negar la ilusión tiene implicaciones políticas: liberales suelen reconocer la suerte en el éxito; conservadores a menudo fetichizan el individualismo sin ver cuánta fortuna requiere trabajar duro.
+Negar la ilusión tiene implicaciones políticas. Los liberales suelen reconocer la suerte en el éxito. Los conservadores a menudo fetichizan el individualismo sin ver cuánta fortuna requiere trabajar duro.
 
 Nadie eligió su genoma, país, salud ni economía familiar. Incluso la disciplina para esforzarse es condición neurológica, no mérito. Aun así, exigir esfuerzo y disuadir free riders sigue siendo útil socialmente.
 
-Podemos tratar a personas como responsables en la medida en que eso cambie comportamientos —sin creer en el libre albedrío. Mejorar sociedad es trabajar con la naturaleza, no contra ella.
+Podemos tratar a personas como responsables en la medida en que eso cambie comportamientos, sin creer en el libre albedrío. Mejorar sociedad es trabajar con la naturaleza, no contra ella.
 
 Idea clave: La suerte en la moralidad misma debería moderar el mérito absoluto del éxito y del fracaso.
 
 Capítulo ocho. Conclusión
 
-El misterio del libre albedrío no es solo objetivo sino subjetivo: al observar de cerca, la libertad desaparece. Harris elige escribir lo que quiera —pero ¿de dónde salió conejo y no elefante en su ejemplo?
+El misterio del libre albedrío no es solo objetivo sino subjetivo: al observar de cerca, la libertad desaparece. Harris elige escribir lo que quiera, pero ¿de dónde salió conejo y no elefante en su ejemplo?
 
 Los pensamientos simplemente surgen. La ilusión de libre albedrío es, en sí misma, otra ilusión: no sentimos tanta libertad como creemos cuando prestamos atención.
 
@@ -155,15 +167,3 @@ Itzhak Fried, Registros neuronales directos en pacientes epilépticos.
 Eddy Nahmias, Crítica: capacidades de planificación no equivalen a libre albedrío.
 
 Jared Diamond, Venganza cumplida vs. arrepentimiento por no vengarse (Holocaust).
-
-La idea central
-
-El libre albedrío no es solo falso objetivamente: tampoco coincide con la experiencia si miramos de cerca.
-
-Las intenciones aparecen en conciencia como si brotaran del vacío, pero vienen de causas ocultas.
-
-Podemos reformar justicia y compasión sin el fantasma del autor inmortal.
-
-Reconocerlo no anula elecciones ni esfuerzos: cambia cómo los juzgamos.
-
-Somos tormentas neuronales, no capitanes de ellas.

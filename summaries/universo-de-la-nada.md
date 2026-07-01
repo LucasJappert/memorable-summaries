@@ -37,7 +37,7 @@ lang: es
 ## title: La pregunta fundamental
 
 <!-- paragraph -->
-Krauss arranca con una confesión franca: no siente ninguna cercanía con la idea de que la creación requiera un creador. Copos de nieve y arcoíris surgen espontáneamente de leyes físicas simples — nadie sugiere que un dios los fabrique uno por uno. ¿Por qué habría de ser distinto con el universo entero?
+Krauss arranca con una confesión franca: no siente ninguna cercanía con la idea de que la creación requiera un creador. Copos de nieve y arcoíris surgen espontáneamente de leyes físicas simples, y nadie sugiere que un dios los fabrique uno por uno. ¿Por qué habría de ser distinto con el universo entero?
 
 <!-- paragraph -->
 La pregunta «¿quién creó al creador?» es la trampa clásica de toda Causa Primera. Krauss declara su objetivo desde la primera página: mostrar que la nada es **inherentemente inestable**, y que el universo *pudo* surgir de la nada por procesos puramente físicos, sin necesidad de ningún agente externo.
@@ -50,10 +50,10 @@ La pregunta «¿quién creó al creador?» es la trampa clásica de toda Causa P
 ## title: Un relato de misterio cósmico: el principio
 
 <!-- paragraph -->
-En 1916 Einstein completa la relatividad general. Descubre que sus ecuaciones describen un universo dinámico — se expande o se contrae— pero él, convencido de que el universo es estático, se inventa la **constante cosmológica**: una fuerza repulsiva que contrarresta la gravedad y mantiene todo en su sitio.
+En 1916, Einstein completó la relatividad general. Descubrió que sus ecuaciones describen un universo dinámico que se expande o se contrae, pero él, convencido de que el universo es estático, se inventó la **constante cosmológica**: una fuerza repulsiva que contrarresta la gravedad y mantiene todo en su sitio.
 
 <!-- paragraph -->
-En 1929, Edwin Hubble descubre que las galaxias se alejan unas de otras: el universo se expande. Einstein llama a su constante cosmológica «el mayor error de mi vida». Nace el Big Bang. Pero queda una pregunta incómoda: si el universo se expande hoy, en el pasado estuvo más comprimido... hasta un punto inicial.
+En 1929, Edwin Hubble descubrió que las galaxias se alejan unas de otras: el universo se expande. Einstein llamó a su constante cosmológica «el mayor error de mi vida». Así nació el Big Bang, pero queda una pregunta incómoda: si el universo se expande hoy, en el pasado estuvo más comprimido hasta un punto inicial.
 
 <!-- quote -->
 > «En la teoría de Einstein [...] la gravedad es una fuerza de pura atracción. Esto significa que es imposible tener un conjunto de masas en reposo perpetuo: su atracción gravitatoria mutua terminará provocando que colapsen hacia el interior.»
@@ -70,7 +70,7 @@ En 1929, Edwin Hubble descubre que las galaxias se alejan unas de otras: el univ
 ## title: Luz del principio de los tiempos
 
 <!-- paragraph -->
-Medir la geometría del universo es el desafío. ¿Es plano como una hoja (en 3D), o curvo como un globo? El truco: usar el **fondo cósmico de microondas** (CMB) — la luz fósil del Big Bang.
+Medir la geometría del universo es el desafío. ¿Es plano como una hoja (en 3D), o curvo como un globo? El truco consiste en usar el **fondo cósmico de microondas** (CMB), la luz fósil del Big Bang.
 
 <!-- big-numbers -->
 | value | label |
@@ -90,14 +90,14 @@ La energía que falta no está en las galaxias, ni en los cúmulos, ni en ningun
 ## title: Regalos a cambio de nada
 
 <!-- paragraph -->
-La **inflación cósmica** (Alan Guth, 1981): una fracción de segundo después del Big Bang, el universo experimentó una expansión exponencial, duplicando su tamaño cada 10⁻³⁴ segundos.
+La **inflación cósmica**, que Alan Guth propuso en 1981, describe cómo una fracción de segundo después del Big Bang el universo experimentó una expansión exponencial, duplicando su tamaño cada 10⁻³⁴ segundos.
 
 <!-- concept-grid -->
 | icon | title | description |
 |------|-------|-------------|
-| 🌡️ | Uniformidad | Por qué el CMB tiene la misma temperatura en todo el cielo — regiones que nunca estuvieron en contacto térmico. |
-| 📐 | Planitud | Por qué el universo es tan cercanamente plano — la inflación estiró cualquier curvatura hasta hacerla indetectable. |
-| 🌀 | Semillas | Las fluctuaciones cuánticas durante la inflación se estiraron a escalas macroscópicas, dando origen a las galaxias. |
+| 🌡️ | Uniformidad | Explica por qué el CMB tiene la misma temperatura en regiones del cielo que nunca estuvieron en contacto térmico. |
+| 📐 | Planitud | Por qué el universo es tan cercanamente plano: la inflación estiró cualquier curvatura hasta hacerla indetectable. |
+| 🌀 | Semillas | Las fluctuaciones cuánticas durante la inflación se estiraron a escalas macroscópicas y dieron origen a las galaxias. |
 
 ---
 
@@ -107,14 +107,14 @@ La **inflación cósmica** (Alan Guth, 1981): una fracción de segundo después 
 ## title: La nada es inestable
 
 <!-- paragraph -->
-Este es el corazón del libro. La idea central: **la nada no es estable**. Las fluctuaciones cuánticas pueden crear algo a partir de nada.
+Este es el corazón del libro. La idea central es que **la nada no es estable**: las fluctuaciones cuánticas pueden crear algo a partir de nada.
 
 <!-- concept-grid -->
 | icon | title | description |
 |------|-------|-------------|
 | 🫧 | Creación espontánea | Las fluctuaciones cuánticas pueden producir partículas que persisten si la geometría del espacio lo permite. |
 | ⚡ | Radiación de Hawking | Los agujeros negros emiten radiación porque pares virtuales se separan en el horizonte de sucesos. |
-| 🌌 | Universo túnel | El universo pudo surgir de la nada por efecto túnel cuántico — las leyes cuánticas no necesitan un «antes». |
+| 🌌 | Universo túnel | El universo pudo surgir de la nada por efecto túnel cuántico, sin que las leyes cuánticas requieran un «antes». |
 
 <!-- quote -->
 > «La energía total del universo podría ser exactamente cero. Si es así, el universo no solo pudo surgir de la nada — *debió* surgir de la nada.»
@@ -181,12 +181,11 @@ Este es el corazón del libro. La idea central: **la nada no es estable**. Las f
 
 <!-- closing -->
 La nada es inestable.
-El universo no solo pudo surgir de la nada —
+El universo no solo pudo surgir de la nada.
 <!-- highlight -->probablemente debió hacerlo<!-- /highlight -->
-La energía total del cosmos es cero.
+La energía total del cosmos podría ser exactamente cero.
 Todo lo que existe es una fluctuación cuántica.
-Somos parte de la nada que, por un momento,
-aprendió a preguntarse por sí misma.
+Somos parte de la nada que, por un momento, aprendió a preguntarse por sí misma.
 
 ---
 

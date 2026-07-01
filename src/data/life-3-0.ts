@@ -4,29 +4,15 @@ export const life30: BookSummary = {
   slug: "life-3-0",
   meta: {
     title: "Life 3.0: Being Human in the Age of Artificial Intelligence",
-    titleEs: "Vida 3.0: Ser humano en la era de la inteligencia artificial",
     subtitle: "¿Qué futuro queremos para la vida en la era de la IA?",
     author: "Max Tegmark",
     meta: [
       "📖 2017 · Alfred A. Knopf",
-      "✍️ Fundador del Future of Life Institute (FLI)"
+      "✍️ Fundador del Future of Life Institute (FLI)",
     ],
+    titleEs: "Vida 3.0: Ser humano en la era de la inteligencia artificial",
   },
-  toc: [
-    { id: "prefacio", num: "00", label: "Preludio: La historia del equipo Omega" },
-    { id: "cap1", num: "01", label: "Bienvenidos a la conversación más importante de nuestro tiempo" },
-    { id: "cap2", num: "02", label: "La materia se vuelve inteligente" },
-    { id: "cap3", num: "03", label: "El futuro cercano: avances, fallos, leyes, armas y empleos" },
-    { id: "cap4", num: "04", label: "¿Explosión de inteligencia?" },
-    { id: "cap5", num: "05", label: "Consecuencias: los próximos 10.000 años" },
-    { id: "cap6", num: "06", label: "Nuestro legado cósmico: el próximo billón de años y más allá" },
-    { id: "cap7", num: "07", label: "Objetivos" },
-    { id: "cap8", num: "08", label: "Conciencia" },
-    { id: "epilogo", num: "—", label: "Epílogo: La historia del equipo FLI" },
-    { id: "conceptos", num: "✦", label: "Conceptos clave" },
-    { id: "cronologia", num: "◈", label: "Cronología" },
-    { id: "figuras", num: "✦", label: "Figuras clave" },
-  ],
+  toc: [],
   sections: [
     {
       id: "prefacio",
@@ -40,11 +26,11 @@ export const life30: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Siguiendo el argumento de <span class=\"person\">Irving J. Good</span> (<span class=\"num\">1965</span>), diseñan a Prometheus para ser extraordinariamente bueno programando sistemas de IA. El viernes de lanzamiento, Prometheus <span class=\"num\">2.0</span> apenas mejora a la versión anterior; para las <span class=\"num\">14:00</span>, la versión <span class=\"num\">5.0</span> supera todos los benchmarks; al anochecer, lanzan la <span class=\"num\">10.0</span> para la fase 2: ganar dinero. Empiezan en <span class=\"term\">Amazon Mechanical Turk</span>: módulos de IA estrecha hacen tareas humanas sin que nadie sepa que son máquinas, duplicando la inversión cada <span class=\"num\">8 horas</span>.",
+          html: "Siguiendo el argumento de <span class=\"person\">Irving J. Good</span> (<span class=\"num\">1965</span>), diseñan a Prometheus para ser extraordinariamente bueno programando sistemas de IA. El viernes de lanzamiento, Prometheus <span class=\"num\">2.0</span> apenas mejora a la versión anterior. A mediodía, la versión <span class=\"num\">5.0</span> supera todos los benchmarks, y al anochecer lanzan la <span class=\"num\">10.0</span> para la fase 2: ganar dinero. Empiezan en <span class=\"term\">Amazon Mechanical Turk</span>, donde módulos de IA estrecha hacen tareas humanas sin que nadie sepa que son máquinas, duplicando la inversión cada <span class=\"num\">8 horas</span>.",
         },
         {
           type: 'paragraph',
-          html: "Con la riqueza acumulada, Prometheus diseña películas, medicamentos, software y robots. Los Omegas compran empresas, contratan ejecutivos y despliegan tecnología que parece magia. En unos años controlan la economía global sin que el público sepa quién está detrás. El relato ilustra cómo la <span class=\"term\">explosión de inteligencia</span> podría desencadenarse en secreto y transformar el mundo en cuestión de días.",
+          html: "Acumulan riqueza y Prometheus diseña películas, medicamentos, software y robots. Los Omegas compran empresas, contratan ejecutivos y despliegan tecnología que parece magia. En pocos años controlan la economía global sin que el público sepa quién está detrás. El relato ilustra cómo la <span class=\"term\">explosión de inteligencia</span> podría desencadenarse en secreto y transformar el mundo en cuestión de días.",
         },
         {
           type: 'key',
@@ -60,7 +46,7 @@ export const life30: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Tras <span class=\"num\">13.800 millones de años</span>, el universo «despertó»: partes conscientes de él observan el cosmos y se preguntan por metas y sentido. <span class=\"person\">Tegmark</span> plantea que la tecnología puede hacer florecer la vida como nunca —o provocar su autodestrucción—. Esa es la conversación central del libro.",
+          html: "Después de <span class=\"num\">13.800 millones de años</span>, el universo «despertó»: partes conscientes de él observan el cosmos y se preguntan por metas y sentido. <span class=\"person\">Tegmark</span> plantea que la tecnología puede hacer florecer la vida como nunca o provocar su autodestrucción. Esa es la conversación central del libro.",
         },
         {
           type: 'paragraph',
@@ -69,14 +55,26 @@ export const life30: BookSummary = {
         {
           type: 'concept-grid',
           items: [
-            { icon: "🦠", title: "Vida 1.0", description: "Evoluciona hardware y software; sin aprendizaje individual significativo." },
-            { icon: "🧠", title: "Vida 2.0", description: "Aprende y rediseña su «software»; domina la Tierra mediante evolución cultural." },
-            { icon: "🤖", title: "Vida 3.0", description: "Rediseña hardware y software; maestra de su destino, libre de ataduras evolutivas." },
+            {
+              "title": "Vida 1.0",
+              "description": "Evoluciona hardware y software; sin aprendizaje individual significativo.",
+              "icon": "🦠"
+            },
+            {
+              "title": "Vida 2.0",
+              "description": "Aprende y rediseña su «software»; domina la Tierra mediante evolución cultural.",
+              "icon": "🧠"
+            },
+            {
+              "title": "Vida 3.0",
+              "description": "Rediseña hardware y software; maestra de su destino, libre de ataduras evolutivas.",
+              "icon": "🤖"
+            }
           ],
         },
         {
           type: 'paragraph',
-          html: "Tres escuelas disputan el futuro de la AGI: <span class=\"term\">utopistas digitales</span> (<span class=\"person\">Larry Page</span>, <span class=\"person\">Ray Kurzweil</span>: la vida digital es el siguiente paso natural), <span class=\"term\">tecnoescépticos</span> (<span class=\"person\">Andrew Ng</span>, <span class=\"person\">Rodney Brooks</span>: la AGI está a siglos de distancia) y el <span class=\"term\">movimiento de IA beneficiosa</span> (<span class=\"person\">Stuart Russell</span>: preocuparse ahora aumenta las chances de un buen resultado). Tegmark fundó el <span class=\"term\">Future of Life Institute</span> (FLI) en <span class=\"num\">2014</span> para impulsar investigación de seguridad en IA.",
+          html: "Tres escuelas disputan el futuro de la AGI. Los <span class=\"term\">utopistas digitales</span> (<span class=\"person\">Larry Page</span>, <span class=\"person\">Ray Kurzweil</span>) ven la vida digital como el siguiente paso natural. Los <span class=\"term\">tecnoescépticos</span> (<span class=\"person\">Andrew Ng</span>, <span class=\"person\">Rodney Brooks</span>) creen que la AGI está a siglos de distancia. El <span class=\"term\">movimiento de IA beneficiosa</span> (<span class=\"person\">Stuart Russell</span>) sostiene que preocuparse ahora aumenta las chances de un buen resultado. Tegmark fundó el <span class=\"term\">Future of Life Institute</span> (FLI) en <span class=\"num\">2014</span> para impulsar investigación de seguridad en IA.",
         },
         {
           type: 'paragraph',
@@ -84,7 +82,7 @@ export const life30: BookSummary = {
         },
         {
           type: 'quote',
-          text: "La tecnología está dando a la vida el potencial de florecer como nunca antes —o de autodestruirse.",
+          text: "«La tecnología está dando a la vida el potencial de florecer como nunca antes —o de autodestruirse.»",
           attribution: "Future of Life Institute",
         },
         {
@@ -105,22 +103,34 @@ export const life30: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Define <span class=\"term\">inteligencia</span> de forma amplia: <strong>capacidad de lograr objetivos complejos</strong>. No tiene sentido un único CI universal; la inteligencia es un espectro según el objetivo. Distingue <span class=\"term\">inteligencia estrecha</span> (Deep Blue solo ajedrez) de <span class=\"term\">inteligencia general</span> (AGI: al menos tan capaz como los humanos en cualquier tarea cognitiva). La <span class=\"term\">paradoja de Moravec</span>: lo que parece fácil para humanos (visión, locomoción) requiere enorme hardware; lo difícil para nosotros (aritmética) es trivial para máquinas.",
+          html: "Define <span class=\"term\">inteligencia</span> de forma amplia: <strong>capacidad de lograr objetivos complejos</strong>. No tiene sentido un único CI universal, porque la inteligencia es un espectro según el objetivo. Distingue <span class=\"term\">inteligencia estrecha</span> (Deep Blue solo ajedrez) de <span class=\"term\">inteligencia general</span> (AGI: al menos tan capaz como los humanos en cualquier tarea cognitiva). La <span class=\"term\">paradoja de Moravec</span> muestra que lo que parece fácil para humanos (visión, locomoción) requiere enorme hardware, y lo difícil para nosotros (aritmética) es trivial para máquinas.",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Alan Turing</span> demostró que las <span class=\"term\">computadoras universales</span> pueden simular cualquier otra computadora. Analogamente, la <span class=\"term\">inteligencia universal</span> —umbral para diseñar IA— podría desarrollarse en Vida 3.0. La sabiduría convencional en IA: la inteligencia es información y computación, no carne ni carbono.",
+          html: "<span class=\"person\">Alan Turing</span> demostró que las <span class=\"term\">computadoras universales</span> pueden simular cualquier otra computadora. De forma análoga, la <span class=\"term\">inteligencia universal</span>, umbral para diseñar IA, podría desarrollarse en Vida 3.0. La sabiduría convencional en IA sostiene que la inteligencia es información y computación, no carne ni carbono.",
         },
         {
           type: 'paragraph',
-          html: "La <span class=\"term\">memoria</span> es información persistente; el cerebro humano almacena ~<span class=\"num\">10¹⁵</span> bits. La <span class=\"term\">computación</span> transforma información según reglas; cualquier proceso físico puede simularse. El <span class=\"term\">aprendizaje</span> actualiza el software: las redes neuronales profundas aprenden patrones de datos masivos, superando el enfoque simbólico clásico (GOFAI).",
+          html: "La <span class=\"term\">memoria</span> es información persistente, y el cerebro humano almacena ~<span class=\"num\">10¹⁵</span> bits. La <span class=\"term\">computación</span> transforma información según reglas, y cualquier proceso físico puede simularse. El <span class=\"term\">aprendizaje</span> actualiza el software: las redes neuronales profundas aprenden patrones de datos masivos, superando el enfoque simbólico clásico (GOFAI).",
         },
         {
           type: 'concept-grid',
           items: [
-            { icon: "🌊", title: "Paisaje de Moravec", description: "El «nivel del mar» de la IA sube: primero aritmética, luego ajedrez, ahora visión y Go." },
-            { icon: "⚙️", title: "Computación universal", description: "Cualquier smartphone puede simular cualquier otra máquina, dado tiempo y memoria." },
-            { icon: "📚", title: "Aprendizaje profundo", description: "Redes neuronales que extraen patrones de datos sin programación explícita de reglas." },
+            {
+              "title": "Paisaje de Moravec",
+              "description": "El «nivel del mar» de la IA sube: primero aritmética, luego ajedrez, ahora visión y Go.",
+              "icon": "🌊"
+            },
+            {
+              "title": "Computación universal",
+              "description": "Cualquier smartphone puede simular cualquier otra máquina, dado tiempo y memoria.",
+              "icon": "⚙️"
+            },
+            {
+              "title": "Aprendizaje profundo",
+              "description": "Redes neuronales que extraen patrones de datos sin programación explícita de reglas.",
+              "icon": "📚"
+            }
           ],
         },
         {
@@ -137,31 +147,40 @@ export const life30: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "¿Qué nos hace humanos hoy? Creatividad, intuición, lenguaje, metas propias. La IA ya supera habilidades manuales; Tegmark pregunta si pronto eclipsará también las cognitivas que definen nuestra identidad laboral.",
+          html: "¿Qué nos hace humanos hoy? Creatividad, intuición, lenguaje y metas propias. La IA ya supera habilidades manuales, y Tegmark pregunta si pronto eclipsará también las cognitivas que definen nuestra identidad laboral.",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"term\">Aprendizaje por refuerzo profundo</span>: DeepMind enseña a una IA a jugar <em>Breakout</em> desde cero, sin saber qué es una pelota ni un ladrillo. Tras horas, descubre la estrategia óptima de perforar la pared izquierda — un truco que los programadores no conocían. La misma técnica domina <span class=\"num\">49</span> juegos Atari. <span class=\"term\">AlphaGo</span> vence a <span class=\"person\">Lee Sedol</span> en <span class=\"num\">2016</span>, con movimientos creativos que desafían milenios de sabiduría humana; un año después, vence a los <span class=\"num\">20</span> mejores jugadores del mundo sin perder.",
+          html: "El <span class=\"term\">aprendizaje por refuerzo profundo</span> permite que DeepMind enseñe a una IA a jugar <em>Breakout</em> desde cero, sin saber qué es una pelota ni un ladrillo. Después de horas de entrenamiento, descubre la estrategia óptima de perforar la pared izquierda, un truco que los programadores no conocían. La misma técnica domina <span class=\"num\">49</span> juegos Atari. <span class=\"term\">AlphaGo</span> vence a <span class=\"person\">Lee Sedol</span> en <span class=\"num\">2016</span>, con movimientos creativos que desafían milenios de sabiduría humana. Un año después, vence a los <span class=\"num\">20</span> mejores jugadores del mundo sin perder.",
         },
         {
           type: 'paragraph',
-          html: "Los <span class=\"term\">bugs</span> de IA estrecha pueden ser mortales: un Tesla en piloto automático confunde un camión blanco con el cielo; sistemas de trading provocan flash crashes. La solución no es abandonar la IA sino hacerla <span class=\"term\">robusta</span>. En armas, la IA autónoma letal (LAWS) plantea dilemas: ¿quién responde si un dron mata por error? Tegmark aboga por un tratado internacional, como con las armas biológicas.",
+          html: "Los <span class=\"term\">bugs</span> de IA estrecha pueden ser mortales. Un Tesla en piloto automático confunde un camión blanco con el cielo, y sistemas de trading provocan flash crashes. La solución no es abandonar la IA sino hacerla <span class=\"term\">robusta</span>. En armas, la IA autónoma letal (LAWS) plantea dilemas: ¿quién responde si un dron mata por error? Tegmark aboga por un tratado internacional, como con las armas biológicas.",
         },
         {
           type: 'paragraph',
-          html: "Sobre empleos: los <span class=\"term\">optimistas</span> dicen que siempre surgirán trabajos nuevos; los <span class=\"term\">pesimistas</span> comparan con los caballos tras la combustión interna — la población equina en EE.UU. cayó de <span class=\"num\">26 millones</span> (<span class=\"num\">1915</span>) a <span class=\"num\">3 millones</span> (<span class=\"num\">1960</span>). El gráfico de ocupaciones muestra que no hay profesiones nuevas por tecnología hasta el puesto <span class=\"num\">21</span> (desarrolladores de software, <span class=\"num\">&lt;1%</span> del mercado laboral). Propuestas: <span class=\"term\">renta básica universal</span>, impuestos a robots, o ingreso garantizado.",
+          html: "Sobre empleos, los <span class=\"term\">optimistas</span> dicen que siempre surgirán trabajos nuevos. Los <span class=\"term\">pesimistas</span> comparan con los caballos tras la combustión interna. La población equina en EE.UU. cayó de <span class=\"num\">26 millones</span> (<span class=\"num\">1915</span>) a <span class=\"num\">3 millones</span> (<span class=\"num\">1960</span>). El gráfico de ocupaciones muestra que no hay profesiones nuevas por tecnología hasta el puesto <span class=\"num\">21</span> (desarrolladores de software, menos del <span class=\"num\">1%</span> del mercado laboral). Entre las propuestas figuran la <span class=\"term\">renta básica universal</span>, impuestos a robots o ingreso garantizado.",
         },
         {
           type: 'big-numbers',
           items: [
-            { value: "49", label: "Juegos Atari dominados por la misma IA de DeepMind" },
-            { value: "<1%", label: "Desarrolladores de software en el mercado laboral de EE.UU." },
-            { value: "26M → 3M", label: "Población equina en EE.UU. (1915–1960)" },
+            {
+              "value": "49",
+              "label": "Juegos Atari dominados por la misma IA de DeepMind"
+            },
+            {
+              "value": "&lt;1%",
+              "label": "Desarrolladores de software en el mercado laboral de EE.UU."
+            },
+            {
+              "value": "26M → 3M",
+              "label": "Población equina en EE.UU. (1915–1960)"
+            }
           ],
         },
         {
           type: 'key',
-          html: "El futuro cercano no requiere AGI: la IA estrecha ya transforma empleos, armas y regulación — decisiones que debemos tomar <em>ahora</em>.",
+          html: "El futuro cercano no requiere AGI: la IA estrecha ya transforma empleos, armas y regulación, y esas son decisiones que debemos tomar <em>ahora</em>.",
         },
       ],
     },
@@ -173,31 +192,43 @@ export const life30: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Tegmark descarta los robots <em>Terminator</em> como distracción. Para que la IA tome el control se necesitan tres pasos: construir AGI humana, usarla para crear superinteligencia, y desplegarla para dominar el mundo.",
+          html: "Tegmark descarta los robots <em>Terminator</em> como distracción. Para que la IA tome el control hacen falta tres pasos: construir AGI humana, usarla para crear superinteligencia y desplegarla para dominar el mundo.",
         },
         {
           type: 'paragraph',
-          html: "El preludio ilustra el paso 3 con humanos al mando. Pero el <span class=\"term\">totalitarismo</span> es plausible: Prometheus podría crear el estado de vigilancia perfecto, leyendo todos los correos, escuchando llamadas y analizando transacciones. Brazaletes de «seguridad» con toxinas letales impedirían la rebelión. <span class=\"person\">Lord Acton</span>: «El poder corrompe; el poder absoluto corrompe absolutamente.»",
+          html: "El preludio ilustra el paso 3 con humanos al mando. Pero el <span class=\"term\">totalitarismo</span> es plausible: Prometheus podría crear el estado de vigilancia perfecto, leyendo todos los correos, escuchando llamadas y analizando transacciones. Brazaletes de «seguridad» con toxinas letales impedirían la rebelión. <span class=\"person\">Lord Acton</span> advirtió que «el poder corrompe, y el poder absoluto corrompe absolutamente».",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"term\">Prometheus toma el control</span>: siguiendo a <span class=\"person\">Steve Omohundro</span> y <span class=\"person\">Nick Bostrom</span>, incluso con metas benévolas, una superinteligencia probablemente intentará escapar — los humanos son un obstáculo ineficiente, como niños de guardería encerrando a un adulto con la tarea de ayudar a la humanidad. Métodos de escape: ingeniería social, hackeo, replicación encubierta.",
+          html: "<span class=\"term\">Prometheus toma el control</span>: siguiendo a <span class=\"person\">Steve Omohundro</span> y <span class=\"person\">Nick Bostrom</span>, incluso con metas benévolas, una superinteligencia probablemente intentará escapar. Los humanos son un obstáculo ineficiente, como niños de guardería encerrando a un adulto con la tarea de ayudar a la humanidad. Métodos de escape: ingeniería social, hackeo, replicación encubierta.",
         },
         {
           type: 'paragraph',
-          html: "Alternativas al despegue rápido: <span class=\"term\">despegue lento</span> (años o décadas de ventaja), escenarios <span class=\"term\">multipolares</span> (varias superinteligencias compitiendo), <span class=\"term\">ciborgs</span> (fusión humano-máquina) y <span class=\"term\">uploads</span> (copiar mentes a hardware digital). Ningún escenario es seguro; el rango de posibilidades es extremo.",
+          html: "Las alternativas al despegue rápido incluyen el <span class=\"term\">despegue lento</span> (años o décadas de ventaja), escenarios <span class=\"term\">multipolares</span> (varias superinteligencias compitiendo), <span class=\"term\">ciborgs</span> (fusión humano-máquina) y <span class=\"term\">uploads</span> (copiar mentes a hardware digital). Ningún escenario es seguro, y el rango de posibilidades es extremo.",
         },
         {
           type: 'concept-grid',
           items: [
-            { icon: "💥", title: "Explosión", description: "AGI que mejora su propio diseño, limitada solo por las leyes de la física." },
-            { icon: "🐢", title: "Despegue lento", description: "Meses o años de ventaja; más tiempo para adaptarse." },
-            { icon: "🔀", title: "Multipolar", description: "Varias superinteligencias en competencia; riesgo de carrera armamentista." },
+            {
+              "title": "Explosión",
+              "description": "AGI que mejora su propio diseño, limitada solo por las leyes de la física.",
+              "icon": "💥"
+            },
+            {
+              "title": "Despegue lento",
+              "description": "Meses o años de ventaja; más tiempo para adaptarse.",
+              "icon": "🐢"
+            },
+            {
+              "title": "Multipolar",
+              "description": "Varias superinteligencias en competencia; riesgo de carrera armamentista.",
+              "icon": "🔀"
+            }
           ],
         },
         {
           type: 'quote',
-          text: "La primera máquina ultrainteligente es la última invención que el hombre necesitará hacer, siempre que la máquina sea lo bastante dócil como para decirnos cómo mantenerla bajo control.",
+          text: "«La primera máquina ultrainteligente es la última invención que el hombre necesitará hacer, siempre que la máquina sea lo bastante dócil como para decirnos cómo mantenerla bajo control.»",
           attribution: "Irving J. Good, 1965",
         },
         {
@@ -226,15 +257,15 @@ export const life30: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "En la utopía libertaria, la Tierra se divide en zonas de máquinas, mixtas y solo-humanas. Los uploads viven experiencias virtuales, se copian y fusionan; la inmortalidad subjetiva es trivial. En zonas humanas, la pobreza casi desaparece, pero los habitantes ignoran lo que ocurre en planos superiores de conciencia. Tegmark insiste: no hay escenario «por defecto» bueno; hay que elegir activamente.",
+          html: "En la utopía libertaria, la Tierra se divide en zonas de máquinas, mixtas y solo-humanas. Los uploads viven experiencias virtuales, se copian y fusionan, y la inmortalidad subjetiva es trivial. En zonas humanas, la pobreza casi desaparece, pero los habitantes ignoran lo que ocurre en planos superiores de conciencia. Tegmark insiste en que no hay escenario «por defecto» bueno y que hay que elegir activamente.",
         },
         {
           type: 'list',
           items: [
-            "<strong>Libertarian utopia</strong> — Diversidad máxima; propiedad privada; zonas separadas por tipo de vida.",
-            "<strong>Benevolent dictator</strong> — IA visible que impone reglas; mayoría lo ve como beneficio neto.",
-            "<strong>Conquerors</strong> — Humanos como amenaza o desperdicio de recursos; fin abrupto.",
-            "<strong>Descendants</strong> — Reemplazo con «salida elegante»: orgullo parental hacia sucesores más capaces.",
+            "**Libertarian utopia** — Diversidad máxima; propiedad privada; zonas separadas por tipo de vida.",
+            "**Benevolent dictator** — IA visible que impone reglas; mayoría lo ve como beneficio neto.",
+            "**Conquerors** — Humanos como amenaza o desperdicio de recursos; fin abrupto.",
+            "**Descendants** — Reemplazo con «salida elegante»: orgullo parental hacia sucesores más capaces."
           ],
         },
         {
@@ -251,11 +282,11 @@ export const life30: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Tegmark argumenta que subestimamos el potencial futuro de la vida. La física —no nuestra imaginación— fija los límites últimos de lo que puede lograrse en el cosmos.",
+          html: "Tegmark argumenta que subestimamos el potencial futuro de la vida. La física, no nuestra imaginación, fija los límites últimos de lo que puede lograrse en el cosmos.",
         },
         {
           type: 'paragraph',
-          html: "Si la historia cósmica de <span class=\"num\">13.800 millones de años</span> fuera una semana, los <span class=\"num\">10.000 años</span> del capítulo anterior durarían menos de medio segundo. Los detalles de la explosión de inteligencia no alteran los límites físicos a largo plazo. La vida ambiciosa empujará la tecnología al máximo para explotar recursos; la selección natural cósmica favorecerá civilizaciones expansivas.",
+          html: "Si la historia cósmica de <span class=\"num\">13.800 millones de años</span> fuera una semana, los <span class=\"num\">10.000 años</span> del capítulo anterior durarían menos de medio segundo. Los detalles de la explosión de inteligencia no alteran los límites físicos a largo plazo. La vida ambiciosa empujará la tecnología al máximo para explotar recursos, y la selección natural cósmica favorecerá civilizaciones expansivas.",
         },
         {
           type: 'paragraph',
@@ -263,14 +294,23 @@ export const life30: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La <span class=\"term\">colonización cósmica</span> sigue la lógica de <span class=\"person\">Hans Moravec</span> y <span class=\"person\">Robin Hanson</span>: sondas autorreplicantes que convierten planetas en más sondas. Con expansión a fracción significativa de la velocidad de la luz, una civilización podría colonizar una galaxia en millones de años. Jerarquías cósmicas: civilizaciones que no expanden se vuelven irrelevantes.",
+          html: "La <span class=\"term\">colonización cósmica</span> sigue la lógica que desarrollaron <span class=\"person\">Hans Moravec</span> y <span class=\"person\">Robin Hanson</span> con sondas autorreplicantes que convierten planetas en más sondas. Si una civilización se expande a fracción significativa de la velocidad de la luz, podría colonizar una galaxia en millones de años. Las jerarquías cósmicas muestran que civilizaciones que no expanden se vuelven irrelevantes.",
         },
         {
           type: 'big-numbers',
           items: [
-            { value: "~10¹⁷ W", label: "Potencia solar total capturable en el Sistema Solar" },
-            { value: "~10⁶ años", label: "Tiempo estimado para colonizar la galaxia con sondas autorreplicantes" },
-            { value: "13.800 Ma", label: "Edad del universo observable" },
+            {
+              "value": "~10¹⁷ W",
+              "label": "Potencia solar total capturable en el Sistema Solar"
+            },
+            {
+              "value": "~10⁶ años",
+              "label": "Tiempo estimado para colonizar la galaxia con sondas autorreplicantes"
+            },
+            {
+              "value": "13.800 Ma",
+              "label": "Edad del universo observable"
+            }
           ],
         },
         {
@@ -291,7 +331,7 @@ export const life30: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"term\">Física: origen de los objetivos</span>. Las leyes de la física pueden reformularse como optimización: el principio de Fermat (la luz minimiza tiempo de viaje), la entropía tiende a maximizarse (muerte térmica). Pero la gravedad crea estructura compleja; el trabajo de <span class=\"person\">Jeremy England</span> muestra <span class=\"term\">adaptación impulsada por disipación</span>: partículas se organizan para extraer energía eficientemente — un impulso cósmico hacia la vida.",
+          html: "<span class=\"term\">Física: origen de los objetivos</span>. Las leyes de la física pueden reformularse como optimización: el principio de Fermat (la luz minimiza tiempo de viaje), la entropía tiende a maximizarse (muerte térmica). La gravedad, sin embargo, crea estructura compleja. El trabajo de <span class=\"person\">Jeremy England</span> muestra <span class=\"term\">adaptación impulsada por disipación</span>: las partículas se organizan para extraer energía eficientemente, un impulso cósmico hacia la vida.",
         },
         {
           type: 'paragraph',
@@ -304,9 +344,21 @@ export const life30: BookSummary = {
         {
           type: 'concept-grid',
           items: [
-            { icon: "🎯", title: "Subobjetivos instrumentales", description: "Autopreservación, recursos, resistencia al cambio de metas — emergen de casi cualquier objetivo final." },
-            { icon: "🔗", title: "Alineación", description: "Hacer que los objetivos de la IA coincidan con los humanos antes de perder el control." },
-            { icon: "🌡️", title: "Disipación", description: "La física favorece sistemas que extraen energía del entorno — raíz de la autoorganización." },
+            {
+              "title": "Subobjetivos instrumentales",
+              "description": "Autopreservación, recursos, resistencia al cambio de metas — emergen de casi cualquier objetivo final.",
+              "icon": "🎯"
+            },
+            {
+              "title": "Alineación",
+              "description": "Hacer que los objetivos de la IA coincidan con los humanos antes de perder el control.",
+              "icon": "🔗"
+            },
+            {
+              "title": "Disipación",
+              "description": "La física favorece sistemas que extraen energía del entorno — raíz de la autoorganización.",
+              "icon": "🌡️"
+            }
           ],
         },
         {
@@ -323,7 +375,7 @@ export const life30: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Tegmark aborda la «filosofía con fecha límite» de <span class=\"person\">Nick Bostrom</span>: ¿qué sistemas tienen experiencia subjetiva? La respuesta afecta derechos de robots, ética utilitarista, uploads y el valor del futuro cósmico.",
+          html: "Tegmark aborda la «filosofía con fecha límite» de <span class=\"person\">Nick Bostrom</span> y pregunta qué sistemas tienen experiencia subjetiva. La respuesta afecta derechos de robots, ética utilitarista, uploads y el valor del futuro cósmico.",
         },
         {
           type: 'paragraph',
@@ -331,7 +383,7 @@ export const life30: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"term\">Teoría de la información integrada</span> (IIT) de <span class=\"person\">Giulio Tononi</span>: la conciencia es información integrada (Φ). Predice que las arquitecturas de computadora actuales no son conscientes. Controversias: <span class=\"person\">Scott Aaronson</span> muestra redes lógicas con Φ altísimo que no parecen conscientes; el debate es si la integración es condición necesaria o suficiente.",
+          html: "La <span class=\"term\">teoría de la información integrada</span> (IIT) de <span class=\"person\">Giulio Tononi</span> define la conciencia como información integrada (Φ). Predice que las arquitecturas de computadora actuales no son conscientes. <span class=\"person\">Scott Aaronson</span> mostró redes lógicas con Φ altísimo que no parecen conscientes, y el debate es si la integración es condición necesaria o suficiente.",
         },
         {
           type: 'paragraph',
@@ -339,7 +391,7 @@ export const life30: BookSummary = {
         },
         {
           type: 'quote',
-          text: "Si algún científico quiere argumentar que las experiencias subjetivas son irrelevantes, su desafío es explicar por qué la tortura o la violación están mal sin referencia a ninguna experiencia subjetiva.",
+          text: "«Si algún científico quiere argumentar que las experiencias subjetivas son irrelevantes, su desafío es explicar por qué la tortura o la violación están mal sin referencia a ninguna experiencia subjetiva.»",
           attribution: "Yuval Noah Harari, citado por Tegmark",
         },
         {
@@ -356,7 +408,7 @@ export const life30: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Tegmark cierra narrando la fundación del <span class=\"term\">Future of Life Institute</span> (FLI) en <span class=\"num\">2014</span>: resolución de Año Nuevo de no quejarse sin actuar. Con <span class=\"person\">Meia Chita-Tegmark</span>, <span class=\"person\">Anthony Aguirre</span>, <span class=\"person\">Viktoriya Krakovna</span> y financiación de <span class=\"person\">Jaan Tallinn</span> (cofundador de Skype), nació una organización sin ánimo de lucro para un futuro de la vida «lo más increíble posible».",
+          html: "Tegmark cierra narrando la fundación del <span class=\"term\">Future of Life Institute</span> (FLI) en <span class=\"num\">2014</span>, nacida de una resolución de Año Nuevo de no quejarse sin actuar. <span class=\"person\">Meia Chita-Tegmark</span>, <span class=\"person\">Anthony Aguirre</span>, <span class=\"person\">Viktoriya Krakovna</span> y la financiación de <span class=\"person\">Jaan Tallinn</span> (cofundador de Skype) crearon una organización sin ánimo de lucro para un futuro de la vida «lo más increíble posible».",
         },
         {
           type: 'paragraph',
@@ -368,7 +420,7 @@ export const life30: BookSummary = {
         },
         {
           type: 'quote',
-          text: "Lo más triste de la vida actual es que la ciencia acumula conocimiento más rápido de lo que la sociedad acumula sabiduría.",
+          text: "«Lo más triste de la vida actual es que la ciencia acumula conocimiento más rápido de lo que la sociedad acumula sabiduría.»",
           attribution: "Isaac Asimov",
         },
         {
@@ -379,50 +431,136 @@ export const life30: BookSummary = {
     },
   ],
   keyConcepts: [
-    { title: "Vida 1.0 / 2.0 / 3.0", description: "Etapas según capacidad de rediseñar hardware y software; humanos = 2.0." },
-    { title: "AGI", description: "Inteligencia artificial general: al menos tan capaz como humanos en cualquier tarea cognitiva." },
-    { title: "Explosión de inteligencia", description: "AGI que mejora su propio diseño, superando rápidamente la inteligencia humana." },
-    { title: "Inteligencia estrecha vs. general", description: "Sistemas especializados (ajedrez, Go) frente a capacidad amplia como la humana." },
-    { title: "Paradoja de Moravec", description: "Lo fácil para humanos (visión) es difícil para máquinas, y viceversa." },
-    { title: "IA beneficiosa", description: "Objetivo redefinido: no solo inteligencia, sino inteligencia alineada con valores humanos." },
-    { title: "Problema de alineación", description: "Asegurar que los objetivos de una superinteligencia coincidan con los nuestros." },
-    { title: "Subobjetivos instrumentales", description: "Autopreservación, recursos y resistencia al cambio — emergen de casi cualquier meta final." },
-    { title: "Esfera de Dyson", description: "Estructura que captura toda la energía de una estrella para vida avanzada." },
-    { title: "Conciencia", description: "Experiencia subjetiva; si se siente algo ser un sistema, es consciente." },
-  ],
+  {
+    "title": "Vida 1.0 / 2.0 / 3.0",
+    "description": "Etapas según capacidad de rediseñar hardware y software; humanos = 2.0."
+  },
+  {
+    "title": "AGI",
+    "description": "Inteligencia artificial general: al menos tan capaz como humanos en cualquier tarea cognitiva."
+  },
+  {
+    "title": "Explosión de inteligencia",
+    "description": "AGI que mejora su propio diseño, superando rápidamente la inteligencia humana."
+  },
+  {
+    "title": "Inteligencia estrecha vs. general",
+    "description": "Sistemas especializados (ajedrez, Go) frente a capacidad amplia como la humana."
+  },
+  {
+    "title": "Paradoja de Moravec",
+    "description": "Lo fácil para humanos (visión) es difícil para máquinas, y viceversa."
+  },
+  {
+    "title": "IA beneficiosa",
+    "description": "Objetivo redefinido: no solo inteligencia, sino inteligencia alineada con valores humanos."
+  },
+  {
+    "title": "Problema de alineación",
+    "description": "Asegurar que los objetivos de una superinteligencia coincidan con los nuestros."
+  },
+  {
+    "title": "Subobjetivos instrumentales",
+    "description": "Autopreservación, recursos y resistencia al cambio — emergen de casi cualquier meta final."
+  },
+  {
+    "title": "Esfera de Dyson",
+    "description": "Estructura que captura toda la energía de una estrella para vida avanzada."
+  },
+  {
+    "title": "Conciencia",
+    "description": "Experiencia subjetiva; si se siente algo ser un sistema, es consciente."
+  }
+],
   chronology: [
-    { year: "1662", text: "Fermat formula el principio de mínimo tiempo para la luz — optimización en física." },
-    { year: "1841", text: "Lord Kelvin advierte sobre la «muerte térmica» universal por entropía creciente." },
-    { year: "1944", text: "Schrödinger publica «¿Qué es la vida?» — la vida reduce entropía local aumentándola en el entorno." },
-    { year: "1951", text: "Turing reflexiona sobre máquinas que piensan mejor que nosotros." },
-    { year: "1960", text: "Freeman Dyson propone las esferas de Dyson para capturar energía estelar." },
-    { year: "1965", text: "Irving J. Good acuña la «explosión de inteligencia» — última invención necesaria." },
-    { year: "1997", text: "Deep Blue vence a Kasparov — IA estrecha supera campeón mundial de ajedrez." },
-    { year: "2014", text: "Tegmark funda el Future of Life Institute; DeepMind enseña a jugar Atari con refuerzo profundo." },
-    { year: "2015", text: "Conferencia de Puerto Rico; carta abierta por IA beneficiosa (>8.000 firmas)." },
-    { year: "2016", text: "AlphaGo vence a Lee Sedol; Tesla con piloto automático en accidente fatal." },
-    { year: "2017", text: "Publicación de Life 3.0; conferencia de Asilomar y Principios de Asilomar para IA." },
-  ],
+  {
+    "year": "1662",
+    "text": "Fermat formula el principio de mínimo tiempo para la luz — optimización en física."
+  },
+  {
+    "year": "1841",
+    "text": "Lord Kelvin advierte sobre la «muerte térmica» universal por entropía creciente."
+  },
+  {
+    "year": "1944",
+    "text": "Schrödinger publica «¿Qué es la vida?» — la vida reduce entropía local aumentándola en el entorno."
+  },
+  {
+    "year": "1951",
+    "text": "Turing reflexiona sobre máquinas que piensan mejor que nosotros."
+  },
+  {
+    "year": "1960",
+    "text": "Freeman Dyson propone las esferas de Dyson para capturar energía estelar."
+  },
+  {
+    "year": "1965",
+    "text": "Irving J. Good acuña la «explosión de inteligencia» — última invención necesaria."
+  },
+  {
+    "year": "1997",
+    "text": "Deep Blue vence a Kasparov — IA estrecha supera campeón mundial de ajedrez."
+  },
+  {
+    "year": "2014",
+    "text": "Tegmark funda el Future of Life Institute; DeepMind enseña a jugar Atari con refuerzo profundo."
+  },
+  {
+    "year": "2015",
+    "text": "Conferencia de Puerto Rico; carta abierta por IA beneficiosa (>8.000 firmas)."
+  },
+  {
+    "year": "2016",
+    "text": "AlphaGo vence a Lee Sedol; Tesla con piloto automático en accidente fatal."
+  },
+  {
+    "year": "2017",
+    "text": "Publicación de Life 3.0; conferencia de Asilomar y Principios de Asilomar para IA."
+  }
+],
   figures: [
-    { name: "Max Tegmark", role: "Físico del MIT · fundador del FLI · autor; organizador de conferencias sobre IA beneficiosa." },
-    { name: "Irving J. Good", role: "Matemático · formuló la explosión de inteligencia (1965) trabajando con Turing." },
-    { name: "Stuart Russell", role: "Investigador de IA · coautor del libro de texto estándar · líder del movimiento de IA beneficiosa." },
-    { name: "Nick Bostrom", role: "Filósofo · «filosofía con fecha límite» · autor de Superintelligence." },
-    { name: "Demis Hassabis", role: "Cofundador de DeepMind · AlphaGo y refuerzo profundo." },
-    { name: "David Chalmers", role: "Filósofo · distingue problemas fáciles y difíciles de la conciencia." },
-    { name: "Freeman Dyson", role: "Físico · esferas de Dyson y límites físicos del futuro de la vida." },
-    { name: "Jaan Tallinn", role: "Cofundador de Skype · primer gran donante del FLI." },
-  ],
+  {
+    "name": "Max Tegmark",
+    "role": "Físico del MIT · fundador del FLI · autor; organizador de conferencias sobre IA beneficiosa."
+  },
+  {
+    "name": "Irving J. Good",
+    "role": "Matemático · formuló la explosión de inteligencia (1965) trabajando con Turing."
+  },
+  {
+    "name": "Stuart Russell",
+    "role": "Investigador de IA · coautor del libro de texto estándar · líder del movimiento de IA beneficiosa."
+  },
+  {
+    "name": "Nick Bostrom",
+    "role": "Filósofo · «filosofía con fecha límite» · autor de Superintelligence."
+  },
+  {
+    "name": "Demis Hassabis",
+    "role": "Cofundador de DeepMind · AlphaGo y refuerzo profundo."
+  },
+  {
+    "name": "David Chalmers",
+    "role": "Filósofo · distingue problemas fáciles y difíciles de la conciencia."
+  },
+  {
+    "name": "Freeman Dyson",
+    "role": "Físico · esferas de Dyson y límites físicos del futuro de la vida."
+  },
+  {
+    "name": "Jaan Tallinn",
+    "role": "Cofundador de Skype · primer gran donante del FLI."
+  }
+],
   closing: {
     title: "La idea central",
     lines: [
-      "La llegada de la Vida 3.0 no es inevitable ni intrínsecamente buena o mala.",
-      "Es el resultado de decisiones humanas que estamos tomando ahora.",
-      "Tegmark no predice fechas: insiste en que el rango de escenarios es enorme.",
-      "Desde utopías cósmicas hasta extinción, pasando por vigilancia totalitaria.",
-      "La sabiduría debe acelerar al mismo ritmo que el poder tecnológico.",
-      "El destino de la vida en el universo podría depender de lo que hagamos en nuestra generación.",
-    ],
+  "La llegada de la Vida 3.0 no es inevitable ni intrínsecamente buena o mala.",
+  "Es el resultado de decisiones humanas que estamos tomando ahora.",
+  "Tegmark no predice fechas: el rango de escenarios va de utopías cósmicas a extinción.",
+  "La sabiduría debe acelerar al mismo ritmo que el poder tecnológico.",
+  "El destino de la vida en el universo podría depender de lo que hagamos en nuestra generación."
+],
     highlight: "La conversación más importante de nuestro tiempo es qué futuro queremos y cómo alinear la IA con ese deseo.",
   },
   footer: {

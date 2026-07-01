@@ -31,7 +31,7 @@ lang: es
 ## title: La idea central
 
 <!-- closing -->
-La tesis en una línea.
+Primera línea de la tesis.
 Segunda línea que desarrolla.
 <!-- highlight -->frase más importante<!-- /highlight -->
 Cuarta línea.

@@ -108,11 +108,11 @@ export const egoTunnel: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "<span class=\"person\">Thomas Metzinger</span> abre con una tesis radical: a nuestro mejor conocimiento actual <em>no existe</em> entidad indivisible que sea «nosotros», ni en el cerebro ni en ningún reino metafísico. Sin disolver el mito del yo no resolveremos el enigma de la conciencia. La pregunta central: ¿por qué siempre hay <em>alguien</em> que tiene la experiencia?",
+          html: "<span class=\"person\">Thomas Metzinger</span> abre con una tesis radical: a nuestro mejor conocimiento actual <em>no existe</em> entidad indivisible que sea «nosotros», ni en el cerebro ni en ningún reino metafísico. No resolveremos el enigma de la conciencia sin disolver el mito del yo. La pregunta central es por qué siempre hay <em>alguien</em> que tiene la experiencia.",
         },
         {
           type: 'paragraph',
-          html: "El libro propone el <span class=\"term\">túnel del ego</span>: un modelo consciente del mundo con un centro aparente — el <span class=\"term\">ego</span>. El autor es filósofo analítico que colabora con neurocientíficos; insiste en la fenomenología de estados alterados (meditación, sueños lúcidos, experiencias extracorporales, síndromes psiquiátricos).",
+          html: "El libro propone el <span class=\"term\">túnel del ego</span>: un modelo consciente del mundo con un centro aparente, el <span class=\"term\">ego</span>. El autor es filósofo analítico que colabora con neurocientíficos. Insiste en la fenomenología de estados alterados (meditación, sueños lúcidos, experiencias extracorporales, síndromes psiquiátricos).",
         },
         {
           type: 'quote',
@@ -121,7 +121,7 @@ export const egoTunnel: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La ilusión de la mano de goma (<span class=\"person\">Botvinick</span> y <span class=\"person\">Cohen</span>, <span class=\"num\">1998</span>): tras <span class=\"num\">60–90</span> segundos de roce sincrónico, el sujeto siente la mano de goma como propia. Eso activa el <span class=\"term\">modelo fenomenal del yo</span> (PSM): el contenido consciente del organismo como un todo. El ego es una imagen mental <em>transparente</em>: no la ves, pero ves <em>con</em> ella.",
+          html: "La ilusión de la mano de goma (<span class=\"person\">Botvinick</span> y <span class=\"person\">Cohen</span>, <span class=\"num\">1998</span>): tras <span class=\"num\">60–90</span> segundos de roce sincrónico, el sujeto siente la mano de goma como propia. Eso activa el <span class=\"term\">modelo fenomenal del yo</span> (PSM), el contenido consciente del organismo como un todo. El ego es una imagen mental <em>transparente</em>: no la ves, pero ves <em>con</em> ella.",
         },
         {
           type: 'key',
@@ -137,15 +137,15 @@ export const egoTunnel: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "La esencia de la experiencia consciente es que aparece un mundo unificado. En sueño profundo sin sueños nada aparece; en vigilia y en sueños, sí. La conciencia es parte del universo físico <em>y</em> lo contiene: genera <span class=\"term\">interioridad</span>.",
+          html: "La esencia de la experiencia consciente es que aparece un mundo unificado. En sueño profundo sin sueños nada aparece. En vigilia y en sueños, sí. La conciencia es parte del universo físico <em>y</em> lo contiene: genera <span class=\"term\">interioridad</span>.",
         },
         {
           type: 'paragraph',
-          html: "Los datos sugieren que mundos en sistemas nerviosos son un fenómeno evolutivo reciente; una forma temprana podría datar de unos <span class=\"num\">200 millones</span> de años en corteza de mamíferos. Basta con estados fenomenales transparentes para que aparezca un mundo — no hace falta lenguaje.",
+          html: "Los datos sugieren que mundos en sistemas nerviosos son un fenómeno evolutivo reciente. Una forma temprana podría datar de unos <span class=\"num\">200 millones</span> de años en corteza de mamíferos. Basta con estados fenomenales transparentes para que aparezca un mundo. No hace falta lenguaje.",
         },
         {
           type: 'paragraph',
-          html: "El contenido fenomenal — el «rojo» de una rosa, el olor a sándalo — depende de propiedades internas del cerebro, no del entorno. La misma experiencia puede surgir con la rosa presente, imaginada o soñada; en principio, estimulando los glomérulos olfativos adecuados (hay unos <span class=\"num\">2000</span>).",
+          html: "El contenido fenomenal (el «rojo» de una rosa, el olor a sándalo) depende de propiedades internas del cerebro, no del entorno. La misma experiencia puede surgir con la rosa presente, imaginada o soñada. En principio, basta estimular los glomérulos olfativos adecuados (hay unos <span class=\"num\">2000</span>).",
         },
         {
           type: 'concept-grid',
@@ -181,15 +181,15 @@ export const egoTunnel: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El <span class=\"term\">túnel del ego</span> es propiedad compleja del <span class=\"term\">correlato neural global de la conciencia</span> (NCC): el flujo informativo que crea el mundo en el que vives. El ego es el contenido del PSM en cada instante — sensaciones, emociones, percepciones, recuerdos, actos de voluntad — pero no puedes ver que es simulación: es <em>transparente</em>.",
+          html: "El <span class=\"term\">túnel del ego</span> es propiedad compleja del <span class=\"term\">correlato neural global de la conciencia</span> (NCC): el flujo informativo que crea el mundo en el que vives. El ego es el contenido del PSM en cada instante (sensaciones, emociones, percepciones, recuerdos, actos de voluntad), pero no puedes ver que es simulación: es <em>transparente</em>.",
         },
         {
           type: 'paragraph',
-          html: "Metáfora del simulador de vuelo total: el cerebro genera imagen interna de sí mismo sin piloto externo; el «piloto» nace dentro de la realidad virtual. Variantes del túnel: ramificarse en otros túneles (empatía), durante el sueño, en máquinas artificiales.",
+          html: "Metáfora del simulador de vuelo total: el cerebro genera imagen interna de sí mismo sin piloto externo. El «piloto» nace dentro de la realidad virtual. Variantes del túnel: ramificarse en otros túneles (empatía), durante el sueño, en máquinas artificiales.",
         },
         {
           type: 'paragraph',
-          html: "Metzinger distingue su túnel del «reality tunnel» popular (<span class=\"person\">Robert Anton Wilson</span>, <span class=\"person\">Timothy Leary</span>): no negamos realidad objetiva ni conocimiento científico comunitario; el foco es la experiencia consciente como formato de datos biológico.",
+          html: "Metzinger distingue su túnel del «reality tunnel» popular (<span class=\"person\">Robert Anton Wilson</span>, <span class=\"person\">Timothy Leary</span>): no negamos realidad objetiva ni conocimiento científico comunitario. El foco es la experiencia consciente como formato de datos biológico.",
         },
         {
           type: 'concept-grid',
@@ -225,11 +225,11 @@ export const egoTunnel: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Dos hilos en la historia de la filosofía de la conciencia: (1) <span class=\"term\">conscientia</span> como conocimiento de orden superior — saber que sabes; (2) <span class=\"term\">integración</span> — lo que une contenidos en un todo simultáneo. Sin unidad no hay mundo.",
+          html: "Dos hilos en la historia de la filosofía de la conciencia: (1) <span class=\"term\">conscientia</span> como conocimiento de orden superior, saber que sabes. (2) <span class=\"term\">integración</span>, lo que une contenidos en un todo simultáneo. Sin unidad no hay mundo.",
         },
         {
           type: 'paragraph',
-          html: "El <span class=\"term\">problema del mundo único</span>: para que aparezca un mundo debe ser <em>un</em> mundo. La neurociencia estudia el «binding» de características (color, forma, textura); la filosofía, el «saber que sabes». Ambos lados de la misma moneda.",
+          html: "El <span class=\"term\">problema del mundo único</span>: para que aparezca un mundo debe ser <em>un</em> mundo. La neurociencia estudia el «binding» de características (color, forma, textura). La filosofía estudia el «saber que sabes». Ambos lados de la misma moneda.",
         },
         {
           type: 'paragraph',
@@ -249,15 +249,15 @@ export const egoTunnel: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "«Poseer» el cuerpo es fundamento del sentirse alguien. Esquiadores extienden la imagen corporal a las puntas de los esquís; pilotos, al perímetro del coche. El <span class=\"term\">sentido de propiedad</span> integra contenido consciente en el yo.",
+          html: "«Poseer» el cuerpo es fundamento del sentirse alguien. Los esquiadores extienden la imagen corporal a las puntas de los esquís. Los pilotos, al perímetro del coche. El <span class=\"term\">sentido de propiedad</span> integra contenido consciente en el yo.",
         },
         {
           type: 'paragraph',
-          html: "En la ilusión de la mano de goma hay fusión de campos receptivos táctiles y visuales en corteza premotora. <span class=\"person\">Armel</span> y <span class=\"person\">Ramachandran</span>: doblar un dedo de goma en posición imposible provoca conductancia cutánea aunque casi nadie sienta dolor real. Propiedad, agencia y localización son subcomponentes disociables.",
+          html: "En la ilusión de la mano de goma hay fusión de campos receptivos táctiles y visuales en corteza premotora. <span class=\"person\">Armel</span> y <span class=\"person\">Ramachandran</span> mostraron que doblar un dedo de goma en posición imposible provoca conductancia cutánea aunque casi nadie sienta dolor real. Propiedad, agencia y localización son subcomponentes disociables.",
         },
         {
           type: 'paragraph',
-          html: "Macacos japoneses integran herramientas en el <span class=\"term\">esquema corporal</span>; campos receptivos visuales se extienden a la punta del rastrillo. Fantasmas de miembros (<span class=\"person\">Silas Weir Mitchell</span>, <span class=\"num\">1871</span>): la caja de espejos de Ramachandran «desparaliza» fantasmas moviendo la mano real mientras el sujeto ve la simetría.",
+          html: "Macacos japoneses integran herramientas en el <span class=\"term\">esquema corporal</span>. Los campos receptivos visuales se extienden a la punta del rastrillo. Los fantasmas de miembros (<span class=\"person\">Silas Weir Mitchell</span>, <span class=\"num\">1871</span>) muestran que la caja de espejos de Ramachandran «desparaliza» fantasmas moviendo la mano real mientras el sujeto ve la simetría.",
         },
         {
           type: 'concept-grid',
@@ -297,11 +297,11 @@ export const egoTunnel: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Experimentos de «mano alienígena»: estimulación que induce movimiento no voluntario mientras el sujeto niega agencia. El cerebro infiere causalidad retrospectivamente; la conciencia de «haber decidido» puede ser post hoc.",
+          html: "Experimentos de «mano alienígena»: estimulación que induce movimiento no voluntario mientras el sujeto niega agencia. El cerebro infiere causalidad retrospectivamente. La conciencia de «haber decidido» puede ser post hoc.",
         },
         {
           type: 'paragraph',
-          html: "El libre albedrío como fenómeno consciente se descompone: intención, selección de acción, control motor. La neurociencia muestra que procesos inconscientes preceden a la sensación de decidir; queda la pregunta ética y política de responsabilidad sin homúnculo.",
+          html: "El libre albedrío como fenómeno consciente se descompone en intención, selección de acción y control motor. La neurociencia muestra que procesos inconscientes preceden a la sensación de decidir. Queda la pregunta ética y política de responsabilidad sin homúnculo.",
         },
         {
           type: 'key',
@@ -317,15 +317,15 @@ export const egoTunnel: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Estados alterados son laboratorio fenomenológico. El <span class=\"term\">sueño lúcido</span> — saber que sueñas mientras sueñas — permite manipular el modelo del yo dentro del túnel onírico.",
+          html: "Estados alterados son laboratorio fenomenológico. El <span class=\"term\">sueño lúcido</span>, saber que sueñas mientras sueñas, permite manipular el modelo del yo dentro del túnel onírico.",
         },
         {
           type: 'paragraph',
-          html: "Metzinger practica y estudia técnicas de inducción; el yo lúcido no es metafísico sino reconfiguración del PSM en sueño REM. La pregunta: ¿qué aprendemos sobre la transparencia del ego cuando podemos «ver» que el mundo onírico es simulación?",
+          html: "Metzinger practica y estudia técnicas de inducción. El yo lúcido no es metafísico sino reconfiguración del PSM en sueño REM. La pregunta es qué aprendemos sobre la transparencia del ego cuando podemos «ver» que el mundo onírico es simulación.",
         },
         {
           type: 'paragraph',
-          html: "Riesgo ético: estados lúcidos prolongados pueden erosionar la frontera vigilia-sueño; aun así, son evidencia de que el ego es proceso, no sustancia.",
+          html: "Riesgo ético: estados lúcidos prolongados pueden erosionar la frontera vigilia-sueño. Aun así, son evidencia de que el ego es proceso, no sustancia.",
         },
         {
           type: 'key',
@@ -345,7 +345,7 @@ export const egoTunnel: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Allan Hobson</span> y otros: el cerebro genera contenido onírico con la misma maquinaria de modelado que en vigilia. El yo onírico es PSM sin anclaje corporal fiable.",
+          html: "<span class=\"person\">Allan Hobson</span> y otros sostienen que el cerebro genera contenido onírico con la misma maquinaria de modelado que en vigilia. El yo onírico es PSM sin anclaje corporal fiable.",
         },
         {
           type: 'paragraph',
@@ -373,7 +373,7 @@ export const egoTunnel: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La empatía no es magia mental: es simulación corporalizada dentro de tu PSM. Explica cooperación, cultura y también sesgos — proyectamos fácilmente lo propio.",
+          html: "La empatía no es magia mental: es simulación corporalizada dentro de tu PSM. Explica cooperación, cultura y también sesgos, porque proyectamos fácilmente lo propio.",
         },
         {
           type: 'concept-grid',
@@ -409,7 +409,7 @@ export const egoTunnel: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Profundiza el marco de Gallese: percepción, acción y emoción comparten formatos representacionales. El «espacio» de estados corporales es manifold común.",
+          html: "Metzinger profundiza el marco de Gallese. Percepción, acción y emoción comparten formatos representacionales. El «espacio» de estados corporales es manifold común.",
         },
         {
           type: 'paragraph',
@@ -417,7 +417,7 @@ export const egoTunnel: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Límite: la simulación nunca es idéntica a la experiencia ajena; el túnel sigue siendo el tuyo.",
+          html: "La simulación nunca es idéntica a la experiencia ajena. El túnel sigue siendo el tuyo.",
         },
         {
           type: 'key',
@@ -437,11 +437,11 @@ export const egoTunnel: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Un sistema que se modela a sí mismo no necesariamente siente; hace falta correlato neural global con la misma dinámica de transparencia. Los «Ego Machines» postbióticos plantean si la evolución cultural puede crear nuevos tipos de interioridad.",
+          html: "Un sistema que se modela a sí mismo no necesariamente siente. Hace falta correlato neural global con la misma dinámica de transparencia. Los «Ego Machines» postbióticos plantean si la evolución cultural puede crear nuevos tipos de interioridad.",
         },
         {
           type: 'paragraph',
-          html: "Riesgo: crear sufrimiento sintético sin saberlo; obligación epistémica de no dañar sistemas que puedan tener PSM.",
+          html: "Existe el riesgo de crear sufrimiento sintético sin saberlo. Tenemos obligación epistémica de no dañar sistemas que puedan tener PSM.",
         },
         {
           type: 'key',
@@ -465,7 +465,7 @@ export const egoTunnel: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Metzinger advierte: la revolución de la conciencia llegará antes de lo que creemos; la política y la educación van rezagadas.",
+          html: "Metzinger advierte que la revolución de la conciencia llegará antes de lo que creemos. La política y la educación van rezagadas.",
         },
         {
           type: 'key',
@@ -607,15 +607,12 @@ export const egoTunnel: BookSummary = {
   "El túnel del ego es el mundo que tu cerebro presenta como realidad inmediata.",
   "Empatía, sueños y máquinas confirman que el centro de la experiencia es representación, no sustancia.",
   "La revolución de la conciencia obliga a una ética de los estados subjetivos.",
-  "Disolver el mito del yo no es nihilismo: es el prerequisito para entendernos y responsabilizarnos.",
-  "# footer",
-  "line1: Resumen generado a partir de la obra de Thomas Metzinger",
-  "line2: \"The Ego Tunnel\" · Basic Books · 2009"
+  "Disolver el mito del yo no es nihilismo: es el prerequisito para entendernos y responsabilizarnos."
 ],
     highlight: "La conciencia es un túnel sin habitante: solo contenido que se experiencia como «yo»",
   },
   footer: {
-    line1: "",
-    line2: "",
+    line1: "Resumen generado a partir de la obra de Thomas Metzinger",
+    line2: "\"The Ego Tunnel\" · Basic Books · 2009",
   },
 }
