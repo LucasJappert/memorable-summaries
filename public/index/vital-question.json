@@ -1,0 +1,407 @@
+{
+  "slug": "vital-question",
+  "title": "La cuestión vital",
+  "concepts": [
+    {
+      "title": "Quimiosmosis",
+      "description": "Acoplamiento de respiración y síntesis de ATP mediante gradientes de protones a través de membranas; universal en la vida."
+    },
+    {
+      "title": "Proticidad",
+      "description": "Flujo de protones como «electricidad biológica»; mecanismo energético propuesto por Peter Mitchell (1961)."
+    },
+    {
+      "title": "Agujero negro evolutivo",
+      "description": "Vacío entre simplicidad bacteriana persistente y complejidad eucariota monofilética sin intermediarios."
+    },
+    {
+      "title": "Hipótesis del hidrógeno",
+      "description": "Origen eucariota por simbiosis arquea metanógeno + bacteria productora de H₂ (Martin & Müller, 1998)."
+    },
+    {
+      "title": "LUCA / LECA",
+      "description": "Último ancestro común universal de toda vida / de todos los eucariotas; LECA ya era célula compleja."
+    },
+    {
+      "title": "Energía por gen",
+      "description": "Métrica que limita el tamaño procariota; eucariotas ganan ~10⁴–10⁵ veces más por gen gracias a mitocondrias."
+    },
+    {
+      "title": "Endosimbiosis",
+      "description": "Incorporación permanente de una célula dentro de otra; evento singular en el origen eucariota."
+    },
+    {
+      "title": "Respiraderos alcalinos",
+      "description": "Entorno propuesto para el origen de la vida: flujo geoquímico continuo, compartimentos minerales, H₂ + CO₂."
+    },
+    {
+      "title": "Quimera genómica",
+      "description": "Eucariotas combinan genes de ancestros bacterianos (~75 %) y arqueanos (~25 %)."
+    },
+    {
+      "title": "Intrones móviles",
+      "description": "Parásitos genéticos del endosimbionte que forzaron empalme, genomas grandes y evolución del sexo."
+    },
+    {
+      "title": "Apoptosis",
+      "description": "Muerte celular programada derivada de fallos respiratorios por incompatibilidad mitonuclear."
+    },
+    {
+      "title": "Singleton evolutivo",
+      "description": "La vida morfológicamente compleja surgió una sola vez en 4 000 millones de años."
+    }
+  ],
+  "highlight": "La energía por gen — no solo los genes — dicta por qué la vida compleja surgió una vez y por qué es como es",
+  "entries": [
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "¿Por qué es la vida como es?",
+      "text": "Hay un agujero negro en el corazón de la biología: no sabemos por qué la vida es como es. Toda la vida compleja en la Tierra comparte un ancestro común que surgió una sola vez en 4 000 millones de años — una célula ya tan sofisticada como las nuestras, que transmitió esa complejidad a árboles, abejas y hongos. Las células humanas son prácticamente indistinguibles de las de un hongo al microscopio. Sexo, suicidio celular y senescencia aparecen en formas comparables solo en eucariotas, nunca en bacterias."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "¿Por qué es la vida como es?",
+      "text": "La vida surgió hacia los 4 000 millones de años, pero permaneció atrapada en la simplicidad bacteriana más de 2 000 millones de años. Plantas, animales, hongos y protistas descienden de un único ancestro hace 1 500–2 000 millones de años, sin eslabones perdidos entre la simplicidad morfológica de las bacterias y la complejidad de todo lo demás. Gastamos miles de millones en biomedicina sin entender cómo evolucionaron las piezas de la célula."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "¿Por qué es la vida como es?",
+      "text": "Tres revoluciones moldearon el panorama: la endosimbiosis de Lynn Margulis ( 1967 ), el árbol filogenético de Carl Woese (tres dominios) y la genómica moderna, que confirma la predicción de Bill Martin ( 1998 ): la célula huésped era un arquea morfológicamente simple que incorporó la bacteria ancestro de las mitocondrias. La clave, según Lane, está en la generación de energía mediante gradientes de protones — la quimiosmosis de Peter Mitchell ."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "¿Por qué es la vida como es?",
+      "text": "La energía celular impone restricciones físicas que explican por qué las bacterias permanecen simples y por qué la vida compleja surgió una sola vez."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "¿Qué es la vida?",
+      "text": "Los telescopios de SETI en California buscan señales extraterrestres, pero sus preguntas rebotan sobre la biología terrestre: ¿debería la vida usar ondas de radio, carbono, agua u oxígeno? La biología evolutiva conoce la historia molecular, pero predice poco sobre qué partes del relato son contingencia y cuáles leyes físicas. Jacques Monod veía el origen de la vida como accidente. Otros lo consideran inevitable."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "¿Qué es la vida?",
+      "text": "Erwin Schrödinger , en What is Life? ( 1944 ), propuso que la vida elude localmente la entropía mediante los genes como «cristal aperiódico» portador de código. La era del ADN, iniciada por Crick y Watson ( 1953 ), convirtió la biología en ciencia de la información. Los genomas varían enormemente (cebollas y salamandras superan al humano en ADN). Si la información no impone límites estructurales, no podemos predecir la vida en otros planetas."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "¿Qué es la vida?",
+      "text": "La historia temprana de la Tierra ( ~4 500 millones de años) muestra océanos desde los cristales de circón más antiguos. La vida aparece hacia los 3 800–3 500 millones de años. Hacia los 3 200 millones de años, las bacterias ya dominaban casi todas las vías metabólicas. La fotosíntesis oxigénica y el Gran Evento de Oxidación (~ 2 400 millones de años) transformaron el planeta. La versión textbook, oxígeno como «freno liberado» que permitió células complejas por endosimbiosis gradual, es, según Lane, incorrecta."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "¿Qué es la vida?",
+      "text": "Si el oxígeno hubiera liberado restricciones, esperaríamos una radiación polifilética : distintos grupos bacterianos dando origen independiente a algas, hongos o fagocitos. En cambio vemos radiación monofilética : un solo origen eucariota con estasis prolongada y cambios ocasionales. Ni la selección estándar ni la endosimbiosis serial de Margulis predicen la uniformidad interna de todos los eucariotas. Los «archezoa» (como Giardia ) no son eslabones perdidos: perdieron mitocondrias por evolución reductiva."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "¿Qué es la vida?",
+      "text": "La discontinuidad entre bacterias y eucariotas exige restricciones estructurales , no solo genes y ambiente."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "¿Qué es lo viviente?",
+      "text": "Los virus son maquinaria molecular letal, pero la mayoría de los biólogos no los clasifica como vivos: carecen de metabolismo propio y dependen del huésped. Plantas, animales y virus parasitan su entorno. La diferencia es cuántos «apoyos» externos necesitan. La definición de la NASA, sistema químico autosustentable capaz de evolución darwiniana, ignora la dependencia del medio."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "¿Qué es lo viviente?",
+      "text": "Esporas, semillas y tardígrados sobreviven deshidratación, radiación y vacío sin metabolizar. No están «muertos» porque pueden reanudar la vida. La distinción entre vida (estructura) y lo viviente (crecer, proliferar) depende del entorno. Conocemos bien cómo los genes codifican componentes, pero poco sobre cómo las restricciones físicas moldean la evolución celular."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "¿Qué es lo viviente?",
+      "text": "La segunda ley de la termodinámica exige aumento de entropía, pero destruir una espora apenas altera la entropía total: las membranas lipídicas y las proteínas plegadas liberan calor al formarse, compensando el orden aparente. Schrödinger acertó en que la vida extrae «ordnegativo» del entorno, aunque el orden local cuesta energía al sistema completo."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "¿Qué es lo viviente?",
+      "text": "Esencialmente toda vida usa quimiosmosis : flujo de protones a través de membranas para sintetizar ATP. El ATP sintasa , motor rotatorio universal en bacterias, arqueas y eucariotas, debería ser tan emblemático del vivir como la doble hélice. Peter Mitchell propuso esto en 1961 contra décadas de resistencia («guerras ox phos»). Ganó el Nobel en 1978 . La vida se basa en carbono parcialmente reducido (≈ CH₂O) y en química redox. La pregunta abierta es por qué protones y electrones, no solo química en tubo de ensayo."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "¿Qué es lo viviente?",
+      "text": "Vivir exige flujo continuo de energía y carbono. La proticidad (gradientes de protones) es tan universal como el código genético."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "La vida como química",
+      "text": "Las vías metabólicas encauzan el flujo de carbono como molinos de agua. Faltando enzimas, el origen de la vida requería órdenes de magnitud más energía. Una célula primitiva sin catalizadores podría necesitar 40 toneladas de «desecho» para producir 1 gramo de biomasa. El experimento Miller-Urey ( 1953 ) reforzó la imagen de la sopa primordial , pero concentrar precursores en océanos abiertos es termodinámicamente inviable."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "La vida como química",
+      "text": "La química del origen necesita flujo continuo de carbono reactivo, energía libre, excreción de desechos y compartimentación — propiedades interdependientes desde el principio. Los ambientes de sopa carecen del flujo sostenido que mantiene estructuras disipativas (convección, huracanes, mancha roja de Júpiter): orden sin información genética, pero exigiendo energía incesante."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "La vida como química",
+      "text": "El carbono forma enlaces versátiles. El CO₂ actúa como «ladrillo Lego» gaseoso, imposible de replicar con silicio. La respiración moderna separa metabolismo energético y carbono, conectados por ATP. La fermentación existe pero rinde poco. La química redox es versátil: bacterias «comen» rocas, gases o minerales con el mismo equipamiento respiratorio básico."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "La vida como química",
+      "text": "Alternativas como la radiación UV o el cianuro generan precursores, pero la UV destruye orgánicos y ninguna vida actual usa cianide como fuente de carbono. Concentrar la sopa por congelación, evaporación o bombardeos de asteroides exige cambios drásticos incompatibles con la estabilidad que define a las células vivas."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "La vida como química",
+      "text": "El origen de la vida fue impulsado por flujo energético , no por acumulación pasiva de moléculas en un caldo."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "La vida como información",
+      "text": "Para muchos investigadores, la vida es información copiable. Sin replicación no hay selección natural. El mundo del ARN propone que el ARN sirvió de plantilla y catalizador antes del ADN y las proteínas. Pero los nucleótidos deben formarse y unirse en un mismo ambiente con energía para activar monómeros — la replicación sin metabolismo agota sus propios bloques de construcción en pocas generaciones."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "La vida como información",
+      "text": "Seis propiedades definen toda célula: suministro continuo de carbono, energía libre, catalizadores, excreción, compartimentación y material hereditario. El debate «¿metabolismo o replicación primero?» es estéril: duplicar ARN consume bloques que deben reponerse al mismo ritmo. Los minerales tipo arcilla (Cairns-Smith) catalizan pero no codifican complejidad comparable al ARN."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "La vida como información",
+      "text": "La termodinámica favorece cierto espectro de orgánicos (descargas eléctricas, química cósmica, reactores de alta presión), sugiriendo que nucleótidos y aminoácidos podrían formarse convergentemente. No obstante, la información biológica (código genético, ribosomas, transcripción) aparece ya operativa en el ancestro común de bacterias y arqueas ( LUCA ), sin intermediarios reconstruibles."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "La vida como información",
+      "text": "La hegemonía del ADN distrajo de la energía: Crick y Watson eclipsaron a Mitchell en 1953 , aunque ambos revolucionaron la biología. Comprender el origen exige integrar replicación con flujo químico continuo — la información emerge en ambientes que ya sostienen estructuras disipativas."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "La vida como información",
+      "text": "Replicación e información son necesarias, pero insuficientes sin un flujo metabólico que las sustente."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El origen de la vida",
+      "text": "Los respiraderos hidrotermales alcalinos ofrecen flujo continuo de H₂ y CO₂ a través de catalizadores minerales (olivino, pirita) en compartimentos microscópicos de roca porosa — exactamente lo que la sopa primordial no proporciona. La vía del acetil-CoA fija carbono con energía de gradientes naturales de protones y es la más antigua compartida por bacterias y arqueas."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El origen de la vida",
+      "text": "LUCA, reconstruida por genes universales (~ 100 ), ya tenía código genético, ribosomas, ATP sintasa y quimiosmosis, pero membranas, paredes celulares y maquinaria de replicación del ADN difieren radicalmente entre bacterias y arqueas. No encaja en océano abierto. Encaja en respiraderos donde geología y bioquímica se funden sin frontera dura entre planeta vivo y célula viva."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El origen de la vida",
+      "text": "Solo existen 6 vías de fijación de carbono. Cinco requieren energía externa. La sexta, acetil-CoA, opera con H₂ + CO₂ en condiciones geológicas de respiraderos alcalinos, donde el pH alcalino interior y el océano ligeramente ácido generan gradientes de protones naturales que podrían haber precedido a la quimiosmosis biológica."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El origen de la vida",
+      "text": "El árbol filogenético basado en un solo gen (ARN ribosomal) engaña: la transferencia génica lateral en bacterias destruye correlaciones genotipo-fenotipo. El «árbol desapareciente» de Martin muestra que 48 genes universales concuerdan en separar bacterias y arqueas en la base, pero ninguno reconstruye ramas profundas dentro de cada dominio. LUCA fue quimiosmótica, con información genética, pero sin membrana moderna ni complejos respiratorios actuales."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El origen de la vida",
+      "text": "La vida probablemente nació en respiraderos alcalinos — roca, agua y CO₂, disponibles en miles de millones de planetas."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "El acontecimiento singular",
+      "text": "Todos los eucariotas, plantas, animales, algas, hongos, protistas, comparten un ancestro común que surgió una sola vez en la historia terrestre. No hubo múltiples experimentos exitosos de complejidad morfológica en bacterias o arqueas pese a 4 000 millones de años, upheavals ambientales y el Gran Evento de Oxidación."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "El acontecimiento singular",
+      "text": "El último ancestro eucariota común ( LECA ) ya era una célula «moderna»: núcleo, mitocondrias, citoesqueleto dinámico, sexo, cromosomas lineales y cinco supergrupos que irradian explosivamente. No hay intermediarios fósiles ni genéticos genuinos entre bacterias y eucariotas. Los archezoa son eucariotas regresivos, no eslabones perdidos."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "El acontecimiento singular",
+      "text": "Tanto la selección darwiniana estándar como la endosimbiosis serial de Margulis predicen orígenes polifiléticos con bolsas mixtas de organelas. La filogenética de genomas completos muestra lo contrario: monofilia estricta y catálogo compartido de rasgos elaborados (suicidio celular, senescencia, dos sexos) ausentes en procariotas."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "El acontecimiento singular",
+      "text": "La endosimbiosis no es un salto no darwiniano: es un evento singular que transformó el paisaje selectivo. Después todo fue evolución gradual. La rareza del cruce explica por qué la complejidad morfológica no se repitió: la barrera entre procariota y eucariota es un vacío ecológico y genético que la naturaleza «aborrece» pero no llena."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "El acontecimiento singular",
+      "text": "La vida compleja es un singleton evolutivo: un solo origen, sin paralelos bacterianos ni arqueanos."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Los dos dominios de la vida",
+      "text": "Carl Woese comparó el gen del ARN ribosomal ( 1960s–70s ) y descubrió un tercer dominio, Archaea , tan distante de bacterias como de eucariotas en secuencia, aunque morfológicamente idénticos a bacterias. Su árbol de tres dominios equiparaba bacterias, arqueas y eucariotas como linajes primarios independientes."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Los dos dominios de la vida",
+      "text": "La revolución genómica invierte parte de ese cuadro: eucariotas son quimeras — ~ 75 % de genes con homólogos procariotas provienen de bacterias, ~ 25 % de arqueas. El árbol de Woese refleja un solo gen, no la historia celular completa. Margulis tenía razón sobre mitocondrias y cloroplastos. Estaba equivocada sobre cilios, núcleo y endosimbiosis serial masiva."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Los dos dominios de la vida",
+      "text": "Bacterias y arqueas comparten entornos globales pero mantienen membranas, paredes y replicación del ADN fundamentalmente distintas pese a transferencia génica lateral. Ninguna explicación convencional (LUCA con todo duplicado, o arqueas extremófilas que reemplazaron sistemas bacterianos) resuelve el patrón."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Los dos dominios de la vida",
+      "text": "La genómica confirma que la célula huésped del origen eucariota era un arquea sin fagocitosis, no una ameba predadora. El huésped carecía de casi toda la complejidad eucariota. La adquirió después de incorporar la bacteria que se convertiría en mitocondria."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Los dos dominios de la vida",
+      "text": "Bacterias y arqueas son dominios bioquímicamente divergentes . Los eucariotas fusionaron ambos en un solo evento."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "El origen de la célula eucariota",
+      "text": "La hipótesis del hidrógeno (Martin y Müller, 1998 ) propone un arquea metanógeno que consumía H₂ + CO₂ y un endosimbionte bacteriano que le suministraba H₂. La simbiosis explica el mosaico génico eucariota y predice que no existió eucariota sin mitocondrias. Todas las predicciones han sido confirmadas por genómica en dos décadas."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "El origen de la célula eucariota",
+      "text": "Los eucariotas son quimeras genéticas: miles de genes bacterianos y arqueanos integrados en vías bioquímicas compuestas (p. ej. fermentación). Parece haber una ventana evolutiva breve de transferencias masivas seguida de 1 500 millones de años de relativa quietud génica entre procariotas y eucariotas — patrón incompatible con docenas de endosimbiosis, pero coherente con una sola."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "El origen de la célula eucariota",
+      "text": "El huésped arqueano no podía fagocitar. La incorporación del endosimbionte requirió otro mecanismo (p. ej. predación fallida, parasitismo o fusión). Lo crucial: la simbiosis rompió restricciones energéticas que mantenían a procariotas pequeños y genomas limitados durante eones."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "El origen de la célula eucariota",
+      "text": "Alternativas como pérdida de pared celular, cromosomas lineales o predación habilitadora (Cavalier-Smith) tienen contraejemplos abundantes: bacterias L-form sin pared, arqueas sin pared, bacterias con cromosomas lineales — ninguno evoluciona complejidad eucariota. John Maynard Smith descartaba esas explicaciones como insuficientes."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "El origen de la célula eucariota",
+      "text": "Un arquea + una bacteria = origen eucariota. La hipótesis del hidrógeno es la explicación más parsimoniosa y mejor corroborada."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "La incorporación de las mitocondrias",
+      "text": "Las mitocondrias derivan de α-proteobacterias . Conservan genoma propio ( 13 genes en humanos, de miles originales) y sintetizan la mayor parte del ATP celular. Margulis demostró la endosimbiosis en los 1980 . Hoy sabemos que todos los eucariotas, incluidos aparentes excepciones, conservan orgánulos derivados de mitocondrias (hidrogenosomas, mitosomas)."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "La incorporación de las mitocondrias",
+      "text": "La transferencia génica del endosimbionte al núcleo reemplazó la mayoría de genes mitocondriales. El huésped integró vías bacterianas y arqueanas en redes metabólicas híbridas. La cloroplasta llegó después, solo en algas y plantas. Las mitocondrias son universales y anteriores a toda complejidad eucariota."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "La incorporación de las mitocondrias",
+      "text": "La endosimbiosis explica el patrón de ~ 25 grupos bacterianos aparentemente contribuyentes: provienen de una población ancestral de la bacteria-mitocondria que luego diversificó por transferencia lateral entre bacterias libres. Lo mismo aplica al arquea huésped con 7–8 grupos arqueanos reflejados."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "La incorporación de las mitocondrias",
+      "text": "Sin endosimbiosis, la selección sobre poblaciones infinitas de procariotas nunca produce células complejas: la fusión de ramas filogenéticas (no bifurcación) es el único camino conocido. La relación íntima huésped-endosimbionte impone conflictos de selección que explican la rareza del evento."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "La incorporación de las mitocondrias",
+      "text": "Las mitocondrias no turbo cargaron un eucariota ya hecho: su adquisición fue el origen mismo de la vida compleja."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Las leyes de potencia de la biología",
+      "text": "Procariotas tienen ~ 15 000 veces menos volumen celular que eucariotas medios. Sus genomas más grandes rondan 12 Mb frente a miles de Mb eucariotas. Pese a virtuosismo bioquímico, bacterias y arqueas no cambiaron morfológicamente en 4 000 millones de años. La restricción es energética: energía por gen ."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Las leyes de potencia de la biología",
+      "text": "Escalar una bacteria al tamaño eucariota aumenta el área de membrana ~ 625 veces pero el volumen ~ 15 000 veces. La síntesis de ATP depende de la membrana. El coste proteico escala con el volumen. Careciendo de un sistema de transporte intracelular sofisticado, una bacteria gigante necesitaría miles de copias del genoma ( poliploidia extrema ) solo para mantener energía por gen constante."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Las leyes de potencia de la biología",
+      "text": "Las bacterias gigantes Epulopiscium (~ 200 000 genomas) y Thiomargarita (~ 18 000 ) confirman la predicción: genomas periféricos junto a la membrana, interior metabólicamente inerte. Tienen ~ 5 000 veces menos energía por gen que eucariotas — exactamente lo predicho."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Las leyes de potencia de la biología",
+      "text": "Las mitocondrias resuelven el problema: genomas bacterianos reducidos dentro de una célula grande producen ATP localmente sin multiplicar genomas completos en la periferia. Un eucariota obtiene ~ 100 000 veces más energía por gen que una bacteria del mismo tamaño. Las leyes de potencia de superficie/volumen impiden la complejidad procariota. Solo la endosimbiosis la liberó."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Las leyes de potencia de la biología",
+      "text": "La complejidad requiere energía por gen masiva. Solo mitocondrias endosimbióticas la hacen posible."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Sexo y muerte",
+      "text": "Después de la endosimbiosis, los eucariotas acumularon en poco tiempo geológico (posiblemente ~ 2 millones de años) núcleo, sistemas de membranas, citoesqueleto y sexo. Son rasgos universales ausentes en procariotas. La uniformidad eucariota sugiere población pequeña, inestable, con reproducción sexual que mezcla rasgos y evita divergencia."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Sexo y muerte",
+      "text": "Los eucariotas tienen genes en trozos (intrones) empalados por el esplicosoma. Los precursores son intrones móviles bacterianos (grupo II) transferidos desde el endosimbionte. La invasión de intrones elevó la tasa de mutación y exigió recombinación genómica completa, sexo total, frente a transferencia génica lateral, insuficiente para genomas grandes."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Sexo y muerte",
+      "text": "El sexo rompe la interferencia selectiva de la reproducción clonal: permite que la selección «vea» genes individualmente. Dos sexos surgen para mantener la calidad mitocondrial: el citoplasma (y mitocondrias) se hereda de la madre. El sexo filtra compatibilidad entre genomas nuclear y mitocondrial. La línea germinal inmortal contrasta con el cuerpo mortal somático."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Sexo y muerte",
+      "text": "La apoptosis , muerte celular programada, emerge de la fisiología respiratoria: genomas nuclear y mitocondrial desajustados ralentizan el flujo de electrones, generan radicales libres, liberan citocromo c y colapsan el potencial de membrana. Este mecanismo, conservado en plantas y levaduras, elimina células con genomas incompatibles — base evolutiva del suicidio celular y la senescencia."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Sexo y muerte",
+      "text": "Sexo, dos sexos y muerte programada son predicciones de la simbiosis mitocondrial, no accidentes históricos."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "El sentido de la vida",
+      "text": "Las cadenas respiratorias mitocondriales son mosaicos de subunidades codificadas en dos genomas que deben coincidir a escala de ångstroms: un aumento de 1 Å entre centros redox reduce ~ 10 veces la transferencia de electrones por tunelamiento cuántico. Genes mitocondriales mutan 10–50 veces más rápido que los nucleares y no recombinan cada generación."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "El sentido de la vida",
+      "text": "La coevolución mitonuclear explica enfermedades mitocondriales, apoptosis en desarrollo embrionario y el ~ 40 % de abortos espontáneos tempranos posiblemente bioenergéticos. Aves y murciélagos, alta demanda aeróbica, tienen umbrales bajos de muerte celular: mitocondrias casi perfectas, baja fecundidad, longevidad extendida (palomas ~ 30 años vs. ratas ~ 3–4 )."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "El sentido de la vida",
+      "text": "Existe un trade-off evolutivo predecible: fecundidad y adaptabilidad vs. capacidad aeróbica y riesgo de enfermedad. Especies con umbrales altos toleran más fuga de radicales libres, son más fértiles pero más propensas a patologías mitocondriales. Todo emerge de la necesidad de dos genomas para sostener células grandes."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "El sentido de la vida",
+      "text": "El epílogo menciona Parakaryon myojinensis , microbio de respiraderos profundos que podría estar repitiendo un camino paralelo hacia la complejidad. La vida en el universo probablemente también será quimiosmótica si surge en respiraderos alcalinos de planetas rocosos con agua y CO₂ — quizá ~ 40 000 millones de candidatos solo en la Vía Láctea."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "El sentido de la vida",
+      "text": "El «sentido» biológico es energético: la vida compleja paga por su grandeza con compromisos entre vigor, fertilidad, enfermedad y muerte."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La vida es quimiosmótica desde el origen: protones, membranas y carbono reducido."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Las bacterias exploraron el metabolismo, pero una sola endosimbiosis rompió el techo energético y creó la quimera eucariota."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Sexo, dos sexos, apoptosis y enfermedad son predicciones de dos genomas compartiendo una cadena respiratoria."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "En otros planetas rocosos con agua, la misma química de respiraderos alcalinos podría repetir el guion."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La cuestión vital tiene respuesta bioenergética, no solo informacional."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La energía por gen — no solo los genes — dicta por qué la vida compleja surgió una vez y por qué es como es"
+    }
+  ]
+}

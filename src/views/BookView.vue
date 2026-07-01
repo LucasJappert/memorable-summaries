@@ -3,7 +3,6 @@ import { computed, nextTick, onUnmounted, ref, watch } from 'vue'
 import { getBookBySlug } from '../books/catalog'
 import { bookHasAudio } from '../books/audio-catalog'
 import ReadingProgress from '../components/ReadingProgress.vue'
-import SiteHeader from '../components/SiteHeader.vue'
 import HeroSection from '../components/HeroSection.vue'
 import BookSection from '../components/BookSection.vue'
 import ConceptGrid from '../components/ConceptGrid.vue'
@@ -15,8 +14,17 @@ import BookNavDrawer from '../components/BookNavDrawer.vue'
 import AudioPlayer from '../components/AudioPlayer.vue'
 import { useActiveSection } from '../composables/useActiveSection'
 import { useMediaQuery } from '../composables/useMediaQuery'
+import { usePageMeta } from '../composables/usePageMeta'
 import { useReadingPosition } from '../composables/useReadingPosition'
 import ReadCelebration from '../components/ReadCelebration.vue'
+import { absoluteUrl, bookOgImageUrl } from '../config/site'
+import {
+  bookCanonicalPath,
+  formatBookDescription,
+  formatBookDisplayTitle,
+  formatBookPageTitle,
+} from '../utils/seo'
+import ReadCompletionPanel from '../components/ReadCompletionPanel.vue'
 
 const SPECIAL_TOC_IDS = new Set(['cierre', 'conceptos', 'cronologia', 'figuras'])
 
@@ -24,14 +32,65 @@ const props = defineProps<{ slug: string }>()
 
 const book = computed(() => getBookBySlug(props.slug))
 const isMobile = useMediaQuery('(max-width: 1023px)')
+
+usePageMeta(
+  computed(() => {
+    const current = book.value
+    if (!current) return null
+
+    const description = formatBookDescription(current.meta)
+    const displayTitle = formatBookDisplayTitle(current.meta)
+
+    return {
+      title: formatBookPageTitle(current.meta),
+      description,
+      canonicalPath: bookCanonicalPath(current.slug),
+      ogType: 'article' as const,
+      ogImage: bookOgImageUrl(current.slug),
+      jsonLd: {
+        '@context': 'https://schema.org',
+        '@type': 'Book',
+        name: displayTitle,
+        author: {
+          '@type': 'Person',
+          name: current.meta.author,
+        },
+        description,
+        image: bookOgImageUrl(current.slug),
+        url: absoluteUrl(bookCanonicalPath(current.slug)),
+      },
+    }
+  }),
+)
 const hasAudio = computed(() => bookHasAudio(props.slug))
 
 const menuOpen = ref(false)
 const audioVisible = ref(false)
 
-const headerBookTitle = computed(
-  () => book.value?.meta.titleEs?.trim() || book.value?.meta.title,
-)
+const PAUSE_HIDE_MS = 5000
+let pauseHideTimer: ReturnType<typeof setTimeout> | null = null
+
+function clearPauseHideTimer() {
+  if (pauseHideTimer) {
+    clearTimeout(pauseHideTimer)
+    pauseHideTimer = null
+  }
+}
+
+function schedulePauseHide() {
+  clearPauseHideTimer()
+  pauseHideTimer = setTimeout(() => {
+    audioVisible.value = false
+  }, PAUSE_HIDE_MS)
+}
+
+function onAudioPlay() {
+  clearPauseHideTimer()
+}
+
+function onAudioPaused() {
+  schedulePauseHide()
+}
 
 const chapterToc = computed(() => {
   if (!book.value) return []
@@ -83,6 +142,7 @@ const { isMarkedRead, bookJustCompleted, toggleMarkedRead } = useReadingPosition
 )
 
 const showReadCelebration = ref(false)
+const showCompletionPanel = ref(false)
 
 watch(bookJustCompleted, (completed) => {
   if (!completed) return
@@ -94,8 +154,20 @@ watch(bookJustCompleted, (completed) => {
 
 function onReadCelebrationFinished() {
   showReadCelebration.value = false
+  showCompletionPanel.value = true
+}
+
+function onCompletionPanelDismiss() {
+  showCompletionPanel.value = false
   bookJustCompleted.value = false
 }
+
+watch(audioVisible, async (visible) => {
+  clearPauseHideTimer()
+  if (!visible) return
+  await nextTick()
+  schedulePauseHide()
+})
 
 watch(menuOpen, (open) => {
   document.body.style.overflow = open ? 'hidden' : ''
@@ -103,6 +175,7 @@ watch(menuOpen, (open) => {
 
 onUnmounted(() => {
   document.body.style.overflow = ''
+  clearPauseHideTimer()
 })
 
 function toggleMenu() {
@@ -126,17 +199,11 @@ function scrollToCover() {
   <div v-if="book" class="book-page">
     <ReadingProgress v-if="!isMobile" />
 
-    <SiteHeader
-      :toc="navToc"
-      :book-title="headerBookTitle"
-      @toggle-menu="toggleMenu"
-    />
-
     <HeroSection
       :meta="book.meta"
       :slug="book.slug"
       :done="isMarkedRead"
-      :hide-audio="isMobile"
+      hide-audio
       @toggle-read="toggleMarkedRead"
     />
 
@@ -145,12 +212,20 @@ function scrollToCover() {
       @finished="onReadCelebrationFinished"
     />
 
+    <ReadCompletionPanel
+      :slug="book.slug"
+      :active="showCompletionPanel"
+      @dismiss="onCompletionPanelDismiss"
+    />
+
     <Teleport to="body">
       <AudioPlayer
-        v-if="isMobile && hasAudio && audioVisible"
+        v-if="hasAudio && audioVisible"
         :slug="book.slug"
         dock-top
         class="audio-player--mobile-dock"
+        @play="onAudioPlay"
+        @pause="onAudioPaused"
       />
     </Teleport>
 
@@ -196,7 +271,6 @@ function scrollToCover() {
     </div>
 
     <MobileBookBar
-      v-if="isMobile"
       :has-audio="hasAudio"
       :audio-open="audioVisible"
       :menu-open="menuOpen"

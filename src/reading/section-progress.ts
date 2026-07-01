@@ -23,12 +23,20 @@ export function getFurthestSectionId(sectionIds: string[], previousId?: string):
   return sectionIds[Math.max(0, maxIndex)] ?? sectionIds[0]
 }
 
+/** @deprecated Alias legacy; usa la sección `figuras`. */
 export function hasReachedConceptosByProgress(
   sectionIds: string[],
   furthestSectionId: string,
 ): boolean {
-  const conceptosIndex = sectionIds.indexOf(READ_COMPLETE_FROM_SECTION)
+  return hasReachedCompleteSectionByProgress(sectionIds, furthestSectionId)
+}
+
+export function hasReachedCompleteSectionByProgress(
+  sectionIds: string[],
+  furthestSectionId: string,
+): boolean {
+  const completeIndex = sectionIds.indexOf(READ_COMPLETE_FROM_SECTION)
   const furthestIndex = sectionIds.indexOf(furthestSectionId)
-  if (conceptosIndex < 0 || furthestIndex < 0) return false
-  return furthestIndex >= conceptosIndex
+  if (completeIndex < 0 || furthestIndex < 0) return false
+  return furthestIndex >= completeIndex
 }

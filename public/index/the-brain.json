@@ -1,0 +1,246 @@
+{
+  "slug": "the-brain",
+  "title": "El cerebro: La historia de ti",
+  "concepts": [
+    {
+      "title": "Livewire",
+      "description": "Cerebro humano cableado por experiencia, no preprogramado como la mayoría de mamíferos."
+    },
+    {
+      "title": "Modelo interno",
+      "description": "Predicción cerebral que compara expectativas con datos sensoriales (error = actualización)."
+    },
+    {
+      "title": "Poda sináptica",
+      "description": "Eliminación de conexiones no usadas; escultura de la identidad desde la infancia."
+    },
+    {
+      "title": "Conciencia tardía",
+      "description": "La experiencia consciente llega después de preparación neural inconsciente."
+    },
+    {
+      "title": "Cerebro dividido",
+      "description": "Hemisferios con agendas parciales tras sección del cuerpo calloso."
+    },
+    {
+      "title": "Reserva cognitiva",
+      "description": "Redes neuronales alternativas que compensan daño por envejecimiento."
+    },
+    {
+      "title": "Conectoma",
+      "description": "Mapa completo de conexiones neuronales; frontera de la neurociencia futura."
+    },
+    {
+      "title": "Neuronas espejo",
+      "description": "Circuitos que simulan acciones y estados ajenos; base de empatía social."
+    }
+  ],
+  "highlight": "No percibes el mundo: tu cerebro lo construye, lo retrasa y lo edita para ti.",
+  "entries": [
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "El material que te hace ser tú",
+      "text": "La neurociencia avanza tan rápido que rara vez nos detenemos a preguntar qué significa para nuestras vidas ser criaturas biológicas. David Eagleman escribe este libro para tender un puente entre la literatura académica y quienes «poseen» un cerebro sin formación especializada."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "El material que te hace ser tú",
+      "text": "El tejido computacional del cráneo es la maquinaria perceptual con la que navegamos el mundo, el material del que surgen decisiones e imaginación. Comprenderlo arroja luz sobre lo que damos por real en las relaciones personales y en la política social: cómo peleamos, por qué amamos, qué aceptamos como verdad, cómo educar y hacia dónde se dirige una especie que empieza a tomar sus propias riendas."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "El material que te hace ser tú",
+      "text": "Raramente hablamos del cerebro en la cultura popular. Eagleman lo interpreta como pista de que estamos tan atrapados dentro de nuestra realidad que cuesta notar la trampa. Damos por hecho que los colores existen «afuera», que la memoria funciona como una cámara de video y que conocemos las razones reales de nuestras creencias."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "El material que te hace ser tú",
+      "text": "Este libro pone bajo el foco esas suposiciones: identidad, percepción, control, decisión, socialidad y futuro de la especie."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "¿Quién soy yo?",
+      "text": "Todas las experiencias, desde una conversación hasta la cultura que te rodea, moldean los detalles microscópicos del cerebro. Neuronalmente, quién eres depende de dónde has estado. El cerebro es un livewire (cableado vivo) que reescribe su propia circuitería. La identidad es un blanco en movimiento que nunca alcanza un punto final."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "¿Quién soy yo?",
+      "text": "Un cerebro adulto pesa unos 1,4 kg (tres libras), con consistencia de gelatina firme. Pensamientos, sueños y recuerdos surgen de patrones de pulsos electroquímicos. Cuando esa actividad cesa, tú cesas. A diferencia de otros órganos, dañar un fragmento pequeño del cerebro puede cambiar radicalmente quién eres."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "¿Quién soy yo?",
+      "text": "Los humanos nacen inacabados y dependemos años de cuidadores mientras el cerebro se moldea por experiencia. A los dos años hay más de 100 billones de sinapsis, el doble que en la adultez. Luego la poda neuronal elimina conexiones no usadas. Te conviertes en quien eres no por lo que crece, sino por lo que se elimina."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "¿Quién soy yo?",
+      "text": "La adolescencia trae una segunda oleada de poda en la corteza prefrontal (hasta ~ 25 años). Los adolescentes muestran mayor ansiedad social (corteza prefrontal medial más activa) y más búsqueda de recompensa con control de impulsos inmaduro. Los taxistas londinenses que memorizan «The Knowledge» (~ 25 000 calles) desarrollan un hipocampo posterior agrandado."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "¿Quién soy yo?",
+      "text": "Charles Whitman ( 1966 ) pidió autopsia tras una matanza en la Torre de Texas. Un tumor del tamaño de una moneda presionaba la amígdala. Elizabeth Loftus demostró que recuerdos falsos, como perderse de niño en un centro comercial, pueden implantarse y enriquecerse con el tiempo."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "¿Quién soy yo?",
+      "text": "La identidad no es un núcleo fijo: es un patrón neural en constante reescritura, desde la cuna hasta la vejez."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "¿Qué es la realidad?",
+      "text": "¿Y si el mundo de colores, texturas y olores fuera un espectáculo montado por el cerebro? Fuera del cráneo solo hay energía y materia. La evolución convirtió eso en experiencia rica. Ilusiones como las serpientes rotatorias de Akiyoshi Kitaoka o el tablero de Edward Adelson muestran que la percepción depende más de adentro que de afuera."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "¿Qué es la realidad?",
+      "text": "El cerebro, sellado en la oscuridad del cráneo, nunca experimentó directamente el mundo exterior. Los sentidos traducen fotones, ondas de presión, moléculas y textura a señales electroquímicas. Cerca de un tercio del cerebro humano se dedica a la visión."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "¿Qué es la realidad?",
+      "text": "Mike May recuperó la vista tras más de 40 años de ceguera. Los ojos funcionaban, pero el cerebro no «veía». En el experimento de Held y Hein ( 1963 ), solo el gatito que caminaba, no el que iba en góndola, desarrolló visión normal. Ver exige entrenar cuerpo y sentidos juntos."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "¿Qué es la realidad?",
+      "text": "Gafas de prisma invierten izquierda y derecha. En minutos provocan náusea. Después de una semana, el cerebro re-mapea el espacio. El cerebro sincroniza sentidos con retraso, de modo que vives en el pasado para que todo parezca simultáneo. En el «Hole» de Alcatraz, sin luz ni sonido, el modelo interno sigue generando imágenes vívidas."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "¿Qué es la realidad?",
+      "text": "La realidad consciente es construcción cerebral: predicción, comparación de errores y edición temporal, no registro fiel del exterior."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "¿Quién manda?",
+      "text": "Actos simples como reconocer un rostro, conducir o entender un chiste requieren cálculos masivos bajo el umbral de la conciencia. ¿Quién conduce el barco si la mayor parte del trabajo es invisible?"
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "¿Quién manda?",
+      "text": "Al leer, los ojos saltan en sacadas de ~ 20 ms . El cerebro estabiliza la escena. La conciencia llega tarde. En experimentos de «veto», la preparación motora aparece en EEG antes de que sientas la intención de moverte."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "¿Quién manda?",
+      "text": "Pacientes con cerebro dividido (cuerpo calloso seccionado) muestran dos sistemas de control: la mano izquierda puede elegir ropa que la boca no puede nombrar. El cerebro es un equipo de rivales, no un monarca único."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "¿Quién manda?",
+      "text": "La propiocepción , es decir saber dónde están las partes del cuerpo, puede fallar en el síndrome de miembro fantasma o en la «mano extraña». Las ondas cerebrales pasan de complejidad despierta a sincronía en sueño profundo. La conciencia emerge de ritmos neuronales integrados."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "¿Quién manda?",
+      "text": "El yo consciente es la punta del iceberg: la mayoría de las decisiones y percepciones ya están resueltas cuando «tú» te enteras."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "¿Cómo decido?",
+      "text": "¿Como el helado o no? ¿Responder el correo ahora? Miles de microdecisiones al día. Parecen deliberadas, pero gran parte opera con modelos automáticos y sesgos inconscientes."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "¿Cómo decido?",
+      "text": "El cerebro emocional (sistema límbico) y la corteza prefrontal negocian constantemente. La amígdala puede secuestrar decisiones antes de que la razón intervenga. El experimento del «carro del trolley» activa distintas redes según empujes un interruptor o empujes a alguien directamente."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "¿Cómo decido?",
+      "text": "La fuerza de voluntad parece un recurso finito: tras tareas de autocontrol, las personas eligen peor en pruebas siguientes. Los hábitos liberan corteza prefrontal al automatizar rutinas en ganglios basales."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "¿Cómo decido?",
+      "text": "Benjamin Libet mostró actividad preparatoria antes de la sensación de decisión consciente. Eso no elimina la responsabilidad, pero reubica la agencia: muchas «decisiones» son propuestas que la conciencia ratifica o veta tarde."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "¿Cómo decido?",
+      "text": "Decidir no es un acto único del yo: es competencia entre sistemas automáticos, emoción, hábito y un veto consciente a menudo tardío."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "¿Te necesito?",
+      "text": "¿Qué necesita el cerebro para funcionar? Más allá de nutrientes y oxígeno, necesita otros cerebros . Los humanos somos ultrasociales. La corteza prefrontal medial se activa al pensar en nosotros mismos y en los demás."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "¿Te necesito?",
+      "text": "Neuronas espejo y circuitos de empatía nos permiten simular estados ajenos. La soledad crónica daña la salud como el tabaquismo. La interacción social depende de neuroquímica (oxitocina, dopamina) y no es un lujo opcional."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "¿Te necesito?",
+      "text": "El autismo y el síndrome E (empatía reducida) muestran espectros de conexión social. La cultura esculpe cerebros: normas, lenguaje y rituales dejan huellas físicas en redes neuronales."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "¿Te necesito?",
+      "text": "El estudio de órdenes religiosas dirigido por David Bennett en Rush University reveló que la reserva cognitiva (actividad mental, redes sociales, propósito) puede compensar la patología de Alzheimer en autopsia."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "¿Te necesito?",
+      "text": "No hay cerebro aislado: tu identidad es negociación continua entre tu red neural y las de los demás."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "¿Quiénes seremos?",
+      "text": "El cuerpo humano reúne unos 40 billones de células. El cerebro es su director de orquesta. La tecnología empieza a fusionarse con la biología. Prótesis, interfaces cerebro-computadora y edición genética plantean preguntas sobre qué significará ser humano."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "¿Quiénes seremos?",
+      "text": "Prótesis auditivas y visuales ya traducen señales al lenguaje neural. El chaleco Vest convierte datos en patrones táctiles que el cerebro aprende a «oír». La muerte legal y la muerte cerebral divergen a medida que la tecnología mantiene funciones aisladas."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "¿Quiénes seremos?",
+      "text": "La microscopía electrónica serial y el conectoma , el mapa de todas las conexiones neuronales, avanzan en ratones y humanos. Subir cerebros completos a silicio sigue siendo especulativo, pero la tendencia es clara. La frontera entre máquina y mente se difumina."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "¿Quiénes seremos?",
+      "text": "Eagleman defiende que debemos diseñar políticas y ética a la velocidad de la neurociencia, no de la burocracia. La especie empieza a tomar sus propias riendas biológicas. Las decisiones de hoy esculpen los cerebros de mañana."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "¿Quiénes seremos?",
+      "text": "El futuro no es solo más tecnología: es redefinir identidad, muerte y capacidad cuando el cerebro deje de ser territorio exclusivamente biológico."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Eres el producto de un órgano que nunca deja de reescribirse."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Cada experiencia deja huella en el cableado que define quién eres."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Lo que llamas «tú» suele llegar cuando el trabajo neural ya está avanzado."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Entender esto no nos quita agencia: nos obliga a diseñar mejor educación, justicia y futuro tecnológico."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Somos obras en progreso, de la cuna a la prótesis."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "No percibes el mundo: tu cerebro lo construye, lo retrasa y lo edita para ti."
+    }
+  ]
+}

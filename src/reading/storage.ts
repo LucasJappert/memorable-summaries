@@ -1,4 +1,6 @@
 import { bumpReadingRevision } from './revision'
+import { scheduleBookReviews } from './review-schedule'
+import { ensureCardsForBook } from './srs-storage'
 
 export const READING_STORAGE_PREFIX = 'memorable-summaries:reading:'
 
@@ -91,6 +93,8 @@ export function markBookRead(
     manualUnread: false,
     unreadBelowConceptos: false,
   })
+  scheduleBookReviews(slug)
+  ensureCardsForBook(slug)
 }
 
 export function computeScrollProgress(): number {

@@ -3,13 +3,9 @@ import { hasMeaningfulScroll, readReadingPosition } from './storage'
 export type BookReadingStatus = 'new' | 'reading' | 'done'
 
 /** Desde esta sección (inclusive) el libro cuenta como leído. */
-export const READ_COMPLETE_FROM_SECTION = 'conceptos'
+export const READ_COMPLETE_FROM_SECTION = 'figuras'
 
-const READ_COMPLETE_SECTIONS = new Set([
-  READ_COMPLETE_FROM_SECTION,
-  'cronologia',
-  'figuras',
-])
+const READ_COMPLETE_SECTIONS = new Set([READ_COMPLETE_FROM_SECTION])
 
 export const STATUS_SORT_ORDER: Record<BookReadingStatus, number> = {
   reading: 0,
@@ -17,15 +13,21 @@ export const STATUS_SORT_ORDER: Record<BookReadingStatus, number> = {
   done: 2,
 }
 
+/** @deprecated Nombre legacy; la sección objetivo es `figuras`. */
 export function hasReachedConceptos(sectionId: string): boolean {
+  return READ_COMPLETE_SECTIONS.has(sectionId)
+}
+
+export function hasReachedCompleteSection(sectionId: string): boolean {
   return READ_COMPLETE_SECTIONS.has(sectionId)
 }
 
 export function isBookMarkedRead(reading: NonNullable<ReturnType<typeof readReadingPosition>>): boolean {
   if (reading.manualUnread) return false
+  // Flag legacy en localStorage: sigue contando como leído (compatibilidad).
   if (reading.reachedConceptos) return true
-  if (hasReachedConceptos(reading.sectionId)) return true
-  if (reading.furthestSectionId && hasReachedConceptos(reading.furthestSectionId)) return true
+  if (hasReachedCompleteSection(reading.sectionId)) return true
+  if (reading.furthestSectionId && hasReachedCompleteSection(reading.furthestSectionId)) return true
   return false
 }
 

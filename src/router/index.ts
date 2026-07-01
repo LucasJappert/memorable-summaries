@@ -2,6 +2,7 @@ import { createRouter, createWebHistory } from 'vue-router'
 import { isKnownBookSlug } from '../books/catalog'
 import LibraryView from '../views/LibraryView.vue'
 import BookView from '../views/BookView.vue'
+import { featureRoutes } from './feature-routes'
 
 export const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -16,6 +17,7 @@ export const router = createRouter({
         if (!isKnownBookSlug(String(to.params.slug))) return '/'
       },
     },
+    ...featureRoutes,
     { path: '/:pathMatch(.*)*', redirect: '/' },
   ],
   scrollBehavior(to, _from, savedPosition) {

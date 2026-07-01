@@ -2,7 +2,7 @@ import { onMounted, onUnmounted, ref, toValue, type MaybeRef } from 'vue'
 import { READ_COMPLETE_FROM_SECTION } from '../reading/status'
 import {
   getFurthestSectionId,
-  hasReachedConceptosByProgress,
+  hasReachedCompleteSectionByProgress,
 } from '../reading/section-progress'
 import {
   computeScrollProgress,
@@ -37,8 +37,8 @@ function computeReachedConceptos(
   const furthestSectionId = getFurthestSectionId(ids, stored?.furthestSectionId)
   return (
     stored?.reachedConceptos === true ||
-    hasReachedConceptosByProgress(ids, furthestSectionId) ||
-    hasReachedConceptosByProgress(ids, sectionId)
+    hasReachedCompleteSectionByProgress(ids, furthestSectionId) ||
+    hasReachedCompleteSectionByProgress(ids, sectionId)
   )
 }
 
@@ -60,7 +60,7 @@ function resolveReadState(
       unreadBelowConceptos = true
     }
 
-    if (unreadBelowConceptos && hasReachedConceptosByProgress(ids, furthestSectionId)) {
+    if (unreadBelowConceptos && hasReachedCompleteSectionByProgress(ids, furthestSectionId)) {
       manualUnread = false
       unreadBelowConceptos = false
       reachedConceptos = true
@@ -261,12 +261,12 @@ export function useReadingPosition(
     const labels = toValue(sectionLabels)
     const stored = readReadingPosition(bookSlug)
     const sectionId = stored?.sectionId || getCurrentSectionId(ids) || ids[0] || ''
-    const conceptosIndex = ids.indexOf(READ_COMPLETE_FROM_SECTION)
+    const completeIndex = ids.indexOf(READ_COMPLETE_FROM_SECTION)
     let furthestSectionId = stored?.furthestSectionId ?? sectionId
 
-    if (conceptosIndex >= 0) {
+    if (completeIndex >= 0) {
       const furthestIndex = ids.indexOf(furthestSectionId)
-      if (furthestIndex < conceptosIndex) {
+      if (furthestIndex < completeIndex) {
         furthestSectionId = READ_COMPLETE_FROM_SECTION
       }
     }

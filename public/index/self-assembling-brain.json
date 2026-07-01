@@ -1,0 +1,295 @@
+{
+  "slug": "self-assembling-brain",
+  "title": "El cerebro autoensamblado: cómo las redes neuronales se vuelven más inteligentes",
+  "concepts": [
+    {
+      "title": "Crecimiento algorítmico",
+      "description": "Proceso donde reglas iterativas generan estados cada vez más complejos en el tiempo."
+    },
+    {
+      "title": "Autoensamblaje",
+      "description": "Formación de conectividad y función sin plano final explícito, mediante interacciones locales."
+    },
+    {
+      "title": "Complejidad de Kolmogorov",
+      "description": "Distinción entre información para generar un sistema e información para describir su estado final."
+    },
+    {
+      "title": "Agentes autónomos",
+      "description": "Componentes que deciden localmente sin conocimiento del resultado global."
+    },
+    {
+      "title": "Instrucción compuesta",
+      "description": "Decisión biológica producida por múltiples factores contextuales, no por una sola señal dominante."
+    },
+    {
+      "title": "Penetrancia",
+      "description": "Probabilidad de que una variante genética se exprese fenotípicamente en un contexto dado."
+    },
+    {
+      "title": "Problema de niveles",
+      "description": "Dificultad de traducir sin pérdida entre explicaciones moleculares, celulares, circuitales y conductuales."
+    },
+    {
+      "title": "Programación evolutiva",
+      "description": "Optimización por variación y selección de salidas, sin necesidad de predecir trayectorias internas."
+    },
+    {
+      "title": "Función como desarrollo continuo",
+      "description": "Idea de que aprendizaje, memoria y envejecimiento extienden la misma lógica de crecimiento."
+    }
+  ],
+  "highlight": "Sin crecimiento algorítmico no hay forma de “leer” toda la información que produce una red inteligente.",
+  "entries": [
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "La semilla, el alien y la información que se despliega",
+      "text": "El libro abre con una fábula: un alien escanea una semilla de manzana y obtiene toda su estructura molecular, pero no puede anticipar la forma del árbol sin dejar que crezca. Esa escena introduce la tesis central: el cerebro no se entiende como plano final , sino como proceso de autoensamblaje que requiere tiempo y energía."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "La semilla, el alien y la información que se despliega",
+      "text": "Para Hiesinger , la pregunta clave es qué tipo de información contienen los genes cuando “codifican” un cerebro. El genoma no trae un diagrama de conectividad terminado. Trae reglas que se ejecutan paso a paso en interacción con el entorno celular cambiante."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "La semilla, el alien y la información que se despliega",
+      "text": "El prólogo prepara un puente entre neurobiología del desarrollo e IA : en ambos campos importa menos fotografiar el estado final que comprender cómo las reglas locales generan organización global. El desafío no es solo describir conexiones, sino explicar cómo emergen."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "La semilla, el alien y la información que se despliega",
+      "text": "El cerebro se parece más a un programa que se ejecuta que a un cableado prefijado."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Introducción",
+      "text": "La introducción enfrenta dos tradiciones: la de la neurobiología , que estudia cómo se cablea el cerebro biológico, y la de la inteligencia artificial , que suele iniciar con redes prefabricadas y luego entrenarlas. En ambos casos aparece el mismo problema: qué información es realmente necesaria para lograr una red funcional."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Introducción",
+      "text": "El ejemplo de la mariposa monarca resume la dificultad: migra hasta 3.000 millas hacia zonas de invernada precisas. El ciclo completo puede tomar 3–5 generaciones . La ruta no puede explicarse solo por aprendizaje individual. Hay información de desarrollo ya incorporada antes del aprendizaje."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Introducción",
+      "text": "El autor propone mirar el cableado cerebral como navegación en un mapa que se construye mientras se navega. No hay “GPS” con destino final inscrito, sino una secuencia de estados donde cada etapa habilita o restringe la siguiente."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Introducción",
+      "text": "Sin crecimiento temporal no se puede leer toda la información que “hay” en el genoma."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Crecimiento algorítmico",
+      "text": "El capítulo introduce una intuición formal: reglas simples pueden producir resultados inmensamente complejos. Con ejemplos como Conway’s Game of Life y rule 110 , Hiesinger muestra que hay sistemas donde no se puede deducir el estado final sin ejecutar todas las iteraciones."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Crecimiento algorítmico",
+      "text": "Desde la teoría de la información, la noción de complejidad de Kolmogorov diferencia entre “información para generar” y “información para describir el resultado final”. Un conjunto corto de reglas puede producir patrones cuya descripción explícita es enorme."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Crecimiento algorítmico",
+      "text": "El paralelo biológico aparece con cascadas de factores de transcripción , ramificación y reglas que cambian durante el desarrollo. A diferencia del autómata celular determinista, el crecimiento biológico combina reglas dinámicas y componentes estocásticos."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Crecimiento algorítmico",
+      "text": "El desarrollo cerebral usa información algorítmica: no describe el cerebro, lo hace emerger."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Ruido e información relevante",
+      "text": "Aquí el autor invierte una intuición habitual: el ruido no siempre destruye precisión. Muchas veces la habilita. Procesos como la quimiotaxis bacteriana o la diversidad inmunológica funcionan gracias a variación aleatoria seguida de selección."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Ruido e información relevante",
+      "text": "En neurodesarrollo, mecanismos como la variabilidad de ramificación y la señalización tipo Notch permiten romper simetrías y obtener patrones robustos. El ruido puede ser parte del programa, no un error externo."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Ruido e información relevante",
+      "text": "Esto conecta con penetrancia : una mutación puede no expresarse igual en todos los individuos por dependencia de contexto, umbrales y procesos estocásticos. La “información relevante” no es absoluta. Depende del nivel donde se evalúa el fenotipo."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Ruido e información relevante",
+      "text": "La precisión biológica suele surgir de ruido + selección, no de control perfecto sin variación."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Agentes autónomos y reglas locales",
+      "text": "El desarrollo se entiende como interacción de agentes autónomos (filopodios, neuronas, células) que toman decisiones locales sin conocer el resultado global. Esa lógica se parece a enjambres, deportes colectivos o colonias de insectos."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Agentes autónomos y reglas locales",
+      "text": "La idea central es que la organización superior emerge de reglas locales con retroalimentación. Un filopodio no “sabe” el circuito final, pero su dinámica de exploración y estabilización contribuye al patrón final de conectividad."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Agentes autónomos y reglas locales",
+      "text": "Hiesinger retoma debates de Minsky y la tradición cibernética para mostrar que la robustez macroscópica puede coexistir con decisiones microscópicas impredecibles. Ahí aparece el puente con IA: sistemas multiagente y autoorganización."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Agentes autónomos y reglas locales",
+      "text": "El cerebro se cablea porque miles de agentes locales coordinan sin un “arquitecto” global."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Jugadores y reglas",
+      "text": "Este tramo aborda la paradoja de Benzer : mutaciones puntuales pueden alterar conductas heredables y seleccionables, aunque no exista un “gen para” cada conducta compleja. El resultado conductual emerge de trayectorias de desarrollo, no de mapeos uno a uno."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Jugadores y reglas",
+      "text": "Aparecen dos historias en tensión. Por un lado, casos relativamente directos como genes del reloj circadiano. Por otro, redes reguladas por factores de transcripción, donde pequeñas variaciones tempranas se amplifican a través de cascadas con múltiples niveles de interacción."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Jugadores y reglas",
+      "text": "En paralelo, la tradición de Sperry y la chemoafinidad aporta moléculas guía (incluidos gradientes y señales repulsivas), pero el libro insiste en que muchas de estas señales operan como parte de instrucciones compuestas y dependientes de contexto, no como direcciones absolutas."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Jugadores y reglas",
+      "text": "Una mutación puede reprogramar conducta sin que su función molecular “explique” linealmente esa conducta."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "El problema de los niveles",
+      "text": "El “problema de niveles” afirma que una explicación válida en un nivel (molecular) no siempre traduce bien al nivel siguiente (celular, circuital, conductual). Entre gen y conducta hay una cadena larga de transformaciones con realimentación."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "El problema de los niveles",
+      "text": "El texto discute límites de enfoques de asociación y destaca cómo fenómenos de redundancia , sensibilización genética y penetrancia variable vuelven frágil la búsqueda de causalidades simples para rasgos complejos."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "El problema de los niveles",
+      "text": "La propuesta metodológica es elegir, para cada pregunta, el nivel operativo correcto de “jugadores y reglas”. No se niega la biología molecular, pero se evita confundir detalle mecanístico con explicación suficiente del comportamiento de orden superior."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "El problema de los niveles",
+      "text": "Entender requiere cambiar de nivel sin perder de vista cómo cada nivel condiciona al siguiente."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Desarrollo cerebral e IA (eres tu historia)",
+      "text": "El capítulo sostiene que la función es continuación del desarrollo: aprender también es crecimiento algorítmico. En cerebros y redes, cada entrada nueva se procesa sobre un estado previo. Por eso el orden de experiencias importa."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Desarrollo cerebral e IA (eres tu historia)",
+      "text": "La frase “ you are your history ” resume la idea: memoria y sesgo surgen de esa acumulación temporal. El cerebro no guarda datos como un archivo neutral, sino que reconfigura reglas internas con cada experiencia."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Desarrollo cerebral e IA (eres tu historia)",
+      "text": "Esto ilumina sesgos cognitivos y limitaciones de entrenamiento en IA: una red entrenada en una distribución concreta tenderá a proyectar esa historia sobre entradas nuevas. La plasticidad existe, pero nunca parte de cero."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Desarrollo cerebral e IA (eres tu historia)",
+      "text": "Toda inteligencia funciona con arrastre histórico: cada aprendizaje reescribe parcialmente la red."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Autoensamblaje vs construir primero y entrenar después",
+      "text": "Aquí se contraponen dos estrategias: diseño top-down (arquitectura fija más entrenamiento) y autoensamblaje (estructura que emerge durante el proceso). La IA dominante usa la primera. El cerebro biológico combina crecimiento, poda, actividad y aprendizaje."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Autoensamblaje vs construir primero y entrenar después",
+      "text": "El autor no niega los éxitos del enfoque actual, pero señala su atajo central: omitir la etapa de desarrollo estructural. En el cerebro, el número de conexiones, los tipos neuronales y los circuitos cambian mientras se aprende. No son solo pesos sinápticos sobre arquitectura estática."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Autoensamblaje vs construir primero y entrenar después",
+      "text": "Por eso propone explorar más seriamente enfoques evolutivos y de codificación indirecta, donde genotipo, desarrollo y rendimiento se conecten en ciclos de selección. El objetivo no es copiar biología por fetichismo, sino entender qué atajos rompen capacidades generales."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Autoensamblaje vs construir primero y entrenar después",
+      "text": "Entrenar redes prefabricadas funciona para tareas acotadas; para inteligencia amplia quizá falte crecimiento."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Fronteras finales (interfaz IA-cerebro, emulación total, sesgo)",
+      "text": "El capítulo final abre tres fronteras: interfaces cerebro-máquina, emulación cerebral completa y límites de predicción. La tesis común es que “más ancho de banda” no resuelve por sí solo el problema del tipo de información que se intercambia."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Fronteras finales (interfaz IA-cerebro, emulación total, sesgo)",
+      "text": "Sobre whole brain emulation , Hiesinger advierte que cualquier simulación depende de atajos de nivel. Cuanto más se recorta detalle dinámico, más se restringe qué clase de inteligencia puede emerger o preservarse."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Fronteras finales (interfaz IA-cerebro, emulación total, sesgo)",
+      "text": "También vuelve sobre cognitive bias : los sesgos no son solo fallas, sino resultado natural de un sistema que aprende secuencialmente y prioriza coherencia con su historia para predecir el futuro."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Fronteras finales (interfaz IA-cerebro, emulación total, sesgo)",
+      "text": "No hay inteligencia “general” sin decidir qué historia, qué niveles y qué atajos se aceptan."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Epílogo",
+      "text": "El epílogo, en forma de diálogo, cierra con una posición pragmática: ninguna disciplina tiene el mapa completo y todas operan con sesgos de su propia tradición. La cooperación entre modeladores, neurobiólogos e ingenieros es presentada como condición de avance."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Epílogo",
+      "text": "El libro no ofrece una receta única para construir inteligencia, pero sí una advertencia consistente: cuando se ignoran desarrollo, contexto y selección, se subestima el origen real de la robustez de los sistemas biológicos."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Epílogo",
+      "text": "La conclusión es deliberadamente abierta: quizá futuras IA necesiten más autoensamblaje y evolución, quizá no para toda tarea, pero sí para formas de inteligencia menos estrechas y más adaptativas."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Epílogo",
+      "text": "La pregunta no es solo cómo entrenar mejor, sino qué proceso completo de crecimiento queremos modelar."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "El cerebro no viene descrito en los genes como un circuito terminado; viene codificado como reglas que se ejecutan."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La inteligencia emerge cuando esas reglas interactúan con ruido, selección, energía y tiempo."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Por eso el desarrollo no es un prefacio de la función: es su continuidad."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La IA actual muestra que muchos atajos son poderosos para tareas concretas."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "El límite aparece cuando se busca flexibilidad amplia, historia integrada y adaptación de largo alcance."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Sin crecimiento algorítmico no hay forma de “leer” toda la información que produce una red inteligente."
+    }
+  ]
+}

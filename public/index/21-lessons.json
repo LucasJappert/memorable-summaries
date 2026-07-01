@@ -1,0 +1,557 @@
+{
+  "slug": "21-lessons",
+  "title": "21 lecciones para el siglo XXI",
+  "concepts": [
+    {
+      "title": "Historia liberal",
+      "description": "Relato de libertad, democracia y mercados que dominó tras 1989 y hoy está en crisis."
+    },
+    {
+      "title": "Fusión infotech-biotech",
+      "description": "Convergencia que amenaza empleo, libertad e igualdad simultáneamente."
+    },
+    {
+      "title": "Irrelevancia",
+      "description": "Miedo del siglo XXI: no explotación sino inutilidad económica y política de las masas."
+    },
+    {
+      "title": "Big Data",
+      "description": "Algoritmos que leen y manipulan emociones mejor que la libre voluntad individual."
+    },
+    {
+      "title": "Datos como activo",
+      "description": "En el s. XXI, quien controla datos controla el futuro — más que tierra o fábricas."
+    },
+    {
+      "title": "Comunidad vs online",
+      "description": "Dunbar (~150): comunidad auténtica requiere cuerpos presentes, no solo Facebook."
+    },
+    {
+      "title": "Civilización única",
+      "description": "Estándares globales de salud/ciencia; choque de civilizaciones es mala analogía."
+    },
+    {
+      "title": "Terrorismo como teatro",
+      "description": "Estrategia de débiles: provocar sobre-reacción del toro, no destruir materialmente."
+    },
+    {
+      "title": "Ilusión del conocimiento",
+      "description": "Confundir saber colectivo con comprensión individual (Sloman y Fernbach)."
+    },
+    {
+      "title": "Especie posverdad",
+      "description": "Cooperación masiva mediante ficciones compartidas — religión o nacionalismo."
+    },
+    {
+      "title": "Cuatro C educativos",
+      "description": "Pensamiento crítico, comunicación, colaboración, creatividad + adaptación continua."
+    },
+    {
+      "title": "Vipassana",
+      "description": "Meditación de observación directa de sensaciones; herramienta de claridad personal."
+    }
+  ],
+  "highlight": "La claridad — sobre tecnología, política, ignorancia y ficciones — es el primer paso para decisiones conscientes antes de que el mercado o los algoritmos decidan por nosotros.",
+  "entries": [
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Claridad en un mundo inundado de información",
+      "text": "En un mundo saturado de información irrelevante, la claridad es poder . Miles de millones no pueden permitirse investigar el futuro de la humanidad porque deben trabajar, criar hijos o cuidar ancianos. Aun así, la historia no concede descuentos: si el futuro se decide en su ausencia, ellos y sus hijos tampoco quedarán exentos de las consecuencias."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Claridad en un mundo inundado de información",
+      "text": "Tras Sapiens (pasado) y Homo Deus (futuro lejano), Harari enfoca el aquí y el ahora : qué ocurre hoy, cuáles son los mayores desafíos y qué debemos enseñar a nuestros hijos. El libro no es una narrativa histórica sino una selección de lecciones que estimulan el pensamiento sin ofrecer respuestas simples."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Claridad en un mundo inundado de información",
+      "text": "Cinco partes estructuran el recorrido: el desafío tecnológico (IA, biotecnología, desempleo), el político (comunidad, civilización, nacionalismo, religión, inmigración), desesperanza y esperanza (terrorismo, guerra, humildad, Dios, secularismo), la verdad (ignorancia, justicia, posverdad, ciencia ficción) y la resiliencia (educación, significado, meditación)."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Claridad en un mundo inundado de información",
+      "text": "«Si no sabes qué hacer con el poder de reingenieriar la vida, las fuerzas del mercado no esperarán mil años a que encuentres una respuesta.»"
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Claridad en un mundo inundado de información",
+      "text": "El libro critica al liberalismo no porque sea el peor sistema, sino porque es el más exitoso hasta ahora — y por eso conviene reparar sus fallas antes de que el autoritarismo secuestre el debate."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Desilusión — Se pospuso el fin de la historia",
+      "text": "Los humanos pensamos en historias , no en hechos aislados. En el siglo XX, las élites globales ofrecieron tres grandes relatos: fascismo, comunismo y liberalismo. Después de 1945 quedaron dos. Después de 1989 , uno: el liberal, que parecía destinado a conquistar el mundo."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Desilusión — Se pospuso el fin de la historia",
+      "text": "El relato liberal celebra la libertad: democracia, derechos humanos, mercados libres y bienestar estatal. Desde la crisis financiera de 2008 , no obstante, creció la desilusión: muros, resistencia a la inmigración, autoritarismos. El 2016 , Brexit y Donald Trump , marcó cuando la ola llegó al núcleo liberal occidental. En 1938 había tres historias. En 1968 , dos. En 1998 , una. En 2018 , cero."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Desilusión — Se pospuso el fin de la historia",
+      "text": "La disrupción tecnológica agrava la desorientación: Internet, IA y blockchain transforman finanzas y política mientras los votantes temen la irrelevancia más que la explotación. Trump y Brexit fueron apoyados por quienes aún tenían poder político pero temían perder valor económico — una trayectoria opuesta a las revoluciones del siglo XX."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Desilusión — Se pospuso el fin de la historia",
+      "text": "El liberalismo no tiene respuestas obvias al colapso ecológico ni a la disrupción tecnológica. Confiaba en que el crecimiento económico resolvería los conflictos mágicamente."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Trabajo — Cuando crezcas quizá no tengas trabajo",
+      "text": "No sabemos cómo será el mercado laboral en 2050 . El aprendizaje automático y la robótica cambiarán casi toda línea de trabajo. Unos prevén desempleo masivo, otros creen que seguirán creándose empleos. Esta vez podría ser distinto: la IA ya supera a humanos en tareas cognitivas, incluida la lectura de emociones."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Trabajo — Cuando crezcas quizá no tengas trabajo",
+      "text": "La revolución de la IA se alimenta de neurociencia y economía conductual: las decisiones humanas son algoritmos bioquímicos, no misterio espiritual. La IA posee además conectividad y actualizabilidad : no compites con un robot sino con una red integrada que se actualiza al instante. Los coches autónomos podrían reducir muertes en carretera ~ 90% (~un millón de vidas al año)."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Trabajo — Cuando crezcas quizá no tengas trabajo",
+      "text": "Aun así, sería una locura frenar la automatización en transporte o salud para «proteger empleos»: debemos proteger humanos, no puestos. En el largo plazo, hasta el arte puede ser hackeado: algoritmos que analicen datos biométricos y compongan música personalizada. Los nuevos empleos (mantenimiento de drones, investigación médica) no compensarán necesariamente las pérdidas masivas."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Trabajo — Cuando crezcas quizá no tengas trabajo",
+      "text": "El problema real no es la falta de empleos sino cómo redefinir el significado y la dignidad cuando millones se vuelven económicamente redundantes."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Libertad — El Big Data te vigila",
+      "text": "El liberalismo sitúa la autoridad en la libre voluntad individual: el votante sabe, el cliente tiene razón, sigue tu corazón. Pero las elecciones son sobre sentimientos, no racionalidad — y pronto los algoritmos podrían entender y manipular esos sentimientos mejor que nosotros mismos."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Libertad — El Big Data te vigila",
+      "text": "Los sentimientos son mecanismos bioquímicos de cálculo de probabilidades de supervivencia, no prueba de alma libre. Hasta hoy, nadie externo podía hackear tu interior. La Inquisición y la KGB carecían de datos biométricos. La fusión biotech-infotech produce Big Data que monitoriza tu salud 24/7 , predice enfermedades antes de síntomas y podría dictar dietas, seguros y empleo."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Libertad — El Big Data te vigila",
+      "text": "Los sensores biométricos convertirán elecciones de películas en decisiones sobre estudios, trabajo y pareja. Como con Google Maps, aprenderemos a confiar en algoritmos más que en el instinto. Churchill dijo que la democracia es el peor sistema excepto los demás. Podríamos llegar a la misma conclusión sobre los algoritmos."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Libertad — El Big Data te vigila",
+      "text": "«Cuando alguien gane la capacidad de hackear el corazón humano, la política democrática mutará en un espectáculo de marionetas emocional.»"
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Libertad — El Big Data te vigila",
+      "text": "La dependencia del «corazón» liberal puede ser su talón de Aquiles: quien controle los algoritmos que leen emociones controlará la política."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Igualdad — Quienes poseen los datos poseen el futuro",
+      "text": "Se prometió que la globalización reduciría la desigualdad. El siglo XXI podría crear las sociedades más desiguales de la historia. El 1% más rico posee la mitad de la riqueza mundial. Las cien personas más ricas, más que los cuatro mil millones más pobres."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Igualdad — Quienes poseen los datos poseen el futuro",
+      "text": "La IA podría eliminar el valor económico de la mayoría. La biotecnología traduciría desigualdad económica en desigualdad biológica : superhumanos ricos frente a una clase inútil de Homo sapiens . Hacia 2100 , los ricos podrían ser genuinamente más talentosos, no solo más privilegiados legalmente. Eso abriría una brecha casi imposible de cerrar."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Igualdad — Quienes poseen los datos poseen el futuro",
+      "text": "En el siglo XXI los datos eclipsan tierra y maquinaria como activo clave. Google, Facebook, Baidu y Tencent acumulan atención y datos. El modelo futuro transfiere autoridad de humanos a algoritmos que eligen y compran por nosotros. La pregunta política crucial: ¿quién posee los datos — individuos, gobiernos o corporaciones?"
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Igualdad — Quienes poseen los datos poseen el futuro",
+      "text": "**Nacionalizar datos** — frena corporaciones pero arriesga dictaduras digitales."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Igualdad — Quienes poseen los datos poseen el futuro",
+      "text": "**Propiedad privada** — atractiva en teoría, pero los datos no se cercan como un campo."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Igualdad — Quienes poseen los datos poseen el futuro",
+      "text": "**Regulación global** — quizá la única vía para evitar castas biológicas."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Igualdad — Quienes poseen los datos poseen el futuro",
+      "text": "Si los datos se concentran en pocas manos, la humanidad podría dividirse en especies distintas. Regular su propiedad es la cuestión política más urgente del siglo."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Comunidad — Los humanos tienen cuerpos",
+      "text": "Después de las elecciones de 2016 , Mark Zuckerberg prometió que Facebook construiría una comunidad global con IA que sugiera grupos «significativos» a mil millones de personas. El escándalo Cambridge Analytica socavó esa promesa, pero la tensión central permanece."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Comunidad — Los humanos tienen cuerpos",
+      "text": "Somos animales de la Edad de Piedra adaptados a bandas de unas 150 personas (la regla de Dunbar). Las comunidades íntimas se desintegraron. Las «familias» nacionales o partidarias no sustituyen el calor de un hermano real. Facebook gana vendiendo atención a anunciantes — difícil construir comunidad auténtica con ese modelo."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Comunidad — Los humanos tienen cuerpos",
+      "text": "Las comunidades online carecen de profundidad física: nadie te trae sopa por WiFi. La tecnología nos aleja del cuerpo — miramos smartphones en lugar de la pareja en el desayuno. Zuckerberg quiere que compartamos experiencias. Quizá necesitamos herramientas para conectar con nuestras propias sensaciones. El puente online-offline es la prueba decisiva de Facebook."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Comunidad — Los humanos tienen cuerpos",
+      "text": "Un paso crucial hacia unir la humanidad es recordar que los humanos tienen cuerpos — y que la comunidad real exige presencia física, no solo algoritmos."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Civilización — Solo hay una civilización en el mundo",
+      "text": "La tesis del «choque de civilizaciones», Occidente contra Islam, domina el debate tras Siria, ISIS y Brexit. Harari la rechaza: el fundamentalismo islámico desafía una civilización global , no una occidental exclusiva. El ISIS une a Irán y EE.UU. en su contra."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Civilización — Solo hay una civilización en el mundo",
+      "text": "La analogía biológica es falsa: las especies animales tienen identidades genéticas estables. Las civilizaciones humanas cambian radicalmente. Alemania pasó por seis sistemas en menos de un siglo. No hay esencia alemana inmutable desde Guillermo II hasta Angela Merkel ."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Civilización — Solo hay una civilización en el mundo",
+      "text": "Salud, riqueza y ciencia son estándares globales. Las diferencias culturales son «condimentos» sobre el mismo plato. Cuando algo funciona de verdad, antibióticos, electricidad, constituciones, todo el mundo lo adopta. Hablar de civilizaciones separadas e irreconciliables es mala historia y peor política."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Civilización — Solo hay una civilización en el mundo",
+      "text": "Hay una sola civilización planetaria en formación. Los conflictos actuales son disputas internas, no guerras entre especies culturales distintas."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Nacionalismo — Los problemas globales requieren respuestas globales",
+      "text": "Si la humanidad es una civilización única, ¿por qué el auge del nacionalismo aislacionista? El nacionalismo no es eterno ni biológico: la lealtad a millones de desconocidos requiere inmensa construcción social, como las presas del Nilo que unieron tribus en nación."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Nacionalismo — Los problemas globales requieren respuestas globales",
+      "text": "El patriotismo moderado puede ser benévolo. El ultra-nacionalismo exige lealtad total y alimenta guerras. Después de 1945 y Hiroshima, la amenaza nuclear empujó cooperación internacional. El anuncio Daisy de Lyndon Johnson ( 1964 ) vinculó supervivencia con amor mutuo. Hoy esa lección se olvida: nueva carrera nuclear, Brexit ignorando la paz europea."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Nacionalismo — Los problemas globales requieren respuestas globales",
+      "text": "Tres desafíos exigen respuestas globales, no muros: guerra nuclear , colapso ecológico y disrupción tecnológica . El cambio climático ya es realidad presente, no futuro hipotético. Reducir emisiones en veinte años es urgente. Gritar «¡nuestro país primero!» sin cooperación robusta no protege ni al país ni al planeta."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Nacionalismo — Los problemas globales requieren respuestas globales",
+      "text": "El nacionalismo fue útil para problemas locales. Es irresponsable como respuesta a bombas nucleares, climatología y algoritmos globales."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Religión — Dios ahora sirve a la nación",
+      "text": "¿Pueden las religiones tradicionales guiarnos en la era de la IA y el calentamiento global? Harari distingue tres tipos de problemas: técnicos (¿cómo regar con sequía?), de política (¿cómo prevenir el calentamiento?) y de identidad (¿me importan agricultores lejanos?)."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Religión — Dios ahora sirve a la nación",
+      "text": "Las religiones perdieron agricultura y medicina ante la ciencia, no porque la oración fallara, sino porque los sacerdotes eran genios de las excusas, no de la lluvia. En política económica, rabinos y ayatolás citan Marx o Friedman más que profetas. Donde sí importan es en identidad, y a menudo como parte del problema, no de la solución."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Religión — Dios ahora sirve a la nación",
+      "text": "Hoy Dios sirve a la nación: el judaísmo ortodoxo, el hinduismo nacionalista, el islamismo político y el cristianismo evangélico adaptan la fe a agendas estatales. Las Escrituras no resuelven ingeniería genética. Pueden movilizar millones para guerras santas o muros."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Religión — Dios ahora sirve a la nación",
+      "text": "Religiones: irrelevantes en lo técnico, secundarias en política económica, potentes (y peligrosas) en identidad colectiva."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Inmigración — Algunas culturas pueden ser mejor que otras",
+      "text": "La inmigración tensa sistemas políticos diseñados para tiempos menos fluidos. Europa prometió trascender diferencias entre franceses y alemanes. Podría fracturarse ante diferencias con migrantes de África y Oriente Medio. Los sirios prefieren Alemania a Arabia Saudita por su historial de acogida."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Inmigración — Algunas culturas pueden ser mejor que otras",
+      "text": "Harari modela la inmigración como un trato de tres términos: (1) el país anfitrión deja entrar. (2) Los inmigrantes adoptan normas centrales del anfitrión. (3) Tras asimilación, se convierten en ciudadanos de pleno derecho. Cuatro debates separados, obligación vs favor, grado de asimilación, plazo para la igualdad, cumplimiento real, se mezclan en gritos cruzados."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Inmigración — Algunas culturas pueden ser mejor que otras",
+      "text": "Pro-inmigración ve derecho moral a buscar mejor vida. Anti-inmigración ve privilegio del anfitrión de elegir. Sobre asimilación: ¿basta tolerancia liberal o se exige identidad nacional específica? Las escalas temporal colectiva (siglos) y personal (una generación) chocan: para el Estado, cuarenta años es poco. Para un joven nacido en Francia, es toda la vida."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Inmigración — Algunas culturas pueden ser mejor que otras",
+      "text": "Sin acuerdo sobre los tres términos del trato, el debate de inmigración seguirá siendo un campo de batalla cultural sin salida clara."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Terrorismo — No entres en pánico",
+      "text": "Los terroristas son maestros del control mental : matan pocos pero aterrorizan a miles de millones. Desde 2001 , ~ 50 muertos anuales por terrorismo en la UE vs ~ 80.000 en accidentes de tráfico. El azúcar y la contaminación matan muchos más que las bombas."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Terrorismo — No entres en pánico",
+      "text": "El terrorismo es estrategia de actores débiles: cambiar la política mediante el miedo, no el daño material. Como la mosca que no puede romper la vajilla, entra en el oído del toro (Estados Unidos tras 9/11 ) y este destruye la tienda (Oriente Medio). El enemigo conserva todas sus opciones militares. El estado pierde los nervios y sobre-reacciona."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Terrorismo — No entres en pánico",
+      "text": "La legitimidad moderna exige un espacio público libre de violencia política. Un acto raro resuena como moneda en un frasco vacío. Matar a decenas en Bélgica impacta más que matar a cientos en Nigeria. La respuesta eficaz: teatro de seguridad mesurado, no invasiones ni persecuciones masivas que alimenten el ciclo."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Terrorismo — No entres en pánico",
+      "text": "Solo nosotros podemos derrotarnos ante el terrorismo. La provocación busca que abandonemos valores liberales en nombre de la seguridad."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Guerra — Nunca subestimes la estupidez humana",
+      "text": "Vivimos la era más pacífica de la historia: la violencia causa ~ 1% de muertes humanas hoy vs ~ 15% en sociedades agrarias tempranas. Desde 2008 , no obstante, el belicismo regresa y el gasto militar crece."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Guerra — Nunca subestimes la estupidez humana",
+      "text": "En 1914 la guerra parecía rentable: imperios construidos por conquista. En 2018 las guerras exitosas son especie en peligro. EE.UU. venció a la URSS sin guerra mayor. Irak y Afganistán fueron fiascos trillonarios. China no disparó un tiro desde su invasión fallida de Vietnam ( 1979 )."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Guerra — Nunca subestimes la estupidez humana",
+      "text": "La única conquista importante del siglo XXI: Crimea ( 2014 ), circunstancias irrepetibles. Las guerras cibernéticas y económicas reemplazan invasiones. Sentarse en la valla y dejar que otros luchen puede ser la estrategia óptima. Aun así, la estupidez humana, armas nucleares y cambio climático mantienen el riesgo existencial."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Guerra — Nunca subestimes la estupidez humana",
+      "text": "No subestimar la estupidez: líderes pueden arrastrarnos a conflictos cuyo «éxito» militar ya no existe como en el siglo XIX."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Humildad — No eres el centro del mundo",
+      "text": "Cada cultura cree ser el eje de la historia: griegos con Platón, chinos con el Emperador Amarillo, hindúes con aviones védicos, musulmanes con la ummah. Todas esas afirmaciones combinan ignorancia histórica con racismo encubierto."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Humildad — No eres el centro del mundo",
+      "text": "La moralidad, el arte y la creatividad son capacidades humanas universales nacidas en África hace cientos de miles de años — no en Grecia, China o Arabia. Harari usa el judaísmo como ejemplo auto-crítico: el Talmud importa más que el Pentateuco para los judíos, pero fue el cristianismo quien globalizó la Biblia hebrea."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Humildad — No eres el centro del mundo",
+      "text": "Judaísmo como la madre de Freud: crucial para un hijo famoso, pero no el protagonista de la historia universal. Monedas, universidades, parlamentos e imprenta fueron inventos gentiles. La humildad histórica no es autodesprecio: es ver el cuadro completo sin egotismo tribal."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Humildad — No eres el centro del mundo",
+      "text": "Ningún pueblo es el centro del cosmos. La ética y la sabiduría son patrimonio de toda la especie, no de una tradición exclusiva."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Dios — No tomes el nombre de Dios en vano",
+      "text": "¿Existe Dios? Depende de cuál. El misterio cósmico , por qué hay algo, qué es la conciencia, es el Dios de los filósofos, sobre el que no podemos decir nada concreto. El legislador mundano es el Dios de cruzados y yihadistas, sobre el que supuestamente sabemos demasiado: faldas, alcohol, sexo, política."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Dios — No tomes el nombre de Dios en vano",
+      "text": "Los fieles invocan el misterio del Big Bang y, como un truco de magia, lo sustituyen por leyes mundanas: «no entendemos el origen del universo, luego cúbrete el pelo y vota contra el matrimonio gay». El eslabón perdido es un libro sagrado lleno de ritual menor atribuido al creador del espacio-tiempo, escrito, según la ciencia, por Homo sapiens imaginativos."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Dios — No tomes el nombre de Dios en vano",
+      "text": "El tercer mandamiento, no tomar el nombre de Dios en vano, significa no usar a Dios para odios personales, ambiciones económicas o guerras de conquista. La ética secular puede mantener el orden social sin legislador celestial. El misterio de la existencia, en cambio, no dicta códigos de vestimenta."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Dios — No tomes el nombre de Dios en vano",
+      "text": "Invocar al Dios misterioso para justificar reglas tribales es el uso indebido del nombre que el mandamiento prohíbe."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "Secularismo — Reconoce tu sombra",
+      "text": "El secularismo no es simple negación de religión: es código de valores positivo basado en verdad (observación y evidencia), compasión , igualdad, libertad, coraje y responsabilidad. Millones de musulmanes, cristianos e hindúes comparten estos valores."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "Secularismo — Reconoce tu sombra",
+      "text": "Los seculares no monopolizan la verdad: la santifican donde aparezca — fósiles, galaxias, estadísticas. Abstenerse de matar por compasión al sufrimiento, no porque un libro lo prohíba. Ante dilemas (impuestos, guerras, refugiados), se sopesan daños, no se consulta «¿qué manda Dios?»."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "Secularismo — Reconoce tu sombra",
+      "text": "El ideal secular queda corto en la práctica (Robespierre, guillotina), como las sociedades cristianas incumplen el Evangelio. La sombra secular incluye arrogancia científica, crueldad burocrática y fe ciega en el progreso. Reconocerla es el primer paso para un humanismo honesto."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "Secularismo — Reconoce tu sombra",
+      "text": "Ser secular es comprometerse con la verdad y la compasión sabiendo que ningún grupo, ni siquiera los ateos, tiene monopolio de la sabiduría."
+    },
+    {
+      "sectionId": "cap15",
+      "sectionTitle": "Ignorancia — Sabes menos de lo que crees",
+      "text": "Nadie puede procesar todo lo descrito en este libro — y eso es correcto. El mito del individuo racional sustenta democracia, mercado y educación liberal. Pero la mayoría de decisiones son emocionales y heurísticas, inadecuadas para la era del silicio."
+    },
+    {
+      "sectionId": "cap15",
+      "sectionTitle": "Ignorancia — Sabes menos de lo que crees",
+      "text": "La ilusión del conocimiento (Sloman y Fernbach): creemos entender un cierre porque lo usamos, pero no podemos explicar su mecanismo. Confiar en el saber colectivo funcionó en la sabana. Hoy ignoramos meteorología, biología e Irak pero opinamos con fuerza. Más datos no convencen: reforzamos lealtad grupal."
+    },
+    {
+      "sectionId": "cap15",
+      "sectionTitle": "Ignorancia — Sabes menos de lo que crees",
+      "text": "El poder distorsiona la verdad: quien gobierna no tiene tiempo para pensar profundamente. Cada visitante tiene agenda. Netanyahu en una cena de treinta personas: todos compiten por impresionar, nadie dice secretos grandes. La verdad revolucionaria vive en la periferia, llena de basura pero ocasionalmente brillante."
+    },
+    {
+      "sectionId": "cap15",
+      "sectionTitle": "Ignorancia — Sabes menos de lo que crees",
+      "text": "Sócrates tenía razón: lo mejor es reconocer la ignorancia individual — base escasa pero honesta para moral y justicia."
+    },
+    {
+      "sectionId": "cap16",
+      "sectionTitle": "Justicia — Nuestro sentido de la justicia puede estar desfasado",
+      "text": "La justicia evolucionó en bandas de cazadores-recolectores: ¿comparto la caza? ¿puedo arrebatar hongos al más fuerte? Los dilemas del siglo XXI, Siria, desigualdad global, clima, parecen versiones ampliadas, pero el tamaño importa : no estamos adaptados a escala planetaria."
+    },
+    {
+      "sectionId": "cap16",
+      "sectionTitle": "Justicia — Nuestro sentido de la justicia puede estar desfasado",
+      "text": "Tenemos valores. Nos faltan narrativas compartidas para aplicarlos. ¿Es justo que herederos de esclavistas compensen a descendientes de esclavos? ¿Que países ricos paguen por emisiones históricas? La justicia tribal no escala automáticamente a humanidad global."
+    },
+    {
+      "sectionId": "cap16",
+      "sectionTitle": "Justicia — Nuestro sentido de la justicia puede estar desfasado",
+      "text": "Harari no ofrece fórmulas pero advierte: aplicar moral de aldea a problemas globales produce injusticias nuevas. Necesitamos nuevos marcos — no abandonar compasión, sino repensarla para miles de millones conectados."
+    },
+    {
+      "sectionId": "cap16",
+      "sectionTitle": "Justicia — Nuestro sentido de la justicia puede estar desfasado",
+      "text": "Nuestro radar moral es ancestral. Los problemas son planetarios — la justicia del siglo XXI requiere imaginación que la evolución no nos regaló."
+    },
+    {
+      "sectionId": "cap17",
+      "sectionTitle": "Posverdad — Algunas fake news duran para siempre",
+      "text": "Vivimos «posverdad», dicen. Putin negó tropas rusas en Crimea mientras mentía deliberadamente. Pero ¿cuándo fue la edad de oro de la verdad? La propaganda y naciones ficticias tienen larga historia: Manchukuo ( 1931 ), terra nullius en Australia, «pueblo sin tierra» sionista."
+    },
+    {
+      "sectionId": "cap17",
+      "sectionTitle": "Posverdad — Algunas fake news duran para siempre",
+      "text": "Homo sapiens es especie posverdad : cooperamos masivamente creyendo ficciones compartidas. Religiones son fake news que duran milenios — eficaces para hospitales y catedrales, no por ser factualmente verdaderas. Distinguir «fake news» de «religión» es proteger sentimientos, no epistemología."
+    },
+    {
+      "sectionId": "cap17",
+      "sectionTitle": "Posverdad — Algunas fake news duran para siempre",
+      "text": "El peligro actual no es la mentira nueva sino la combinación de ficciones antiguas con algoritmos que personalizan la desinformación. La ciencia ofrece corrección colectiva. Las historias tribales ofrecen pertenencia — ambas compiten por la misma mente."
+    },
+    {
+      "sectionId": "cap17",
+      "sectionTitle": "Posverdad — Algunas fake news duran para siempre",
+      "text": "Siempre vivimos entre ficción y hecho. El reto es cultivar instituciones que corrijan errores sin destruir la cooperación que las ficciones posibilitan."
+    },
+    {
+      "sectionId": "cap18",
+      "sectionTitle": "Ciencia ficción — El futuro no es lo que ves en el cine",
+      "text": "La ciencia ficción moldea cómo entendemos IA y biotecnología más que los papers científicos. Matrix , Her , Westworld y Black Mirror son el currículo popular del futuro — con responsabilidad enorme."
+    },
+    {
+      "sectionId": "cap18",
+      "sectionTitle": "Ciencia ficción — El futuro no es lo que ves en el cine",
+      "text": "El pecado capital del género: confundir inteligencia con conciencia . Debemos temer la brecha entre élite algorítmica y masa irrelevante, no guerra robots vs humanos — Karl Marx guía mejor que Steven Spielberg . Ex Machina habla del miedo masculino al poder femenino, no de cibernética."
+    },
+    {
+      "sectionId": "cap18",
+      "sectionTitle": "Ciencia ficción — El futuro no es lo que ves en el cine",
+      "text": "Matrix y The Truman Show asumen un yo auténtico más allá de la manipulación — pero la autenticidad misma puede ser ilusión neuronal. Escapar de una caja solo revela una caja mayor. La ciencia ficción responsable debe mostrar vigilancia algorítmica y desigualdad de clases, no androides conscientes rebeldes."
+    },
+    {
+      "sectionId": "cap18",
+      "sectionTitle": "Ciencia ficción — El futuro no es lo que ves en el cine",
+      "text": "El futuro real no parece película de acción: parece concentración de datos, manipulación emocional y bifurcación biológica de la especie."
+    },
+    {
+      "sectionId": "cap19",
+      "sectionTitle": "Educación — El cambio es la única constante",
+      "text": "Un bebé de hoy tendrá treinta y pico en 2050 y podría vivir hasta el siglo XXII. ¿Qué enseñarle? En 1018 sabían que en 1050 seguirían siendo agricultores. Hoy no sabemos qué trabajos existirán ni qué significará «ser humano»."
+    },
+    {
+      "sectionId": "cap19",
+      "sectionTitle": "Educación — El cambio es la única constante",
+      "text": "Las escuelas acumulan información cuando sobra y falta sentido. En el siglo XXI el desafío es discernir lo importante, construir panorama global y resistir distracciones. Los «cuatro C»: pensamiento crítico, comunicación, colaboración, creatividad — más reinvención personal continua."
+    },
+    {
+      "sectionId": "cap19",
+      "sectionTitle": "Educación — El cambio es la única constante",
+      "text": "El modelo vida de aprendizaje + vida de trabajo se rompe: con longevidad y cambio acelerado, habrá que reinventarse a los 25, 35, 45… La resiliencia emocional ante lo desconocido importa más que saber C++ o chino — quizá obsoletos antes de los treinta."
+    },
+    {
+      "sectionId": "cap19",
+      "sectionTitle": "Educación — El cambio es la única constante",
+      "text": "Enseñar a aprender, a adaptarse y a mantener equilibrio mental: las únicas certezas en un mundo donde hasta el cuerpo y la mente serán ingeniería."
+    },
+    {
+      "sectionId": "cap20",
+      "sectionTitle": "Significado — La vida no es una historia",
+      "text": "¿Quién soy? ¿Para qué vivir? Casi siempre buscamos una historia : el círculo eterno del Bhagavad Gita y El rey león , la línea temporal del Islam o el sionismo, la lucha de clases marxista. Cada relato asigna un papel cósmico que da sentido a lo cotidiano."
+    },
+    {
+      "sectionId": "cap20",
+      "sectionTitle": "Significado — La vida no es una historia",
+      "text": "Pero la vida no es una narración con clímax y final feliz. Los acontecimientos son tejido caótico. Forzar arco dramático distorsiona la realidad y alimenta fanatismos — «Jerusalén eterna» frente a milenios de historia real. Las historias pequeñas (nación, religión) ignoran la escala cósmica."
+    },
+    {
+      "sectionId": "cap20",
+      "sectionTitle": "Significado — La vida no es una historia",
+      "text": "El liberalismo ofreció libertad individual en lugar de papel cósmico — pero sin narrativa sustituta, muchos vuelven a mitos tribales. Harari no proscribe búsqueda de sentido: advierte que confundir ficción con destino puede destruir planetas y personas por «eternidad» de cinco mil años."
+    },
+    {
+      "sectionId": "cap20",
+      "sectionTitle": "Significado — La vida no es una historia",
+      "text": "El significado puede encontrarse sin creer que el universo es una novela en la que tú eres el protagonista predestinado."
+    },
+    {
+      "sectionId": "cap21",
+      "sectionTitle": "Meditación — Solo observa",
+      "text": "Después de criticar tantas historias, Harari explica su propia práctica: Vipassana (introspección), aprendida con S. N. Goenka en 2000 . No es misticismo New Age: observar la respiración en las fosas nasales, sin controlar ni juzgar — «solo observa la realidad del momento presente»."
+    },
+    {
+      "sectionId": "cap21",
+      "sectionTitle": "Meditación — Solo observa",
+      "text": "La pregunta real no es qué pasa al morir sino qué pasa antes de morir. Cuerpo, cerebro y mente cambian cada instante. Nada permanece de momento a momento. Entre nosotros y el mundo siempre hay sensaciones corporales . Reaccionamos a ellas, no a «la nación» ni a un tuit. El sufrimiento surge de patrones mentales, no solo de condiciones externas."
+    },
+    {
+      "sectionId": "cap21",
+      "sectionTitle": "Meditación — Solo observa",
+      "text": "Dos horas diarias de meditación y retiros anuales no son escape: son contacto con la realidad que posibilitó escribir Sapiens y Homo Deus . Complementa la ciencia: el estudio de la mente necesita observación directa además de escáneres y estadísticas."
+    },
+    {
+      "sectionId": "cap21",
+      "sectionTitle": "Meditación — Solo observa",
+      "text": "«No hagas nada. No intentes controlar la respiración. Solo observa la realidad del momento presente, sea lo que sea.»"
+    },
+    {
+      "sectionId": "cap21",
+      "sectionTitle": "Meditación — Solo observa",
+      "text": "Observar sin historia: la herramienta personal de Harari para despertar con claridad sin depender de las ficciones que el libro cuestiona."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "El siglo XXI enfrenta tres olas simultáneas: disrupción tecnológica, colapso ecológico y fractura del relato liberal."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "No hay respuestas simples ni historia global única que reemplace al liberalismo caído."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Humildad histórica, secularismo compasivo y educación para el cambio son defensas imperfectas pero necesarias."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Observar la propia mente, sin nuevas mitologías, puede sostener la lucidez en tiempos de desconcierto."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "El futuro no está escrito; tampoco está garantizado."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La claridad — sobre tecnología, política, ignorancia y ficciones — es el primer paso para decisiones conscientes antes de que el mercado o los algoritmos decidan por nosotros."
+    }
+  ]
+}

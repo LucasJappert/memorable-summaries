@@ -46,3 +46,6 @@ __pycache__/
 
 # HTML legacy de referencia (opcional)
 legacy/
+
+# Export Anki generado
+export/

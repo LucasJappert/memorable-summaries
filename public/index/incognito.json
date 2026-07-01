@@ -1,0 +1,304 @@
+{
+  "slug": "incognito",
+  "title": "Incógnito: Las vidas secretas del cerebro",
+  "concepts": [
+    {
+      "title": "Incógnito",
+      "description": "Operaciones neuronales sin acceso consciente; el yo es un resumen tardío."
+    },
+    {
+      "title": "Umwelt",
+      "description": "Mundo subjetivo que cada especie (o cerebro) puede captar; fracción del Umgebung."
+    },
+    {
+      "title": "Memoria implícita",
+      "description": "Saber hacer sin poder declarar cómo (cambiar de carril, Tetris en amnésicos)."
+    },
+    {
+      "title": "Inferencia inconsciente",
+      "description": "El cerebro completa datos sensoriales con suposiciones previas (Helmholtz)."
+    },
+    {
+      "title": "Team of rivals",
+      "description": "Subpoblaciones neuronales compiten por el control del comportamiento."
+    },
+    {
+      "title": "Contrato de Ulises",
+      "description": "El yo presente ata al futuro contra tentaciones (club navideño, depósito)."
+    },
+    {
+      "title": "Automatismo suficiente",
+      "description": "El libre albedrío, si existe, es marginal; la política legal puede prescindir de él."
+    },
+    {
+      "title": "Modificabilidad",
+      "description": "Criterio prospectivo para castigo/rehabilitación: ¿puede cambiar el cerebro?"
+    },
+    {
+      "title": "Instinct blindness",
+      "description": "Invisibilidad de programas evolutivos que funcionan demasiado bien."
+    },
+    {
+      "title": "Emergencia",
+      "description": "Mente no reducible a piezas; propiedades nuevas del sistema completo."
+    }
+  ],
+  "highlight": "No conduces el barco: eres pasajero de una maquinaria que aún apenas empezamos a cartografiar",
+  "entries": [
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "El yo no está al volante",
+      "text": "El epígrafe del libro cita a Blaise Pascal , quien sostiene que el hombre es incapaz de ver «la nada de la que emerge» y «el infinito en que se pierde». David Eagleman propone una caída paralela a la de Galileo: no solo fuimos expulsados del centro del universo, sino del centro de nosotros mismos."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "El yo no está al volante",
+      "text": "Antes del capítulo 1, el autor enumera enigmas que el libro resolverá: ¿cómo puedes enfadarte contigo mismo?, ¿por qué las rocas «suben» tras mirar una cascada?, ¿por qué William Douglas decía que podía jugar al fútbol estando paralizado?, ¿por qué Thomas Edison electrocutó a Topsy?, ¿por qué las stripers ganan más en ciertos días del mes?, ¿qué comparten Ulises y la crisis de las hipotecas subprime?"
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "El yo no está al volante",
+      "text": "«El hombre es igualmente incapaz de ver la nada de la que emerge y el infinito en que se pierde.»"
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "El yo no está al volante",
+      "text": "La neurociencia moderna confirma la intuición de Pascal: la mayor parte de lo que hacemos y pensamos ocurre incógnito , bajo el umbral de la conciencia."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Hay alguien en mi cabeza, pero no soy yo",
+      "text": "El cerebro pesa unos 1,4 kg y contiene cientos de miles de millones de neuronas. Cada una es tan compleja como una ciudad. Una célula típica hace unas 10 000 conexiones, y en un solo centímetro cúbico hay tantas sinapsis como estrellas en la Vía Láctea."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Hay alguien en mi cabeza, pero no soy yo",
+      "text": "En 1949 , Arthur Alberts grabó música en África occidental, y un nativo acusó al magnetófono de «robarle la lengua». Igual que la voz es física aunque parezca etérea, los pensamientos dependen de sustancia cerebral. El sueño profundo los elimina, el alcohol o el café los modulan, y una lesión del tamaño de un ded meñique puede cambiar la música, el color o el riesgo que percibes."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Hay alguien en mi cabeza, pero no soy yo",
+      "text": "Un experimento reciente mostró que hombres califican fotos de mujeres. Las pupilas dilatadas (señal de excitación sexual) las eligen como más atractivas, pero ninguno puede explicar por qué. Algo en el cerebro «sabía» lo que la conciencia ignoraba. La conciencia es como un periódico ligero ( USA Today ): resume lo ya decidido en coaliciones neuronales, y llegas tarde a la información."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Hay alguien en mi cabeza, pero no soy yo",
+      "text": "«Hay alguien en mi cabeza, pero no soy yo.»"
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Hay alguien en mi cabeza, pero no soy yo",
+      "text": "El primer hallazgo al estudiar nuestro propio circuito: casi todo lo que hacemos, pensamos y sentimos no está bajo control consciente."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "El testimonio de los sentidos: ¿cómo es realmente la experiencia?",
+      "text": "Ernst Mach notó que tiras de papel uniformes, juntas, parecen tener gradiente de sombra ( bandas de Mach ). Llevamos siglos sin ver lo obvio hasta que alguien lo señala. Somos observadores pésimos de nuestra propia experiencia, y la introspección no ayuda."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "El testimonio de los sentidos: ¿cómo es realmente la experiencia?",
+      "text": "Mover el brazo no revela la tormenta neural subyacente. Charles Sherrington concluyó que la experiencia del movimiento es un «producto mental» distinto de los músculos. La visión ocupa cerca de un tercio del cerebro humano, y escenas ambiguas (Torre de Pisa lejana vs. maqueta cercana) se desambiguan con contexto y trucos. Pacientes que recuperan la vista tras décadas de ceguera deben reaprender a ver."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "El testimonio de los sentidos: ¿cómo es realmente la experiencia?",
+      "text": "Ilusiones como la ceguera al cambio muestran que cambios enormes (caja, jeep) pasan desapercibidos si no prestas atención. En un experimento, el experimentador se sustituye por otro tras una puerta y la mayoría sigue dando indicaciones. La periferia tiene resolución pésima, y el cerebro construye un boceto 2½-D , no un modelo 3-D completo. Alfred Yarbus ( 1967 ) demostró que, según la pregunta sobre un cuadro de Repin, los ojos muestrean distintas zonas (caras, ropa, edades)."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "El testimonio de los sentidos: ¿cómo es realmente la experiencia?",
+      "text": "El punto ciego ocupa el diámetro de 17 lunas , y el cerebro «rellena» el fondo. Helmholtz llamó inferencia inconsciente a las suposiciones sobre la luz desde arriba. Después de una cascada, las rocas parecen subir ( efecto post-movimiento ): el movimiento se percibe sin cambio de posición. Mike McBeath demostró que los jardineros de béisbol no calculan posición ni velocidad, sino que mantienen la trayectoria en línea recta desde su punto de vista."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "El testimonio de los sentidos: ¿cómo es realmente la experiencia?",
+      "text": "Paul Bach-y-Rita conectó una cámara a vibradores en la espalda, y los ciegos acabaron «viendo». Eric Weihenmayer escala con BrainPort (electrodos en la lengua). El cerebro en la oscuridad del cráneo no importa de dónde vengan los impulsos si correlacionan con el movimiento. El sistema nervioso central genera actividad interna modulada por los sentidos, no construida desde cero, como mostró Thomas Graham Brown con un gato en cinta sin nervios sensoriales."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "El testimonio de los sentidos: ¿cómo es realmente la experiencia?",
+      "text": "Primera lección: no confíes en los sentidos; la percepción es construcción activa, no registro fiel del mundo."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Mente: la brecha",
+      "text": "Cambiar de carril en un simulador revela una brecha: casi todos giran a la derecha y enderezan, pero la maniobra real exige girar a la derecha, cruzar el centro y corregir a la izquierda. Sabes hacerlo al volante, pero no puedes describirlo. Es memoria procedimental , un tipo de memoria implícita ."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Mente: la brecha",
+      "text": "Los mejores sexadores de pollos japoneses distinguen machos y hembras por vent sexing sin poder articular las señales. El maestro solo dice sí o no. Igual ocurre con los spotters de aviones en la Segunda Guerra Mundial. Pacientes con amnesia anterógrada mejoran en Tetris sin recordar haber jugado."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Mente: la brecha",
+      "text": "Los tests de asociación implícita (IAT) muestran que los tiempos de reacción revelan sesgos raciales, de peso o religiosos que la introspección niega. John Jones ( 2004 ) encontró en Georgia y Florida más matrimonios entre personas cuya inicial coincide ( egotismo implícito ). El priming , el efecto mera exposición y la ilusión de verdad hacen que lo oído antes parezca más creíble. Antoine Bechara mostró que la conductancia cutánea advierte de mazos malos ~ 13 cartas antes de que la conciencia lo sepa (~ 25 )."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Mente: la brecha",
+      "text": "La conciencia entrena al «robot»: el tenista consciente al aprender, automático en Wimbledon. «Quemar» tareas en el circuito aporta velocidad y eficiencia energética (Kasparov ~ 20 W vs. Deep Blue miles de vatios). Tetris: cerebro muy activo al aprender, casi silencioso como experto."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Mente: la brecha",
+      "text": "«No puedo abarcar todo lo que soy.»"
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Mente: la brecha",
+      "text": "Hay un abismo entre lo que el cerebro ejecuta y lo que la mente puede inspeccionar; la conciencia interfiere si se mete en detalles que no comprende."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Las clases de pensamientos pensables",
+      "text": "Una rana no desea a un humano, y un koala come heces maternales para digerir eucalipto. Nada es inherentemente sabroso: la deliciosidad indexa utilidad evolutiva. Lo mismo aplica a lógica, ética, belleza y amor. Hay pensamientos que puedes pensar y categorías enteras que no."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Las clases de pensamientos pensables",
+      "text": "Jakob von Uexküll ( 1909 ) argumentó que cada especie habita su Umwelt (mundo percibido) dentro del Umgebung (realidad más amplia). Veemos menos de una diez billonésima del espectro electromagnético. ~ 15 % de mujeres tienen un cuarto tipo de fotorreceptor y ven colores indistinguibles para el resto."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Las clases de pensamientos pensables",
+      "text": "La sinestesia afecta a ~ 1 % de la población y fusiona sentidos (días en color, números en espacio). Los bebés no son tabula rasa: prefieren caras, sorprenden ante objetos sólidos que se traspasan y distinguen animado de inanimado. Leda Cosmides y John Tooby mostraron que el problema lógico de cartas falla, pero la versión «menores y alcohol» se resuelve fácil, porque el cerebro está especializado en intercambio social , no en lógica abstracta."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Las clases de pensamientos pensables",
+      "text": "En belleza, la proporción cintura-cadera ~ 0,67–0,8 atrae, y la dilatación pupilar atrae sin que el hombre lo sepa. El efecto «vislumbre» hace que rostros breves parezcan más bellos. Las strippers ganan ~ 68 $/h en pico de fertilidad frente a ~ 35 $/h menstruando, y las anticonceptivas pierden el pico. Las feromonas/MHC hacen que las mujeres prefieran olores de hombres con MHC disímil. La vasopresina y el gen RS3 334 correlacionan con infidelidad en hombres suecos."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Las clases de pensamientos pensables",
+      "text": "**Instinto vs. automatización** — Instintos vienen en el ADN; automatizar (bicicleta, tenis) ocurre en la vida; ambos quedan fuera del acceso consciente."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Las clases de pensamientos pensables",
+      "text": "**Instinct blindness** — Cosmides/Tooby: no vemos los programas que más nos gobiernan porque funcionan demasiado bien."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Las clases de pensamientos pensables",
+      "text": "**James** — Hacer «extraño lo natural»: preguntar por qué sonreímos, por qué palpita el corazón ante multitudes."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Las clases de pensamientos pensables",
+      "text": "La evolución talló un Umwelt estrecho de pensamientos posibles; lo «obvio» es solo lo que nuestro hardware permite captar."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El cerebro es un equipo de rivales",
+      "text": "Mel Gibson ( 2006 ) borracho profirió insultos antisemitas, y sobrio ofreció disculpas sinceras. ¿Cuál es el «verdadero» Gibson? Eagleman responde que ambos, porque el cerebro contiene multitudes ( Walt Whitman )."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El cerebro es un equipo de rivales",
+      "text": "Marvin Minsky describió la mente como una sociedad de subagentes especializados sin mente propia. La democracia neuronal compite por un único canal de comportamiento: tarta de chocolate frente a dieta. Los sistemas racional (mundo externo) y emocional (estado interno) chocan. En el dilema del tranvía, cambiar agujas (abstracto) difiere de empujar al hombre (activa emoción), según Joshua Greene ."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El cerebro es un equipo de rivales",
+      "text": "Kahneman y Tversky mostraron que la gente prefiere $100 ahora frente a $110 en una semana, pero $100 en 52 semanas frente a $110 en 53. El descuento temporal tiene forma de dos procesos ( Sam McClure ). Las hipotecas subprime explotaron el «lo quiero ya». Los contratos de Ulises atan al mástil: clubes navideños, IRS como «alcancía», depósitos para adelgazar."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El cerebro es un equipo de rivales",
+      "text": "En el cerebro dividido ( Roger Sperry , Nobel), los hemisferios pueden aprender por separado. La mano derecha elige «manzana», la izquierda «lápiz». Gazzaniga/LeDoux mostraron que, ante gallina y pala de nieve, el hemisferio izquierdo inventa: «Necesitas pala para limpiar el gallinero». La anosognosia ilustra a William O. Douglas , quien negaba su parálisis. El cerebro fabrica narrativas coherentes (test de Stroop, lápiz entre dientes)."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El cerebro es un equipo de rivales",
+      "text": "No hay un solo «yo» al volante: hay coaliciones en conflicto y un intérprete narrativo que justifica lo ya decidido."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Por qué la culpabilidad es la pregunta equivocada",
+      "text": "El 1 de agosto de 1966 , Charles Whitman , ex marine, disparó desde la torre de Texas ( 13 muertos, 33 heridos). La autopsia reveló un glioblastoma que comprimía la amígdala. ¿Cambia eso su culpa?"
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Por qué la culpabilidad es la pregunta equivocada",
+      "text": "El caso «Alex» muestra un tumor orbitofrontal que provocó pedofilia repentina. Al extirparlo, volvió a la normalidad, y al recidivar el tumor, reapareció el comportamiento. La demencia frontotemporal causa desinhibición social masiva. El Parkinson con pramipexol (dopamina) provoca ludopatía compulsiva reversible al bajar la dosis. Genes, plomo y maltrato infantil marcan distintos puntos de partida, y no elegimos ni naturaleza ni crianza."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Por qué la culpabilidad es la pregunta equivocada",
+      "text": "El «gen peligroso» que multiplica por 8–44 la violencia es el cromosoma Y. La metáfora del elefante Tyke ( 86 disparos en Honolulu) pregunta por qué no exigimos culpa del elefante, pero sí del humano si el hardware es homólogo."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Por qué la culpabilidad es la pregunta equivocada",
+      "text": "Benjamin Libet registró un potencial de readiness ~ 1 s antes del «impulso» consciente de mover el dedo. El veto de Libet no salva el libre albedrío con evidencia. El principio de automatismo suficiente sostiene que, aunque existiera libre albedrío, sería un margen mínimo sobre maquinaria automática."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Por qué la culpabilidad es la pregunta equivocada",
+      "text": "Eagleman propone sustituir la culpabilidad por la modificabilidad : sentencia prospectiva (¿reincidirá?) con tablas actuariales para delitos sexuales (mejor que psiquiatras). El prefrontal workout usa neurofeedback para fortalecer control de impulsos frente a lobotomía. No exculpar: explicar ≠ exculpar , y aún hay que apartar peligrosos."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Por qué la culpabilidad es la pregunta equivocada",
+      "text": "La pregunta legal no debe ser «¿cuánto culpable?» sino «¿qué hacemos desde aquí?» — modificabilidad y riesgo futuro."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Vida después de la monarquía",
+      "text": "Después de Galileo, Hutton, Darwin, cuántica, ADN y neurociencia, ¿queda algo del hombre? Eagleman responde que cada «destronamiento» abrió realidades más vastas: millones de planetas con vida, selección natural aplicada en laboratorio, transistores y MRI."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Vida después de la monarquía",
+      "text": "Entender el cerebro mejora la política social: contratos de Ulises para dietas o jubilación, virtud como frenos que dominan motores fuertes, no ausencia de tentación. Montaigne en su torre preguntó «¿Qué sé yo?». Conocerse exige ciencia y introspección, con límites (100 millones de neuronas entéricas inaccesibles)."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Vida después de la monarquía",
+      "text": "Phineas Gage ( 1848 ) recibió una barra de hierro por el lóbulo frontal y «ya no era Gage». Drogas, serotonina, epilepsia temporal (voces «proféticas») y rabia muestran microcambios con macroconducta. Aun así, el reduccionismo solo no basta: genes más ambiente (Caspi: depresión con alelo corto más eventos adversos, abuso infantil más MAOA)."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Vida después de la monarquía",
+      "text": "Emergencia : propiedades del conjunto (vuelo, contención) no están en piezas sueltas. Analogía radio Kalahari: dañar circuitos silencia voces, pero ondas existían sin conocerlas. Materialismo no implica cinismo: «si el cerebro fuera lo bastante simple para entenderlo, no seríamos lo bastante listos»."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Vida después de la monarquía",
+      "text": "Caer del trono consciente no empobrece: revela un cosmos interior tan prodigioso como el exterior."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La conciencia es un monarca que hereda un reino que no construyó."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Neuronas, genes y rivales internos deciden antes de que llegue el titular."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Confiar solo en introspección es chocar como un piloto que ignora sus instrumentos."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Pero destronar al yo abre un cosmos interior tan vasto como el cielo de Galileo."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La pregunta útil no es «¿soy libre?» sino qué hacemos con el cerebro en política, derecho y virtud."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "No conduces el barco: eres pasajero de una maquinaria que aún apenas empezamos a cartografiar"
+    }
+  ]
+}

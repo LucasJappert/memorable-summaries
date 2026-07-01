@@ -1,0 +1,382 @@
+{
+  "slug": "sapiens",
+  "title": "Sapiens: De animales a dioses",
+  "concepts": [
+    {
+      "title": "Revolución cognitiva",
+      "description": "~70.000 a: lenguaje ficticio, mitos y cooperación masiva."
+    },
+    {
+      "title": "Realidad dual",
+      "description": "Mundo objetivo vs. mundo imaginado de naciones y dioses."
+    },
+    {
+      "title": "Revolución agrícola",
+      "description": "Sedentarismo, población y desigualdad; «el trigo domesticó al sapiens»."
+    },
+    {
+      "title": "Orden imaginado",
+      "description": "Dinero, imperio y religión como ficciones que unifican millones."
+    },
+    {
+      "title": "Revolución científica",
+      "description": "Admitir ignorancia; observación y experimento como método."
+    },
+    {
+      "title": "Capitalismo",
+      "description": "Reinversión de beneficios y confianza en el futuro como motor económico."
+    },
+    {
+      "title": "Antropoceno temprano",
+      "description": "El sapiens como fuerza que rediseña la biosfera y a sí mismo."
+    }
+  ],
+  "highlight": "De animal insignificante a posible diseñador de la vida: la fuerza humana está en inventar y creer ficciones compartidas.",
+  "entries": [
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Sobre el libro original",
+      "text": "Sapiens ofrece una narrativa accesible sobre la evolución extraordinaria de la humanidad: cómo nuestra especie se extendió por el mundo, surgieron ciudades e imperios, creímos en dioses y apareció el dinero."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Sobre el libro original",
+      "text": "Desde los primeros humanos hasta las grandes revoluciones cognitiva , agrícola y científica , el libro proyecta también el futuro de los milenios venideros. El autor, Yuval Noah Harari , historiador israelí formado en Oxford, alcanzó fama mundial con esta obra."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Sobre el libro original",
+      "text": "Este resumen sigue la estructura de un texto abreviado de Sapiens Editorial; no sustituye la lectura del libro completo de Harari."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "El origen",
+      "text": "El Big Bang describe el origen de materia y energía hace unos 13.500 millones de años. Unos 300.000 años después surgieron átomos y moléculas, y hace 3.800 millones de años en la Tierra aparecieron organismos, entre ellos el Homo sapiens ."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "El origen",
+      "text": "Hace 70.000 años la especie formó estructuras más complejas llamadas culturas , y su desarrollo es la historia . Tres revoluciones la marcaron: la cognitiva (~ 70.000 a), la agrícola (~ 12.000 a) y la científica (~ 500 años)."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "El origen",
+      "text": "La historia humana es la historia de revoluciones que transformaron cómo nos organizamos."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Humanos y su historia",
+      "text": "Los primeros humanos surgieron en el este de África hace unos 2,5 millones de años, descendientes de Australopithecus ."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Humanos y su historia",
+      "text": "Al expandirse hacia Europa y Asia surgieron especies distintas: Homo neanderthalensis en Europa y Asia occidental, Homo erectus en Asia oriental durante dos millones de años, y Homo sapiens hace 300.000 años —la única que aún domina el planeta."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Humanos y su historia",
+      "text": "La diversidad de especies humanas refleja adaptaciones geográficas; solo el sapiens sobrevivió."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Un ser singular",
+      "text": "Rasgos comunes: cerebro grande ( 2–3% del peso corporal, 25% de la energía), bipedestación, partos prematuros y vínculos sociales fuertes para criar crías indefensas."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Un ser singular",
+      "text": "El fuego fue el primer gran descubrimiento que separó al hombre de los animales. Cerebro, herramientas, aprendizaje y estructuras sociales complejas convirtieron al sapiens en la especie más poderosa —con ambivalencia entre superioridad y miedo."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Un ser singular",
+      "text": "La combinación de cerebro, herramientas y cooperación social definió el potencial humano."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "La expansión",
+      "text": "El sapiens invadió la Tierra y provocó la extinción de otras especies humanas. Las causas (cruce, exterminio) siguen debatiéndose."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "La expansión",
+      "text": "La revolución cognitiva permitió arte, joyas, religión, comercio y estratos sociales. El lenguaje único puede referirse a cosas nunca vistas. Surgieron leyendas, mitos y dioses, y el sapiens vivió en una realidad dual : objetiva (árboles, animales) e imaginada (naciones, dioses), donde la segunda llegó a dominar."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "La expansión",
+      "text": "Dejaron de depender del entorno y se convirtieron en sus controladores."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "La expansión",
+      "text": "La revolución cognitiva permitió ficciones compartidas que reorganizaron la cooperación humana a escala masiva."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Herencia",
+      "text": "La psicología evolutiva sugiere que hábitos alimentarios, sexuales y conflictos actuales reflejan mentes de cazadores-recolectores en un entorno postindustrial."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Herencia",
+      "text": "La teoría de la «comuna primitiva» explica infidelidades como herencia de estructuras sin propiedad privada ni paternidad segura. Otros eruditos defienden la monogamia como comportamiento histórico humano. No hubo un único modo de vida desde la revolución cognitiva, sino un abanico de opciones culturales."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Herencia",
+      "text": "La mayoría de cazadores-recolectores tenían dieta sana, poca carga laboral y pocas enfermedades infecciosas, pero alta mortalidad infantil. Muchos eran animistas : creen que lugares, animales y fenómenos tienen conciencia y pueden comunicarse con humanos."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Herencia",
+      "text": "Nuestro presente convive con herencias del pasado paleolítico en cuerpo y mente."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Del recolectar a la cosecha",
+      "text": "Hace unos 10.000 años el sapiens empezó a sembrar y domesticar animales: la revolución agrícola ."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Del recolectar a la cosecha",
+      "text": "Más comida no significó mejor alimentación ni más tiempo libre, sino explosiones demográficas y élites. El agricultor trabajó más y comió peor que el cazador-recolector. Algunos plantean que plantas como el trigo «domesticaron» al sapiens. El sedentarismo permitió un hijo por año. La mortalidad infantil subió, pero los nacimientos superaron las muertes."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Del recolectar a la cosecha",
+      "text": "Los lujos se vuelven necesidades y generan nuevas obligaciones. La revolución agrícola rompió la simbiosis con la naturaleza y sembró la codicia."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Del recolectar a la cosecha",
+      "text": "La agricultura multiplicó la población pero empeoró la vida media del campesino."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "El futuro",
+      "text": "Los cazadores-recolectores no planificaban el futuro. La agricultura lo hizo central por la incertidumbre de las cosechas."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "El futuro",
+      "text": "El trabajo agrícola fundó sistemas políticos y sociales: surgieron élites (gobernantes, soldados, sacerdotes, artistas) que acumularon riqueza y construyeron palacios y templos mientras los campesinos sobrevivían con lo mínimo."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "El futuro",
+      "text": "Preocuparse por el mañana y crear desigualdad estructural fueron consecuencias directas de la agricultura."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "La escritura",
+      "text": "Las sociedades complejas generaron más información de la que el cerebro podía almacenar. Surgió la escritura para registrar números, posesiones, impuestos y transacciones."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "La escritura",
+      "text": "Los sumerios combinaron símbolos numéricos y de personas, animales y territorios en tablillas de arcilla. Entre 3000 y 2500 a.C. evolucionó el sistema cuneiforme para actas, oráculos y cartas personales."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "La escritura",
+      "text": "La escritura nació como herramienta burocrática y luego se expandió a la narrativa y el derecho."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Cultura",
+      "text": "Mitologías, normas y leyes sostuvieron el orden social. Esa red de «instintos artificiales» es la cultura ."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Cultura",
+      "text": "Cada grupo tenía su visión del mundo y normas propias en constante cambio. Vista desde lejos, la historia tiende a la unificación : muchos «mundos humanos» aislados se fusionaron en una cultura global interconectada, aunque heterogénea."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Cultura",
+      "text": "La diversidad cultural convive con una tendencia histórica hacia la unidad planetaria."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Orden universal",
+      "text": "En el primer milenio d.C. surgieron tres órdenes universales que concebían a la humanidad como unidad: el orden monetario , el imperial y el de religiones universales (cristianismo, budismo, islam)."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Orden universal",
+      "text": "Dinero, imperio y religión globalizaron la imaginación humana mucho antes de la economía moderna."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "¿Cuánto cuesta?",
+      "text": "Los cazadores-recolectores vivían en economía de favores. La agricultura impulsó el trueque y luego el dinero ."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "¿Cuánto cuesta?",
+      "text": "La cebada sirvió como moneda convertible. En Mesopotamia aparecieron los siclos de plata ( 8,33 gramos), valor cultural sin uso alimenticio. La confianza en el dinero sin valor intrínseco fue el gran salto."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "¿Cuánto cuesta?",
+      "text": "El dinero resolvió la escasez del trueque al crear confianza en símbolos abstractos de valor."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "La visión imperial",
+      "text": "Escritura y dinero facilitaron el comercio, pero el crecimiento exigió jerarquías imperiales con reyes legitimados por dioses —como el código de Hammurabi ( 1776 a.C.)."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "La visión imperial",
+      "text": "Los imperios amalgamaron culturas diversas y redujeron la diversidad humana. Desde el año 200 d.C. la tendencia imperial fue global. En el siglo XXI el nacionalismo cede ante bloques internacionales y una élite multiétnica con intereses comunes."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "La visión imperial",
+      "text": "Los imperios unificaron la humanidad bajo un manto político, a costa de muchas culturas locales."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "La revolución científica",
+      "text": "En los últimos 500 años el poder humano creció vertiginosamente: de 500 millones en 1500 a 7000 millones hoy."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "La revolución científica",
+      "text": "La revolución científica fue sobre todo una revolución de la ignorancia : admitir que no tenemos respuestas abrió la observación, la experimentación y avances en medicina, astronomía y física. Ciencia y tecnología solo se entrelazaron con la revolución industrial y el capitalismo."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "La revolución científica",
+      "text": "Admitir la ignorancia fue el motor del conocimiento moderno y del dominio tecnológico del planeta."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "Ciencia y tecnología, unión costosa",
+      "text": "Ciencia y tecnología son caras y están moldeadas por intereses económicos, políticos y religiosos."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "Ciencia y tecnología, unión costosa",
+      "text": "En 500 años, gobiernos y donantes financiaron investigación con objetivos de poder además de altruismo. Imperialismo y capitalismo fueron las dos fuerzas que movieron el mundo junto a la ciencia."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "Ciencia y tecnología, unión costosa",
+      "text": "El progreso científico dependió de quien pagaba la factura —y de qué buscaban con ello."
+    },
+    {
+      "sectionId": "cap15",
+      "sectionTitle": "Mentalidad conquistadora",
+      "text": "La ciencia moderna floreció con el imperio europeo: los conquistadores admitieron su ignorancia y llevaron científicos en las expediciones."
+    },
+    {
+      "sectionId": "cap15",
+      "sectionTitle": "Mentalidad conquistadora",
+      "text": "El descubrimiento de América impulsó mapas con espacios vacíos y nuevas rutas comerciales. Surgió el crédito y la economía capitalista: Adam Smith argumentó que reinvertir beneficios genera más riqueza para todos —«la codicia es buena»."
+    },
+    {
+      "sectionId": "cap15",
+      "sectionTitle": "Mentalidad conquistadora",
+      "text": "Conquistar territorios y conocimiento se reforzaron mutuamente en la Europa moderna."
+    },
+    {
+      "sectionId": "cap16",
+      "sectionTitle": "Un abrazo de oso",
+      "text": "Capital y política se entrelazaron. El libre mercado chocó con sus desigualdades, y el miedo al comunismo moderó las ambiciones."
+    },
+    {
+      "sectionId": "cap16",
+      "sectionTitle": "Un abrazo de oso",
+      "text": "Acuerdos buscaron equilibrar beneficio comunitario y ganancia privada, aunque a veces dudemos de que respondan a todos."
+    },
+    {
+      "sectionId": "cap16",
+      "sectionTitle": "Un abrazo de oso",
+      "text": "El capitalismo y el Estado negociaron un equilibrio inestable tras el siglo XX."
+    },
+    {
+      "sectionId": "cap17",
+      "sectionTitle": "El motor industrial",
+      "text": "La economía global crece por confianza en el futuro y reinversión, pero requiere energía y materias primas ilimitadas."
+    },
+    {
+      "sectionId": "cap17",
+      "sectionTitle": "El motor industrial",
+      "text": "La revolución industrial convirtió energía (motor de combustión, electricidad) en producción masiva y consumismo : productos de vida corta y moda constante convirtieron las compras en pasatiempo favorito."
+    },
+    {
+      "sectionId": "cap17",
+      "sectionTitle": "El motor industrial",
+      "text": "Energía barata y confianza crediticia alimentaron el crecimiento y el consumo de masas."
+    },
+    {
+      "sectionId": "cap18",
+      "sectionTitle": "¿Dónde encajo en esta historia?",
+      "text": "Después de revoluciones que transformaron planeta y sociedad, la pregunta inevitable es: ¿somos más felices?"
+    },
+    {
+      "sectionId": "cap18",
+      "sectionTitle": "¿Dónde encajo en esta historia?",
+      "text": "Los historiadores rara vez la plantean. Encuestas de bienestar sugieren que la felicidad depende más de lo cotidiano que de los grandes eventos históricos. El sapiens parece tener un equilibrio entre indulgencia e insatisfacción que asegura la supervivencia."
+    },
+    {
+      "sectionId": "cap18",
+      "sectionTitle": "¿Dónde encajo en esta historia?",
+      "text": "El progreso material no garantiza mayor felicidad subjetiva a lo largo de la historia."
+    },
+    {
+      "sectionId": "cap19",
+      "sectionTitle": "¿Hacia dónde vamos?",
+      "text": "En el siglo XXI el sapiens trasciende límites biológicos mediante ingeniería biológica , ciborgs y vida inorgánica."
+    },
+    {
+      "sectionId": "cap19",
+      "sectionTitle": "¿Hacia dónde vamos?",
+      "text": "La ciencia podría crear seres con capacidades y emociones distintas a las nuestras. Desde un animal insignificante hace 70.000 años, el sapiens está a punto de convertirse en algo parecido a un dios —con juventud eterna, creación y destrucción a escala cósmica."
+    },
+    {
+      "sectionId": "cap19",
+      "sectionTitle": "¿Hacia dónde vamos?",
+      "text": "¿Es responsable de asumir ese papel? El tiempo lo dirá."
+    },
+    {
+      "sectionId": "cap19",
+      "sectionTitle": "¿Hacia dónde vamos?",
+      "text": "La biotecnología plantea si el sapiens está listo para rediseñarse a sí mismo."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La historia del sapiens es una cadena de revoluciones imaginativas."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Cada una reconfiguró cooperación, poder y significado."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Pero el progreso material no trajo felicidad proporcional."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "El siglo XXI abre la puerta a rediseñar la propia especie."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "¿Estamos preparados para ese poder?"
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "De animal insignificante a posible diseñador de la vida: la fuerza humana está en inventar y creer ficciones compartidas."
+    }
+  ]
+}

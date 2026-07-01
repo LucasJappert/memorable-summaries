@@ -24,6 +24,11 @@ const props = withDefaults(
   { available: undefined, floating: false, dockTop: false },
 )
 
+const emit = defineEmits<{
+  play: []
+  pause: []
+}>()
+
 const src = computed(() =>
   props.audioSrc ? publicAssetUrl(props.audioSrc) : audioUrl(props.slug),
 )
@@ -136,11 +141,13 @@ function skip(seconds: number) {
 function onPlay() {
   playing.value = true
   hasEnded.value = false
+  emit('play')
 }
 
 function onPause() {
   playing.value = false
   persistPosition(true)
+  emit('pause')
 }
 
 function onTimeUpdate() {

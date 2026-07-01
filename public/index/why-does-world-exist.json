@@ -1,0 +1,566 @@
+{
+  "slug": "why-does-world-exist",
+  "title": "¿Por qué existe el mundo?: Una historia detectivesca existencial",
+  "concepts": [
+    {
+      "title": "¿Por qué algo y no nada?",
+      "description": "Pregunta formulada por Leibniz; eje del libro y de la metafísica moderna."
+    },
+    {
+      "title": "Principio de razón suficiente",
+      "description": "Toda verdad tiene explicación; rechazarlo lleva al hecho bruto."
+    },
+    {
+      "title": "Hecho bruto",
+      "description": "El universo «simplemente está» sin explicación (Russell, ateísmo duro)."
+    },
+    {
+      "title": "Creación ex nihilo",
+      "description": "Doctrina teológica: Dios crea sin materia previa; habilita la nada absoluta."
+    },
+    {
+      "title": "Vacío cuántico",
+      "description": "Estado físico con fluctuaciones; no es «nada» filosófica (debate Krauss)."
+    },
+    {
+      "title": "Multiverso",
+      "description": "Infinitos universos o ramas cuánticas; explica fine-tuning, no el ser en sí."
+    },
+    {
+      "title": "Ser necesario",
+      "description": "Dios o estructura que no puede no existir (controvertido tras Hume/Kant)."
+    },
+    {
+      "title": "Principio antrópico",
+      "description": "Observador requiere condiciones compatibles con vida; versión fuerte/floja."
+    }
+  ],
+  "highlight": "El misterio de la existencia no es pseudo-problema ni trivia: es el límite donde ciencia, filosofía y experiencia vital convergen.",
+  "entries": [
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Prueba rápida para gente ocupada",
+      "text": "Jim Holt ofrece una «demostración» condensada: si no hubiera nada, no habría leyes. Sin leyes, todo estaría permitido. Si todo estuviera permitido, nada estaría prohibido, y entonces la nada se prohíbe a sí misma. Por tanto, debe haber algo. QED, con la ironía que marca todo el libro."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Prueba rápida para gente ocupada",
+      "text": "El misterio de la existencia puede burlarse con lógica ingeniosa, pero la pregunta seria permanece intacta."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Enfrentar el misterio",
+      "text": "Holt recuerda cuando, adolescente en Virginia, leyó a Heidegger y tropezó con la pregunta: ¿por qué hay algo en lugar de nada? Criado en catolicismo, había recibido la respuesta «Dios lo creó de la nada». Al cuestionar el credo, el enigma resurgió con fuerza pura."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Enfrentar el misterio",
+      "text": "Los ateos modernos ( Dawkins , Hitchens ) se muestran incómodos ante la pregunta. Hawking propone un universo sin frontera que no requiere creador, pero pregunta qué «insufla fuego» a las ecuaciones. La ciencia explica estados previos, pero cualquier causa física es parte del universo a explicar. Eso abre el riesgo de circularidad."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Enfrentar el misterio",
+      "text": "Los teístas invocan el argumento como metacientífico. Holt explora alternativas: hecho bruto, eternidad del mundo, entidades matemáticas platónicas. El Principio de razón suficiente de Leibniz exige explicación para todo. Lovejoy temía un mundo irracional sin estabilidad."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Enfrentar el misterio",
+      "text": "«Todos somos mendigos aquí.»"
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Enfrentar el misterio",
+      "text": "Holt inicia una investigación periodística: entrevistar a las mentes más audaces sobre el enigma último."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Interludio: ¿Un hacker creó nuestro mundo?",
+      "text": "Andrei Linde , padre de la inflación caótica, explica que bastaría una fracción minúscula de materia para inflar un universo: la gravedad negativa «crea» toda la materia. En principio, una civilización avanzada podría fabricar un universo en laboratorio."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Interludio: ¿Un hacker creó nuestro mundo?",
+      "text": "El universo hijo se curvaría sobre sí mismo, invisible desde fuera. Un creador no podría enviar mensajes legibles: la inflación los estiraría exponencialmente. Solo las constantes físicas del «huevo» cósmico podrían codificar una señal para físicos futuros."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Interludio: ¿Un hacker creó nuestro mundo?",
+      "text": "Linde, con humor sombrío, sugiere que nuestro cosmos podría haber sido creado por un físico hacker incompetente —no un dios omnisciente. La moraleja: no asumir que un creador sería divino en el sentido tradicional."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Interludio: ¿Un hacker creó nuestro mundo?",
+      "text": "Crear un universo podría ser mucho más barato —y más fallible— de lo que imagina la teología clásica."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Panorama filosófico",
+      "text": "William James llamó a la pregunta «la más oscura de la filosofía». Wittgenstein declaró que el enigma no existe ( Tractatus 6.5). Heidegger la llamó la más fundamental. Los griegos no preguntaron por la nada absoluta: siempre hubo materia primordial caótica."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Panorama filosófico",
+      "text": "La creación ex nihilo cristiana hizo concebible la nada absoluta. Leibniz ( 1714 ) formuló explícitamente la pregunta y respondió con Dios como ser necesario. Hume y Kant atacaron la noción de ser necesario: nada existe por pura lógica, ni siquiera Dios."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Panorama filosófico",
+      "text": "Bergson consideró la pregunta un pseudo-problema. Ayer la desestimó en el debate con el jesuita Copleston . Russell sostuvo que «el universo simplemente está ahí». Lemaître ( 1927 ) y Hubble mostraron después un cosmos con principio temporal, y eso reabrió el misterio."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Panorama filosófico",
+      "text": "La pregunta es moderna en su forma pura: requiere la nada como alternativa real, no solo caos primordial."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Interludio: La aritmética de la nada",
+      "text": "Las matemáticas tienen nombre para la nada: cero ( śūnya , vacío). Griegos y romanos no lo concebían como número. Sin notación posicional, multiplicar con números romanos era infernal."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Interludio: La aritmética de la nada",
+      "text": "El cero indio permitió aritmética moderna, pero también conceptualizar el vacío matemático. La nada física y la nada matemática son primas lejanas: confundirlas es error frecuente en debates cosmológicos."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Interludio: La aritmética de la nada",
+      "text": "«Nada» en física (vacío cuántico, ausencia de partículas) no es lo mismo que «nada» en filosofía (ausencia total de ser)."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Breve historia de la nada",
+      "text": "Desde Coleridge , cuando el niño Hartley imaginaba un mundo sin cosas, hasta poetas como Rochester , Occidente ha fantaseado con la nada. Macbeth dice: «Nada es, sino lo que no es.»"
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Breve historia de la nada",
+      "text": "Holt recorre teólogos, místicos y físicos que hablaron de vacío: el vacío cuántico no es ausencia total —tiene energía y fluctuaciones. La nada medieval (privación de ser) difiere de la nada de la física de partículas."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Breve historia de la nada",
+      "text": "Heidegger distinguió Nichtung (negación) de simple ausencia. La historia de la nada es historia de cómo el lenguaje falla al borde del ser."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Breve historia de la nada",
+      "text": "Cada época proyecta en «la nada» sus miedos metafísicos y sus modelos científicos del vacío."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "El gran rechazador",
+      "text": "Adolf Grünbaum , filósofo de la ciencia en Pittsburgh, escribe a Holt para decirle que no hay misterio de la existencia. Después de la reseña de Holt sobre Dawkins , Grünbaum, máxima autoridad en espacio-tiempo, rechaza que la pregunta sea legítima."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "El gran rechazador",
+      "text": "Para Grünbaum, preguntar «por qué hay un universo» presupone que la nada es el estado natural y la existencia requiere explicación. Pero si no hay nada sin leyes físicas, la nada no es un candidato real. El Big Bang no surgió «de la nada» en sentido filosófico, sino de un régimen cuántico."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "El gran rechazador",
+      "text": "Holt confronta al «gran rechazador»: si disolver la pregunta es victoria filosófica o evasión. Grünbaum representa la tradición que reduce el misterio a mal planteamiento lingüístico."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "El gran rechazador",
+      "text": "Grünbaum niega que exista un misterio genuino: la pregunta confunde tipos de «nada»."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "¿Finito o infinito?",
+      "text": "Nuestro universo tiene unos 14 mil millones de años —un recién llegado frente al cosmos eterno de los antiguos. Puede terminar en Big Crunch o enfríamiento eterno. Esa finitud temporal hace la existencia más contingente, no menos."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "¿Finito o infinito?",
+      "text": "Un cosmos eterno parecería más seguro ontológicamente. La cosmología moderna combinó principio temporal con contingencia: el universo podría no haber existido, o haber sido de otro modo."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "¿Finito o infinito?",
+      "text": "La tensión entre universo finito y multiverso eterno alimenta el resto del libro: ¿la explicación está en el origen o en la abundancia de mundos?"
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "¿Finito o infinito?",
+      "text": "Un cosmos con principio (y quizá fin) reaviva la urgencia de la pregunta por qué hay algo."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Interludio: Pensamientos nocturnos en el Café de Flore",
+      "text": "En el Café de Flore parisino, Holt conversa con Jimmy Douglas, voluptuoso superviviente de excesos. El café, Sartre y la existencia parisina enmarcan la investigación como novela intelectual."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Interludio: Pensamientos nocturnos en el Café de Flore",
+      "text": "Douglas encarna una respuesta estética-existencial: la abundancia del ser se celebra sin prueba lógica. Holt bebe una infusión herbal que «fortalece el hígado» mientras la noche cae sobre Saint-Germain."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Interludio: Pensamientos nocturnos en el Café de Flore",
+      "text": "Interludio literario: el misterio también se vive en bares, no solo en aulas."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "El teísta inductivo del norte de Oxford",
+      "text": "Richard Swinburne , filósofo anglicano en Oxford, defiende el teísmo con probabilidad bayesiana: dado que hay un universo ordenado, es más probable que Dios exista que que surja por azar."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "El teísta inductivo del norte de Oxford",
+      "text": "Swinburne argumenta que Dios es la explicación más simple y unificada: una mente sin cuerpo, libre, omnipotente y perfectamente buena. La contingencia del mundo apunta a causa necesaria personal."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "El teísta inductivo del norte de Oxford",
+      "text": "Holt pregunta por el mal y la complejidad de Dios. Swinburne concede que la existencia divina es improbable a priori, pero sostiene que la evidencia del cosmos la hace más probable que alternativas."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "El teísta inductivo del norte de Oxford",
+      "text": "El teísmo inductivo ofrece Dios como mejor hipótesis explicativa, no como demostración deductiva."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Interludio: El hecho bruto supremo",
+      "text": "Swinburne explica el mundo con Dios, pero Dios mismo parece un hecho bruto vastamente improbable comparado con la simplicidad de la nada. ¿Es esto lo mejor del teísmo?"
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Interludio: El hecho bruto supremo",
+      "text": "La tradición teológica responde con causa sui , aseidad y ser necesario: Dios contiene en su esencia la razón de su existencia. Aquino y Anselmo ofrecen vías distintas hacia lo necesario."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Interludio: El hecho bruto supremo",
+      "text": "Holt examina si «necesario» es truco ontológico o insight profundo. La nada, paradójicamente, parece más simple que un Dios repleto de perfecciones infinitas."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Interludio: El hecho bruto supremo",
+      "text": "Explicar el universo con Dios puede solo desplazar el misterio un nivel arriba."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "El mago del multiverso",
+      "text": "David Deutsch , pionero de la computación cuántica, cree que la realidad es en principio totalmente comprensible. Su multiverso cuántico elimina la contingencia: todo lo posible sucede."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "El mago del multiverso",
+      "text": "Para Deutsch, la física no termina en hecho bruto: las explicaciones buenas son difíciles de variar. El universo que observamos es una rama entre infinitas en la interpretación de muchos mundos."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "El mago del multiverso",
+      "text": "Holt pregunta si el multiverso explica por qué hay algo o solo postula «mucho más algo». Deutsch responde que la pregunta mal formulada asume que la nada era opción coherente."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "El mago del multiverso",
+      "text": "Deutsch convierte el misterio en abundancia: realidad = multiverso de estructuras matemáticas consistentes."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Interludio: El fin de la explicación",
+      "text": "La anécdota de Russell y la tortuga infinita: ¿explicaciones «tortugas hasta el fondo» o fundamento final? Deutsch acepta regresos infinitos de explicación —no bedrock absoluto."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Interludio: El fin de la explicación",
+      "text": "Si cada nivel exige otro, la cadena nunca cierra. Holt contrasta el anhelo leibniziano de razón suficiente última con el realismo de explicación sin fondo."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Interludio: El fin de la explicación",
+      "text": "¿La ciencia moderna renuncia a la explicación última o solo a la explicación teológica?"
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "¿El almuerzo gratis definitivo?",
+      "text": "Lawrence Krauss (y antes Allan Sandage ) sostienen que la ciencia puede responder por qué hay algo: el vacío cuántico inestable produce universos. «Universo de la nada» = fluctuación sin costo material previo."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "¿El almuerzo gratis definitivo?",
+      "text": "Holt cuestiona si el vacío cuántico es verdaderamente «nada» o un estado físico con leyes ya dadas. Crear un universo «gratis» requiere asumir mecánica cuántica, gravedad y energía oscura —no es partir de cero absoluto."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "¿El almuerzo gratis definitivo?",
+      "text": "La frontera entre cosmología y metafísica se desdibuja. Los físicos ofrecen historias causales. Los filósofos piden por qué hay leyes que permiten el salto."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "¿El almuerzo gratis definitivo?",
+      "text": "El «universo de la nada» física no es la nada filosófica que Leibniz tenía en mente."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "Interludio: Náusea",
+      "text": "Holt llega a Austin, Texas, en calor húmedo. La ciudad bulle con música. Recuerda a Sartre y la Náusea : la existencia gratuita, el roble que sangra, el absurdo del de más."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "Interludio: Náusea",
+      "text": "La experiencia existencial de Sartre muestra que el ser no tiene razón. Eso contrasta con la búsqueda de Holt por una razón lógica. A veces el misterio se siente en el estómago, no en ecuaciones."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "Interludio: Náusea",
+      "text": "Sartre personifica la intuición de que el ser es contingente y nauseabundo, no necesario."
+    },
+    {
+      "sectionId": "cap15",
+      "sectionTitle": "Esperando la teoría final",
+      "text": "Steven Weinberg , Nobel de física, es escéptico pero fascinado. Una «teoría final» unificaría fuerzas, pero incluso entonces quedaría la pregunta de Hawking: por qué hay ecuaciones que describen un mundo."
+    },
+    {
+      "sectionId": "cap15",
+      "sectionTitle": "Esperando la teoría final",
+      "text": "Weinberg acepta que la pregunta puede ser legítima aunque la física no la resuelva pronto. El multiverso, para él, es posibilidad seria aunque no demostrada."
+    },
+    {
+      "sectionId": "cap15",
+      "sectionTitle": "Esperando la teoría final",
+      "text": "Holt contrasta el optimismo técnico con la humildad ante el misterio residual: incluso con teoría final, «algo» sigue siendo más que «nada»."
+    },
+    {
+      "sectionId": "cap15",
+      "sectionTitle": "Esperando la teoría final",
+      "text": "Weinberg encarna la ciencia que avanza sin prometer resolver el enigma último."
+    },
+    {
+      "sectionId": "cap16",
+      "sectionTitle": "Interludio: Una palabra sobre muchos mundos",
+      "text": "Si un mundo es misterioso, ¿qué decir de infinitos? El multiverso añade «¿por qué tanto?» a «¿por qué algo?». Weinberg y Deutsch lo encuentran natural. Holt sospecha que multiplica enigmas."
+    },
+    {
+      "sectionId": "cap16",
+      "sectionTitle": "Interludio: Una palabra sobre muchos mundos",
+      "text": "La hipótesis de muchos mundos puede hacer la existencia de nuestro cosmos menos improbable (principio antrópico), pero no explica por qué hay realidad en absoluto."
+    },
+    {
+      "sectionId": "cap16",
+      "sectionTitle": "Interludio: Una palabra sobre muchos mundos",
+      "text": "Más mundos no equivalen automáticamente a mejor explicación del ser."
+    },
+    {
+      "sectionId": "cap17",
+      "sectionTitle": "Reflexiones platónicas",
+      "text": "Pitágoras y el platonismo matemático: ¿el mundo está hecho de números? Hoy muchos matemáticos son platonistas: los objetos matemáticos existen independientemente de mentes."
+    },
+    {
+      "sectionId": "cap17",
+      "sectionTitle": "Reflexiones platónicas",
+      "text": "Holt explora si las estructuras matemáticas podrían explicar la existencia sin Dios. Si el universo es modelo matemático consistente, ¿por qué este y no otros?"
+    },
+    {
+      "sectionId": "cap17",
+      "sectionTitle": "Reflexiones platónicas",
+      "text": "El platonismo explica abundancia de formas, no por qué hay instanciación física. Pope burló el vuelo de misterio a matemáticas: «en vano miran, se marean, deliran y mueren»."
+    },
+    {
+      "sectionId": "cap17",
+      "sectionTitle": "Reflexiones platónicas",
+      "text": "Las matemáticas describen posibilidades; el salto a existencia concreta sigue sin resolver."
+    },
+    {
+      "sectionId": "cap18",
+      "sectionTitle": "Interludio: It from bit",
+      "text": "El platonismo no resolvió la explicación última, y Holt revisa el hylomorfismo aristotélico: realidad = materia + forma. Wheeler propuso «it from bit»: la física surge de información."
+    },
+    {
+      "sectionId": "cap18",
+      "sectionTitle": "Interludio: It from bit",
+      "text": "Si la realidad fundamental es informacional, ¿la pregunta se convierte en por qué hay bits? Estructura sin sustancia sigue siendo «algo»."
+    },
+    {
+      "sectionId": "cap18",
+      "sectionTitle": "Interludio: It from bit",
+      "text": "Reducir el mundo a información desplaza el misterio, no lo elimina."
+    },
+    {
+      "sectionId": "cap19",
+      "sectionTitle": "«La exigencia ética de que haya algo»",
+      "text": "John Leslie defiende el principio antrópico ético: es bueno que exista algo. La bondad requiere que haya un mundo. Descubrió después que Platón había sugerido algo similar."
+    },
+    {
+      "sectionId": "cap19",
+      "sectionTitle": "«La exigencia ética de que haya algo»",
+      "text": "Leslie postula que la existencia es metaéticamente necesaria: un universo vacío sería desperdicio de posibilidad consciente. Los universos existen porque «deben» en sentido axiológico."
+    },
+    {
+      "sectionId": "cap19",
+      "sectionTitle": "«La exigencia ética de que haya algo»",
+      "text": "Holt encuentra la idea poética pero difícil de distinguir de deseo proyectado en el cosmos. ¿La bondad puede obligar al ser?"
+    },
+    {
+      "sectionId": "cap19",
+      "sectionTitle": "«La exigencia ética de que haya algo»",
+      "text": "Leslie invierte la pregunta: no por qué hay algo, sino por qué la bondad exigiría que lo hubiera."
+    },
+    {
+      "sectionId": "cap20",
+      "sectionTitle": "Interludio: Un hegeliano en París",
+      "text": "De nuevo en el Café de Flore, Holt lee a Hegel , que escribe: «El ser puro hace el comienzo.» La dialéctica ser-nada-devenir funciona como respuesta histórica al enigma."
+    },
+    {
+      "sectionId": "cap20",
+      "sectionTitle": "Interludio: Un hegeliano en París",
+      "text": "Hegel disuelve la oposición estática entre ser y nada en devenir. Holt, escéptico, ve prosa oscura donde otros ven síntesis profunda."
+    },
+    {
+      "sectionId": "cap20",
+      "sectionTitle": "Interludio: Un hegeliano en París",
+      "text": "El idealismo alemán ofrece proceso en lugar de fundamento: el ser «se despliega», no se explica desde fuera."
+    },
+    {
+      "sectionId": "cap21",
+      "sectionTitle": "La última palabra desde All Souls",
+      "text": "En el College of All Souls, Oxford, Holt visita a Derek Parfit , quien llama a la pregunta «la más sublime». Parfit trabajó décadas en identidad personal y razones prácticas."
+    },
+    {
+      "sectionId": "cap21",
+      "sectionTitle": "La última palabra desde All Souls",
+      "text": "Parfit explora si el universo podría existir porque su existencia es «lo mejor» o porque no hay alternativa coherente a la totalidad de hechos. Su pensamiento combina rigor analítico con audacia metafísica."
+    },
+    {
+      "sectionId": "cap21",
+      "sectionTitle": "La última palabra desde All Souls",
+      "text": "Holt esperaba una respuesta definitiva. Recibe en cambio clarificación de cómo formular la pregunta sin caer en pseudo-problemas ni teología fácil."
+    },
+    {
+      "sectionId": "cap21",
+      "sectionTitle": "La última palabra desde All Souls",
+      "text": "Parfit no cierra el caso, pero eleva el estándar de qué contaría como respuesta satisfactoria."
+    },
+    {
+      "sectionId": "cap22",
+      "sectionTitle": "Interludio epistolar: La prueba",
+      "text": "Holt escribe a Parfit proponiendo una «prueba» basada en el Principio de razón suficiente y la imposibilidad de autóexplicación: la realidad debe tener forma general de «mediocridad infinita», no máxima ni mínima."
+    },
+    {
+      "sectionId": "cap22",
+      "sectionTitle": "Interludio epistolar: La prueba",
+      "text": "La carta es ejercicio intelectual: si toda verdad tiene explicación y ninguna se explica a sí misma, la estructura del todo está constreñida. Holt se maravilla de su propia audacia —y de su fragilidad."
+    },
+    {
+      "sectionId": "cap22",
+      "sectionTitle": "Interludio epistolar: La prueba",
+      "text": "La prueba holtiana es tentativa lúdica-seria: muestra el seductor poder de la deducción metafísica."
+    },
+    {
+      "sectionId": "cap23",
+      "sectionTitle": "El mundo como un poco de verso ligero",
+      "text": "John Updike responde con una postal densa: la existencia es «un poco de verso ligero» en el vacío. El novelista ve el cosmos con asombro lúdico, no con ansiedad lógica."
+    },
+    {
+      "sectionId": "cap23",
+      "sectionTitle": "El mundo como un poco de verso ligero",
+      "text": "Updike, religioso de tinte teológico-literario, no necesita demostración: la abundancia del ser es gracia. Holt contrasta la prosa del físico con la metáfora del poeta."
+    },
+    {
+      "sectionId": "cap23",
+      "sectionTitle": "El mundo como un poco de verso ligero",
+      "text": "La existencia del mundo es absurda y gratuita —y por eso luminosa."
+    },
+    {
+      "sectionId": "cap23",
+      "sectionTitle": "El mundo como un poco de verso ligero",
+      "text": "Updike ofrece respuesta estético-religiosa: el mundo existe como don, no como teorema."
+    },
+    {
+      "sectionId": "cap24",
+      "sectionTitle": "El yo: ¿existo realmente?",
+      "text": "Holt pensó tener la respuesta con su «prueba», estilo Spinoza. El capítulo examina al observador: Descartes dudó de todo excepto del yo pensante. ¿Es el «yo» entidad firme o ilusión narrativa?"
+    },
+    {
+      "sectionId": "cap24",
+      "sectionTitle": "El yo: ¿existo realmente?",
+      "text": "La neurociencia y la filosofía de Parfit socavan el yo sustancial. Si no hay yo último, ¿quién hace la pregunta «por qué hay algo»? Holt conecta misterio cosmológico con misterio de la autoconciencia."
+    },
+    {
+      "sectionId": "cap24",
+      "sectionTitle": "El yo: ¿existo realmente?",
+      "text": "La prueba holtiana podría ser válida en abstracto pero dejar intacta la experiencia del preguntador finito que teme la muerte."
+    },
+    {
+      "sectionId": "cap24",
+      "sectionTitle": "El yo: ¿existo realmente?",
+      "text": "El enigma del ser y el enigma del yo se entrelazan: ambos resisten resolución completa."
+    },
+    {
+      "sectionId": "cap25",
+      "sectionTitle": "Retorno a la nada",
+      "text": "Schopenhauer escribió que el individuo surge de la nada, vive un instante y vuelve a la nada, y el corazón se rebela. Holt contempla la muerte personal como espejo de la pregunta cosmológica."
+    },
+    {
+      "sectionId": "cap25",
+      "sectionTitle": "Retorno a la nada",
+      "text": "Freud y Goethe no podían imaginar su propia muerte. La asimetría define la condición humana: nacimiento contingente, muerte necesaria. La nada personal acecha tras la fiesta del ser."
+    },
+    {
+      "sectionId": "cap25",
+      "sectionTitle": "Retorno a la nada",
+      "text": "Holt no concluye con triunfo del ateísmo ni del teísmo, sino con aceptación parcial del misterio. Preferiría un universo con sentido, pero la inteligencia debe seguir la evidencia."
+    },
+    {
+      "sectionId": "cap25",
+      "sectionTitle": "Retorno a la nada",
+      "text": "La pregunta por el cosmos es también pregunta por nuestro breve paréntesis de existencia."
+    },
+    {
+      "sectionId": "cap26",
+      "sectionTitle": "Epílogo: Sobre el Sena",
+      "text": "París, fin de milenio. Fiesta por el nonagésimo cumpleaños de Claude Lévi-Strauss en el Collège de France. Holt sube por la Rue Saint-Jacques hacia el Sena."
+    },
+    {
+      "sectionId": "cap26",
+      "sectionTitle": "Epílogo: Sobre el Sena",
+      "text": "Entre Place Maubert y el río, la ciudad continúa, como el universo, sin garantía de sentido último. La investigación termina sin cierre policial: el detective existencial sigue con la pregunta abierta."
+    },
+    {
+      "sectionId": "cap26",
+      "sectionTitle": "Epílogo: Sobre el Sena",
+      "text": "Lévi-Strauss, antropólogo del mito y la estructura, representa otra forma de honrar el misterio: narrarlo, no liquidarlo."
+    },
+    {
+      "sectionId": "cap26",
+      "sectionTitle": "Epílogo: Sobre el Sena",
+      "text": "El libro cierra donde empezó la filosofía occidental: con asombro ante el hecho simple de que haya un mundo."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Holt recorre teísmo, ateísmo, platonismo, multiverso y poesía sin coronar un vencedor."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La pregunta «¿por qué hay algo?» sobrevive a cada respuesta propuesta."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Cada entrevistado ilumina un ángulo; ninguno posee la clave completa."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Somos criaturas finitas preguntando por el todo —y eso ya es parte de la respuesta."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "El detective existencial cierra el expediente, pero el caso permanece abierto."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "El misterio de la existencia no es pseudo-problema ni trivia: es el límite donde ciencia, filosofía y experiencia vital convergen."
+    }
+  ]
+}

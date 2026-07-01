@@ -26,6 +26,8 @@ function versionJsonPlugin(version: string): Plugin {
 }
 
 export default defineConfig(({ mode }) => {
+  // VITE_SITE_URL: URL pública absoluta del deploy (og:url, og:image, sitemap).
+  // VITE_BASE_PATH: subruta del hosting (p. ej. /memorable-summaries/ en GitHub Pages).
   const base = process.env.VITE_BASE_PATH || '/'
   const version = buildVersion()
   const navigateFallback =

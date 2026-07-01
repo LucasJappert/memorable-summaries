@@ -1,11 +1,12 @@
 {
   "name": "memorable-summaries",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.2.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vue-tsc -b && vite build",
+    "build": "vue-tsc -b && python3 scripts/build-corpus-index.py && tsx scripts/generate-sitemap.mjs && vite build && tsx scripts/generate-seo-html.mjs",
+    "build:corpus": "python3 scripts/build-corpus-index.py",
     "preview": "vite preview",
     "regenerate:books": "tsx scripts/regenerate-books.ts",
     "md-to-ts": "python3 scripts/md-to-ts.py",

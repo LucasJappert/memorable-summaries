@@ -1,0 +1,304 @@
+{
+  "slug": "why-evolution-is-true",
+  "title": "Por qué la evolución es verdad",
+  "concepts": [
+    {
+      "title": "Evolución",
+      "description": "Cambio genético en poblaciones a través del tiempo; descendencia con modificación."
+    },
+    {
+      "title": "Selección natural",
+      "description": "Diferencial de supervivencia/reproducción por variación heredable; esculpe adaptaciones."
+    },
+    {
+      "title": "Especiación",
+      "description": "Formación de nuevas especies por barreras al flujo génico entre poblaciones."
+    },
+    {
+      "title": "Ascendencia común",
+      "description": "Todos los organismos comparten ancestros; árboles filogenéticos lo documentan."
+    },
+    {
+      "title": "Gradualismo",
+      "description": "Cambios evolutivos grandes acumulan muchas generaciones de cambio pequeño."
+    },
+    {
+      "title": "Órgano vestigial",
+      "description": "Rasgo heredado con función ancestral distinta de la actual."
+    },
+    {
+      "title": "Biogeografía",
+      "description": "Distribución geográfica de especies como registro de historia evolutiva."
+    },
+    {
+      "title": "Deriva génica",
+      "description": "Cambio aleatorio de frecuencias génicas, especialmente en poblaciones pequeñas."
+    },
+    {
+      "title": "Rey Rojo",
+      "description": "Hipótesis: el sexo ayuda a mantener ventaja en carrera evolutiva contra parásitos."
+    },
+    {
+      "title": "Palimpsesto evolutivo",
+      "description": "Capas de historia legibles en ADN, anatomía y desarrollo embrionario."
+    }
+  ],
+  "highlight": "La evolución es verdad tan cierta como la gravedad",
+  "entries": [
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Dover, Kitzmiller y la evidencia",
+      "text": "El 20 de diciembre de 2005 , el juez John Jones III falló en *Kitzmiller v. Dover*: el «diseño inteligente» en las escuelas de Pensilvania era inconstitucional — teología disfrazada de ciencia, no ciencia. Coyne lo vivió como victoria temporal: el creacionismo es como un payaso inflable que siempre vuelve a levantarse."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Dover, Kitzmiller y la evidencia",
+      "text": "El mantra de los opositores, «la teoría de la evolución está en crisis», es falso. La evolución no es solo una «teoría»: es un hecho respaldado por un siglo y medio de evidencia que confirma la propuesta darwiniana, especialmente la selección natural. Este libro resume las líneas principales de prueba para quienes dudan o necesitan argumentos."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Dover, Kitzmiller y la evidencia",
+      "text": "En la introducción, Coyne recuerda a Darwin . Según él, la evolución muestra nuestro lugar en el árbol de la vida y reemplaza mitos milenarios. La selección natural es un mecanismo de belleza asombrosa y simplicidad. Los biólogos confían en el darwinismo tanto como en la existencia de átomos, pero fuera de la ciencia persisten resistencias psicológicas y religiosas."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Dover, Kitzmiller y la evidencia",
+      "text": "«Hay grandeza en esta visión de la vida... de tan simple un principio han continuado y continúan evolucionando formas infinitas, las más hermosas y maravillosas.»"
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Dover, Kitzmiller y la evidencia",
+      "text": "Coyne escribe para quienes aceptan la evolución pero no saben cómo defenderla — y para mostrar que el darwinismo es hecho científico , no especulación en crisis."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "¿Qué es la evolución?",
+      "text": "La naturaleza parece diseñada: camaleones, colibríes, orquídeas que engañan a polinizadores. William Paley ( 1802 ) argumentó que, como un reloj implica relojero, la complejidad biológica implica un Diseñador. Darwin ofreció la alternativa: evolución y selección natural ."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "¿Qué es la evolución?",
+      "text": "La evolución moderna se resume en seis componentes: cambio genético en el tiempo, gradualismo (cambios grandes requieren miles o millones de generaciones), especiación (linajes que dejan de intercambiar genes), ascendencia común (todos compartimos ancestros), selección natural como mecanismo principal, y otros mecanismos menores como la deriva génica."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "¿Qué es la evolución?",
+      "text": "Los árboles filogenéticos muestran relaciones anidadas: los vertebrados comparten columna, los reptiles y mamíferos comparten huevo amniótico, y los mamíferos tienen pelo y leche. Esta jerarquía natural predató a Darwin, quien explicó por qué existe: la divergencia por descendencia con modificación."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "¿Qué es la evolución?",
+      "text": "«Darwinismo» no es dogma: es el conjunto de hechos y mecanismos — evolución, gradualismo, especiación, ancestro común y selección natural."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Escrito en las rocas",
+      "text": "La historia de la vida está escrita en fósiles — un museo desgarrado pero legible. Paleontólogos como Paul Sereno arriesgan el Sahara para descubrir especies como *Afrovenator* y *Jobaria* que reescriben la evolución de dinosaurios."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Escrito en las rocas",
+      "text": "Formarse fósiles requiere enterramiento rápido en sedimentos, y los tejidos blandos casi nunca fossilizan. De entre 17 millones y 4 mil millones de especies estimadas, conocemos ~ 250.000 fósiles, una muestra pequeña pero suficiente. Geólogos creacionistas ordenaron capas por superposición ( Nicolaus Steno , s. XVII) antes del darwinismo."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Escrito en las rocas",
+      "text": "Desde ~ 1945 , la datación radiométrica mide edades absolutas. La secuencia confirma predicciones evolutivas: especies más primitivas en capas más antiguas, transiciones como dinosaurios emplumados entre reptiles y aves, y fósiles que combinan rasgos de grupos hoy separados."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Escrito en las rocas",
+      "text": "Los fósiles no son prueba circunstancial: son predicciones cumplidas del árbol evolutivo, datadas con precisión radiométrica."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Vestigios: remanentes, embriones y mal diseño",
+      "text": "Los organismos son palimpsestos evolutivos, como manuscritos medievales reescritos donde trazas del texto original persisten. Theodosius Dobzhansky resumió la idea: «Nada en biología tiene sentido excepto a la luz de la evolución.»"
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Vestigios: remanentes, embriones y mal diseño",
+      "text": "Los órganos vestigiales son rasgos que perdieron la función para la cual evolucionaron: alas de avestruz (útiles pero reveladoras de ancestros voladores), apéndice, pelos erector pili. Un rasgo puede ser vestigial y funcional a la vez — lo vestigial indica la función ancestral, no ausencia de uso actual."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Vestigios: remanentes, embriones y mal diseño",
+      "text": "Los atavismos reactivan genes antiguos silenciados. El desarrollo embrionario muestra fases compartidas entre especies emparentadas. El «mal diseño» (nervio laríngeo recurrente, espalda dolorosa humana) encaja con historia evolutiva, no con diseño óptimo de novo."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Vestigios: remanentes, embriones y mal diseño",
+      "text": "**Palimpsesto** — Capas de historia evolutiva legibles en anatomía, ADN y desarrollo."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Vestigios: remanentes, embriones y mal diseño",
+      "text": "**Vestigio** — Rasgo heredado cuya función original ya no aplica, aunque pueda tener usos secundarios."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Vestigios: remanentes, embriones y mal diseño",
+      "text": "**Atavismo** — Expresión ocasional de rasgo ancestral (ej. cetáceos con patas)."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Vestigios: remanentes, embriones y mal diseño",
+      "text": "Los vestigios refutan el diseño inteligente optimizado: muestran historia , no creación instantánea perfeccionada."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "La geografía de la vida",
+      "text": "La biogeografía , el estudio de dónde viven las especies, fue crucial para Darwin en las islas Galápagos y en todo su viaje en el *Beagle*. Especies similares habitan regiones próximas, y las islas oceánicas tienen fauna endémica emparentada con continentes vecinos."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "La geografía de la vida",
+      "text": "Los patrones de distribución encajan con dispersión limitada y especiación en aislamiento: marsupiales en Australia, cactáceas en América, lemures en Madagascar. No hay explicación creacionista coherente para por qué un Diseñador pondría especies relacionadas exactamente donde la geología permite dispersión histórica."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "La geografía de la vida",
+      "text": "Fósiles de la misma edad en continentes separados muestran formas emparentadas, lo que prueba conexiones terrestres pasadas (Pangea, puentes de tierra) o dispersión oceánica. La geología y la biología convergen en una narrativa temporal única."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "La geografía de la vida",
+      "text": "La geografía de la vida es un mapa de historia evolutiva : dónde se separaron linajes y cómo dispersaron."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El motor de la evolución",
+      "text": "La selección natural explica adaptaciones asombrosas. El avispón gigante asiático masacra colmenas europeas, pero las abejas nativas de Japón forman una bola caliente a 117 °F y «cocinan» al explorador en 20 minutos ."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El motor de la evolución",
+      "text": "Las abejas europeas, sin historia con el depredador, carecen de defensa, exactamente lo que predice la evolución. Coyne documenta parasitismo manipulador (gusanos que convierten hormigas en «bayas» para pájaros), mimetismo (insectos hoja, orquídeas que imitan insectos) y adaptaciones de depredación especializadas."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El motor de la evolución",
+      "text": "La selección natural no es fuerza consciente: es resultado de variación heredable, superproducción y diferencias en supervivencia/reproducción. Las adaptaciones «malvadas» del parasitismo y las «ingeniosas» del mutualismo son productos del mismo motor."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El motor de la evolución",
+      "text": "La selección natural es el motor que esculpe la complejidad aparentemente diseñada de la naturaleza."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Cómo el sexo impulsa la evolución",
+      "text": "La reproducción sexual parece costosa, porque solo la mitad de los genes pasan y hay que encontrar pareja, pero domina la vida multicelular. ¿Por qué? Porque mezcla genes y permite respuesta rápida a parásitos y cambio ambiental."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Cómo el sexo impulsa la evolución",
+      "text": "Coyne explica hipótesis clásicas: la lotería de Weismann (variabilidad), la hipótesis del Rey Rojo (carrera armamentística con parásitos que evolucionan rápido) y la recombinación que rompe combinaciones de genes deleterios."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Cómo el sexo impulsa la evolución",
+      "text": "El sexo genera variación sobre la cual actúa la selección. Las especies asexuales, privadas de reproducción sexual, acumulan mutaciones deleterias (declive de Muller) y quedan vulnerables a enfermedades. La paradoja del sexo sigue activa, pero la evidencia favorece ventajas evolutivas claras."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Cómo el sexo impulsa la evolución",
+      "text": "El sexo es motor evolutivo porque genera variación genética — materia prima de la selección natural."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "El origen de las especies",
+      "text": "Darwin tituló su libro *El origen de las especies*, pero sin genética no explicó del todo las barreras reproductivas. La comprensión moderna, área de investigación de Coyne, llegó en la década de 1930 ."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "El origen de las especies",
+      "text": "La especiación ocurre cuando poblaciones acumulan diferencias genéticas hasta perder capacidad de intercambiar genes: aislamiento geográfico, selección divergente, incompatibilidad cromosómica. No es un evento dramático visible. Dos poblaciones de reptiles que dejan de cruzarse parecen idénticas al inicio."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "El origen de las especies",
+      "text": "Los modos principales son la especiación alopátrica (poblaciones separadas geográficamente) y la simpátrica (misma área, a menudo por cambio de host o poliploidía en plantas). Más del 99 % de las especies se extingue sin descendientes, y la diversidad actual es fruto de ramificaciones exitosas."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "El origen de las especies",
+      "text": "Especiación = evolución de barreras reproductivas ; explica por qué hay millones de especies en vez de una sola."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "¿Qué hay de nosotros?",
+      "text": "Los humanos no estamos fuera de la evolución. Compartimos ~ 98–99 % del ADN con chimpancés, y los fósiles documentan la transición de *Australopithecus* a *Homo*, con aumento cerebral, bipedestación y uso de herramientas."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "¿Qué hay de nosotros?",
+      "text": "Coyne aborda racionalismo frente a creacionismo humano: no hay «salto» inexplicable en complejidad. Rasgos humanos (lenguaje, moralidad, cultura) tienen precursores animales y bases cerebrales evolutivas. La evolución no dicta ética, y quien saca «somos solo monos» como excusa para inmoralidad comete falacia naturalista."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "¿Qué hay de nosotros?",
+      "text": "La genética poblacional muestra que la raza humana es un continuo genético, no categorías discretas. Somos una especie joven (~ 200.000 – 300.000 años) con poca diversidad genética comparada con otros primates, resultado de cuello de botella y expansión reciente."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "¿Qué hay de nosotros?",
+      "text": "Somos primates evolucionados — producto del mismo proceso documentado en el resto de la vida."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Evolución revisitada",
+      "text": "Coyne cierra reafirmando que la evolución es tan cierta como cualquier hecho científico. No depende de fe, sino de evidencia convergente de fósiles, biogeografía, genética, anatomía comparada y experimentos de laboratorio (por ejemplo, evolución de bacterias resistentes en tiempo real)."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Evolución revisitada",
+      "text": "Los «agujeros» alegados por creacionistas (origen de la vida, detalles de algunas transiciones) no invalidan el núcleo darwiniano. La ciencia progresa llenando vacíos, y el diseño inteligente no predice ni explica nada testeable."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Evolución revisitada",
+      "text": "Aceptar la evolución no elimina sentido ni moral — libera de mitos falsos sobre nuestros orígenes y conecta con el resto del mundo vivo. Darwin tenía razón en la grandiosidad de esta visión de la vida."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Evolución revisitada",
+      "text": "«En resumen, el [descargo de Dover] distingue la evolución como teoría bien establecida de una hipótesis alternativa no testeable basada en religión.»"
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Evolución revisitada",
+      "text": "La evolución no está en crisis: es el marco unificador de la biología, respaldado por evidencia abrumadora y creciente."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La evolución no es una creencia opcional: es hecho científico."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Fósiles, genes, geografía y desarrollo convergen en la misma historia."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La selección natural explica la complejidad sin diseñador."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Entenderla no empobrece la vida humana: revela nuestro parentesco con todo lo vivo."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La resistencia viene de la religión, no de lagunas en la evidencia."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La evolución es verdad tan cierta como la gravedad"
+    }
+  ]
+}
