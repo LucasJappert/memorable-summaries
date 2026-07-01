@@ -1,0 +1,244 @@
+{
+  "slug": "seven-brief-lessons",
+  "title": "Siete breves lecciones de física",
+  "concepts": [
+    {
+      "title": "Relatividad general",
+      "description": "Gravedad = curvatura del espaciotiempo; espacio y campo unificados."
+    },
+    {
+      "title": "Cuantos",
+      "description": "Paquetes discretos de energía; la luz como fotones."
+    },
+    {
+      "title": "Mecánica cuántica",
+      "description": "Probabilidad, saltos y realidad relacional entre interacciones."
+    },
+    {
+      "title": "Modelo Estándar",
+      "description": "Teoría de partículas elementales y fuerzas, excepto gravedad."
+    },
+    {
+      "title": "Materia oscura",
+      "description": "Masa gravitatoria no explicada por partículas conocidas."
+    },
+    {
+      "title": "Gravedad cuántica de bucles",
+      "description": "Espacio granular; tiempo emergente de procesos locales."
+    },
+    {
+      "title": "Entropía",
+      "description": "Desorden estadístico; flecha del tiempo termodinámica."
+    },
+    {
+      "title": "Radiación Hawking",
+      "description": "Agujeros negros emiten calor por efectos cuánticos."
+    },
+    {
+      "title": "Big Bounce",
+      "description": "Posible rebote cósmico previo al Big Bang."
+    },
+    {
+      "title": "Realidad relacional",
+      "description": "Propiedades definidas por interacciones, no por substancias aisladas."
+    }
+  ],
+  "highlight": "La ciencia no nos extrae del mundo: nos muestra de qué estamos hechos",
+  "entries": [
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Siete lecciones para quien no sabe nada",
+      "text": "Estas lecciones están escritas para quienes ignoran casi todo de la ciencia moderna. Juntas ofrecen una panorámica rápida de lo más fascinante de la revolución física de los siglos XX y XXI, y de las preguntas que aún permanecen abiertas."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Siete lecciones para quien no sabe nada",
+      "text": "La primera lección trata la relatividad general de Einstein; la segunda, la mecánica cuántica; la tercera, el cosmos; la cuarta, las partículas elementales; la quinta, la gravedad cuántica; la sexta, la probabilidad y el calor de los agujeros negros; la séptima, nosotros mismos frente a ese mundo."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Siete lecciones para quien no sabe nada",
+      "text": "Son expansiones de artículos publicados en el suplemento dominical del diario italiano Il Sole 24 Ore . Rovelli agradece a Armando Massarenti por abrir las páginas culturales del domingo a la ciencia."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "La teoría más bella (relatividad general)",
+      "text": "En 1905 Einstein envió tres artículos revolucionarios al Annalen der Physik . El tercero presentó la relatividad especial, pero no encajaba con la gravedad newtoniana. Diez años de trabajo culminaron en noviembre de 1915 con la relatividad general , «la teoría más bella» según Lev Landau ."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "La teoría más bella (relatividad general)",
+      "text": "Tras Faraday y Maxwell, Einstein comprendió que la gravedad debe transmitirse por un campo. Su intuición decisiva fue que el campo gravitatorio es el espacio mismo . Newton imaginó un espacio vacío más una fuerza a distancia; Einstein unificó ambos en un espacio que ondula, se curva y se retuerce."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "La teoría más bella (relatividad general)",
+      "text": "Gauss describió superficies curvas y su alumno Riemann generalizó la idea a dimensiones superiores. La curvatura R equivale a la energía de la materia. Las predicciones se verificaron una tras otra: desviación de la luz ( 1919 ), dilatación temporal en altura, agujeros negros, expansión del universo, radiación cósmica de fondo y ondas gravitacionales con una precisión de 1:10¹¹."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "La teoría más bella (relatividad general)",
+      "text": "«El campo gravitatorio no está difundido en el espacio: el campo gravitatorio <em>es</em> ese espacio.»"
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "La teoría más bella (relatividad general)",
+      "text": "Una intuición elemental —espacio = campo gravitatorio— se condensa en una ecuación que predijo un universo más extraño que cualquier ficción."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Quanta (mecánica cuántica)",
+      "text": "La relatividad general es una gema compacta de una sola mente. La mecánica cuántica, en cambio, es un éxito experimental enorme envuelto en misterio. Nació en 1900 cuando Max Planck repartió la energía del campo en «cuantos» para resolver la radiación de cuerpo negro."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Quanta (mecánica cuántica)",
+      "text": "Einstein ( 1905 ) mostró que los cuantos de luz son reales: los fotones . Escribió «Me parece que…», con la misma cautela con que Darwin introdujo la evolución. En Copenhague, Niels Bohr comprendió que los electrones solo pueden ocupar ciertos niveles de energía. Werner Heisenberg fue más radical: el electrón no siempre existe, sino al interactuar, y toda la química sale de una ecuación."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Quanta (mecánica cuántica)",
+      "text": "La probabilidad quedó en el corazón de la física. Einstein nominó a Heisenberg al Nobel, pero rechazó la interpretación: «Dios no juega a los dados». Bohr defendió que la realidad es relacional. Un siglo después seguimos sin acuerdo: ¿realidad indescribible, pista incompleta o interacción como esencia?"
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Quanta (mecánica cuántica)",
+      "text": "La mecánica cuántica no describe qué es un sistema, sino cómo afecta a otro, y funciona demasiado bien para ignorarla."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Arquitectura del cosmos",
+      "text": "Antes de medir, la ciencia es visión. Anaximandro ( ~VI a.C. ) reemplazó «cielo arriba, tierra abajo» por una Tierra flotando en el espacio. Aristóteles y Ptolomeo imaginaron esferas celestes. Copérnico puso el Sol en el centro, y Galileo mostró que el movimiento es relativo."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Arquitectura del cosmos",
+      "text": "El Sol es una estrella entre cien mil millones en la Galaxia, y la Galaxia es un punto entre cientos de miles de millones de galaxias visibles con el telescopio Hubble. La mayoría de esas estrellas tienen planetas: miles de billones de mundos posibles."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Arquitectura del cosmos",
+      "text": "Pero el espacio no es plano. Está curvado , ondulado como el mar, con agujeros negros en su textura. El universo entero emergió de una nube minúscula, caliente y densa hace unos 15 mil millones de años. ¿Qué había antes? ¿Existen otros universos? Aún no lo sabemos."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Arquitectura del cosmos",
+      "text": "Cada salto cosmológico humilló nuestra posición central y, al mismo tiempo, amplió la maravilla."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Partículas (Modelo Estándar)",
+      "text": "Todo lo tangible está hecho de electrones y quarks , nombre que Murray Gell-Mann tomó de Joyce. Los gluones «pegan» quarks dentro de protones y neutrones. Junto con fotones, neutrinos y el bosón de Higgs ( 2013 , CERN), hay menos de diez tipos de ladrillos elementales."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Partículas (Modelo Estándar)",
+      "text": "Las partículas son cuantos de campos cuánticos: no piedras eternas, sino excitaciones efímeras de un vacío que nunca está vacío. El Modelo Estándar (años 1970) predice con precisión extraordinaria lo medido en el laboratorio, aunque parece «parcheado» y la renormalización deja mal sabor."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Partículas (Modelo Estándar)",
+      "text": "Su gran límite es la materia oscura : masa gravitatoria invisible alrededor de las galaxias que no encaja en las partículas conocidas. Teorías elegantes como SU(5) o la supersimetría fallaron en experimentos clave."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Partículas (Modelo Estándar)",
+      "text": "Por ahora el Modelo Estándar es lo mejor que tenemos para la materia: feo quizá, pero extraordinariamente preciso."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Granos de espacio (gravedad cuántica)",
+      "text": "La relatividad general describe un espacio curvo y continuo. La mecánica cuántica exige saltos discretos. Ambas funcionan en su dominio, pero se contradicen. La gravedad cuántica busca la síntesis, como Newton unió caídas y órbitas o Maxwell electricidad y magnetismo."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Granos de espacio (gravedad cuántica)",
+      "text": "La gravedad cuántica de bucles , en la que trabaja Rovelli, propone que el espacio no es continuo sino granular: «átomos de espacio» del orden de 10⁻³³ cm enlazados en redes. El espacio no contiene cosas; es esa red. El tiempo fundamental también desaparece y el cambio es local."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Granos de espacio (gravedad cuántica)",
+      "text": "Las predicciones siguen siendo especulativas: estrellas colapsadas que rebotan como «estrellas de Planck», agujeros negros que explotan en cámara lenta, un posible Big Bounce en lugar de un Big Bang único. Aún no hay verificación experimental directa."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Granos de espacio (gravedad cuántica)",
+      "text": "Espacio y tiempo emergen de interacciones cuánticas, más lejos aún de nuestros instintos que las otras revoluciones."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Probabilidad, tiempo y calor de agujeros negros",
+      "text": "«¿Qué es el calor?» En términos simples, un cuerpo caliente es aquel cuyos átomos se mueven más rápido. El calor siempre fluye de lo caliente a lo frío, y con la fricción aparece la diferencia entre pasado y futuro. Para Ludwig Boltzmann , la entropía es pura probabilidad : es estadísticamente más probable igualar temperaturas."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Probabilidad, tiempo y calor de agujeros negros",
+      "text": "Esa probabilidad clásica, ligada a nuestra ignorancia de los microestados, no es la misma que la cuántica. El «ahora» no existe objetivamente en física: Einstein escribió a la hermana de Besso que pasado, presente y futuro son una ilusión persistente. El flujo del tiempo emerge de la termodinámica y de interacciones limitadas, no de ecuaciones exactas."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Probabilidad, tiempo y calor de agujeros negros",
+      "text": "Stephen Hawking demostró que los agujeros negros tienen temperatura y emiten calor (radiación Hawking), el primer indicio de que el espacio puede comportarse como algo «caliente». Ese hallazgo une cuántica, gravedad y termodinámica, y es una pista central para entender el tiempo."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Probabilidad, tiempo y calor de agujeros negros",
+      "text": "Solo cuando hay intercambio de calor distinguimos pasado de futuro; nuestro reloj interior es estadístico, no fundamental."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Nosotros (cierre reflexivo)",
+      "text": "¿Qué somos en un cosmos de quanta y campos? Observadores que construyen una «fotografía» de la realidad, nodos en una red de intercambio de información, parte integral del mundo y no espectadores externos."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Nosotros (cierre reflexivo)",
+      "text": "Schelling creía al hombre cumbre de la naturaleza; hoy sabemos que somos un rincón remoto, parientes de mariposas y álamos. Kant pensaba categorías universales, pero evolucionan con nuestra especie. La ciencia no es ficción campamental: sigue rastros como nuestros antepasados en la sabana."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Nosotros (cierre reflexivo)",
+      "text": "La libertad no viola las leyes naturales: actuar según procesos neuronales internos. Para Spinoza, el «yo» es el complejo neuronal mismo. La consciencia sigue abierta (Tononi y la teoría de información integrada). Valores, lágrimas y música son reales precisamente por ser naturaleza."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Nosotros (cierre reflexivo)",
+      "text": "«No estamos hechos de algo distinto a la naturaleza; somos naturaleza, en una de sus infinitas variaciones.»"
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Nosotros (cierre reflexivo)",
+      "text": "Conocer el universo cuántico no nos aleja de lo humano: nos sitúa en casa, hechos del mismo polvo estelar."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La física del siglo XX nos regaló dos teorías prodigiosas pero incompatibles."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Relatividad y cuántica redefinieron espacio, tiempo, materia y azar."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Seguimos buscando el lenguaje que las una y qué somos dentro de ese cosmos."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "En el borde del océano de lo desconocido brilla el misterio."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Y eso, dice Rovelli, es lo más hermoso."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La ciencia no nos extrae del mundo: nos muestra de qué estamos hechos"
+    }
+  ]
+}

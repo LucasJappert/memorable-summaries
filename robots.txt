@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lucasjappert.github.io/memorable-summaries/sitemap.xml

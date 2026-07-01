@@ -1,0 +1,351 @@
+{
+  "slug": "determined",
+  "title": "Determinado: Una ciencia de la vida sin libre albedrío",
+  "concepts": [
+    {
+      "title": "Incompatibilismo duro",
+      "description": "Determinismo universal incompatible con libre albedrío y desierto moral."
+    },
+    {
+      "title": "Tortugas",
+      "description": "Metáfora de causas en cadena sin causa flotante."
+    },
+    {
+      "title": "Libet / readiness potential",
+      "description": "Actividad cerebral antes de la sensación de decidir."
+    },
+    {
+      "title": "Grit falso",
+      "description": "Creer que carácter escapa a biología del PFC."
+    },
+    {
+      "title": "Caos determinista",
+      "description": "Impredecible pero causal; no es libertad."
+    },
+    {
+      "title": "Emergencia",
+      "description": "Propiedades nuevas del sistema sin agente libre."
+    },
+    {
+      "title": "Cuarentena",
+      "description": "Modelo penal: contener peligro, no castigar merecidamente."
+    },
+    {
+      "title": "Suerte constitutiva",
+      "description": "Genes, feto, infancia, cultura fuera de control personal."
+    }
+  ],
+  "highlight": "Somos tortugas hasta el fondo; eso no impide cambiar cerebros, leyes ni compasión.",
+  "entries": [
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Tortugas hasta el fondo",
+      "text": "Robert M. Sapolsky abre con la anécdota de William James y la anciana que cree que el mundo descansa sobre tortugas infinitas. Burlarse de ella es fácil. Lo absurdo es creer que alguna tortuga flota sin causa."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Tortugas hasta el fondo",
+      "text": "Cada comportamiento, heroico o vil, tiene causas previas. Van desde las neuronas del segundo anterior hasta pensamientos, hormonas, meses de experiencia, adolescencia, infancia, feto, genes, cultura, ecología y evolución. No hay causa sin causa . Somos «suerte biológica y ambiental acumulada» sobre la que no tuvimos control."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Tortugas hasta el fondo",
+      "text": "Negar libre albedrío implica varias consecuencias. No hay culpa retributiva merecida. El castigo solo sirve para contener peligro. El elogio es herramienta instrumental, no merecimiento. La mayoría cree en libre albedrío cuando importa: filósofos (~ 90 % ), jueces, padres e incluso primates atribuyen más culpa a conductores humanos que a coches autónomos."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Tortugas hasta el fondo",
+      "text": "Ninguna disciplina sola falsifica el libre albedrío; todas juntas no dejan grieta alguna."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Los tres minutos finales de una película",
+      "text": "Una escena nocturna en un aeródromo: un civil dispara a un militar y un policía no lo detiene. Fuera de contexto, la escena parece corrupción y asesinato a sangre fría. Es el final de Casablanca . La intención microscópica no basta para entender la acción."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Los tres minutos finales de una película",
+      "text": "Décadas de estudios libetianos ( Benjamin Libet , 1983 ) muestran potencial de preparación ~ 300 ms antes de sentir decidir. El fMRI llega hasta 10 s antes ( Haynes ). Neuronas individuales predicen con ~ 80 % de precisión ( Itzhak Fried ). Los compatibilistas contraatacan con tareas artificiales, predicción ~ 60 % y el «free won't» como veto."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Los tres minutos finales de una película",
+      "text": "Sapolsky concluye que, aunque Libet no mate el libre albedrío, es irrelevante . Falta la pregunta central: ¿de dónde vino la intención? Podemos hacer lo que intendemos, pero nunca intendemos lo que intendimos. Juzgar solo el presente, como cuando Daniel Dennett dice que «la suerte se promedia con el tiempo», es miopía moral."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Los tres minutos finales de una película",
+      "text": "Estudiar los últimos segundos antes del acto es ver solo el final de la película."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "¿De dónde viene la intención?",
+      "text": "Este capítulo recorre la cadena causal completa: desde estímulos sensoriales y memoria hasta circuitos frontales, historial de estrés, epigenética, genes y cultura. La intención consciente es un epifenómeno tardío en una cascada mucho más larga."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "¿De dónde viene la intención?",
+      "text": "Experimentos de «priming» muestran influencias inconscientes. Por ejemplo, la palabra «ocean» inclina a elegir «Tide». Incluso resistir el priming es estar determinado por reconocerlo. La meta-consciencia no restaura libertad."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "¿De dónde viene la intención?",
+      "text": "El desafío permanece: mostrar una neurona causa de comportamiento independiente de toda biología previa — nadie lo ha hecho."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "¿De dónde viene la intención?",
+      "text": "La intención es el último eslabón visible de una cadena que empezó mucho antes del acto."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Voluntad de hierro: mito del grit",
+      "text": "Algunos compatibilistas postergan libre albedrío al pasado: «tuviste tiempo de convertirte en otra persona». Neil Levy resume esa postura. Sapolsky responde que el was fue alguna vez now , y también estuvo determinado."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Voluntad de hierro: mito del grit",
+      "text": "El mito central separa «lo que te dieron» de «lo que haces con ello» (grit, resistir impulsos). El caso Jerry Sandusky lo ilustra. James Cantor admite que no se elige ser pedófilo, pero sí «elegir no ser abusador». Es un dualismo falso."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Voluntad de hierro: mito del grit",
+      "text": "La corteza prefrontal (PFC) madura hacia mediados de los veinte. Regula impulsos, reglas reversibles y control social. Ambos lados de la tabla, atributos biológicos y «carácter», son biología más entorno."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Voluntad de hierro: mito del grit",
+      "text": "Willpower no es polvo de hadas sobre neuronas: es PFC moldeada por genes y experiencia."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Introducción al caos",
+      "text": "El universo lineal permitía predecir X+1 desde X con error proporcional —base del reduccionismo . Edward Lorenz ( 1963 ) descubrió lo contrario: redondear 0,506127 a 0,506 desvió totalmente el clima simulado."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Introducción al caos",
+      "text": "Tres o más cuerpos interactuando (problema de tres cuerpos) vuelven impredecible el futuro: dependencia sensible de condiciones iniciales y efecto mariposa . Aun así, el sistema es determinista —caótico, no aleatorio."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Introducción al caos",
+      "text": "Automatons celulares (reglas locales tipo Conway) muestran patrones complejos imposibles de predecir reductivamente. No hay libre albedrío en esas grietas."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Introducción al caos",
+      "text": "Caos = determinismo + impredecibilidad práctica, no libertad."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "¿Tu libre albedrío es caótico?",
+      "text": "Algunos buscan libre albedrío en sistemas caóticos biológicos: comportamiento complejo emergente de reglas simples. Sapolsky rechaza la inferencia: impredecibilidad no es autonomía."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "¿Tu libre albedrío es caótico?",
+      "text": "El cerebro puede ser sensible a condiciones iniciales, pero sigue siendo máquina causal. Confundir «no puedo predecir» con «nadie causó» es error lógico repetido en debates filosóficos."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "¿Tu libre albedrío es caótico?",
+      "text": "Caos no inserta un agente libre en la ecuación."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Introducción a la complejidad emergente",
+      "text": "Emergencia : propiedades del conjunto (húmedo, vivo, consciente) que no aparecen en piezas aisladas. Las interacciones no lineales producen patrones nuevos —flocking, mercados, mente."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Introducción a la complejidad emergente",
+      "text": "Michael Gazzaniga y otros compatibilistas ubican la responsabilidad en el «nivel social», no en neuronas. Sapolsky responde que la socialidad también es producto biológico. Declararla libre por convención no la hace causa sui."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Introducción a la complejidad emergente",
+      "text": "Emergencia explica novedad, no exoneración."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "¿Tu libre albedrío emerge?",
+      "text": "Algunos argumentan que la mente «emerge» del cerebro y luego lo controla, un círculo que salvaría agencia. Sapolsky lo considera circular. Los niveles superiores siguen siendo físicos."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "¿Tu libre albedrío emerge?",
+      "text": "Consciencia puede ser necesaria para ciertas conductas flexibles, pero no introduce causalidad acausal. El compatibilismo social repite el truco de cambiar de nivel sin escapar determinismo."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "¿Tu libre albedrío emerge?",
+      "text": "Emerger no es flotar: sigue siendo tortugas."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Introducción a la indeterminación cuántica",
+      "text": "La mecánica cuántica introduce genuina indeterminación en partículas. ¿Rescata libre albedrío? Laplace estaba incompleto. El universo no es billar clásico."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Introducción a la indeterminación cuántica",
+      "text": "Mutaciones por rayos cósmicos ilustran azar en evolución, pero escala subatómica rara vez altera decisiones humanas macroscópicas. Usar cuántica para moral es mezclar niveles de análisis."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Introducción a la indeterminación cuántica",
+      "text": "Indeterminación cuántica ≠ elección responsable."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "¿Tu libre albedrío es aleatorio?",
+      "text": "Si decisiones fueran aleatorias cuánticas, serían suerte, no «yo» eligiendo. Robert Kane propuso «Self-Forming Actions» en momentos de crisis — Sapolsky las disuelve en biología igual que impulsos ordinarios."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "¿Tu libre albedrío es aleatorio?",
+      "text": "Azar y determinismo son las únicas opciones. Ninguna produce el libre albedrío que la gente cree tener."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "¿Tu libre albedrío es aleatorio?",
+      "text": "Randomness no es agency."
+    },
+    {
+      "sectionId": "interlude",
+      "sectionTitle": "Interludio",
+      "text": "Breve pausa narrativa en el libro: diálogo interno («my brain: click them / me: why? / my brain: you gotta») ilustra la dissociación entre impulsos neuronales y narrativa consciente de control."
+    },
+    {
+      "sectionId": "interlude",
+      "sectionTitle": "Interludio",
+      "text": "Refuerza que la voz que cree decidir llega después de procesos subterráneos — tono lúdico antes de preguntar si negar libre albedrío desata el caos social."
+    },
+    {
+      "sectionId": "interlude",
+      "sectionTitle": "Interludio",
+      "text": "La conversación cerebro-yo resume el libro en tres líneas."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "¿Nos descontrolaremos?",
+      "text": "El temor clásico es que, sin libre albedrío, todos «correrían amok». Los estudios de Katherine Vohs muestran que leer a Francis Crick sobre determinismo aumenta trampa, agresión con salsa picante y reduce gratitud. Los efectos son pequeños y la replicación es mixta."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "¿Nos descontrolaremos?",
+      "text": "Meta-análisis 2022 (~ 145 experimentos): manipulaciones reducen creencia en libre albedrío sin efecto consistente en ética. Paralelo con ateísmo: la gente teme inmoralidad atea, pero observando conducta real, diferencias desaparecen al controlar edad, sexo, red social."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "¿Nos descontrolaremos?",
+      "text": "El priming religioso mejora prosocialidad en creyentes. El priming secular («deber cívico») hace lo mismo en ateos. Valores distintos, decencia comparable cuando se activan."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "¿Nos descontrolaremos?",
+      "text": "Negar libre albedrío no convierte automáticamente a la gente en jerks de laboratorio."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Engranajes antiguos: ¿cómo cambia?",
+      "text": "Determinismo no implica estasis: cerebros cambian, comportamientos cambian. Plasticidad, terapia, hormonas, entorno —todo causal, nada libre."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Engranajes antiguos: ¿cómo cambia?",
+      "text": "Sapolsky revisa mecanismos de cambio (extinción, aprendizaje, intervención social) compatibles con incompatibilismo. La pregunta «¿puede cambiar?» es distinta de «¿puede elegir libremente cambiar?»."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Engranajes antiguos: ¿cómo cambia?",
+      "text": "Un mundo determinista puede ser un mundo donde las personas se transforman."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Ya lo hicimos antes",
+      "text": "Precedentes históricos de abandonar ideas morales basadas en fantasía: fin de brujería como crimen real, avances en psiquiatría, abolición progresiva de castigos corporales."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Ya lo hicimos antes",
+      "text": "Las sociedades funcionan sin creer en brujas poseídas. Pueden reorientarse hacia cuarentena médica en lugar de retribución. Ese cambio radical de marco ya ocurrió."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Ya lo hicimos antes",
+      "text": "Rechazar libre albedrío no es sin precedente cultural."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "El placer del castigo",
+      "text": "«Reforma» de sistemas basados en tonterías no basta — brujas con glándulas lagrimales atrofiadas siguen siendo brujas en el marco. Retribución disfrutada: masacre de leprosos ( 1321 ), ejecución de Damiens ( 1757 ), último ahorcamiento público de Rainey Bethea ( 1936 )."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "El placer del castigo",
+      "text": "Modelos alternativos: comisiones de verdad y reconciliación (Sudáfrica), justicia restaurativa — útiles pero aún asumen culpa libre. Cuarentena ( Derk Pereboom , Gregg Caruso ): contener peligro como aislar enfermedad, mínima restricción, atacar determinantes sociales."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "El placer del castigo",
+      "text": "En Escandinavia, por ejemplo Noruega, hay más «confort» carcelario, menos reincidencia y menor costo social que en EE. UU. El placer de castigar, arraigado en la evolución de normas de cooperación, puede sabotear el cambio."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "El placer del castigo",
+      "text": "Retribución satisface emociones antiguas; cuarentena protege sin merecer odio."
+    },
+    {
+      "sectionId": "cap15",
+      "sectionTitle": "Si mueres pobre",
+      "text": "No hay «por qué» más allá de «porque lo anterior». El universo es indiferente. Los mecanismos de terror management ante muerte y falta de sentido siguen activos. Los compatibilistas a veces defienden libre albedrío porque «sería un downer» sin él ( Stephen Cave , 2016 )."
+    },
+    {
+      "sectionId": "cap15",
+      "sectionTitle": "Si mueres pobre",
+      "text": "Los deprimidos estiman el control con más precisión que otros. Son «más tristes pero más sabios». La verdad puede ser estrés según el timing. Aun así Sapolsky defiende enfrentarla. Las implicaciones incluyen menos auto-bullying por obesidad, TDAH o bipolaridad cuando se entiende la biología."
+    },
+    {
+      "sectionId": "cap15",
+      "sectionTitle": "Si mueres pobre",
+      "text": "Graduado vs. basurero intercambiando genes e infancia — determinismo puro. Si la conclusión te parece liberatoria, probablemente fuiste afortunado. Ciencia «liberatoria» sin lengua en mejilla: entender causas reduce estigma y puede mejorar política."
+    },
+    {
+      "sectionId": "cap15",
+      "sectionTitle": "Si mueres pobre",
+      "text": "Sin libre albedrío no hay mérito absoluto ni culpa absoluta — hay causas, contención y compasión posible."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "No hay tortuga flotando: cada acto es biología e historia que no elegimos."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Estudiar solo intención o segundos previos es mirar el final de Casablanca sin la película."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Retribución placentera sobrevive porque ignora causas."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Aceptar determinismo puede liberar de culpa absurda y estigma biológico."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La ciencia no da «sentido» cósmico, pero sí menos odio y más cuarentena sensata."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Somos tortugas hasta el fondo; eso no impide cambiar cerebros, leyes ni compasión."
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+  "slug": "fabric-of-reality",
+  "title": "El tejido de la realidad",
+  "concepts": [
+    {
+      "title": "Multiverso",
+      "description": "Conjunto de universos paralelos cuya interacción explica fenómenos cuánticos."
+    },
+    {
+      "title": "Explicación",
+      "description": "Criterio central de una teoría: decir por qué pasa algo, no solo prever que pasará."
+    },
+    {
+      "title": "Inductivismo",
+      "description": "Doctrina criticada que intenta justificar teorías por acumulación de observaciones."
+    },
+    {
+      "title": "Conjetura y refutación",
+      "description": "Dinámica popperiana de progreso del conocimiento mediante crítica."
+    },
+    {
+      "title": "Realismo crítico",
+      "description": "Compromiso con entidades no observables cuando son parte de la mejor explicación."
+    },
+    {
+      "title": "Computabilidad",
+      "description": "Distinción entre problemas resolubles por procesos físicos y no resolubles."
+    },
+    {
+      "title": "Principio de Turing",
+      "description": "Posibilidad de una máquina universal que emule cualquier cómputo físicamente posible."
+    },
+    {
+      "title": "Replicador",
+      "description": "Entidad que causa copias de sí misma en ciertos entornos (gen, meme, programa)."
+    },
+    {
+      "title": "Conocimiento objetivo",
+      "description": "Información explicativa que puede criticarse y mejorarse independientemente del autor."
+    },
+    {
+      "title": "Cuatro hilos",
+      "description": "Integración de cuántica, epistemología, evolución y computación."
+    }
+  ],
+  "highlight": "La realidad no se entiende acumulando datos, sino creando explicaciones cada vez mejores y más difíciles de reemplazar.",
+  "entries": [
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Tomar en serio las teorías profundas",
+      "text": "Deutsch sostiene que una comprensión real del mundo exige tomar en serio las mejores teorías científicas como explicaciones , no solo como instrumentos de predicción."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Tomar en serio las teorías profundas",
+      "text": "El libro busca una visión unificada entre cuatro líneas: mecánica cuántica , epistemología popperiana , teoría de la computación y evolución . Su apuesta es que juntas describen mejor la estructura de la realidad."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Tomar en serio las teorías profundas",
+      "text": "La meta de la ciencia es explicar la realidad en profundidad, aunque sus conclusiones desafíen la intuición."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Sombras",
+      "text": "Los experimentos de interferencia muestran que la luz no se comporta como si viajara en un único mundo clásico. Ciertos patrones de sombras exigen una explicación más amplia."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Sombras",
+      "text": "Deutsch defiende que la mejor explicación es un multiverso cuántico donde distintas historias físicas se influyen. Lo decisivo no es lo extraño de la idea, sino su poder explicativo frente a alternativas ad hoc."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Sombras",
+      "text": "La interferencia cuántica apunta a una realidad con múltiples universos físicamente reales."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Resolución de problemas",
+      "text": "Deutsch rechaza el inductivismo : repetir observaciones no basta para justificar teorías ni para crearlas."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Resolución de problemas",
+      "text": "Siguiendo a Popper , Deutsch sostiene que la ciencia avanza resolviendo problemas. Se formulan conjeturas, se critican y se reemplazan por explicaciones mejores. El experimento refuta errores, pero no otorga certeza final."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Resolución de problemas",
+      "text": "El conocimiento crece por crítica racional entre explicaciones rivales, no por acumulación de casos."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Criterios de realidad",
+      "text": "El caso de Galileo muestra que la disputa científica no es solo por «ajustar datos», sino por qué teoría describe mejor lo real."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Criterios de realidad",
+      "text": "Deutsch prioriza explicaciones menos artificiosas y más profundas. Una teoría puede coincidir con observaciones y, sin embargo, ser peor si depende de maniobras arbitrarias."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Criterios de realidad",
+      "text": "Tomamos como real aquello que nuestras mejores explicaciones necesitan para funcionar."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Realidad virtual",
+      "text": "La realidad virtual revela límites y posibilidades generales de la representación física de experiencias."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Realidad virtual",
+      "text": "Deutsch distingue entre generar imágenes y generar entornos interactivos completos. El alcance de ambos depende de leyes físicas y de capacidad de cómputo, no solo de ingeniería actual."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Realidad virtual",
+      "text": "La virtualidad no es un apéndice tecnológico: ilumina la estructura de la experiencia y de la simulación física."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Universalidad y límites del cálculo",
+      "text": "Si toda realidad virtual depende de cómputo, su frontera coincide con la computabilidad física ."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Universalidad y límites del cálculo",
+      "text": "Deutsch combina la idea de máquina universal con límites de tipo diagonal (Cantor y Turing). Hay procesos que pueden emularse universalmente y otros que quedan fuera de todo cálculo físico posible."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Universalidad y límites del cálculo",
+      "text": "La computación puede ser universal dentro de lo físicamente computable, pero no abarcar todo lo lógicamente imaginable."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Una conversación sobre justificación",
+      "text": "En forma de diálogo, Deutsch desmonta la idea de que toda predicción depende de un principio «el futuro se parece al pasado»."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Una conversación sobre justificación",
+      "text": "La justificación científica no surge de fundamentos infalibles, sino de argumentos que comparan explicaciones y eliminan posturas que empeoran el cuadro general."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Una conversación sobre justificación",
+      "text": "No hay principio de inducción oculto: hay crítica racional de teorías en problemas concretos."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "El significado de la vida",
+      "text": "Deutsch evita tanto el vitalismo como el reduccionismo superficial: la vida es un fenómeno fundamental para comprender la realidad."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "El significado de la vida",
+      "text": "La clave está en los replicadores (como genes) que preservan información y generan adaptación por selección. Lo vivo no requiere una «sustancia especial», pero sí una explicación informacional profunda."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "El significado de la vida",
+      "text": "La vida es creación y transmisión de conocimiento codificado en procesos físicos replicativos."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Computadoras cuánticas",
+      "text": "La computación cuántica muestra que la teoría cuántica no es solo formalismo matemático: describe recursos físicos reales."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Computadoras cuánticas",
+      "text": "Deutsch interpreta su potencia como evidencia a favor de una ontología multiversal: ciertos cálculos se entienden mejor cuando admitimos interferencia entre historias cuánticas."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Computadoras cuánticas",
+      "text": "El poder computacional cuántico refuerza una lectura realista y explicativa de la mecánica cuántica."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "La naturaleza de las matemáticas",
+      "text": "Las matemáticas no aparecen como mero juego simbólico, sino como parte del mapa de posibilidades y límites del mundo físico."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "La naturaleza de las matemáticas",
+      "text": "Deutsch conecta verdad matemática, demostrabilidad y computación, incorporando los límites internos de sistemas formales sin renunciar al realismo matemático."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "La naturaleza de las matemáticas",
+      "text": "La matemática expresa estructuras objetivas que dialogan con física, prueba y cómputo."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "El tiempo: primer concepto cuántico",
+      "text": "El tiempo no es un añadido externo a la teoría cuántica: atraviesa su forma de describir cambio y posibilidad."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "El tiempo: primer concepto cuántico",
+      "text": "Deutsch insiste en que las intuiciones temporales clásicas pueden bloquear buenas explicaciones cuánticas. Entender el tiempo exige revisar esos marcos."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "El tiempo: primer concepto cuántico",
+      "text": "Pensar el tiempo cuánticamente implica abandonar simplificaciones clásicas sobre historia y causalidad."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Viajes en el tiempo",
+      "text": "Los viajes temporales se analizan como cuestión de consistencia física, no como paradoja narrativa."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Viajes en el tiempo",
+      "text": "Deutsch examina bucles causales y muestra que muchas contradicciones vienen de imponer supuestos clásicos incompatibles con teorías más generales."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Viajes en el tiempo",
+      "text": "La pregunta no es «si suena absurdo», sino qué configuraciones temporales son coherentes con las leyes físicas."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Los cuatro hilos",
+      "text": "Aquí se unifican explícitamente los cuatro pilares del libro: cuántica , epistemología , computación y evolución ."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Los cuatro hilos",
+      "text": "Deutsch defiende que cada hilo corrige y completa a los demás. La visión conjunta explica mejor por qué el universo puede contener conocimiento y cómo ese conocimiento progresa."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Los cuatro hilos",
+      "text": "La «trama» de la realidad se vuelve inteligible cuando los cuatro hilos se leen como una sola teoría explicativa."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Los fines del universo",
+      "text": "El cierre proyecta las consecuencias cosmológicas del marco propuesto: límites físicos, destino de la complejidad y futuro del conocimiento."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Los fines del universo",
+      "text": "Más que un final cerrado, Deutsch propone un horizonte abierto. En él, las leyes de la naturaleza y la capacidad explicativa de mentes racionales codeterminan lo posible."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Los fines del universo",
+      "text": "El futuro cósmico depende de la interacción entre restricciones físicas y creación continua de conocimiento."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La tesis de Deutsch es que la realidad se vuelve inteligible solo cuando unimos física cuántica, teoría del conocimiento, computación y evolución."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Ese cruce reemplaza la búsqueda de certezas finales por un programa de mejora constante de explicaciones."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "En ese marco, los universos paralelos, los límites del cálculo y la vida como información replicable dejan de ser temas separados."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La racionalidad no garantiza infalibilidad, pero sí progreso crítico."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "El tejido de la realidad es, también, el tejido de cómo aprendemos a entenderla."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La realidad no se entiende acumulando datos, sino creando explicaciones cada vez mejores y más difíciles de reemplazar."
+    }
+  ]
+}

@@ -1,0 +1,291 @@
+{
+  "slug": "livewired",
+  "title": "Livewired: La historia interior del cerebro en constante cambio",
+  "concepts": [
+    {
+      "title": "Livewired",
+      "description": "Cableado cerebral que se reescribe continuamente con experiencia y relevancia."
+    },
+    {
+      "title": "Neuroplasticidad",
+      "description": "Término clásico (James); Eagleman lo amplía más allá del molde único."
+    },
+    {
+      "title": "Sustitución sensorial",
+      "description": "Nuevos canales de datos integrados como percepción."
+    },
+    {
+      "title": "Período sensible",
+      "description": "Ventana de máxima maleabilidad para dominios como lenguaje o visión."
+    },
+    {
+      "title": "Mattering",
+      "description": "Relevancia subjetiva que guía qué circuitos se consolidan."
+    },
+    {
+      "title": "Motor babbling",
+      "description": "Exploración motora aleatoria que esculpe mapas corporales."
+    },
+    {
+      "title": "Colonización cortical",
+      "description": "Territorios sensoriales competidos según uso y demanda."
+    },
+    {
+      "title": "Hemisferectomía",
+      "description": "Extirpación de hemisferio con reasignación funcional posible."
+    }
+  ],
+  "highlight": "No eres quien eras al empezar el capítulo: eres liveware en proceso",
+  "entries": [
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "La pregunta del cerebro",
+      "text": "El epígrafe recoge versos de Emily Dickinson según los cuales el cerebro es más amplio que el cielo, más profundo que el mar, y con la misma fuerza, «solo que diferente». David Eagleman propone que esa diferencia es la livewiring , el cableado que se reescribe a lo largo de la vida."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "La pregunta del cerebro",
+      "text": "El cerebro no es plástica moldeada una vez: es liveware que nunca deja de reconfigurarse."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "El tejido eléctrico viviente",
+      "text": "Eagleman usa la metáfora del rover marciano. En lugar de enviar un vehículo de 400 libras, bastaría una esfera que se replica y arma sensores. Los bebés hacen eso: de un óvulo fertilizado a un organismo con detectores de fotones y extremidades articuladas."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "El tejido eléctrico viviente",
+      "text": "La estrategia evolutiva de la naturaleza no es preprogramar del todo el cerebro. Da bloques básicos y lo mete en el mundo. Matthew , con epilepsia por encefalitis de Rasmussen, requirió hemisferectomía en Johns Hopkins. Después de la terapia, Matthew recuperó lenguaje y vida casi normal con medio cerebro. El resto se livewired para cubrir funciones perdidas."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "El tejido eléctrico viviente",
+      "text": "El cerebro humano cuenta con unos 86 000 millones de neuronas y cientos de billones de conexiones (~ 0,2 cuatrillones ). En un milímetro cúbico de corteza hay más conexiones que humanos en el planeta. No importa tanto el número como la interacción dinámica. Las dendritas buscan conexiones como ciudadanos formando redes."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "El tejido eléctrico viviente",
+      "text": "La magia no está en las piezas sino en el tejido eléctrico que se reteje sin fin."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Solo añade mundo",
+      "text": "Para «crecer un buen cerebro» hace falta experiencia . La naturaleza apuesta a que, sin mundo, el cableado no se especializa."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Solo añade mundo",
+      "text": "Deprivación sensorial o crítica en ventanas temporales produce déficits duraderos. El genoma provee reglas de auto-organización. El entorno selecciona qué circuitos perduran."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Solo añade mundo",
+      "text": "La analogía postguerra de Tokio ilustra el punto. Después de perder la industria bélica, la ciudad reorientó ingenieros al Shinkansen. El cerebro redirige recursos hacia demandas actuales."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Solo añade mundo",
+      "text": "Cerebro + mundo = especialización; sin inputs, el mapa queda incompleto."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "El interior refleja el exterior",
+      "text": "Los monos de Silver Spring mostraron cómo la experiencia moldea corteza sensorial. El brazo fantasma de Lord Nelson tras amputación: el mapa corporal persiste."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "El interior refleja el exterior",
+      "text": "La colonización cortical es negocio a tiempo completo: territorios competidos según uso. Sueño y rotación planetaria: el cerebro ajusta modelos internos al ritmo del mundo."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "El interior refleja el exterior",
+      "text": "Cambios «a ciegas» y ultrarrápidos: el mapa no es estático sino negociación continua entre expectativa y estímulo."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "El interior refleja el exterior",
+      "text": "Mapas corticales son espejos dinámicos del cuerpo y del entorno, no planos fijos."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Envolver las entradas",
+      "text": "La tecnología «cabeza de papa» coloca sensores en cualquier parte del cuerpo. La sustitución sensorial , con cámara a vibradores en espalda o lengua ( BrainPort ), demuestra que el cerebro aprende nuevos conductos de datos."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Envolver las entradas",
+      "text": "La corteza reutiliza «un solo truco» sensorial. Es multipropósito. Importa la correlación estadística, no el órgano. Eagleman en Neosensory construye hardware que expande sentidos humanos."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Envolver las entradas",
+      "text": "Pregunta abierta: ¿colores o sensaciones totalmente nuevos son imaginables una vez entendida la livewiring?"
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Envolver las entradas",
+      "text": "El cerebro envuelve cualquier entrada correlacionada con conducta; el canal importa poco."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Cómo conseguir un mejor cuerpo",
+      "text": "No hay plano estándar del cuerpo en el cerebro. El motor babbling , la prueba y error infantil, esculpe mapas motores. Doc Ock ficticio prefigura extensiones corporales reales."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Cómo conseguir un mejor cuerpo",
+      "text": "Corteza motora reorganizable: violinistas, gamers y usuarios de prótesis muestran mapas distintos. Autocontrol y marshmallow test enlazan motor con función ejecutiva."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Cómo conseguir un mejor cuerpo",
+      "text": "Un cerebro, infinitos «planos corporales»: la maquinaria motora se adapta a herramientas, exoesqueletos o interfaces."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Cómo conseguir un mejor cuerpo",
+      "text": "Mejor cuerpo = mejor mapa motor; la práctica funde herramienta y miembro."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Por qué importa importar",
+      "text": "Perlman y Ashkenazy comparten circuitos motores, pero distinta relevancia emocional y atencional moldean el paisaje cortical. El mattering , que algo importe, guía qué conexiones se fortalecen."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Por qué importa importar",
+      "text": "Nativos digitales: cerebros optimizados para entornos que sus abuelos no conocían. La motivación y recompensa son palancas de livewiring."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Por qué importa importar",
+      "text": "Cuando algo carece de relevancia biográfica, el cerebro no dedica territorio duradero."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Por qué el amor no conoce su profundidad hasta la hora de separación",
+      "text": "El título de Dickinson resume una ley del sistema: predice el entorno y lo esperado se vuelve invisible. Separación, abstinencia o ruptura revelan cuánto modelo había construido el cerebro alrededor del otro."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Por qué el amor no conoce su profundidad hasta la hora de separación",
+      "text": "Diferencia entre lo predicho y lo ocurrido impulsa aprendizaje. Adicción y desamor comparten recalibración de expectativas dopaminérgicas."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Por qué el amor no conoce su profundidad hasta la hora de separación",
+      "text": "«Ir hacia la luz, el azúcar o los datos»: sistemas de recompensa reorientan cableado tras pérdida."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Por qué el amor no conoce su profundidad hasta la hora de separación",
+      "text": "El dolor de perder muestra el volumen de livewiring social invertido en el vínculo."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Equilibrio al borde del cambio",
+      "text": "Cuando un territorio desaparece, los vecinos invaden, como dealers redistribuidos en una ciudad. Neuronas expanden redes sociales o mueren para liberar espacio."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Equilibrio al borde del cambio",
+      "text": "La «buena muerte» sináptica es necesaria para plasticidad saludable. El cáncer puede ser plasticidad descontrolada. Salvar el «bosque cerebral» requiere equilibrio entre estabilidad y cambio."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Equilibrio al borde del cambio",
+      "text": "Plasticidad es cuchillo de doble filo: adaptación vs. desorden."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "¿Por qué es más difícil enseñar trucos nuevos a perros viejos?",
+      "text": "Los períodos sensibles son ventanas en que los circuitos son máximamente maleables (lenguaje, visión binocular). Cierran a distintas velocidades."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "¿Por qué es más difícil enseñar trucos nuevos a perros viejos?",
+      "text": "Aun así, adultos cambian: músicos tardíos, rehabilitación, bilingüismo. La livewiring nunca cesa. Solo baja la velocidad y sube el coste."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "¿Por qué es más difícil enseñar trucos nuevos a perros viejos?",
+      "text": "«Perros viejos» aprenden más lento, no están sellados."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Recuerda cuándo",
+      "text": "El enemigo de la memoria no es el tiempo, sino otras memorias que interfieren. El cerebro enseña a partes de sí mismo. Hay muchos tipos de memoria y escalas temporales."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Recuerda cuándo",
+      "text": "Más allá de sinapsis: daisy-chaining de historiales modifica recuperación. Hablar con tu «yo futuro» es modelar un agente con circuitos distintos al presente."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Recuerda cuándo",
+      "text": "Memoria es livewiring del pasado compitiendo por espacio representacional."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "El lobo y el rover marciano",
+      "text": "El lobo evolucionó para un nicho. El rover se diseña y se obsoleta. El cerebro livewired combina genes y mundo: robusto ante cambios no previstos por evolución."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "El lobo y el rover marciano",
+      "text": "La ingeniería tradicional separa hardware y software. La naturaleza los fusiona. Eso inspira máquinas que se reconfiguren como cerebros."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "El lobo y el rover marciano",
+      "text": "Livewiring vence al diseño rígido cuando el entorno sorprende."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Encontrar el amor perdido de Ötzi",
+      "text": "Ötzi , el hombre del hielo, portaba herramientas y relaciones materializadas. Somos «cambiapieles»: el yo de hace años puede parecer un extraño leyendo su diario."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Encontrar el amor perdido de Ötzi",
+      "text": "Identidad es trayectoria de reconfiguraciones, no esencia fija. Hemos encontrado a los cambiapieles: somos nosotros."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Encontrar el amor perdido de Ötzi",
+      "text": "La identidad es verbo livewired, no sustantivo grabado en genes."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La naturaleza no escribió firmware cerrado."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Escribió reglas para que el cerebro se reescriba con la experiencia."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Sustituir sentidos o perder medio cerebro no agota el mundo interior."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Las máquinas del futuro deberían livewirearse, no solo ejecutar código."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Leer estas líneas ya te cambió. Ese es el punto del libro."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "No eres quien eras al empezar el capítulo: eres liveware en proceso"
+    }
+  ]
+}

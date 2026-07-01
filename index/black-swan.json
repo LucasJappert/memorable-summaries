@@ -1,0 +1,398 @@
+{
+  "slug": "black-swan",
+  "title": "El cisne negro",
+  "concepts": [
+    {
+      "title": "Cisne negro",
+      "description": "Evento raro, de impacto extremo y explicado solo retrospectivamente."
+    },
+    {
+      "title": "Mediocristán",
+      "description": "Dominio donde los extremos individuales no alteran demasiado el total."
+    },
+    {
+      "title": "Extremistán",
+      "description": "Dominio donde unos pocos casos concentran gran parte de los resultados."
+    },
+    {
+      "title": "Falacia narrativa",
+      "description": "Tendencia a crear relatos causales coherentes sobre procesos azarosos."
+    },
+    {
+      "title": "Evidencia silenciosa",
+      "description": "Sesgo por observar solo supervivientes y omitir fracasos invisibles."
+    },
+    {
+      "title": "Falacia lúdica",
+      "description": "Error de tratar incertidumbre abierta como juego cerrado con probabilidades conocidas."
+    },
+    {
+      "title": "Sesgo de confirmación",
+      "description": "Preferencia por datos que validan creencias previas, ignorando refutaciones."
+    },
+    {
+      "title": "Fraude gaussiano",
+      "description": "Uso impropio de curva normal para fenómenos con colas gruesas."
+    },
+    {
+      "title": "Estrategia de barra",
+      "description": "Combinación de máxima seguridad y pequeña exposición convexa a extremos favorables."
+    },
+    {
+      "title": "Epistemocracia",
+      "description": "Ideal institucional basado en humildad epistemológica y control de sobreconfianza experta."
+    },
+    {
+      "title": "Escalabilidad",
+      "description": "Capacidad de multiplicar resultados sin aumentar proporcionalmente esfuerzo o costos."
+    }
+  ],
+  "highlight": "No podemos predecir bien los cisnes negros, pero sí podemos diseñar vidas, organizaciones y carteras menos frágiles a ellos.",
+  "entries": [
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Prologue: el triplete del cisne negro",
+      "text": "Taleb define un Cisne Negro por tres rasgos: rareza , impacto extremo y predictibilidad retrospectiva . El evento parece imposible antes de ocurrir, pero luego se vuelve \"obvio\" en los relatos de expertos y medios."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Prologue: el triplete del cisne negro",
+      "text": "La tesis central es que el mundo social e histórico no lo dominan variaciones pequeñas, sino saltos discontinuos que no caben en modelos normales. En contextos donde importa lo que no sabemos, la confianza en pronósticos lineales crea una falsa sensación de control."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Prologue: el triplete del cisne negro",
+      "text": "Vivimos en un universo donde unos pocos eventos improbables explican gran parte de los resultados, y los relatos posteriores ocultan esa incertidumbre radical."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "El aprendizaje de un escéptico empírico",
+      "text": "Taleb combina autobiografía intelectual e historia para mostrar que la experiencia no enseña automáticamente a pensar bien sobre el azar. En dominios de alta incertidumbre, los agentes confunden supervivencia con habilidad y convierten coincidencias en causalidades."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "El aprendizaje de un escéptico empírico",
+      "text": "Presenta la opacidad histórica : vemos secuencias narradas, no procesos reales con bifurcaciones posibles. La historia parece continua cuando se la mira hacia atrás, pero en tiempo real avanza con rupturas."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "El aprendizaje de un escéptico empírico",
+      "text": "El principal aprendizaje escéptico es desconfiar de explicaciones elegantes sobre procesos que, en realidad, estuvieron gobernados por el azar."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Yevgenia y su cisne negro",
+      "text": "Este capítulo usa la anécdota de Yevgenia para mostrar la asimetría entre lo que esperamos y lo que sucede. Un solo hallazgo inesperado derriba sistemas completos de creencias sostenidas por años de evidencia confirmatoria."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Yevgenia y su cisne negro",
+      "text": "Taleb insiste en que las creencias generalizadas suelen estar construidas sobre muestras incompletas y sesgadas. La fragilidad no está en un dato aislado, sino en el exceso de confianza con que lo convertimos en ley."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Yevgenia y su cisne negro",
+      "text": "Una sola observación fuera de patrón puede invalidar un edificio entero de certidumbres."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "El especulador y la prostituta",
+      "text": "Taleb contrasta profesiones con ingresos escalables y no escalables para introducir la diferencia entre Mediocristán y Extremistán . En lo no escalable, el rendimiento se distribuye de forma relativamente acotada. En lo escalable, unos pocos concentran resultados desproporcionados."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "El especulador y la prostituta",
+      "text": "La globalización amplifica esta dinámica porque permite que una sola obra, idea o producto capture mercados enteros. En esos entornos, el ganador se lleva una parte enorme del total y el promedio deja de describir la realidad."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "El especulador y la prostituta",
+      "text": "Cuando la escalabilidad domina, pequeñas ventajas iniciales pueden transformarse en diferencias gigantescas de resultado."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Mil y un días, o cómo no ser un pavo",
+      "text": "El ejemplo del pavo resume la trampa inductiva: una larga serie de días favorables aumenta la confianza justo antes del desastre. La ausencia de eventos negativos no prueba seguridad. Puede ser solo acumulación de riesgo invisible."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Mil y un días, o cómo no ser un pavo",
+      "text": "Taleb recorre tradiciones escépticas para mostrar que el problema no es nuevo, pero sí sistemáticamente ignorado. El conocimiento práctico exige imaginar rupturas, no extrapolar tranquilidad pasada."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Mil y un días, o cómo no ser un pavo",
+      "text": "La evidencia repetida de estabilidad puede ser precisamente lo que nos vuelve más vulnerables al quiebre."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Confirmación shmonfirmation",
+      "text": "El autor explica cómo opera el sesgo de confirmación : buscamos datos que validen hipótesis previas y descartamos contraejemplos. Ese mecanismo fortalece teorías débiles y vuelve lenta la corrección de errores."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Confirmación shmonfirmation",
+      "text": "Propone una forma de empirismo negativo : avanzar por refutación más que por confirmación. En sistemas complejos, una sola excepción significativa informa más que cientos de casos rutinarios."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Confirmación shmonfirmation",
+      "text": "Para pensar mejor bajo incertidumbre, vale más identificar lo que puede falsear una idea que acumular pruebas favorables."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "La falacia narrativa",
+      "text": "La mente humana necesita historias coherentes. Por eso simplifica cadenas causales y rellena huecos con relatos plausibles. Taleb llama a esto falacia narrativa : convertir ruido y contingencia en guiones con sentido."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "La falacia narrativa",
+      "text": "Esa tendencia produce ceguera al cisne negro , porque prestamos atención a lo vívido y reciente, no a riesgos extremos fuera del foco. Cuanto más convincente suena una historia, más fácil es sobreestimar nuestro entendimiento."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "La falacia narrativa",
+      "text": "La claridad narrativa no es evidencia de verdad; muchas veces es solo compresión psicológica de la complejidad."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Viviendo en la antesala de la esperanza",
+      "text": "Taleb describe contextos de recompensas desiguales, donde largos periodos de espera sostienen la ilusión de un gran resultado futuro. Esa antesala de esperanza mantiene a muchos agentes en estrategias frágiles por miedo a abandonar \"justo antes\" del éxito."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Viviendo en la antesala de la esperanza",
+      "text": "La evaluación por resultados visibles de corto plazo oculta procesos que acumulan riesgos de cola. Por eso insiste en distinguir entre calidad del proceso y resultado puntual."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Viviendo en la antesala de la esperanza",
+      "text": "No todo resultado bueno valida una estrategia; en entornos no lineales, también puede ser azar favorable temporal."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "La suerte infalible de Casanova y la evidencia silenciosa",
+      "text": "Aquí aparece la evidencia silenciosa : juzgamos fenómenos por los casos visibles (supervivientes) y olvidamos los invisibles (fracasos). Historias de éxito sin base de comparación producen reglas engañosas de imitación."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "La suerte infalible de Casanova y la evidencia silenciosa",
+      "text": "Taleb muestra que gran parte del conocimiento práctico debería partir de lo que no observamos directamente. En selección natural, mercados y cultura, la ausencia de los perdedores sesga cualquier inferencia."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "La suerte infalible de Casanova y la evidencia silenciosa",
+      "text": "Lo que falta en la muestra puede ser más informativo que lo que vemos en primer plano."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "La falacia lúdica",
+      "text": "La falacia lúdica consiste en modelar la incertidumbre real como si fuera un juego de reglas cerradas y probabilidades conocidas. Taleb critica trasladar a la vida social herramientas diseñadas para casinos o experimentos controlados."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "La falacia lúdica",
+      "text": "En el mundo real, las reglas cambian, los eventos extremos dominan y las distribuciones no son estables. Confundir riesgo mensurable con incertidumbre abierta genera decisiones técnicamente sofisticadas pero frágiles."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "La falacia lúdica",
+      "text": "No todo lo incierto es calculable; tratar lo incalculable como juego probabilístico es un error estructural."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "El escándalo de la predicción",
+      "text": "Taleb cuestiona la autoridad de expertos en dominios donde los resultados dependen de shocks improbables. En esos campos, pronósticos detallados suelen fallar de forma sistemática, pero el prestigio del experto sobrevive mediante explicaciones post hoc."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "El escándalo de la predicción",
+      "text": "También señala que más información no siempre mejora comprensión: puede aumentar ruido, sobreajuste y confianza injustificada. La ilusión de precisión estadística reemplaza el reconocimiento de límites epistémicos."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "El escándalo de la predicción",
+      "text": "La predicción detallada en sistemas complejos produce más apariencia de conocimiento que conocimiento efectivo."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Cómo buscar excremento de pájaro",
+      "text": "El capítulo propone una actitud práctica: en vez de predecir eventos concretos, diseñar estrategias que se beneficien de la sorpresa positiva y limiten la negativa. Buscar \"excremento de pájaro\" es buscar oportunidades inesperadas con asimetría favorable."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Cómo buscar excremento de pájaro",
+      "text": "Taleb distingue entre descubrimiento planificado y serendipia . Muchas innovaciones relevantes emergen cuando se explora con opciones abiertas y bajo costo de error."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Cómo buscar excremento de pájaro",
+      "text": "La robustez práctica no exige adivinar el futuro, sino construir exposición inteligente a sorpresas favorables."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Epistemocracia, un sueño",
+      "text": "Taleb imagina una epistemocracia : un orden social que premia la humildad epistemológica y penaliza la sobreconfianza experta. El foco no es quién sabe más, sino quién reconoce mejor lo que ignora."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Epistemocracia, un sueño",
+      "text": "Recupera una tradición escéptica asociada a Montaigne y otros autores para oponerla al dogmatismo tecnocrático. En incertidumbre extrema, una sociedad prudente debería preferir márgenes de seguridad a narrativas cerradas."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Epistemocracia, un sueño",
+      "text": "Gobernar bien bajo incertidumbre requiere instituciones que incorporen duda, no que la oculten."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Apeles el pintor, o qué hacer si no se puede predecir",
+      "text": "Ante la imposibilidad de predecir cisnes negros, Taleb propone reglas de acción. La más conocida es la estrategia de barra : combinar una zona muy segura con una pequeña exposición altamente especulativa y convexa."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Apeles el pintor, o qué hacer si no se puede predecir",
+      "text": "La lógica es evitar ruina y, al mismo tiempo, conservar opción de ganancias desproporcionadas. En vez de apostar por escenarios medios, conviene prepararse para extremos."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Apeles el pintor, o qué hacer si no se puede predecir",
+      "text": "Si la predicción falla en los extremos, la estrategia debe diseñarse para sobrevivir a ellos y capturar su lado favorable."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "De Mediocristán a Extremistán, y de vuelta",
+      "text": "Taleb formaliza dos dominios. En Mediocristán , ninguna observación individual domina el total. En Extremistán , pocos casos explican una gran parte del agregado."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "De Mediocristán a Extremistán, y de vuelta",
+      "text": "Confundir ambos mundos es fuente principal de error analítico y político. Herramientas útiles en variables físicas estables fallan cuando se aplican a riqueza, fama, ventas o retornos financieros globales."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "De Mediocristán a Extremistán, y de vuelta",
+      "text": "La primera decisión metodológica correcta es identificar en qué tipo de mundo estadístico estamos."
+    },
+    {
+      "sectionId": "cap15",
+      "sectionTitle": "La curva de campana, ese gran fraude intelectual",
+      "text": "El autor critica el uso indiscriminado de la distribución gaussiana en fenómenos de cola gruesa. En Extremistán, la campana subestima eventos raros y extremos, precisamente los que más importan."
+    },
+    {
+      "sectionId": "cap15",
+      "sectionTitle": "La curva de campana, ese gran fraude intelectual",
+      "text": "Introduce el enfoque mandelbrotiano y leyes de potencia para describir mejor desigualdades y concentraciones observadas. Su argumento no es eliminar matemáticas, sino usar las adecuadas al dominio."
+    },
+    {
+      "sectionId": "cap15",
+      "sectionTitle": "La curva de campana, ese gran fraude intelectual",
+      "text": "Aplicar Gauss donde mandan colas gruesas no es un error menor: es una forma sistemática de ceguera al riesgo real."
+    },
+    {
+      "sectionId": "cap16",
+      "sectionTitle": "La estética del azar",
+      "text": "Taleb recurre a Mandelbrot y a la fractalidad para mostrar patrones de irregularidad que conservan estructura a distintas escalas. Esa geometría ofrece una intuición más realista del desorden que los modelos suavizados."
+    },
+    {
+      "sectionId": "cap16",
+      "sectionTitle": "La estética del azar",
+      "text": "La búsqueda de precisión excesiva en parámetros inestables puede empeorar decisiones. En contextos complejos, preferir rangos robustos es más útil que exactitudes espurias."
+    },
+    {
+      "sectionId": "cap16",
+      "sectionTitle": "La estética del azar",
+      "text": "Comprender el azar exige aceptar formas rugosas y escalables, no forzar simetrías cómodas."
+    },
+    {
+      "sectionId": "cap17",
+      "sectionTitle": "Los locos de Locke, o campanas en lugares equivocados",
+      "text": "Este capítulo muestra consecuencias sociales de aplicar modelos equivocados: se normalizan diagnósticos deficientes, políticas frágiles y métricas engañosas. Lo \"científico\" puede volverse ritual cuando no respeta la estructura del fenómeno."
+    },
+    {
+      "sectionId": "cap17",
+      "sectionTitle": "Los locos de Locke, o campanas en lugares equivocados",
+      "text": "Taleb insiste en distinguir señal de artefacto metodológico. Muchas regularidades son producto del instrumento estadístico, no de la realidad observada."
+    },
+    {
+      "sectionId": "cap17",
+      "sectionTitle": "Los locos de Locke, o campanas en lugares equivocados",
+      "text": "La mala modelización no solo falla en teoría: produce decisiones públicas y privadas con costos acumulativos altos."
+    },
+    {
+      "sectionId": "cap18",
+      "sectionTitle": "La incertidumbre del farsante",
+      "text": "Taleb critica al experto que proyecta dominio técnico en ámbitos donde no hay base predictiva sólida. Ese farsante suele ocultarse tras jerga, formalismo y retrospectivas autojustificatorias."
+    },
+    {
+      "sectionId": "cap18",
+      "sectionTitle": "La incertidumbre del farsante",
+      "text": "El problema no es la especialización, sino la falta de responsabilidad por error y la desconexión entre teoría y práctica. Taleb propone reducir el daño evaluando credenciales por desempeño en decisiones reales, no solo por discurso."
+    },
+    {
+      "sectionId": "cap18",
+      "sectionTitle": "La incertidumbre del farsante",
+      "text": "En incertidumbre extrema, la mejor defensa contra el falso experto es exigir skin in the game y límites explícitos de conocimiento."
+    },
+    {
+      "sectionId": "cap19",
+      "sectionTitle": "Mitad y mitad, o cómo vengarse del cisne negro",
+      "text": "En la parte final, Taleb sintetiza una ética operativa: evitar ruina, reducir fragilidad y preservar opcionalidad. La venganza contra el cisne negro no es dominarlo, sino dejar de ser su víctima sistemática."
+    },
+    {
+      "sectionId": "cap19",
+      "sectionTitle": "Mitad y mitad, o cómo vengarse del cisne negro",
+      "text": "La combinación de prudencia extrema en una parte del portafolio y exposición selectiva a convexidad en otra permite convivir con la incertidumbre sin depender de pronósticos finos."
+    },
+    {
+      "sectionId": "cap19",
+      "sectionTitle": "Mitad y mitad, o cómo vengarse del cisne negro",
+      "text": "La estrategia correcta frente al azar extremo es asimétrica: mucha protección abajo y apertura acotada al upside."
+    },
+    {
+      "sectionId": "cap20",
+      "sectionTitle": "Epílogo: los cisnes blancos de Yevgenia",
+      "text": "En el epílogo, Taleb invierte la perspectiva y discute eventos muy esperados que no ocurren, una forma simétrica del problema del cisne negro. También responde objeciones y aclara malentendidos sobre su propuesta."
+    },
+    {
+      "sectionId": "cap20",
+      "sectionTitle": "Epílogo: los cisnes blancos de Yevgenia",
+      "text": "El cierre enfatiza que la meta no es eliminar incertidumbre, sino abandonar modelos ingenuos y prácticas de gestión que la empeoran. Pensar en extremos sigue siendo la condición para decisiones menos frágiles."
+    },
+    {
+      "sectionId": "cap20",
+      "sectionTitle": "Epílogo: los cisnes blancos de Yevgenia",
+      "text": "Tanto lo inesperado que ocurre como lo esperado que no ocurre revelan los límites de nuestra capacidad predictiva."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La historia no está gobernada por promedios estables, sino por discontinuidades improbables de gran impacto."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Nuestra mente y nuestras instituciones sobrevaloran lo predecible porque prefieren relatos simples a incertidumbre radical."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La tarea no es adivinar el próximo shock, sino construir asimetrías favorables y evitar la ruina."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Pensar en extremos corrige el exceso de confianza de expertos y modelos."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Aceptar lo que ignoramos es, para Taleb, una forma superior de racionalidad práctica."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "No podemos predecir bien los cisnes negros, pero sí podemos diseñar vidas, organizaciones y carteras menos frágiles a ellos."
+    }
+  ]
+}

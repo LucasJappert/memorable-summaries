@@ -1,0 +1,362 @@
+{
+  "slug": "blind-watchmaker",
+  "title": "El relojero ciego",
+  "concepts": [
+    {
+      "title": "Relojero ciego",
+      "description": "Metáfora central: la selección natural produce diseño sin visión ni propósito, como un relojero ciego."
+    },
+    {
+      "title": "Selección natural",
+      "description": "Reproducción no aleatoria con variación hereditaria; consecuencias acumulativas en escalas temporales evolutivas."
+    },
+    {
+      "title": "Selección acumulativa",
+      "description": "Variación aleatoria filtrada generación tras generación; explica lo improbable sin un solo golpe de azar."
+    },
+    {
+      "title": "Complejidad adaptativa",
+      "description": "Organización estadísticamente improbable especificada de antemano por utilidad (vivir, ver, volar)."
+    },
+    {
+      "title": "Ecolocalización",
+      "description": "Sistema de sonar biológico en murciélagos; ejemplo paradigmático de «buen diseño»."
+    },
+    {
+      "title": "Espacio animal",
+      "description": "Espacio de todas las formas corporales posibles; la evolución camina por él en pasos pequeños."
+    },
+    {
+      "title": "Genes como información",
+      "description": "La vida es instrucción digital replicada, no protoplasma misterioso."
+    },
+    {
+      "title": "Pool génico",
+      "description": "Conjunto de genes intercambiables en una población; ambiente en que cada gen evoluciona."
+    },
+    {
+      "title": "Carrera armamentística",
+      "description": "Coevolución escalatoria entre rivales (depredador-presa, parásito-huésped)."
+    },
+    {
+      "title": "Punctuationismo",
+      "description": "Énfasis en estasis fósil y cambios rápidos; compatible con darwinismo, no rival."
+    },
+    {
+      "title": "Árbol de la vida",
+      "description": "Árbol genealógico único que impone taxonomía con anidamiento perfecto."
+    },
+    {
+      "title": "Lamarckismo",
+      "description": "Herencia de lo adquirido; no explica la complejidad adaptativa."
+    }
+  ],
+  "highlight": "Acumula pequeños cambios aleatorios filtrados por supervivencia y reproducción",
+  "entries": [
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Un misterio resuelto",
+      "text": "Dawkins escribe convencido de que nuestra existencia fue el mayor de los misterios y que ya no lo es: Darwin y Wallace lo resolvieron. Le sorprende que tantas personas ignoren no solo la solución elegante, sino que ni siquiera perciban el problema: el de la complejidad por diseño ."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Un misterio resuelto",
+      "text": "Un cerebro humano contiene unos diez millones de kiloneuronas. Cada célula del cuerpo guarda en su ADN mil veces más información digital que un ordenador de 64 kilobytes . Si alguien niega que esa complejidad exige explicación, el autor no se rinde: quiere transmitir la maravilla del diseño biológico y luego disipar el misterio."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Un misterio resuelto",
+      "text": "El libro no pretende ser un tratado científico frío. Busca informar, persuadir e inspirar: el darwinismo no solo es cierto, sino la única teoría conocida que, en principio, puede resolver el misterio de nuestra existencia. Dawkins distingue su defensa de la de un abogado que defiende causas en las que no cree: nunca dice lo que no considera verdadero."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Un misterio resuelto",
+      "text": "El darwinismo parece necesitar más defensa que otras verdades científicas establecidas; la mente humana está predispuesta a malinterpretarlo por el azar, las escalas temporales y la analogía con el diseño consciente."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Explicar lo muy improbable",
+      "text": "Los animales son las cosas más complicadas del universo conocido. La biología estudia entidades que parecen diseñadas con un propósito . La física estudia cosas simples que no invitan a invocar diseño. Ordenadores y coches, aunque no vivos, se tratan aquí como objetos biológicos: cualquier máquina de esa complejidad en un planeta diagnosticaría vida."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Explicar lo muy improbable",
+      "text": "William Paley , en Natural Theology ( 1802 ), argumentó que un reloj encontrado en un brezal exige un artífice. La naturaleza muestra un diseño incomparablemente mayor. La analogía reloj-organismo es falsa: el único relojero en la naturaleza son las fuerzas ciegas de la física, desplegadas de modo especial. La selección natural no tiene propósito, mente ni visión de futuro: es el relojero ciego ."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Explicar lo muy improbable",
+      "text": "Una cosa compleja tiene partes dispuestas de forma improbable por azar, con una cualidad especificada de antemano. En los seres vivos, esa cualidad es la competencia : volar, nadar o, más en general, sobrevivir y reproducirse. Hay muchas formas de estar vivo, pero infinitamente más de estar muerto. Mezclar células al azar no produce nunca un organismo funcional."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Explicar lo muy improbable",
+      "text": "«A pesar de las apariencias en contrario, el único relojero en la naturaleza son las fuerzas ciegas de la física, aunque desplegadas de un modo muy especial.»"
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Explicar lo muy improbable",
+      "text": "Darwin hizo posible ser un ateo intelectualmente satisfecho: antes de 1859 faltaba una explicación alternativa al diseño organizado."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Buen diseño",
+      "text": "La selección natural es el relojero ciego: no ve adelante ni planifica, pero sus resultados impresionan como diseño de un maestro relojero. Este capítulo refuerza esa ilusión con un ejemplo que impresionaría a cualquier ingeniero: el sonar en los murciélagos."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Buen diseño",
+      "text": "Los murciélagos cazan de noche sin luz. Fabricar luz propia consume demasiada energía. La evolución favoreció otra solución. Los ciegos usan ecolocalización : ecos de sus propios sonidos. Los pioneros del sonar en la Segunda Guerra Mundial no sabían que la selección natural lo había perfeccionado millones de años antes."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Buen diseño",
+      "text": "Donald Griffin acuñó «ecolocalización» para cubrir sonar y radar. Diferentes grupos de murciélagos usan el sonar de modos radicalmente distintos. El capítulo recorre el problema como lo haría un ingeniero (plantear el problema, imaginar soluciones, mostrar la adoptada por la naturaleza) para demostrar que Paley apenas empezaba a describir el caso del diseño biológico."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Buen diseño",
+      "text": "«La selección natural es el relojero ciego, ciego porque no ve adelante, no planifica consecuencias, no tiene propósito alguno.»"
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Buen diseño",
+      "text": "Un órgano o cuerpo está bien diseñado si un ingeniero inteligente podría haberlo construido para un fin sensato — volar, ver, comer, reproducirse — aunque no sea el mejor diseño imaginable."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Acumulando pequeños cambios",
+      "text": "Los seres vivos son demasiado improbables para surgir de un solo golpe de azar. La respuesta darwiniana: transformaciones graduales desde entidades simples, cada paso lo bastante pequeño para ser plausible, dirigidos en conjunto por la selección no aleatoria ."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Acumulando pequeños cambios",
+      "text": "Las olas ordenan guijarros en franjas sin intención: es un cribado de un solo paso . La organización viva exige, además, un candado combinacional con millones de diales, como ensamblar la hemoglobina mezclando aminoácidos al azar. El número hemoglobina (~ 10 190 ) muestra que el cribado simple no basta."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Acumulando pequeños cambios",
+      "text": "En la selección acumulativa , las entidades se «reproducen» con variación. Cada generación parte del resultado anterior. El experimento del mono que escribe «METHINKS IT IS LIKE A WEASEL»: en un solo paso tardaría ~ 10 40 intentos. Con selección acumulativa que retiene las frases más parecidas al objetivo, la frase emerge en minutos. Los biomorfos del ordenador muestran lo mismo con formas en árbol."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Acumulando pequeños cambios",
+      "text": "La evolución no es azar puro: es selección acumulativa — mutaciones aleatorias filtradas paso a paso durante millones de generaciones."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Trazando rutas por el espacio animal",
+      "text": "Muchos dudan de que un ojo complejo surja por pasos graduales. Dawkins reformula el problema con una serie de preguntas sobre el espacio animal : el espacio de todas las formas posibles de cuerpos."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Trazando rutas por el espacio animal",
+      "text": "¿Pudo el ojo humano surgir de la nada en un paso? No: las probabilidades son astronómicas. ¿De algo ligeramente distinto, X? Sí, si X es suficientemente parecido. Repitiendo la pregunta con pasos cada vez menores, se traza una cadena de Xs desde «sin ojo» hasta el ojo moderno — caminando por el espacio animal en pasos pequeños."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Trazando rutas por el espacio animal",
+      "text": "Con suficientes generaciones, medidas en miles de millones, la transición es plausible. Cada mutación modifica un proceso embriológico existente. Cuanto menor el cambio, más plausible embriológicamente. Y cada intermediario debe funcionar lo bastante bien como para ayudar a sobrevivir y reproducirse: un ojo imperfecto sigue siendo mejor que ninguno."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Trazando rutas por el espacio animal",
+      "text": "**Pregunta 1** — Un salto directo de «sin ojo» a ojo humano es estadísticamente imposible."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Trazando rutas por el espacio animal",
+      "text": "**Pregunta 2** — De un vecino inmediato en el espacio morfológico, sí es plausible en un paso."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Trazando rutas por el espacio animal",
+      "text": "**Pregunta 5** — Cada intermediario debe ser funcional; la selección no espera perfección futura."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Trazando rutas por el espacio animal",
+      "text": "El ojo no salta en el espacio animal ; camina en pasos diminutos, cada uno seleccionado por utilidad inmediata."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El poder y los archivos",
+      "text": "Llueve ADN en el jardín del autor: semillas de sauce flotan por el canal de Oxford. Lo que importa no es la celulosa del paracaídas, sino las instrucciones digitales para construir sauces que las esparcen. Llueven programas, algoritmos de crecimiento arbóreo."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El poder y los archivos",
+      "text": "La vieja noción de protoplasma vitalista está muerta como el flogisto. Lo especial de la vida no es la sustancia, sino la información: instrucciones digitales en un medio de almacenamiento con muchas posiciones discretas. Los genes son tecnología de la información. Pensar en gel vibrante es el camino equivocado."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El poder y los archivos",
+      "text": "Gregor Mendel descubrió la herencia digital: no mezclamos rasgos de padres, los recibimos en partículas discretas. Fleeming Jenkin argumentó que la herencia mezcladora, creída en tiempos de Darwin, casi descartaba la selección natural. La genética particulada salvó el darwinismo moderno."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El poder y los archivos",
+      "text": "«Llueven instrucciones; llueven programas; llueven algoritmos para hacer crecer árboles y esparcir algodón. No es una metáfora: es la pura verdad.»"
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El poder y los archivos",
+      "text": "En el corazón de todo ser vivo hay información — palabras, instrucciones — no fuego ni chispa vital."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Orígenes y milagros",
+      "text": "Los «milagros» son sucesos naturales en el extremo improbable del espectro. Cuánto azar podemos postular depende del tiempo y las oportunidades disponibles. La selección acumulativa convierte sucesos aceptablemente afortunados en un producto final que parece imposiblemente milagroso."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Orígenes y milagros",
+      "text": "La selección acumulativa necesitó arrancar con un primer paso de azar puro. Ahí está la paradoja del origen de la vida: la replicación exige maquinaria compleja (ADN, proteínas, RNA), y la única vía conocida hacia tal complejidad es la selección acumulativa. Invocar un diseñador sobrenatural no explica nada: un Dios capaz de diseñar esa maquinaria sería al menos tan complejo como ella."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Orígenes y milagros",
+      "text": "Cuánta suerte máxima podemos permitirnos en un solo paso es una pregunta legítima. El mono que escribe «Methinks it is like a weasel» de un golpe (~ 10 40 ) es demasiado. El argumento «hay tantos planetas que la vida debe ser común» asume lo que pretende demostrar. Dawkins explora química autorreplicante y el experimento de Spiegelman con RNA como vías hacia el primer replicador."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Orígenes y milagros",
+      "text": "Postular un diseñador para explicar la maquinaria replicadora deja sin explicar el origen del diseñador ."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Evolución constructiva",
+      "text": "Algunos ven la selección natural solo como fuerza negativa que elimina defectos. Como el escultor que resta mármol, la selección resta. Pero la mutación suma. Juntas pueden construir complejidad en dos vías: genotipos coadaptados y carreras armamentísticas ."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Evolución constructiva",
+      "text": "Un gen solo tiene efecto sobre una estructura ya existente. Desde el punto de vista de cada gen, el ambiente más importante son los otros genes del pool génico . Genes que colaboran en vías bioquímicas o en equipos (dientes de carnívoro con intestino carnívoro) evolucionan juntos. Un equipo dominante resiste ser desplazado por alternativas equivalentes."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Evolución constructiva",
+      "text": "Las carreras armamentísticas entre depredador y presa, huésped y parásito, macho y hembra, escalan la complejidad como una espiral: cada mejora de un bando selecciona contramedidas en el otro. Leones y antílopes podrían haber invertido roles por accidente inicial. Una vez iniciado un equipo de genes para carne o hierba, el proceso se autorreforzó."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Evolución constructiva",
+      "text": "La evolución construye complejidad cuando genes cooperan en equipos y cuando rivales se superan mutuamente en espiral."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Explosiones y espirales",
+      "text": "La mente humana analogiza con facilidad — a veces demasiado. Este capítulo explora dos analogías fructíferas pero peligrosas: procesos tipo explosión (retroalimentación positiva) y la semejanza entre evolución darwiniana y evolución cultural ."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Explosiones y espirales",
+      "text": "La retroalimentación negativa estabiliza (governador de Watt). La positiva amplifica perturbaciones hasta el desastre o un nuevo equilibrio, como una explosión química. En biología, la coevolución depredador-presa puede dispararse en espiral. Los cuerpos usan más retroalimentación negativa que positiva porque la regulación estable es útil. Pero las explosiones importan aquí."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Explosiones y espirales",
+      "text": "Los memes , unidades de transmisión cultural, se replican con variación y selección, analogía con los genes. Dawkins advierte: la analogía puede llevarse demasiado lejos, como ocurre con los cranks que ven evolución en todo. El criterio es la calidad de la inspiración y la capacidad de descartar analogías frívolas."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Explosiones y espirales",
+      "text": "La evolución biológica y la cultural comparten replicación con variación y selección, pero la analogía no debe sustituir el análisis riguroso."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Desinflando el punctuationismo",
+      "text": "Dawkins parodia a historiadores «punctuationistas» bíblicos que acusan a los «gradualistas» de creer que los israelitas avanzaban 24 yardas al día sin parar. La parábola satiriza el punctuationismo evolutivo: no es tan revolucionario ni tan opuesto a Darwin como su publicidad sugiere."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Desinflando el punctuationismo",
+      "text": "Los punctuationistas, muchos paleontólogos, enfatizan estasis en el registro fósil y cambios rápidos en eventos de especiación. Los «gradualistas» de paja avanzarían a ritmo constante generación tras generación. En realidad, casi todos los darwinianos son gradualistas en el sentido de que no hay saltos macromutacionales milagrosos."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Desinflando el punctuationismo",
+      "text": "El registro fósil es incompleto por naturaleza. La datación radiométrica (carbono- 14 , potasio-argon, uranio-plomo) permite pruebas temporales. Un fósil humano auténtico en rocas de 500 millones de años destruiría la evolución: prueba de que la teoría es falsable. La controversia real es menor de lo que venden las revistas."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Desinflando el punctuationismo",
+      "text": "El punctuationismo es una variedad menor de darwinismo, no un rival; los «gradualistas» de Dawkins son un hombre de paja."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "El único árbol verdadero de la vida",
+      "text": "Además de explicar el diseño (ojos, ecolocalización), la evolución explica la diversidad : patrones de parentesco entre formas vivas. Este capítulo trata la taxonomía , clasificación biológica, y por qué solo la evolución ofrece un árbol único y correcto."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "El único árbol verdadero de la vida",
+      "text": "Clasificar libros en una biblioteca admite muchos sistemas igualmente válidos por conveniencia. Clasificar organismos es distinto: la evolución implica un solo árbol genealógico verdadero con anidamiento perfecto — todo subgrupo está completamente contenido en un grupo mayor, sin solapamientos parciales."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "El único árbol verdadero de la vida",
+      "text": "Los taxonomistas cladistas agrupan por parentesco reciente , no por parecido superficial. Los ornitorrincos ponen huevos, pero pertenecen a los mamíferos porque comparten ancestro mamífero más reciente que con aves o reptiles. La biología molecular confirma el árbol independientemente de la morfología."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "El único árbol verdadero de la vida",
+      "text": "Solo la evolución justifica buscar el único árbol verdadero de la vida con anidamiento perfecto."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Rivales condenados",
+      "text": "Ningún biólogo serio niega que la evolución ocurrió ni que todos los seres vivos son primos. Algunos dudan del mecanismo darwiniano. Este capítulo examina rivales reales (no el punctuationismo) y argumenta que el darwinismo es la única teoría capaz, en principio, de explicar la complejidad adaptativa ."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Rivales condenados",
+      "text": "El lamarckismo combina uso y desuso con herencia de caracteres adquiridos. Los músculos crecen con el ejercicio, pero no hay evidencia de que el hijo herede el bíceps del padre. Darwin mismo creía en la herencia de lo adquirido, pero eso no era el núcleo de su teoría. El neutralismo explica variación molecular sin selección, no el diseño adaptativo del ojo."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Rivales condenados",
+      "text": "El creacionismo postula complejidad organizada sin explicarla. Dawkins predice que si alguna vez se descubre vida extraterrestre, también habrá evolucionado por selección natural darwiniana — apuesta no comprobable pronto, pero que dramatiza una verdad: ninguna otra teoría conocida explica el diseño adaptativo."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Rivales condenados",
+      "text": "«Predigo que, si alguna vez se descubre una forma de vida en otra parte del universo, por muy extraña que sea, se parecerá a la vida terrestre en un aspecto clave: habrá evolucionado mediante algún tipo de selección natural darwiniana.»"
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Rivales condenados",
+      "text": "El darwinismo es la única teoría conocida que, en principio, puede explicar la complejidad adaptativa ; los rivales fallan incluso antes de mirar la evidencia."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La complejidad de la vida parece exigir un diseñador consciente."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Paley tenía razón en la pregunta, equivocado en la respuesta."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La selección natural es el relojero ciego: sin mente, sin plan, sin visión."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Ninguna otra teoría conocida explica, en principio, la complejidad adaptativa."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "El misterio de nuestra existencia está resuelto — aunque sigamos añadiendo notas a pie de página."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Acumula pequeños cambios aleatorios filtrados por supervivencia y reproducción"
+    }
+  ]
+}

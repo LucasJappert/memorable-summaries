@@ -1,0 +1,464 @@
+{
+  "slug": "origins",
+  "title": "Orígenes: Catorce mil millones de años de evolución cósmica",
+  "concepts": [
+    {
+      "title": "Big Bang",
+      "description": "Expansión del universo desde estado caliente y denso; no una explosión en el espacio sino expansión del espacio mismo."
+    },
+    {
+      "title": "E = mc²",
+      "description": "Equivalencia masa-energía; base de nucleosíntesis, estrellas y pares materia-antimateria."
+    },
+    {
+      "title": "Radiación cósmica de fondo (CBR)",
+      "description": "Fotones liberados ~380.000 años post-Big Bang; hoy microondas a 2,73 K."
+    },
+    {
+      "title": "Materia oscura",
+      "description": "Masa gravitatoria invisible; ~85% de la materia del universo."
+    },
+    {
+      "title": "Energía oscura",
+      "description": "Energía del vacío que acelera la expansión; ~69% del contenido energético."
+    },
+    {
+      "title": "Constante de Hubble (H₀)",
+      "description": "Tasa actual de expansión; objeto de la «tensión cosmológica»."
+    },
+    {
+      "title": "Inflación cósmica",
+      "description": "Expansión exponencial ultra-rápida en los primeros instantes."
+    },
+    {
+      "title": "Multiverso",
+      "description": "Hipótesis de infinitos universos con parámetros distintos; explicación antrópica."
+    },
+    {
+      "title": "Exoplaneta",
+      "description": "Planeta orbitando una estrella distinta del Sol; >5.000 catalogados."
+    },
+    {
+      "title": "Ecuación de Drake",
+      "description": "Marco para estimar civilizaciones comunicativas en la galaxia."
+    }
+  ],
+  "highlight": "Somos polvo de estrellas que aprendió a preguntarse de dónde vino.",
+  "entries": [
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Meditación sobre los orígenes de la ciencia y la ciencia de los orígenes",
+      "text": "Una nueva síntesis de conocimiento científico florece al cruzar astroquímica , astrobiología y astrofísica de partículas . Responder «¿de dónde venimos?» ya no depende solo de la astrofísica: requiere colaboración entre disciplinas."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Meditación sobre los orígenes de la ciencia y la ciencia de los orígenes",
+      "text": "Esta segunda edición incorpora descubrimientos recientes: unos 5.000 exoplanetas detectados, ondas gravitacionales registradas por primera vez en 2017 , cinco cuerpos del Sistema Solar (Ceres, Europa, Encélado, Titán además de Marte) como candidatos para buscar vida, y una discrepancia entre métodos para medir la expansión cósmica, la «crisis en cosmología»."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Meditación sobre los orígenes de la ciencia y la ciencia de los orígenes",
+      "text": "Los humanos fascinan los orígenes por razones lógicas y emocionales. Cada avance revela que habitamos un grano de polvo cósmico en los suburbios de una galaxia común, entre al menos 100.000 millones de galaxias . Los mitos de creación suelen pasar rápido del universo a la historia humana, como si fuéramos el centro."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Meditación sobre los orígenes de la ciencia y la ciencia de los orígenes",
+      "text": "La ciencia moderna nació del escepticismo organizado : observación cuidadosa, principios generales y la recompensa a quien demuestra que otro se equivoca. Cuatro reacciones ante el éxito científico: abrazarlo, ignorarlo, combatirlo activamente, o aceptarlo manteniendo creencias trascendentes."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Meditación sobre los orígenes de la ciencia y la ciencia de los orígenes",
+      "text": "El libro invita a leer el cosmos como detectives: deducir la historia de cómo parte del universo se convirtió en nosotros."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Al principio",
+      "text": "Al principio hubo física. Materia, energía, espacio y tiempo (las cuatro protagonistas del drama cósmico) subyacen a toda química y biología. Aplicada al cielo, esa física es astrofísica ."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Al principio",
+      "text": "La física clásica (pre-1900) funciona en laboratorios cotidianos. La física moderna opera en regímenes extremos de temperatura, densidad y presión, como los primeros momentos del universo, donde la intuición falla y mandan relatividad y mecánica cuántica."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Al principio",
+      "text": "Einstein publicó E = mc² en 1905 : la masa es medida del contenido energético. La ecuación permite rastrear el cosmos desde hoy hasta fracciones infinitesimales de segundo tras el nacimiento. En el Sol, 4,4 millones de toneladas de materia se convierten en energía cada segundo."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Al principio",
+      "text": "Sin física extrema en el Big Bang no habría átomos, estrellas ni personas: todo lo familiar descansa en leyes descubiertas tras 1900."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "La antimateria importa",
+      "text": "Las antipartículas son reales: cada partícula tiene una contraparte de carga opuesta. Al contacto, materia y antimateria se aniquilan convirtiendo su masa en energía pura."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "La antimateria importa",
+      "text": "Carl Anderson descubrió el positrón en 1932 , predicho por la ecuación de Paul Dirac . Desde 1996 , el equipo de Walter Oelert en el CERN creó átomos de antihidrógeno (nueve en la primera ronda) que sobrevivieron menos de 40 nanosegundos antes de aniquilarse."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "La antimateria importa",
+      "text": "Los fotones gamma de alta energía pueden crear pares electrón-positrón (E = mc² al revés). El universo primordial produjo partículas y antipartículas en igual cantidad, pero una asimetría minúscula ( un billón y uno frente a un billón ) dejó materia suficiente para galaxias, estrellas y planetas."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "La antimateria importa",
+      "text": "Sin ese desequilibrio, toda la masa (salvo la materia oscura) se habría aniquilado antes del primer segundo, dejando un cosmos de fotones y nada más."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "La antimateria importa",
+      "text": "Vivimos gracias a un exceso ínfimo de materia sobre antimateria en el universo recién nacido."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Que brille la luz",
+      "text": "La cosmología moderna descansa no solo en luz visible sino en todo el espectro electromagnético : gamma, rayos X, ultravioleta, visible, infrarrojo, microondas y radio —todos fotones a la misma velocidad, con distinta energía."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Que brille la luz",
+      "text": "Tras el Big Bang, durante 380.000 años el universo fue opaco: los fotones rebotaban en electrones libres. Al bajar la temperatura por debajo de ~ 3.000 K , los electrones se acoplaron a núcleos formando átomos (el tiempo de desacoplamiento ) y la luz quedó libre."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Que brille la luz",
+      "text": "Esa radiación primordial, hoy enfriada a microondas ( 2,73 K ), es la radiación cósmica de fondo (CBR). Sus patrones en el cielo guardan memoria de la distribución de materia justo antes de que formaran átomos y permiten inferir edad y forma del universo."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Que brille la luz",
+      "text": "El universo nació en un blaze de luz que sigue llenando el espacio; la expansión lo diluyó hasta el resplandor microondas detectable hoy."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Que haya oscuridad",
+      "text": "La gravedad newtoniana y la de Einstein explican la materia visible, pero la mayor parte de la gravedad medida proviene de algo invisible: la materia oscura ."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Que haya oscuridad",
+      "text": "Fritz Zwicky analizó en los 1930 el cúmulo de Coma ( 325 millones de años luz ): las galaxias se mueven demasiado rápido para la masa visible. El cúmulo debería desintegrarse en cientos de millones de años, pero tiene más de 10.000 millones de años ."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Que haya oscuridad",
+      "text": "Vera Rubin confirmó el patrón en galaxias espirales: las estrellas en los bordes orbitan más rápido de lo que permite la materia luminosa. La materia oscura no emite luz ni interactúa electromagnéticamente. Solo se detecta por gravedad y constituye la mayor parte de la masa del universo."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Que haya oscuridad",
+      "text": "El misterio más antiguo de la astronomía: la gravedad exige mucha más masa de la que vemos brillar."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Que haya más oscuridad",
+      "text": "El universo tiene lado luminoso (estrellas, galaxias, planetas) y lado oscuro: materia oscura más energía oscura —energía del espacio vacío descrita por la constante cosmológica de Einstein."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Que haya más oscuridad",
+      "text": "Einstein introdujo la constante cosmológica en 1915 para «congelar» un universo estático y la llamó su «mayor error» tras el descubrimiento de Hubble de la expansión. En 1998 las supernovas tipo Ia demostraron que la expansión acelera : el vacío contiene energía repulsiva."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Que haya más oscuridad",
+      "text": "La energía oscura determina el destino cósmico: expansión eterna acelerada, cada vez más espacio vacío y cada vez menos materia por metro cúbico. El universo plano (Ω total ≈ 1) encaja con inflación y observaciones del CBR."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Que haya más oscuridad",
+      "text": "Einstein inventó la constante cosmológica por error y el universo la necesitaba de verdad: el vacío empuja la expansión hacia adelante."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "¡Tensión en el cosmos!",
+      "text": "Dos métodos independientes para medir la constante de Hubble (H₀), la velocidad de recesión por megaparsec, dan resultados discordantes: ~ 67 frente a ~ 73 km/s/Mpc, una diferencia del ~10%."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "¡Tensión en el cosmos!",
+      "text": "El método de «velas estándar» usa supernovas tipo Ia en galaxias lejanas. El de «regla estándar» explota el tamaño del universo al desacoplamiento (~ 420.000 años luz en la CBR) como regla cósmica expandida."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "¡Tensión en el cosmos!",
+      "text": "Antes del telescopio Hubble, los valores de H₀ divergían por factor 2 (50 frente a 100). Que hoy la discordancia sea solo ~10% es progreso, pero si persiste podría abrir nueva física más allá del modelo estándar."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "¡Tensión en el cosmos!",
+      "text": "La precisión creciente reveló un nuevo enigma: ¿error sistemático o física desconocida en la historia del universo?"
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "¿Un universo o muchos?",
+      "text": "Vivimos en un universo en expansión acelerada impulsado por energía oscura. La física cuántica predice energía del vacío, pero calculada ~ 10¹²⁰ veces mayor que la observada —la peor discrepancia teoría-observación de la ciencia."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "¿Un universo o muchos?",
+      "text": "¿Por qué ΩM (~0,31) y ΩΛ (~0,69) son comparables ahora , cuando durante casi toda la historia cósmica uno dominó al otro? Michael Turner lo llama el «problema Nancy Kerrigan»: ¿por qué yo, por qué ahora?"
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "¿Un universo o muchos?",
+      "text": "El principio antrópico responde que solo en universos con parámetros compatibles con galaxias, estrellas y vida puede haber observadores. El multiverso , con infinitos universos de leyes y constantes aleatorias, explicaría por qué el nuestro tiene valores «apenas» aptos para vida, aunque la hipótesis es difícil de verificar."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "¿Un universo o muchos?",
+      "text": "La aceleración cósmica y la coincidencia de densidades empujan hacia multiverso y selección antrópica — o hacia física aún no descubierta."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Descubriendo las galaxias",
+      "text": "Hasta el telescopio de William Herschel ( 1789 , espejo de 48 pulgadas), el universo conocido era estrellas, planetas y nebulosas difusas dentro de la Vía Láctea."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Descubriendo las galaxias",
+      "text": "El espectroscopio reveló que las nebulosas espirales fuera del plano galáctico se alejan a velocidades enormes. En 1923 , Edwin Hubble encontró una variable Cefeida en Andrómeda: estaba tan lejos que no podía pertenecer a nuestra galaxia —Andrómeda es otra galaxia, a millones de años luz."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Descubriendo las galaxias",
+      "text": "Hubble midió la relación distancia-velocidad de recesión: cuanto más lejos una galaxia, más rápido se aleja. El universo se expande. La lección: hay que dejar de clasificar por apariencia y preguntar qué es cada objeto y a qué distancia."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Descubriendo las galaxias",
+      "text": "Las «nubes» del cielo son islas de estrellas a distancias inconcebibles; descubrirlas transformó nuestra escala cósmica."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "El origen de la estructura",
+      "text": "Tras el Big Bang, la materia era casi uniforme. Hoy forma cúmulos, galaxias, estrellas y planetas. Esa organización exige unir mecánica cuántica (fluctuaciones minúsculas) con relatividad general (gravedad a gran escala), una unificación aún incompleta."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "El origen de la estructura",
+      "text": "Cosmólogos asumen un universo homogéneo e isotrópico a gran escala (principio cosmológico / de mediocridad). A escalas locales, la densidad varía enormemente: la Tierra ~ 5,5 g/cm³ , el espacio intergaláctico menos de un átomo cada 10 m³ ."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "El origen de la estructura",
+      "text": "Las fluctuaciones cuánticas durante la inflación se estiraron hasta volverse irregularidades gravitacionales. La materia oscura aceleró el colapso y el gas bariónico se calentó y formó estrellas. El modelo ΛCDM (materia oscura + energía oscura + bariones) reproduce las observaciones del CBR y la estructura a gran escala."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "El origen de la estructura",
+      "text": "Galaxias y cúmulos nacieron de imperfecciones cuánticas amplificadas por gravedad y materia oscura."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Polvo al polvo",
+      "text": "Las manchas oscuras de la Vía Láctea no son «agujeros» al vacío: son nubes de gas y polvo que ocultan estrellas y albergan viveros estelares. Galileo ( 1610 ) resolvió la banda lechosa en innumerables estrellas con su «catalejo»."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Polvo al polvo",
+      "text": "Jacobus Kapteyn ( 1909 ) identificó el medio interestelar : el polvo absorbe más la luz violeta que la roja ( enrojecimiento interestelar ), engañando las distancias. Las nubes gigantes (~ 100 K o menos) colapsan bajo gravedad pese a rotación, turbulencia, presión y campos magnéticos."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Polvo al polvo",
+      "text": "Estrellas en fase de gigante roja expulsan granos de polvo al espacio. En regiones como la nebulosa de Orión, miles de estrellas nacen de nubes de ~un millón de masas solares. El polvo y el gas son indispensables para una segunda generación estelar y para los elementos pesados que forman planetas y vida."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Polvo al polvo",
+      "text": "Del polvo interestelar —literalmente— nacen las estrellas que iluminan el cosmos."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Cuando los mundos eran jóvenes",
+      "text": "Los «siglos oscuros» cósmicos dejaron pocos datos observables sobre cómo la materia se organizó en estrellas y galaxias. Los planetas son aún más misteriosos: sabemos poco de cómo empezaron a formarse."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Cuando los mundos eran jóvenes",
+      "text": "Immanuel Kant propuso la hipótesis nebular: un disco de gas y polvo alrededor de la estrella en formación condensa en planetas —superior a la de James Jeans (encuentro estelar cercano, sistemas rarísimos). Los exoplanetas confirman que muchas estrellas tienen planetas, pero sus órbitas extrañas complican la teoría."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Cuando los mundos eran jóvenes",
+      "text": "Scott Tremaine bromea con dos «leyes»: toda predicción teórica sobre exoplanetas es incorrecta, y lo más seguro es que la formación planetaria «no puede ocurrir» — aunque ocurre. Las estrellas jóvenes suelen tener discos protoplanetarios de gas y polvo del tamaño del Sistema Solar."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Cuando los mundos eran jóvenes",
+      "text": "Los planetas existen pero su origen inicial sigue siendo uno de los enigmas más duros de la astrofísica."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Planetas más allá del Sistema Solar",
+      "text": "Copérnico situó la Tierra entre los planetas del Sol, lo que sugiere mundos innumerables con posibles habitantes. Giordano Bruno pagó con la vida en 1600 su defensa de mundos alienígenas."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Planetas más allá del Sistema Solar",
+      "text": "Hasta 1995 no se confirmó ningún exoplaneta . Luego llegó la avalancha: hoy más de 5.000 mundos conocidos con órbitas, tamaños y composiciones diversos — algunos en la zona habitable , otras órbitas extremas que desafían modelos."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Planetas más allá del Sistema Solar",
+      "text": "Métodos de detección: velocidad radial (wobble estelar), tránsitos (atenuación de luz), microlentes gravitacionales e imagen directa. Los exoplanetas son laboratorio cósmico para preguntar cuándo y cómo surge la vida más allá del Sistema Solar."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Planetas más allá del Sistema Solar",
+      "text": "De la especulación pasamos a un catálogo de miles de mundos; la pregunta ya no es «¿hay planetas?» sino «¿cuántos son habitables?»."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Vida en el universo",
+      "text": "Solo conocemos un ejemplo de vida: la terrestre, basada en ADN. La astrobiología infiere principios generales desde la química y la historia de la Tierra, evitando el antropomorfismo porque carece de comparaciones múltiples."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Vida en el universo",
+      "text": "La ecuación de Drake ( Frank Drake , años 60) descompone el número de civilizaciones detectables en seis factores: estrellas longevas, planetas por estrella, fracción habitables, probabilidad de origen de vida, de inteligencia, y duración de la civilización."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Vida en el universo",
+      "text": "La detección masiva de exoplanetas inclina hacia el optimismo sobre vida abundante, pero cada término de Drake sigue incierto. Resultados negativos fortalecerían el pesimismo. Hallazgos positivos en el Sistema Solar sugerirían vida común en la galaxia."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Vida en el universo",
+      "text": "**Estrellas longevas** — la mayoría dura cientos de millones o miles de millones de años."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Vida en el universo",
+      "text": "**Planetas habitables** — requieren temperatura, solvente líquido y elementos estructurales."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Vida en el universo",
+      "text": "**Civilización tecnológica** — capaz de señales interstelares; su longevidad es el factor más desconocido."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Vida en el universo",
+      "text": "Drake organiza nuestra ignorancia: sabemos contar estrellas y planetas mejor que originar o sostener civilizaciones."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "El origen de la vida en la Tierra",
+      "text": "Definición operativa de vida: conjuntos de objetos que se reproducen y evolucionan . No basta autorreplicarse (el fuego también lo hace). Ningún objeto aislado califica: hay que seguir poblaciones en el tiempo."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "El origen de la vida en la Tierra",
+      "text": "La vida terrestre se compone sobre todo de hidrógeno, oxígeno, carbono y nitrógeno — cuatro de los seis elementos más abundantes del universo (helio y neón son inertes). El principio copernicano favorece que la vida alienígena use la misma química cósmica."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "El origen de la vida en la Tierra",
+      "text": "El origen exacto en la Tierra (~ 4.000–4.600 millones de años atrás) carece de registro fósil claro. Experimentos como Miller-Urey ( 1953 ) muestran aminoácidos desde atmósferas primitivas simuladas. Las hipótesis del ARN primero, la quimiosíntesis en fumarolas o la panspermia siguen en debate."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "El origen de la vida en la Tierra",
+      "text": "La vida usa los ingredientes más comunes del cosmos; cómo se ensamblaron la primera vez sigue en la niebla del eón Hadeano."
+    },
+    {
+      "sectionId": "cap15",
+      "sectionTitle": "Buscando vida en el Sistema Solar",
+      "text": "La astrobiología exige cuatro condiciones generales: fuente de energía, átomo estructurador (carbono en la Tierra), solvente líquido (agua aquí) y tiempo suficiente para evolucionar."
+    },
+    {
+      "sectionId": "cap15",
+      "sectionTitle": "Buscando vida en el Sistema Solar",
+      "text": "El carbono forma hasta cuatro enlaces débiles y versátiles. El silicio, favorito de la ciencia ficción, enlaza fuerte con oxígeno en rocas estables y resulta poco apto para metabolismo acuoso. La vida alienígena probablemente también será basada en carbono ."
+    },
+    {
+      "sectionId": "cap15",
+      "sectionTitle": "Buscando vida en el Sistema Solar",
+      "text": "Candidatos en el Sistema Solar: Marte (pasado húmedo), Europa y Encélado (océanos subterráneos bajo hielo), Titán (lagos de hidrocarburos), Ceres . Ningún hallazgo concluyente aún, pero las misiones siguen activas."
+    },
+    {
+      "sectionId": "cap15",
+      "sectionTitle": "Buscando vida en el Sistema Solar",
+      "text": "En nuestro vecindario, la vida —si existe— será probablemente microbiana y ligada al agua o solventes alternativos bajo hielo."
+    },
+    {
+      "sectionId": "cap16",
+      "sectionTitle": "Buscando vida en la Vía Láctea",
+      "text": "Para vida compleja hay que mirar exoplanetas, porque en el Sistema Solar solo se esperan formas primitivas. Ya hay ~ 5.000 exoplanetas catalogados, y los dos primeros términos de Drake apuntan alto. Los de habitabilidad, origen, inteligencia y longevidad civilizatoria siguen casi tan inciertos como antes."
+    },
+    {
+      "sectionId": "cap16",
+      "sectionTitle": "Buscando vida en la Vía Láctea",
+      "text": "Escenario optimista: fracciones del 10% en cada paso → ~ 1.000 civilizaciones activas en una galaxia de 100.000 millones de estrellas. Pesimista (1 en 10.000 cada paso) → ~ 0,001 civilizaciones: estaríamos solos en la media."
+    },
+    {
+      "sectionId": "cap16",
+      "sectionTitle": "Buscando vida en la Vía Láctea",
+      "text": "El SETI busca señales de radio u ópticas artificiales sin éxito concluyente. Explorar la galaxia entera tardaría millones de años, y la escucha electromagnética es el método viable. Detectar biosfirmas espectroscópicas en atmósferas exoplanetarias es la próxima frontera."
+    },
+    {
+      "sectionId": "cap16",
+      "sectionTitle": "Buscando vida en la Vía Láctea",
+      "text": "La pregunta «¿estamos solos?» se decide midiendo, no viajando: telescopios y radiotelescopios son nuestros ojos en la galaxia."
+    },
+    {
+      "sectionId": "coda",
+      "sectionTitle": "La búsqueda de nosotros mismos en el cosmos",
+      "text": "Los cinco sentidos humanos son asombrosos pero estrechos. La ciencia moderna añade docenas de «sentidos» artificiales (telescopios, microscopios, detectores de radiación gravitacional) que convierten datos en formas que podemos interpretar."
+    },
+    {
+      "sectionId": "coda",
+      "sectionTitle": "La búsqueda de nosotros mismos en el cosmos",
+      "text": "Si naciéramos con ojos sintonizables en radio, microondas o rayos gamma, habríamos descubierto antes la expansión, el CBR y los agujeros negros. Casi ningún descubrimiento del siglo XX vino de los sentidos directos: vino de matemática y hardware que trasciende la experiencia cotidiana."
+    },
+    {
+      "sectionId": "coda",
+      "sectionTitle": "La búsqueda de nosotros mismos en el cosmos",
+      "text": "Equipados con nuestros cinco sentidos, junto con telescopios y microscopios y espectrómetros de masas y… detectores de radiación gravitacional, exploramos el universo y llamamos a la aventura ciencia."
+    },
+    {
+      "sectionId": "coda",
+      "sectionTitle": "La búsqueda de nosotros mismos en el cosmos",
+      "text": "Cada nuevo detector es una ventana cósmica; la búsqueda de nuestro lugar en el universo nos revela también quiénes somos."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "El cosmos tiene una historia continua de catorce mil millones de años."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Desde física extrema y antimateria hasta luz, oscuridad y estructura."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La ciencia une astrofísica, química y biología para contar esa historia."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Cada nuevo instrumento amplía sentidos que la evolución no nos dio."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Explorar el universo es buscarnos a nosotros mismos en el cosmos."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Somos polvo de estrellas que aprendió a preguntarse de dónde vino."
+    }
+  ]
+}
