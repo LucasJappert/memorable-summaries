@@ -118,6 +118,18 @@ export function escapeHtml(value: string): string {
     .replaceAll('>', '&gt;')
 }
 
+/** Iconos y meta PWA con la subruta de deploy (VITE_BASE_PATH). */
+export function renderAppHeadTags(): string {
+  const base = escapeHtml(getBuildBasePath())
+
+  return `    <link rel="icon" type="image/svg+xml" href="${base}favicon.svg" />
+    <meta name="theme-color" content="#0a0e1a" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <link rel="apple-touch-icon" href="${base}apple-touch-icon.png" />
+    <link rel="manifest" href="${base}manifest.webmanifest" />`
+}
+
 export function extractBuiltAssets(indexHtml: string): {
   headAssets: string[]
   bodyScripts: string[]

@@ -9,6 +9,7 @@ import {
   extractBuiltAssets,
   getSeoBookEntries,
   readDistIndexHtml,
+  renderAppHeadTags,
 } from './seo-build-utils.ts'
 
 const __dirname = dirname(fileURLToPath(import.meta.url))
@@ -38,6 +39,7 @@ function renderSeoHead(options) {
 
   return `    <meta charset="UTF-8" />
     <meta name="viewport" content="${VIEWPORT}" />
+${renderAppHeadTags()}
     <title>${title}</title>
     <meta name="description" content="${description}" />
     <link rel="canonical" href="${canonicalUrl}" />
