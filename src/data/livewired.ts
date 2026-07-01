@@ -108,7 +108,7 @@ export const livewired: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El epígrafe cita a <span class=\"person\">Emily Dickinson</span>: el cerebro es más amplio que el cielo, más profundo que el mar, y con la misma fuerza, «solo que diferente». <span class=\"person\">David Eagleman</span> propone que esa diferencia es la <span class=\"term\">livewiring</span>: cableado que se reescribe a lo largo de la vida.",
+          html: "El epígrafe recoge versos de <span class=\"person\">Emily Dickinson</span> según los cuales el cerebro es más amplio que el cielo, más profundo que el mar, y con la misma fuerza, «solo que diferente». <span class=\"person\">David Eagleman</span> propone que esa diferencia es la <span class=\"term\">livewiring</span>, el cableado que se reescribe a lo largo de la vida.",
         },
         {
           type: 'key',
@@ -124,15 +124,15 @@ export const livewired: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Metáfora del rover marciano: en lugar de enviar un vehículo de <span class=\"num\">400</span> libras, bastaría una esfera que se replica y arma sensores. Los bebés hacen eso: de un óvulo fertilizado a un organismo con detectores de fotones y extremidades articuladas.",
+          html: "Eagleman usa la metáfora del rover marciano. En lugar de enviar un vehículo de <span class=\"num\">400</span> libras, bastaría una esfera que se replica y arma sensores. Los bebés hacen eso: de un óvulo fertilizado a un organismo con detectores de fotones y extremidades articuladas.",
         },
         {
           type: 'paragraph',
-          html: "La estrategia evolutiva de la naturaleza: no preprogramar del todo el cerebro; dar bloques básicos y meterlo en el mundo. <span class=\"person\">Matthew</span>, con epilepsia por encefalitis de Rasmussen, requirió <span class=\"term\">hemisferectomía</span> en Johns Hopkins; tras terapia, recuperó lenguaje y vida casi normal con medio cerebro — el resto se <em>livewired</em> para cubrir funciones perdidas.",
+          html: "La estrategia evolutiva de la naturaleza no es preprogramar del todo el cerebro. Da bloques básicos y lo mete en el mundo. <span class=\"person\">Matthew</span>, con epilepsia por encefalitis de Rasmussen, requirió <span class=\"term\">hemisferectomía</span> en Johns Hopkins. Después de la terapia, Matthew recuperó lenguaje y vida casi normal con medio cerebro. El resto se <em>livewired</em> para cubrir funciones perdidas.",
         },
         {
           type: 'paragraph',
-          html: "El cerebro humano: unos <span class=\"num\">86 000 millones</span> de neuronas, cientos de billones de conexiones (~<span class=\"num\">0,2 cuatrillones</span>). En un milímetro cúbico de corteza hay más conexiones que humanos en el planeta. No es el número sino la interacción dinámica: dendritas buscan conexiones como ciudadanos formando redes.",
+          html: "El cerebro humano cuenta con unos <span class=\"num\">86 000 millones</span> de neuronas y cientos de billones de conexiones (~<span class=\"num\">0,2 cuatrillones</span>). En un milímetro cúbico de corteza hay más conexiones que humanos en el planeta. No importa tanto el número como la interacción dinámica. Las dendritas buscan conexiones como ciudadanos formando redes.",
         },
         {
           type: 'concept-grid',
@@ -168,15 +168,15 @@ export const livewired: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Para «crecer un buen cerebro» hace falta <span class=\"term\">experiencia</span>. La naturaleza apuesta: sin mundo, el cableado no se especializa.",
+          html: "Para «crecer un buen cerebro» hace falta <span class=\"term\">experiencia</span>. La naturaleza apuesta a que, sin mundo, el cableado no se especializa.",
         },
         {
           type: 'paragraph',
-          html: "Deprivación sensorial o crítica en ventanas temporales produce déficits duraderos. El genoma provee reglas de auto-organización; el entorno selecciona qué circuitos perduran.",
+          html: "Deprivación sensorial o crítica en ventanas temporales produce déficits duraderos. El genoma provee reglas de auto-organización. El entorno selecciona qué circuitos perduran.",
         },
         {
           type: 'paragraph',
-          html: "Analogía postguerra de Tokio: tras perder la industria bélica, reorientó ingenieros al Shinkansen — el cerebro redirige recursos hacia demandas actuales.",
+          html: "La analogía postguerra de Tokio ilustra el punto. Después de perder la industria bélica, la ciudad reorientó ingenieros al Shinkansen. El cerebro redirige recursos hacia demandas actuales.",
         },
         {
           type: 'key',
@@ -216,11 +216,11 @@ export const livewired: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Tecnología «cabeza de papa»: sensores en cualquier parte del cuerpo. <span class=\"term\">Sustitución sensorial</span> — cámara a vibradores en espalda, lengua (<span class=\"term\">BrainPort</span>) — demuestra que el cerebro aprende nuevos conductos de datos.",
+          html: "La tecnología «cabeza de papa» coloca sensores en cualquier parte del cuerpo. La <span class=\"term\">sustitución sensorial</span>, con cámara a vibradores en espalda o lengua (<span class=\"term\">BrainPort</span>), demuestra que el cerebro aprende nuevos conductos de datos.",
         },
         {
           type: 'paragraph',
-          html: "«Un solo truco» sensorial reutilizado: la corteza es multipropósito; importa la correlación estadística, no el órgano. Eagleman en Neosensory construye hardware que expande sentidos humanos.",
+          html: "La corteza reutiliza «un solo truco» sensorial. Es multipropósito. Importa la correlación estadística, no el órgano. Eagleman en Neosensory construye hardware que expande sentidos humanos.",
         },
         {
           type: 'paragraph',
@@ -260,7 +260,7 @@ export const livewired: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "No hay plano estándar del cuerpo en el cerebro: <span class=\"term\">motor babbling</span> — prueba y error infantil — esculpe mapas motores. Doc Ock ficticio prefigura extensiones corporales reales.",
+          html: "No hay plano estándar del cuerpo en el cerebro. El <span class=\"term\">motor babbling</span>, la prueba y error infantil, esculpe mapas motores. Doc Ock ficticio prefigura extensiones corporales reales.",
         },
         {
           type: 'paragraph',
@@ -284,7 +284,7 @@ export const livewired: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "<span class=\"person\">Perlman</span> vs. <span class=\"person\">Ashkenazy</span>: mismos circuitos motores, distinta relevancia emocional y atencional moldean el paisaje cortical. <span class=\"term\">Mattering</span> — que algo importe — guía qué conexiones se fortalecen.",
+          html: "<span class=\"person\">Perlman</span> y <span class=\"person\">Ashkenazy</span> comparten circuitos motores, pero distinta relevancia emocional y atencional moldean el paisaje cortical. El <span class=\"term\">mattering</span>, que algo importe, guía qué conexiones se fortalecen.",
         },
         {
           type: 'paragraph',
@@ -292,7 +292,7 @@ export const livewired: BookSummary = {
         },
         {
           type: 'key',
-          html: "Sin relevancia biográfica, el cerebro no dedica territorio duradero.",
+          html: "Cuando algo carece de relevancia biográfica, el cerebro no dedica territorio duradero.",
         },
       ],
     },
@@ -304,7 +304,7 @@ export const livewired: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Título de Dickinson: el sistema predice el entorno; lo esperado se vuelve invisible. Separación, abstinencia o ruptura revelan cuánto modelo había construido el cerebro alrededor del otro.",
+          html: "El título de Dickinson resume una ley del sistema: predice el entorno y lo esperado se vuelve invisible. Separación, abstinencia o ruptura revelan cuánto modelo había construido el cerebro alrededor del otro.",
         },
         {
           type: 'paragraph',
@@ -328,11 +328,11 @@ export const livewired: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Cuando territorio desaparece, vecinos invaden — como dealers redistribuidos en una ciudad. Neuronas expanden redes sociales o mueren para liberar espacio.",
+          html: "Cuando un territorio desaparece, los vecinos invaden, como dealers redistribuidos en una ciudad. Neuronas expanden redes sociales o mueren para liberar espacio.",
         },
         {
           type: 'paragraph',
-          html: "La «buena muerte» sináptica es necesaria para plasticidad saludable. Cáncer como posible plasticidad descontrolada; salvar el «bosque cerebral» requiere equilibrio entre estabilidad y cambio.",
+          html: "La «buena muerte» sináptica es necesaria para plasticidad saludable. El cáncer puede ser plasticidad descontrolada. Salvar el «bosque cerebral» requiere equilibrio entre estabilidad y cambio.",
         },
         {
           type: 'key',
@@ -348,11 +348,11 @@ export const livewired: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "<span class=\"term\">Períodos sensibles</span>: ventanas en que circuitos son máximamente maleables (lenguaje, visión binocular). Cierran a distintas velocidades.",
+          html: "Los <span class=\"term\">períodos sensibles</span> son ventanas en que los circuitos son máximamente maleables (lenguaje, visión binocular). Cierran a distintas velocidades.",
         },
         {
           type: 'paragraph',
-          html: "Aun así, adultos cambian: músicos tardíos, rehabilitación, bilingüismo. La livewiring nunca cesa; solo baja la velocidad y sube el coste.",
+          html: "Aun así, adultos cambian: músicos tardíos, rehabilitación, bilingüismo. La livewiring nunca cesa. Solo baja la velocidad y sube el coste.",
         },
         {
           type: 'key',
@@ -368,7 +368,7 @@ export const livewired: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El enemigo de la memoria no es el tiempo sino otras memorias que interfieren. El cerebro enseña a partes de sí mismo; hay muchos tipos de memoria y escalas temporales.",
+          html: "El enemigo de la memoria no es el tiempo, sino otras memorias que interfieren. El cerebro enseña a partes de sí mismo. Hay muchos tipos de memoria y escalas temporales.",
         },
         {
           type: 'paragraph',
@@ -388,11 +388,11 @@ export const livewired: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El lobo evolucionó para un nicho; el rover se diseña y se obsoleta. El cerebro livewired combina genes y mundo: robusto ante cambios no previstos por evolución.",
+          html: "El lobo evolucionó para un nicho. El rover se diseña y se obsoleta. El cerebro livewired combina genes y mundo: robusto ante cambios no previstos por evolución.",
         },
         {
           type: 'paragraph',
-          html: "Ingeniería tradicional separa hardware y software; la naturaleza los fusiona. Inspiración para máquinas que se reconfiguren como cerebros.",
+          html: "La ingeniería tradicional separa hardware y software. La naturaleza los fusiona. Eso inspira máquinas que se reconfiguren como cerebros.",
         },
         {
           type: 'key',
@@ -518,19 +518,16 @@ export const livewired: BookSummary = {
   closing: {
     title: "La idea central",
     lines: [
-  "La naturaleza no escribió un firmware cerrado: escribió reglas para escribirse.",
-  "Experiencia, relevancia y pérdida moldean el mismo tejido que pensabas fijo.",
-  "Sustituir sentidos o perder medio cerebro no es fin del mundo interior.",
+  "La naturaleza no escribió firmware cerrado.",
+  "Escribió reglas para que el cerebro se reescriba con la experiencia.",
+  "Sustituir sentidos o perder medio cerebro no agota el mundo interior.",
   "Las máquinas del futuro deberían livewirearse, no solo ejecutar código.",
-  "Leer estas líneas ya te cambió: ese es el punto.",
-  "# footer",
-  "line1: Resumen generado a partir de la obra de David Eagleman",
-  "line2: \"Livewired\" · Pantheon Books · 2020"
+  "Leer estas líneas ya te cambió. Ese es el punto del libro."
 ],
     highlight: "No eres quien eras al empezar el capítulo: eres liveware en proceso",
   },
   footer: {
-    line1: "",
-    line2: "",
+    line1: "Resumen generado a partir de la obra de David Eagleman",
+    line2: "\"Livewired\" · Pantheon Books · 2020",
   },
 }

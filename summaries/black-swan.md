@@ -96,7 +96,7 @@ Una sola observación fuera de patrón puede invalidar un edificio entero de cer
 ## title: El especulador y la prostituta
 
 <!-- paragraph -->
-Taleb contrasta profesiones con ingresos <span class="term">escalables</span> y no escalables para introducir la diferencia entre <span class="term">Mediocristán</span> y <span class="term">Extremistán</span>. En lo no escalable, el rendimiento se distribuye de forma relativamente acotada; en lo escalable, unos pocos concentran resultados desproporcionados.
+Taleb contrasta profesiones con ingresos <span class="term">escalables</span> y no escalables para introducir la diferencia entre <span class="term">Mediocristán</span> y <span class="term">Extremistán</span>. En lo no escalable, el rendimiento se distribuye de forma relativamente acotada. En lo escalable, unos pocos concentran resultados desproporcionados.
 
 <!-- paragraph -->
 La globalización amplifica esta dinámica porque permite que una sola obra, idea o producto capture mercados enteros. En esos entornos, el ganador se lleva una parte enorme del total y el promedio deja de describir la realidad.
@@ -112,7 +112,7 @@ Cuando la escalabilidad domina, pequeñas ventajas iniciales pueden transformars
 ## title: Mil y un días, o cómo no ser un pavo
 
 <!-- paragraph -->
-El ejemplo del <span class="term">pavo</span> resume la trampa inductiva: una larga serie de días favorables aumenta la confianza justo antes del desastre. La ausencia de eventos negativos no prueba seguridad; puede ser solo acumulación de riesgo invisible.
+El ejemplo del <span class="term">pavo</span> resume la trampa inductiva: una larga serie de días favorables aumenta la confianza justo antes del desastre. La ausencia de eventos negativos no prueba seguridad. Puede ser solo acumulación de riesgo invisible.
 
 <!-- paragraph -->
 Taleb recorre tradiciones escépticas para mostrar que el problema no es nuevo, pero sí sistemáticamente ignorado. El conocimiento práctico exige imaginar rupturas, no extrapolar tranquilidad pasada.
@@ -144,7 +144,7 @@ Para pensar mejor bajo incertidumbre, vale más identificar lo que puede falsear
 ## title: La falacia narrativa
 
 <!-- paragraph -->
-La mente humana necesita historias coherentes; por eso simplifica cadenas causales y rellena huecos con relatos plausibles. Taleb llama a esto <span class="term">falacia narrativa</span>: convertir ruido y contingencia en guiones con sentido.
+La mente humana necesita historias coherentes. Por eso simplifica cadenas causales y rellena huecos con relatos plausibles. Taleb llama a esto <span class="term">falacia narrativa</span>: convertir ruido y contingencia en guiones con sentido.
 
 <!-- paragraph -->
 Esa tendencia produce <span class="term">ceguera al cisne negro</span>, porque prestamos atención a lo vívido y reciente, no a riesgos extremos fuera del foco. Cuanto más convincente suena una historia, más fácil es sobreestimar nuestro entendimiento.
@@ -272,7 +272,7 @@ Si la predicción falla en los extremos, la estrategia debe diseñarse para sobr
 ## title: De Mediocristán a Extremistán, y de vuelta
 
 <!-- paragraph -->
-Taleb formaliza dos dominios. En <span class="term">Mediocristán</span>, ninguna observación individual domina el total; en <span class="term">Extremistán</span>, pocos casos explican una gran parte del agregado.
+Taleb formaliza dos dominios. En <span class="term">Mediocristán</span>, ninguna observación individual domina el total. En <span class="term">Extremistán</span>, pocos casos explican una gran parte del agregado.
 
 <!-- paragraph -->
 Confundir ambos mundos es fuente principal de error analítico y político. Herramientas útiles en variables físicas estables fallan cuando se aplican a riqueza, fama, ventas o retornos financieros globales.
@@ -339,7 +339,7 @@ La mala modelización no solo falla en teoría: produce decisiones públicas y p
 Taleb critica al experto que proyecta dominio técnico en ámbitos donde no hay base predictiva sólida. Ese <span class="term">farsante</span> suele ocultarse tras jerga, formalismo y retrospectivas autojustificatorias.
 
 <!-- paragraph -->
-El problema no es la especialización, sino la falta de responsabilidad por error y la desconexión entre teoría y práctica. Para reducir daño, propone evaluar credenciales por desempeño en decisiones reales, no solo por discurso.
+El problema no es la especialización, sino la falta de responsabilidad por error y la desconexión entre teoría y práctica. Taleb propone reducir el daño evaluando credenciales por desempeño en decisiones reales, no solo por discurso.
 
 <!-- key -->
 En incertidumbre extrema, la mejor defensa contra el falso experto es exigir skin in the game y límites explícitos de conocimiento.

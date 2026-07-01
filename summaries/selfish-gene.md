@@ -60,7 +60,7 @@ La perspectiva del gen no sustituye al darwinismo clásico: lo reformula como si
 ## title: ¿Por qué existen las personas?
 
 <!-- paragraph lead -->
-La vida inteligente «llega a la mayoría de edad» cuando descubre la razón de su propia existencia. <span class="person">Charles Darwin</span> fue quien primero articuló una explicación coherente de por qué existimos; antes de <span class="num">1859</span>, todas las respuestas a «¿para qué somos?» son, según <span class="person">G. G. Simpson</span>, inútiles.
+La vida inteligente «llega a la mayoría de edad» cuando descubre la razón de su propia existencia. <span class="person">Charles Darwin</span> fue quien primero articuló una explicación coherente de por qué existimos. Antes de <span class="num">1859</span>, todas las respuestas a «¿para qué somos?» son, según <span class="person">G. G. Simpson</span>, inútiles.
 
 <!-- paragraph -->
 Este libro no defiende el darwinismo en general, sino que explora sus consecuencias para el egoísmo y el altruismo biológico — temas con profunda importancia humana: amor, odio, cooperación, codicia y generosidad. Autores como <span class="person">Lorenz</span>, <span class="person">Ardrey</span> y <span class="person">Eibl-Eibesfeldt</span> se equivocaron al suponer que la evolución actúa «para el bien de la especie» o del grupo.
@@ -96,7 +96,7 @@ En el principio hubo simplicidad. El universo está poblado de cosas <span class
 Antes de la vida, moléculas orgánicas se formaron en el «caldo primordial» (agua, CO₂, metano, amoniaco) bajo energía ultravioleta o chispas eléctricas, produciendo aminoácidos y bases de ADN. En algún momento surgió por accidente el <span class="term">Replicador</span>: una molécula capaz de copiarse a sí misma, propagándose hasta agotar los bloques constructores.
 
 <!-- paragraph -->
-Los replicadores competían por materiales; los más estables, longevos y fieles en copiarse prevalecían. Surgieron «proteínas» protectoras y, eventualmente, vehículos cada vez más elaborados: las <span class="term">máquinas de supervivencia</span>. Los errores de copia — mutaciones — eran la raw material de la evolución.
+Los replicadores competían por materiales. Los más estables, longevos y fieles en copiarse prevalecían. Surgieron «proteínas» protectoras y, eventualmente, vehículos cada vez más elaborados: las <span class="term">máquinas de supervivencia</span>. Los errores de copia, las mutaciones, eran la materia prima de la evolución.
 
 <!-- big-numbers -->
 | value | label |
@@ -118,7 +118,7 @@ La evolución darwiniana comienza en cuanto los replicadores construyen cuerpos 
 Somos máquinas de supervivencia para los genes — moléculas de <span class="term">ADN</span> en espiral doble, con cuatro letras (A, T, C, G). Cada célula humana contiene un juego completo de <span class="num">46</span> cromosomas, como planos del arquitecto en cada habitación del edificio.
 
 <!-- paragraph -->
-El ADN replica y supervisa la fabricación de <span class="term">proteínas</span>. Un cuerpo es la forma del gen de preservarse sin alteración; las características adquiridas no se heredan. La selección favorece genes que construyen buenas máquinas de supervivencia.
+El ADN replica y supervisa la fabricación de <span class="term">proteínas</span>. Un cuerpo es la forma del gen de preservarse sin alteración. Las características adquiridas no se heredan. La selección favorece genes que construyen buenas máquinas de supervivencia.
 
 <!-- paragraph -->
 Los genes son gregarios: una máquina contiene miles. El <span class="term">cruzamiento</span> (crossing-over) en la meiosis mezcla material materno y paterno, haciendo que cada espermatozoide sea único. Un gen, en la definición de <span class="person">G. C. Williams</span>, es cualquier porción cromosómica que dura suficientes generaciones como para ser unidad de selección.
@@ -141,19 +141,19 @@ Los cuerpos son <span class="key-term">vehículos temporales</span>; los genes s
 ## title: La máquina génica
 
 <!-- paragraph lead -->
-Las máquinas de supervivencia comenzaron como receptáculos pasivos; cuando el caldo orgánico se agotó, plantas explotaron la luz solar y animales explotaron a las plantas (o a otros animales). Ambas ramas evolucionaron cuerpos pluricelulares — colonias de genes.
+Las máquinas de supervivencia comenzaron como receptáculos pasivos. Cuando el caldo orgánico se agotó, las plantas explotaron la luz solar y los animales explotaron a las plantas o a otros animales. Ambas ramas evolucionaron cuerpos pluricelulares, colonias de genes.
 
 <!-- paragraph -->
 Los animales desarrollaron <span class="term">músculos</span> para movimiento rápido y reversible, coordinados por <span class="term">neuronas</span> — unidades de procesamiento más sofisticadas que transistores. El cerebro humano contiene unos <span class="num">10 mil millones</span> de neuronas. Los sentidos traducen eventos externos en códigos de impulsos nerviosos.
 
 <!-- paragraph -->
-El comportamiento parece teleológico — como el regulador de Watt con <span class="term">retroalimentación negativa</span>. Los animales aprenden (memoria) y, en algunos casos, son conscientes; pero podemos analizar comportamiento «como si» tuviera propósito sin asumir consciencia.
+El comportamiento parece teleológico, como el regulador de Watt con <span class="term">retroalimentación negativa</span>. Los animales aprenden (memoria) y, en algunos casos, son conscientes. Aun así, podemos analizar el comportamiento «como si» tuviera propósito sin asumir consciencia.
 
 <!-- paragraph -->
 Conveniencia analítica: tratar al organismo individual como agente que maximiza la propagación de todos sus genes. El capítulo explora tácticas de supervivencia, señales y engaño en el comportamiento animal.
 
 <!-- key -->
-Los animales son <span class="key-term">máquinas génica</span> — vehículos activos programados para preservar replicadores, con cerebros que coordinan músculos mediante computación biológica.
+Los animales son <span class="key-term">máquinas génicas</span>, vehículos activos programados para preservar replicadores, con cerebros que coordinan músculos mediante computación biológica.
 
 ---
 
@@ -163,10 +163,10 @@ Los animales son <span class="key-term">máquinas génica</span> — vehículos 
 ## title: Agresión: estabilidad y la máquina egoísta
 
 <!-- paragraph lead -->
-Para una máquina de supervivencia, otra del mismo sexo es competidor directo por parejas y recursos; otra de distinta especie puede ser presa, depredador o competidor indirecto. La agresión parece inevitable — pero no vemos asesinato indiscriminado.
+Para una máquina de supervivencia, otra del mismo sexo es competidor directo por parejas y recursos. Otra de distinta especie puede ser presa, depredador o competidor indirecto. La agresión parece inevitable, pero no vemos asesinato indiscriminado.
 
 <!-- paragraph -->
-<span class="person">Konrad Lorenz</span> enfatizó la ritualización de las peleas animales; Dawkins señala que la violencia inter-específica existe. La respuesta general: matar rivales tiene costos (tiempo, energía, riesgo de contraataque) y puede beneficiar a un tercero competidor. La pugnacidad selectiva — esperar, crecer, elegir momentos — puede ser mejor estrategia.
+<span class="person">Konrad Lorenz</span> enfatizó la ritualización de las peleas animales. Dawkins señala que la violencia interespecífica existe. Matar rivales tiene costos (tiempo, energía, riesgo de contraataque) y puede beneficiar a un tercero competidor. La pugnacidad selectiva, esperar, crecer y elegir momentos, puede ser mejor estrategia.
 
 <!-- paragraph -->
 <span class="person">J. Maynard Smith</span> introdujo la <span class="term">estrategia evolutivamente estable (ESS)</span>: una estrategia que, si la adopta la mayoría, no puede ser superada por una alternativa. Con estrategias «halcón» (lucha sin cuartel) y «paloma» (amenaza sin daño), ninguna pura es ESS: la mezcla estable incluye ambas.
@@ -192,7 +192,7 @@ La agresión ritualizada no es altruismo grupal: emerge de equilibrios donde la 
 Un gen egoísta es todas las copias de un segmento de ADN distribuidas en el mundo. Puede ayudar a réplicas en otros cuerpos — altruismo individual producido por egoísmo génico. La clave es el <span class="term">parentesco</span>.
 
 <!-- paragraph -->
-<span class="person">W. D. Hamilton</span> (<span class="num">1964</span>) formalizó la selección de parentesco: un gen que induce altruismo hacia familiares puede propagarse si el beneficio ponderado por el coeficiente de parentesco supera el costo. Entre hermanos, la relación es <span class="num">1/2</span>; padre-hijo, <span class="num">1/2</span>; primo, <span class="num">1/8</span>.
+<span class="person">W. D. Hamilton</span> (<span class="num">1964</span>) formalizó la selección de parentesco. Un gen que induce altruismo hacia familiares puede propagarse si el beneficio ponderado por el coeficiente de parentesco supera el costo. Entre hermanos, la relación es <span class="num">1/2</span>. Entre padre e hijo, también <span class="num">1/2</span>. Entre primos, <span class="num">1/8</span>.
 
 <!-- paragraph -->
 El «efecto barba verde» (reconocer copias del gen por una etiqueta visible) es teóricamente posible pero improbable. El parentesco es el mecanismo plausible: los parientes comparten genes raros con mayor probabilidad que extraños.
@@ -213,7 +213,7 @@ El altruismo familiar no sirve a la especie: sirve a copias del mismo <span clas
 ## title: Planificación familiar
 
 <!-- paragraph lead -->
-La planificación familiar humana es decisional; en animales es programación instintiva sobre cuántos hijos tener y cuándo. Los genes «programan» tamaño de camada, intervalos reproductivos y inversión por cría según el entorno.
+La planificación familiar humana es decisional. En animales es programación instintiva sobre cuántos hijos tener y cuándo. Los genes «programan» tamaño de camada, intervalos reproductivos e inversión por cría según el entorno.
 
 <!-- paragraph -->
 El <span class="term">K</span> seleccionado vs. <span class="term">r</span> seleccionado describe estrategias de muchos hijos poco cuidados vs. pocos hijos muy cuidados. Un animal ajusta su fecundidad al número de crías que puede realistamente criar — no por bien de la especie sino por maximización génica.
@@ -254,7 +254,7 @@ Padres e hijos son aliados genéticos parciales y <span class="key-term">rivales
 Si hay conflicto entre padres e hijos, ¿cuánto más entre compañeros sexuales no emparentados? Solo comparten el <span class="num">50 %</span> de genes en los hijos comunes. Cada uno intenta explotar al otro para invertir menos en la cría.
 
 <!-- paragraph -->
-La asimetría fundamental: los gametos masculinos (esperma) son pequeños y numerosos; los femeninos (óvulos) son grandes y escasos. De la isogamia evolucionaron estrategias «honesta» (óvulo, gran inversión) y «explotadora» (esperma, móvil y barato). Los machos tienden a copular ampliamente; las hembras son el factor limitante.
+La asimetría fundamental es el tamaño del gameto. Los masculinos (esperma) son pequeños y numerosos. Los femeninos (óvulos) son grandes y escasos. De la isogamia evolucionaron estrategias «honesta» (óvulo, gran inversión) y «explotadora» (esperma, móvil y barato). Los machos tienden a copular ampliamente. Las hembras son el factor limitante.
 
 <!-- paragraph -->
 <span class="person">Robert Trivers</span> enfatizó la desconfianza mutua: el cortejo, la guardia de pareja, el celo y el cuidado parental son campos de negociación y engaño. Lo que parecía cooperación sexual era, en parte, explotación disfrazada.
@@ -283,7 +283,7 @@ El altruismo entre no parientes puede evolucionar por <span class="term">altruis
 Dawkins introduce las estrategias Sucker (siempre ayuda), Cheat (nunca ayuda) y Grudger (ayuda hasta que le fallan, luego retiene ayuda). Grudger domina en simulaciones porque explota a Suckers y castiga a Cheats. Ejemplos: peces limpiadores, aves que se quitan garrapatas, el canto del estornino.
 
 <!-- paragraph -->
-La cooperación requiere memoria, reconocimiento individual y repetición de encuentros. En interacciones únicas, el egoísmo puro prevalece; en interacciones iteradas, la retribución puede estabilizarse.
+La cooperación requiere memoria, reconocimiento individual y repetición de encuentros. En interacciones únicas, el egoísmo puro prevalece. En interacciones iteradas, la retribución puede estabilizarse.
 
 <!-- key -->
 «Rascas mi espalda, yo me subo a la tuya» ilustra simbiosis donde una especie transporta parásitos que, a cambio, limpian — o altruismo recíproco con riesgo de engaño.
@@ -354,7 +354,7 @@ La selección no actúa sobre ADN aislado sino sobre sus <span class="term">efec
 Los <span class="term">distorsionadores de segregación</span> (gen <span class="term">t</span> en ratones) muestran genes que «hacen trampa» en la meiosis, propagándose a pesar de efectos destructivos en el organismo. Existen pero son raros porque la meiosis justa es estabilizada por selección a nivel corporal.
 
 <!-- paragraph -->
-Los organismos existen porque los genes se benefician de agruparse en vehículos cooperativos grandes. El fenotipo extendido disuelve la tensión: el cuerpo es herramienta del gen; las herramientas pueden extenderse más allá de la piel.
+Los organismos existen porque los genes se benefician de agruparse en vehículos cooperativos grandes. El fenotipo extendido disuelve la tensión. El cuerpo es herramienta del gen, y las herramientas pueden extenderse más allá de la piel.
 
 <!-- key -->
 El gen tiene <span class="key-term">largo alcance</span>: su fenotipo incluye castores, presas, nidos y hasta el comportamiento manipulado de otros organismos.
@@ -425,14 +425,12 @@ El gen tiene <span class="key-term">largo alcance</span>: su fenotipo incluye ca
 ## title: La idea central
 
 <!-- closing -->
-Somos máquinas de supervivencia construidas por genes replicadores.
-La unidad de selección no es la especie ni el individuo, sino el gen.
-El altruismo existe, pero suele ser egoísmo génico disfrazado —
-parentesco, reciprocidad o manipulación.
-Los genes son replicadores egoístas; nosotros somos sus vehículos temporales —
+Somos máquinas de supervivencia construidas por genes replicadores egoístas.
+La unidad de selección no es la especie ni el individuo, sino el gen que persiste.
 <!-- highlight -->pero podemos rebelarnos contra ellos<!-- /highlight -->
-Entender esto no nos condena al egoísmo: nos da la herramienta para desafiar a nuestros creadores.
-Somos los únicos seres capaces de desafiar a nuestros creadores genéticos y meméticos.
+El altruismo por parentesco o reciprocidad es egoísmo génico disfrazado, no bondad abstracta.
+Entender la lógica evolutiva no nos obliga a obedecerla: abre la puerta a desafiar a nuestros diseñadores.
+Genes y memes nos moldean, pero solo nosotros podemos rebelarnos contra ambos replicadores.
 
 ---
 

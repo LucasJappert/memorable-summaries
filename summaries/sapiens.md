@@ -63,10 +63,10 @@ Este resumen sigue la estructura de un texto abreviado de Sapiens Editorial; no 
 ## title: El origen
 
 <!-- paragraph lead -->
-El <span class="term">Big Bang</span> describe el origen de materia y energía hace unos <span class="num">13.500 millones</span> de años; unos <span class="num">300.000</span> años después surgieron átomos y moléculas, y hace <span class="num">3.800 millones</span> de años en la Tierra aparecieron organismos, entre ellos el <span class="term">Homo sapiens</span>.
+El <span class="term">Big Bang</span> describe el origen de materia y energía hace unos <span class="num">13.500 millones</span> de años. Unos <span class="num">300.000</span> años después surgieron átomos y moléculas, y hace <span class="num">3.800 millones</span> de años en la Tierra aparecieron organismos, entre ellos el <span class="term">Homo sapiens</span>.
 
 <!-- paragraph -->
-Hace <span class="num">70.000</span> años la especie formó estructuras más complejas llamadas <span class="term">culturas</span>; su desarrollo es la <span class="term">historia</span>. Tres revoluciones la marcaron: la cognitiva (~<span class="num">70.000</span> a), la agrícola (~<span class="num">12.000</span> a) y la científica (~<span class="num">500</span> años).
+Hace <span class="num">70.000</span> años la especie formó estructuras más complejas llamadas <span class="term">culturas</span>, y su desarrollo es la <span class="term">historia</span>. Tres revoluciones la marcaron: la cognitiva (~<span class="num">70.000</span> a), la agrícola (~<span class="num">12.000</span> a) y la científica (~<span class="num">500</span> años).
 
 <!-- key -->
 La historia humana es la historia de revoluciones que transformaron cómo nos organizamos.
@@ -111,10 +111,10 @@ La combinación de cerebro, herramientas y cooperación social definió el poten
 ## title: La expansión
 
 <!-- paragraph lead -->
-El sapiens invadió la Tierra y provocó la extinción de otras especies humanas; las causas (cruce, exterminio) siguen debatiéndose.
+El sapiens invadió la Tierra y provocó la extinción de otras especies humanas. Las causas (cruce, exterminio) siguen debatiéndose.
 
 <!-- paragraph -->
-La <span class="term">revolución cognitiva</span> permitió arte, joyas, religión, comercio y estratos sociales. El lenguaje único puede referirse a cosas nunca vistas. Surgieron leyendas, mitos y dioses; el sapiens vivió en una <span class="term">realidad dual</span>: objetiva (árboles, animales) e imaginada (naciones, dioses), donde la segunda llegó a dominar.
+La <span class="term">revolución cognitiva</span> permitió arte, joyas, religión, comercio y estratos sociales. El lenguaje único puede referirse a cosas nunca vistas. Surgieron leyendas, mitos y dioses, y el sapiens vivió en una <span class="term">realidad dual</span>: objetiva (árboles, animales) e imaginada (naciones, dioses), donde la segunda llegó a dominar.
 
 <!-- paragraph -->
 Dejaron de depender del entorno y se convirtieron en sus controladores.
@@ -133,7 +133,7 @@ La revolución cognitiva permitió ficciones compartidas que reorganizaron la co
 La <span class="term">psicología evolutiva</span> sugiere que hábitos alimentarios, sexuales y conflictos actuales reflejan mentes de cazadores-recolectores en un entorno postindustrial.
 
 <!-- paragraph -->
-La teoría de la «comuna primitiva» explica infidelidades como herencia de estructuras sin propiedad privada ni paternidad segura; otros eruditos defienden la monogamia como comportamiento histórico humano. No hubo un único modo de vida desde la revolución cognitiva, sino un abanico de opciones culturales.
+La teoría de la «comuna primitiva» explica infidelidades como herencia de estructuras sin propiedad privada ni paternidad segura. Otros eruditos defienden la monogamia como comportamiento histórico humano. No hubo un único modo de vida desde la revolución cognitiva, sino un abanico de opciones culturales.
 
 <!-- paragraph -->
 La mayoría de cazadores-recolectores tenían dieta sana, poca carga laboral y pocas enfermedades infecciosas, pero alta mortalidad infantil. Muchos eran <span class="term">animistas</span>: creen que lugares, animales y fenómenos tienen conciencia y pueden comunicarse con humanos.
@@ -152,7 +152,7 @@ Nuestro presente convive con herencias del pasado paleolítico en cuerpo y mente
 Hace unos <span class="num">10.000</span> años el sapiens empezó a sembrar y domesticar animales: la <span class="term">revolución agrícola</span>.
 
 <!-- paragraph -->
-Más comida no significó mejor alimentación ni más tiempo libre, sino explosiones demográficas y élites. El agricultor trabajó más y comió peor que el cazador-recolector. Algunos plantean que plantas como el trigo «domesticaron» al sapiens. El sedentarismo permitió un hijo por año; la mortalidad infantil subió, pero los nacimientos superaron las muertes.
+Más comida no significó mejor alimentación ni más tiempo libre, sino explosiones demográficas y élites. El agricultor trabajó más y comió peor que el cazador-recolector. Algunos plantean que plantas como el trigo «domesticaron» al sapiens. El sedentarismo permitió un hijo por año. La mortalidad infantil subió, pero los nacimientos superaron las muertes.
 
 <!-- paragraph -->
 Los lujos se vuelven necesidades y generan nuevas obligaciones. La revolución agrícola rompió la simbiosis con la naturaleza y sembró la codicia.
@@ -168,7 +168,7 @@ La agricultura multiplicó la población pero empeoró la vida media del campesi
 ## title: El futuro
 
 <!-- paragraph lead -->
-Los cazadores-recolectores no planificaban el futuro; la agricultura lo hizo central por la incertidumbre de las cosechas.
+Los cazadores-recolectores no planificaban el futuro. La agricultura lo hizo central por la incertidumbre de las cosechas.
 
 <!-- paragraph -->
 El trabajo agrícola fundó sistemas políticos y sociales: surgieron élites (gobernantes, soldados, sacerdotes, artistas) que acumularon riqueza y construyeron palacios y templos mientras los campesinos sobrevivían con lo mínimo.
@@ -184,7 +184,7 @@ Preocuparse por el mañana y crear desigualdad estructural fueron consecuencias 
 ## title: La escritura
 
 <!-- paragraph lead -->
-Las sociedades complejas generaron más información de la que el cerebro podía almacenar; surgió la <span class="term">escritura</span> para registrar números, posesiones, impuestos y transacciones.
+Las sociedades complejas generaron más información de la que el cerebro podía almacenar. Surgió la <span class="term">escritura</span> para registrar números, posesiones, impuestos y transacciones.
 
 <!-- paragraph -->
 Los <span class="person">sumerios</span> combinaron símbolos numéricos y de personas, animales y territorios en tablillas de arcilla. Entre <span class="num">3000</span> y <span class="num">2500</span> a.C. evolucionó el sistema <span class="term">cuneiforme</span> para actas, oráculos y cartas personales.
@@ -200,7 +200,7 @@ La escritura nació como herramienta burocrática y luego se expandió a la narr
 ## title: Cultura
 
 <!-- paragraph lead -->
-Mitologías, normas y leyes sostuvieron el orden social; esa red de «instintos artificiales» es la <span class="term">cultura</span>.
+Mitologías, normas y leyes sostuvieron el orden social. Esa red de «instintos artificiales» es la <span class="term">cultura</span>.
 
 <!-- paragraph -->
 Cada grupo tenía su visión del mundo y normas propias en constante cambio. Vista desde lejos, la historia tiende a la <span class="term">unificación</span>: muchos «mundos humanos» aislados se fusionaron en una cultura global interconectada, aunque heterogénea.
@@ -229,10 +229,10 @@ Dinero, imperio y religión globalizaron la imaginación humana mucho antes de l
 ## title: ¿Cuánto cuesta?
 
 <!-- paragraph lead -->
-Los cazadores-recolectores vivían en economía de favores; la agricultura impulsó el <span class="term">trueque</span> y luego el <span class="term">dinero</span>.
+Los cazadores-recolectores vivían en economía de favores. La agricultura impulsó el <span class="term">trueque</span> y luego el <span class="term">dinero</span>.
 
 <!-- paragraph -->
-La cebada sirvió como moneda convertible; en Mesopotamia aparecieron los <span class="term">siclos de plata</span> (<span class="num">8,33</span> gramos), valor cultural sin uso alimenticio. La confianza en el dinero sin valor intrínseco fue el gran salto.
+La cebada sirvió como moneda convertible. En Mesopotamia aparecieron los <span class="term">siclos de plata</span> (<span class="num">8,33</span> gramos), valor cultural sin uso alimenticio. La confianza en el dinero sin valor intrínseco fue el gran salto.
 
 <!-- key -->
 El dinero resolvió la escasez del trueque al crear confianza en símbolos abstractos de valor.
@@ -248,7 +248,7 @@ El dinero resolvió la escasez del trueque al crear confianza en símbolos abstr
 Escritura y dinero facilitaron el comercio, pero el crecimiento exigió jerarquías imperiales con reyes legitimados por dioses —como el código de <span class="person">Hammurabi</span> (<span class="num">1776</span> a.C.).
 
 <!-- paragraph -->
-Los imperios amalgamaron culturas diversas y redujeron la diversidad humana. Desde el año <span class="num">200</span> d.C. la tendencia imperial fue global; en el siglo XXI el nacionalismo cede ante bloques internacionales y una élite multiétnica con intereses comunes.
+Los imperios amalgamaron culturas diversas y redujeron la diversidad humana. Desde el año <span class="num">200</span> d.C. la tendencia imperial fue global. En el siglo XXI el nacionalismo cede ante bloques internacionales y una élite multiétnica con intereses comunes.
 
 <!-- key -->
 Los imperios unificaron la humanidad bajo un manto político, a costa de muchas culturas locales.
@@ -309,7 +309,7 @@ Conquistar territorios y conocimiento se reforzaron mutuamente en la Europa mode
 ## title: Un abrazo de oso
 
 <!-- paragraph lead -->
-Capital y política se entrelazaron; el <span class="term">libre mercado</span> chocó con sus desigualdades y el miedo al comunismo moderó las ambiciones.
+Capital y política se entrelazaron. El <span class="term">libre mercado</span> chocó con sus desigualdades, y el miedo al comunismo moderó las ambiciones.
 
 <!-- paragraph -->
 Acuerdos buscaron equilibrar beneficio comunitario y ganancia privada, aunque a veces dudemos de que respondan a todos.
@@ -341,7 +341,7 @@ Energía barata y confianza crediticia alimentaron el crecimiento y el consumo d
 ## title: ¿Dónde encajo en esta historia?
 
 <!-- paragraph lead -->
-Tras revoluciones que transformaron planeta y sociedad, la pregunta clave: ¿somos más felices?
+Después de revoluciones que transformaron planeta y sociedad, la pregunta inevitable es: ¿somos más felices?
 
 <!-- paragraph -->
 Los historiadores rara vez la plantean. Encuestas de bienestar sugieren que la felicidad depende más de lo cotidiano que de los grandes eventos históricos. El sapiens parece tener un equilibrio entre indulgencia e insatisfacción que asegura la supervivencia.

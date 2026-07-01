@@ -1,12 +1,24 @@
 Determinado: Una ciencia de la vida sin libre albedrío, de Robert M. Sapolsky.
 
+La idea central
+
+No hay tortuga flotando: cada acto es biología e historia que no elegimos.
+
+Estudiar solo intención o segundos previos es mirar el final de Casablanca sin la película.
+
+Retribución placentera sobrevive porque ignora causas.
+
+Aceptar determinismo puede liberar de culpa absurda y estigma biológico.
+
+La ciencia no da sentido cósmico, pero sí menos odio y más cuarentena sensata.
+
 Capítulo uno. Tortugas hasta el fondo
 
-Robert M. Sapolsky abre con la anécdota de William James y la anciana que cree que el mundo descansa sobre tortugas infinitas. Burlarse de ella es fácil; lo absurdo es creer que alguna tortuga flota sin causa.
+Robert M. Sapolsky abre con la anécdota de William James y la anciana que cree que el mundo descansa sobre tortugas infinitas. Burlarse de ella es fácil. Lo absurdo es creer que alguna tortuga flota sin causa.
 
-Cada comportamiento —heroico o vil— tiene causas previas: neuronas del segundo anterior, pensamientos, hormonas, meses de experiencia, adolescencia, infancia, feto, genes, cultura, ecología y evolución. No hay causa sin causa. Somos suerte biológica y ambiental acumulada sobre la que no tuvimos control.
+Cada comportamiento, heroico o vil, tiene causas previas. Van desde las neuronas del segundo anterior hasta pensamientos, hormonas, meses de experiencia, adolescencia, infancia, feto, genes, cultura, ecología y evolución. No hay causa sin causa. Somos suerte biológica y ambiental acumulada sobre la que no tuvimos control.
 
-Negar libre albedrío implica: no hay culpa retributiva merecida; el castigo solo por contener peligro; el elogio como herramienta instrumental, no merecimiento. La mayoría cree en libre albedrío cuando importa —filósofos (~90 %), jueces, padres, incluso primates atribuyen más culpa a conductores humanos que a coches autónomos.
+Negar libre albedrío implica varias consecuencias. No hay culpa retributiva merecida. El castigo solo sirve para contener peligro. El elogio es herramienta instrumental, no merecimiento. La mayoría cree en libre albedrío cuando importa: filósofos (~90 %), jueces, padres e incluso primates atribuyen más culpa a conductores humanos que a coches autónomos.
 
 🐢. Tortugas
 
@@ -18,11 +30,11 @@ Idea clave: Ninguna disciplina sola falsifica el libre albedrío; todas juntas n
 
 Capítulo dos. Los tres minutos finales de una película
 
-Una escena nocturna en un aeródromo: un civil dispara a un militar; un policía no lo detiene. Sin contexto, parece corrupción y asesinato frío. Es el final de Casablanca —la intención microscópica no basta para entender la acción.
+Una escena nocturna en un aeródromo: un civil dispara a un militar y un policía no lo detiene. Fuera de contexto, la escena parece corrupción y asesinato a sangre fría. Es el final de Casablanca. La intención microscópica no basta para entender la acción.
 
-Décadas de estudios libetianos (Benjamin Libet, 1983): potencial de preparación ~300 ms antes de sentir decidir; fMRI hasta 10 s antes (Haynes); neuronas individuales ~80 % precisión (Itzhak Fried). Compatibilistas contraatacan: tareas artificiales, predicción ~60 %, free won't como veto.
+Décadas de estudios libetianos (Benjamin Libet, 1983) muestran potencial de preparación ~300 ms antes de sentir decidir. El fMRI llega hasta 10 s antes (Haynes). Neuronas individuales predicen con ~80 % de precisión (Itzhak Fried). Los compatibilistas contraatacan con tareas artificiales, predicción ~60 % y el free won't como veto.
 
-Sapolsky concluye: aunque Libet no mate el libre albedrío, es irrelevante. Falta la pregunta central: ¿de dónde vino la intención? Podemos hacer lo que intendemos, nunca intendemos lo que intendimos. Juzgar solo el presente —como Daniel Dennett diciendo que la suerte se promedia con el tiempo— es miopía moral.
+Sapolsky concluye que, aunque Libet no mate el libre albedrío, es irrelevante. Falta la pregunta central: ¿de dónde vino la intención? Podemos hacer lo que intendemos, pero nunca intendemos lo que intendimos. Juzgar solo el presente, como cuando Daniel Dennett dice que la suerte se promedia con el tiempo, es miopía moral.
 
 Idea clave: Estudiar los últimos segundos antes del acto es ver solo el final de la película.
 
@@ -30,7 +42,7 @@ Capítulo tres. ¿De dónde viene la intención?
 
 Este capítulo recorre la cadena causal completa: desde estímulos sensoriales y memoria hasta circuitos frontales, historial de estrés, epigenética, genes y cultura. La intención consciente es un epifenómeno tardío en una cascada mucho más larga.
 
-Experimentos de priming (p. ej. la palabra ocean inclina a elegir Tide) muestran influencias inconscientes; incluso resistir el priming es estar determinado por reconocerlo. Meta-consciencia no restaura libertad.
+Experimentos de priming muestran influencias inconscientes. Por ejemplo, la palabra ocean inclina a elegir Tide. Incluso resistir el priming es estar determinado por reconocerlo. La meta-consciencia no restaura libertad.
 
 El desafío permanece: mostrar una neurona causa de comportamiento independiente de toda biología previa — nadie lo ha hecho.
 
@@ -38,11 +50,11 @@ Idea clave: La intención es el último eslabón visible de una cadena que empez
 
 Capítulo cuatro. Voluntad de hierro: mito del grit
 
-Algunos compatibilistas postergan libre albedrío al pasado: tuviste tiempo de convertirte en otra persona. Neil Levy resume esa postura; Sapolsky responde: el was fue alguna vez now — también determinado.
+Algunos compatibilistas postergan libre albedrío al pasado: tuviste tiempo de convertirte en otra persona. Neil Levy resume esa postura. Sapolsky responde que el was fue alguna vez now, y también estuvo determinado.
 
-Mito central: lo que te dieron vs. lo que haces con ello (grit, resistir impulsos). Caso Jerry Sandusky: James Cantor admite que no se elige ser pedófilo, pero sí elegir no ser abusador — dualismo falso.
+El mito central separa lo que te dieron de lo que haces con ello (grit, resistir impulsos). El caso Jerry Sandusky lo ilustra. James Cantor admite que no se elige ser pedófilo, pero sí elegir no ser abusador. Es un dualismo falso.
 
-La corteza prefrontal (PFC) madura hacia mediados de los veinte; regula impulsos, reglas reversibles, control social. Ambos lados de la tabla (atributos biológicos y carácter) son biología + entorno.
+La corteza prefrontal (PFC) madura hacia mediados de los veinte. Regula impulsos, reglas reversibles y control social. Ambos lados de la tabla, atributos biológicos y carácter, son biología más entorno.
 
 Idea clave: Willpower no es polvo de hadas sobre neuronas: es PFC moldeada por genes y experiencia.
 
@@ -68,13 +80,13 @@ Capítulo siete. Introducción a la complejidad emergente
 
 Emergencia: propiedades del conjunto (húmedo, vivo, consciente) que no aparecen en piezas aisladas. Las interacciones no lineales producen patrones nuevos —flocking, mercados, mente.
 
-Compatibilistas como Michael Gazzaniga ubican responsabilidad en el nivel social, no en neuronas. Sapolsky: la socialidad también es producto biológico; declararla libre por convención no la hace causa sui.
+Michael Gazzaniga y otros compatibilistas ubican la responsabilidad en el nivel social, no en neuronas. Sapolsky responde que la socialidad también es producto biológico. Declararla libre por convención no la hace causa sui.
 
 Idea clave: Emergencia explica novedad, no exoneración.
 
 Capítulo ocho. ¿Tu libre albedrío emerge?
 
-Argumento: la mente emerge del cerebro, luego controla al cerebro —círculo que salvaría agencia. Sapolsky: es circular; niveles superiores siguen siendo físicos.
+Algunos argumentan que la mente emerge del cerebro y luego lo controla, un círculo que salvaría agencia. Sapolsky lo considera circular. Los niveles superiores siguen siendo físicos.
 
 Consciencia puede ser necesaria para ciertas conductas flexibles, pero no introduce causalidad acausal. El compatibilismo social repite el truco de cambiar de nivel sin escapar determinismo.
 
@@ -82,7 +94,7 @@ Idea clave: Emerger no es flotar: sigue siendo tortugas.
 
 Capítulo nueve. Introducción a la indeterminación cuántica
 
-La mecánica cuántica introduce genuina indeterminación en partículas. ¿Rescata libre albedrío? Laplace estaba incompleto; el universo no es billar clásico.
+La mecánica cuántica introduce genuina indeterminación en partículas. ¿Rescata libre albedrío? Laplace estaba incompleto. El universo no es billar clásico.
 
 Mutaciones por rayos cósmicos ilustran azar en evolución, pero escala subatómica rara vez altera decisiones humanas macroscópicas. Usar cuántica para moral es mezclar niveles de análisis.
 
@@ -92,7 +104,7 @@ Capítulo diez. ¿Tu libre albedrío es aleatorio?
 
 Si decisiones fueran aleatorias cuánticas, serían suerte, no yo eligiendo. Robert Kane propuso Self-Forming Actions en momentos de crisis — Sapolsky las disuelve en biología igual que impulsos ordinarios.
 
-Azar y determinismo son las únicas opciones; ninguna produce el libre albedrío que la gente cree tener.
+Azar y determinismo son las únicas opciones. Ninguna produce el libre albedrío que la gente cree tener.
 
 Idea clave: Randomness no es agency.
 
@@ -106,11 +118,11 @@ Idea clave: La conversación cerebro-yo resume el libro en tres líneas.
 
 Capítulo 11. ¿Nos descontrolaremos?
 
-Temor clásico: sin libre albedrío, todos correrían amok. Estudios de Katherine Vohs: leer a Francis Crick sobre determinismo aumenta trampa, agresión con salsa picante, reduce gratitud —pero efectos pequeños y replicación mixta.
+El temor clásico es que, sin libre albedrío, todos correrían amok. Los estudios de Katherine Vohs muestran que leer a Francis Crick sobre determinismo aumenta trampa, agresión con salsa picante y reduce gratitud. Los efectos son pequeños y la replicación es mixta.
 
 Meta-análisis 2022 (~145 experimentos): manipulaciones reducen creencia en libre albedrío sin efecto consistente en ética. Paralelo con ateísmo: la gente teme inmoralidad atea, pero observando conducta real, diferencias desaparecen al controlar edad, sexo, red social.
 
-Priming religioso mejora prosocialidad en creyentes; priming secular (deber cívico) hace lo mismo en ateos. Valores distintos, decencia comparable cuando se activan.
+El priming religioso mejora prosocialidad en creyentes. El priming secular (deber cívico) hace lo mismo en ateos. Valores distintos, decencia comparable cuando se activan.
 
 Idea clave: Negar libre albedrío no convierte automáticamente a la gente en jerks de laboratorio.
 
@@ -126,7 +138,7 @@ Capítulo 13. Ya lo hicimos antes
 
 Precedentes históricos de abandonar ideas morales basadas en fantasía: fin de brujería como crimen real, avances en psiquiatría, abolición progresiva de castigos corporales.
 
-Sociedades funcionan sin creer en brujas poseídas; pueden reorientarse hacia cuarentena médica en lugar de retribución. Cambio radical de marco es posible — ya ocurrió.
+Las sociedades funcionan sin creer en brujas poseídas. Pueden reorientarse hacia cuarentena médica en lugar de retribución. Ese cambio radical de marco ya ocurrió.
 
 Idea clave: Rechazar libre albedrío no es sin precedente cultural.
 
@@ -136,15 +148,15 @@ Reforma de sistemas basados en tonterías no basta — brujas con glándulas lag
 
 Modelos alternativos: comisiones de verdad y reconciliación (Sudáfrica), justicia restaurativa — útiles pero aún asumen culpa libre. Cuarentena (Derk Pereboom, Gregg Caruso): contener peligro como aislar enfermedad, mínima restricción, atacar determinantes sociales.
 
-Escandinavia (p. ej. Noruega): más confort carcelario, menos reincidencia, costo social menor que EE. UU. El placer de castigar —evolución de normas de cooperación— puede sabotear el cambio.
+En Escandinavia, por ejemplo Noruega, hay más confort carcelario, menos reincidencia y menor costo social que en EE. UU. El placer de castigar, arraigado en la evolución de normas de cooperación, puede sabotear el cambio.
 
 Idea clave: Retribución satisface emociones antiguas; cuarentena protege sin merecer odio.
 
 Capítulo 15. Si mueres pobre
 
-No hay por qué más allá de porque lo anterior. Universo indiferente; mecanismos de terror management ante muerte y falta de sentido. Compatibilistas a veces defienden libre albedrío porque sería un downer sin él (Stephen Cave, 2016).
+No hay por qué más allá de porque lo anterior. El universo es indiferente. Los mecanismos de terror management ante muerte y falta de sentido siguen activos. Los compatibilistas a veces defienden libre albedrío porque sería un downer sin él (Stephen Cave, 2016).
 
-Deprimidos estiman control con más precisión que otros —más tristes pero más sabios. Verdad puede ser estrés según timing; aun así Sapolsky defiende enfrentarla. Implicaciones: menos auto-bullying por obesidad, TDAH, bipolaridad cuando se entiende biología.
+Los deprimidos estiman el control con más precisión que otros. Son más tristes pero más sabios. La verdad puede ser estrés según el timing. Aun así Sapolsky defiende enfrentarla. Las implicaciones incluyen menos auto-bullying por obesidad, TDAH o bipolaridad cuando se entiende la biología.
 
 Graduado vs. basurero intercambiando genes e infancia — determinismo puro. Si la conclusión te parece liberatoria, probablemente fuiste afortunado. Ciencia liberatoria sin lengua en mejilla: entender causas reduce estigma y puede mejorar política.
 
@@ -199,15 +211,3 @@ Gregg Caruso, Cuarentena + determinantes sociales del crimen.
 Edward Lorenz, Caos y efecto mariposa en meteorología.
 
 Francis Crick, Determinismo duro citado en experimentos psicológicos.
-
-La idea central
-
-No hay tortuga flotando: cada acto es biología e historia que no elegimos.
-
-Estudiar solo intención o segundos previos es mirar el final de Casablanca sin la película.
-
-Retribución placentera sobrevive porque ignora causas.
-
-Aceptar determinismo puede liberar de culpa absurda y estigma biológico.
-
-La ciencia no da sentido cósmico, pero sí menos odio y más cuarentena sensata.

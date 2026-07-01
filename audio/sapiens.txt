@@ -1,5 +1,17 @@
 Sapiens: De animales a dioses, de Yuval Noah Harari.
 
+La idea central
+
+La historia del sapiens es una cadena de revoluciones imaginativas.
+
+Cada una reconfiguró cooperación, poder y significado.
+
+Pero el progreso material no trajo felicidad proporcional.
+
+El siglo XXI abre la puerta a rediseñar la propia especie.
+
+¿Estamos preparados para ese poder?
+
 Prefacio. Sobre el libro original
 
 Sapiens ofrece una narrativa accesible sobre la evolución extraordinaria de la humanidad: cómo nuestra especie se extendió por el mundo, surgieron ciudades e imperios, creímos en dioses y apareció el dinero.
@@ -10,9 +22,9 @@ Idea clave: Este resumen sigue la estructura de un texto abreviado de Sapiens Ed
 
 Capítulo uno. El origen
 
-El Big Bang describe el origen de materia y energía hace unos 13.500 millones de años; unos 300.000 años después surgieron átomos y moléculas, y hace 3.800 millones de años en la Tierra aparecieron organismos, entre ellos el Homo sapiens.
+El Big Bang describe el origen de materia y energía hace unos 13.500 millones de años. Unos 300.000 años después surgieron átomos y moléculas, y hace 3.800 millones de años en la Tierra aparecieron organismos, entre ellos el Homo sapiens.
 
-Hace 70.000 años la especie formó estructuras más complejas llamadas culturas; su desarrollo es la historia. Tres revoluciones la marcaron: la cognitiva (~70.000 a), la agrícola (~12.000 a) y la científica (~500 años).
+Hace 70.000 años la especie formó estructuras más complejas llamadas culturas, y su desarrollo es la historia. Tres revoluciones la marcaron: la cognitiva (~70.000 a), la agrícola (~12.000 a) y la científica (~500 años).
 
 Idea clave: La historia humana es la historia de revoluciones que transformaron cómo nos organizamos.
 
@@ -34,9 +46,9 @@ Idea clave: La combinación de cerebro, herramientas y cooperación social defin
 
 Capítulo cuatro. La expansión
 
-El sapiens invadió la Tierra y provocó la extinción de otras especies humanas; las causas (cruce, exterminio) siguen debatiéndose.
+El sapiens invadió la Tierra y provocó la extinción de otras especies humanas. Las causas (cruce, exterminio) siguen debatiéndose.
 
-La revolución cognitiva permitió arte, joyas, religión, comercio y estratos sociales. El lenguaje único puede referirse a cosas nunca vistas. Surgieron leyendas, mitos y dioses; el sapiens vivió en una realidad dual: objetiva (árboles, animales) e imaginada (naciones, dioses), donde la segunda llegó a dominar.
+La revolución cognitiva permitió arte, joyas, religión, comercio y estratos sociales. El lenguaje único puede referirse a cosas nunca vistas. Surgieron leyendas, mitos y dioses, y el sapiens vivió en una realidad dual: objetiva (árboles, animales) e imaginada (naciones, dioses), donde la segunda llegó a dominar.
 
 Dejaron de depender del entorno y se convirtieron en sus controladores.
 
@@ -46,7 +58,7 @@ Capítulo cinco. Herencia
 
 La psicología evolutiva sugiere que hábitos alimentarios, sexuales y conflictos actuales reflejan mentes de cazadores-recolectores en un entorno postindustrial.
 
-La teoría de la comuna primitiva explica infidelidades como herencia de estructuras sin propiedad privada ni paternidad segura; otros eruditos defienden la monogamia como comportamiento histórico humano. No hubo un único modo de vida desde la revolución cognitiva, sino un abanico de opciones culturales.
+La teoría de la comuna primitiva explica infidelidades como herencia de estructuras sin propiedad privada ni paternidad segura. Otros eruditos defienden la monogamia como comportamiento histórico humano. No hubo un único modo de vida desde la revolución cognitiva, sino un abanico de opciones culturales.
 
 La mayoría de cazadores-recolectores tenían dieta sana, poca carga laboral y pocas enfermedades infecciosas, pero alta mortalidad infantil. Muchos eran animistas: creen que lugares, animales y fenómenos tienen conciencia y pueden comunicarse con humanos.
 
@@ -56,7 +68,7 @@ Capítulo seis. Del recolectar a la cosecha
 
 Hace unos 10.000 años el sapiens empezó a sembrar y domesticar animales: la revolución agrícola.
 
-Más comida no significó mejor alimentación ni más tiempo libre, sino explosiones demográficas y élites. El agricultor trabajó más y comió peor que el cazador-recolector. Algunos plantean que plantas como el trigo domesticaron al sapiens. El sedentarismo permitió un hijo por año; la mortalidad infantil subió, pero los nacimientos superaron las muertes.
+Más comida no significó mejor alimentación ni más tiempo libre, sino explosiones demográficas y élites. El agricultor trabajó más y comió peor que el cazador-recolector. Algunos plantean que plantas como el trigo domesticaron al sapiens. El sedentarismo permitió un hijo por año. La mortalidad infantil subió, pero los nacimientos superaron las muertes.
 
 Los lujos se vuelven necesidades y generan nuevas obligaciones. La revolución agrícola rompió la simbiosis con la naturaleza y sembró la codicia.
 
@@ -64,7 +76,7 @@ Idea clave: La agricultura multiplicó la población pero empeoró la vida media
 
 Capítulo siete. El futuro
 
-Los cazadores-recolectores no planificaban el futuro; la agricultura lo hizo central por la incertidumbre de las cosechas.
+Los cazadores-recolectores no planificaban el futuro. La agricultura lo hizo central por la incertidumbre de las cosechas.
 
 El trabajo agrícola fundó sistemas políticos y sociales: surgieron élites (gobernantes, soldados, sacerdotes, artistas) que acumularon riqueza y construyeron palacios y templos mientras los campesinos sobrevivían con lo mínimo.
 
@@ -72,7 +84,7 @@ Idea clave: Preocuparse por el mañana y crear desigualdad estructural fueron co
 
 Capítulo ocho. La escritura
 
-Las sociedades complejas generaron más información de la que el cerebro podía almacenar; surgió la escritura para registrar números, posesiones, impuestos y transacciones.
+Las sociedades complejas generaron más información de la que el cerebro podía almacenar. Surgió la escritura para registrar números, posesiones, impuestos y transacciones.
 
 Los sumerios combinaron símbolos numéricos y de personas, animales y territorios en tablillas de arcilla. Entre 3000 y 2500 a.C. evolucionó el sistema cuneiforme para actas, oráculos y cartas personales.
 
@@ -80,7 +92,7 @@ Idea clave: La escritura nació como herramienta burocrática y luego se expandi
 
 Capítulo nueve. Cultura
 
-Mitologías, normas y leyes sostuvieron el orden social; esa red de instintos artificiales es la cultura.
+Mitologías, normas y leyes sostuvieron el orden social. Esa red de instintos artificiales es la cultura.
 
 Cada grupo tenía su visión del mundo y normas propias en constante cambio. Vista desde lejos, la historia tiende a la unificación: muchos mundos humanos aislados se fusionaron en una cultura global interconectada, aunque heterogénea.
 
@@ -94,9 +106,9 @@ Idea clave: Dinero, imperio y religión globalizaron la imaginación humana much
 
 Capítulo 11. ¿Cuánto cuesta?
 
-Los cazadores-recolectores vivían en economía de favores; la agricultura impulsó el trueque y luego el dinero.
+Los cazadores-recolectores vivían en economía de favores. La agricultura impulsó el trueque y luego el dinero.
 
-La cebada sirvió como moneda convertible; en Mesopotamia aparecieron los siclos de plata (8,33 gramos), valor cultural sin uso alimenticio. La confianza en el dinero sin valor intrínseco fue el gran salto.
+La cebada sirvió como moneda convertible. En Mesopotamia aparecieron los siclos de plata (8,33 gramos), valor cultural sin uso alimenticio. La confianza en el dinero sin valor intrínseco fue el gran salto.
 
 Idea clave: El dinero resolvió la escasez del trueque al crear confianza en símbolos abstractos de valor.
 
@@ -104,7 +116,7 @@ Capítulo 12. La visión imperial
 
 Escritura y dinero facilitaron el comercio, pero el crecimiento exigió jerarquías imperiales con reyes legitimados por dioses —como el código de Hammurabi (1776 a.C.).
 
-Los imperios amalgamaron culturas diversas y redujeron la diversidad humana. Desde el año 200 d.C. la tendencia imperial fue global; en el siglo XXI el nacionalismo cede ante bloques internacionales y una élite multiétnica con intereses comunes.
+Los imperios amalgamaron culturas diversas y redujeron la diversidad humana. Desde el año 200 d.C. la tendencia imperial fue global. En el siglo XXI el nacionalismo cede ante bloques internacionales y una élite multiétnica con intereses comunes.
 
 Idea clave: Los imperios unificaron la humanidad bajo un manto político, a costa de muchas culturas locales.
 
@@ -134,7 +146,7 @@ Idea clave: Conquistar territorios y conocimiento se reforzaron mutuamente en la
 
 Capítulo 16. Un abrazo de oso
 
-Capital y política se entrelazaron; el libre mercado chocó con sus desigualdades y el miedo al comunismo moderó las ambiciones.
+Capital y política se entrelazaron. El libre mercado chocó con sus desigualdades, y el miedo al comunismo moderó las ambiciones.
 
 Acuerdos buscaron equilibrar beneficio comunitario y ganancia privada, aunque a veces dudemos de que respondan a todos.
 
@@ -150,7 +162,7 @@ Idea clave: Energía barata y confianza crediticia alimentaron el crecimiento y 
 
 Capítulo 18. ¿Dónde encajo en esta historia?
 
-Tras revoluciones que transformaron planeta y sociedad, la pregunta clave: ¿somos más felices?
+Después de revoluciones que transformaron planeta y sociedad, la pregunta inevitable es: ¿somos más felices?
 
 Los historiadores rara vez la plantean. Encuestas de bienestar sugieren que la felicidad depende más de lo cotidiano que de los grandes eventos históricos. El sapiens parece tener un equilibrio entre indulgencia e insatisfacción que asegura la supervivencia.
 
@@ -209,15 +221,3 @@ Yuval Noah Harari, Historiador israelí; autor de Sapiens (2011).
 Adam Smith, Economista; La riqueza de las naciones y la defensa del mercado.
 
 Hammurabi, Rey babilonio; código de leyes imperial (~1776 a.C.).
-
-La idea central
-
-La historia del sapiens es una cadena de revoluciones imaginativas.
-
-Cada una reconfiguró cooperación, poder y significado.
-
-Pero el progreso material no trajo felicidad proporcional.
-
-El siglo XXI abre la puerta a rediseñar la propia especie.
-
-¿Estamos preparados para ese poder?

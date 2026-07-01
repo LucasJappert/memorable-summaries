@@ -123,15 +123,15 @@ export const determined: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "<span class=\"person\">Robert M. Sapolsky</span> abre con la anécdota de <span class=\"person\">William James</span> y la anciana que cree que el mundo descansa sobre tortugas infinitas. Burlarse de ella es fácil; lo absurdo es creer que <em>alguna</em> tortuga flota sin causa.",
+          html: "<span class=\"person\">Robert M. Sapolsky</span> abre con la anécdota de <span class=\"person\">William James</span> y la anciana que cree que el mundo descansa sobre tortugas infinitas. Burlarse de ella es fácil. Lo absurdo es creer que <em>alguna</em> tortuga flota sin causa.",
         },
         {
           type: 'paragraph',
-          html: "Cada comportamiento —heroico o vil— tiene causas previas: neuronas del segundo anterior, pensamientos, hormonas, meses de experiencia, adolescencia, infancia, feto, genes, cultura, ecología y evolución. No hay <span class=\"term\">causa sin causa</span>. Somos «suerte biológica y ambiental acumulada» sobre la que no tuvimos control.",
+          html: "Cada comportamiento, heroico o vil, tiene causas previas. Van desde las neuronas del segundo anterior hasta pensamientos, hormonas, meses de experiencia, adolescencia, infancia, feto, genes, cultura, ecología y evolución. No hay <span class=\"term\">causa sin causa</span>. Somos «suerte biológica y ambiental acumulada» sobre la que no tuvimos control.",
         },
         {
           type: 'paragraph',
-          html: "Negar libre albedrío implica: no hay culpa retributiva merecida; el castigo solo por contener peligro; el elogio como herramienta instrumental, no merecimiento. La mayoría cree en libre albedrío cuando importa —filósofos (~<span class=\"num\">90 %</span>), jueces, padres, incluso primates atribuyen más culpa a conductores humanos que a coches autónomos.",
+          html: "Negar libre albedrío implica varias consecuencias. No hay culpa retributiva merecida. El castigo solo sirve para contener peligro. El elogio es herramienta instrumental, no merecimiento. La mayoría cree en libre albedrío cuando importa: filósofos (~<span class=\"num\">90 %</span>), jueces, padres e incluso primates atribuyen más culpa a conductores humanos que a coches autónomos.",
         },
         {
           type: 'concept-grid',
@@ -167,15 +167,15 @@ export const determined: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Una escena nocturna en un aeródromo: un civil dispara a un militar; un policía no lo detiene. Sin contexto, parece corrupción y asesinato frío. Es el final de <em>Casablanca</em> —la intención microscópica no basta para entender la acción.",
+          html: "Una escena nocturna en un aeródromo: un civil dispara a un militar y un policía no lo detiene. Fuera de contexto, la escena parece corrupción y asesinato a sangre fría. Es el final de <em>Casablanca</em>. La intención microscópica no basta para entender la acción.",
         },
         {
           type: 'paragraph',
-          html: "Décadas de estudios <span class=\"term\">libetianos</span> (<span class=\"person\">Benjamin Libet</span>, <span class=\"num\">1983</span>): potencial de preparación ~<span class=\"num\">300 ms</span> antes de sentir decidir; fMRI hasta <span class=\"num\">10 s</span> antes (<span class=\"person\">Haynes</span>); neuronas individuales ~<span class=\"num\">80 %</span> precisión (<span class=\"person\">Itzhak Fried</span>). Compatibilistas contraatacan: tareas artificiales, predicción ~<span class=\"num\">60 %</span>, «free won't» como veto.",
+          html: "Décadas de estudios <span class=\"term\">libetianos</span> (<span class=\"person\">Benjamin Libet</span>, <span class=\"num\">1983</span>) muestran potencial de preparación ~<span class=\"num\">300 ms</span> antes de sentir decidir. El fMRI llega hasta <span class=\"num\">10 s</span> antes (<span class=\"person\">Haynes</span>). Neuronas individuales predicen con ~<span class=\"num\">80 %</span> de precisión (<span class=\"person\">Itzhak Fried</span>). Los compatibilistas contraatacan con tareas artificiales, predicción ~<span class=\"num\">60 %</span> y el «free won't» como veto.",
         },
         {
           type: 'paragraph',
-          html: "Sapolsky concluye: aunque Libet no mate el libre albedrío, es <em>irrelevante</em>. Falta la pregunta central: ¿de dónde vino la intención? Podemos hacer lo que intendemos, nunca intendemos lo que intendimos. Juzgar solo el presente —como <span class=\"person\">Daniel Dennett</span> diciendo que «la suerte se promedia con el tiempo»— es miopía moral.",
+          html: "Sapolsky concluye que, aunque Libet no mate el libre albedrío, es <em>irrelevante</em>. Falta la pregunta central: ¿de dónde vino la intención? Podemos hacer lo que intendemos, pero nunca intendemos lo que intendimos. Juzgar solo el presente, como cuando <span class=\"person\">Daniel Dennett</span> dice que «la suerte se promedia con el tiempo», es miopía moral.",
         },
         {
           type: 'key',
@@ -195,7 +195,7 @@ export const determined: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Experimentos de «priming» (p. ej. la palabra «ocean» inclina a elegir «Tide») muestran influencias inconscientes; incluso resistir el priming es estar determinado por reconocerlo. Meta-consciencia no restaura libertad.",
+          html: "Experimentos de «priming» muestran influencias inconscientes. Por ejemplo, la palabra «ocean» inclina a elegir «Tide». Incluso resistir el priming es estar determinado por reconocerlo. La meta-consciencia no restaura libertad.",
         },
         {
           type: 'paragraph',
@@ -215,15 +215,15 @@ export const determined: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Algunos compatibilistas postergan libre albedrío al pasado: «tuviste tiempo de convertirte en otra persona». <span class=\"person\">Neil Levy</span> resume esa postura; Sapolsky responde: el <em>was</em> fue alguna vez <em>now</em> — también determinado.",
+          html: "Algunos compatibilistas postergan libre albedrío al pasado: «tuviste tiempo de convertirte en otra persona». <span class=\"person\">Neil Levy</span> resume esa postura. Sapolsky responde que el <em>was</em> fue alguna vez <em>now</em>, y también estuvo determinado.",
         },
         {
           type: 'paragraph',
-          html: "Mito central: «lo que te dieron» vs. «lo que haces con ello» (grit, resistir impulsos). Caso <span class=\"person\">Jerry Sandusky</span>: <span class=\"person\">James Cantor</span> admite que no se elige ser pedófilo, pero sí «elegir no ser abusador» — dualismo falso.",
+          html: "El mito central separa «lo que te dieron» de «lo que haces con ello» (grit, resistir impulsos). El caso <span class=\"person\">Jerry Sandusky</span> lo ilustra. <span class=\"person\">James Cantor</span> admite que no se elige ser pedófilo, pero sí «elegir no ser abusador». Es un dualismo falso.",
         },
         {
           type: 'paragraph',
-          html: "La <span class=\"term\">corteza prefrontal</span> (PFC) madura hacia mediados de los veinte; regula impulsos, reglas reversibles, control social. Ambos lados de la tabla (atributos biológicos y «carácter») son biología + entorno.",
+          html: "La <span class=\"term\">corteza prefrontal</span> (PFC) madura hacia mediados de los veinte. Regula impulsos, reglas reversibles y control social. Ambos lados de la tabla, atributos biológicos y «carácter», son biología más entorno.",
         },
         {
           type: 'key',
@@ -287,7 +287,7 @@ export const determined: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Compatibilistas como <span class=\"person\">Michael Gazzaniga</span> ubican responsabilidad en el «nivel social», no en neuronas. Sapolsky: la socialidad también es producto biológico; declararla libre por convención no la hace causa sui.",
+          html: "<span class=\"person\">Michael Gazzaniga</span> y otros compatibilistas ubican la responsabilidad en el «nivel social», no en neuronas. Sapolsky responde que la socialidad también es producto biológico. Declararla libre por convención no la hace causa sui.",
         },
         {
           type: 'key',
@@ -303,7 +303,7 @@ export const determined: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Argumento: la mente «emerge» del cerebro, luego controla al cerebro —círculo que salvaría agencia. Sapolsky: es circular; niveles superiores siguen siendo físicos.",
+          html: "Algunos argumentan que la mente «emerge» del cerebro y luego lo controla, un círculo que salvaría agencia. Sapolsky lo considera circular. Los niveles superiores siguen siendo físicos.",
         },
         {
           type: 'paragraph',
@@ -323,7 +323,7 @@ export const determined: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "La mecánica cuántica introduce genuina indeterminación en partículas. ¿Rescata libre albedrío? Laplace estaba incompleto; el universo no es billar clásico.",
+          html: "La mecánica cuántica introduce genuina indeterminación en partículas. ¿Rescata libre albedrío? Laplace estaba incompleto. El universo no es billar clásico.",
         },
         {
           type: 'paragraph',
@@ -347,7 +347,7 @@ export const determined: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Azar y determinismo son las únicas opciones; ninguna produce el libre albedrío que la gente cree tener.",
+          html: "Azar y determinismo son las únicas opciones. Ninguna produce el libre albedrío que la gente cree tener.",
         },
         {
           type: 'key',
@@ -383,7 +383,7 @@ export const determined: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Temor clásico: sin libre albedrío, todos «correrían amok». Estudios de <span class=\"person\">Katherine Vohs</span>: leer a <span class=\"person\">Francis Crick</span> sobre determinismo aumenta trampa, agresión con salsa picante, reduce gratitud —pero efectos pequeños y replicación mixta.",
+          html: "El temor clásico es que, sin libre albedrío, todos «correrían amok». Los estudios de <span class=\"person\">Katherine Vohs</span> muestran que leer a <span class=\"person\">Francis Crick</span> sobre determinismo aumenta trampa, agresión con salsa picante y reduce gratitud. Los efectos son pequeños y la replicación es mixta.",
         },
         {
           type: 'paragraph',
@@ -391,7 +391,7 @@ export const determined: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Priming religioso mejora prosocialidad en creyentes; priming secular («deber cívico») hace lo mismo en ateos. Valores distintos, decencia comparable cuando se activan.",
+          html: "El priming religioso mejora prosocialidad en creyentes. El priming secular («deber cívico») hace lo mismo en ateos. Valores distintos, decencia comparable cuando se activan.",
         },
         {
           type: 'key',
@@ -431,7 +431,7 @@ export const determined: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Sociedades funcionan sin creer en brujas poseídas; pueden reorientarse hacia cuarentena médica en lugar de retribución. Cambio radical de marco es posible — ya ocurrió.",
+          html: "Las sociedades funcionan sin creer en brujas poseídas. Pueden reorientarse hacia cuarentena médica en lugar de retribución. Ese cambio radical de marco ya ocurrió.",
         },
         {
           type: 'key',
@@ -455,7 +455,7 @@ export const determined: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Escandinavia (p. ej. Noruega): más «confort» carcelario, menos reincidencia, costo social menor que EE. UU. El placer de castigar —evolución de normas de cooperación— puede sabotear el cambio.",
+          html: "En Escandinavia, por ejemplo Noruega, hay más «confort» carcelario, menos reincidencia y menor costo social que en EE. UU. El placer de castigar, arraigado en la evolución de normas de cooperación, puede sabotear el cambio.",
         },
         {
           type: 'key',
@@ -471,11 +471,11 @@ export const determined: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "No hay «por qué» más allá de «porque lo anterior». Universo indiferente; mecanismos de <span class=\"term\">terror management</span> ante muerte y falta de sentido. Compatibilistas a veces defienden libre albedrío porque «sería un downer» sin él (<span class=\"person\">Stephen Cave</span>, <span class=\"num\">2016</span>).",
+          html: "No hay «por qué» más allá de «porque lo anterior». El universo es indiferente. Los mecanismos de <span class=\"term\">terror management</span> ante muerte y falta de sentido siguen activos. Los compatibilistas a veces defienden libre albedrío porque «sería un downer» sin él (<span class=\"person\">Stephen Cave</span>, <span class=\"num\">2016</span>).",
         },
         {
           type: 'paragraph',
-          html: "Deprimidos estiman control con más precisión que otros —«más tristes pero más sabios». Verdad puede ser estrés según timing; aun así Sapolsky defiende enfrentarla. Implicaciones: menos auto-bullying por obesidad, TDAH, bipolaridad cuando se entiende biología.",
+          html: "Los deprimidos estiman el control con más precisión que otros. Son «más tristes pero más sabios». La verdad puede ser estrés según el timing. Aun así Sapolsky defiende enfrentarla. Las implicaciones incluyen menos auto-bullying por obesidad, TDAH o bipolaridad cuando se entiende la biología.",
         },
         {
           type: 'paragraph',

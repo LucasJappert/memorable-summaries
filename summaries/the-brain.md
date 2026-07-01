@@ -40,7 +40,7 @@ La neurociencia avanza tan rápido que rara vez nos detenemos a preguntar qué s
 El tejido computacional del cráneo es la maquinaria perceptual con la que navegamos el mundo, el material del que surgen decisiones e imaginación. Comprenderlo arroja luz sobre lo que damos por real en las relaciones personales y en la política social: cómo peleamos, por qué amamos, qué aceptamos como verdad, cómo educar y hacia dónde se dirige una especie que empieza a tomar sus propias riendas.
 
 <!-- paragraph -->
-Raramente hablamos del cerebro en la cultura popular; Eagleman lo interpreta como pista: estamos tan atrapados dentro de nuestra realidad que cuesta notar la trampa. Damos por hecho que los colores existen «afuera», que la memoria es como una cámara de video y que conocemos las razones reales de nuestras creencias.
+Raramente hablamos del cerebro en la cultura popular. Eagleman lo interpreta como pista de que estamos tan atrapados dentro de nuestra realidad que cuesta notar la trampa. Damos por hecho que los colores existen «afuera», que la memoria funciona como una cámara de video y que conocemos las razones reales de nuestras creencias.
 
 <!-- key -->
 Este libro pone bajo el foco esas suposiciones: identidad, percepción, control, decisión, socialidad y futuro de la especie.
@@ -53,13 +53,13 @@ Este libro pone bajo el foco esas suposiciones: identidad, percepción, control,
 ## title: ¿Quién soy yo?
 
 <!-- paragraph lead -->
-Todas las experiencias —desde una conversación hasta la cultura que te rodea— moldean los detalles microscópicos del cerebro. Neuronalmente, quién eres depende de dónde has estado. El cerebro es un <span class="term">livewire</span> (cableado vivo): reescribe su propia circuitería; la identidad es un blanco en movimiento que nunca alcanza un punto final.
+Todas las experiencias, desde una conversación hasta la cultura que te rodea, moldean los detalles microscópicos del cerebro. Neuronalmente, quién eres depende de dónde has estado. El cerebro es un <span class="term">livewire</span> (cableado vivo) que reescribe su propia circuitería. La identidad es un blanco en movimiento que nunca alcanza un punto final.
 
 <!-- paragraph -->
-Un cerebro adulto pesa unos <span class="num">1,4 kg</span> (tres libras), con consistencia de gelatina firme. Pensamientos, sueños y recuerdos surgen de patrones de pulsos electroquímicos; cuando esa actividad cesa, tú cesas. A diferencia de otros órganos, dañar un fragmento pequeño del cerebro puede cambiar radicalmente quién eres.
+Un cerebro adulto pesa unos <span class="num">1,4 kg</span> (tres libras), con consistencia de gelatina firme. Pensamientos, sueños y recuerdos surgen de patrones de pulsos electroquímicos. Cuando esa actividad cesa, tú cesas. A diferencia de otros órganos, dañar un fragmento pequeño del cerebro puede cambiar radicalmente quién eres.
 
 <!-- paragraph -->
-Los humanos nacen <span class="term">inacabados</span>: dependemos años de cuidadores mientras el cerebro se moldea por experiencia. A los dos años hay más de <span class="num">100 billones</span> de sinapsis —el doble que en la adultez—; luego la <span class="term">poda neuronal</span> elimina conexiones no usadas. Te conviertes en quien eres no por lo que crece, sino por lo que se elimina.
+Los humanos nacen <span class="term">inacabados</span> y dependemos años de cuidadores mientras el cerebro se moldea por experiencia. A los dos años hay más de <span class="num">100 billones</span> de sinapsis, el doble que en la adultez. Luego la <span class="term">poda neuronal</span> elimina conexiones no usadas. Te conviertes en quien eres no por lo que crece, sino por lo que se elimina.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -72,7 +72,7 @@ Los humanos nacen <span class="term">inacabados</span>: dependemos años de cuid
 La adolescencia trae una segunda oleada de poda en la corteza prefrontal (hasta ~<span class="num">25</span> años). Los adolescentes muestran mayor ansiedad social (corteza prefrontal medial más activa) y más búsqueda de recompensa con control de impulsos inmaduro. Los taxistas londinenses que memorizan «The Knowledge» (~<span class="num">25 000</span> calles) desarrollan un hipocampo posterior agrandado.
 
 <!-- paragraph -->
-<span class="person">Charles Whitman</span> (<span class="num">1966</span>) pidió autopsia tras una matanza en la Torre de Texas; un tumor del tamaño de una moneda presionaba la amígdala. <span class="person">Elizabeth Loftus</span> demostró que recuerdos falsos —como perderse de niño en un centro comercial— pueden implantarse y enriquecerse con el tiempo.
+<span class="person">Charles Whitman</span> (<span class="num">1966</span>) pidió autopsia tras una matanza en la Torre de Texas. Un tumor del tamaño de una moneda presionaba la amígdala. <span class="person">Elizabeth Loftus</span> demostró que recuerdos falsos, como perderse de niño en un centro comercial, pueden implantarse y enriquecerse con el tiempo.
 
 <!-- key -->
 La identidad no es un núcleo fijo: es un patrón neural en constante reescritura, desde la cuna hasta la vejez.
@@ -85,13 +85,13 @@ La identidad no es un núcleo fijo: es un patrón neural en constante reescritur
 ## title: ¿Qué es la realidad?
 
 <!-- paragraph lead -->
-¿Y si el mundo de colores, texturas y olores fuera un espectáculo montado por el cerebro? Fuera del cráneo solo hay energía y materia; la evolución convirtió eso en experiencia rica. Ilusiones como las serpientes rotatorias de <span class="person">Akiyoshi Kitaoka</span> o el tablero de <span class="person">Edward Adelson</span> muestran que la percepción depende más de adentro que de afuera.
+¿Y si el mundo de colores, texturas y olores fuera un espectáculo montado por el cerebro? Fuera del cráneo solo hay energía y materia. La evolución convirtió eso en experiencia rica. Ilusiones como las serpientes rotatorias de <span class="person">Akiyoshi Kitaoka</span> o el tablero de <span class="person">Edward Adelson</span> muestran que la percepción depende más de adentro que de afuera.
 
 <!-- paragraph -->
 El cerebro, sellado en la oscuridad del cráneo, nunca experimentó directamente el mundo exterior. Los sentidos traducen fotones, ondas de presión, moléculas y textura a señales electroquímicas. Cerca de un tercio del cerebro humano se dedica a la visión.
 
 <!-- paragraph -->
-<span class="person">Mike May</span> recuperó la vista tras más de <span class="num">40</span> años de ceguera: los ojos funcionaban, pero el cerebro no «veía». Solo el gatito que caminaba —no el que iba en góndola— desarrolló visión normal (<span class="person">Held</span> y <span class="person">Hein</span>, <span class="num">1963</span>). Ver exige entrenar cuerpo y sentidos juntos.
+<span class="person">Mike May</span> recuperó la vista tras más de <span class="num">40</span> años de ceguera. Los ojos funcionaban, pero el cerebro no «veía». En el experimento de <span class="person">Held</span> y <span class="person">Hein</span> (<span class="num">1963</span>), solo el gatito que caminaba, no el que iba en góndola, desarrolló visión normal. Ver exige entrenar cuerpo y sentidos juntos.
 
 <!-- big-numbers -->
 | value | label |
@@ -101,7 +101,7 @@ El cerebro, sellado en la oscuridad del cráneo, nunca experimentó directamente
 | 10× | Conexiones corteza→tálamo vs. tálamo→corteza visual |
 
 <!-- paragraph -->
-Gafas de prisma invierten izquierda y derecha: en minutos provocan náusea; tras una semana el cerebro re-mapea el espacio. El cerebro sincroniza sentidos con retraso: vives en el pasado para que todo parezca simultáneo. En el «Hole» de Alcatraz, sin luz ni sonido, el <span class="term">modelo interno</span> sigue generando imágenes vívidas.
+Gafas de prisma invierten izquierda y derecha. En minutos provocan náusea. Después de una semana, el cerebro re-mapea el espacio. El cerebro sincroniza sentidos con retraso, de modo que vives en el pasado para que todo parezca simultáneo. En el «Hole» de Alcatraz, sin luz ni sonido, el <span class="term">modelo interno</span> sigue generando imágenes vívidas.
 
 <!-- key -->
 La realidad consciente es construcción cerebral: predicción, comparación de errores y edición temporal, no registro fiel del exterior.
@@ -114,16 +114,16 @@ La realidad consciente es construcción cerebral: predicción, comparación de e
 ## title: ¿Quién manda?
 
 <!-- paragraph lead -->
-Actos simples —reconocer un rostro, conducir, entender un chiste— requieren cálculos masivos bajo el umbral de la conciencia. ¿Quién conduce el barco si la mayor parte del trabajo es invisible?
+Actos simples como reconocer un rostro, conducir o entender un chiste requieren cálculos masivos bajo el umbral de la conciencia. ¿Quién conduce el barco si la mayor parte del trabajo es invisible?
 
 <!-- paragraph -->
-Al leer, los ojos saltan en <span class="term">sacadas</span> de ~<span class="num">20 ms</span>; el cerebro estabiliza la escena. La conciencia llega tarde: en experimentos de «veto», la preparación motora aparece en EEG antes de que sientas la intención de moverte.
+Al leer, los ojos saltan en <span class="term">sacadas</span> de ~<span class="num">20 ms</span>. El cerebro estabiliza la escena. La conciencia llega tarde. En experimentos de «veto», la preparación motora aparece en EEG antes de que sientas la intención de moverte.
 
 <!-- paragraph -->
 Pacientes con <span class="term">cerebro dividido</span> (cuerpo calloso seccionado) muestran dos sistemas de control: la mano izquierda puede elegir ropa que la boca no puede nombrar. El cerebro es un equipo de rivales, no un monarca único.
 
 <!-- paragraph -->
-La <span class="term">propiocepción</span> —saber dónde están las partes del cuerpo— puede fallar (síndrome de miembro fantasma, «mano extraña»). Las ondas cerebrales pasan de complejidad despierta a sincronía en sueño profundo: la conciencia emerge de ritmos neuronales integrados.
+La <span class="term">propiocepción</span>, es decir saber dónde están las partes del cuerpo, puede fallar en el síndrome de miembro fantasma o en la «mano extraña». Las ondas cerebrales pasan de complejidad despierta a sincronía en sueño profundo. La conciencia emerge de ritmos neuronales integrados.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -165,16 +165,16 @@ Decidir no es un acto único del yo: es competencia entre sistemas automáticos,
 ## title: ¿Te necesito?
 
 <!-- paragraph lead -->
-¿Qué necesita el cerebro para funcionar? Más allá de nutrientes y oxígeno, necesita <span class="term">otros cerebros</span>. Los humanos somos ultrasociales; la corteza prefrontal medial se activa al pensar en nosotros mismos y en los demás.
+¿Qué necesita el cerebro para funcionar? Más allá de nutrientes y oxígeno, necesita <span class="term">otros cerebros</span>. Los humanos somos ultrasociales. La corteza prefrontal medial se activa al pensar en nosotros mismos y en los demás.
 
 <!-- paragraph -->
-Neuronas <span class="term">espejo</span> y circuitos de empatía nos permiten simular estados ajenos. La soledad crónica daña salud como el tabaquismo; la interacción social es neuroquímica —oxitocina, dopamina— no lujo opcional.
+Neuronas <span class="term">espejo</span> y circuitos de empatía nos permiten simular estados ajenos. La soledad crónica daña la salud como el tabaquismo. La interacción social depende de neuroquímica (oxitocina, dopamina) y no es un lujo opcional.
 
 <!-- paragraph -->
 El <span class="term">autismo</span> y el <span class="term">síndrome E</span> (empatía reducida) muestran espectros de conexión social. La cultura esculpe cerebros: normas, lenguaje y rituales dejan huellas físicas en redes neuronales.
 
 <!-- paragraph -->
-El estudio de órdenes religiosas (<span class="person">David Bennett</span>, Rush University) reveló que reserva cognitiva —actividad mental, redes sociales, propósito— puede compensar patología de Alzheimer en autopsia.
+El estudio de órdenes religiosas dirigido por <span class="person">David Bennett</span> en Rush University reveló que la reserva cognitiva (actividad mental, redes sociales, propósito) puede compensar la patología de Alzheimer en autopsia.
 
 <!-- key -->
 No hay cerebro aislado: tu identidad es negociación continua entre tu red neural y las de los demás.
@@ -187,16 +187,16 @@ No hay cerebro aislado: tu identidad es negociación continua entre tu red neura
 ## title: ¿Quiénes seremos?
 
 <!-- paragraph lead -->
-El cuerpo humano reúne unos <span class="num">40 billones</span> de células; el cerebro es su director de orquesta. La tecnología empieza a fusionarse con la biología: prótesis, interfaces cerebro-computadora y edición genética plantean preguntas sobre qué significará ser humano.
+El cuerpo humano reúne unos <span class="num">40 billones</span> de células. El cerebro es su director de orquesta. La tecnología empieza a fusionarse con la biología. Prótesis, interfaces cerebro-computadora y edición genética plantean preguntas sobre qué significará ser humano.
 
 <!-- paragraph -->
 Prótesis auditivas y visuales ya traducen señales al lenguaje neural. El chaleco <span class="term">Vest</span> convierte datos en patrones táctiles que el cerebro aprende a «oír». La muerte legal y la muerte cerebral divergen a medida que la tecnología mantiene funciones aisladas.
 
 <!-- paragraph -->
-La microscopía electrónica serial y el <span class="term">conectoma</span> —mapa de todas las conexiones— avanzan en ratones y humanos. Subir cerebros completos a silicio sigue siendo especulativo, pero la tendencia es clara: la frontera entre máquina y mente se difumina.
+La microscopía electrónica serial y el <span class="term">conectoma</span>, el mapa de todas las conexiones neuronales, avanzan en ratones y humanos. Subir cerebros completos a silicio sigue siendo especulativo, pero la tendencia es clara. La frontera entre máquina y mente se difumina.
 
 <!-- paragraph -->
-Eagleman defiende que debemos diseñar políticas y ética a la velocidad de la neurociencia, no de la burocracia. La especie empieza a tomar sus propias riendas biológicas; las decisiones de hoy esculpen los cerebros de mañana.
+Eagleman defiende que debemos diseñar políticas y ética a la velocidad de la neurociencia, no de la burocracia. La especie empieza a tomar sus propias riendas biológicas. Las decisiones de hoy esculpen los cerebros de mañana.
 
 <!-- timeline -->
 | year | text |
@@ -270,9 +270,9 @@ El futuro no es solo más tecnología: es redefinir identidad, muerte y capacida
 
 <!-- closing -->
 Eres el producto de un órgano que nunca deja de reescribirse.
-La identidad no es un núcleo inmutable sino un patrón neural único, moldeado por cada experiencia.
+Cada experiencia deja huella en el cableado que define quién eres.
 <!-- highlight -->No percibes el mundo: tu cerebro lo construye, lo retrasa y lo edita para ti.<!-- /highlight -->
-La conciencia es la punta visible de operaciones masivas que ya decidieron antes de que «tú» lo sepas.
+Lo que llamas «tú» suele llegar cuando el trabajo neural ya está avanzado.
 Entender esto no nos quita agencia: nos obliga a diseñar mejor educación, justicia y futuro tecnológico.
 Somos obras en progreso, de la cuna a la prótesis.
 

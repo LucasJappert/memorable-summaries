@@ -163,11 +163,11 @@ export const sapiens: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El <span class=\"term\">Big Bang</span> describe el origen de materia y energía hace unos <span class=\"num\">13.500 millones</span> de años; unos <span class=\"num\">300.000</span> años después surgieron átomos y moléculas, y hace <span class=\"num\">3.800 millones</span> de años en la Tierra aparecieron organismos, entre ellos el <span class=\"term\">Homo sapiens</span>.",
+          html: "El <span class=\"term\">Big Bang</span> describe el origen de materia y energía hace unos <span class=\"num\">13.500 millones</span> de años. Unos <span class=\"num\">300.000</span> años después surgieron átomos y moléculas, y hace <span class=\"num\">3.800 millones</span> de años en la Tierra aparecieron organismos, entre ellos el <span class=\"term\">Homo sapiens</span>.",
         },
         {
           type: 'paragraph',
-          html: "Hace <span class=\"num\">70.000</span> años la especie formó estructuras más complejas llamadas <span class=\"term\">culturas</span>; su desarrollo es la <span class=\"term\">historia</span>. Tres revoluciones la marcaron: la cognitiva (~<span class=\"num\">70.000</span> a), la agrícola (~<span class=\"num\">12.000</span> a) y la científica (~<span class=\"num\">500</span> años).",
+          html: "Hace <span class=\"num\">70.000</span> años la especie formó estructuras más complejas llamadas <span class=\"term\">culturas</span>, y su desarrollo es la <span class=\"term\">historia</span>. Tres revoluciones la marcaron: la cognitiva (~<span class=\"num\">70.000</span> a), la agrícola (~<span class=\"num\">12.000</span> a) y la científica (~<span class=\"num\">500</span> años).",
         },
         {
           type: 'key',
@@ -223,11 +223,11 @@ export const sapiens: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El sapiens invadió la Tierra y provocó la extinción de otras especies humanas; las causas (cruce, exterminio) siguen debatiéndose.",
+          html: "El sapiens invadió la Tierra y provocó la extinción de otras especies humanas. Las causas (cruce, exterminio) siguen debatiéndose.",
         },
         {
           type: 'paragraph',
-          html: "La <span class=\"term\">revolución cognitiva</span> permitió arte, joyas, religión, comercio y estratos sociales. El lenguaje único puede referirse a cosas nunca vistas. Surgieron leyendas, mitos y dioses; el sapiens vivió en una <span class=\"term\">realidad dual</span>: objetiva (árboles, animales) e imaginada (naciones, dioses), donde la segunda llegó a dominar.",
+          html: "La <span class=\"term\">revolución cognitiva</span> permitió arte, joyas, religión, comercio y estratos sociales. El lenguaje único puede referirse a cosas nunca vistas. Surgieron leyendas, mitos y dioses, y el sapiens vivió en una <span class=\"term\">realidad dual</span>: objetiva (árboles, animales) e imaginada (naciones, dioses), donde la segunda llegó a dominar.",
         },
         {
           type: 'paragraph',
@@ -251,7 +251,7 @@ export const sapiens: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La teoría de la «comuna primitiva» explica infidelidades como herencia de estructuras sin propiedad privada ni paternidad segura; otros eruditos defienden la monogamia como comportamiento histórico humano. No hubo un único modo de vida desde la revolución cognitiva, sino un abanico de opciones culturales.",
+          html: "La teoría de la «comuna primitiva» explica infidelidades como herencia de estructuras sin propiedad privada ni paternidad segura. Otros eruditos defienden la monogamia como comportamiento histórico humano. No hubo un único modo de vida desde la revolución cognitiva, sino un abanico de opciones culturales.",
         },
         {
           type: 'paragraph',
@@ -275,7 +275,7 @@ export const sapiens: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Más comida no significó mejor alimentación ni más tiempo libre, sino explosiones demográficas y élites. El agricultor trabajó más y comió peor que el cazador-recolector. Algunos plantean que plantas como el trigo «domesticaron» al sapiens. El sedentarismo permitió un hijo por año; la mortalidad infantil subió, pero los nacimientos superaron las muertes.",
+          html: "Más comida no significó mejor alimentación ni más tiempo libre, sino explosiones demográficas y élites. El agricultor trabajó más y comió peor que el cazador-recolector. Algunos plantean que plantas como el trigo «domesticaron» al sapiens. El sedentarismo permitió un hijo por año. La mortalidad infantil subió, pero los nacimientos superaron las muertes.",
         },
         {
           type: 'paragraph',
@@ -295,7 +295,7 @@ export const sapiens: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Los cazadores-recolectores no planificaban el futuro; la agricultura lo hizo central por la incertidumbre de las cosechas.",
+          html: "Los cazadores-recolectores no planificaban el futuro. La agricultura lo hizo central por la incertidumbre de las cosechas.",
         },
         {
           type: 'paragraph',
@@ -315,7 +315,7 @@ export const sapiens: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Las sociedades complejas generaron más información de la que el cerebro podía almacenar; surgió la <span class=\"term\">escritura</span> para registrar números, posesiones, impuestos y transacciones.",
+          html: "Las sociedades complejas generaron más información de la que el cerebro podía almacenar. Surgió la <span class=\"term\">escritura</span> para registrar números, posesiones, impuestos y transacciones.",
         },
         {
           type: 'paragraph',
@@ -335,7 +335,7 @@ export const sapiens: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Mitologías, normas y leyes sostuvieron el orden social; esa red de «instintos artificiales» es la <span class=\"term\">cultura</span>.",
+          html: "Mitologías, normas y leyes sostuvieron el orden social. Esa red de «instintos artificiales» es la <span class=\"term\">cultura</span>.",
         },
         {
           type: 'paragraph',
@@ -371,11 +371,11 @@ export const sapiens: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Los cazadores-recolectores vivían en economía de favores; la agricultura impulsó el <span class=\"term\">trueque</span> y luego el <span class=\"term\">dinero</span>.",
+          html: "Los cazadores-recolectores vivían en economía de favores. La agricultura impulsó el <span class=\"term\">trueque</span> y luego el <span class=\"term\">dinero</span>.",
         },
         {
           type: 'paragraph',
-          html: "La cebada sirvió como moneda convertible; en Mesopotamia aparecieron los <span class=\"term\">siclos de plata</span> (<span class=\"num\">8,33</span> gramos), valor cultural sin uso alimenticio. La confianza en el dinero sin valor intrínseco fue el gran salto.",
+          html: "La cebada sirvió como moneda convertible. En Mesopotamia aparecieron los <span class=\"term\">siclos de plata</span> (<span class=\"num\">8,33</span> gramos), valor cultural sin uso alimenticio. La confianza en el dinero sin valor intrínseco fue el gran salto.",
         },
         {
           type: 'key',
@@ -395,7 +395,7 @@ export const sapiens: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Los imperios amalgamaron culturas diversas y redujeron la diversidad humana. Desde el año <span class=\"num\">200</span> d.C. la tendencia imperial fue global; en el siglo XXI el nacionalismo cede ante bloques internacionales y una élite multiétnica con intereses comunes.",
+          html: "Los imperios amalgamaron culturas diversas y redujeron la diversidad humana. Desde el año <span class=\"num\">200</span> d.C. la tendencia imperial fue global. En el siglo XXI el nacionalismo cede ante bloques internacionales y una élite multiétnica con intereses comunes.",
         },
         {
           type: 'key',
@@ -471,7 +471,7 @@ export const sapiens: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Capital y política se entrelazaron; el <span class=\"term\">libre mercado</span> chocó con sus desigualdades y el miedo al comunismo moderó las ambiciones.",
+          html: "Capital y política se entrelazaron. El <span class=\"term\">libre mercado</span> chocó con sus desigualdades, y el miedo al comunismo moderó las ambiciones.",
         },
         {
           type: 'paragraph',
@@ -511,7 +511,7 @@ export const sapiens: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Tras revoluciones que transformaron planeta y sociedad, la pregunta clave: ¿somos más felices?",
+          html: "Después de revoluciones que transformaron planeta y sociedad, la pregunta inevitable es: ¿somos más felices?",
         },
         {
           type: 'paragraph',

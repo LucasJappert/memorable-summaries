@@ -36,10 +36,10 @@ lang: es
 ## title: Emisarios hacia las estrellas
 
 <!-- paragraph lead -->
-El <span class="num">20 de agosto</span> y el <span class="num">5 de septiembre de 1977</span> se lanzaron dos naves Voyager hacia las estrellas. Tras explorar Júpiter, Saturno y más allá, abandonarán el sistema solar como emisarios de la Tierra. A cada una se fijó un disco fonográfico de cobre recubierto de oro.
+El <span class="num">20 de agosto</span> y el <span class="num">5 de septiembre de 1977</span> se lanzaron dos naves Voyager hacia las estrellas. Las dos naves explorarán Júpiter, Saturno y más allá, y luego abandonarán el sistema solar como emisarios de la Tierra. A cada una se fijó un disco fonográfico de cobre recubierto de oro.
 
 <!-- paragraph -->
-El registro contiene <span class="num">118</span> fotografías de nuestro planeta y civilización; casi <span class="num">90</span> minutos de música; un ensayo sonoro evolutivo «The Sounds of Earth»; y saludos en casi sesenta idiomas humanos (y uno de ballena), incluyendo mensajes del presidente de EE. UU. y del secretario general de la ONU.
+El registro contiene <span class="num">118</span> fotografías de nuestro planeta y civilización, casi <span class="num">90</span> minutos de música y un ensayo sonoro evolutivo llamado «The Sounds of Earth». También incluye saludos en casi sesenta idiomas humanos (y uno de ballena), con mensajes del presidente de EE. UU. y del secretario general de la ONU.
 
 <!-- paragraph -->
 Este libro, escrito por quienes diseñaron el contenido del Disco, explica por qué lo hicieron, cómo seleccionaron el repertorio y qué contiene exactamente.
@@ -58,7 +58,7 @@ Voyager lleva un mensaje físico a posibles civilizaciones lejanas —y, sobre t
 <span class="person">Carl Sagan</span> abre con cápsulas del tiempo: desde las inscripciones de <span class="person">Esarhaddon</span> en el siglo VII a.C. hasta la Feria Mundial de Nueva York de <span class="num">1939</span>. Comunicar con el futuro expresa esperanza y enlaza a la especie a través del tiempo.
 
 <!-- paragraph -->
-La era espacial amplía el horizonte: civilizaciones alienígenas serían radicalmente distintas, pero la física y la química son universales. La primera comunicación exitosa, si ocurre, será científica. Las naves viajan muy lento (~<span class="num">10 km/s</span>); la radio viaja a la velocidad de la luz, pero recibir monólogos de civilizaciones avanzadas es más plausible que un diálogo.
+La era espacial amplía el horizonte. Las civilizaciones alienígenas serían radicalmente distintas, pero la física y la química son universales. La primera comunicación exitosa, si ocurre, será científica. Las naves viajan muy lento (~<span class="num">10 km/s</span>). La radio viaja a la velocidad de la luz, pero recibir monólogos de civilizaciones avanzadas es más plausible que un diálogo.
 
 <!-- paragraph -->
 Pioneer 10 y 11 fueron las primeras sondas interestelares, con placas de oro-anodizado. LAGEOS orbitará millones de años con una placa sobre deriva continental. En <span class="num">1976</span>, <span class="person">John Casani</span> pidió a Sagan organizar un mensaje para Voyager.
@@ -90,7 +90,7 @@ El Disco Voyager es cápsula del tiempo cósmica: ciencia, arte, sonido y saludo
 En noviembre de <span class="num">1974</span>, en la rededicación del radiotelescopio de Arecibo, se transmitió el primer mensaje humano deliberado al espacio: un bitmap de <span class="num">551</span> caracteres con el sistema solar, ADN, figura humana y el propio radiotelescopio. No fue un intento serio de contacto, sino demostración de capacidad técnica.
 
 <!-- paragraph -->
-Drake diseñó el mensaje con ayuda de <span class="person">Carl Sagan</span>. Los números binarios codifican longitudes; los caracteres forman una imagen que un receptor inteligente podría decodificar. La portada del Disco Voyager repite esta lógica: instrucciones científicas para reproducir el registro.
+Drake diseñó el mensaje con ayuda de <span class="person">Carl Sagan</span>. Los números binarios codifican longitudes. Los caracteres forman una imagen que un receptor inteligente podría decodificar. La portada del Disco Voyager repite esta lógica con instrucciones científicas para reproducir el registro.
 
 <!-- key -->
 Antes del Disco físico, Arecibo probó que podemos hablar al cosmos en el lenguaje de la matemática y la física.
@@ -127,10 +127,10 @@ Las imágenes no son postal turística: son lección autocontenida sobre quiéne
 ## title: Saludos de una Voyager
 
 <!-- paragraph lead -->
-<span class="person">Linda Salzman Sagan</span> coordinó los saludos hablados: más festivo que un simple «hola», más triste que un suspiro. El reto burocrático de la ONU casi impidió el proyecto; al final, delegados del Comité del Espacio Exterior grabaron mensajes —a menudo demasiado largos.
+<span class="person">Linda Salzman Sagan</span> coordinó los saludos hablados, buscando un tono más festivo que un simple «hola» y menos sombrío que un suspiro. El reto burocrático de la ONU casi impidió el proyecto. Al final, delegados del Comité del Espacio Exterior grabaron mensajes, a menudo demasiado largos.
 
 <!-- paragraph -->
-Se buscó diversidad de idiomas y voces masculinas/femeninas; en la práctica, casi todos los jefes de delegación eran hombres. <span class="person">Timothy Ferris</span> asistió a la sesión de la ONU y recortó discursos poéticos (Baudelaire, Martinson) a fragmentos breves. Un delegado australiano habló en esperanto.
+Se buscó diversidad de idiomas y voces masculinas y femeninas. En la práctica, casi todos los jefes de delegación eran hombres. <span class="person">Timothy Ferris</span> asistió a la sesión de la ONU y recortó discursos poéticos (Baudelaire, Martinson) a fragmentos breves. Un delegado australiano habló en esperanto.
 
 <!-- paragraph -->
 <span class="person">Roger Payne</span> aportó cantos de ballena jorobada como saludo de otra especie inteligente terrestre. También se incluyeron saludos del presidente Carter y del secretario general Kurt Waldheim, más saludos en ~<span class="num">54</span> idiomas de hablantes de al menos un millón de personas.
@@ -156,7 +156,7 @@ Decir «hola» al cosmos exigió diplomacia terrestre: la ONU, la ballena y la d
 <span class="person">Ann Druyan</span> produjo «The Sounds of Earth», un ensayo sonoro evolutivo: del Big Bang conceptual al hombre y su tecnología. Cita a Shakespeare (<em>The Tempest</em>): la isla está llena de ruidos, sonidos y aires dulces.
 
 <!-- paragraph -->
-La selección comenzó en la Biblioteca del Congreso y en grabaciones de campo. Incluye latidos, llanto de bebé, pájaros, viento, surf, truenos, volcanes, herramientas primitivas, trenes, cohete Saturno V, código Morse y un pulsar. Amigos y artistas contribuyeron; algunos rechazaron participar por desconfianza hacia el proyecto.
+La selección comenzó en la Biblioteca del Congreso y en grabaciones de campo. Incluye latidos, llanto de bebé, pájaros, viento, surf, truenos, volcanes, herramientas primitivas, trenes, cohete Saturno V, código Morse y un pulsar. Amigos y artistas contribuyeron. Algunos rechazaron participar por desconfianza hacia el proyecto.
 
 <!-- paragraph -->
 Murry Sidlin insistió en enviar «lo mejor de nosotros». El ensayo abre con tonos que reflejan movimientos del Sol y la Tierra, sigue con convulsiones geológicas tempranas, evolución de la vida y culmina con la civilización técnica que lanzó Voyager.
@@ -172,7 +172,7 @@ Los sonidos narran la historia de un planeta: de la física elemental al rugido 
 ## title: La música de Voyager
 
 <!-- paragraph lead -->
-<span class="person">Timothy Ferris</span> documenta la selección musical: «los mayores éxitos de la Tierra». Criterios: representatividad cultural, profundidad emocional y coherencia con el resto del mensaje. Bach y Beethoven representan la tradición occidental que lanzó la nave; Lomax amplió con música étnica global.
+<span class="person">Timothy Ferris</span> documenta la selección musical, que él llamó «los mayores éxitos de la Tierra». Los criterios fueron representatividad cultural, profundidad emocional y coherencia con el resto del mensaje. Bach y Beethoven representan la tradición occidental que lanzó la nave. Lomax amplió la selección con música étnica global.
 
 <!-- paragraph -->
 Debates maratonianos (hasta las 3 a.m. en el Smithsonian) enfrentaron jazz, rock, ópera y música folklórica. Se descartó «Here Comes the Sun» de los Beatles por problemas de copyright. Se incluyeron Navajo night chant, Louis Armstrong, Stravinsky, Mozart (aria de la Reina de la Noche), Bach (Partita para violín solo) y «Dark Was the Night» de Blind Willie Johnson junto a la Cavatina de Beethoven.
@@ -195,10 +195,10 @@ No hubo respuesta única correcta; cada elección musical fue negociación entre
 ## title: La misión Voyager al sistema solar exterior
 
 <!-- paragraph lead -->
-<span class="person">Carl Sagan</span> cierra con la ciencia de la misión: Júpiter, Saturno, Urano y Neptuno revelaron mundos inesperados. Los gigantes gaseosos giran rápido; sus lunas guardan hielo, volcanes y quizá océanos subterráneos.
+<span class="person">Carl Sagan</span> cierra con la ciencia de la misión. Júpiter, Saturno, Urano y Neptuno revelaron mundos inesperados. Los gigantes gaseosos giran rápido. Sus lunas guardan hielo, volcanes y quizá océanos subterráneos.
 
 <!-- paragraph -->
-Voyager 1 fotografió la Tierra como punto pálido; Voyager 2 visitó los cuatro gigantes exteriores. Europa, Ío, Titán y Tritón ampliaron nuestra noción de habitabilidad. La gravedad de Júpiter aceleró las naves hacia trayectorias de escape interestelar.
+Voyager 1 fotografió la Tierra como punto pálido. Voyager 2 visitó los cuatro gigantes exteriores. Europa, Ío, Titán y Tritón ampliaron nuestra noción de habitabilidad. La gravedad de Júpiter aceleró las naves hacia trayectorias de escape interestelar.
 
 <!-- paragraph -->
 Las imágenes científicas del capítulo complementan las del Disco: no solo saludo, sino testimonio de la exploración que hizo posible el mensaje. Cada luna es un mundo con historia propia de cuatro mil millones de años.
@@ -214,10 +214,10 @@ Voyager es simultáneamente exploradora del sistema solar y mensajera al vacío 
 ## title: Epílogo
 
 <!-- paragraph lead -->
-Al ver la llama final del cohete Titan partir de Cabo Cañaveral, Sagan contempló el destino del Disco. Fijado al exterior de la nave, enfrenta rayos cósmicos, radiación solar y —principalmente— micrometeoritos.
+Al ver la llama final del cohete Titan partir de Cabo Cañaveral, Sagan contempló el destino del Disco. Fijado al exterior de la nave, el registro enfrenta rayos cósmicos, radiación solar y, sobre todo, micrometeoritos.
 
 <!-- paragraph -->
-A ~<span class="num">15 km/s</span>, partículas del tamaño de polvo de cometa pueden picar el registro. Sin la cubierta de aluminio, ~<span class="num">10 %</span> del disco podría dañarse en un año-luz. La funda de <span class="num">0,08 cm</span> protege contra micrometeoritos más masivos que ~<span class="num">5 μg</span>.
+A ~<span class="num">15 km/s</span>, partículas del tamaño de polvo de cometa pueden picar el registro. La cubierta de aluminio evita que aproximadamente el <span class="num">10 %</span> del disco se dañe en un año-luz de viaje. La funda de <span class="num">0,08 cm</span> protege contra micrometeoritos más masivos que ~<span class="num">5 μg</span>.
 
 <!-- paragraph -->
 El campo estelar hacia la Osa Menor incluye AC+79 3888, hacia donde se dirige Voyager 1. El Disco orbitará el centro galáctico cada ~<span class="num">250 millones</span> de años, esencialmente para siempre —o hasta que alguien lo encuentre.

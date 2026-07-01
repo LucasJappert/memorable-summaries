@@ -1,18 +1,30 @@
 Homo Deus: Una breve historia del mañana, de Yuval Noah Harari.
 
+La idea central
+
+Harari parte de una conquista: hambre, enfermedad y guerra dejaron de ser destinos y pasaron a ser problemas técnicos.
+
+La nueva agenda (inmortalidad, felicidad, divinidad) nace del humanismo victorioso y de su pacto con la ciencia.
+
+Organismos como algoritmos, inteligencia sin conciencia y datos que nos conocen mejor que nosotros: tres oleadas convergentes.
+
+El liberalismo no caerá solo por filosofía, sino por obsolescencia práctica de votantes, consumidores y trabajadores.
+
+La religión del futuro podría venerar el flujo de información más que la experiencia humana, y quien controle el filtro tendrá el poder que antes tenía quien controlaba la verdad.
+
 Prefacio. De Sapiens a Deus
 
-Tras explicar en Sapiens cómo la especie conquistó la Tierra, Harari proyecta el futuro del mañana: ¿qué ocurre cuando las nuevas tecnologías otorgan poderes casi divinos —creativos y destructivos— y elevan la vida a otra etapa evolutiva?
+Harari, tras explicar en Sapiens cómo la especie conquistó la Tierra, proyecta el futuro del mañana: ¿qué ocurre cuando las nuevas tecnologías otorgan poderes casi divinos, creativos y destructivos, y elevan la vida a otra etapa evolutiva?
 
 ¿Cómo le irá al Homo sapiens cuando fabrique un Homo deus tecno-reforzado, más distinto del humano actual que este del neandertal? ¿Qué queda de nosotros y del humanismo si construimos máquinas que nos superan en casi todo? En la codicia por salud, felicidad y poder podríamos transformarnos hasta dejar de ser humanos.
 
-El libro se organiza en tres partes: (I) cómo el sapiens conquistó el mundo; (II) cómo dio sentido al mundo con ficciones compartidas; (III) cómo pierde el control ante biotecnología, IA y la religión de los datos. Harari advierte que el colapso del humanismo no tiene por qué ser catastrófico —como la caída de faraones o la muerte de Dios—, pero la historia no tolera vacíos.
+El libro se organiza en tres partes: (I) cómo el sapiens conquistó el mundo, (II) cómo dio sentido al mundo con ficciones compartidas, (III) cómo pierde el control ante biotecnología, IA y la religión de los datos. Harari advierte que el colapso del humanismo no tiene por qué ser catastrófico, como la caída de faraones o la muerte de Dios, pero la historia no tolera vacíos.
 
 Capítulo uno. La nueva agenda humana
 
-Al amanecer del tercer milenio, la humanidad descubre que los tres problemas milenarios —hambre, enfermedad y guerra— ya no dominan la agenda como fuerzas incontrolables de la naturaleza, sino como retos gestionables.
+Al amanecer del tercer milenio, la humanidad descubre que los tres problemas milenarios (hambre, enfermedad y guerra) ya no dominan la agenda como fuerzas incontrolables de la naturaleza, sino como retos gestionables.
 
-Por primera vez mueren más personas por comer demasiado que por comer poco; más por vejez que por epidemias; más por suicidio que por soldados, terroristas y criminales juntos. Si esos tres enemigos quedan contenidos, la pregunta urgente es otra: ¿qué queremos ser con el poder de la biotecnología y la informática?
+Por primera vez mueren más personas por comer demasiado que por comer poco. También mueren más por vejez que por epidemias, y más por suicidio que por soldados, terroristas y criminales juntos. Si esos tres enemigos quedan contenidos, la pregunta urgente es otra: ¿qué queremos ser con el poder de la biotecnología y la informática?
 
 ~15%. Población de Francia que murió de hambre (1692–94)
 
@@ -22,15 +34,15 @@ Por primera vez mueren más personas por comer demasiado que por comer poco; má
 
 3 M. Muertes por obesidad (2010) vs. 1 M por hambre
 
-El hambre moderno es casi siempre político, no natural. Las pandemias históricas (Peste Negra, viruela en México, gripe española) ceden ante vacunas, antibióticos e infraestructura; incluso el sida pasó de sentencia a enfermedad crónica en unos años. La Nueva Paz hace la guerra entre potencias casi impensable: el azúcar mata más que la pólvora, y el terrorismo es teatro que provoca sobre-reacción estatal.
+El hambre moderno es casi siempre político, no natural. Las pandemias históricas (Peste Negra, viruela en México, gripe española) ceden ante vacunas, antibióticos e infraestructura. Incluso el sida pasó de sentencia a enfermedad crónica en unos años. La Nueva Paz hace la guerra entre potencias casi impensable. El azúcar mata más que la pólvora, y el terrorismo es teatro que provoca sobre-reacción estatal.
 
-Los nuevos objetivos del siglo XXI serán probablemente inmortalidad, felicidad y divinidad: vencer el envejecimiento, optimizar la bioquímica del placer y convertir al sapiens en deus. La felicidad, según la ciencia, no depende de eventos externos sino de sensaciones corporales; la evolución premia la supervivencia, no la satisfacción duradera.
+Los nuevos objetivos del siglo XXI serán probablemente inmortalidad, felicidad y divinidad: vencer el envejecimiento, optimizar la bioquímica del placer y convertir al sapiens en deus. La felicidad, según la ciencia, no depende de eventos externos sino de sensaciones corporales. La evolución premia la supervivencia, no la satisfacción duradera.
 
 Idea clave: Cuando hambre, peste y guerra dejan de ser destino, la agenda humana se reorienta hacia la inmortalidad, la felicidad y el poder divino —con riesgos ecológicos y existenciales nuevos.
 
 Capítulo dos. El Antropoceno
 
-Los humanos llevan siglos siendo dioses para otros animales —poco justos ni misericordiosos. Hoy el planeta está poblado sobre todo por humanos y sus domesticados: ~400 M perros vs. ~200.000 lobos salvajes; más gallinas que águilas.
+Los humanos llevan siglos siendo dioses para otros animales, poco justos ni misericordiosos. Hoy el planeta está poblado sobre todo por humanos y sus domesticados: ~400 M perros frente a ~200.000 lobos salvajes, y más gallinas que águilas.
 
 >90%. Biomasa de grandes animales: humanos o domesticados
 
@@ -38,7 +50,7 @@ Los humanos llevan siglos siendo dioses para otros animales —poco justos ni mi
 
 ~50%. Grandes mamíferos terrestres extintos antes de la agricultura
 
-Ninguna especie había alterado la ecología global sola; ahora el sapiens compite con glaciaciones y asteroides y podría reemplazar la selección natural por diseño inteligente y vida no orgánica. Los cazadores-recolectores animistas trataban a animales como interlocutores; la revolución agrícola y el humanismo industrial convirtieron al ganado en mercancía optimizada con ciencia veterinaria.
+Ninguna especie había alterado la ecología global sola. Ahora el sapiens compite con glaciaciones y asteroides y podría reemplazar la selección natural por diseño inteligente y vida no orgánica. Los cazadores-recolectores animistas trataban a animales como interlocutores. La revolución agrícola y el humanismo industrial convirtieron al ganado en mercancía optimizada con ciencia veterinaria.
 
 🌾. Trato agrícola
 
@@ -50,11 +62,11 @@ Idea clave: El Antropoceno no empezó con fábricas sino con la expansión del s
 
 Capítulo tres. La chispa humana
 
-¿Por qué vale más una vida humana que una de cerdo? La respuesta teísta —el alma inmortal— no resiste el laboratorio: ni cerdos ni humanos muestran rastro de alma; la evolución tampoco admite un yo indivisible e inmutable.
+¿Por qué vale más una vida humana que una de cerdo? La respuesta teísta, el alma inmortal, no resiste el laboratorio: ni cerdos ni humanos muestran rastro de alma. La evolución tampoco admite un yo indivisible e inmutable.
 
 Darwin inquieta porque despoja al individuo de núcleo eterno: ojos, mentes y personalidades son productos graduales de partes combinables. Las encuestas en EE.UU. muestran resistencia masiva al origen evolutivo sin intervención divina, no tanto por la ciencia en sí como por el miedo a perder el alma.
 
-La conciencia y la inteligencia son problemas distintos: la Bolsa no tiene conciencia pero procesa datos; los animales muestran emociones, planificación (ej. chimpancé Santino) y empatía (ratas liberando compañeras). El verdadero superpoder humano es la ficción intersubjetiva: dinero, naciones, derecho —entidades que existen solo en narrativas compartidas.
+La conciencia y la inteligencia son problemas distintos: la Bolsa no tiene conciencia pero procesa datos. Los animales muestran emociones, planificación (ej. chimpancé Santino) y empatía (ratas liberando compañeras). El verdadero superpoder humano es la ficción intersubjetiva: dinero, naciones, derecho, entidades que existen solo en narrativas compartidas.
 
 📜. Triple realidad
 
@@ -66,11 +78,11 @@ Idea clave: No hay alma ni chispa detectable; la supremacía humana descansa en 
 
 Capítulo cuatro. Los narradores de historias
 
-Tras la revolución cognitiva (~70.000 años), el sapiens habla de entidades imaginarias. Con la agricultura (~12.000 a), dioses sumerios actúan como marcas corporativas; con la escritura y el dinero (~5.000 a) surgen imperios, burocracias y el faraón-vivo como marca tipo Elvis.
+Después de la revolución cognitiva (~70.000 años), el sapiens habla de entidades imaginarias. La agricultura (~12.000 a) trae dioses sumerios que actúan como marcas corporativas. La escritura y el dinero (~5.000 a) generan imperios, burocracias y el faraón-vivo como marca tipo Elvis.
 
-La escritura permite algoritmos sociales complejos, pero también desacopla registro y realidad: fronteras africanas trazadas en Berlín (1884) ignoraron ríos y etnias; las notas escolares reconfiguran la experiencia educativa. Las historias pueden moldear la realidad más que describirla.
+La escritura permite algoritmos sociales complejos, pero también desacopla registro y realidad. Las fronteras africanas trazadas en Berlín (1884) ignoraron ríos y etnias. Las notas escolares reconfiguran la experiencia educativa. Las historias pueden moldear la realidad más que describirla.
 
-Evaluar imperios solo por sus propios mitos es circular. Criterio de realidad: ¿sufre? Zeus, el euro o Francia no sufren; el soldado herido sí. Las ficciones son herramientas vitales —sin reglas compartidas no hay fútbol ni mercados— pero no deben convertirse en fines.
+Evaluar imperios solo por sus propios mitos es circular. Criterio de realidad: ¿sufre? Zeus, el euro o Francia no sufren. El soldado herido sí. Las ficciones son herramientas vitales, porque sin reglas compartidas no hay fútbol ni mercados, pero no deben convertirse en fines.
 
 Cita: Las historias son solo instrumentos. Si olvidamos que son ficciones, perdemos el contacto con la realidad y peleamos guerras por el PIB o el interés nacional. — Yuval Noah Harari
 
@@ -78,9 +90,9 @@ Idea clave: La historia avanza gracias a redes de ficciones cada vez más potent
 
 Capítulo cinco. La extraña pareja
 
-Ciencia y religión no son opuestos eternos: la religión (definición funcional) legitima normas humanas apelando a leyes sobre-humanas —Dios, naturaleza, nación—, no solo supernatural.
+Ciencia y religión no son opuestos eternos: la religión (definición funcional) legitima normas humanas apelando a leyes sobre-humanas (Dios, naturaleza, nación), no solo supernatural.
 
-Ciencia y religión colisionan en hechos, no en valores: ¿cuándo empieza la vida?, ¿existió la Donación de Constantino?, ¿es la evolución guiada? La ciencia moderna no sustituyó mitos por hechos; los reforzó —prometiendo super-cocodrilos y juventud eterna para élites.
+Ciencia y religión colisionan en hechos, no en valores: ¿cuándo empieza la vida?, ¿existió la Donación de Constantino?, ¿es la evolución guiada? La ciencia moderna no sustituyó mitos por hechos. Los reforzó, prometiendo super-cocodrilos y juventud eterna para élites.
 
 La revolución científica floreció en Europa confesionalmente intolerante, no en El Cairo otomano multicultural. A las instituciones les importan más orden (religión) y poder (ciencia) que la verdad abstracta. El pacto moderno es ciencia al servicio del humanismo, no laica neutralidad pura.
 
@@ -96,11 +108,11 @@ Capítulo seis. El pacto moderno
 
 El trato moderno en una frase: la humanidad renuncia al sentido cósmico prefijado y recibe a cambio poder para remediar hambre, enfermedad y muerte con ciencia y tecnología.
 
-Sin guion divino no hay garantía de final feliz —solo causas—, pero tampoco límites de rol: podemos crear paraísos terrenales. El motor es la alianza entre crédito (confianza en el futuro), capitalismo (reinvertir ganancias) y imperio + ciencia (recursos y exploración).
+Sin guion divino no hay garantía de final feliz, solo causas, pero tampoco límites de rol: podemos crear paraísos terrenales. El motor es la alianza entre crédito (confianza en el futuro), capitalismo (reinvertir ganancias) e imperio con ciencia (recursos y exploración).
 
-El crecimiento infinito chocaba con recursos finitos hasta que la ciencia prometió energía y materiales ilimitados (ej. energía solar vs. petróleo finito). El capitalismo santificó la codicia y el desequilibrio; sorprendentemente redujo hambruna, peste y guerra en dos siglos mejor que milenios de teología.
+El crecimiento infinito chocaba con recursos finitos hasta que la ciencia prometió energía y materiales ilimitados (ej. energía solar frente a petróleo finito). El capitalismo santificó la codicia y el desequilibrio. Sorprendentemente redujo hambruna, peste y guerra en dos siglos mejor que milenios de teología.
 
-¿Cómo sobrevivieron moral, belleza y compasión sin cielo ni infierno? No por la mano invisible sola —sino por una nueva fe: el humanismo, que convirtió la experiencia humana en fuente de sentido.
+¿Cómo sobrevivieron moral, belleza y compasión sin cielo ni infierno? No por la mano invisible sola, sino por una nueva fe: el humanismo, que convirtió la experiencia humana en fuente de sentido.
 
 Idea clave: Modernidad = poder sin sentido dado; el humanismo rellenó el vacío haciendo del sentir humano la brújula moral.
 
@@ -108,9 +120,9 @@ Capítulo siete. La revolución humanista
 
 El humanismo invierte el guion: no un plan cósmico da sentido a las vidas humanas, sino que las experiencias humanas dan sentido al cosmos. Mandamiento central: Escucha tu corazón.
 
-En la Edad Media el sacerdote interpretaba pecado con la Biblia; hoy el terapeuta pregunta ¿cómo se siente usted?. El matrimonio pasó de sacramento impuesto a contrato de amor auténtico. Tres ramas compiten: liberal (mi sentir interior), socialista (sentir colectivo de la clase), evolucionista (conflictos como selección —vía nazi, hoy tabú).
+En la Edad Media el sacerdote interpretaba pecado con la Biblia. Hoy el terapeuta pregunta ¿cómo se siente usted?. El matrimonio pasó de sacramento impuesto a contrato de amor auténtico. Tres ramas compiten: liberal (mi sentir interior), socialista (sentir colectivo de la clase), evolucionista (conflictos como selección, vía nazi hoy tabú).
 
-El liberalismo ganó guerras frías y mercados, pero su éxito impulsa proyectos —inmortalidad, felicidad, deus— que podrían destruir sus premisas. Si la ciencia demuestra que votantes y consumidores no eligen libremente y que algoritmos nos conocen mejor, ¿qué queda del humanismo?
+El liberalismo ganó guerras frías y mercados, pero su éxito impulsa proyectos (inmortalidad, felicidad, deus) que podrían destruir sus premisas. Si la ciencia demuestra que votantes y consumidores no eligen libremente y que algoritmos nos conocen mejor, ¿qué queda del humanismo?
 
 Liberalismo. autoridad en el individuo y sus deseos; mercado y democracia escuchan al consumidor/votante.
 
@@ -122,9 +134,9 @@ Idea clave: El humanismo reemplazó a Dios con el hombre; sus victorias tecnoló
 
 Capítulo ocho. La bomba de tiempo en el laboratorio
 
-El liberalismo descansa en el libre albedrío —hecho, no solo valor moral. La neurociencia abre la caja negra y encuentra genes, hormonas y neuronas, no un yo soberano.
+El liberalismo descansa en el libre albedrío como hecho, no solo como valor moral. La neurociencia abre la caja negra y encuentra genes, hormonas y neuronas, no un yo soberano.
 
-Decisiones = determinismo + azar cuántico; ninguno es libre. Experimentos de neuroimagen predicen pulsaciones antes de la conciencia de elegir. No hay yo permanente que elija deseos: solo un flujo de experiencias y un yo narrativo que inventa coherencia (Gazzaniga: hemisferio izquierdo como interprete).
+Las decisiones combinan determinismo y azar cuántico, y ninguno es libre. Experimentos de neuroimagen predicen pulsaciones antes de la conciencia de elegir. No hay yo permanente que elija deseos: solo un flujo de experiencias y un yo narrativo que inventa coherencia (Gazzaniga: hemisferio izquierdo como interprete).
 
 Yo experimentador vs recordador. Kahneman: elegimos repetir tortura larga por memoria editada.
 
@@ -136,9 +148,9 @@ Idea clave: El libre albedrío es narrativa útil, no entidad detectable; las te
 
 Capítulo nueve. La gran desacoplación
 
-Tres amenazas prácticas al liberalismo: (1) humanos pierden valor militar/económico; (2) el sistema valora a la masa, no al individuo; (3) una élite de superhumanos optimizados reemplaza a la plebe.
+Tres amenazas prácticas al liberalismo. Primero, los humanos pierden valor militar y económico. Segundo, el sistema valora a la masa, no al individuo. Tercero, una élite de superhumanos optimizados reemplaza a la plebe.
 
-La levée en masse y el sufragio femenino ligaron derechos a utilidad bélica/industrial. Hoy drones, ciber-guerra y algoritmos de trading hacen prescindible a masas de soldados y oficinistas. Inteligencia se desacopla de conciencia: Watson diagnostica sin sentir; carros autónomos sin experiencia.
+La levée en masse y el sufragio femenino ligaron derechos a utilidad bélica e industrial. Hoy drones, ciber-guerra y algoritmos de trading hacen prescindible a masas de soldados y oficinistas. La inteligencia se desacopla de la conciencia: Watson diagnostica sin sentir, y los carros autónomos operan sin experiencia.
 
 87%. Probabilidad (Harari cita) de que algoritmos superen capacidades humanas medias
 
@@ -146,7 +158,7 @@ La levée en masse y el sufragio femenino ligaron derechos a utilidad bélica/in
 
 Clase inútil. Nueva masa sin rol económico ni militar
 
-Algoritmos externos pueden hackear deseos mejor que el yo introspectivo (Google, wearables, quantified self). Medicina ya delega en sensores e IA (páncreas artificial con iPhone). Riesgo: optimizar pocos deus y abandonar vagones de tercera clase —como colonias del s. XIX.
+Algoritmos externos pueden hackear deseos mejor que el yo introspectivo (Google, wearables, quantified self). La medicina ya delega en sensores e IA (páncreas artificial con iPhone). El riesgo es optimizar pocos deus y abandonar vagones de tercera clase, como en las colonias del s. XIX.
 
 Idea clave: Si la utilidad humana cae y los algoritmos nos conocen mejor que nosotros, liberalismo, democracia y mercado libre pierden su base de legitimidad.
 
@@ -154,21 +166,21 @@ Capítulo diez. El océano de la conciencia
 
 Las nuevas religiones nacen en laboratorios, no en madrasas. Harari distingue tecno-humanismo (mejorar al Homo sapiens → Homo deus) y dataísmo (traspasar la antorcha a flujos de datos).
 
-Optimizar la mente sin mapa es navegar a ciegas: la psicología estudió sobre todo mentes WEIRD (occidentales, educadas, industrializadas) y patologías, no el espectro completo de estados posibles —chamanes, monjes, neandertales. Perdimos olfato fino, atención plena y cultura onírica por exigencias urbano-industriales (FOMO).
+Optimizar la mente sin mapa es navegar a ciegas: la psicología estudió sobre todo mentes WEIRD (occidentales, educadas, industrializadas) y patologías, no el espectro completo de estados posibles (chamanes, monjes, neandertales). Perdimos olfato fino, atención plena y cultura onírica por exigencias urbano-industriales (FOMO).
 
-El tecno-humanismo choca con su premisa: si podemos diseñar deseos, el corazón deja de ser autoridad final. ¿Reprogramar orientación sexual, miedos o amor como Romeo con píldora? Sin mapa del océano de la conciencia, optimizamos lo que el sistema necesita —lectura, no olfato— y abrimos la puerta al dataísmo.
+El tecno-humanismo choca con su premisa: si podemos diseñar deseos, el corazón deja de ser autoridad final. ¿Reprogramar orientación sexual, miedos o amor como Romeo con píldora? A falta de mapa del océano de la conciencia, optimizamos lo que el sistema necesita (lectura, no olfato) y abrimos la puerta al dataísmo.
 
 Idea clave: Mejorar la mente sin cartografiarla es peligroso; controlar el deseo anula al humanismo que lo elevó a supremo.
 
 Capítulo 11. La religión de los datos
 
-El dataísmo ve el universo como flujos de datos; el valor de cualquier fenómeno = su contribución al procesamiento. Une biología algorítmica (Darwin) e informática (Turing): organismos y máquinas obedecen las mismas matemáticas.
+El dataísmo ve el universo como flujos de datos. El valor de cualquier fenómeno equivale a su contribución al procesamiento. Une biología algorítmica (Darwin) e informática (Turing): organismos y máquinas obedecen las mismas matemáticas.
 
-Economía = sistema de procesamiento: capitalismo distribuye (mercado/Bolsa); comunismo centraliza (Moscú). El mercado libre ganó la Guerra Fría por eficiencia informacional, no por moral superior. Nueva divinidad: libertad de información —no de opinión— (Aaron Swartz, 2013).
+La economía funciona como sistema de procesamiento: el capitalismo distribuye (mercado/Bolsa) y el comunismo centraliza (Moscú). El mercado libre ganó la Guerra Fría por eficiencia informacional, no por moral superior. Nueva divinidad: libertad de información, no de opinión (Aaron Swartz, 2013).
 
-Google detecta epidemias antes que la OMS si accede a búsquedas; coches compartidos algorítmicos podrían reemplazar propiedad privada. El dataísmo invierte la pirámide conocimiento: humanos ya no destilan datos → sabiduría; ceden a Big Data. Conócete a ti mismo pasa de introspección a monitorización biometrica.
+Google detecta epidemias antes que la OMS si accede a búsquedas. Los coches compartidos algorítmicos podrían reemplazar propiedad privada. El dataísmo invierte la pirámide del conocimiento: humanos ya no destilan datos en sabiduría, sino que ceden a Big Data. Conócete a ti mismo pasa de introspección a monitorización biométrica.
 
-Tres procesos convergentes: (1) vida = algoritmos; (2) inteligencia sin conciencia; (3) algoritmos que nos conocen mejor que nosotros. Preguntas abiertas: ¿valen más datos que sufrimiento consciente? ¿Qué religión post-humanista llenará el vacío?
+Tres procesos convergentes: (1) vida como algoritmos, (2) inteligencia sin conciencia, (3) algoritmos que nos conocen mejor que nosotros. Preguntas abiertas: ¿valen más datos que sufrimiento consciente? ¿Qué religión post-humanista llenará el vacío?
 
 Idea clave: Dataísmo es la primera ideología desde 1789 con valor nuevo —información libre— y candidata a suceder al humanismo liberal.
 
@@ -235,17 +247,3 @@ Aaron Swartz, Hacker y activista; mártir simbólico del dataísmo (1990–2013)
 Friedrich Hayek, Economista; mercado como procesador distribuido de información.
 
 Alan Turing, Fundamentos de computación; algoritmos electrónicos vs bioquímicos.
-
-La idea central
-
-Harari parte de una conquista: hambre, enfermedad y guerra dejaron de ser destinos y pasaron a ser problemas técnicos.
-
-La nueva agenda —inmortalidad, felicidad, divinidad— nace del humanismo victorioso y de su pacto con la ciencia.
-
-Organismos como algoritmos, inteligencia sin conciencia, datos que nos conocen mejor que nosotros: tres oleadas convergentes.
-
-El liberalismo no caerá solo por filosofía, sino por obsolescencia práctica de votantes, consumidores y trabajadores.
-
-La religión del futuro podría venerar el flujo de información más que la experiencia humana.
-
-Quien controle el filtro —qué ignorar en el diluvio de datos— tendrá el poder que antes tenía quien controlaba la verdad.

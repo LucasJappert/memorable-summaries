@@ -79,7 +79,7 @@ export const blackSwan: BookSummary = {
       blocks: [
         {
           type: 'paragraph',
-          html: "Taleb contrasta profesiones con ingresos <span class=\"term\">escalables</span> y no escalables para introducir la diferencia entre <span class=\"term\">Mediocristán</span> y <span class=\"term\">Extremistán</span>. En lo no escalable, el rendimiento se distribuye de forma relativamente acotada; en lo escalable, unos pocos concentran resultados desproporcionados.",
+          html: "Taleb contrasta profesiones con ingresos <span class=\"term\">escalables</span> y no escalables para introducir la diferencia entre <span class=\"term\">Mediocristán</span> y <span class=\"term\">Extremistán</span>. En lo no escalable, el rendimiento se distribuye de forma relativamente acotada. En lo escalable, unos pocos concentran resultados desproporcionados.",
         },
         {
           type: 'paragraph',
@@ -98,7 +98,7 @@ export const blackSwan: BookSummary = {
       blocks: [
         {
           type: 'paragraph',
-          html: "El ejemplo del <span class=\"term\">pavo</span> resume la trampa inductiva: una larga serie de días favorables aumenta la confianza justo antes del desastre. La ausencia de eventos negativos no prueba seguridad; puede ser solo acumulación de riesgo invisible.",
+          html: "El ejemplo del <span class=\"term\">pavo</span> resume la trampa inductiva: una larga serie de días favorables aumenta la confianza justo antes del desastre. La ausencia de eventos negativos no prueba seguridad. Puede ser solo acumulación de riesgo invisible.",
         },
         {
           type: 'paragraph',
@@ -136,7 +136,7 @@ export const blackSwan: BookSummary = {
       blocks: [
         {
           type: 'paragraph',
-          html: "La mente humana necesita historias coherentes; por eso simplifica cadenas causales y rellena huecos con relatos plausibles. Taleb llama a esto <span class=\"term\">falacia narrativa</span>: convertir ruido y contingencia en guiones con sentido.",
+          html: "La mente humana necesita historias coherentes. Por eso simplifica cadenas causales y rellena huecos con relatos plausibles. Taleb llama a esto <span class=\"term\">falacia narrativa</span>: convertir ruido y contingencia en guiones con sentido.",
         },
         {
           type: 'paragraph',
@@ -288,7 +288,7 @@ export const blackSwan: BookSummary = {
       blocks: [
         {
           type: 'paragraph',
-          html: "Taleb formaliza dos dominios. En <span class=\"term\">Mediocristán</span>, ninguna observación individual domina el total; en <span class=\"term\">Extremistán</span>, pocos casos explican una gran parte del agregado.",
+          html: "Taleb formaliza dos dominios. En <span class=\"term\">Mediocristán</span>, ninguna observación individual domina el total. En <span class=\"term\">Extremistán</span>, pocos casos explican una gran parte del agregado.",
         },
         {
           type: 'paragraph',
@@ -368,7 +368,7 @@ export const blackSwan: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El problema no es la especialización, sino la falta de responsabilidad por error y la desconexión entre teoría y práctica. Para reducir daño, propone evaluar credenciales por desempeño en decisiones reales, no solo por discurso.",
+          html: "El problema no es la especialización, sino la falta de responsabilidad por error y la desconexión entre teoría y práctica. Taleb propone reducir el daño evaluando credenciales por desempeño en decisiones reales, no solo por discurso.",
         },
         {
           type: 'key',
