@@ -505,6 +505,17 @@
 }
 
 @media (max-width: 600px) {
+  .section p,
+  .section p.lead,
+  .section .content-list,
+  .section .content-list li,
+  .section .quote,
+  .section .callout-key,
+  .section .timeline-item p {
+    text-align: justify;
+    hyphens: auto;
+    -webkit-hyphens: auto;
+  }
   .section {
     padding-top: 1.25rem;
     padding-bottom: 1.25rem;
