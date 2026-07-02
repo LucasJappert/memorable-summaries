@@ -34,6 +34,10 @@
     -   Badge de capítulo alineado en baseline con el título.
     -   *Cómo aprendemos* cap. 8: porcentajes del experimento en tarjetas `big-numbers`.
 
+-   📎 **Secciones de referencia colapsables**
+    -   Conceptos clave, Cronología y Figuras clave en la vista del libro quedan plegadas por defecto (acordeón).
+    -   Clic en el encabezado para expandir; hint con cantidad de ítems; se abren solas al entrar por ancla (`#conceptos`, etc.).
+
 ### Cambios/Mejoras
 
 -   ✍️ **Prosa de los resúmenes (pase 01c completo)**

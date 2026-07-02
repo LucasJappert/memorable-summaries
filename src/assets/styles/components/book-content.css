@@ -133,6 +133,52 @@
   gap: 0.8rem;
   margin-bottom: 1rem;
 }
+.section--collapsible .section-header--collapsible {
+  margin-bottom: 0;
+  cursor: pointer;
+  list-style: none;
+  user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.section--collapsible .section-header--collapsible::-webkit-details-marker {
+  display: none;
+}
+.section--collapsible .section-header--collapsible::marker {
+  content: '';
+}
+.section--collapsible[open] .section-header--collapsible {
+  margin-bottom: 1rem;
+}
+.section-collapsible-hint {
+  margin-left: auto;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--text2);
+  opacity: 0.85;
+  white-space: nowrap;
+}
+.section-chevron {
+  flex-shrink: 0;
+  color: var(--text2);
+  font-size: 0.85rem;
+  line-height: 1;
+  opacity: 0.7;
+  transition: transform 0.2s ease;
+}
+.section--collapsible[open] .section-chevron {
+  transform: rotate(90deg);
+}
+.section-collapsible-body {
+  animation: section-collapsible-open 0.2s ease;
+}
+@keyframes section-collapsible-open {
+  from {
+    opacity: 0.6;
+  }
+  to {
+    opacity: 1;
+  }
+}
 .section-num {
   background: var(--accent);
   color: #fff;
@@ -427,8 +473,11 @@
 
 @media (prefers-reduced-motion: reduce) {
   .toc-item,
-  .concept-card {
+  .concept-card,
+  .section-chevron,
+  .section-collapsible-body {
     transition: none;
+    animation: none;
   }
 }
 

@@ -8,6 +8,7 @@ import BookSection from '../components/BookSection.vue'
 import ConceptGrid from '../components/ConceptGrid.vue'
 import Timeline from '../components/Timeline.vue'
 import FiguresGrid from '../components/FiguresGrid.vue'
+import CollapsibleBookSection from '../components/CollapsibleBookSection.vue'
 import ClosingSection from '../components/ClosingSection.vue'
 import BookNavDrawer from '../components/BookNavDrawer.vue'
 import AudioPlayer from '../components/AudioPlayer.vue'
@@ -255,29 +256,32 @@ watchEffect((onCleanup) => {
 
           <div class="divider" />
 
-          <section id="conceptos" class="section">
-            <div class="section-header">
-              <span class="section-num">✦</span>
-              <h2>Conceptos clave</h2>
-            </div>
+          <CollapsibleBookSection
+            id="conceptos"
+            icon="✦"
+            title="Conceptos clave"
+            :hint="`${book.keyConcepts.length} conceptos`"
+          >
             <ConceptGrid :items="book.keyConcepts" />
-          </section>
+          </CollapsibleBookSection>
 
-          <section id="cronologia" class="section">
-            <div class="section-header">
-              <span class="section-num">◈</span>
-              <h2>Cronología de los descubrimientos</h2>
-            </div>
+          <CollapsibleBookSection
+            id="cronologia"
+            icon="◈"
+            title="Cronología"
+            :hint="`${book.chronology.length} hitos`"
+          >
             <Timeline :items="book.chronology" />
-          </section>
+          </CollapsibleBookSection>
 
-          <section id="figuras" class="section">
-            <div class="section-header">
-              <span class="section-num">✦</span>
-              <h2>Figuras clave</h2>
-            </div>
+          <CollapsibleBookSection
+            id="figuras"
+            icon="✦"
+            title="Figuras clave"
+            :hint="`${book.figures.length} figuras`"
+          >
             <FiguresGrid :items="book.figures" />
-          </section>
+          </CollapsibleBookSection>
         </div>
 
         <footer class="footer">
