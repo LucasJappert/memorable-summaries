@@ -38,6 +38,11 @@
     -   Conceptos clave, Cronología y Figuras clave en la vista del libro quedan plegadas por defecto (acordeón).
     -   Clic en el encabezado para expandir; hint con cantidad de ítems; se abren solas al entrar por ancla (`#conceptos`, etc.).
 
+### Infra
+
+-   🚀 **Deploy GitHub Pages**
+    -   Workflow vuelve a `deploy-pages` (artefacto oficial); requiere fuente **GitHub Actions** en Settings → Pages (no rama `main`).
+
 ### Cambios/Mejoras
 
 -   ✍️ **Prosa de los resúmenes (pase 01c completo)**
