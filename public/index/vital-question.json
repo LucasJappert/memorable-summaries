@@ -66,7 +66,7 @@
     {
       "sectionId": "prefacio",
       "sectionTitle": "¿Por qué es la vida como es?",
-      "text": "Tres revoluciones moldearon el panorama: la endosimbiosis de Lynn Margulis ( 1967 ), el árbol filogenético de Carl Woese (tres dominios) y la genómica moderna, que confirma la predicción de Bill Martin ( 1998 ): la célula huésped era un arquea morfológicamente simple que incorporó la bacteria ancestro de las mitocondrias. La clave, según Lane, está en la generación de energía mediante gradientes de protones — la quimiosmosis de Peter Mitchell ."
+      "text": "Tres grandes revoluciones moldearon el panorama: la endosimbiosis de Lynn Margulis ( 1967 ), el árbol filogenético de Carl Woese (tres dominios) y la genómica moderna, que confirma la predicción de Bill Martin ( 1998 ): la célula huésped era un arquea morfológicamente simple que incorporó la bacteria ancestro de las mitocondrias. La clave, según Lane, está en la generación de energía mediante gradientes de protones — la quimiosmosis de Peter Mitchell ."
     },
     {
       "sectionId": "prefacio",
@@ -91,7 +91,7 @@
     {
       "sectionId": "cap1",
       "sectionTitle": "¿Qué es la vida?",
-      "text": "Si el oxígeno hubiera liberado restricciones, esperaríamos una radiación polifilética : distintos grupos bacterianos dando origen independiente a algas, hongos o fagocitos. En cambio vemos radiación monofilética : un solo origen eucariota con estasis prolongada y cambios ocasionales. Ni la selección estándar ni la endosimbiosis serial de Margulis predicen la uniformidad interna de todos los eucariotas. Los «archezoa» (como Giardia ) no son eslabones perdidos: perdieron mitocondrias por evolución reductiva."
+      "text": "Si el oxígeno hubiera liberado restricciones, esperaríamos una radiación polifilética : distintos grupos bacterianos dando origen independiente a algas, hongos o fagocitos. La evidencia apunta, en cambio, a una radiación monofilética : un solo origen eucariota con estasis prolongada y cambios ocasionales. Ni la selección estándar ni la endosimbiosis serial de Margulis predicen la uniformidad interna de todos los eucariotas. Los «archezoa» (como Giardia ) no son eslabones perdidos: perdieron mitocondrias por evolución reductiva."
     },
     {
       "sectionId": "cap1",
@@ -116,7 +116,7 @@
     {
       "sectionId": "cap2",
       "sectionTitle": "¿Qué es lo viviente?",
-      "text": "Esencialmente toda vida usa quimiosmosis : flujo de protones a través de membranas para sintetizar ATP. El ATP sintasa , motor rotatorio universal en bacterias, arqueas y eucariotas, debería ser tan emblemático del vivir como la doble hélice. Peter Mitchell propuso esto en 1961 contra décadas de resistencia («guerras ox phos»). Ganó el Nobel en 1978 . La vida se basa en carbono parcialmente reducido (≈ CH₂O) y en química redox. La pregunta abierta es por qué protones y electrones, no solo química en tubo de ensayo."
+      "text": "Esencialmente toda la vida conocida usa quimiosmosis : flujo de protones a través de membranas para sintetizar ATP. El ATP sintasa , motor rotatorio universal en bacterias, arqueas y eucariotas, debería ser tan emblemático del vivir como la doble hélice. Peter Mitchell propuso esto en 1961 contra décadas de resistencia («guerras ox phos»). Ganó el Nobel en 1978 . La vida se basa en carbono parcialmente reducido (≈ CH₂O) y en química redox. La pregunta abierta es por qué protones y electrones, no solo química en tubo de ensayo."
     },
     {
       "sectionId": "cap2",
@@ -156,7 +156,7 @@
     {
       "sectionId": "cap4",
       "sectionTitle": "La vida como información",
-      "text": "Seis propiedades definen toda célula: suministro continuo de carbono, energía libre, catalizadores, excreción, compartimentación y material hereditario. El debate «¿metabolismo o replicación primero?» es estéril: duplicar ARN consume bloques que deben reponerse al mismo ritmo. Los minerales tipo arcilla (Cairns-Smith) catalizan pero no codifican complejidad comparable al ARN."
+      "text": "Toda célula viviente comparte seis propiedades esenciales: suministro continuo de carbono, energía libre, catalizadores, excreción, compartimentación y material hereditario. El debate «¿metabolismo o replicación primero?» es estéril: duplicar ARN consume bloques que deben reponerse al mismo ritmo. Los minerales tipo arcilla (Cairns-Smith) catalizan pero no codifican complejidad comparable al ARN."
     },
     {
       "sectionId": "cap4",
@@ -261,7 +261,7 @@
     {
       "sectionId": "cap8",
       "sectionTitle": "El origen de la célula eucariota",
-      "text": "El huésped arqueano no podía fagocitar. La incorporación del endosimbionte requirió otro mecanismo (p. ej. predación fallida, parasitismo o fusión). Lo crucial: la simbiosis rompió restricciones energéticas que mantenían a procariotas pequeños y genomas limitados durante eones."
+      "text": "El huésped arqueano no podía fagocitar. La incorporación del endosimbionte requirió otro mecanismo (p. ej. predación fallida, parasitismo o fusión). Lo verdaderamente crucial es que la simbiosis rompió las restricciones energéticas que mantenían a procariotas pequeños y genomas limitados durante eones."
     },
     {
       "sectionId": "cap8",
@@ -316,7 +316,7 @@
     {
       "sectionId": "cap10",
       "sectionTitle": "Las leyes de potencia de la biología",
-      "text": "Las mitocondrias resuelven el problema: genomas bacterianos reducidos dentro de una célula grande producen ATP localmente sin multiplicar genomas completos en la periferia. Un eucariota obtiene ~ 100 000 veces más energía por gen que una bacteria del mismo tamaño. Las leyes de potencia de superficie/volumen impiden la complejidad procariota. Solo la endosimbiosis la liberó."
+      "text": "Las mitocondrias resuelven este problema de escala: genomas bacterianos reducidos dentro de una célula grande producen ATP localmente sin multiplicar genomas completos en la periferia. Un eucariota obtiene ~ 100 000 veces más energía por gen que una bacteria del mismo tamaño. Las leyes de potencia de superficie/volumen impiden la complejidad procariota. Solo la endosimbiosis la liberó."
     },
     {
       "sectionId": "cap10",

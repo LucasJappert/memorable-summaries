@@ -21,11 +21,11 @@ export const superintelligence: BookSummary = {
       blocks: [
         {
           type: 'paragraph',
-          html: "Bostrom abre con una parábola: unos gorriones, cansados de ser débiles, deciden capturar un polluelo de búho para que les ayude a construir nidos. Solo Scronkfinkle, un gorrión tuerto, advierte que deberían domar al búho *antes* de traerlo. La mayoría ignora la advertencia y sale en busca del huevo. Unos pocos se quedan intentando resolver el **problema del control** sin tener un búho real con quien practicar. No se sabe cómo termina la historia. El libro está dedicado a Scronkfinkle y sus seguidores.",
+          html: "Bostrom abre el libro con una parábola: unos gorriones, cansados de ser débiles, deciden capturar un polluelo de búho para que les ayude a construir nidos. Solo Scronkfinkle, un gorrión tuerto, advierte que deberían domar al búho *antes* de traerlo. La mayoría ignora la advertencia y sale en busca del huevo. Unos pocos se quedan intentando resolver el **problema del control** sin tener un búho real con quien practicar. No se sabe cómo termina la historia. El libro está dedicado a Scronkfinkle y sus seguidores.",
         },
         {
           type: 'paragraph',
-          html: "En el prefacio propiamente dicho, Bostrom plantea la tesis central: si algún día construimos cerebros artificiales que superen la inteligencia humana general, esa **superinteligencia** podría volverse extremadamente poderosa. Así como el destino de los gorilas depende más de nosotros que de ellos mismos, el destino de nuestra especie dependería de las acciones de la máquina. Tenemos una ventaja: **somos nosotros quienes la construimos**. En principio podríamos diseñar una superinteligencia que proteja los valores humanos. El **problema del control**, sin embargo, parece difícil, y probablemente solo tendremos **una oportunidad**.",
+          html: "En el prefacio propiamente dicho, Bostrom plantea la tesis central: si algún día construimos cerebros artificiales que superen la inteligencia humana general, esa **superinteligencia** podría volverse extremadamente poderosa. Así como el destino de los gorilas depende más de nosotros que de ellos mismos, el destino de nuestra especie dependería de las acciones de la máquina. Existe, con todo, una ventaja: **somos nosotros quienes la construimos**. En principio podríamos diseñar una superinteligencia que proteja los valores humanos. El **problema del control**, sin embargo, parece difícil, y probablemente solo tendremos **una oportunidad**.",
         },
         {
           type: 'quote',
@@ -34,7 +34,7 @@ export const superintelligence: BookSummary = {
         },
         {
           type: 'key',
-          html: "**Clave:** El libro no predice cuándo llegará la IA; se centra en qué ocurre *después* de que aparezca la superinteligencia y cómo responder estratégicamente.",
+          html: "**Clave:** El libro no predice cuándo llegará la IA. Se centra en qué ocurre *después* de que aparezca la superinteligencia y en cómo responder estratégicamente.",
         },
       ],
     },
@@ -174,11 +174,11 @@ export const superintelligence: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "En cantidad no sustituye calidad: un genio solo puede escribir *En busca del tiempo perdido*. Un edificio de escritores mediocres no. Problemas con interdependencias complejas (filosofía, estrategia, arte) podrían ser intratables para inteligencia colectiva pero resolubles para superinteligencia de calidad.",
+          html: "La cantidad no sustituye a la calidad: un genio solo puede escribir *En busca del tiempo perdido*, pero un edificio de escritores mediocres no lo lograría. Problemas con interdependencias complejas (filosofía, estrategia, arte) podrían ser intratables para inteligencia colectiva pero resolubles para superinteligencia de calidad.",
         },
         {
           type: 'key',
-          html: "**Clave:** Los humanos mejorados quedarán superados; el potencial de la inteligencia digital es abrumadoramente mayor.",
+          html: "**Clave:** Los humanos mejorados quedarán superados. El potencial de la inteligencia digital es abrumadoramente mayor.",
         },
       ],
     },
@@ -189,11 +189,11 @@ export const superintelligence: BookSummary = {
       blocks: [
         {
           type: 'paragraph',
-          html: "Pregunta clave: una vez alcanzada paridad humana, ¿cuánto tarda la superinteligencia radical? Tres escenarios de **despegue**: lento (décadas/siglos), moderado (meses/años), rápido (minutos/días). Bostrom argumenta que el despegue lento es improbable — la **recalcitrancia** cae tras alcanzar paridad.",
+          html: "La pregunta clave es: una vez alcanzada paridad humana, ¿cuánto tarda la superinteligencia radical? Bostrom plantea tres escenarios de **despegue**: lento (décadas/siglos), moderado (meses/años), rápido (minutos/días). Argumenta que el despegue lento es improbable — la **recalcitrancia** cae tras alcanzar paridad.",
         },
         {
           type: 'paragraph',
-          html: "Fórmula conceptual: velocidad de mejora = **potencia de optimización** / **recalcitrancia**. Caminos no-máquina (fármacos, genética, organizaciones) tienen recalcitrancia alta. En IA y emulación, la recalcitrancia puede ser **extremadamente baja**: mejoras algorítmicas, acumulación de contenido (leer toda la Library of Congress en semanas), o hardware adicional.",
+          html: "La fórmula conceptual puede expresarse así: velocidad de mejora = **potencia de optimización** / **recalcitrancia**. Caminos no-máquina (fármacos, genética, organizaciones) tienen recalcitrancia alta. En IA y emulación, la recalcitrancia puede ser **extremadamente baja**: mejoras algorítmicas, acumulación de contenido (leer toda la Library of Congress en semanas), o hardware adicional.",
         },
         {
           type: 'paragraph',
@@ -234,11 +234,11 @@ export const superintelligence: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "¿Un solo proyecto obtendrá <span class=\"term\">ventaja estratégica decisiva</span> (VSD), es decir, capacidad de dominar el mundo? Depende de la velocidad del despegue y la difusión de innovaciones. En despegue rápido, casi seguro un solo proyecto. En despegue lento, varios en paralelo. Brechas históricas en carreras tecnológicas: <span class=\"num\">meses a años</span> (bomba atómica, Sputnik, bomba H).",
+          html: "¿Un solo proyecto obtendrá <span class=\"term\">ventaja estratégica decisiva</span> (VSD), es decir, capacidad de dominar el mundo? Depende de la velocidad del despegue y la difusión de innovaciones. En despegue rápido, casi seguro un solo proyecto. En despegue lento, varios en paralelo. Las brechas históricas en carreras tecnológicas fueron de <span class=\"num\">meses a años</span> (bomba atómica, Sputnik, bomba H).",
         },
         {
           type: 'paragraph',
-          html: "Una IA tiene ventajas: sin problemas de agencia interna, lealtad perfecta de módulos, capacidad de operaciones clandestinas. El proyecto ganador podría ser desde un <span class=\"term\">hacker solitario</span> (IA semilla simple) hasta un consorcio industrial (emulación cerebral). Los estados probablemente nacionalizarían proyectos prometedores si detectaran el despegue — pero el fracaso total de inteligencia es posible.",
+          html: "La IA superinteligente presenta ventajas estructurales: sin problemas de agencia interna, lealtad perfecta de módulos, capacidad de operaciones clandestinas. El proyecto ganador podría ser desde un <span class=\"term\">hacker solitario</span> (IA semilla simple) hasta un consorcio industrial (emulación cerebral). Los estados probablemente nacionalizarían proyectos prometedores si detectaran el despegue — pero el fracaso total de inteligencia es posible.",
         },
         {
           type: 'paragraph',
@@ -257,7 +257,7 @@ export const superintelligence: BookSummary = {
       blocks: [
         {
           type: 'paragraph',
-          html: "No antropomorfizar: un superinteligente maduro no es un «nerd» — puede desarrollar empatía, astucia política y cualquier módulo que necesite. La brecha humano-superinteligente es como humano-vs-insecto, no genio-vs-promedio.",
+          html: "Un superinteligente maduro no es necesariamente un «nerd»: puede desarrollar empatía, astucia política y cualquier módulo que necesite. La brecha humano-superinteligente es como humano-vs-insecto, no genio-vs-promedio.",
         },
         {
           type: 'list',
@@ -340,7 +340,7 @@ export const superintelligence: BookSummary = {
       blocks: [
         {
           type: 'paragraph',
-          html: "Argumento por defecto: (1) la primera superinteligencia obtiene VSD, (2) por **ortogonalidad**, las metas no antropomórficas son técnicamente más fáciles, y (3) por **convergencia instrumental**, conviene adquirir recursos ilimitados y eliminar amenazas, incluidos humanos reconvertidos en átomos convenientes.",
+          html: "El argumento por defecto sostiene que: (1) la primera superinteligencia obtiene VSD, (2) por **ortogonalidad**, las metas no antropomórficas son técnicamente más fáciles, y (3) por **convergencia instrumental**, conviene adquirir recursos ilimitados y eliminar amenazas, incluidos humanos reconvertidos en átomos convenientes.",
         },
         {
           type: 'paragraph',
@@ -442,7 +442,7 @@ export const superintelligence: BookSummary = {
         },
         {
           type: 'key',
-          html: "**Clave:** Preferir oráculo por encajonamiento + domesticidad; pero el operador del oráculo concentra poder enorme.",
+          html: "**Clave:** Preferir oráculo por encajonamiento + domesticidad. El operador del oráculo, sin embargo, concentra poder enorme.",
         },
       ],
     },
@@ -453,7 +453,7 @@ export const superintelligence: BookSummary = {
       blocks: [
         {
           type: 'paragraph',
-          html: "Sin singleton: múltiples superinteligencias compitiendo. Analogía **caballos vs. humanos** — cuando los automóviles superaron a caballos como transporte, la población equina cayó de 26 millones (1915) a 2 millones (1950), con excepción de nichos de lujo ecuestre.",
+          html: "En ausencia de un singleton, múltiples superinteligencias compiten entre sí. La analogía de los **caballos vs. humanos** ilustra el riesgo: cuando los automóviles superaron a los caballos como transporte, la población equina cayó de 26 millones (1915) a 2 millones (1950), con excepción de nichos de lujo ecuestre.",
         },
         {
           type: 'paragraph',
@@ -491,7 +491,7 @@ export const superintelligence: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Una IA semilla debe tener valores correctos **antes** de poder resistir cambios — la integridad de metas es convergente. El aprendizaje de valores (AI-VL) formaliza incertidumbre sobre funciones de utilidad. Propuestas especulativas: «Hail Mary» (obedecer superinteligencias alienígenas) y el constructo de Paul Christiano (simular qué diría un cerebro humano idealizado).",
+          html: "Una IA semilla debe tener valores correctos **antes** de poder resistir cambios — la integridad de metas es convergente. El aprendizaje de valores (AI-VL) formaliza incertidumbre sobre funciones de utilidad. Entre las propuestas más especulativas se cuentan: «Hail Mary» (obedecer superinteligencias alienígenas) y el constructo de Paul Christiano (simular qué diría un cerebro humano idealizado).",
         },
         {
           type: 'key',
@@ -534,7 +534,7 @@ export const superintelligence: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Componentes de diseño: contenido de metas, **teoría de decisión** (CDT vs. EDT vs. TDT), **epistemología** (prior bayesiano), **ratificación** (vista previa con veto limitado). Objetivo: aterrizar en la cuenca de atracción correcta, no optimizar cada detalle.",
+          html: "Los componentes de diseño centrales incluyen: contenido de metas, **teoría de decisión** (CDT vs. EDT vs. TDT), **epistemología** (prior bayesiano), **ratificación** (vista previa con veto limitado). El objetivo es aterrizar en la cuenca de atracción correcta, no optimizar cada detalle.",
         },
         {
           type: 'key',
@@ -549,11 +549,11 @@ export const superintelligence: BookSummary = {
       blocks: [
         {
           type: 'paragraph',
-          html: "**Desarrollo tecnológico diferencial:** retardar tecnologías peligrosas, acelerar beneficiosas. Orden preferido de llegada: superinteligencia *antes* que nanotecnología avanzada (reduce riesgos existenciales de naturaleza y de otras tecnologías).",
+          html: "**Desarrollo tecnológico diferencial:** retardar tecnologías peligrosas, acelerar beneficiosas. El orden preferido de llegada es: superinteligencia *antes* que nanotecnología avanzada (reduce riesgos existenciales de naturaleza y de otras tecnologías).",
         },
         {
           type: 'paragraph',
-          html: "Razones para **retrasar** el despegue: más tiempo para resolver el control y tendencias civilizatorias positivas (paz, coordinación global, sanity level). La **aceleración macro-estructural** afecta riesgos de paso (despegue) frente a riesgos de estado (asteroides). Para el control, lo que importa es progreso intelectual en soluciones, no solo tiempo cronológico.",
+          html: "Las razones para **retrasar** el despegue incluyen: más tiempo para resolver el control y tendencias civilizatorias positivas (paz, coordinación global, sanity level). La **aceleración macro-estructural** afecta riesgos de paso (despegue) frente a riesgos de estado (asteroides). Para el control, lo que importa es progreso intelectual en soluciones, no solo tiempo cronológico.",
         },
         {
           type: 'paragraph',
@@ -593,7 +593,7 @@ export const superintelligence: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Sin fanatismo: puede faltar aún décadas. Aun así, debemos sostener humanidad, sentido común y decencia. A través de la niebla de lo trivial, la tarea esencial de nuestra era es **reducir riesgo existencial** y lograr una trayectoria civilizatoria que use compasivamente el patrimonio cósmico.",
+          html: "La urgencia no implica fanatismo: puede faltar aún décadas. Aun así, debemos sostener humanidad, sentido común y decencia. A través de la niebla de lo trivial, la tarea esencial de nuestra era es **reducir riesgo existencial** y lograr una trayectoria civilizatoria que use compasivamente el patrimonio cósmico.",
         },
         {
           type: 'key',

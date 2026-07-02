@@ -55,9 +55,9 @@ Usuario: "Generame el html del libro Sapiens"
             └─ Si el usuario pide regenerar contenido → PASO A
         │
         ▼
-[3] PASO C (opcional) — corrección mínima por sección
+[3] PASO C — corrección mínima (obligatorio antes de md-to-ts)
     │   docs/prompts/01c-correccion-minima.md
-    │   python3 scripts/lint-summary.py <slug>
+    │   python3 scripts/lint-summary.py <slug>   ← debe salir OK (exit 0)
         │
         ▼
 [4] PASO B (MD → src/data/<slug-corto>.ts) — preferir script:
@@ -139,17 +139,17 @@ Si hay ambigüedad entre varios archivos, **preguntar** al usuario cuál usar.
 
 ---
 
-## Paso C — Corrección mínima (opcional, recomendado)
+## Paso C — Corrección mínima (obligatorio)
 
 **Leer:** `docs/prompts/01c-correccion-minima.md`
 
-Corregir **solo** redundancias, telegráfico y gramática en `# prefacio` y `# capN`. No cambiar ideas ni citas.
+Corregir redundancias, telegráfico y gramática en `# prefacio`, `# capN` y `# cierre`. No cambiar ideas ni citas.
 
 ```bash
-python3 scripts/lint-summary.py <slug>   # detectar párrafos sospechosos
+python3 scripts/lint-summary.py <slug>   # debe terminar OK (exit 0)
 ```
 
-Luego `python3 scripts/md-to-ts.py <slug>` y `npm run build`.
+Si hay avisos, corregir el `.md` y repetir. Luego `python3 scripts/md-to-ts.py <slug>` y `npm run build`.
 
 ---
 

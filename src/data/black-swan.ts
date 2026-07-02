@@ -144,7 +144,7 @@ export const blackSwan: BookSummary = {
         },
         {
           type: 'key',
-          html: "La claridad narrativa no es evidencia de verdad; muchas veces es solo compresión psicológica de la complejidad.",
+          html: "La claridad narrativa no es evidencia de verdad. Muchas veces es solo compresión psicológica de la complejidad.",
         },
       ],
     },
@@ -163,7 +163,7 @@ export const blackSwan: BookSummary = {
         },
         {
           type: 'key',
-          html: "No todo resultado bueno valida una estrategia; en entornos no lineales, también puede ser azar favorable temporal.",
+          html: "No todo resultado bueno valida una estrategia. En entornos no lineales, también puede ser azar favorable temporal.",
         },
       ],
     },
@@ -174,7 +174,7 @@ export const blackSwan: BookSummary = {
       blocks: [
         {
           type: 'paragraph',
-          html: "Aquí aparece la <span class=\"term\">evidencia silenciosa</span>: juzgamos fenómenos por los casos visibles (supervivientes) y olvidamos los invisibles (fracasos). Historias de éxito sin base de comparación producen reglas engañosas de imitación.",
+          html: "Aquí aparece con fuerza la <span class=\"term\">evidencia silenciosa</span>: juzgamos fenómenos por los casos visibles (supervivientes) y olvidamos los invisibles (fracasos). Historias de éxito sin base de comparación producen reglas engañosas de imitación.",
         },
         {
           type: 'paragraph',
@@ -201,7 +201,7 @@ export const blackSwan: BookSummary = {
         },
         {
           type: 'key',
-          html: "No todo lo incierto es calculable; tratar lo incalculable como juego probabilístico es un error estructural.",
+          html: "No todo lo incierto es calculable. Tratar lo incalculable como juego probabilístico es un error estructural.",
         },
       ],
     },
@@ -250,7 +250,7 @@ export const blackSwan: BookSummary = {
       blocks: [
         {
           type: 'paragraph',
-          html: "Taleb imagina una <span class=\"term\">epistemocracia</span>: un orden social que premia la humildad epistemológica y penaliza la sobreconfianza experta. El foco no es quién sabe más, sino quién reconoce mejor lo que ignora.",
+          html: "Taleb llama <span class=\"term\">epistemocracia</span> al orden social que premia la humildad epistemológica y penaliza la sobreconfianza experta. El foco no es quién sabe más, sino quién reconoce mejor lo que ignora.",
         },
         {
           type: 'paragraph',

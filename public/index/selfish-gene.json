@@ -78,7 +78,7 @@
     {
       "sectionId": "cap1",
       "sectionTitle": "¿Por qué existen las personas?",
-      "text": "La tesis central: somos máquinas de supervivencia creadas por nuestros genes. Un gen exitoso tiende al egoísmo despiadado , aunque en circunstancias especiales puede favorecer un altruismo limitado. El amor universal y el bien de la especie no tienen sentido evolutivo."
+      "text": "La tesis central sostiene que somos máquinas de supervivencia creadas por nuestros genes. Un gen exitoso tiende al egoísmo despiadado , aunque en circunstancias especiales puede favorecer un altruismo limitado. El amor universal y el bien de la especie no tienen sentido evolutivo."
     },
     {
       "sectionId": "cap1",
@@ -128,7 +128,7 @@
     {
       "sectionId": "cap3",
       "sectionTitle": "Espirales inmortales",
-      "text": "Los cuerpos son vehículos temporales ; los genes son replicadores potencialmente inmortales que los abandonan generación tras generación."
+      "text": "Los cuerpos son vehículos temporales . Los genes, en cambio, son replicadores potencialmente inmortales que los abandonan generación tras generación."
     },
     {
       "sectionId": "cap4",
@@ -148,7 +148,7 @@
     {
       "sectionId": "cap4",
       "sectionTitle": "La máquina génica",
-      "text": "Conveniencia analítica: tratar al organismo individual como agente que maximiza la propagación de todos sus genes. El capítulo explora tácticas de supervivencia, señales y engaño en el comportamiento animal."
+      "text": "Por conveniencia analítica, el capítulo trata al organismo individual como agente que maximiza la propagación de todos sus genes. El capítulo explora tácticas de supervivencia, señales y engaño en el comportamiento animal."
     },
     {
       "sectionId": "cap4",
@@ -268,7 +268,7 @@
     {
       "sectionId": "cap9",
       "sectionTitle": "Batalla de los sexos",
-      "text": "Maleness y femaleness se definen por el tamaño del gameto — no por anatomía visible — y de ahí fluye casi toda la asimetría sexual."
+      "text": "Lo masculino y lo femenino se definen por el tamaño del gameto, no por anatomía visible, y de ahí fluye casi toda la asimetría sexual."
     },
     {
       "sectionId": "cap10",
@@ -333,7 +333,7 @@
     {
       "sectionId": "cap12",
       "sectionTitle": "Los buenos terminan primero",
-      "text": "En el Dilema del Prisionero iterado , los buenos — cooperadores condicionales — pueden terminar primero."
+      "text": "En el Dilema del Prisionero iterado , los buenos (cooperadores condicionales) pueden terminar primero."
     },
     {
       "sectionId": "cap13",
@@ -358,7 +358,7 @@
     {
       "sectionId": "cap13",
       "sectionTitle": "El largo alcance del gen",
-      "text": "El gen tiene largo alcance : su fenotipo incluye castores, presas, nidos y hasta el comportamiento manipulado de otros organismos."
+      "text": "El gen ejerce un largo alcance : su fenotipo incluye castores, presas, nidos y hasta el comportamiento manipulado de otros organismos."
     },
     {
       "sectionId": "cierre",

@@ -133,7 +133,7 @@
     {
       "sectionId": "cap3",
       "sectionTitle": "Que brille la luz",
-      "text": "El universo nació en un blaze de luz que sigue llenando el espacio; la expansión lo diluyó hasta el resplandor microondas detectable hoy."
+      "text": "El universo nació en un destello de luz que sigue llenando el espacio. La expansión lo diluyó hasta el resplandor de microondas detectable hoy."
     },
     {
       "sectionId": "cap4",
@@ -233,7 +233,7 @@
     {
       "sectionId": "cap8",
       "sectionTitle": "Descubriendo las galaxias",
-      "text": "Las «nubes» del cielo son islas de estrellas a distancias inconcebibles; descubrirlas transformó nuestra escala cósmica."
+      "text": "Las «nubes» del cielo son islas de estrellas a distancias inconcebibles. Descubrirlas transformó nuestra escala cósmica."
     },
     {
       "sectionId": "cap9",
@@ -273,7 +273,7 @@
     {
       "sectionId": "cap10",
       "sectionTitle": "Polvo al polvo",
-      "text": "Del polvo interestelar —literalmente— nacen las estrellas que iluminan el cosmos."
+      "text": "Del polvo interestelar, literalmente, nacen las estrellas que iluminan el cosmos."
     },
     {
       "sectionId": "cap11",
@@ -303,17 +303,17 @@
     {
       "sectionId": "cap12",
       "sectionTitle": "Planetas más allá del Sistema Solar",
-      "text": "Hasta 1995 no se confirmó ningún exoplaneta . Luego llegó la avalancha: hoy más de 5.000 mundos conocidos con órbitas, tamaños y composiciones diversos — algunos en la zona habitable , otras órbitas extremas que desafían modelos."
+      "text": "Hasta 1995 no se confirmó ningún exoplaneta . Luego, los descubrimientos llegaron en avalancha: hoy más de 5.000 mundos conocidos con órbitas, tamaños y composiciones diversos — algunos en la zona habitable , otros en órbitas extremas que desafían modelos."
     },
     {
       "sectionId": "cap12",
       "sectionTitle": "Planetas más allá del Sistema Solar",
-      "text": "Métodos de detección: velocidad radial (wobble estelar), tránsitos (atenuación de luz), microlentes gravitacionales e imagen directa. Los exoplanetas son laboratorio cósmico para preguntar cuándo y cómo surge la vida más allá del Sistema Solar."
+      "text": "Los métodos de detección incluyen la velocidad radial (wobble estelar), los tránsitos (atenuación de luz), las microlentes gravitacionales y la imagen directa. Los exoplanetas son laboratorio cósmico para preguntar cuándo y cómo surge la vida más allá del Sistema Solar."
     },
     {
       "sectionId": "cap12",
       "sectionTitle": "Planetas más allá del Sistema Solar",
-      "text": "De la especulación pasamos a un catálogo de miles de mundos; la pregunta ya no es «¿hay planetas?» sino «¿cuántos son habitables?»."
+      "text": "De la especulación pasamos a un catálogo de miles de mundos. La pregunta ya no es «¿hay planetas?» sino «¿cuántos son habitables?»."
     },
     {
       "sectionId": "cap13",
@@ -348,12 +348,12 @@
     {
       "sectionId": "cap13",
       "sectionTitle": "Vida en el universo",
-      "text": "Drake organiza nuestra ignorancia: sabemos contar estrellas y planetas mejor que originar o sostener civilizaciones."
+      "text": "Drake resume nuestra ignorancia: sabemos contar estrellas y planetas mejor que originar o sostener civilizaciones."
     },
     {
       "sectionId": "cap14",
       "sectionTitle": "El origen de la vida en la Tierra",
-      "text": "Definición operativa de vida: conjuntos de objetos que se reproducen y evolucionan . No basta autorreplicarse (el fuego también lo hace). Ningún objeto aislado califica: hay que seguir poblaciones en el tiempo."
+      "text": "Tyson define la vida de forma operativa como conjuntos de objetos que se reproducen y evolucionan . No basta autorreplicarse (el fuego también lo hace). No basta con un objeto aislado: hay que seguir poblaciones en el tiempo."
     },
     {
       "sectionId": "cap14",
@@ -368,7 +368,7 @@
     {
       "sectionId": "cap14",
       "sectionTitle": "El origen de la vida en la Tierra",
-      "text": "La vida usa los ingredientes más comunes del cosmos; cómo se ensamblaron la primera vez sigue en la niebla del eón Hadeano."
+      "text": "La vida usa los ingredientes más comunes del cosmos. Cómo se ensamblaron la primera vez sigue en la niebla del eón Hadeano."
     },
     {
       "sectionId": "cap15",
@@ -383,12 +383,12 @@
     {
       "sectionId": "cap15",
       "sectionTitle": "Buscando vida en el Sistema Solar",
-      "text": "Candidatos en el Sistema Solar: Marte (pasado húmedo), Europa y Encélado (océanos subterráneos bajo hielo), Titán (lagos de hidrocarburos), Ceres . Ningún hallazgo concluyente aún, pero las misiones siguen activas."
+      "text": "Los candidatos en el Sistema Solar son Marte (pasado húmedo), Europa y Encélado (océanos subterráneos bajo hielo), Titán (lagos de hidrocarburos) y Ceres . Ningún hallazgo concluyente aún, pero las misiones siguen activas."
     },
     {
       "sectionId": "cap15",
       "sectionTitle": "Buscando vida en el Sistema Solar",
-      "text": "En nuestro vecindario, la vida —si existe— será probablemente microbiana y ligada al agua o solventes alternativos bajo hielo."
+      "text": "En nuestro vecindario, la vida, si existe, será probablemente microbiana y estará ligada al agua o a solventes alternativos bajo hielo."
     },
     {
       "sectionId": "cap16",
@@ -398,7 +398,7 @@
     {
       "sectionId": "cap16",
       "sectionTitle": "Buscando vida en la Vía Láctea",
-      "text": "Escenario optimista: fracciones del 10% en cada paso → ~ 1.000 civilizaciones activas en una galaxia de 100.000 millones de estrellas. Pesimista (1 en 10.000 cada paso) → ~ 0,001 civilizaciones: estaríamos solos en la media."
+      "text": "En el escenario optimista, con fracciones del 10% en cada paso, habría ~ 1.000 civilizaciones activas en una galaxia de 100.000 millones de estrellas. El escenario pesimista (1 en 10.000 cada paso) implica ~ 0,001 civilizaciones: estaríamos solos en la media."
     },
     {
       "sectionId": "cap16",
@@ -428,7 +428,7 @@
     {
       "sectionId": "coda",
       "sectionTitle": "La búsqueda de nosotros mismos en el cosmos",
-      "text": "Cada nuevo detector es una ventana cósmica; la búsqueda de nuestro lugar en el universo nos revela también quiénes somos."
+      "text": "Cada nuevo detector es una ventana cósmica. La búsqueda de nuestro lugar en el universo nos revela también quiénes somos."
     },
     {
       "sectionId": "cierre",

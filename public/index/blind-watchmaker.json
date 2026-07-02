@@ -66,12 +66,12 @@
     {
       "sectionId": "prefacio",
       "sectionTitle": "Un misterio resuelto",
-      "text": "El libro no pretende ser un tratado científico frío. Busca informar, persuadir e inspirar: el darwinismo no solo es cierto, sino la única teoría conocida que, en principio, puede resolver el misterio de nuestra existencia. Dawkins distingue su defensa de la de un abogado que defiende causas en las que no cree: nunca dice lo que no considera verdadero."
+      "text": "El libro no pretende ser un tratado científico frío. Su propósito es informar, persuadir e inspirar: el darwinismo no solo es cierto, sino la única teoría conocida que, en principio, puede resolver el misterio de nuestra existencia. Dawkins distingue su defensa de la de un abogado que defiende causas en las que no cree: nunca dice lo que no considera verdadero."
     },
     {
       "sectionId": "prefacio",
       "sectionTitle": "Un misterio resuelto",
-      "text": "El darwinismo parece necesitar más defensa que otras verdades científicas establecidas; la mente humana está predispuesta a malinterpretarlo por el azar, las escalas temporales y la analogía con el diseño consciente."
+      "text": "El darwinismo parece necesitar más defensa que otras verdades científicas establecidas. La mente humana está predispuesta a malinterpretarlo por el azar, las escalas temporales y la analogía con el diseño consciente."
     },
     {
       "sectionId": "cap1",
@@ -106,7 +106,7 @@
     {
       "sectionId": "cap2",
       "sectionTitle": "Buen diseño",
-      "text": "Los murciélagos cazan de noche sin luz. Fabricar luz propia consume demasiada energía. La evolución favoreció otra solución. Los ciegos usan ecolocalización : ecos de sus propios sonidos. Los pioneros del sonar en la Segunda Guerra Mundial no sabían que la selección natural lo había perfeccionado millones de años antes."
+      "text": "Los murciélagos cazan de noche sin luz. Fabricar luz propia consume demasiada energía. La evolución favoreció otra solución. Los murciélagos ciegos se orientan mediante ecolocalización : escuchan el eco de sus propios sonidos. Los pioneros del sonar en la Segunda Guerra Mundial no sabían que la selección natural lo había perfeccionado millones de años antes."
     },
     {
       "sectionId": "cap2",
@@ -121,12 +121,12 @@
     {
       "sectionId": "cap2",
       "sectionTitle": "Buen diseño",
-      "text": "Un órgano o cuerpo está bien diseñado si un ingeniero inteligente podría haberlo construido para un fin sensato — volar, ver, comer, reproducirse — aunque no sea el mejor diseño imaginable."
+      "text": "Un órgano o cuerpo está bien diseñado si un ingeniero inteligente podría haberlo construido para un fin sensato (volar, ver, comer, reproducirse), aunque no sea el mejor diseño imaginable."
     },
     {
       "sectionId": "cap3",
       "sectionTitle": "Acumulando pequeños cambios",
-      "text": "Los seres vivos son demasiado improbables para surgir de un solo golpe de azar. La respuesta darwiniana: transformaciones graduales desde entidades simples, cada paso lo bastante pequeño para ser plausible, dirigidos en conjunto por la selección no aleatoria ."
+      "text": "Los seres vivos son demasiado improbables para surgir de un solo golpe de azar. La respuesta de Darwin consiste en transformaciones graduales desde entidades simples, cada paso lo bastante pequeño para ser plausible, dirigidos en conjunto por la selección no aleatoria ."
     },
     {
       "sectionId": "cap3",
@@ -176,7 +176,7 @@
     {
       "sectionId": "cap4",
       "sectionTitle": "Trazando rutas por el espacio animal",
-      "text": "El ojo no salta en el espacio animal ; camina en pasos diminutos, cada uno seleccionado por utilidad inmediata."
+      "text": "El ojo no salta en el espacio animal : camina en pasos diminutos, cada uno seleccionado por utilidad inmediata."
     },
     {
       "sectionId": "cap5",
@@ -201,7 +201,7 @@
     {
       "sectionId": "cap5",
       "sectionTitle": "El poder y los archivos",
-      "text": "En el corazón de todo ser vivo hay información — palabras, instrucciones — no fuego ni chispa vital."
+      "text": "En el corazón de todo ser vivo hay información (palabras, instrucciones), no fuego ni chispa vital."
     },
     {
       "sectionId": "cap6",
@@ -256,7 +256,7 @@
     {
       "sectionId": "cap8",
       "sectionTitle": "Explosiones y espirales",
-      "text": "Los memes , unidades de transmisión cultural, se replican con variación y selección, analogía con los genes. Dawkins advierte: la analogía puede llevarse demasiado lejos, como ocurre con los cranks que ven evolución en todo. El criterio es la calidad de la inspiración y la capacidad de descartar analogías frívolas."
+      "text": "Los memes , unidades de transmisión cultural, se replican con variación y selección, analogía con los genes. Dawkins advierte, no obstante, que la analogía puede llevarse demasiado lejos, como ocurre con los cranks que ven evolución en todo. El criterio es la calidad de la inspiración y la capacidad de descartar analogías frívolas."
     },
     {
       "sectionId": "cap8",
@@ -281,7 +281,7 @@
     {
       "sectionId": "cap9",
       "sectionTitle": "Desinflando el punctuationismo",
-      "text": "El punctuationismo es una variedad menor de darwinismo, no un rival; los «gradualistas» de Dawkins son un hombre de paja."
+      "text": "El punctuationismo es una variedad menor de darwinismo, no un rival. Los «gradualistas» que critica son un hombre de paja."
     },
     {
       "sectionId": "cap10",
@@ -326,7 +326,7 @@
     {
       "sectionId": "cap11",
       "sectionTitle": "Rivales condenados",
-      "text": "El darwinismo es la única teoría conocida que, en principio, puede explicar la complejidad adaptativa ; los rivales fallan incluso antes de mirar la evidencia."
+      "text": "El darwinismo es la única teoría conocida que, en principio, puede explicar la complejidad adaptativa . Los rivales fallan incluso antes de mirar la evidencia."
     },
     {
       "sectionId": "cierre",

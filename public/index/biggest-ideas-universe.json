@@ -93,7 +93,7 @@
     {
       "sectionId": "cap2",
       "sectionTitle": "Cambio",
-      "text": "El paradigma laplaciano: dado estado inicial (posición y velocidad), las leyes determinan toda la trayectoria. Newton , presionado por Halley , publicó los Principia ( 1687 ): F = ma y gravitación universal F ∝ 1/r²."
+      "text": "El paradigma laplaciano sostiene que dado el estado inicial (posición y velocidad), las leyes determinan toda la trayectoria. Newton , presionado por Halley , publicó los Principia ( 1687 ): F = ma y gravitación universal F ∝ 1/r²."
     },
     {
       "sectionId": "cap2",
@@ -138,12 +138,12 @@
     {
       "sectionId": "cap3",
       "sectionTitle": "Dinámica",
-      "text": "Newton, Lagrange y Hamilton describen lo mismo con vocabularios distintos; elegir uno u otro puede abrir atajos hacia leyes más profundas."
+      "text": "Newton, Lagrange y Hamilton describen lo mismo con vocabularios distintos. Elegir uno u otro puede abrir atajos hacia leyes más profundas."
     },
     {
       "sectionId": "cap4",
       "sectionTitle": "Espacio",
-      "text": "¿Qué es el espacio ? Debate clásico: sustancia (contenedor) vs. relacional (solo distancias entre objetos). Hoy los campos llenan el espacio y Einstein mostró que su geometría responde a la energía."
+      "text": "¿Qué es el espacio ? El debate clásico enfrenta dos posturas: sustancia (contenedor) vs. relacional (solo distancias entre objetos). Hoy los campos llenan el espacio y Einstein mostró que su geometría responde a la energía."
     },
     {
       "sectionId": "cap4",
@@ -153,7 +153,7 @@
     {
       "sectionId": "cap4",
       "sectionTitle": "Espacio",
-      "text": "La mecánica hamiltoniana eleva el momento a variable independiente (no definido como mv). Lo especial del espacio: las interacciones son locales en posición — objetos se influyen cuando coinciden en el mismo lugar, mediados por campos."
+      "text": "La mecánica hamiltoniana eleva el momento a variable independiente (no definido como mv). Lo que distingue al espacio es que las interacciones son locales en posición : los objetos se influyen cuando coinciden en el mismo lugar, mediados por campos."
     },
     {
       "sectionId": "cap4",
@@ -178,7 +178,7 @@
     {
       "sectionId": "cap5",
       "sectionTitle": "Tiempo",
-      "text": "Sin tiempo no hay movimiento ni cambio. Medimos duración con relojes : sistemas periódicos (Tierra, osciladores) comparables entre sí. El tiempo se parece al espacio (localización en espaciotiempo) pero también difiere profundamente."
+      "text": "Sin tiempo no hay movimiento ni cambio. La duración se mide con relojes : sistemas periódicos (Tierra, osciladores) comparables entre sí. El tiempo se parece al espacio (localización en espaciotiempo) pero también difiere profundamente."
     },
     {
       "sectionId": "cap5",
@@ -188,7 +188,7 @@
     {
       "sectionId": "cap5",
       "sectionTitle": "Tiempo",
-      "text": "La entropía (Boltzmann) crece porque hay vastly más microestados de alta entropía que de baja. La hipótesis del pasado : el universo empezó en entropía extremadamente baja (Big Bang denso y uniforme). Eso rompe la simetría pasado/futuro."
+      "text": "La entropía (Boltzmann) crece porque hay vastly más microestados de alta entropía que de baja. La llamada hipótesis del pasado sostiene que el universo empezó en entropía extremadamente baja (Big Bang denso y uniforme). Eso rompe la simetría pasado/futuro."
     },
     {
       "sectionId": "cap5",
@@ -208,7 +208,7 @@
     {
       "sectionId": "cap6",
       "sectionTitle": "Espaciotiempo",
-      "text": "El intervalo de Minkowski: τ² = Δt² − Δx² (con c = 1). Más movimiento espacial → menos tiempo propio. El experimento de los gemelos no es paradoja: caminos distintos, duraciones distintas. La velocidad c convierte unidades espacio↔tiempo."
+      "text": "El intervalo de Minkowski se define como τ² = Δt² − Δx² (con c = 1). Más movimiento espacial significa menos tiempo propio. El experimento de los gemelos no es paradoja: caminos distintos, duraciones distintas. La velocidad c convierte unidades espacio↔tiempo."
     },
     {
       "sectionId": "cap6",
@@ -253,7 +253,7 @@
     {
       "sectionId": "cap8",
       "sectionTitle": "Gravedad",
-      "text": "La gravedad es curvatura del espaciotiempo. La ecuación de Einstein ( 25 nov 1915 ) relaciona tensor de Einstein (curvatura) con tensor energía-momento (materia). Wheeler lo resumió así: «el espaciotiempo dice a la materia cómo moverse, y la materia dice al espaciotiempo cómo curvarse»."
+      "text": "La gravedad es curvatura del espaciotiempo. La ecuación de Einstein ( 25 nov 1915 ) relaciona tensor de Einstein (curvatura) con tensor energía-momento (materia). Wheeler lo resumió con esta frase: «el espaciotiempo dice a la materia cómo moverse, y la materia dice al espaciotiempo cómo curvarse»."
     },
     {
       "sectionId": "cap8",
@@ -263,7 +263,7 @@
     {
       "sectionId": "cap8",
       "sectionTitle": "Gravedad",
-      "text": "Pruebas clásicas: precesión de Mercurio (+0,012°/siglo exacto), desviación de luz ( Eddington , eclipse 1919 ), redshift gravitacional, ondas gravitacionales (LIGO 2015 ), expansión del universo (Hubble)."
+      "text": "Las pruebas observacionales clásicas abarcan la precesión de Mercurio (+0,012°/siglo exacto), la desviación de luz ( Eddington , eclipse 1919 ), el redshift gravitacional, las ondas gravitacionales (LIGO 2015 ) y la expansión del universo (Hubble)."
     },
     {
       "sectionId": "cap8",
@@ -273,7 +273,7 @@
     {
       "sectionId": "cap8",
       "sectionTitle": "Gravedad",
-      "text": "Einstein no resolvió ecuaciones: las entendió ; Schwarzschild, sentado en el frente, encontró la primera solución exacta semanas después."
+      "text": "Einstein no fue quien resolvió sus ecuaciones: las entendió . Schwarzschild, sentado en el frente, encontró la primera solución exacta semanas después."
     },
     {
       "sectionId": "cap9",
@@ -283,12 +283,12 @@
     {
       "sectionId": "cap9",
       "sectionTitle": "Agujeros negros",
-      "text": "Dilatación gravitacional: relojes cerca de masas marcan menos tiempo propio. Coordenadas Eddington-Finkelstein eliminan la singularidad de coordenadas en el horizonte. Teorema «no-hair»: agujeros negros quedan caracterizados solo por masa, carga y spin ( solución de Kerr para rotación)."
+      "text": "La dilatación gravitacional implica que relojes cerca de masas marcan menos tiempo propio. Las coordenadas Eddington-Finkelstein eliminan la singularidad de coordenadas en el horizonte. Teorema «no-hair»: agujeros negros quedan caracterizados solo por masa, carga y spin ( solución de Kerr para rotación)."
     },
     {
       "sectionId": "cap9",
       "sectionTitle": "Agujeros negros",
-      "text": "Hawking ( 1971 ) demostró que el área del horizonte solo crece, análogo a entropía. Bekenstein propuso entropía proporcional al área. Hawking calculó radiación térmica: los agujeros negros «brillan» cuánticamente. LIGO detectó fusiones (p. ej. 36 + 29 masas solares, 2015 ). El Nobel 2020 fue para Penrose, Genzel y Ghez."
+      "text": "Hawking ( 1971 ) demostró que el área del horizonte solo crece, análogo a entropía. Bekenstein propuso entropía proporcional al área. Hawking calculó además una radiación térmica propia: los agujeros negros «brillan» cuánticamente. LIGO detectó fusiones (p. ej. 36 + 29 masas solares, 2015 ). El Nobel 2020 fue para Penrose, Genzel y Ghez."
     },
     {
       "sectionId": "cap9",

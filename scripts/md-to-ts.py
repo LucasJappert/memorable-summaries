@@ -317,11 +317,11 @@ def main() -> None:
             (ROOT / "summaries/cosmos.md", ROOT / "src/data/cosmos.ts", "cosmos"),
             (ROOT / "summaries/wonderful-life.md", ROOT / "src/data/wonderful-life.ts", "wonderfulLife"),
         ]
+    elif len(sys.argv) == 2 and sys.argv[1] == "--all":
+        jobs = [resolve_job(p.stem) for p in sorted((ROOT / "summaries").glob("*.md"))]
     elif len(sys.argv) == 2:
         jobs = [resolve_job(sys.argv[1])]
-    elif len(sys.argv) == 3 and sys.argv[1] == "--all":
-        jobs = [resolve_job(p.stem) for p in sorted((ROOT / "summaries").glob("*.md"))]
-    else:
+    elif len(sys.argv) == 4:
         jobs = [(Path(sys.argv[1]), Path(sys.argv[2]), sys.argv[3])]
     for md, ts, name in jobs:
         if not md.exists():

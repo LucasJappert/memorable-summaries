@@ -142,7 +142,7 @@ export const selfAssemblingBrain: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Esto conecta con <span class=\"term\">penetrancia</span>: una mutación puede no expresarse igual en todos los individuos por dependencia de contexto, umbrales y procesos estocásticos. La “información relevante” no es absoluta. Depende del nivel donde se evalúa el fenotipo.",
+          html: "Esto se conecta con el concepto de <span class=\"term\">penetrancia</span>: una mutación puede no expresarse igual en todos los individuos por dependencia de contexto, umbrales y procesos estocásticos. La “información relevante” no es absoluta. Depende del nivel donde se evalúa el fenotipo.",
         },
         {
           type: 'key',
@@ -274,7 +274,7 @@ export const selfAssemblingBrain: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Aquí se contraponen dos estrategias: <span class=\"term\">diseño top-down</span> (arquitectura fija más entrenamiento) y <span class=\"term\">autoensamblaje</span> (estructura que emerge durante el proceso). La IA dominante usa la primera. El cerebro biológico combina crecimiento, poda, actividad y aprendizaje.",
+          html: "Aquí se contraponen las dos estrategias: <span class=\"term\">diseño top-down</span> (arquitectura fija más entrenamiento) y <span class=\"term\">autoensamblaje</span> (estructura que emerge durante el proceso). La IA dominante usa la primera. El cerebro biológico combina crecimiento, poda, actividad y aprendizaje.",
         },
         {
           type: 'paragraph',
@@ -286,7 +286,7 @@ export const selfAssemblingBrain: BookSummary = {
         },
         {
           type: 'key',
-          html: "Entrenar redes prefabricadas funciona para tareas acotadas; para inteligencia amplia quizá falte crecimiento.",
+          html: "Entrenar redes prefabricadas funciona para tareas acotadas. Para inteligencia amplia, quizá falte crecimiento.",
         },
       ],
     },
@@ -306,7 +306,7 @@ export const selfAssemblingBrain: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "También vuelve sobre <span class=\"term\">cognitive bias</span>: los sesgos no son solo fallas, sino resultado natural de un sistema que aprende secuencialmente y prioriza coherencia con su historia para predecir el futuro.",
+          html: "Hiesinger también explora el sesgo cognitivo (<span class=\"term\">cognitive bias</span>): los sesgos no son solo fallas, sino resultado natural de un sistema que aprende secuencialmente y prioriza coherencia con su historia para predecir el futuro.",
         },
         {
           type: 'concept-grid',

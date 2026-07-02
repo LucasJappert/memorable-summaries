@@ -14,8 +14,8 @@ Libro (.epub / .pdf / texto)
         │
 summaries/<slug>.md          ← fuente de verdad intermedia (humana + IA)
         │
-        ▼  (opcional) Prompt 01c — docs/prompts/01c-correccion-minima.md
-        │  scripts/lint-summary.py
+        ▼  Prompt 01c — docs/prompts/01c-correccion-minima.md  (obligatorio)
+        │  python3 scripts/lint-summary.py <slug>  (debe pasar)
         │
         ▼  scripts/md-to-ts.py  (preferir sobre IA manual)
         │
@@ -68,7 +68,7 @@ El `.md` intermedio actúa como **contrato**: si el paso 1 respeta la plantilla,
 2. [ ] Extraer texto: `python3 scripts/extract-epub.py "<libro>"`
 3. [ ] Ejecutar prompt 01 con la plantilla → `summaries/<slug>.md`
 4. [ ] Revisar: citas, cifras, nombres, orden de capítulos
-5. [ ] (Opcional) Paso C: `01c-correccion-minima.md` + `python3 scripts/lint-summary.py <slug>`
+5. [ ] Paso C: `01c-correccion-minima.md` + `python3 scripts/lint-summary.py <slug>` (obligatorio, exit 0)
 6. [ ] `python3 scripts/md-to-ts.py <slug>` → `src/data/<slug-corto>.ts`
 7. [ ] Registrar el libro en `src/books/catalog.ts` (cuando haya varios)
 8. [ ] `npm run build` para verificar tipos

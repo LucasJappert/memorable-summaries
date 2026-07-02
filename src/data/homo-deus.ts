@@ -136,7 +136,7 @@ export const homoDeus: BookSummary = {
         },
         {
           type: 'key',
-          html: "El Antropoceno no empezó con fábricas sino con la expansión del sapiens; nuestra relación con otros animales anticipa la del superhumano con el humano corriente.",
+          html: "El Antropoceno no empezó con fábricas sino con la expansión del sapiens. Nuestra relación con otros animales anticipa la del superhumano con el humano corriente.",
         },
       ],
     },
@@ -180,7 +180,7 @@ export const homoDeus: BookSummary = {
         },
         {
           type: 'key',
-          html: "No hay alma ni chispa detectable; la supremacía humana descansa en inventar y creer ficciones cooperativas a escala masiva.",
+          html: "No hay alma ni chispa detectable. La supremacía humana descansa en inventar y creer ficciones cooperativas a escala masiva.",
         },
       ],
     },
@@ -200,7 +200,7 @@ export const homoDeus: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Evaluar imperios solo por sus propios mitos es circular. Criterio de realidad: ¿<span class=\"term\">sufre</span>? Zeus, el euro o «Francia» no sufren. El soldado herido sí. Las ficciones son herramientas vitales, porque sin reglas compartidas no hay fútbol ni mercados, pero no deben convertirse en fines.",
+          html: "Evaluar imperios solo por sus propios mitos es circular. Un criterio de realidad útil es preguntar: ¿<span class=\"term\">sufre</span>? Zeus, el euro o «Francia» no sufren. El soldado herido sí. Las ficciones son herramientas vitales, porque sin reglas compartidas no hay fútbol ni mercados, pero no deben convertirse en fines.",
         },
         {
           type: 'quote',
@@ -209,7 +209,7 @@ export const homoDeus: BookSummary = {
         },
         {
           type: 'key',
-          html: "La historia avanza gracias a redes de ficciones cada vez más potentes; distinguir ficción de sufrimiento real será más difícil —y más urgente— en el siglo XXI.",
+          html: "La historia avanza gracias a redes de ficciones cada vez más potentes. Distinguir ficción de sufrimiento real será más difícil, y más urgente, en el siglo XXI.",
         },
       ],
     },
@@ -253,7 +253,7 @@ export const homoDeus: BookSummary = {
         },
         {
           type: 'key',
-          html: "Ciencia amplifica mitos humanistas; el liberalismo actual es una religión científicamente implementada, no el fin de la religión.",
+          html: "La ciencia amplifica mitos humanistas. El liberalismo actual es una religión científicamente implementada, no el fin de la religión.",
         },
       ],
     },
@@ -281,7 +281,7 @@ export const homoDeus: BookSummary = {
         },
         {
           type: 'key',
-          html: "Modernidad = poder sin sentido dado; el humanismo rellenó el vacío haciendo del sentir humano la brújula moral.",
+          html: "La modernidad ofrece poder sin sentido dado. El humanismo rellenó el vacío haciendo del sentir humano la brújula moral.",
         },
       ],
     },
@@ -293,11 +293,11 @@ export const homoDeus: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El humanismo invierte el guion: no un plan cósmico da sentido a las vidas humanas, sino que las <span class=\"term\">experiencias humanas</span> dan sentido al cosmos. Mandamiento central: «Escucha tu corazón».",
+          html: "El humanismo invierte el guion: no un plan cósmico da sentido a las vidas humanas, sino que las <span class=\"term\">experiencias humanas</span> dan sentido al cosmos. Su mandamiento central es: «Escucha tu corazón».",
         },
         {
           type: 'paragraph',
-          html: "En la Edad Media el sacerdote interpretaba pecado con la Biblia. Hoy el terapeuta pregunta «¿cómo se siente usted?». El matrimonio pasó de sacramento impuesto a contrato de amor auténtico. Tres ramas compiten: <span class=\"term\">liberal</span> (mi sentir interior), <span class=\"term\">socialista</span> (sentir colectivo de la clase), <span class=\"term\">evolucionista</span> (conflictos como selección, vía nazi hoy tabú).",
+          html: "En la Edad Media el sacerdote interpretaba pecado con la Biblia. Hoy el terapeuta pregunta «¿cómo se siente usted?». El matrimonio pasó de sacramento impuesto a contrato de amor auténtico. Tres corrientes del humanismo disputan la autoridad: <span class=\"term\">liberal</span> (mi sentir interior), <span class=\"term\">socialista</span> (sentir colectivo de la clase), <span class=\"term\">evolucionista</span> (conflictos como selección, vía nazi hoy tabú).",
         },
         {
           type: 'paragraph',
@@ -313,7 +313,7 @@ export const homoDeus: BookSummary = {
         },
         {
           type: 'key',
-          html: "El humanismo reemplazó a Dios con el hombre; sus victorias tecnológicas amenazan con vaciar al hombre libre que las fundó.",
+          html: "El humanismo reemplazó a Dios con el hombre. Sus victorias tecnológicas amenazan con vaciar al hombre libre que las fundó.",
         },
       ],
     },
@@ -353,7 +353,7 @@ export const homoDeus: BookSummary = {
         },
         {
           type: 'key',
-          html: "El libre albedrío es narrativa útil, no entidad detectable; las tecnologías del s. XXI convierten la duda en obsolescencia institucional.",
+          html: "El libre albedrío es narrativa útil, no entidad detectable. Las tecnologías del s. XXI convierten la duda en obsolescencia institucional.",
         },
       ],
     },
@@ -418,7 +418,7 @@ export const homoDeus: BookSummary = {
         },
         {
           type: 'key',
-          html: "Mejorar la mente sin cartografiarla es peligroso; controlar el deseo anula al humanismo que lo elevó a supremo.",
+          html: "Mejorar la mente sin cartografiarla es peligroso. Controlar el deseo anula al humanismo que lo elevó a supremo.",
         },
       ],
     },
@@ -434,7 +434,7 @@ export const homoDeus: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La economía funciona como sistema de procesamiento: el capitalismo distribuye (mercado/Bolsa) y el comunismo centraliza (Moscú). El mercado libre «ganó» la Guerra Fría por eficiencia informacional, no por moral superior. Nueva divinidad: <span class=\"term\">libertad de información</span>, no de opinión (Aaron Swartz, <span class=\"num\">2013</span>).",
+          html: "La economía funciona como sistema de procesamiento: el capitalismo distribuye (mercado/Bolsa) y el comunismo centraliza (Moscú). El mercado libre «ganó» la Guerra Fría por eficiencia informacional, no por moral superior. La nueva divinidad es la <span class=\"term\">libertad de información</span>, no la de opinión (<span class=\"person\">Aaron Swartz</span>, <span class=\"num\">2013</span>).",
         },
         {
           type: 'paragraph',
@@ -442,11 +442,11 @@ export const homoDeus: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Tres procesos convergentes: (1) vida como algoritmos, (2) inteligencia sin conciencia, (3) algoritmos que nos conocen mejor que nosotros. Preguntas abiertas: ¿valen más datos que sufrimiento consciente? ¿Qué religión post-humanista llenará el vacío?",
+          html: "Tres procesos convergentes definen el horizonte: (1) vida como algoritmos, (2) inteligencia sin conciencia, (3) algoritmos que nos conocen mejor que nosotros. El capítulo cierra con preguntas abiertas: ¿valen más datos que sufrimiento consciente? ¿Qué religión post-humanista llenará el vacío?",
         },
         {
           type: 'key',
-          html: "Dataísmo es la primera ideología desde 1789 con valor nuevo —información libre— y candidata a suceder al humanismo liberal.",
+          html: "El dataísmo es la primera ideología desde 1789 con un valor nuevo (información libre) y la principal candidata a suceder al humanismo liberal.",
         },
       ],
     },

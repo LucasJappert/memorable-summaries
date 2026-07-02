@@ -193,7 +193,7 @@ export const futureOfTheMind: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Michael Gazzaniga</span> estudió la confabulación: el «intérprete» del hemisferio izquierdo fabrica narrativas coherentes incluso cuando desconoce causas reales. La conciencia, por tanto, es poderosa pero no transparente para sí misma.",
+          html: "<span class=\"person\">Michael Gazzaniga</span> estudió la confabulación y demostró que el «intérprete» del hemisferio izquierdo fabrica narrativas coherentes incluso cuando desconoce causas reales. La conciencia, por tanto, es poderosa pero no transparente para sí misma.",
         },
         {
           type: 'concept-grid',
@@ -536,11 +536,11 @@ export const futureOfTheMind: BookSummary = {
       blocks: [
         {
           type: 'paragraph',
-          html: "El capítulo centraliza megaproyectos: <span class=\"person\">BRAIN Initiative</span> (≈ <span class=\"num\">3.000 millones de dólares</span>) y <span class=\"person\">Human Brain Project</span> (≈ <span class=\"num\">1,19 mil millones de euros</span>). Ambos buscan mapear circuitos y simular funciones para pasar de atlas descriptivo a teoría operacional.",
+          html: "El capítulo presenta dos megaproyectos: <span class=\"person\">BRAIN Initiative</span> (≈ <span class=\"num\">3.000 millones de dólares</span>) y <span class=\"person\">Human Brain Project</span> (≈ <span class=\"num\">1,19 mil millones de euros</span>). Ambos buscan mapear circuitos y simular funciones para pasar de atlas descriptivo a teoría operacional.",
         },
         {
           type: 'paragraph',
-          html: "Kaku revisa supercomputación (incluyendo plataformas como <span class=\"person\">Blue Gene</span>) y el desafío del <span class=\"term\">conectoma</span>. No basta listar neuronas: hay que modelar conexiones dinámicas, plasticidad y sincronía temporal en múltiples escalas.",
+          html: "Kaku revisa supercomputación (incluyendo plataformas como <span class=\"person\">Blue Gene</span>) y el desafío del <span class=\"term\">conectoma</span>. Según Kaku, listar neuronas no es suficiente: hay que modelar conexiones dinámicas, plasticidad y sincronía temporal en múltiples escalas.",
         },
         {
           type: 'paragraph',

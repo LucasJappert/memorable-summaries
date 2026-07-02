@@ -83,7 +83,7 @@
     {
       "sectionId": "cap1",
       "sectionTitle": "Introducción: un mapa hacia la fata morgana",
-      "text": "La Tierra es el único laboratorio confirmado; extrapolar exige rigor proporcional a la distancia en tiempo y espacio."
+      "text": "La Tierra es el único laboratorio confirmado. Extrapolar exige rigor proporcional a la distancia en tiempo y espacio."
     },
     {
       "sectionId": "cap2",
@@ -113,7 +113,7 @@
     {
       "sectionId": "cap3",
       "sectionTitle": "Barberton: desenredar el registro fósil microbiano",
-      "text": "Documentan dos casos: hongos colonizando superficies internas de roca tras la litificación, y precipitación bacteriana moderna de óxidos de Fe-Mn sobre material arcaico removilizado. Las formaciones Hooggenoeg y Kromberg del Grupo Onverwacht conservan texturas primarias pero no están inmunes a sobreimpresión biológica tardía."
+      "text": "El capítulo documenta dos casos concretos: hongos colonizando superficies internas de roca tras la litificación, y precipitación bacteriana moderna de óxidos de Fe-Mn sobre material arcaico removilizado. Las formaciones Hooggenoeg y Kromberg del Grupo Onverwacht conservan texturas primarias pero no están inmunes a sobreimpresión biológica tardía."
     },
     {
       "sectionId": "cap3",
@@ -138,7 +138,7 @@
     {
       "sectionId": "cap4",
       "sectionTitle": "Ventanas al origen de la vida en la Tierra y Marte",
-      "text": "Cada reporte exige preguntarse: ¿es la estructura auténticamente biogénica y está en contexto estratigráfico coherente? El consenso científico sobre la vida más antigua sigue siendo elusivo."
+      "text": "Ante cada nuevo reporte cabe preguntarse: ¿es la estructura auténticamente biogénica y está en contexto estratigráfico coherente? El consenso científico sobre la vida más antigua sigue siendo elusivo."
     },
     {
       "sectionId": "cap4",
@@ -363,7 +363,7 @@
     {
       "sectionId": "cap15",
       "sectionTitle": "Endolitos en ambientes áridos terrestres",
-      "text": "Endolito = estrategia de supervivencia en desierto; Marte árido y radiado favorece la misma lógica de refugio interno."
+      "text": "El endolito es una estrategia de supervivencia en desierto. Marte árido y radiado favorece la misma lógica de refugio interno."
     },
     {
       "sectionId": "cap16",
@@ -403,7 +403,7 @@
     {
       "sectionId": "cap17",
       "sectionTitle": "Inteligencia humana no es rasgo convergente",
-      "text": "Vida microbiana puede ser común; civilización radio-detectable, probablemente no."
+      "text": "La vida microbiana puede ser común, pero la civilización radio-detectable probablemente no lo es."
     },
     {
       "sectionId": "cap18",
@@ -463,7 +463,7 @@
     {
       "sectionId": "cap20",
       "sectionTitle": "¿Los impactos causan la mayoría de extinciones masivas?",
-      "text": "Impacto ≠ extinción automática; la astrobiología debe evitar narrativas simples sobre catástrofes cósmicas y biosfera."
+      "text": "Un impacto no implica extinción automática. La astrobiología debe evitar narrativas simples sobre catástrofes cósmicas y biosfera."
     },
     {
       "sectionId": "cap21",
@@ -523,7 +523,7 @@
     {
       "sectionId": "cap23",
       "sectionTitle": "Improntas moleculares: ¿vivas o no vivas?",
-      "text": "Biosignatura molecular: ¿evidencia externa para el científico o memoria operativa para el sistema vivo?"
+      "text": "La biosignatura molecular puede ser evidencia externa para el científico o memoria operativa para el sistema vivo."
     },
     {
       "sectionId": "cap24",
@@ -543,7 +543,7 @@
     {
       "sectionId": "cap24",
       "sectionTitle": "El caso ALH84001 por vida en Marte",
-      "text": "ALH84001 = lección sobre cautela: señales ambiguas bajo máximo escrutinio mediático y científico."
+      "text": "El meteorito ALH84001 dejó una lección sobre cautela: señales ambiguas bajo máximo escrutinio mediático y científico."
     },
     {
       "sectionId": "cap25",
@@ -553,7 +553,7 @@
     {
       "sectionId": "cap25",
       "sectionTitle": "Ventanas de preservación paleobiológica en Marte",
-      "text": "Marte tuvo hidrología activa: deltas, fluvial, lacustre. Los terrenos noaquianos (>~ 3,8 Ga ) concentran filosilicatos en estratos arcaicos. En el Hesperiano ( 3,8–3,0 Ga ) predominan sulfatos ferríferos. Son ambientes distintos para trazas paleobiológicas."
+      "text": "Marte albergó hidrología activa en eras pasadas: deltas, sistemas fluviales y lacustres. Los terrenos noaquianos (>~ 3,8 Ga ) concentran filosilicatos en estratos arcaicos. En el Hesperiano ( 3,8–3,0 Ga ) predominan sulfatos ferríferos. Son ambientes distintos para trazas paleobiológicas."
     },
     {
       "sectionId": "cap25",

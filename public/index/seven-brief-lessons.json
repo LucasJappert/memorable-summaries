@@ -53,7 +53,7 @@
     {
       "sectionId": "prefacio",
       "sectionTitle": "Siete lecciones para quien no sabe nada",
-      "text": "La primera lección trata la relatividad general de Einstein; la segunda, la mecánica cuántica; la tercera, el cosmos; la cuarta, las partículas elementales; la quinta, la gravedad cuántica; la sexta, la probabilidad y el calor de los agujeros negros; la séptima, nosotros mismos frente a ese mundo."
+      "text": "Las primeras seis lecciones recorren la relatividad general, la mecánica cuántica, la arquitectura del cosmos, las partículas elementales, la gravedad cuántica y la probabilidad ligada al calor de los agujeros negros. La séptima reflexiona sobre nosotros mismos frente a ese mundo."
     },
     {
       "sectionId": "prefacio",
@@ -68,7 +68,7 @@
     {
       "sectionId": "cap1",
       "sectionTitle": "La teoría más bella (relatividad general)",
-      "text": "Tras Faraday y Maxwell, Einstein comprendió que la gravedad debe transmitirse por un campo. Su intuición decisiva fue que el campo gravitatorio es el espacio mismo . Newton imaginó un espacio vacío más una fuerza a distancia; Einstein unificó ambos en un espacio que ondula, se curva y se retuerce."
+      "text": "Tras Faraday y Maxwell, Einstein comprendió que la gravedad debe transmitirse por un campo. Su intuición decisiva fue que el campo gravitatorio es el espacio mismo . Newton imaginó un espacio vacío más una fuerza a distancia. Einstein, en cambio, los unificó en un espacio que ondula, se curva y se retuerce."
     },
     {
       "sectionId": "cap1",
@@ -83,7 +83,7 @@
     {
       "sectionId": "cap1",
       "sectionTitle": "La teoría más bella (relatividad general)",
-      "text": "Una intuición elemental —espacio = campo gravitatorio— se condensa en una ecuación que predijo un universo más extraño que cualquier ficción."
+      "text": "La intuición elemental de que el espacio es el campo gravitatorio se condensa en una ecuación que predijo un universo más extraño que cualquier ficción."
     },
     {
       "sectionId": "cap2",
@@ -153,12 +153,12 @@
     {
       "sectionId": "cap5",
       "sectionTitle": "Granos de espacio (gravedad cuántica)",
-      "text": "La gravedad cuántica de bucles , en la que trabaja Rovelli, propone que el espacio no es continuo sino granular: «átomos de espacio» del orden de 10⁻³³ cm enlazados en redes. El espacio no contiene cosas; es esa red. El tiempo fundamental también desaparece y el cambio es local."
+      "text": "La gravedad cuántica de bucles , en la que trabaja Rovelli, propone que el espacio no es continuo sino granular: «átomos de espacio» del orden de 10⁻³³ cm enlazados en redes. El espacio no contiene cosas sino que es esa red misma. El tiempo fundamental también desaparece y el cambio es local."
     },
     {
       "sectionId": "cap5",
       "sectionTitle": "Granos de espacio (gravedad cuántica)",
-      "text": "Las predicciones siguen siendo especulativas: estrellas colapsadas que rebotan como «estrellas de Planck», agujeros negros que explotan en cámara lenta, un posible Big Bounce en lugar de un Big Bang único. Aún no hay verificación experimental directa."
+      "text": "Las predicciones concretas de este enfoque siguen siendo especulativas: estrellas colapsadas que rebotan como «estrellas de Planck», agujeros negros que explotan en cámara lenta, un posible Big Bounce en lugar de un Big Bang único. Aún no hay verificación experimental directa."
     },
     {
       "sectionId": "cap5",
@@ -183,7 +183,7 @@
     {
       "sectionId": "cap6",
       "sectionTitle": "Probabilidad, tiempo y calor de agujeros negros",
-      "text": "Solo cuando hay intercambio de calor distinguimos pasado de futuro; nuestro reloj interior es estadístico, no fundamental."
+      "text": "Solo cuando hay intercambio de calor distinguimos pasado de futuro. Nuestro reloj interior es estadístico, no fundamental."
     },
     {
       "sectionId": "cap7",
@@ -193,7 +193,7 @@
     {
       "sectionId": "cap7",
       "sectionTitle": "Nosotros (cierre reflexivo)",
-      "text": "Schelling creía al hombre cumbre de la naturaleza; hoy sabemos que somos un rincón remoto, parientes de mariposas y álamos. Kant pensaba categorías universales, pero evolucionan con nuestra especie. La ciencia no es ficción campamental: sigue rastros como nuestros antepasados en la sabana."
+      "text": "Schelling creía que el hombre era la cumbre de la naturaleza, pero hoy sabemos que somos un rincón remoto, parientes de mariposas y álamos. Kant pensaba categorías universales, pero evolucionan con nuestra especie. La ciencia no es ficción campamental: sigue rastros como nuestros antepasados en la sabana."
     },
     {
       "sectionId": "cap7",

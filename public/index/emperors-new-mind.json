@@ -48,7 +48,7 @@
     {
       "sectionId": "prefacio",
       "sectionTitle": "Diez años después (edición 1999)",
-      "text": "En el prefacio de 1999 , Penrose recuerda que este libro fue su primera incursión seria en la divulgación. Su tesis central no cambió: la conciencia no puede alojarse en el marco de la física actual ni reducirse a computación pura."
+      "text": "En el prefacio de 1999 , Penrose recuerda su primera incursión en divulgación y confirma que su tesis central no cambió: la conciencia no puede alojarse en el marco de la física actual ni reducirse a computación pura."
     },
     {
       "sectionId": "prefacio",
@@ -63,7 +63,7 @@
     {
       "sectionId": "prefacio",
       "sectionTitle": "Diez años después (edición 1999)",
-      "text": "La comprensión matemática trasciende cualquier conjunto fijo de reglas; la conciencia exige física nueva en el puente entre lo cuántico y lo clásico."
+      "text": "La comprensión matemática trasciende cualquier conjunto fijo de reglas. La conciencia exige física nueva en el puente entre lo cuántico y lo clásico."
     },
     {
       "sectionId": "prologo",
@@ -78,7 +78,7 @@
     {
       "sectionId": "prologo",
       "sectionTitle": "La inauguración de Ultronic",
-      "text": "La pregunta de Adam al final del prólogo —«¿cómo se siente ser tú?»— reaparecerá en el epílogo como prueba de que la computación por sí sola no basta."
+      "text": "La pregunta de Adam al final del prólogo, «¿cómo se siente ser tú?», reaparecerá en el epílogo como prueba de que la computación por sí sola no basta."
     },
     {
       "sectionId": "cap1",
@@ -178,7 +178,7 @@
     {
       "sectionId": "cap5",
       "sectionTitle": "El mundo clásico",
-      "text": "Antes de la cuántica, Penrose clasifica las teorías físicas en SUPERB (precisión fenomenal), USEFUL (útiles pero incompletas) y TENTATIVE (sin apoyo experimental). En SUPERB: geometría euclidiana, mecánica de Newton, electromagnetismo de Maxwell, relatividades de Einstein, mecánica cuántica y QED."
+      "text": "Antes de la cuántica, Penrose clasifica las teorías físicas en SUPERB (precisión fenomenal), USEFUL (útiles pero incompletas) y TENTATIVE (sin apoyo experimental). En la categoría SUPERB se agrupan: geometría euclidiana, mecánica de Newton, electromagnetismo de Maxwell, relatividades de Einstein, mecánica cuántica y QED."
     },
     {
       "sectionId": "cap5",
@@ -288,7 +288,7 @@
     {
       "sectionId": "cap9",
       "sectionTitle": "Cerebros reales y cerebros modelo",
-      "text": "El cerebro no es un autómata homogéneo: mucha actividad es inconsciente; la conciencia parece selectiva y escasa."
+      "text": "El cerebro no es un autómata homogéneo, pues mucha actividad ocurre de forma inconsciente. La conciencia parece selectiva y escasa."
     },
     {
       "sectionId": "cap10",
@@ -313,7 +313,7 @@
     {
       "sectionId": "cap10",
       "sectionTitle": "¿Dónde reside la física de la mente?",
-      "text": "La conciencia forma juicios no algorítmicos; la física que la sustenta debe trascender la computación digital."
+      "text": "La conciencia forma juicios no algorítmicos. La física que la sustenta debe trascender la computación digital."
     },
     {
       "sectionId": "epilogo",

@@ -27,6 +27,14 @@
 -   ✨ **Microinteracciones**
     -   Efecto *press ripple* adaptado a la nueva barra inferior y botones compactos.
 
+### Cambios/Mejoras
+
+-   ✍️ **Prosa de los resúmenes (pase 01c completo)**
+    -   Corrección mínima en los **34 libros**: oraciones con sujeto y verbo, menos estilo «etiqueta: dato», comparaciones con % más legibles.
+    -   `lint-summary.py` endurecido: detecta etiquetas telegráficas, `;` / dobles `—` en párrafos y bloques `key`, y comparaciones `vs.` ambiguas.
+    -   Paso C (`01c-correccion-minima.md`) + lint **obligatorio** en el pipeline antes de `md-to-ts.py`.
+    -   `python3 scripts/md-to-ts.py --all` regenera todos los `src/data/*.ts` de una vez.
+
 ## [Versión 0.2.0]
 
 > 2026-07-01

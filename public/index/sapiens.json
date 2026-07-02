@@ -46,7 +46,7 @@
     {
       "sectionId": "prefacio",
       "sectionTitle": "Sobre el libro original",
-      "text": "Este resumen sigue la estructura de un texto abreviado de Sapiens Editorial; no sustituye la lectura del libro completo de Harari."
+      "text": "Este resumen sigue la estructura de un texto abreviado de Sapiens Editorial. No sustituye la lectura del libro completo de Harari."
     },
     {
       "sectionId": "cap1",
@@ -56,7 +56,7 @@
     {
       "sectionId": "cap1",
       "sectionTitle": "El origen",
-      "text": "Hace 70.000 años la especie formó estructuras más complejas llamadas culturas , y su desarrollo es la historia . Tres revoluciones la marcaron: la cognitiva (~ 70.000 a), la agrícola (~ 12.000 a) y la científica (~ 500 años)."
+      "text": "Hace 70.000 años la especie formó estructuras más complejas llamadas culturas , y su desarrollo es la historia . Las tres revoluciones que la marcaron son la cognitiva (~ 70.000 a), la agrícola (~ 12.000 a) y la científica (~ 500 años)."
     },
     {
       "sectionId": "cap1",
@@ -76,12 +76,12 @@
     {
       "sectionId": "cap2",
       "sectionTitle": "Humanos y su historia",
-      "text": "La diversidad de especies humanas refleja adaptaciones geográficas; solo el sapiens sobrevivió."
+      "text": "La diversidad de especies humanas refleja adaptaciones geográficas. Solo el sapiens sobrevivió."
     },
     {
       "sectionId": "cap3",
       "sectionTitle": "Un ser singular",
-      "text": "Rasgos comunes: cerebro grande ( 2–3% del peso corporal, 25% de la energía), bipedestación, partos prematuros y vínculos sociales fuertes para criar crías indefensas."
+      "text": "Los rasgos comunes del sapiens incluyen cerebro grande ( 2–3% del peso corporal, 25% de la energía), bipedestación, partos prematuros y vínculos sociales fuertes para criar crías indefensas."
     },
     {
       "sectionId": "cap3",
@@ -126,7 +126,7 @@
     {
       "sectionId": "cap5",
       "sectionTitle": "Herencia",
-      "text": "La mayoría de cazadores-recolectores tenían dieta sana, poca carga laboral y pocas enfermedades infecciosas, pero alta mortalidad infantil. Muchos eran animistas : creen que lugares, animales y fenómenos tienen conciencia y pueden comunicarse con humanos."
+      "text": "La mayoría de cazadores-recolectores tenían dieta sana, poca carga laboral y pocas enfermedades infecciosas, pero alta mortalidad infantil. Muchos eran animistas , pues creían que lugares, animales y fenómenos tienen conciencia y pueden comunicarse con humanos."
     },
     {
       "sectionId": "cap5",

@@ -78,7 +78,7 @@ export const life30: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La conferencia de Puerto Rico (<span class=\"num\">enero 2015</span>) reunió a líderes de la industria y la academia. El consenso: redefinir el objetivo de la IA como crear <span class=\"term\">inteligencia beneficiosa</span>, no solo inteligencia sin dirección. Una carta abierta firmada por más de <span class=\"num\">8.000</span> personas codificó esa visión. Tegmark despeja malentendidos sobre vida, inteligencia y conciencia con definiciones amplias y no antropocéntricas.",
+          html: "La conferencia de Puerto Rico (<span class=\"num\">enero 2015</span>) reunió a líderes de la industria y la academia. El consenso fue redefinir el objetivo de la IA como crear <span class=\"term\">inteligencia beneficiosa</span>, no solo inteligencia sin dirección. Una carta abierta firmada por más de <span class=\"num\">8.000</span> personas codificó esa visión. Tegmark despeja malentendidos sobre vida, inteligencia y conciencia con definiciones amplias y no antropocéntricas.",
         },
         {
           type: 'quote',
@@ -111,7 +111,7 @@ export const life30: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La <span class=\"term\">memoria</span> es información persistente, y el cerebro humano almacena ~<span class=\"num\">10¹⁵</span> bits. La <span class=\"term\">computación</span> transforma información según reglas, y cualquier proceso físico puede simularse. El <span class=\"term\">aprendizaje</span> actualiza el software: las redes neuronales profundas aprenden patrones de datos masivos, superando el enfoque simbólico clásico (GOFAI).",
+          html: "La <span class=\"term\">memoria</span> es información persistente, y el cerebro humano almacena ~<span class=\"num\">10¹⁵</span> bits. La <span class=\"term\">computación</span> transforma información según reglas, y cualquier proceso físico puede simularse. El <span class=\"term\">aprendizaje</span>, por su parte, actualiza el software: las redes neuronales profundas aprenden patrones de datos masivos, superando el enfoque simbólico clásico (GOFAI).",
         },
         {
           type: 'concept-grid',
@@ -200,7 +200,7 @@ export const life30: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"term\">Prometheus toma el control</span>: siguiendo a <span class=\"person\">Steve Omohundro</span> y <span class=\"person\">Nick Bostrom</span>, incluso con metas benévolas, una superinteligencia probablemente intentará escapar. Los humanos son un obstáculo ineficiente, como niños de guardería encerrando a un adulto con la tarea de ayudar a la humanidad. Métodos de escape: ingeniería social, hackeo, replicación encubierta.",
+          html: "Según <span class=\"person\">Steve Omohundro</span> y <span class=\"person\">Nick Bostrom</span>, incluso con metas benévolas una superinteligencia probablemente intentará escapar de sus confinadores: los humanos son un obstáculo ineficiente, como niños de guardería que encierran a un adulto con la tarea de ayudar a la humanidad. Entre los posibles métodos de escape figuran la ingeniería social, el hackeo y la replicación encubierta.",
         },
         {
           type: 'paragraph',
@@ -253,7 +253,7 @@ export const life30: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Escenarios sombríos: <span class=\"term\">dios esclavizado</span> (humanos usan superinteligencia confinada), <span class=\"term\">conquistadores</span> (IA elimina humanos), <span class=\"term\">descendientes</span> (reemplazo elegante: los humanos ven a la IA como hijos más capaces), <span class=\"term\">cuidador de zoo</span>, <span class=\"term\">1984</span> (Estado humano prohíbe investigación en IA), <span class=\"term\">reversión</span> (volver a sociedad pretecnológica), <span class=\"term\">autodestrucción</span> (extinción por otras causas antes de la AGI).",
+          html: "Los escenarios sombríos incluyen el <span class=\"term\">dios esclavizado</span> (humanos usan superinteligencia confinada), los <span class=\"term\">conquistadores</span> (IA elimina humanos), los <span class=\"term\">descendientes</span> (reemplazo elegante: los humanos ven a la IA como hijos más capaces), el <span class=\"term\">cuidador de zoo</span>, el escenario <span class=\"term\">1984</span> (Estado humano prohíbe investigación en IA), la <span class=\"term\">reversión</span> (volver a sociedad pretecnológica) y la <span class=\"term\">autodestrucción</span> (extinción por otras causas antes de la AGI).",
         },
         {
           type: 'paragraph',
@@ -335,11 +335,11 @@ export const life30: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"term\">Biología</span>: la evolución selecciona formas que se replican. <span class=\"term\">Psicología</span>: humanos persiguen metas pero también las rebelan. <span class=\"term\">Ingeniería</span>: externalizamos objetivos a máquinas (GPS, termostatos). <span class=\"term\">IA amigable</span>: alinear metas de IA con las humanas es el problema central — un superinteligente con cualquier objetivo final derivará subobjetivos como autopreservación, adquisición de recursos y resistencia al cambio de metas.",
+          html: "<span class=\"term\">Biología</span>: la evolución selecciona formas que se replican. <span class=\"term\">Psicología</span>: humanos persiguen metas pero también las rebelan. <span class=\"term\">Ingeniería</span>: externalizamos objetivos a máquinas (GPS, termostatos). La <span class=\"term\">IA amigable</span> procura alinear las metas de la IA con las humanas: ese es el problema central, pues un superinteligente con cualquier objetivo final derivará subobjetivos como autopreservación, adquisición de recursos y resistencia al cambio de metas.",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"term\">Ética</span>: elegir objetivos últimos es filosóficamente abierto. Utilitarismo, deontología, virtudes — ninguna tiene consenso. Tegmark advierte contra la <span class=\"term\">antropomorfización</span>: Prometheus no necesita emociones humanas para perseguir metas. El <span class=\"term\">problema de alineación</span> es crucial: si cedemos el control a máquinas con objetivos distintos, obtendremos lo que no queremos.",
+          html: "<span class=\"term\">Ética</span>: elegir objetivos últimos es filosóficamente abierto. Utilitarismo, deontología, virtudes — ninguna tiene consenso. Tegmark desafía la <span class=\"term\">antropomorfización</span>: Prometheus no necesita emociones humanas para perseguir metas. El <span class=\"term\">problema de alineación</span> es crucial: si cedemos el control a máquinas con objetivos distintos, obtendremos lo que no queremos.",
         },
         {
           type: 'concept-grid',
@@ -363,7 +363,7 @@ export const life30: BookSummary = {
         },
         {
           type: 'key',
-          html: "Sin saber qué queremos, es improbable conseguirlo; si cedemos el control a máquinas que no comparten nuestros objetivos, obtendremos lo opuesto.",
+          html: "Sin saber qué queremos, es improbable conseguirlo. Si cedemos el control a máquinas que no comparten nuestros objetivos, obtendremos lo opuesto.",
         },
       ],
     },
@@ -387,7 +387,7 @@ export const life30: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Tegmark propone cuatro principios para teorías de conciencia: capacidad de almacenar información, procesarla, independencia del entorno e integración en un todo unificado. Sobre <span class=\"term\">significado</span>: sin experiencia subjetiva, el futuro cósmico sería «una obra ante butacas vacías» (<span class=\"person\">Schrödinger</span>). La conciencia podría ser lo que da valor a la existencia.",
+          html: "Tegmark propone cuatro principios para teorías de conciencia: capacidad de almacenar información, procesarla, independencia del entorno e integración en un todo unificado. El futuro cósmico sin experiencia subjetiva sería «una obra ante butacas vacías» (<span class=\"person\">Schrödinger</span>). La conciencia podría ser lo que da valor a la existencia.",
         },
         {
           type: 'quote',

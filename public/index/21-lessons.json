@@ -66,7 +66,7 @@
     {
       "sectionId": "prefacio",
       "sectionTitle": "Claridad en un mundo inundado de información",
-      "text": "Cinco partes estructuran el recorrido: el desafío tecnológico (IA, biotecnología, desempleo), el político (comunidad, civilización, nacionalismo, religión, inmigración), desesperanza y esperanza (terrorismo, guerra, humildad, Dios, secularismo), la verdad (ignorancia, justicia, posverdad, ciencia ficción) y la resiliencia (educación, significado, meditación)."
+      "text": "El libro se organiza en cinco partes que abarcan el desafío tecnológico (IA, biotecnología, desempleo), el político (comunidad, civilización, nacionalismo, religión, inmigración), desesperanza y esperanza (terrorismo, guerra, humildad, Dios, secularismo), la verdad (ignorancia, justicia, posverdad, ciencia ficción) y la resiliencia (educación, significado, meditación)."
     },
     {
       "sectionId": "prefacio",
@@ -101,7 +101,7 @@
     {
       "sectionId": "cap2",
       "sectionTitle": "Trabajo — Cuando crezcas quizá no tengas trabajo",
-      "text": "No sabemos cómo será el mercado laboral en 2050 . El aprendizaje automático y la robótica cambiarán casi toda línea de trabajo. Unos prevén desempleo masivo, otros creen que seguirán creándose empleos. Esta vez podría ser distinto: la IA ya supera a humanos en tareas cognitivas, incluida la lectura de emociones."
+      "text": "No sabemos cómo será el mercado laboral en 2050 . El aprendizaje automático y la robótica cambiarán casi toda línea de trabajo. Unos prevén desempleo masivo, otros creen que seguirán creándose empleos. A diferencia de revoluciones anteriores, la IA ya supera a humanos en tareas cognitivas, incluida la lectura de emociones."
     },
     {
       "sectionId": "cap2",
@@ -156,7 +156,7 @@
     {
       "sectionId": "cap4",
       "sectionTitle": "Igualdad — Quienes poseen los datos poseen el futuro",
-      "text": "En el siglo XXI los datos eclipsan tierra y maquinaria como activo clave. Google, Facebook, Baidu y Tencent acumulan atención y datos. El modelo futuro transfiere autoridad de humanos a algoritmos que eligen y compran por nosotros. La pregunta política crucial: ¿quién posee los datos — individuos, gobiernos o corporaciones?"
+      "text": "En el siglo XXI los datos eclipsan tierra y maquinaria como activo clave. Google, Facebook, Baidu y Tencent acumulan atención y datos. El modelo futuro transfiere autoridad de humanos a algoritmos que eligen y compran por nosotros. La pregunta política más urgente del siglo es quién posee los datos: individuos, gobiernos o corporaciones."
     },
     {
       "sectionId": "cap4",
@@ -226,7 +226,7 @@
     {
       "sectionId": "cap7",
       "sectionTitle": "Nacionalismo — Los problemas globales requieren respuestas globales",
-      "text": "El patriotismo moderado puede ser benévolo. El ultra-nacionalismo exige lealtad total y alimenta guerras. Después de 1945 y Hiroshima, la amenaza nuclear empujó cooperación internacional. El anuncio Daisy de Lyndon Johnson ( 1964 ) vinculó supervivencia con amor mutuo. Hoy esa lección se olvida: nueva carrera nuclear, Brexit ignorando la paz europea."
+      "text": "El patriotismo moderado puede ser benévolo. El ultra-nacionalismo exige lealtad total y alimenta guerras. Después de 1945 y Hiroshima, la amenaza nuclear empujó cooperación internacional. El anuncio Daisy de Lyndon Johnson ( 1964 ) vinculó supervivencia con amor mutuo. Hoy esa lección parece olvidada: regresa la carrera nuclear y el Brexit ignora la paz europea que costó décadas construir."
     },
     {
       "sectionId": "cap7",
@@ -256,7 +256,7 @@
     {
       "sectionId": "cap8",
       "sectionTitle": "Religión — Dios ahora sirve a la nación",
-      "text": "Religiones: irrelevantes en lo técnico, secundarias en política económica, potentes (y peligrosas) en identidad colectiva."
+      "text": "Las religiones son irrelevantes en lo técnico y secundarias en política económica, pero potentes y peligrosas en identidad colectiva."
     },
     {
       "sectionId": "cap9",
@@ -271,7 +271,7 @@
     {
       "sectionId": "cap9",
       "sectionTitle": "Inmigración — Algunas culturas pueden ser mejor que otras",
-      "text": "Pro-inmigración ve derecho moral a buscar mejor vida. Anti-inmigración ve privilegio del anfitrión de elegir. Sobre asimilación: ¿basta tolerancia liberal o se exige identidad nacional específica? Las escalas temporal colectiva (siglos) y personal (una generación) chocan: para el Estado, cuarenta años es poco. Para un joven nacido en Francia, es toda la vida."
+      "text": "Pro-inmigración ve derecho moral a buscar mejor vida. Anti-inmigración ve privilegio del anfitrión de elegir. La asimilación plantea otra pregunta: ¿basta la tolerancia liberal o se exige adoptar una identidad nacional específica? Las escalas temporal colectiva (siglos) y personal (una generación) chocan: para el Estado, cuarenta años es poco. Para un joven nacido en Francia, es toda la vida."
     },
     {
       "sectionId": "cap9",
@@ -291,7 +291,7 @@
     {
       "sectionId": "cap10",
       "sectionTitle": "Terrorismo — No entres en pánico",
-      "text": "La legitimidad moderna exige un espacio público libre de violencia política. Un acto raro resuena como moneda en un frasco vacío. Matar a decenas en Bélgica impacta más que matar a cientos en Nigeria. La respuesta eficaz: teatro de seguridad mesurado, no invasiones ni persecuciones masivas que alimenten el ciclo."
+      "text": "La legitimidad moderna exige un espacio público libre de violencia política. Un acto raro resuena como moneda en un frasco vacío. Matar a decenas en Bélgica impacta más que matar a cientos en Nigeria. La respuesta eficaz consiste en un teatro de seguridad mesurado, sin invasiones ni persecuciones masivas que alimenten el ciclo."
     },
     {
       "sectionId": "cap10",
@@ -316,7 +316,7 @@
     {
       "sectionId": "cap11",
       "sectionTitle": "Guerra — Nunca subestimes la estupidez humana",
-      "text": "No subestimar la estupidez: líderes pueden arrastrarnos a conflictos cuyo «éxito» militar ya no existe como en el siglo XIX."
+      "text": "No hay que subestimar la estupidez humana. Los líderes pueden arrastrarnos a conflictos cuyo «éxito» militar ya no existe como en el siglo XIX."
     },
     {
       "sectionId": "cap12",
@@ -386,17 +386,17 @@
     {
       "sectionId": "cap15",
       "sectionTitle": "Ignorancia — Sabes menos de lo que crees",
-      "text": "La ilusión del conocimiento (Sloman y Fernbach): creemos entender un cierre porque lo usamos, pero no podemos explicar su mecanismo. Confiar en el saber colectivo funcionó en la sabana. Hoy ignoramos meteorología, biología e Irak pero opinamos con fuerza. Más datos no convencen: reforzamos lealtad grupal."
+      "text": "La ilusión del conocimiento (Sloman y Fernbach): creemos entender un cierre porque lo usamos, pero no podemos explicar su mecanismo. Confiar en el saber colectivo funcionó en la sabana. Hoy ignoramos meteorología, biología e Irak pero opinamos con fuerza. Agregar más datos tampoco convence a quien fortalece su lealtad grupal."
     },
     {
       "sectionId": "cap15",
       "sectionTitle": "Ignorancia — Sabes menos de lo que crees",
-      "text": "El poder distorsiona la verdad: quien gobierna no tiene tiempo para pensar profundamente. Cada visitante tiene agenda. Netanyahu en una cena de treinta personas: todos compiten por impresionar, nadie dice secretos grandes. La verdad revolucionaria vive en la periferia, llena de basura pero ocasionalmente brillante."
+      "text": "El poder también distorsiona la verdad. Quien gobierna no tiene tiempo para pensar profundamente. Cada visitante tiene agenda. Netanyahu en una cena de treinta personas: todos compiten por impresionar, nadie dice secretos grandes. La verdad revolucionaria vive en la periferia, llena de basura pero ocasionalmente brillante."
     },
     {
       "sectionId": "cap15",
       "sectionTitle": "Ignorancia — Sabes menos de lo que crees",
-      "text": "Sócrates tenía razón: lo mejor es reconocer la ignorancia individual — base escasa pero honesta para moral y justicia."
+      "text": "Como ya enseñaba Sócrates, lo mejor es reconocer la propia ignorancia: una base escasa pero honesta para la moral y la justicia."
     },
     {
       "sectionId": "cap16",
@@ -446,7 +446,7 @@
     {
       "sectionId": "cap18",
       "sectionTitle": "Ciencia ficción — El futuro no es lo que ves en el cine",
-      "text": "El pecado capital del género: confundir inteligencia con conciencia . Debemos temer la brecha entre élite algorítmica y masa irrelevante, no guerra robots vs humanos — Karl Marx guía mejor que Steven Spielberg . Ex Machina habla del miedo masculino al poder femenino, no de cibernética."
+      "text": "El mayor pecado del género consiste en confundir inteligencia con conciencia . Debemos temer la brecha entre élite algorítmica y masa irrelevante, no guerra robots vs humanos — Karl Marx guía mejor que Steven Spielberg . Ex Machina habla del miedo masculino al poder femenino, no de cibernética."
     },
     {
       "sectionId": "cap18",
@@ -481,7 +481,7 @@
     {
       "sectionId": "cap20",
       "sectionTitle": "Significado — La vida no es una historia",
-      "text": "¿Quién soy? ¿Para qué vivir? Casi siempre buscamos una historia : el círculo eterno del Bhagavad Gita y El rey león , la línea temporal del Islam o el sionismo, la lucha de clases marxista. Cada relato asigna un papel cósmico que da sentido a lo cotidiano."
+      "text": "¿Quién soy? ¿Para qué vivir? Casi siempre la búsqueda de sentido adopta la forma de una historia : el círculo eterno del Bhagavad Gita y El rey león , la línea temporal del Islam o el sionismo, la lucha de clases marxista. Cada relato asigna un papel cósmico que da sentido a lo cotidiano."
     },
     {
       "sectionId": "cap20",
@@ -511,7 +511,7 @@
     {
       "sectionId": "cap21",
       "sectionTitle": "Meditación — Solo observa",
-      "text": "Dos horas diarias de meditación y retiros anuales no son escape: son contacto con la realidad que posibilitó escribir Sapiens y Homo Deus . Complementa la ciencia: el estudio de la mente necesita observación directa además de escáneres y estadísticas."
+      "text": "Dos horas diarias de meditación y retiros anuales no son escape: son contacto con la realidad que posibilitó escribir Sapiens y Homo Deus . La meditación también complementa a la ciencia: el estudio de la mente necesita observación directa además de escáneres y estadísticas."
     },
     {
       "sectionId": "cap21",
@@ -521,7 +521,7 @@
     {
       "sectionId": "cap21",
       "sectionTitle": "Meditación — Solo observa",
-      "text": "Observar sin historia: la herramienta personal de Harari para despertar con claridad sin depender de las ficciones que el libro cuestiona."
+      "text": "La práctica de observar sin historia fue la herramienta personal que Harari desarrolló para despertar con claridad sin depender de las ficciones que el libro cuestiona."
     },
     {
       "sectionId": "cierre",

@@ -93,7 +93,7 @@
     {
       "sectionId": "cap2",
       "sectionTitle": "Conciencia: mirada de un físico",
-      "text": "Michael Gazzaniga estudió la confabulación: el «intérprete» del hemisferio izquierdo fabrica narrativas coherentes incluso cuando desconoce causas reales. La conciencia, por tanto, es poderosa pero no transparente para sí misma."
+      "text": "Michael Gazzaniga estudió la confabulación y demostró que el «intérprete» del hemisferio izquierdo fabrica narrativas coherentes incluso cuando desconoce causas reales. La conciencia, por tanto, es poderosa pero no transparente para sí misma."
     },
     {
       "sectionId": "cap3",
@@ -218,12 +218,12 @@
     {
       "sectionId": "cap11",
       "sectionTitle": "Ingeniería inversa del cerebro",
-      "text": "El capítulo centraliza megaproyectos: BRAIN Initiative (≈ 3.000 millones de dólares ) y Human Brain Project (≈ 1,19 mil millones de euros ). Ambos buscan mapear circuitos y simular funciones para pasar de atlas descriptivo a teoría operacional."
+      "text": "El capítulo presenta dos megaproyectos: BRAIN Initiative (≈ 3.000 millones de dólares ) y Human Brain Project (≈ 1,19 mil millones de euros ). Ambos buscan mapear circuitos y simular funciones para pasar de atlas descriptivo a teoría operacional."
     },
     {
       "sectionId": "cap11",
       "sectionTitle": "Ingeniería inversa del cerebro",
-      "text": "Kaku revisa supercomputación (incluyendo plataformas como Blue Gene ) y el desafío del conectoma . No basta listar neuronas: hay que modelar conexiones dinámicas, plasticidad y sincronía temporal en múltiples escalas."
+      "text": "Kaku revisa supercomputación (incluyendo plataformas como Blue Gene ) y el desafío del conectoma . Según Kaku, listar neuronas no es suficiente: hay que modelar conexiones dinámicas, plasticidad y sincronía temporal en múltiples escalas."
     },
     {
       "sectionId": "cap11",

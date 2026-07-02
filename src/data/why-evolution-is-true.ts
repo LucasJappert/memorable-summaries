@@ -122,7 +122,7 @@ export const whyEvolutionIsTrue: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "La naturaleza parece diseñada: camaleones, colibríes, orquídeas que engañan a polinizadores. <span class=\"person\">William Paley</span> (<span class=\"num\">1802</span>) argumentó que, como un reloj implica relojero, la complejidad biológica implica un Diseñador. Darwin ofreció la alternativa: <span class=\"term\">evolución</span> y <span class=\"term\">selección natural</span>.",
+          html: "La naturaleza parece diseñada: camaleones, colibríes, orquídeas que engañan a polinizadores. <span class=\"person\">William Paley</span> (<span class=\"num\">1802</span>) argumentó que, como un reloj implica relojero, la complejidad biológica implica un Diseñador. Darwin fue quien ofreció la alternativa: <span class=\"term\">evolución</span> y <span class=\"term\">selección natural</span>.",
         },
         {
           type: 'paragraph',
@@ -207,7 +207,7 @@ export const whyEvolutionIsTrue: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Los organismos son <span class=\"term\">palimpsestos</span> evolutivos, como manuscritos medievales reescritos donde trazas del texto original persisten. <span class=\"person\">Theodosius Dobzhansky</span> resumió la idea: «Nada en biología tiene sentido excepto a la luz de la evolución.»",
+          html: "Los organismos son <span class=\"term\">palimpsestos</span> evolutivos, como manuscritos medievales reescritos donde trazas del texto original persisten. <span class=\"person\">Theodosius Dobzhansky</span> lo resumió con la frase: «Nada en biología tiene sentido excepto a la luz de la evolución.»",
         },
         {
           type: 'paragraph',
@@ -343,7 +343,7 @@ export const whyEvolutionIsTrue: BookSummary = {
         },
         {
           type: 'key',
-          html: "Especiación = evolución de <span class=\"key-term\">barreras reproductivas</span>; explica por qué hay millones de especies en vez de una sola.",
+          html: "La <span class=\"key-term\">especiación</span> consiste en la evolución de barreras reproductivas, lo que explica por qué hay millones de especies en vez de una sola.",
         },
       ],
     },

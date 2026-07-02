@@ -60,22 +60,22 @@
     {
       "sectionId": "prefacio",
       "sectionTitle": "Homo docens",
-      "text": "Aprender es la mayor ventaja evolutiva humana; la escuela la amplifica, pero depende de principios cerebrales precisos."
+      "text": "Aprender es la mayor ventaja evolutiva humana. La escuela la amplifica, pero depende de principios cerebrales precisos."
     },
     {
       "sectionId": "cap1",
       "sectionTitle": "Siete definiciones de aprendizaje",
-      "text": "Primera definición: aprender es formar un modelo interno del mundo exterior —mapas mentales del barrio, del cuerpo, del lenguaje, de otras mentes. Incluso soñar es simular con esos modelos."
+      "text": "La primera definición propone que aprender es formar un modelo interno del mundo exterior : mapas mentales del barrio, del cuerpo, del lenguaje, de otras mentes. Incluso soñar es simular con esos modelos."
     },
     {
       "sectionId": "cap1",
       "sectionTitle": "Siete definiciones de aprendizaje",
-      "text": "La segunda definición es ajustar parámetros del modelo (prismas que desplazan la visión, fonemas del japonés frente al inglés, parámetro de «posición de cabeza» en sintaxis). La tercera explota la explosión combinatoria : ~ 50 parámetros binarios de gramática generan millones de lenguas posibles."
+      "text": "La segunda definición es ajustar parámetros del modelo (prismas que desplazan la visión, fonemas del japonés frente al inglés, parámetro de «posición de cabeza» en sintaxis). La tercera aprovecha la explosión combinatoria : ~ 50 parámetros binarios de gramática generan millones de lenguas posibles."
     },
     {
       "sectionId": "cap1",
       "sectionTitle": "Siete definiciones de aprendizaje",
-      "text": "La cuarta es minimizar errores como las redes profundas (LeNet de Yann LeCun para códigos postales). De la quinta a la séptima: comprimir información, seleccionar lo relevante y generalizar. Son principios compartidos con el aprendizaje automático."
+      "text": "La cuarta es minimizar errores , como hacen las redes profundas (LeNet de Yann LeCun para códigos postales). De la quinta a la séptima, el autor añade comprimir información, seleccionar lo relevante y generalizar. Son principios compartidos con el aprendizaje automático."
     },
     {
       "sectionId": "cap1",
@@ -90,7 +90,7 @@
     {
       "sectionId": "cap2",
       "sectionTitle": "Por qué el cerebro aprende mejor que las máquinas",
-      "text": "Ventajas humanas: abstracción (reconocer «A» en cualquier fuente), eficiencia de datos (niños Tsimane con ~ 60 h /año de habla vs. sistemas que necesitan miles de horas), aprendizaje social , aprendizaje en un ensayo , sistematicidad (reglas como «cada número tiene sucesor»), composición de habilidades."
+      "text": "El cerebro humano conserva varias ventajas frente a las máquinas. La abstracción permite reconocer «A» en cualquier fuente. La eficiencia de datos hace que niños Tsimane aprendan con ~ 60 h /año de habla frente a sistemas que necesitan miles de horas. También destacan el aprendizaje social , el aprendizaje en un ensayo , la sistematicidad (reglas como «cada número tiene sucesor») y la composición de habilidades."
     },
     {
       "sectionId": "cap2",
@@ -125,7 +125,7 @@
     {
       "sectionId": "cap3",
       "sectionTitle": "Conocimiento invisible de los bebés",
-      "text": "En el concepto de objeto , los bebés se sorprenden si un sólido desaparece, atraviesa paredes o se parte en dos varillas. En el sentido numérico , discriminan cardinalidades incluso cruzando sonidos e imágenes. Hacen «1+1=2» y «5+5≠5». Piaget se equivocó: objetos y números son innatos y se refinan."
+      "text": "En el concepto de objeto , los bebés se sorprenden si un sólido desaparece, atraviesa paredes o se parte en dos varillas. En el sentido numérico , discriminan cardinalidades incluso cruzando sonidos e imágenes: reaccionan a «1+1=2» y a «5+5≠5». Piaget se equivocó al negar que objetos y números son innatos y solo se refinan con la experiencia."
     },
     {
       "sectionId": "cap3",
@@ -155,7 +155,7 @@
     {
       "sectionId": "cap4",
       "sectionTitle": "Nacimiento de un cerebro",
-      "text": "Naturaleza provee mapa cortical especializado; nurture refina conexiones locales."
+      "text": "La naturaleza provee el mapa cortical especializado. La experiencia refina las conexiones locales."
     },
     {
       "sectionId": "cap5",
@@ -190,7 +190,7 @@
     {
       "sectionId": "cap6",
       "sectionTitle": "Recicla tu cerebro",
-      "text": "Diferente de exaptación evolutiva (lenta, genética): el reciclaje ocurre en días o años dentro de un individuo. Nabokov subrayaba lo milagroso de que signos escritos contengan mundos."
+      "text": "A diferencia de la exaptación evolutiva (lenta y genética), el reciclaje ocurre en días o años dentro de un individuo. Nabokov subrayaba lo milagroso de que signos escritos contengan mundos."
     },
     {
       "sectionId": "cap6",
@@ -200,7 +200,7 @@
     {
       "sectionId": "cap7",
       "sectionTitle": "Atención",
-      "text": "Primer pilar: atención selecciona información bajo saturación sensorial. Michael Posner distingue alerta, orientación y control ejecutivo. Sin atención, aprender es buscar una aguja en un pajar."
+      "text": "El primer pilar es la atención , que selecciona información bajo saturación sensorial. Michael Posner distingue alerta, orientación y control ejecutivo. Sin atención, aprender es buscar una aguja en un pajar."
     },
     {
       "sectionId": "cap7",
@@ -210,22 +210,22 @@
     {
       "sectionId": "cap7",
       "sectionTitle": "Atención",
-      "text": "Sistemas de alerta (dopamina, acetilcolina) pueden reabrir plasticidad —experimentos de Michael Merzenich en ratones. Pasión temprana puede invadir mapas corticales."
+      "text": "Los sistemas de alerta (dopamina, acetilcolina) pueden reabrir plasticidad, como mostraron los experimentos de Michael Merzenich en ratones. Una pasión temprana puede incluso invadir mapas corticales vecinos."
     },
     {
       "sectionId": "cap7",
       "sectionTitle": "Atención",
-      "text": "Sin atención correcta no hay aprendizaje profundo; el docente debe capturar y guiar la atención."
+      "text": "Sin atención correcta no hay aprendizaje profundo. El docente debe capturar y guiar la atención."
     },
     {
       "sectionId": "cap8",
       "sectionTitle": "Compromiso activo",
-      "text": "El segundo pilar es el compromiso activo . El experimento de carrusel de Richard Held y Alan Hein ( 1963 ) mostró que gatitos activos desarrollan visión normal. Los pasivos quedan ciegos funcionales."
+      "text": "El segundo pilar es el compromiso activo . En el experimento de carrusel de Richard Held y Alan Hein ( 1963 ), un gatito que explora por sí solo desarrolla visión normal. El que se mueve igual pero sin controlar su desplazamiento queda ciego en la práctica."
     },
     {
       "sectionId": "cap8",
       "sectionTitle": "Compromiso activo",
-      "text": "Activo no es fidgeting: es generar hipótesis y probarlas mentalmente. El efecto de profundidad de procesamiento : quien juzga si una palabra es animal la recuerda ~ 75 % vs. ~ 33 % quien mira mayúsculas. La corteza frontal y el hipocampo predicen recuerdo futuro."
+      "text": "Ser activo no es moverse sin parar en clase (fidgeting). El cerebro aprende cuando genera hipótesis y las pone a prueba mentalmente. En el experimento clásico de profundidad de procesamiento , tres grupos reciben la misma lista de palabras con tareas distintas: juzgar mayúsculas (~ 33 % de recuerdo), rimas (~ 52 % ) o si la palabra nombra un animal (~ 75 % ). Procesar el significado deja memoria explícita, mientras que lo superficial casi no deja huella. La neuroimagen confirma el patrón: más actividad en la corteza prefrontal y el hipocampo al estudiar predice qué ítems se recordarán después."
     },
     {
       "sectionId": "cap8",
@@ -245,12 +245,12 @@
     {
       "sectionId": "cap9",
       "sectionTitle": "Retroalimentación del error",
-      "text": "Robert Rescorla y Allan Wagner mostraron que el cerebro aprende solo si hay error de predicción : «organisms only learn when events violate their expectations». La sorpresa impulsa el condicionamiento pavloviano y las reglas delta del aprendizaje automático."
+      "text": "Robert Rescorla y Allan Wagner mostraron que el cerebro aprende solo si hay error de predicción : los organismos solo aprenden cuando los eventos violan sus expectativas. La sorpresa impulsa el condicionamiento pavloviano y las reglas delta del aprendizaje automático."
     },
     {
       "sectionId": "cap9",
       "sectionTitle": "Retroalimentación del error",
-      "text": "Los tres pilares se entrelazan: atención selecciona inputs, compromiso activo genera predicciones, error las corrige."
+      "text": "Los tres pilares se entrelazan en un ciclo. La atención selecciona la información relevante. El compromiso activo genera predicciones. El error las corrige."
     },
     {
       "sectionId": "cap9",
@@ -270,32 +270,32 @@
     {
       "sectionId": "cap10",
       "sectionTitle": "Consolidación",
-      "text": "Los lectores expertos liberan corteza parietal y prefrontal. La lectura migra a circuitos especializados ( área de forma visual de palabras ). Igual ocurre con mecanografía, música o cálculo: el control pasa a ganglios basales."
+      "text": "Los lectores expertos liberan corteza parietal y prefrontal. La lectura migra a circuitos especializados (el área de forma visual de palabras ). Lo mismo ocurre con mecanografía, música o cálculo: el control pasa a los ganglios basales."
     },
     {
       "sectionId": "cap10",
       "sectionTitle": "Consolidación",
-      "text": "El sueño consolida: desde Jenkins y Dallenbach ( 1924 ) se sabe que distribuir estudio y dormir multiplica retención. De noche el cerebro replaya lo importante."
+      "text": "Desde los experimentos de Jenkins y Dallenbach ( 1924 ) se sabe que el sueño consolida lo aprendido. Distribuir el estudio y dormir multiplica la retención. De noche el cerebro repasa lo importante."
     },
     {
       "sectionId": "cap10",
       "sectionTitle": "Consolidación",
-      "text": "Automatizar libera recursos ejecutivos para tareas superiores; el sueño es parte del algoritmo."
+      "text": "Automatizar libera recursos ejecutivos para tareas superiores. El sueño es parte del algoritmo."
     },
     {
       "sectionId": "conclusion",
       "sectionTitle": "Reconciliar educación y neurociencia",
-      "text": "Mitad a desechar: los bebés no son esponjas pasivas. La plasticidad no es ilimitada. Los errores son necesarios. El sueño no es descanso vacío. Las máquinas no superan un recién nacido en eficiencia global."
+      "text": "Mitad de los mitos educativos conviene desechar. Los bebés no son esponjas pasivas, la plasticidad no es ilimitada, los errores son necesarios, el sueño no es descanso vacío, y las máquinas no superan a un recién nacido en eficiencia global."
     },
     {
       "sectionId": "conclusion",
       "sectionTitle": "Reconciliar educación y neurociencia",
-      "text": "Dehaene lista mensajes prácticos: no subestimar niños, aprovechar ventanas sensibles del lenguaje, enriquecer entorno, enseñar con los cuatro pilares (atención, compromiso, error, consolidación), valorar sueño y espaciado, formar docentes en ciencia del aprendizaje."
+      "text": "Dehaene enumera mensajes prácticos: no subestimar a los niños, aprovechar ventanas sensibles del lenguaje, enriquecer el entorno, enseñar con los cuatro pilares (atención, compromiso, error, consolidación), valorar sueño y espaciado, y formar docentes en ciencia del aprendizaje."
     },
     {
       "sectionId": "conclusion",
       "sectionTitle": "Reconciliar educación y neurociencia",
-      "text": "Comparaciones TIMSS alarman: países como Francia cayeron en matemáticas mientras Asia avanza —la ciencia del aprendizaje puede invertir la tendencia si se aplica en aula y política."
+      "text": "Las comparaciones TIMSS resultan alarmantes. Países como Francia cayeron en matemáticas mientras Asia avanza. La ciencia del aprendizaje puede invertir la tendencia si se aplica en el aula y en la política educativa."
     },
     {
       "sectionId": "conclusion",

@@ -139,7 +139,7 @@ export const cosmos: BookSummary = {
         },
         {
           type: 'key',
-          html: "Somos polvo de estrellas que ha aprendido a preguntarse por sí mismo; el viaje de regreso a casa apenas comienza.",
+          html: "Somos polvo de estrellas que ha aprendido a preguntarse por sí mismo. El viaje de regreso a casa apenas comienza.",
         },
       ],
     },
@@ -191,7 +191,7 @@ export const cosmos: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Vivimos en un universo intermedio: las cosas cambian según <span class=\"term\">leyes de la naturaleza</span>, no al azar ni con rigidez absoluta. Desde la prehistoria, el cielo nocturno ofreció patrones útiles: cazar, sembrar, reunir tribus. Monumentos como Chaco Canyon, Stonehenge o Chichén Itzá calendan solsticios y equinoccios.",
+          html: "Vivimos en un universo de tipo intermedio: las cosas cambian según <span class=\"term\">leyes de la naturaleza</span>, no al azar ni con rigidez absoluta. Desde la prehistoria, el cielo nocturno ofreció patrones útiles: cazar, sembrar, reunir tribus. Monumentos como Chaco Canyon, Stonehenge o Chichén Itzá calendan solsticios y equinoccios.",
         },
         {
           type: 'paragraph',
@@ -208,7 +208,7 @@ export const cosmos: BookSummary = {
         },
         {
           type: 'key',
-          html: "La astronomía conecta la Tierra con el Cosmos mediante leyes universales; la astrología es pseudociencia sin evidencia.",
+          html: "La astronomía conecta la Tierra con el Cosmos mediante leyes universales. La astrología es pseudociencia sin evidencia.",
         },
       ],
     },
@@ -253,7 +253,7 @@ export const cosmos: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Marte fascinó a la humanidad: «canales» interpretados como irrigación, novelas de <span class=\"person\">Wells</span>, obsesión popular. Muchos quieren vida en Marte. Otros no. Las pasiones han desgastado la tolerancia a la ambigüedad científica. Sagan participó en Viking: dos naves aterrizaron en <span class=\"num\">1976</span>, primera exploración robótica de otro mundo.",
+          html: "Marte fascinó a la humanidad entera: «canales» interpretados como irrigación, novelas de <span class=\"person\">Wells</span>, obsesión popular. Muchos quieren vida en Marte. Otros no. Las pasiones han desgastado la tolerancia a la ambigüedad científica. Sagan participó en el proyecto Viking: dos naves aterrizaron en <span class=\"num\">1976</span>, primera exploración robótica de otro mundo.",
         },
         {
           type: 'paragraph',
@@ -265,7 +265,7 @@ export const cosmos: BookSummary = {
         },
         {
           type: 'key',
-          html: "Nadie sabe aún si hay vida en Marte; la ciencia exige paciencia ante la incertidumbre, no certezas apresuradas.",
+          html: "Nadie sabe aún si hay vida en Marte. La ciencia exige paciencia ante la incertidumbre, no certezas apresuradas.",
         },
       ],
     },
@@ -347,7 +347,7 @@ export const cosmos: BookSummary = {
         },
         {
           type: 'key',
-          html: "Moverse en el espacio altera el cielo; moverse cerca de la luz altera el reloj: el Cosmos une espacio y tiempo.",
+          html: "Moverse en el espacio altera el cielo. Moverse cerca de la luz altera el reloj: el Cosmos une espacio y tiempo.",
         },
       ],
     },
@@ -449,7 +449,7 @@ export const cosmos: BookSummary = {
         },
         {
           type: 'key',
-          html: "Conocer y recordar es sobrevivir a escala civilizatoria; la memoria es el contrapeso a la fragilidad humana.",
+          html: "Conocer y recordar es sobrevivir a escala civilizatoria. La memoria es el contrapeso a la fragilidad humana.",
         },
       ],
     },
@@ -461,7 +461,7 @@ export const cosmos: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "¿Podemos comunicarnos con civilizaciones estelares? Sagan imagina la <span class=\"term\">Enciclopedia Galáctica</span>: repositorio de conocimiento de muchas especies. El <span class=\"term\">SETI</span> busca señales artificiales en el radio. Un mensaje podría ser un «principito»: lenguaje matemático universal antes que palabras.",
+          html: "¿Podemos comunicarnos con civilizaciones estelares? Sagan imagina para ello la <span class=\"term\">Enciclopedia Galáctica</span>: repositorio de conocimiento de muchas especies. El <span class=\"term\">SETI</span> busca señales artificiales en el radio. Un mensaje podría ser un «principito»: lenguaje matemático universal antes que palabras.",
         },
         {
           type: 'paragraph',
@@ -469,7 +469,7 @@ export const cosmos: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "También debemos considerar si somos capaces de interpretar mensajes sin proyectar nuestros miedos. La búsqueda exige paciencia intergeneracional: las distancias estelares implican conversaciones de décadas o siglos.",
+          html: "También debemos considerar si somos capaces de interpretar mensajes sin proyectar nuestros miedos. La búsqueda de señales exige paciencia intergeneracional: las distancias estelares implican conversaciones de décadas o siglos.",
         },
         {
           type: 'list',
@@ -506,7 +506,7 @@ export const cosmos: BookSummary = {
         },
         {
           type: 'key',
-          html: "<span class=\"key-term\">Somos la forma</span> en que el Cosmos se conoce a sí mismo; destruirnos sería silenciar esa voz única.",
+          html: "<span class=\"key-term\">Somos la forma</span> en que el Cosmos se conoce a sí mismo. Destruirnos sería silenciar esa voz única.",
         },
       ],
     },

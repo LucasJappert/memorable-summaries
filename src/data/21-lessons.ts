@@ -161,7 +161,7 @@ export const twentyOneLessons: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Cinco partes estructuran el recorrido: el <span class=\"term\">desafío tecnológico</span> (IA, biotecnología, desempleo), el político (comunidad, civilización, nacionalismo, religión, inmigración), desesperanza y esperanza (terrorismo, guerra, humildad, Dios, secularismo), la verdad (ignorancia, justicia, posverdad, ciencia ficción) y la resiliencia (educación, significado, meditación).",
+          html: "El libro se organiza en cinco partes que abarcan el <span class=\"term\">desafío tecnológico</span> (IA, biotecnología, desempleo), el político (comunidad, civilización, nacionalismo, religión, inmigración), desesperanza y esperanza (terrorismo, guerra, humildad, Dios, secularismo), la verdad (ignorancia, justicia, posverdad, ciencia ficción) y la resiliencia (educación, significado, meditación).",
         },
         {
           type: 'quote',
@@ -226,7 +226,7 @@ export const twentyOneLessons: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "No sabemos cómo será el mercado laboral en <span class=\"num\">2050</span>. El <span class=\"term\">aprendizaje automático</span> y la robótica cambiarán casi toda línea de trabajo. Unos prevén desempleo masivo, otros creen que seguirán creándose empleos. Esta vez podría ser distinto: la IA ya supera a humanos en tareas cognitivas, incluida la lectura de emociones.",
+          html: "No sabemos cómo será el mercado laboral en <span class=\"num\">2050</span>. El <span class=\"term\">aprendizaje automático</span> y la robótica cambiarán casi toda línea de trabajo. Unos prevén desempleo masivo, otros creen que seguirán creándose empleos. A diferencia de revoluciones anteriores, la IA ya supera a humanos en tareas cognitivas, incluida la lectura de emociones.",
         },
         {
           type: 'paragraph',
@@ -304,7 +304,7 @@ export const twentyOneLessons: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "En el siglo XXI los <span class=\"term\">datos</span> eclipsan tierra y maquinaria como activo clave. Google, Facebook, Baidu y Tencent acumulan atención y datos. El modelo futuro transfiere autoridad de humanos a algoritmos que eligen y compran por nosotros. La pregunta política crucial: ¿quién posee los datos — individuos, gobiernos o corporaciones?",
+          html: "En el siglo XXI los <span class=\"term\">datos</span> eclipsan tierra y maquinaria como activo clave. Google, Facebook, Baidu y Tencent acumulan atención y datos. El modelo futuro transfiere autoridad de humanos a algoritmos que eligen y compran por nosotros. La pregunta política más urgente del siglo es quién posee los datos: individuos, gobiernos o corporaciones.",
         },
         {
           type: 'list',
@@ -380,7 +380,7 @@ export const twentyOneLessons: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El patriotismo moderado puede ser benévolo. El ultra-nacionalismo exige lealtad total y alimenta guerras. Después de <span class=\"num\">1945</span> y Hiroshima, la amenaza nuclear empujó cooperación internacional. El anuncio Daisy de <span class=\"person\">Lyndon Johnson</span> (<span class=\"num\">1964</span>) vinculó supervivencia con amor mutuo. Hoy esa lección se olvida: nueva carrera nuclear, Brexit ignorando la paz europea.",
+          html: "El patriotismo moderado puede ser benévolo. El ultra-nacionalismo exige lealtad total y alimenta guerras. Después de <span class=\"num\">1945</span> y Hiroshima, la amenaza nuclear empujó cooperación internacional. El anuncio Daisy de <span class=\"person\">Lyndon Johnson</span> (<span class=\"num\">1964</span>) vinculó supervivencia con amor mutuo. Hoy esa lección parece olvidada: regresa la carrera nuclear y el Brexit ignora la paz europea que costó décadas construir.",
         },
         {
           type: 'paragraph',
@@ -429,7 +429,7 @@ export const twentyOneLessons: BookSummary = {
         },
         {
           type: 'key',
-          html: "Religiones: irrelevantes en lo técnico, secundarias en política económica, potentes (y peligrosas) en identidad colectiva.",
+          html: "Las religiones son irrelevantes en lo técnico y secundarias en política económica, pero potentes y peligrosas en identidad colectiva.",
         },
       ],
     },
@@ -449,7 +449,7 @@ export const twentyOneLessons: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Pro-inmigración ve derecho moral a buscar mejor vida. Anti-inmigración ve privilegio del anfitrión de elegir. Sobre asimilación: ¿basta tolerancia liberal o se exige identidad nacional específica? Las escalas temporal colectiva (siglos) y personal (una generación) chocan: para el Estado, cuarenta años es poco. Para un joven nacido en Francia, es toda la vida.",
+          html: "Pro-inmigración ve derecho moral a buscar mejor vida. Anti-inmigración ve privilegio del anfitrión de elegir. La asimilación plantea otra pregunta: ¿basta la tolerancia liberal o se exige adoptar una identidad nacional específica? Las escalas temporal colectiva (siglos) y personal (una generación) chocan: para el Estado, cuarenta años es poco. Para un joven nacido en Francia, es toda la vida.",
         },
         {
           type: 'key',
@@ -473,7 +473,7 @@ export const twentyOneLessons: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La legitimidad moderna exige un espacio público libre de violencia política. Un acto raro resuena como moneda en un frasco vacío. Matar a decenas en Bélgica impacta más que matar a cientos en Nigeria. La respuesta eficaz: teatro de seguridad mesurado, no invasiones ni persecuciones masivas que alimenten el ciclo.",
+          html: "La legitimidad moderna exige un espacio público libre de violencia política. Un acto raro resuena como moneda en un frasco vacío. Matar a decenas en Bélgica impacta más que matar a cientos en Nigeria. La respuesta eficaz consiste en un teatro de seguridad mesurado, sin invasiones ni persecuciones masivas que alimenten el ciclo.",
         },
         {
           type: 'big-numbers',
@@ -518,7 +518,7 @@ export const twentyOneLessons: BookSummary = {
         },
         {
           type: 'key',
-          html: "No subestimar la estupidez: líderes pueden arrastrarnos a conflictos cuyo «éxito» militar ya no existe como en el siglo XIX.",
+          html: "No hay que subestimar la estupidez humana. Los líderes pueden arrastrarnos a conflictos cuyo «éxito» militar ya no existe como en el siglo XIX.",
         },
       ],
     },
@@ -606,15 +606,15 @@ export const twentyOneLessons: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La <span class=\"term\">ilusión del conocimiento</span> (Sloman y Fernbach): creemos entender un cierre porque lo usamos, pero no podemos explicar su mecanismo. Confiar en el saber colectivo funcionó en la sabana. Hoy ignoramos meteorología, biología e Irak pero opinamos con fuerza. Más datos no convencen: reforzamos lealtad grupal.",
+          html: "La <span class=\"term\">ilusión del conocimiento</span> (Sloman y Fernbach): creemos entender un cierre porque lo usamos, pero no podemos explicar su mecanismo. Confiar en el saber colectivo funcionó en la sabana. Hoy ignoramos meteorología, biología e Irak pero opinamos con fuerza. Agregar más datos tampoco convence a quien fortalece su lealtad grupal.",
         },
         {
           type: 'paragraph',
-          html: "El poder distorsiona la verdad: quien gobierna no tiene tiempo para pensar profundamente. Cada visitante tiene agenda. Netanyahu en una cena de treinta personas: todos compiten por impresionar, nadie dice secretos grandes. La verdad revolucionaria vive en la periferia, llena de basura pero ocasionalmente brillante.",
+          html: "El poder también distorsiona la verdad. Quien gobierna no tiene tiempo para pensar profundamente. Cada visitante tiene agenda. Netanyahu en una cena de treinta personas: todos compiten por impresionar, nadie dice secretos grandes. La verdad revolucionaria vive en la periferia, llena de basura pero ocasionalmente brillante.",
         },
         {
           type: 'key',
-          html: "Sócrates tenía razón: lo mejor es reconocer la ignorancia individual — base escasa pero honesta para moral y justicia.",
+          html: "Como ya enseñaba Sócrates, lo mejor es reconocer la propia ignorancia: una base escasa pero honesta para la moral y la justicia.",
         },
       ],
     },
@@ -678,7 +678,7 @@ export const twentyOneLessons: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El pecado capital del género: confundir <span class=\"term\">inteligencia</span> con <span class=\"term\">conciencia</span>. Debemos temer la brecha entre élite algorítmica y masa irrelevante, no guerra robots vs humanos — <span class=\"person\">Karl Marx</span> guía mejor que <span class=\"person\">Steven Spielberg</span>. <em>Ex Machina</em> habla del miedo masculino al poder femenino, no de cibernética.",
+          html: "El mayor pecado del género consiste en confundir <span class=\"term\">inteligencia</span> con <span class=\"term\">conciencia</span>. Debemos temer la brecha entre élite algorítmica y masa irrelevante, no guerra robots vs humanos — <span class=\"person\">Karl Marx</span> guía mejor que <span class=\"person\">Steven Spielberg</span>. <em>Ex Machina</em> habla del miedo masculino al poder femenino, no de cibernética.",
         },
         {
           type: 'paragraph',
@@ -722,7 +722,7 @@ export const twentyOneLessons: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "¿Quién soy? ¿Para qué vivir? Casi siempre buscamos una <span class=\"term\">historia</span>: el círculo eterno del <em>Bhagavad Gita</em> y <em>El rey león</em>, la línea temporal del Islam o el sionismo, la lucha de clases marxista. Cada relato asigna un papel cósmico que da sentido a lo cotidiano.",
+          html: "¿Quién soy? ¿Para qué vivir? Casi siempre la búsqueda de sentido adopta la forma de una <span class=\"term\">historia</span>: el círculo eterno del <em>Bhagavad Gita</em> y <em>El rey león</em>, la línea temporal del Islam o el sionismo, la lucha de clases marxista. Cada relato asigna un papel cósmico que da sentido a lo cotidiano.",
         },
         {
           type: 'paragraph',
@@ -754,7 +754,7 @@ export const twentyOneLessons: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Dos horas diarias de meditación y retiros anuales no son escape: son contacto con la realidad que posibilitó escribir <em>Sapiens</em> y <em>Homo Deus</em>. Complementa la ciencia: el estudio de la mente necesita observación directa además de escáneres y estadísticas.",
+          html: "Dos horas diarias de meditación y retiros anuales no son escape: son contacto con la realidad que posibilitó escribir <em>Sapiens</em> y <em>Homo Deus</em>. La meditación también complementa a la ciencia: el estudio de la mente necesita observación directa además de escáneres y estadísticas.",
         },
         {
           type: 'quote',
@@ -763,7 +763,7 @@ export const twentyOneLessons: BookSummary = {
         },
         {
           type: 'key',
-          html: "Observar sin historia: la herramienta personal de Harari para despertar con claridad sin depender de las ficciones que el libro cuestiona.",
+          html: "La práctica de observar sin historia fue la herramienta personal que Harari desarrolló para despertar con claridad sin depender de las ficciones que el libro cuestiona.",
         },
       ],
     },

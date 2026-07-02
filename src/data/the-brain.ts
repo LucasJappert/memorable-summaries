@@ -283,7 +283,7 @@ export const theBrain: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El <span class=\"term\">autismo</span> y el <span class=\"term\">síndrome E</span> (empatía reducida) muestran espectros de conexión social. La cultura esculpe cerebros: normas, lenguaje y rituales dejan huellas físicas en redes neuronales.",
+          html: "El <span class=\"term\">autismo</span> y el <span class=\"term\">síndrome E</span> (empatía reducida) muestran espectros de conexión social. A su vez, la cultura esculpe los cerebros: normas, lenguaje y rituales dejan huellas físicas en redes neuronales.",
         },
         {
           type: 'paragraph',

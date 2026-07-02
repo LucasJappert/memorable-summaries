@@ -169,7 +169,7 @@ export const egoTunnel: BookSummary = {
         },
         {
           type: 'key',
-          html: "Conciencia = <span class=\"key-term\">aparición de un mundo</span>; el problema no es el mundo exterior sino la estructura de la vida interior.",
+          html: "Conciencia es <span class=\"key-term\">aparición de un mundo</span>. El problema no es el mundo exterior sino la estructura de la vida interior.",
         },
       ],
     },
@@ -185,7 +185,7 @@ export const egoTunnel: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Metáfora del simulador de vuelo total: el cerebro genera imagen interna de sí mismo sin piloto externo. El «piloto» nace dentro de la realidad virtual. Variantes del túnel: ramificarse en otros túneles (empatía), durante el sueño, en máquinas artificiales.",
+          html: "Metáfora del simulador de vuelo total: el cerebro genera imagen interna de sí mismo sin piloto externo. El «piloto» nace dentro de la realidad virtual. El túnel puede tomar formas distintas: ramificarse en empatía, persistir durante el sueño o reproducirse en máquinas artificiales.",
         },
         {
           type: 'paragraph',
@@ -213,7 +213,7 @@ export const egoTunnel: BookSummary = {
         },
         {
           type: 'key',
-          html: "Nadie vive <em>dentro</em> del túnel: vivimos <em>con</em> él y <em>a través</em> de él; no hay homúnculo al mando.",
+          html: "Nadie vive <em>dentro</em> del túnel. Vivimos <em>con</em> él y <em>a través</em> de él, sin homúnculo al mando.",
         },
       ],
     },
@@ -229,11 +229,11 @@ export const egoTunnel: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El <span class=\"term\">problema del mundo único</span>: para que aparezca un mundo debe ser <em>un</em> mundo. La neurociencia estudia el «binding» de características (color, forma, textura). La filosofía estudia el «saber que sabes». Ambos lados de la misma moneda.",
+          html: "El <span class=\"term\">problema del mundo único</span> plantea que un mundo debe aparecer como <em>un</em> todo coherente. La neurociencia estudia el «binding» de características (color, forma, textura). La filosofía estudia el «saber que sabes». Ambos son lados de la misma moneda.",
         },
         {
           type: 'paragraph',
-          html: "Trastornos ilustrativos: <span class=\"term\">agnosia apperceptiva</span> (no integrar rasgos visuales en objetos), <span class=\"term\">asterognosia</span>, <span class=\"term\">autotopagnosia</span>, <span class=\"term\">agnosia disyuntiva</span> (boca que no corresponde al sonido). Si todo se desintegra, el «aquí y ahora» fenomenal colapsa.",
+          html: "Varios trastornos muestran lo frágil que es esa unidad: la <span class=\"term\">agnosia apperceptiva</span> (no integrar rasgos visuales en objetos), la <span class=\"term\">asterognosia</span>, la <span class=\"term\">autotopagnosia</span> y la <span class=\"term\">agnosia disyuntiva</span> (boca que no corresponde al sonido). Si todo se desintegra, el «aquí y ahora» fenomenal colapsa.",
         },
         {
           type: 'key',
@@ -281,7 +281,7 @@ export const egoTunnel: BookSummary = {
         },
         {
           type: 'key',
-          html: "El yo encarnado es construcción holística; la propiedad es el núcleo más cercano de la selfhood fenomenal.",
+          html: "El yo encarnado es una construcción holística. La propiedad es el núcleo más cercano de la <em>selfhood</em> fenomenal.",
         },
       ],
     },
@@ -305,7 +305,7 @@ export const egoTunnel: BookSummary = {
         },
         {
           type: 'key',
-          html: "Sin homúnculo, la agencia es modelo interno de causalidad; el libre albedrío vivido no garantiza un agente último.",
+          html: "Sin homúnculo, la agencia es un modelo interno de causalidad. El libre albedrío vivido no garantiza un agente último.",
         },
       ],
     },
@@ -325,7 +325,7 @@ export const egoTunnel: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Riesgo ético: estados lúcidos prolongados pueden erosionar la frontera vigilia-sueño. Aun así, son evidencia de que el ego es proceso, no sustancia.",
+          html: "El riesgo ético es real: los estados lúcidos prolongados pueden erosionar la frontera vigilia-sueño. Aun así, son evidencia de que el ego es proceso, no sustancia.",
         },
         {
           type: 'key',
@@ -397,7 +397,7 @@ export const egoTunnel: BookSummary = {
         },
         {
           type: 'key',
-          html: "Empatía = acoplar tu túnel al de otro mediante simulación interna; no implica un yo extra.",
+          html: "La empatía implica acoplar tu túnel al de otro mediante simulación interna. No añade ningún yo extra.",
         },
       ],
     },
@@ -421,7 +421,7 @@ export const egoTunnel: BookSummary = {
         },
         {
           type: 'key',
-          html: "Intersubjetividad sin telepatía: manifolds compartidos, túneles separados.",
+          html: "La intersubjetividad existe sin telepatía: manifolds compartidos, túneles siempre separados.",
         },
       ],
     },
@@ -481,11 +481,11 @@ export const egoTunnel: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Necesitamos <span class=\"term\">ética de la conciencia</span>: ¿qué estados mentales queremos promover o prohibir? ¿Cuáles podemos infligir a animales o máquinas?",
+          html: "Una <span class=\"term\">ética de la conciencia</span> se vuelve necesaria: ¿qué estados mentales queremos promover o prohibir? ¿Cuáles podemos infligir a animales o máquinas?",
         },
         {
           type: 'paragraph',
-          html: "Preguntas concretas: ¿qué conciencia queremos para nuestros hijos? ¿Es legítimo inducir euforia permanente o suprimir duelo? Sin teoría de la conciencia, las respuestas son ciegas.",
+          html: "Surgen preguntas concretas: ¿qué conciencia queremos para nuestros hijos? ¿Es legítimo inducir euforia permanente o suprimir duelo? Sin teoría de la conciencia, las respuestas son ciegas.",
         },
         {
           type: 'paragraph',
@@ -493,7 +493,7 @@ export const egoTunnel: BookSummary = {
         },
         {
           type: 'key',
-          html: "Sin homúnculo, la responsabilidad es distribuida; la ética debe guiar qué túneles cultivamos.",
+          html: "Sin homúnculo, la responsabilidad es distribuida. La ética debe guiar qué túneles cultivamos.",
         },
       ],
     },

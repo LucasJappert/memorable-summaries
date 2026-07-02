@@ -120,7 +120,7 @@ export const howWeLearn: BookSummary = {
         },
         {
           type: 'key',
-          html: "Aprender es la mayor ventaja evolutiva humana; la escuela la amplifica, pero depende de principios cerebrales precisos.",
+          html: "Aprender es la mayor ventaja evolutiva humana. La escuela la amplifica, pero depende de principios cerebrales precisos.",
         },
       ],
     },
@@ -132,15 +132,15 @@ export const howWeLearn: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Primera definición: <span class=\"term\">aprender es formar un modelo interno del mundo exterior</span> —mapas mentales del barrio, del cuerpo, del lenguaje, de otras mentes. Incluso soñar es simular con esos modelos.",
+          html: "La primera definición propone que <span class=\"term\">aprender es formar un modelo interno del mundo exterior</span>: mapas mentales del barrio, del cuerpo, del lenguaje, de otras mentes. Incluso soñar es simular con esos modelos.",
         },
         {
           type: 'paragraph',
-          html: "La segunda definición es <span class=\"term\">ajustar parámetros</span> del modelo (prismas que desplazan la visión, fonemas del japonés frente al inglés, parámetro de «posición de cabeza» en sintaxis). La tercera explota la <span class=\"term\">explosión combinatoria</span>: ~<span class=\"num\">50</span> parámetros binarios de gramática generan millones de lenguas posibles.",
+          html: "La segunda definición es <span class=\"term\">ajustar parámetros</span> del modelo (prismas que desplazan la visión, fonemas del japonés frente al inglés, parámetro de «posición de cabeza» en sintaxis). La tercera aprovecha la <span class=\"term\">explosión combinatoria</span>: ~<span class=\"num\">50</span> parámetros binarios de gramática generan millones de lenguas posibles.",
         },
         {
           type: 'paragraph',
-          html: "La cuarta es <span class=\"term\">minimizar errores</span> como las redes profundas (LeNet de <span class=\"person\">Yann LeCun</span> para códigos postales). De la quinta a la séptima: comprimir información, seleccionar lo relevante y generalizar. Son principios compartidos con el aprendizaje automático.",
+          html: "La cuarta es <span class=\"term\">minimizar errores</span>, como hacen las redes profundas (LeNet de <span class=\"person\">Yann LeCun</span> para códigos postales). De la quinta a la séptima, el autor añade comprimir información, seleccionar lo relevante y generalizar. Son principios compartidos con el aprendizaje automático.",
         },
         {
           type: 'concept-grid',
@@ -180,7 +180,7 @@ export const howWeLearn: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Ventajas humanas: <span class=\"term\">abstracción</span> (reconocer «A» en cualquier fuente), <span class=\"term\">eficiencia de datos</span> (niños Tsimane con ~<span class=\"num\">60 h</span>/año de habla vs. sistemas que necesitan miles de horas), <span class=\"term\">aprendizaje social</span>, <span class=\"term\">aprendizaje en un ensayo</span>, <span class=\"term\">sistematicidad</span> (reglas como «cada número tiene sucesor»), <span class=\"term\">composición</span> de habilidades.",
+          html: "El cerebro humano conserva varias ventajas frente a las máquinas. La <span class=\"term\">abstracción</span> permite reconocer «A» en cualquier fuente. La <span class=\"term\">eficiencia de datos</span> hace que niños Tsimane aprendan con ~<span class=\"num\">60 h</span>/año de habla frente a sistemas que necesitan miles de horas. También destacan el <span class=\"term\">aprendizaje social</span>, el <span class=\"term\">aprendizaje en un ensayo</span>, la <span class=\"term\">sistematicidad</span> (reglas como «cada número tiene sucesor») y la <span class=\"term\">composición</span> de habilidades.",
         },
         {
           type: 'paragraph',
@@ -212,7 +212,7 @@ export const howWeLearn: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "En el <span class=\"term\">concepto de objeto</span>, los bebés se sorprenden si un sólido desaparece, atraviesa paredes o se parte en dos varillas. En el <span class=\"term\">sentido numérico</span>, discriminan cardinalidades incluso cruzando sonidos e imágenes. Hacen «1+1=2» y «5+5≠5». <span class=\"person\">Piaget</span> se equivocó: objetos y números son innatos y se refinan.",
+          html: "En el <span class=\"term\">concepto de objeto</span>, los bebés se sorprenden si un sólido desaparece, atraviesa paredes o se parte en dos varillas. En el <span class=\"term\">sentido numérico</span>, discriminan cardinalidades incluso cruzando sonidos e imágenes: reaccionan a «1+1=2» y a «5+5≠5». <span class=\"person\">Piaget</span> se equivocó al negar que objetos y números son innatos y solo se refinan con la experiencia.",
         },
         {
           type: 'paragraph',
@@ -257,7 +257,7 @@ export const howWeLearn: BookSummary = {
         },
         {
           type: 'key',
-          html: "Naturaleza provee mapa cortical especializado; nurture refina conexiones locales.",
+          html: "La naturaleza provee el mapa cortical especializado. La experiencia refina las conexiones locales.",
         },
       ],
     },
@@ -321,7 +321,7 @@ export const howWeLearn: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Diferente de <span class=\"term\">exaptación</span> evolutiva (lenta, genética): el reciclaje ocurre en días o años dentro de un individuo. <span class=\"person\">Nabokov</span> subrayaba lo milagroso de que signos escritos contengan mundos.",
+          html: "A diferencia de la <span class=\"term\">exaptación</span> evolutiva (lenta y genética), el reciclaje ocurre en días o años dentro de un individuo. <span class=\"person\">Nabokov</span> subrayaba lo milagroso de que signos escritos contengan mundos.",
         },
         {
           type: 'key',
@@ -337,7 +337,7 @@ export const howWeLearn: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Primer pilar: <span class=\"term\">atención</span> selecciona información bajo saturación sensorial. <span class=\"person\">Michael Posner</span> distingue alerta, orientación y control ejecutivo. Sin atención, aprender es buscar una aguja en un pajar.",
+          html: "El primer pilar es la <span class=\"term\">atención</span>, que selecciona información bajo saturación sensorial. <span class=\"person\">Michael Posner</span> distingue alerta, orientación y control ejecutivo. Sin atención, aprender es buscar una aguja en un pajar.",
         },
         {
           type: 'paragraph',
@@ -345,11 +345,11 @@ export const howWeLearn: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Sistemas de alerta (dopamina, acetilcolina) pueden reabrir plasticidad —experimentos de <span class=\"person\">Michael Merzenich</span> en ratones. Pasión temprana puede invadir mapas corticales.",
+          html: "Los sistemas de alerta (dopamina, acetilcolina) pueden reabrir plasticidad, como mostraron los experimentos de <span class=\"person\">Michael Merzenich</span> en ratones. Una pasión temprana puede incluso invadir mapas corticales vecinos.",
         },
         {
           type: 'key',
-          html: "Sin atención correcta no hay aprendizaje profundo; el docente debe capturar y guiar la atención.",
+          html: "Sin atención correcta no hay aprendizaje profundo. El docente debe capturar y guiar la atención.",
         },
       ],
     },
@@ -361,11 +361,11 @@ export const howWeLearn: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El segundo pilar es el <span class=\"term\">compromiso activo</span>. El experimento de carrusel de <span class=\"person\">Richard Held</span> y <span class=\"person\">Alan Hein</span> (<span class=\"num\">1963</span>) mostró que gatitos activos desarrollan visión normal. Los pasivos quedan ciegos funcionales.",
+          html: "El segundo pilar es el <span class=\"term\">compromiso activo</span>. En el experimento de carrusel de <span class=\"person\">Richard Held</span> y <span class=\"person\">Alan Hein</span> (<span class=\"num\">1963</span>), un gatito que explora por sí solo desarrolla visión normal. El que se mueve igual pero sin controlar su desplazamiento queda ciego en la práctica.",
         },
         {
           type: 'paragraph',
-          html: "Activo no es fidgeting: es generar hipótesis y probarlas mentalmente. El efecto de <span class=\"term\">profundidad de procesamiento</span>: quien juzga si una palabra es animal la recuerda ~<span class=\"num\">75 %</span> vs. ~<span class=\"num\">33 %</span> quien mira mayúsculas. La corteza frontal y el hipocampo predicen recuerdo futuro.",
+          html: "Ser activo no es moverse sin parar en clase (fidgeting). El cerebro aprende cuando genera hipótesis y las pone a prueba mentalmente. En el experimento clásico de <span class=\"term\">profundidad de procesamiento</span>, tres grupos reciben la misma lista de palabras con tareas distintas: juzgar mayúsculas (~<span class=\"num\">33 %</span> de recuerdo), rimas (~<span class=\"num\">52 %</span>) o si la palabra nombra un animal (~<span class=\"num\">75 %</span>). Procesar el significado deja memoria explícita, mientras que lo superficial casi no deja huella. La neuroimagen confirma el patrón: más actividad en la corteza prefrontal y el hipocampo al estudiar predice qué ítems se recordarán después.",
         },
         {
           type: 'paragraph',
@@ -389,11 +389,11 @@ export const howWeLearn: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Robert Rescorla</span> y <span class=\"person\">Allan Wagner</span> mostraron que el cerebro aprende solo si hay <span class=\"term\">error de predicción</span>: «organisms only learn when events violate their expectations». La sorpresa impulsa el condicionamiento pavloviano y las reglas delta del aprendizaje automático.",
+          html: "<span class=\"person\">Robert Rescorla</span> y <span class=\"person\">Allan Wagner</span> mostraron que el cerebro aprende solo si hay <span class=\"term\">error de predicción</span>: los organismos solo aprenden cuando los eventos violan sus expectativas. La sorpresa impulsa el condicionamiento pavloviano y las reglas delta del aprendizaje automático.",
         },
         {
           type: 'paragraph',
-          html: "Los tres pilares se entrelazan: atención selecciona inputs, compromiso activo genera predicciones, error las corrige.",
+          html: "Los tres pilares se entrelazan en un ciclo. La atención selecciona la información relevante. El compromiso activo genera predicciones. El error las corrige.",
         },
         {
           type: 'quote',
@@ -418,11 +418,11 @@ export const howWeLearn: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Los lectores expertos liberan corteza parietal y prefrontal. La lectura migra a circuitos especializados (<span class=\"term\">área de forma visual de palabras</span>). Igual ocurre con mecanografía, música o cálculo: el control pasa a ganglios basales.",
+          html: "Los lectores expertos liberan corteza parietal y prefrontal. La lectura migra a circuitos especializados (el <span class=\"term\">área de forma visual de palabras</span>). Lo mismo ocurre con mecanografía, música o cálculo: el control pasa a los ganglios basales.",
         },
         {
           type: 'paragraph',
-          html: "El <span class=\"term\">sueño</span> consolida: desde <span class=\"person\">Jenkins y Dallenbach</span> (<span class=\"num\">1924</span>) se sabe que distribuir estudio y dormir multiplica retención. De noche el cerebro replaya lo importante.",
+          html: "Desde los experimentos de <span class=\"person\">Jenkins y Dallenbach</span> (<span class=\"num\">1924</span>) se sabe que el <span class=\"term\">sueño</span> consolida lo aprendido. Distribuir el estudio y dormir multiplica la retención. De noche el cerebro repasa lo importante.",
         },
         {
           type: 'big-numbers',
@@ -439,7 +439,7 @@ export const howWeLearn: BookSummary = {
         },
         {
           type: 'key',
-          html: "Automatizar libera recursos ejecutivos para tareas superiores; el sueño es parte del algoritmo.",
+          html: "Automatizar libera recursos ejecutivos para tareas superiores. El sueño es parte del algoritmo.",
         },
       ],
     },
@@ -451,15 +451,15 @@ export const howWeLearn: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Mitad a desechar: los bebés no son esponjas pasivas. La plasticidad no es ilimitada. Los errores son necesarios. El sueño no es descanso vacío. Las máquinas no superan un recién nacido en eficiencia global.",
+          html: "Mitad de los mitos educativos conviene desechar. Los bebés no son esponjas pasivas, la plasticidad no es ilimitada, los errores son necesarios, el sueño no es descanso vacío, y las máquinas no superan a un recién nacido en eficiencia global.",
         },
         {
           type: 'paragraph',
-          html: "Dehaene lista mensajes prácticos: no subestimar niños, aprovechar ventanas sensibles del lenguaje, enriquecer entorno, enseñar con los cuatro pilares (atención, compromiso, error, consolidación), valorar sueño y espaciado, formar docentes en ciencia del aprendizaje.",
+          html: "Dehaene enumera mensajes prácticos: no subestimar a los niños, aprovechar ventanas sensibles del lenguaje, enriquecer el entorno, enseñar con los cuatro pilares (atención, compromiso, error, consolidación), valorar sueño y espaciado, y formar docentes en ciencia del aprendizaje.",
         },
         {
           type: 'paragraph',
-          html: "Comparaciones TIMSS alarman: países como Francia cayeron en matemáticas mientras Asia avanza —la ciencia del aprendizaje puede invertir la tendencia si se aplica en aula y política.",
+          html: "Las comparaciones TIMSS resultan alarmantes. Países como Francia cayeron en matemáticas mientras Asia avanza. La ciencia del aprendizaje puede invertir la tendencia si se aplica en el aula y en la política educativa.",
         },
         {
           type: 'key',

@@ -52,7 +52,7 @@ Pero la plasticidad es caprichosa: la <span class="term">alexia pura</span> pued
 — L. Rafael Reif, MIT (2017)
 
 <!-- key -->
-Aprender es la mayor ventaja evolutiva humana; la escuela la amplifica, pero depende de principios cerebrales precisos.
+Aprender es la mayor ventaja evolutiva humana. La escuela la amplifica, pero depende de principios cerebrales precisos.
 
 ---
 
@@ -62,13 +62,13 @@ Aprender es la mayor ventaja evolutiva humana; la escuela la amplifica, pero dep
 ## title: Siete definiciones de aprendizaje
 
 <!-- paragraph lead -->
-Primera definición: <span class="term">aprender es formar un modelo interno del mundo exterior</span> —mapas mentales del barrio, del cuerpo, del lenguaje, de otras mentes. Incluso soñar es simular con esos modelos.
+La primera definición propone que <span class="term">aprender es formar un modelo interno del mundo exterior</span>: mapas mentales del barrio, del cuerpo, del lenguaje, de otras mentes. Incluso soñar es simular con esos modelos.
 
 <!-- paragraph -->
-La segunda definición es <span class="term">ajustar parámetros</span> del modelo (prismas que desplazan la visión, fonemas del japonés frente al inglés, parámetro de «posición de cabeza» en sintaxis). La tercera explota la <span class="term">explosión combinatoria</span>: ~<span class="num">50</span> parámetros binarios de gramática generan millones de lenguas posibles.
+La segunda definición es <span class="term">ajustar parámetros</span> del modelo (prismas que desplazan la visión, fonemas del japonés frente al inglés, parámetro de «posición de cabeza» en sintaxis). La tercera aprovecha la <span class="term">explosión combinatoria</span>: ~<span class="num">50</span> parámetros binarios de gramática generan millones de lenguas posibles.
 
 <!-- paragraph -->
-La cuarta es <span class="term">minimizar errores</span> como las redes profundas (LeNet de <span class="person">Yann LeCun</span> para códigos postales). De la quinta a la séptima: comprimir información, seleccionar lo relevante y generalizar. Son principios compartidos con el aprendizaje automático.
+La cuarta es <span class="term">minimizar errores</span>, como hacen las redes profundas (LeNet de <span class="person">Yann LeCun</span> para códigos postales). De la quinta a la séptima, el autor añade comprimir información, seleccionar lo relevante y generalizar. Son principios compartidos con el aprendizaje automático.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -91,7 +91,7 @@ Las siete definiciones convergen: aprender es ajustar un modelo jerárquico mini
 Las redes profundas imitan procesamiento visual rápido, pero el cerebro humano añade razonamiento lento, simbólico y explícito. <span class="person">Yoshua Bengio</span> advierte que muchas redes aprenden estadísticas superficiales, no conceptos abstractos.
 
 <!-- paragraph -->
-Ventajas humanas: <span class="term">abstracción</span> (reconocer «A» en cualquier fuente), <span class="term">eficiencia de datos</span> (niños Tsimane con ~<span class="num">60 h</span>/año de habla vs. sistemas que necesitan miles de horas), <span class="term">aprendizaje social</span>, <span class="term">aprendizaje en un ensayo</span>, <span class="term">sistematicidad</span> (reglas como «cada número tiene sucesor»), <span class="term">composición</span> de habilidades.
+El cerebro humano conserva varias ventajas frente a las máquinas. La <span class="term">abstracción</span> permite reconocer «A» en cualquier fuente. La <span class="term">eficiencia de datos</span> hace que niños Tsimane aprendan con ~<span class="num">60 h</span>/año de habla frente a sistemas que necesitan miles de horas. También destacan el <span class="term">aprendizaje social</span>, el <span class="term">aprendizaje en un ensayo</span>, la <span class="term">sistematicidad</span> (reglas como «cada número tiene sucesor») y la <span class="term">composición</span> de habilidades.
 
 <!-- paragraph -->
 <span class="person">Jerry Fodor</span> postuló un <span class="term">lenguaje del pensamiento</span> recursivo. <span class="person">Descartes</span> ya sospechaba que las máquinas no compondrían significados como los humanos. AlphaGo no generaliza a variantes del tablero.
@@ -115,7 +115,7 @@ Homo sapiens combina dos sistemas: reconocimiento rápido (tipo red profunda) y 
 Contrario a <span class="person">Locke</span>, <span class="person">Rousseau</span> o <span class="person">Turing</span>, el recién nacido no es una pizarra vacía. Posee <span class="term">conocimiento núcleo</span> invisible porque no se manifiesta en conducta madura.
 
 <!-- paragraph -->
-En el <span class="term">concepto de objeto</span>, los bebés se sorprenden si un sólido desaparece, atraviesa paredes o se parte en dos varillas. En el <span class="term">sentido numérico</span>, discriminan cardinalidades incluso cruzando sonidos e imágenes. Hacen «1+1=2» y «5+5≠5». <span class="person">Piaget</span> se equivocó: objetos y números son innatos y se refinan.
+En el <span class="term">concepto de objeto</span>, los bebés se sorprenden si un sólido desaparece, atraviesa paredes o se parte en dos varillas. En el <span class="term">sentido numérico</span>, discriminan cardinalidades incluso cruzando sonidos e imágenes: reaccionan a «1+1=2» y a «5+5≠5». <span class="person">Piaget</span> se equivocó al negar que objetos y números son innatos y solo se refinan con la experiencia.
 
 <!-- paragraph -->
 En <span class="term">probabilidad bayesiana</span>, los bebés miran más tiempo resultados improbables en urnas de bolas. Hacen inferencia inversa (muestras rojas → urna roja). <span class="person">Fei Xu</span> y <span class="person">Luca Bonatti</span> muestran deducción lógica antes del lenguaje.
@@ -146,7 +146,7 @@ El <span class="term">fascículo arcuato</span> conecta áreas de lenguaje desde
 La corteza se pliega progresivamente. A las <span class="num">35 semanas</span> los surcos principales y la asimetría temporal ya existen. El ADN no detalla cada sinapsis, pero sí el andamiaje regional.
 
 <!-- key -->
-Naturaleza provee mapa cortical especializado; nurture refina conexiones locales.
+La naturaleza provee el mapa cortical especializado. La experiencia refina las conexiones locales.
 
 ---
 
@@ -188,7 +188,7 @@ Los adultos analfabetos difieren en memoria verbal, reconocimiento de formas y e
 La <span class="term">hipótesis del reciclaje neuronal</span> sostiene que cada invención cultural (alfabeto, cifras) debe encontrar un «nicho neuronal»: circuitos evolutivos lo bastante similares y flexibles. Leer recicla áreas visuales. Calcular recicla circuitos de cantidad.
 
 <!-- paragraph -->
-Diferente de <span class="term">exaptación</span> evolutiva (lenta, genética): el reciclaje ocurre en días o años dentro de un individuo. <span class="person">Nabokov</span> subrayaba lo milagroso de que signos escritos contengan mundos.
+A diferencia de la <span class="term">exaptación</span> evolutiva (lenta y genética), el reciclaje ocurre en días o años dentro de un individuo. <span class="person">Nabokov</span> subrayaba lo milagroso de que signos escritos contengan mundos.
 
 <!-- key -->
 Educar es reconverter circuitos ancestrales hacia funciones culturales nuevas.
@@ -201,16 +201,16 @@ Educar es reconverter circuitos ancestrales hacia funciones culturales nuevas.
 ## title: Atención
 
 <!-- paragraph lead -->
-Primer pilar: <span class="term">atención</span> selecciona información bajo saturación sensorial. <span class="person">Michael Posner</span> distingue alerta, orientación y control ejecutivo. Sin atención, aprender es buscar una aguja en un pajar.
+El primer pilar es la <span class="term">atención</span>, que selecciona información bajo saturación sensorial. <span class="person">Michael Posner</span> distingue alerta, orientación y control ejecutivo. Sin atención, aprender es buscar una aguja en un pajar.
 
 <!-- paragraph -->
 <span class="person">Yoshua Bengio</span> y <span class="person">Kyunghyun Cho</span> (<span class="num">2014</span>) integraron atención en traducción automática. Hoy las IA «iluminan» píxeles relevantes. En humanos, la atención consciente amplifica disparos hasta la corteza prefrontal y favorece potenciación a largo plazo.
 
 <!-- paragraph -->
-Sistemas de alerta (dopamina, acetilcolina) pueden reabrir plasticidad —experimentos de <span class="person">Michael Merzenich</span> en ratones. Pasión temprana puede invadir mapas corticales.
+Los sistemas de alerta (dopamina, acetilcolina) pueden reabrir plasticidad, como mostraron los experimentos de <span class="person">Michael Merzenich</span> en ratones. Una pasión temprana puede incluso invadir mapas corticales vecinos.
 
 <!-- key -->
-Sin atención correcta no hay aprendizaje profundo; el docente debe capturar y guiar la atención.
+Sin atención correcta no hay aprendizaje profundo. El docente debe capturar y guiar la atención.
 
 ---
 
@@ -220,10 +220,10 @@ Sin atención correcta no hay aprendizaje profundo; el docente debe capturar y g
 ## title: Compromiso activo
 
 <!-- paragraph lead -->
-El segundo pilar es el <span class="term">compromiso activo</span>. El experimento de carrusel de <span class="person">Richard Held</span> y <span class="person">Alan Hein</span> (<span class="num">1963</span>) mostró que gatitos activos desarrollan visión normal. Los pasivos quedan ciegos funcionales.
+El segundo pilar es el <span class="term">compromiso activo</span>. En el experimento de carrusel de <span class="person">Richard Held</span> y <span class="person">Alan Hein</span> (<span class="num">1963</span>), un gatito que explora por sí solo desarrolla visión normal. El que se mueve igual pero sin controlar su desplazamiento queda ciego en la práctica.
 
 <!-- paragraph -->
-Activo no es fidgeting: es generar hipótesis y probarlas mentalmente. El efecto de <span class="term">profundidad de procesamiento</span>: quien juzga si una palabra es animal la recuerda ~<span class="num">75 %</span> vs. ~<span class="num">33 %</span> quien mira mayúsculas. La corteza frontal y el hipocampo predicen recuerdo futuro.
+Ser activo no es moverse sin parar en clase (fidgeting). El cerebro aprende cuando genera hipótesis y las pone a prueba mentalmente. En el experimento clásico de <span class="term">profundidad de procesamiento</span>, tres grupos reciben la misma lista de palabras con tareas distintas: juzgar mayúsculas (~<span class="num">33 %</span> de recuerdo), rimas (~<span class="num">52 %</span>) o si la palabra nombra un animal (~<span class="num">75 %</span>). Procesar el significado deja memoria explícita, mientras que lo superficial casi no deja huella. La neuroimagen confirma el patrón: más actividad en la corteza prefrontal y el hipocampo al estudiar predice qué ítems se recordarán después.
 
 <!-- paragraph -->
 <span class="person">Henry Roediger</span> mostró que la dificultad deseable que exige esfuerzo cognitivo mejora la retención. La pasividad deja huellas mínimas.
@@ -242,10 +242,10 @@ El cerebro aprende formulando modelos y sometiéndolos a prueba, no acumulando d
 El tercer pilar es la <span class="term">retroalimentación del error</span>. <span class="person">Alexander Grothendieck</span> creyó π=3 por trazar círculos. Su «error» fue descubrimiento genuino. Sin error no hay progreso.
 
 <!-- paragraph -->
-<span class="person">Robert Rescorla</span> y <span class="person">Allan Wagner</span> mostraron que el cerebro aprende solo si hay <span class="term">error de predicción</span>: «organisms only learn when events violate their expectations». La sorpresa impulsa el condicionamiento pavloviano y las reglas delta del aprendizaje automático.
+<span class="person">Robert Rescorla</span> y <span class="person">Allan Wagner</span> mostraron que el cerebro aprende solo si hay <span class="term">error de predicción</span>: los organismos solo aprenden cuando los eventos violan sus expectativas. La sorpresa impulsa el condicionamiento pavloviano y las reglas delta del aprendizaje automático.
 
 <!-- paragraph -->
-Los tres pilares se entrelazan: atención selecciona inputs, compromiso activo genera predicciones, error las corrige.
+Los tres pilares se entrelazan en un ciclo. La atención selecciona la información relevante. El compromiso activo genera predicciones. El error las corrige.
 
 <!-- quote -->
 > Pensar es pasar de un error al siguiente.
@@ -265,10 +265,10 @@ La calidad del feedback determina la velocidad de aprendizaje.
 El cuarto pilar es la <span class="term">consolidación</span>. Un lector principiante tarda ~<span class="num">0,2 s</span> por letra. Después de ~<span class="num">3 años</span> lee palabras de 3–8 letras en paralelo. Lo consciente y lento se automatiza.
 
 <!-- paragraph -->
-Los lectores expertos liberan corteza parietal y prefrontal. La lectura migra a circuitos especializados (<span class="term">área de forma visual de palabras</span>). Igual ocurre con mecanografía, música o cálculo: el control pasa a ganglios basales.
+Los lectores expertos liberan corteza parietal y prefrontal. La lectura migra a circuitos especializados (el <span class="term">área de forma visual de palabras</span>). Lo mismo ocurre con mecanografía, música o cálculo: el control pasa a los ganglios basales.
 
 <!-- paragraph -->
-El <span class="term">sueño</span> consolida: desde <span class="person">Jenkins y Dallenbach</span> (<span class="num">1924</span>) se sabe que distribuir estudio y dormir multiplica retención. De noche el cerebro replaya lo importante.
+Desde los experimentos de <span class="person">Jenkins y Dallenbach</span> (<span class="num">1924</span>) se sabe que el <span class="term">sueño</span> consolida lo aprendido. Distribuir el estudio y dormir multiplica la retención. De noche el cerebro repasa lo importante.
 
 <!-- big-numbers -->
 | value | label |
@@ -277,7 +277,7 @@ El <span class="term">sueño</span> consolida: desde <span class="person">Jenkin
 | ×10–100 | Factor de mejora nocturna (según Dehaene) |
 
 <!-- key -->
-Automatizar libera recursos ejecutivos para tareas superiores; el sueño es parte del algoritmo.
+Automatizar libera recursos ejecutivos para tareas superiores. El sueño es parte del algoritmo.
 
 ---
 
@@ -287,13 +287,13 @@ Automatizar libera recursos ejecutivos para tareas superiores; el sueño es part
 ## title: Reconciliar educación y neurociencia
 
 <!-- paragraph lead -->
-Mitad a desechar: los bebés no son esponjas pasivas. La plasticidad no es ilimitada. Los errores son necesarios. El sueño no es descanso vacío. Las máquinas no superan un recién nacido en eficiencia global.
+Mitad de los mitos educativos conviene desechar. Los bebés no son esponjas pasivas, la plasticidad no es ilimitada, los errores son necesarios, el sueño no es descanso vacío, y las máquinas no superan a un recién nacido en eficiencia global.
 
 <!-- paragraph -->
-Dehaene lista mensajes prácticos: no subestimar niños, aprovechar ventanas sensibles del lenguaje, enriquecer entorno, enseñar con los cuatro pilares (atención, compromiso, error, consolidación), valorar sueño y espaciado, formar docentes en ciencia del aprendizaje.
+Dehaene enumera mensajes prácticos: no subestimar a los niños, aprovechar ventanas sensibles del lenguaje, enriquecer el entorno, enseñar con los cuatro pilares (atención, compromiso, error, consolidación), valorar sueño y espaciado, y formar docentes en ciencia del aprendizaje.
 
 <!-- paragraph -->
-Comparaciones TIMSS alarman: países como Francia cayeron en matemáticas mientras Asia avanza —la ciencia del aprendizaje puede invertir la tendencia si se aplica en aula y política.
+Las comparaciones TIMSS resultan alarmantes. Países como Francia cayeron en matemáticas mientras Asia avanza. La ciencia del aprendizaje puede invertir la tendencia si se aplica en el aula y en la política educativa.
 
 <!-- key -->
 Pedagogía es un arte basado en ciencia precisa del cerebro —como la medicina.

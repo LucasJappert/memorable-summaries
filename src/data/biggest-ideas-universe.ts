@@ -165,7 +165,7 @@ export const biggestIdeasUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El paradigma laplaciano: dado estado inicial (posición y velocidad), las leyes determinan toda la trayectoria. <span class=\"person\">Newton</span>, presionado por <span class=\"person\">Halley</span>, publicó los <em>Principia</em> (<span class=\"num\">1687</span>): F = ma y gravitación universal F ∝ 1/r².",
+          html: "El <span class=\"term\">paradigma laplaciano</span> sostiene que dado el estado inicial (posición y velocidad), las leyes determinan toda la trayectoria. <span class=\"person\">Newton</span>, presionado por <span class=\"person\">Halley</span>, publicó los <em>Principia</em> (<span class=\"num\">1687</span>): F = ma y gravitación universal F ∝ 1/r².",
         },
         {
           type: 'paragraph',
@@ -225,7 +225,7 @@ export const biggestIdeasUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "Newton, Lagrange y Hamilton describen lo mismo con vocabularios distintos; elegir uno u otro puede abrir atajos hacia leyes más profundas.",
+          html: "Newton, Lagrange y Hamilton describen lo mismo con vocabularios distintos. Elegir uno u otro puede abrir atajos hacia leyes más profundas.",
         },
       ],
     },
@@ -237,7 +237,7 @@ export const biggestIdeasUniverse: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "¿Qué es el <span class=\"term\">espacio</span>? Debate clásico: sustancia (contenedor) vs. relacional (solo distancias entre objetos). Hoy los campos llenan el espacio y Einstein mostró que su geometría responde a la energía.",
+          html: "¿Qué es el <span class=\"term\">espacio</span>? El debate clásico enfrenta dos posturas: sustancia (contenedor) vs. relacional (solo distancias entre objetos). Hoy los campos llenan el espacio y Einstein mostró que su geometría responde a la energía.",
         },
         {
           type: 'paragraph',
@@ -245,7 +245,7 @@ export const biggestIdeasUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La <span class=\"term\">mecánica hamiltoniana</span> eleva el momento a variable independiente (no definido como mv). Lo especial del espacio: las interacciones son <span class=\"term\">locales en posición</span> — objetos se influyen cuando coinciden en el mismo lugar, mediados por campos.",
+          html: "La <span class=\"term\">mecánica hamiltoniana</span> eleva el momento a variable independiente (no definido como mv). Lo que distingue al espacio es que las interacciones son <span class=\"term\">locales en posición</span>: los objetos se influyen cuando coinciden en el mismo lugar, mediados por campos.",
         },
         {
           type: 'list',
@@ -269,7 +269,7 @@ export const biggestIdeasUniverse: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Sin tiempo no hay movimiento ni cambio. Medimos duración con <span class=\"term\">relojes</span>: sistemas periódicos (Tierra, osciladores) comparables entre sí. El tiempo se parece al espacio (localización en espaciotiempo) pero también difiere profundamente.",
+          html: "Sin tiempo no hay movimiento ni cambio. La duración se mide con <span class=\"term\">relojes</span>: sistemas periódicos (Tierra, osciladores) comparables entre sí. El tiempo se parece al espacio (localización en espaciotiempo) pero también difiere profundamente.",
         },
         {
           type: 'paragraph',
@@ -277,7 +277,7 @@ export const biggestIdeasUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La entropía (Boltzmann) crece porque hay vastly más microestados de alta entropía que de baja. La <span class=\"term\">hipótesis del pasado</span>: el universo empezó en entropía extremadamente baja (Big Bang denso y uniforme). Eso rompe la simetría pasado/futuro.",
+          html: "La entropía (Boltzmann) crece porque hay vastly más microestados de alta entropía que de baja. La llamada <span class=\"term\">hipótesis del pasado</span> sostiene que el universo empezó en entropía extremadamente baja (Big Bang denso y uniforme). Eso rompe la simetría pasado/futuro.",
         },
         {
           type: 'concept-grid',
@@ -321,7 +321,7 @@ export const biggestIdeasUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El intervalo de Minkowski: τ² = Δt² − Δx² (con c = 1). Más movimiento espacial → menos tiempo propio. El experimento de los gemelos no es paradoja: caminos distintos, duraciones distintas. La velocidad c convierte unidades espacio↔tiempo.",
+          html: "El <span class=\"term\">intervalo de Minkowski</span> se define como τ² = Δt² − Δx² (con c = 1). Más movimiento espacial significa menos tiempo propio. El experimento de los gemelos no es paradoja: caminos distintos, duraciones distintas. La velocidad c convierte unidades espacio↔tiempo.",
         },
         {
           type: 'big-numbers',
@@ -386,7 +386,7 @@ export const biggestIdeasUniverse: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "La gravedad es curvatura del espaciotiempo. La ecuación de Einstein (<span class=\"num\">25 nov 1915</span>) relaciona tensor de Einstein (curvatura) con tensor energía-momento (materia). <span class=\"person\">Wheeler</span> lo resumió así: «el espaciotiempo dice a la materia cómo moverse, y la materia dice al espaciotiempo cómo curvarse».",
+          html: "La gravedad es curvatura del espaciotiempo. La ecuación de Einstein (<span class=\"num\">25 nov 1915</span>) relaciona tensor de Einstein (curvatura) con tensor energía-momento (materia). <span class=\"person\">Wheeler</span> lo resumió con esta frase: «el espaciotiempo dice a la materia cómo moverse, y la materia dice al espaciotiempo cómo curvarse».",
         },
         {
           type: 'paragraph',
@@ -394,7 +394,7 @@ export const biggestIdeasUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Pruebas clásicas: precesión de Mercurio (+0,012°/siglo exacto), desviación de luz (<span class=\"person\">Eddington</span>, eclipse <span class=\"num\">1919</span>), redshift gravitacional, ondas gravitacionales (LIGO <span class=\"num\">2015</span>), expansión del universo (Hubble).",
+          html: "Las pruebas observacionales clásicas abarcan la precesión de Mercurio (+0,012°/siglo exacto), la desviación de luz (<span class=\"person\">Eddington</span>, eclipse <span class=\"num\">1919</span>), el redshift gravitacional, las ondas gravitacionales (LIGO <span class=\"num\">2015</span>) y la expansión del universo (Hubble).",
         },
         {
           type: 'quote',
@@ -403,7 +403,7 @@ export const biggestIdeasUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "Einstein no resolvió ecuaciones: las <span class=\"key-term\">entendió</span>; Schwarzschild, sentado en el frente, encontró la primera solución exacta semanas después.",
+          html: "Einstein no fue quien resolvió sus ecuaciones: las <span class=\"key-term\">entendió</span>. Schwarzschild, sentado en el frente, encontró la primera solución exacta semanas después.",
         },
       ],
     },
@@ -419,11 +419,11 @@ export const biggestIdeasUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Dilatación gravitacional: relojes cerca de masas marcan menos tiempo propio. Coordenadas Eddington-Finkelstein eliminan la singularidad de coordenadas en el horizonte. Teorema «no-hair»: agujeros negros quedan caracterizados solo por masa, carga y spin (<span class=\"term\">solución de Kerr</span> para rotación).",
+          html: "La <span class=\"term\">dilatación gravitacional</span> implica que relojes cerca de masas marcan menos tiempo propio. Las coordenadas Eddington-Finkelstein eliminan la singularidad de coordenadas en el horizonte. Teorema «no-hair»: agujeros negros quedan caracterizados solo por masa, carga y spin (<span class=\"term\">solución de Kerr</span> para rotación).",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Hawking</span> (<span class=\"num\">1971</span>) demostró que el área del horizonte solo crece, análogo a entropía. <span class=\"person\">Bekenstein</span> propuso entropía proporcional al área. <span class=\"person\">Hawking</span> calculó radiación térmica: los agujeros negros «brillan» cuánticamente. LIGO detectó fusiones (p. ej. 36 + 29 masas solares, <span class=\"num\">2015</span>). El Nobel <span class=\"num\">2020</span> fue para Penrose, Genzel y Ghez.",
+          html: "<span class=\"person\">Hawking</span> (<span class=\"num\">1971</span>) demostró que el área del horizonte solo crece, análogo a entropía. <span class=\"person\">Bekenstein</span> propuso entropía proporcional al área. <span class=\"person\">Hawking</span> calculó además una radiación térmica propia: los agujeros negros «brillan» cuánticamente. LIGO detectó fusiones (p. ej. 36 + 29 masas solares, <span class=\"num\">2015</span>). El Nobel <span class=\"num\">2020</span> fue para Penrose, Genzel y Ghez.",
         },
         {
           type: 'concept-grid',

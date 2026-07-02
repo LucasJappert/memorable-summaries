@@ -266,7 +266,7 @@ export const beginningOfInfinity: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La escena enfatiza el <span class=\"term\">falibilismo</span>: no hay justificación última infalible. Lo que hay son conjeturas, críticas y correcciones sucesivas.",
+          html: "La escena del diálogo enfatiza el <span class=\"term\">falibilismo</span>: no hay justificación última infalible. Lo que hay son conjeturas, críticas y correcciones sucesivas.",
         },
         {
           type: 'paragraph',
@@ -342,7 +342,7 @@ export const beginningOfInfinity: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Deutsch extrae una lección general: los buenos marcos institucionales permiten corrección de errores y reforma crítica en vez de blindar procedimientos supuestamente definitivos.",
+          html: "Deutsch extrae de este análisis una lección más general: los buenos marcos institucionales permiten corrección de errores y reforma crítica en vez de blindar procedimientos supuestamente definitivos.",
         },
         {
           type: 'key',
@@ -382,7 +382,7 @@ export const beginningOfInfinity: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Las culturas evolucionan mediante <span class=\"term\">memes</span>: ideas que se replican en mentes y prácticas sociales, análogas a genes pero con dinámica propia.",
+          html: "Las culturas se transmiten y evolucionan mediante <span class=\"term\">memes</span>: ideas que se replican en mentes y prácticas sociales, análogas a genes pero con dinámica propia.",
         },
         {
           type: 'paragraph',

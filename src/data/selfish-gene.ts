@@ -145,7 +145,7 @@ export const selfishGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La tesis central: somos máquinas de supervivencia creadas por nuestros genes. Un gen exitoso tiende al <span class=\"term\">egoísmo despiadado</span>, aunque en circunstancias especiales puede favorecer un altruismo limitado. El amor universal y el bien de la especie no tienen sentido evolutivo.",
+          html: "La tesis central sostiene que somos máquinas de supervivencia creadas por nuestros genes. Un gen exitoso tiende al <span class=\"term\">egoísmo despiadado</span>, aunque en circunstancias especiales puede favorecer un altruismo limitado. El amor universal y el bien de la especie no tienen sentido evolutivo.",
         },
         {
           type: 'quote',
@@ -255,7 +255,7 @@ export const selfishGene: BookSummary = {
         },
         {
           type: 'key',
-          html: "Los cuerpos son <span class=\"key-term\">vehículos temporales</span>; los genes son replicadores potencialmente inmortales que los abandonan generación tras generación.",
+          html: "Los cuerpos son <span class=\"key-term\">vehículos temporales</span>. Los genes, en cambio, son replicadores potencialmente inmortales que los abandonan generación tras generación.",
         },
       ],
     },
@@ -279,7 +279,7 @@ export const selfishGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Conveniencia analítica: tratar al organismo individual como agente que maximiza la propagación de todos sus genes. El capítulo explora tácticas de supervivencia, señales y engaño en el comportamiento animal.",
+          html: "Por conveniencia analítica, el capítulo trata al organismo individual como agente que maximiza la propagación de todos sus genes. El capítulo explora tácticas de supervivencia, señales y engaño en el comportamiento animal.",
         },
         {
           type: 'key',
@@ -451,7 +451,7 @@ export const selfishGene: BookSummary = {
         },
         {
           type: 'key',
-          html: "Maleness y femaleness se definen por el tamaño del gameto — no por anatomía visible — y de ahí fluye casi toda la asimetría sexual.",
+          html: "Lo masculino y lo femenino se definen por el tamaño del gameto, no por anatomía visible, y de ahí fluye casi toda la asimetría sexual.",
         },
       ],
     },
@@ -548,7 +548,7 @@ export const selfishGene: BookSummary = {
         },
         {
           type: 'key',
-          html: "En el Dilema del Prisionero <span class=\"key-term\">iterado</span>, los buenos — cooperadores condicionales — pueden terminar primero.",
+          html: "En el Dilema del Prisionero <span class=\"key-term\">iterado</span>, los buenos (cooperadores condicionales) pueden terminar primero.",
         },
       ],
     },
@@ -576,7 +576,7 @@ export const selfishGene: BookSummary = {
         },
         {
           type: 'key',
-          html: "El gen tiene <span class=\"key-term\">largo alcance</span>: su fenotipo incluye castores, presas, nidos y hasta el comportamiento manipulado de otros organismos.",
+          html: "El gen ejerce un <span class=\"key-term\">largo alcance</span>: su fenotipo incluye castores, presas, nidos y hasta el comportamiento manipulado de otros organismos.",
         },
       ],
     },

@@ -214,7 +214,7 @@ export const ourMathematicalUniverse: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "<span class=\"person\">Newton</span> unificó cielo y tierra: la Luna no cae porque orbita a ~<span class=\"num\">1 km/s</span>. Un cañón a <span class=\"num\">7,9 km/s</span> orbitaría la Tierra. Las mareas frenan la rotación terrestre, y el sistema Tierra-Luna no puede tener más de ~<span class=\"num\">4–5 mil millones</span> de años en su forma actual.",
+          html: "<span class=\"person\">Newton</span> unificó cielo y tierra con su ley de la gravitación: la Luna no cae porque orbita a ~<span class=\"num\">1 km/s</span>. Un cañón a <span class=\"num\">7,9 km/s</span> orbitaría la Tierra. Las mareas frenan la rotación terrestre, y el sistema Tierra-Luna no puede tener más de ~<span class=\"num\">4–5 mil millones</span> de años en su forma actual.",
         },
         {
           type: 'paragraph',
@@ -255,7 +255,7 @@ export const ourMathematicalUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "Telescopios = máquinas del tiempo: mirar lejos es mirar al pasado cósmico.",
+          html: "Los telescopios son máquinas del tiempo: mirar lejos es mirar al pasado cósmico.",
         },
       ],
     },
@@ -545,7 +545,7 @@ export const ourMathematicalUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "Bajo la MUH, el tiempo no fluye en la estructura matemática; <span class=\"key-term\">solo parece fluir</span> en tu cabeza.",
+          html: "Bajo la MUH, el tiempo no fluye en la estructura matemática. <span class=\"key-term\">Solo parece fluir</span> en tu cabeza.",
         },
       ],
     },
@@ -561,7 +561,7 @@ export const ourMathematicalUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Jerarquía de cuatro niveles: I (regiones lejanas del espacio), II (regiones post-inflacionarias), III (ramas cuánticas en espacio de Hilbert), IV (otras estructuras matemáticas). Explorar el nivel IV requiere computadoras e ideas, no cohetes. Estructuras simples pueden listarse como un «directorio telefónico» matemático.",
+          html: "El multiverso forma una jerarquía de cuatro niveles: I (regiones lejanas del espacio), II (regiones post-inflacionarias), III (ramas cuánticas en espacio de Hilbert), IV (otras estructuras matemáticas). Explorar el nivel IV requiere computadoras e ideas, no cohetes. Estructuras simples pueden listarse como un «directorio telefónico» matemático.",
         },
         {
           type: 'paragraph',
@@ -594,7 +594,7 @@ export const ourMathematicalUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Futuro del universo: posible <span class=\"term\">Big Chill</span> (expansión acelerada), Big Crunch, Big Rip, Big Snap o burbujas de muerte. No hay evidencia de vida tan avanzada como la humana en todo el universo observable. El potencial futuro de la vida supera con creces lo visto hasta ahora.",
+          html: "El futuro del universo puede seguir varios escenarios: <span class=\"term\">Big Chill</span> (expansión acelerada), Big Crunch, Big Rip, Big Snap o burbujas de muerte. No hay evidencia de vida tan avanzada como la humana en todo el universo observable. El potencial futuro de la vida supera con creces lo visto hasta ahora.",
         },
         {
           type: 'paragraph',
@@ -619,7 +619,7 @@ export const ourMathematicalUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "Somos parte consciente de una estructura matemática; nuestro futuro depende de <span class=\"key-term\">decisiones que aún podemos tomar</span>.",
+          html: "Somos parte consciente de una estructura matemática. Nuestro futuro depende de <span class=\"key-term\">decisiones que aún podemos tomar</span>.",
         },
       ],
     },

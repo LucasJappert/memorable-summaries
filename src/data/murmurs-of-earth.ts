@@ -184,7 +184,7 @@ export const murmursOfEarth: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "<span class=\"person\">Jon Lomberg</span>, artista y diseñador, describe cómo seleccionar y codificar <span class=\"num\">118</span> imágenes en el ancho de banda del disco. El reto: pensar como un extraterrestre sin saber nada de nosotros.",
+          html: "<span class=\"person\">Jon Lomberg</span>, artista y diseñador, describe cómo seleccionar y codificar <span class=\"num\">118</span> imágenes en el ancho de banda del disco. El reto era pensar como un extraterrestre sin saber nada de nosotros.",
         },
         {
           type: 'paragraph',
@@ -257,7 +257,7 @@ export const murmursOfEarth: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "<span class=\"person\">Ann Druyan</span> produjo «The Sounds of Earth», un ensayo sonoro evolutivo: del Big Bang conceptual al hombre y su tecnología. Cita a Shakespeare (<em>The Tempest</em>): la isla está llena de ruidos, sonidos y aires dulces.",
+          html: "<span class=\"person\">Ann Druyan</span> produjo «The Sounds of Earth», un ensayo sonoro evolutivo: del Big Bang conceptual al hombre y su tecnología. Druyan recuerda las palabras de Shakespeare (<em>The Tempest</em>): la isla está llena de ruidos, sonidos y aires dulces.",
         },
         {
           type: 'paragraph',
@@ -298,7 +298,7 @@ export const murmursOfEarth: BookSummary = {
         },
         {
           type: 'key',
-          html: "No hubo respuesta única correcta; cada elección musical fue negociación entre belleza, diversidad y el espacio limitado del vinilo interestelar.",
+          html: "No hubo respuesta única correcta. Cada elección musical fue negociación entre belleza, diversidad y el espacio limitado del vinilo interestelar.",
         },
       ],
     },

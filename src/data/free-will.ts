@@ -92,7 +92,7 @@ export const freeWill: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Ante semejante horror, casi todos sentimos que los culpables deben responder moralmente. Pero si intercambiáramos átomo por átomo con Komisarjevsky (genes, infancia y cerebro idénticos), actuaríamos igual que él. El papel de la <span class=\"term\">suerte</span> parece decisivo. Un tumor cerebral que explique la violencia desplazaría nuestra culpa, y la neurofisiología ordinaria haría lo mismo.",
+          html: "Ante semejante horror, casi todos sentimos que los culpables deben responder moralmente, pero si intercambiáramos átomo por átomo con Komisarjevsky (genes, infancia y cerebro idénticos), actuaríamos igual que él. El papel de la <span class=\"term\">suerte</span> parece decisivo. Un tumor cerebral que explique la violencia desplazaría nuestra culpa, y la neurofisiología ordinaria haría lo mismo.",
         },
         {
           type: 'quote',
@@ -117,7 +117,7 @@ export const freeWill: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Benjamin Libet</span> (<span class=\"num\">1983</span>) detectó actividad motora unos <span class=\"num\">300 ms</span> antes de que la persona sintiera haber decidido moverse. Con fMRI, <span class=\"person\">John-Dylan Haynes</span> predijo la elección <span class=\"num\">7–10 s</span> antes. Registros directos de <span class=\"num\">256</span> neuronas alcanzaron ~<span class=\"num\">80 %</span> de precisión a <span class=\"num\">700 ms</span>. Antes de que parezcamos libres, el cerebro ya decidió.",
+          html: "<span class=\"person\">Benjamin Libet</span> (<span class=\"num\">1983</span>) detectó actividad motora unos <span class=\"num\">300 ms</span> antes de que la persona sintiera haber decidido moverse. Mediante fMRI, <span class=\"person\">John-Dylan Haynes</span> predijo la elección <span class=\"num\">7–10 s</span> antes. Registros directos de <span class=\"num\">256</span> neuronas alcanzaron ~<span class=\"num\">80 %</span> de precisión a <span class=\"num\">700 ms</span>. Antes de que parezcamos libres, el cerebro ya decidió.",
         },
         {
           type: 'paragraph',
@@ -161,7 +161,7 @@ export const freeWill: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Los compatibilistas, como <span class=\"person\">Daniel Dennett</span>, dicen que actuar según tus deseos sin coacción externa es libertad. Pero eso no coincide con lo que la gente siente: creer poder haber actuado de otro modo con el universo idéntico. Si las causas cerebrales son totalmente eficaces, la responsabilidad personal convencional pierde anclaje.",
+          html: "Los compatibilistas, como <span class=\"person\">Daniel Dennett</span>, dicen que actuar según tus deseos sin coacción externa es libertad, pero eso no coincide con lo que la gente siente: creer poder haber actuado de otro modo con el universo idéntico. Si las causas cerebrales son totalmente eficaces, la responsabilidad personal convencional pierde anclaje.",
         },
         {
           type: 'paragraph',
@@ -174,7 +174,7 @@ export const freeWill: BookSummary = {
         },
         {
           type: 'key',
-          html: "Los compatibilistas cambian el tema: sustituyen la experiencia psicológica de agencia por una definición técnica de «persona».",
+          html: "El compatibilismo invierte la pregunta: sustituye la experiencia psicológica de agencia por una definición técnica de «persona».",
         },
       ],
     },
@@ -219,7 +219,7 @@ export const freeWill: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Podemos distinguir estados volicionales de reflejos automáticos, y la atención consciente importa para planificar y corregir. Pero todo el proceso (dolor, pensamientos, terapia física) surge sin que el yo consciente lo haya creado.",
+          html: "Podemos distinguir estados volicionales de reflejos automáticos, y la atención consciente importa para planificar y corregir, pero todo el proceso (dolor, pensamientos, terapia física) surge sin que el yo consciente lo haya creado.",
         },
         {
           type: 'paragraph',
@@ -276,7 +276,7 @@ export const freeWill: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Cinco casos graduales (niño de 4 años, abusado de 12, adulto abusado, psicópata, psicópata con tumor) muestran cómo el contexto modula la indignación aunque el cerebro sea siempre la causa. El tumor «absuelve» porque parece adventicio. Pero a medida que entendemos causas, la línea entre casos 4 y 5 se difumina.",
+          html: "Cinco casos graduales (niño de 4 años, abusado de 12, adulto abusado, psicópata, psicópata con tumor) muestran cómo el contexto modula la indignación aunque el cerebro sea siempre la causa. El tumor «absuelve» porque parece adventicio, pero a medida que entendemos causas, la línea entre casos 4 y 5 se difumina.",
         },
         {
           type: 'paragraph',

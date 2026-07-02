@@ -231,11 +231,11 @@ export const whyDoesWorldExist: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Linde, con humor sombrío, sugiere que nuestro cosmos podría haber sido creado por un físico hacker incompetente —no un dios omnisciente. La moraleja: no asumir que un creador sería divino en el sentido tradicional.",
+          html: "Linde, con humor sombrío, sugiere que nuestro cosmos podría haber sido creado por un físico hacker incompetente —no un dios omnisciente. La moraleja que extrae es no asumir que un creador sería divino en el sentido tradicional.",
         },
         {
           type: 'key',
-          html: "Crear un universo podría ser mucho más barato —y más fallible— de lo que imagina la teología clásica.",
+          html: "Crear un universo podría ser mucho más barato, y más fallible, de lo que imagina la teología clásica.",
         },
       ],
     },
@@ -291,7 +291,7 @@ export const whyDoesWorldExist: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Desde <span class=\"person\">Coleridge</span>, cuando el niño Hartley imaginaba un mundo sin cosas, hasta poetas como <span class=\"person\">Rochester</span>, Occidente ha fantaseado con la nada. <span class=\"person\">Macbeth</span> dice: «Nada es, sino lo que no es.»",
+          html: "Desde <span class=\"person\">Coleridge</span>, cuando el niño Hartley imaginaba un mundo sin cosas, hasta poetas como <span class=\"person\">Rochester</span>, Occidente ha fantaseado con la nada. Como señala Macbeth, «Nada es, sino lo que no es.»",
         },
         {
           type: 'paragraph',
@@ -371,7 +371,7 @@ export const whyDoesWorldExist: BookSummary = {
         },
         {
           type: 'key',
-          html: "Interludio literario: el misterio también se vive en bares, no solo en aulas.",
+          html: "El capítulo sirve de interludio literario: el misterio también se vive en bares, no solo en aulas.",
         },
       ],
     },
@@ -563,7 +563,7 @@ export const whyDoesWorldExist: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "<span class=\"person\">Pitágoras</span> y el platonismo matemático: ¿el mundo está hecho de números? Hoy muchos matemáticos son platonistas: los objetos matemáticos existen independientemente de mentes.",
+          html: "Desde <span class=\"person\">Pitágoras</span> hasta hoy, el platonismo matemático plantea la pregunta: ¿el mundo está hecho de números? Muchos matemáticos son platonistas: los objetos matemáticos existen independientemente de mentes.",
         },
         {
           type: 'paragraph',
@@ -575,7 +575,7 @@ export const whyDoesWorldExist: BookSummary = {
         },
         {
           type: 'key',
-          html: "Las matemáticas describen posibilidades; el salto a existencia concreta sigue sin resolver.",
+          html: "Las matemáticas describen posibilidades. El salto a existencia concreta sigue sin resolver.",
         },
       ],
     },

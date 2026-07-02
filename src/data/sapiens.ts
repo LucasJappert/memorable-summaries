@@ -151,7 +151,7 @@ export const sapiens: BookSummary = {
         },
         {
           type: 'key',
-          html: "Este resumen sigue la estructura de un texto abreviado de Sapiens Editorial; no sustituye la lectura del libro completo de Harari.",
+          html: "Este resumen sigue la estructura de un texto abreviado de Sapiens Editorial. No sustituye la lectura del libro completo de Harari.",
         },
       ],
     },
@@ -167,7 +167,7 @@ export const sapiens: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Hace <span class=\"num\">70.000</span> años la especie formó estructuras más complejas llamadas <span class=\"term\">culturas</span>, y su desarrollo es la <span class=\"term\">historia</span>. Tres revoluciones la marcaron: la cognitiva (~<span class=\"num\">70.000</span> a), la agrícola (~<span class=\"num\">12.000</span> a) y la científica (~<span class=\"num\">500</span> años).",
+          html: "Hace <span class=\"num\">70.000</span> años la especie formó estructuras más complejas llamadas <span class=\"term\">culturas</span>, y su desarrollo es la <span class=\"term\">historia</span>. Las tres revoluciones que la marcaron son la cognitiva (~<span class=\"num\">70.000</span> a), la agrícola (~<span class=\"num\">12.000</span> a) y la científica (~<span class=\"num\">500</span> años).",
         },
         {
           type: 'key',
@@ -191,7 +191,7 @@ export const sapiens: BookSummary = {
         },
         {
           type: 'key',
-          html: "La diversidad de especies humanas refleja adaptaciones geográficas; solo el sapiens sobrevivió.",
+          html: "La diversidad de especies humanas refleja adaptaciones geográficas. Solo el sapiens sobrevivió.",
         },
       ],
     },
@@ -203,7 +203,7 @@ export const sapiens: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Rasgos comunes: cerebro grande (<span class=\"num\">2–3%</span> del peso corporal, <span class=\"num\">25%</span> de la energía), bipedestación, partos prematuros y vínculos sociales fuertes para criar crías indefensas.",
+          html: "Los rasgos comunes del sapiens incluyen cerebro grande (<span class=\"num\">2–3%</span> del peso corporal, <span class=\"num\">25%</span> de la energía), bipedestación, partos prematuros y vínculos sociales fuertes para criar crías indefensas.",
         },
         {
           type: 'paragraph',
@@ -255,7 +255,7 @@ export const sapiens: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La mayoría de cazadores-recolectores tenían dieta sana, poca carga laboral y pocas enfermedades infecciosas, pero alta mortalidad infantil. Muchos eran <span class=\"term\">animistas</span>: creen que lugares, animales y fenómenos tienen conciencia y pueden comunicarse con humanos.",
+          html: "La mayoría de cazadores-recolectores tenían dieta sana, poca carga laboral y pocas enfermedades infecciosas, pero alta mortalidad infantil. Muchos eran <span class=\"term\">animistas</span>, pues creían que lugares, animales y fenómenos tienen conciencia y pueden comunicarse con humanos.",
         },
         {
           type: 'key',

@@ -194,7 +194,7 @@ export const incognito: BookSummary = {
         },
         {
           type: 'key',
-          html: "Primera lección: no confíes en los sentidos; la percepción es construcción activa, no registro fiel del mundo.",
+          html: "La lección principal del capítulo es no confiar en los sentidos: la percepción es construcción activa, no registro fiel del mundo.",
         },
       ],
     },
@@ -247,7 +247,7 @@ export const incognito: BookSummary = {
         },
         {
           type: 'key',
-          html: "Hay un abismo entre lo que el cerebro ejecuta y lo que la mente puede inspeccionar; la conciencia interfiere si se mete en detalles que no comprende.",
+          html: "Hay un abismo entre lo que el cerebro ejecuta y lo que la mente puede inspeccionar. La conciencia interfiere si se mete en detalles que no comprende.",
         },
       ],
     },
@@ -283,7 +283,7 @@ export const incognito: BookSummary = {
         },
         {
           type: 'key',
-          html: "La evolución talló un <span class=\"key-term\">Umwelt</span> estrecho de pensamientos posibles; lo «obvio» es solo lo que nuestro hardware permite captar.",
+          html: "La evolución talló un <span class=\"key-term\">Umwelt</span> estrecho de pensamientos posibles. Lo «obvio» es solo lo que nuestro hardware permite captar.",
         },
       ],
     },
@@ -359,7 +359,7 @@ export const incognito: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Eagleman propone sustituir la <span class=\"term\">culpabilidad</span> por la <span class=\"term\">modificabilidad</span>: sentencia prospectiva (¿reincidirá?) con tablas actuariales para delitos sexuales (mejor que psiquiatras). El <span class=\"term\">prefrontal workout</span> usa neurofeedback para fortalecer control de impulsos frente a lobotomía. No exculpar: <em>explicar ≠ exculpar</em>, y aún hay que apartar peligrosos.",
+          html: "Eagleman propone sustituir la <span class=\"term\">culpabilidad</span> por la <span class=\"term\">modificabilidad</span>: sentencia prospectiva (¿reincidirá?) con tablas actuariales para delitos sexuales (mejor que psiquiatras). El <span class=\"term\">prefrontal workout</span> usa neurofeedback para fortalecer control de impulsos frente a lobotomía. En todo caso, <em>explicar ≠ exculpar</em>: aún hay que apartar a los peligrosos.",
         },
         {
           type: 'timeline',
@@ -408,7 +408,7 @@ export const incognito: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"term\">Emergencia</span>: propiedades del conjunto (vuelo, contención) no están en piezas sueltas. Analogía radio Kalahari: dañar circuitos silencia voces, pero ondas existían sin conocerlas. Materialismo no implica cinismo: «si el cerebro fuera lo bastante simple para entenderlo, no seríamos lo bastante listos».",
+          html: "<span class=\"term\">Emergencia</span>: propiedades del conjunto (vuelo, contención) no están en piezas sueltas. La analogía de la radio en el Kalahari ilustra esto: dañar circuitos silencia voces, pero las ondas existían sin conocerlas. Materialismo no implica cinismo: «si el cerebro fuera lo bastante simple para entenderlo, no seríamos lo bastante listos».",
         },
         {
           type: 'key',

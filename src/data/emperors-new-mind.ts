@@ -98,7 +98,7 @@ export const emperorsNewMind: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "En el prefacio de <span class=\"num\">1999</span>, <span class=\"person\">Penrose</span> recuerda que este libro fue su primera incursión seria en la divulgación. Su tesis central no cambió: la <span class=\"term\">conciencia</span> no puede alojarse en el marco de la física actual ni reducirse a computación pura.",
+          html: "En el prefacio de <span class=\"num\">1999</span>, <span class=\"person\">Penrose</span> recuerda su primera incursión en divulgación y confirma que su tesis central no cambió: la <span class=\"term\">conciencia</span> no puede alojarse en el marco de la física actual ni reducirse a computación pura.",
         },
         {
           type: 'paragraph',
@@ -110,7 +110,7 @@ export const emperorsNewMind: BookSummary = {
         },
         {
           type: 'key',
-          html: "La comprensión matemática trasciende cualquier conjunto fijo de reglas; la conciencia exige física nueva en el puente entre lo cuántico y lo clásico.",
+          html: "La comprensión matemática trasciende cualquier conjunto fijo de reglas. La conciencia exige física nueva en el puente entre lo cuántico y lo clásico.",
         },
       ],
     },
@@ -130,7 +130,7 @@ export const emperorsNewMind: BookSummary = {
         },
         {
           type: 'key',
-          html: "La pregunta de Adam al final del prólogo —«¿cómo se siente ser tú?»— reaparecerá en el epílogo como prueba de que la computación por sí sola no basta.",
+          html: "La pregunta de Adam al final del prólogo, «¿cómo se siente ser tú?», reaparecerá en el epílogo como prueba de que la computación por sí sola no basta.",
         },
       ],
     },
@@ -286,7 +286,7 @@ export const emperorsNewMind: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Antes de la cuántica, Penrose clasifica las teorías físicas en <span class=\"term\">SUPERB</span> (precisión fenomenal), <span class=\"term\">USEFUL</span> (útiles pero incompletas) y <span class=\"term\">TENTATIVE</span> (sin apoyo experimental). En SUPERB: geometría euclidiana, mecánica de Newton, electromagnetismo de Maxwell, relatividades de Einstein, mecánica cuántica y QED.",
+          html: "Antes de la cuántica, Penrose clasifica las teorías físicas en <span class=\"term\">SUPERB</span> (precisión fenomenal), <span class=\"term\">USEFUL</span> (útiles pero incompletas) y <span class=\"term\">TENTATIVE</span> (sin apoyo experimental). En la categoría SUPERB se agrupan: geometría euclidiana, mecánica de Newton, electromagnetismo de Maxwell, relatividades de Einstein, mecánica cuántica y QED.",
         },
         {
           type: 'paragraph',
@@ -460,7 +460,7 @@ export const emperorsNewMind: BookSummary = {
         },
         {
           type: 'key',
-          html: "El cerebro no es un autómata homogéneo: mucha actividad es inconsciente; la conciencia parece selectiva y escasa.",
+          html: "El cerebro no es un autómata homogéneo, pues mucha actividad ocurre de forma inconsciente. La conciencia parece selectiva y escasa.",
         },
       ],
     },
@@ -489,7 +489,7 @@ export const emperorsNewMind: BookSummary = {
         },
         {
           type: 'key',
-          html: "La conciencia forma juicios no algorítmicos; la física que la sustenta debe trascender la computación digital.",
+          html: "La conciencia forma juicios no algorítmicos. La física que la sustenta debe trascender la computación digital.",
         },
       ],
     },

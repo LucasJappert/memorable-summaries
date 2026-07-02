@@ -270,7 +270,7 @@ export const origins: BookSummary = {
         },
         {
           type: 'key',
-          html: "El universo nació en un blaze de luz que sigue llenando el espacio; la expansión lo diluyó hasta el resplandor microondas detectable hoy.",
+          html: "El universo nació en un destello de luz que sigue llenando el espacio. La expansión lo diluyó hasta el resplandor de microondas detectable hoy.",
         },
       ],
     },
@@ -481,7 +481,7 @@ export const origins: BookSummary = {
         },
         {
           type: 'key',
-          html: "Las «nubes» del cielo son islas de estrellas a distancias inconcebibles; descubrirlas transformó nuestra escala cósmica.",
+          html: "Las «nubes» del cielo son islas de estrellas a distancias inconcebibles. Descubrirlas transformó nuestra escala cósmica.",
         },
       ],
     },
@@ -529,7 +529,7 @@ export const origins: BookSummary = {
         },
         {
           type: 'key',
-          html: "Del polvo interestelar —literalmente— nacen las estrellas que iluminan el cosmos.",
+          html: "Del polvo interestelar, literalmente, nacen las estrellas que iluminan el cosmos.",
         },
       ],
     },
@@ -569,15 +569,15 @@ export const origins: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Hasta <span class=\"num\">1995</span> no se confirmó ningún <span class=\"term\">exoplaneta</span>. Luego llegó la avalancha: hoy más de <span class=\"num\">5.000</span> mundos conocidos con órbitas, tamaños y composiciones diversos — algunos en la <span class=\"term\">zona habitable</span>, otras órbitas extremas que desafían modelos.",
+          html: "Hasta <span class=\"num\">1995</span> no se confirmó ningún <span class=\"term\">exoplaneta</span>. Luego, los descubrimientos llegaron en avalancha: hoy más de <span class=\"num\">5.000</span> mundos conocidos con órbitas, tamaños y composiciones diversos — algunos en la <span class=\"term\">zona habitable</span>, otros en órbitas extremas que desafían modelos.",
         },
         {
           type: 'paragraph',
-          html: "Métodos de detección: velocidad radial (wobble estelar), tránsitos (atenuación de luz), microlentes gravitacionales e imagen directa. Los exoplanetas son laboratorio cósmico para preguntar cuándo y cómo surge la vida más allá del Sistema Solar.",
+          html: "Los métodos de detección incluyen la velocidad radial (wobble estelar), los tránsitos (atenuación de luz), las microlentes gravitacionales y la imagen directa. Los exoplanetas son laboratorio cósmico para preguntar cuándo y cómo surge la vida más allá del Sistema Solar.",
         },
         {
           type: 'key',
-          html: "De la especulación pasamos a un catálogo de miles de mundos; la pregunta ya no es «¿hay planetas?» sino «¿cuántos son habitables?».",
+          html: "De la especulación pasamos a un catálogo de miles de mundos. La pregunta ya no es «¿hay planetas?» sino «¿cuántos son habitables?».",
         },
       ],
     },
@@ -609,7 +609,7 @@ export const origins: BookSummary = {
         },
         {
           type: 'key',
-          html: "Drake organiza nuestra ignorancia: sabemos contar estrellas y planetas mejor que originar o sostener civilizaciones.",
+          html: "Drake resume nuestra ignorancia: sabemos contar estrellas y planetas mejor que originar o sostener civilizaciones.",
         },
       ],
     },
@@ -621,7 +621,7 @@ export const origins: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Definición operativa de vida: conjuntos de objetos que se <span class=\"term\">reproducen y evolucionan</span>. No basta autorreplicarse (el fuego también lo hace). Ningún objeto aislado califica: hay que seguir poblaciones en el tiempo.",
+          html: "Tyson define la vida de forma operativa como conjuntos de objetos que se <span class=\"term\">reproducen y evolucionan</span>. No basta autorreplicarse (el fuego también lo hace). No basta con un objeto aislado: hay que seguir poblaciones en el tiempo.",
         },
         {
           type: 'paragraph',
@@ -633,7 +633,7 @@ export const origins: BookSummary = {
         },
         {
           type: 'key',
-          html: "La vida usa los ingredientes más comunes del cosmos; cómo se ensamblaron la primera vez sigue en la niebla del eón Hadeano.",
+          html: "La vida usa los ingredientes más comunes del cosmos. Cómo se ensamblaron la primera vez sigue en la niebla del eón Hadeano.",
         },
       ],
     },
@@ -653,7 +653,7 @@ export const origins: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Candidatos en el Sistema Solar: <span class=\"term\">Marte</span> (pasado húmedo), <span class=\"term\">Europa</span> y <span class=\"term\">Encélado</span> (océanos subterráneos bajo hielo), <span class=\"term\">Titán</span> (lagos de hidrocarburos), <span class=\"term\">Ceres</span>. Ningún hallazgo concluyente aún, pero las misiones siguen activas.",
+          html: "Los candidatos en el Sistema Solar son <span class=\"term\">Marte</span> (pasado húmedo), <span class=\"term\">Europa</span> y <span class=\"term\">Encélado</span> (océanos subterráneos bajo hielo), <span class=\"term\">Titán</span> (lagos de hidrocarburos) y <span class=\"term\">Ceres</span>. Ningún hallazgo concluyente aún, pero las misiones siguen activas.",
         },
         {
           type: 'concept-grid',
@@ -677,7 +677,7 @@ export const origins: BookSummary = {
         },
         {
           type: 'key',
-          html: "En nuestro vecindario, la vida —si existe— será probablemente microbiana y ligada al agua o solventes alternativos bajo hielo.",
+          html: "En nuestro vecindario, la vida, si existe, será probablemente microbiana y estará ligada al agua o a solventes alternativos bajo hielo.",
         },
       ],
     },
@@ -693,7 +693,7 @@ export const origins: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Escenario optimista: fracciones del 10% en cada paso → ~<span class=\"num\">1.000</span> civilizaciones activas en una galaxia de <span class=\"num\">100.000 millones</span> de estrellas. Pesimista (1 en 10.000 cada paso) → ~<span class=\"num\">0,001</span> civilizaciones: estaríamos solos en la media.",
+          html: "En el escenario optimista, con fracciones del 10% en cada paso, habría ~<span class=\"num\">1.000</span> civilizaciones activas en una galaxia de <span class=\"num\">100.000 millones</span> de estrellas. El escenario pesimista (1 en 10.000 cada paso) implica ~<span class=\"num\">0,001</span> civilizaciones: estaríamos solos en la media.",
         },
         {
           type: 'paragraph',
@@ -726,7 +726,7 @@ export const origins: BookSummary = {
         },
         {
           type: 'key',
-          html: "Cada nuevo detector es una ventana cósmica; la búsqueda de nuestro lugar en el universo nos revela también quiénes somos.",
+          html: "Cada nuevo detector es una ventana cósmica. La búsqueda de nuestro lugar en el universo nos revela también quiénes somos.",
         },
       ],
     },

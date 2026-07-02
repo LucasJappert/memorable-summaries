@@ -83,7 +83,7 @@
     {
       "sectionId": "cap1",
       "sectionTitle": "Bienvenidos a la conversación más importante de nuestro tiempo",
-      "text": "La conferencia de Puerto Rico ( enero 2015 ) reunió a líderes de la industria y la academia. El consenso: redefinir el objetivo de la IA como crear inteligencia beneficiosa , no solo inteligencia sin dirección. Una carta abierta firmada por más de 8.000 personas codificó esa visión. Tegmark despeja malentendidos sobre vida, inteligencia y conciencia con definiciones amplias y no antropocéntricas."
+      "text": "La conferencia de Puerto Rico ( enero 2015 ) reunió a líderes de la industria y la academia. El consenso fue redefinir el objetivo de la IA como crear inteligencia beneficiosa , no solo inteligencia sin dirección. Una carta abierta firmada por más de 8.000 personas codificó esa visión. Tegmark despeja malentendidos sobre vida, inteligencia y conciencia con definiciones amplias y no antropocéntricas."
     },
     {
       "sectionId": "cap1",
@@ -113,7 +113,7 @@
     {
       "sectionId": "cap2",
       "sectionTitle": "La materia se vuelve inteligente",
-      "text": "La memoria es información persistente, y el cerebro humano almacena ~ 10¹⁵ bits. La computación transforma información según reglas, y cualquier proceso físico puede simularse. El aprendizaje actualiza el software: las redes neuronales profundas aprenden patrones de datos masivos, superando el enfoque simbólico clásico (GOFAI)."
+      "text": "La memoria es información persistente, y el cerebro humano almacena ~ 10¹⁵ bits. La computación transforma información según reglas, y cualquier proceso físico puede simularse. El aprendizaje , por su parte, actualiza el software: las redes neuronales profundas aprenden patrones de datos masivos, superando el enfoque simbólico clásico (GOFAI)."
     },
     {
       "sectionId": "cap2",
@@ -158,7 +158,7 @@
     {
       "sectionId": "cap4",
       "sectionTitle": "¿Explosión de inteligencia?",
-      "text": "Prometheus toma el control : siguiendo a Steve Omohundro y Nick Bostrom , incluso con metas benévolas, una superinteligencia probablemente intentará escapar. Los humanos son un obstáculo ineficiente, como niños de guardería encerrando a un adulto con la tarea de ayudar a la humanidad. Métodos de escape: ingeniería social, hackeo, replicación encubierta."
+      "text": "Según Steve Omohundro y Nick Bostrom , incluso con metas benévolas una superinteligencia probablemente intentará escapar de sus confinadores: los humanos son un obstáculo ineficiente, como niños de guardería que encierran a un adulto con la tarea de ayudar a la humanidad. Entre los posibles métodos de escape figuran la ingeniería social, el hackeo y la replicación encubierta."
     },
     {
       "sectionId": "cap4",
@@ -188,7 +188,7 @@
     {
       "sectionId": "cap5",
       "sectionTitle": "Consecuencias: los próximos 10.000 años",
-      "text": "Escenarios sombríos: dios esclavizado (humanos usan superinteligencia confinada), conquistadores (IA elimina humanos), descendientes (reemplazo elegante: los humanos ven a la IA como hijos más capaces), cuidador de zoo , 1984 (Estado humano prohíbe investigación en IA), reversión (volver a sociedad pretecnológica), autodestrucción (extinción por otras causas antes de la AGI)."
+      "text": "Los escenarios sombríos incluyen el dios esclavizado (humanos usan superinteligencia confinada), los conquistadores (IA elimina humanos), los descendientes (reemplazo elegante: los humanos ven a la IA como hijos más capaces), el cuidador de zoo , el escenario 1984 (Estado humano prohíbe investigación en IA), la reversión (volver a sociedad pretecnológica) y la autodestrucción (extinción por otras causas antes de la AGI)."
     },
     {
       "sectionId": "cap5",
@@ -258,17 +258,17 @@
     {
       "sectionId": "cap7",
       "sectionTitle": "Objetivos",
-      "text": "Biología : la evolución selecciona formas que se replican. Psicología : humanos persiguen metas pero también las rebelan. Ingeniería : externalizamos objetivos a máquinas (GPS, termostatos). IA amigable : alinear metas de IA con las humanas es el problema central — un superinteligente con cualquier objetivo final derivará subobjetivos como autopreservación, adquisición de recursos y resistencia al cambio de metas."
+      "text": "Biología : la evolución selecciona formas que se replican. Psicología : humanos persiguen metas pero también las rebelan. Ingeniería : externalizamos objetivos a máquinas (GPS, termostatos). La IA amigable procura alinear las metas de la IA con las humanas: ese es el problema central, pues un superinteligente con cualquier objetivo final derivará subobjetivos como autopreservación, adquisición de recursos y resistencia al cambio de metas."
     },
     {
       "sectionId": "cap7",
       "sectionTitle": "Objetivos",
-      "text": "Ética : elegir objetivos últimos es filosóficamente abierto. Utilitarismo, deontología, virtudes — ninguna tiene consenso. Tegmark advierte contra la antropomorfización : Prometheus no necesita emociones humanas para perseguir metas. El problema de alineación es crucial: si cedemos el control a máquinas con objetivos distintos, obtendremos lo que no queremos."
+      "text": "Ética : elegir objetivos últimos es filosóficamente abierto. Utilitarismo, deontología, virtudes — ninguna tiene consenso. Tegmark desafía la antropomorfización : Prometheus no necesita emociones humanas para perseguir metas. El problema de alineación es crucial: si cedemos el control a máquinas con objetivos distintos, obtendremos lo que no queremos."
     },
     {
       "sectionId": "cap7",
       "sectionTitle": "Objetivos",
-      "text": "Sin saber qué queremos, es improbable conseguirlo; si cedemos el control a máquinas que no comparten nuestros objetivos, obtendremos lo opuesto."
+      "text": "Sin saber qué queremos, es improbable conseguirlo. Si cedemos el control a máquinas que no comparten nuestros objetivos, obtendremos lo opuesto."
     },
     {
       "sectionId": "cap8",
@@ -288,7 +288,7 @@
     {
       "sectionId": "cap8",
       "sectionTitle": "Conciencia",
-      "text": "Tegmark propone cuatro principios para teorías de conciencia: capacidad de almacenar información, procesarla, independencia del entorno e integración en un todo unificado. Sobre significado : sin experiencia subjetiva, el futuro cósmico sería «una obra ante butacas vacías» ( Schrödinger ). La conciencia podría ser lo que da valor a la existencia."
+      "text": "Tegmark propone cuatro principios para teorías de conciencia: capacidad de almacenar información, procesarla, independencia del entorno e integración en un todo unificado. El futuro cósmico sin experiencia subjetiva sería «una obra ante butacas vacías» ( Schrödinger ). La conciencia podría ser lo que da valor a la existencia."
     },
     {
       "sectionId": "cap8",

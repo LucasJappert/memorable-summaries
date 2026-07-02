@@ -180,7 +180,7 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "Sin estrellas no hay carbono ni metales; la química de la vida es herencia directa de la evolución estelar y galáctica.",
+          html: "Sin estrellas no hay carbono ni metales. La química de la vida es herencia directa de la evolución estelar y galáctica.",
         },
       ],
     },
@@ -229,7 +229,7 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "La temperatura del disco determina la composición química de cada planeta; la Tierra se formó seca en la zona caliente interior.",
+          html: "La temperatura del disco determina la composición química de cada planeta. La Tierra se formó seca en la zona caliente interior.",
         },
       ],
     },
@@ -241,7 +241,7 @@ export const intelligentLifeUniverse: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "La vida está ligada a planetas terrestres. La Tierra tiene propiedades esenciales: <span class=\"term\">tectónica de placas</span> que creó continentes y división tierra-mar, una Luna estabilizadora y condiciones en la Tierra primitiva que permitieron el origen de la vida.",
+          html: "La vida está ligada a planetas terrestres. La Tierra ofrece tres propiedades esenciales: <span class=\"term\">tectónica de placas</span> que creó continentes y la división tierra-mar, una Luna estabilizadora, y condiciones primitivas que permitieron el origen de la vida.",
         },
         {
           type: 'paragraph',
@@ -282,7 +282,7 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "Sin tierra firme y tectónica activa, la inteligencia capaz de comunicación interestelar —ligada a manos libres en tierra— sería improbable.",
+          html: "Sin tierra firme y tectónica activa, la inteligencia capaz de comunicación interestelar sería improbable, pues requiere manos libres y bipedestación en tierra.",
         },
       ],
     },
@@ -401,7 +401,7 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Aristóteles</span> distinguió tres niveles: vegetativo (plantas), sensitivo (animales) y consciente (humano). Ulmschneider pregunta si la naturaleza reserva etapas aún más sofisticadas para la humanidad y los extraterrestres.",
+          html: "<span class=\"person\">Aristóteles</span> describe tres niveles: vegetativo (plantas), sensitivo (animales) y consciente (humano). Ulmschneider pregunta si la naturaleza reserva etapas aún más sofisticadas para la humanidad y los extraterrestres.",
         },
         {
           type: 'paragraph',
@@ -438,7 +438,7 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "Una vez iniciada, la competencia darwiniana seleccionó los organismos más eficientes; el origen exacto sigue abierto, no su plausibilidad general.",
+          html: "Una vez iniciada, la competencia darwiniana seleccionó los organismos más eficientes. El origen exacto de la vida sigue abierto, pero no su plausibilidad general.",
         },
       ],
     },
@@ -450,11 +450,11 @@ export const intelligentLifeUniverse: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "¿La vida extraterrestre evolucionaría hacia la inteligencia? En la Tierra, las primeras células aparecieron en pocos cientos de millones de años. Los eucariotas y la multicelularidad tardaron ~3 Ga más. La inteligencia humana, otros ~800 Ma. Dos motores impulsan el cambio: mutación (azar) y selección natural (direccional).",
+          html: "¿La vida extraterrestre evolucionaría hacia la inteligencia? En la Tierra, las primeras células aparecieron en pocos cientos de millones de años. Los eucariotas y la multicelularidad tardaron ~3 Ga más. La inteligencia humana, otros ~800 Ma. Los dos motores del cambio son la mutación (azar) y la selección natural (direccional).",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Darwin</span> argumentó que, en la lucha por la supervivencia, mutaciones aleatorias del ADN producen variantes y la selección favorece las más eficientes. Incluso ventajas pequeñas, con tiempo suficiente, dominan. El debate persiste: ¿la selección predice inteligencia a largo plazo o solo adaptaciones locales? Ulmschneider argumenta que la <span class=\"term\">convergencia evolutiva</span> (p. ej. inteligencia en cuervos comparable a monos) demuestra direccionalidad impuesta por las leyes naturales.",
+          html: "<span class=\"person\">Darwin</span> argumentó que, en la lucha por la supervivencia, mutaciones aleatorias del ADN producen variantes y la selección favorece las más eficientes. Incluso ventajas pequeñas, con tiempo suficiente, dominan. No está claro si la selección predice inteligencia a largo plazo o solo adaptaciones locales. Ulmschneider argumenta que la <span class=\"term\">convergencia evolutiva</span> (p. ej. inteligencia en cuervos comparable a monos) demuestra direccionalidad impuesta por las leyes naturales.",
         },
         {
           type: 'paragraph',
@@ -495,7 +495,7 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "Acumular información (genes → cultura) es la estrategia evolutiva ganadora; las mismas leyes de la naturaleza deberían producir inteligencia en planetas similares.",
+          html: "Acumular información, de genes a cultura, es la estrategia evolutiva ganadora. Las mismas leyes de la naturaleza deberían producir inteligencia en planetas similares.",
         },
       ],
     },
@@ -507,7 +507,7 @@ export const intelligentLifeUniverse: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Dos vías: buscar directamente (Sistema Solar y exoplanetas) o inferir probabilidades estudiando el origen terrestre. Hasta ahora, sin detección confirmada — pero las técnicas mejoran rápidamente.",
+          html: "La investigación combina dos vías: la búsqueda directa en el Sistema Solar y en exoplanetas, o la inferencia de probabilidades a partir del origen terrestre. Hasta ahora no hay detección confirmada, pero las técnicas mejoran rápidamente.",
         },
         {
           type: 'paragraph',
@@ -531,7 +531,7 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "La detección de O₃ y H₂O en exoplanetas terrestres será el método más prometedor para vida; SETI por radio se trata en el capítulo 10.",
+          html: "La detección de O₃ y H₂O en exoplanetas terrestres será el método más prometedor para detectar vida. El SETI por radio se trata en el capítulo 10.",
         },
       ],
     },
@@ -584,11 +584,11 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Los peligros externos (supernovas, rayos gamma, impactos) son poco probables como extinción total. Los peligros internos (daño ambiental, invenciones incontrolables, guerra) son los formidables. Estrategias de supervivencia: distribuir la humanidad en colonias espaciales, controlar armas de destrucción masiva, educar responsabilidad social. Si no controlamos nuestra «oscuridad» irracional, la humanidad está condenada, y quizá lo estuvieron civilizaciones extraterrestres anteriores.",
+          html: "Los peligros externos (supernovas, rayos gamma, impactos) son poco probables como extinción total. Los peligros internos (daño ambiental, invenciones incontrolables, guerra) son los formidables. Ulmschneider propone tres estrategias de supervivencia: distribuir la humanidad en colonias espaciales, controlar armas de destrucción masiva y educar la responsabilidad social. Si no controlamos nuestra «oscuridad» irracional, la humanidad está condenada, y quizá lo estuvieron civilizaciones extraterrestres anteriores.",
         },
         {
           type: 'key',
-          html: "El crecimiento incesante de conocimiento y poder aumenta simultáneamente capacidad de autodestrucción; L es el factor más incierto de la ecuación de Drake.",
+          html: "El crecimiento incesante de conocimiento y poder aumenta al mismo tiempo la capacidad de autodestrucción. L es el factor más incierto de la ecuación de Drake.",
         },
       ],
     },
@@ -633,11 +633,11 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"term\">SETI</span> abarca desde el proyecto Ozma de <span class=\"person\">Frank Drake</span> (<span class=\"num\">1960</span>) hasta META, BETA, SERENDIP (Arecibo) y búsquedas ópticas de pulsos láser. La ventana de microondas «water hole» (1–20 GHz) tiene mínimo ruido de fondo galáctico. Resultado hasta <span class=\"num\">2005</span>: nulo. Los receptores actuales detectarían una emisora de 3 kW a 100 Ly, no a 1 700 Ly.",
+          html: "<span class=\"term\">SETI</span> abarca desde el proyecto Ozma de <span class=\"person\">Frank Drake</span> (<span class=\"num\">1960</span>) hasta META, BETA, SERENDIP (Arecibo) y búsquedas ópticas de pulsos láser. La ventana de microondas «water hole» (1–20 GHz) tiene mínimo ruido de fondo galáctico. Hasta <span class=\"num\">2005</span>, el resultado fue nulo. Los receptores actuales detectarían una emisora de 3 kW a 100 Ly, no a 1 700 Ly.",
         },
         {
           type: 'paragraph',
-          html: "La <span class=\"term\">Paradoja de Fermi</span> (<span class=\"num\">1950</span>, Los Alamos) pregunta: si hay millones de civilizaciones, ¿dónde están? Respuestas posibles: (1) no existen o ya perecieron, (2) visita técnicamente imposible, (3) están cerca pero indetectables, (4) no les interesamos (<span class=\"term\">hipótesis del zoo</span>). Ulmschneider favorece que la mayoría se autodestruyeron y que las supervivientes evitan contacto o usan medios que no detectamos.",
+          html: "La <span class=\"term\">Paradoja de Fermi</span> (<span class=\"num\">1950</span>, Los Alamos) pregunta: si hay millones de civilizaciones, ¿dónde están? Las respuestas posibles son cuatro: (1) no existen o ya perecieron, (2) la visita es técnicamente imposible, (3) están cerca pero son indetectables, (4) no les interesamos (<span class=\"term\">hipótesis del zoo</span>). Ulmschneider favorece que la mayoría se autodestruyeron y que las supervivientes evitan contacto o usan medios que no detectamos.",
         },
         {
           type: 'quote',
@@ -646,7 +646,7 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "La vida inteligente probablemente es común; la comunicación detectable es rara porque L es corto y las distancias galácticas enormes.",
+          html: "La vida inteligente probablemente es común, pero la comunicación detectable es rara porque L es corto y las distancias galácticas son enormes.",
         },
       ],
     },

@@ -124,7 +124,7 @@ export const livewired: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Eagleman usa la metáfora del rover marciano. En lugar de enviar un vehículo de <span class=\"num\">400</span> libras, bastaría una esfera que se replica y arma sensores. Los bebés hacen eso: de un óvulo fertilizado a un organismo con detectores de fotones y extremidades articuladas.",
+          html: "Eagleman usa la metáfora del rover marciano. En lugar de enviar un vehículo de <span class=\"num\">400</span> libras, bastaría una esfera que se replica y arma sensores. La naturaleza ilustra eso en cada bebé: de un óvulo fertilizado emerge un organismo con detectores de fotones y extremidades articuladas.",
         },
         {
           type: 'paragraph',
@@ -180,7 +180,7 @@ export const livewired: BookSummary = {
         },
         {
           type: 'key',
-          html: "Cerebro + mundo = especialización; sin inputs, el mapa queda incompleto.",
+          html: "Cerebro y mundo juntos generan especialización. Sin inputs del entorno, el mapa queda incompleto.",
         },
       ],
     },
@@ -196,7 +196,7 @@ export const livewired: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La colonización cortical es negocio a tiempo completo: territorios competidos según uso. Sueño y rotación planetaria: el cerebro ajusta modelos internos al ritmo del mundo.",
+          html: "La colonización cortical es negocio a tiempo completo: territorios competidos según uso. El sueño y la rotación planetaria también actúan: el cerebro ajusta sus modelos internos al ritmo del mundo.",
         },
         {
           type: 'paragraph',
@@ -224,7 +224,7 @@ export const livewired: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Pregunta abierta: ¿colores o sensaciones totalmente nuevos son imaginables una vez entendida la livewiring?",
+          html: "Eagleman plantea la pregunta abierta: ¿son imaginables colores o sensaciones totalmente nuevos una vez entendida la livewiring?",
         },
         {
           type: 'concept-grid',
@@ -248,7 +248,7 @@ export const livewired: BookSummary = {
         },
         {
           type: 'key',
-          html: "El cerebro envuelve cualquier entrada correlacionada con conducta; el canal importa poco.",
+          html: "El cerebro envuelve cualquier entrada correlacionada con conducta. El canal importa poco.",
         },
       ],
     },
@@ -264,7 +264,7 @@ export const livewired: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Corteza motora reorganizable: violinistas, gamers y usuarios de prótesis muestran mapas distintos. Autocontrol y marshmallow test enlazan motor con función ejecutiva.",
+          html: "La corteza motora es reorganizable: violinistas, gamers y usuarios de prótesis muestran mapas distintos. Autocontrol y marshmallow test enlazan motor con función ejecutiva.",
         },
         {
           type: 'paragraph',
@@ -272,7 +272,7 @@ export const livewired: BookSummary = {
         },
         {
           type: 'key',
-          html: "Mejor cuerpo = mejor mapa motor; la práctica funde herramienta y miembro.",
+          html: "A mejor cuerpo, mejor mapa motor. La práctica funde herramienta y miembro.",
         },
       ],
     },
@@ -288,7 +288,7 @@ export const livewired: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Nativos digitales: cerebros optimizados para entornos que sus abuelos no conocían. La motivación y recompensa son palancas de livewiring.",
+          html: "Los nativos digitales muestran cerebros optimizados para entornos que sus abuelos no conocían. La motivación y la recompensa son palancas de livewiring.",
         },
         {
           type: 'key',
@@ -352,7 +352,7 @@ export const livewired: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Aun así, adultos cambian: músicos tardíos, rehabilitación, bilingüismo. La livewiring nunca cesa. Solo baja la velocidad y sube el coste.",
+          html: "Aun así, los adultos también cambian: músicos tardíos, rehabilitación y bilingüismo lo confirman. La livewiring nunca cesa. Solo baja la velocidad y sube el coste.",
         },
         {
           type: 'key',
@@ -372,7 +372,7 @@ export const livewired: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Más allá de sinapsis: daisy-chaining de historiales modifica recuperación. Hablar con tu «yo futuro» es modelar un agente con circuitos distintos al presente.",
+          html: "La memoria opera más allá de sinapsis: el daisy-chaining de historiales modifica la recuperación. Hablar con tu «yo futuro» es modelar un agente con circuitos distintos al presente.",
         },
         {
           type: 'key',
@@ -412,7 +412,7 @@ export const livewired: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Identidad es trayectoria de reconfiguraciones, no esencia fija. Hemos encontrado a los cambiapieles: somos nosotros.",
+          html: "La identidad es trayectoria de reconfiguraciones, no esencia fija. Los cambiapieles somos nosotros.",
         },
         {
           type: 'key',

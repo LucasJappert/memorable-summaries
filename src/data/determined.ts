@@ -155,7 +155,7 @@ export const determined: BookSummary = {
         },
         {
           type: 'key',
-          html: "Ninguna disciplina sola falsifica el libre albedrío; todas juntas no dejan grieta alguna.",
+          html: "Ninguna disciplina sola falsifica el libre albedrío. Todas juntas no dejan grieta alguna.",
         },
       ],
     },
@@ -175,7 +175,7 @@ export const determined: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Sapolsky concluye que, aunque Libet no mate el libre albedrío, es <em>irrelevante</em>. Falta la pregunta central: ¿de dónde vino la intención? Podemos hacer lo que intendemos, pero nunca intendemos lo que intendimos. Juzgar solo el presente, como cuando <span class=\"person\">Daniel Dennett</span> dice que «la suerte se promedia con el tiempo», es miopía moral.",
+          html: "Sapolsky concluye que, aunque Libet no mate el libre albedrío, es <em>irrelevante</em>. La pregunta que falta es más profunda: ¿de dónde vino la intención? Podemos hacer lo que intendemos, pero nunca intendemos lo que intendimos. Juzgar solo el presente, como cuando <span class=\"person\">Daniel Dennett</span> dice que «la suerte se promedia con el tiempo», es miopía moral.",
         },
         {
           type: 'key',
@@ -199,7 +199,7 @@ export const determined: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El desafío permanece: mostrar una neurona causa de comportamiento independiente de toda biología previa — nadie lo ha hecho.",
+          html: "El desafío central permanece sin respuesta: mostrar una neurona causa de comportamiento independiente de toda biología previa — nadie lo ha hecho.",
         },
         {
           type: 'key',
@@ -387,7 +387,7 @@ export const determined: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Meta-análisis <span class=\"num\">2022</span> (~<span class=\"num\">145</span> experimentos): manipulaciones reducen creencia en libre albedrío sin efecto consistente en ética. Paralelo con ateísmo: la gente teme inmoralidad atea, pero observando conducta real, diferencias desaparecen al controlar edad, sexo, red social.",
+          html: "Un meta-análisis de <span class=\"num\">2022</span> que reunió ~<span class=\"num\">145</span> experimentos encontró que las manipulaciones reducen creencia en libre albedrío sin efecto consistente en ética. El paralelo con el ateísmo resulta instructivo: la gente teme inmoralidad atea, pero observando conducta real las diferencias desaparecen al controlar edad, sexo y red social.",
         },
         {
           type: 'paragraph',
@@ -447,11 +447,11 @@ export const determined: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "«Reforma» de sistemas basados en tonterías no basta — brujas con glándulas lagrimales atrofiadas siguen siendo brujas en el marco. Retribución disfrutada: masacre de leprosos (<span class=\"num\">1321</span>), ejecución de <span class=\"person\">Damiens</span> (<span class=\"num\">1757</span>), último ahorcamiento público de <span class=\"person\">Rainey Bethea</span> (<span class=\"num\">1936</span>).",
+          html: "«Reforma» de sistemas basados en tonterías no basta — brujas con glándulas lagrimales atrofiadas siguen siendo brujas en el marco. La retribución se ha disfrutado históricamente: masacre de leprosos (<span class=\"num\">1321</span>), ejecución de <span class=\"person\">Damiens</span> (<span class=\"num\">1757</span>), último ahorcamiento público de <span class=\"person\">Rainey Bethea</span> (<span class=\"num\">1936</span>).",
         },
         {
           type: 'paragraph',
-          html: "Modelos alternativos: comisiones de verdad y reconciliación (Sudáfrica), justicia restaurativa — útiles pero aún asumen culpa libre. <span class=\"term\">Cuarentena</span> (<span class=\"person\">Derk Pereboom</span>, <span class=\"person\">Gregg Caruso</span>): contener peligro como aislar enfermedad, mínima restricción, atacar determinantes sociales.",
+          html: "Entre los modelos alternativos se cuentan las comisiones de verdad y reconciliación (Sudáfrica) y la justicia restaurativa, útiles pero que aún asumen culpa libre. El modelo de <span class=\"term\">cuarentena</span> propuesto por <span class=\"person\">Derk Pereboom</span> y <span class=\"person\">Gregg Caruso</span> busca contener el peligro como se aisla una enfermedad, con mínima restricción y atacando determinantes sociales.",
         },
         {
           type: 'paragraph',
@@ -459,7 +459,7 @@ export const determined: BookSummary = {
         },
         {
           type: 'key',
-          html: "Retribución satisface emociones antiguas; cuarentena protege sin merecer odio.",
+          html: "La retribución satisface emociones antiguas. La cuarentena protege sin merecer odio.",
         },
       ],
     },

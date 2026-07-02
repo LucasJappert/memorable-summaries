@@ -5,7 +5,6 @@ from __future__ import annotations
 import argparse
 import re
 import sys
-import unicodedata
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -18,6 +17,46 @@ PERSON_COLON = re.compile(
 SEMICOLON_OR_DASH = re.compile(r"[;]|—.*—")
 FRAGMENT_START = re.compile(
     r"^(?:Une|Son|Es|Era|Fue|Hay|Sin|Con|Para|Tras|Pero|Relatividad|Probabilidad)\s",
+    re.I,
+)
+# Sentence-initial "Etiqueta: dato" without finite verb in the label
+SENTENCE_LABEL_COLON = re.compile(r"(?:^|[.!?]\s+)([A-ZÁÉÍÓÚÑ«\"][^:]{2,55}):\s")
+VERB_IN_LABEL = re.compile(
+    r"\b(es|son|era|fue|fueron|hay|había|propone|sostiene|muestra|afirma|enumera|"
+    r"define|significa|implica|explica|describe|lista|resuelve|plantea|introduce|"
+    r"requiere|permite|obtiene|combina|destaca|critica|rechaza|defiende|sugiere|"
+    r"demuestra|confirma|predice|integra|distingue|postula|llama|presenta|aborda|"
+    r"enfrenta|propone|reconoce|ilustra|formulan|convergen|operan|vuelven|ofrece|"
+    r"explora|inicia|niega|convierte|llega|responde|revisa|invierte|examina|termina|"
+    r"cierra|vivió|parece|muestran|refutan|conserva|empezó|resume|preguntaron|invocan|"
+    r"encarna|elimina|atacaron|confronta|pensó|entrelazan|continúa|rompe|existe|surgen|"
+    r"desafía|amplió|reconocerlo|está|llamó|sugiere)\b",
+    re.I,
+)
+# Patterns that are almost always telegraphic when followed by colon
+HARD_TELEGRAPHIC = re.compile(
+    r"(?:^|[.!?]\s+)"
+    r"(?:"
+    r"(?:Primera|Segunda|Tercera|Cuarta|Quinta|Sexta|Séptima)\s+(?:definición|lección)"
+    r"|(?:Primer|Segundo|Tercer|Cuarto)\s+pilar"
+    r"|Ventajas\s+humanas"
+    r"|Mitad\s+a\s+desechar"
+    r"|El\s+efecto\s+de\b"
+    r"|Activo\s+no\s+es\b"
+    r"|Pregunta\s+clave"
+    r"|Definición\s+operativa"
+    r"|Argumento\s+por\s+defecto"
+    r")\s*:\s",
+    re.I,
+)
+# % vs. without naming both groups
+BROKEN_PERCENT_VS = re.compile(
+    r"\d+\s*%[^.]{0,80}\bvs\.?\s",
+    re.I,
+)
+CLARIFIED_COMPARISON = re.compile(
+    r"\b(grupo|frente a|en cambio|mientras|del que|quienes|comparado|respecto|"
+    r"accidentes|terrorismo|agrarias|tempranas|UE|tráfico|bacterias|arqueas)\b",
     re.I,
 )
 
@@ -66,7 +105,6 @@ def parse_closing(section: str) -> tuple[list[str], str]:
 
 def has_finite_verb(sentence: str) -> bool:
     plain = re.sub(r"<[^>]+>", "", sentence)
-    # crude Spanish verb heuristic
     return bool(
         re.search(
             r"\b(es|son|era|fue|fueron|hay|había|tiene|tienen|hace|hacen|"
@@ -77,6 +115,45 @@ def has_finite_verb(sentence: str) -> bool:
             re.I,
         )
     )
+
+
+def check_prose_block(sid: str, kind: str, para: str, issues: list[str]) -> None:
+    plain = re.sub(r"<[^>]+>", "", para)
+
+    if PERSON_COLON.search(para):
+        issues.append(f"[{sid}] estilo telegráfico (Persona: …): «{plain[:70]}…»")
+
+    if HARD_TELEGRAPHIC.search(plain):
+        issues.append(f"[{sid}] etiqueta telegráfica (…: dato): «{plain[:70]}…»")
+
+    if kind.startswith("paragraph") or kind == "key":
+        if para.count("—") > 1 or ";" in para:
+            issues.append(f"[{sid}] muchos — o ; en un párrafo: «{plain[:70]}…»")
+
+    if BROKEN_PERCENT_VS.search(plain) and not CLARIFIED_COMPARISON.search(plain):
+        issues.append(f"[{sid}] comparación con % poco clara (vs.): «{plain[:70]}…»")
+
+    for m in SENTENCE_LABEL_COLON.finditer(plain):
+        label = m.group(1).strip()
+        words = label.split()
+        # Etiquetas cortas sin verbo (telegráfico típico: «Primera lección: …»)
+        if len(words) < 2 or len(words) > 5:
+            continue
+        if VERB_IN_LABEL.search(label):
+            continue
+        if "«" in label or '"' in label:
+            continue
+        issues.append(
+            f"[{sid}] posible etiqueta sin verbo («{label[:40]}…:»): «{plain[:70]}…»"
+        )
+
+    if kind.startswith("paragraph"):
+        for sent in re.split(r"(?<=[.!?])\s+", plain):
+            sent = sent.strip()
+            if len(sent.split()) < 6:
+                continue
+            if FRAGMENT_START.match(sent) and not has_finite_verb(sent):
+                issues.append(f"[{sid}] posible fragmento: «{sent[:70]}…»")
 
 
 def lint_file(path: Path) -> list[str]:
@@ -100,7 +177,6 @@ def lint_file(path: Path) -> list[str]:
                 issues.append(f"[cierre] highlight duplicado en lines: «{highlight[:60]}…»")
             before = len(lines)
             if highlight:
-                # expect 2 before + 3 after = 5 lines total
                 if before != 5:
                     issues.append(
                         f"[cierre] se esperan 5 líneas (2+highlight+3), hay {before}"
@@ -109,19 +185,12 @@ def lint_file(path: Path) -> list[str]:
 
         blocks = parse_paragraphs(section)
         for kind, para in blocks:
+            check_prose_block(sid, kind, para, issues)
             plain = re.sub(r"<[^>]+>", "", para)
 
             if kind.startswith("paragraph"):
-                if PERSON_COLON.search(para):
-                    issues.append(f"[{sid}] estilo telegráfico (Persona: …): «{plain[:70]}…»")
-                if para.count("—") > 1 or ";" in para:
-                    issues.append(f"[{sid}] muchos — o ; en un párrafo: «{plain[:70]}…»")
                 for sent in re.split(r"(?<=[.!?])\s+", plain):
                     sent = sent.strip()
-                    if len(sent.split()) < 6:
-                        continue
-                    if FRAGMENT_START.match(sent) and not has_finite_verb(sent):
-                        issues.append(f"[{sid}] posible fragmento: «{sent[:70]}…»")
                     s = norm(sent)
                     if len(s.split()) >= 6:
                         if s in seen_sentences:

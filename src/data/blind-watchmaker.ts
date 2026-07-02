@@ -101,11 +101,11 @@ export const blindWatchmaker: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El libro no pretende ser un tratado científico frío. Busca informar, persuadir e inspirar: el darwinismo no solo es cierto, sino la única teoría conocida que, en principio, puede resolver el misterio de nuestra existencia. Dawkins distingue su defensa de la de un abogado que defiende causas en las que no cree: nunca dice lo que no considera verdadero.",
+          html: "El libro no pretende ser un tratado científico frío. Su propósito es informar, persuadir e inspirar: el darwinismo no solo es cierto, sino la única teoría conocida que, en principio, puede resolver el misterio de nuestra existencia. Dawkins distingue su defensa de la de un abogado que defiende causas en las que no cree: nunca dice lo que no considera verdadero.",
         },
         {
           type: 'key',
-          html: "El darwinismo parece necesitar más defensa que otras verdades científicas establecidas; la mente humana está predispuesta a malinterpretarlo por el azar, las escalas temporales y la analogía con el diseño consciente.",
+          html: "El darwinismo parece necesitar más defensa que otras verdades científicas establecidas. La mente humana está predispuesta a malinterpretarlo por el azar, las escalas temporales y la analogía con el diseño consciente.",
         },
       ],
     },
@@ -170,7 +170,7 @@ export const blindWatchmaker: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Los murciélagos cazan de noche sin luz. Fabricar luz propia consume demasiada energía. La evolución favoreció otra solución. Los ciegos usan <span class=\"term\">ecolocalización</span>: ecos de sus propios sonidos. Los pioneros del sonar en la Segunda Guerra Mundial no sabían que la selección natural lo había perfeccionado millones de años antes.",
+          html: "Los murciélagos cazan de noche sin luz. Fabricar luz propia consume demasiada energía. La evolución favoreció otra solución. Los murciélagos ciegos se orientan mediante <span class=\"term\">ecolocalización</span>: escuchan el eco de sus propios sonidos. Los pioneros del sonar en la Segunda Guerra Mundial no sabían que la selección natural lo había perfeccionado millones de años antes.",
         },
         {
           type: 'paragraph',
@@ -183,7 +183,7 @@ export const blindWatchmaker: BookSummary = {
         },
         {
           type: 'key',
-          html: "Un órgano o cuerpo está <span class=\"key-term\">bien diseñado</span> si un ingeniero inteligente podría haberlo construido para un fin sensato — volar, ver, comer, reproducirse — aunque no sea el mejor diseño imaginable.",
+          html: "Un órgano o cuerpo está <span class=\"key-term\">bien diseñado</span> si un ingeniero inteligente podría haberlo construido para un fin sensato (volar, ver, comer, reproducirse), aunque no sea el mejor diseño imaginable.",
         },
       ],
     },
@@ -195,7 +195,7 @@ export const blindWatchmaker: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Los seres vivos son demasiado improbables para surgir de un solo golpe de azar. La respuesta darwiniana: transformaciones graduales desde entidades simples, cada paso lo bastante pequeño para ser plausible, dirigidos en conjunto por la <span class=\"term\">selección no aleatoria</span>.",
+          html: "Los seres vivos son demasiado improbables para surgir de un solo golpe de azar. La respuesta de Darwin consiste en transformaciones graduales desde entidades simples, cada paso lo bastante pequeño para ser plausible, dirigidos en conjunto por la <span class=\"term\">selección no aleatoria</span>.",
         },
         {
           type: 'paragraph',
@@ -259,7 +259,7 @@ export const blindWatchmaker: BookSummary = {
         },
         {
           type: 'key',
-          html: "El ojo no salta en el <span class=\"key-term\">espacio animal</span>; camina en pasos diminutos, cada uno seleccionado por utilidad inmediata.",
+          html: "El ojo no salta en el <span class=\"key-term\">espacio animal</span>: camina en pasos diminutos, cada uno seleccionado por utilidad inmediata.",
         },
       ],
     },
@@ -288,7 +288,7 @@ export const blindWatchmaker: BookSummary = {
         },
         {
           type: 'key',
-          html: "En el corazón de todo ser vivo hay <span class=\"key-term\">información</span> — palabras, instrucciones — no fuego ni chispa vital.",
+          html: "En el corazón de todo ser vivo hay <span class=\"key-term\">información</span> (palabras, instrucciones), no fuego ni chispa vital.",
         },
       ],
     },
@@ -376,7 +376,7 @@ export const blindWatchmaker: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Los <span class=\"term\">memes</span>, unidades de transmisión cultural, se replican con variación y selección, analogía con los genes. Dawkins advierte: la analogía puede llevarse demasiado lejos, como ocurre con los cranks que ven evolución en todo. El criterio es la calidad de la inspiración y la capacidad de descartar analogías frívolas.",
+          html: "Los <span class=\"term\">memes</span>, unidades de transmisión cultural, se replican con variación y selección, analogía con los genes. Dawkins advierte, no obstante, que la analogía puede llevarse demasiado lejos, como ocurre con los cranks que ven evolución en todo. El criterio es la calidad de la inspiración y la capacidad de descartar analogías frívolas.",
         },
         {
           type: 'concept-grid',
@@ -424,7 +424,7 @@ export const blindWatchmaker: BookSummary = {
         },
         {
           type: 'key',
-          html: "El <span class=\"key-term\">punctuationismo</span> es una variedad menor de darwinismo, no un rival; los «gradualistas» de Dawkins son un hombre de paja.",
+          html: "El <span class=\"key-term\">punctuationismo</span> es una variedad menor de darwinismo, no un rival. Los «gradualistas» que critica son un hombre de paja.",
         },
       ],
     },
@@ -477,7 +477,7 @@ export const blindWatchmaker: BookSummary = {
         },
         {
           type: 'key',
-          html: "El darwinismo es la única teoría conocida que, en principio, puede explicar la <span class=\"key-term\">complejidad adaptativa</span>; los rivales fallan incluso antes de mirar la evidencia.",
+          html: "El darwinismo es la única teoría conocida que, en principio, puede explicar la <span class=\"key-term\">complejidad adaptativa</span>. Los rivales fallan incluso antes de mirar la evidencia.",
         },
       ],
     },

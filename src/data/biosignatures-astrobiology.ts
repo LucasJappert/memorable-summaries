@@ -205,7 +205,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'key',
-          html: "La Tierra es el único laboratorio confirmado; extrapolar exige rigor proporcional a la distancia en tiempo y espacio.",
+          html: "La Tierra es el único laboratorio confirmado. Extrapolar exige rigor proporcional a la distancia en tiempo y espacio.",
         },
       ],
     },
@@ -245,7 +245,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Documentan dos casos: hongos colonizando superficies internas de roca tras la litificación, y precipitación bacteriana moderna de óxidos de Fe-Mn sobre material arcaico removilizado. Las formaciones Hooggenoeg y Kromberg del Grupo Onverwacht conservan texturas primarias pero no están inmunes a sobreimpresión biológica tardía.",
+          html: "El capítulo documenta dos casos concretos: hongos colonizando superficies internas de roca tras la litificación, y precipitación bacteriana moderna de óxidos de Fe-Mn sobre material arcaico removilizado. Las formaciones Hooggenoeg y Kromberg del Grupo Onverwacht conservan texturas primarias pero no están inmunes a sobreimpresión biológica tardía.",
         },
         {
           type: 'paragraph',
@@ -273,7 +273,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Cada reporte exige preguntarse: ¿es la estructura auténticamente biogénica y está en contexto estratigráfico coherente? El consenso científico sobre la vida más antigua sigue siendo elusivo.",
+          html: "Ante cada nuevo reporte cabe preguntarse: ¿es la estructura auténticamente biogénica y está en contexto estratigráfico coherente? El consenso científico sobre la vida más antigua sigue siendo elusivo.",
         },
         {
           type: 'concept-grid',
@@ -581,7 +581,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'key',
-          html: "Endolito = estrategia de supervivencia en desierto; Marte árido y radiado favorece la misma lógica de refugio interno.",
+          html: "El endolito es una estrategia de supervivencia en desierto. Marte árido y radiado favorece la misma lógica de refugio interno.",
         },
       ],
     },
@@ -629,7 +629,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'key',
-          html: "Vida microbiana puede ser común; civilización radio-detectable, probablemente no.",
+          html: "La vida microbiana puede ser común, pero la civilización radio-detectable probablemente no lo es.",
         },
       ],
     },
@@ -701,7 +701,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'key',
-          html: "Impacto ≠ extinción automática; la astrobiología debe evitar narrativas simples sobre catástrofes cósmicas y biosfera.",
+          html: "Un impacto no implica extinción automática. La astrobiología debe evitar narrativas simples sobre catástrofes cósmicas y biosfera.",
         },
       ],
     },
@@ -773,7 +773,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'key',
-          html: "Biosignatura molecular: ¿evidencia externa para el científico o memoria operativa para el sistema vivo?",
+          html: "La biosignatura molecular puede ser evidencia externa para el científico o memoria operativa para el sistema vivo.",
         },
       ],
     },
@@ -797,7 +797,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'key',
-          html: "ALH84001 = lección sobre cautela: señales ambiguas bajo máximo escrutinio mediático y científico.",
+          html: "El meteorito ALH84001 dejó una lección sobre cautela: señales ambiguas bajo máximo escrutinio mediático y científico.",
         },
       ],
     },
@@ -813,7 +813,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Marte tuvo hidrología activa: deltas, fluvial, lacustre. Los terrenos noaquianos (>~<span class=\"num\">3,8 Ga</span>) concentran filosilicatos en estratos arcaicos. En el Hesperiano (<span class=\"num\">3,8–3,0 Ga</span>) predominan sulfatos ferríferos. Son ambientes distintos para trazas paleobiológicas.",
+          html: "Marte albergó hidrología activa en eras pasadas: deltas, sistemas fluviales y lacustres. Los terrenos noaquianos (>~<span class=\"num\">3,8 Ga</span>) concentran filosilicatos en estratos arcaicos. En el Hesperiano (<span class=\"num\">3,8–3,0 Ga</span>) predominan sulfatos ferríferos. Son ambientes distintos para trazas paleobiológicas.",
         },
         {
           type: 'paragraph',

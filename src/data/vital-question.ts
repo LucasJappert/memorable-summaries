@@ -106,7 +106,7 @@ export const vitalQuestion: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Tres revoluciones moldearon el panorama: la <span class=\"term\">endosimbiosis</span> de <span class=\"person\">Lynn Margulis</span> (<span class=\"num\">1967</span>), el árbol filogenético de <span class=\"person\">Carl Woese</span> (tres dominios) y la genómica moderna, que confirma la predicción de <span class=\"person\">Bill Martin</span> (<span class=\"num\">1998</span>): la célula huésped era un <span class=\"term\">arquea</span> morfológicamente simple que incorporó la bacteria ancestro de las mitocondrias. La clave, según Lane, está en la generación de energía mediante gradientes de protones — la <span class=\"term\">quimiosmosis</span> de <span class=\"person\">Peter Mitchell</span>.",
+          html: "Tres grandes revoluciones moldearon el panorama: la <span class=\"term\">endosimbiosis</span> de <span class=\"person\">Lynn Margulis</span> (<span class=\"num\">1967</span>), el árbol filogenético de <span class=\"person\">Carl Woese</span> (tres dominios) y la genómica moderna, que confirma la predicción de <span class=\"person\">Bill Martin</span> (<span class=\"num\">1998</span>): la célula huésped era un <span class=\"term\">arquea</span> morfológicamente simple que incorporó la bacteria ancestro de las mitocondrias. La clave, según Lane, está en la generación de energía mediante gradientes de protones — la <span class=\"term\">quimiosmosis</span> de <span class=\"person\">Peter Mitchell</span>.",
         },
         {
           type: 'key',
@@ -134,7 +134,7 @@ export const vitalQuestion: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Si el oxígeno hubiera liberado restricciones, esperaríamos una <span class=\"term\">radiación polifilética</span>: distintos grupos bacterianos dando origen independiente a algas, hongos o fagocitos. En cambio vemos <span class=\"term\">radiación monofilética</span>: un solo origen eucariota con estasis prolongada y cambios ocasionales. Ni la selección estándar ni la endosimbiosis serial de Margulis predicen la uniformidad interna de todos los eucariotas. Los «archezoa» (como <span class=\"person\">Giardia</span>) no son eslabones perdidos: perdieron mitocondrias por evolución reductiva.",
+          html: "Si el oxígeno hubiera liberado restricciones, esperaríamos una <span class=\"term\">radiación polifilética</span>: distintos grupos bacterianos dando origen independiente a algas, hongos o fagocitos. La evidencia apunta, en cambio, a una <span class=\"term\">radiación monofilética</span>: un solo origen eucariota con estasis prolongada y cambios ocasionales. Ni la selección estándar ni la endosimbiosis serial de Margulis predicen la uniformidad interna de todos los eucariotas. Los «archezoa» (como <span class=\"person\">Giardia</span>) no son eslabones perdidos: perdieron mitocondrias por evolución reductiva.",
         },
         {
           type: 'concept-grid',
@@ -187,7 +187,7 @@ export const vitalQuestion: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Esencialmente toda vida usa <span class=\"term\">quimiosmosis</span>: flujo de protones a través de membranas para sintetizar ATP. El <span class=\"term\">ATP sintasa</span>, motor rotatorio universal en bacterias, arqueas y eucariotas, debería ser tan emblemático del vivir como la doble hélice. <span class=\"person\">Peter Mitchell</span> propuso esto en <span class=\"num\">1961</span> contra décadas de resistencia («guerras ox phos»). Ganó el Nobel en <span class=\"num\">1978</span>. La vida se basa en carbono parcialmente reducido (≈ CH₂O) y en química redox. La pregunta abierta es por qué protones y electrones, no solo química en tubo de ensayo.",
+          html: "Esencialmente toda la vida conocida usa <span class=\"term\">quimiosmosis</span>: flujo de protones a través de membranas para sintetizar ATP. El <span class=\"term\">ATP sintasa</span>, motor rotatorio universal en bacterias, arqueas y eucariotas, debería ser tan emblemático del vivir como la doble hélice. <span class=\"person\">Peter Mitchell</span> propuso esto en <span class=\"num\">1961</span> contra décadas de resistencia («guerras ox phos»). Ganó el Nobel en <span class=\"num\">1978</span>. La vida se basa en carbono parcialmente reducido (≈ CH₂O) y en química redox. La pregunta abierta es por qué protones y electrones, no solo química en tubo de ensayo.",
         },
         {
           type: 'key',
@@ -235,7 +235,7 @@ export const vitalQuestion: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Seis propiedades definen toda célula: suministro continuo de carbono, energía libre, catalizadores, excreción, compartimentación y material hereditario. El debate «¿metabolismo o replicación primero?» es estéril: duplicar ARN consume bloques que deben reponerse al mismo ritmo. Los minerales tipo arcilla (Cairns-Smith) catalizan pero no codifican complejidad comparable al ARN.",
+          html: "Toda célula viviente comparte seis propiedades esenciales: suministro continuo de carbono, energía libre, catalizadores, excreción, compartimentación y material hereditario. El debate «¿metabolismo o replicación primero?» es estéril: duplicar ARN consume bloques que deben reponerse al mismo ritmo. Los minerales tipo arcilla (Cairns-Smith) catalizan pero no codifican complejidad comparable al ARN.",
         },
         {
           type: 'paragraph',
@@ -351,7 +351,7 @@ export const vitalQuestion: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El huésped arqueano no podía fagocitar. La incorporación del endosimbionte requirió otro mecanismo (p. ej. predación fallida, parasitismo o fusión). Lo crucial: la simbiosis rompió restricciones energéticas que mantenían a procariotas pequeños y genomas limitados durante eones.",
+          html: "El huésped arqueano no podía fagocitar. La incorporación del endosimbionte requirió otro mecanismo (p. ej. predación fallida, parasitismo o fusión). Lo verdaderamente crucial es que la simbiosis rompió las restricciones energéticas que mantenían a procariotas pequeños y genomas limitados durante eones.",
         },
         {
           type: 'paragraph',
@@ -411,7 +411,7 @@ export const vitalQuestion: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Las mitocondrias resuelven el problema: genomas bacterianos reducidos dentro de una célula grande producen ATP localmente sin multiplicar genomas completos en la periferia. Un eucariota obtiene ~<span class=\"num\">100 000</span> veces más energía por gen que una bacteria del mismo tamaño. Las leyes de potencia de superficie/volumen impiden la complejidad procariota. Solo la endosimbiosis la liberó.",
+          html: "Las mitocondrias resuelven este problema de escala: genomas bacterianos reducidos dentro de una célula grande producen ATP localmente sin multiplicar genomas completos en la periferia. Un eucariota obtiene ~<span class=\"num\">100 000</span> veces más energía por gen que una bacteria del mismo tamaño. Las leyes de potencia de superficie/volumen impiden la complejidad procariota. Solo la endosimbiosis la liberó.",
         },
         {
           type: 'big-numbers',

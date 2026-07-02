@@ -114,7 +114,7 @@
     {
       "sectionId": "cap3",
       "sectionTitle": "Ruido e información relevante",
-      "text": "Esto conecta con penetrancia : una mutación puede no expresarse igual en todos los individuos por dependencia de contexto, umbrales y procesos estocásticos. La “información relevante” no es absoluta. Depende del nivel donde se evalúa el fenotipo."
+      "text": "Esto se conecta con el concepto de penetrancia : una mutación puede no expresarse igual en todos los individuos por dependencia de contexto, umbrales y procesos estocásticos. La “información relevante” no es absoluta. Depende del nivel donde se evalúa el fenotipo."
     },
     {
       "sectionId": "cap3",
@@ -204,7 +204,7 @@
     {
       "sectionId": "cap8",
       "sectionTitle": "Autoensamblaje vs construir primero y entrenar después",
-      "text": "Aquí se contraponen dos estrategias: diseño top-down (arquitectura fija más entrenamiento) y autoensamblaje (estructura que emerge durante el proceso). La IA dominante usa la primera. El cerebro biológico combina crecimiento, poda, actividad y aprendizaje."
+      "text": "Aquí se contraponen las dos estrategias: diseño top-down (arquitectura fija más entrenamiento) y autoensamblaje (estructura que emerge durante el proceso). La IA dominante usa la primera. El cerebro biológico combina crecimiento, poda, actividad y aprendizaje."
     },
     {
       "sectionId": "cap8",
@@ -219,7 +219,7 @@
     {
       "sectionId": "cap8",
       "sectionTitle": "Autoensamblaje vs construir primero y entrenar después",
-      "text": "Entrenar redes prefabricadas funciona para tareas acotadas; para inteligencia amplia quizá falte crecimiento."
+      "text": "Entrenar redes prefabricadas funciona para tareas acotadas. Para inteligencia amplia, quizá falte crecimiento."
     },
     {
       "sectionId": "cap9",
@@ -234,7 +234,7 @@
     {
       "sectionId": "cap9",
       "sectionTitle": "Fronteras finales (interfaz IA-cerebro, emulación total, sesgo)",
-      "text": "También vuelve sobre cognitive bias : los sesgos no son solo fallas, sino resultado natural de un sistema que aprende secuencialmente y prioriza coherencia con su historia para predecir el futuro."
+      "text": "Hiesinger también explora el sesgo cognitivo ( cognitive bias ): los sesgos no son solo fallas, sino resultado natural de un sistema que aprende secuencialmente y prioriza coherencia con su historia para predecir el futuro."
     },
     {
       "sectionId": "cap9",
