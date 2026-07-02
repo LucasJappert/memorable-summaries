@@ -7,8 +7,8 @@ No procesar los 34 libros todavía.
 
 **Disparadores del usuario:**
 
-- «Generame el audio del resumen de *X*»
-- «Narrá el md de *cosmos*»
+- «Generame el audio del resumen de _X_»
+- «Narrá el md de _cosmos_»
 - «TTS de `summaries/seven-brief-lessons.md`»
 - «Leé el prompt 03» / «Seguí `docs/prompts/03-audio-desde-resumen.md`»
 
@@ -16,12 +16,12 @@ No procesar los 34 libros todavía.
 
 ## Contexto del repo
 
-| Ruta | Rol |
-|------|-----|
-| `summaries/<slug>.md` | Fuente de verdad del contenido a narrar |
+| Ruta                                       | Rol                                              |
+| ------------------------------------------ | ------------------------------------------------ |
+| `summaries/<slug>.md`                      | Fuente de verdad del contenido a narrar          |
 | `docs/templates/resumen-libro.template.md` | Estructura del MD (saber qué ignorar al parsear) |
-| `audio/<slug>.wav` | Salida principal (crear carpeta si no existe) |
-| `audio/<slug>.mp3` | Salida opcional (derivada del WAV) |
+| `audio/<slug>.wav`                         | Salida principal (crear carpeta si no existe)    |
+| `audio/<slug>.mp3`                         | Salida opcional (derivada del WAV)               |
 
 **Repo Hermes Director** (TTS reutilizable):
 
@@ -46,17 +46,17 @@ Crear o extender un script (sugerido: `scripts/md-to-narration.py` en este repo)
 
 1. Lea `summaries/<slug>.md`
 2. **Quite** (no narrar):
-   - Frontmatter YAML (`---` … `---`)
-   - Tabla de contenidos (`# Contenido`, tablas `| id |`)
-   - Comentarios HTML (`<!-- paragraph -->`, etc.)
-   - Tags HTML: `<span>`, `<em>`, `<strong>`, `<a>` → conservar solo el texto interior
-   - Bloques de tabla markdown (`| ... |`)
-   - Líneas vacías repetidas
+    - Frontmatter YAML (`---` … `---`)
+    - Tabla de contenidos (`# Contenido`, tablas `| id |`)
+    - Comentarios HTML (`<!-- paragraph -->`, etc.)
+    - Tags HTML: `<span>`, `<em>`, `<strong>`, `<a>` → conservar solo el texto interior
+    - Bloques de tabla markdown (`| ... |`)
+    - Líneas vacías repetidas
 3. **Conserve y formatee para voz**:
-   - Intro: «{title}, de {author}.» (desde frontmatter)
-   - Títulos de sección: `## title: ...` → leer como frase («Capítulo uno: Orillas del océano cósmico»)
-   - Párrafos de cuerpo
-   - Citas `>` → «Cita: …» (sin guión largo al inicio si suena raro)
+    - Intro: «{title}, de {author}.» (desde frontmatter)
+    - Títulos de sección: `## title: ...` → leer como frase («Capítulo uno: Orillas del océano cósmico»)
+    - Párrafos de cuerpo
+    - Citas `>` → «Cita: …» (sin guión largo al inicio si suena raro)
 4. Guarde texto intermedio en `audio/<slug>.txt` (útil para revisar y reanudar)
 
 **Reglas:** no inventar contenido; no resumir más; español latino; tono divulgativo.
