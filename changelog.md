@@ -27,6 +27,14 @@
 -   ✨ **Microinteracciones**
     -   Efecto *press ripple* adaptado a la nueva barra inferior y botones compactos.
 
+-   📖 **Lectura móvil**
+    -   Barra inferior más pegada al borde (`safe-area` sin padding extra; clearance `4rem`).
+    -   Progreso de scroll visible en la base del pill (3px).
+    -   Texto alineado a la izquierda en pantallas ≤600px (sin justify).
+    -   Bloque **Clave** con más contraste (borde y fondo).
+    -   Badge de capítulo alineado en baseline con el título.
+    -   *Cómo aprendemos* cap. 8: porcentajes del experimento en tarjetas `big-numbers`.
+
 ### Cambios/Mejoras
 
 -   ✍️ **Prosa de los resúmenes (pase 01c completo)**
