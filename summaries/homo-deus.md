@@ -105,7 +105,7 @@ Ninguna especie había alterado la ecología global sola. Ahora el sapiens compi
 | 🧬 | Algoritmo | Organismos procesan datos sensoriales con algoritmos bioquímicos; emociones son cálculos de probabilidad evolutiva. |
 
 <!-- key -->
-El Antropoceno no empezó con fábricas sino con la expansión del sapiens; nuestra relación con otros animales anticipa la del superhumano con el humano corriente.
+El Antropoceno no empezó con fábricas sino con la expansión del sapiens. Nuestra relación con otros animales anticipa la del superhumano con el humano corriente.
 
 ---
 
@@ -131,7 +131,7 @@ La conciencia y la inteligencia son problemas distintos: la Bolsa no tiene conci
 | ⚖️ | Dilema moral | Sin chispa mágica, ¿qué justifica privilegiar al humano sobre cerdo o IA? |
 
 <!-- key -->
-No hay alma ni chispa detectable; la supremacía humana descansa en inventar y creer ficciones cooperativas a escala masiva.
+No hay alma ni chispa detectable. La supremacía humana descansa en inventar y creer ficciones cooperativas a escala masiva.
 
 ---
 
@@ -147,14 +147,14 @@ Después de la revolución cognitiva (~<span class="num">70.000</span> años), e
 La escritura permite algoritmos sociales complejos, pero también desacopla registro y realidad. Las fronteras africanas trazadas en Berlín (<span class="num">1884</span>) ignoraron ríos y etnias. Las notas escolares reconfiguran la experiencia educativa. Las historias pueden moldear la realidad más que describirla.
 
 <!-- paragraph -->
-Evaluar imperios solo por sus propios mitos es circular. Criterio de realidad: ¿<span class="term">sufre</span>? Zeus, el euro o «Francia» no sufren. El soldado herido sí. Las ficciones son herramientas vitales, porque sin reglas compartidas no hay fútbol ni mercados, pero no deben convertirse en fines.
+Evaluar imperios solo por sus propios mitos es circular. Un criterio de realidad útil es preguntar: ¿<span class="term">sufre</span>? Zeus, el euro o «Francia» no sufren. El soldado herido sí. Las ficciones son herramientas vitales, porque sin reglas compartidas no hay fútbol ni mercados, pero no deben convertirse en fines.
 
 <!-- quote -->
 > Las historias son solo instrumentos. Si olvidamos que son ficciones, perdemos el contacto con la realidad y peleamos guerras por el PIB o el interés nacional.
 — Yuval Noah Harari
 
 <!-- key -->
-La historia avanza gracias a redes de ficciones cada vez más potentes; distinguir ficción de sufrimiento real será más difícil —y más urgente— en el siglo XXI.
+La historia avanza gracias a redes de ficciones cada vez más potentes. Distinguir ficción de sufrimiento real será más difícil, y más urgente, en el siglo XXI.
 
 ---
 
@@ -180,7 +180,7 @@ La revolución científica floreció en Europa confesionalmente intolerante, no 
 | 🤝 | Pacto | Modernidad = acuerdo entre método científico e ideología humanista. |
 
 <!-- key -->
-Ciencia amplifica mitos humanistas; el liberalismo actual es una religión científicamente implementada, no el fin de la religión.
+La ciencia amplifica mitos humanistas. El liberalismo actual es una religión científicamente implementada, no el fin de la religión.
 
 ---
 
@@ -202,7 +202,7 @@ El crecimiento infinito chocaba con recursos finitos hasta que la ciencia promet
 ¿Cómo sobrevivieron moral, belleza y compasión sin cielo ni infierno? No por la mano invisible sola, sino por una nueva fe: el <span class="term">humanismo</span>, que convirtió la experiencia humana en fuente de sentido.
 
 <!-- key -->
-Modernidad = poder sin sentido dado; el humanismo rellenó el vacío haciendo del sentir humano la brújula moral.
+La modernidad ofrece poder sin sentido dado. El humanismo rellenó el vacío haciendo del sentir humano la brújula moral.
 
 ---
 
@@ -212,10 +212,10 @@ Modernidad = poder sin sentido dado; el humanismo rellenó el vacío haciendo de
 ## title: La revolución humanista
 
 <!-- paragraph lead -->
-El humanismo invierte el guion: no un plan cósmico da sentido a las vidas humanas, sino que las <span class="term">experiencias humanas</span> dan sentido al cosmos. Mandamiento central: «Escucha tu corazón».
+El humanismo invierte el guion: no un plan cósmico da sentido a las vidas humanas, sino que las <span class="term">experiencias humanas</span> dan sentido al cosmos. Su mandamiento central es: «Escucha tu corazón».
 
 <!-- paragraph -->
-En la Edad Media el sacerdote interpretaba pecado con la Biblia. Hoy el terapeuta pregunta «¿cómo se siente usted?». El matrimonio pasó de sacramento impuesto a contrato de amor auténtico. Tres ramas compiten: <span class="term">liberal</span> (mi sentir interior), <span class="term">socialista</span> (sentir colectivo de la clase), <span class="term">evolucionista</span> (conflictos como selección, vía nazi hoy tabú).
+En la Edad Media el sacerdote interpretaba pecado con la Biblia. Hoy el terapeuta pregunta «¿cómo se siente usted?». El matrimonio pasó de sacramento impuesto a contrato de amor auténtico. Tres corrientes del humanismo disputan la autoridad: <span class="term">liberal</span> (mi sentir interior), <span class="term">socialista</span> (sentir colectivo de la clase), <span class="term">evolucionista</span> (conflictos como selección, vía nazi hoy tabú).
 
 <!-- paragraph -->
 El liberalismo ganó guerras frías y mercados, pero su éxito impulsa proyectos (inmortalidad, felicidad, deus) que podrían destruir sus premisas. Si la ciencia demuestra que votantes y consumidores no eligen libremente y que algoritmos nos conocen mejor, ¿qué queda del humanismo?
@@ -226,7 +226,7 @@ El liberalismo ganó guerras frías y mercados, pero su éxito impulsa proyectos
 - **Humanismo evolutivo** — selección favorece a los fuertes; línea nazi repudiada pero lógica darwiniana explícita.
 
 <!-- key -->
-El humanismo reemplazó a Dios con el hombre; sus victorias tecnológicas amenazan con vaciar al hombre libre que las fundó.
+El humanismo reemplazó a Dios con el hombre. Sus victorias tecnológicas amenazan con vaciar al hombre libre que las fundó.
 
 ---
 
@@ -249,7 +249,7 @@ Las decisiones combinan determinismo y azar cuántico, y ninguno es «libre». E
 | ⚡ | Amenaza práctica | No la filosofía, sino apps y algoritmos que ignoran al libre individuo, desestabilizan democracia y mercado. |
 
 <!-- key -->
-El libre albedrío es narrativa útil, no entidad detectable; las tecnologías del s. XXI convierten la duda en obsolescencia institucional.
+El libre albedrío es narrativa útil, no entidad detectable. Las tecnologías del s. XXI convierten la duda en obsolescencia institucional.
 
 ---
 
@@ -294,7 +294,7 @@ Optimizar la mente sin mapa es navegar a ciegas: la psicología estudió sobre t
 El tecno-humanismo choca con su premisa: si podemos diseñar deseos, el «corazón» deja de ser autoridad final. ¿Reprogramar orientación sexual, miedos o amor como Romeo con píldora? A falta de mapa del «océano de la conciencia», optimizamos lo que el sistema necesita (lectura, no olfato) y abrimos la puerta al dataísmo.
 
 <!-- key -->
-Mejorar la mente sin cartografiarla es peligroso; controlar el deseo anula al humanismo que lo elevó a supremo.
+Mejorar la mente sin cartografiarla es peligroso. Controlar el deseo anula al humanismo que lo elevó a supremo.
 
 ---
 
@@ -307,16 +307,16 @@ Mejorar la mente sin cartografiarla es peligroso; controlar el deseo anula al hu
 El <span class="term">dataísmo</span> ve el universo como flujos de datos. El valor de cualquier fenómeno equivale a su contribución al procesamiento. Une biología algorítmica (Darwin) e informática (Turing): organismos y máquinas obedecen las mismas matemáticas.
 
 <!-- paragraph -->
-La economía funciona como sistema de procesamiento: el capitalismo distribuye (mercado/Bolsa) y el comunismo centraliza (Moscú). El mercado libre «ganó» la Guerra Fría por eficiencia informacional, no por moral superior. Nueva divinidad: <span class="term">libertad de información</span>, no de opinión (Aaron Swartz, <span class="num">2013</span>).
+La economía funciona como sistema de procesamiento: el capitalismo distribuye (mercado/Bolsa) y el comunismo centraliza (Moscú). El mercado libre «ganó» la Guerra Fría por eficiencia informacional, no por moral superior. La nueva divinidad es la <span class="term">libertad de información</span>, no la de opinión (<span class="person">Aaron Swartz</span>, <span class="num">2013</span>).
 
 <!-- paragraph -->
 Google detecta epidemias antes que la OMS si accede a búsquedas. Los coches compartidos algorítmicos podrían reemplazar propiedad privada. El dataísmo invierte la pirámide del conocimiento: humanos ya no destilan datos en sabiduría, sino que ceden a Big Data. «Conócete a ti mismo» pasa de introspección a monitorización biométrica.
 
 <!-- paragraph -->
-Tres procesos convergentes: (1) vida como algoritmos, (2) inteligencia sin conciencia, (3) algoritmos que nos conocen mejor que nosotros. Preguntas abiertas: ¿valen más datos que sufrimiento consciente? ¿Qué religión post-humanista llenará el vacío?
+Tres procesos convergentes definen el horizonte: (1) vida como algoritmos, (2) inteligencia sin conciencia, (3) algoritmos que nos conocen mejor que nosotros. El capítulo cierra con preguntas abiertas: ¿valen más datos que sufrimiento consciente? ¿Qué religión post-humanista llenará el vacío?
 
 <!-- key -->
-Dataísmo es la primera ideología desde 1789 con valor nuevo —información libre— y candidata a suceder al humanismo liberal.
+El dataísmo es la primera ideología desde 1789 con un valor nuevo (información libre) y la principal candidata a suceder al humanismo liberal.
 
 ---
 

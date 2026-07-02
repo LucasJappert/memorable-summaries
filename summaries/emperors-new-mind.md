@@ -38,7 +38,7 @@ lang: es
 ## title: Diez años después (edición 1999)
 
 <!-- paragraph lead -->
-En el prefacio de <span class="num">1999</span>, <span class="person">Penrose</span> recuerda que este libro fue su primera incursión seria en la divulgación. Su tesis central no cambió: la <span class="term">conciencia</span> no puede alojarse en el marco de la física actual ni reducirse a computación pura.
+En el prefacio de <span class="num">1999</span>, <span class="person">Penrose</span> recuerda su primera incursión en divulgación y confirma que su tesis central no cambió: la <span class="term">conciencia</span> no puede alojarse en el marco de la física actual ni reducirse a computación pura.
 
 <!-- paragraph -->
 El argumento tiene dos hilos. Primero, los teoremas de <span class="person">Gödel</span> y <span class="person">Turing</span> muestran que el pensamiento matemático, y por extensión el pensamiento consciente, trasciende cualquier modelo puramente computacional. Segundo, existe un vacío en nuestra imagen física del mundo, entre la escala cuántica y la macroscópica, donde debería residir la física que explique la mente consciente.
@@ -47,7 +47,7 @@ El argumento tiene dos hilos. Primero, los teoremas de <span class="person">Göd
 Penrose ilustra el primer hilo con el <span class="term">teorema de Goodstein</span>: una proposición aritmética verdadera e inteligible que no es demostrable por inducción matemática sola. Comprender su verdad requiere algo más que seguir reglas mecánicas. Ese «algo», la comprensión, parece ligado a la conciencia y ser esencialmente no computacional.
 
 <!-- key -->
-La comprensión matemática trasciende cualquier conjunto fijo de reglas; la conciencia exige física nueva en el puente entre lo cuántico y lo clásico.
+La comprensión matemática trasciende cualquier conjunto fijo de reglas. La conciencia exige física nueva en el puente entre lo cuántico y lo clásico.
 
 ---
 
@@ -63,7 +63,7 @@ Una fábula de ciencia ficción abre el libro: el presidente <span class="person
 La escena anticipa el conflicto del libro: si una máquina supera al cerebro humano en capacidad, ¿debemos atribuirle mente, sentimientos y responsabilidad moral? El título alude al cuento de Andersen: creer en la «mente» de la máquina sería como admirar el traje invisible del emperador.
 
 <!-- key -->
-La pregunta de Adam al final del prólogo —«¿cómo se siente ser tú?»— reaparecerá en el epílogo como prueba de que la computación por sí sola no basta.
+La pregunta de Adam al final del prólogo, «¿cómo se siente ser tú?», reaparecerá en el epílogo como prueba de que la computación por sí sola no basta.
 
 ---
 
@@ -168,7 +168,7 @@ Si la mente solo fuera algoritmo, no podría ver la verdad de las proposiciones 
 ## title: El mundo clásico
 
 <!-- paragraph lead -->
-Antes de la cuántica, Penrose clasifica las teorías físicas en <span class="term">SUPERB</span> (precisión fenomenal), <span class="term">USEFUL</span> (útiles pero incompletas) y <span class="term">TENTATIVE</span> (sin apoyo experimental). En SUPERB: geometría euclidiana, mecánica de Newton, electromagnetismo de Maxwell, relatividades de Einstein, mecánica cuántica y QED.
+Antes de la cuántica, Penrose clasifica las teorías físicas en <span class="term">SUPERB</span> (precisión fenomenal), <span class="term">USEFUL</span> (útiles pero incompletas) y <span class="term">TENTATIVE</span> (sin apoyo experimental). En la categoría SUPERB se agrupan: geometría euclidiana, mecánica de Newton, electromagnetismo de Maxwell, relatividades de Einstein, mecánica cuántica y QED.
 
 <!-- paragraph -->
 La dinámica clásica es <span class="term">determinista</span>: el futuro queda fijado por el pasado. Galileo introdujo la inercia y la relatividad galileana. Newton unificó leyes de movimiento y gravitación universal. Maxwell añadió campos electromagnéticos ondulatorios.
@@ -280,7 +280,7 @@ Los experimentos de <span class="term">cerebro dividido</span> (<span class="per
 - **Cerebro dividido** — Dos hemisferios con preferencias distintas tras cortar el cuerpo calloso.
 
 <!-- key -->
-El cerebro no es un autómata homogéneo: mucha actividad es inconsciente; la conciencia parece selectiva y escasa.
+El cerebro no es un autómata homogéneo, pues mucha actividad ocurre de forma inconsciente. La conciencia parece selectiva y escasa.
 
 ---
 
@@ -303,7 +303,7 @@ Penrose conjetura contacto con el <span class="term">mundo platónico</span> de 
 — Roger Penrose
 
 <!-- key -->
-La conciencia forma juicios no algorítmicos; la física que la sustenta debe trascender la computación digital.
+La conciencia forma juicios no algorítmicos. La física que la sustenta debe trascender la computación digital.
 
 ---
 

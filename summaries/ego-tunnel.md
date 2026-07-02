@@ -80,7 +80,7 @@ El contenido fenomenal (el «rojo» de una rosa, el olor a sándalo) depende de 
 | 🔬 | Correlato neural | Activar el correlato neural mínimo de una experiencia produce esa experiencia. |
 
 <!-- key -->
-Conciencia = <span class="key-term">aparición de un mundo</span>; el problema no es el mundo exterior sino la estructura de la vida interior.
+Conciencia es <span class="key-term">aparición de un mundo</span>. El problema no es el mundo exterior sino la estructura de la vida interior.
 
 
 ---
@@ -94,7 +94,7 @@ Conciencia = <span class="key-term">aparición de un mundo</span>; el problema n
 El <span class="term">túnel del ego</span> es propiedad compleja del <span class="term">correlato neural global de la conciencia</span> (NCC): el flujo informativo que crea el mundo en el que vives. El ego es el contenido del PSM en cada instante (sensaciones, emociones, percepciones, recuerdos, actos de voluntad), pero no puedes ver que es simulación: es <em>transparente</em>.
 
 <!-- paragraph -->
-Metáfora del simulador de vuelo total: el cerebro genera imagen interna de sí mismo sin piloto externo. El «piloto» nace dentro de la realidad virtual. Variantes del túnel: ramificarse en otros túneles (empatía), durante el sueño, en máquinas artificiales.
+Metáfora del simulador de vuelo total: el cerebro genera imagen interna de sí mismo sin piloto externo. El «piloto» nace dentro de la realidad virtual. El túnel puede tomar formas distintas: ramificarse en empatía, persistir durante el sueño o reproducirse en máquinas artificiales.
 
 <!-- paragraph -->
 Metzinger distingue su túnel del «reality tunnel» popular (<span class="person">Robert Anton Wilson</span>, <span class="person">Timothy Leary</span>): no negamos realidad objetiva ni conocimiento científico comunitario. El foco es la experiencia consciente como formato de datos biológico.
@@ -107,7 +107,7 @@ Metzinger distingue su túnel del «reality tunnel» popular (<span class="perso
 | ✈️ | Simulador total | Sin usuario externo: el sistema se modela a sí mismo y se pierde en el modelo. |
 
 <!-- key -->
-Nadie vive <em>dentro</em> del túnel: vivimos <em>con</em> él y <em>a través</em> de él; no hay homúnculo al mando.
+Nadie vive <em>dentro</em> del túnel. Vivimos <em>con</em> él y <em>a través</em> de él, sin homúnculo al mando.
 
 
 ---
@@ -121,10 +121,10 @@ Nadie vive <em>dentro</em> del túnel: vivimos <em>con</em> él y <em>a través<
 Dos hilos en la historia de la filosofía de la conciencia: (1) <span class="term">conscientia</span> como conocimiento de orden superior, saber que sabes. (2) <span class="term">integración</span>, lo que une contenidos en un todo simultáneo. Sin unidad no hay mundo.
 
 <!-- paragraph -->
-El <span class="term">problema del mundo único</span>: para que aparezca un mundo debe ser <em>un</em> mundo. La neurociencia estudia el «binding» de características (color, forma, textura). La filosofía estudia el «saber que sabes». Ambos lados de la misma moneda.
+El <span class="term">problema del mundo único</span> plantea que un mundo debe aparecer como <em>un</em> todo coherente. La neurociencia estudia el «binding» de características (color, forma, textura). La filosofía estudia el «saber que sabes». Ambos son lados de la misma moneda.
 
 <!-- paragraph -->
-Trastornos ilustrativos: <span class="term">agnosia apperceptiva</span> (no integrar rasgos visuales en objetos), <span class="term">asterognosia</span>, <span class="term">autotopagnosia</span>, <span class="term">agnosia disyuntiva</span> (boca que no corresponde al sonido). Si todo se desintegra, el «aquí y ahora» fenomenal colapsa.
+Varios trastornos muestran lo frágil que es esa unidad: la <span class="term">agnosia apperceptiva</span> (no integrar rasgos visuales en objetos), la <span class="term">asterognosia</span>, la <span class="term">autotopagnosia</span> y la <span class="term">agnosia disyuntiva</span> (boca que no corresponde al sonido). Si todo se desintegra, el «aquí y ahora» fenomenal colapsa.
 
 <!-- key -->
 La unidad de la conciencia es logro cerebral: contenidos correlacionados sin fisuras en un solo mundo vivido.
@@ -154,7 +154,7 @@ Macacos japoneses integran herramientas en el <span class="term">esquema corpora
 | 👻 | Miembros fantasma | Prueba de que el cuerpo vivido es modelo virtual, no solo anatomía. |
 
 <!-- key -->
-El yo encarnado es construcción holística; la propiedad es el núcleo más cercano de la selfhood fenomenal.
+El yo encarnado es una construcción holística. La propiedad es el núcleo más cercano de la <em>selfhood</em> fenomenal.
 
 
 ---
@@ -174,7 +174,7 @@ Experimentos de «mano alienígena»: estimulación que induce movimiento no vol
 El libre albedrío como fenómeno consciente se descompone en intención, selección de acción y control motor. La neurociencia muestra que procesos inconscientes preceden a la sensación de decidir. Queda la pregunta ética y política de responsabilidad sin homúnculo.
 
 <!-- key -->
-Sin homúnculo, la agencia es modelo interno de causalidad; el libre albedrío vivido no garantiza un agente último.
+Sin homúnculo, la agencia es un modelo interno de causalidad. El libre albedrío vivido no garantiza un agente último.
 
 
 ---
@@ -191,7 +191,7 @@ Estados alterados son laboratorio fenomenológico. El <span class="term">sueño 
 Metzinger practica y estudia técnicas de inducción. El yo lúcido no es metafísico sino reconfiguración del PSM en sueño REM. La pregunta es qué aprendemos sobre la transparencia del ego cuando podemos «ver» que el mundo onírico es simulación.
 
 <!-- paragraph -->
-Riesgo ético: estados lúcidos prolongados pueden erosionar la frontera vigilia-sueño. Aun así, son evidencia de que el ego es proceso, no sustancia.
+El riesgo ético es real: los estados lúcidos prolongados pueden erosionar la frontera vigilia-sueño. Aun así, son evidencia de que el ego es proceso, no sustancia.
 
 <!-- key -->
 Los sueños lúcidos muestran que el túnel puede volverse <em>opaco</em> parcialmente: percibes que el mundo es modelo.
@@ -241,7 +241,7 @@ La empatía no es magia mental: es simulación corporalizada dentro de tu PSM. E
 | 🤝 | Base social | El ego como instrumento evolutivo para sociedades complejas. |
 
 <!-- key -->
-Empatía = acoplar tu túnel al de otro mediante simulación interna; no implica un yo extra.
+La empatía implica acoplar tu túnel al de otro mediante simulación interna. No añade ningún yo extra.
 
 
 ---
@@ -261,7 +261,7 @@ Esto unifica comprensión de imitación, aprendizaje social y fundamentos de la 
 La simulación nunca es idéntica a la experiencia ajena. El túnel sigue siendo el tuyo.
 
 <!-- key -->
-Intersubjetividad sin telepatía: manifolds compartidos, túneles separados.
+La intersubjetividad existe sin telepatía: manifolds compartidos, túneles siempre separados.
 
 
 ---
@@ -312,16 +312,16 @@ Tecnologías que modifican el túnel exigen repensar derechos, identidad y salud
 ## title: Una nueva ética
 
 <!-- paragraph lead -->
-Necesitamos <span class="term">ética de la conciencia</span>: ¿qué estados mentales queremos promover o prohibir? ¿Cuáles podemos infligir a animales o máquinas?
+Una <span class="term">ética de la conciencia</span> se vuelve necesaria: ¿qué estados mentales queremos promover o prohibir? ¿Cuáles podemos infligir a animales o máquinas?
 
 <!-- paragraph -->
-Preguntas concretas: ¿qué conciencia queremos para nuestros hijos? ¿Es legítimo inducir euforia permanente o suprimir duelo? Sin teoría de la conciencia, las respuestas son ciegas.
+Surgen preguntas concretas: ¿qué conciencia queremos para nuestros hijos? ¿Es legítimo inducir euforia permanente o suprimir duelo? Sin teoría de la conciencia, las respuestas son ciegas.
 
 <!-- paragraph -->
 La neuroética no es lujo académico: cada avance en manipulación fenomenal es decisión moral. El mito del yo debe caer para construir responsabilidad compartida y políticas de bienestar consciente.
 
 <!-- key -->
-Sin homúnculo, la responsabilidad es distribuida; la ética debe guiar qué túneles cultivamos.
+Sin homúnculo, la responsabilidad es distribuida. La ética debe guiar qué túneles cultivamos.
 
 
 ---

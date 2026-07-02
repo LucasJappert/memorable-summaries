@@ -39,7 +39,7 @@ lang: es
 La pregunta del <span class="term">libre albedrío</span> toca casi todo lo que nos importa: moral, ley, política, religión, culpa y logro personal. Si no existiera, criminales y pecadores serían «relojes mal calibrados» y la justicia retributiva perdería sentido. <span class="person">Sam Harris</span> abre con el caso de Cheshire (<span class="num">2007</span>): <span class="person">Steven Hayes</span> y <span class="person">Joshua Komisarjevsky</span> asesinaron a <span class="person">Jennifer Petit</span> y a sus hijas tras una noche de violencia.
 
 <!-- paragraph -->
-Ante semejante horror, casi todos sentimos que los culpables deben responder moralmente. Pero si intercambiáramos átomo por átomo con Komisarjevsky (genes, infancia y cerebro idénticos), actuaríamos igual que él. El papel de la <span class="term">suerte</span> parece decisivo. Un tumor cerebral que explique la violencia desplazaría nuestra culpa, y la neurofisiología ordinaria haría lo mismo.
+Ante semejante horror, casi todos sentimos que los culpables deben responder moralmente, pero si intercambiáramos átomo por átomo con Komisarjevsky (genes, infancia y cerebro idénticos), actuaríamos igual que él. El papel de la <span class="term">suerte</span> parece decisivo. Un tumor cerebral que explique la violencia desplazaría nuestra culpa, y la neurofisiología ordinaria haría lo mismo.
 
 <!-- quote -->
 > El libre albedrío es una ilusión. Nuestras voluntades no son de nuestra propia creación.
@@ -59,7 +59,7 @@ No somos los autores conscientes de nuestros pensamientos: las intenciones surge
 Procesamos solo una fracción minúscula de lo que el cerebro calcula en cada instante. Esta mañana Harris tomó café, no té, y no sabe por qué. La «elección» apareció en conciencia, pero no se originó allí.
 
 <!-- paragraph -->
-<span class="person">Benjamin Libet</span> (<span class="num">1983</span>) detectó actividad motora unos <span class="num">300 ms</span> antes de que la persona sintiera haber decidido moverse. Con fMRI, <span class="person">John-Dylan Haynes</span> predijo la elección <span class="num">7–10 s</span> antes. Registros directos de <span class="num">256</span> neuronas alcanzaron ~<span class="num">80 %</span> de precisión a <span class="num">700 ms</span>. Antes de que parezcamos libres, el cerebro ya decidió.
+<span class="person">Benjamin Libet</span> (<span class="num">1983</span>) detectó actividad motora unos <span class="num">300 ms</span> antes de que la persona sintiera haber decidido moverse. Mediante fMRI, <span class="person">John-Dylan Haynes</span> predijo la elección <span class="num">7–10 s</span> antes. Registros directos de <span class="num">256</span> neuronas alcanzaron ~<span class="num">80 %</span> de precisión a <span class="num">700 ms</span>. Antes de que parezcamos libres, el cerebro ya decidió.
 
 <!-- paragraph -->
 Aunque el alma fuera inmaterial, no ayudaría: si no sabes qué hará tu alma, no controlas nada. La distinción voluntario/involuntario existe, pero no salva el libre albedrío. Las intenciones siguen siendo misteriosas en origen.
@@ -85,7 +85,7 @@ Para tener libre albedrío «de verdad» habría que controlar todas las influen
 El libre albedrío nace de una <span class="term">experiencia sentida</span>, no de un argumento abstracto. En filosofía conviven <span class="term">determinismo</span>, <span class="term">libertarianismo</span> y <span class="term">compatibilismo</span>.
 
 <!-- paragraph -->
-Los compatibilistas, como <span class="person">Daniel Dennett</span>, dicen que actuar según tus deseos sin coacción externa es libertad. Pero eso no coincide con lo que la gente siente: creer poder haber actuado de otro modo con el universo idéntico. Si las causas cerebrales son totalmente eficaces, la responsabilidad personal convencional pierde anclaje.
+Los compatibilistas, como <span class="person">Daniel Dennett</span>, dicen que actuar según tus deseos sin coacción externa es libertad, pero eso no coincide con lo que la gente siente: creer poder haber actuado de otro modo con el universo idéntico. Si las causas cerebrales son totalmente eficaces, la responsabilidad personal convencional pierde anclaje.
 
 <!-- paragraph -->
 Dennett afirma que «somos» también la neurofisiología inconsciente. Harris responde que somos polvo de estrellas, pero no nos <em>sentimos</em> estrellas, y esa identidad no guía la intuición moral. El compatibilismo ignora la fuente del problema: la sensación de autoría consciente.
@@ -95,7 +95,7 @@ Dennett afirma que «somos» también la neurofisiología inconsciente. Harris r
 — Crítica al compatibilismo (parafraseado)
 
 <!-- key -->
-Los compatibilistas cambian el tema: sustituyen la experiencia psicológica de agencia por una definición técnica de «persona».
+El compatibilismo invierte la pregunta: sustituye la experiencia psicológica de agencia por una definición técnica de «persona».
 
 ---
 
@@ -127,7 +127,7 @@ Ni determinismo ni azar cuántico producen la libertad que la gente cree tener.
 ## title: Elecciones, esfuerzos e intenciones
 
 <!-- paragraph lead -->
-Podemos distinguir estados volicionales de reflejos automáticos, y la atención consciente importa para planificar y corregir. Pero todo el proceso (dolor, pensamientos, terapia física) surge sin que el yo consciente lo haya creado.
+Podemos distinguir estados volicionales de reflejos automáticos, y la atención consciente importa para planificar y corregir, pero todo el proceso (dolor, pensamientos, terapia física) surge sin que el yo consciente lo haya creado.
 
 <!-- paragraph -->
 Confundir determinismo con fatalismo es un error: sentarse a esperar también es una elección con consecuencias. Las decisiones son estados causales del cerebro que producen resultados reales. Aun así, la próxima elección emergerá de causas previas que el testigo consciente no trajo a la existencia.
@@ -172,7 +172,7 @@ Reconocer la ilusión puede aumentar la libertad vivida: menos identificación r
 La Corte Suprema de EE. UU. (<span class="term">United States v. Grayson</span>, <span class="num">1978</span>) vincula el libre albedrío al sistema penal. Harris propone responsabilidad sin ilusión: ser responsable es que la conducta refleje la mente global (creencias, deseos, historial).
 
 <!-- paragraph -->
-Cinco casos graduales (niño de 4 años, abusado de 12, adulto abusado, psicópata, psicópata con tumor) muestran cómo el contexto modula la indignación aunque el cerebro sea siempre la causa. El tumor «absuelve» porque parece adventicio. Pero a medida que entendemos causas, la línea entre casos 4 y 5 se difumina.
+Cinco casos graduales (niño de 4 años, abusado de 12, adulto abusado, psicópata, psicópata con tumor) muestran cómo el contexto modula la indignación aunque el cerebro sea siempre la causa. El tumor «absuelve» porque parece adventicio, pero a medida que entendemos causas, la línea entre casos 4 y 5 se difumina.
 
 <!-- paragraph -->
 Encarcelar peligrosos protege a otros, y el odio retributivo se debilita al ver a depredadores como desafortunados. Si existiera cura barata del «mal», retenerla como castigo sería absurdo. Eso revela cuánto depende la venganza de ignorar causas.

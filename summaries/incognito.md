@@ -107,7 +107,7 @@ El punto ciego ocupa el diámetro de <span class="num">17 lunas</span>, y el cer
 <span class="person">Paul Bach-y-Rita</span> conectó una cámara a vibradores en la espalda, y los ciegos acabaron «viendo». <span class="person">Eric Weihenmayer</span> escala con <span class="term">BrainPort</span> (electrodos en la lengua). El cerebro en la oscuridad del cráneo no importa de dónde vengan los impulsos si correlacionan con el movimiento. El sistema nervioso central genera actividad interna <em>modulada</em> por los sentidos, no construida desde cero, como mostró <span class="person">Thomas Graham Brown</span> con un gato en cinta sin nervios sensoriales.
 
 <!-- key -->
-Primera lección: no confíes en los sentidos; la percepción es construcción activa, no registro fiel del mundo.
+La lección principal del capítulo es no confiar en los sentidos: la percepción es construcción activa, no registro fiel del mundo.
 
 ---
 
@@ -140,7 +140,7 @@ La conciencia entrena al «robot»: el tenista consciente al aprender, automáti
 — Agustín de Hipona
 
 <!-- key -->
-Hay un abismo entre lo que el cerebro ejecuta y lo que la mente puede inspeccionar; la conciencia interfiere si se mete en detalles que no comprende.
+Hay un abismo entre lo que el cerebro ejecuta y lo que la mente puede inspeccionar. La conciencia interfiere si se mete en detalles que no comprende.
 
 ---
 
@@ -167,7 +167,7 @@ En belleza, la proporción cintura-cadera ~<span class="num">0,67–0,8</span> a
 - **James** — Hacer «extraño lo natural»: preguntar por qué sonreímos, por qué palpita el corazón ante multitudes.
 
 <!-- key -->
-La evolución talló un <span class="key-term">Umwelt</span> estrecho de pensamientos posibles; lo «obvio» es solo lo que nuestro hardware permite captar.
+La evolución talló un <span class="key-term">Umwelt</span> estrecho de pensamientos posibles. Lo «obvio» es solo lo que nuestro hardware permite captar.
 
 ---
 
@@ -218,7 +218,7 @@ El «gen peligroso» que multiplica por <span class="num">8–44</span> la viole
 <span class="person">Benjamin Libet</span> registró un potencial de readiness ~<span class="num">1 s</span> antes del «impulso» consciente de mover el dedo. El veto de Libet no salva el libre albedrío con evidencia. El principio de <span class="term">automatismo suficiente</span> sostiene que, aunque existiera libre albedrío, sería un margen mínimo sobre maquinaria automática.
 
 <!-- paragraph -->
-Eagleman propone sustituir la <span class="term">culpabilidad</span> por la <span class="term">modificabilidad</span>: sentencia prospectiva (¿reincidirá?) con tablas actuariales para delitos sexuales (mejor que psiquiatras). El <span class="term">prefrontal workout</span> usa neurofeedback para fortalecer control de impulsos frente a lobotomía. No exculpar: <em>explicar ≠ exculpar</em>, y aún hay que apartar peligrosos.
+Eagleman propone sustituir la <span class="term">culpabilidad</span> por la <span class="term">modificabilidad</span>: sentencia prospectiva (¿reincidirá?) con tablas actuariales para delitos sexuales (mejor que psiquiatras). El <span class="term">prefrontal workout</span> usa neurofeedback para fortalecer control de impulsos frente a lobotomía. En todo caso, <em>explicar ≠ exculpar</em>: aún hay que apartar a los peligrosos.
 
 <!-- timeline -->
 | year | text |
@@ -248,7 +248,7 @@ Entender el cerebro mejora la política social: contratos de Ulises para dietas 
 <span class="person">Phineas Gage</span> (<span class="num">1848</span>) recibió una barra de hierro por el lóbulo frontal y «ya no era Gage». Drogas, serotonina, epilepsia temporal (voces «proféticas») y rabia muestran microcambios con macroconducta. Aun así, el <span class="term">reduccionismo</span> solo no basta: genes más ambiente (Caspi: depresión con alelo corto más eventos adversos, abuso infantil más MAOA).
 
 <!-- paragraph -->
-<span class="term">Emergencia</span>: propiedades del conjunto (vuelo, contención) no están en piezas sueltas. Analogía radio Kalahari: dañar circuitos silencia voces, pero ondas existían sin conocerlas. Materialismo no implica cinismo: «si el cerebro fuera lo bastante simple para entenderlo, no seríamos lo bastante listos».
+<span class="term">Emergencia</span>: propiedades del conjunto (vuelo, contención) no están en piezas sueltas. La analogía de la radio en el Kalahari ilustra esto: dañar circuitos silencia voces, pero las ondas existían sin conocerlas. Materialismo no implica cinismo: «si el cerebro fuera lo bastante simple para entenderlo, no seríamos lo bastante listos».
 
 <!-- key -->
 Caer del trono consciente no empobrece: revela un cosmos interior tan prodigioso como el exterior.

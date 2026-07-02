@@ -91,7 +91,7 @@ Kaku propone una <span class="term">teoría espacio-temporal de la conciencia</s
 La capacidad de humor, ironía y lectura de intenciones depende de la <span class="term">Theory of Mind</span>, soportada en parte por redes sociales del cerebro y por las <span class="term">neuronas espejo</span>. Estos mecanismos permiten anticipar lo que otro sabe, desea o ignora.
 
 <!-- paragraph -->
-<span class="person">Michael Gazzaniga</span> estudió la confabulación: el «intérprete» del hemisferio izquierdo fabrica narrativas coherentes incluso cuando desconoce causas reales. La conciencia, por tanto, es poderosa pero no transparente para sí misma.
+<span class="person">Michael Gazzaniga</span> estudió la confabulación y demostró que el «intérprete» del hemisferio izquierdo fabrica narrativas coherentes incluso cuando desconoce causas reales. La conciencia, por tanto, es poderosa pero no transparente para sí misma.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -292,10 +292,10 @@ La pregunta de fondo no es solo si una máquina calcula, sino si puede sostener 
 ## title: Ingeniería inversa del cerebro
 
 <!-- paragraph -->
-El capítulo centraliza megaproyectos: <span class="person">BRAIN Initiative</span> (≈ <span class="num">3.000 millones de dólares</span>) y <span class="person">Human Brain Project</span> (≈ <span class="num">1,19 mil millones de euros</span>). Ambos buscan mapear circuitos y simular funciones para pasar de atlas descriptivo a teoría operacional.
+El capítulo presenta dos megaproyectos: <span class="person">BRAIN Initiative</span> (≈ <span class="num">3.000 millones de dólares</span>) y <span class="person">Human Brain Project</span> (≈ <span class="num">1,19 mil millones de euros</span>). Ambos buscan mapear circuitos y simular funciones para pasar de atlas descriptivo a teoría operacional.
 
 <!-- paragraph -->
-Kaku revisa supercomputación (incluyendo plataformas como <span class="person">Blue Gene</span>) y el desafío del <span class="term">conectoma</span>. No basta listar neuronas: hay que modelar conexiones dinámicas, plasticidad y sincronía temporal en múltiples escalas.
+Kaku revisa supercomputación (incluyendo plataformas como <span class="person">Blue Gene</span>) y el desafío del <span class="term">conectoma</span>. Según Kaku, listar neuronas no es suficiente: hay que modelar conexiones dinámicas, plasticidad y sincronía temporal en múltiples escalas.
 
 <!-- paragraph -->
 Si la arquitectura mental pudiera reproducirse con fidelidad, surge la pregunta por continuidad personal e inmortalidad. ¿Copiar un patrón cerebral preserva al sujeto o solo crea un duplicado funcional? El autor usa esta tensión como puente hacia capítulos finales.
