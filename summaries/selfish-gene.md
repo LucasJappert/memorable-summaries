@@ -66,7 +66,7 @@ La vida inteligente «llega a la mayoría de edad» cuando descubre la razón de
 Este libro no defiende el darwinismo en general, sino que explora sus consecuencias para el egoísmo y el altruismo biológico — temas con profunda importancia humana: amor, odio, cooperación, codicia y generosidad. Autores como <span class="person">Lorenz</span>, <span class="person">Ardrey</span> y <span class="person">Eibl-Eibesfeldt</span> se equivocaron al suponer que la evolución actúa «para el bien de la especie» o del grupo.
 
 <!-- paragraph -->
-La tesis central: somos máquinas de supervivencia creadas por nuestros genes. Un gen exitoso tiende al <span class="term">egoísmo despiadado</span>, aunque en circunstancias especiales puede favorecer un altruismo limitado. El amor universal y el bien de la especie no tienen sentido evolutivo.
+La tesis central sostiene que somos máquinas de supervivencia creadas por nuestros genes. Un gen exitoso tiende al <span class="term">egoísmo despiadado</span>, aunque en circunstancias especiales puede favorecer un altruismo limitado. El amor universal y el bien de la especie no tienen sentido evolutivo.
 
 <!-- quote -->
 > «Seamos generosos y altruistas, porque nacemos egoístas. Entendamos qué traman nuestros genes egoístas, porque así podremos frustrar sus diseños — algo que ninguna otra especie ha intentado.»
@@ -131,7 +131,7 @@ Los genes son gregarios: una máquina contiene miles. El <span class="term">cruz
 | ♾️ | Longevidad génica | Unidades pequeñas sobreviven más generaciones sin ser partidas por el cruzamiento. |
 
 <!-- key -->
-Los cuerpos son <span class="key-term">vehículos temporales</span>; los genes son replicadores potencialmente inmortales que los abandonan generación tras generación.
+Los cuerpos son <span class="key-term">vehículos temporales</span>. Los genes, en cambio, son replicadores potencialmente inmortales que los abandonan generación tras generación.
 
 ---
 
@@ -150,7 +150,7 @@ Los animales desarrollaron <span class="term">músculos</span> para movimiento r
 El comportamiento parece teleológico, como el regulador de Watt con <span class="term">retroalimentación negativa</span>. Los animales aprenden (memoria) y, en algunos casos, son conscientes. Aun así, podemos analizar el comportamiento «como si» tuviera propósito sin asumir consciencia.
 
 <!-- paragraph -->
-Conveniencia analítica: tratar al organismo individual como agente que maximiza la propagación de todos sus genes. El capítulo explora tácticas de supervivencia, señales y engaño en el comportamiento animal.
+Por conveniencia analítica, el capítulo trata al organismo individual como agente que maximiza la propagación de todos sus genes. El capítulo explora tácticas de supervivencia, señales y engaño en el comportamiento animal.
 
 <!-- key -->
 Los animales son <span class="key-term">máquinas génicas</span>, vehículos activos programados para preservar replicadores, con cerebros que coordinan músculos mediante computación biológica.
@@ -267,7 +267,7 @@ La asimetría fundamental es el tamaño del gameto. Los masculinos (esperma) son
 | ⚔️ | Conflicto sexual | Cada sexo presiona para que el otro invierta más en la descendencia. |
 
 <!-- key -->
-Maleness y femaleness se definen por el tamaño del gameto — no por anatomía visible — y de ahí fluye casi toda la asimetría sexual.
+Lo masculino y lo femenino se definen por el tamaño del gameto, no por anatomía visible, y de ahí fluye casi toda la asimetría sexual.
 
 ---
 
@@ -335,7 +335,7 @@ El capítulo conecta juegos matemáticos con comportamiento animal y humano: ave
 | 😇 | «Nice» | Nunca ser el primero en defectar — condición para cooperación estable. |
 
 <!-- key -->
-En el Dilema del Prisionero <span class="key-term">iterado</span>, los buenos — cooperadores condicionales — pueden terminar primero.
+En el Dilema del Prisionero <span class="key-term">iterado</span>, los buenos (cooperadores condicionales) pueden terminar primero.
 
 ---
 
@@ -357,7 +357,7 @@ Los <span class="term">distorsionadores de segregación</span> (gen <span class=
 Los organismos existen porque los genes se benefician de agruparse en vehículos cooperativos grandes. El fenotipo extendido disuelve la tensión. El cuerpo es herramienta del gen, y las herramientas pueden extenderse más allá de la piel.
 
 <!-- key -->
-El gen tiene <span class="key-term">largo alcance</span>: su fenotipo incluye castores, presas, nidos y hasta el comportamiento manipulado de otros organismos.
+El gen ejerce un <span class="key-term">largo alcance</span>: su fenotipo incluye castores, presas, nidos y hasta el comportamiento manipulado de otros organismos.
 
 ---
 

@@ -60,7 +60,7 @@ Coyne escribe para quienes aceptan la evolución pero no saben cómo defenderla 
 ## title: ¿Qué es la evolución?
 
 <!-- paragraph lead -->
-La naturaleza parece diseñada: camaleones, colibríes, orquídeas que engañan a polinizadores. <span class="person">William Paley</span> (<span class="num">1802</span>) argumentó que, como un reloj implica relojero, la complejidad biológica implica un Diseñador. Darwin ofreció la alternativa: <span class="term">evolución</span> y <span class="term">selección natural</span>.
+La naturaleza parece diseñada: camaleones, colibríes, orquídeas que engañan a polinizadores. <span class="person">William Paley</span> (<span class="num">1802</span>) argumentó que, como un reloj implica relojero, la complejidad biológica implica un Diseñador. Darwin fue quien ofreció la alternativa: <span class="term">evolución</span> y <span class="term">selección natural</span>.
 
 <!-- paragraph -->
 La evolución moderna se resume en seis componentes: cambio genético en el tiempo, <span class="term">gradualismo</span> (cambios grandes requieren miles o millones de generaciones), <span class="term">especiación</span> (linajes que dejan de intercambiar genes), <span class="term">ascendencia común</span> (todos compartimos ancestros), selección natural como mecanismo principal, y otros mecanismos menores como la deriva génica.
@@ -112,7 +112,7 @@ Los fósiles no son prueba circunstancial: son predicciones cumplidas del árbol
 ## title: Vestigios: remanentes, embriones y mal diseño
 
 <!-- paragraph lead -->
-Los organismos son <span class="term">palimpsestos</span> evolutivos, como manuscritos medievales reescritos donde trazas del texto original persisten. <span class="person">Theodosius Dobzhansky</span> resumió la idea: «Nada en biología tiene sentido excepto a la luz de la evolución.»
+Los organismos son <span class="term">palimpsestos</span> evolutivos, como manuscritos medievales reescritos donde trazas del texto original persisten. <span class="person">Theodosius Dobzhansky</span> lo resumió con la frase: «Nada en biología tiene sentido excepto a la luz de la evolución.»
 
 <!-- paragraph -->
 Los <span class="term">órganos vestigiales</span> son rasgos que perdieron la función para la cual evolucionaron: alas de avestruz (útiles pero reveladoras de ancestros voladores), apéndice, pelos erector pili. Un rasgo puede ser vestigial y funcional a la vez — lo vestigial indica la función ancestral, no ausencia de uso actual.
@@ -209,7 +209,7 @@ La <span class="term">especiación</span> ocurre cuando poblaciones acumulan dif
 Los modos principales son la especiación <span class="term">alopátrica</span> (poblaciones separadas geográficamente) y la <span class="term">simpátrica</span> (misma área, a menudo por cambio de host o poliploidía en plantas). Más del 99 % de las especies se extingue sin descendientes, y la diversidad actual es fruto de ramificaciones exitosas.
 
 <!-- key -->
-Especiación = evolución de <span class="key-term">barreras reproductivas</span>; explica por qué hay millones de especies en vez de una sola.
+La <span class="key-term">especiación</span> consiste en la evolución de barreras reproductivas, lo que explica por qué hay millones de especies en vez de una sola.
 
 ---
 

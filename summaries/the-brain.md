@@ -171,7 +171,7 @@ Decidir no es un acto único del yo: es competencia entre sistemas automáticos,
 Neuronas <span class="term">espejo</span> y circuitos de empatía nos permiten simular estados ajenos. La soledad crónica daña la salud como el tabaquismo. La interacción social depende de neuroquímica (oxitocina, dopamina) y no es un lujo opcional.
 
 <!-- paragraph -->
-El <span class="term">autismo</span> y el <span class="term">síndrome E</span> (empatía reducida) muestran espectros de conexión social. La cultura esculpe cerebros: normas, lenguaje y rituales dejan huellas físicas en redes neuronales.
+El <span class="term">autismo</span> y el <span class="term">síndrome E</span> (empatía reducida) muestran espectros de conexión social. A su vez, la cultura esculpe los cerebros: normas, lenguaje y rituales dejan huellas físicas en redes neuronales.
 
 <!-- paragraph -->
 El estudio de órdenes religiosas dirigido por <span class="person">David Bennett</span> en Rush University reveló que la reserva cognitiva (actividad mental, redes sociales, propósito) puede compensar la patología de Alzheimer en autopsia.

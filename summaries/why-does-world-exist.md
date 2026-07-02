@@ -96,10 +96,10 @@ Holt inicia una investigación periodística: entrevistar a las mentes más auda
 El universo hijo se curvaría sobre sí mismo, invisible desde fuera. Un creador no podría enviar mensajes legibles: la inflación los estiraría exponencialmente. Solo las constantes físicas del «huevo» cósmico podrían codificar una señal para físicos futuros.
 
 <!-- paragraph -->
-Linde, con humor sombrío, sugiere que nuestro cosmos podría haber sido creado por un físico hacker incompetente —no un dios omnisciente. La moraleja: no asumir que un creador sería divino en el sentido tradicional.
+Linde, con humor sombrío, sugiere que nuestro cosmos podría haber sido creado por un físico hacker incompetente —no un dios omnisciente. La moraleja que extrae es no asumir que un creador sería divino en el sentido tradicional.
 
 <!-- key -->
-Crear un universo podría ser mucho más barato —y más fallible— de lo que imagina la teología clásica.
+Crear un universo podría ser mucho más barato, y más fallible, de lo que imagina la teología clásica.
 
 ---
 
@@ -144,7 +144,7 @@ El cero indio permitió aritmética moderna, pero también conceptualizar el vac
 ## title: Breve historia de la nada
 
 <!-- paragraph lead -->
-Desde <span class="person">Coleridge</span>, cuando el niño Hartley imaginaba un mundo sin cosas, hasta poetas como <span class="person">Rochester</span>, Occidente ha fantaseado con la nada. <span class="person">Macbeth</span> dice: «Nada es, sino lo que no es.»
+Desde <span class="person">Coleridge</span>, cuando el niño Hartley imaginaba un mundo sin cosas, hasta poetas como <span class="person">Rochester</span>, Occidente ha fantaseado con la nada. Como señala Macbeth, «Nada es, sino lo que no es.»
 
 <!-- paragraph -->
 Holt recorre teólogos, místicos y físicos que hablaron de vacío: el <span class="term">vacío cuántico</span> no es ausencia total —tiene energía y fluctuaciones. La nada medieval (privación de ser) difiere de la nada de la física de partículas.
@@ -207,7 +207,7 @@ En el Café de Flore parisino, Holt conversa con Jimmy Douglas, voluptuoso super
 Douglas encarna una respuesta estética-existencial: la abundancia del ser se celebra sin prueba lógica. Holt bebe una infusión herbal que «fortalece el hígado» mientras la noche cae sobre Saint-Germain.
 
 <!-- key -->
-Interludio literario: el misterio también se vive en bares, no solo en aulas.
+El capítulo sirve de interludio literario: el misterio también se vive en bares, no solo en aulas.
 
 ---
 
@@ -360,7 +360,7 @@ Más mundos no equivalen automáticamente a mejor explicación del ser.
 ## title: Reflexiones platónicas
 
 <!-- paragraph lead -->
-<span class="person">Pitágoras</span> y el platonismo matemático: ¿el mundo está hecho de números? Hoy muchos matemáticos son platonistas: los objetos matemáticos existen independientemente de mentes.
+Desde <span class="person">Pitágoras</span> hasta hoy, el platonismo matemático plantea la pregunta: ¿el mundo está hecho de números? Muchos matemáticos son platonistas: los objetos matemáticos existen independientemente de mentes.
 
 <!-- paragraph -->
 Holt explora si las estructuras matemáticas podrían explicar la existencia sin Dios. Si el universo es modelo matemático consistente, ¿por qué este y no otros?
@@ -369,7 +369,7 @@ Holt explora si las estructuras matemáticas podrían explicar la existencia sin
 El platonismo explica abundancia de formas, no por qué hay instanciación física. Pope burló el vuelo de misterio a matemáticas: «en vano miran, se marean, deliran y mueren».
 
 <!-- key -->
-Las matemáticas describen posibilidades; el salto a existencia concreta sigue sin resolver.
+Las matemáticas describen posibilidades. El salto a existencia concreta sigue sin resolver.
 
 ---
 

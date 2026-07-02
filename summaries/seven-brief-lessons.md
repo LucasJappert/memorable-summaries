@@ -38,7 +38,7 @@ lang: es
 Estas lecciones están escritas para quienes ignoran casi todo de la ciencia moderna. Juntas ofrecen una panorámica rápida de lo más fascinante de la revolución física de los siglos XX y XXI, y de las preguntas que aún permanecen abiertas.
 
 <!-- paragraph -->
-La primera lección trata la relatividad general de Einstein; la segunda, la mecánica cuántica; la tercera, el cosmos; la cuarta, las partículas elementales; la quinta, la gravedad cuántica; la sexta, la probabilidad y el calor de los agujeros negros; la séptima, nosotros mismos frente a ese mundo.
+Las primeras seis lecciones recorren la relatividad general, la mecánica cuántica, la arquitectura del cosmos, las partículas elementales, la gravedad cuántica y la probabilidad ligada al calor de los agujeros negros. La séptima reflexiona sobre nosotros mismos frente a ese mundo.
 
 <!-- paragraph -->
 Son expansiones de artículos publicados en el suplemento dominical del diario italiano <em>Il Sole 24 Ore</em>. Rovelli agradece a <span class="person">Armando Massarenti</span> por abrir las páginas culturales del domingo a la ciencia.
@@ -54,7 +54,7 @@ Son expansiones de artículos publicados en el suplemento dominical del diario i
 En <span class="num">1905</span> Einstein envió tres artículos revolucionarios al <em>Annalen der Physik</em>. El tercero presentó la relatividad especial, pero no encajaba con la gravedad newtoniana. Diez años de trabajo culminaron en noviembre de <span class="num">1915</span> con la <span class="term">relatividad general</span>, «la teoría más bella» según <span class="person">Lev Landau</span>.
 
 <!-- paragraph -->
-Tras Faraday y Maxwell, Einstein comprendió que la gravedad debe transmitirse por un campo. Su intuición decisiva fue que el <span class="term">campo gravitatorio es el espacio mismo</span>. Newton imaginó un espacio vacío más una fuerza a distancia; Einstein unificó ambos en un espacio que ondula, se curva y se retuerce.
+Tras Faraday y Maxwell, Einstein comprendió que la gravedad debe transmitirse por un campo. Su intuición decisiva fue que el <span class="term">campo gravitatorio es el espacio mismo</span>. Newton imaginó un espacio vacío más una fuerza a distancia. Einstein, en cambio, los unificó en un espacio que ondula, se curva y se retuerce.
 
 <!-- paragraph -->
 Gauss describió superficies curvas y su alumno <span class="person">Riemann</span> generalizó la idea a dimensiones superiores. La curvatura R equivale a la energía de la materia. Las predicciones se verificaron una tras otra: desviación de la luz (<span class="num">1919</span>), dilatación temporal en altura, agujeros negros, expansión del universo, radiación cósmica de fondo y ondas gravitacionales con una precisión de 1:10¹¹.
@@ -64,7 +64,7 @@ Gauss describió superficies curvas y su alumno <span class="person">Riemann</sp
 — Carlo Rovelli (parafraseando la idea de Einstein)
 
 <!-- key -->
-Una intuición elemental —espacio = campo gravitatorio— se condensa en una ecuación que predijo un universo más extraño que cualquier ficción.
+La intuición elemental de que el espacio es el campo gravitatorio se condensa en una ecuación que predijo un universo más extraño que cualquier ficción.
 
 ---
 
@@ -134,10 +134,10 @@ Por ahora el Modelo Estándar es lo mejor que tenemos para la materia: feo quiz�
 La relatividad general describe un espacio curvo y continuo. La mecánica cuántica exige saltos discretos. Ambas funcionan en su dominio, pero se contradicen. La <span class="term">gravedad cuántica</span> busca la síntesis, como Newton unió caídas y órbitas o Maxwell electricidad y magnetismo.
 
 <!-- paragraph -->
-La <span class="term">gravedad cuántica de bucles</span>, en la que trabaja Rovelli, propone que el espacio no es continuo sino granular: «átomos de espacio» del orden de 10⁻³³ cm enlazados en redes. El espacio no contiene cosas; es esa red. El tiempo fundamental también desaparece y el cambio es local.
+La <span class="term">gravedad cuántica de bucles</span>, en la que trabaja Rovelli, propone que el espacio no es continuo sino granular: «átomos de espacio» del orden de 10⁻³³ cm enlazados en redes. El espacio no contiene cosas sino que es esa red misma. El tiempo fundamental también desaparece y el cambio es local.
 
 <!-- paragraph -->
-Las predicciones siguen siendo especulativas: estrellas colapsadas que rebotan como «estrellas de Planck», agujeros negros que explotan en cámara lenta, un posible <span class="term">Big Bounce</span> en lugar de un Big Bang único. Aún no hay verificación experimental directa.
+Las predicciones concretas de este enfoque siguen siendo especulativas: estrellas colapsadas que rebotan como «estrellas de Planck», agujeros negros que explotan en cámara lenta, un posible <span class="term">Big Bounce</span> en lugar de un Big Bang único. Aún no hay verificación experimental directa.
 
 <!-- key -->
 Espacio y tiempo emergen de interacciones cuánticas, más lejos aún de nuestros instintos que las otras revoluciones.
@@ -159,7 +159,7 @@ Esa probabilidad clásica, ligada a nuestra ignorancia de los microestados, no e
 <span class="person">Stephen Hawking</span> demostró que los agujeros negros tienen temperatura y emiten calor (radiación Hawking), el primer indicio de que el espacio puede comportarse como algo «caliente». Ese hallazgo une cuántica, gravedad y termodinámica, y es una pista central para entender el tiempo.
 
 <!-- key -->
-Solo cuando hay intercambio de calor distinguimos pasado de futuro; nuestro reloj interior es estadístico, no fundamental.
+Solo cuando hay intercambio de calor distinguimos pasado de futuro. Nuestro reloj interior es estadístico, no fundamental.
 
 ---
 
@@ -172,7 +172,7 @@ Solo cuando hay intercambio de calor distinguimos pasado de futuro; nuestro relo
 ¿Qué somos en un cosmos de quanta y campos? Observadores que construyen una «fotografía» de la realidad, nodos en una red de intercambio de información, parte integral del mundo y no espectadores externos.
 
 <!-- paragraph -->
-Schelling creía al hombre cumbre de la naturaleza; hoy sabemos que somos un rincón remoto, parientes de mariposas y álamos. Kant pensaba categorías universales, pero evolucionan con nuestra especie. La ciencia no es ficción campamental: sigue rastros como nuestros antepasados en la sabana.
+Schelling creía que el hombre era la cumbre de la naturaleza, pero hoy sabemos que somos un rincón remoto, parientes de mariposas y álamos. Kant pensaba categorías universales, pero evolucionan con nuestra especie. La ciencia no es ficción campamental: sigue rastros como nuestros antepasados en la sabana.
 
 <!-- paragraph -->
 La libertad no viola las leyes naturales: actuar según procesos neuronales internos. Para Spinoza, el «yo» es el complejo neuronal mismo. La consciencia sigue abierta (Tononi y la teoría de información integrada). Valores, lágrimas y música son reales precisamente por ser naturaleza.
