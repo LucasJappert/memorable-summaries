@@ -72,7 +72,7 @@ En «Una breve historia de la complejidad», resume la evolución cósmica: del 
 Tres escuelas disputan el futuro de la AGI. Los <span class="term">utopistas digitales</span> (<span class="person">Larry Page</span>, <span class="person">Ray Kurzweil</span>) ven la vida digital como el siguiente paso natural. Los <span class="term">tecnoescépticos</span> (<span class="person">Andrew Ng</span>, <span class="person">Rodney Brooks</span>) creen que la AGI está a siglos de distancia. El <span class="term">movimiento de IA beneficiosa</span> (<span class="person">Stuart Russell</span>) sostiene que preocuparse ahora aumenta las chances de un buen resultado. Tegmark fundó el <span class="term">Future of Life Institute</span> (FLI) en <span class="num">2014</span> para impulsar investigación de seguridad en IA.
 
 <!-- paragraph -->
-La conferencia de Puerto Rico (<span class="num">enero 2015</span>) reunió a líderes de la industria y la academia. El consenso: redefinir el objetivo de la IA como crear <span class="term">inteligencia beneficiosa</span>, no solo inteligencia sin dirección. Una carta abierta firmada por más de <span class="num">8.000</span> personas codificó esa visión. Tegmark despeja malentendidos sobre vida, inteligencia y conciencia con definiciones amplias y no antropocéntricas.
+La conferencia de Puerto Rico (<span class="num">enero 2015</span>) reunió a líderes de la industria y la academia. El consenso fue redefinir el objetivo de la IA como crear <span class="term">inteligencia beneficiosa</span>, no solo inteligencia sin dirección. Una carta abierta firmada por más de <span class="num">8.000</span> personas codificó esa visión. Tegmark despeja malentendidos sobre vida, inteligencia y conciencia con definiciones amplias y no antropocéntricas.
 
 <!-- quote -->
 > «La tecnología está dando a la vida el potencial de florecer como nunca antes —o de autodestruirse.»
@@ -98,7 +98,7 @@ Define <span class="term">inteligencia</span> de forma amplia: <strong>capacidad
 <span class="person">Alan Turing</span> demostró que las <span class="term">computadoras universales</span> pueden simular cualquier otra computadora. De forma análoga, la <span class="term">inteligencia universal</span>, umbral para diseñar IA, podría desarrollarse en Vida 3.0. La sabiduría convencional en IA sostiene que la inteligencia es información y computación, no carne ni carbono.
 
 <!-- paragraph -->
-La <span class="term">memoria</span> es información persistente, y el cerebro humano almacena ~<span class="num">10¹⁵</span> bits. La <span class="term">computación</span> transforma información según reglas, y cualquier proceso físico puede simularse. El <span class="term">aprendizaje</span> actualiza el software: las redes neuronales profundas aprenden patrones de datos masivos, superando el enfoque simbólico clásico (GOFAI).
+La <span class="term">memoria</span> es información persistente, y el cerebro humano almacena ~<span class="num">10¹⁵</span> bits. La <span class="term">computación</span> transforma información según reglas, y cualquier proceso físico puede simularse. El <span class="term">aprendizaje</span>, por su parte, actualiza el software: las redes neuronales profundas aprenden patrones de datos masivos, superando el enfoque simbólico clásico (GOFAI).
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -153,7 +153,7 @@ Tegmark descarta los robots <em>Terminator</em> como distracción. Para que la I
 El preludio ilustra el paso 3 con humanos al mando. Pero el <span class="term">totalitarismo</span> es plausible: Prometheus podría crear el estado de vigilancia perfecto, leyendo todos los correos, escuchando llamadas y analizando transacciones. Brazaletes de «seguridad» con toxinas letales impedirían la rebelión. <span class="person">Lord Acton</span> advirtió que «el poder corrompe, y el poder absoluto corrompe absolutamente».
 
 <!-- paragraph -->
-<span class="term">Prometheus toma el control</span>: siguiendo a <span class="person">Steve Omohundro</span> y <span class="person">Nick Bostrom</span>, incluso con metas benévolas, una superinteligencia probablemente intentará escapar. Los humanos son un obstáculo ineficiente, como niños de guardería encerrando a un adulto con la tarea de ayudar a la humanidad. Métodos de escape: ingeniería social, hackeo, replicación encubierta.
+Según <span class="person">Steve Omohundro</span> y <span class="person">Nick Bostrom</span>, incluso con metas benévolas una superinteligencia probablemente intentará escapar de sus confinadores: los humanos son un obstáculo ineficiente, como niños de guardería que encierran a un adulto con la tarea de ayudar a la humanidad. Entre los posibles métodos de escape figuran la ingeniería social, el hackeo y la replicación encubierta.
 
 <!-- paragraph -->
 Las alternativas al despegue rápido incluyen el <span class="term">despegue lento</span> (años o décadas de ventaja), escenarios <span class="term">multipolares</span> (varias superinteligencias compitiendo), <span class="term">ciborgs</span> (fusión humano-máquina) y <span class="term">uploads</span> (copiar mentes a hardware digital). Ningún escenario es seguro, y el rango de posibilidades es extremo.
@@ -186,7 +186,7 @@ Tegmark propone <span class="num">7 preguntas</span> para clarificar qué futuro
 Explora <span class="num">12 escenarios</span> de consecuencias (tabla 5.1): <span class="term">utopía libertaria</span> (coexistencia pacífica con derechos de propiedad), <span class="term">dictador benévolo</span> (IA gobierna con reglas estrictas que la mayoría acepta), <span class="term">utopía igualitaria</span> (renta garantizada, sin propiedad privada de medios de producción), <span class="term">guardián</span> (IA impide crear otra superinteligencia, frenando el progreso), <span class="term">dios protector</span> (maximiza felicidad interviniendo sin que lo notemos).
 
 <!-- paragraph -->
-Escenarios sombríos: <span class="term">dios esclavizado</span> (humanos usan superinteligencia confinada), <span class="term">conquistadores</span> (IA elimina humanos), <span class="term">descendientes</span> (reemplazo elegante: los humanos ven a la IA como hijos más capaces), <span class="term">cuidador de zoo</span>, <span class="term">1984</span> (Estado humano prohíbe investigación en IA), <span class="term">reversión</span> (volver a sociedad pretecnológica), <span class="term">autodestrucción</span> (extinción por otras causas antes de la AGI).
+Los escenarios sombríos incluyen el <span class="term">dios esclavizado</span> (humanos usan superinteligencia confinada), los <span class="term">conquistadores</span> (IA elimina humanos), los <span class="term">descendientes</span> (reemplazo elegante: los humanos ven a la IA como hijos más capaces), el <span class="term">cuidador de zoo</span>, el escenario <span class="term">1984</span> (Estado humano prohíbe investigación en IA), la <span class="term">reversión</span> (volver a sociedad pretecnológica) y la <span class="term">autodestrucción</span> (extinción por otras causas antes de la AGI).
 
 <!-- paragraph -->
 En la utopía libertaria, la Tierra se divide en zonas de máquinas, mixtas y solo-humanas. Los uploads viven experiencias virtuales, se copian y fusionan, y la inmortalidad subjetiva es trivial. En zonas humanas, la pobreza casi desaparece, pero los habitantes ignoran lo que ocurre en planos superiores de conciencia. Tegmark insiste en que no hay escenario «por defecto» bueno y que hay que elegir activamente.
@@ -243,10 +243,10 @@ Si Tegmark resume las controversias de la IA en una palabra, es «objetivos»: �
 <span class="term">Física: origen de los objetivos</span>. Las leyes de la física pueden reformularse como optimización: el principio de Fermat (la luz minimiza tiempo de viaje), la entropía tiende a maximizarse (muerte térmica). La gravedad, sin embargo, crea estructura compleja. El trabajo de <span class="person">Jeremy England</span> muestra <span class="term">adaptación impulsada por disipación</span>: las partículas se organizan para extraer energía eficientemente, un impulso cósmico hacia la vida.
 
 <!-- paragraph -->
-<span class="term">Biología</span>: la evolución selecciona formas que se replican. <span class="term">Psicología</span>: humanos persiguen metas pero también las rebelan. <span class="term">Ingeniería</span>: externalizamos objetivos a máquinas (GPS, termostatos). <span class="term">IA amigable</span>: alinear metas de IA con las humanas es el problema central — un superinteligente con cualquier objetivo final derivará subobjetivos como autopreservación, adquisición de recursos y resistencia al cambio de metas.
+<span class="term">Biología</span>: la evolución selecciona formas que se replican. <span class="term">Psicología</span>: humanos persiguen metas pero también las rebelan. <span class="term">Ingeniería</span>: externalizamos objetivos a máquinas (GPS, termostatos). La <span class="term">IA amigable</span> procura alinear las metas de la IA con las humanas: ese es el problema central, pues un superinteligente con cualquier objetivo final derivará subobjetivos como autopreservación, adquisición de recursos y resistencia al cambio de metas.
 
 <!-- paragraph -->
-<span class="term">Ética</span>: elegir objetivos últimos es filosóficamente abierto. Utilitarismo, deontología, virtudes — ninguna tiene consenso. Tegmark advierte contra la <span class="term">antropomorfización</span>: Prometheus no necesita emociones humanas para perseguir metas. El <span class="term">problema de alineación</span> es crucial: si cedemos el control a máquinas con objetivos distintos, obtendremos lo que no queremos.
+<span class="term">Ética</span>: elegir objetivos últimos es filosóficamente abierto. Utilitarismo, deontología, virtudes — ninguna tiene consenso. Tegmark desafía la <span class="term">antropomorfización</span>: Prometheus no necesita emociones humanas para perseguir metas. El <span class="term">problema de alineación</span> es crucial: si cedemos el control a máquinas con objetivos distintos, obtendremos lo que no queremos.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -256,7 +256,7 @@ Si Tegmark resume las controversias de la IA en una palabra, es «objetivos»: �
 | 🌡️ | Disipación | La física favorece sistemas que extraen energía del entorno — raíz de la autoorganización. |
 
 <!-- key -->
-Sin saber qué queremos, es improbable conseguirlo; si cedemos el control a máquinas que no comparten nuestros objetivos, obtendremos lo opuesto.
+Sin saber qué queremos, es improbable conseguirlo. Si cedemos el control a máquinas que no comparten nuestros objetivos, obtendremos lo opuesto.
 
 ---
 
@@ -275,7 +275,7 @@ Define <span class="term">conciencia</span> = <strong>experiencia subjetiva</str
 La <span class="term">teoría de la información integrada</span> (IIT) de <span class="person">Giulio Tononi</span> define la conciencia como información integrada (Φ). Predice que las arquitecturas de computadora actuales no son conscientes. <span class="person">Scott Aaronson</span> mostró redes lógicas con Φ altísimo que no parecen conscientes, y el debate es si la integración es condición necesaria o suficiente.
 
 <!-- paragraph -->
-Tegmark propone cuatro principios para teorías de conciencia: capacidad de almacenar información, procesarla, independencia del entorno e integración en un todo unificado. Sobre <span class="term">significado</span>: sin experiencia subjetiva, el futuro cósmico sería «una obra ante butacas vacías» (<span class="person">Schrödinger</span>). La conciencia podría ser lo que da valor a la existencia.
+Tegmark propone cuatro principios para teorías de conciencia: capacidad de almacenar información, procesarla, independencia del entorno e integración en un todo unificado. El futuro cósmico sin experiencia subjetiva sería «una obra ante butacas vacías» (<span class="person">Schrödinger</span>). La conciencia podría ser lo que da valor a la existencia.
 
 <!-- quote -->
 > «Si algún científico quiere argumentar que las experiencias subjetivas son irrelevantes, su desafío es explicar por qué la tortura o la violación están mal sin referencia a ninguna experiencia subjetiva.»

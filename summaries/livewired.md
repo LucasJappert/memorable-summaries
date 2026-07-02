@@ -57,7 +57,7 @@ El cerebro no es plástica moldeada una vez: es <span class="key-term">liveware<
 
 <!-- paragraph lead -->
 
-Eagleman usa la metáfora del rover marciano. En lugar de enviar un vehículo de <span class="num">400</span> libras, bastaría una esfera que se replica y arma sensores. Los bebés hacen eso: de un óvulo fertilizado a un organismo con detectores de fotones y extremidades articuladas.
+Eagleman usa la metáfora del rover marciano. En lugar de enviar un vehículo de <span class="num">400</span> libras, bastaría una esfera que se replica y arma sensores. La naturaleza ilustra eso en cada bebé: de un óvulo fertilizado emerge un organismo con detectores de fotones y extremidades articuladas.
 
 <!-- paragraph -->
 
@@ -101,7 +101,7 @@ La analogía postguerra de Tokio ilustra el punto. Después de perder la industr
 
 <!-- key -->
 
-Cerebro + mundo = especialización; sin inputs, el mapa queda incompleto.
+Cerebro y mundo juntos generan especialización. Sin inputs del entorno, el mapa queda incompleto.
 
 
 ---
@@ -117,7 +117,7 @@ Los <span class="term">monos de Silver Spring</span> mostraron cómo la experien
 
 <!-- paragraph -->
 
-La colonización cortical es negocio a tiempo completo: territorios competidos según uso. Sueño y rotación planetaria: el cerebro ajusta modelos internos al ritmo del mundo.
+La colonización cortical es negocio a tiempo completo: territorios competidos según uso. El sueño y la rotación planetaria también actúan: el cerebro ajusta sus modelos internos al ritmo del mundo.
 
 <!-- paragraph -->
 
@@ -145,7 +145,7 @@ La corteza reutiliza «un solo truco» sensorial. Es multipropósito. Importa la
 
 <!-- paragraph -->
 
-Pregunta abierta: ¿colores o sensaciones totalmente nuevos son imaginables una vez entendida la livewiring?
+Eagleman plantea la pregunta abierta: ¿son imaginables colores o sensaciones totalmente nuevos una vez entendida la livewiring?
 
 <!-- concept-grid -->
 
@@ -157,7 +157,7 @@ Pregunta abierta: ¿colores o sensaciones totalmente nuevos son imaginables una 
 
 <!-- key -->
 
-El cerebro envuelve cualquier entrada correlacionada con conducta; el canal importa poco.
+El cerebro envuelve cualquier entrada correlacionada con conducta. El canal importa poco.
 
 
 ---
@@ -173,7 +173,7 @@ No hay plano estándar del cuerpo en el cerebro. El <span class="term">motor bab
 
 <!-- paragraph -->
 
-Corteza motora reorganizable: violinistas, gamers y usuarios de prótesis muestran mapas distintos. Autocontrol y marshmallow test enlazan motor con función ejecutiva.
+La corteza motora es reorganizable: violinistas, gamers y usuarios de prótesis muestran mapas distintos. Autocontrol y marshmallow test enlazan motor con función ejecutiva.
 
 <!-- paragraph -->
 
@@ -181,7 +181,7 @@ Un cerebro, infinitos «planos corporales»: la maquinaria motora se adapta a he
 
 <!-- key -->
 
-Mejor cuerpo = mejor mapa motor; la práctica funde herramienta y miembro.
+A mejor cuerpo, mejor mapa motor. La práctica funde herramienta y miembro.
 
 
 ---
@@ -197,7 +197,7 @@ Mejor cuerpo = mejor mapa motor; la práctica funde herramienta y miembro.
 
 <!-- paragraph -->
 
-Nativos digitales: cerebros optimizados para entornos que sus abuelos no conocían. La motivación y recompensa son palancas de livewiring.
+Los nativos digitales muestran cerebros optimizados para entornos que sus abuelos no conocían. La motivación y la recompensa son palancas de livewiring.
 
 <!-- key -->
 
@@ -261,7 +261,7 @@ Los <span class="term">períodos sensibles</span> son ventanas en que los circui
 
 <!-- paragraph -->
 
-Aun así, adultos cambian: músicos tardíos, rehabilitación, bilingüismo. La livewiring nunca cesa. Solo baja la velocidad y sube el coste.
+Aun así, los adultos también cambian: músicos tardíos, rehabilitación y bilingüismo lo confirman. La livewiring nunca cesa. Solo baja la velocidad y sube el coste.
 
 <!-- key -->
 
@@ -281,7 +281,7 @@ El enemigo de la memoria no es el tiempo, sino otras memorias que interfieren. E
 
 <!-- paragraph -->
 
-Más allá de sinapsis: daisy-chaining de historiales modifica recuperación. Hablar con tu «yo futuro» es modelar un agente con circuitos distintos al presente.
+La memoria opera más allá de sinapsis: el daisy-chaining de historiales modifica la recuperación. Hablar con tu «yo futuro» es modelar un agente con circuitos distintos al presente.
 
 <!-- key -->
 
@@ -321,7 +321,7 @@ Livewiring vence al diseño rígido cuando el entorno sorprende.
 
 <!-- paragraph -->
 
-Identidad es trayectoria de reconfiguraciones, no esencia fija. Hemos encontrado a los cambiapieles: somos nosotros.
+La identidad es trayectoria de reconfiguraciones, no esencia fija. Los cambiapieles somos nosotros.
 
 <!-- key -->
 

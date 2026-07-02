@@ -53,7 +53,7 @@ lang: es
 Desde los primeros humanos hasta las grandes revoluciones <span class="term">cognitiva</span>, <span class="term">agrícola</span> y <span class="term">científica</span>, el libro proyecta también el futuro de los milenios venideros. El autor, <span class="person">Yuval Noah Harari</span>, historiador israelí formado en Oxford, alcanzó fama mundial con esta obra.
 
 <!-- key -->
-Este resumen sigue la estructura de un texto abreviado de Sapiens Editorial; no sustituye la lectura del libro completo de Harari.
+Este resumen sigue la estructura de un texto abreviado de Sapiens Editorial. No sustituye la lectura del libro completo de Harari.
 
 ---
 
@@ -66,7 +66,7 @@ Este resumen sigue la estructura de un texto abreviado de Sapiens Editorial; no 
 El <span class="term">Big Bang</span> describe el origen de materia y energía hace unos <span class="num">13.500 millones</span> de años. Unos <span class="num">300.000</span> años después surgieron átomos y moléculas, y hace <span class="num">3.800 millones</span> de años en la Tierra aparecieron organismos, entre ellos el <span class="term">Homo sapiens</span>.
 
 <!-- paragraph -->
-Hace <span class="num">70.000</span> años la especie formó estructuras más complejas llamadas <span class="term">culturas</span>, y su desarrollo es la <span class="term">historia</span>. Tres revoluciones la marcaron: la cognitiva (~<span class="num">70.000</span> a), la agrícola (~<span class="num">12.000</span> a) y la científica (~<span class="num">500</span> años).
+Hace <span class="num">70.000</span> años la especie formó estructuras más complejas llamadas <span class="term">culturas</span>, y su desarrollo es la <span class="term">historia</span>. Las tres revoluciones que la marcaron son la cognitiva (~<span class="num">70.000</span> a), la agrícola (~<span class="num">12.000</span> a) y la científica (~<span class="num">500</span> años).
 
 <!-- key -->
 La historia humana es la historia de revoluciones que transformaron cómo nos organizamos.
@@ -85,7 +85,7 @@ Los primeros humanos surgieron en el <span class="term">este de África</span> h
 Al expandirse hacia Europa y Asia surgieron especies distintas: <span class="term">Homo neanderthalensis</span> en Europa y Asia occidental, <span class="term">Homo erectus</span> en Asia oriental durante dos millones de años, y <span class="term">Homo sapiens</span> hace <span class="num">300.000</span> años —la única que aún domina el planeta.
 
 <!-- key -->
-La diversidad de especies humanas refleja adaptaciones geográficas; solo el sapiens sobrevivió.
+La diversidad de especies humanas refleja adaptaciones geográficas. Solo el sapiens sobrevivió.
 
 ---
 
@@ -95,7 +95,7 @@ La diversidad de especies humanas refleja adaptaciones geográficas; solo el sap
 ## title: Un ser singular
 
 <!-- paragraph lead -->
-Rasgos comunes: cerebro grande (<span class="num">2–3%</span> del peso corporal, <span class="num">25%</span> de la energía), bipedestación, partos prematuros y vínculos sociales fuertes para criar crías indefensas.
+Los rasgos comunes del sapiens incluyen cerebro grande (<span class="num">2–3%</span> del peso corporal, <span class="num">25%</span> de la energía), bipedestación, partos prematuros y vínculos sociales fuertes para criar crías indefensas.
 
 <!-- paragraph -->
 El <span class="term">fuego</span> fue el primer gran descubrimiento que separó al hombre de los animales. Cerebro, herramientas, aprendizaje y estructuras sociales complejas convirtieron al sapiens en la especie más poderosa —con ambivalencia entre superioridad y miedo.
@@ -136,7 +136,7 @@ La <span class="term">psicología evolutiva</span> sugiere que hábitos alimenta
 La teoría de la «comuna primitiva» explica infidelidades como herencia de estructuras sin propiedad privada ni paternidad segura. Otros eruditos defienden la monogamia como comportamiento histórico humano. No hubo un único modo de vida desde la revolución cognitiva, sino un abanico de opciones culturales.
 
 <!-- paragraph -->
-La mayoría de cazadores-recolectores tenían dieta sana, poca carga laboral y pocas enfermedades infecciosas, pero alta mortalidad infantil. Muchos eran <span class="term">animistas</span>: creen que lugares, animales y fenómenos tienen conciencia y pueden comunicarse con humanos.
+La mayoría de cazadores-recolectores tenían dieta sana, poca carga laboral y pocas enfermedades infecciosas, pero alta mortalidad infantil. Muchos eran <span class="term">animistas</span>, pues creían que lugares, animales y fenómenos tienen conciencia y pueden comunicarse con humanos.
 
 <!-- key -->
 Nuestro presente convive con herencias del pasado paleolítico en cuerpo y mente.

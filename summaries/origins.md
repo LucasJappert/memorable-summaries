@@ -137,7 +137,7 @@ Esa radiación primordial, hoy enfriada a microondas (<span class="num">2,73 K</
 | 2009–2013 | Planck mapea la CBR con precisión sin precedentes. |
 
 <!-- key -->
-El universo nació en un blaze de luz que sigue llenando el espacio; la expansión lo diluyó hasta el resplandor microondas detectable hoy.
+El universo nació en un destello de luz que sigue llenando el espacio. La expansión lo diluyó hasta el resplandor de microondas detectable hoy.
 
 ---
 
@@ -267,7 +267,7 @@ Hubble midió la relación distancia-velocidad de recesión: cuanto más lejos u
 | 1929 | Ley de Hubble: expansión del universo. |
 
 <!-- key -->
-Las «nubes» del cielo son islas de estrellas a distancias inconcebibles; descubrirlas transformó nuestra escala cósmica.
+Las «nubes» del cielo son islas de estrellas a distancias inconcebibles. Descubrirlas transformó nuestra escala cósmica.
 
 ---
 
@@ -305,7 +305,7 @@ Las manchas oscuras de la Vía Láctea no son «agujeros» al vacío: son <span 
 Estrellas en fase de <span class="term">gigante roja</span> expulsan granos de polvo al espacio. En regiones como la nebulosa de Orión, miles de estrellas nacen de nubes de ~un millón de masas solares. El polvo y el gas son indispensables para una segunda generación estelar y para los elementos pesados que forman planetas y vida.
 
 <!-- key -->
-Del polvo interestelar —literalmente— nacen las estrellas que iluminan el cosmos.
+Del polvo interestelar, literalmente, nacen las estrellas que iluminan el cosmos.
 
 ---
 
@@ -337,13 +337,13 @@ Los planetas existen pero su origen inicial sigue siendo uno de los enigmas más
 Copérnico situó la Tierra entre los planetas del Sol, lo que sugiere mundos innumerables con posibles habitantes. <span class="person">Giordano Bruno</span> pagó con la vida en <span class="num">1600</span> su defensa de mundos alienígenas.
 
 <!-- paragraph -->
-Hasta <span class="num">1995</span> no se confirmó ningún <span class="term">exoplaneta</span>. Luego llegó la avalancha: hoy más de <span class="num">5.000</span> mundos conocidos con órbitas, tamaños y composiciones diversos — algunos en la <span class="term">zona habitable</span>, otras órbitas extremas que desafían modelos.
+Hasta <span class="num">1995</span> no se confirmó ningún <span class="term">exoplaneta</span>. Luego, los descubrimientos llegaron en avalancha: hoy más de <span class="num">5.000</span> mundos conocidos con órbitas, tamaños y composiciones diversos — algunos en la <span class="term">zona habitable</span>, otros en órbitas extremas que desafían modelos.
 
 <!-- paragraph -->
-Métodos de detección: velocidad radial (wobble estelar), tránsitos (atenuación de luz), microlentes gravitacionales e imagen directa. Los exoplanetas son laboratorio cósmico para preguntar cuándo y cómo surge la vida más allá del Sistema Solar.
+Los métodos de detección incluyen la velocidad radial (wobble estelar), los tránsitos (atenuación de luz), las microlentes gravitacionales y la imagen directa. Los exoplanetas son laboratorio cósmico para preguntar cuándo y cómo surge la vida más allá del Sistema Solar.
 
 <!-- key -->
-De la especulación pasamos a un catálogo de miles de mundos; la pregunta ya no es «¿hay planetas?» sino «¿cuántos son habitables?».
+De la especulación pasamos a un catálogo de miles de mundos. La pregunta ya no es «¿hay planetas?» sino «¿cuántos son habitables?».
 
 ---
 
@@ -367,7 +367,7 @@ La detección masiva de exoplanetas inclina hacia el optimismo sobre vida abunda
 - **Civilización tecnológica** — capaz de señales interstelares; su longevidad es el factor más desconocido.
 
 <!-- key -->
-Drake organiza nuestra ignorancia: sabemos contar estrellas y planetas mejor que originar o sostener civilizaciones.
+Drake resume nuestra ignorancia: sabemos contar estrellas y planetas mejor que originar o sostener civilizaciones.
 
 ---
 
@@ -377,7 +377,7 @@ Drake organiza nuestra ignorancia: sabemos contar estrellas y planetas mejor que
 ## title: El origen de la vida en la Tierra
 
 <!-- paragraph lead -->
-Definición operativa de vida: conjuntos de objetos que se <span class="term">reproducen y evolucionan</span>. No basta autorreplicarse (el fuego también lo hace). Ningún objeto aislado califica: hay que seguir poblaciones en el tiempo.
+Tyson define la vida de forma operativa como conjuntos de objetos que se <span class="term">reproducen y evolucionan</span>. No basta autorreplicarse (el fuego también lo hace). No basta con un objeto aislado: hay que seguir poblaciones en el tiempo.
 
 <!-- paragraph -->
 La vida terrestre se compone sobre todo de <span class="term">hidrógeno, oxígeno, carbono y nitrógeno</span> — cuatro de los seis elementos más abundantes del universo (helio y neón son inertes). El principio copernicano favorece que la vida alienígena use la misma química cósmica.
@@ -386,7 +386,7 @@ La vida terrestre se compone sobre todo de <span class="term">hidrógeno, oxíge
 El origen exacto en la Tierra (~<span class="num">4.000–4.600 millones de años</span> atrás) carece de registro fósil claro. Experimentos como <span class="person">Miller-Urey</span> (<span class="num">1953</span>) muestran aminoácidos desde atmósferas primitivas simuladas. Las hipótesis del ARN primero, la quimiosíntesis en fumarolas o la panspermia siguen en debate.
 
 <!-- key -->
-La vida usa los ingredientes más comunes del cosmos; cómo se ensamblaron la primera vez sigue en la niebla del eón Hadeano.
+La vida usa los ingredientes más comunes del cosmos. Cómo se ensamblaron la primera vez sigue en la niebla del eón Hadeano.
 
 ---
 
@@ -402,7 +402,7 @@ La astrobiología exige cuatro condiciones generales: fuente de energía, átomo
 El carbono forma hasta cuatro enlaces débiles y versátiles. El silicio, favorito de la ciencia ficción, enlaza fuerte con oxígeno en rocas estables y resulta poco apto para metabolismo acuoso. La vida alienígena probablemente también será <span class="term">basada en carbono</span>.
 
 <!-- paragraph -->
-Candidatos en el Sistema Solar: <span class="term">Marte</span> (pasado húmedo), <span class="term">Europa</span> y <span class="term">Encélado</span> (océanos subterráneos bajo hielo), <span class="term">Titán</span> (lagos de hidrocarburos), <span class="term">Ceres</span>. Ningún hallazgo concluyente aún, pero las misiones siguen activas.
+Los candidatos en el Sistema Solar son <span class="term">Marte</span> (pasado húmedo), <span class="term">Europa</span> y <span class="term">Encélado</span> (océanos subterráneos bajo hielo), <span class="term">Titán</span> (lagos de hidrocarburos) y <span class="term">Ceres</span>. Ningún hallazgo concluyente aún, pero las misiones siguen activas.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -412,7 +412,7 @@ Candidatos en el Sistema Solar: <span class="term">Marte</span> (pasado húmedo)
 | 🪐 | Titán | Atmósfera densa; química orgánica en superficie fría. |
 
 <!-- key -->
-En nuestro vecindario, la vida —si existe— será probablemente microbiana y ligada al agua o solventes alternativos bajo hielo.
+En nuestro vecindario, la vida, si existe, será probablemente microbiana y estará ligada al agua o a solventes alternativos bajo hielo.
 
 ---
 
@@ -425,7 +425,7 @@ En nuestro vecindario, la vida —si existe— será probablemente microbiana y 
 Para vida <em>compleja</em> hay que mirar exoplanetas, porque en el Sistema Solar solo se esperan formas primitivas. Ya hay ~<span class="num">5.000 exoplanetas</span> catalogados, y los dos primeros términos de Drake apuntan alto. Los de habitabilidad, origen, inteligencia y longevidad civilizatoria siguen casi tan inciertos como antes.
 
 <!-- paragraph -->
-Escenario optimista: fracciones del 10% en cada paso → ~<span class="num">1.000</span> civilizaciones activas en una galaxia de <span class="num">100.000 millones</span> de estrellas. Pesimista (1 en 10.000 cada paso) → ~<span class="num">0,001</span> civilizaciones: estaríamos solos en la media.
+En el escenario optimista, con fracciones del 10% en cada paso, habría ~<span class="num">1.000</span> civilizaciones activas en una galaxia de <span class="num">100.000 millones</span> de estrellas. El escenario pesimista (1 en 10.000 cada paso) implica ~<span class="num">0,001</span> civilizaciones: estaríamos solos en la media.
 
 <!-- paragraph -->
 El <span class="term">SETI</span> busca señales de radio u ópticas artificiales sin éxito concluyente. Explorar la galaxia entera tardaría millones de años, y la escucha electromagnética es el método viable. Detectar biosfirmas espectroscópicas en atmósferas exoplanetarias es la próxima frontera.
@@ -451,7 +451,7 @@ Si naciéramos con ojos sintonizables en radio, microondas o rayos gamma, habrí
 — Parafraseando a Edwin Hubble, por Tyson y Goldsmith
 
 <!-- key -->
-Cada nuevo detector es una ventana cósmica; la búsqueda de nuestro lugar en el universo nos revela también quiénes somos.
+Cada nuevo detector es una ventana cósmica. La búsqueda de nuestro lugar en el universo nos revela también quiénes somos.
 
 ---
 

@@ -115,7 +115,7 @@ Aquí el autor invierte una intuición habitual: el <span class="term">ruido</sp
 En neurodesarrollo, mecanismos como la variabilidad de ramificación y la señalización tipo <span class="term">Notch</span> permiten romper simetrías y obtener patrones robustos. El ruido puede ser parte del programa, no un error externo.
 
 <!-- paragraph -->
-Esto conecta con <span class="term">penetrancia</span>: una mutación puede no expresarse igual en todos los individuos por dependencia de contexto, umbrales y procesos estocásticos. La “información relevante” no es absoluta. Depende del nivel donde se evalúa el fenotipo.
+Esto se conecta con el concepto de <span class="term">penetrancia</span>: una mutación puede no expresarse igual en todos los individuos por dependencia de contexto, umbrales y procesos estocásticos. La “información relevante” no es absoluta. Depende del nivel donde se evalúa el fenotipo.
 
 <!-- key -->
 La precisión biológica suele surgir de ruido + selección, no de control perfecto sin variación.
@@ -211,7 +211,7 @@ Toda inteligencia funciona con arrastre histórico: cada aprendizaje reescribe p
 ## title: Autoensamblaje vs construir primero y entrenar después
 
 <!-- paragraph lead -->
-Aquí se contraponen dos estrategias: <span class="term">diseño top-down</span> (arquitectura fija más entrenamiento) y <span class="term">autoensamblaje</span> (estructura que emerge durante el proceso). La IA dominante usa la primera. El cerebro biológico combina crecimiento, poda, actividad y aprendizaje.
+Aquí se contraponen las dos estrategias: <span class="term">diseño top-down</span> (arquitectura fija más entrenamiento) y <span class="term">autoensamblaje</span> (estructura que emerge durante el proceso). La IA dominante usa la primera. El cerebro biológico combina crecimiento, poda, actividad y aprendizaje.
 
 <!-- paragraph -->
 El autor no niega los éxitos del enfoque actual, pero señala su atajo central: omitir la etapa de desarrollo estructural. En el cerebro, el número de conexiones, los tipos neuronales y los circuitos cambian mientras se aprende. No son solo pesos sinápticos sobre arquitectura estática.
@@ -220,7 +220,7 @@ El autor no niega los éxitos del enfoque actual, pero señala su atajo central:
 Por eso propone explorar más seriamente enfoques evolutivos y de codificación indirecta, donde genotipo, desarrollo y rendimiento se conecten en ciclos de selección. El objetivo no es copiar biología por fetichismo, sino entender qué atajos rompen capacidades generales.
 
 <!-- key -->
-Entrenar redes prefabricadas funciona para tareas acotadas; para inteligencia amplia quizá falte crecimiento.
+Entrenar redes prefabricadas funciona para tareas acotadas. Para inteligencia amplia, quizá falte crecimiento.
 
 ---
 
@@ -236,7 +236,7 @@ El capítulo final abre tres fronteras: interfaces cerebro-máquina, emulación 
 Sobre <span class="term">whole brain emulation</span>, Hiesinger advierte que cualquier simulación depende de atajos de nivel. Cuanto más se recorta detalle dinámico, más se restringe qué clase de inteligencia puede emerger o preservarse.
 
 <!-- paragraph -->
-También vuelve sobre <span class="term">cognitive bias</span>: los sesgos no son solo fallas, sino resultado natural de un sistema que aprende secuencialmente y prioriza coherencia con su historia para predecir el futuro.
+Hiesinger también explora el sesgo cognitivo (<span class="term">cognitive bias</span>): los sesgos no son solo fallas, sino resultado natural de un sistema que aprende secuencialmente y prioriza coherencia con su historia para predecir el futuro.
 
 <!-- concept-grid -->
 | icon | title | description |

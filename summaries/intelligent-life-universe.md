@@ -85,7 +85,7 @@ Luego aparecieron las primeras estrellas (<span class="term">población III</spa
 | 1 pc = 3,26 Ly | Unidad astronómica de distancia |
 
 <!-- key -->
-Sin estrellas no hay carbono ni metales; la química de la vida es herencia directa de la evolución estelar y galáctica.
+Sin estrellas no hay carbono ni metales. La química de la vida es herencia directa de la evolución estelar y galáctica.
 
 ---
 
@@ -112,7 +112,7 @@ El polvo sedimenta en el plano ecuatorial del disco. Fuerzas eléctricas aglutin
 | ☄️ | Cinturón de Kuiper | Objetos helados pequeños en la periferia del sistema. |
 
 <!-- key -->
-La temperatura del disco determina la composición química de cada planeta; la Tierra se formó seca en la zona caliente interior.
+La temperatura del disco determina la composición química de cada planeta. La Tierra se formó seca en la zona caliente interior.
 
 ---
 
@@ -122,7 +122,7 @@ La temperatura del disco determina la composición química de cada planeta; la 
 ## title: La Tierra
 
 <!-- paragraph lead -->
-La vida está ligada a planetas terrestres. La Tierra tiene propiedades esenciales: <span class="term">tectónica de placas</span> que creó continentes y división tierra-mar, una Luna estabilizadora y condiciones en la Tierra primitiva que permitieron el origen de la vida.
+La vida está ligada a planetas terrestres. La Tierra ofrece tres propiedades esenciales: <span class="term">tectónica de placas</span> que creó continentes y la división tierra-mar, una Luna estabilizadora, y condiciones primitivas que permitieron el origen de la vida.
 
 <!-- paragraph -->
 La acumulación por planetesimales terminó ~<span class="num">30–40 Ma</span> después del inicio del sistema solar (<span class="num">4,567 Ga</span>). El bombardeo intenso duró ~600 Ma más, con impactos del tamaño de Ceres, la Luna o Marte que vaporizaban océanos enteros.
@@ -143,7 +143,7 @@ La Luna se formó por impacto de un planetesimal del tamaño de Marte con la pro
 La sismología revela núcleo de hierro-níquel, manto silicatado y corteza. El campo magnético y la expansión del suelo oceánico confirman la tectónica de placas: convección del manto, puntos calientes y deriva continental. Marte y Venus probablemente carecen de tectónica activa comparable.
 
 <!-- key -->
-Sin tierra firme y tectónica activa, la inteligencia capaz de comunicación interestelar —ligada a manos libres en tierra— sería improbable.
+Sin tierra firme y tectónica activa, la inteligencia capaz de comunicación interestelar sería improbable, pues requiere manos libres y bipedestación en tierra.
 
 ---
 
@@ -216,7 +216,7 @@ Un planeta apto para inteligencia necesita masa, atmósfera, agua líquida, estr
 ¿Qué es la vida? Tras secuenciar organismos primitivos, incluidas micoplasmas con ~300 genes, la definición precisa está al alcance. Fenomenológicamente: metabolismo, crecimiento, uso de energía, individualidad, reproducción y mutación en ambiente abiótico. Los virus no califican.
 
 <!-- paragraph -->
-<span class="person">Aristóteles</span> distinguió tres niveles: vegetativo (plantas), sensitivo (animales) y consciente (humano). Ulmschneider pregunta si la naturaleza reserva etapas aún más sofisticadas para la humanidad y los extraterrestres.
+<span class="person">Aristóteles</span> describe tres niveles: vegetativo (plantas), sensitivo (animales) y consciente (humano). Ulmschneider pregunta si la naturaleza reserva etapas aún más sofisticadas para la humanidad y los extraterrestres.
 
 <!-- paragraph -->
 La bioquímica terrestre se basa en cuatro clases de compuestos: <span class="term">proteínas</span> (20 aminoácidos L-quirales codificados por ADN), <span class="term">carbohidratos</span>, <span class="term">lípidos</span> y <span class="term">ácidos nucleicos</span> (ADN/ARN). El código genético traduce tripletes de bases en aminoácidos. El ATP es la moneda energética.
@@ -233,7 +233,7 @@ La bioquímica terrestre se basa en cuatro clases de compuestos: <span class="te
 Las teorías del origen incluyen (1) mundo del ARN, difícil sin ribozimas previas, (2) arcilla autorreplicante (<span class="person">Cairns-Smith</span>), (3) <span class="term">mundo hierro-azufre</span> de Wächtershäuser en chimeneas hidrotermales y (4) «fumadores negros» con microcavernas (<span class="person">Martin & Russell</span>). El LUCA sigue buscándose. Ulmschneider concluye: no sabemos el detalle, pero debe haber una ruta química plausible.
 
 <!-- key -->
-Una vez iniciada, la competencia darwiniana seleccionó los organismos más eficientes; el origen exacto sigue abierto, no su plausibilidad general.
+Una vez iniciada, la competencia darwiniana seleccionó los organismos más eficientes. El origen exacto de la vida sigue abierto, pero no su plausibilidad general.
 
 ---
 
@@ -243,10 +243,10 @@ Una vez iniciada, la competencia darwiniana seleccionó los organismos más efic
 ## title: Evolución
 
 <!-- paragraph lead -->
-¿La vida extraterrestre evolucionaría hacia la inteligencia? En la Tierra, las primeras células aparecieron en pocos cientos de millones de años. Los eucariotas y la multicelularidad tardaron ~3 Ga más. La inteligencia humana, otros ~800 Ma. Dos motores impulsan el cambio: mutación (azar) y selección natural (direccional).
+¿La vida extraterrestre evolucionaría hacia la inteligencia? En la Tierra, las primeras células aparecieron en pocos cientos de millones de años. Los eucariotas y la multicelularidad tardaron ~3 Ga más. La inteligencia humana, otros ~800 Ma. Los dos motores del cambio son la mutación (azar) y la selección natural (direccional).
 
 <!-- paragraph -->
-<span class="person">Darwin</span> argumentó que, en la lucha por la supervivencia, mutaciones aleatorias del ADN producen variantes y la selección favorece las más eficientes. Incluso ventajas pequeñas, con tiempo suficiente, dominan. El debate persiste: ¿la selección predice inteligencia a largo plazo o solo adaptaciones locales? Ulmschneider argumenta que la <span class="term">convergencia evolutiva</span> (p. ej. inteligencia en cuervos comparable a monos) demuestra direccionalidad impuesta por las leyes naturales.
+<span class="person">Darwin</span> argumentó que, en la lucha por la supervivencia, mutaciones aleatorias del ADN producen variantes y la selección favorece las más eficientes. Incluso ventajas pequeñas, con tiempo suficiente, dominan. No está claro si la selección predice inteligencia a largo plazo o solo adaptaciones locales. Ulmschneider argumenta que la <span class="term">convergencia evolutiva</span> (p. ej. inteligencia en cuervos comparable a monos) demuestra direccionalidad impuesta por las leyes naturales.
 
 <!-- paragraph -->
 Entre los hitos evolutivos figuran la endosimbiosis (mitocondrias, cloroplastos) hacia eucariotas, el oxígeno como catástrofe ambiental (~2,4 Ga), la multicelularidad y los genes <span class="term">HOX</span> (~630–542 Ma, explosión ediacárica), la conquista de la tierra por plantas (~470 Ma, Ordovícico) y animales, y el evento K/T (<span class="num">65 Ma</span>, impacto de ~10 km), que extinguió dinosaurios no aviares y abrió camino a mamíferos.
@@ -265,7 +265,7 @@ Entre los hitos evolutivos figuran la endosimbiosis (mitocondrias, cloroplastos)
 La inteligencia humana requiere visión estereoscópica (árbol → sabana), bipedestación con manos libres, vida social, cerebro grande (~30 000 genes), lenguaje y cultura de herramientas. Desde Australopithecus hasta H. sapiens, el volumen cerebral se triplicó. La conquista de la tierra, con mutualismo plantas-animales y selvas tropicales, fue condición previa para primates e inteligencia tecnológica.
 
 <!-- key -->
-Acumular información (genes → cultura) es la estrategia evolutiva ganadora; las mismas leyes de la naturaleza deberían producir inteligencia en planetas similares.
+Acumular información, de genes a cultura, es la estrategia evolutiva ganadora. Las mismas leyes de la naturaleza deberían producir inteligencia en planetas similares.
 
 ---
 
@@ -275,7 +275,7 @@ Acumular información (genes → cultura) es la estrategia evolutiva ganadora; l
 ## title: Búsqueda de vida extraterrestre
 
 <!-- paragraph lead -->
-Dos vías: buscar directamente (Sistema Solar y exoplanetas) o inferir probabilidades estudiando el origen terrestre. Hasta ahora, sin detección confirmada — pero las técnicas mejoran rápidamente.
+La investigación combina dos vías: la búsqueda directa en el Sistema Solar y en exoplanetas, o la inferencia de probabilidades a partir del origen terrestre. Hasta ahora no hay detección confirmada, pero las técnicas mejoran rápidamente.
 
 <!-- paragraph -->
 En el Sistema Solar, <span class="term">Europa</span> (Júpiter) tiene océano subsuperficial bajo hielo. La vida primitiva es posible. <span class="term">Marte</span> tuvo ríos, deltas y océano norteño. Mantuvo atmósfera densa de CO₂ durante cientos de millones de años, luego sufrió glaciation irreversible al cesar la tectónica (~2 Ga). Las misiones Viking (<span class="num">1976</span>) no detectaron vida. Los meteoritos marcianos (ALH84001) suscitaron debate sobre fósiles microscópicos.
@@ -292,7 +292,7 @@ Fuera del Sistema Solar conviene detectar H₂O (banda ~8 μm), O₂ y O₃. Son
 Los <span class="term">OVNI</span> generaron miles de avistamientos desde <span class="num">1947</span> (Kenneth Arnold). El informe Condon (<span class="num">1969</span>) concluyó que 21 años de estudio no añadieron conocimiento científico. Engelados deliberados y malinterpretaciones explican la mayoría de casos.
 
 <!-- key -->
-La detección de O₃ y H₂O en exoplanetas terrestres será el método más prometedor para vida; SETI por radio se trata en el capítulo 10.
+La detección de O₃ y H₂O en exoplanetas terrestres será el método más prometedor para detectar vida. El SETI por radio se trata en el capítulo 10.
 
 ---
 
@@ -322,10 +322,10 @@ El dominio biológico avanza con la secuenciación del genoma humano (<span clas
 | 💀 | L de Drake | Incertidumbre máxima: ¿cuánto dura una civilización tecnológica comunicante? |
 
 <!-- paragraph -->
-Los peligros externos (supernovas, rayos gamma, impactos) son poco probables como extinción total. Los peligros internos (daño ambiental, invenciones incontrolables, guerra) son los formidables. Estrategias de supervivencia: distribuir la humanidad en colonias espaciales, controlar armas de destrucción masiva, educar responsabilidad social. Si no controlamos nuestra «oscuridad» irracional, la humanidad está condenada, y quizá lo estuvieron civilizaciones extraterrestres anteriores.
+Los peligros externos (supernovas, rayos gamma, impactos) son poco probables como extinción total. Los peligros internos (daño ambiental, invenciones incontrolables, guerra) son los formidables. Ulmschneider propone tres estrategias de supervivencia: distribuir la humanidad en colonias espaciales, controlar armas de destrucción masiva y educar la responsabilidad social. Si no controlamos nuestra «oscuridad» irracional, la humanidad está condenada, y quizá lo estuvieron civilizaciones extraterrestres anteriores.
 
 <!-- key -->
-El crecimiento incesante de conocimiento y poder aumenta simultáneamente capacidad de autodestrucción; L es el factor más incierto de la ecuación de Drake.
+El crecimiento incesante de conocimiento y poder aumenta al mismo tiempo la capacidad de autodestrucción. L es el factor más incierto de la ecuación de Drake.
 
 ---
 
@@ -352,17 +352,17 @@ Sobre la naturaleza de los extraterrestres, la extrapolación lineal del número
 | ~10⁷–10⁸ años | L estimado (vida media logarítmica de civilizaciones) |
 
 <!-- paragraph -->
-<span class="term">SETI</span> abarca desde el proyecto Ozma de <span class="person">Frank Drake</span> (<span class="num">1960</span>) hasta META, BETA, SERENDIP (Arecibo) y búsquedas ópticas de pulsos láser. La ventana de microondas «water hole» (1–20 GHz) tiene mínimo ruido de fondo galáctico. Resultado hasta <span class="num">2005</span>: nulo. Los receptores actuales detectarían una emisora de 3 kW a 100 Ly, no a 1 700 Ly.
+<span class="term">SETI</span> abarca desde el proyecto Ozma de <span class="person">Frank Drake</span> (<span class="num">1960</span>) hasta META, BETA, SERENDIP (Arecibo) y búsquedas ópticas de pulsos láser. La ventana de microondas «water hole» (1–20 GHz) tiene mínimo ruido de fondo galáctico. Hasta <span class="num">2005</span>, el resultado fue nulo. Los receptores actuales detectarían una emisora de 3 kW a 100 Ly, no a 1 700 Ly.
 
 <!-- paragraph -->
-La <span class="term">Paradoja de Fermi</span> (<span class="num">1950</span>, Los Alamos) pregunta: si hay millones de civilizaciones, ¿dónde están? Respuestas posibles: (1) no existen o ya perecieron, (2) visita técnicamente imposible, (3) están cerca pero indetectables, (4) no les interesamos (<span class="term">hipótesis del zoo</span>). Ulmschneider favorece que la mayoría se autodestruyeron y que las supervivientes evitan contacto o usan medios que no detectamos.
+La <span class="term">Paradoja de Fermi</span> (<span class="num">1950</span>, Los Alamos) pregunta: si hay millones de civilizaciones, ¿dónde están? Las respuestas posibles son cuatro: (1) no existen o ya perecieron, (2) la visita es técnicamente imposible, (3) están cerca pero son indetectables, (4) no les interesamos (<span class="term">hipótesis del zoo</span>). Ulmschneider favorece que la mayoría se autodestruyeron y que las supervivientes evitan contacto o usan medios que no detectamos.
 
 <!-- quote -->
 > «Si nunca buscamos, la probabilidad de éxito es cero.»
 — Giuseppe Cocconi y Philip Morrison (1959)
 
 <!-- key -->
-La vida inteligente probablemente es común; la comunicación detectable es rara porque L es corto y las distancias galácticas enormes.
+La vida inteligente probablemente es común, pero la comunicación detectable es rara porque L es corto y las distancias galácticas son enormes.
 
 ---
 

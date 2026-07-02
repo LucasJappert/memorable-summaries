@@ -103,7 +103,7 @@ Antes del Disco físico, Arecibo probó que podemos hablar al cosmos en el lengu
 ## title: Imágenes de la Tierra
 
 <!-- paragraph lead -->
-<span class="person">Jon Lomberg</span>, artista y diseñador, describe cómo seleccionar y codificar <span class="num">118</span> imágenes en el ancho de banda del disco. El reto: pensar como un extraterrestre sin saber nada de nosotros.
+<span class="person">Jon Lomberg</span>, artista y diseñador, describe cómo seleccionar y codificar <span class="num">118</span> imágenes en el ancho de banda del disco. El reto era pensar como un extraterrestre sin saber nada de nosotros.
 
 <!-- paragraph -->
 El equipo (Drake, Lomberg, Amanda Zangari y otros) adoptó el ejercicio mental de «ser el extraterrestre». <span class="person">Philip Morrison</span> influyó en priorizar claridad sobre belleza. Las imágenes van de matemáticas básicas (diccionario numérico) a anatomía humana, paisajes, arquitectura y actividades cotidianas.
@@ -153,7 +153,7 @@ Decir «hola» al cosmos exigió diplomacia terrestre: la ONU, la ballena y la d
 ## title: Los sonidos de la Tierra
 
 <!-- paragraph lead -->
-<span class="person">Ann Druyan</span> produjo «The Sounds of Earth», un ensayo sonoro evolutivo: del Big Bang conceptual al hombre y su tecnología. Cita a Shakespeare (<em>The Tempest</em>): la isla está llena de ruidos, sonidos y aires dulces.
+<span class="person">Ann Druyan</span> produjo «The Sounds of Earth», un ensayo sonoro evolutivo: del Big Bang conceptual al hombre y su tecnología. Druyan recuerda las palabras de Shakespeare (<em>The Tempest</em>): la isla está llena de ruidos, sonidos y aires dulces.
 
 <!-- paragraph -->
 La selección comenzó en la Biblioteca del Congreso y en grabaciones de campo. Incluye latidos, llanto de bebé, pájaros, viento, surf, truenos, volcanes, herramientas primitivas, trenes, cohete Saturno V, código Morse y un pulsar. Amigos y artistas contribuyeron. Algunos rechazaron participar por desconfianza hacia el proyecto.
@@ -185,7 +185,7 @@ La secuencia alterna culturas y contrastes emocionales. Los últimos dos temas e
 — Dedicatoria del libro
 
 <!-- key -->
-No hubo respuesta única correcta; cada elección musical fue negociación entre belleza, diversidad y el espacio limitado del vinilo interestelar.
+No hubo respuesta única correcta. Cada elección musical fue negociación entre belleza, diversidad y el espacio limitado del vinilo interestelar.
 
 ---
 

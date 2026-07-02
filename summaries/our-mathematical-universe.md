@@ -106,7 +106,7 @@ Cada vez que ampliamos el horizonte, descubrimos que lo conocido forma parte de 
 ## title: Nuestro lugar en el tiempo
 
 <!-- paragraph lead -->
-<span class="person">Newton</span> unificó cielo y tierra: la Luna no cae porque orbita a ~<span class="num">1 km/s</span>. Un cañón a <span class="num">7,9 km/s</span> orbitaría la Tierra. Las mareas frenan la rotación terrestre, y el sistema Tierra-Luna no puede tener más de ~<span class="num">4–5 mil millones</span> de años en su forma actual.
+<span class="person">Newton</span> unificó cielo y tierra con su ley de la gravitación: la Luna no cae porque orbita a ~<span class="num">1 km/s</span>. Un cañón a <span class="num">7,9 km/s</span> orbitaría la Tierra. Las mareas frenan la rotación terrestre, y el sistema Tierra-Luna no puede tener más de ~<span class="num">4–5 mil millones</span> de años en su forma actual.
 
 <!-- paragraph -->
 Las nubes moleculares gigantes colapsan por gravedad frente a presión, formando estrellas y discos protoplanetarios «en forma de pizza». La datación radiactiva del uranio fija la edad de rocas y meteoritos en ~<span class="num">4,5 mil millones</span> de años. <span class="person">Alexander Friedmann</span> (<span class="num">1922</span>) predijo un universo en expansión. <span class="person">Georges Lemaître</span> lo redescubrió, y <span class="person">Edwin Hubble</span> (<span class="num">1929</span>) confirmó la ley v = Hd con edad ~<span class="num">14 mil millones</span> de años.
@@ -125,7 +125,7 @@ Las nubes moleculares gigantes colapsan por gravedad frente a presión, formando
 | 1992 | COBE detecta fluctuaciones del CMB. |
 
 <!-- key -->
-Telescopios = máquinas del tiempo: mirar lejos es mirar al pasado cósmico.
+Los telescopios son máquinas del tiempo: mirar lejos es mirar al pasado cósmico.
 
 ---
 
@@ -318,7 +318,7 @@ Los qualia («yo», «rojo», «dulce») son parte del modelo interno, no de la 
 — Albert Einstein, 1955
 
 <!-- key -->
-Bajo la MUH, el tiempo no fluye en la estructura matemática; <span class="key-term">solo parece fluir</span> en tu cabeza.
+Bajo la MUH, el tiempo no fluye en la estructura matemática. <span class="key-term">Solo parece fluir</span> en tu cabeza.
 
 ---
 
@@ -331,7 +331,7 @@ Bajo la MUH, el tiempo no fluye en la estructura matemática; <span class="key-t
 La MUH implica que existencia matemática = existencia física: todo lo que existe matemáticamente existe físicamente. Esto forma el <span class="term">multiverso de nivel IV</span> — otras estructuras matemáticas distintas a la nuestra.
 
 <!-- paragraph -->
-Jerarquía de cuatro niveles: I (regiones lejanas del espacio), II (regiones post-inflacionarias), III (ramas cuánticas en espacio de Hilbert), IV (otras estructuras matemáticas). Explorar el nivel IV requiere computadoras e ideas, no cohetes. Estructuras simples pueden listarse como un «directorio telefónico» matemático.
+El multiverso forma una jerarquía de cuatro niveles: I (regiones lejanas del espacio), II (regiones post-inflacionarias), III (ramas cuánticas en espacio de Hilbert), IV (otras estructuras matemáticas). Explorar el nivel IV requiere computadoras e ideas, no cohetes. Estructuras simples pueden listarse como un «directorio telefónico» matemático.
 
 <!-- paragraph -->
 ¿Vivimos en una simulación? Tegmark argumenta que una simulación perfecta <em>es</em> otra estructura matemática y no refuta la MUH. La vida inteligente parece rara, y la mayoría de niveles I, II y IV serían inhabitables. El universo matemático más simple compatible con observaciones podría ser el nuestro.
@@ -356,7 +356,7 @@ El multiverso IV es el más diverso: <span class="key-term">cualquier estructura
 Las expediciones hacia lo grande y lo pequeño convergen en estructuras matemáticas. En escalas humanas la tela matemática es fácil de ignorar. En las extremas, resulta evidente. Si la realidad es matemática, todo es en principio comprensible, limitados solo por la imaginación.
 
 <!-- paragraph -->
-Futuro del universo: posible <span class="term">Big Chill</span> (expansión acelerada), Big Crunch, Big Rip, Big Snap o burbujas de muerte. No hay evidencia de vida tan avanzada como la humana en todo el universo observable. El potencial futuro de la vida supera con creces lo visto hasta ahora.
+El futuro del universo puede seguir varios escenarios: <span class="term">Big Chill</span> (expansión acelerada), Big Crunch, Big Rip, Big Snap o burbujas de muerte. No hay evidencia de vida tan avanzada como la humana en todo el universo observable. El potencial futuro de la vida supera con creces lo visto hasta ahora.
 
 <!-- paragraph -->
 Tegmark advierte sobre riesgos existenciales poco atendidos: guerra nuclear accidental e inteligencia artificial hostil. Desde una perspectiva cósmica, problemas cotidianos (multas, desamores) encogen. La responsabilidad de preservar la vida consciente en el universo es enorme.
@@ -369,7 +369,7 @@ Tegmark advierte sobre riesgos existenciales poco atendidos: guerra nuclear acci
 | 0 (evidencia) | Civilizaciones más avanzadas que la humana detectadas |
 
 <!-- key -->
-Somos parte consciente de una estructura matemática; nuestro futuro depende de <span class="key-term">decisiones que aún podemos tomar</span>.
+Somos parte consciente de una estructura matemática. Nuestro futuro depende de <span class="key-term">decisiones que aún podemos tomar</span>.
 
 ---
 
