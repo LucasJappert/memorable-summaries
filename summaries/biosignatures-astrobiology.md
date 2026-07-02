@@ -81,7 +81,7 @@ Define astrobiología según la NASA como estudio del origen, evolución, distri
 — Wladyslaw Altermann
 
 <!-- key -->
-La Tierra es el único laboratorio confirmado; extrapolar exige rigor proporcional a la distancia en tiempo y espacio.
+La Tierra es el único laboratorio confirmado. Extrapolar exige rigor proporcional a la distancia en tiempo y espacio.
 
 ---
 
@@ -113,7 +113,7 @@ NanoSIMS une morfología microscópica e isotopía elemental a escala submicrom�
 <span class="person">Maud M. Walsh</span> y <span class="person">Frances Westall</span> advierten que colonizaciones microbianas posteriores al depósito pueden falsear señales arcaicas auténticas en el <span class="term">Cinturón Greenstone de Barberton</span> (Sudáfrica, hasta ~<span class="num">3.500 Ma</span>).
 
 <!-- paragraph -->
-Documentan dos casos: hongos colonizando superficies internas de roca tras la litificación, y precipitación bacteriana moderna de óxidos de Fe-Mn sobre material arcaico removilizado. Las formaciones Hooggenoeg y Kromberg del Grupo Onverwacht conservan texturas primarias pero no están inmunes a sobreimpresión biológica tardía.
+El capítulo documenta dos casos concretos: hongos colonizando superficies internas de roca tras la litificación, y precipitación bacteriana moderna de óxidos de Fe-Mn sobre material arcaico removilizado. Las formaciones Hooggenoeg y Kromberg del Grupo Onverwacht conservan texturas primarias pero no están inmunes a sobreimpresión biológica tardía.
 
 <!-- paragraph -->
 Con biomarcadores químicos cada vez más sensibles, discriminar actividad sindeposicional de procesos posteriores es crítico para astrobiología.
@@ -135,7 +135,7 @@ Un microfósil arcaico exige demostrar que la señal es contemporánea al depós
 Solo Pilbara y Barberton conservan pilas estratigráficas arcaicas intactas con bajo metamorfismo. Isua y rocas más antiguas (~<span class="num">3,85 Ga</span>) están más alteradas. Los esfuerzos se centran en cherts, bandas ferríferas, rocas hidrotermales y, recientemente, rocas volcánicas.
 
 <!-- paragraph -->
-Cada reporte exige preguntarse: ¿es la estructura auténticamente biogénica y está en contexto estratigráfico coherente? El consenso científico sobre la vida más antigua sigue siendo elusivo.
+Ante cada nuevo reporte cabe preguntarse: ¿es la estructura auténticamente biogénica y está en contexto estratigráfico coherente? El consenso científico sobre la vida más antigua sigue siendo elusivo.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -361,7 +361,7 @@ Migran a fracturas y poros donde hay humedad, nutrientes y protección contra UV
 La detección de <span class="term">sulfatos</span> en Marte impulsa el interés en evaporitas continentales como posible hábitat endolítico pasado o presente.
 
 <!-- key -->
-Endolito = estrategia de supervivencia en desierto; Marte árido y radiado favorece la misma lógica de refugio interno.
+El endolito es una estrategia de supervivencia en desierto. Marte árido y radiado favorece la misma lógica de refugio interno.
 
 ---
 
@@ -399,7 +399,7 @@ En debates sobre la ecuación de Drake, el término biológico más controvertid
 Biogénesis rápida en la Tierra no implica que complejidad tecnológica sea un attractor universal — relevante para SETI y expectativas públicas sobre vida extraterrestre.
 
 <!-- key -->
-Vida microbiana puede ser común; civilización radio-detectable, probablemente no.
+La vida microbiana puede ser común, pero la civilización radio-detectable probablemente no lo es.
 
 ---
 
@@ -456,7 +456,7 @@ Horizontes propuestos en otras grandes extinciones resultaron de edad o tamaño 
 Cada extinción masiva muestra un patrón distinto. Los modelos únicos (impacto, volcanismo, CO₂/O₂) fallan como explicación universal. Es una lección de humildad para correlacionar impactos cósmicos y evolución biológica.
 
 <!-- key -->
-Impacto ≠ extinción automática; la astrobiología debe evitar narrativas simples sobre catástrofes cósmicas y biosfera.
+Un impacto no implica extinción automática. La astrobiología debe evitar narrativas simples sobre catástrofes cósmicas y biosfera.
 
 ---
 
@@ -513,7 +513,7 @@ Los átomos son reliquias del Big Bang. El ADN de dinosaurios puede reiniciar s�
 Las improntas moleculares, lejos de ser solo obstáculo, pueden identificar unidades materiales capaces de buscar contextos donde encajar — marco para origen de la vida en contexto cosmológico.
 
 <!-- key -->
-Biosignatura molecular: ¿evidencia externa para el científico o memoria operativa para el sistema vivo?
+La biosignatura molecular puede ser evidencia externa para el científico o memoria operativa para el sistema vivo.
 
 ---
 
@@ -532,7 +532,7 @@ Desde Schiaparelli y Lowell hasta Mariner y Viking, Marte pasó de mundo habitab
 Independientemente del veredicto final, el caso definió estándares de evidencia, complejidad interpretativa y la edad dorada de exploración espacial astrobiológica.
 
 <!-- key -->
-ALH84001 = lección sobre cautela: señales ambiguas bajo máximo escrutinio mediático y científico.
+El meteorito ALH84001 dejó una lección sobre cautela: señales ambiguas bajo máximo escrutinio mediático y científico.
 
 ---
 
@@ -545,7 +545,7 @@ ALH84001 = lección sobre cautela: señales ambiguas bajo máximo escrutinio med
 <span class="person">David C. Fernández-Remolar</span> y coautores mapean <span class="term">ventanas de preservación</span> en el registro geológico marciano según mineralogía orbital y in situ (filosilicatos noaquianos, sulfatos hesperianos).
 
 <!-- paragraph -->
-Marte tuvo hidrología activa: deltas, fluvial, lacustre. Los terrenos noaquianos (>~<span class="num">3,8 Ga</span>) concentran filosilicatos en estratos arcaicos. En el Hesperiano (<span class="num">3,8–3,0 Ga</span>) predominan sulfatos ferríferos. Son ambientes distintos para trazas paleobiológicas.
+Marte albergó hidrología activa en eras pasadas: deltas, sistemas fluviales y lacustres. Los terrenos noaquianos (>~<span class="num">3,8 Ga</span>) concentran filosilicatos en estratos arcaicos. En el Hesperiano (<span class="num">3,8–3,0 Ga</span>) predominan sulfatos ferríferos. Son ambientes distintos para trazas paleobiológicas.
 
 <!-- paragraph -->
 Integrar geomorfología, mineralogía y geoquímica define dónde buscar texturas organosedimentarias, quimiofósiles o moléculas orgánicas preservables.

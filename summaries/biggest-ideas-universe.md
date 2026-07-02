@@ -85,7 +85,7 @@ Conservar energía y momento no es truco contable: refleja que las leyes de la f
 El cambio en física exige <span class="term">cálculo</span>: derivadas (tasas instantáneas) e integrales (acumulación). La posición x(t) de un auto permite calcular velocidad v = dx/dt y aceleración a = dv/dt.
 
 <!-- paragraph -->
-El paradigma laplaciano: dado estado inicial (posición y velocidad), las leyes determinan toda la trayectoria. <span class="person">Newton</span>, presionado por <span class="person">Halley</span>, publicó los <em>Principia</em> (<span class="num">1687</span>): F = ma y gravitación universal F ∝ 1/r².
+El <span class="term">paradigma laplaciano</span> sostiene que dado el estado inicial (posición y velocidad), las leyes determinan toda la trayectoria. <span class="person">Newton</span>, presionado por <span class="person">Halley</span>, publicó los <em>Principia</em> (<span class="num">1687</span>): F = ma y gravitación universal F ∝ 1/r².
 
 <!-- paragraph -->
 La gravedad es <span class="term">universal</span>: la misma ley explica manzanas cayendo y planetas orbitando. Newton derivó las leyes de <span class="person">Kepler</span> desde principios locales (fuerza en cada instante), no desde descripciones globales de órbitas elípticas.
@@ -122,7 +122,7 @@ El <span class="term">espacio de fases</span> {posición, momento} fija la evolu
 | 🎯 | Acción | Integral del Lagrangiano; unifica dinámica sin hablar de «fuerza». |
 
 <!-- key -->
-Newton, Lagrange y Hamilton describen lo mismo con vocabularios distintos; elegir uno u otro puede abrir atajos hacia leyes más profundas.
+Newton, Lagrange y Hamilton describen lo mismo con vocabularios distintos. Elegir uno u otro puede abrir atajos hacia leyes más profundas.
 
 ---
 
@@ -132,13 +132,13 @@ Newton, Lagrange y Hamilton describen lo mismo con vocabularios distintos; elegi
 ## title: Espacio
 
 <!-- paragraph lead -->
-¿Qué es el <span class="term">espacio</span>? Debate clásico: sustancia (contenedor) vs. relacional (solo distancias entre objetos). Hoy los campos llenan el espacio y Einstein mostró que su geometría responde a la energía.
+¿Qué es el <span class="term">espacio</span>? El debate clásico enfrenta dos posturas: sustancia (contenedor) vs. relacional (solo distancias entre objetos). Hoy los campos llenan el espacio y Einstein mostró que su geometría responde a la energía.
 
 <!-- paragraph -->
 El espacio es <span class="term">tridimensional</span>: tres direcciones independientes (adelante/atrás, izquierda/derecha, arriba/abajo). En d dimensiones, fuerzas como gravedad siguen ley 1/r^(d−1). En 3D, la ley es del inverso del cuadrado.
 
 <!-- paragraph -->
-La <span class="term">mecánica hamiltoniana</span> eleva el momento a variable independiente (no definido como mv). Lo especial del espacio: las interacciones son <span class="term">locales en posición</span> — objetos se influyen cuando coinciden en el mismo lugar, mediados por campos.
+La <span class="term">mecánica hamiltoniana</span> eleva el momento a variable independiente (no definido como mv). Lo que distingue al espacio es que las interacciones son <span class="term">locales en posición</span>: los objetos se influyen cuando coinciden en el mismo lugar, mediados por campos.
 
 <!-- list -->
 - **Localidad** — lo que ocurre en un punto solo afecta lo inmediatamente cercano; los efectos se propagan con el tiempo.
@@ -156,13 +156,13 @@ Vivimos en espacio de posiciones, no en espacio de momentos, porque los hamilton
 ## title: Tiempo
 
 <!-- paragraph lead -->
-Sin tiempo no hay movimiento ni cambio. Medimos duración con <span class="term">relojes</span>: sistemas periódicos (Tierra, osciladores) comparables entre sí. El tiempo se parece al espacio (localización en espaciotiempo) pero también difiere profundamente.
+Sin tiempo no hay movimiento ni cambio. La duración se mide con <span class="term">relojes</span>: sistemas periódicos (Tierra, osciladores) comparables entre sí. El tiempo se parece al espacio (localización en espaciotiempo) pero también difiere profundamente.
 
 <!-- paragraph -->
 La mecánica clásica es <span class="term">reversible</span>: con el estado actual se predice futuro y pasado por igual. A nivel macroscópico, no obstante, el hielo se derrite y no vuelve a formarse. Esa irreversibilidad es la <span class="term">flecha del tiempo</span>.
 
 <!-- paragraph -->
-La entropía (Boltzmann) crece porque hay vastly más microestados de alta entropía que de baja. La <span class="term">hipótesis del pasado</span>: el universo empezó en entropía extremadamente baja (Big Bang denso y uniforme). Eso rompe la simetría pasado/futuro.
+La entropía (Boltzmann) crece porque hay vastly más microestados de alta entropía que de baja. La llamada <span class="term">hipótesis del pasado</span> sostiene que el universo empezó en entropía extremadamente baja (Big Bang denso y uniforme). Eso rompe la simetría pasado/futuro.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -188,7 +188,7 @@ La relatividad especial (Einstein <span class="num">1905</span>, Minkowski <span
 Hay dos nociones de tiempo: <span class="term">coordenada t</span> (etiqueta convencional) y <span class="term">tiempo propio τ</span> (lo que marca un reloj viajero). En espacio, la recta es el camino más corto. En espaciotiempo, la trayectoria inercial maximiza el tiempo propio.
 
 <!-- paragraph -->
-El intervalo de Minkowski: τ² = Δt² − Δx² (con c = 1). Más movimiento espacial → menos tiempo propio. El experimento de los gemelos no es paradoja: caminos distintos, duraciones distintas. La velocidad c convierte unidades espacio↔tiempo.
+El <span class="term">intervalo de Minkowski</span> se define como τ² = Δt² − Δx² (con c = 1). Más movimiento espacial significa menos tiempo propio. El experimento de los gemelos no es paradoja: caminos distintos, duraciones distintas. La velocidad c convierte unidades espacio↔tiempo.
 
 <!-- big-numbers -->
 | value | label |
@@ -232,20 +232,20 @@ La curvatura no es «cómo se dobla en un espacio mayor»: es propiedad interna 
 ## title: Gravedad
 
 <!-- paragraph lead -->
-La gravedad es curvatura del espaciotiempo. La ecuación de Einstein (<span class="num">25 nov 1915</span>) relaciona tensor de Einstein (curvatura) con tensor energía-momento (materia). <span class="person">Wheeler</span> lo resumió así: «el espaciotiempo dice a la materia cómo moverse, y la materia dice al espaciotiempo cómo curvarse».
+La gravedad es curvatura del espaciotiempo. La ecuación de Einstein (<span class="num">25 nov 1915</span>) relaciona tensor de Einstein (curvatura) con tensor energía-momento (materia). <span class="person">Wheeler</span> lo resumió con esta frase: «el espaciotiempo dice a la materia cómo moverse, y la materia dice al espaciotiempo cómo curvarse».
 
 <!-- paragraph -->
 El tensor T_μν describe fluidos extendidos: densidad de energía ρ, presión p, velocidades. La constante 8πG fija la fuerza gravitatoria comparando con el límite newtoniano débil. También existe acción Einstein-Hilbert: S = ∫ R √−g d⁴x.
 
 <!-- paragraph -->
-Pruebas clásicas: precesión de Mercurio (+0,012°/siglo exacto), desviación de luz (<span class="person">Eddington</span>, eclipse <span class="num">1919</span>), redshift gravitacional, ondas gravitacionales (LIGO <span class="num">2015</span>), expansión del universo (Hubble).
+Las pruebas observacionales clásicas abarcan la precesión de Mercurio (+0,012°/siglo exacto), la desviación de luz (<span class="person">Eddington</span>, eclipse <span class="num">1919</span>), el redshift gravitacional, las ondas gravitacionales (LIGO <span class="num">2015</span>) y la expansión del universo (Hubble).
 
 <!-- quote -->
 > «El espaciotiempo dice a la materia cómo moverse; la materia dice al espaciotiempo cómo curvarse.»
 — John Wheeler (resumen citado por Carroll)
 
 <!-- key -->
-Einstein no resolvió ecuaciones: las <span class="key-term">entendió</span>; Schwarzschild, sentado en el frente, encontró la primera solución exacta semanas después.
+Einstein no fue quien resolvió sus ecuaciones: las <span class="key-term">entendió</span>. Schwarzschild, sentado en el frente, encontró la primera solución exacta semanas después.
 
 ---
 
@@ -258,10 +258,10 @@ Einstein no resolvió ecuaciones: las <span class="key-term">entendió</span>; S
 La métrica de <span class="person">Schwarzschild</span> (<span class="num">1915</span>) describe el vacío fuera de un cuerpo esférico. Radio de Schwarzschild r_s = 2GM: horizonte de sucesos. Dentro, r se vuelve coordenada <em>temporal</em>: caer al centro es avanzar en el futuro inevitable hacia singularidad r = 0.
 
 <!-- paragraph -->
-Dilatación gravitacional: relojes cerca de masas marcan menos tiempo propio. Coordenadas Eddington-Finkelstein eliminan la singularidad de coordenadas en el horizonte. Teorema «no-hair»: agujeros negros quedan caracterizados solo por masa, carga y spin (<span class="term">solución de Kerr</span> para rotación).
+La <span class="term">dilatación gravitacional</span> implica que relojes cerca de masas marcan menos tiempo propio. Las coordenadas Eddington-Finkelstein eliminan la singularidad de coordenadas en el horizonte. Teorema «no-hair»: agujeros negros quedan caracterizados solo por masa, carga y spin (<span class="term">solución de Kerr</span> para rotación).
 
 <!-- paragraph -->
-<span class="person">Hawking</span> (<span class="num">1971</span>) demostró que el área del horizonte solo crece, análogo a entropía. <span class="person">Bekenstein</span> propuso entropía proporcional al área. <span class="person">Hawking</span> calculó radiación térmica: los agujeros negros «brillan» cuánticamente. LIGO detectó fusiones (p. ej. 36 + 29 masas solares, <span class="num">2015</span>). El Nobel <span class="num">2020</span> fue para Penrose, Genzel y Ghez.
+<span class="person">Hawking</span> (<span class="num">1971</span>) demostró que el área del horizonte solo crece, análogo a entropía. <span class="person">Bekenstein</span> propuso entropía proporcional al área. <span class="person">Hawking</span> calculó además una radiación térmica propia: los agujeros negros «brillan» cuánticamente. LIGO detectó fusiones (p. ej. 36 + 29 masas solares, <span class="num">2015</span>). El Nobel <span class="num">2020</span> fue para Penrose, Genzel y Ghez.
 
 <!-- concept-grid -->
 | icon | title | description |

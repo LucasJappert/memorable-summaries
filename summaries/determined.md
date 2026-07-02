@@ -59,7 +59,7 @@ Negar libre albedrío implica varias consecuencias. No hay culpa retributiva mer
 | ⚖️ | Incompatibilismo duro | Determinismo → no hay libre albedrío → no hay desierto moral básico. |
 
 <!-- key -->
-Ninguna disciplina sola falsifica el libre albedrío; todas juntas no dejan grieta alguna.
+Ninguna disciplina sola falsifica el libre albedrío. Todas juntas no dejan grieta alguna.
 
 ---
 
@@ -75,7 +75,7 @@ Una escena nocturna en un aeródromo: un civil dispara a un militar y un policí
 Décadas de estudios <span class="term">libetianos</span> (<span class="person">Benjamin Libet</span>, <span class="num">1983</span>) muestran potencial de preparación ~<span class="num">300 ms</span> antes de sentir decidir. El fMRI llega hasta <span class="num">10 s</span> antes (<span class="person">Haynes</span>). Neuronas individuales predicen con ~<span class="num">80 %</span> de precisión (<span class="person">Itzhak Fried</span>). Los compatibilistas contraatacan con tareas artificiales, predicción ~<span class="num">60 %</span> y el «free won't» como veto.
 
 <!-- paragraph -->
-Sapolsky concluye que, aunque Libet no mate el libre albedrío, es <em>irrelevante</em>. Falta la pregunta central: ¿de dónde vino la intención? Podemos hacer lo que intendemos, pero nunca intendemos lo que intendimos. Juzgar solo el presente, como cuando <span class="person">Daniel Dennett</span> dice que «la suerte se promedia con el tiempo», es miopía moral.
+Sapolsky concluye que, aunque Libet no mate el libre albedrío, es <em>irrelevante</em>. La pregunta que falta es más profunda: ¿de dónde vino la intención? Podemos hacer lo que intendemos, pero nunca intendemos lo que intendimos. Juzgar solo el presente, como cuando <span class="person">Daniel Dennett</span> dice que «la suerte se promedia con el tiempo», es miopía moral.
 
 <!-- key -->
 Estudiar los últimos segundos antes del acto es ver solo el final de la película.
@@ -94,7 +94,7 @@ Este capítulo recorre la cadena causal completa: desde estímulos sensoriales y
 Experimentos de «priming» muestran influencias inconscientes. Por ejemplo, la palabra «ocean» inclina a elegir «Tide». Incluso resistir el priming es estar determinado por reconocerlo. La meta-consciencia no restaura libertad.
 
 <!-- paragraph -->
-El desafío permanece: mostrar una neurona causa de comportamiento independiente de toda biología previa — nadie lo ha hecho.
+El desafío central permanece sin respuesta: mostrar una neurona causa de comportamiento independiente de toda biología previa — nadie lo ha hecho.
 
 <!-- key -->
 La intención es el último eslabón visible de una cadena que empezó mucho antes del acto.
@@ -244,7 +244,7 @@ La conversación cerebro-yo resume el libro en tres líneas.
 El temor clásico es que, sin libre albedrío, todos «correrían amok». Los estudios de <span class="person">Katherine Vohs</span> muestran que leer a <span class="person">Francis Crick</span> sobre determinismo aumenta trampa, agresión con salsa picante y reduce gratitud. Los efectos son pequeños y la replicación es mixta.
 
 <!-- paragraph -->
-Meta-análisis <span class="num">2022</span> (~<span class="num">145</span> experimentos): manipulaciones reducen creencia en libre albedrío sin efecto consistente en ética. Paralelo con ateísmo: la gente teme inmoralidad atea, pero observando conducta real, diferencias desaparecen al controlar edad, sexo, red social.
+Un meta-análisis de <span class="num">2022</span> que reunió ~<span class="num">145</span> experimentos encontró que las manipulaciones reducen creencia en libre albedrío sin efecto consistente en ética. El paralelo con el ateísmo resulta instructivo: la gente teme inmoralidad atea, pero observando conducta real las diferencias desaparecen al controlar edad, sexo y red social.
 
 <!-- paragraph -->
 El priming religioso mejora prosocialidad en creyentes. El priming secular («deber cívico») hace lo mismo en ateos. Valores distintos, decencia comparable cuando se activan.
@@ -292,16 +292,16 @@ Rechazar libre albedrío no es sin precedente cultural.
 ## title: El placer del castigo
 
 <!-- paragraph lead -->
-«Reforma» de sistemas basados en tonterías no basta — brujas con glándulas lagrimales atrofiadas siguen siendo brujas en el marco. Retribución disfrutada: masacre de leprosos (<span class="num">1321</span>), ejecución de <span class="person">Damiens</span> (<span class="num">1757</span>), último ahorcamiento público de <span class="person">Rainey Bethea</span> (<span class="num">1936</span>).
+«Reforma» de sistemas basados en tonterías no basta — brujas con glándulas lagrimales atrofiadas siguen siendo brujas en el marco. La retribución se ha disfrutado históricamente: masacre de leprosos (<span class="num">1321</span>), ejecución de <span class="person">Damiens</span> (<span class="num">1757</span>), último ahorcamiento público de <span class="person">Rainey Bethea</span> (<span class="num">1936</span>).
 
 <!-- paragraph -->
-Modelos alternativos: comisiones de verdad y reconciliación (Sudáfrica), justicia restaurativa — útiles pero aún asumen culpa libre. <span class="term">Cuarentena</span> (<span class="person">Derk Pereboom</span>, <span class="person">Gregg Caruso</span>): contener peligro como aislar enfermedad, mínima restricción, atacar determinantes sociales.
+Entre los modelos alternativos se cuentan las comisiones de verdad y reconciliación (Sudáfrica) y la justicia restaurativa, útiles pero que aún asumen culpa libre. El modelo de <span class="term">cuarentena</span> propuesto por <span class="person">Derk Pereboom</span> y <span class="person">Gregg Caruso</span> busca contener el peligro como se aisla una enfermedad, con mínima restricción y atacando determinantes sociales.
 
 <!-- paragraph -->
 En Escandinavia, por ejemplo Noruega, hay más «confort» carcelario, menos reincidencia y menor costo social que en EE. UU. El placer de castigar, arraigado en la evolución de normas de cooperación, puede sabotear el cambio.
 
 <!-- key -->
-Retribución satisface emociones antiguas; cuarentena protege sin merecer odio.
+La retribución satisface emociones antiguas. La cuarentena protege sin merecer odio.
 
 ---
 

@@ -55,7 +55,7 @@ En un mundo saturado de información irrelevante, la <span class="term">claridad
 Tras <em>Sapiens</em> (pasado) y <em>Homo Deus</em> (futuro lejano), Harari enfoca el <span class="term">aquí y el ahora</span>: qué ocurre hoy, cuáles son los mayores desafíos y qué debemos enseñar a nuestros hijos. El libro no es una narrativa histórica sino una selección de lecciones que estimulan el pensamiento sin ofrecer respuestas simples.
 
 <!-- paragraph -->
-Cinco partes estructuran el recorrido: el <span class="term">desafío tecnológico</span> (IA, biotecnología, desempleo), el político (comunidad, civilización, nacionalismo, religión, inmigración), desesperanza y esperanza (terrorismo, guerra, humildad, Dios, secularismo), la verdad (ignorancia, justicia, posverdad, ciencia ficción) y la resiliencia (educación, significado, meditación).
+El libro se organiza en cinco partes que abarcan el <span class="term">desafío tecnológico</span> (IA, biotecnología, desempleo), el político (comunidad, civilización, nacionalismo, religión, inmigración), desesperanza y esperanza (terrorismo, guerra, humildad, Dios, secularismo), la verdad (ignorancia, justicia, posverdad, ciencia ficción) y la resiliencia (educación, significado, meditación).
 
 <!-- quote -->
 > «Si no sabes qué hacer con el poder de reingenieriar la vida, las fuerzas del mercado no esperarán mil años a que encuentres una respuesta.»
@@ -98,7 +98,7 @@ El liberalismo no tiene respuestas obvias al colapso ecológico ni a la disrupci
 ## title: Trabajo — Cuando crezcas quizá no tengas trabajo
 
 <!-- paragraph lead -->
-No sabemos cómo será el mercado laboral en <span class="num">2050</span>. El <span class="term">aprendizaje automático</span> y la robótica cambiarán casi toda línea de trabajo. Unos prevén desempleo masivo, otros creen que seguirán creándose empleos. Esta vez podría ser distinto: la IA ya supera a humanos en tareas cognitivas, incluida la lectura de emociones.
+No sabemos cómo será el mercado laboral en <span class="num">2050</span>. El <span class="term">aprendizaje automático</span> y la robótica cambiarán casi toda línea de trabajo. Unos prevén desempleo masivo, otros creen que seguirán creándose empleos. A diferencia de revoluciones anteriores, la IA ya supera a humanos en tareas cognitivas, incluida la lectura de emociones.
 
 <!-- paragraph -->
 La revolución de la IA se alimenta de neurociencia y economía conductual: las decisiones humanas son algoritmos bioquímicos, no misterio espiritual. La IA posee además <span class="term">conectividad</span> y <span class="term">actualizabilidad</span>: no compites con un robot sino con una red integrada que se actualiza al instante. Los coches autónomos podrían reducir muertes en carretera ~<span class="num">90%</span> (~un millón de vidas al año).
@@ -153,7 +153,7 @@ Se prometió que la globalización reduciría la desigualdad. El siglo XXI podr�
 La IA podría eliminar el valor económico de la mayoría. La biotecnología traduciría desigualdad económica en <span class="term">desigualdad biológica</span>: superhumanos ricos frente a una clase inútil de <em>Homo sapiens</em>. Hacia <span class="num">2100</span>, los ricos podrían ser genuinamente más talentosos, no solo más privilegiados legalmente. Eso abriría una brecha casi imposible de cerrar.
 
 <!-- paragraph -->
-En el siglo XXI los <span class="term">datos</span> eclipsan tierra y maquinaria como activo clave. Google, Facebook, Baidu y Tencent acumulan atención y datos. El modelo futuro transfiere autoridad de humanos a algoritmos que eligen y compran por nosotros. La pregunta política crucial: ¿quién posee los datos — individuos, gobiernos o corporaciones?
+En el siglo XXI los <span class="term">datos</span> eclipsan tierra y maquinaria como activo clave. Google, Facebook, Baidu y Tencent acumulan atención y datos. El modelo futuro transfiere autoridad de humanos a algoritmos que eligen y compran por nosotros. La pregunta política más urgente del siglo es quién posee los datos: individuos, gobiernos o corporaciones.
 
 <!-- list -->
 - **Nacionalizar datos** — frena corporaciones pero arriesga dictaduras digitales.
@@ -212,7 +212,7 @@ Hay una sola civilización planetaria en formación. Los conflictos actuales son
 Si la humanidad es una civilización única, ¿por qué el auge del nacionalismo aislacionista? El <span class="term">nacionalismo</span> no es eterno ni biológico: la lealtad a millones de desconocidos requiere inmensa construcción social, como las presas del Nilo que unieron tribus en nación.
 
 <!-- paragraph -->
-El patriotismo moderado puede ser benévolo. El ultra-nacionalismo exige lealtad total y alimenta guerras. Después de <span class="num">1945</span> y Hiroshima, la amenaza nuclear empujó cooperación internacional. El anuncio Daisy de <span class="person">Lyndon Johnson</span> (<span class="num">1964</span>) vinculó supervivencia con amor mutuo. Hoy esa lección se olvida: nueva carrera nuclear, Brexit ignorando la paz europea.
+El patriotismo moderado puede ser benévolo. El ultra-nacionalismo exige lealtad total y alimenta guerras. Después de <span class="num">1945</span> y Hiroshima, la amenaza nuclear empujó cooperación internacional. El anuncio Daisy de <span class="person">Lyndon Johnson</span> (<span class="num">1964</span>) vinculó supervivencia con amor mutuo. Hoy esa lección parece olvidada: regresa la carrera nuclear y el Brexit ignora la paz europea que costó décadas construir.
 
 <!-- paragraph -->
 Tres desafíos exigen respuestas globales, no muros: <span class="term">guerra nuclear</span>, <span class="term">colapso ecológico</span> y <span class="term">disrupción tecnológica</span>. El cambio climático ya es realidad presente, no futuro hipotético. Reducir emisiones en veinte años es urgente. Gritar «¡nuestro país primero!» sin cooperación robusta no protege ni al país ni al planeta.
@@ -244,7 +244,7 @@ Las religiones perdieron agricultura y medicina ante la ciencia, no porque la or
 Hoy Dios sirve a la nación: el judaísmo ortodoxo, el hinduismo nacionalista, el islamismo político y el cristianismo evangélico adaptan la fe a agendas estatales. Las Escrituras no resuelven ingeniería genética. Pueden movilizar millones para guerras santas o muros.
 
 <!-- key -->
-Religiones: irrelevantes en lo técnico, secundarias en política económica, potentes (y peligrosas) en identidad colectiva.
+Las religiones son irrelevantes en lo técnico y secundarias en política económica, pero potentes y peligrosas en identidad colectiva.
 
 ---
 
@@ -260,7 +260,7 @@ La inmigración tensa sistemas políticos diseñados para tiempos menos fluidos.
 Harari modela la inmigración como un trato de tres términos: (1) el país anfitrión deja entrar. (2) Los inmigrantes adoptan normas centrales del anfitrión. (3) Tras asimilación, se convierten en ciudadanos de pleno derecho. Cuatro debates separados, obligación vs favor, grado de asimilación, plazo para la igualdad, cumplimiento real, se mezclan en gritos cruzados.
 
 <!-- paragraph -->
-Pro-inmigración ve derecho moral a buscar mejor vida. Anti-inmigración ve privilegio del anfitrión de elegir. Sobre asimilación: ¿basta tolerancia liberal o se exige identidad nacional específica? Las escalas temporal colectiva (siglos) y personal (una generación) chocan: para el Estado, cuarenta años es poco. Para un joven nacido en Francia, es toda la vida.
+Pro-inmigración ve derecho moral a buscar mejor vida. Anti-inmigración ve privilegio del anfitrión de elegir. La asimilación plantea otra pregunta: ¿basta la tolerancia liberal o se exige adoptar una identidad nacional específica? Las escalas temporal colectiva (siglos) y personal (una generación) chocan: para el Estado, cuarenta años es poco. Para un joven nacido en Francia, es toda la vida.
 
 <!-- key -->
 Sin acuerdo sobre los tres términos del trato, el debate de inmigración seguirá siendo un campo de batalla cultural sin salida clara.
@@ -279,7 +279,7 @@ Los terroristas son maestros del <span class="term">control mental</span>: matan
 El terrorismo es estrategia de actores débiles: cambiar la política mediante el miedo, no el daño material. Como la mosca que no puede romper la vajilla, entra en el oído del toro (Estados Unidos tras <span class="num">9/11</span>) y este destruye la tienda (Oriente Medio). El enemigo conserva todas sus opciones militares. El estado pierde los nervios y sobre-reacciona.
 
 <!-- paragraph -->
-La legitimidad moderna exige un espacio público libre de violencia política. Un acto raro resuena como moneda en un frasco vacío. Matar a decenas en Bélgica impacta más que matar a cientos en Nigeria. La respuesta eficaz: teatro de seguridad mesurado, no invasiones ni persecuciones masivas que alimenten el ciclo.
+La legitimidad moderna exige un espacio público libre de violencia política. Un acto raro resuena como moneda en un frasco vacío. Matar a decenas en Bélgica impacta más que matar a cientos en Nigeria. La respuesta eficaz consiste en un teatro de seguridad mesurado, sin invasiones ni persecuciones masivas que alimenten el ciclo.
 
 <!-- big-numbers -->
 | value | label |
@@ -308,7 +308,7 @@ En <span class="num">1914</span> la guerra parecía rentable: imperios construid
 La única conquista importante del siglo XXI: Crimea (<span class="num">2014</span>), circunstancias irrepetibles. Las guerras cibernéticas y económicas reemplazan invasiones. Sentarse en la valla y dejar que otros luchen puede ser la estrategia óptima. Aun así, la estupidez humana, armas nucleares y cambio climático mantienen el riesgo existencial.
 
 <!-- key -->
-No subestimar la estupidez: líderes pueden arrastrarnos a conflictos cuyo «éxito» militar ya no existe como en el siglo XIX.
+No hay que subestimar la estupidez humana. Los líderes pueden arrastrarnos a conflictos cuyo «éxito» militar ya no existe como en el siglo XIX.
 
 ---
 
@@ -378,13 +378,13 @@ Ser secular es comprometerse con la verdad y la compasión sabiendo que ningún 
 Nadie puede procesar todo lo descrito en este libro — y eso es correcto. El mito del individuo racional sustenta democracia, mercado y educación liberal. Pero la mayoría de decisiones son emocionales y heurísticas, inadecuadas para la era del silicio.
 
 <!-- paragraph -->
-La <span class="term">ilusión del conocimiento</span> (Sloman y Fernbach): creemos entender un cierre porque lo usamos, pero no podemos explicar su mecanismo. Confiar en el saber colectivo funcionó en la sabana. Hoy ignoramos meteorología, biología e Irak pero opinamos con fuerza. Más datos no convencen: reforzamos lealtad grupal.
+La <span class="term">ilusión del conocimiento</span> (Sloman y Fernbach): creemos entender un cierre porque lo usamos, pero no podemos explicar su mecanismo. Confiar en el saber colectivo funcionó en la sabana. Hoy ignoramos meteorología, biología e Irak pero opinamos con fuerza. Agregar más datos tampoco convence a quien fortalece su lealtad grupal.
 
 <!-- paragraph -->
-El poder distorsiona la verdad: quien gobierna no tiene tiempo para pensar profundamente. Cada visitante tiene agenda. Netanyahu en una cena de treinta personas: todos compiten por impresionar, nadie dice secretos grandes. La verdad revolucionaria vive en la periferia, llena de basura pero ocasionalmente brillante.
+El poder también distorsiona la verdad. Quien gobierna no tiene tiempo para pensar profundamente. Cada visitante tiene agenda. Netanyahu en una cena de treinta personas: todos compiten por impresionar, nadie dice secretos grandes. La verdad revolucionaria vive en la periferia, llena de basura pero ocasionalmente brillante.
 
 <!-- key -->
-Sócrates tenía razón: lo mejor es reconocer la ignorancia individual — base escasa pero honesta para moral y justicia.
+Como ya enseñaba Sócrates, lo mejor es reconocer la propia ignorancia: una base escasa pero honesta para la moral y la justicia.
 
 ---
 
@@ -435,7 +435,7 @@ Siempre vivimos entre ficción y hecho. El reto es cultivar instituciones que co
 La ciencia ficción moldea cómo entendemos IA y biotecnología más que los papers científicos. <em>Matrix</em>, <em>Her</em>, <em>Westworld</em> y <em>Black Mirror</em> son el currículo popular del futuro — con responsabilidad enorme.
 
 <!-- paragraph -->
-El pecado capital del género: confundir <span class="term">inteligencia</span> con <span class="term">conciencia</span>. Debemos temer la brecha entre élite algorítmica y masa irrelevante, no guerra robots vs humanos — <span class="person">Karl Marx</span> guía mejor que <span class="person">Steven Spielberg</span>. <em>Ex Machina</em> habla del miedo masculino al poder femenino, no de cibernética.
+El mayor pecado del género consiste en confundir <span class="term">inteligencia</span> con <span class="term">conciencia</span>. Debemos temer la brecha entre élite algorítmica y masa irrelevante, no guerra robots vs humanos — <span class="person">Karl Marx</span> guía mejor que <span class="person">Steven Spielberg</span>. <em>Ex Machina</em> habla del miedo masculino al poder femenino, no de cibernética.
 
 <!-- paragraph -->
 <em>Matrix</em> y <em>The Truman Show</em> asumen un yo auténtico más allá de la manipulación — pero la autenticidad misma puede ser ilusión neuronal. Escapar de una caja solo revela una caja mayor. La ciencia ficción responsable debe mostrar vigilancia algorítmica y desigualdad de clases, no androides conscientes rebeldes.
@@ -470,7 +470,7 @@ Enseñar a aprender, a adaptarse y a mantener equilibrio mental: las únicas cer
 ## title: Significado — La vida no es una historia
 
 <!-- paragraph lead -->
-¿Quién soy? ¿Para qué vivir? Casi siempre buscamos una <span class="term">historia</span>: el círculo eterno del <em>Bhagavad Gita</em> y <em>El rey león</em>, la línea temporal del Islam o el sionismo, la lucha de clases marxista. Cada relato asigna un papel cósmico que da sentido a lo cotidiano.
+¿Quién soy? ¿Para qué vivir? Casi siempre la búsqueda de sentido adopta la forma de una <span class="term">historia</span>: el círculo eterno del <em>Bhagavad Gita</em> y <em>El rey león</em>, la línea temporal del Islam o el sionismo, la lucha de clases marxista. Cada relato asigna un papel cósmico que da sentido a lo cotidiano.
 
 <!-- paragraph -->
 Pero la vida no es una narración con clímax y final feliz. Los acontecimientos son tejido caótico. Forzar arco dramático distorsiona la realidad y alimenta fanatismos — «Jerusalén eterna» frente a milenios de historia real. Las historias pequeñas (nación, religión) ignoran la escala cósmica.
@@ -495,14 +495,14 @@ Después de criticar tantas historias, Harari explica su propia práctica: <span
 La pregunta real no es qué pasa al morir sino qué pasa antes de morir. Cuerpo, cerebro y mente cambian cada instante. Nada permanece de momento a momento. Entre nosotros y el mundo siempre hay <span class="term">sensaciones corporales</span>. Reaccionamos a ellas, no a «la nación» ni a un tuit. El sufrimiento surge de patrones mentales, no solo de condiciones externas.
 
 <!-- paragraph -->
-Dos horas diarias de meditación y retiros anuales no son escape: son contacto con la realidad que posibilitó escribir <em>Sapiens</em> y <em>Homo Deus</em>. Complementa la ciencia: el estudio de la mente necesita observación directa además de escáneres y estadísticas.
+Dos horas diarias de meditación y retiros anuales no son escape: son contacto con la realidad que posibilitó escribir <em>Sapiens</em> y <em>Homo Deus</em>. La meditación también complementa a la ciencia: el estudio de la mente necesita observación directa además de escáneres y estadísticas.
 
 <!-- quote -->
 > «No hagas nada. No intentes controlar la respiración. Solo observa la realidad del momento presente, sea lo que sea.»
 — S. N. Goenka (citado por Harari)
 
 <!-- key -->
-Observar sin historia: la herramienta personal de Harari para despertar con claridad sin depender de las ficciones que el libro cuestiona.
+La práctica de observar sin historia fue la herramienta personal que Harari desarrolló para despertar con claridad sin depender de las ficciones que el libro cuestiona.
 
 ---
 

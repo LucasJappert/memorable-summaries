@@ -67,7 +67,7 @@ Hay unas <span class="num">100 mil millones</span> de galaxias, cada una con un 
 En <span class="num">siglo III a.C.</span>, <span class="person">Eratóstenes</span> en Alejandría midió la circunferencia terrestre comparando sombras en Asuán y Alejandría el mismo día: unos <span class="num">40.000 km</span>, error mínimo. La Biblioteca de Alejandría reunió el saber de la Antigüedad antes de su destrucción, tema que Sagan lamentará más adelante.
 
 <!-- key -->
-Somos polvo de estrellas que ha aprendido a preguntarse por sí mismo; el viaje de regreso a casa apenas comienza.
+Somos polvo de estrellas que ha aprendido a preguntarse por sí mismo. El viaje de regreso a casa apenas comienza.
 
 ---
 
@@ -100,7 +100,7 @@ Sagan ilustra la <span class="term">selección artificial</span> con los cangrej
 ## title: La armonía de los mundos
 
 <!-- paragraph lead -->
-Vivimos en un universo intermedio: las cosas cambian según <span class="term">leyes de la naturaleza</span>, no al azar ni con rigidez absoluta. Desde la prehistoria, el cielo nocturno ofreció patrones útiles: cazar, sembrar, reunir tribus. Monumentos como Chaco Canyon, Stonehenge o Chichén Itzá calendan solsticios y equinoccios.
+Vivimos en un universo de tipo intermedio: las cosas cambian según <span class="term">leyes de la naturaleza</span>, no al azar ni con rigidez absoluta. Desde la prehistoria, el cielo nocturno ofreció patrones útiles: cazar, sembrar, reunir tribus. Monumentos como Chaco Canyon, Stonehenge o Chichén Itzá calendan solsticios y equinoccios.
 
 <!-- paragraph -->
 Los planetas «vagabundos» inspiraron astrología: creencia de que configuran destinos personales y de imperios. Sagan demuestra su vaciedad. Columnas rivales dan consejos contradictorios. Gemelos idénticos bajo el mismo horóscopo tienen destinos opuestos. La astrología moderna ignora precesión, descubrimientos desde Ptolomeo y distingue mal de la astronomía.
@@ -113,7 +113,7 @@ Los planetas «vagabundos» inspiraron astrología: creencia de que configuran d
 — Johannes Kepler
 
 <!-- key -->
-La astronomía conecta la Tierra con el Cosmos mediante leyes universales; la astrología es pseudociencia sin evidencia.
+La astronomía conecta la Tierra con el Cosmos mediante leyes universales. La astrología es pseudociencia sin evidencia.
 
 ---
 
@@ -145,7 +145,7 @@ El clima terrestre es un sistema delicado. Pequeños cambios pueden desencadenar
 ## title: Blues de un planeta rojo
 
 <!-- paragraph lead -->
-Marte fascinó a la humanidad: «canales» interpretados como irrigación, novelas de <span class="person">Wells</span>, obsesión popular. Muchos quieren vida en Marte. Otros no. Las pasiones han desgastado la tolerancia a la ambigüedad científica. Sagan participó en Viking: dos naves aterrizaron en <span class="num">1976</span>, primera exploración robótica de otro mundo.
+Marte fascinó a la humanidad entera: «canales» interpretados como irrigación, novelas de <span class="person">Wells</span>, obsesión popular. Muchos quieren vida en Marte. Otros no. Las pasiones han desgastado la tolerancia a la ambigüedad científica. Sagan participó en el proyecto Viking: dos naves aterrizaron en <span class="num">1976</span>, primera exploración robótica de otro mundo.
 
 <!-- paragraph -->
 Los resultados fueron espectaculares pero no concluyentes sobre vida microbiana. El cielo marciano es rosa-amarillento, no azul. Los paisajes son desolados y hermosos. La prensa perdió interés ante la falta de respuesta definitiva. Sagan defiende que la exploración planetaria satisface una curiosidad profundamente humana y esencial para entender nuestro origen.
@@ -154,7 +154,7 @@ Los resultados fueron espectaculares pero no concluyentes sobre vida microbiana.
 Marte guarda evidencia de ríos antiguos, volcanes gigantes y cambios climáticos drásticos. Estudiarlo es leer el pasado de un mundo vecino que pudo haber sido más hospitalario. La búsqueda continúa con orbitadores y rovers posteriores a la época del libro.
 
 <!-- key -->
-Nadie sabe aún si hay vida en Marte; la ciencia exige paciencia ante la incertidumbre, no certezas apresuradas.
+Nadie sabe aún si hay vida en Marte. La ciencia exige paciencia ante la incertidumbre, no certezas apresuradas.
 
 ---
 
@@ -215,7 +215,7 @@ La relatividad de <span class="person">Einstein</span> muestra que espacio y tie
 Si todas las estrellas del universo superan a todos los granos de arena terrestres, nuestra insignificancia es real — pero también nuestra capacidad de comprenderlo. La ciencia convierte la distancia cósmica en conocimiento medible.
 
 <!-- key -->
-Moverse en el espacio altera el cielo; moverse cerca de la luz altera el reloj: el Cosmos une espacio y tiempo.
+Moverse en el espacio altera el cielo. Moverse cerca de la luz altera el reloj: el Cosmos une espacio y tiempo.
 
 ---
 
@@ -283,7 +283,7 @@ El <span class="term">ADN</span> es un código químico de instrucciones heredad
 Las civilizaciones avanzadas deben preservar su memoria colectiva contra catástrofes naturales y autoinfligidas. La información es supervivencia cultural, y sin memoria colectiva cada generación recomienza desde cero.
 
 <!-- key -->
-Conocer y recordar es sobrevivir a escala civilizatoria; la memoria es el contrapeso a la fragilidad humana.
+Conocer y recordar es sobrevivir a escala civilizatoria. La memoria es el contrapeso a la fragilidad humana.
 
 ---
 
@@ -293,13 +293,13 @@ Conocer y recordar es sobrevivir a escala civilizatoria; la memoria es el contra
 ## title: Enciclopedia galáctica
 
 <!-- paragraph lead -->
-¿Podemos comunicarnos con civilizaciones estelares? Sagan imagina la <span class="term">Enciclopedia Galáctica</span>: repositorio de conocimiento de muchas especies. El <span class="term">SETI</span> busca señales artificiales en el radio. Un mensaje podría ser un «principito»: lenguaje matemático universal antes que palabras.
+¿Podemos comunicarnos con civilizaciones estelares? Sagan imagina para ello la <span class="term">Enciclopedia Galáctica</span>: repositorio de conocimiento de muchas especies. El <span class="term">SETI</span> busca señales artificiales en el radio. Un mensaje podría ser un «principito»: lenguaje matemático universal antes que palabras.
 
 <!-- paragraph -->
 Las matemáticas parecen la lingua franca del Cosmos: primos, π, leyes físicas. Un mensaje podría describir una civilización alienígena en la entrada 3.267 de la Enciclopedia. Recibir tal señal transformaría nuestra autocomprensión más que cualquier conquista territorial.
 
 <!-- paragraph -->
-También debemos considerar si somos capaces de interpretar mensajes sin proyectar nuestros miedos. La búsqueda exige paciencia intergeneracional: las distancias estelares implican conversaciones de décadas o siglos.
+También debemos considerar si somos capaces de interpretar mensajes sin proyectar nuestros miedos. La búsqueda de señales exige paciencia intergeneracional: las distancias estelares implican conversaciones de décadas o siglos.
 
 <!-- list -->
 - **SETI** — Búsqueda de inteligencia extraterrestre mediante radiotelescopios.
@@ -327,7 +327,7 @@ La serie y el libro son un experimento optimista: confiar en la inteligencia pú
 — Carl Sagan
 
 <!-- key -->
-<span class="key-term">Somos la forma</span> en que el Cosmos se conoce a sí mismo; destruirnos sería silenciar esa voz única.
+<span class="key-term">Somos la forma</span> en que el Cosmos se conoce a sí mismo. Destruirnos sería silenciar esa voz única.
 
 ---
 

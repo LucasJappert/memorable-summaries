@@ -150,7 +150,7 @@ La mente humana necesita historias coherentes. Por eso simplifica cadenas causal
 Esa tendencia produce <span class="term">ceguera al cisne negro</span>, porque prestamos atención a lo vívido y reciente, no a riesgos extremos fuera del foco. Cuanto más convincente suena una historia, más fácil es sobreestimar nuestro entendimiento.
 
 <!-- key -->
-La claridad narrativa no es evidencia de verdad; muchas veces es solo compresión psicológica de la complejidad.
+La claridad narrativa no es evidencia de verdad. Muchas veces es solo compresión psicológica de la complejidad.
 
 ---
 
@@ -166,7 +166,7 @@ Taleb describe contextos de recompensas desiguales, donde largos periodos de esp
 La evaluación por resultados visibles de corto plazo oculta procesos que acumulan riesgos de cola. Por eso insiste en distinguir entre calidad del proceso y resultado puntual.
 
 <!-- key -->
-No todo resultado bueno valida una estrategia; en entornos no lineales, también puede ser azar favorable temporal.
+No todo resultado bueno valida una estrategia. En entornos no lineales, también puede ser azar favorable temporal.
 
 ---
 
@@ -176,7 +176,7 @@ No todo resultado bueno valida una estrategia; en entornos no lineales, también
 ## title: La suerte infalible de Casanova y la evidencia silenciosa
 
 <!-- paragraph -->
-Aquí aparece la <span class="term">evidencia silenciosa</span>: juzgamos fenómenos por los casos visibles (supervivientes) y olvidamos los invisibles (fracasos). Historias de éxito sin base de comparación producen reglas engañosas de imitación.
+Aquí aparece con fuerza la <span class="term">evidencia silenciosa</span>: juzgamos fenómenos por los casos visibles (supervivientes) y olvidamos los invisibles (fracasos). Historias de éxito sin base de comparación producen reglas engañosas de imitación.
 
 <!-- paragraph -->
 Taleb muestra que gran parte del conocimiento práctico debería partir de lo que no observamos directamente. En selección natural, mercados y cultura, la ausencia de los perdedores sesga cualquier inferencia.
@@ -198,7 +198,7 @@ La <span class="term">falacia lúdica</span> consiste en modelar la incertidumbr
 En el mundo real, las reglas cambian, los eventos extremos dominan y las distribuciones no son estables. Confundir riesgo mensurable con incertidumbre abierta genera decisiones técnicamente sofisticadas pero frágiles.
 
 <!-- key -->
-No todo lo incierto es calculable; tratar lo incalculable como juego probabilístico es un error estructural.
+No todo lo incierto es calculable. Tratar lo incalculable como juego probabilístico es un error estructural.
 
 ---
 
@@ -240,7 +240,7 @@ La robustez práctica no exige adivinar el futuro, sino construir exposición in
 ## title: Epistemocracia, un sueño
 
 <!-- paragraph -->
-Taleb imagina una <span class="term">epistemocracia</span>: un orden social que premia la humildad epistemológica y penaliza la sobreconfianza experta. El foco no es quién sabe más, sino quién reconoce mejor lo que ignora.
+Taleb llama <span class="term">epistemocracia</span> al orden social que premia la humildad epistemológica y penaliza la sobreconfianza experta. El foco no es quién sabe más, sino quién reconoce mejor lo que ignora.
 
 <!-- paragraph -->
 Recupera una tradición escéptica asociada a <span class="person">Montaigne</span> y otros autores para oponerla al dogmatismo tecnocrático. En incertidumbre extrema, una sociedad prudente debería preferir márgenes de seguridad a narrativas cerradas.

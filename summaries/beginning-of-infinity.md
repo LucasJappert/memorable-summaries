@@ -239,7 +239,7 @@ Optimismo racional es compromiso activo con la resolución de problemas mediante
 En formato de diálogo, Deutsch dramatiza una teoría del conocimiento inspirada en <span class="person">Karl Popper</span>, usando personajes de la tradición socrática.
 
 <!-- paragraph -->
-La escena enfatiza el <span class="term">falibilismo</span>: no hay justificación última infalible. Lo que hay son conjeturas, críticas y correcciones sucesivas.
+La escena del diálogo enfatiza el <span class="term">falibilismo</span>: no hay justificación última infalible. Lo que hay son conjeturas, críticas y correcciones sucesivas.
 
 <!-- paragraph -->
 También muestra la fragilidad de la comunicación intelectual: incluso entre interlocutores brillantes, las ideas nuevas se malinterpretan con facilidad y requieren trabajo explicativo continuo.
@@ -299,7 +299,7 @@ El análisis de sistemas de reparto político muestra que decidir no es aplicar 
 Paradojas de asignación evidencian que no existe regla neutral perfecta para todos los valores simultáneamente. Hay conflictos reales entre nociones de justicia.
 
 <!-- paragraph -->
-Deutsch extrae una lección general: los buenos marcos institucionales permiten corrección de errores y reforma crítica en vez de blindar procedimientos supuestamente definitivos.
+Deutsch extrae de este análisis una lección más general: los buenos marcos institucionales permiten corrección de errores y reforma crítica en vez de blindar procedimientos supuestamente definitivos.
 
 <!-- key -->
 Elegir bien implica creatividad institucional y revisión continua de reglas, no obediencia a algoritmos fijos.
@@ -331,7 +331,7 @@ La estética participa del mismo proyecto racional: explicar mejor por qué cier
 ## title: The Evolution of Culture
 
 <!-- paragraph lead -->
-Las culturas evolucionan mediante <span class="term">memes</span>: ideas que se replican en mentes y prácticas sociales, análogas a genes pero con dinámica propia.
+Las culturas se transmiten y evolucionan mediante <span class="term">memes</span>: ideas que se replican en mentes y prácticas sociales, análogas a genes pero con dinámica propia.
 
 <!-- paragraph -->
 A diferencia de los genes, los memes incluyen mecanismos de copia, interpretación y control social. Por eso pueden reforzar tanto apertura crítica como rigidez dogmática.

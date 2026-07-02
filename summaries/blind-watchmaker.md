@@ -43,10 +43,10 @@ Dawkins escribe convencido de que nuestra existencia fue el mayor de los misteri
 Un cerebro humano contiene unos diez millones de kiloneuronas. Cada célula del cuerpo guarda en su ADN mil veces más información digital que un ordenador de <span class="num">64 kilobytes</span>. Si alguien niega que esa complejidad exige explicación, el autor no se rinde: quiere transmitir la maravilla del diseño biológico y luego disipar el misterio.
 
 <!-- paragraph -->
-El libro no pretende ser un tratado científico frío. Busca informar, persuadir e inspirar: el darwinismo no solo es cierto, sino la única teoría conocida que, en principio, puede resolver el misterio de nuestra existencia. Dawkins distingue su defensa de la de un abogado que defiende causas en las que no cree: nunca dice lo que no considera verdadero.
+El libro no pretende ser un tratado científico frío. Su propósito es informar, persuadir e inspirar: el darwinismo no solo es cierto, sino la única teoría conocida que, en principio, puede resolver el misterio de nuestra existencia. Dawkins distingue su defensa de la de un abogado que defiende causas en las que no cree: nunca dice lo que no considera verdadero.
 
 <!-- key -->
-El darwinismo parece necesitar más defensa que otras verdades científicas establecidas; la mente humana está predispuesta a malinterpretarlo por el azar, las escalas temporales y la analogía con el diseño consciente.
+El darwinismo parece necesitar más defensa que otras verdades científicas establecidas. La mente humana está predispuesta a malinterpretarlo por el azar, las escalas temporales y la analogía con el diseño consciente.
 
 ---
 
@@ -89,7 +89,7 @@ Una cosa compleja tiene partes dispuestas de forma improbable por azar, con una 
 La selección natural es el relojero ciego: no ve adelante ni planifica, pero sus resultados impresionan como diseño de un maestro relojero. Este capítulo refuerza esa ilusión con un ejemplo que impresionaría a cualquier ingeniero: el <span class="term">sonar</span> en los murciélagos.
 
 <!-- paragraph -->
-Los murciélagos cazan de noche sin luz. Fabricar luz propia consume demasiada energía. La evolución favoreció otra solución. Los ciegos usan <span class="term">ecolocalización</span>: ecos de sus propios sonidos. Los pioneros del sonar en la Segunda Guerra Mundial no sabían que la selección natural lo había perfeccionado millones de años antes.
+Los murciélagos cazan de noche sin luz. Fabricar luz propia consume demasiada energía. La evolución favoreció otra solución. Los murciélagos ciegos se orientan mediante <span class="term">ecolocalización</span>: escuchan el eco de sus propios sonidos. Los pioneros del sonar en la Segunda Guerra Mundial no sabían que la selección natural lo había perfeccionado millones de años antes.
 
 <!-- paragraph -->
 <span class="person">Donald Griffin</span> acuñó «ecolocalización» para cubrir sonar y radar. Diferentes grupos de murciélagos usan el sonar de modos radicalmente distintos. El capítulo recorre el problema como lo haría un ingeniero (plantear el problema, imaginar soluciones, mostrar la adoptada por la naturaleza) para demostrar que Paley apenas empezaba a describir el caso del diseño biológico.
@@ -99,7 +99,7 @@ Los murciélagos cazan de noche sin luz. Fabricar luz propia consume demasiada e
 — Richard Dawkins
 
 <!-- key -->
-Un órgano o cuerpo está <span class="key-term">bien diseñado</span> si un ingeniero inteligente podría haberlo construido para un fin sensato — volar, ver, comer, reproducirse — aunque no sea el mejor diseño imaginable.
+Un órgano o cuerpo está <span class="key-term">bien diseñado</span> si un ingeniero inteligente podría haberlo construido para un fin sensato (volar, ver, comer, reproducirse), aunque no sea el mejor diseño imaginable.
 
 ---
 
@@ -109,7 +109,7 @@ Un órgano o cuerpo está <span class="key-term">bien diseñado</span> si un ing
 ## title: Acumulando pequeños cambios
 
 <!-- paragraph lead -->
-Los seres vivos son demasiado improbables para surgir de un solo golpe de azar. La respuesta darwiniana: transformaciones graduales desde entidades simples, cada paso lo bastante pequeño para ser plausible, dirigidos en conjunto por la <span class="term">selección no aleatoria</span>.
+Los seres vivos son demasiado improbables para surgir de un solo golpe de azar. La respuesta de Darwin consiste en transformaciones graduales desde entidades simples, cada paso lo bastante pequeño para ser plausible, dirigidos en conjunto por la <span class="term">selección no aleatoria</span>.
 
 <!-- paragraph -->
 Las olas ordenan guijarros en franjas sin intención: es un <span class="term">cribado de un solo paso</span>. La organización viva exige, además, un candado combinacional con millones de diales, como ensamblar la hemoglobina mezclando aminoácidos al azar. El número hemoglobina (~<span class="num">10<sup>190</sup></span>) muestra que el cribado simple no basta.
@@ -149,7 +149,7 @@ Con suficientes generaciones, medidas en miles de millones, la transición es pl
 - **Pregunta 5** — Cada intermediario debe ser funcional; la selección no espera perfección futura.
 
 <!-- key -->
-El ojo no salta en el <span class="key-term">espacio animal</span>; camina en pasos diminutos, cada uno seleccionado por utilidad inmediata.
+El ojo no salta en el <span class="key-term">espacio animal</span>: camina en pasos diminutos, cada uno seleccionado por utilidad inmediata.
 
 ---
 
@@ -172,7 +172,7 @@ La vieja noción de <span class="term">protoplasma</span> vitalista está muerta
 — Richard Dawkins
 
 <!-- key -->
-En el corazón de todo ser vivo hay <span class="key-term">información</span> — palabras, instrucciones — no fuego ni chispa vital.
+En el corazón de todo ser vivo hay <span class="key-term">información</span> (palabras, instrucciones), no fuego ni chispa vital.
 
 ---
 
@@ -233,7 +233,7 @@ La mente humana analogiza con facilidad — a veces demasiado. Este capítulo ex
 La retroalimentación negativa estabiliza (governador de Watt). La positiva amplifica perturbaciones hasta el desastre o un nuevo equilibrio, como una explosión química. En biología, la coevolución depredador-presa puede dispararse en espiral. Los cuerpos usan más retroalimentación negativa que positiva porque la regulación estable es útil. Pero las explosiones importan aquí.
 
 <!-- paragraph -->
-Los <span class="term">memes</span>, unidades de transmisión cultural, se replican con variación y selección, analogía con los genes. Dawkins advierte: la analogía puede llevarse demasiado lejos, como ocurre con los cranks que ven evolución en todo. El criterio es la calidad de la inspiración y la capacidad de descartar analogías frívolas.
+Los <span class="term">memes</span>, unidades de transmisión cultural, se replican con variación y selección, analogía con los genes. Dawkins advierte, no obstante, que la analogía puede llevarse demasiado lejos, como ocurre con los cranks que ven evolución en todo. El criterio es la calidad de la inspiración y la capacidad de descartar analogías frívolas.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -262,7 +262,7 @@ Los punctuationistas, muchos paleontólogos, enfatizan <span class="term">estasi
 El registro fósil es incompleto por naturaleza. La datación radiométrica (carbono-<span class="num">14</span>, potasio-argon, uranio-plomo) permite pruebas temporales. Un fósil humano auténtico en rocas de <span class="num">500 millones</span> de años destruiría la evolución: prueba de que la teoría es falsable. La controversia real es menor de lo que venden las revistas.
 
 <!-- key -->
-El <span class="key-term">punctuationismo</span> es una variedad menor de darwinismo, no un rival; los «gradualistas» de Dawkins son un hombre de paja.
+El <span class="key-term">punctuationismo</span> es una variedad menor de darwinismo, no un rival. Los «gradualistas» que critica son un hombre de paja.
 
 ---
 
@@ -304,7 +304,7 @@ El <span class="term">creacionismo</span> postula complejidad organizada sin exp
 — Richard Dawkins
 
 <!-- key -->
-El darwinismo es la única teoría conocida que, en principio, puede explicar la <span class="key-term">complejidad adaptativa</span>; los rivales fallan incluso antes de mirar la evidencia.
+El darwinismo es la única teoría conocida que, en principio, puede explicar la <span class="key-term">complejidad adaptativa</span>. Los rivales fallan incluso antes de mirar la evidencia.
 
 ---
 
