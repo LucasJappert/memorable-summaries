@@ -42,17 +42,18 @@ npm run preview
 
 ### GitHub Pages
 
-Push a `main` dispara `.github/workflows/deploy.yml`, que hace `npm run build` y publica `dist/` con **GitHub Actions** (`deploy-pages`).
+Push a `main` dispara `.github/workflows/deploy.yml`, que hace `npm run build` y publica `dist/` en la rama **`gh-pages`**.
 
 **Configuración obligatoria (una sola vez):**
 
 1. Repo → **Settings → Pages**
-2. **Build and deployment → Source:** `GitHub Actions`
-3. Guardar y esperar al workflow verde en **Actions**
+2. **Build and deployment → Source:** `Deploy from a branch`
+3. **Branch:** `gh-pages` / **`/ (root)`**
+4. Guardar y esperar al workflow verde en **Actions**
 
 URL: **https://lucasjappert.github.io/memorable-summaries/**
 
-Si ves `GET /src/main.ts 404`, Pages sigue apuntando a la rama `main` en lugar de **GitHub Actions**.
+Si ves `GET /src/main.ts 404`, Pages sigue apuntando a `main` en lugar de `gh-pages`.
 
 Build local con el mismo base path:
 

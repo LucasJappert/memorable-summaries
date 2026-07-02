@@ -41,7 +41,7 @@
 ### Infra
 
 -   🚀 **Deploy GitHub Pages**
-    -   Workflow vuelve a `deploy-pages` (artefacto oficial); requiere fuente **GitHub Actions** en Settings → Pages (no rama `main`).
+    -   Workflow publica el build en rama `gh-pages`; Pages debe usar **Deploy from a branch → gh-pages** (evita el bucle `deployment_queued` de `deploy-pages`).
 
 ### Cambios/Mejoras
 
