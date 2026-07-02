@@ -225,7 +225,12 @@
     {
       "sectionId": "cap8",
       "sectionTitle": "Compromiso activo",
-      "text": "Ser activo no es moverse sin parar en clase (fidgeting). El cerebro aprende cuando genera hipótesis y las pone a prueba mentalmente. En el experimento clásico de profundidad de procesamiento , tres grupos reciben la misma lista de palabras con tareas distintas: juzgar mayúsculas (~ 33 % de recuerdo), rimas (~ 52 % ) o si la palabra nombra un animal (~ 75 % ). Procesar el significado deja memoria explícita, mientras que lo superficial casi no deja huella. La neuroimagen confirma el patrón: más actividad en la corteza prefrontal y el hipocampo al estudiar predice qué ítems se recordarán después."
+      "text": "Ser activo no es moverse sin parar en clase (fidgeting). El cerebro aprende cuando genera hipótesis y las pone a prueba mentalmente. En el experimento clásico de profundidad de procesamiento , tres grupos reciben la misma lista de palabras con tareas distintas."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Compromiso activo",
+      "text": "Procesar el significado deja memoria explícita, mientras que lo superficial casi no deja huella. La neuroimagen confirma el patrón: más actividad en la corteza prefrontal y el hipocampo al estudiar predice qué ítems se recordarán después."
     },
     {
       "sectionId": "cap8",

@@ -9,7 +9,7 @@
   padding:
     0
     max(var(--gutter-right), env(safe-area-inset-right, 0px))
-    max(0.65rem, env(safe-area-inset-bottom, 0px))
+    max(0.25rem, env(safe-area-inset-bottom, 0px))
     max(var(--gutter-left), env(safe-area-inset-left, 0px));
   pointer-events: none;
 }
@@ -43,17 +43,17 @@
 }
 .app-bottom-bar__progress {
   position: absolute;
-  top: 0;
+  bottom: 0;
   left: 0;
   right: 0;
-  height: 2px;
-  background: rgba(255, 255, 255, 0.08);
+  height: 3px;
+  background: rgba(255, 255, 255, 0.1);
   pointer-events: none;
   z-index: 2;
 }
 .app-bottom-bar__progress-fill {
   height: 100%;
-  border-radius: 0 2px 2px 0;
+  border-radius: 2px 0 0 0;
   background: linear-gradient(90deg, var(--accent), var(--accent3));
   box-shadow: 0 0 8px rgba(124, 140, 240, 0.35);
   transition: width 0.12s linear;

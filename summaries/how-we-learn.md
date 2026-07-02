@@ -223,7 +223,17 @@ Sin atención correcta no hay aprendizaje profundo. El docente debe capturar y g
 El segundo pilar es el <span class="term">compromiso activo</span>. En el experimento de carrusel de <span class="person">Richard Held</span> y <span class="person">Alan Hein</span> (<span class="num">1963</span>), un gatito que explora por sí solo desarrolla visión normal. El que se mueve igual pero sin controlar su desplazamiento queda ciego en la práctica.
 
 <!-- paragraph -->
-Ser activo no es moverse sin parar en clase (fidgeting). El cerebro aprende cuando genera hipótesis y las pone a prueba mentalmente. En el experimento clásico de <span class="term">profundidad de procesamiento</span>, tres grupos reciben la misma lista de palabras con tareas distintas: juzgar mayúsculas (~<span class="num">33 %</span> de recuerdo), rimas (~<span class="num">52 %</span>) o si la palabra nombra un animal (~<span class="num">75 %</span>). Procesar el significado deja memoria explícita, mientras que lo superficial casi no deja huella. La neuroimagen confirma el patrón: más actividad en la corteza prefrontal y el hipocampo al estudiar predice qué ítems se recordarán después.
+Ser activo no es moverse sin parar en clase (fidgeting). El cerebro aprende cuando genera hipótesis y las pone a prueba mentalmente. En el experimento clásico de <span class="term">profundidad de procesamiento</span>, tres grupos reciben la misma lista de palabras con tareas distintas.
+
+<!-- big-numbers -->
+| value | label |
+|-------|-------|
+| ~33 % | Recuerdo si juzgan mayúsculas |
+| ~52 % | Recuerdo si juzgan rimas |
+| ~75 % | Recuerdo si juzgan si es animal |
+
+<!-- paragraph -->
+Procesar el significado deja memoria explícita, mientras que lo superficial casi no deja huella. La neuroimagen confirma el patrón: más actividad en la corteza prefrontal y el hipocampo al estudiar predice qué ítems se recordarán después.
 
 <!-- paragraph -->
 <span class="person">Henry Roediger</span> mostró que la dificultad deseable que exige esfuerzo cognitivo mejora la retención. La pasividad deja huellas mínimas.
