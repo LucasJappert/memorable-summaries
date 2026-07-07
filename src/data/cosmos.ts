@@ -117,6 +117,10 @@ export const cosmos: BookSummary = {
           text: "«El Cosmos es todo lo que fue, es o será. Nuestras más débiles contemplaciones del Cosmos nos estremecen: hay un cosquilleo en la columna, un nudo en la garganta, como un recuerdo lejano de caer desde una altura.»",
           attribution: "Carl Sagan",
         },
+        {
+          type: 'key',
+          html: "Comprender el Cosmos no es un lujo de especialistas, sino un placer evolutivo y una condición de supervivencia que merece comunicarse a todos.",
+        },
       ],
     },
     {
@@ -181,6 +185,10 @@ export const cosmos: BookSummary = {
             }
           ],
         },
+        {
+          type: 'key',
+          html: "Toda la vida terrestre comparte un mismo origen y se explica por selección natural, sin necesidad de ningún diseñador.",
+        },
       ],
     },
     {
@@ -243,6 +251,10 @@ export const cosmos: BookSummary = {
             }
           ],
         },
+        {
+          type: 'key',
+          html: "Ningún mundo es estable, y el efecto invernadero de Venus advierte adónde podría llevar a la Tierra un cambio climático descontrolado.",
+        },
       ],
     },
     {
@@ -300,6 +312,10 @@ export const cosmos: BookSummary = {
             }
           ],
         },
+        {
+          type: 'key',
+          html: "Las naves robóticas son los exploradores de nuestro tiempo, porque extienden los sentidos humanos a mundos inalcanzables por un costo ínfimo.",
+        },
       ],
     },
     {
@@ -324,6 +340,10 @@ export const cosmos: BookSummary = {
           type: 'quote',
           text: "«Preferiría entender una sola causa que ser rey de Persia.»",
           attribution: "Demócrito de Abdera",
+        },
+        {
+          type: 'key',
+          html: "La ciencia nació cuando los jonios se atrevieron a buscar causas naturales en vez de invocar dioses, y esa humildad abrió el camino que el dogma cerraba.",
         },
       ],
     },
@@ -394,6 +414,10 @@ export const cosmos: BookSummary = {
             }
           ],
         },
+        {
+          type: 'key',
+          html: "Cada átomo pesado de nuestro cuerpo se cocinó dentro de una estrella, así que somos literalmente polvo de estrellas.",
+        },
       ],
     },
     {
@@ -426,6 +450,10 @@ export const cosmos: BookSummary = {
               "label": "Estimación de Sagan para el origen"
             }
           ],
+        },
+        {
+          type: 'key',
+          html: "El universo tuvo un comienzo y su destino depende de cuánta materia contiene, y la cosmología responde con evidencia lo que antes solo respondían los mitos.",
         },
       ],
     },
@@ -479,6 +507,10 @@ export const cosmos: BookSummary = {
             "**Enciclopedia Galáctica** — Metáfora de repositorio cósmico de culturas múltiples."
           ],
         },
+        {
+          type: 'key',
+          html: "Buscar señales de otras civilizaciones es una apuesta razonable, y hallar una transformaría nuestra autocomprensión más que cualquier conquista territorial.",
+        },
       ],
     },
     {
@@ -501,7 +533,7 @@ export const cosmos: BookSummary = {
         },
         {
           type: 'quote',
-          text: "«La exploración del Cosmos es un viaje de regreso a casa.»",
+          text: "«La exploración del Cosmos es un viaje de autodescubrimiento.»",
           attribution: "Carl Sagan",
         },
         {

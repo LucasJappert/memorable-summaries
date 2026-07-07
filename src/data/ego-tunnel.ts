@@ -112,7 +112,7 @@ export const egoTunnel: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El libro propone el <span class=\"term\">túnel del ego</span>: un modelo consciente del mundo con un centro aparente, el <span class=\"term\">ego</span>. El autor es filósofo analítico que colabora con neurocientíficos. Insiste en la fenomenología de estados alterados (meditación, sueños lúcidos, experiencias extracorporales, síndromes psiquiátricos).",
+          html: "El libro propone el <span class=\"term\">túnel del ego</span>: un modelo consciente del mundo con un centro aparente, el <span class=\"term\">ego</span>. El autor es filósofo analítico que colabora con neurocientíficos. Insiste en la fenomenología de estados alterados (meditación, sueños lúcidos, experiencias extracorporales, síndromes psiquiátricos) como laboratorio del yo.",
         },
         {
           type: 'quote',
@@ -169,7 +169,7 @@ export const egoTunnel: BookSummary = {
         },
         {
           type: 'key',
-          html: "Conciencia es <span class=\"key-term\">aparición de un mundo</span>. El problema no es el mundo exterior sino la estructura de la vida interior.",
+          html: "La conciencia es <span class=\"key-term\">aparición de un mundo</span>: el problema no es el mundo exterior sino la estructura de la vida interior.",
         },
       ],
     },
@@ -185,11 +185,11 @@ export const egoTunnel: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Metáfora del simulador de vuelo total: el cerebro genera imagen interna de sí mismo sin piloto externo. El «piloto» nace dentro de la realidad virtual. El túnel puede tomar formas distintas: ramificarse en empatía, persistir durante el sueño o reproducirse en máquinas artificiales.",
+          html: "Metzinger recorre tres problemas filosóficos. En el <span class=\"term\">problema del mundo único</span>, la conciencia integra contenidos en un todo coherente. En el <span class=\"term\">problema del presente</span>, todo se experimenta como «ahora», porque el cerebro simula temporalidad interna y hace información globalmente disponible según la teoría del <span class=\"term\">workspace global</span> de <span class=\"person\">Bernard Baars</span>. En el <span class=\"term\">problema de la realidad</span>, la transparencia de las representaciones produce <span class=\"term\">realismo ingenuo</span>, la ilusión de contacto directo con el mundo.",
         },
         {
           type: 'paragraph',
-          html: "Metzinger distingue su túnel del «reality tunnel» popular (<span class=\"person\">Robert Anton Wilson</span>, <span class=\"person\">Timothy Leary</span>): no negamos realidad objetiva ni conocimiento científico comunitario. El foco es la experiencia consciente como formato de datos biológico.",
+          html: "Metáfora del simulador de vuelo total: el cerebro genera imagen interna de sí mismo sin piloto externo. El «piloto» nace dentro de la realidad virtual. Metzinger distingue su túnel del «reality tunnel» popular (<span class=\"person\">Robert Anton Wilson</span>, <span class=\"person\">Timothy Leary</span>): no niega realidad objetiva ni conocimiento científico comunitario.",
         },
         {
           type: 'concept-grid',
@@ -213,7 +213,7 @@ export const egoTunnel: BookSummary = {
         },
         {
           type: 'key',
-          html: "Nadie vive <em>dentro</em> del túnel. Vivimos <em>con</em> él y <em>a través</em> de él, sin homúnculo al mando.",
+          html: "Nadie vive <em>dentro</em> del túnel, sino <em>con</em> él y <em>a través</em> de él, porque el PSM es <span class=\"key-term\">transparente</span>.",
         },
       ],
     },
@@ -229,7 +229,7 @@ export const egoTunnel: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El <span class=\"term\">problema del mundo único</span> plantea que un mundo debe aparecer como <em>un</em> todo coherente. La neurociencia estudia el «binding» de características (color, forma, textura). La filosofía estudia el «saber que sabes». Ambos son lados de la misma moneda.",
+          html: "En conversación con <span class=\"person\">Wolf Singer</span>, Metzinger profundiza el vínculo entre conciencia y <span class=\"term\">binding</span>. Singer sostiene que solo los resultados de procesos computacionales integrados con éxito entran en la conciencia al mismo tiempo. El binding problem surge porque el cerebro es altamente distribuido y debe correlacionar contenidos dispares.",
         },
         {
           type: 'paragraph',
@@ -237,7 +237,7 @@ export const egoTunnel: BookSummary = {
         },
         {
           type: 'key',
-          html: "La unidad de la conciencia es logro cerebral: contenidos correlacionados sin fisuras en un solo mundo vivido.",
+          html: "La unidad de la conciencia es logro cerebral: contenidos correlacionados sin fisuras en un solo <span class=\"key-term\">mundo vivido</span>.",
         },
       ],
     },
@@ -257,7 +257,7 @@ export const egoTunnel: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Macacos japoneses integran herramientas en el <span class=\"term\">esquema corporal</span>. Los campos receptivos visuales se extienden a la punta del rastrillo. Los fantasmas de miembros (<span class=\"person\">Silas Weir Mitchell</span>, <span class=\"num\">1871</span>) muestran que la caja de espejos de Ramachandran «desparaliza» fantasmas moviendo la mano real mientras el sujeto ve la simetría.",
+          html: "<span class=\"person\">Olaf Blanke</span> cambió el panorama en <span class=\"num\">2002</span> al inducir experiencias extracorporales (ECE) estimulando el giro angular derecho de una paciente epiléptica. Al aumentar la corriente a <span class=\"num\">3,5</span> miliamperios, la paciente reportó verse desde arriba y sentir que flotaba. Esas experiencias no prueban metafísica alguna, sino un fallo al integrar información vestibular, propioceptiva y visual en la unión temporo-parietal.",
         },
         {
           type: 'concept-grid',
@@ -281,7 +281,7 @@ export const egoTunnel: BookSummary = {
         },
         {
           type: 'key',
-          html: "El yo encarnado es una construcción holística. La propiedad es el núcleo más cercano de la <em>selfhood</em> fenomenal.",
+          html: "El yo encarnado es una construcción holística: la <span class=\"key-term\">propiedad corporal</span> es el núcleo más cercano de la selfhood fenomenal.",
         },
       ],
     },
@@ -293,19 +293,19 @@ export const egoTunnel: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "<span class=\"term\">Agencia</span> (hacer) y <span class=\"term\">propiedad</span> (tener) son experiencias distintas. Pacientes con lesiones pueden sentir que mueven una mano que no reconocen como suya, o lo contrario.",
+          html: "<span class=\"term\">Agencia</span> (hacer) y <span class=\"term\">propiedad</span> (tener) son experiencias distintas. Pacientes con lesiones pueden sentir que mueven una mano que no reconocen como suya, o lo contrario. El síndrome de <span class=\"term\">mano alienígena</span> muestra un subagente que secuestra una parte del cuerpo con metas propias.",
         },
         {
           type: 'paragraph',
-          html: "Experimentos de «mano alienígena»: estimulación que induce movimiento no voluntario mientras el sujeto niega agencia. El cerebro infiere causalidad retrospectivamente. La conciencia de «haber decidido» puede ser post hoc.",
+          html: "<span class=\"person\">Stéphane Kremer</span> y colegas estimularon el surco cingulado anterior de una paciente epiléptica y provocaron un «irresistible impulso de agarrar» que ella experimentó como voluntad propia. <span class=\"person\">Daniel Wegner</span> y <span class=\"person\">Thalia Wheatley</span>, con el experimento «I Spy», indujeron la sensación de haber iniciado un movimiento que en realidad ejecutó otra persona.",
         },
         {
           type: 'paragraph',
-          html: "El libre albedrío como fenómeno consciente se descompone en intención, selección de acción y control motor. La neurociencia muestra que procesos inconscientes preceden a la sensación de decidir. Queda la pregunta ética y política de responsabilidad sin homúnculo.",
+          html: "El libre albedrío como fenómeno consciente se descompone en intención, selección de acción y control motor. La neurociencia muestra que procesos inconscientes pueden preceder a la sensación de decidir. Queda la pregunta ética y política de responsabilidad sin homúnculo.",
         },
         {
           type: 'key',
-          html: "Sin homúnculo, la agencia es un modelo interno de causalidad. El libre albedrío vivido no garantiza un agente último.",
+          html: "Sin homúnculo, la agencia es un modelo interno de causalidad: el <span class=\"key-term\">libre albedrío vivido</span> no garantiza un agente último.",
         },
       ],
     },
@@ -317,11 +317,11 @@ export const egoTunnel: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Estados alterados son laboratorio fenomenológico. El <span class=\"term\">sueño lúcido</span>, saber que sueñas mientras sueñas, permite manipular el modelo del yo dentro del túnel onírico.",
+          html: "Estados alterados son laboratorio fenomenológico. El <span class=\"term\">sueño lúcido</span>, saber que sueñas mientras sueñas, permite manipular el modelo del yo dentro del túnel onírico. Metzinger relata su propia ECE de <span class=\"num\">1986</span> seguida de un falso despertar que destruyó la certeza de estar «en contacto con la realidad».",
         },
         {
           type: 'paragraph',
-          html: "Metzinger practica y estudia técnicas de inducción. El yo lúcido no es metafísico sino reconfiguración del PSM en sueño REM. La pregunta es qué aprendemos sobre la transparencia del ego cuando podemos «ver» que el mundo onírico es simulación.",
+          html: "Metzinger practica y estudia técnicas de inducción. El yo lúcido no es metafísico sino reconfiguración del PSM en sueño REM. La pregunta es qué aprendemos sobre la transparencia del ego cuando podemos percibir que el mundo onírico es simulación.",
         },
         {
           type: 'paragraph',
@@ -329,7 +329,7 @@ export const egoTunnel: BookSummary = {
         },
         {
           type: 'key',
-          html: "Los sueños lúcidos muestran que el túnel puede volverse <em>opaco</em> parcialmente: percibes que el mundo es modelo.",
+          html: "Los sueños lúcidos muestran que el túnel puede volverse <span class=\"key-term\">opaco</span> parcialmente: percibes que el mundo es modelo.",
         },
       ],
     },
@@ -345,15 +345,15 @@ export const egoTunnel: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Allan Hobson</span> y otros sostienen que el cerebro genera contenido onírico con la misma maquinaria de modelado que en vigilia. El yo onírico es PSM sin anclaje corporal fiable.",
+          html: "<span class=\"person\">Allan Hobson</span> sostiene que soñar es conciencia subjetiva de la activación cerebral durante el sueño. Su modelo <span class=\"term\">AIM</span> (activación, gating entrada-salida, modulación química) mapea estados de vigilia, sueño y sueño. La correlación REM-soñar es cuantitativa, no cualitativa.",
         },
         {
           type: 'paragraph',
-          html: "Pesadillas, parálisis del sueño y sueños falsos despertares muestran lo frágil que es la distinción entre simulación y realidad cuando el modelo es transparente.",
+          html: "Hobson describe el sueño como el estado consciente más autocreativo y más parecido a una psicosis dentro de la normalidad. Pesadillas, parálisis del sueño y falsos despertares muestran lo frágil que es la distinción entre simulación y realidad cuando el modelo es transparente.",
         },
         {
           type: 'key',
-          html: "Soñar demuestra que el túnel no necesita mundo exterior: basta actividad neural para un yo en un mundo.",
+          html: "Soñar demuestra que el túnel no necesita mundo exterior: basta actividad neural para un <span class=\"key-term\">yo en un mundo</span>.",
         },
       ],
     },
@@ -365,11 +365,11 @@ export const egoTunnel: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "La empatía requiere modelar estados ajenos en nuestro propio túnel. Las <span class=\"term\">neuronas espejo</span> y circuitos similares permiten resonancia con acciones y afectos percibidos.",
+          html: "La empatía requiere modelar estados ajenos en nuestro propio túnel. Un niño que tropieza mira a su madre para saber si debe llorar o reír: su PSM aún no tiene capa emocional autónoma. El ego tiene <span class=\"term\">correlatos sociales</span> además de neurales.",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Vittorio Gallese</span> y la hipótesis del <span class=\"term\">manifold compartido</span>: representaciones neuronales usadas para actuar y para percibir se solapan. Ver dolor ajeno activa áreas relacionadas con dolor propio.",
+          html: "Las <span class=\"term\">neuronas espejo</span> y circuitos similares permiten resonancia con acciones y afectos percibidos. <span class=\"person\">Vittorio Gallese</span> y la hipótesis del <span class=\"term\">manifold compartido</span>: representaciones neuronales usadas para actuar y para percibir se solapan. Ver dolor ajeno activa áreas relacionadas con dolor propio.",
         },
         {
           type: 'paragraph',
@@ -397,7 +397,7 @@ export const egoTunnel: BookSummary = {
         },
         {
           type: 'key',
-          html: "La empatía implica acoplar tu túnel al de otro mediante simulación interna. No añade ningún yo extra.",
+          html: "La empatía implica acoplar tu túnel al de otro mediante <span class=\"key-term\">simulación interna</span>, sin añadir ningún yo extra.",
         },
       ],
     },
@@ -409,19 +409,19 @@ export const egoTunnel: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Metzinger profundiza el marco de Gallese. Percepción, acción y emoción comparten formatos representacionales. El «espacio» de estados corporales es manifold común.",
+          html: "Metzinger profundiza el marco de Gallese. Gallese prefiere «manifold compartido» a «empatía» porque el término induce malentendidos. Describe nuestro acceso directo e implícito al mundo experiencial del otro al presenciar acciones y comportamiento expresivo.",
         },
         {
           type: 'paragraph',
-          html: "Esto unifica comprensión de imitación, aprendizaje social y fundamentos de la intersubjetividad. La lectura de mentes es predicción bayesiana sobre modelos ajenos construidos en tu propio tejido neural.",
+          html: "Percepción, acción y emoción comparten formatos representacionales. El «espacio» de estados corporales es manifold común. Esto unifica comprensión de imitación, aprendizaje social y fundamentos de la intersubjetividad.",
         },
         {
           type: 'paragraph',
-          html: "La simulación nunca es idéntica a la experiencia ajena. El túnel sigue siendo el tuyo.",
+          html: "La lectura de mentes es predicción bayesiana sobre modelos ajenos construidos en tu propio tejido neural. La simulación nunca es idéntica a la experiencia ajena. El túnel sigue siendo el tuyo.",
         },
         {
           type: 'key',
-          html: "La intersubjetividad existe sin telepatía: manifolds compartidos, túneles siempre separados.",
+          html: "La intersubjetividad existe sin telepatía: <span class=\"key-term\">manifolds compartidos</span>, túneles siempre separados.",
         },
       ],
     },
@@ -433,19 +433,19 @@ export const egoTunnel: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "¿Puede una máquina tener <span class=\"term\">conciencia artificial</span> y un túnel propio? Metzinger distingue inteligencia, auto-modelado y fenomenología.",
+          html: "Metzinger llama <span class=\"term\">Ego Machine</span> a cualquier sistema capaz de generar un self consciente. ¿Puede una máquina tener <span class=\"term\">conciencia artificial</span> y un túnel propio? Distingue inteligencia, auto-modelado y fenomenología.",
         },
         {
           type: 'paragraph',
-          html: "Un sistema que se modela a sí mismo no necesariamente siente. Hace falta correlato neural global con la misma dinámica de transparencia. Los «Ego Machines» postbióticos plantean si la evolución cultural puede crear nuevos tipos de interioridad.",
+          html: "Un robot con modelo corporal podría experimentar ilusión de mano de goma, ECE o sueños lúcidos. Existen híbridos biorobóticos (hardware biológico con software artificial) y redes de unas <span class=\"num\">300.000</span> neuronas de rata controlando robots. La distinción natural/artificial no es exhaustiva.",
         },
         {
           type: 'paragraph',
-          html: "Existe el riesgo de crear sufrimiento sintético sin saberlo. Tenemos obligación epistémica de no dañar sistemas que puedan tener PSM.",
+          html: "Un sistema que se modela a sí mismo no necesariamente siente. Hace falta correlato neural global con la misma dinámica de transparencia. Existe el riesgo de crear sufrimiento sintético sin saberlo: tenemos obligación epistémica de no dañar sistemas que puedan tener PSM.",
         },
         {
           type: 'key',
-          html: "La pregunta no es «¿pensará la máquina?» sino «¿habrá alguien home?» en el sentido fenomenal.",
+          html: "La pregunta no es «¿pensará la máquina?» sino «¿habrá alguien ahí?» en el sentido <span class=\"key-term\">fenomenal</span>.",
         },
       ],
     },
@@ -457,19 +457,19 @@ export const egoTunnel: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Neurotecnologías (fármacos, estimulación, interfaces, realidad virtual) permiten alterar contenidos del túnel. Cambian la <span class=\"term\">imagen naturalística del ser humano</span> que heredamos de la modernidad.",
+          html: "Somos Ego Machines naturales, pero no tenemos selves. Las neurotecnologías (fármacos, estimulación, interfaces, realidad virtual) permiten alterar contenidos del túnel. Cambian la <span class=\"term\">imagen naturalística del ser humano</span> que heredamos de la modernidad.",
         },
         {
           type: 'paragraph',
-          html: "Interfaces cerebro-computador, psicofármacos y VR no son accesorios: redefinen qué estados mentales son posibles y deseables. La sociedad debe actualizar instituciones pensadas para un yo que la ciencia ya no respalda.",
+          html: "Metzinger vuelve a la tesis central según la cual el ego emerge porque gran parte del PSM es transparente. Esa transparencia genera simultáneamente una experiencia «fuera del cerebro» y contacto inmediato con el «yo». No podemos salir del túnel porque no hay nadie que pueda salir.",
         },
         {
           type: 'paragraph',
-          html: "Metzinger advierte que la revolución de la conciencia llegará antes de lo que creemos. La política y la educación van rezagadas.",
+          html: "Interfaces cerebro-computador, psicofármacos y VR no son accesorios: redefinen qué estados mentales son posibles y deseables. Metzinger advierte que la revolución de la conciencia llegará antes de lo que creemos. La política y la educación van rezagadas.",
         },
         {
           type: 'key',
-          html: "Tecnologías que modifican el túnel exigen repensar derechos, identidad y salud mental.",
+          html: "Tecnologías que modifican el túnel exigen repensar derechos, identidad y <span class=\"key-term\">salud mental</span>.",
         },
       ],
     },
@@ -481,54 +481,54 @@ export const egoTunnel: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Una <span class=\"term\">ética de la conciencia</span> se vuelve necesaria: ¿qué estados mentales queremos promover o prohibir? ¿Cuáles podemos infligir a animales o máquinas?",
+          html: "La <span class=\"term\">revolución de la conciencia</span> crea conocimiento y riesgos: podemos alterar con precisión propiedades funcionales del cerebro y propiedades fenomenales de la experiencia. Surge una <span class=\"term\">ética de la conciencia</span>: ¿qué estados mentales queremos promover o prohibir?",
         },
         {
           type: 'paragraph',
-          html: "Surgen preguntas concretas: ¿qué conciencia queremos para nuestros hijos? ¿Es legítimo inducir euforia permanente o suprimir duelo? Sin teoría de la conciencia, las respuestas son ciegas.",
+          html: "<span class=\"person\">Michael Persinger</span> indujo experiencias religiosas por estimulación electromagnética. La encuesta de <span class=\"term\">Nature</span> mostró que <span class=\"num\">1 de cada 5</span> científicos usa mejoradores cognitivos sin prescripción. Entre ellos, <span class=\"num\">62%</span> usó metilfenidato (Ritalin). La <span class=\"term\">psicofarmacología cosmética</span> ya está aquí.",
         },
         {
           type: 'paragraph',
-          html: "La neuroética no es lujo académico: cada avance en manipulación fenomenal es decisión moral. El mito del yo debe caer para construir responsabilidad compartida y políticas de bienestar consciente.",
+          html: "Metzinger plantea preguntas concretas: ¿qué conciencia queremos para nuestros hijos? ¿Es legítimo inducir euforia permanente o suprimir duelo? ¿Qué estados podemos infligir a animales o máquinas? Sin teoría de la conciencia, las respuestas son ciegas. La neuroética no es lujo académico.",
         },
         {
           type: 'key',
-          html: "Sin homúnculo, la responsabilidad es distribuida. La ética debe guiar qué túneles cultivamos.",
+          html: "Sin homúnculo, la responsabilidad es distribuida: la ética debe guiar qué <span class=\"key-term\">túneles cultivamos</span>.",
         },
       ],
     },
   ],
   keyConcepts: [
   {
-    "title": "",
+    "title": "🕳️",
     "description": "Túnel del ego"
   },
   {
-    "title": "",
+    "title": "🧠",
     "description": "PSM"
   },
   {
-    "title": "",
+    "title": "👁️",
     "description": "Transparencia"
   },
   {
-    "title": "",
+    "title": "⚡",
     "description": "NCC"
   },
   {
-    "title": "",
+    "title": "🤚",
     "description": "Propiedad vs. agencia"
   },
   {
-    "title": "",
+    "title": "🔗",
     "description": "Manifold compartido"
   },
   {
-    "title": "",
+    "title": "⚖️",
     "description": "Ética de la conciencia"
   },
   {
-    "title": "",
+    "title": "🤖",
     "description": "Ego Machine"
   }
 ],
@@ -542,12 +542,12 @@ export const egoTunnel: BookSummary = {
     "text": "Kant: unidad de la conciencia e integración"
   },
   {
-    "year": "1747",
-    "text": "Bach ante Federico el Grande (epígrafe Dennett)"
-  },
-  {
     "year": "1871",
     "text": "Mitchell acuña «miembros fantasma»"
+  },
+  {
+    "year": "1908",
+    "text": "Primer caso descrito de mano alienígena"
   },
   {
     "year": "1959",
@@ -560,6 +560,10 @@ export const egoTunnel: BookSummary = {
   {
     "year": "1998",
     "text": "Botvinick y Cohen: ilusión de la mano de goma"
+  },
+  {
+    "year": "2002",
+    "text": "Blanke induce ECE por estimulación cerebral"
   },
   {
     "year": "2009",
@@ -580,24 +584,36 @@ export const egoTunnel: BookSummary = {
     "role": "Ilusión de la mano de goma con Cohen"
   },
   {
+    "name": "Olaf Blanke",
+    "role": "ECE por estimulación del giro angular"
+  },
+  {
     "name": "V. S. Ramachandran",
     "role": "Caja de espejos y miembros fantasma"
   },
   {
-    "name": "Antonio Damasio",
-    "role": "Captarse «en el acto de conocer»"
+    "name": "Stéphane Kremer",
+    "role": "Estimulación que induce urgencia de agarrar"
+  },
+  {
+    "name": "Daniel Wegner",
+    "role": "Experimento «I Spy» de agencia alucinada"
+  },
+  {
+    "name": "Allan Hobson",
+    "role": "Teorías del sueño REM y modelo AIM"
   },
   {
     "name": "Vittorio Gallese",
     "role": "Manifold compartido y neuronas espejo"
   },
   {
-    "name": "Allan Hobson",
-    "role": "Teorías del sueño REM"
+    "name": "Wolf Singer",
+    "role": "Binding y unidad de la conciencia"
   },
   {
-    "name": "Olaf Blanke",
-    "role": "Investigación de experiencias extracorporales"
+    "name": "Michael Persinger",
+    "role": "Experiencias religiosas por estimulación electromagnética"
   }
 ],
   closing: {

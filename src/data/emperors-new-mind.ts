@@ -146,6 +146,10 @@ export const emperorsNewMind: BookSummary = {
         },
         {
           type: 'paragraph',
+          html: "La mayoría de físicos cree que las leyes del cerebro ya están resueltas a escala humana. Penrose sostiene lo contrario: hay un vacío enorme en nuestra comprensión física justo «detrás de nuestras narices», y sorprendentemente los agujeros negros y el big bang sí importan para la mente. Su objetivo no es adivinar, sino mostrar que faltan piezas entre leyes físicas, matemáticas y pensamiento consciente.",
+        },
+        {
+          type: 'paragraph',
           html: "La <span class=\"term\">prueba de Turing</span> (<span class=\"num\">1950</span>) propone que una máquina «piensa» si sus respuestas son indistinguibles de las de un humano en un diálogo ciego. Penrose la acepta como criterio operativo aproximado, pero advierte que una teoría futura de la conciencia podría invalidarla —como un «detector de conciencia» fiable para humanos pero no para computadoras.",
         },
         {
@@ -195,6 +199,10 @@ export const emperorsNewMind: BookSummary = {
         {
           type: 'paragraph',
           html: "La <span class=\"term\">tesis de Church-Turing</span> afirma que toda computación efectiva es equivalente a una máquina de Turing. La <span class=\"term\">máquina universal</span> puede simular cualquier otra: de ahí la equivalencia entre computadoras modernas. Pero Turing también mostró límites absolutos a lo algorítmico —un posible resquicio para la mente.",
+        },
+        {
+          type: 'paragraph',
+          html: "Hay ironía en que Turing modeló el cerebro como «máquina» al definir lo mecánico, y sin embargo demostró que hay operaciones matemáticas bien definidas que ningún procedimiento mecánico puede resolver. El capítulo «cómo superar un algoritmo» anticipa el argumento de Gödel: siempre que formalizamos parte de nuestra comprensión, podemos ver verdades que escapan a esa formalización.",
         },
         {
           type: 'list',
@@ -416,7 +424,7 @@ export const emperorsNewMind: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Penrose argumenta que la <span class=\"term\">gravedad cuántica correcta</span> (CQG) debe ser <span class=\"term\">asimétrica en el tiempo</span> y unificar U con R —no solo cuantizar la relatividad general dejando intacta la mecánica cuántica.",
+          html: "La mayoría de físicos cuantizan la relatividad general sin tocar la mecánica cuántica. Penrose invierte la prioridad: los problemas de la QM (incompatibilidad de U y R) exigen que la gravedad de Einstein modifique la estructura cuántica. La <span class=\"term\">gravedad cuántica correcta</span> (CQG) debe ser <span class=\"term\">asimétrica en el tiempo</span> y unificar U con R.",
         },
         {
           type: 'paragraph',
@@ -476,7 +484,11 @@ export const emperorsNewMind: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La selección natural no puede «evolucionar» algoritmos que validen otros algoritmos. Eso requiere comprensión, no mutación ciega. El matemático confía en su conciencia para elegir el algoritmo correcto. La verdad de Gödel se ve por insight, no por cálculo.",
+          html: "La selección natural actúa sobre el comportamiento observable, no sobre las ideas subyacentes a un algoritmo. No puede «evolucionar» procedimientos que validen otros procedimientos. Eso exige <span class=\"term\">insight</span>, no mutación ciega. El matemático usa la conciencia para decidir si un algoritmo es el adecuado. La verdad de Gödel se ve desde fuera del sistema, no ejecutándolo.",
+        },
+        {
+          type: 'paragraph',
+          html: "Penrose distingue dos niveles: procesos inconscientes (cerebelo, reflejos) que pueden ser algorítmicos, y juicios conscientes al formar decisiones nuevas sin reglas prefijadas. Un programa que contiene un modelo de otro programa no adquiere comprensión —como una cámara frente a un espejo no se vuelve autoconsciente.",
         },
         {
           type: 'paragraph',

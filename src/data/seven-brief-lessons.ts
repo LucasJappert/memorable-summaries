@@ -93,6 +93,10 @@ export const sevenBriefLessons: BookSummary = {
           type: 'paragraph',
           html: "Son expansiones de artículos publicados en el suplemento dominical del diario italiano <em>Il Sole 24 Ore</em>. Rovelli agradece a <span class=\"person\">Armando Massarenti</span> por abrir las páginas culturales del domingo a la ciencia.",
         },
+        {
+          type: 'key',
+          html: "La ciencia moderna ofrece un mapa rápido de lo más fascinante de la física reciente y, al mismo tiempo, abre preguntas más vastas que las que cierra.",
+        },
       ],
     },
     {
@@ -156,7 +160,7 @@ export const sevenBriefLessons: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Antes de medir, la ciencia es visión. Anaximandro (<span class=\"num\">~VI a.C.</span>) reemplazó «cielo arriba, tierra abajo» por una Tierra flotando en el espacio. Aristóteles y Ptolomeo imaginaron esferas celestes. Copérnico puso el Sol en el centro, y Galileo mostró que el movimiento es relativo.",
+          html: "Rovelli sostiene que, antes de experimentos, medidas y deducciones rigurosas, la ciencia es sobre todo <span class=\"term\">visión</span>. Cada revolución empieza por ver el mundo de otro modo. Anaximandro (<span class=\"num\">~VI a.C.</span>) reemplazó «cielo arriba, tierra abajo» por una Tierra flotando en el espacio. Aristóteles y Ptolomeo imaginaron esferas celestes. Copérnico puso el Sol en el centro, y Galileo mostró que el movimiento es relativo.",
         },
         {
           type: 'paragraph',
@@ -256,11 +260,11 @@ export const sevenBriefLessons: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Schelling creía que el hombre era la cumbre de la naturaleza, pero hoy sabemos que somos un rincón remoto, parientes de mariposas y álamos. Kant pensaba categorías universales, pero evolucionan con nuestra especie. La ciencia no es ficción campamental: sigue rastros como nuestros antepasados en la sabana.",
+          html: "Schelling creía que el hombre era la cumbre de la naturaleza, pero hoy sabemos que somos un rincón remoto, parientes de mariposas y álamos. Kant pensaba categorías universales, pero evolucionan con nuestra especie. La ciencia no es ficción campamental: sigue rastros como nuestros antepasados en la sabana, dispuesta a corregir el rumbo si aparece una pista mejor.",
         },
         {
           type: 'paragraph',
-          html: "La libertad no viola las leyes naturales: actuar según procesos neuronales internos. Para Spinoza, el «yo» es el complejo neuronal mismo. La consciencia sigue abierta (Tononi y la teoría de información integrada). Valores, lágrimas y música son reales precisamente por ser naturaleza.",
+          html: "La libertad no viola las leyes naturales: actuar según procesos neuronales internos. Para Spinoza, el «yo» es el complejo neuronal mismo. La consciencia sigue abierta (<span class=\"person\">Giulio Tononi</span> y la teoría de información integrada). Valores, lágrimas y música son reales precisamente por ser naturaleza. Somos una especie curiosa, quizá breve, pero en casa: como escribe Lucrecio, nacemos de la misma semilla celestial.",
         },
         {
           type: 'quote',

@@ -53,7 +53,7 @@
     {
       "sectionId": "prefacio",
       "sectionTitle": "Tres lectores imaginarios y la perspectiva del gen",
-      "text": "En el prefacio a la edición de 1989 , Dawkins observa una paradoja: el libro pasó de parecer ortodoxo a ser visto como extremista, mientras su contenido se volvió moneda corriente. La teoría del gen egoísta es el darwinismo expresado desde la perspectiva del gen — no una teoría distinta, sino otra forma de ver el mismo neo-darwinismo, como el cubo de Necker que puede voltearse entre dos interpretaciones equivalentes."
+      "text": "En el prefacio a la edición de 1989 , Dawkins observa una paradoja: el libro pasó de parecer ortodoxo a ser visto como extremista, mientras su contenido se volvió moneda corriente. La teoría del gen egoísta es el darwinismo expresado desde la perspectiva del gen. No es una teoría distinta, sino otra forma de ver el mismo neo-darwinismo, como el cubo de Necker que puede voltearse entre dos interpretaciones equivalentes."
     },
     {
       "sectionId": "prefacio",
@@ -63,7 +63,7 @@
     {
       "sectionId": "prefacio",
       "sectionTitle": "Tres lectores imaginarios y la perspectiva del gen",
-      "text": "La perspectiva del gen no sustituye al darwinismo clásico: lo reformula como si los replicadores fueran los agentes fundamentales de la evolución."
+      "text": "La perspectiva del gen reformula el darwinismo clásico como si los replicadores fueran los agentes fundamentales de la evolución."
     },
     {
       "sectionId": "cap1",
@@ -73,12 +73,12 @@
     {
       "sectionId": "cap1",
       "sectionTitle": "¿Por qué existen las personas?",
-      "text": "Este libro no defiende el darwinismo en general, sino que explora sus consecuencias para el egoísmo y el altruismo biológico — temas con profunda importancia humana: amor, odio, cooperación, codicia y generosidad. Autores como Lorenz , Ardrey y Eibl-Eibesfeldt se equivocaron al suponer que la evolución actúa «para el bien de la especie» o del grupo."
+      "text": "Este libro no defiende el darwinismo en general, sino que explora sus consecuencias para el egoísmo y el altruismo biológico. Toca temas de profunda importancia humana, como el amor, el odio, la cooperación, la codicia y la generosidad. Autores como Lorenz , Ardrey y Eibl-Eibesfeldt se equivocaron al suponer que la evolución actúa «para el bien de la especie» o del grupo."
     },
     {
       "sectionId": "cap1",
       "sectionTitle": "¿Por qué existen las personas?",
-      "text": "La tesis central sostiene que somos máquinas de supervivencia creadas por nuestros genes. Un gen exitoso tiende al egoísmo despiadado , aunque en circunstancias especiales puede favorecer un altruismo limitado. El amor universal y el bien de la especie no tienen sentido evolutivo."
+      "text": "La tesis central sostiene que somos máquinas de supervivencia creadas por nuestros genes. Un gen exitoso tiende al egoísmo despiadado , aunque en circunstancias especiales puede favorecer un altruismo limitado. El amor universal y el bien de la especie no tienen sentido evolutivo. Dawkins advierte que esto no prescribe moral: podemos enseñar generosidad y frustrar los diseños de nuestros genes."
     },
     {
       "sectionId": "cap1",
@@ -88,12 +88,12 @@
     {
       "sectionId": "cap1",
       "sectionTitle": "¿Por qué existen las personas?",
-      "text": "El argumento no prescribe moral alguna: describe cómo evolucionaron las cosas, con advertencia de que la naturaleza no ayudará a construir una sociedad cooperativa."
+      "text": "Somos vehículos de genes egoístas. El altruismo aparente exige explicación génica, no bondad abstracta hacia la especie."
     },
     {
       "sectionId": "cap2",
       "sectionTitle": "Los replicadores",
-      "text": "En el principio hubo simplicidad. El universo está poblado de cosas estables — patrones de átomos que perduran. La selección natural es un caso especial de «supervivencia de lo estable»."
+      "text": "En el principio hubo simplicidad. El universo está poblado de cosas estables : patrones de átomos que perduran. La selección natural es un caso especial de «supervivencia de lo estable»."
     },
     {
       "sectionId": "cap2",
@@ -108,12 +108,12 @@
     {
       "sectionId": "cap2",
       "sectionTitle": "Los replicadores",
-      "text": "La evolución darwiniana comienza en cuanto los replicadores construyen cuerpos que los protegen y transportan."
+      "text": "La evolución darwiniana comienza cuando los replicadores construyen cuerpos que los protegen y transportan."
     },
     {
       "sectionId": "cap3",
       "sectionTitle": "Espirales inmortales",
-      "text": "Somos máquinas de supervivencia para los genes — moléculas de ADN en espiral doble, con cuatro letras (A, T, C, G). Cada célula humana contiene un juego completo de 46 cromosomas, como planos del arquitecto en cada habitación del edificio."
+      "text": "Somos máquinas de supervivencia para los genes: moléculas de ADN en espiral doble, con cuatro letras (A, T, C, G). Cada célula humana contiene un juego completo de 46 cromosomas, como planos del arquitecto en cada habitación del edificio."
     },
     {
       "sectionId": "cap3",
@@ -123,12 +123,12 @@
     {
       "sectionId": "cap3",
       "sectionTitle": "Espirales inmortales",
-      "text": "Los genes son gregarios: una máquina contiene miles. El cruzamiento (crossing-over) en la meiosis mezcla material materno y paterno, haciendo que cada espermatozoide sea único. Un gen, en la definición de G. C. Williams , es cualquier porción cromosómica que dura suficientes generaciones como para ser unidad de selección."
+      "text": "Los genes son gregarios: una máquina contiene miles. El cruzamiento en la meiosis mezcla material materno y paterno, haciendo que cada espermatozoide sea único. Un gen, en la definición de G. C. Williams , es cualquier porción cromosómica que dura suficientes generaciones como para ser unidad de selección."
     },
     {
       "sectionId": "cap3",
       "sectionTitle": "Espirales inmortales",
-      "text": "Los cuerpos son vehículos temporales . Los genes, en cambio, son replicadores potencialmente inmortales que los abandonan generación tras generación."
+      "text": "Los cuerpos son vehículos temporales . Los genes son replicadores potencialmente inmortales que los abandonan generación tras generación."
     },
     {
       "sectionId": "cap4",
@@ -138,22 +138,22 @@
     {
       "sectionId": "cap4",
       "sectionTitle": "La máquina génica",
-      "text": "Los animales desarrollaron músculos para movimiento rápido y reversible, coordinados por neuronas — unidades de procesamiento más sofisticadas que transistores. El cerebro humano contiene unos 10 mil millones de neuronas. Los sentidos traducen eventos externos en códigos de impulsos nerviosos."
+      "text": "Los animales desarrollaron músculos para movimiento rápido y reversible, coordinados por neuronas . El cerebro humano contiene unos 10 mil millones de neuronas. Los sentidos traducen eventos externos en códigos de impulsos nerviosos."
     },
     {
       "sectionId": "cap4",
       "sectionTitle": "La máquina génica",
-      "text": "El comportamiento parece teleológico, como el regulador de Watt con retroalimentación negativa . Los animales aprenden (memoria) y, en algunos casos, son conscientes. Aun así, podemos analizar el comportamiento «como si» tuviera propósito sin asumir consciencia."
+      "text": "El comportamiento parece teleológico, como el regulador de Watt con retroalimentación negativa . Los animales aprenden y, en algunos casos, son conscientes. Aun así, podemos analizar el comportamiento «como si» tuviera propósito sin asumir consciencia."
     },
     {
       "sectionId": "cap4",
       "sectionTitle": "La máquina génica",
-      "text": "Por conveniencia analítica, el capítulo trata al organismo individual como agente que maximiza la propagación de todos sus genes. El capítulo explora tácticas de supervivencia, señales y engaño en el comportamiento animal."
+      "text": "Por conveniencia analítica, el capítulo trata al organismo individual como agente que maximiza la propagación de todos sus genes. Explora tácticas de supervivencia, señales y engaño en el comportamiento animal."
     },
     {
       "sectionId": "cap4",
       "sectionTitle": "La máquina génica",
-      "text": "Los animales son máquinas génicas , vehículos activos programados para preservar replicadores, con cerebros que coordinan músculos mediante computación biológica."
+      "text": "Los animales son máquinas génicas : vehículos activos programados para preservar replicadores, con cerebros que coordinan músculos mediante computación biológica."
     },
     {
       "sectionId": "cap5",
@@ -163,7 +163,7 @@
     {
       "sectionId": "cap5",
       "sectionTitle": "Agresión: estabilidad y la máquina egoísta",
-      "text": "Konrad Lorenz enfatizó la ritualización de las peleas animales. Dawkins señala que la violencia interespecífica existe. Matar rivales tiene costos (tiempo, energía, riesgo de contraataque) y puede beneficiar a un tercero competidor. La pugnacidad selectiva, esperar, crecer y elegir momentos, puede ser mejor estrategia."
+      "text": "Konrad Lorenz enfatizó la ritualización de las peleas animales. Dawkins señala que la violencia interespecífica existe. Matar rivales tiene costos (tiempo, energía, riesgo de contraataque) y puede beneficiar a un tercero competidor. La pugnacidad selectiva puede ser mejor estrategia."
     },
     {
       "sectionId": "cap5",
@@ -178,12 +178,12 @@
     {
       "sectionId": "cap6",
       "sectionTitle": "Genesmanía",
-      "text": "Un gen egoísta es todas las copias de un segmento de ADN distribuidas en el mundo. Puede ayudar a réplicas en otros cuerpos — altruismo individual producido por egoísmo génico. La clave es el parentesco ."
+      "text": "Un gen egoísta es todas las copias de un segmento de ADN distribuidas en el mundo. Puede ayudar a réplicas en otros cuerpos: altruismo individual producido por egoísmo génico. La clave es el parentesco ."
     },
     {
       "sectionId": "cap6",
       "sectionTitle": "Genesmanía",
-      "text": "W. D. Hamilton ( 1964 ) formalizó la selección de parentesco. Un gen que induce altruismo hacia familiares puede propagarse si el beneficio ponderado por el coeficiente de parentesco supera el costo. Entre hermanos, la relación es 1/2 . Entre padre e hijo, también 1/2 . Entre primos, 1/8 ."
+      "text": "W. D. Hamilton ( 1964 ) formalizó la selección de parentesco. Un gen que induce altruismo hacia familiares puede propagarse si el beneficio ponderado por el coeficiente de parentesco supera el costo. Entre hermanos, la relación es 1/2 . Entre primos, 1/8 ."
     },
     {
       "sectionId": "cap6",
@@ -218,12 +218,12 @@
     {
       "sectionId": "cap7",
       "sectionTitle": "Planificación familiar",
-      "text": "El K seleccionado vs. r seleccionado describe estrategias de muchos hijos poco cuidados vs. pocos hijos muy cuidados. Un animal ajusta su fecundidad al número de crías que puede realistamente criar — no por bien de la especie sino por maximización génica."
+      "text": "El K seleccionado frente al r seleccionado describe estrategias de muchos hijos poco cuidados frente a pocos hijos muy cuidados. Un animal ajusta su fecundidad al número de crías que puede realistamente criar. No lo hace por bien de la especie sino por maximización génica."
     },
     {
       "sectionId": "cap7",
       "sectionTitle": "Planificación familiar",
-      "text": "El infanticidio, el abandono de crías y la competencia entre hermanos por recursos maternos son fenómenos explicables desde la perspectiva del gen: cada individuo compite por la inversión parental que maximice su propia supervivencia reproductiva."
+      "text": "El infanticidio, el abandono de crías y la competencia entre hermanos por recursos maternos son fenómenos explicables desde la perspectiva del gen. Cada individuo compite por la inversión parental que maximice su propia supervivencia reproductiva."
     },
     {
       "sectionId": "cap7",
@@ -238,7 +238,7 @@
     {
       "sectionId": "cap8",
       "sectionTitle": "Batalla de las generaciones",
-      "text": "Un gen en el cuerpo del hijo puede favorecer extraer más recursos de la madre de lo que a ella le conviene dar. El weaning conflict, el sibling rivalry y el infanticidio por parte de padres o hermanos ilustran esta tensión. Cada lado evoluciona contramedidas."
+      "text": "Un gen en el cuerpo del hijo puede favorecer extraer más recursos de la madre de lo que a ella le conviene dar. El weaning conflict, la rivalidad entre hermanos y el infanticidio ilustran esta tensión. Cada lado evoluciona contramedidas."
     },
     {
       "sectionId": "cap8",
@@ -273,37 +273,42 @@
     {
       "sectionId": "cap10",
       "sectionTitle": "Rascas mi espalda, yo me subo a la tuya",
-      "text": "El altruismo entre no parientes puede evolucionar por altruismo recíproco ( Robert Trivers ): ayudar a quien te ayudará en el futuro, siempre que el costo sea menor que el beneficio esperado de retribución."
+      "text": "Dawkins aborda las interacciones entre no parientes después de haber tratado el parentesco y el conflicto sexual. Analiza vivir en grupos, cooperar con otras especies y el altruismo aparente que prometió explicar al inicio del libro. Recorre los beneficios egoístas de agruparse en manadas de hienas, cardúmenes o pingüinos que se apiñan, y la geometría del rebaño egoísta de Hamilton , donde cada presa intenta no ser la más cercana al depredador."
     },
     {
       "sectionId": "cap10",
       "sectionTitle": "Rascas mi espalda, yo me subo a la tuya",
-      "text": "Dawkins introduce las estrategias Sucker (siempre ayuda), Cheat (nunca ayuda) y Grudger (ayuda hasta que le fallan, luego retiene ayuda). Grudger domina en simulaciones porque explota a Suckers y castiga a Cheats. Ejemplos: peces limpiadores, aves que se quitan garrapatas, el canto del estornino."
+      "text": "Los insectos sociales (abejas, hormigas) muestran altruismo extremo hacia la colonia. Dawkins los analiza con la lógica génica del parentesco, no con selección grupal. El título del capítulo alude a simbiosis donde una especie transporta parásitos que, a cambio, la limpian."
     },
     {
       "sectionId": "cap10",
       "sectionTitle": "Rascas mi espalda, yo me subo a la tuya",
-      "text": "La cooperación requiere memoria, reconocimiento individual y repetición de encuentros. En interacciones únicas, el egoísmo puro prevalece. En interacciones iteradas, la retribución puede estabilizarse."
+      "text": "El núcleo del capítulo es el altruismo recíproco de Robert Trivers . Dawkins modela tres estrategias. Sucker siempre ayuda, Cheat nunca ayuda y Grudger ayuda hasta que le fallan y luego retiene ayuda. Grudger domina porque explota a Suckers y castiga a Cheats. Ejemplos: peces limpiadores, aves que se quitan garrapatas, el canto del estornino."
     },
     {
       "sectionId": "cap10",
       "sectionTitle": "Rascas mi espalda, yo me subo a la tuya",
-      "text": "«Rascas mi espalda, yo me subo a la tuya» ilustra simbiosis donde una especie transporta parásitos que, a cambio, limpian — o altruismo recíproco con riesgo de engaño."
+      "text": "La cooperación requiere memoria, reconocimiento individual y encuentros repetidos. En interacciones únicas, el egoísmo puro prevalece. En interacciones iteradas, la retribución puede estabilizarse."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Rascas mi espalda, yo me subo a la tuya",
+      "text": "El altruismo entre no parientes evoluciona por beneficio mutuo en grupos y por reciprocidad condicionada cuando los encuentros se repiten."
     },
     {
       "sectionId": "cap11",
       "sectionTitle": "Memes: los nuevos replicadores",
-      "text": "Lo inusual del ser humano se resume en una palabra: cultura . La transmisión cultural es análoga a la genética — conservadora pero capaz de evolución a velocidades órdenes de magnitud superiores. El lenguaje de Chaucer a un inglés moderno lo demuestra."
+      "text": "Lo inusual del ser humano se resume en una palabra: cultura . La transmisión cultural es análoga a la genética: conservadora pero capaz de evolución a velocidades órdenes de magnitud superiores. El lenguaje de Chaucer a un inglés moderno lo demuestra."
     },
     {
       "sectionId": "cap11",
       "sectionTitle": "Memes: los nuevos replicadores",
-      "text": "Dawkins propone el meme (de mimema griego, abreviado para parecerse a «gen»): unidad de transmisión cultural. Melodías, ideas, modas, arquitectura — se propagan de cerebro a cerebro por imitación. Ejemplos: la idea de Dios, que replica por palabra, arte y música por su atractivo psicológico."
+      "text": "Dawkins propone el meme (de mimema griego, abreviado para parecerse a «gen»): unidad de transmisión cultural. Melodías, ideas, modas, arquitectura se propagan de cerebro a cerebro por imitación. Ejemplos: la idea de Dios, que replica por palabra, arte y música por su atractivo psicológico."
     },
     {
       "sectionId": "cap11",
       "sectionTitle": "Memes: los nuevos replicadores",
-      "text": "Los memes pueden ser «parasitarios» — el meme de la vida después de la muerte se realiza físicamente en millones de cerebros. Para entender al hombre moderno hay que considerar replicadores culturales además de genes, sin reducir todo a ventaja biológica."
+      "text": "Los memes pueden ser «parasitarios»: el meme de la vida después de la muerte se realiza físicamente en millones de cerebros. Para entender al hombre moderno hay que considerar replicadores culturales además de genes, sin reducir todo a ventaja biológica."
     },
     {
       "sectionId": "cap11",
@@ -313,12 +318,12 @@
     {
       "sectionId": "cap11",
       "sectionTitle": "Memes: los nuevos replicadores",
-      "text": "Los memes son replicadores en el caldo de la cultura humana — tan reales técnicamente como los virus parasitan células."
+      "text": "Los memes son replicadores en el caldo de la cultura humana, tan reales técnicamente como los virus que parasitan células."
     },
     {
       "sectionId": "cap12",
       "sectionTitle": "Los buenos terminan primero",
-      "text": "«Los buenos terminan últimos» parece obvio en darwinismo — pero Dawkins explora un sentido técnico de «bueno»: cooperadores en el Dilema del Prisionero iterado, donde los encuentros se repiten indefinidamente."
+      "text": "«Los buenos terminan últimos» parece obvio en darwinismo, pero Dawkins explora un sentido técnico de «bueno»: cooperadores en el Dilema del Prisionero iterado, donde los encuentros se repiten indefinidamente."
     },
     {
       "sectionId": "cap12",
@@ -338,17 +343,17 @@
     {
       "sectionId": "cap13",
       "sectionTitle": "El largo alcance del gen",
-      "text": "Tensión al corazón de la teoría: genes como replicadores independientes vs. cuerpos como máquinas integradas y unificadas. ¿Cómo resolver la paradoja de las dos formas de ver la vida?"
+      "text": "Tensión al corazón de la teoría: genes como replicadores independientes frente a cuerpos como máquinas integradas y unificadas. ¿Cómo resolver la paradoja de las dos formas de ver la vida?"
     },
     {
       "sectionId": "cap13",
       "sectionTitle": "El largo alcance del gen",
-      "text": "La selección no actúa sobre ADN aislado sino sobre sus efectos fenotípicos . Dawkins introduce el fenotipo extendido : los efectos de un gen incluyen todas sus consecuencias en el mundo, no solo dentro del cuerpo — presas de castor, nidos, casas de cadís, manipulación de hormigas por hongos."
+      "text": "La selección no actúa sobre ADN aislado sino sobre sus efectos fenotípicos . Dawkins introduce el fenotipo extendido : los efectos de un gen incluyen todas sus consecuencias en el mundo, no solo dentro del cuerpo. Presas de castor, nidos, casas de cadís, manipulación de hormigas por hongos."
     },
     {
       "sectionId": "cap13",
       "sectionTitle": "El largo alcance del gen",
-      "text": "Los distorsionadores de segregación (gen t en ratones) muestran genes que «hacen trampa» en la meiosis, propagándose a pesar de efectos destructivos en el organismo. Existen pero son raros porque la meiosis justa es estabilizada por selección a nivel corporal."
+      "text": "Los distorsionadores de segregación (gen t en ratones) muestran genes que «hacen trampa» en la meiosis, propagándose a pesar de efectos destructivos en el organismo. Existen pero son raros porque la meiosis justa está estabilizada por selección a nivel corporal."
     },
     {
       "sectionId": "cap13",

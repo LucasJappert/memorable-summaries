@@ -215,6 +215,10 @@ export const futureOfTheMind: BookSummary = {
             }
           ],
         },
+        {
+          type: 'key',
+          html: "Ser consciente es construir modelos del mundo con bucles de retroalimentación, y lo distintivamente humano es <span class=\"key-term\">simular el futuro</span> para elegir metas.",
+        },
       ],
     },
     {
@@ -253,6 +257,10 @@ export const futureOfTheMind: BookSummary = {
               "icon": "🔬"
             }
           ],
+        },
+        {
+          type: 'key',
+          html: "Si la actividad neural puede decodificarse en imagen o palabra, la <span class=\"key-term\">privacidad mental</span> se vuelve un derecho a proteger.",
         },
       ],
     },
@@ -293,6 +301,10 @@ export const futureOfTheMind: BookSummary = {
             }
           ],
         },
+        {
+          type: 'key',
+          html: "Mover materia con la mente ya es ingeniería clínica: la <span class=\"key-term\">intención neural</span> puede gobernar máquinas, prótesis y entornos.",
+        },
       ],
     },
     {
@@ -331,6 +343,10 @@ export const futureOfTheMind: BookSummary = {
               "icon": "💊"
             }
           ],
+        },
+        {
+          type: 'key',
+          html: "La memoria es <span class=\"key-term\">reconstructiva</span>: grabarla, restaurarla o atenuarla abre terapias y a la vez dilemas sobre identidad.",
         },
       ],
     },
@@ -371,6 +387,10 @@ export const futureOfTheMind: BookSummary = {
             }
           ],
         },
+        {
+          type: 'key',
+          html: "La inteligencia no es un factor único ni una anatomía especial, sino <span class=\"key-term\">redes entrenables</span> con límites físicos infranqueables.",
+        },
       ],
     },
     {
@@ -409,6 +429,10 @@ export const futureOfTheMind: BookSummary = {
               "icon": "📷"
             }
           ],
+        },
+        {
+          type: 'key',
+          html: "Los sueños son <span class=\"key-term\">simulaciones cerebrales</span>, no profecías, y por eso ya empiezan a poder fotografiarse y manipularse.",
         },
       ],
     },
@@ -449,6 +473,10 @@ export const futureOfTheMind: BookSummary = {
             }
           ],
         },
+        {
+          type: 'key',
+          html: "La mente no puede dominarse a voluntad: la estimulación modula circuitos, pero no reemplaza la <span class=\"key-term\">agencia personal</span>.",
+        },
       ],
     },
     {
@@ -487,6 +515,10 @@ export const futureOfTheMind: BookSummary = {
               "icon": "🩺"
             }
           ],
+        },
+        {
+          type: 'key',
+          html: "Los estados alterados y la enfermedad mental son <span class=\"key-term\">bucles desregulados</span> entre circuitos, no defectos morales.",
         },
       ],
     },
@@ -527,6 +559,10 @@ export const futureOfTheMind: BookSummary = {
             }
           ],
         },
+        {
+          type: 'key',
+          html: "La IA hoy es estrecha, y la pregunta abierta es si el silicio puede sostener una <span class=\"key-term\">conciencia</span> con modelos de sí mismo y metas.",
+        },
       ],
     },
     {
@@ -565,6 +601,10 @@ export const futureOfTheMind: BookSummary = {
               "icon": "♻️"
             }
           ],
+        },
+        {
+          type: 'key',
+          html: "No alcanza con mapear el <span class=\"key-term\">conectoma</span>, porque hay que modelar su dinámica, y copiarlo plantea si sobrevive el yo.",
         },
       ],
     },
@@ -605,6 +645,10 @@ export const futureOfTheMind: BookSummary = {
             }
           ],
         },
+        {
+          type: 'key',
+          html: "El <span class=\"key-term\">yo corporal</span> surge de integrar los sentidos, y ampliarlo o subirlo es concebible, aunque limitado por biología y ética.",
+        },
       ],
     },
     {
@@ -644,6 +688,10 @@ export const futureOfTheMind: BookSummary = {
             }
           ],
         },
+        {
+          type: 'key',
+          html: "Tratar la mente como <span class=\"key-term\">patrón de información</span> permite imaginarla viajando, pero la física no autoriza atajos mágicos.",
+        },
       ],
     },
     {
@@ -682,6 +730,10 @@ export const futureOfTheMind: BookSummary = {
               "icon": "🐝"
             }
           ],
+        },
+        {
+          type: 'key',
+          html: "La conciencia adopta muchas formas según el <span class=\"key-term\">umwelt</span> de cada especie, así que una mente alienígena podría ser detectable pero incomprensible.",
         },
       ],
     },

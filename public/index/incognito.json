@@ -48,12 +48,12 @@
     {
       "sectionId": "prefacio",
       "sectionTitle": "El yo no está al volante",
-      "text": "El epígrafe del libro cita a Blaise Pascal , quien sostiene que el hombre es incapaz de ver «la nada de la que emerge» y «el infinito en que se pierde». David Eagleman propone una caída paralela a la de Galileo: no solo fuimos expulsados del centro del universo, sino del centro de nosotros mismos."
+      "text": "El epígrafe cita a Blaise Pascal , quien sostiene que el hombre es incapaz de ver «la nada de la que emerge» y «el infinito en que se pierde». David Eagleman propone una caída paralela a la de Galileo: no solo fuimos expulsados del centro del universo, sino del centro de nosotros mismos."
     },
     {
       "sectionId": "prefacio",
       "sectionTitle": "El yo no está al volante",
-      "text": "Antes del capítulo 1, el autor enumera enigmas que el libro resolverá: ¿cómo puedes enfadarte contigo mismo?, ¿por qué las rocas «suben» tras mirar una cascada?, ¿por qué William Douglas decía que podía jugar al fútbol estando paralizado?, ¿por qué Thomas Edison electrocutó a Topsy?, ¿por qué las stripers ganan más en ciertos días del mes?, ¿qué comparten Ulises y la crisis de las hipotecas subprime?"
+      "text": "Antes del capítulo 1, el autor enumera enigmas que el libro resolverá: ¿cómo puedes enfadarte contigo mismo?, ¿por qué las rocas «suben» tras mirar una cascada?, ¿por qué William O. Douglas decía que podía jugar al fútbol estando paralizado?, ¿por qué Thomas Edison electrocutó a Topsy?, ¿por qué las strippers ganan más en ciertos días del mes?, ¿qué comparten Ulises y la crisis de las hipotecas subprime?"
     },
     {
       "sectionId": "prefacio",
@@ -73,12 +73,17 @@
     {
       "sectionId": "cap1",
       "sectionTitle": "Hay alguien en mi cabeza, pero no soy yo",
-      "text": "En 1949 , Arthur Alberts grabó música en África occidental, y un nativo acusó al magnetófono de «robarle la lengua». Igual que la voz es física aunque parezca etérea, los pensamientos dependen de sustancia cerebral. El sueño profundo los elimina, el alcohol o el café los modulan, y una lesión del tamaño de un ded meñique puede cambiar la música, el color o el riesgo que percibes."
+      "text": "En 1949 , Arthur Alberts grabó música en África occidental, y un nativo acusó al magnetófono de «robarle la lengua». Igual que la voz es física aunque parezca etérea, los pensamientos dependen de sustancia cerebral. El sueño profundo los elimina, el alcohol o el café los modulan, y una lesión del tamaño de un meñique puede cambiar la música, el color o el riesgo que percibes."
     },
     {
       "sectionId": "cap1",
       "sectionTitle": "Hay alguien en mi cabeza, pero no soy yo",
       "text": "Un experimento reciente mostró que hombres califican fotos de mujeres. Las pupilas dilatadas (señal de excitación sexual) las eligen como más atractivas, pero ninguno puede explicar por qué. Algo en el cerebro «sabía» lo que la conciencia ignoraba. La conciencia es como un periódico ligero ( USA Today ): resume lo ya decidido en coaliciones neuronales, y llegas tarde a la información."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Hay alguien en mi cabeza, pero no soy yo",
+      "text": "Galileo observó en 1610 las lunas de Júpiter y destrozó el geocentrismo. Eagleman argumenta que la neurociencia repite ese gesto con el yo: no estamos al volante. Desde Tomás de Aquino hasta Leibniz , Herbart , James McKeen Cattell y Sigmund Freud , la idea del inconsciente fue madurando hasta el iceberg freudiano."
     },
     {
       "sectionId": "cap1",
@@ -103,12 +108,12 @@
     {
       "sectionId": "cap2",
       "sectionTitle": "El testimonio de los sentidos: ¿cómo es realmente la experiencia?",
-      "text": "Ilusiones como la ceguera al cambio muestran que cambios enormes (caja, jeep) pasan desapercibidos si no prestas atención. En un experimento, el experimentador se sustituye por otro tras una puerta y la mayoría sigue dando indicaciones. La periferia tiene resolución pésima, y el cerebro construye un boceto 2½-D , no un modelo 3-D completo. Alfred Yarbus ( 1967 ) demostró que, según la pregunta sobre un cuadro de Repin, los ojos muestrean distintas zonas (caras, ropa, edades)."
+      "text": "Ilusiones como la ceguera al cambio muestran que cambios enormes pasan desapercibidos si no prestas atención. En un experimento, el experimentador se sustituye por otro tras una puerta y la mayoría sigue dando indicaciones. El cerebro construye un boceto 2½-D , no un modelo 3-D completo. Alfred Yarbus ( 1967 ) demostró que, según la pregunta sobre un cuadro de Repin, los ojos muestrean distintas zonas."
     },
     {
       "sectionId": "cap2",
       "sectionTitle": "El testimonio de los sentidos: ¿cómo es realmente la experiencia?",
-      "text": "El punto ciego ocupa el diámetro de 17 lunas , y el cerebro «rellena» el fondo. Helmholtz llamó inferencia inconsciente a las suposiciones sobre la luz desde arriba. Después de una cascada, las rocas parecen subir ( efecto post-movimiento ): el movimiento se percibe sin cambio de posición. Mike McBeath demostró que los jardineros de béisbol no calculan posición ni velocidad, sino que mantienen la trayectoria en línea recta desde su punto de vista."
+      "text": "El punto ciego ocupa el diámetro de 17 lunas , y el cerebro «rellena» el fondo. Hermann von Helmholtz llamó inferencia inconsciente a las suposiciones sobre la luz desde arriba. Después de una cascada, las rocas parecen subir ( efecto post-movimiento ): el movimiento se percibe sin cambio de posición. Mike McBeath demostró que los jardineros de béisbol no calculan posición ni velocidad, sino que mantienen la trayectoria en línea recta desde su punto de vista."
     },
     {
       "sectionId": "cap2",
@@ -118,7 +123,7 @@
     {
       "sectionId": "cap2",
       "sectionTitle": "El testimonio de los sentidos: ¿cómo es realmente la experiencia?",
-      "text": "La lección principal del capítulo es no confiar en los sentidos: la percepción es construcción activa, no registro fiel del mundo."
+      "text": "La percepción es construcción activa del cerebro, no un registro fiel del mundo exterior."
     },
     {
       "sectionId": "cap3",
@@ -203,7 +208,7 @@
     {
       "sectionId": "cap5",
       "sectionTitle": "El cerebro es un equipo de rivales",
-      "text": "Kahneman y Tversky mostraron que la gente prefiere $100 ahora frente a $110 en una semana, pero $100 en 52 semanas frente a $110 en 53. El descuento temporal tiene forma de dos procesos ( Sam McClure ). Las hipotecas subprime explotaron el «lo quiero ya». Los contratos de Ulises atan al mástil: clubes navideños, IRS como «alcancía», depósitos para adelgazar."
+      "text": "Daniel Kahneman y Amos Tversky mostraron que la gente prefiere $100 ahora frente a $110 en una semana, pero $100 en 52 semanas frente a $110 en 53. El descuento temporal tiene forma de dos procesos ( Sam McClure ). Las hipotecas subprime explotaron el «lo quiero ya». Los contratos de Ulises atan al mástil: clubes navideños, IRS como «alcancía», depósitos para adelgazar."
     },
     {
       "sectionId": "cap5",

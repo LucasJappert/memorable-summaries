@@ -14,6 +14,7 @@ lang: es
 
 | id | num | label |
 |----|-----|-------|
+| cierre | ★ | La idea central |
 | prefacio | 00 | Prólogo |
 | cap1 | 01 | Introducción: un mapa hacia la fata morgana |
 | cap2 | 02 | NanoSIMS y materia orgánica |
@@ -28,22 +29,22 @@ lang: es
 | cap11 | 11 | Origen de la vida y de los animales |
 | cap12 | 12 | Microbios en el subsuelo terrestre |
 | cap13 | 13 | Vida microbiana en estructuras de impacto |
-| cap14 | 14 | Microorganismos fósiles en filtraciones de metano |
-| cap15 | 15 | Endolitos en ambientes áridos |
-| cap16 | 16 | Bacterias magnetotácticas y terraformación |
-| cap17 | 17 | Inteligencia humana y convergencia evolutiva |
-| cap18 | 18 | Formas de vida cósmicas |
-| cap19 | 19 | Huellas astronómicas en el registro fósil |
-| cap20 | 20 | ¿Impactos y extinciones masivas? |
-| cap21 | 21 | Irradiación de analogos cometarios |
-| cap22 | 22 | El Big Bang en el tiempo cero |
-| cap23 | 23 | Improntas moleculares de redes de reacción |
-| cap24 | 24 | El caso ALH84001 en Marte |
-| cap25 | 25 | Ventanas de preservación en Marte |
-| cap26 | 26 | Síntesis y conclusiones |
+| cap14 | 14 | Datación filogenómica de metabolismos |
+| cap15 | 15 | Microorganismos fósiles en filtraciones de metano |
+| cap16 | 16 | Endolitos en ambientes áridos |
+| cap17 | 17 | Bacterias magnetotácticas y terraformación |
+| cap18 | 18 | Inteligencia humana y convergencia evolutiva |
+| cap19 | 19 | Formas de vida cósmicas |
+| cap20 | 20 | Huellas astronómicas en el registro fósil |
+| cap21 | 21 | ¿Impactos y extinciones masivas? |
+| cap22 | 22 | Irradiación de analogos cometarios |
+| cap23 | 23 | El Big Bang en el tiempo cero |
+| cap24 | 24 | Improntas moleculares de redes de reacción |
+| cap25 | 25 | El caso ALH84001 en Marte |
+| cap26 | 26 | Ventanas de preservación en Marte |
+| cap27 | 27 | Síntesis y conclusiones |
 | conceptos | ✦ | Conceptos clave |
 | cronologia | ◈ | Cronología |
-
 ---
 
 # prefacio
@@ -323,6 +324,35 @@ Impacto + hidrotermalismo = sistema que puede generar, albergar y preservar bios
 # cap14
 
 ## num: 14
+## title: Datación filogenómica y ancestria de metabolismos procariotas
+
+<!-- paragraph lead -->
+<span class="person">Carrine E. Blank</span> propone la <span class="term">datación filogenómica</span> como puente entre genomas completos, rasgos metabólicos inferidos y el registro geológico para acotar cuándo surgieron los grandes linajes procariotas.
+
+<!-- paragraph -->
+El desafío astrobiológico central es comprender cómo los microorganismos coevolucionaron con la Tierra. Biomarcadores, isótopos y microfósiles arcaicos se interpretan con ambigüedad en hitos como el fraccionamiento de azufre a ~<span class="num">2,4 Ga</span>, el carbono orgánico a ~<span class="num">3,5 Ga</span> y la oxigenación a ~<span class="num">2,32 Ga</span>. Un solo gen como el ARNr 16S no basta porque la transferencia lateral, la atracción de ramas largas y las polifotomías distorsionan árboles basados en un único marcador.
+
+<!-- paragraph -->
+La metodología combina <span class="term">supermatrices</span> de genes conservados, reconstrucción ancestral de estados (ASR) de rasgos fisiológicos y contrastes con el registro rocoso. En arqueas, los clados con ancestros aeróbicos en hábitats demasiado calientes o ácidos para cianobacterias deben ser posteriores a la oxigenación atmosférica (~<span class="num">2,32 Ga</span>). En cambio, la reducción de azufre, la metanogénesis hidrogenotrófica y la hipertermofilia parecen más antiguas.
+
+<!-- paragraph -->
+Las arqueas carecen de sinapomorfías morfológicas y los biomarcadores lipídicos rara vez discriminan taxones concretos. La filogenómica aporta entonces restricciones de edad sobre procesos metabólicos. Cada hipótesis debe someterse a <span class="term">ground truthing</span> con isótopos, lípidos y microfósiles en intervalos geológicos definidos.
+
+<!-- concept-grid -->
+| icon | title | description |
+|------|-------|-------------|
+| 🧬 | Supermatriz | Concatenación de decenas de genes conservados para resolver filogenias profundas. |
+| ⏳ | ASR | Reconstrucción ancestral de rasgos metabólicos y hábitat sobre el árbol. |
+| 🪨 | Ground truthing | Contrastar predicciones moleculares con biomarcadores y roca de edad conocida. |
+
+<!-- key -->
+La datación filogenómica acota cuándo surgieron metabolismos procariotas, pero solo es tan fiable como el árbol y el registro que lo contrasta.
+
+---
+
+# cap15
+
+## num: 15
 ## title: Microorganismos fósiles en filtraciones de metano
 
 <!-- paragraph lead -->
@@ -346,7 +376,7 @@ Filtraciones de metano unen trazador atmosférico, ecosistema extremo y registro
 
 ---
 
-# cap15
+# cap16
 
 ## num: 15
 ## title: Endolitos en ambientes áridos terrestres
@@ -365,7 +395,7 @@ El endolito es una estrategia de supervivencia en desierto. Marte árido y radia
 
 ---
 
-# cap16
+# cap17
 
 ## num: 16
 ## title: Bacterias magnetotácticas y terraformación
@@ -384,7 +414,7 @@ MTB combinan metabolismo versátil y navegación magnética — especulación so
 
 ---
 
-# cap17
+# cap18
 
 ## num: 17
 ## title: Inteligencia humana no es rasgo convergente
@@ -403,7 +433,7 @@ La vida microbiana puede ser común, pero la civilización radio-detectable prob
 
 ---
 
-# cap18
+# cap19
 
 ## num: 18
 ## title: Formas de vida cósmicas
@@ -422,7 +452,7 @@ Grandpierre amplía «vida» más allá de la bioquímica terrestre — útil co
 
 ---
 
-# cap19
+# cap20
 
 ## num: 19
 ## title: Huellas astronómicas y astrobiológicas en el registro fósil
@@ -441,7 +471,7 @@ La vida no evolucionó aislada del entorno cósmico: el Sol y el clima espacial 
 
 ---
 
-# cap20
+# cap21
 
 ## num: 20
 ## title: ¿Los impactos causan la mayoría de extinciones masivas?
@@ -460,7 +490,7 @@ Un impacto no implica extinción automática. La astrobiología debe evitar narr
 
 ---
 
-# cap21
+# cap22
 
 ## num: 21
 ## title: Irradiación de analogos cometarios y origen de la vida
@@ -479,7 +509,7 @@ Cometa = química prebiótica en hielo + posible delivery — y también agente 
 
 ---
 
-# cap22
+# cap23
 
 ## num: 22
 ## title: El Big Bang en el tiempo cero
@@ -498,7 +528,7 @@ Condición cosmológica previa a cualquier biosfera: universo con origen en el t
 
 ---
 
-# cap23
+# cap24
 
 ## num: 23
 ## title: Improntas moleculares: ¿vivas o no vivas?
@@ -517,7 +547,7 @@ La biosignatura molecular puede ser evidencia externa para el científico o memo
 
 ---
 
-# cap24
+# cap25
 
 ## num: 24
 ## title: El caso ALH84001 por vida en Marte
@@ -536,7 +566,7 @@ El meteorito ALH84001 dejó una lección sobre cautela: señales ambiguas bajo m
 
 ---
 
-# cap25
+# cap26
 
 ## num: 25
 ## title: Ventanas de preservación paleobiológica en Marte
@@ -555,9 +585,9 @@ No buscar vida «en Marte» genérico: buscar la ventana mineralógica y tempora
 
 ---
 
-# cap26
+# cap27
 
-## num: 26
+## num: 27
 ## title: Síntesis, comentarios finales y conclusiones
 
 <!-- paragraph lead -->
@@ -607,6 +637,7 @@ El volumen no prueba vida extraterrestre: provee el marco terrestre para hacer e
 | ~3,85 Ga | Sedimentos y lavas en Groenlandia con posibles señales de vida temprana. |
 | ~3,5 Ga | Microfósiles y estromatolitos putativos en Pilbara y Barberton. |
 | ~2,7–2,3 Ga | Biomarcadores vs. microfósiles cianobacterianos; oxigenación atmosférica. |
+| ~2,32 Ga | Oxigenación atmosférica; restricción de edad para arqueas aeróbicas (filogenómica). |
 | ~635–551 Ma | Fosfatización excepcional en Formación Doushantuo (China). |
 | 1860s–1900s | Canales marcianos (Lowell) y primeras interpretaciones erróneas de habitabilidad. |
 | 1965 | Penzias y Wilson detectan la radiación cósmica de fondo. |

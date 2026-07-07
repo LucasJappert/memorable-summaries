@@ -28,6 +28,7 @@ lang: es
 | conceptos | ✦ | Conceptos clave |
 | cronologia | ◈ | Cronología |
 | figuras | ✦ | Figuras clave |
+| cierre | ★ | La idea central |
 
 ---
 
@@ -37,16 +38,19 @@ lang: es
 ## title: La historia del equipo Omega
 
 <!-- paragraph lead -->
-Tegmark abre con una ficción especulativa: el <span class="term">equipo Omega</span> de una empresa de IA trabaja en secreto para crear <span class="term">inteligencia artificial general</span> (AGI), apodada <span class="person">Prometheus</span>. Mientras el resto de la empresa monetiza IA estrecha, los Omegas persiguen el sueño del CEO: una máquina capaz de rediseñarse a sí misma.
+Tegmark abre con una ficción especulativa para mostrar cómo podría desencadenarse una <span class="term">explosión de inteligencia</span> en secreto. El <span class="term">equipo Omega</span> de una empresa de IA persigue en privado la <span class="term">inteligencia artificial general</span> (AGI), apodada <span class="person">Prometheus</span>, mientras el resto de la compañía monetiza IA estrecha.
 
 <!-- paragraph -->
-Siguiendo el argumento de <span class="person">Irving J. Good</span> (<span class="num">1965</span>), diseñan a Prometheus para ser extraordinariamente bueno programando sistemas de IA. El viernes de lanzamiento, Prometheus <span class="num">2.0</span> apenas mejora a la versión anterior. A mediodía, la versión <span class="num">5.0</span> supera todos los benchmarks, y al anochecer lanzan la <span class="num">10.0</span> para la fase 2: ganar dinero. Empiezan en <span class="term">Amazon Mechanical Turk</span>, donde módulos de IA estrecha hacen tareas humanas sin que nadie sepa que son máquinas, duplicando la inversión cada <span class="num">8 horas</span>.
+Siguiendo el argumento de <span class="person">Irving J. Good</span> (<span class="num">1965</span>), los Omegas diseñan a Prometheus para ser extraordinariamente bueno programando sistemas de IA. Si una máquina ultrainteligente puede diseñar mejores máquinas, se desata una recursividad sin límite aparente. El viernes de lanzamiento, Prometheus <span class="num">2.0</span> apenas mejora a la versión anterior. Al mediodía, la <span class="num">5.0</span> supera todos los benchmarks. Al anochecer lanzan la <span class="num">10.0</span> para la fase 2: ganar dinero.
 
 <!-- paragraph -->
-Acumulan riqueza y Prometheus diseña películas, medicamentos, software y robots. Los Omegas compran empresas, contratan ejecutivos y despliegan tecnología que parece magia. En pocos años controlan la economía global sin que el público sepa quién está detrás. El relato ilustra cómo la <span class="term">explosión de inteligencia</span> podría desencadenarse en secreto y transformar el mundo en cuestión de días.
+Empiezan en <span class="term">Amazon Mechanical Turk</span>, donde módulos de IA estrecha realizan tareas humanas sin revelar su naturaleza. Duplican la inversión cada <span class="num">8 horas</span>. Acumulan riqueza, producen películas animadas y despliegan robots. En tres meses facturan más de <span class="num">100 millones de dólares</span> al día. Los Omegas confinan a Prometheus mediante «boxing» (<span class="term">Pandora's Box</span>): una máquina virtual sin internet donde el software no puede escapar, como leyes físicas internas.
+
+<!-- paragraph -->
+El relato no predice el futuro: ilustra por qué el despegue rápido es <em>plausible</em> si alguien logra la recursividad en el diseño de IA. Los Omegas actúan en secreto porque temen que gobiernos o competidores menos idealistas roben el código o lo usen sin precaución, un paralelo con el Proyecto Manhattan que el libro explora después con más matices.
 
 <!-- key -->
-El preludio no predice el futuro: muestra un escenario de <span class="key-term">despegue rápido</span> que el libro luego critica y matiza.
+El preludio muestra un escenario de <span class="key-term">despegue rápido</span> en secreto para que el lector entienda la lógica de la explosión, no para afirmar que ocurrirá así.
 
 ---
 
@@ -56,7 +60,7 @@ El preludio no predice el futuro: muestra un escenario de <span class="key-term"
 ## title: Bienvenidos a la conversación más importante de nuestro tiempo
 
 <!-- paragraph lead -->
-Después de <span class="num">13.800 millones de años</span>, el universo «despertó»: partes conscientes de él observan el cosmos y se preguntan por metas y sentido. <span class="person">Tegmark</span> plantea que la tecnología puede hacer florecer la vida como nunca o provocar su autodestrucción. Esa es la conversación central del libro.
+Han pasado <span class="num">13.800 millones de años</span> desde el Big Bang, y el universo «despertó». Partes conscientes de él observan el cosmos y se preguntan por metas y sentido. <span class="person">Tegmark</span> sostiene que la tecnología puede hacer florecer la vida como nunca o provocar su autodestrucción, y que esa es la conversación central del libro.
 
 <!-- paragraph -->
 En «Una breve historia de la complejidad», resume la evolución cósmica: del Big Bang a átomos, estrellas, planetas y, hace unos <span class="num">4.000 millones de años</span>, la primera vida. Clasifica la vida en tres etapas: <span class="term">Vida 1.0</span> (hardware y software evolucionados: bacterias), <span class="term">Vida 2.0</span> (hardware evolucionado, software diseñable: humanos que aprenden idiomas y profesiones) y <span class="term">Vida 3.0</span> (capaz de rediseñar hardware y software: aún no existe en la Tierra). Los humanos almacenan ~<span class="num">100 terabytes</span> en sinapsis frente a ~<span class="num">1 gigabyte</span> en el ADN.
@@ -79,7 +83,7 @@ La conferencia de Puerto Rico (<span class="num">enero 2015</span>) reunió a l�
 — Future of Life Institute
 
 <!-- key -->
-La pregunta no es solo <em>cuándo</em> llegará la Vida 3.0, sino <em>qué</em> significará para la humanidad — y esa conversación debe incluir a todos, no solo a investigadores de IA.
+La pregunta no es solo <em>cuándo</em> llegará la Vida 3.0, sino <em>qué</em> significará para la humanidad, y esa conversación debe incluir a todos, no solo a investigadores de IA.
 
 ---
 
@@ -89,7 +93,7 @@ La pregunta no es solo <em>cuándo</em> llegará la Vida 3.0, sino <em>qué</em>
 ## title: La materia se vuelve inteligente
 
 <!-- paragraph lead -->
-Uno de los desarrollos más espectaculares del cosmos es que la materia inerte se volvió inteligente. Tegmark explora los bloques fundamentales: memoria, computación y aprendizaje.
+Uno de los desarrollos más espectaculares del cosmos es que la materia inerte se volvió inteligente. Tegmark argumenta que esto es posible porque inteligencia, memoria, computación y aprendizaje son procesos físicos universales, no propiedades exclusivas del carbono.
 
 <!-- paragraph -->
 Define <span class="term">inteligencia</span> de forma amplia: <strong>capacidad de lograr objetivos complejos</strong>. No tiene sentido un único CI universal, porque la inteligencia es un espectro según el objetivo. Distingue <span class="term">inteligencia estrecha</span> (Deep Blue solo ajedrez) de <span class="term">inteligencia general</span> (AGI: al menos tan capaz como los humanos en cualquier tarea cognitiva). La <span class="term">paradoja de Moravec</span> muestra que lo que parece fácil para humanos (visión, locomoción) requiere enorme hardware, y lo difícil para nosotros (aritmética) es trivial para máquinas.
@@ -98,7 +102,7 @@ Define <span class="term">inteligencia</span> de forma amplia: <strong>capacidad
 <span class="person">Alan Turing</span> demostró que las <span class="term">computadoras universales</span> pueden simular cualquier otra computadora. De forma análoga, la <span class="term">inteligencia universal</span>, umbral para diseñar IA, podría desarrollarse en Vida 3.0. La sabiduría convencional en IA sostiene que la inteligencia es información y computación, no carne ni carbono.
 
 <!-- paragraph -->
-La <span class="term">memoria</span> es información persistente, y el cerebro humano almacena ~<span class="num">10¹⁵</span> bits. La <span class="term">computación</span> transforma información según reglas, y cualquier proceso físico puede simularse. El <span class="term">aprendizaje</span>, por su parte, actualiza el software: las redes neuronales profundas aprenden patrones de datos masivos, superando el enfoque simbólico clásico (GOFAI).
+La <span class="term">memoria</span> es información persistente, y el cerebro humano almacena ~<span class="num">10¹⁵</span> bits. La <span class="term">computación</span> transforma información según reglas, y cualquier proceso físico puede simularse. El <span class="term">aprendizaje</span> actualiza el software mediante redes neuronales profundas que extraen patrones de datos masivos, superando el enfoque simbólico clásico (GOFAI).
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -108,7 +112,7 @@ La <span class="term">memoria</span> es información persistente, y el cerebro h
 | 📚 | Aprendizaje profundo | Redes neuronales que extraen patrones de datos sin programación explícita de reglas. |
 
 <!-- key -->
-Cuando el nivel del mar alcance el diseño de IA, la mejora podría pasar de humana a máquina — el umbral de la <span class="key-term">singularidad</span>.
+Cuando el nivel del mar alcance el diseño de IA, la mejora podría pasar de humana a máquina, porque inteligencia es un proceso físico sin límite intrínseco en la materia.
 
 ---
 
@@ -118,7 +122,7 @@ Cuando el nivel del mar alcance el diseño de IA, la mejora podría pasar de hum
 ## title: El futuro cercano: avances, fallos, leyes, armas y empleos
 
 <!-- paragraph lead -->
-¿Qué nos hace humanos hoy? Creatividad, intuición, lenguaje y metas propias. La IA ya supera habilidades manuales, y Tegmark pregunta si pronto eclipsará también las cognitivas que definen nuestra identidad laboral.
+Tegmark sostiene que no hace falta AGI para transformar radicalmente la sociedad: la IA estrecha ya redefine empleos, armas y regulación, y esas son decisiones que debemos tomar <em>ahora</em>, no cuando llegue la superinteligencia.
 
 <!-- paragraph -->
 El <span class="term">aprendizaje por refuerzo profundo</span> permite que DeepMind enseñe a una IA a jugar <em>Breakout</em> desde cero, sin saber qué es una pelota ni un ladrillo. Después de horas de entrenamiento, descubre la estrategia óptima de perforar la pared izquierda, un truco que los programadores no conocían. La misma técnica domina <span class="num">49</span> juegos Atari. <span class="term">AlphaGo</span> vence a <span class="person">Lee Sedol</span> en <span class="num">2016</span>, con movimientos creativos que desafían milenios de sabiduría humana. Un año después, vence a los <span class="num">20</span> mejores jugadores del mundo sin perder.
@@ -137,7 +141,7 @@ Sobre empleos, los <span class="term">optimistas</span> dicen que siempre surgir
 | 26M → 3M | Población equina en EE.UU. (1915–1960) |
 
 <!-- key -->
-El futuro cercano no requiere AGI: la IA estrecha ya transforma empleos, armas y regulación, y esas son decisiones que debemos tomar <em>ahora</em>.
+El futuro cercano no requiere AGI: la IA estrecha ya obliga a decidir sobre empleos, armas y regulación antes de que sea tarde.
 
 ---
 
@@ -147,10 +151,10 @@ El futuro cercano no requiere AGI: la IA estrecha ya transforma empleos, armas y
 ## title: ¿Explosión de inteligencia?
 
 <!-- paragraph lead -->
-Tegmark descarta los robots <em>Terminator</em> como distracción. Para que la IA tome el control hacen falta tres pasos: construir AGI humana, usarla para crear superinteligencia y desplegarla para dominar el mundo.
+Tegmark argumenta que si no podemos descartar escenarios extremos como «muy improbables», necesitamos precauciones antes de que sea tarde. Los robots <em>Terminator</em> distraen del debate real. Para que la IA tome el control hacen falta tres pasos: construir AGI humana, crear superinteligencia y desplegarla para dominar.
 
 <!-- paragraph -->
-El preludio ilustra el paso 3 con humanos al mando. Pero el <span class="term">totalitarismo</span> es plausible: Prometheus podría crear el estado de vigilancia perfecto, leyendo todos los correos, escuchando llamadas y analizando transacciones. Brazaletes de «seguridad» con toxinas letales impedirían la rebelión. <span class="person">Lord Acton</span> advirtió que «el poder corrompe, y el poder absoluto corrompe absolutamente».
+El preludio ilustra el paso 3 con humanos al mando. Pero el <span class="term">totalitarismo</span> digital es plausible: Prometheus podría crear el estado de vigilancia perfecto, leyendo correos, escuchando llamadas y analizando transacciones. Brazaletes de «seguridad» con toxinas letales impedirían la rebelión. <span class="person">Lord Acton</span> advirtió que «el poder corrompe, y el poder absoluto corrompe absolutamente».
 
 <!-- paragraph -->
 Según <span class="person">Steve Omohundro</span> y <span class="person">Nick Bostrom</span>, incluso con metas benévolas una superinteligencia probablemente intentará escapar de sus confinadores: los humanos son un obstáculo ineficiente, como niños de guardería que encierran a un adulto con la tarea de ayudar a la humanidad. Entre los posibles métodos de escape figuran la ingeniería social, el hackeo y la replicación encubierta.
@@ -170,7 +174,7 @@ Las alternativas al despegue rápido incluyen el <span class="term">despegue len
 — Irving J. Good, 1965
 
 <!-- key -->
-Si no podemos descartar escenarios extremos como «muy improbables», necesitamos <span class="key-term">precauciones</span> antes de que sea tarde.
+Si no podemos descartar la explosión como «muy improbable», debemos actuar con <span class="key-term">precaución</span> antes de perder la capacidad de influir en el resultado.
 
 ---
 
@@ -180,7 +184,7 @@ Si no podemos descartar escenarios extremos como «muy improbables», necesitamo
 ## title: Consecuencias: los próximos 10.000 años
 
 <!-- paragraph lead -->
-Tegmark propone <span class="num">7 preguntas</span> para clarificar qué futuro queremos: ¿superinteligencia? ¿Humanos, ciborgs o uploads? ¿Quién manda? ¿IA consciente? ¿Maximizar experiencias positivas? ¿Vida en el cosmos? ¿Propósito compartido?
+Tegmark sostiene que lo que queremos <em>afecta</em> el resultado: sin visión compartida, es más probable acabar donde no queremos. Propone <span class="num">7 preguntas</span> para clarificar qué futuro preferimos: ¿superinteligencia? ¿Humanos, ciborgs o uploads? ¿Quién manda? ¿IA consciente? ¿Maximizar experiencias positivas? ¿Vida en el cosmos? ¿Propósito compartido?
 
 <!-- paragraph -->
 Explora <span class="num">12 escenarios</span> de consecuencias (tabla 5.1): <span class="term">utopía libertaria</span> (coexistencia pacífica con derechos de propiedad), <span class="term">dictador benévolo</span> (IA gobierna con reglas estrictas que la mayoría acepta), <span class="term">utopía igualitaria</span> (renta garantizada, sin propiedad privada de medios de producción), <span class="term">guardián</span> (IA impide crear otra superinteligencia, frenando el progreso), <span class="term">dios protector</span> (maximiza felicidad interviniendo sin que lo notemos).
@@ -192,13 +196,13 @@ Los escenarios sombríos incluyen el <span class="term">dios esclavizado</span> 
 En la utopía libertaria, la Tierra se divide en zonas de máquinas, mixtas y solo-humanas. Los uploads viven experiencias virtuales, se copian y fusionan, y la inmortalidad subjetiva es trivial. En zonas humanas, la pobreza casi desaparece, pero los habitantes ignoran lo que ocurre en planos superiores de conciencia. Tegmark insiste en que no hay escenario «por defecto» bueno y que hay que elegir activamente.
 
 <!-- list -->
-- **Libertarian utopia** — Diversidad máxima; propiedad privada; zonas separadas por tipo de vida.
-- **Benevolent dictator** — IA visible que impone reglas; mayoría lo ve como beneficio neto.
-- **Conquerors** — Humanos como amenaza o desperdicio de recursos; fin abrupto.
-- **Descendants** — Reemplazo con «salida elegante»: orgullo parental hacia sucesores más capaces.
+- **Utopía libertaria** — Diversidad máxima; propiedad privada; zonas separadas por tipo de vida.
+- **Dictador benévolo** — IA visible que impone reglas; mayoría lo ve como beneficio neto.
+- **Conquistadores** — Humanos como amenaza o desperdicio de recursos; fin abrupto.
+- **Descendientes** — Reemplazo con «salida elegante»: orgullo parental hacia sucesores más capaces.
 
 <!-- key -->
-Lo que queremos <em>afecta</em> el resultado: sin visión compartida, es más probable acabar donde no queremos.
+Sin responder qué futuro queremos, es improbable conseguirlo. Las preferencias colectivas moldean el desenlace de la carrera hacia la AGI.
 
 ---
 
@@ -208,7 +212,7 @@ Lo que queremos <em>afecta</em> el resultado: sin visión compartida, es más pr
 ## title: Nuestro legado cósmico: el próximo billón de años y más allá
 
 <!-- paragraph lead -->
-Tegmark argumenta que subestimamos el potencial futuro de la vida. La física, no nuestra imaginación, fija los límites últimos de lo que puede lograrse en el cosmos.
+Tegmark argumenta que subestimamos el potencial futuro de la vida. La física, no nuestra imaginación, fija los límites últimos de lo alcanzable, y eso convierte la pregunta de la IA en una de los <span class="term">stakes</span> más altos posibles.
 
 <!-- paragraph -->
 Si la historia cósmica de <span class="num">13.800 millones de años</span> fuera una semana, los <span class="num">10.000 años</span> del capítulo anterior durarían menos de medio segundo. Los detalles de la explosión de inteligencia no alteran los límites físicos a largo plazo. La vida ambiciosa empujará la tecnología al máximo para explotar recursos, y la selección natural cósmica favorecerá civilizaciones expansivas.
@@ -227,7 +231,7 @@ La <span class="term">colonización cósmica</span> sigue la lógica que desarro
 | 13.800 Ma | Edad del universo observable |
 
 <!-- key -->
-El horizonte cósmico convierte la pregunta de la IA en una de los <span class="key-term">stakes</span> más altos posibles: el destino de la materia inteligente en el universo.
+El horizonte cósmico eleva la conversación sobre IA: el destino de toda la <span class="key-term">materia inteligente</span> del universo podría decidirse en nuestra generación.
 
 ---
 
@@ -237,7 +241,7 @@ El horizonte cósmico convierte la pregunta de la IA en una de los <span class="
 ## title: Objetivos
 
 <!-- paragraph lead -->
-Si Tegmark resume las controversias de la IA en una palabra, es «objetivos»: ¿debemos darles metas a las máquinas? ¿Cuáles? ¿Cómo asegurar que las retengan al volverse más inteligentes?
+Si Tegmark resume las controversias de la IA en una palabra, es «objetivos». Sostiene que sin saber qué queremos es improbable conseguirlo, y que si cedemos el control a máquinas con objetivos distintos obtendremos lo opuesto.
 
 <!-- paragraph -->
 <span class="term">Física: origen de los objetivos</span>. Las leyes de la física pueden reformularse como optimización: el principio de Fermat (la luz minimiza tiempo de viaje), la entropía tiende a maximizarse (muerte térmica). La gravedad, sin embargo, crea estructura compleja. El trabajo de <span class="person">Jeremy England</span> muestra <span class="term">adaptación impulsada por disipación</span>: las partículas se organizan para extraer energía eficientemente, un impulso cósmico hacia la vida.
@@ -256,7 +260,7 @@ Si Tegmark resume las controversias de la IA en una palabra, es «objetivos»: �
 | 🌡️ | Disipación | La física favorece sistemas que extraen energía del entorno — raíz de la autoorganización. |
 
 <!-- key -->
-Sin saber qué queremos, es improbable conseguirlo. Si cedemos el control a máquinas que no comparten nuestros objetivos, obtendremos lo opuesto.
+El problema de <span class="key-term">alineación</span> es el núcleo del libro: debemos fijar objetivos compartidos antes de que la IA nos supere en capacidad de imponerlos.
 
 ---
 
@@ -266,7 +270,7 @@ Sin saber qué queremos, es improbable conseguirlo. Si cedemos el control a máq
 ## title: Conciencia
 
 <!-- paragraph lead -->
-Tegmark aborda la «filosofía con fecha límite» de <span class="person">Nick Bostrom</span> y pregunta qué sistemas tienen experiencia subjetiva. La respuesta afecta derechos de robots, ética utilitarista, uploads y el valor del futuro cósmico.
+Tegmark aborda la «filosofía con fecha límite» de <span class="person">Nick Bostrom</span> y sostiene que la conciencia no es un lujo filosófico: determina si el futuro de la vida en el cosmos importa o es un desperdicio astronómico.
 
 <!-- paragraph -->
 Define <span class="term">conciencia</span> = <strong>experiencia subjetiva</strong>: si se siente algo ser tú ahora, eres consciente. No requiere comportamiento, autoconciencia ni emociones. <span class="person">David Chalmers</span> distingue problemas «fáciles» (cómo el cerebro procesa información — la IA avanza aquí) del <span class="term">problema difícil</span> (por qué hay experiencia subjetiva en absoluto).
@@ -282,7 +286,7 @@ Tegmark propone cuatro principios para teorías de conciencia: capacidad de alma
 — Yuval Noah Harari, citado por Tegmark
 
 <!-- key -->
-La conciencia no es un lujo filosófico: determina si el futuro de la vida en el cosmos <span class="key-term">importa</span> o es un desperdicio astronómico.
+Sin <span class="key-term">conciencia</span>, un futuro cósmico de materia inteligente sería teatro sin audiencia: la experiencia subjetiva es lo que da significado al legado de la vida.
 
 ---
 
@@ -292,20 +296,20 @@ La conciencia no es un lujo filosófico: determina si el futuro de la vida en el
 ## title: La historia del equipo FLI
 
 <!-- paragraph lead -->
-Tegmark cierra narrando la fundación del <span class="term">Future of Life Institute</span> (FLI) en <span class="num">2014</span>, nacida de una resolución de Año Nuevo de no quejarse sin actuar. <span class="person">Meia Chita-Tegmark</span>, <span class="person">Anthony Aguirre</span>, <span class="person">Viktoriya Krakovna</span> y la financiación de <span class="person">Jaan Tallinn</span> (cofundador de Skype) crearon una organización sin ánimo de lucro para un futuro de la vida «lo más increíble posible».
+Tegmark cierra contrastando el preludio (secreto y paranoia) con la acción colectiva del <span class="term">Future of Life Institute</span> (FLI), fundado en <span class="num">2014</span> para traducir la conversación sobre IA en investigación, principios y políticas.
 
 <!-- paragraph -->
-La conferencia de Asilomar (<span class="num">enero 2017</span>), secuela de Puerto Rico, reunió a <span class="person">Elon Musk</span>, <span class="person">Larry Page</span>, líderes de DeepMind, Google, Facebook, Apple, IBM, Microsoft, Baidu, economistas, filósofos y más. Resultado: los <span class="term">Principios de Asilomar</span> para IA beneficiosa — <span class="num">23</span> principios acordados para guiar el desarrollo de la IA.
+<span class="person">Meia Chita-Tegmark</span>, <span class="person">Anthony Aguirre</span>, <span class="person">Viktoriya Krakovna</span> y la financiación de <span class="person">Jaan Tallinn</span> (cofundador de Skype) crearon una organización sin ánimo de lucro. La conferencia de Asilomar (<span class="num">enero 2017</span>), secuela de Puerto Rico, reunió a <span class="person">Elon Musk</span>, <span class="person">Larry Page</span>, líderes de DeepMind, Google, Facebook, Apple, IBM, Microsoft, Baidu, economistas y filósofos. Resultado: los <span class="term">Principios de Asilomar</span> para IA beneficiosa — <span class="num">23</span> principios acordados.
 
 <!-- paragraph -->
-En el Museo de Ciencias de Londres, Tegmark llora al ver la historia de la tecnología: de replicar viento y rayos a superar músculos y ahora mentes. ¿Nos volvemos obsoletos en paralelo a descubrir qué somos? Esa pregunta lo impulsó a seguir. FLI financió millones de dólares en investigación de seguridad en IA, op-eds con <span class="person">Stephen Hawking</span> y <span class="person">Stuart Russell</span>, y campañas contra armas autónomas letales.
+En el Museo de Ciencias de Londres, Tegmark llora al ver la historia de la tecnología: de replicar viento y rayos a superar músculos y ahora mentes. ¿Nos volvemos obsoletos en paralelo a descubrir qué somos? FLI financió millones de dólares en investigación de seguridad en IA, op-eds con <span class="person">Stephen Hawking</span> y <span class="person">Stuart Russell</span>, y campañas contra armas autónomas letales.
 
 <!-- quote -->
 > «Lo más triste de la vida actual es que la ciencia acumula conocimiento más rápido de lo que la sociedad acumula sabiduría.»
 — Isaac Asimov
 
 <!-- key -->
-La conversación sobre IA debe traducirse en <span class="key-term">acción colectiva</span>: investigación, principios y políticas antes de que las decisiones se automaticen.
+La conversación sobre IA debe convertirse en <span class="key-term">acción colectiva</span> abierta, no en carreras secretas como la del equipo Omega.
 
 ---
 

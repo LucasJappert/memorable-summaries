@@ -55,8 +55,23 @@ const bookLink = computed(() => {
 </script>
 
 <template>
-  <article class="book-tile">
+  <article class="book-tile" :class="{ 'book-tile--done': status === 'done' }">
     <RouterLink :to="bookLink" class="book-tile__link" :aria-label="linkLabel">
+      <span v-if="status === 'done'" class="book-tile__ribbon" aria-hidden="true">
+        <span class="book-tile__ribbon-band">
+          <svg class="book-tile__ribbon-check" viewBox="0 0 12 12" aria-hidden="true">
+            <path
+              d="M2.5 6.2 4.8 8.5 9.5 3.5"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.8"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            />
+          </svg>
+        </span>
+      </span>
+
       <div class="book-tile__cover-wrap">
         <span v-if="book.readingOrder" class="book-tile__order-chip">
           {{ book.readingOrder }}
@@ -65,7 +80,6 @@ const bookLink = computed(() => {
         <CoverArt
           :slug="book.slug"
           :meta="book.meta"
-          :done="status === 'done'"
           :has-audio="hasAudio"
         >
           <span
@@ -86,14 +100,13 @@ const bookLink = computed(() => {
       </div>
 
       <div
-        v-if="status !== 'new'"
+        v-if="status === 'reading'"
         class="book-tile__progress"
         role="presentation"
         :aria-hidden="true"
       >
         <span
           class="book-tile__progress-fill"
-          :class="{ 'book-tile__progress-fill--done': status === 'done' }"
           :style="{ width: `${progress}%` }"
         />
       </div>

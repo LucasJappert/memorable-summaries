@@ -83,11 +83,11 @@ export const incognito: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El epígrafe del libro cita a <span class=\"person\">Blaise Pascal</span>, quien sostiene que el hombre es incapaz de ver «la nada de la que emerge» y «el infinito en que se pierde». <span class=\"person\">David Eagleman</span> propone una caída paralela a la de Galileo: no solo fuimos expulsados del centro del universo, sino del centro de nosotros mismos.",
+          html: "El epígrafe cita a <span class=\"person\">Blaise Pascal</span>, quien sostiene que el hombre es incapaz de ver «la nada de la que emerge» y «el infinito en que se pierde». <span class=\"person\">David Eagleman</span> propone una caída paralela a la de Galileo: no solo fuimos expulsados del centro del universo, sino del centro de nosotros mismos.",
         },
         {
           type: 'paragraph',
-          html: "Antes del capítulo 1, el autor enumera enigmas que el libro resolverá: ¿cómo puedes enfadarte contigo mismo?, ¿por qué las rocas «suben» tras mirar una cascada?, ¿por qué <span class=\"person\">William Douglas</span> decía que podía jugar al fútbol estando paralizado?, ¿por qué <span class=\"person\">Thomas Edison</span> electrocutó a Topsy?, ¿por qué las stripers ganan más en ciertos días del mes?, ¿qué comparten <span class=\"person\">Ulises</span> y la crisis de las hipotecas subprime?",
+          html: "Antes del capítulo 1, el autor enumera enigmas que el libro resolverá: ¿cómo puedes enfadarte contigo mismo?, ¿por qué las rocas «suben» tras mirar una cascada?, ¿por qué <span class=\"person\">William O. Douglas</span> decía que podía jugar al fútbol estando paralizado?, ¿por qué <span class=\"person\">Thomas Edison</span> electrocutó a Topsy?, ¿por qué las strippers ganan más en ciertos días del mes?, ¿qué comparten <span class=\"person\">Ulises</span> y la crisis de las hipotecas subprime?",
         },
         {
           type: 'quote',
@@ -112,11 +112,15 @@ export const incognito: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "En <span class=\"num\">1949</span>, <span class=\"person\">Arthur Alberts</span> grabó música en África occidental, y un nativo acusó al magnetófono de «robarle la lengua». Igual que la voz es física aunque parezca etérea, los pensamientos dependen de sustancia cerebral. El sueño profundo los elimina, el alcohol o el café los modulan, y una lesión del tamaño de un ded meñique puede cambiar la música, el color o el riesgo que percibes.",
+          html: "En <span class=\"num\">1949</span>, <span class=\"person\">Arthur Alberts</span> grabó música en África occidental, y un nativo acusó al magnetófono de «robarle la lengua». Igual que la voz es física aunque parezca etérea, los pensamientos dependen de sustancia cerebral. El sueño profundo los elimina, el alcohol o el café los modulan, y una lesión del tamaño de un meñique puede cambiar la música, el color o el riesgo que percibes.",
         },
         {
           type: 'paragraph',
           html: "Un experimento reciente mostró que hombres califican fotos de mujeres. Las pupilas dilatadas (señal de excitación sexual) las eligen como más atractivas, pero ninguno puede explicar por qué. Algo en el cerebro «sabía» lo que la conciencia ignoraba. La conciencia es como un periódico ligero (<em>USA Today</em>): resume lo ya decidido en coaliciones neuronales, y llegas tarde a la información.",
+        },
+        {
+          type: 'paragraph',
+          html: "<span class=\"person\">Galileo</span> observó en <span class=\"num\">1610</span> las lunas de Júpiter y destrozó el geocentrismo. Eagleman argumenta que la neurociencia repite ese gesto con el yo: no estamos al volante. Desde <span class=\"person\">Tomás de Aquino</span> hasta <span class=\"person\">Leibniz</span>, <span class=\"person\">Herbart</span>, <span class=\"person\">James McKeen Cattell</span> y <span class=\"person\">Sigmund Freud</span>, la idea del inconsciente fue madurando hasta el iceberg freudiano.",
         },
         {
           type: 'concept-grid',
@@ -182,11 +186,11 @@ export const incognito: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Ilusiones como la <span class=\"term\">ceguera al cambio</span> muestran que cambios enormes (caja, jeep) pasan desapercibidos si no prestas atención. En un experimento, el experimentador se sustituye por otro tras una puerta y la mayoría sigue dando indicaciones. La periferia tiene resolución pésima, y el cerebro construye un boceto <span class=\"term\">2½-D</span>, no un modelo 3-D completo. <span class=\"person\">Alfred Yarbus</span> (<span class=\"num\">1967</span>) demostró que, según la pregunta sobre un cuadro de Repin, los ojos muestrean distintas zonas (caras, ropa, edades).",
+          html: "Ilusiones como la <span class=\"term\">ceguera al cambio</span> muestran que cambios enormes pasan desapercibidos si no prestas atención. En un experimento, el experimentador se sustituye por otro tras una puerta y la mayoría sigue dando indicaciones. El cerebro construye un boceto <span class=\"term\">2½-D</span>, no un modelo 3-D completo. <span class=\"person\">Alfred Yarbus</span> (<span class=\"num\">1967</span>) demostró que, según la pregunta sobre un cuadro de Repin, los ojos muestrean distintas zonas.",
         },
         {
           type: 'paragraph',
-          html: "El punto ciego ocupa el diámetro de <span class=\"num\">17 lunas</span>, y el cerebro «rellena» el fondo. <span class=\"person\">Helmholtz</span> llamó <span class=\"term\">inferencia inconsciente</span> a las suposiciones sobre la luz desde arriba. Después de una cascada, las rocas parecen subir (<span class=\"term\">efecto post-movimiento</span>): el movimiento se percibe sin cambio de posición. <span class=\"person\">Mike McBeath</span> demostró que los jardineros de béisbol no calculan posición ni velocidad, sino que mantienen la trayectoria en línea recta desde su punto de vista.",
+          html: "El punto ciego ocupa el diámetro de <span class=\"num\">17 lunas</span>, y el cerebro «rellena» el fondo. <span class=\"person\">Hermann von Helmholtz</span> llamó <span class=\"term\">inferencia inconsciente</span> a las suposiciones sobre la luz desde arriba. Después de una cascada, las rocas parecen subir (<span class=\"term\">efecto post-movimiento</span>): el movimiento se percibe sin cambio de posición. <span class=\"person\">Mike McBeath</span> demostró que los jardineros de béisbol no calculan posición ni velocidad, sino que mantienen la trayectoria en línea recta desde su punto de vista.",
         },
         {
           type: 'paragraph',
@@ -194,7 +198,7 @@ export const incognito: BookSummary = {
         },
         {
           type: 'key',
-          html: "La lección principal del capítulo es no confiar en los sentidos: la percepción es construcción activa, no registro fiel del mundo.",
+          html: "La percepción es construcción activa del cerebro, no un registro fiel del mundo exterior.",
         },
       ],
     },
@@ -303,7 +307,7 @@ export const incognito: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Kahneman</span> y <span class=\"person\">Tversky</span> mostraron que la gente prefiere $100 ahora frente a $110 en una semana, pero $100 en 52 semanas frente a $110 en 53. El <span class=\"term\">descuento temporal</span> tiene forma de dos procesos (<span class=\"person\">Sam McClure</span>). Las hipotecas subprime explotaron el «lo quiero ya». Los <span class=\"term\">contratos de Ulises</span> atan al mástil: clubes navideños, IRS como «alcancía», depósitos para adelgazar.",
+          html: "<span class=\"person\">Daniel Kahneman</span> y <span class=\"person\">Amos Tversky</span> mostraron que la gente prefiere $100 ahora frente a $110 en una semana, pero $100 en 52 semanas frente a $110 en 53. El <span class=\"term\">descuento temporal</span> tiene forma de dos procesos (<span class=\"person\">Sam McClure</span>). Las hipotecas subprime explotaron el «lo quiero ya». Los <span class=\"term\">contratos de Ulises</span> atan al mástil: clubes navideños, IRS como «alcancía», depósitos para adelgazar.",
         },
         {
           type: 'paragraph',

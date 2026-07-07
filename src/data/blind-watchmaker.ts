@@ -12,78 +12,7 @@ export const blindWatchmaker: BookSummary = {
     ],
     titleEs: "El relojero ciego",
   },
-  toc: [
-  {
-    "id": "prefacio",
-    "num": "00",
-    "label": "Prefacio"
-  },
-  {
-    "id": "cap1",
-    "num": "01",
-    "label": "Explicar lo muy improbable"
-  },
-  {
-    "id": "cap2",
-    "num": "02",
-    "label": "Buen diseño"
-  },
-  {
-    "id": "cap3",
-    "num": "03",
-    "label": "Acumulando pequeños cambios"
-  },
-  {
-    "id": "cap4",
-    "num": "04",
-    "label": "Trazando rutas por el espacio animal"
-  },
-  {
-    "id": "cap5",
-    "num": "05",
-    "label": "El poder y los archivos"
-  },
-  {
-    "id": "cap6",
-    "num": "06",
-    "label": "Orígenes y milagros"
-  },
-  {
-    "id": "cap7",
-    "num": "07",
-    "label": "Evolución constructiva"
-  },
-  {
-    "id": "cap8",
-    "num": "08",
-    "label": "Explosiones y espirales"
-  },
-  {
-    "id": "cap9",
-    "num": "09",
-    "label": "Desinflando el punctuationismo"
-  },
-  {
-    "id": "cap10",
-    "num": "10",
-    "label": "El único árbol verdadero de la vida"
-  },
-  {
-    "id": "cap11",
-    "num": "11",
-    "label": "Rivales condenados"
-  },
-  {
-    "id": "conceptos",
-    "num": "✦",
-    "label": "Conceptos clave"
-  },
-  {
-    "id": "cronologia",
-    "num": "◈",
-    "label": "Cronología"
-  }
-],
+  toc: [],
   sections: [
     {
       id: "prefacio",
@@ -104,8 +33,12 @@ export const blindWatchmaker: BookSummary = {
           html: "El libro no pretende ser un tratado científico frío. Su propósito es informar, persuadir e inspirar: el darwinismo no solo es cierto, sino la única teoría conocida que, en principio, puede resolver el misterio de nuestra existencia. Dawkins distingue su defensa de la de un abogado que defiende causas en las que no cree: nunca dice lo que no considera verdadero.",
         },
         {
+          type: 'paragraph',
+          html: "El darwinismo parece necesitar más defensa que otras verdades científicas. La mente humana está predispuesta a malinterpretarlo por el azar, las escalas temporales evolutivas y la analogía con el diseño consciente. Como observó <span class=\"person\">Jacques Monod</span>, todo el mundo cree que lo entiende, aunque casi nadie pensó en la idea hasta <span class=\"person\">Darwin</span> y <span class=\"person\">Wallace</span> en el siglo XIX.",
+        },
+        {
           type: 'key',
-          html: "El darwinismo parece necesitar más defensa que otras verdades científicas establecidas. La mente humana está predispuesta a malinterpretarlo por el azar, las escalas temporales y la analogía con el diseño consciente.",
+          html: "El darwinismo es la única teoría que puede resolver el misterio de la complejidad biológica, pero la mente humana está predispuesta a malinterpretarlo.",
         },
       ],
     },
@@ -203,7 +136,7 @@ export const blindWatchmaker: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "En la <span class=\"term\">selección acumulativa</span>, las entidades se «reproducen» con variación. Cada generación parte del resultado anterior. El experimento del mono que escribe «METHINKS IT IS LIKE A WEASEL»: en un solo paso tardaría ~<span class=\"num\">10<sup>40</sup></span> intentos. Con selección acumulativa que retiene las frases más parecidas al objetivo, la frase emerge en minutos. Los <span class=\"term\">biomorfos</span> del ordenador muestran lo mismo con formas en árbol.",
+          html: "En la <span class=\"term\">selección acumulativa</span>, las entidades se «reproducen» con variación. Cada generación parte del resultado anterior. El experimento del mono que escribe «METHINKS IT IS LIKE A WEASEL»: en un solo paso tardaría ~<span class=\"num\">10<sup>40</sup></span> intentos. Con selección acumulativa que retiene las frases más parecidas al objetivo, la frase emerge en minutos. Los <span class=\"term\">biomorfos</span> del ordenador muestran lo mismo con formas en árbol, y el programador no puede predecir qué criaturas emergerán.",
         },
         {
           type: 'concept-grid',
@@ -227,7 +160,7 @@ export const blindWatchmaker: BookSummary = {
         },
         {
           type: 'key',
-          html: "La evolución no es azar puro: es <span class=\"key-term\">selección acumulativa</span> — mutaciones aleatorias filtradas paso a paso durante millones de generaciones.",
+          html: "La evolución no es azar puro: es <span class=\"key-term\">selección acumulativa</span>, mutaciones aleatorias filtradas paso a paso durante millones de generaciones.",
         },
       ],
     },
@@ -243,7 +176,7 @@ export const blindWatchmaker: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "¿Pudo el ojo humano surgir de la nada en un paso? No: las probabilidades son astronómicas. ¿De algo ligeramente distinto, X? Sí, si X es suficientemente parecido. Repitiendo la pregunta con pasos cada vez menores, se traza una cadena de Xs desde «sin ojo» hasta el ojo moderno — caminando por el espacio animal en pasos pequeños.",
+          html: "¿Pudo el ojo humano surgir de la nada en un paso? No: las probabilidades son astronómicas. ¿De algo ligeramente distinto, X? Sí, si X es suficientemente parecido. Repitiendo la pregunta con pasos cada vez menores, se traza una cadena de Xs desde «sin ojo» hasta el ojo moderno, caminando por el espacio animal en pasos pequeños.",
         },
         {
           type: 'paragraph',
@@ -368,7 +301,7 @@ export const blindWatchmaker: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "La mente humana analogiza con facilidad — a veces demasiado. Este capítulo explora dos analogías fructíferas pero peligrosas: procesos tipo <span class=\"term\">explosión</span> (retroalimentación positiva) y la semejanza entre evolución darwiniana y <span class=\"term\">evolución cultural</span>.",
+          html: "La mente humana analogiza con facilidad, a veces demasiado. Este capítulo explora dos analogías fructíferas pero peligrosas: procesos tipo <span class=\"term\">explosión</span> (retroalimentación positiva) y la semejanza entre evolución darwiniana y <span class=\"term\">evolución cultural</span>.",
         },
         {
           type: 'paragraph',
@@ -383,12 +316,12 @@ export const blindWatchmaker: BookSummary = {
           items: [
             {
               "title": "Retroalimentación positiva",
-              "description": "Pequeñas desviaciones se amplifican en espiral — útil como modelo de coevolución acelerada.",
+              "description": "Pequeñas desviaciones se amplifican en espiral; útil como modelo de coevolución acelerada.",
               "icon": "💥"
             },
             {
               "title": "Memes",
-              "description": "Ideas que se copian entre cerebros con variación y selección — evolución cultural.",
+              "description": "Ideas que se copian entre cerebros con variación y selección; evolución cultural.",
               "icon": "🧠"
             },
             {
@@ -420,7 +353,7 @@ export const blindWatchmaker: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El registro fósil es incompleto por naturaleza. La datación radiométrica (carbono-<span class=\"num\">14</span>, potasio-argon, uranio-plomo) permite pruebas temporales. Un fósil humano auténtico en rocas de <span class=\"num\">500 millones</span> de años destruiría la evolución: prueba de que la teoría es falsable. La controversia real es menor de lo que venden las revistas.",
+          html: "El registro fósil es incompleto por naturaleza. La datación radiométrica (carbono-<span class=\"num\">14</span>, potasio-argón, uranio-plomo) permite pruebas temporales. Un fósil humano auténtico en rocas de <span class=\"num\">500 millones</span> de años destruiría la evolución: prueba de que la teoría es falsable. La controversia real es menor de lo que venden las revistas.",
         },
         {
           type: 'key',
@@ -440,7 +373,7 @@ export const blindWatchmaker: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Clasificar libros en una biblioteca admite muchos sistemas igualmente válidos por conveniencia. Clasificar organismos es distinto: la evolución implica un solo <span class=\"term\">árbol genealógico</span> verdadero con anidamiento perfecto — todo subgrupo está completamente contenido en un grupo mayor, sin solapamientos parciales.",
+          html: "Clasificar libros en una biblioteca admite muchos sistemas igualmente válidos por conveniencia. Clasificar organismos es distinto: la evolución implica un solo <span class=\"term\">árbol genealógico</span> verdadero con anidamiento perfecto. Todo subgrupo está completamente contenido en un grupo mayor, sin solapamientos parciales.",
         },
         {
           type: 'paragraph',
@@ -468,7 +401,7 @@ export const blindWatchmaker: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El <span class=\"term\">creacionismo</span> postula complejidad organizada sin explicarla. Dawkins predice que si alguna vez se descubre vida extraterrestre, también habrá evolucionado por selección natural darwiniana — apuesta no comprobable pronto, pero que dramatiza una verdad: ninguna otra teoría conocida explica el diseño adaptativo.",
+          html: "El <span class=\"term\">creacionismo</span> postula complejidad organizada sin explicarla. Dawkins predice que si alguna vez se descubre vida extraterrestre, también habrá evolucionado por selección natural darwiniana, y con esa apuesta subraya que ninguna otra teoría conocida explica el diseño adaptativo.",
         },
         {
           type: 'quote',
@@ -620,10 +553,10 @@ export const blindWatchmaker: BookSummary = {
     title: "La idea central",
     lines: [
   "La complejidad de la vida parece exigir un diseñador consciente.",
-  "Paley tenía razón en la pregunta, equivocado en la respuesta.",
+  "Paley tenía razón en la pregunta, pero se equivocó en la respuesta.",
   "La selección natural es el relojero ciego: sin mente, sin plan, sin visión.",
   "Ninguna otra teoría conocida explica, en principio, la complejidad adaptativa.",
-  "El misterio de nuestra existencia está resuelto — aunque sigamos añadiendo notas a pie de página."
+  "El misterio de nuestra existencia está resuelto, aunque sigamos añadiendo notas a pie de página."
 ],
     highlight: "Acumula pequeños cambios aleatorios filtrados por supervivencia y reproducción",
   },

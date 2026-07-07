@@ -54,10 +54,13 @@ lang: es
 ## title: Prueba rápida para gente ocupada
 
 <!-- paragraph lead -->
-<span class="person">Jim Holt</span> ofrece una «demostración» condensada: si no hubiera nada, no habría leyes. Sin leyes, todo estaría permitido. Si todo estuviera permitido, nada estaría prohibido, y entonces la nada se prohíbe a sí misma. Por tanto, debe haber algo. QED, con la ironía que marca todo el libro.
+<span class="person">Jim Holt</span> abre con una «demostración» condensada para lectores apurados. Si no hubiera nada, no habría leyes. Sin leyes, todo estaría permitido. Si todo estuviera permitido, nada estaría prohibido, y entonces la nada se prohíbe a sí misma. Por tanto, debe haber algo. QED.
+
+<!-- paragraph -->
+El argumento es una parodia lógica, no una refutación del enigma. Holt lo plantea con ironía porque su libro será precisamente una investigación periodística. Entrevistará a quienes creen tener la respuesta seria en lugar de quedarse con el chiste.
 
 <!-- key -->
-El misterio de la existencia puede burlarse con lógica ingeniosa, pero la pregunta seria permanece intacta.
+El misterio de la existencia puede burlarse con lógica ingeniosa, pero la pregunta última permanece intacta.
 
 ---
 
@@ -67,20 +70,20 @@ El misterio de la existencia puede burlarse con lógica ingeniosa, pero la pregu
 ## title: Enfrentar el misterio
 
 <!-- paragraph lead -->
-Holt recuerda cuando, adolescente en Virginia, leyó a <span class="person">Heidegger</span> y tropezó con la pregunta: ¿por qué hay algo en lugar de nada? Criado en catolicismo, había recibido la respuesta «Dios lo creó de la nada». Al cuestionar el credo, el enigma resurgió con fuerza pura.
+Holt recuerda cuando, adolescente en Virginia, leyó a <span class="person">Heidegger</span> y tropezó con la pregunta: ¿por qué hay algo en lugar de nada? Criado en catolicismo, había recibido la respuesta «Dios lo creó de la nada». Al cuestionar el credo, el enigma resurgió con una fuerza que la teología infantil no agotaba.
 
 <!-- paragraph -->
-Los ateos modernos (<span class="person">Dawkins</span>, <span class="person">Hitchens</span>) se muestran incómodos ante la pregunta. <span class="person">Hawking</span> propone un universo sin frontera que no requiere creador, pero pregunta qué «insufla fuego» a las ecuaciones. La ciencia explica estados previos, pero cualquier causa física es parte del universo a explicar. Eso abre el riesgo de circularidad.
+Como detective existencial, Holt traza el mapa de sospechosos. Los ateos modernos (<span class="person">Dawkins</span>, <span class="person">Hitchens</span>) se muestran incómodos ante la pregunta. <span class="person">Hawking</span> propone un universo sin frontera que no requiere creador, pero pregunta qué «insufla fuego» a las ecuaciones. La ciencia explica estados previos, pero cualquier causa física es parte del universo a explicar, y eso abre el riesgo de circularidad.
 
 <!-- paragraph -->
-Los teístas invocan el argumento como metacientífico. Holt explora alternativas: hecho bruto, eternidad del mundo, entidades matemáticas platónicas. El <span class="term">Principio de razón suficiente</span> de <span class="person">Leibniz</span> exige explicación para todo. <span class="person">Lovejoy</span> temía un mundo irracional sin estabilidad.
+Los teístas invocan el argumento como metacientífico. Holt explora alternativas como el hecho bruto, la eternidad del mundo o las entidades matemáticas platónicas. El <span class="term">Principio de razón suficiente</span> de <span class="person">Leibniz</span> exige explicación para todo, y <span class="person">Lovejoy</span> temía un mundo irracional sin estabilidad. La elección no es solo Dios contra el absurdo. Puede haber un «álgebra oculta del ser» descubrible por la razón.
 
 <!-- quote -->
 > «Todos somos mendigos aquí.»
 — William James (citado por Holt)
 
 <!-- key -->
-Holt inicia una investigación periodística: entrevistar a las mentes más audaces sobre el enigma último.
+Holt inicia la investigación periodística: cada capítulo interrogará una tesis filosófica distinta sobre el enigma último.
 
 ---
 
@@ -274,13 +277,13 @@ Deutsch convierte el misterio en abundancia: realidad = multiverso de estructura
 ## title: Interludio: El fin de la explicación
 
 <!-- paragraph lead -->
-La anécdota de <span class="person">Russell</span> y la tortuga infinita: ¿explicaciones «tortugas hasta el fondo» o fundamento final? Deutsch acepta regresos infinitos de explicación —no bedrock absoluto.
+La anécdota de <span class="person">Russell</span> y la tortuga infinita pregunta si las explicaciones deben apoyarse «hasta el fondo» en un fundamento o pueden regresar sin fin. <span class="person">David Deutsch</span> acepta regresos infinitos de explicación: no hay bedrock absoluto, pero sí explicaciones cada vez más profundas.
 
 <!-- paragraph -->
-Si cada nivel exige otro, la cadena nunca cierra. Holt contrasta el anhelo leibniziano de razón suficiente última con el realismo de explicación sin fondo.
+Si cada nivel exige otro, la cadena nunca cierra del todo. Holt contrasta el anhelo leibniziano de razón suficiente última con el realismo de explicación sin fondo. Deutsch sostiene que renunciar al cierre teológico no implica renunciar a entender: solo cambia qué cuenta como explicación satisfactoria.
 
 <!-- key -->
-¿La ciencia moderna renuncia a la explicación última o solo a la explicación teológica?
+La ciencia moderna puede renunciar a la explicación última sin renunciar a explicar, pero el detective sigue buscando un cierre.
 
 ---
 
@@ -344,13 +347,13 @@ Weinberg encarna la ciencia que avanza sin prometer resolver el enigma último.
 ## title: Interludio: Una palabra sobre muchos mundos
 
 <!-- paragraph lead -->
-Si un mundo es misterioso, ¿qué decir de infinitos? El multiverso añade «¿por qué tanto?» a «¿por qué algo?». Weinberg y Deutsch lo encuentran natural. Holt sospecha que multiplica enigmas.
+Si un mundo es misterioso, ¿qué decir de infinitos? El multiverso añade «¿por qué tanto?» a «¿por qué algo?». <span class="person">Weinberg</span> y <span class="person">Deutsch</span> lo encuentran natural dentro de la física. Holt sospecha que multiplica enigmas en lugar de disolver el primero.
 
 <!-- paragraph -->
-La hipótesis de muchos mundos puede hacer la existencia de nuestro cosmos menos improbable (principio antrópico), pero no explica por qué hay realidad en absoluto.
+La hipótesis de muchos mundos puede hacer la existencia de nuestro cosmos menos improbable mediante el <span class="term">principio antrópico</span>. Aun así, no explica por qué hay realidad en absoluto. Postular un trillón de universos para eludir el fine-tuning parece, a Holt, una huida hacia adelante comparable a postular a Dios.
 
 <!-- key -->
-Más mundos no equivalen automáticamente a mejor explicación del ser.
+Más mundos no equivalen automáticamente a mejor explicación del ser: pueden ser más datos, no más comprensión.
 
 ---
 
@@ -379,13 +382,13 @@ Las matemáticas describen posibilidades. El salto a existencia concreta sigue s
 ## title: Interludio: It from bit
 
 <!-- paragraph lead -->
-El platonismo no resolvió la explicación última, y Holt revisa el <span class="term">hylomorfismo</span> aristotélico: realidad = materia + forma. <span class="person">Wheeler</span> propuso «it from bit»: la física surge de información.
+El platonismo matemático no cerró la explicación última, y Holt revisa el <span class="term">hylomorfismo</span> aristotélico: realidad como materia más forma. <span class="person">John Wheeler</span> propuso «it from bit»: la física surgiría de información fundamental, no de partículas primordiales.
 
 <!-- paragraph -->
-Si la realidad fundamental es informacional, ¿la pregunta se convierte en por qué hay bits? Estructura sin sustancia sigue siendo «algo».
+Si la realidad fundamental es informacional, la pregunta se convierte en por qué hay bits y por qué esas reglas informacionales rigen el vacío. Estructura sin sustancia sigue siendo «algo». Solo cambia el vocabulario del misterio.
 
 <!-- key -->
-Reducir el mundo a información desplaza el misterio, no lo elimina.
+Reducir el mundo a información desplaza el misterio un nivel, pero no lo elimina.
 
 ---
 
@@ -414,13 +417,13 @@ Leslie invierte la pregunta: no por qué hay algo, sino por qué la bondad exigi
 ## title: Interludio: Un hegeliano en París
 
 <!-- paragraph lead -->
-De nuevo en el Café de Flore, Holt lee a <span class="person">Hegel</span>, que escribe: «El ser puro hace el comienzo.» La dialéctica ser-nada-devenir funciona como respuesta histórica al enigma.
+De nuevo en el Café de Flore, Holt lee a <span class="person">Hegel</span>. El filósofo escribe que «el ser puro hace el comienzo». En la <em>Ciencia de la lógica</em>, el ser puro, por ser indeterminado, se vuelve indistinguible de la nada. La tensión se resuelve en devenir. Es una respuesta procesual al enigma, no causal.
 
 <!-- paragraph -->
-Hegel disuelve la oposición estática entre ser y nada en devenir. Holt, escéptico, ve prosa oscura donde otros ven síntesis profunda.
+Hegel equipara pensamiento y realidad. El mundo sería el despliegue del Absoluto que piensa. Holt, escéptico, ve prosa oscura donde otros ven síntesis profunda. Se pregunta en qué «psique» ocurre esa dialéctica si no hay un Dios personal detrás.
 
 <!-- key -->
-El idealismo alemán ofrece proceso en lugar de fundamento: el ser «se despliega», no se explica desde fuera.
+El idealismo alemán ofrece proceso en lugar de fundamento: el ser «se despliega», pero no explica por qué hay despliegue alguno.
 
 ---
 
@@ -430,16 +433,16 @@ El idealismo alemán ofrece proceso en lugar de fundamento: el ser «se desplieg
 ## title: La última palabra desde All Souls
 
 <!-- paragraph lead -->
-En el College of All Souls, Oxford, Holt visita a <span class="person">Derek Parfit</span>, quien llama a la pregunta «la más sublime». Parfit trabajó décadas en identidad personal y razones prácticas.
+En el College of All Souls, Oxford, Holt visita a <span class="person">Derek Parfit</span>, quien llama a la pregunta «la más sublime». Parfit invierte el orden habitual: en lugar de ir del «por qué» al «cómo», parte de cómo es el mundo y busca qué rasgo especial podría explicar por qué la realidad tomó esa forma.
 
 <!-- paragraph -->
-Parfit explora si el universo podría existir porque su existencia es «lo mejor» o porque no hay alternativa coherente a la totalidad de hechos. Su pensamiento combina rigor analítico con audacia metafísica.
+Parfit distingue las <span class="term">posibilidades cósmicas</span>, es decir las formas que puede tomar la totalidad de la realidad, desde la Nula hasta la de Todos los Mundos. También distingue los <span class="term">Selectores</span> como simplicidad, bondad o plenitud, que «eligen» cuál se actualiza. Si no hay Selector, la realidad debería ser mediocra, sin rasgo distintivo. La Nula es demasiado especial para ser fruto del azar.
 
 <!-- paragraph -->
-Holt esperaba una respuesta definitiva. Recibe en cambio clarificación de cómo formular la pregunta sin caer en pseudo-problemas ni teología fácil.
+Holt esperaba una respuesta definitiva. Parfit aclara el expediente en su lugar. Un Selector no puede elegirse a sí mismo, y la explicación regresará a un hecho bruto. Aun así, su marco reduce el misterio a preguntas precisas sobre qué Selector rige y por qué rige.
 
 <!-- key -->
-Parfit no cierra el caso, pero eleva el estándar de qué contaría como respuesta satisfactoria.
+Parfit no cierra el caso, pero reformula el misterio: posibilidades cósmicas, Selectores y el peligro de la mediocridad infinita.
 
 ---
 
@@ -449,13 +452,16 @@ Parfit no cierra el caso, pero eleva el estándar de qué contaría como respues
 ## title: Interludio epistolar: La prueba
 
 <!-- paragraph lead -->
-Holt escribe a Parfit proponiendo una «prueba» basada en el Principio de razón suficiente y la imposibilidad de autóexplicación: la realidad debe tener forma general de «mediocridad infinita», no máxima ni mínima.
+Holt escribe a Parfit desde Nueva York proponiendo una «prueba» geométrica. Asume el <span class="term">Principio de razón suficiente</span> (toda verdad tiene explicación) y el de Fundación (nada se explica a sí mismo, como un Selector que no puede elegirse).
 
 <!-- paragraph -->
-La carta es ejercicio intelectual: si toda verdad tiene explicación y ninguna se explica a sí misma, la estructura del todo está constreñida. Holt se maravilla de su propia audacia —y de su fragilidad.
+Solo dos meta-Selectores evitan circularidad. Son Simplicidad y Plenitud. Si Simplicidad rige en el nivel meta, no hay Selector en el nivel inferior y la realidad se elige al azar. Lo más probable es una realidad genérica infinitamente <span class="term">mediocra</span>, no la Nula ni la de Todos los Mundos. Si rige Plenitud, los Selectores parciales se contradicen y el resultado también es mediocridad.
+
+<!-- paragraph -->
+Parfit responde con brevedad: el argumento es «muy interesante» y lo pensará. Holt se maravilla del poder seductor de la deducción metafísica, pero sabe que su prueba es tentativa: si el mundo resultara «especial», fallaría algún principio.
 
 <!-- key -->
-La prueba holtiana es tentativa lúdica-seria: muestra el seductor poder de la deducción metafísica.
+La prueba holtiana intenta cerrar el caso con mediocridad infinita, pero permanece como ejercicio lúdico-serio, no como veredicto final.
 
 ---
 
@@ -465,17 +471,16 @@ La prueba holtiana es tentativa lúdica-seria: muestra el seductor poder de la d
 ## title: El mundo como un poco de verso ligero
 
 <!-- paragraph lead -->
-<span class="person">John Updike</span> responde con una postal densa: la existencia es «un poco de verso ligero» en el vacío. El novelista ve el cosmos con asombro lúdico, no con ansiedad lógica.
+<span class="person">John Updike</span> responde con una postal densa. La existencia es, para él, «un poco de verso ligero» en el vacío. El novelista ve el cosmos con asombro lúdico, no con ansiedad lógica. Para él, que haya un universo es ya un milagro residual de la teología natural.
 
 <!-- paragraph -->
-Updike, religioso de tinte teológico-literario, no necesita demostración: la abundancia del ser es gracia. Holt contrasta la prosa del físico con la metáfora del poeta.
+Updike, de tinte barthiano, desconfía de demostrar a Dios con ciencia: cruzar el abismo entre nada y algo parece tan exigente como aceptar la inflación cósmica «con una sonrisa y un lustre de zapatos». Dios creó el mundo «in play», en juego, no por acedia divina.
 
-<!-- quote -->
-> La existencia del mundo es absurda y gratuita —y por eso luminosa.
-— Parafraseando la respuesta de Updike
+<!-- paragraph -->
+Holt contrasta la prosa del físico con la metáfora del poeta. Updike admite que la pregunta puede ser permanente, más allá de las capacidades del «cerebro reptiliano» humano, y que el asombro basta como respuesta vital.
 
 <!-- key -->
-Updike ofrece respuesta estético-religiosa: el mundo existe como don, no como teorema.
+Updike ofrece respuesta estético-religiosa: el mundo existe como don lúdico, no como teorema demostrable.
 
 ---
 
@@ -552,6 +557,8 @@ El libro cierra donde empezó la filosofía occidental: con asombro ante el hech
 | Multiverso | Infinitos universos o ramas cuánticas; explica fine-tuning, no el ser en sí. |
 | Ser necesario | Dios o estructura que no puede no existir (controvertido tras Hume/Kant). |
 | Principio antrópico | Observador requiere condiciones compatibles con vida; versión fuerte/floja. |
+| Selector (Parfit) | Rasgo especial (simplicidad, bondad, plenitud) que «elige» la forma de la realidad. |
+| Mediocridad infinita | Realidad genérica sin rasgo distintivo; tesis de Holt tras Parfit. |
 
 ---
 
@@ -598,11 +605,11 @@ El libro cierra donde empezó la filosofía occidental: con asombro ante el hech
 
 <!-- closing -->
 Holt recorre teísmo, ateísmo, platonismo, multiverso y poesía sin coronar un vencedor.
-La pregunta «¿por qué hay algo?» sobrevive a cada respuesta propuesta.
+La pregunta «¿por qué hay algo?» sobrevive a cada respuesta porque cada una desplaza o multiplica el misterio.
 <!-- highlight -->El misterio de la existencia no es pseudo-problema ni trivia: es el límite donde ciencia, filosofía y experiencia vital convergen.<!-- /highlight -->
-Cada entrevistado ilumina un ángulo; ninguno posee la clave completa.
-Somos criaturas finitas preguntando por el todo —y eso ya es parte de la respuesta.
-El detective existencial cierra el expediente, pero el caso permanece abierto.
+Cada entrevistado ilumina un ángulo del argumento; ninguno posee la clave completa.
+Somos criaturas finitas preguntando por el todo, y el detective existencial cierra el expediente con el caso abierto.
+El asombro ante que haya un mundo es, quizá, la única respuesta que no traiciona la pregunta.
 
 ---
 

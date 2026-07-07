@@ -56,6 +56,11 @@
       "text": "El libro no es un texto de consenso comunitario: es la búsqueda personal del autor sobre la naturaleza última de la realidad, desde la cosmología hasta la mecánica cuántica y la hipótesis de que el universo físico es un objeto matemático."
     },
     {
+      "sectionId": "prefacio",
+      "sectionTitle": "Agradecimientos y propósito",
+      "text": "Tegmark invita a un viaje detective: la realidad externa podría ser puramente matemática, no solo describible con ecuaciones."
+    },
+    {
       "sectionId": "cap1",
       "sectionTitle": "¿Qué es la realidad?",
       "text": "El libro abre con un relato personal: en 1985 , Tegmark casi muere atropellado en bicicleta al no mirar a la derecha. La decisión dependió de si un átomo de calcio entraba o no en una sinapsis — lo que plantea el enigma cuántico de si existen universos paralelos donde murió."
@@ -73,7 +78,7 @@
     {
       "sectionId": "cap1",
       "sectionTitle": "¿Qué es la realidad?",
-      "text": "La lección principal de la física: la realidad última no es como parece , ni en lo muy grande ni en lo muy pequeño."
+      "text": "La física demuestra que la realidad última difiere de la intuición, y las ecuaciones apuntan a que podría ser un objeto matemático ."
     },
     {
       "sectionId": "cap2",
@@ -93,7 +98,7 @@
     {
       "sectionId": "cap2",
       "sectionTitle": "Nuestro lugar en el espacio",
-      "text": "Cada vez que ampliamos el horizonte, descubrimos que lo conocido forma parte de algo aún más grande ."
+      "text": "Cada ampliación del horizonte revela estructuras mayores. El espacio mismo podría ser un objeto matemático (dimensionalidad, curvatura, topología)."
     },
     {
       "sectionId": "cap3",
@@ -113,7 +118,7 @@
     {
       "sectionId": "cap3",
       "sectionTitle": "Nuestro lugar en el tiempo",
-      "text": "Los telescopios son máquinas del tiempo: mirar lejos es mirar al pasado cósmico."
+      "text": "Las leyes de Newton y la cosmología reconstruyen ~ 14 mil millones años de historia. Los telescopios muestran ese pasado como película cósmica ."
     },
     {
       "sectionId": "cap4",
@@ -133,7 +138,7 @@
     {
       "sectionId": "cap4",
       "sectionTitle": "Nuestro universo en cifras",
-      "text": "La cosmología pasó de especulativa a ciencia de precisión gracias al CMB y mapas de galaxias."
+      "text": "La cosmología de precisión revela leyes matemáticas simples hasta el origen. Los átomos son solo ~ 5% del presupuesto cósmico ."
     },
     {
       "sectionId": "cap5",
@@ -153,7 +158,7 @@
     {
       "sectionId": "cap5",
       "sectionTitle": "Nuestros orígenes cósmicos",
-      "text": "La inflación conecta lo más pequeño (cuántica) con lo más grande (galaxias)."
+      "text": "La inflación resuelve horizonte, planitud y origen del Bang conectando fluctuaciones cuánticas microscópicas con estructura galáctica."
     },
     {
       "sectionId": "cap6",
@@ -183,7 +188,7 @@
     {
       "sectionId": "cap6",
       "sectionTitle": "Bienvenidos al multiverso",
-      "text": "La inflación convierte ecuaciones con múltiples soluciones en infinitas regiones que las instancian."
+      "text": "Los multiversos I–II son predicciones de inflación eterna que convierte soluciones matemáticas múltiples en regiones físicas infinitas."
     },
     {
       "sectionId": "cap7",
@@ -203,7 +208,7 @@
     {
       "sectionId": "cap7",
       "sectionTitle": "Legos cósmicos",
-      "text": "Los bloques más profundos parecen ser objetos matemáticos , no bolitas con textura."
+      "text": "Las partículas elementales solo tienen números cuánticos como propiedades intrínsecas y obedecen Schrödinger, no Newton."
     },
     {
       "sectionId": "cap8",
@@ -228,7 +233,7 @@
     {
       "sectionId": "cap8",
       "sectionTitle": "El multiverso de nivel III",
-      "text": "Sin colapso ad hoc, la ecuación de Schrödinger predice ramificaciones paralelas en cada evento cuántico."
+      "text": "La cuántica más simple implica una única función de onda en espacio de Hilbert. El azar cuántico sería ilusión por clonación en ramas paralelas."
     },
     {
       "sectionId": "cap9",
@@ -248,7 +253,7 @@
     {
       "sectionId": "cap9",
       "sectionTitle": "Realidad interna, externa y consensuada",
-      "text": "Una sola realidad externa, pero perspectivas complementarias según el nivel de descripción."
+      "text": "Hay una realidad externa única, pero la descripción matemática de la física difiere de la percepción interna . La física deriva la realidad consensuada."
     },
     {
       "sectionId": "cap10",
@@ -268,7 +273,7 @@
     {
       "sectionId": "cap10",
       "sectionTitle": "Realidad física y realidad matemática",
-      "text": "Vivimos dentro de un objeto matemático gigante — más complejo que un dodecaedro o una variedad de Calabi-Yau."
+      "text": "Si existe realidad externa independiente de humanos, debe ser estructura matemática : la MUH implica que vivimos dentro de un objeto matemático colosal."
     },
     {
       "sectionId": "cap11",
@@ -293,7 +298,7 @@
     {
       "sectionId": "cap11",
       "sectionTitle": "¿Es el tiempo una ilusión?",
-      "text": "Bajo la MUH, el tiempo no fluye en la estructura matemática. Solo parece fluir en tu cabeza."
+      "text": "Bajo la MUH, espacio y tiempo existen en estructuras eternas. El flujo temporal es ilusión generada por el modelo cinematográfico del cerebro."
     },
     {
       "sectionId": "cap12",
@@ -333,7 +338,7 @@
     {
       "sectionId": "cap12",
       "sectionTitle": "El multiverso de nivel IV",
-      "text": "El multiverso IV es el más diverso: cualquier estructura matemática consistente existe físicamente."
+      "text": "La MUH implica que existencia matemática y existencia física son lo mismo. El multiverso IV contiene todas las estructuras matemáticas consistentes."
     },
     {
       "sectionId": "cap13",
@@ -353,7 +358,7 @@
     {
       "sectionId": "cap13",
       "sectionTitle": "Vida, nuestro universo y todo lo demás",
-      "text": "Somos parte consciente de una estructura matemática. Nuestro futuro depende de decisiones que aún podemos tomar ."
+      "text": "Macro y micro convergen en estructuras matemáticas. El futuro de la vida consciente supera lo visto y depende de riesgos existenciales que aún podemos evitar."
     },
     {
       "sectionId": "cierre",

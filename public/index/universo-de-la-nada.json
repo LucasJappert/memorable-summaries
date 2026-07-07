@@ -3,119 +3,364 @@
   "title": "Un universo de la nada",
   "concepts": [
     {
-      "title": "Inflatón",
-      "description": "Campo hipotético cuya energía impulsó la inflación cósmica."
+      "title": "Nada (tres sentidos)",
+      "description": "Espacio vacío, luego ausencia de espacio y tiempo, y por último ausencia de leyes. En los tres niveles la física permite que surja algo."
     },
     {
-      "title": "Energía oscura",
-      "description": "Energía del espacio vacío que acelera la expansión. ~70% del universo."
+      "title": "Energía oscura / constante cosmológica",
+      "description": "Energía del espacio vacío, gravitatoriamente repulsiva. Es ~70 % del universo y acelera la expansión."
     },
     {
       "title": "Materia oscura",
-      "description": "Materia invisible gravitacional. ~25% del universo."
+      "description": "Materia invisible, no hecha de protones ni neutrones, que domina galaxias y cúmulos. Aporta ~30 % de la energía."
     },
     {
-      "title": "Constante cosmológica",
-      "description": "Término de Einstein: densidad de energía constante del vacío."
+      "title": "Partículas virtuales",
+      "description": "Pares que surgen y se aniquilan según el principio de incertidumbre. Dan casi toda la masa del protón y energía al vacío."
     },
     {
-      "title": "Fluctuaciones cuánticas",
-      "description": "Variaciones temporales en la energía del vacío. Semilla de toda estructura."
+      "title": "Inflación",
+      "description": "Expansión exponencial temprana. Explica la planitud y la uniformidad, y estira las fluctuaciones cuánticas hasta convertirlas en galaxias."
+    },
+    {
+      "title": "Universo plano",
+      "description": "Geometría en la que la energía gravitatoria total de cada objeto es cero, lo que hace posible el «almuerzo gratis»."
+    },
+    {
+      "title": "Multiverso",
+      "description": "Conjunto de universos causalmente separados, con leyes posiblemente distintas. Base del razonamiento antrópico."
     },
     {
       "title": "Principio antrópico",
-      "description": "Observamos un universo compatible con nuestra existencia porque si no, no estaríamos aquí."
-    },
-    {
-      "title": "Efecto Casimir",
-      "description": "Atracción entre placas por presión del vacío cuántico."
-    },
-    {
-      "title": "Big Rip",
-      "description": "Escenario donde la energía oscura desgarra hasta los átomos."
+      "description": "Observamos un universo compatible con nuestra existencia porque solo en uno así podríamos existir."
     }
   ],
-  "highlight": "probablemente debió hacerlo",
+  "highlight": "el universo no solo pudo surgir de la nada: probablemente debía hacerlo",
   "entries": [
     {
-      "sectionId": "prefacio",
-      "sectionTitle": "La pregunta fundamental",
-      "text": "Krauss arranca con una confesión franca: no siente ninguna cercanía con la idea de que la creación requiera un creador. Copos de nieve y arcoíris surgen espontáneamente de leyes físicas simples, y nadie sugiere que un dios los fabrique uno por uno. ¿Por qué habría de ser distinto con el universo entero?"
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La nada no es la nada tranquila que imaginábamos: es inestable."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Un universo puede surgir de ella sin espacio, sin tiempo y sin un creador."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La energía total del cosmos puede ser exactamente cero."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Todo lo que existe sería una fluctuación sobre ese cero."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Somos la parte de la nada que, por un instante, aprendió a preguntarse por sí misma."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "el universo no solo pudo surgir de la nada: probablemente debía hacerlo"
     },
     {
       "sectionId": "prefacio",
       "sectionTitle": "La pregunta fundamental",
-      "text": "La pregunta «¿quién creó al creador?» es la trampa clásica de toda Causa Primera. Krauss declara su objetivo desde la primera página: mostrar que la nada es **inherentemente inestable**, y que el universo *pudo* surgir de la nada por procesos puramente físicos, sin necesidad de ningún agente externo."
+      "text": "Krauss confiesa desde el arranque que no le convence la idea de que crear exija un creador. Los copos de nieve y los arcoíris surgen solos a partir de leyes físicas simples , y nadie sostiene que un dios los fabrique uno por uno. Su tesis es que con el universo entero puede ocurrir lo mismo."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "La pregunta fundamental",
+      "text": "La apelación a una Causa Primera no resuelve nada, porque enseguida obliga a preguntar quién creó al creador. Es la vieja imagen de la mujer que sostiene que el mundo descansa sobre una tortuga, y esa sobre otra, «y así hasta el fondo». Trasladar el misterio a un dios eterno no explica más que postular un universo eterno."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "La pregunta fundamental",
+      "text": "Contra quienes redefinen «nada» como un vago «no-ser» para dejarla fuera de la ciencia, Krauss responde que sin ciencia toda definición son solo palabras. La pregunta «¿por qué hay algo en vez de nada?» es, antes que nada, una pregunta sobre el mundo natural, y por eso el lugar para responderla es la ciencia, guiada por la evidencia, la falsación y el experimento."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "La pregunta fundamental",
+      "text": "«El universo es como es, nos guste o no.»"
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "La pregunta fundamental",
+      "text": "La pregunta por el origen del universo dejó de ser teológica: es una cuestión sobre la naturaleza que le corresponde a la ciencia ."
     },
     {
       "sectionId": "cap1",
       "sectionTitle": "Un relato de misterio cósmico: el principio",
-      "text": "En 1916, Einstein completó la relatividad general. Descubrió que sus ecuaciones describen un universo dinámico que se expande o se contrae, pero él, convencido de que el universo es estático, se inventó la **constante cosmológica**: una fuerza repulsiva que contrarresta la gravedad y mantiene todo en su sitio."
+      "text": "En 1916 , Einstein completó la relatividad general, la primera teoría capaz de describir no solo cómo se mueven los objetos, sino cómo evoluciona el propio universo. Había un problema: como la gravedad es solo atractiva, un conjunto de masas en reposo terminaría colapsando, en contra del universo estático que todos daban por supuesto."
     },
     {
       "sectionId": "cap1",
       "sectionTitle": "Un relato de misterio cósmico: el principio",
-      "text": "En 1929, Edwin Hubble descubrió que las galaxias se alejan unas de otras: el universo se expande. Einstein llamó a su constante cosmológica «el mayor error de mi vida». Así nació el Big Bang, pero queda una pregunta incómoda: si el universo se expande hoy, en el pasado estuvo más comprimido hasta un punto inicial."
+      "text": "El sacerdote y físico Georges Lemaître resolvió las ecuaciones y dedujo que el universo se expande, idea que Einstein rechazó de plano. La prueba llegó de la observación. Usando las cefeidas calibradas por Henrietta Leavitt, Edwin Hubble demostró primero que existen otras galaxias y luego, en 1929 , que se alejan tanto más rápido cuanto más lejos están. El universo se expande, así que en el pasado estuvo comprimido: hubo un principio."
     },
     {
       "sectionId": "cap1",
       "sectionTitle": "Un relato de misterio cósmico: el principio",
-      "text": "«En la teoría de Einstein [...] la gravedad es una fuerza de pura atracción. Esto significa que es imposible tener un conjunto de masas en reposo perpetuo: su atracción gravitatoria mutua terminará provocando que colapsen hacia el interior.»"
+      "text": "Que el universo tuviera un comienzo confirmado por datos no lo vuelve una prueba de la creación. El propio Lemaître, que llegó a presidir la Academia Pontificia, negó que su teoría tuviera consecuencias religiosas. La cosmología se volvió medible, y la abundancia de elementos ligeros y las supernovas de tipo Ia usadas como «candelas patrón» fijaron la edad del universo en unos 13,7 mil millones de años."
     },
     {
       "sectionId": "cap1",
       "sectionTitle": "Un relato de misterio cósmico: el principio",
-      "text": "**Clave:** El universo *tuvo* un principio. No es eterno ni estático. La cosmología pasa de ser filosofía a ser ciencia medible."
+      "text": "«Sus cálculos son correctos, pero su física es abominable.»"
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Un relato de misterio cósmico: el principio",
+      "text": "El universo tuvo un principio , no es eterno ni estático, y eso convirtió la cosmología en ciencia medible."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Pesar el universo",
+      "text": "Sabido el principio, la pregunta natural es cómo terminará, y para responderla hay que pesar el universo. Vera Rubin descubrió en los años setenta que las estrellas alejadas del centro galáctico giran demasiado rápido para la masa visible: algo invisible sujeta la galaxia."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Pesar el universo",
+      "text": "Ya en 1933 , Fritz Zwicky había visto que las galaxias del cúmulo de Coma se movían tan deprisa que deberían haberse dispersado, salvo que hubiera mucha más masa de la observable. Esa materia oscura no puede ser protones y neutrones, porque la nucleosíntesis del Big Bang limita cuántos hay. Es un tipo nuevo de partícula, que no brilla ni es materia común."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Pesar el universo",
+      "text": "La gravedad misma sirve para pesarla. Las lentes gravitacionales , que Einstein describió en 1936 sin creerlas útiles, deforman la luz de objetos lejanos y revelan dónde está la masa. Combinadas con los rayos X de los cúmulos, muestran unas diez veces más materia que la visible. Y sin embargo, toda esa materia suma apenas el 30 % de lo necesario para un universo plano."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Pesar el universo",
+      "text": "La mayor parte de la materia es invisible, pero ni siquiera así se llega a la densidad de un universo plano: falta la mayor parte de la energía ."
     },
     {
       "sectionId": "cap3",
       "sectionTitle": "Luz del principio de los tiempos",
-      "text": "Medir la geometría del universo es el desafío. ¿Es plano como una hoja (en 3D), o curvo como un globo? El truco consiste en usar el **fondo cósmico de microondas** (CMB), la luz fósil del Big Bang."
+      "text": "En lugar de sumar masas, se puede medir la geometría del universo directamente. La herramienta es el fondo cósmico de microondas (CMB), la luz que quedó cuando el universo tenía unos 300.000 años y se volvió transparente. El tamaño angular de sus manchas calientes y frías depende de la curvatura del espacio."
     },
     {
       "sectionId": "cap3",
       "sectionTitle": "Luz del principio de los tiempos",
-      "text": "La energía que falta no está en las galaxias, ni en los cúmulos, ni en ninguna forma de materia. Está en el **espacio vacío** mismo."
+      "text": "En un universo plano esas manchas mayores abarcan alrededor de un grado, y en uno curvo se ven mayores o menores. Los experimentos BOOMERANG (1998) y luego el satélite WMAP midieron justo ese tamaño y concluyeron, con una precisión del 1 %, que el universo es plano. La expectativa teórica quedaba confirmada."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Luz del principio de los tiempos",
+      "text": "Aquí aparece una contradicción flagrante. La geometría dice que el universo es plano, lo que exige la densidad de energía crítica. La materia, en cambio, aporta solo un tercio de esa cantidad. Falta el 70 % de la energía, y no está en las galaxias, ni en los cúmulos, ni en ninguna forma de materia."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Luz del principio de los tiempos",
+      "text": "Medido directamente, el universo es plano , pero la materia solo aporta un tercio de la energía que un universo plano requiere."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Mucho ruido y pocas nueces",
+      "text": "La energía que falta podría estar en el sitio más inesperado: el espacio vacío. La constante cosmológica que Einstein inventó para sostener un universo estático, y que llamó su mayor error, reaparece hoy como energía del propio vacío. Si al vaciar una región de todo sigue pesando algo, esa es la energía del espacio vacío."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Mucho ruido y pocas nueces",
+      "text": "Que el vacío no esté vacío se sigue de unir la cuántica con la relatividad. Paul Dirac lo hizo y su ecuación predijo la antimateria, hallada poco después como el positrón. Richard Feynman mostró que, en tiempos muy cortos, pares de partícula y antipartícula surgen y se aniquilan sin cesar. Son las partículas virtuales , y aunque no se ven, sus efectos sí."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Mucho ruido y pocas nueces",
+      "text": "Esos efectos se miden con una precisión sin igual: explican el corrimiento de Lamb en el hidrógeno y casi toda la masa del protón. El problema es el vacío puro. Al sumar todas las partículas virtuales, la energía del vacío sale unos 120 órdenes de magnitud mayor que la observada. Es el peor cálculo de la física, y sigue sin resolverse."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Mucho ruido y pocas nueces",
+      "text": "«Las partículas que aparecen y desaparecen en tiempos demasiado cortos para medirlas se llaman partículas virtuales.»"
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Mucho ruido y pocas nueces",
+      "text": "El espacio vacío no está vacío: la cuántica lo llena de partículas virtuales y le da energía, aunque nadie sepa aún por qué es tan pequeña."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El universo desbocado",
+      "text": "Si el vacío tiene energía, esta produce una repulsión que aceleraría la expansión. En 1995, Krauss y Michael Turner defendieron esa idea «herética»: 30 % de materia y 70 % de energía en el espacio vacío. Casi nadie los tomó en serio."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El universo desbocado",
+      "text": "La prueba llegó de dos equipos rivales. Saul Perlmutter por un lado, y Brian Schmidt con Adam Riess por otro, midieron supernovas de tipo Ia muy lejanas y las encontraron más tenues de lo esperado. La conclusión era inevitable: la expansión del universo se acelera. El ajuste que mejor encaja es, exactamente, un universo plano con 70 % de energía oscura y 30 % de materia."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El universo desbocado",
+      "text": "Krauss, fiel a que «las afirmaciones extraordinarias exigen pruebas extraordinarias», desconfió al principio. La confirmación llegó por otras vías. La edad del universo, el modo en que las galaxias se agrupan y el «tirón cósmico» (el paso de una fase de frenado a una de aceleración) terminaron de asentar la energía oscura . Ese hallazgo resolvió la contradicción del capítulo anterior, porque la energía que faltaba estaba en el vacío."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El universo desbocado",
+      "text": "La expansión se acelera porque una energía oscura alojada en el espacio vacío domina el universo y aporta el 70 % que faltaba."
     },
     {
       "sectionId": "cap6",
       "sectionTitle": "Regalos a cambio de nada",
-      "text": "La **inflación cósmica**, que Alan Guth propuso en 1981, describe cómo una fracción de segundo después del Big Bang el universo experimentó una expansión exponencial, duplicando su tamaño cada 10⁻³⁴ segundos."
+      "text": "¿Cómo llegó el universo a ser tan plano y tan uniforme? La respuesta es la inflación , que Alan Guth propuso en 1981. Una transición de fase en el universo primitivo liberó la energía de un «falso vacío» y disparó una expansión exponencial en una fracción de segundo."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Regalos a cambio de nada",
+      "text": "Esa expansión resuelve dos enigmas a la vez. Estiró cualquier curvatura hasta volver el universo plano, y llevó regiones que ya estaban a la misma temperatura a cubrir todo el cielo, explicando la uniformidad del fondo de microondas. Además, estiró las fluctuaciones cuánticas del vacío hasta escalas enormes, y esas semillas se convirtieron después en galaxias. En sentido literal, surgimos de fluctuaciones en lo que era casi nada."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Regalos a cambio de nada",
+      "text": "Queda la pregunta de dónde salió toda esa energía. Guth la llamó el «almuerzo gratis». Al incluir la gravedad, la energía positiva de la materia se cancela con la energía gravitatoria negativa, de modo que en un universo plano la energía total de cada objeto es exactamente cero . La presión negativa del vacío hace el trabajo y mantiene constante la densidad de energía mientras el espacio crece."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Regalos a cambio de nada",
+      "text": "En un universo plano la energía total de todo objeto es cero , así que la inflación pudo crear todo lo que vemos sin coste alguno."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Nuestro deprimente futuro",
+      "text": "Vivir en un universo dominado por la energía del vacío tiene una cara sombría: es el peor de los universos posibles para el futuro de la vida. La aceleración no se detendrá, y con el tiempo veremos cada vez menos."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Nuestro deprimente futuro",
+      "text": "Dentro de unos 2 billones de años, todas las galaxias fuera de nuestro grupo local se habrán alejado más allá del horizonte, su luz estirada hasta hacerse invisible. Los cosmólogos de ese futuro verán una sola galaxia en un vacío estático, sin fondo de microondas, sin expansión observable y sin la huella de la abundancia de elementos ligeros. Reconstruirán, con datos honestos, la imagen equivocada que teníamos en 1915."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Nuestro deprimente futuro",
+      "text": "Krauss presenta esto como «el futuro tal como podría ser», al modo del fantasma de Dickens: si la energía oscura cambiara, el destino sería otro. La lección inquieta más de lo que consuela. Se puede usar la mejor ciencia posible y aun así llegar a una imagen falsa del universo, porque vivimos en el único instante en que toda la evidencia todavía es visible."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Nuestro deprimente futuro",
+      "text": "«Para quienes les parece asombroso que vivamos en un universo de Algo, esperen: ¡la Nada viene directo hacia nosotros!»"
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Nuestro deprimente futuro",
+      "text": "La aceleración borrará toda huella del Big Bang, así que vivimos en el único instante en que el origen del universo es verificable."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "¿Un accidente magnífico?",
+      "text": "Que vivamos justo en ese instante especial es sospechoso. La energía del vacío solo es comparable a la de la materia «ahora», lo que choca con el principio copernicano de que nuestro lugar no tiene nada de excepcional."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "¿Un accidente magnífico?",
+      "text": "Steven Weinberg ofreció una salida. Si la energía del vacío fuera cincuenta veces mayor, la repulsión habría impedido que se formaran galaxias, y por tanto estrellas, planetas y astrónomos. Quizá medimos un valor tan pequeño porque solo en un universo así podríamos existir. Ese razonamiento antrópico solo tiene sentido si hay muchos universos."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "¿Un accidente magnífico?",
+      "text": "Y la física actual apunta en esa dirección. La inflación eterna de Andrei Linde y Alex Vilenkin genera regiones que dejan de inflarse como burbujas separadas, y el «paisaje» de la teoría de cuerdas admite del orden de 10⁵⁰⁰ universos posibles, cada uno con leyes distintas. El multiverso no es una excusa, sino una consecuencia casi inevitable de las mejores teorías, aunque todavía no permita predicciones firmes."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "¿Un accidente magnífico?",
+      "text": "Las constantes de la naturaleza podrían ser accidentes ambientales seleccionados en un multiverso, no verdades fundamentales."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "La nada es algo",
+      "text": "Krauss vuelve a la pregunta central mejor armado. Desde Newton sabemos que el universo es explicable por leyes, y en ciencia un «por qué» suele ser en realidad un «cómo». La cuestión útil es cómo puede surgir algo de la nada."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "La nada es algo",
+      "text": "En su primer sentido, la nada es el espacio vacío. Y ya vimos cómo genera algo: dotado de energía, el vacío infla y convierte esa energía en toda la materia y la radiación que observamos, dejando las fluctuaciones cuánticas como semillas de la estructura. Que el universo sea plano, con energía gravitatoria total cero, es justo lo que se espera si nació así."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "La nada es algo",
+      "text": "Krauss subraya que esto era un postulado falsable: nada obligaba a que el universo fuera plano, y sin embargo lo es. Aun así, esta «nada» todavía supone que el espacio y las leyes existen. No es la nada última, sino el primer peldaño de una escalera que sigue bajando."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "La nada es algo",
+      "text": "En su primer sentido, la nada es el espacio vacío , y la inflación muestra cómo de él surge todo lo que vemos."
     },
     {
       "sectionId": "cap10",
       "sectionTitle": "La nada es inestable",
-      "text": "Este es el corazón del libro. La idea central es que **la nada no es estable**: las fluctuaciones cuánticas pueden crear algo a partir de nada."
+      "text": "El siguiente peldaño es más radical: hacer que el propio espacio surja de la nada. Las reglas cuánticas ya insinúan el camino, porque la nada siempre produce algo, aunque sea por un instante. Mientras nadie mide, el sistema visita todos los estados posibles."
     },
     {
-      "sectionId": "cierre",
-      "sectionTitle": "Cierre",
-      "text": "La nada es inestable."
+      "sectionId": "cap10",
+      "sectionTitle": "La nada es inestable",
+      "text": "Hay casos en que ese algo se vuelve real y duradero. Stephen Hawking mostró en 1974 que los agujeros negros radían, porque un par surgido junto al horizonte se separa y una partícula escapa. Y la asimetría materia-antimateria , de apenas 1 parte en mil millones, dejó tras la aniquilación primordial toda la materia que hoy nos forma. Frank Wilczek resumió la idea que da título al capítulo."
     },
     {
-      "sectionId": "cierre",
-      "sectionTitle": "Cierre",
-      "text": "El universo no solo pudo surgir de la nada."
+      "sectionId": "cap10",
+      "sectionTitle": "La nada es inestable",
+      "text": "Con la gravedad cuántica, mediante la suma de caminos de Feynman, no solo pueden aparecer partículas: puede aparecer el espacio-tiempo mismo. Un universo cerrado tiene energía total exactamente cero , así que puede nacer «con impunidad» y, si infla, sobrevivir en lugar de colapsar de inmediato. No prueba que el nuestro surgiera así, pero elimina la objeción de que hacía falta un espacio previo."
     },
     {
-      "sectionId": "cierre",
-      "sectionTitle": "Cierre",
-      "text": "La energía total del cosmos podría ser exactamente cero."
+      "sectionId": "cap10",
+      "sectionTitle": "La nada es inestable",
+      "text": "«La respuesta a la vieja pregunta “¿por qué hay algo en vez de nada?” sería que la nada es inestable.»"
     },
     {
-      "sectionId": "cierre",
-      "sectionTitle": "Cierre",
-      "text": "Todo lo que existe es una fluctuación cuántica."
+      "sectionId": "cap10",
+      "sectionTitle": "La nada es inestable",
+      "text": "Incluso la ausencia de espacio y tiempo es inestable : la gravedad cuántica permite que universos enteros surjan sin coste de energía."
     },
     {
-      "sectionId": "cierre",
-      "sectionTitle": "Cierre",
-      "text": "Somos parte de la nada que, por un momento, aprendió a preguntarse por sí misma."
+      "sectionId": "cap11",
+      "sectionTitle": "Mundos felices",
+      "text": "Queda un último refugio para el creador: aunque surja algo de la nada, ¿de dónde salen las reglas, es decir, las leyes de la física? Krauss lo aborda con una analogía sobre la moral que aprendió de Steven Pinker."
     },
     {
-      "sectionId": "cierre",
-      "sectionTitle": "Cierre",
-      "text": "probablemente debió hacerlo"
+      "sectionId": "cap11",
+      "sectionTitle": "Mundos felices",
+      "text": "Si se dice que sin Dios no hay bien ni mal, cabe preguntar si Dios podría decretar que asesinar es bueno. Casi nadie lo aceptaría, porque suponemos que Dios tendría una razón. Y si esa razón hace falta, entonces basta con ella y sobra el intermediario. Lo mismo pasa con las leyes del universo. Poner a Dios a fijarlas solo traslada la pregunta: ¿quién fija las reglas de Dios? La necesidad lógica de una Causa Primera no lleva, además, al Dios personal de las religiones."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Mundos felices",
+      "text": "La respuesta física es el multiverso . Si las leyes mismas pueden variar de un universo a otro, no hace falta ningún legislador: bajo el principio de que todo lo que no está prohibido ocurre, alguna región tendrá las leyes que descubrimos. La máxima «de la nada, nada surge» no tiene fundamento científico. Y el futuro probable vuelve a la nada, cuando los protones decaigan y el cosmos se vacíe."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Mundos felices",
+      "text": "«¿Por qué hay algo en vez de nada? La respuesta será, simplemente: no lo habrá por mucho tiempo.»"
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Mundos felices",
+      "text": "Ni siquiera las leyes necesitan un legislador: en un multiverso son posibles sin más, y un creador resulta innecesario."
+    },
+    {
+      "sectionId": "epilogo",
+      "sectionTitle": "Epílogo y postfacio",
+      "text": "En el epílogo, Krauss retoma la pregunta que Einstein consideraba la más profunda: si Dios tuvo alguna elección al crear el universo. Sea el universo único, sea parte de un multiverso, un ser omnipotente no tendría libertad para hacerlo de otro modo. Por eso resulta, a lo sumo, redundante."
+    },
+    {
+      "sectionId": "epilogo",
+      "sectionTitle": "Epílogo y postfacio",
+      "text": "La ciencia, insiste, no vuelve imposible creer en Dios, pero sí hace posible no creer. Sin ciencia todo es un milagro, y con ciencia queda la posibilidad de que nada lo sea. La elección es de cada uno, siempre que sea una elección informada por los hechos y no por la revelación."
+    },
+    {
+      "sectionId": "epilogo",
+      "sectionTitle": "Epílogo y postfacio",
+      "text": "En el postfacio, Richard Dawkins equipara el libro con «El origen de las especies». Si Darwin expulsó al diseñador de la biología, la cosmología de Krauss lo hace del origen del universo. La física predice el mundo con una exactitud asombrosa, comparable a medir la distancia entre Nueva York y Los Ángeles con el error del grosor de un cabello, mientras que la teología no ofrece ni una sola cifra decimal."
+    },
+    {
+      "sectionId": "epilogo",
+      "sectionTitle": "Epílogo y postfacio",
+      "text": "«Nada expande tanto la mente como el universo en expansión.»"
+    },
+    {
+      "sectionId": "epilogo",
+      "sectionTitle": "Epílogo y postfacio",
+      "text": "La ciencia no prohíbe creer en Dios, pero lo vuelve innecesario : seguimos la evidencia, no la revelación."
     }
   ]
 }

@@ -43,6 +43,9 @@ Las primeras seis lecciones recorren la relatividad general, la mecánica cuánt
 <!-- paragraph -->
 Son expansiones de artículos publicados en el suplemento dominical del diario italiano <em>Il Sole 24 Ore</em>. Rovelli agradece a <span class="person">Armando Massarenti</span> por abrir las páginas culturales del domingo a la ciencia.
 
+<!-- key -->
+La ciencia moderna ofrece un mapa rápido de lo más fascinante de la física reciente y, al mismo tiempo, abre preguntas más vastas que las que cierra.
+
 ---
 
 # cap1
@@ -93,7 +96,7 @@ La mecánica cuántica no describe qué es un sistema, sino cómo afecta a otro,
 ## title: Arquitectura del cosmos
 
 <!-- paragraph lead -->
-Antes de medir, la ciencia es visión. Anaximandro (<span class="num">~VI a.C.</span>) reemplazó «cielo arriba, tierra abajo» por una Tierra flotando en el espacio. Aristóteles y Ptolomeo imaginaron esferas celestes. Copérnico puso el Sol en el centro, y Galileo mostró que el movimiento es relativo.
+Rovelli sostiene que, antes de experimentos, medidas y deducciones rigurosas, la ciencia es sobre todo <span class="term">visión</span>. Cada revolución empieza por ver el mundo de otro modo. Anaximandro (<span class="num">~VI a.C.</span>) reemplazó «cielo arriba, tierra abajo» por una Tierra flotando en el espacio. Aristóteles y Ptolomeo imaginaron esferas celestes. Copérnico puso el Sol en el centro, y Galileo mostró que el movimiento es relativo.
 
 <!-- paragraph -->
 El Sol es una estrella entre cien mil millones en la Galaxia, y la Galaxia es un punto entre cientos de miles de millones de galaxias visibles con el telescopio Hubble. La mayoría de esas estrellas tienen planetas: miles de billones de mundos posibles.
@@ -172,10 +175,10 @@ Solo cuando hay intercambio de calor distinguimos pasado de futuro. Nuestro relo
 ¿Qué somos en un cosmos de quanta y campos? Observadores que construyen una «fotografía» de la realidad, nodos en una red de intercambio de información, parte integral del mundo y no espectadores externos.
 
 <!-- paragraph -->
-Schelling creía que el hombre era la cumbre de la naturaleza, pero hoy sabemos que somos un rincón remoto, parientes de mariposas y álamos. Kant pensaba categorías universales, pero evolucionan con nuestra especie. La ciencia no es ficción campamental: sigue rastros como nuestros antepasados en la sabana.
+Schelling creía que el hombre era la cumbre de la naturaleza, pero hoy sabemos que somos un rincón remoto, parientes de mariposas y álamos. Kant pensaba categorías universales, pero evolucionan con nuestra especie. La ciencia no es ficción campamental: sigue rastros como nuestros antepasados en la sabana, dispuesta a corregir el rumbo si aparece una pista mejor.
 
 <!-- paragraph -->
-La libertad no viola las leyes naturales: actuar según procesos neuronales internos. Para Spinoza, el «yo» es el complejo neuronal mismo. La consciencia sigue abierta (Tononi y la teoría de información integrada). Valores, lágrimas y música son reales precisamente por ser naturaleza.
+La libertad no viola las leyes naturales: actuar según procesos neuronales internos. Para Spinoza, el «yo» es el complejo neuronal mismo. La consciencia sigue abierta (<span class="person">Giulio Tononi</span> y la teoría de información integrada). Valores, lágrimas y música son reales precisamente por ser naturaleza. Somos una especie curiosa, quizá breve, pero en casa: como escribe Lucrecio, nacemos de la misma semilla celestial.
 
 <!-- quote -->
 > «No estamos hechos de algo distinto a la naturaleza; somos naturaleza, en una de sus infinitas variaciones.»

@@ -14,6 +14,11 @@ export const origins: BookSummary = {
   },
   toc: [
   {
+    "id": "cierre",
+    "num": "★",
+    "label": "La idea central"
+  },
+  {
     "id": "prefacio",
     "num": "00",
     "label": "Introducción"
@@ -112,6 +117,11 @@ export const origins: BookSummary = {
     "id": "cronologia",
     "num": "◈",
     "label": "Cronología"
+  },
+  {
+    "id": "figuras",
+    "num": "✦",
+    "label": "Figuras clave"
   }
 ],
   sections: [

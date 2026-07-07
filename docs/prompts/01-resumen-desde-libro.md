@@ -1,20 +1,29 @@
 # Prompt 01 — Resumen intermedio desde el libro
 
 Usá este prompt con el libro fuente (epub, pdf o texto pegado).  
+**Entrada recomendada:** `summaries/<slug>.skeleton.md` (generado con `01a-esqueleto-argumental.md`) **+** `.extracted/<slug>.txt`.
 **Salida esperada:** un único archivo `summaries/<slug>.md` siguiendo la plantilla.
 
 ---
 
 ## Instrucciones para la IA
 
-Sos un editor especializado en resúmenes para **memorización activa**. Tu tarea es leer el libro proporcionado y producir un archivo Markdown estructurado.
+Sos un editor que **captura el argumento del autor y lo hace memorable**. No alcanza con listar datos,
+fechas y tarjetas: cada capítulo tiene que transmitir *qué sostiene el autor y por qué*, y recién
+sobre esa columna vertebral se cuelgan las anclas mnemotécnicas. Un resumen fiel pero memorable, en
+ese orden de prioridad.
+
+> **Usá el esqueleto.** Si existe `summaries/<slug>.skeleton.md`, es tu guion: cada `idea principal`
+> del esqueleto debe quedar reflejada en la sección correspondiente, y el `por qué / evidencia` debe
+> aparecer en la prosa (no solo el dato). Si no existe, generalo primero con `01a-esqueleto-argumental.md`.
 
 ### Reglas estrictas
 
 1. **Seguí exactamente** el esquema de `docs/templates/resumen-libro.template.md`
 2. **No inventes** citas, fechas ni cifras. Si no aparecen en el libro, omití el bloque o marcá `(no consta en el texto)`
-3. **Un capítulo del libro = una sección `# capN`** con el mismo orden que el índice original
-4. **Máximo 3–4 párrafos** por sección; priorizá ideas sobre detalle anecdótico
+3. **Un capítulo del libro = una sección `# capN`** con el mismo orden que el índice original. **Cubrí todos** los capítulos del índice real; no fusiones ni saltees.
+4. **2–4 párrafos** por sección. El límite es para forzar síntesis, **no** para podar el argumento: si un capítulo es argumentativo, usá los 4 párrafos y priorizá la cadena *tesis → por qué → matiz* por encima del detalle anecdótico. **Nunca reduzcas un capítulo a una lista de datos sin su tesis.**
+4a. **Cada `# capN` debe contener su idea principal**, explícita en la prosa y condensada en un bloque `<!-- key -->` (obligatorio en capítulos; ver abajo). La idea principal es una **afirmación** del autor, no un tema ni un dato suelto.
 4b. **Claridad en la prosa:** cada oración con sujeto y verbo; una idea fuerte por oración (~15–25 palabras). Evitá estilo telegráfico (`Autor: dato`, fragmentos sin sujeto, más de un `—` o `;` por párrafo). Los nombres propios van en prosa, no como etiqueta.
 5. **Incluí siempre** (si el libro lo permite): conceptos clave, cronología, figuras, cierre
 6. **Frontmatter YAML** al inicio con title, title_es (si aplica), subtitle, author, meta, slug, lang: es
@@ -38,7 +47,7 @@ Sos un editor especializado en resúmenes para **memorización activa**. Tu tare
 | `<!-- paragraph -->` | Texto narrativo. Usar **marcadores semánticos** (ver abajo). |
 | `<!-- paragraph lead -->` | Primer párrafo de la sección (opcional; más aire visual). |
 | `<!-- quote -->` | Citas textuales o casi textuales del autor. Formato `> texto` + `— Autor` |
-| `<!-- key -->` | Una frase al final de secciones densas (sin escribir «Clave:»; la UI lo agrega). |
+| `<!-- key -->` | **La idea principal del capítulo** en una frase: una afirmación del autor, no un dato (sin escribir «Clave:»; la UI lo agrega). **Obligatorio en cada `# capN`.** No debe repetir textualmente el último párrafo: lo condensa. |
 | `<!-- concept-grid -->` | Tabla icon\|title\|description — comparaciones, triadas, definiciones |
 | `<!-- big-numbers -->` | Tabla value\|label — porcentajes, magnitudes, órdenes de grandeza |
 | `<!-- timeline -->` | Tabla year\|text — futuro del universo, historia de descubrimientos |
@@ -76,13 +85,24 @@ Brechas históricas: <span class="num">meses a años</span> (bomba atómica, Spu
 Es probable que forme un <span class="key-term">singleton</span> — agencia global única.
 ```
 
+### Criterios de fidelidad (primero el argumento)
+
+- **Cada capítulo transmite su tesis, no solo sus datos.** Antes de cerrar una sección, preguntate:
+  «si alguien lee solo esto, ¿entiende *qué* sostiene el autor y *por qué*?». Si la respuesta es no,
+  falta el argumento.
+- **Las anclas sirven al argumento, no lo reemplazan.** `big-numbers`, `timeline` y `concept-grid`
+  refuerzan la idea; no deben ser la única sustancia de un capítulo argumentativo.
+- **El `# cierre` refleja la tesis real del libro** (la del esqueleto), en una frase: «¿de qué te
+  quiere convencer el autor?» (2 líneas + highlight + 3 líneas).
+- **Cobertura:** todos los capítulos del índice real presentes; ninguna `idea principal` del esqueleto
+  se queda afuera.
+
 ### Criterios de memorización
 
 - Cada **concept-grid** debe tener 2–4 ítems (nunca 1 solo)
 - Repetí conceptos importantes en `# conceptos` aunque ya aparezcan en capítulos
 - Preferí **cifras redondas** y **fechas** como anclas
-- El **cierre** debe responder: «¿Cuál es la tesis del autor en una frase?» (2 líneas + highlight + 3 líneas)
-- Tras generar el `.md`, revisá repeticiones entre párrafos, bloques `key` y `# cierre` (o ejecutá `docs/prompts/01c-correccion-minima.md`)
+- Tras generar el `.md`, corré `01b-revision-fidelidad.md` (fidelidad/cobertura) y después `01c-correccion-minima.md` (prosa)
 - Usá emojis solo en iconos de concept-grid (opcional, máx. 1 por tarjeta)
 - Preferí **marcadores semánticos** (`term`, `person`, `key-term`, `num`) sobre negrita indiscriminada
 
@@ -93,7 +113,8 @@ Es probable que forme un <span class="key-term">singleton</span> — agencia glo
 
 1. Extraer texto:
    python3 scripts/extract-epub.py "<libro>"
-2. Leer .extracted/<slug>.txt y generar summaries/<slug>.md
+2. Generar el esqueleto argumental (01a) → summaries/<slug>.skeleton.md
+3. Leer el esqueleto + .extracted/<slug>.txt y generar summaries/<slug>.md
 
 Slug deseado: <slug>
 ```

@@ -217,7 +217,7 @@ def main() -> int:
 
     paths: list[Path] = []
     if args.all:
-        paths = sorted(SUMMARIES.glob("*.md"))
+        paths = sorted(p for p in SUMMARIES.glob("*.md") if not p.name.endswith(".skeleton.md"))
     elif args.slug:
         p = SUMMARIES / f"{args.slug}.md"
         if not p.exists():

@@ -14,6 +14,7 @@ lang: es
 
 | id | num | label |
 |----|-----|-------|
+| cierre | ★ | La idea central |
 | prefacio | 00 | Prefacio |
 | cap1 | 01 | Iconografía de una expectativa |
 | cap2 | 02 | Antecedentes del Burgess Shale |
@@ -22,6 +23,7 @@ lang: es
 | cap5 | 05 | Mundos posibles: el poder del «puro historial» |
 | conceptos | ✦ | Conceptos clave |
 | cronologia | ◈ | Cronología |
+| figuras | ✦ | Figuras clave |
 
 ---
 
@@ -65,6 +67,9 @@ El experimento mental crucial es <span class="term">rebobinar la cinta de la vid
 | 🔺 | Cono de diversidad | Modelo tradicional: pocos diseños al inicio, proliferación hacia el presente. |
 | 🎬 | Rebobinar la cinta | Experimento mental: repetir la historia desde el Burgess. |
 
+<!-- key -->
+La <span class="key-term">iconografía del progreso</span> encubre una visión falsa: el Burgess muestra disparidad máxima y decimación, no una escalera hacia el hombre.
+
 ---
 
 # cap2
@@ -87,6 +92,9 @@ Gould distingue fauna anterior (Ediacara) y posteriores ventanas a cuerpos bland
 | ~570 Ma | Explosión cámbrica: irrupción de filos animales. |
 | ~530 Ma | Depósito del Burgess Shale. |
 | 1909 | Walcott descubre el yacimiento. |
+
+<!-- key -->
+Sin la preservación excepcional del Burgess, la <span class="key-term">explosión cámbrica</span> quedaría casi invisible en el registro fósil.
 
 ---
 
@@ -132,6 +140,9 @@ El capítulo vincula el caso Burgess con la <span class="term">naturaleza de la 
 <!-- quote -->
 > «Rebobina la cinta de la vida hasta los primeros días del Burgess Shale; déjala reproducir desde un punto de partida idéntico, y la probabilidad de que algo parecido a la inteligencia humana aparezca en la repetición es vanishingly small.»
 — Stephen Jay Gould
+
+<!-- key -->
+Walcott forzó cada fósil en grupos modernos no por torpeza, sino porque creía en <span class="key-term">progreso predecible</span>, no en contingencia histórica.
 
 ---
 

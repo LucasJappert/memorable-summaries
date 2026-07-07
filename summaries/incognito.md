@@ -35,10 +35,10 @@ lang: es
 ## title: El yo no está al volante
 
 <!-- paragraph lead -->
-El epígrafe del libro cita a <span class="person">Blaise Pascal</span>, quien sostiene que el hombre es incapaz de ver «la nada de la que emerge» y «el infinito en que se pierde». <span class="person">David Eagleman</span> propone una caída paralela a la de Galileo: no solo fuimos expulsados del centro del universo, sino del centro de nosotros mismos.
+El epígrafe cita a <span class="person">Blaise Pascal</span>, quien sostiene que el hombre es incapaz de ver «la nada de la que emerge» y «el infinito en que se pierde». <span class="person">David Eagleman</span> propone una caída paralela a la de Galileo: no solo fuimos expulsados del centro del universo, sino del centro de nosotros mismos.
 
 <!-- paragraph -->
-Antes del capítulo 1, el autor enumera enigmas que el libro resolverá: ¿cómo puedes enfadarte contigo mismo?, ¿por qué las rocas «suben» tras mirar una cascada?, ¿por qué <span class="person">William Douglas</span> decía que podía jugar al fútbol estando paralizado?, ¿por qué <span class="person">Thomas Edison</span> electrocutó a Topsy?, ¿por qué las stripers ganan más en ciertos días del mes?, ¿qué comparten <span class="person">Ulises</span> y la crisis de las hipotecas subprime?
+Antes del capítulo 1, el autor enumera enigmas que el libro resolverá: ¿cómo puedes enfadarte contigo mismo?, ¿por qué las rocas «suben» tras mirar una cascada?, ¿por qué <span class="person">William O. Douglas</span> decía que podía jugar al fútbol estando paralizado?, ¿por qué <span class="person">Thomas Edison</span> electrocutó a Topsy?, ¿por qué las strippers ganan más en ciertos días del mes?, ¿qué comparten <span class="person">Ulises</span> y la crisis de las hipotecas subprime?
 
 <!-- quote -->
 > «El hombre es igualmente incapaz de ver la nada de la que emerge y el infinito en que se pierde.»
@@ -58,10 +58,13 @@ La neurociencia moderna confirma la intuición de Pascal: la mayor parte de lo q
 El cerebro pesa unos <span class="num">1,4 kg</span> y contiene cientos de miles de millones de neuronas. Cada una es tan compleja como una ciudad. Una célula típica hace unas <span class="num">10 000</span> conexiones, y en un solo centímetro cúbico hay tantas sinapsis como estrellas en la Vía Láctea.
 
 <!-- paragraph -->
-En <span class="num">1949</span>, <span class="person">Arthur Alberts</span> grabó música en África occidental, y un nativo acusó al magnetófono de «robarle la lengua». Igual que la voz es física aunque parezca etérea, los pensamientos dependen de sustancia cerebral. El sueño profundo los elimina, el alcohol o el café los modulan, y una lesión del tamaño de un ded meñique puede cambiar la música, el color o el riesgo que percibes.
+En <span class="num">1949</span>, <span class="person">Arthur Alberts</span> grabó música en África occidental, y un nativo acusó al magnetófono de «robarle la lengua». Igual que la voz es física aunque parezca etérea, los pensamientos dependen de sustancia cerebral. El sueño profundo los elimina, el alcohol o el café los modulan, y una lesión del tamaño de un meñique puede cambiar la música, el color o el riesgo que percibes.
 
 <!-- paragraph -->
 Un experimento reciente mostró que hombres califican fotos de mujeres. Las pupilas dilatadas (señal de excitación sexual) las eligen como más atractivas, pero ninguno puede explicar por qué. Algo en el cerebro «sabía» lo que la conciencia ignoraba. La conciencia es como un periódico ligero (<em>USA Today</em>): resume lo ya decidido en coaliciones neuronales, y llegas tarde a la información.
+
+<!-- paragraph -->
+<span class="person">Galileo</span> observó en <span class="num">1610</span> las lunas de Júpiter y destrozó el geocentrismo. Eagleman argumenta que la neurociencia repite ese gesto con el yo: no estamos al volante. Desde <span class="person">Tomás de Aquino</span> hasta <span class="person">Leibniz</span>, <span class="person">Herbart</span>, <span class="person">James McKeen Cattell</span> y <span class="person">Sigmund Freud</span>, la idea del inconsciente fue madurando hasta el iceberg freudiano.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -98,16 +101,16 @@ Mover el brazo no revela la tormenta neural subyacente. <span class="person">Cha
 | ~0,5 s | Retraso de la conciencia respecto al acto |
 
 <!-- paragraph -->
-Ilusiones como la <span class="term">ceguera al cambio</span> muestran que cambios enormes (caja, jeep) pasan desapercibidos si no prestas atención. En un experimento, el experimentador se sustituye por otro tras una puerta y la mayoría sigue dando indicaciones. La periferia tiene resolución pésima, y el cerebro construye un boceto <span class="term">2½-D</span>, no un modelo 3-D completo. <span class="person">Alfred Yarbus</span> (<span class="num">1967</span>) demostró que, según la pregunta sobre un cuadro de Repin, los ojos muestrean distintas zonas (caras, ropa, edades).
+Ilusiones como la <span class="term">ceguera al cambio</span> muestran que cambios enormes pasan desapercibidos si no prestas atención. En un experimento, el experimentador se sustituye por otro tras una puerta y la mayoría sigue dando indicaciones. El cerebro construye un boceto <span class="term">2½-D</span>, no un modelo 3-D completo. <span class="person">Alfred Yarbus</span> (<span class="num">1967</span>) demostró que, según la pregunta sobre un cuadro de Repin, los ojos muestrean distintas zonas.
 
 <!-- paragraph -->
-El punto ciego ocupa el diámetro de <span class="num">17 lunas</span>, y el cerebro «rellena» el fondo. <span class="person">Helmholtz</span> llamó <span class="term">inferencia inconsciente</span> a las suposiciones sobre la luz desde arriba. Después de una cascada, las rocas parecen subir (<span class="term">efecto post-movimiento</span>): el movimiento se percibe sin cambio de posición. <span class="person">Mike McBeath</span> demostró que los jardineros de béisbol no calculan posición ni velocidad, sino que mantienen la trayectoria en línea recta desde su punto de vista.
+El punto ciego ocupa el diámetro de <span class="num">17 lunas</span>, y el cerebro «rellena» el fondo. <span class="person">Hermann von Helmholtz</span> llamó <span class="term">inferencia inconsciente</span> a las suposiciones sobre la luz desde arriba. Después de una cascada, las rocas parecen subir (<span class="term">efecto post-movimiento</span>): el movimiento se percibe sin cambio de posición. <span class="person">Mike McBeath</span> demostró que los jardineros de béisbol no calculan posición ni velocidad, sino que mantienen la trayectoria en línea recta desde su punto de vista.
 
 <!-- paragraph -->
 <span class="person">Paul Bach-y-Rita</span> conectó una cámara a vibradores en la espalda, y los ciegos acabaron «viendo». <span class="person">Eric Weihenmayer</span> escala con <span class="term">BrainPort</span> (electrodos en la lengua). El cerebro en la oscuridad del cráneo no importa de dónde vengan los impulsos si correlacionan con el movimiento. El sistema nervioso central genera actividad interna <em>modulada</em> por los sentidos, no construida desde cero, como mostró <span class="person">Thomas Graham Brown</span> con un gato en cinta sin nervios sensoriales.
 
 <!-- key -->
-La lección principal del capítulo es no confiar en los sentidos: la percepción es construcción activa, no registro fiel del mundo.
+La percepción es construcción activa del cerebro, no un registro fiel del mundo exterior.
 
 ---
 
@@ -183,7 +186,7 @@ La evolución talló un <span class="key-term">Umwelt</span> estrecho de pensami
 <span class="person">Marvin Minsky</span> describió la mente como una sociedad de subagentes especializados sin mente propia. La democracia neuronal compite por un único canal de comportamiento: tarta de chocolate frente a dieta. Los sistemas <span class="term">racional</span> (mundo externo) y <span class="term">emocional</span> (estado interno) chocan. En el dilema del tranvía, cambiar agujas (abstracto) difiere de empujar al hombre (activa emoción), según <span class="person">Joshua Greene</span>.
 
 <!-- paragraph -->
-<span class="person">Kahneman</span> y <span class="person">Tversky</span> mostraron que la gente prefiere $100 ahora frente a $110 en una semana, pero $100 en 52 semanas frente a $110 en 53. El <span class="term">descuento temporal</span> tiene forma de dos procesos (<span class="person">Sam McClure</span>). Las hipotecas subprime explotaron el «lo quiero ya». Los <span class="term">contratos de Ulises</span> atan al mástil: clubes navideños, IRS como «alcancía», depósitos para adelgazar.
+<span class="person">Daniel Kahneman</span> y <span class="person">Amos Tversky</span> mostraron que la gente prefiere $100 ahora frente a $110 en una semana, pero $100 en 52 semanas frente a $110 en 53. El <span class="term">descuento temporal</span> tiene forma de dos procesos (<span class="person">Sam McClure</span>). Las hipotecas subprime explotaron el «lo quiero ya». Los <span class="term">contratos de Ulises</span> atan al mástil: clubes navideños, IRS como «alcancía», depósitos para adelgazar.
 
 <!-- paragraph -->
 En el cerebro dividido (<span class="person">Roger Sperry</span>, Nobel), los hemisferios pueden aprender por separado. La mano derecha elige «manzana», la izquierda «lápiz». Gazzaniga/LeDoux mostraron que, ante gallina y pala de nieve, el hemisferio izquierdo inventa: «Necesitas pala para limpiar el gallinero». La <span class="term">anosognosia</span> ilustra a <span class="person">William O. Douglas</span>, quien negaba su parálisis. El cerebro fabrica narrativas coherentes (test de Stroop, lápiz entre dientes).

@@ -34,23 +34,23 @@ lang: es
 # prefacio
 
 ## num: Prefacio
-## title: Dover, Kitzmiller y la evidencia
+## title: Dover, encuestas y por qué importa la evidencia
 
 <!-- paragraph lead -->
-El <span class="num">20 de diciembre de 2005</span>, el juez <span class="person">John Jones III</span> falló en *Kitzmiller v. Dover*: el «diseño inteligente» en las escuelas de Pensilvania era inconstitucional — teología disfrazada de ciencia, no ciencia. Coyne lo vivió como victoria temporal: el creacionismo es como un payaso inflable que siempre vuelve a levantarse.
+El <span class="num">20 de diciembre de 2005</span>, el juez <span class="person">John Jones III</span> falló en *Kitzmiller v. Dover*: el «diseño inteligente» en las escuelas de Pensilvania era inconstitucional — teología disfrazada de ciencia. Coyne lo vivió como victoria temporal: el creacionismo es como un payaso inflable que siempre vuelve a levantarse.
 
 <!-- paragraph -->
-El mantra de los opositores, «la teoría de la evolución está en crisis», es falso. La evolución no es solo una «teoría»: es un <span class="term">hecho</span> respaldado por un siglo y medio de evidencia que confirma la propuesta darwiniana, especialmente la selección natural. Este libro resume las líneas principales de prueba para quienes dudan o necesitan argumentos.
+El mantra de los opositores, «la teoría de la evolución está en crisis», es falso. La evolución no es solo una «teoría». Es un <span class="term">hecho</span> respaldado por un siglo y medio de evidencia que confirma la propuesta darwiniana, especialmente la selección natural. Este libro resume las líneas principales de prueba para quienes dudan o necesitan argumentos.
 
 <!-- paragraph -->
-En la introducción, Coyne recuerda a <span class="person">Darwin</span>. Según él, la evolución muestra nuestro lugar en el árbol de la vida y reemplaza mitos milenarios. La selección natural es un mecanismo de belleza asombrosa y simplicidad. Los biólogos confían en el darwinismo tanto como en la existencia de átomos, pero fuera de la ciencia persisten resistencias psicológicas y religiosas.
+En la introducción, Coyne recuerda a <span class="person">Darwin</span>. Según él, la evolución muestra nuestro lugar en el árbol de la vida y reemplaza mitos milenarios. La selección natural es un mecanismo de belleza asombrosa y simplicidad. Los biólogos confían en el darwinismo tanto como en la existencia de átomos, pero fuera de la ciencia persisten resistencias psicológicas y religiosas: solo el <span class="num">40 %</span> de estadounidenses acepta que los humanos descendemos de otros animales, frente a más del <span class="num">80 %</span> en Francia o Escandinavia.
 
 <!-- quote -->
 > «Hay grandeza en esta visión de la vida... de tan simple un principio han continuado y continúan evolucionando formas infinitas, las más hermosas y maravillosas.»
 — Charles Darwin, *El origen de las especies*
 
 <!-- key -->
-Coyne escribe para quienes aceptan la evolución pero no saben cómo defenderla — y para mostrar que el darwinismo es <span class="key-term">hecho científico</span>, no especulación en crisis.
+Coyne escribe para quienes aceptan la evolución pero no saben cómo defenderla, y para mostrar que el darwinismo es <span class="key-term">hecho científico</span>, no especulación en crisis.
 
 ---
 
@@ -60,13 +60,13 @@ Coyne escribe para quienes aceptan la evolución pero no saben cómo defenderla 
 ## title: ¿Qué es la evolución?
 
 <!-- paragraph lead -->
-La naturaleza parece diseñada: camaleones, colibríes, orquídeas que engañan a polinizadores. <span class="person">William Paley</span> (<span class="num">1802</span>) argumentó que, como un reloj implica relojero, la complejidad biológica implica un Diseñador. Darwin fue quien ofreció la alternativa: <span class="term">evolución</span> y <span class="term">selección natural</span>.
+La naturaleza parece diseñada. Camaleones, colibríes y orquídeas que engañan a polinizadores sugieren un relojero celestial. <span class="person">William Paley</span> (<span class="num">1802</span>) argumentó que, como un reloj implica relojero, la complejidad biológica implica un Diseñador. Darwin ofreció la alternativa de <span class="term">evolución</span> y <span class="term">selección natural</span>.
 
 <!-- paragraph -->
-La evolución moderna se resume en seis componentes: cambio genético en el tiempo, <span class="term">gradualismo</span> (cambios grandes requieren miles o millones de generaciones), <span class="term">especiación</span> (linajes que dejan de intercambiar genes), <span class="term">ascendencia común</span> (todos compartimos ancestros), selección natural como mecanismo principal, y otros mecanismos menores como la deriva génica.
+La evolución moderna se resume en seis componentes: cambio genético en el tiempo, <span class="term">gradualismo</span> (cambios grandes requieren miles o millones de generaciones), <span class="term">especiación</span> (linajes que dejan de intercambiar genes), <span class="term">ascendencia común</span> (todos compartimos ancestros), selección natural como mecanismo principal, y otros mecanismos menores como la deriva génica. Los árboles filogenéticos muestran jerarquías anidadas que Linneo reconoció antes de Darwin, quien explicó por qué existen: divergencia por descendencia con modificación.
 
 <!-- paragraph -->
-Los árboles filogenéticos muestran relaciones anidadas: los vertebrados comparten columna, los reptiles y mamíferos comparten huevo amniótico, y los mamíferos tienen pelo y leche. Esta jerarquía natural predató a Darwin, quien explicó por qué existe: la divergencia por descendencia con modificación.
+La selección natural no es un diseñador consciente. Es un chapucero que remodela lo existente y produce el más apto, no el óptimo. El rinoceronte indio tiene un solo cuerno porque la mutación de dos quizá no surgió. La evolución puede ocurrir sin selección natural, pero solo la selección produce adaptación. En ciencia, «teoría» no significa conjetura. La evolución es marco verificable, teoría y hecho a la vez, como la gravedad.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -76,7 +76,7 @@ Los árboles filogenéticos muestran relaciones anidadas: los vertebrados compar
 | 🧬 | ADN | Secuencias genéticas confirman independientemente los árboles basados en anatomía. |
 
 <!-- key -->
-«Darwinismo» no es dogma: es el conjunto de hechos y mecanismos — evolución, gradualismo, especiación, ancestro común y selección natural.
+El darwinismo moderno agrupa evolución, gradualismo, especiación, ancestro común y selección natural. No es dogma, sino el conjunto de hechos y mecanismos que explican la diversidad de la vida.
 
 ---
 
@@ -86,23 +86,23 @@ Los árboles filogenéticos muestran relaciones anidadas: los vertebrados compar
 ## title: Escrito en las rocas
 
 <!-- paragraph lead -->
-La historia de la vida está escrita en fósiles — un museo desgarrado pero legible. Paleontólogos como <span class="person">Paul Sereno</span> arriesgan el Sahara para descubrir especies como *Afrovenator* y *Jobaria* que reescriben la evolución de dinosaurios.
+La historia de la vida está escrita en fósiles, un museo desgarrado pero legible. Paleontólogos como <span class="person">Paul Sereno</span> arriesgan el Sahara para descubrir especies que reescriben la evolución de los dinosaurios. Si no hubiera fósiles, inferiríamos relaciones solo por anatomía y ADN.
 
 <!-- paragraph -->
-Formarse fósiles requiere enterramiento rápido en sedimentos, y los tejidos blandos casi nunca fossilizan. De entre <span class="num">17 millones</span> y <span class="num">4 mil millones</span> de especies estimadas, conocemos ~<span class="num">250.000</span> fósiles, una muestra pequeña pero suficiente. Geólogos creacionistas ordenaron capas por <span class="term">superposición</span> (<span class="person">Nicolaus Steno</span>, s. XVII) antes del darwinismo.
+Formarse fósiles requiere enterramiento rápido, y los tejidos blandos casi nunca fossilizan. De entre <span class="num">17 millones</span> y <span class="num">4 mil millones</span> de especies estimadas, conocemos unas <span class="num">250.000</span> fósiles, una muestra pequeña pero suficiente. Geólogos creacionistas ordenaron capas por <span class="term">superposición</span> (<span class="person">Nicolaus Steno</span>) antes del darwinismo. Desde <span class="num">1945</span>, la datación radiométrica fija edades absolutas. La Tierra tiene unos <span class="num">4.600 millones</span> de años.
 
 <!-- paragraph -->
-Desde ~<span class="num">1945</span>, la datación radiométrica mide edades absolutas. La secuencia confirma predicciones evolutivas: especies más primitivas en capas más antiguas, transiciones como dinosaurios emplumados entre reptiles y aves, y fósiles que combinan rasgos de grupos hoy separados.
+El registro confirma predicciones evolutivas. Las formas simples preceden a las complejas. El cambio es gradual en foraminíferos y trilobites, y la especiación aparece en plancton marino. Las «formas de transición» no son el ancestro exacto, sino especies con mezcla de rasgos en la edad correcta. <span class="person">Tiktaalik</span> (~<span class="num">375 Ma</span>) fue predicho y hallado en el Ártico canadiense. <span class="term">Archaeopteryx</span> y los dinosaurios emplumados de China enlazan reptiles y aves. Las ballenas derivan de <span class="term">Indohyus</span> y <span class="term">Pakicetus</span> en unos <span class="num">10 millones</span> de años. Como dijo <span class="person">J. B. S. Haldane</span>, un conejo fósil en el Precámbrico refutaría la evolución, y nunca apareció.
 
 <!-- big-numbers -->
 | value | label |
 |-------|-------|
 | ~250.000 | Especies fósiles descritas |
 | 0,1–1 % | Especies que dejaron registro fósil |
-| ~3,5 mil millones de años | Primeras formas de vida en registro |
+| ~3.500 Ma | Primeras formas de vida en el registro |
 
 <!-- key -->
-Los fósiles no son prueba circunstancial: son predicciones cumplidas del árbol evolutivo, datadas con precisión radiométrica.
+Los fósiles cumplen predicciones evolutivas en orden temporal y anatomía. Remodelar lo viejo en lo nuevo es la firma de la evolución, no del diseño desde cero.
 
 ---
 
@@ -112,21 +112,21 @@ Los fósiles no son prueba circunstancial: son predicciones cumplidas del árbol
 ## title: Vestigios: remanentes, embriones y mal diseño
 
 <!-- paragraph lead -->
-Los organismos son <span class="term">palimpsestos</span> evolutivos, como manuscritos medievales reescritos donde trazas del texto original persisten. <span class="person">Theodosius Dobzhansky</span> lo resumió con la frase: «Nada en biología tiene sentido excepto a la luz de la evolución.»
+Los organismos son <span class="term">palimpsestos</span> evolutivos, como manuscritos medievales reescritos donde trazas del texto original persisten. <span class="person">Theodosius Dobzhansky</span> afirmó que «nada en biología tiene sentido excepto a la luz de la evolución».
 
 <!-- paragraph -->
-Los <span class="term">órganos vestigiales</span> son rasgos que perdieron la función para la cual evolucionaron: alas de avestruz (útiles pero reveladoras de ancestros voladores), apéndice, pelos erector pili. Un rasgo puede ser vestigial y funcional a la vez — lo vestigial indica la función ancestral, no ausencia de uso actual.
+Los <span class="term">órganos vestigiales</span> perdieron la función para la cual evolucionaron, aunque puedan tener usos secundarios. Ejemplos: alas del avestruz, apéndice humano y pelvis de ballenas. Los <span class="term">atavismos</span> reactivan genes silenciados, como patas en ballenas o colas en humanos. Los <span class="term">pseudogenes</span> son genes muertos. ψGLO explica por qué los primates no sintetizan vitamina C. Los delfines tienen <span class="num">80 %</span> de genes olfativos inactivos.
 
 <!-- paragraph -->
-Los <span class="term">atavismos</span> reactivan genes antiguos silenciados. El desarrollo embrionario muestra fases compartidas entre especies emparentadas. El «mal diseño» (nervio laríngeo recurrente, espalda dolorosa humana) encaja con historia evolutiva, no con diseño óptimo de novo.
+El desarrollo embrionario recapitula etapas evolutivas de forma limitada. Aparecen arcos branquiales, una circulación que pasa por fases de pez y un anillo lanoso fetal. El «mal diseño» incluye el nervio laríngeo recurrente que rodea la aorta, el descenso testicular que causa hernias y el parto humano doloroso. Todo encaja con historia evolutiva, no con diseño óptimo de novo.
 
 <!-- list -->
-- **Palimpsesto** — Capas de historia evolutiva legibles en anatomía, ADN y desarrollo.
-- **Vestigio** — Rasgo heredado cuya función original ya no aplica, aunque pueda tener usos secundarios.
-- **Atavismo** — Expresión ocasional de rasgo ancestral (ej. cetáceos con patas).
+- **Palimpsesto** — Capas de historia legibles en anatomía, ADN y desarrollo.
+- **Vestigio** — Rasgo heredado cuya función original ya no aplica.
+- **Pseudogen** — Gen inactivado por mutaciones; cementerio del genoma.
 
 <!-- key -->
-Los vestigios refutan el diseño inteligente optimizado: muestran <span class="key-term">historia</span>, no creación instantánea perfeccionada.
+Vestigios, embriones y mal diseño son <span class="key-term">firmas de historia</span> que la creación especial no explica sin forzar coincidencias imposibles.
 
 ---
 
@@ -136,16 +136,23 @@ Los vestigios refutan el diseño inteligente optimizado: muestran <span class="k
 ## title: La geografía de la vida
 
 <!-- paragraph lead -->
-La <span class="term">biogeografía</span>, el estudio de dónde viven las especies, fue crucial para Darwin en las islas Galápagos y en todo su viaje en el *Beagle*. Especies similares habitan regiones próximas, y las islas oceánicas tienen fauna endémica emparentada con continentes vecinos.
+La <span class="term">biogeografía</span>, el estudio de dónde viven las especies, fue crucial para Darwin en el *Beagle* y ocupa dos capítulos del *Origen*. Los creacionistas no han refutado seriamente esta evidencia. Simplemente la ignoran.
 
 <!-- paragraph -->
-Los patrones de distribución encajan con dispersión limitada y especiación en aislamiento: marsupiales en Australia, cactáceas en América, lemures en Madagascar. No hay explicación creacionista coherente para por qué un Diseñador pondría especies relacionadas exactamente donde la geología permite dispersión histórica.
+Desiertos similares en continentes distintos albergan suculentas no emparentadas. En América hay cactus y en el Viejo Mundo euforbias, un caso de <span class="term">convergencia</span> por selección similar, no de diseño repetido. Australia tiene marsupiales que imitan roedores, topos y comadrejas placentales porque el ancestro marsupial colonizó Gondwana. Fósiles de marsupiales en la Antártida (<span class="num">35–40 Ma</span>) cumplieron la predicción evolutiva.
 
 <!-- paragraph -->
-Fósiles de la misma edad en continentes separados muestran formas emparentadas, lo que prueba conexiones terrestres pasadas (Pangea, puentes de tierra) o dispersión oceánica. La geología y la biología convergen en una narrativa temporal única.
+Las islas oceánicas carecen de mamíferos, anfibios y peces de agua dulce nativos, pero abundan en aves, insectos y plantas que pueden dispersarse. Sus especies se parecen a las del continente más cercano (Galápagos/Sudamérica, Hawai/Indo-Pacífico). Radiaciones adaptativas como pinzones de Darwin y honeycreepers hawaianos llenan nichos vacíos. <span class="term">Glossopteris</span> y huellas glaciares del Pérmico solo tienen sentido con Gondwana unida. Darwin predijo ancestros humanos en África, y <span class="person">Raymond Dart</span> los encontró en <span class="num">1924</span>.
+
+<!-- concept-grid -->
+| icon | title | description |
+|------|-------|-------------|
+| 🏝️ | Islas oceánicas | Fauna desequilibrada: faltan malos dispersores, abundan radiaciones de buenos colonizadores. |
+| 🌎 | Deriva continental | Continentes unidos explican similitudes entre África y Sudamérica, Asia y Norteamérica. |
+| 🔄 | Convergencia | Ambientes parecidos moldean linajes no emparentados en formas similares. |
 
 <!-- key -->
-La geografía de la vida es un mapa de <span class="key-term">historia evolutiva</span>: dónde se separaron linajes y cómo dispersaron.
+La geografía de la vida es un mapa de <span class="key-term">dispersión, especiación y deriva continental</span>. No puede explicarse con creaciones independientes en cada lugar.
 
 ---
 
@@ -155,23 +162,16 @@ La geografía de la vida es un mapa de <span class="key-term">historia evolutiva
 ## title: El motor de la evolución
 
 <!-- paragraph lead -->
-La <span class="term">selección natural</span> explica adaptaciones asombrosas. El avispón gigante asiático masacra colmenas europeas, pero las abejas nativas de Japón forman una bola caliente a <span class="num">117 °F</span> y «cocinan» al explorador en <span class="num">20 minutos</span>.
+La <span class="term">selección natural</span> esculpe adaptaciones que parecen diseñadas. El avispón gigante asiático masacra colmenas de abejas europeas introducidas. Las abejas nativas de Japón, en cambio, forman una bola caliente a <span class="num">117 °F</span> y «cocinan» al explorador en <span class="num">20 minutos</span>.
 
 <!-- paragraph -->
-Las abejas europeas, sin historia con el depredador, carecen de defensa, exactamente lo que predice la evolución. Coyne documenta parasitismo manipulador (gusanos que convierten hormigas en «bayas» para pájaros), mimetismo (insectos hoja, orquídeas que imitan insectos) y adaptaciones de depredación especializadas.
+Las abejas europeas carecen de defensa porque no coevolucionaron con el depredador, exactamente lo que predice la evolución. Coyne documenta adaptaciones integradas. Un gusano parásito convierte hormigas en «bayas» rojas para que las coman los pájaros. Las orquídeas imitan insectos para polinizarse. La lengua del pájaro carpintero rodea el cráneo del ave. La selección actúa sobre variación heredable. No es consciente ni orientada al bien del individuo.
 
 <!-- paragraph -->
-La selección natural no es fuerza consciente: es resultado de variación heredable, superproducción y diferencias en supervivencia/reproducción. Las adaptaciones «malvadas» del parasitismo y las «ingeniosas» del mutualismo son productos del mismo motor.
-
-<!-- concept-grid -->
-| icon | title | description |
-|------|-------|-------------|
-| 🐝 | Selección local | Defensas evolucionan solo donde el depredador impone presión suficiente. |
-| 🦠 | Parasitismo | Genes del parásito manipulan fenotipo del huésped para propagarse. |
-| 🌸 | Coevolución | Orquídeas y polinizadores escalan adaptaciones en carrera evolutiva. |
+Los experimentos confirman el mecanismo. Lentejas evolucionan resistencia a herbicidas y Drosophila se adapta al frío o al calor. La complejidad irreducible alegada por el diseño inteligente se desmonta caso por caso. La naturaleza es «roja en diente y garra», pero la crueldad del parasitismo también es producto evolutivo.
 
 <!-- key -->
-La selección natural es el <span class="key-term">motor</span> que esculpe la complejidad aparentemente diseñada de la naturaleza.
+La selección natural es el <span class="key-term">motor</span> que, sin prever el resultado, acumula pequeñas ventajas hasta producir la ilusión de diseño.
 
 ---
 
@@ -181,16 +181,16 @@ La selección natural es el <span class="key-term">motor</span> que esculpe la c
 ## title: Cómo el sexo impulsa la evolución
 
 <!-- paragraph lead -->
-La reproducción sexual parece costosa, porque solo la mitad de los genes pasan y hay que encontrar pareja, pero domina la vida multicelular. ¿Por qué? Porque mezcla genes y permite respuesta rápida a parásitos y cambio ambiental.
+La cola del pavo parece refutar la evolución: pesada, llamativa, costosa. A <span class="person">Darwin</span> le «enfermaba» contemplarla. La clave es que la moneda de la selección no es la supervivencia, sino la <span class="term">reproducción exitosa</span>.
 
 <!-- paragraph -->
-Coyne explica hipótesis clásicas: la <span class="term">lotería de Weismann</span> (variabilidad), la <span class="term">hipótesis del Rey Rojo</span> (carrera armamentística con parásitos que evolucionan rápido) y la recombinación que rompe combinaciones de genes deleterios.
+La <span class="term">selección sexual</span> opera de dos maneras. Hay competencia directa entre machos, como en cornamentas del alce irlandés o harenes de elefantes marinos. También hay <span class="term">elección de pareja</span> por hembras, como en la cola del pavo, los cantos o los bowers de las aves constructoras. Los experimentos lo confirman. Recortar ojos en colas de pavos reduce copulas. Alargar colas de viudas africanas duplica el éxito reproductivo. Pintar epauletas de arrendajos elimina territorios en el <span class="num">70 %</span> de machos.
 
 <!-- paragraph -->
-El sexo genera variación sobre la cual actúa la selección. Las especies asexuales, privadas de reproducción sexual, acumulan mutaciones deleterias (declive de Muller) y quedan vulnerables a enfermedades. La paradoja del sexo sigue activa, pero la evidencia favorece ventajas evolutivas claras.
+La asimetría de gametos explica por qué machos compiten y hembras eligen. Hay muchos espermatozoides baratos y pocos óvulos costosos. El sexo tiene «costo doble» frente a la partenogénesis, pero domina porque mezcla genes. Hipótesis como la del <span class="term">Rey Rojo</span> siguen debatiéndose. En especies con «sexo invertido» (caballitos de mar, falaropos), es la hembra la ornamentada, como predice la teoría. La correlación entre dimorfismo sexual y poliginia refuta al creacionismo mejor que cualquier argumento retórico.
 
 <!-- key -->
-El sexo es motor evolutivo porque genera <span class="key-term">variación genética</span> — materia prima de la selección natural.
+La selección sexual explica ornamentos aparentemente antiadaptativos: evolucionan porque <span class="key-term">dejar más descendencia</span> compensa el costo de sobrevivir.
 
 ---
 
@@ -200,16 +200,16 @@ El sexo es motor evolutivo porque genera <span class="key-term">variación gené
 ## title: El origen de las especies
 
 <!-- paragraph lead -->
-Darwin tituló su libro *El origen de las especies*, pero sin genética no explicó del todo las barreras reproductivas. La comprensión moderna, área de investigación de Coyne, llegó en la década de <span class="num">1930</span>.
+Darwin tituló su libro *El origen de las especies*, pero sin genética no explicó bien las barreras reproductivas. La comprensión moderna, área de investigación de Coyne, maduró en la década de <span class="num">1930</span> con <span class="person">Ernst Mayr</span> y <span class="person">Theodosius Dobzhansky</span>.
 
 <!-- paragraph -->
-La <span class="term">especiación</span> ocurre cuando poblaciones acumulan diferencias genéticas hasta perder capacidad de intercambiar genes: aislamiento geográfico, selección divergente, incompatibilidad cromosómica. No es un evento dramático visible. Dos poblaciones de reptiles que dejan de cruzarse parecen idénticas al inicio.
+El <span class="term">concepto biológico de especie</span> (BSC) define especie como grupo de poblaciones que se cruzan entre sí y están reproductivamente aisladas de otros grupos. Las barreras pueden ser ecológicas, temporales, conductuales o genéticas, como en las mulas estériles. Mayr encontró que nativos de Nueva Guinea nombraban <span class="num">136</span> tipos de aves y los ornitólogos <span class="num">137</span>. Las discontinuidades de la naturaleza son reales.
 
 <!-- paragraph -->
-Los modos principales son la especiación <span class="term">alopátrica</span> (poblaciones separadas geográficamente) y la <span class="term">simpátrica</span> (misma área, a menudo por cambio de host o poliploidía en plantas). Más del 99 % de las especies se extingue sin descendientes, y la diversidad actual es fruto de ramificaciones exitosas.
+La <span class="term">especiación alopátrica</span> domina el registro. Poblaciones separadas geográficamente divergen hasta perder compatibilidad, como gambas a ambos lados del istmo de Panamá o mimulos con polinizadores distintos. La especiación es accidente evolutivo, no meta de llenar nichos. A veces se observa en tiempo real, como la poliploidía en <span class="term">Senecio cambrensis</span>, descubierta en Gales en <span class="num">1958</span>. En Drosophila, el aislamiento reproductivo completo tarda unos <span class="num">2,7 millones</span> de años. La diversidad actual solo requiere una bifurcación cada <span class="num">200 millones</span> de años.
 
 <!-- key -->
-La <span class="key-term">especiación</span> consiste en la evolución de barreras reproductivas, lo que explica por qué hay millones de especies en vez de una sola.
+Las especies son <span class="key-term">comunidades génicas aisladas</span>. La especiación es la evolución de barreras reproductivas, no un salto misterioso.
 
 ---
 
@@ -219,16 +219,16 @@ La <span class="key-term">especiación</span> consiste en la evolución de barre
 ## title: ¿Qué hay de nosotros?
 
 <!-- paragraph lead -->
-Los humanos no estamos fuera de la evolución. Compartimos ~<span class="num">98–99 %</span> del ADN con chimpancés, y los fósiles documentan la transición de *Australopithecus* a *Homo*, con aumento cerebral, bipedestación y uso de herramientas.
+Somos primates evolucionados en África. Compartimos ~<span class="num">98,5 %</span> de secuencia proteica con chimpancés, pero más del <span class="num">80 %</span> de nuestras proteínas difieren en al menos un aminoácido. Además, más de <span class="num">1.400</span> genes humanos no existen en chimps.
 
 <!-- paragraph -->
-Coyne aborda racionalismo frente a creacionismo humano: no hay «salto» inexplicable en complejidad. Rasgos humanos (lenguaje, moralidad, cultura) tienen precursores animales y bases cerebrales evolutivas. La evolución no dicta ética, y quien saca «somos solo monos» como excusa para inmoralidad comete falacia naturalista.
+Los fósiles confirman la predicción darwiniana. <span class="term">Australopithecus afarensis</span> («Lucy», <span class="num">3,2 Ma</span>) caminaba erguida con cerebro de chimpancé. Existen huellas de Laetoli, <span class="term">Homo habilis</span> con herramientas y <span class="term">Homo erectus</span> fuera de África con control del fuego. El registro es un arbusto, no una escalera, y varias especies de homínidos coexistieron. Los creacionistas no clasifican los mismos fósiles como «humano» o «simio» de forma consistente, lo que señala intermedios reales.
 
 <!-- paragraph -->
-La genética poblacional muestra que la raza humana es un continuo genético, no categorías discretas. Somos una especie joven (~<span class="num">200.000</span>–<span class="num">300.000</span> años) con poca diversidad genética comparada con otros primates, resultado de cuello de botella y expansión reciente.
+La «raza» humana muestra poca divergencia genética. Solo el <span class="num">10–15 %</span> de la variación total ocurre entre grupos continentales, y somos una especie joven. La tolerancia a la lactosa evolucionó hace <span class="num">3.000–8.000</span> años en pastores, un ejemplo de coevolución gen-cultura observable. La evolución no dicta moral. Quien invoca Darwin para justificar crímenes comete falacia naturalista. Seguimos llevando el «sello indeleble» de un origen humilde en cuerpo y genoma.
 
 <!-- key -->
-Somos <span class="key-term">primates evolucionados</span> — producto del mismo proceso documentado en el resto de la vida.
+Los humanos somos <span class="key-term">homininos africanos</span> con la misma evidencia fósil, genética y vestigial que el resto de la vida.
 
 ---
 
@@ -238,20 +238,20 @@ Somos <span class="key-term">primates evolucionados</span> — producto del mism
 ## title: Evolución revisitada
 
 <!-- paragraph lead -->
-Coyne cierra reafirmando que la evolución es tan cierta como cualquier hecho científico. No depende de fe, sino de evidencia convergente de fósiles, biogeografía, genética, anatomía comparada y experimentos de laboratorio (por ejemplo, evolución de bacterias resistentes en tiempo real).
+Tras exponer la evidencia, Coyne enfrenta la objeción recurrente: «La encontré convincente, pero no la creo.» El problema no es falta de pruebas. Electrones y agujeros negros son menos intuitivos. La resistencia viene de implicaciones emocionales y religiosas.
 
 <!-- paragraph -->
-Los «agujeros» alegados por creacionistas (origen de la vida, detalles de algunas transiciones) no invalidan el núcleo darwiniano. La ciencia progresa llenando vacíos, y el diseño inteligente no predice ni explica nada testeable.
+La evolución es hecho tan sólido como cualquier verdad científica. No hay fósiles fuera de orden ni diseños que beneficien solo a otra especie. Hay genes muertos y vestigios por doquier. Las controversias internas sobre selección sexual, deriva o detalles homínidos discuten mecanismos, no si evolucionó la vida. La psicología evolutiva exige cautela. Muchas historias «just-so» son especulación, aunque otras conductas como lenguaje o parentalidad tienen apoyo.
 
 <!-- paragraph -->
-Aceptar la evolución no elimina sentido ni moral — libera de mitos falsos sobre nuestros orígenes y conecta con el resto del mundo vivo. Darwin tenía razón en la grandiosidad de esta visión de la vida.
+Aceptar evolución no elimina propósito ni moral. Europa acepta Darwin y sigue siendo civilizada. Los genes no son destino. La diabetes juvenil es genética pero tratable con insulina. La evolución dice de dónde venimos, no adónde podemos ir. Somos el único animal que comprende las leyes que nos formaron.
 
 <!-- quote -->
-> «En resumen, el [descargo de Dover] distingue la evolución como teoría bien establecida de una hipótesis alternativa no testeable basada en religión.»
-— John Jones III (citado por Coyne)
+> «No hay razón para vernos como marionetas de la evolución... la evolución nos dice de dónde venimos, no adónde podemos ir.»
+— Jerry A. Coyne (parafraseando el cierre del capítulo)
 
 <!-- key -->
-La evolución no está en crisis: es el <span class="key-term">marco unificador</span> de la biología, respaldado por evidencia abrumadora y creciente.
+La evolución no está en crisis. Es el <span class="key-term">marco unificador</span> de la biología, y la resistencia es emocional y religiosa, no científica.
 
 ---
 
@@ -264,14 +264,14 @@ La evolución no está en crisis: es el <span class="key-term">marco unificador<
 | title | description |
 |-------|-------------|
 | Evolución | Cambio genético en poblaciones a través del tiempo; descendencia con modificación. |
-| Selección natural | Diferencial de supervivencia/reproducción por variación heredable; esculpe adaptaciones. |
+| Selección natural | Diferencial de supervivencia y reproducción por variación heredable; esculpe adaptaciones. |
+| Selección sexual | Subconjunto: competencia o elección de pareja que favorece rasgos reproductivos. |
 | Especiación | Formación de nuevas especies por barreras al flujo génico entre poblaciones. |
 | Ascendencia común | Todos los organismos comparten ancestros; árboles filogenéticos lo documentan. |
 | Gradualismo | Cambios evolutivos grandes acumulan muchas generaciones de cambio pequeño. |
 | Órgano vestigial | Rasgo heredado con función ancestral distinta de la actual. |
 | Biogeografía | Distribución geográfica de especies como registro de historia evolutiva. |
-| Deriva génica | Cambio aleatorio de frecuencias génicas, especialmente en poblaciones pequeñas. |
-| Rey Rojo | Hipótesis: el sexo ayuda a mantener ventaja en carrera evolutiva contra parásitos. |
+| Convergencia | Linajes independientes evolucionan rasgos similares por presiones ambientales parecidas. |
 | Palimpsesto evolutivo | Capas de historia legibles en ADN, anatomía y desarrollo embrionario. |
 
 ---
@@ -288,11 +288,12 @@ La evolución no está en crisis: es el <span class="key-term">marco unificador<
 | 1802 | Paley argumenta diseño inteligente con la analogía del reloj. |
 | 1859 | Darwin publica *El origen de las especies*. |
 | 1860s | Aceptación general de evolución; escepticismo sobre selección natural. |
-| 1900s | Redescubrimiento de Mendel; síntesis genética de evolución. |
-| 1930s–40s | Síntesis moderna: Fisher, Haldane, Wright, Dobzhansky. |
-| 1953 | Watson y Crick describen la estructura del ADN. |
-| 1965 | Penzias/Wilson (contexto cosmológico); avances en datación molecular. |
-| 2005 | Juicio Kitzmiller v. Dover: ID declarado no científico. |
+| 1924 | Dart describe *Australopithecus* en Sudáfrica. |
+| 1925 | Juicio Scopes (Tennessee). |
+| 1942 | Mayr formula el concepto biológico de especie. |
+| 1974 | Johanson descubre «Lucy». |
+| 2004 | Shubin halla *Tiktaalik* en el Ártico. |
+| 2005 | Kitzmiller v. Dover: diseño inteligente declarado no científico. |
 | 2009 | Coyne publica *Why Evolution Is True*. |
 
 ---
@@ -305,14 +306,16 @@ La evolución no está en crisis: es el <span class="key-term">marco unificador<
 <!-- figures -->
 | name | role |
 |------|------|
-| Charles Darwin | *El origen de las especies* · Selección natural |
+| Charles Darwin | *El origen de las especies* · Selección natural · Predicción de ancestros humanos en África |
+| Jerry A. Coyne | Genética de especiación · Autor del libro |
 | Theodosius Dobzhansky | «Nada en biología tiene sentido excepto a la luz de la evolución» |
 | William Paley | Argumento del diseño (reloj/relojero) — refutado por Darwin |
-| Carl Linnaeus | Clasificación sistemática de especies |
-| Nicolaus Steno | Principio de superposición estratigráfica |
+| Ernst Mayr | Concepto biológico de especie (1942) |
 | John Jones III | Fallo Kitzmiller v. Dover (2005) |
+| Raymond Dart | *Australopithecus africanus* (1924) |
+| Donald Johanson | Descubridor de «Lucy» (1974) |
+| Neil Shubin | *Tiktaalik roseae* — transición pez-anfibio |
 | Paul Sereno | Paleontología de dinosaurios africanos |
-| Jerry A. Coyne | Genética de especiación · Autor del libro |
 
 ---
 
@@ -326,7 +329,7 @@ Fósiles, genes, geografía y desarrollo convergen en la misma historia.
 <!-- highlight -->La evolución es verdad tan cierta como la gravedad<!-- /highlight -->
 La selección natural explica la complejidad sin diseñador.
 Entenderla no empobrece la vida humana: revela nuestro parentesco con todo lo vivo.
-La resistencia viene de la religión, no de lagunas en la evidencia.
+La resistencia viene de la religión y el miedo, no de lagunas en la evidencia.
 
 ---
 

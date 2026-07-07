@@ -12,8 +12,10 @@ lang: es
 
 # Contenido
 
+<!-- toc: id | num | label -->
 | id | num | label |
 |----|-----|-------|
+| cierre | ★ | La idea central |
 | prefacio | 00 | Prefacio |
 | cap1 | 01 | Explicar lo muy improbable |
 | cap2 | 02 | Buen diseño |
@@ -28,6 +30,21 @@ lang: es
 | cap11 | 11 | Rivales condenados |
 | conceptos | ✦ | Conceptos clave |
 | cronologia | ◈ | Cronología |
+| figuras | ✦ | Figuras clave |
+
+---
+
+# cierre
+
+## title: La idea central
+
+<!-- closing -->
+La complejidad de la vida parece exigir un diseñador consciente.
+Paley tenía razón en la pregunta, pero se equivocó en la respuesta.
+La selección natural es el relojero ciego: sin mente, sin plan, sin visión.
+<!-- highlight -->Acumula pequeños cambios aleatorios filtrados por supervivencia y reproducción<!-- /highlight -->
+Ninguna otra teoría conocida explica, en principio, la complejidad adaptativa.
+El misterio de nuestra existencia está resuelto, aunque sigamos añadiendo notas a pie de página.
 
 ---
 
@@ -45,8 +62,11 @@ Un cerebro humano contiene unos diez millones de kiloneuronas. Cada célula del 
 <!-- paragraph -->
 El libro no pretende ser un tratado científico frío. Su propósito es informar, persuadir e inspirar: el darwinismo no solo es cierto, sino la única teoría conocida que, en principio, puede resolver el misterio de nuestra existencia. Dawkins distingue su defensa de la de un abogado que defiende causas en las que no cree: nunca dice lo que no considera verdadero.
 
+<!-- paragraph -->
+El darwinismo parece necesitar más defensa que otras verdades científicas. La mente humana está predispuesta a malinterpretarlo por el azar, las escalas temporales evolutivas y la analogía con el diseño consciente. Como observó <span class="person">Jacques Monod</span>, todo el mundo cree que lo entiende, aunque casi nadie pensó en la idea hasta <span class="person">Darwin</span> y <span class="person">Wallace</span> en el siglo XIX.
+
 <!-- key -->
-El darwinismo parece necesitar más defensa que otras verdades científicas establecidas. La mente humana está predispuesta a malinterpretarlo por el azar, las escalas temporales y la analogía con el diseño consciente.
+El darwinismo es la única teoría que puede resolver el misterio de la complejidad biológica, pero la mente humana está predispuesta a malinterpretarlo.
 
 ---
 
@@ -115,7 +135,7 @@ Los seres vivos son demasiado improbables para surgir de un solo golpe de azar. 
 Las olas ordenan guijarros en franjas sin intención: es un <span class="term">cribado de un solo paso</span>. La organización viva exige, además, un candado combinacional con millones de diales, como ensamblar la hemoglobina mezclando aminoácidos al azar. El número hemoglobina (~<span class="num">10<sup>190</sup></span>) muestra que el cribado simple no basta.
 
 <!-- paragraph -->
-En la <span class="term">selección acumulativa</span>, las entidades se «reproducen» con variación. Cada generación parte del resultado anterior. El experimento del mono que escribe «METHINKS IT IS LIKE A WEASEL»: en un solo paso tardaría ~<span class="num">10<sup>40</sup></span> intentos. Con selección acumulativa que retiene las frases más parecidas al objetivo, la frase emerge en minutos. Los <span class="term">biomorfos</span> del ordenador muestran lo mismo con formas en árbol.
+En la <span class="term">selección acumulativa</span>, las entidades se «reproducen» con variación. Cada generación parte del resultado anterior. El experimento del mono que escribe «METHINKS IT IS LIKE A WEASEL»: en un solo paso tardaría ~<span class="num">10<sup>40</sup></span> intentos. Con selección acumulativa que retiene las frases más parecidas al objetivo, la frase emerge en minutos. Los <span class="term">biomorfos</span> del ordenador muestran lo mismo con formas en árbol, y el programador no puede predecir qué criaturas emergerán.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -125,7 +145,7 @@ En la <span class="term">selección acumulativa</span>, las entidades se «repro
 | 🐒 | Mono de Weasel | Metáfora que contrasta azar puro con evolución dirigida por selección. |
 
 <!-- key -->
-La evolución no es azar puro: es <span class="key-term">selección acumulativa</span> — mutaciones aleatorias filtradas paso a paso durante millones de generaciones.
+La evolución no es azar puro: es <span class="key-term">selección acumulativa</span>, mutaciones aleatorias filtradas paso a paso durante millones de generaciones.
 
 ---
 
@@ -138,7 +158,7 @@ La evolución no es azar puro: es <span class="key-term">selección acumulativa<
 Muchos dudan de que un ojo complejo surja por pasos graduales. Dawkins reformula el problema con una serie de preguntas sobre el <span class="term">espacio animal</span>: el espacio de todas las formas posibles de cuerpos.
 
 <!-- paragraph -->
-¿Pudo el ojo humano surgir de la nada en un paso? No: las probabilidades son astronómicas. ¿De algo ligeramente distinto, X? Sí, si X es suficientemente parecido. Repitiendo la pregunta con pasos cada vez menores, se traza una cadena de Xs desde «sin ojo» hasta el ojo moderno — caminando por el espacio animal en pasos pequeños.
+¿Pudo el ojo humano surgir de la nada en un paso? No: las probabilidades son astronómicas. ¿De algo ligeramente distinto, X? Sí, si X es suficientemente parecido. Repitiendo la pregunta con pasos cada vez menores, se traza una cadena de Xs desde «sin ojo» hasta el ojo moderno, caminando por el espacio animal en pasos pequeños.
 
 <!-- paragraph -->
 Con suficientes generaciones, medidas en miles de millones, la transición es plausible. Cada mutación modifica un proceso embriológico existente. Cuanto menor el cambio, más plausible embriológicamente. Y cada intermediario debe funcionar lo bastante bien como para ayudar a sobrevivir y reproducirse: un ojo imperfecto sigue siendo mejor que ninguno.
@@ -227,7 +247,7 @@ La evolución <span class="key-term">construye</span> complejidad cuando genes c
 ## title: Explosiones y espirales
 
 <!-- paragraph lead -->
-La mente humana analogiza con facilidad — a veces demasiado. Este capítulo explora dos analogías fructíferas pero peligrosas: procesos tipo <span class="term">explosión</span> (retroalimentación positiva) y la semejanza entre evolución darwiniana y <span class="term">evolución cultural</span>.
+La mente humana analogiza con facilidad, a veces demasiado. Este capítulo explora dos analogías fructíferas pero peligrosas: procesos tipo <span class="term">explosión</span> (retroalimentación positiva) y la semejanza entre evolución darwiniana y <span class="term">evolución cultural</span>.
 
 <!-- paragraph -->
 La retroalimentación negativa estabiliza (governador de Watt). La positiva amplifica perturbaciones hasta el desastre o un nuevo equilibrio, como una explosión química. En biología, la coevolución depredador-presa puede dispararse en espiral. Los cuerpos usan más retroalimentación negativa que positiva porque la regulación estable es útil. Pero las explosiones importan aquí.
@@ -238,8 +258,8 @@ Los <span class="term">memes</span>, unidades de transmisión cultural, se repli
 <!-- concept-grid -->
 | icon | title | description |
 |------|-------|-------------|
-| 💥 | Retroalimentación positiva | Pequeñas desviaciones se amplifican en espiral — útil como modelo de coevolución acelerada. |
-| 🧠 | Memes | Ideas que se copian entre cerebros con variación y selección — evolución cultural. |
+| 💥 | Retroalimentación positiva | Pequeñas desviaciones se amplifican en espiral; útil como modelo de coevolución acelerada. |
+| 🧠 | Memes | Ideas que se copian entre cerebros con variación y selección; evolución cultural. |
 | ⚖️ | Analogía prudente | Las mejores analogías comparten matemática subyacente; las frívolas confunden. |
 
 <!-- key -->
@@ -259,7 +279,7 @@ Dawkins parodia a historiadores «punctuationistas» bíblicos que acusan a los 
 Los punctuationistas, muchos paleontólogos, enfatizan <span class="term">estasis</span> en el registro fósil y cambios rápidos en eventos de especiación. Los «gradualistas» de paja avanzarían a ritmo constante generación tras generación. En realidad, casi todos los darwinianos son gradualistas en el sentido de que no hay saltos macromutacionales milagrosos.
 
 <!-- paragraph -->
-El registro fósil es incompleto por naturaleza. La datación radiométrica (carbono-<span class="num">14</span>, potasio-argon, uranio-plomo) permite pruebas temporales. Un fósil humano auténtico en rocas de <span class="num">500 millones</span> de años destruiría la evolución: prueba de que la teoría es falsable. La controversia real es menor de lo que venden las revistas.
+El registro fósil es incompleto por naturaleza. La datación radiométrica (carbono-<span class="num">14</span>, potasio-argón, uranio-plomo) permite pruebas temporales. Un fósil humano auténtico en rocas de <span class="num">500 millones</span> de años destruiría la evolución: prueba de que la teoría es falsable. La controversia real es menor de lo que venden las revistas.
 
 <!-- key -->
 El <span class="key-term">punctuationismo</span> es una variedad menor de darwinismo, no un rival. Los «gradualistas» que critica son un hombre de paja.
@@ -275,7 +295,7 @@ El <span class="key-term">punctuationismo</span> es una variedad menor de darwin
 Además de explicar el diseño (ojos, ecolocalización), la evolución explica la <span class="term">diversidad</span>: patrones de parentesco entre formas vivas. Este capítulo trata la <span class="term">taxonomía</span>, clasificación biológica, y por qué solo la evolución ofrece un árbol único y correcto.
 
 <!-- paragraph -->
-Clasificar libros en una biblioteca admite muchos sistemas igualmente válidos por conveniencia. Clasificar organismos es distinto: la evolución implica un solo <span class="term">árbol genealógico</span> verdadero con anidamiento perfecto — todo subgrupo está completamente contenido en un grupo mayor, sin solapamientos parciales.
+Clasificar libros en una biblioteca admite muchos sistemas igualmente válidos por conveniencia. Clasificar organismos es distinto: la evolución implica un solo <span class="term">árbol genealógico</span> verdadero con anidamiento perfecto. Todo subgrupo está completamente contenido en un grupo mayor, sin solapamientos parciales.
 
 <!-- paragraph -->
 Los taxonomistas cladistas agrupan por <span class="term">parentesco reciente</span>, no por parecido superficial. Los ornitorrincos ponen huevos, pero pertenecen a los mamíferos porque comparten ancestro mamífero más reciente que con aves o reptiles. La biología molecular confirma el árbol independientemente de la morfología.
@@ -297,7 +317,7 @@ Ningún biólogo serio niega que la evolución ocurrió ni que todos los seres v
 El <span class="term">lamarckismo</span> combina uso y desuso con herencia de caracteres adquiridos. Los músculos crecen con el ejercicio, pero no hay evidencia de que el hijo herede el bíceps del padre. Darwin mismo creía en la herencia de lo adquirido, pero eso no era el núcleo de su teoría. El neutralismo explica variación molecular sin selección, no el diseño adaptativo del ojo.
 
 <!-- paragraph -->
-El <span class="term">creacionismo</span> postula complejidad organizada sin explicarla. Dawkins predice que si alguna vez se descubre vida extraterrestre, también habrá evolucionado por selección natural darwiniana — apuesta no comprobable pronto, pero que dramatiza una verdad: ninguna otra teoría conocida explica el diseño adaptativo.
+El <span class="term">creacionismo</span> postula complejidad organizada sin explicarla. Dawkins predice que si alguna vez se descubre vida extraterrestre, también habrá evolucionado por selección natural darwiniana, y con esa apuesta subraya que ninguna otra teoría conocida explica el diseño adaptativo.
 
 <!-- quote -->
 > «Predigo que, si alguna vez se descubre una forma de vida en otra parte del universo, por muy extraña que sea, se parecerá a la vida terrestre en un aspecto clave: habrá evolucionado mediante algún tipo de selección natural darwiniana.»
@@ -370,20 +390,6 @@ El darwinismo es la única teoría conocida que, en principio, puede explicar la
 | David Hume | Crítica lógica al argumento del diseño (sin alternativa) |
 | Fleeming Jenkin | Objeción de la herencia mezcladora contra Darwin |
 | Jacques Monod | «Todo el mundo cree que entiende el darwinismo» |
-
----
-
-# cierre
-
-## title: La idea central
-
-<!-- closing -->
-La complejidad de la vida parece exigir un diseñador consciente.
-Paley tenía razón en la pregunta, equivocado en la respuesta.
-La selección natural es el relojero ciego: sin mente, sin plan, sin visión.
-<!-- highlight -->Acumula pequeños cambios aleatorios filtrados por supervivencia y reproducción<!-- /highlight -->
-Ninguna otra teoría conocida explica, en principio, la complejidad adaptativa.
-El misterio de nuestra existencia está resuelto — aunque sigamos añadiendo notas a pie de página.
 
 ---
 

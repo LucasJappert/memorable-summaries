@@ -4,19 +4,24 @@ export const godelEscherBach: BookSummary = {
   slug: "godel-escher-bach",
   meta: {
     title: "Gödel, Escher, Bach: An Eternal Golden Braid",
-    subtitle: "¿Qué une la lógica, el arte y la mente?",
+    subtitle: "¿Cómo puede surgir un «yo» con sentido de reglas sin sentido?",
     author: "Douglas R. Hofstadter",
     meta: [
       "📖 1979 · Basic Books · Pulitzer 1980",
-      "✍️ Ciencia cognitiva · Metáfora del bucle extraño",
+      "✍️ Ciencia cognitiva · La metáfora del bucle extraño",
     ],
     titleEs: "Gödel, Escher, Bach: Un eterno y grácil bucle",
   },
   toc: [
   {
+    "id": "cierre",
+    "num": "★",
+    "label": "La idea central"
+  },
+  {
     "id": "prefacio",
     "num": "00",
-    "label": "Introducción"
+    "label": "Introducción: una ofrenda músico-lógica"
   },
   {
     "id": "cap1",
@@ -66,7 +71,7 @@ export const godelEscherBach: BookSummary = {
   {
     "id": "cap10",
     "num": "Preludio",
-    "label": "Preludio y Fuga de la hormiga"
+    "label": "Holismo, reduccionismo y la hormiga"
   },
   {
     "id": "cap11",
@@ -101,7 +106,7 @@ export const godelEscherBach: BookSummary = {
   {
     "id": "cap17",
     "num": "XVI",
-    "label": "Autoref y autorep"
+    "label": "Autoref y autorrep"
   },
   {
     "id": "cap18",
@@ -111,12 +116,12 @@ export const godelEscherBach: BookSummary = {
   {
     "id": "cap19",
     "num": "XVIII",
-    "label": "Inteligencia artificial"
+    "label": "Inteligencia artificial: retrospectiva"
   },
   {
     "id": "cap20",
     "num": "XIX",
-    "label": "Inteligencia artificial"
+    "label": "Inteligencia artificial: perspectivas"
   },
   {
     "id": "cap21",
@@ -137,11 +142,6 @@ export const godelEscherBach: BookSummary = {
     "id": "figuras",
     "num": "✦",
     "label": "Figuras clave"
-  },
-  {
-    "id": "cierre",
-    "num": "—",
-    "label": "La idea central"
   }
 ],
   sections: [
@@ -153,15 +153,19 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Hofstadter improvisa sobre el <span class=\"term\">Musikalisches Opfer</span> de Bach ante Federico el Grande (<span class=\"num\">1747</span>). La autorreferencia en Bach, Escher y Gödel prepara el hilo dorado del libro: sistemas formales, niveles y paradojas. Recorre una breve historia de la lógica y el debate sobre inteligencia artificial.",
+          html: "Hofstadter arranca con una anécdota real. En <span class=\"num\">1747</span> Bach visitó a <span class=\"person\">Federico el Grande</span> e improvisó sobre un tema que le propuso el rey, y de ahí nació el <span class=\"term\">Musikalisches Opfer</span>. El autor toma esa historia como un tema propio sobre el que «improvisa» durante todo el libro.",
         },
         {
           type: 'paragraph',
-          html: "Los diálogos entre <span class=\"person\">Tortuga</span> y <span class=\"person\">Aquiles</span> (y el <span class=\"person\">Cangrejo</span>, la <span class=\"person\">Hormiguera</span>) dramatizan cada capítulo con fugas, cánones y juegos de niveles. Esa forma musical encarna la tesis central del libro.",
+          html: "La pregunta de fondo es cómo puede existir la mente, con significado y sentido del yo, en un mundo hecho de materia y reglas mecánicas. Su apuesta es que la respuesta ya está insinuada en un patrón compartido por tres genios. Bach juega con niveles en sus fugas, Escher dibuja jerarquías que se muerden la cola y Gödel demuestra que la aritmética puede hablar de sí misma.",
+        },
+        {
+          type: 'paragraph',
+          html: "Como preparación, Hofstadter repasa la historia de la lógica y las paradojas de autorreferencia, y llega al debate sobre si una máquina podría pensar. Los diálogos entre <span class=\"person\">Tortuga</span> y <span class=\"person\">Aquiles</span>, con el Cangrejo y el Hormiguero, no son un adorno. Cada diálogo imita una forma musical y encarna en su estructura la idea que el capítulo siguiente explica.",
         },
         {
           type: 'key',
-          html: "El libro entrelaza matemática, arte y música en un mismo patrón de bucles y niveles.",
+          html: "Bach, Escher y Gödel comparten un mismo truco de <span class=\"key-term\">autorreferencia</span> entre niveles, y ahí se esconde cómo puede surgir la mente.",
         },
       ],
     },
@@ -173,11 +177,19 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El sistema formal MIU usa cadenas de M, I y U. Parte del axioma MI y aplica reglas de producción. La pregunta es si se puede derivar MU. Aquí aparecen teorema, axioma, derivación, procedimiento de decisión y la distinción entre trabajar dentro o fuera del sistema. La inteligencia humana detecta patrones que la máquina ciega no ve: todos los teoremas empiezan con M.",
+          html: "Hofstadter presenta el <span class=\"term\">sistema MIU</span>, un juego de cadenas hechas con las letras M, I y U. Se parte del axioma MI y se aplican reglas de producción que alargan o acortan las cadenas. El reto propuesto al lector es sencillo de enunciar y difícil de cerrar: ¿se puede derivar la cadena MU?",
+        },
+        {
+          type: 'paragraph',
+          html: "La trampa es que, por más reglas que uno aplique desde dentro, MU no aparece nunca. La razón solo se ve al salir del juego y observar una propiedad invariante que ninguna regla altera. Esa distinción entre trabajar ciegamente dentro del sistema y comprenderlo desde fuera es la lección central del capítulo.",
+        },
+        {
+          type: 'paragraph',
+          html: "A partir de este ejemplo mínimo, el autor introduce el vocabulario que usará todo el libro. Aparecen los conceptos de cadena, axioma, regla de inferencia, derivación, teorema y procedimiento de decisión. Una máquina puede generar teoremas sin entenderlos, mientras que la inteligencia detecta el patrón que los gobierna.",
         },
         {
           type: 'key',
-          html: "El acertijo MU muestra cómo el significado aparece cuando alguien observa el sistema desde fuera.",
+          html: "El significado no vive dentro de las reglas, sino en la mirada que observa el sistema <span class=\"key-term\">desde fuera</span>.",
         },
       ],
     },
@@ -189,11 +201,15 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El sistema pq muestra cómo los símbolos adquieren significado por <span class=\"term\">isomorfismo</span> entre teoremas y aritmética. El significado conecta forma, verdad y manipulación simbólica.",
+          html: "El <span class=\"term\">sistema pq</span> es todavía más simple que el anterior y, a primera vista, sus símbolos parecen marcas sin sentido. La sorpresa llega cuando se revela que cada teorema tiene una forma que refleja una suma verdadera. La cadena «xpyqz» resulta ser verdadera exactamente cuando x más y es igual a z.",
+        },
+        {
+          type: 'paragraph',
+          html: "Ese descubrimiento es la primera intuición profunda del libro sobre el significado. Los símbolos no significan porque alguien lo decrete, sino porque su forma es <span class=\"term\">isomorfa</span> a algo del mundo. El isomorfismo es la correspondencia estructural que conecta manipulación de signos con verdad numérica.",
         },
         {
           type: 'key',
-          html: "Faltando el isomorfismo, los símbolos serían marcas vacías sin relación con hechos numéricos.",
+          html: "Sin un <span class=\"key-term\">isomorfismo</span> que refleje hechos reales, los símbolos de un sistema formal serían marcas vacías.",
         },
       ],
     },
@@ -205,11 +221,15 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "La distinción figura/fondo en arte se corresponde con teoremas y no-teoremas. Los conjuntos <span class=\"term\">recursivamente enumerables</span> y <span class=\"term\">recursivos</span> plantean si la figura contiene la misma información que el fondo.",
+          html: "Hofstadter traslada al terreno lógico la distinción que en arte separa la <span class=\"term\">figura</span> del <span class=\"term\">fondo</span>. Los teoremas de un sistema son la figura y los no-teoremas son el fondo. La pregunta que abre el capítulo es si la figura contiene siempre la misma información que su fondo.",
+        },
+        {
+          type: 'paragraph',
+          html: "La respuesta obliga a distinguir dos tipos de conjuntos. Un conjunto <span class=\"term\">recursivamente enumerable</span> puede generarse con reglas, pero su complemento no siempre es también generable. Existen fondos que ninguna regla puede dibujar a partir de la figura, y ahí la analogía artística toca la lógica profunda.",
         },
         {
           type: 'key',
-          html: "En lógica y en arte, lo omitido puede ser tan informativo como lo destacado.",
+          html: "Lo omitido puede ser tan informativo como lo destacado, y a veces ninguna regla logra reconstruirlo.",
         },
       ],
     },
@@ -221,11 +241,15 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Hofstadter explica ideas del diálogo Contracrostipunctus. La geometría euclidiana y la no euclidiana ilustran términos indefinidos y la rivalidad de sistemas consistentes.",
+          html: "La historia de la geometría sirve para mostrar que un mismo conjunto de axiomas admite varias lecturas coherentes. Durante siglos se intentó demostrar el <span class=\"term\">quinto postulado</span> de Euclides. Cuando se lo negó, no surgió una contradicción sino otra geometría igualmente consistente.",
+        },
+        {
+          type: 'paragraph',
+          html: "De ahí Hofstadter extrae dos ideas que serán decisivas. Los <span class=\"term\">términos indefinidos</span> reciben su sentido del modelo que se elija, no de una verdad absoluta. Además, consistencia y completitud son propiedades distintas, porque un sistema puede no contradecirse y aun así ser incapaz de decidir todas sus afirmaciones.",
         },
         {
           type: 'key',
-          html: "Varios sistemas pueden ser consistentes sin ser únicos ni definitivos.",
+          html: "Varias interpretaciones pueden ser consistentes a la vez, así que ningún sistema formal es el único verdadero.",
         },
       ],
     },
@@ -237,11 +261,15 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "La recursión aparece en música, lenguaje, geometría, física y programas. Historias dentro de historias, como en Little Harmonic Labyrinth, muestran el patrón en acción.",
+          html: "La <span class=\"term\">recursión</span> es el patrón de las estructuras que se anidan dentro de sí mismas. Hofstadter la rastrea en la música, el lenguaje, la geometría, la física y los programas de computadora. El mecanismo común consiste en empujar una tarea a una pila y retomarla más tarde.",
+        },
+        {
+          type: 'paragraph',
+          html: "El ejemplo del Little Harmonic Labyrinth encadena historias dentro de historias que nunca se cierran del todo. Ese mismo esquema aparece en las gramáticas que encajan frases dentro de frases y en las funciones definidas en términos de sí mismas. La recursión, además, puede terminar, y por eso no es lo mismo que una regresión infinita paralizante.",
         },
         {
           type: 'key',
-          html: "La recursión anida la misma estructura dentro de sí misma, como una fuga dentro de otra fuga.",
+          html: "Un mismo esquema puede contenerse dentro de sí mismo, como una fuga que suena dentro de otra fuga.",
         },
       ],
     },
@@ -253,11 +281,15 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El significado se reparte entre mensaje, decodificador y receptor. Hofstadter lo ilustra con ADN, tablillas y discos en el espacio. ¿Existe significado absoluto sin inteligencia?",
+          html: "¿Dónde reside el significado de un mensaje? Hofstadter sostiene que se reparte entre tres piezas: el mensaje codificado, el decodificador y el receptor que lo interpreta. Ningún fragmento por sí solo garantiza el sentido.",
+        },
+        {
+          type: 'paragraph',
+          html: "Sus ejemplos van de las hebras de <span class=\"term\">ADN</span> a las inscripciones antiguas sin descifrar y a los discos lanzados al espacio para eventuales inteligencias. En todos, un mensaje solo significa si existe un mecanismo capaz de leerlo. Aun así, un mensaje muy estructurado puede llevar consigo las pistas para ser decodificado, lo que sugiere cierto significado intrínseco.",
         },
         {
           type: 'key',
-          html: "El sentido no vive solo en el símbolo ni solo en la mente que lo interpreta.",
+          html: "El sentido no está solo en el símbolo ni solo en quien lo lee, sino en la relación entre mensaje y decodificador.",
         },
       ],
     },
@@ -269,11 +301,15 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Hofstadter introduce reglas formales para «y», «o» y «no». El isomorfismo permite adquirir significado de forma automática. Los ejemplos tipo koan zen («Zentences») muestran la paradoja en acción.",
+          html: "Hofstadter muestra que palabras lógicas como «y», «o» y «no» pueden gobernarse con reglas puramente tipográficas. Se construye un pequeño sistema cuyos teoremas coinciden con las verdades de la lógica proposicional. Otra vez el significado aparece de forma automática por isomorfismo.",
+        },
+        {
+          type: 'paragraph',
+          html: "El autor toma sus ejemplos de los koans zen y los llama «Zentences», medio en broma. La elección es deliberadamente irónica, porque los koans buscan burlar la lógica mientras el sistema los trata como fórmulas. El contraste anticipa que la lógica formal todavía es demasiado débil para la aritmética.",
         },
         {
           type: 'key',
-          html: "La lógica formal puede imitar el juego entre reglas y sentido que caracteriza los koan.",
+          html: "Reglas puramente formales bastan para reproducir la lógica, aunque todavía no alcanzan para los números.",
         },
       ],
     },
@@ -285,11 +321,15 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "La TNT extiende el cálculo proposicional para tratar la aritmética mediante manipulación simbólica rígida. Hofstadter contrasta el razonamiento formal con el pensamiento humano.",
+          html: "La <span class=\"term\">TNT</span> extiende el cálculo proposicional para tratar toda la aritmética elemental. Añade cuantificadores y símbolos numéricos, de modo que enunciados como la conmutatividad de la suma se escriben y se derivan como cadenas de signos. El razonamiento numérico se vuelve pura manipulación tipográfica.",
+        },
+        {
+          type: 'paragraph',
+          html: "El objetivo de Hofstadter es doble. Primero demuestra que la aritmética puede formalizarse sin apelar a ninguna intuición sobre qué «son» los números. Después contrasta ese proceso rígido con el pensamiento humano, que salta, ve patrones y no procede paso a paso como el sistema.",
         },
         {
           type: 'key',
-          html: "TNT prepara el terreno para hablar de aritmética como pura tipografía simbólica.",
+          html: "TNT convierte la aritmética en tipografía, y así prepara el sistema sobre el que caerá el teorema de Gödel.",
         },
       ],
     },
@@ -301,27 +341,35 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Las ideas zen de Mumon funcionan como espejo metafórico de la filosofía matemática. Hofstadter introduce la <span class=\"term\">numeración de Gödel</span> y ofrece un primer recorrido del teorema de incompletitud.",
+          html: "Antes del golpe lógico, Hofstadter da un rodeo por el zen. Los koans del monje <span class=\"person\">Mumon</span> intentan cortocircuitar el pensamiento dualista y mostrar los límites del lenguaje para atrapar la verdad. Esa actitud rima, de forma metafórica, con la filosofía de la matemática.",
+        },
+        {
+          type: 'paragraph',
+          html: "Sobre ese fondo introduce la idea decisiva de Gödel. La <span class=\"term\">numeración de Gödel</span> asigna un número único a cada cadena y a cada demostración, de manera que la aritmética puede terminar hablando de sí misma. Con esa herramienta el autor hace un primer recorrido por el teorema de incompletitud.",
         },
         {
           type: 'key',
-          html: "Mumon y Gödel comparten el arte de desorientar para revelar límites del lenguaje formal.",
+          html: "Codificar enunciados como números permite que la aritmética se refiera a sí misma, la puerta de entrada a Gödel.",
         },
       ],
     },
     {
       id: "cap10",
       num: "Preludio",
-      title: "Preludio y Fuga de la hormiga",
+      title: "Holismo, reduccionismo y la hormiga",
       blocks: [
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Los diálogos se basan en el <span class=\"term\">Clave bien temperado</span>. Hofstadter debate holismo frente a reduccionismo. La colonia de hormigas <span class=\"person\">Aunt Hillary</span> funciona como mente emergente.",
+          html: "El diálogo del Preludio y la Fuga de la hormiga plantea cómo escuchar una fuga. ¿Se la oye como una suma de voces separadas o como un todo indivisible? Esa pregunta abre el debate entre <span class=\"term\">reduccionismo</span> y <span class=\"term\">holismo</span>.",
+        },
+        {
+          type: 'paragraph',
+          html: "La respuesta llega con <span class=\"person\">Aunt Hillary</span>, una colonia de hormigas que conversa como si fuera una mente, aunque ninguna hormiga individual piense. Su «pensamiento» vive en el nivel de la colonia y se apoya en niveles intermedios, desde la hormiga suelta hasta los equipos y las señales. Entender ese sistema exige combinar la mirada de las partes con la mirada del todo.",
         },
         {
           type: 'key',
-          html: "Aunt Hillary muestra cómo una mente puede surgir de partes que, aisladas, no piensan.",
+          html: "Una mente puede emerger de piezas que, por separado, no piensan, si se leen en el nivel adecuado.",
         },
       ],
     },
@@ -333,11 +381,15 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Hofstadter analiza niveles al ver tableros, imágenes y computadoras: lenguaje máquina, ensamblador, compilador y sistema operativo. Pregunta cuántos niveles intermedios existen en equipos deportivos, átomos o clima.",
+          html: "Hofstadter defiende que una misma realidad se describe en muchos niveles simultáneos, cada uno con su vocabulario. En una computadora conviven el lenguaje de máquina, el ensamblador, el compilador y el sistema operativo. Cada capa habla de lo mismo con distinto grado de detalle.",
+        },
+        {
+          type: 'paragraph',
+          html: "La idea se generaliza a imágenes, tableros de ajedrez, equipos deportivos, átomos y el clima. La pregunta abierta es cuántos niveles intermedios existen y si alguno de ellos es «el verdadero». Su respuesta es que ningún nivel tiene el monopolio, porque los niveles altos pueden ser causalmente reales aunque se apoyen en los bajos.",
         },
         {
           type: 'key',
-          html: "Cada nivel describe la misma realidad con un vocabulario distinto y una granularidad propia.",
+          html: "Cada nivel describe la misma realidad con un lenguaje propio, y ninguno es el único legítimo.",
         },
       ],
     },
@@ -349,11 +401,15 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "¿Cómo el hardware cerebral sostiene pensamientos? Hofstadter recorre la estructura macro y micro del cerebro y explora la relación especulativa entre conceptos y actividad neural.",
+          html: "El capítulo pregunta cómo el hardware neuronal puede sostener algo tan escurridizo como un pensamiento. Hofstadter repasa la estructura del cerebro en su escala grande y pequeña. Luego busca el nivel en el que viven los conceptos.",
+        },
+        {
+          type: 'paragraph',
+          html: "Su hipótesis especulativa es que un concepto no corresponde a una neurona suelta sino a un <span class=\"term\">símbolo</span> activo, un patrón de muchas neuronas que se enciende y puede disparar a otros símbolos. Así, el pensamiento habitaría un nivel de descripción distinto del de las células. La relación exacta entre concepto y actividad neural queda planteada como conjetura, no como hecho probado.",
         },
         {
           type: 'key',
-          html: "El cerebro es hardware biológico, pero los pensamientos parecen habitar otro nivel de descripción.",
+          html: "Los pensamientos se apoyan en neuronas pero viven en el nivel de los símbolos, no en células aisladas.",
         },
       ],
     },
@@ -365,11 +421,15 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Hofstadter traduce poemas Jabberwocky y pregunta si se pueden mapear lenguajes y mentes. Usa una analogía geográfica para la comunicación entre cerebros.",
+          html: "Las tres versiones de <span class=\"term\">Jabberwocky</span>, en inglés, francés y alemán, sirven de experimento. Muestran que la forma lingüística y el contenido mental pueden separarse y volver a encarnarse en otro idioma. Traducir el poema obliga a preguntarse qué se conserva y qué se pierde.",
+        },
+        {
+          type: 'paragraph',
+          html: "De ahí surge la cuestión de si distintas mentes o lenguajes pueden mapearse unos sobre otros. Hofstadter propone una analogía geográfica en la que dos cerebros se solapan de forma parcial, nunca perfecta. Queda abierto si un cerebro puede entenderse de manera objetiva desde fuera.",
         },
         {
           type: 'key',
-          html: "Traducir Jabberwocky obliga a separar forma lingüística de contenido mental.",
+          html: "Mentes y lenguajes se pueden mapear de forma aproximada porque comparten una estructura profunda, no idéntica.",
         },
       ],
     },
@@ -381,11 +441,15 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Hofstadter presenta lenguajes que realizan búsquedas finitas (BlooP) o potencialmente infinitas (FlooP). Introduce la intuición de funciones primitivo-recursivas y recursivas generales, clave en la prueba de Gödel.",
+          html: "Hofstadter inventa tres lenguajes para separar tipos de cálculo. <span class=\"term\">BlooP</span> solo admite bucles acotados y realiza búsquedas cuyo final está garantizado de antemano. <span class=\"term\">FlooP</span> permite bucles sin cota y puede lanzarse a búsquedas potencialmente infinitas.",
+        },
+        {
+          type: 'paragraph',
+          html: "Esa diferencia captura la distinción entre funciones recursivas primitivas y recursivas generales. Importa porque no todo lo que se puede definir se puede calcular con búsquedas siempre finitas. Esa frontera es exactamente la que necesita la prueba de Gödel para funcionar.",
         },
         {
           type: 'key',
-          html: "BlooP y FlooP separan lo que siempre termina de lo que puede buscar sin límite fijo.",
+          html: "Distinguir lo que siempre termina de lo que puede buscar sin límite es la base computacional del argumento de Gödel.",
         },
       ],
     },
@@ -397,11 +461,19 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Hofstadter expone la prueba de incompletitud de Gödel (<span class=\"num\">1931</span>): si TNT es consistente, es incompleta. Relaciona el resultado con geometrías euclidianas y no euclidianas y con sus implicaciones filosóficas.",
+          html: "Este es el clímax lógico del libro, y su título parafrasea el artículo que Gödel publicó en <span class=\"num\">1931</span>. Usando la numeración de Gödel, TNT puede construir una cadena que habla de sus propias cadenas. Se fabrica un enunciado G que afirma «G no es un teorema de TNT».",
+        },
+        {
+          type: 'paragraph',
+          html: "El razonamiento se cierra sobre sí mismo. Si G fuera demostrable, TNT probaría algo falso y sería inconsistente, y si su negación fuera demostrable, ocurriría lo mismo. Por tanto, si TNT es consistente, G es verdadera pero indemostrable dentro del sistema.",
+        },
+        {
+          type: 'paragraph',
+          html: "La conclusión es que ningún sistema formal rico y consistente puede probar todas sus verdades. La incompletitud no es un fallo que se pueda parchear, porque añadir G como nuevo axioma genera de inmediato otro enunciado indemostrable.",
         },
         {
           type: 'key',
-          html: "Gödel demuestra que ningún sistema formal suficientemente rico puede cerrarse sobre sí mismo.",
+          html: "Todo sistema capaz de hablar de sí mismo alberga verdades que no puede demostrar sin dejar de ser consistente.",
         },
       ],
     },
@@ -413,27 +485,35 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El argumento gödeliano es repetible: TNT es «esencialmente incompleta». Hofstadter critica el argumento de <span class=\"person\">J. R. Lucas</span> sobre la mente mecánica.",
+          html: "El argumento de Gödel es repetible, y esa repetición vuelve a TNT «esencialmente incompleta». Cada vez que uno salta fuera y agrega la verdad gödeliana como axioma, el sistema ampliado genera su propia verdad inalcanzable. No hay una escalera finita que agote todas las verdades.",
+        },
+        {
+          type: 'paragraph',
+          html: "Hofstadter usa esto para examinar el célebre argumento de <span class=\"person\">J. R. Lucas</span>, según el cual Gödel demostraría que la mente humana no puede ser mecánica. El autor lo encuentra defectuoso, porque el humano que «salta fuera» también queda atrapado en su propio nivel superior. Saltar fuera es una habilidad que una máquina lo bastante rica también podría tener.",
         },
         {
           type: 'key',
-          html: "Saltar fuera del sistema no garantiza por sí solo superioridad de la mente humana.",
+          html: "Que podamos saltar fuera de un sistema no prueba que la mente escape a toda máquina.",
         },
       ],
     },
     {
       id: "cap17",
       num: "XVI",
-      title: "Autoref y autorep",
+      title: "Autoref y autorrep",
       blocks: [
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Hofstadter explora autorreferencia y entidades autorreproductoras, como programas y ADN. La frontera entre sistema y entorno que lo replica se vuelve difusa.",
+          html: "Hofstadter conecta la autorreferencia con la autorreproducción y las presenta como dos caras del mismo fenómeno. Un programa que imprime su propio código, un virus que se autoensambla y una molécula de <span class=\"term\">ADN</span> que se copia comparten la misma lógica. Todos se codifican a sí mismos y necesitan una maquinaria externa para replicarse.",
+        },
+        {
+          type: 'paragraph',
+          html: "El punto sutil es que la frontera entre el sistema que se reproduce y el entorno que lo ayuda resulta difusa. La información viaja de un nivel a otro, y decidir dónde termina el «yo» que se copia es en parte una convención. Ese bucle une el juego formal de Gödel con el bucle biológico de la vida.",
         },
         {
           type: 'key',
-          html: "Autorreferencia y autorreproducción son dos caras del mismo bucle vital y formal.",
+          html: "Referirse a sí mismo y reproducirse a sí mismo son el mismo bucle, visto en lo formal y en lo vivo.",
         },
       ],
     },
@@ -445,11 +525,15 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Hofstadter presenta la <span class=\"term\">Tesis de Church-Turing</span>, el problema de la parada y el teorema de verdad de Tarski. Contrasta habilidades matemáticas humanas con simulación mecánica.",
+          html: "El capítulo reúne a los teóricos que fijaron los límites de lo mecánico. La <span class=\"term\">tesis de Church-Turing</span> propone qué significa que algo sea computable y liga la actividad mental con el cálculo. Hofstadter la presenta en varias versiones, de las más débiles a las más fuertes.",
+        },
+        {
+          type: 'paragraph',
+          html: "Dos resultados afilan esos límites. El <span class=\"term\">problema de la parada</span> de Turing muestra que no existe un procedimiento general que decida si un cálculo cualquiera va a terminar. El teorema de <span class=\"person\">Tarski</span> muestra que la verdad aritmética no puede definirse dentro del propio sistema que la enuncia.",
         },
         {
           type: 'key',
-          html: "Church, Turing y Tarski fijan los límites de lo computable, demostrable y decidable.",
+          html: "Church, Turing y Tarski trazan juntos la frontera de lo computable, lo decidible y lo definible.",
         },
       ],
     },
@@ -461,11 +545,15 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Hofstadter repasa el test de Turing y ofrece una historia abreviada de IA: juegos, teoremas, música y lenguaje natural. Destaca el programa SHRDLU de <span class=\"person\">Terry Winograd</span> en un mundo de bloques.",
+          html: "Hofstadter abre con el <span class=\"term\">test de Turing</span>, la propuesta de detectar el pensamiento por conversación en lugar de definirlo. Sobre esa base repasa una historia abreviada de la inteligencia artificial. Menciona programas que juegan, prueban teoremas, componen música o usan lenguaje natural.",
+        },
+        {
+          type: 'paragraph',
+          html: "El caso destacado es <span class=\"person\">SHRDLU</span>, el programa de <span class=\"person\">Terry Winograd</span> que dialoga con soltura sobre un «mundo de bloques». Su aparente comprensión funciona solo porque representa ese micromundo completo, no porque analice frases sueltas. La lección es que entender exige un modelo del mundo, y escalar de un micromundo a la vida real es el verdadero problema.",
         },
         {
           type: 'key',
-          html: "SHRDLU mostró que entender lenguaje exige representar un mini-mundo, no solo parsear frases.",
+          html: "Comprender el lenguaje exige representar un mundo entero, no solo analizar frases con reglas.",
         },
       ],
     },
@@ -477,11 +565,15 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Hofstadter analiza marcos («frames») y representación en capas de contextos. Explora creatividad e interacción de conceptos y deja preguntas abiertas sobre el futuro de la IA.",
+          html: "Mirando hacia adelante, Hofstadter sostiene que el conocimiento se organiza en capas de contexto llamadas <span class=\"term\">frames</span>. Un frame trae expectativas por defecto que se ajustan según la situación. Lo ilustra con puzzles visuales que se resuelven encajando y corrigiendo esos marcos.",
+        },
+        {
+          type: 'paragraph',
+          html: "Su apuesta más fuerte es sobre la creatividad. La inteligencia no nace de reglas rígidas sino del deslizamiento y la mezcla de conceptos, es decir, de la <span class=\"term\">analogía</span> flexible. El capítulo termina con preguntas y especulaciones personales, sin cerrar si la máquina alcanzará esa maleabilidad.",
         },
         {
           type: 'key',
-          html: "La inteligencia artificial necesita marcos flexibles, no solo reglas fijas de manipulación simbólica.",
+          html: "La inteligencia pide marcos flexibles y analogía, no un catálogo fijo de reglas de manipulación.",
         },
       ],
     },
@@ -493,139 +585,143 @@ export const godelEscherBach: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Hofstadter describe sistemas que se voltean sobre sí mismos: ciencia, gobierno, arte y cerebros. Pregunta si libertad y conciencia se ligan a bucles de Gödel. El cierre reúne Bach, Escher y Gödel en un gran bucle autorreferencial.",
+          html: "El capítulo final reúne todas las hebras en la idea de <span class=\"term\">bucle extraño</span>. Un bucle extraño aparece cuando, al subir por los niveles de una jerarquía, uno vuelve inesperadamente al punto de partida. Es lo que ocurre en la cascada de Escher y en el enunciado gödeliano.",
+        },
+        {
+          type: 'paragraph',
+          html: "Hofstadter lo encuentra por todas partes en sistemas que se vuelven sobre sí mismos. La ciencia estudia la ciencia, el gobierno se investiga a sí mismo, el arte rompe las reglas del arte y el cerebro piensa sobre el cerebro. En cada caso surge una <span class=\"term\">jerarquía enredada</span> donde los niveles se cruzan.",
+        },
+        {
+          type: 'paragraph',
+          html: "Su hipótesis es que el «yo» y la conciencia son precisamente eso. El «yo» sería un símbolo que representa al sistema entero dentro del propio sistema, un bucle que se observa observándose. Esa imagen ata de nuevo a Gödel, Escher y Bach, y el libro cierra donde empezó, en la ofrenda que se refiere a sí misma.",
         },
         {
           type: 'key',
-          html: "El libro termina donde empezó: tres dominios distintos tejiendo el mismo bucle dorado.",
+          html: "El «yo» es un <span class=\"key-term\">bucle extraño</span>: un símbolo que representa al sistema entero dentro de ese sistema.",
         },
       ],
     },
   ],
   keyConcepts: [
   {
-    "title": "",
+    "title": "🔁",
     "description": "Bucle extraño"
   },
   {
-    "title": "",
-    "description": "Isomorfismo"
+    "title": "🪜",
+    "description": "Jerarquía enredada"
   },
   {
-    "title": "",
+    "title": "⚙️",
     "description": "Sistema formal"
   },
   {
-    "title": "",
-    "description": "TNT"
+    "title": "🪞",
+    "description": "Isomorfismo"
   },
   {
-    "title": "",
-    "description": "Incompletitud"
-  },
-  {
-    "title": "",
+    "title": "🔢",
     "description": "Numeración de Gödel"
   },
   {
-    "title": "",
+    "title": "∞",
+    "description": "Incompletitud"
+  },
+  {
+    "title": "🧮",
+    "description": "TNT"
+  },
+  {
+    "title": "🌀",
     "description": "Recursión"
   },
   {
-    "title": "",
-    "description": "Holismo vs. reduccionismo"
+    "title": "🧠",
+    "description": "Niveles de descripción"
   },
   {
-    "title": "",
-    "description": "Tesis de Church-Turing"
-  },
-  {
-    "title": "",
-    "description": "Figura y fondo"
+    "title": "🐜",
+    "description": "Símbolo activo"
   }
 ],
   chronology: [
   {
-    "year": "1740",
-    "text": "Federico el Grande asciende al trono de Prusia"
-  },
-  {
     "year": "1747",
-    "text": "Bach visita Potsdam; Musikalisches Opfer"
+    "text": "Bach visita a Federico el Grande y nace la Ofrenda musical."
   },
   {
     "year": "1895",
-    "text": "Lewis Carroll: diálogo Tortuga-Aquiles"
-  },
-  {
-    "year": "1920s",
-    "text": "Emil Post: sistemas de producción formal"
+    "text": "Lewis Carroll publica el diálogo de la Tortuga y Aquiles."
   },
   {
     "year": "1931",
-    "text": "Gödel publica teoremas de incompletitud"
+    "text": "Gödel demuestra sus teoremas de incompletitud."
   },
   {
     "year": "1936",
-    "text": "Turing: máquina universal y problema de la parada"
+    "text": "Turing y Church definen la computabilidad y el problema de la parada."
   },
   {
     "year": "1950",
-    "text": "Turing propone su test de inteligencia"
+    "text": "Turing propone su test de inteligencia."
   },
   {
     "year": "1970s",
-    "text": "Winograd: SHRDLU y mundo de bloques"
+    "text": "Winograd desarrolla SHRDLU en el mundo de bloques."
   },
   {
     "year": "1979",
-    "text": "Publicación de GEB; Pulitzer 1980"
+    "text": "Se publica GEB, que gana el Pulitzer en 1980."
   }
 ],
   figures: [
   {
     "name": "Douglas R. Hofstadter",
-    "role": "Autor · Metáfora GEB · IA y analogía"
+    "role": "Autor · teje la metáfora GEB y el bucle extraño"
   },
   {
     "name": "Kurt Gödel",
-    "role": "Teoremas de incompletitud · autorreferencia"
+    "role": "Teoremas de incompletitud · autorreferencia en la aritmética"
   },
   {
     "name": "M. C. Escher",
-    "role": "Arte de bucles visuales y figura/fondo"
+    "role": "Bucles visuales y jerarquías imposibles"
   },
   {
     "name": "Johann Sebastian Bach",
-    "role": "Fugas, cánones y ofrenda musical"
+    "role": "Fugas, cánones y la Ofrenda musical"
   },
   {
     "name": "Alan Turing",
-    "role": "Computabilidad y test de inteligencia"
+    "role": "Máquina universal, problema de la parada y test de inteligencia"
   },
   {
     "name": "Alonzo Church",
-    "role": "Lambda cálculo y tesis conjunta"
+    "role": "Tesis de computabilidad y cálculo lambda"
+  },
+  {
+    "name": "Alfred Tarski",
+    "role": "Indefinibilidad de la verdad aritmética"
   },
   {
     "name": "Lewis Carroll",
-    "role": "Paradojas de regresión infinita"
+    "role": "Paradoja de la regresión infinita"
   },
   {
     "name": "Terry Winograd",
-    "role": "SHRDLU: lenguaje natural en bloques"
+    "role": "SHRDLU: lenguaje natural en un mundo de bloques"
   }
 ],
   closing: {
     title: "La idea central",
     lines: [
-  "Mente, máquina y matemática comparten un patrón: saltar niveles y volver al origen.",
-  "La incompletitud no es defecto sino síntoma de riqueza suficiente para hablar de sí misma.",
-  "Bach, Escher y Gödel son tres caras de un mismo bucle dorado.",
-  "Entender requiere danzar entre reduccionismo y holismo, forma y significado.",
-  "El libro cierra como empezó: una ofrenda que se referencia a sí misma."
+  "Mente y máquina comparten un mismo patrón que sube de nivel y vuelve al origen.",
+  "La incompletitud no es un defecto, sino la señal de un sistema lo bastante rico para hablar de sí mismo.",
+  "Bach, Escher y Gödel son tres caras del mismo bucle dorado.",
+  "Comprender pide danzar entre las partes y el todo, entre la forma y el significado.",
+  "El libro cierra como empezó, en una ofrenda que se refiere a sí misma."
 ],
-    highlight: "La identidad emerge de bucles extraños que nos observan observándonos",
+    highlight: "El «yo» emerge de bucles extraños que nos observan observándonos",
   },
   footer: {
     line1: "Resumen generado a partir de la obra de Douglas R. Hofstadter",

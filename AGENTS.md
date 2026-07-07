@@ -49,28 +49,41 @@ Usuario: "Generame el html del libro Sapiens"
         ▼
 [2] ¿Existe summaries/<slug>.md?
     │
-    ├─ NO → PASO A (generar MD desde libro fuente)
+    ├─ NO → PASO A0 → PASO A (generar MD desde libro fuente)
     │
     └─ SÍ → ¿Está completo / actualizado?
-            └─ Si el usuario pide regenerar contenido → PASO A
+            └─ Si el usuario pide regenerar contenido → PASO A0 → PASO A
         │
         ▼
-[3] PASO C — corrección mínima (obligatorio antes de md-to-ts)
+[3] PASO A0 — esqueleto argumental (recomendado antes de redactar)
+    │   docs/prompts/01a-esqueleto-argumental.md → summaries/<slug>.skeleton.md
+        │
+        ▼
+[4] PASO A — MD desde libro, usando el esqueleto como guion
+    │   docs/prompts/01-resumen-desde-libro.md → summaries/<slug>.md
+        │
+        ▼
+[5] PASO B-fid — revisión de fidelidad y cobertura (contenido)
+    │   docs/prompts/01b-revision-fidelidad.md   ← si no aprueba, reescribir y repetir
+    │   python3 scripts/check-coverage.py <slug>  ← sin fallas duras (exit 0)
+        │
+        ▼
+[6] PASO C — corrección mínima de prosa (obligatorio antes de md-to-ts)
     │   docs/prompts/01c-correccion-minima.md
     │   python3 scripts/lint-summary.py <slug>   ← debe salir OK (exit 0)
         │
         ▼
-[4] PASO B (MD → src/data/<slug-corto>.ts) — preferir script:
+[7] PASO D (MD → src/data/<slug-corto>.ts) — preferir script:
     │   python3 scripts/md-to-ts.py <slug>
         │
         ▼
-[5] INTEGRAR en src/books/catalog.ts (si es libro nuevo)
+[8] INTEGRAR en src/books/catalog.ts (si es libro nuevo)
         │
         ▼
-[6] npm run build  (obligatorio, debe pasar)
+[9] npm run build  (obligatorio, debe pasar)
         │
         ▼
-[6] (Opcional) legacy/resumen-<slug>.html  ← solo si lo pidió
+[10] (Opcional) legacy/resumen-<slug>.html  ← solo si lo pidió
 ```
 
 **No saltees pasos.** No mezcles extracción y maquetado en un solo archivo de salida.
@@ -111,6 +124,20 @@ Si hay ambigüedad entre varios archivos, **preguntar** al usuario cuál usar.
 
 ---
 
+## Paso A0 — Esqueleto argumental (recomendado)
+
+**Leer:** `docs/prompts/01a-esqueleto-argumental.md`
+
+Antes de redactar, mapear el **argumento** del libro para no perder ideas principales.
+
+1. Extraer texto (si no está): `python3 scripts/extract-epub.py "<nombre o slug>"` → `.extracted/<slug>.txt`
+2. Generar `summaries/<slug>.skeleton.md`: tesis global, hilo conductor y, por capítulo,
+   `idea principal + por qué/evidencia + matiz + conexión + anclas`.
+
+Este esqueleto es el **guion** del Paso A. Es un documento de trabajo (no se publica ni se convierte a TS).
+
+---
+
 ## Paso A — Libro → `summaries/<slug>.md`
 
 **Leer y seguir al pie de la letra:**
@@ -121,7 +148,7 @@ Si hay ambigüedad entre varios archivos, **preguntar** al usuario cuál usar.
 
 **Acciones:**
 
-1. **Extraer texto del libro** (obligatorio antes de resumir):
+1. **Extraer texto del libro** (obligatorio antes de resumir, si no lo hiciste en A0):
    ```bash
    python3 scripts/extract-epub.py "<nombre o slug>"
    # → .extracted/<slug>.txt
@@ -130,16 +157,34 @@ Si hay ambigüedad entre varios archivos, **preguntar** al usuario cuál usar.
    - Detecta EPUB real, PDF (aunque tenga extensión `.epub`) y MOBI disfrazado
    - MOBI/AZW: **no soportado** → pedir conversión a EPUB (Calibre) u otro archivo
    - Listar disponibles: `python3 scripts/extract-epub.py --list`
-2. Leer `.extracted/<slug>.txt` por capítulos (no cargar todo de una si es muy largo)
+2. Leer `summaries/<slug>.skeleton.md` + `.extracted/<slug>.txt` por capítulos (no cargar todo de una si es muy largo)
 3. Generar `summaries/<slug>.md` con **todos** los capítulos del índice original
-4. Incluir: prefacio, capítulos, conceptos clave, cronología, figuras, cierre, footer
-5. **No inventar** citas ni cifras
+4. **Cada capítulo transmite su tesis, no solo datos**: reflejar la `idea principal` del esqueleto
+   (afirmación + porqué) y condensarla en un bloque `<!-- key -->` obligatorio
+5. Incluir: prefacio, capítulos, conceptos clave, cronología, figuras, cierre, footer
+6. **No inventar** citas ni cifras
 
 **No generar** TypeScript ni HTML en este paso.
 
 ---
 
-## Paso C — Corrección mínima (obligatorio)
+## Paso B-fid — Revisión de fidelidad y cobertura (obligatorio)
+
+**Leer:** `docs/prompts/01b-revision-fidelidad.md`
+
+Revisa **contenido** (no prosa): ¿cada capítulo captura su tesis?, ¿cobertura completa?, ¿nada inventado?
+Devuelve secciones a reescribir. Si no aprueba, reescribir (con A0 + A) y repetir.
+
+```bash
+python3 scripts/check-coverage.py <slug>   # sin fallas duras (exit 0); los avisos son orientativos
+```
+
+`check-coverage.py` verifica: consistencia TOC↔secciones, `<!-- key -->` presente por capítulo,
+capítulos no demasiado finos, y cobertura aproximada vs. la fuente.
+
+---
+
+## Paso C — Corrección mínima de prosa (obligatorio)
 
 **Leer:** `docs/prompts/01c-correccion-minima.md`
 

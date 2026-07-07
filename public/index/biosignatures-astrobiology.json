@@ -327,261 +327,286 @@
     },
     {
       "sectionId": "cap14",
+      "sectionTitle": "Datación filogenómica y ancestria de metabolismos procariotas",
+      "text": "Carrine E. Blank propone la datación filogenómica como puente entre genomas completos, rasgos metabólicos inferidos y el registro geológico para acotar cuándo surgieron los grandes linajes procariotas."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "Datación filogenómica y ancestria de metabolismos procariotas",
+      "text": "El desafío astrobiológico central es comprender cómo los microorganismos coevolucionaron con la Tierra. Biomarcadores, isótopos y microfósiles arcaicos se interpretan con ambigüedad en hitos como el fraccionamiento de azufre a ~ 2,4 Ga , el carbono orgánico a ~ 3,5 Ga y la oxigenación a ~ 2,32 Ga . Un solo gen como el ARNr 16S no basta porque la transferencia lateral, la atracción de ramas largas y las polifotomías distorsionan árboles basados en un único marcador."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "Datación filogenómica y ancestria de metabolismos procariotas",
+      "text": "La metodología combina supermatrices de genes conservados, reconstrucción ancestral de estados (ASR) de rasgos fisiológicos y contrastes con el registro rocoso. En arqueas, los clados con ancestros aeróbicos en hábitats demasiado calientes o ácidos para cianobacterias deben ser posteriores a la oxigenación atmosférica (~ 2,32 Ga ). En cambio, la reducción de azufre, la metanogénesis hidrogenotrófica y la hipertermofilia parecen más antiguas."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "Datación filogenómica y ancestria de metabolismos procariotas",
+      "text": "Las arqueas carecen de sinapomorfías morfológicas y los biomarcadores lipídicos rara vez discriminan taxones concretos. La filogenómica aporta entonces restricciones de edad sobre procesos metabólicos. Cada hipótesis debe someterse a ground truthing con isótopos, lípidos y microfósiles en intervalos geológicos definidos."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "Datación filogenómica y ancestria de metabolismos procariotas",
+      "text": "La datación filogenómica acota cuándo surgieron metabolismos procariotas, pero solo es tan fiable como el árbol y el registro que lo contrasta."
+    },
+    {
+      "sectionId": "cap15",
       "sectionTitle": "Microorganismos fósiles en filtraciones de metano",
       "text": "Roberto Barbieri y Barbara Cavalazzi conectan la detección de metano en la atmósfera marciana con ecosistemas de cold seeps terrestres — filtraciones frías ricas en CH₄ documentadas desde el Paleozoico inferior."
     },
     {
-      "sectionId": "cap14",
+      "sectionId": "cap15",
       "sectionTitle": "Microorganismos fósiles en filtraciones de metano",
       "text": "Los carbonatos authigénicos derivados de metano precipitan con comunidades microbianas (arqueas metanotróficas ANME-1/2/3, consorcios simbióticos con metazoos) que fijan la base trófica. El metano en Europa, Titán y Marte reaviva el interés en este trazador biogénico potencial."
     },
     {
-      "sectionId": "cap14",
+      "sectionId": "cap15",
       "sectionTitle": "Microorganismos fósiles en filtraciones de metano",
       "text": "Si la vida marciana fue microbiana y hubo periodos húmedos, los ecosistemas tipo filtración de metano, con alto potencial de fosilización por interacciones microbio-mineral, son analogos prioritarios para misiones ESA/NASA."
     },
     {
-      "sectionId": "cap14",
+      "sectionId": "cap15",
       "sectionTitle": "Microorganismos fósiles en filtraciones de metano",
       "text": "Filtraciones de metano unen trazador atmosférico, ecosistema extremo y registro fósil preservable — núcleo astrobiológico del capítulo de Cavalazzi."
     },
     {
-      "sectionId": "cap15",
+      "sectionId": "cap16",
       "sectionTitle": "Endolitos en ambientes áridos terrestres",
       "text": "Nunzia Stivaletta y Roberto Barbieri describen microbios endolíticos (crypto-, eu- y quasmoendolitos) en desiertos calientes y fríos: Negev, Atacama, Antártida, Ártico."
     },
     {
-      "sectionId": "cap15",
+      "sectionId": "cap16",
       "sectionTitle": "Endolitos en ambientes áridos terrestres",
       "text": "Migran a fracturas y poros donde hay humedad, nutrientes y protección contra UV, sequedad y variaciones térmicas. Fósiles endolíticos se conocen desde el Proterozoico tardío (Formación Eleonora Bay, Groenlandia)."
     },
     {
-      "sectionId": "cap15",
+      "sectionId": "cap16",
       "sectionTitle": "Endolitos en ambientes áridos terrestres",
       "text": "La detección de sulfatos en Marte impulsa el interés en evaporitas continentales como posible hábitat endolítico pasado o presente."
     },
     {
-      "sectionId": "cap15",
+      "sectionId": "cap16",
       "sectionTitle": "Endolitos en ambientes áridos terrestres",
       "text": "El endolito es una estrategia de supervivencia en desierto. Marte árido y radiado favorece la misma lógica de refugio interno."
     },
     {
-      "sectionId": "cap16",
+      "sectionId": "cap17",
       "sectionTitle": "Bacterias magnetotácticas y terraformación",
       "text": "Ioan I. Ardelean y coautores revisan bacterias magnetotácticas (MTB): procariontes con magnetosomas que orientan el nado según el campo geomagnético ( Blakemore , 1975 )."
     },
     {
-      "sectionId": "cap16",
+      "sectionId": "cap17",
       "sectionTitle": "Bacterias magnetotácticas y terraformación",
       "text": "Proponen su potencial en terraformación de Marte por respiración con nitratos/Fe³⁺, fijación de CO₂ en oscuridad y uso de N₂ molecular — complementando fototróficos y extremófilos ya considerados candidatos."
     },
     {
-      "sectionId": "cap16",
+      "sectionId": "cap17",
       "sectionTitle": "Bacterias magnetotácticas y terraformación",
       "text": "La magnetotaxis podría ayudar a navegar hacia condiciones óptimas si existiera campo magnético planetario utilizable."
     },
     {
-      "sectionId": "cap16",
+      "sectionId": "cap17",
       "sectionTitle": "Bacterias magnetotácticas y terraformación",
       "text": "MTB combinan metabolismo versátil y navegación magnética — especulación sobre papel en terraformación, no consenso establecido."
     },
     {
-      "sectionId": "cap17",
+      "sectionId": "cap18",
       "sectionTitle": "Inteligencia humana no es rasgo convergente",
       "text": "Charles H. Lineweaver critica la «hipótesis del Planeta de los Simios»: la idea de que la vida inevitably evoluciona hacia inteligencia tipo humana capaz de construir radiotelescopios."
     },
     {
-      "sectionId": "cap17",
+      "sectionId": "cap18",
       "sectionTitle": "Inteligencia humana no es rasgo convergente",
       "text": "En debates sobre la ecuación de Drake, el término biológico más controvertido es la probabilidad de inteligencia comunicativa tras el origen de la vida. Lineweaver argumenta con pruebas paleontológicas que inteligencia humanoide no es convergencia evolutiva esperable."
     },
     {
-      "sectionId": "cap17",
+      "sectionId": "cap18",
       "sectionTitle": "Inteligencia humana no es rasgo convergente",
       "text": "Biogénesis rápida en la Tierra no implica que complejidad tecnológica sea un attractor universal — relevante para SETI y expectativas públicas sobre vida extraterrestre."
     },
     {
-      "sectionId": "cap17",
+      "sectionId": "cap18",
       "sectionTitle": "Inteligencia humana no es rasgo convergente",
       "text": "La vida microbiana puede ser común, pero la civilización radio-detectable probablemente no lo es."
     },
     {
-      "sectionId": "cap18",
+      "sectionId": "cap19",
       "sectionTitle": "Formas de vida cósmicas",
       "text": "Attila Grandpierre propone el principio de Bauer como primer principio de la biología aplicable más allá de la química proteica: organismos invierten trabajo (∆W) contra el equilibrio termodinámico."
     },
     {
-      "sectionId": "cap18",
+      "sectionId": "cap19",
       "sectionTitle": "Formas de vida cósmicas",
       "text": "Formula BP→VI→BC→∆W→∆Π (interacciones virtuales, acoplamientos biológicos, aumento de extropía). Extiende la noción de vida al Sol, ciclos estelares y formas «intermitentes u ocultas» en el vacío."
     },
     {
-      "sectionId": "cap18",
+      "sectionId": "cap19",
       "sectionTitle": "Formas de vida cósmicas",
       "text": "Es una posición minoritaria y altamente especulativa dentro del volumen. Ilustra el espectro filosófico de la astrobiología más allá del empirismo geológico."
     },
     {
-      "sectionId": "cap18",
+      "sectionId": "cap19",
       "sectionTitle": "Formas de vida cósmicas",
       "text": "Grandpierre amplía «vida» más allá de la bioquímica terrestre — útil como contraste metodológico, no como guía operativa de misión."
     },
     {
-      "sectionId": "cap19",
+      "sectionId": "cap20",
       "sectionTitle": "Huellas astronómicas y astrobiológicas en el registro fósil",
       "text": "Julian Chela-Flores y coautores integran clima espacial , observaciones solares históricas, núcleos de hielo, anillos de árboles y materiales extraterrestres para reconstruir condiciones que afectaron la vida temprana."
     },
     {
-      "sectionId": "cap19",
+      "sectionId": "cap20",
       "sectionTitle": "Huellas astronómicas y astrobiológicas en el registro fósil",
       "text": "Meteoritos, lunares y cometas conservan implantes iónicos y radionúcleidos de rayos cósmicos. Archivos terrestres (sedimentos marinos, corales, nódulos de manganeso) registran proxies climáticos detallados."
     },
     {
-      "sectionId": "cap19",
+      "sectionId": "cap20",
       "sectionTitle": "Huellas astronómicas y astrobiológicas en el registro fósil",
       "text": "El clima espacial y la actividad solar temprana son factores en el origen y evolución de la biosfera — puente entre astronomía y paleobiología."
     },
     {
-      "sectionId": "cap19",
+      "sectionId": "cap20",
       "sectionTitle": "Huellas astronómicas y astrobiológicas en el registro fósil",
       "text": "La vida no evolucionó aislada del entorno cósmico: el Sol y el clima espacial dejaron improntas en el registro terrestre."
     },
     {
-      "sectionId": "cap20",
+      "sectionId": "cap21",
       "sectionTitle": "¿Los impactos causan la mayoría de extinciones masivas?",
       "text": "Donald R. Prothero cuestiona la moda de explicar extinciones masivas por impactos extraterrestres: solo el límite Cretácico-Paleógeno (~ 65 Ma ) tiene evidencia impactante sólida."
     },
     {
-      "sectionId": "cap20",
+      "sectionId": "cap21",
       "sectionTitle": "¿Los impactos causan la mayoría de extinciones masivas?",
       "text": "Horizontes propuestos en otras grandes extinciones resultaron de edad o tamaño incorrectos. Muchos impactos del Eoceno tardío no causaron extinción. Las erupciones de basalto de inundación tampoco explican todos los eventos."
     },
     {
-      "sectionId": "cap20",
+      "sectionId": "cap21",
       "sectionTitle": "¿Los impactos causan la mayoría de extinciones masivas?",
       "text": "Cada extinción masiva muestra un patrón distinto. Los modelos únicos (impacto, volcanismo, CO₂/O₂) fallan como explicación universal. Es una lección de humildad para correlacionar impactos cósmicos y evolución biológica."
     },
     {
-      "sectionId": "cap20",
+      "sectionId": "cap21",
       "sectionTitle": "¿Los impactos causan la mayoría de extinciones masivas?",
       "text": "Un impacto no implica extinción automática. La astrobiología debe evitar narrativas simples sobre catástrofes cósmicas y biosfera."
     },
     {
-      "sectionId": "cap21",
+      "sectionId": "cap22",
       "sectionTitle": "Irradiación de analogos cometarios y origen de la vida",
       "text": "María Colín-García y coautores estudian cómo la irradiación UV de hielos cometarios analogos genera compuestos orgánicos relevantes para la evolución química prebiótica."
     },
     {
-      "sectionId": "cap21",
+      "sectionId": "cap22",
       "sectionTitle": "Irradiación de analogos cometarios y origen de la vida",
       "text": "Los cometas, casi coetáneos con el sistema solar, pueden haber aportado materia orgánica a la Tierra primitiva (hipótesis desde Chamberlin y J. Oró , 1961 ). Los impactos son paradójicos: entregan organics y gases nobles pero también pueden extinguir vida."
     },
     {
-      "sectionId": "cap21",
+      "sectionId": "cap22",
       "sectionTitle": "Irradiación de analogos cometarios y origen de la vida",
       "text": "Experimentos de irradiación en laboratorio complementan modelos atmosféricos terrestres para entender síntesis abiótica y aporte extraterrestre."
     },
     {
-      "sectionId": "cap21",
+      "sectionId": "cap22",
       "sectionTitle": "Irradiación de analogos cometarios y origen de la vida",
       "text": "Cometa = química prebiótica en hielo + posible delivery — y también agente de destrucción masiva."
     },
     {
-      "sectionId": "cap22",
+      "sectionId": "cap23",
       "sectionTitle": "El Big Bang en el tiempo cero",
       "text": "Peter R. Bahn y Steven H. Pravdo tratan la radiación cósmica de fondo (~ 14 Ga ) como el fósil más antiguo y el Big Bang como condición de frontera necesaria para la vida."
     },
     {
-      "sectionId": "cap22",
+      "sectionId": "cap23",
       "sectionTitle": "El Big Bang en el tiempo cero",
       "text": "Premios Nobel a Penzias/Wilson ( 1965 , detección CMB) y Mather/Smoot ( 2006 , detalle CMB) consolidaron un universo con inicio hace ~ 14 mil millones de años frente a la teoría del estado estacionario."
     },
     {
-      "sectionId": "cap22",
+      "sectionId": "cap23",
       "sectionTitle": "El Big Bang en el tiempo cero",
       "text": "En la singularidad inicial no hay espacio-tiempo operativo para causalidad clásica — conclusión filosófica sobre un evento «no causado»."
     },
     {
-      "sectionId": "cap22",
+      "sectionId": "cap23",
       "sectionTitle": "El Big Bang en el tiempo cero",
       "text": "Condición cosmológica previa a cualquier biosfera: universo con origen en el tiempo, no eterno."
     },
     {
-      "sectionId": "cap23",
+      "sectionId": "cap24",
       "sectionTitle": "Improntas moleculares: ¿vivas o no vivas?",
       "text": "Koichiro Matsuno distingue improntas moleculares como registro leído por el paleontólogo versus memoria descifrada por un cuerpo material interno a la organización viva."
     },
     {
-      "sectionId": "cap23",
+      "sectionId": "cap24",
       "sectionTitle": "Improntas moleculares: ¿vivas o no vivas?",
       "text": "Los átomos son reliquias del Big Bang. El ADN de dinosaurios puede reiniciar síntesis proteica en un ribosoma adecuado. Eso borra la frontera entre registro pasivo y agencia biológica."
     },
     {
-      "sectionId": "cap23",
+      "sectionId": "cap24",
       "sectionTitle": "Improntas moleculares: ¿vivas o no vivas?",
       "text": "Las improntas moleculares, lejos de ser solo obstáculo, pueden identificar unidades materiales capaces de buscar contextos donde encajar — marco para origen de la vida en contexto cosmológico."
     },
     {
-      "sectionId": "cap23",
+      "sectionId": "cap24",
       "sectionTitle": "Improntas moleculares: ¿vivas o no vivas?",
       "text": "La biosignatura molecular puede ser evidencia externa para el científico o memoria operativa para el sistema vivo."
     },
     {
-      "sectionId": "cap24",
+      "sectionId": "cap25",
       "sectionTitle": "El caso ALH84001 por vida en Marte",
       "text": "Alfonso F. Davila y coautores repasan el meteorito marciano ALH84001 : carbonatos, estructuras nanoescala y PAHs que en 1996 alimentaron la controversia sobre vida marciana fossilizada."
     },
     {
-      "sectionId": "cap24",
+      "sectionId": "cap25",
       "sectionTitle": "El caso ALH84001 por vida en Marte",
       "text": "Desde Schiaparelli y Lowell hasta Mariner y Viking, Marte pasó de mundo habitable imaginado a desierto frío de CO₂. ALH84001 reabrió el debate científico y público sobre biosignaturas en material retornado."
     },
     {
-      "sectionId": "cap24",
+      "sectionId": "cap25",
       "sectionTitle": "El caso ALH84001 por vida en Marte",
       "text": "Independientemente del veredicto final, el caso definió estándares de evidencia, complejidad interpretativa y la edad dorada de exploración espacial astrobiológica."
     },
     {
-      "sectionId": "cap24",
+      "sectionId": "cap25",
       "sectionTitle": "El caso ALH84001 por vida en Marte",
       "text": "El meteorito ALH84001 dejó una lección sobre cautela: señales ambiguas bajo máximo escrutinio mediático y científico."
     },
     {
-      "sectionId": "cap25",
+      "sectionId": "cap26",
       "sectionTitle": "Ventanas de preservación paleobiológica en Marte",
       "text": "David C. Fernández-Remolar y coautores mapean ventanas de preservación en el registro geológico marciano según mineralogía orbital y in situ (filosilicatos noaquianos, sulfatos hesperianos)."
     },
     {
-      "sectionId": "cap25",
+      "sectionId": "cap26",
       "sectionTitle": "Ventanas de preservación paleobiológica en Marte",
       "text": "Marte albergó hidrología activa en eras pasadas: deltas, sistemas fluviales y lacustres. Los terrenos noaquianos (>~ 3,8 Ga ) concentran filosilicatos en estratos arcaicos. En el Hesperiano ( 3,8–3,0 Ga ) predominan sulfatos ferríferos. Son ambientes distintos para trazas paleobiológicas."
     },
     {
-      "sectionId": "cap25",
+      "sectionId": "cap26",
       "sectionTitle": "Ventanas de preservación paleobiológica en Marte",
       "text": "Integrar geomorfología, mineralogía y geoquímica define dónde buscar texturas organosedimentarias, quimiofósiles o moléculas orgánicas preservables."
     },
     {
-      "sectionId": "cap25",
+      "sectionId": "cap26",
       "sectionTitle": "Ventanas de preservación paleobiológica en Marte",
       "text": "No buscar vida «en Marte» genérico: buscar la ventana mineralógica y temporal correcta."
     },
     {
-      "sectionId": "cap26",
+      "sectionId": "cap27",
       "sectionTitle": "Síntesis, comentarios finales y conclusiones",
       "text": "Joseph Seckbach , Julian Chela-Flores , Aharon Oren y François Raulin cierran el volumen recordando que aún no hay detección confirmada de vida extraterrestre, pero el registro fósil terrestre orienta dónde y cómo buscar."
     },
     {
-      "sectionId": "cap26",
+      "sectionId": "cap27",
       "sectionTitle": "Síntesis, comentarios finales y conclusiones",
       "text": "Repasan estromatolitos como fósiles más antiguos (~ 3,5 Ga en Australia, posibles señales a ~ 3,85 Ga en Groenlandia), «fósiles vivientes» y la definición multidisciplinaria de astrobiología."
     },
     {
-      "sectionId": "cap26",
+      "sectionId": "cap27",
       "sectionTitle": "Síntesis, comentarios finales y conclusiones",
       "text": "Enfatizan analogías extremas, biosignaturas morfológicas y geoquímicas, y la necesidad de cruzar paleontología, microbiología y exploración planetaria."
     },
     {
-      "sectionId": "cap26",
+      "sectionId": "cap27",
       "sectionTitle": "Síntesis, comentarios finales y conclusiones",
       "text": "El volumen no prueba vida extraterrestre: provee el marco terrestre para hacer esa búsqueda con criterio."
     },

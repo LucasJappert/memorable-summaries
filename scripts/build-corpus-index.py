@@ -185,6 +185,8 @@ def main() -> int:
     all_flashcards: list[dict] = []
 
     for md_path in sorted(SUMMARIES.glob("*.md")):
+        if md_path.stem.endswith(".skeleton"):
+            continue
         doc = parse_summary(md_path)
         slug = doc["slug"]
         phase = phase_by_slug.get(slug)

@@ -96,6 +96,11 @@
       "text": "Michael Gazzaniga estudió la confabulación y demostró que el «intérprete» del hemisferio izquierdo fabrica narrativas coherentes incluso cuando desconoce causas reales. La conciencia, por tanto, es poderosa pero no transparente para sí misma."
     },
     {
+      "sectionId": "cap2",
+      "sectionTitle": "Conciencia: mirada de un físico",
+      "text": "Ser consciente es construir modelos del mundo con bucles de retroalimentación, y lo distintivamente humano es simular el futuro para elegir metas."
+    },
+    {
       "sectionId": "cap3",
       "sectionTitle": "Telepatía: leer pensamientos",
       "text": "La “telepatía” aparece en versión tecnológica: interfaces cerebro-máquina que traducen actividad neural. Experimentos de Jack Gallant reconstruyen imágenes y videos borrosos a partir de fMRI, mientras registros ECoG convierten patrones corticales en palabras o comandos básicos."
@@ -109,6 +114,11 @@
       "sectionId": "cap3",
       "sectionTitle": "Telepatía: leer pensamientos",
       "text": "El capítulo introduce la dimensión política: si pensamientos pueden inferirse, la privacidad mental se vuelve un derecho central. Como metáfora de defensa, menciona blindajes tipo jaula de Faraday y, hacia adelante, nanosensores capaces de leer señales con menos invasión."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Telepatía: leer pensamientos",
+      "text": "Si la actividad neural puede decodificarse en imagen o palabra, la privacidad mental se vuelve un derecho a proteger."
     },
     {
       "sectionId": "cap4",
@@ -126,6 +136,11 @@
       "text": "Kaku extiende la idea a materia programable : sistemas que cambian forma bajo control computacional, acercando un escenario donde la intención mental gobierna entornos físicos adaptativos, desde rehabilitación hasta trabajo industrial y exploración peligrosa."
     },
     {
+      "sectionId": "cap4",
+      "sectionTitle": "Telequinesis: mente sobre materia",
+      "text": "Mover materia con la mente ya es ingeniería clínica: la intención neural puede gobernar máquinas, prótesis y entornos."
+    },
+    {
       "sectionId": "cap5",
       "sectionTitle": "Memorias y pensamientos a medida",
       "text": "La memoria se analiza desde el caso de H. M. , que reveló el papel del hipocampo en formar recuerdos nuevos. A partir de esa base, investigadores como Theodore Berger buscan prótesis hipocampales para restaurar circuitos dañados."
@@ -139,6 +154,11 @@
       "sectionId": "cap5",
       "sectionTitle": "Memorias y pensamientos a medida",
       "text": "En la frontera clínica aparecen estrategias para Alzheimer y trauma: modelos animales “inteligentes” por genes NR2B/CREB y fármacos como propranolol para atenuar carga emocional de recuerdos extremos, sin borrar por completo la experiencia vivida."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Memorias y pensamientos a medida",
+      "text": "La memoria es reconstructiva : grabarla, restaurarla o atenuarla abre terapias y a la vez dilemas sobre identidad."
     },
     {
       "sectionId": "cap6",
@@ -156,6 +176,11 @@
       "text": "En genética, menciona candidatos como HAR1 y ASPM . En física, recuerda límites energéticos y temporales del procesamiento cerebral. Aumentar inteligencia tiene fronteras materiales, no solo pedagógicas o computacionales."
     },
     {
+      "sectionId": "cap6",
+      "sectionTitle": "El cerebro de Einstein y la inteligencia",
+      "text": "La inteligencia no es un factor único ni una anatomía especial, sino redes entrenables con límites físicos infranqueables."
+    },
+    {
       "sectionId": "cap7",
       "sectionTitle": "Sueños y conciencia nocturna",
       "text": "Kaku recupera la hipótesis de Allan Hobson (activación-síntesis): los sueños emergen cuando la corteza construye narrativas a partir de señales internas durante REM. No son profecías místicas, sino simulaciones cerebrales con lógica cambiante."
@@ -169,6 +194,11 @@
       "sectionId": "cap7",
       "sectionTitle": "Sueños y conciencia nocturna",
       "text": "El capítulo incluye sueño lúcido y contacto experimental con soñadores en laboratorios europeos, además de escenarios tipo *Inception* mediante lentes de contacto proyectivas. Kaku advierte que manipular sueños abre aplicaciones terapéuticas y dilemas de autonomía mental."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Sueños y conciencia nocturna",
+      "text": "Los sueños son simulaciones cerebrales , no profecías, y por eso ya empiezan a poder fotografiarse y manipularse."
     },
     {
       "sectionId": "cap8",
@@ -186,6 +216,11 @@
       "text": "La frontera actual se desplaza hacia optogenética y neuromodulación precisa para tratar enfermedad mental. El autor insiste en diferenciar investigación terapéutica de fantasías de control absoluto: la hipnosis no reemplaza la agencia personal ni reescribe personalidad profunda."
     },
     {
+      "sectionId": "cap8",
+      "sectionTitle": "¿Se puede controlar la mente?",
+      "text": "La mente no puede dominarse a voluntad: la estimulación modula circuitos, pero no reemplaza la agencia personal ."
+    },
+    {
       "sectionId": "cap9",
       "sectionTitle": "Estados alterados de conciencia",
       "text": "A partir del caso de Juana de Arco , Kaku explora cómo epilepsia del lóbulo temporal, alucinaciones y experiencias intensas pudieron moldear relatos místicos históricos. No reduce lo espiritual a patología, pero propone hipótesis neurobiológicas verificables."
@@ -199,6 +234,11 @@
       "sectionId": "cap9",
       "sectionTitle": "Estados alterados de conciencia",
       "text": "Su marco integrador plantea la enfermedad mental como bucles de retroalimentación alterados entre regiones cerebrales y entorno social. Ese enfoque desplaza el estigma hacia modelos dinámicos de diagnóstico, tratamiento y prevención personalizados."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Estados alterados de conciencia",
+      "text": "Los estados alterados y la enfermedad mental son bucles desregulados entre circuitos, no defectos morales."
     },
     {
       "sectionId": "cap10",
@@ -216,6 +256,11 @@
       "text": "La pregunta de fondo no es solo si una máquina calcula, sino si puede sostener una conciencia de silicio con modelos de sí misma y metas propias. Kaku lo deja abierto, pero anticipa que emoción y cognición podrían integrarse en futuros agentes artificiales."
     },
     {
+      "sectionId": "cap10",
+      "sectionTitle": "Mente artificial y conciencia de silicio",
+      "text": "La IA hoy es estrecha, y la pregunta abierta es si el silicio puede sostener una conciencia con modelos de sí mismo y metas."
+    },
+    {
       "sectionId": "cap11",
       "sectionTitle": "Ingeniería inversa del cerebro",
       "text": "El capítulo presenta dos megaproyectos: BRAIN Initiative (≈ 3.000 millones de dólares ) y Human Brain Project (≈ 1,19 mil millones de euros ). Ambos buscan mapear circuitos y simular funciones para pasar de atlas descriptivo a teoría operacional."
@@ -229,6 +274,11 @@
       "sectionId": "cap11",
       "sectionTitle": "Ingeniería inversa del cerebro",
       "text": "Si la arquitectura mental pudiera reproducirse con fidelidad, surge la pregunta por continuidad personal e inmortalidad. ¿Copiar un patrón cerebral preserva al sujeto o solo crea un duplicado funcional? El autor usa esta tensión como puente hacia capítulos finales."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Ingeniería inversa del cerebro",
+      "text": "No alcanza con mapear el conectoma , porque hay que modelar su dinámica, y copiarlo plantea si sobrevive el yo."
     },
     {
       "sectionId": "cap12",
@@ -246,6 +296,11 @@
       "text": "La visión de nanobots médicos y neuronales apunta a reparar tejidos, mejorar memoria y ampliar percepción. El autor combina entusiasmo tecnológico con cautela filosófica sobre derechos, desigualdad cognitiva y definición jurídica de persona."
     },
     {
+      "sectionId": "cap12",
+      "sectionTitle": "Futuro: mente más allá de la materia",
+      "text": "El yo corporal surge de integrar los sentidos, y ampliarlo o subirlo es concebible, aunque limitado por biología y ética."
+    },
+    {
       "sectionId": "cap13",
       "sectionTitle": "La mente como energía pura",
       "text": "Aquí Kaku especula con escenarios extremos: registrar un conectoma con tecnologías ópticas y “enviarlo” como información. En ese marco, la mente se trataría como patrón energético-informacional antes que como sustancia fija."
@@ -261,6 +316,11 @@
       "text": "También introduce la computación cuántica como posible plataforma para simular procesos complejos, aunque sin afirmar que la conciencia sea inherentemente cuántica. La tesis es prudente: la física abre puertas, pero no autoriza atajos mágicos."
     },
     {
+      "sectionId": "cap13",
+      "sectionTitle": "La mente como energía pura",
+      "text": "Tratar la mente como patrón de información permite imaginarla viajando, pero la física no autoriza atajos mágicos."
+    },
+    {
       "sectionId": "cap14",
       "sectionTitle": "La mente alienígena",
       "text": "Datos de exoplanetas (misiones tipo Kepler ) llevan a Kaku a normalizar la posibilidad de mundos habitables. La cuestión deja de ser «si hay vida» para pasar a «qué formas de conciencia pueden surgir en entornos distintos»."
@@ -274,6 +334,11 @@
       "sectionId": "cap14",
       "sectionTitle": "La mente alienígena",
       "text": "El concepto de umwelt muestra que cada especie percibe un universo sensorial propio. Por eso, una mente extraterrestre avanzada podría resultarnos tan extraña como nosotros lo somos para un insecto: detectable quizá, comprensible no necesariamente."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "La mente alienígena",
+      "text": "La conciencia adopta muchas formas según el umwelt de cada especie, así que una mente alienígena podría ser detectable pero incomprensible."
     },
     {
       "sectionId": "cap15",

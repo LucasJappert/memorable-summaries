@@ -14,6 +14,7 @@ lang: es
 
 | id | num | label |
 |----|-----|-------|
+| cierre | ★ | La idea central |
 | prefacio | 00 | Introducción |
 | cap1 | 01 | Al principio |
 | cap2 | 02 | La antimateria importa |
@@ -34,6 +35,7 @@ lang: es
 | coda | — | Coda |
 | conceptos | ✦ | Conceptos clave |
 | cronologia | ◈ | Cronología |
+| figuras | ✦ | Figuras clave |
 
 ---
 

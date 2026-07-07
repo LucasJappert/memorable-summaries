@@ -46,6 +46,9 @@ Tegmark agradece a familia, colegas y revisores, entre ellos <span class="person
 <!-- paragraph -->
 El libro no es un texto de consenso comunitario: es la búsqueda personal del autor sobre la naturaleza última de la realidad, desde la cosmología hasta la mecánica cuántica y la hipótesis de que el universo físico es un objeto matemático.
 
+<!-- key -->
+Tegmark invita a un viaje detective: la <span class="key-term">realidad externa</span> podría ser puramente matemática, no solo describible con ecuaciones.
+
 ---
 
 # cap1
@@ -70,7 +73,7 @@ Tegmark adopta el enfoque del detective: empezar con preguntas como «¿Qué tan
 | 🧠 | Parte III | Paso atrás: realidad interna/externa, MUH, tiempo, multiverso IV y futuro de la vida. |
 
 <!-- key -->
-La lección principal de la física: <span class="key-term">la realidad última no es como parece</span>, ni en lo muy grande ni en lo muy pequeño.
+La física demuestra que la realidad última difiere de la intuición, y las ecuaciones apuntan a que podría ser un <span class="key-term">objeto matemático</span>.
 
 ---
 
@@ -96,7 +99,7 @@ La historia es de subestimación repetida. <span class="person">Eratóstenes</sp
 | ~3 millones al | Distancia corregida a la galaxia de Andrómeda |
 
 <!-- key -->
-Cada vez que ampliamos el horizonte, descubrimos que lo conocido forma parte de algo <span class="key-term">aún más grande</span>.
+Cada ampliación del horizonte revela estructuras mayores. El espacio mismo podría ser un objeto <span class="key-term">matemático</span> (dimensionalidad, curvatura, topología).
 
 ---
 
@@ -125,7 +128,7 @@ Las nubes moleculares gigantes colapsan por gravedad frente a presión, formando
 | 1992 | COBE detecta fluctuaciones del CMB. |
 
 <!-- key -->
-Los telescopios son máquinas del tiempo: mirar lejos es mirar al pasado cósmico.
+Las leyes de Newton y la cosmología reconstruyen ~<span class="num">14 mil millones</span> años de historia. Los telescopios muestran ese pasado como <span class="key-term">película cósmica</span>.
 
 ---
 
@@ -152,7 +155,7 @@ Tegmark contribuyó al análisis de datos (Saskatoon, QMAP, WMAP). Boomerang (<s
 | ~0,002% | Amplitud de fluctuaciones del CMB a los 400.000 años |
 
 <!-- key -->
-La cosmología pasó de especulativa a <span class="key-term">ciencia de precisión</span> gracias al CMB y mapas de galaxias.
+La cosmología de precisión revela leyes matemáticas simples hasta el origen. Los átomos son solo ~<span class="num">5%</span> del <span class="key-term">presupuesto cósmico</span>.
 
 ---
 
@@ -178,7 +181,7 @@ La inflación resuelve los tres problemas. Convierte una mota subatómica en un 
 | 📐 | Problema planitud | Ω=1 inestable; inflación estira curvatura hasta indetectabilidad. |
 
 <!-- key -->
-La inflación conecta lo <span class="key-term">más pequeño</span> (cuántica) con lo más grande (galaxias).
+La inflación resuelve horizonte, planitud y origen del Bang conectando <span class="key-term">fluctuaciones cuánticas</span> microscópicas con estructura galáctica.
 
 ---
 
@@ -201,7 +204,7 @@ Los estudiantes en universos paralelos de nivel I aprenden la misma física pero
 - **Nivel II** — Regiones post-inflacionarias con distintas leyes o constantes; inflación convierte potencialidad matemática en realidad.
 
 <!-- key -->
-La inflación convierte ecuaciones con múltiples soluciones en <span class="key-term">infinitas regiones</span> que las instancian.
+Los multiversos I–II son predicciones de inflación eterna que convierte <span class="key-term">soluciones matemáticas múltiples</span> en regiones físicas infinitas.
 
 ---
 
@@ -227,7 +230,7 @@ La luz son fotones. El arcoíris y las líneas espectrales de Fraunhofer se expl
 | 📊 | Números cuánticos | Propiedades intrínsecas puramente matemáticas de cada partícula. |
 
 <!-- key -->
-Los bloques más profundos parecen ser <span class="key-term">objetos matemáticos</span>, no bolitas con textura.
+Las partículas elementales solo tienen <span class="key-term">números cuánticos</span> como propiedades intrínsecas y obedecen Schrödinger, no Newton.
 
 ---
 
@@ -250,7 +253,7 @@ El multiverso cuántico (nivel III) se unifica con el espacial (nivel I): la fun
 — Yogi Berra (epígrafe del capítulo)
 
 <!-- key -->
-Sin colapso ad hoc, la ecuación de Schrödinger predice <span class="key-term">ramificaciones paralelas</span> en cada evento cuántico.
+La cuántica más simple implica una única función de onda en espacio de Hilbert. El <span class="key-term">azar cuántico</span> sería ilusión por clonación en ramas paralelas.
 
 ---
 
@@ -269,7 +272,7 @@ La física teórica describe la realidad externa con matemáticas muy distintas 
 La conciencia no impide entender la realidad física externa por completo. Tegmark relata la pérdida de su maleta rumbo a un documental sobre Everett — metáfora de cuánto filtra nuestra percepción.
 
 <!-- key -->
-Una sola realidad externa, pero <span class="key-term">perspectivas complementarias</span> según el nivel de descripción.
+Hay una realidad externa única, pero la descripción matemática de la física difiere de la <span class="key-term">percepción interna</span>. La física deriva la realidad consensuada.
 
 ---
 
@@ -295,7 +298,7 @@ Si aceptas realidad externa independiente de humanos, debes aceptar que la reali
 | 🎒 | Equipaje | Conceptos humanos (palabras, colores) no pertenecen a la ToE. |
 
 <!-- key -->
-Vivimos dentro de un objeto matemático gigante — más complejo que un <span class="key-term">dodecaedro</span> o una variedad de Calabi-Yau.
+Si existe realidad externa independiente de humanos, debe ser <span class="key-term">estructura matemática</span>: la MUH implica que vivimos dentro de un objeto matemático colosal.
 
 ---
 
@@ -318,7 +321,7 @@ Los qualia («yo», «rojo», «dulce») son parte del modelo interno, no de la 
 — Albert Einstein, 1955
 
 <!-- key -->
-Bajo la MUH, el tiempo no fluye en la estructura matemática. <span class="key-term">Solo parece fluir</span> en tu cabeza.
+Bajo la MUH, espacio y tiempo existen en estructuras eternas. El <span class="key-term">flujo temporal</span> es ilusión generada por el modelo cinematográfico del cerebro.
 
 ---
 
@@ -343,7 +346,7 @@ El multiverso forma una jerarquía de cuatro niveles: I (regiones lejanas del es
 - **Nivel IV** — Otras estructuras matemáticas; realidad física = existencia matemática.
 
 <!-- key -->
-El multiverso IV es el más diverso: <span class="key-term">cualquier estructura matemática</span> consistente existe físicamente.
+La MUH implica que existencia matemática y existencia física son lo mismo. El multiverso IV contiene <span class="key-term">todas las estructuras matemáticas</span> consistentes.
 
 ---
 
@@ -369,7 +372,7 @@ Tegmark advierte sobre riesgos existenciales poco atendidos: guerra nuclear acci
 | 0 (evidencia) | Civilizaciones más avanzadas que la humana detectadas |
 
 <!-- key -->
-Somos parte consciente de una estructura matemática. Nuestro futuro depende de <span class="key-term">decisiones que aún podemos tomar</span>.
+Macro y micro convergen en estructuras matemáticas. El futuro de la vida consciente supera lo visto y depende de <span class="key-term">riesgos existenciales</span> que aún podemos evitar.
 
 ---
 

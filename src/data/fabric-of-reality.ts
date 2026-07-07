@@ -17,20 +17,49 @@ export const fabricOfReality: BookSummary = {
     {
       id: "prefacio",
       num: "Prefacio",
-      title: "Tomar en serio las teorías profundas",
+      title: "La Teoría del Todo",
       blocks: [
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Deutsch sostiene que una comprensión real del mundo exige tomar en serio las mejores teorías científicas como <span class=\"term\">explicaciones</span>, no solo como instrumentos de predicción.",
+          html: "Deutsch parte de una idea exigente. El conocimiento científico consiste sobre todo en <span class=\"term\">explicaciones</span>, no en predicciones. Los hechos se consultan y las predicciones solo sirven para diseñar los experimentos que deciden entre teorías rivales que ya son buenas explicaciones.",
         },
         {
           type: 'paragraph',
-          html: "El libro busca una visión unificada entre cuatro líneas: <span class=\"term\">mecánica cuántica</span>, <span class=\"term\">epistemología popperiana</span>, <span class=\"term\">teoría de la computación</span> y <span class=\"term\">evolución</span>. Su apuesta es que juntas describen mejor la estructura de la realidad.",
+          html: "Contra la intuición de que la ciencia se fragmenta en especialidades inabarcables, sostiene que nuestras mejores teorías se vuelven más profundas y se integran entre sí. Por eso nos acercamos, y no nos alejamos, de un estado en que una sola persona podría entender todo lo entendido.",
+        },
+        {
+          type: 'paragraph',
+          html: "Esa <span class=\"term\">Teoría del Todo</span> es más amplia que la que buscan los físicos de partículas, porque la realidad no se compone solo de espacio, tiempo y partículas, sino también de vida, pensamiento y cómputo. La sostienen cuatro hilos que se explican mejor juntos.",
+        },
+        {
+          type: 'concept-grid',
+          items: [
+            {
+              "title": "Física cuántica",
+              "description": "El multiverso de universos paralelos que interfieren entre sí.",
+              "icon": "⚛️"
+            },
+            {
+              "title": "Epistemología",
+              "description": "Cómo crece el conocimiento por conjetura y crítica (Popper).",
+              "icon": "🧠"
+            },
+            {
+              "title": "Computación",
+              "description": "La universalidad que hace comprensible la realidad (Turing).",
+              "icon": "💻"
+            },
+            {
+              "title": "Evolución",
+              "description": "La vida como replicadores que encarnan conocimiento.",
+              "icon": "🧬"
+            }
+          ],
         },
         {
           type: 'key',
-          html: "La meta de la ciencia es explicar la realidad en profundidad, aunque sus conclusiones desafíen la intuición.",
+          html: "Entender la realidad no es acumular datos, sino explicar en profundidad, hasta que las mejores teorías solo puedan comprenderse juntas.",
         },
       ],
     },
@@ -42,15 +71,19 @@ export const fabricOfReality: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Los experimentos de interferencia muestran que la luz no se comporta como si viajara en un único mundo clásico. Ciertos patrones de <span class=\"term\">sombras</span> exigen una explicación más amplia.",
+          html: "Los experimentos de <span class=\"term\">interferencia</span> esconden un hecho perturbador. En un patrón de sombras hay puntos que se oscurecen cuando se abren nuevas rendijas en la barrera, y esto ocurre incluso lanzando <span class=\"term\">fotones</span> de a uno.",
         },
         {
           type: 'paragraph',
-          html: "Deutsch defiende que la mejor explicación es un <span class=\"term\">multiverso</span> cuántico donde distintas historias físicas se influyen. Lo decisivo no es lo extraño de la idea, sino su poder explicativo frente a alternativas ad hoc.",
+          html: "Si un solo fotón atraviesa el aparato, algo tiene que interferir con él para bloquearlo justo donde antes había luz. Deutsch argumenta que ese «algo» son fotones sombra que viajan por otros universos y solo se detectan por su interferencia con el nuestro.",
+        },
+        {
+          type: 'paragraph',
+          html: "La conclusión es que el universo que vemos no es toda la realidad física. Existe un <span class=\"term\">multiverso</span> con enormes cantidades de universos paralelos. Lo que vuelve creíble la idea no es su rareza, sino que toda alternativa exige maniobras artificiales que explican menos.",
         },
         {
           type: 'key',
-          html: "La interferencia cuántica apunta a una realidad con múltiples universos físicamente reales.",
+          html: "La interferencia de partículas individuales solo tiene una explicación no forzada, y es que existen universos paralelos físicamente reales.",
         },
       ],
     },
@@ -62,15 +95,19 @@ export const fabricOfReality: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Deutsch rechaza el <span class=\"term\">inductivismo</span>: repetir observaciones no basta para justificar teorías ni para crearlas.",
+          html: "Deutsch ataca el <span class=\"term\">inductivismo</span>, la idea de que las teorías se obtienen y se justifican acumulando observaciones. Repetir casos nunca prueba una ley, y ni siquiera se puede extrapolar una observación sin un marco explicativo previo.",
         },
         {
           type: 'paragraph',
-          html: "Siguiendo a <span class=\"person\">Popper</span>, Deutsch sostiene que la ciencia avanza resolviendo problemas. Se formulan conjeturas, se critican y se reemplazan por explicaciones mejores. El experimento refuta errores, pero no otorga certeza final.",
+          html: "Siguiendo a <span class=\"person\">Popper</span>, propone que la ciencia es resolución de problemas. Aparece un problema cuando nuestras explicaciones fallan, y entonces formulamos <span class=\"term\">conjeturas</span>, las criticamos y descartamos las peores. El experimento refuta errores, pero no otorga certeza final.",
+        },
+        {
+          type: 'paragraph',
+          html: "Ese proceso se parece a la evolución biológica, donde sobreviven las variantes mejor adaptadas. Las teorías que superan la crítica se vuelven las vigentes, hasta que nuevos problemas exigen explicaciones aún mejores.",
         },
         {
           type: 'key',
-          html: "El conocimiento crece por crítica racional entre explicaciones rivales, no por acumulación de casos.",
+          html: "El conocimiento crece por crítica racional entre explicaciones rivales, no por acumular observaciones que «confirmen».",
         },
       ],
     },
@@ -82,15 +119,19 @@ export const fabricOfReality: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El caso de <span class=\"person\">Galileo</span> muestra que la disputa científica no es solo por «ajustar datos», sino por qué teoría describe mejor lo real.",
+          html: "¿Qué nos autoriza a llamar «real» a algo que no vemos, como los universos paralelos? Deutsch responde con un criterio simple. Es real aquello complejo y autónomo que «devuelve el golpe», el <span class=\"term\">criterio de Dr. Johnson</span>.",
         },
         {
           type: 'paragraph',
-          html: "Deutsch prioriza explicaciones menos artificiosas y más profundas. Una teoría puede coincidir con observaciones y, sin embargo, ser peor si depende de maniobras arbitrarias.",
+          html: "Lo defiende tomando en serio el <span class=\"term\">solipsismo</span>, la tesis de que solo existe mi mente. Resulta autoconsistente, pero al usarlo como explicación se vuelve un realismo disfrazado y recargado, porque necesita reintroducir toda la complejidad del mundo dentro de la mente. Por eso lo descarta la <span class=\"term\">navaja de Occam</span>.",
+        },
+        {
+          type: 'paragraph',
+          html: "Tomamos como real lo que nuestras mejores explicaciones necesitan para funcionar. Ese mismo mundo tiene una <span class=\"term\">autosemejanza</span> que permite que un trozo de realidad represente a otro, la propiedad que estudiaron primero los teóricos de la computación.",
         },
         {
           type: 'key',
-          html: "Tomamos como real aquello que nuestras mejores explicaciones necesitan para funcionar.",
+          html: "Es real lo que nuestras mejores explicaciones no pueden evitar usar, aunque nunca lo observemos de forma directa.",
         },
       ],
     },
@@ -102,15 +143,19 @@ export const fabricOfReality: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "La <span class=\"term\">realidad virtual</span> revela límites y posibilidades generales de la representación física de experiencias.",
+          html: "La <span class=\"term\">realidad virtual</span> parece un asunto tecnológico, pero para Deutsch es una pista sobre la estructura del mundo. Un generador de realidad virtual da al usuario la experiencia de estar en un entorno determinado.",
         },
         {
           type: 'paragraph',
-          html: "Deutsch distingue entre generar imágenes y generar entornos interactivos completos. El alcance de ambos depende de leyes físicas y de capacidad de cómputo, no solo de ingeniería actual.",
+          html: "Conviene distinguir dos cosas. Una <span class=\"term\">imagen</span> produce sensaciones, mientras que un entorno renderizado además responde de la forma esperada a cada acción posible del usuario. Que esto sea posible no es un detalle de ingeniería, sino la base de la computación, la imaginación, la ciencia y hasta el arte.",
+        },
+        {
+          type: 'paragraph',
+          html: "El alcance de la realidad virtual no lo fija la técnica actual, sino las leyes físicas y la capacidad de cómputo. Esa pregunta por sus límites abre el capítulo siguiente.",
         },
         {
           type: 'key',
-          html: "La virtualidad no es un apéndice tecnológico: ilumina la estructura de la experiencia y de la simulación física.",
+          html: "Que se puedan simular entornos enteros es un hecho profundo sobre la realidad, no un mero truco de las computadoras.",
         },
       ],
     },
@@ -122,15 +167,19 @@ export const fabricOfReality: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Si toda realidad virtual depende de cómputo, su frontera coincide con la <span class=\"term\">computabilidad física</span>.",
+          html: "¿Hasta dónde llega la realidad virtual? Deutsch da una respuesta doble, con un techo altísimo y un límite tajante. Por un lado formula el <span class=\"term\">principio de Turing</span>, según el cual es físicamente posible construir un generador de realidad virtual universal.",
         },
         {
           type: 'paragraph',
-          html: "Deutsch combina la idea de <span class=\"term\">máquina universal</span> con límites de tipo diagonal (Cantor y Turing). Hay procesos que pueden emularse universalmente y otros que quedan fuera de todo cálculo físico posible.",
+          html: "Ese generador universal podría reproducir cualquier entorno físicamente posible. La razón es la <span class=\"term\">máquina universal de Turing</span>, un único objeto capaz de imitar a cualquier otro. Esa universalidad es lo que hace comprensible la realidad, porque una parte del mundo puede modelar a todas las demás.",
+        },
+        {
+          type: 'paragraph',
+          html: "Por otro lado, un <span class=\"term\">argumento diagonal</span> al estilo de Cantor y Turing muestra que la inmensa mayoría de entornos lógicamente posibles nunca podrán renderizarse. Deutsch los llama entornos <span class=\"term\">Cantgotu</span>. La universalidad es enorme, aunque no abarca todo lo imaginable.",
         },
         {
           type: 'key',
-          html: "La computación puede ser universal dentro de lo físicamente computable, pero no abarcar todo lo lógicamente imaginable.",
+          html: "La computación puede ser universal dentro de lo físicamente posible, aunque casi todo lo lógicamente posible quede para siempre fuera de su alcance.",
         },
       ],
     },
@@ -142,15 +191,19 @@ export const fabricOfReality: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "En forma de diálogo, Deutsch desmonta la idea de que toda predicción depende de un principio «el futuro se parece al pasado».",
+          html: "En forma de diálogo, Deutsch remata la discusión sobre cómo se justifica el conocimiento. Su blanco es el <span class=\"term\">cripto-inductivista</span>, quien concede que la inducción es inválida pero sigue creyendo que hace falta algún principio que garantice confiar en la ciencia.",
         },
         {
           type: 'paragraph',
-          html: "La justificación científica no surge de fundamentos infalibles, sino de argumentos que comparan explicaciones y eliminan posturas que empeoran el cuadro general.",
+          html: "El error está en suponer un principio oculto según el cual «el futuro se parecerá al pasado». No existe tal principio. Cuando predecimos, lo hacemos apoyados en explicaciones sobre cómo funcionan las cosas, no en una fe en la repetición.",
+        },
+        {
+          type: 'paragraph',
+          html: "La justificación no descansa en fundamentos infalibles, sino en argumentos que comparan explicaciones y eliminan las que empeoran el cuadro. El conocimiento es falible y, aun así, puede ser objetivo.",
         },
         {
           type: 'key',
-          html: "No hay principio de inducción oculto: hay crítica racional de teorías en problemas concretos.",
+          html: "No hay un principio de inducción escondido detrás de la ciencia, solo crítica racional de explicaciones frente a problemas concretos.",
         },
       ],
     },
@@ -162,15 +215,19 @@ export const fabricOfReality: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Deutsch evita tanto el <span class=\"term\">vitalismo</span> como el reduccionismo superficial: la vida es un fenómeno fundamental para comprender la realidad.",
+          html: "La ciencia desde Galileo pareció mostrar que la vida es un accidente marginal en un universo inmenso. Deutsch invierte esa impresión sin caer en el <span class=\"term\">vitalismo</span>.",
         },
         {
           type: 'paragraph',
-          html: "La clave está en los <span class=\"term\">replicadores</span> (como genes) que preservan información y generan adaptación por selección. Lo vivo no requiere una «sustancia especial», pero sí una explicación informacional profunda.",
+          html: "La clave está en los <span class=\"term\">replicadores</span>, entidades que logran que su entorno las copie. Los <span class=\"term\">genes</span> son replicadores hechos de ADN, y una idea que se propaga es un <span class=\"term\">meme</span>. Estar adaptado a un <span class=\"term\">nicho</span> significa encarnar conocimiento que hace que ese nicho conserve ese conocimiento.",
+        },
+        {
+          type: 'paragraph',
+          html: "Además, la vida fue el primer modo en que la realidad virtual se realizó en la naturaleza, lo que la liga al principio de Turing. A gran escala, la estructura más regular a través de los universos aparece justo donde hay materia que porta conocimiento, como el ADN o los cerebros.",
         },
         {
           type: 'key',
-          html: "La vida es creación y transmisión de conocimiento codificado en procesos físicos replicativos.",
+          html: "La vida es creación y transmisión de conocimiento codificado en procesos físicos, y por eso resulta fundamental, no marginal.",
         },
       ],
     },
@@ -182,15 +239,19 @@ export const fabricOfReality: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "La <span class=\"term\">computación cuántica</span> muestra que la teoría cuántica no es solo formalismo matemático: describe recursos físicos reales.",
+          html: "La <span class=\"term\">computación cuántica</span> demuestra que la teoría cuántica describe recursos físicos reales, no solo un formalismo matemático. Deutsch la presenta como un modo cualitativamente nuevo de aprovechar la naturaleza.",
         },
         {
           type: 'paragraph',
-          html: "Deutsch interpreta su potencia como evidencia a favor de una ontología multiversal: ciertos cálculos se entienden mejor cuando admitimos interferencia entre historias cuánticas.",
+          html: "La universalidad no solo es posible, también es tratable, porque un computador puede reproducir cualquier entorno físicamente posible sin recursos desmesurados. Un computador cuántico resuelve de forma eficiente problemas clásicamente <span class=\"term\">intratables</span>, como la <span class=\"term\">factorización</span> de números grandes.",
+        },
+        {
+          type: 'paragraph',
+          html: "¿De dónde sale esa potencia? Deutsch responde que el cálculo se reparte entre universos paralelos que interfieren. Ese rendimiento es, por tanto, otra evidencia a favor del multiverso. El obstáculo práctico principal es la <span class=\"term\">decoherencia</span>, que degrada la interferencia entre ramas.",
         },
         {
           type: 'key',
-          html: "El poder computacional cuántico refuerza una lectura realista y explicativa de la mecánica cuántica.",
+          html: "El poder de la computación cuántica refuerza una lectura realista de la cuántica, porque se explica mejor admitiendo universos que colaboran.",
         },
       ],
     },
@@ -202,15 +263,19 @@ export const fabricOfReality: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Las matemáticas no aparecen como mero juego simbólico, sino como parte del mapa de posibilidades y límites del mundo físico.",
+          html: "Deutsch desafía la creencia de que la matemática es el reino de la certeza absoluta. Sostiene que el conocimiento matemático es derivado y depende de nuestra física.",
         },
         {
           type: 'paragraph',
-          html: "Deutsch conecta verdad matemática, demostrabilidad y computación, incorporando los límites internos de sistemas formales sin renunciar al realismo matemático.",
+          html: "Una <span class=\"term\">demostración</span> no es una cadena de símbolos infalible, sino un cómputo físico que modela las propiedades de una entidad abstracta. Su validez depende de que sean correctas nuestras teorías sobre los objetos con que demostramos, así que no otorga certeza.",
+        },
+        {
+          type: 'paragraph',
+          html: "El <span class=\"term\">teorema de incompletitud</span> de <span class=\"person\">Gödel</span> hundió el sueño de <span class=\"person\">Hilbert</span> de fijar de una vez la certeza matemática. Aun así, Deutsch mantiene el realismo, porque las entidades abstractas complejas existen objetivamente, incluso las incomprensibles, que solo aparecen dentro de nuestras explicaciones de las comprensibles.",
         },
         {
           type: 'key',
-          html: "La matemática expresa estructuras objetivas que dialogan con física, prueba y cómputo.",
+          html: "Las verdades matemáticas son objetivas pero no ciertas, porque conocerlas depende de lo que sepamos del mundo físico.",
         },
       ],
     },
@@ -222,15 +287,19 @@ export const fabricOfReality: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El <span class=\"term\">tiempo</span> no es un añadido externo a la teoría cuántica: atraviesa su forma de describir cambio y posibilidad.",
+          html: "El <span class=\"term\">tiempo</span> es, para Deutsch, el primer concepto cuántico, aunque se descubriera milenios antes que la cuántica. Su tesis provocadora es que el tiempo no fluye.",
         },
         {
           type: 'paragraph',
-          html: "Deutsch insiste en que las intuiciones temporales clásicas pueden bloquear buenas explicaciones cuánticas. Entender el tiempo exige revisar esos marcos.",
+          html: "La sensación de que el presente «se mueve» hacia el futuro no describe nada real. La realidad es un <span class=\"term\">multiverso</span>, y lo que llamamos otros momentos son en verdad casos especiales de otros universos, no etapas por las que algo se desplaza.",
+        },
+        {
+          type: 'paragraph',
+          html: "Por eso la física del <span class=\"term\">espacio-tiempo</span>, como la relatividad, es a lo sumo una aproximación. Nuestras intuiciones temporales clásicas bloquean las buenas explicaciones, y conviene revisarlas para entender el cambio y la causalidad.",
         },
         {
           type: 'key',
-          html: "Pensar el tiempo cuánticamente implica abandonar simplificaciones clásicas sobre historia y causalidad.",
+          html: "El tiempo no fluye, y pensar «otros tiempos» como otros universos disuelve las paradojas de un presente en movimiento.",
         },
       ],
     },
@@ -242,15 +311,19 @@ export const fabricOfReality: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Los <span class=\"term\">viajes temporales</span> se analizan como cuestión de consistencia física, no como paradoja narrativa.",
+          html: "Deutsch trata los <span class=\"term\">viajes en el tiempo</span> como un problema de coherencia física, no como una fantasía. Distingue el viaje al futuro, que solo dilata el tiempo, del viaje al pasado, que es el interesante.",
         },
         {
           type: 'paragraph',
-          html: "Deutsch examina bucles causales y muestra que muchas contradicciones vienen de imponer supuestos clásicos incompatibles con teorías más generales.",
+          html: "Las paradojas clásicas se disuelven con el multiverso. En la <span class=\"term\">paradoja del abuelo</span> el viajero conserva su libertad de acción, pero en general llega al pasado de un universo distinto, así que no borra su propio origen. Algo parecido ocurre con la <span class=\"term\">paradoja del conocimiento</span>.",
+        },
+        {
+          type: 'paragraph',
+          html: "Que el viaje al pasado sea factible o no queda abierto. Lo que Deutsch muestra es que analizarlo exige los cuatro hilos a la vez, desde la cuántica hasta la epistemología que limita cómo puede aparecer el conocimiento.",
         },
         {
           type: 'key',
-          html: "La pregunta no es «si suena absurdo», sino qué configuraciones temporales son coherentes con las leyes físicas.",
+          html: "Viajar al pasado no es paradójico, porque uno actúa con libertad pero en el pasado de otro universo.",
         },
       ],
     },
@@ -262,15 +335,19 @@ export const fabricOfReality: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Aquí se unifican explícitamente los cuatro pilares del libro: <span class=\"term\">cuántica</span>, <span class=\"term\">epistemología</span>, <span class=\"term\">computación</span> y <span class=\"term\">evolución</span>.",
+          html: "Aquí Deutsch une explícitamente los cuatro hilos y señala un patrón histórico llamativo. Las cuatro teorías fundamentales fueron a la vez aceptadas para usarlas y rechazadas como descripción de la realidad.",
         },
         {
           type: 'paragraph',
-          html: "Deutsch defiende que cada hilo corrige y completa a los demás. La visión conjunta explica mejor por qué el universo puede contener conocimiento y cómo ese conocimiento progresa.",
+          html: "Tomada por separado, cada teoría deja huecos y suena fría o pesimista, y basar en una sola toda la visión del mundo es una forma de reduccionismo. Unidas, en cambio, se corrigen y se completan. La <span class=\"term\">interpretación de Copenhague</span> ejemplifica una maniobra para evadir lo que la cuántica dice sobre lo real.",
+        },
+        {
+          type: 'paragraph',
+          html: "Ese rechazo no nace de fallas de las teorías, sino de sostener un solo <span class=\"term\">paradigma</span> a la vez, como describió Kuhn. La visión conjunta explica mejor por qué el universo puede contener conocimiento y cómo ese conocimiento progresa.",
         },
         {
           type: 'key',
-          html: "La «trama» de la realidad se vuelve inteligible cuando los cuatro hilos se leen como una sola teoría explicativa.",
+          html: "Los cuatro hilos parecen fríos por separado, pero leídos como una sola explicación vuelven inteligible la trama de la realidad.",
         },
       ],
     },
@@ -282,15 +359,19 @@ export const fabricOfReality: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El cierre proyecta las consecuencias cosmológicas del marco propuesto: límites físicos, destino de la complejidad y futuro del conocimiento.",
+          html: "En el cierre, Deutsch proyecta el marco hasta el final del cosmos apoyándose en el <span class=\"term\">punto Omega</span> de <span class=\"person\">Frank Tipler</span>. La pregunta ya no es el pasado del universo, sino la mayor parte del espacio-tiempo, que está en su futuro.",
         },
         {
           type: 'paragraph',
-          html: "Más que un final cerrado, Deutsch propone un horizonte abierto. En él, las leyes de la naturaleza y la capacidad explicativa de mentes racionales codeterminan lo posible.",
+          html: "En ciertos modelos del <span class=\"term\">Big Crunch</span>, la violencia del colapso final permitiría memoria y pasos de cómputo infinitos en un tiempo finito. Sostener ese cómputo, sin embargo, exige «pilotear» el colapso, y eso obliga a crear conocimiento sin cesar. Del <span class=\"term\">principio de Turing</span> se sigue entonces que la inteligencia debe sobrevivir hasta el fin.",
+        },
+        {
+          type: 'paragraph',
+          html: "Ese destino impone fechas límite, como dominar el Sol antes de unos <span class=\"num\">5000 millones</span> de años y luego colonizar la galaxia y el universo entero. Deutsch defiende solo el componente científico y rechaza la lectura casi religiosa de Tipler, porque el futuro no será una mente única sino comunidades que discrepan y se equivocan a escala titánica.",
         },
         {
           type: 'key',
-          html: "El futuro cósmico depende de la interacción entre restricciones físicas y creación continua de conocimiento.",
+          html: "Si el principio de Turing es cierto, el conocimiento y la inteligencia deben perdurar hasta el fin del universo, aunque siempre falibles.",
         },
       ],
     },
@@ -298,31 +379,31 @@ export const fabricOfReality: BookSummary = {
   keyConcepts: [
   {
     "title": "Multiverso",
-    "description": "Conjunto de universos paralelos cuya interacción explica fenómenos cuánticos."
+    "description": "Toda la realidad física: muchos universos paralelos que interfieren débilmente."
   },
   {
     "title": "Explicación",
-    "description": "Criterio central de una teoría: decir por qué pasa algo, no solo prever que pasará."
+    "description": "Decir por qué pasa algo, no solo prever que pasará; es el núcleo de la ciencia."
   },
   {
     "title": "Inductivismo",
-    "description": "Doctrina criticada que intenta justificar teorías por acumulación de observaciones."
+    "description": "Doctrina que se critica: pretende justificar teorías acumulando observaciones."
   },
   {
     "title": "Conjetura y refutación",
-    "description": "Dinámica popperiana de progreso del conocimiento mediante crítica."
+    "description": "Dinámica popperiana: el conocimiento progresa por crítica de explicaciones rivales."
   },
   {
-    "title": "Realismo crítico",
-    "description": "Compromiso con entidades no observables cuando son parte de la mejor explicación."
-  },
-  {
-    "title": "Computabilidad",
-    "description": "Distinción entre problemas resolubles por procesos físicos y no resolubles."
+    "title": "Criterio de realidad",
+    "description": "Es real lo complejo y autónomo que «devuelve el golpe» (Dr. Johnson)."
   },
   {
     "title": "Principio de Turing",
-    "description": "Posibilidad de una máquina universal que emule cualquier cómputo físicamente posible."
+    "description": "Es físicamente posible construir un generador de realidad virtual universal."
+  },
+  {
+    "title": "Entornos Cantgotu",
+    "description": "Entornos lógicamente posibles que ningún generador físico puede renderizar."
   },
   {
     "title": "Replicador",
@@ -330,7 +411,7 @@ export const fabricOfReality: BookSummary = {
   },
   {
     "title": "Conocimiento objetivo",
-    "description": "Información explicativa que puede criticarse y mejorarse independientemente del autor."
+    "description": "Información explicativa criticable y mejorable, con estructura a través de universos."
   },
   {
     "title": "Cuatro hilos",
@@ -340,23 +421,23 @@ export const fabricOfReality: BookSummary = {
   chronology: [
   {
     "year": "1633",
-    "text": "Proceso a Galileo; disputa entre autoridad doctrinal y método científico."
+    "text": "Proceso a Galileo: autoridad doctrinal frente a método científico."
   },
   {
     "year": "1859",
-    "text": "Publicación de Darwin sobre selección natural."
+    "text": "Darwin publica la teoría de la selección natural."
   },
   {
     "year": "1931",
-    "text": "Gödel establece límites de sistemas formales (incompletitud)."
+    "text": "Gödel establece los límites de los sistemas formales (incompletitud)."
   },
   {
     "year": "1936",
-    "text": "Turing, Church y Post formalizan modelos de computación universal."
+    "text": "Turing, Church y Post formalizan la computación universal."
   },
   {
     "year": "1957",
-    "text": "Everett presenta la interpretación de muchos mundos en cuántica."
+    "text": "Everett presenta la interpretación de muchos mundos."
   },
   {
     "year": "1985",
@@ -370,11 +451,11 @@ export const fabricOfReality: BookSummary = {
   figures: [
   {
     "name": "David Deutsch",
-    "role": "Físico; autor del marco unificado presentado en el libro."
+    "role": "Físico; autor del marco unificado de los cuatro hilos."
   },
   {
     "name": "Karl Popper",
-    "role": "Filósofo; teoría de conjeturas y refutaciones como base epistemológica."
+    "role": "Filósofo; conjeturas y refutaciones como base epistemológica."
   },
   {
     "name": "Hugh Everett III",
@@ -382,23 +463,27 @@ export const fabricOfReality: BookSummary = {
   },
   {
     "name": "Alan Turing",
-    "role": "Matemático; concepto de computación universal y límites del cálculo."
+    "role": "Matemático; computación universal y sus límites."
+  },
+  {
+    "name": "Frank Tipler",
+    "role": "Físico; teoría del punto Omega sobre el fin del universo."
   },
   {
     "name": "Galileo Galilei",
-    "role": "Figura histórica del método experimental y del realismo científico."
+    "role": "Método experimental y realismo científico."
   },
   {
     "name": "Charles Darwin",
-    "role": "Teoría evolutiva de la selección natural aplicada al origen de adaptación."
+    "role": "Selección natural como origen de la adaptación."
   },
   {
     "name": "Kurt Gödel",
-    "role": "Lógico; límites de demostración en sistemas formales."
+    "role": "Lógico; límites de la demostración en sistemas formales."
   },
   {
     "name": "Richard Dawkins",
-    "role": "Biólogo; desarrollo y difusión del concepto de replicador/meme."
+    "role": "Biólogo; desarrollo del concepto de replicador y meme."
   }
 ],
   closing: {

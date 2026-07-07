@@ -133,8 +133,8 @@ Los sentimientos son mecanismos bioquímicos de cálculo de probabilidades de su
 Los sensores biométricos convertirán elecciones de películas en decisiones sobre estudios, trabajo y pareja. Como con Google Maps, aprenderemos a confiar en algoritmos más que en el instinto. Churchill dijo que la democracia es el peor sistema excepto los demás. Podríamos llegar a la misma conclusión sobre los algoritmos.
 
 <!-- quote -->
-> «Cuando alguien gane la capacidad de hackear el corazón humano, la política democrática mutará en un espectáculo de marionetas emocional.»
-— Yuval Noah Harari (parafraseando la tesis del capítulo)
+> «Una vez que alguien —ya sea en Pekín o en San Francisco— obtenga la capacidad tecnológica de hackear y manipular el corazón humano, la política democrática mutará en un espectáculo de marionetas emocional.»
+— Yuval Noah Harari
 
 <!-- key -->
 La dependencia del «corazón» liberal puede ser su talón de Aquiles: quien controle los algoritmos que leen emociones controlará la política.

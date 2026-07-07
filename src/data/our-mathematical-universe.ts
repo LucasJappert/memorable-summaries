@@ -119,6 +119,10 @@ export const ourMathematicalUniverse: BookSummary = {
           type: 'paragraph',
           html: "El libro no es un texto de consenso comunitario: es la búsqueda personal del autor sobre la naturaleza última de la realidad, desde la cosmología hasta la mecánica cuántica y la hipótesis de que el universo físico es un objeto matemático.",
         },
+        {
+          type: 'key',
+          html: "Tegmark invita a un viaje detective: la <span class=\"key-term\">realidad externa</span> podría ser puramente matemática, no solo describible con ecuaciones.",
+        },
       ],
     },
     {
@@ -161,7 +165,7 @@ export const ourMathematicalUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "La lección principal de la física: <span class=\"key-term\">la realidad última no es como parece</span>, ni en lo muy grande ni en lo muy pequeño.",
+          html: "La física demuestra que la realidad última difiere de la intuición, y las ecuaciones apuntan a que podría ser un <span class=\"key-term\">objeto matemático</span>.",
         },
       ],
     },
@@ -202,7 +206,7 @@ export const ourMathematicalUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "Cada vez que ampliamos el horizonte, descubrimos que lo conocido forma parte de algo <span class=\"key-term\">aún más grande</span>.",
+          html: "Cada ampliación del horizonte revela estructuras mayores. El espacio mismo podría ser un objeto <span class=\"key-term\">matemático</span> (dimensionalidad, curvatura, topología).",
         },
       ],
     },
@@ -255,7 +259,7 @@ export const ourMathematicalUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "Los telescopios son máquinas del tiempo: mirar lejos es mirar al pasado cósmico.",
+          html: "Las leyes de Newton y la cosmología reconstruyen ~<span class=\"num\">14 mil millones</span> años de historia. Los telescopios muestran ese pasado como <span class=\"key-term\">película cósmica</span>.",
         },
       ],
     },
@@ -300,7 +304,7 @@ export const ourMathematicalUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "La cosmología pasó de especulativa a <span class=\"key-term\">ciencia de precisión</span> gracias al CMB y mapas de galaxias.",
+          html: "La cosmología de precisión revela leyes matemáticas simples hasta el origen. Los átomos son solo ~<span class=\"num\">5%</span> del <span class=\"key-term\">presupuesto cósmico</span>.",
         },
       ],
     },
@@ -344,7 +348,7 @@ export const ourMathematicalUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "La inflación conecta lo <span class=\"key-term\">más pequeño</span> (cuántica) con lo más grande (galaxias).",
+          html: "La inflación resuelve horizonte, planitud y origen del Bang conectando <span class=\"key-term\">fluctuaciones cuánticas</span> microscópicas con estructura galáctica.",
         },
       ],
     },
@@ -375,7 +379,7 @@ export const ourMathematicalUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "La inflación convierte ecuaciones con múltiples soluciones en <span class=\"key-term\">infinitas regiones</span> que las instancian.",
+          html: "Los multiversos I–II son predicciones de inflación eterna que convierte <span class=\"key-term\">soluciones matemáticas múltiples</span> en regiones físicas infinitas.",
         },
       ],
     },
@@ -419,7 +423,7 @@ export const ourMathematicalUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "Los bloques más profundos parecen ser <span class=\"key-term\">objetos matemáticos</span>, no bolitas con textura.",
+          html: "Las partículas elementales solo tienen <span class=\"key-term\">números cuánticos</span> como propiedades intrínsecas y obedecen Schrödinger, no Newton.",
         },
       ],
     },
@@ -448,7 +452,7 @@ export const ourMathematicalUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "Sin colapso ad hoc, la ecuación de Schrödinger predice <span class=\"key-term\">ramificaciones paralelas</span> en cada evento cuántico.",
+          html: "La cuántica más simple implica una única función de onda en espacio de Hilbert. El <span class=\"key-term\">azar cuántico</span> sería ilusión por clonación en ramas paralelas.",
         },
       ],
     },
@@ -472,7 +476,7 @@ export const ourMathematicalUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "Una sola realidad externa, pero <span class=\"key-term\">perspectivas complementarias</span> según el nivel de descripción.",
+          html: "Hay una realidad externa única, pero la descripción matemática de la física difiere de la <span class=\"key-term\">percepción interna</span>. La física deriva la realidad consensuada.",
         },
       ],
     },
@@ -516,7 +520,7 @@ export const ourMathematicalUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "Vivimos dentro de un objeto matemático gigante — más complejo que un <span class=\"key-term\">dodecaedro</span> o una variedad de Calabi-Yau.",
+          html: "Si existe realidad externa independiente de humanos, debe ser <span class=\"key-term\">estructura matemática</span>: la MUH implica que vivimos dentro de un objeto matemático colosal.",
         },
       ],
     },
@@ -545,7 +549,7 @@ export const ourMathematicalUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "Bajo la MUH, el tiempo no fluye en la estructura matemática. <span class=\"key-term\">Solo parece fluir</span> en tu cabeza.",
+          html: "Bajo la MUH, espacio y tiempo existen en estructuras eternas. El <span class=\"key-term\">flujo temporal</span> es ilusión generada por el modelo cinematográfico del cerebro.",
         },
       ],
     },
@@ -578,7 +582,7 @@ export const ourMathematicalUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "El multiverso IV es el más diverso: <span class=\"key-term\">cualquier estructura matemática</span> consistente existe físicamente.",
+          html: "La MUH implica que existencia matemática y existencia física son lo mismo. El multiverso IV contiene <span class=\"key-term\">todas las estructuras matemáticas</span> consistentes.",
         },
       ],
     },
@@ -619,7 +623,7 @@ export const ourMathematicalUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "Somos parte consciente de una estructura matemática. Nuestro futuro depende de <span class=\"key-term\">decisiones que aún podemos tomar</span>.",
+          html: "Macro y micro convergen en estructuras matemáticas. El futuro de la vida consciente supera lo visto y depende de <span class=\"key-term\">riesgos existenciales</span> que aún podemos evitar.",
         },
       ],
     },

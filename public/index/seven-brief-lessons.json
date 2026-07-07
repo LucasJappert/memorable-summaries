@@ -61,6 +61,11 @@
       "text": "Son expansiones de artículos publicados en el suplemento dominical del diario italiano Il Sole 24 Ore . Rovelli agradece a Armando Massarenti por abrir las páginas culturales del domingo a la ciencia."
     },
     {
+      "sectionId": "prefacio",
+      "sectionTitle": "Siete lecciones para quien no sabe nada",
+      "text": "La ciencia moderna ofrece un mapa rápido de lo más fascinante de la física reciente y, al mismo tiempo, abre preguntas más vastas que las que cierra."
+    },
+    {
       "sectionId": "cap1",
       "sectionTitle": "La teoría más bella (relatividad general)",
       "text": "En 1905 Einstein envió tres artículos revolucionarios al Annalen der Physik . El tercero presentó la relatividad especial, pero no encajaba con la gravedad newtoniana. Diez años de trabajo culminaron en noviembre de 1915 con la relatividad general , «la teoría más bella» según Lev Landau ."
@@ -108,7 +113,7 @@
     {
       "sectionId": "cap3",
       "sectionTitle": "Arquitectura del cosmos",
-      "text": "Antes de medir, la ciencia es visión. Anaximandro ( ~VI a.C. ) reemplazó «cielo arriba, tierra abajo» por una Tierra flotando en el espacio. Aristóteles y Ptolomeo imaginaron esferas celestes. Copérnico puso el Sol en el centro, y Galileo mostró que el movimiento es relativo."
+      "text": "Rovelli sostiene que, antes de experimentos, medidas y deducciones rigurosas, la ciencia es sobre todo visión . Cada revolución empieza por ver el mundo de otro modo. Anaximandro ( ~VI a.C. ) reemplazó «cielo arriba, tierra abajo» por una Tierra flotando en el espacio. Aristóteles y Ptolomeo imaginaron esferas celestes. Copérnico puso el Sol en el centro, y Galileo mostró que el movimiento es relativo."
     },
     {
       "sectionId": "cap3",
@@ -193,12 +198,12 @@
     {
       "sectionId": "cap7",
       "sectionTitle": "Nosotros (cierre reflexivo)",
-      "text": "Schelling creía que el hombre era la cumbre de la naturaleza, pero hoy sabemos que somos un rincón remoto, parientes de mariposas y álamos. Kant pensaba categorías universales, pero evolucionan con nuestra especie. La ciencia no es ficción campamental: sigue rastros como nuestros antepasados en la sabana."
+      "text": "Schelling creía que el hombre era la cumbre de la naturaleza, pero hoy sabemos que somos un rincón remoto, parientes de mariposas y álamos. Kant pensaba categorías universales, pero evolucionan con nuestra especie. La ciencia no es ficción campamental: sigue rastros como nuestros antepasados en la sabana, dispuesta a corregir el rumbo si aparece una pista mejor."
     },
     {
       "sectionId": "cap7",
       "sectionTitle": "Nosotros (cierre reflexivo)",
-      "text": "La libertad no viola las leyes naturales: actuar según procesos neuronales internos. Para Spinoza, el «yo» es el complejo neuronal mismo. La consciencia sigue abierta (Tononi y la teoría de información integrada). Valores, lágrimas y música son reales precisamente por ser naturaleza."
+      "text": "La libertad no viola las leyes naturales: actuar según procesos neuronales internos. Para Spinoza, el «yo» es el complejo neuronal mismo. La consciencia sigue abierta ( Giulio Tononi y la teoría de información integrada). Valores, lágrimas y música son reales precisamente por ser naturaleza. Somos una especie curiosa, quizá breve, pero en casa: como escribe Lucrecio, nacemos de la misma semilla celestial."
     },
     {
       "sectionId": "cap7",

@@ -50,6 +50,9 @@ La esencia de la ciencia es autocorrección: nuevas observaciones resuelven viej
 > «El Cosmos es todo lo que fue, es o será. Nuestras más débiles contemplaciones del Cosmos nos estremecen: hay un cosquilleo en la columna, un nudo en la garganta, como un recuerdo lejano de caer desde una altura.»
 — Carl Sagan
 
+<!-- key -->
+Comprender el Cosmos no es un lujo de especialistas, sino un placer evolutivo y una condición de supervivencia que merece comunicarse a todos.
+
 ---
 
 # cap1
@@ -91,6 +94,9 @@ Sagan ilustra la <span class="term">selección artificial</span> con los cangrej
 | 🧬 | ADN | Molécula que codifica instrucciones genéticas; base común de toda la vida terrestre. |
 | 🦀 | Selección artificial | Los humanos favorecen ciertas variedades; analogía didáctica de la selección natural. |
 | 🌌 | Moléculas orgánicas | Detectadas en el espacio; la vida podría ser consecuencia cósmica frecuente. |
+
+<!-- key -->
+Toda la vida terrestre comparte un mismo origen y se explica por selección natural, sin necesidad de ningún diseñador.
 
 ---
 
@@ -137,6 +143,9 @@ El clima terrestre es un sistema delicado. Pequeños cambios pueden desencadenar
 | ~1908 | Explosión de Tunguska (Siberia) |
 | ~2.000 km² | Bosque arrasado en Tunguska |
 
+<!-- key -->
+Ningún mundo es estable, y el efecto invernadero de Venus advierte adónde podría llevar a la Tierra un cambio climático descontrolado.
+
 ---
 
 # cap5
@@ -178,6 +187,9 @@ Estas misiones son los «relatos de viajeros» modernos: informes desde frontera
 | 1977 | Lanzamiento de Voyager 1 y 2. |
 | 1979 | Voyager 2 explora Júpiter. |
 
+<!-- key -->
+Las naves robóticas son los exploradores de nuestro tiempo, porque extienden los sentidos humanos a mundos inalcanzables por un costo ínfimo.
+
 ---
 
 # cap7
@@ -197,6 +209,9 @@ La ciencia nació cuando algunos humanos aceptaron que no sabían y empezaron a 
 <!-- quote -->
 > «Preferiría entender una sola causa que ser rey de Persia.»
 — Demócrito de Abdera
+
+<!-- key -->
+La ciencia nació cuando los jonios se atrevieron a buscar causas naturales en vez de invocar dioses, y esa humildad abrió el camino que el dogma cerraba.
 
 ---
 
@@ -244,6 +259,9 @@ El Sol es una estrella de secuencia principal de unos <span class="num">4.600 mi
 | 💥 | Supernova | Explosión estelar que enriquece el medio interestelar con elementos necesarios para planetas y vida. |
 | 🥧 | Nucleosíntesis | Origen de los átomos; conecta cosmología, física y química terrestre. |
 
+<!-- key -->
+Cada átomo pesado de nuestro cuerpo se cocinó dentro de una estrella, así que somos literalmente polvo de estrellas.
+
 ---
 
 # cap10
@@ -265,6 +283,9 @@ Filósofos e hindúes debatieron desde hace milenios si el cosmos es eterno o cr
 |-------|-------|
 | ~13.800 millones años | Edad del universo (estimación moderna posterior al libro) |
 | ~10-20 mil millones | Estimación de Sagan para el origen |
+
+<!-- key -->
+El universo tuvo un comienzo y su destino depende de cuánta materia contiene, y la cosmología responde con evidencia lo que antes solo respondían los mitos.
 
 ---
 
@@ -306,6 +327,9 @@ También debemos considerar si somos capaces de interpretar mensajes sin proyect
 - **Lenguaje matemático** — Hipótesis de comunicación interespecie basada en invariantes físicas.
 - **Enciclopedia Galáctica** — Metáfora de repositorio cósmico de culturas múltiples.
 
+<!-- key -->
+Buscar señales de otras civilizaciones es una apuesta razonable, y hallar una transformaría nuestra autocomprensión más que cualquier conquista territorial.
+
 ---
 
 # cap13
@@ -323,7 +347,7 @@ Desde <span class="person">Ptolomeo</span> hasta los cosmonautas, la perspectiva
 La serie y el libro son un experimento optimista: confiar en la inteligencia pública, en que las preguntas profundas excitan a millones. Sobrevivir y florecer exige entender el Cosmos y nuestra responsabilidad dentro de él. Alguien debe hablar por la Tierra, y ese alguien somos nosotros.
 
 <!-- quote -->
-> «La exploración del Cosmos es un viaje de regreso a casa.»
+> «La exploración del Cosmos es un viaje de autodescubrimiento.»
 — Carl Sagan
 
 <!-- key -->

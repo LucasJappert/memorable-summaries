@@ -14,6 +14,11 @@ export const wonderfulLife: BookSummary = {
   },
   toc: [
   {
+    "id": "cierre",
+    "num": "★",
+    "label": "La idea central"
+  },
+  {
     "id": "prefacio",
     "num": "00",
     "label": "Prefacio"
@@ -52,6 +57,11 @@ export const wonderfulLife: BookSummary = {
     "id": "cronologia",
     "num": "◈",
     "label": "Cronología"
+  },
+  {
+    "id": "figuras",
+    "num": "✦",
+    "label": "Figuras clave"
   }
 ],
   sections: [
@@ -117,6 +127,10 @@ export const wonderfulLife: BookSummary = {
             }
           ],
         },
+        {
+          type: 'key',
+          html: "La <span class=\"key-term\">iconografía del progreso</span> encubre una visión falsa: el Burgess muestra disparidad máxima y decimación, no una escalera hacia el hombre.",
+        },
       ],
     },
     {
@@ -153,6 +167,10 @@ export const wonderfulLife: BookSummary = {
               "text": "Walcott descubre el yacimiento."
             }
           ],
+        },
+        {
+          type: 'key',
+          html: "Sin la preservación excepcional del Burgess, la <span class=\"key-term\">explosión cámbrica</span> quedaría casi invisible en el registro fósil.",
         },
       ],
     },
@@ -211,6 +229,10 @@ export const wonderfulLife: BookSummary = {
           type: 'quote',
           text: "«Rebobina la cinta de la vida hasta los primeros días del Burgess Shale; déjala reproducir desde un punto de partida idéntico, y la probabilidad de que algo parecido a la inteligencia humana aparezca en la repetición es vanishingly small.»",
           attribution: "Stephen Jay Gould",
+        },
+        {
+          type: 'key',
+          html: "Walcott forzó cada fósil en grupos modernos no por torpeza, sino porque creía en <span class=\"key-term\">progreso predecible</span>, no en contingencia histórica.",
         },
       ],
     },

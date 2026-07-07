@@ -279,8 +279,8 @@ export const twentyOneLessons: BookSummary = {
         },
         {
           type: 'quote',
-          text: "«Cuando alguien gane la capacidad de hackear el corazón humano, la política democrática mutará en un espectáculo de marionetas emocional.»",
-          attribution: "Yuval Noah Harari (parafraseando la tesis del capítulo)",
+          text: "«Una vez que alguien —ya sea en Pekín o en San Francisco— obtenga la capacidad tecnológica de hackear y manipular el corazón humano, la política democrática mutará en un espectáculo de marionetas emocional.»",
+          attribution: "Yuval Noah Harari",
         },
         {
           type: 'key',

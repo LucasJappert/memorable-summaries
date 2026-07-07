@@ -100,6 +100,9 @@ La capacidad de humor, ironía y lectura de intenciones depende de la <span clas
 | 🎭 | Theory of Mind | Habilidad de atribuir estados mentales a otros para navegar la vida social. |
 | 🧩 | Confabulación | El cerebro rellena huecos causales para mantener continuidad narrativa. |
 
+<!-- key -->
+Ser consciente es construir modelos del mundo con bucles de retroalimentación, y lo distintivamente humano es <span class="key-term">simular el futuro</span> para elegir metas.
+
 ---
 
 # cap3
@@ -122,6 +125,9 @@ El capítulo introduce la dimensión política: si pensamientos pueden inferirse
 | 📡 | Decodificación neural | Conversión de patrones eléctricos o hemodinámicos en texto, imagen o intención motora. |
 | 🛡️ | Privacidad cognitiva | Nuevo frente legal: proteger pensamientos de extracción no consentida. |
 | 🔬 | Nanoprobes | Sondas miniaturizadas para registrar actividad con alta resolución y menor daño. |
+
+<!-- key -->
+Si la actividad neural puede decodificarse en imagen o palabra, la <span class="key-term">privacidad mental</span> se vuelve un derecho a proteger.
 
 ---
 
@@ -146,6 +152,9 @@ Kaku extiende la idea a <span class="term">materia programable</span>: sistemas 
 | 🦿 | Exoesqueleto | Estructura externa que amplifica o reemplaza movimiento corporal perdido. |
 | 🧱 | Materia programable | Materiales que reconfiguran propiedades o forma vía software. |
 
+<!-- key -->
+Mover materia con la mente ya es ingeniería clínica: la <span class="key-term">intención neural</span> puede gobernar máquinas, prótesis y entornos.
+
 ---
 
 # cap5
@@ -168,6 +177,9 @@ En la frontera clínica aparecen estrategias para Alzheimer y trauma: modelos an
 | 🗂️ | Consolidación | Proceso por el cual trazas frágiles pasan a memoria estable de largo plazo. |
 | 🧬 | NR2B/CREB | Dianas genético-moleculares asociadas a plasticidad y aprendizaje. |
 | 💊 | Reconsolidación terapéutica | Intervenir recuerdos al reactivarse para reducir sufrimiento patológico. |
+
+<!-- key -->
+La memoria es <span class="key-term">reconstructiva</span>: grabarla, restaurarla o atenuarla abre terapias y a la vez dilemas sobre identidad.
 
 ---
 
@@ -192,6 +204,9 @@ En genética, menciona candidatos como <span class="term">HAR1</span> y <span cl
 | ⚡ | TMS | Estimulación no invasiva para modular temporalmente funciones corticales. |
 | ♾️ | Límites físicos | Energía, calor y velocidad de señal acotan cuánto puede escalar la cognición biológica. |
 
+<!-- key -->
+La inteligencia no es un factor único ni una anatomía especial, sino <span class="key-term">redes entrenables</span> con límites físicos infranqueables.
+
 ---
 
 # cap7
@@ -214,6 +229,9 @@ El capítulo incluye <span class="term">sueño lúcido</span> y contacto experim
 | 🌙 | Activación-síntesis | Modelo que explica sueños como construcción narrativa sobre ruido neural. |
 | 👁️ | Sueño lúcido | Estado donde el soñador reconoce que sueña y puede influir en el guion. |
 | 📷 | Imagen onírica | Reconstrucción parcial de contenidos de sueño usando patrones cerebrales. |
+
+<!-- key -->
+Los sueños son <span class="key-term">simulaciones cerebrales</span>, no profecías, y por eso ya empiezan a poder fotografiarse y manipularse.
 
 ---
 
@@ -238,6 +256,9 @@ La frontera actual se desplaza hacia <span class="term">optogenética</span> y n
 | 🕵️ | MKULTRA | Programa secreto que mostró límites científicos y abusos éticos graves. |
 | ⚖️ | Doble uso | La misma técnica puede curar o coercionar según marco legal y político. |
 
+<!-- key -->
+La mente no puede dominarse a voluntad: la estimulación modula circuitos, pero no reemplaza la <span class="key-term">agencia personal</span>.
+
 ---
 
 # cap9
@@ -260,6 +281,9 @@ Su marco integrador plantea la enfermedad mental como <span class="term">bucles 
 | 🔁 | Feedback neural | Ciclos de señal que, al desregularse, amplifican síntomas cognitivos y afectivos. |
 | 🧭 | Neurodiversidad clínica | Variaciones de conciencia pueden ser disfunción o adaptación según contexto. |
 | 🩺 | Psiquiatría de circuitos | Paso de etiquetas descriptivas a mapas funcionales tratables. |
+
+<!-- key -->
+Los estados alterados y la enfermedad mental son <span class="key-term">bucles desregulados</span> entre circuitos, no defectos morales.
 
 ---
 
@@ -284,6 +308,9 @@ La pregunta de fondo no es solo si una máquina calcula, sino si puede sostener 
 | 🫂 | Robótica emocional | Diseño de máquinas que responden a señales sociales humanas. |
 | 💾 | Conciencia de silicio | Hipótesis de subjetividad emergente en sustratos no biológicos. |
 
+<!-- key -->
+La IA hoy es estrecha, y la pregunta abierta es si el silicio puede sostener una <span class="key-term">conciencia</span> con modelos de sí mismo y metas.
+
 ---
 
 # cap11
@@ -306,6 +333,9 @@ Si la arquitectura mental pudiera reproducirse con fidelidad, surge la pregunta 
 | 🗺️ | Conectoma | Mapa de conexiones neuronales y su organización funcional. |
 | 🖥️ | Simulación cerebral | Modelos computacionales para probar hipótesis sobre cognición. |
 | ♻️ | Identidad y copia | Problema filosófico de continuidad del yo en réplicas digitales. |
+
+<!-- key -->
+No alcanza con mapear el <span class="key-term">conectoma</span>, porque hay que modelar su dinámica, y copiarlo plantea si sobrevive el yo.
 
 ---
 
@@ -330,6 +360,9 @@ La visión de nanobots médicos y neuronales apunta a reparar tejidos, mejorar m
 | ⬆️ | Upload mental | Traslado de estados mentales a soporte digital hipotético. |
 | 🔧 | Mejora neurotecnológica | Intervenciones para expandir capacidades más allá del rango biológico actual. |
 
+<!-- key -->
+El <span class="key-term">yo corporal</span> surge de integrar los sentidos, y ampliarlo o subirlo es concebible, aunque limitado por biología y ética.
+
 ---
 
 # cap13
@@ -353,6 +386,9 @@ También introduce la <span class="term">computación cuántica</span> como posi
 | 🌀 | Agujero de gusano | Atajo hipotético del espacio-tiempo con enormes desafíos de ingeniería. |
 | ⚛️ | Cómputo cuántico | Recurso potencial para ciertos problemas, no garantía de conciencia artificial. |
 
+<!-- key -->
+Tratar la mente como <span class="key-term">patrón de información</span> permite imaginarla viajando, pero la física no autoriza atajos mágicos.
+
 ---
 
 # cap14
@@ -375,6 +411,9 @@ El concepto de <span class="term">umwelt</span> muestra que cada especie percibe
 | 🌍 | Exoplanetas habitables | Contexto astronómico que amplía escenarios para evolución de mente. |
 | 📶 | SETI | Búsqueda de señales tecnológicas inteligentes en el cosmos. |
 | 🐝 | Conciencia de enjambre | Cognición distribuida sin un “yo” individual dominante. |
+
+<!-- key -->
+La conciencia adopta muchas formas según el <span class="key-term">umwelt</span> de cada especie, así que una mente alienígena podría ser detectable pero incomprensible.
 
 ---
 

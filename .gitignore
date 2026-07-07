@@ -35,6 +35,9 @@ fuentes/**
 # Texto extraído de epubs (regenerable)
 .extracted/
 
+# Esqueletos argumentales (doc de trabajo del Paso A0, regenerable)
+summaries/*.skeleton.md
+
 # Audio TTS — commitear public/audio/*.mp3; intermedios regenerables
 audio/*/chunks/
 audio/*.wav

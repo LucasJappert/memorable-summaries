@@ -76,6 +76,8 @@ La pregunta de Adam al final del prólogo, «¿cómo se siente ser tú?», reapa
 El avance de la informática plantea una inquietud profunda: si las máquinas igualan o superan capacidades humanas, ¿hemos cedido la prerrogativa del pensamiento? <span class="person">Penrose</span> no busca adivinar respuestas definitivas, sino mostrar que nuestra física actual es insuficiente para explicar la mente.
 
 <!-- paragraph -->
+La mayoría de físicos cree que las leyes del cerebro ya están resueltas a escala humana. Penrose sostiene lo contrario: hay un vacío enorme en nuestra comprensión física justo «detrás de nuestras narices», y sorprendentemente los agujeros negros y el big bang sí importan para la mente. Su objetivo no es adivinar, sino mostrar que faltan piezas entre leyes físicas, matemáticas y pensamiento consciente.
+<!-- paragraph -->
 La <span class="term">prueba de Turing</span> (<span class="num">1950</span>) propone que una máquina «piensa» si sus respuestas son indistinguibles de las de un humano en un diálogo ciego. Penrose la acepta como criterio operativo aproximado, pero advierte que una teoría futura de la conciencia podría invalidarla —como un «detector de conciencia» fiable para humanos pero no para computadoras.
 
 <!-- paragraph -->
@@ -106,6 +108,8 @@ Un <span class="term">algoritmo</span> es un procedimiento finito y determinista
 
 <!-- paragraph -->
 La <span class="term">tesis de Church-Turing</span> afirma que toda computación efectiva es equivalente a una máquina de Turing. La <span class="term">máquina universal</span> puede simular cualquier otra: de ahí la equivalencia entre computadoras modernas. Pero Turing también mostró límites absolutos a lo algorítmico —un posible resquicio para la mente.
+<!-- paragraph -->
+Hay ironía en que Turing modeló el cerebro como «máquina» al definir lo mecánico, y sin embargo demostró que hay operaciones matemáticas bien definidas que ningún procedimiento mecánico puede resolver. El capítulo «cómo superar un algoritmo» anticipa el argumento de Gödel: siempre que formalizamos parte de nuestra comprensión, podemos ver verdades que escapan a esa formalización.
 
 <!-- list -->
 - **Máquina de Turing** — Modelo abstracto de procedimiento mecánico con cinta y estados finitos.
@@ -247,7 +251,7 @@ La flecha del tiempo exige condiciones iniciales cósmicas extremas —no solo e
 ## title: En busca de la gravedad cuántica
 
 <!-- paragraph lead -->
-Penrose argumenta que la <span class="term">gravedad cuántica correcta</span> (CQG) debe ser <span class="term">asimétrica en el tiempo</span> y unificar U con R —no solo cuantizar la relatividad general dejando intacta la mecánica cuántica.
+La mayoría de físicos cuantizan la relatividad general sin tocar la mecánica cuántica. Penrose invierte la prioridad: los problemas de la QM (incompatibilidad de U y R) exigen que la gravedad de Einstein modifique la estructura cuántica. La <span class="term">gravedad cuántica correcta</span> (CQG) debe ser <span class="term">asimétrica en el tiempo</span> y unificar U con R.
 
 <!-- paragraph -->
 La WCH no es mera «condición de frontera» inexplicable: es tan precisa como las leyes dinámicas. La reducción R también es asimétrica: la probabilidad de detectar un fotón dado que la fuente emitió uno es ½, pero la probabilidad inversa no lo es.
@@ -293,7 +297,9 @@ El cerebro no es un autómata homogéneo, pues mucha actividad ocurre de forma i
 Si la conciencia tiene ventaja selectiva, ¿qué hace que no pueda hacer un autómata? Penrose distingue procesos <span class="term">algorítmicos</span> (inconscientes, cerebelo) de juicios <span class="term">no algorítmicos</span> (conscientes): formar juicios nuevos cuando no hay reglas prefijadas.
 
 <!-- paragraph -->
-La selección natural no puede «evolucionar» algoritmos que validen otros algoritmos. Eso requiere comprensión, no mutación ciega. El matemático confía en su conciencia para elegir el algoritmo correcto. La verdad de Gödel se ve por insight, no por cálculo.
+La selección natural actúa sobre el comportamiento observable, no sobre las ideas subyacentes a un algoritmo. No puede «evolucionar» procedimientos que validen otros procedimientos. Eso exige <span class="term">insight</span>, no mutación ciega. El matemático usa la conciencia para decidir si un algoritmo es el adecuado. La verdad de Gödel se ve desde fuera del sistema, no ejecutándolo.
+<!-- paragraph -->
+Penrose distingue dos niveles: procesos inconscientes (cerebelo, reflejos) que pueden ser algorítmicos, y juicios conscientes al formar decisiones nuevas sin reglas prefijadas. Un programa que contiene un modelo de otro programa no adquiere comprensión —como una cámara frente a un espejo no se vuelve autoconsciente.
 
 <!-- paragraph -->
 Penrose conjetura contacto con el <span class="term">mundo platónico</span> de las matemáticas, tilings no periódicos (los <span class="term">azulejos de Penrose</span>) y coherencia cuántica en microtúbulos neuronales. La conciencia podría explotar fenómenos no computables de la CQG. El «retraso» de la percepción consciente sugiere que la mente no es instantánea ni puramente reactiva.

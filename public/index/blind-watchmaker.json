@@ -54,6 +54,36 @@
   "highlight": "Acumula pequeños cambios aleatorios filtrados por supervivencia y reproducción",
   "entries": [
     {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La complejidad de la vida parece exigir un diseñador consciente."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Paley tenía razón en la pregunta, pero se equivocó en la respuesta."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La selección natural es el relojero ciego: sin mente, sin plan, sin visión."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Ninguna otra teoría conocida explica, en principio, la complejidad adaptativa."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "El misterio de nuestra existencia está resuelto, aunque sigamos añadiendo notas a pie de página."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Acumula pequeños cambios aleatorios filtrados por supervivencia y reproducción"
+    },
+    {
       "sectionId": "prefacio",
       "sectionTitle": "Un misterio resuelto",
       "text": "Dawkins escribe convencido de que nuestra existencia fue el mayor de los misterios y que ya no lo es: Darwin y Wallace lo resolvieron. Le sorprende que tantas personas ignoren no solo la solución elegante, sino que ni siquiera perciban el problema: el de la complejidad por diseño ."
@@ -71,7 +101,12 @@
     {
       "sectionId": "prefacio",
       "sectionTitle": "Un misterio resuelto",
-      "text": "El darwinismo parece necesitar más defensa que otras verdades científicas establecidas. La mente humana está predispuesta a malinterpretarlo por el azar, las escalas temporales y la analogía con el diseño consciente."
+      "text": "El darwinismo parece necesitar más defensa que otras verdades científicas. La mente humana está predispuesta a malinterpretarlo por el azar, las escalas temporales evolutivas y la analogía con el diseño consciente. Como observó Jacques Monod , todo el mundo cree que lo entiende, aunque casi nadie pensó en la idea hasta Darwin y Wallace en el siglo XIX."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Un misterio resuelto",
+      "text": "El darwinismo es la única teoría que puede resolver el misterio de la complejidad biológica, pero la mente humana está predispuesta a malinterpretarlo."
     },
     {
       "sectionId": "cap1",
@@ -136,12 +171,12 @@
     {
       "sectionId": "cap3",
       "sectionTitle": "Acumulando pequeños cambios",
-      "text": "En la selección acumulativa , las entidades se «reproducen» con variación. Cada generación parte del resultado anterior. El experimento del mono que escribe «METHINKS IT IS LIKE A WEASEL»: en un solo paso tardaría ~ 10 40 intentos. Con selección acumulativa que retiene las frases más parecidas al objetivo, la frase emerge en minutos. Los biomorfos del ordenador muestran lo mismo con formas en árbol."
+      "text": "En la selección acumulativa , las entidades se «reproducen» con variación. Cada generación parte del resultado anterior. El experimento del mono que escribe «METHINKS IT IS LIKE A WEASEL»: en un solo paso tardaría ~ 10 40 intentos. Con selección acumulativa que retiene las frases más parecidas al objetivo, la frase emerge en minutos. Los biomorfos del ordenador muestran lo mismo con formas en árbol, y el programador no puede predecir qué criaturas emergerán."
     },
     {
       "sectionId": "cap3",
       "sectionTitle": "Acumulando pequeños cambios",
-      "text": "La evolución no es azar puro: es selección acumulativa — mutaciones aleatorias filtradas paso a paso durante millones de generaciones."
+      "text": "La evolución no es azar puro: es selección acumulativa , mutaciones aleatorias filtradas paso a paso durante millones de generaciones."
     },
     {
       "sectionId": "cap4",
@@ -151,7 +186,7 @@
     {
       "sectionId": "cap4",
       "sectionTitle": "Trazando rutas por el espacio animal",
-      "text": "¿Pudo el ojo humano surgir de la nada en un paso? No: las probabilidades son astronómicas. ¿De algo ligeramente distinto, X? Sí, si X es suficientemente parecido. Repitiendo la pregunta con pasos cada vez menores, se traza una cadena de Xs desde «sin ojo» hasta el ojo moderno — caminando por el espacio animal en pasos pequeños."
+      "text": "¿Pudo el ojo humano surgir de la nada en un paso? No: las probabilidades son astronómicas. ¿De algo ligeramente distinto, X? Sí, si X es suficientemente parecido. Repitiendo la pregunta con pasos cada vez menores, se traza una cadena de Xs desde «sin ojo» hasta el ojo moderno, caminando por el espacio animal en pasos pequeños."
     },
     {
       "sectionId": "cap4",
@@ -246,7 +281,7 @@
     {
       "sectionId": "cap8",
       "sectionTitle": "Explosiones y espirales",
-      "text": "La mente humana analogiza con facilidad — a veces demasiado. Este capítulo explora dos analogías fructíferas pero peligrosas: procesos tipo explosión (retroalimentación positiva) y la semejanza entre evolución darwiniana y evolución cultural ."
+      "text": "La mente humana analogiza con facilidad, a veces demasiado. Este capítulo explora dos analogías fructíferas pero peligrosas: procesos tipo explosión (retroalimentación positiva) y la semejanza entre evolución darwiniana y evolución cultural ."
     },
     {
       "sectionId": "cap8",
@@ -276,7 +311,7 @@
     {
       "sectionId": "cap9",
       "sectionTitle": "Desinflando el punctuationismo",
-      "text": "El registro fósil es incompleto por naturaleza. La datación radiométrica (carbono- 14 , potasio-argon, uranio-plomo) permite pruebas temporales. Un fósil humano auténtico en rocas de 500 millones de años destruiría la evolución: prueba de que la teoría es falsable. La controversia real es menor de lo que venden las revistas."
+      "text": "El registro fósil es incompleto por naturaleza. La datación radiométrica (carbono- 14 , potasio-argón, uranio-plomo) permite pruebas temporales. Un fósil humano auténtico en rocas de 500 millones de años destruiría la evolución: prueba de que la teoría es falsable. La controversia real es menor de lo que venden las revistas."
     },
     {
       "sectionId": "cap9",
@@ -291,7 +326,7 @@
     {
       "sectionId": "cap10",
       "sectionTitle": "El único árbol verdadero de la vida",
-      "text": "Clasificar libros en una biblioteca admite muchos sistemas igualmente válidos por conveniencia. Clasificar organismos es distinto: la evolución implica un solo árbol genealógico verdadero con anidamiento perfecto — todo subgrupo está completamente contenido en un grupo mayor, sin solapamientos parciales."
+      "text": "Clasificar libros en una biblioteca admite muchos sistemas igualmente válidos por conveniencia. Clasificar organismos es distinto: la evolución implica un solo árbol genealógico verdadero con anidamiento perfecto. Todo subgrupo está completamente contenido en un grupo mayor, sin solapamientos parciales."
     },
     {
       "sectionId": "cap10",
@@ -316,7 +351,7 @@
     {
       "sectionId": "cap11",
       "sectionTitle": "Rivales condenados",
-      "text": "El creacionismo postula complejidad organizada sin explicarla. Dawkins predice que si alguna vez se descubre vida extraterrestre, también habrá evolucionado por selección natural darwiniana — apuesta no comprobable pronto, pero que dramatiza una verdad: ninguna otra teoría conocida explica el diseño adaptativo."
+      "text": "El creacionismo postula complejidad organizada sin explicarla. Dawkins predice que si alguna vez se descubre vida extraterrestre, también habrá evolucionado por selección natural darwiniana, y con esa apuesta subraya que ninguna otra teoría conocida explica el diseño adaptativo."
     },
     {
       "sectionId": "cap11",
@@ -327,36 +362,6 @@
       "sectionId": "cap11",
       "sectionTitle": "Rivales condenados",
       "text": "El darwinismo es la única teoría conocida que, en principio, puede explicar la complejidad adaptativa . Los rivales fallan incluso antes de mirar la evidencia."
-    },
-    {
-      "sectionId": "cierre",
-      "sectionTitle": "Cierre",
-      "text": "La complejidad de la vida parece exigir un diseñador consciente."
-    },
-    {
-      "sectionId": "cierre",
-      "sectionTitle": "Cierre",
-      "text": "Paley tenía razón en la pregunta, equivocado en la respuesta."
-    },
-    {
-      "sectionId": "cierre",
-      "sectionTitle": "Cierre",
-      "text": "La selección natural es el relojero ciego: sin mente, sin plan, sin visión."
-    },
-    {
-      "sectionId": "cierre",
-      "sectionTitle": "Cierre",
-      "text": "Ninguna otra teoría conocida explica, en principio, la complejidad adaptativa."
-    },
-    {
-      "sectionId": "cierre",
-      "sectionTitle": "Cierre",
-      "text": "El misterio de nuestra existencia está resuelto — aunque sigamos añadiendo notas a pie de página."
-    },
-    {
-      "sectionId": "cierre",
-      "sectionTitle": "Cierre",
-      "text": "Acumula pequeños cambios aleatorios filtrados por supervivencia y reproducción"
     }
   ]
 }

@@ -14,6 +14,11 @@ export const biosignaturesAstrobiology: BookSummary = {
   },
   toc: [
   {
+    "id": "cierre",
+    "num": "★",
+    "label": "La idea central"
+  },
+  {
     "id": "prefacio",
     "num": "00",
     "label": "Prólogo"
@@ -86,66 +91,71 @@ export const biosignaturesAstrobiology: BookSummary = {
   {
     "id": "cap14",
     "num": "14",
-    "label": "Microorganismos fósiles en filtraciones de metano"
+    "label": "Datación filogenómica de metabolismos"
   },
   {
     "id": "cap15",
     "num": "15",
-    "label": "Endolitos en ambientes áridos"
+    "label": "Microorganismos fósiles en filtraciones de metano"
   },
   {
     "id": "cap16",
     "num": "16",
-    "label": "Bacterias magnetotácticas y terraformación"
+    "label": "Endolitos en ambientes áridos"
   },
   {
     "id": "cap17",
     "num": "17",
-    "label": "Inteligencia humana y convergencia evolutiva"
+    "label": "Bacterias magnetotácticas y terraformación"
   },
   {
     "id": "cap18",
     "num": "18",
-    "label": "Formas de vida cósmicas"
+    "label": "Inteligencia humana y convergencia evolutiva"
   },
   {
     "id": "cap19",
     "num": "19",
-    "label": "Huellas astronómicas en el registro fósil"
+    "label": "Formas de vida cósmicas"
   },
   {
     "id": "cap20",
     "num": "20",
-    "label": "¿Impactos y extinciones masivas?"
+    "label": "Huellas astronómicas en el registro fósil"
   },
   {
     "id": "cap21",
     "num": "21",
-    "label": "Irradiación de analogos cometarios"
+    "label": "¿Impactos y extinciones masivas?"
   },
   {
     "id": "cap22",
     "num": "22",
-    "label": "El Big Bang en el tiempo cero"
+    "label": "Irradiación de analogos cometarios"
   },
   {
     "id": "cap23",
     "num": "23",
-    "label": "Improntas moleculares de redes de reacción"
+    "label": "El Big Bang en el tiempo cero"
   },
   {
     "id": "cap24",
     "num": "24",
-    "label": "El caso ALH84001 en Marte"
+    "label": "Improntas moleculares de redes de reacción"
   },
   {
     "id": "cap25",
     "num": "25",
-    "label": "Ventanas de preservación en Marte"
+    "label": "El caso ALH84001 en Marte"
   },
   {
     "id": "cap26",
     "num": "26",
+    "label": "Ventanas de preservación en Marte"
+  },
+  {
+    "id": "cap27",
+    "num": "27",
     "label": "Síntesis y conclusiones"
   },
   {
@@ -520,6 +530,54 @@ export const biosignaturesAstrobiology: BookSummary = {
     {
       id: "cap14",
       num: "14",
+      title: "Datación filogenómica y ancestria de metabolismos procariotas",
+      blocks: [
+        {
+          type: 'paragraph',
+          variant: 'lead',
+          html: "<span class=\"person\">Carrine E. Blank</span> propone la <span class=\"term\">datación filogenómica</span> como puente entre genomas completos, rasgos metabólicos inferidos y el registro geológico para acotar cuándo surgieron los grandes linajes procariotas.",
+        },
+        {
+          type: 'paragraph',
+          html: "El desafío astrobiológico central es comprender cómo los microorganismos coevolucionaron con la Tierra. Biomarcadores, isótopos y microfósiles arcaicos se interpretan con ambigüedad en hitos como el fraccionamiento de azufre a ~<span class=\"num\">2,4 Ga</span>, el carbono orgánico a ~<span class=\"num\">3,5 Ga</span> y la oxigenación a ~<span class=\"num\">2,32 Ga</span>. Un solo gen como el ARNr 16S no basta porque la transferencia lateral, la atracción de ramas largas y las polifotomías distorsionan árboles basados en un único marcador.",
+        },
+        {
+          type: 'paragraph',
+          html: "La metodología combina <span class=\"term\">supermatrices</span> de genes conservados, reconstrucción ancestral de estados (ASR) de rasgos fisiológicos y contrastes con el registro rocoso. En arqueas, los clados con ancestros aeróbicos en hábitats demasiado calientes o ácidos para cianobacterias deben ser posteriores a la oxigenación atmosférica (~<span class=\"num\">2,32 Ga</span>). En cambio, la reducción de azufre, la metanogénesis hidrogenotrófica y la hipertermofilia parecen más antiguas.",
+        },
+        {
+          type: 'paragraph',
+          html: "Las arqueas carecen de sinapomorfías morfológicas y los biomarcadores lipídicos rara vez discriminan taxones concretos. La filogenómica aporta entonces restricciones de edad sobre procesos metabólicos. Cada hipótesis debe someterse a <span class=\"term\">ground truthing</span> con isótopos, lípidos y microfósiles en intervalos geológicos definidos.",
+        },
+        {
+          type: 'concept-grid',
+          items: [
+            {
+              "title": "Supermatriz",
+              "description": "Concatenación de decenas de genes conservados para resolver filogenias profundas.",
+              "icon": "🧬"
+            },
+            {
+              "title": "ASR",
+              "description": "Reconstrucción ancestral de rasgos metabólicos y hábitat sobre el árbol.",
+              "icon": "⏳"
+            },
+            {
+              "title": "Ground truthing",
+              "description": "Contrastar predicciones moleculares con biomarcadores y roca de edad conocida.",
+              "icon": "🪨"
+            }
+          ],
+        },
+        {
+          type: 'key',
+          html: "La datación filogenómica acota cuándo surgieron metabolismos procariotas, pero solo es tan fiable como el árbol y el registro que lo contrasta.",
+        },
+      ],
+    },
+    {
+      id: "cap15",
+      num: "15",
       title: "Microorganismos fósiles en filtraciones de metano",
       blocks: [
         {
@@ -562,7 +620,7 @@ export const biosignaturesAstrobiology: BookSummary = {
       ],
     },
     {
-      id: "cap15",
+      id: "cap16",
       num: "15",
       title: "Endolitos en ambientes áridos terrestres",
       blocks: [
@@ -586,7 +644,7 @@ export const biosignaturesAstrobiology: BookSummary = {
       ],
     },
     {
-      id: "cap16",
+      id: "cap17",
       num: "16",
       title: "Bacterias magnetotácticas y terraformación",
       blocks: [
@@ -610,7 +668,7 @@ export const biosignaturesAstrobiology: BookSummary = {
       ],
     },
     {
-      id: "cap17",
+      id: "cap18",
       num: "17",
       title: "Inteligencia humana no es rasgo convergente",
       blocks: [
@@ -634,7 +692,7 @@ export const biosignaturesAstrobiology: BookSummary = {
       ],
     },
     {
-      id: "cap18",
+      id: "cap19",
       num: "18",
       title: "Formas de vida cósmicas",
       blocks: [
@@ -658,7 +716,7 @@ export const biosignaturesAstrobiology: BookSummary = {
       ],
     },
     {
-      id: "cap19",
+      id: "cap20",
       num: "19",
       title: "Huellas astronómicas y astrobiológicas en el registro fósil",
       blocks: [
@@ -682,7 +740,7 @@ export const biosignaturesAstrobiology: BookSummary = {
       ],
     },
     {
-      id: "cap20",
+      id: "cap21",
       num: "20",
       title: "¿Los impactos causan la mayoría de extinciones masivas?",
       blocks: [
@@ -706,7 +764,7 @@ export const biosignaturesAstrobiology: BookSummary = {
       ],
     },
     {
-      id: "cap21",
+      id: "cap22",
       num: "21",
       title: "Irradiación de analogos cometarios y origen de la vida",
       blocks: [
@@ -730,7 +788,7 @@ export const biosignaturesAstrobiology: BookSummary = {
       ],
     },
     {
-      id: "cap22",
+      id: "cap23",
       num: "22",
       title: "El Big Bang en el tiempo cero",
       blocks: [
@@ -754,7 +812,7 @@ export const biosignaturesAstrobiology: BookSummary = {
       ],
     },
     {
-      id: "cap23",
+      id: "cap24",
       num: "23",
       title: "Improntas moleculares: ¿vivas o no vivas?",
       blocks: [
@@ -778,7 +836,7 @@ export const biosignaturesAstrobiology: BookSummary = {
       ],
     },
     {
-      id: "cap24",
+      id: "cap25",
       num: "24",
       title: "El caso ALH84001 por vida en Marte",
       blocks: [
@@ -802,7 +860,7 @@ export const biosignaturesAstrobiology: BookSummary = {
       ],
     },
     {
-      id: "cap25",
+      id: "cap26",
       num: "25",
       title: "Ventanas de preservación paleobiológica en Marte",
       blocks: [
@@ -826,8 +884,8 @@ export const biosignaturesAstrobiology: BookSummary = {
       ],
     },
     {
-      id: "cap26",
-      num: "26",
+      id: "cap27",
+      num: "27",
       title: "Síntesis, comentarios finales y conclusiones",
       blocks: [
         {
@@ -908,6 +966,10 @@ export const biosignaturesAstrobiology: BookSummary = {
   {
     "year": "~2,7–2,3 Ga",
     "text": "Biomarcadores vs. microfósiles cianobacterianos; oxigenación atmosférica."
+  },
+  {
+    "year": "~2,32 Ga",
+    "text": "Oxigenación atmosférica; restricción de edad para arqueas aeróbicas (filogenómica)."
   },
   {
     "year": "~635–551 Ma",
