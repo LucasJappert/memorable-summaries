@@ -23,6 +23,7 @@ import {
 type StatusFilter = 'all' | 'reading' | 'new' | 'done' | 'audio'
 
 const statusFilter = ref<StatusFilter>('all')
+const searchQuery = ref('')
 
 const { continueBook, continueSource, continueStatus } = useNextInRoute()
 
@@ -78,14 +79,38 @@ const continueTitle = computed(() => {
   return bookDisplayTitle(book)
 })
 
+const normalize = (value: string) =>
+  value
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+
 const filteredCatalog = computed(() => {
   readingRevision.value
 
-  return sortedCatalog.value.filter((book) => {
-    if (statusFilter.value === 'all') return true
-    if (statusFilter.value === 'audio') return bookHasAudio(book.slug)
+  const terms = normalize(searchQuery.value.trim()).split(/\s+/).filter(Boolean)
 
-    return getBookReadingStatus(book.slug) === statusFilter.value
+  return sortedCatalog.value.filter((book) => {
+    const matchesStatus =
+      statusFilter.value === 'all'
+        ? true
+        : statusFilter.value === 'audio'
+          ? bookHasAudio(book.slug)
+          : getBookReadingStatus(book.slug) === statusFilter.value
+
+    if (!matchesStatus) return false
+    if (terms.length === 0) return true
+
+    const haystack = normalize(
+      [
+        book.meta.title,
+        book.meta.titleEs ?? '',
+        book.meta.author ?? '',
+        book.meta.subtitle ?? '',
+      ].join(' '),
+    )
+
+    return terms.every((term) => haystack.includes(term))
   })
 })
 
@@ -118,6 +143,28 @@ usePageMeta(
         title="Biblioteca"
         :meta="readSummary"
       >
+        <template #title-aside>
+          <label class="library-search">
+            <span class="sr-only">Buscar libros</span>
+            <svg
+              class="library-search__icon"
+              viewBox="0 0 20 20"
+              aria-hidden="true"
+            >
+              <path
+                d="M8.5 3a5.5 5.5 0 0 1 4.23 9.02l3.62 3.63a.9.9 0 0 1-1.27 1.27l-3.63-3.62A5.5 5.5 0 1 1 8.5 3Zm0 1.8a3.7 3.7 0 1 0 0 7.4 3.7 3.7 0 0 0 0-7.4Z"
+                fill="currentColor"
+              />
+            </svg>
+            <input
+              v-model="searchQuery"
+              type="search"
+              class="library-search__input"
+              placeholder="Buscar…"
+              aria-label="Buscar libros"
+            />
+          </label>
+        </template>
         <RouterLink
           v-if="continueBook && continuePrefix && continueTitle"
           :to="continueLink"
@@ -146,7 +193,7 @@ usePageMeta(
       </div>
 
       <p v-if="filteredCatalog.length === 0" class="library-empty">
-        No hay libros con estos filtros.
+        {{ searchQuery.trim() ? 'No hay libros que coincidan con la búsqueda.' : 'No hay libros con estos filtros.' }}
       </p>
 
       <div v-else class="library-shelf">
