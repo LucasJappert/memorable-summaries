@@ -5,6 +5,17 @@
   padding: 0;
 }
 
+/* Reading column: base size in px; descendants use em to scale together */
+.book-content {
+  font-size: var(--book-font-size);
+}
+
+@media (max-width: 1023px) {
+  .book-content {
+    font-size: var(--book-font-size-mobile);
+  }
+}
+
 /* TOC */
 .page-layout__sidebar .toc {
   margin: 0.75rem 0 1.25rem;
@@ -42,7 +53,7 @@
   transition: background 0.2s, border-color 0.2s, color 0.2s;
   -webkit-tap-highlight-color: transparent;
 }
-.toc-item--collapsed {
+.toc-item--truncated {
   display: none;
 }
 .toc-label {
@@ -151,7 +162,7 @@
 }
 .section-collapsible-hint {
   margin-left: auto;
-  font-size: 0.75rem;
+  font-size: 0.75em;
   font-weight: 600;
   color: var(--text2);
   opacity: 0.85;
@@ -160,7 +171,7 @@
 .section-chevron {
   flex-shrink: 0;
   color: var(--text2);
-  font-size: 0.85rem;
+  font-size: 0.85em;
   line-height: 1;
   opacity: 0.7;
   transition: transform 0.2s ease;
@@ -183,7 +194,7 @@
   background: var(--accent);
   color: #fff;
   font-weight: 700;
-  font-size: 0.75rem;
+  font-size: 0.75em;
   padding: 0.2rem 0.6rem;
   border-radius: 4px;
   white-space: nowrap;
@@ -191,11 +202,11 @@
   transform: translateY(-0.05em);
 }
 .section h2 {
-  font-size: 1.2rem;
+  font-size: 1.2em;
   font-weight: 700;
 }
 .section h3 {
-  font-size: 1rem;
+  font-size: 1em;
   font-weight: 600;
   color: var(--accent3);
   margin: 1.2rem 0 0.4rem;
@@ -211,7 +222,7 @@
   max-width: none;
   margin: 0;
   font-family: var(--font-read);
-  font-size: 1.1rem;
+  font-size: 1.1em;
   line-height: 1.8;
   color: var(--text);
   text-align: left;
@@ -220,7 +231,7 @@
   margin: 0.85rem 0;
   color: var(--text);
   font-family: var(--font-read);
-  font-size: 0.95rem;
+  font-size: 0.95em;
   line-height: 1.75;
   text-align: justify;
   hyphens: auto;
@@ -229,7 +240,7 @@
   text-wrap: pretty;
 }
 .section p.lead {
-  font-size: 1.02rem;
+  font-size: 1.02em;
   line-height: 1.8;
   color: var(--text);
   margin-bottom: 0.85rem;
@@ -273,7 +284,7 @@
   border-left-width: 4px;
   background: rgba(124, 240, 200, 0.12);
   border-radius: 0 var(--radius) var(--radius) 0;
-  font-size: 0.9375rem;
+  font-size: 0.9375em;
   line-height: 1.65;
   color: var(--text);
 }
@@ -284,7 +295,7 @@
 .callout-key::before {
   content: '💡 Clave';
   display: block;
-  font-size: 0.75rem;
+  font-size: 0.8em;
   font-weight: 700;
   letter-spacing: 0.04em;
   text-transform: uppercase;
@@ -303,13 +314,13 @@
   border-radius: 0 var(--radius) var(--radius) 0;
   font-style: italic;
   color: var(--accent2);
-  font-size: 0.95rem;
+  font-size: 0.95em;
 }
 .quote .attribution {
   display: block;
   margin-top: 0.4rem;
   font-style: normal;
-  font-size: 0.875rem;
+  font-size: 0.92em;
   color: var(--text2);
 }
 
@@ -340,13 +351,13 @@
   border-color: var(--accent);
 }
 .concept-card h4 {
-  font-size: 0.9375rem;
+  font-size: 0.9375em;
   font-weight: 700;
   color: var(--accent);
   margin-bottom: 0.3rem;
 }
 .concept-card p {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   color: var(--text2);
   margin: 0;
   line-height: 1.5;
@@ -391,12 +402,12 @@
 .timeline-item .year {
   font-weight: 700;
   color: var(--accent);
-  font-size: 0.875rem;
+  font-size: 0.875em;
   display: block;
 }
 .timeline-item p {
   margin: 0.2rem 0;
-  font-size: 0.9375rem;
+  font-size: 0.9375em;
 }
 
 /* Key Figures */
@@ -418,10 +429,10 @@
 .figure-card .name {
   font-weight: 700;
   color: var(--accent);
-  font-size: 0.9rem;
+  font-size: 0.9em;
 }
 .figure-card .role {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   color: var(--text2);
   margin-top: 0.2rem;
 }
@@ -443,12 +454,12 @@
   border-radius: var(--radius);
 }
 .big-num .num {
-  font-size: 1.6rem;
+  font-size: 1.6em;
   font-weight: 800;
   color: var(--accent3);
 }
 .big-num .label {
-  font-size: 0.875rem;
+  font-size: 0.875em;
   color: var(--text2);
   margin-top: 0.2rem;
 }
@@ -510,14 +521,6 @@
   .section--closing {
     padding-top: 0.85rem;
   }
-  .section p {
-    font-size: 1rem;
-    line-height: 1.78;
-  }
-  .section p.lead {
-    font-size: 1.06rem;
-    line-height: 1.82;
-  }
 }
 
 @media (max-width: 1023px) {
@@ -537,19 +540,9 @@
   .callout-key {
     margin-top: 0.85rem;
     padding: 0.65rem 0.85rem 0.65rem 0.95rem;
-    font-size: 0.9rem;
-    line-height: 1.6;
   }
   .callout-key::before {
     margin-bottom: 0.25rem;
-  }
-  .section p {
-    font-size: 1rem;
-    line-height: 1.8;
-  }
-  .section p.lead {
-    font-size: 1.05rem;
-    line-height: 1.85;
   }
 }
 

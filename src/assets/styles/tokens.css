@@ -15,6 +15,9 @@
   --layout-max: 720px;
   --font-ui: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
   --font-read: 'IBM Plex Sans', var(--font-ui);
+  /* Base tipográfica del contenido de lectura; hijos usan em para escalar juntos */
+  --book-font-size: 16px;
+  --book-font-size-mobile: 18px;
   /* Altura reservada para AppBottomBar (pill + pequeño respiro; safe-area va aparte en app-shell) */
   --bottom-bar-clearance: 4rem;
 }

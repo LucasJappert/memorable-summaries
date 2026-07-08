@@ -45,7 +45,7 @@ const afterHighlight = computed(() => bodyLines.value.slice(2))
 .closing-title {
   color: var(--accent3);
   margin: 0 0 0.5rem;
-  font-size: 1rem;
+  font-size: 1em;
   font-weight: 600;
   text-align: center;
 }
@@ -57,7 +57,7 @@ const afterHighlight = computed(() => bodyLines.value.slice(2))
 .closing-line {
   width: 100%;
   margin: 0;
-  font-size: 1.1rem;
+  font-size: 1.1em;
   line-height: 1.8;
   text-align: left;
 }

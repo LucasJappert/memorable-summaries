@@ -249,7 +249,7 @@ watchEffect((onCleanup) => {
 
     <div class="page-layout">
       <main id="contenido" class="page-layout__main">
-        <div class="container">
+        <div class="container book-content">
           <ClosingSection :closing="book.closing" />
 
           <BookSection v-for="section in book.sections" :key="section.id" :section="section" />

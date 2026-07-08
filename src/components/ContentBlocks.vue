@@ -51,7 +51,7 @@ defineProps<{ blocks: ContentBlock[] }>()
 <style scoped>
 .content-list {
   color: var(--text2);
-  font-size: 0.9rem;
+  font-size: 0.9em;
   margin: 0.8rem 0 0.8rem 1.5rem;
   line-height: 1.8;
 }
