@@ -125,6 +125,23 @@ COVER_META: dict[str, tuple[str, str]] = {
         "David Deutsch",
     ),
     "black-swan": ("The Black Swan", "Nassim Nicholas Taleb"),
+    "ageless": ("Ageless", "Andrew Steele"),
+    "ai-2041": ("AI 2041: Ten Visions for Our Future", "Kai-Fu Lee"),
+    "alignment-problem": ("The Alignment Problem", "Brian Christian"),
+    "being-you": ("Being You: A New Science of Consciousness", "Anil Seth"),
+    "case-against-reality": (
+        "The Case Against Reality",
+        "Donald D. Hoffman",
+    ),
+    "death": ("Death", "Shelly Kagan"),
+    "el-gran-diseno": ("The Grand Design", "Stephen Hawking"),
+    "emergent-multiverse": ("The Emergent Multiverse", "David Wallace"),
+    "experience-machine": ("The Experience Machine", "Andy Clark"),
+    "hidden-reality": ("The Hidden Reality", "Brian Greene"),
+    "lifespan": ("Lifespan: Why We Age—and Why We Don't Have To", "David A. Sinclair"),
+    "quantum-enigma": ("Quantum Enigma", "Bruce Rosenblum"),
+    "something-deeply-hidden": ("Something Deeply Hidden", "Sean Carroll"),
+    "why-we-die": ("Why We Die", "Venki Ramakrishnan"),
 }
 
 # ISBN opcional para portadas de mayor resolución en Open Library (validados por título)
