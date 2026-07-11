@@ -1,0 +1,439 @@
+{
+  "slug": "emergent-multiverse",
+  "title": "El multiverso emergente",
+  "concepts": [
+    {
+      "title": "Interpretación de Everett",
+      "description": "Mecánica cuántica unitaria leída literalmente como descripción del mundo, sin colapso añadido."
+    },
+    {
+      "title": "Problema de la medición",
+      "description": "Conflicto aparente entre superposición microscópica y resultados macroscópicos definidos."
+    },
+    {
+      "title": "Emergencia e instanciación",
+      "description": "Mundos y objetos clásicos como patrones reales instanciados en el estado cuántico."
+    },
+    {
+      "title": "Decoherencia",
+      "description": "Supresión de interferencia entre ramas por entrelazamiento con el entorno."
+    },
+    {
+      "title": "Peso de rama",
+      "description": "Magnitud derivada de amplitudes que estructura la medida sobre historias."
+    },
+    {
+      "title": "Regla de Born",
+      "description": "Probabilidad de un resultado = módulo al cuadrado de su amplitud."
+    },
+    {
+      "title": "Algoritmo cuántico",
+      "description": "Regla que extrae predicciones empíricas de grados de libertad macroscópicos (POVMs)."
+    },
+    {
+      "title": "Spacetime state realism",
+      "description": "Ontología que asigna operadores de densidad a regiones del espaciotiempo."
+    },
+    {
+      "title": "Hipótesis del pasado",
+      "description": "Condición de baja entropía inicial que explica flechas de tiempo emergentes."
+    },
+    {
+      "title": "Historias decoherentes",
+      "description": "Marco que define ramas consistentes con registros y sin interferencia medible."
+    }
+  ],
+  "highlight": "los mundos ramificados son reales, emergentes y compatibles con nuestros datos",
+  "entries": [
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "No hay problema de la medición en la mecánica cuántica unitaria."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "El conflicto aparente nace de tratar «observación» y «colapso» como postulados primitivos en lugar de leer la teoría literalmente."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La decoherencia explica por qué vemos un mundo cuasi-clásico."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La regla de Born emerge de simetrías y racionalidad, no de un colapso mágico."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La mecánica cuántica everettiana es simplemente la mecánica cuántica misma."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "los mundos ramificados son reales, emergentes y compatibles con nuestros datos"
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Introducción",
+      "text": "David Wallace abre con una tesis provocadora: no hay problema de la medición en la mecánica cuántica. No quiere decir que la teoría no describa la realidad física, ni que haya que modificarla con colapsos o variables ocultas. Quiere decir que, tras ochenta años de trabajo, ya sabemos conectar la dinámica unitaria con lo que medimos."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Introducción",
+      "text": "La confusión histórica elevó conceptos como «observación» y «medición» al nivel de postulados básicos. Hugh Everett fue el primero en ver con claridad que el formalismo, leído sin adornos, ya explica los datos. Bryce DeWitt formuló después la consecuencia escandalosa: las superposiciones macroscópicas describen mundos físicamente reales , casi independientes entre sí. De ahí el nombre sensacionalista «many worlds», aunque Wallace prefiere hablar de mecánica cuántica everettiana o simplemente unitaria."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Introducción",
+      "text": "El libro no ofrece «otra interpretación» más entre muchas. Trata de una sola teoría leída literalmente, como la relatividad general o la paleontología. Los otros habitantes de esos mundos no son ficciones ni posibilidades no realizadas. Si la teoría es cierta, son tan reales como nosotros. La premisa filosófica tácita es el naturalismo , según el cual la intuición cede ante la ciencia exitosa."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Introducción",
+      "text": "«Tenemos una teoría objetivamente causal y continua, y al mismo tiempo subjetivamente probabilística y discontinua. El precio es abandonar la unicidad del observador.»"
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Introducción",
+      "text": "La mecánica cuántica unitaria, leída al pie de la letra, ya describe el mundo. El «problema de la medición» es un error de interpretación, no un defecto de la teoría."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "La paradoja de la medición",
+      "text": "Casi toda la ciencia describe entidades reales aunque no las veamos directamente: dinosaurios, quarks, campos electromagnéticos. Las teorías físicas son modelos matemáticos isomorfos a estructuras del mundo. La excepción aparente es la mecánica cuántica , la teoría microfísica más exitosa, que parece hablar solo de resultados experimentales o afirmar absurdos (gatos vivos y muertos a la vez)."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "La paradoja de la medición",
+      "text": "El formalismo desnudo es limpio: un espacio de Hilbert, evolución unitaria generada por el hamiltoniano, y estructura adicional que distingue sistemas (operadores, descomposición en subsistemas). Sin mencionar probabilidad ni medición, el estado cuántico es un objeto ricamente estructurado, no una mera recta abstracta. El contraste con la mecánica clásica es profundo, pero la diferencia decisiva aparece al conectar el formalismo con la práctica."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "La paradoja de la medición",
+      "text": "La interpretación estándar introduce la medición como concepto fundamental. Las POVMs asignan probabilidades a resultados. Pero los dispositivos de medición son sistemas físicos analizables con la misma mecánica cuántica. Si la medición es primitiva, no podemos explicar por qué un aparato mide posición con cierta precisión. Si es dinámica unitaria, el problema se empuja al siguiente nivel sin fin. La práctica termina cuando los resultados son variables macroscópicas (aguja, display digital), descritas por un algoritmo cuántico sobre grados de libertad macro."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "La paradoja de la medición",
+      "text": "Ni el enlace eigenestado-valor ni el colapso de la función de onda forman parte del formalismo moderno serio. Son reglas ad hoc para extraer predicciones. La vía conservadora de Everett propone tomar la teoría sin modificar y aceptar que el mundo resultante es mucho mayor de lo anticipado: nuestro mundo clásico es una parte pequeña de una realidad ramificada."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "La paradoja de la medición",
+      "text": "La mecánica cuántica puede leerse como teoría realista del mundo, igual que cualquier otra física. El aparente «problema de la medición» desaparece al dejar de tratar la medición como postulado primitivo."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "La emergencia de la multiplicidad",
+      "text": "Si el estado cuántico describe la realidad fielmente, esa realidad contiene vastas cantidades de mundos (ramas, universos) dinámicamente casi independientes, cuasi-clásicos y en constante división. La objeción clásica, según la cual los axiomas no mencionan mundos múltiples, confunde dos dilemas falsos. O se modifican los axiomas, o la multiplicidad es ilusión."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "La emergencia de la multiplicidad",
+      "text": "La respuesta es la emergencia . La ciencia está llena de entidades respetables no definibles en el vocabulario del Modelo Estándar, como tigres, temperatura, agujeros, sinfonías y cuasipartículas. Son patrones o estructuras instanciados en la microfísica porque teorías de alto nivel tienen poder explicativo. Según el criterio de Dennett, adoptado por Wallace, un macro-objeto es real si teorías que lo incluyen predicen y explican de forma fiable."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "La emergencia de la multiplicidad",
+      "text": "La relación entre teorías se captura con instanciación . La física molecular instancia zoología en el parque Kanha, y la electrónica de estado sólido instancia teoría de la computación. No es jerarquía rígida sino red de dominios. Los mundos everettianos son estructuras localizadas en el estado cuántico que instancian una teoría estocástica clásica emergente, del mismo modo que un fonón instancia una excitación particuliforme en un cristal."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "La emergencia de la multiplicidad",
+      "text": "No hay algoritmo para deducir propiedades emergentes desde abajo. Se descubren tras estudiar ambos niveles, como la biología tras la química. Negar la realidad de los mundos por no figurar en los axiomas base es tan erróneo como negar la de los tigres por no figurar entre quarks y electrones."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "La emergencia de la multiplicidad",
+      "text": "Los mundos de la interpretación de Everett son entidades emergentes , objetivamente reales en el mismo sentido que tigres, temperatura o cuasipartículas."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Caos, decoherencia y ramificación",
+      "text": "El capítulo anterior esbozó la emergencia, y aquí Wallace la cuantifica. Ciertas historias cuánticas instancian historias cuasi-clásicas. Las superposiciones de ellas instancian múltiples historias si la interferencia entre términos puede despreciarse. La pregunta técnica es cuándo los grados de libertad macroscópicos de un sistema instancian un proceso ramificado."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Caos, decoherencia y ramificación",
+      "text": "Un paquete de onda localizado sobre un potencial suave sigue trayectorias clásicas aproximadas (teorema de Ehrenfest) y puede coexistir en superposición con otros paquetes si los términos de interferencia desaparecen. La propiedad de preservación de base permite que varias historias clásicas emergentes convivan. Los sistemas aislados macroscópicos caóticos delocalizan sus estados en tiempos alarmantemente cortos. Una mota de polvo caótica pierde cuasiclasicidad en unos 250 segundos , y la luna Hyperion lo hace en semanas."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Caos, decoherencia y ramificación",
+      "text": "La decoherencia resulta indispensable porque el entrelazamiento con el entorno, o con grados de libertad internos microscópicos, suprime interferencia entre ramas y selecciona una base preferida para descripciones macrorrealistas. El marco de historias decoherentes (Gell-Mann, Hartle, Zurek) define estructuras de ramificación con registros estables y consistencia entre observadores."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Caos, decoherencia y ramificación",
+      "text": "La pregunta «¿cuántos mundos hay?» no tiene respuesta precisa, como preguntar cuántas montañas hay. Los límites están difuminados, pero la realidad objetiva de las estructuras no se debilita por ello. La cuenta ingenua de mundos aislados falla tanto a nivel conceptual como técnico cuando falta decoherencia."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Caos, decoherencia y ramificación",
+      "text": "La estructura ramificada de mundos cuasi-clásicos requiere decoherencia ambiental. Los sistemas aislados caóticos no bastan para sostener la fenomenología clásica."
+    },
+    {
+      "sectionId": "interludio1",
+      "sectionTitle": "Primer interludio",
+      "text": "Un diálogo entre Escéptico y Autor responde objeciones frecuentes que no encajaron en el hilo principal. Respecto a la falsabilidad , la mecánica cuántica unitaria es testeable mediante interferencia con buckyballs y tests de teorías de colapso, y la versión everettiana es simplemente esa mecánica. No hay experimento que separe «QM operacional» de «QM literal» más de lo que separa «hubo dinosaurios» de «solo hay fósiles como si hubiera habido dinosaurios»."
+    },
+    {
+      "sectionId": "interludio1",
+      "sectionTitle": "Primer interludio",
+      "text": "En cuanto a la navaja de Ockham , penaliza postulados innecesarios, no cantidad de entidades. La cosmología no descarta teorías por predecir muchas galaxias. Criticar Everett por postular muchos universos inventa un principio nuevo sin motivación independiente. Galileo ya enfrentó la queja de los «vacíos inútiles» vastos."
+    },
+    {
+      "sectionId": "interludio1",
+      "sectionTitle": "Primer interludio",
+      "text": "Sobre la unicidad de la teoría, las alternativas realistas (colapso dinámico, variables ocultas, enfoque transaccional) modifican el formalismo. Las lecturas operacionalistas o de lógica cuántica no toman la teoría literalmente. Lo que Wallace llama everettiano no añade nada al formalismo y es unitaria pura. Las variantes «many-minds» o la de Deutsch en 1985 sí añaden estructura extra, a menudo sobre la mente."
+    },
+    {
+      "sectionId": "interludio1",
+      "sectionTitle": "Primer interludio",
+      "text": "Las objeciones de falsabilidad, extravagancia y pluralidad interpretativa no distinguen la mecánica cuántica unitaria de otras teorías científicas realistas bien confirmadas."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "El enigma de la probabilidad",
+      "text": "La probabilidad se considera el obstáculo más serio para Everett, pero Wallace discrepa: el problema es sobre todo conceptual , no formal. Matemáticamente, la estructura ramificada emergente ya es una teoría estocástica: asigna pesos a historias que satisfacen los axiomas de medida de probabilidad gracias a la decoherencia."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "El enigma de la probabilidad",
+      "text": "La objeción clásica dice que la probabilidad requiere ignorancia microscópica o indeterminismo, y que todas las ramas son reales, no «posibilidades» alternativas. Wallace responde que no debemos confundir intuición con argumento. La probabilidad clásica tampoco está filosóficamente resuelta. Everett no crea problemas nuevos, los exhibe con más claridad y a veces los resuelve mejor."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "El enigma de la probabilidad",
+      "text": "Dos objeciones detalladas fallan. La basada en intuición («probabilidad exige un solo resultado actualizado») carece de evidencia de que esa restricción haga trabajo explicativo en la ciencia. El conteo ingenuo de ramas (probabilidad igual para cada rama) es lógicamente inconsistente en el tiempo: el sombrero rojo en ramas que luego se subdividen viola el cálculo probabilístico estándar."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "El enigma de la probabilidad",
+      "text": "Wallace repasa el frecuentismo , la probabilidad personal (apuestas, libros holandeses) y la probabilidad objetiva. El everettiano no está peor en frecuencias. La vía prometedora es derivar probabilidad desde restricciones de racionalidad y simetría del estado cuántico, esbozada al final del capítulo y desarrollada en los capítulos 5 y 6 ."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "El enigma de la probabilidad",
+      "text": "En Everett la probabilidad no es un defecto formal sino un reto conceptual. La medida sobre ramas decoherentes ya tiene estructura probabilística, y las objeciones intuitivas no están mejor fundadas que en física clásica."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Simetría, racionalidad y la regla de Born",
+      "text": "Wallace construye una teoría positiva de probabilidad everettiana desde la teoría de la decisión . Un agente racional que conoce el estado cuántico de su rama y cree en la mecánica cuántica unitaria debe actuar como si los resultados futuros tuvieran probabilidades dadas por la regla de Born (módulo al cuadrado de amplitudes)."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Simetría, racionalidad y la regla de Born",
+      "text": "El argumento separa el problema práctico (por qué el peso de rama guía decisiones) del epistémico (por qué guía inferencia y frecuencias). El núcleo matemático no es decisionista sino de simetría: preferencias entre apuestas sobre resultados de medición, bajo axiomas de riqueza física y racionalidad, fijan una medida de probabilidad única sobre macroestados decoherentes."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Simetría, racionalidad y la regla de Born",
+      "text": "La preparación, medición y pago se representan como una transformación unitaria. La decoherencia impone una descomposición en macroestados. El agente se preocupa por sus múltiples yo futuros como un clásico se preocupa por su único yo futuro. El teorema de representación cuántico dice que la medida debe ser la de Born, no cualquier otra."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Simetría, racionalidad y la regla de Born",
+      "text": "Wallace examina reglas alternativas propuestas en la literatura, como conteo de ramas, regla de «gordura», regla de estado falso, justicia distributiva, variedad, «cualquier cosa vale» y encogerse y morir. Muestra que cada una viola algún principio físico o de racionalidad. No queda un «problema residual» de si el peso «es realmente» probabilidad. Si cumple el papel, negarlo es semántica o intuición sin valor epistémico."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Simetría, racionalidad y la regla de Born",
+      "text": "Un agente racional en un universo ramificado debe comportarse como si las ramas tuvieran probabilidades iguales a los pesos de Born , demostrable por simetría y teoría de la decisión."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Inferencia estadística everettiana",
+      "text": "El teorema de Born resuelve el problema práctico en un marco de apuestas estilizado. Este capítulo conecta con la práctica científica: inferencia sobre estados desconocidos , dinámicas desconocidas y confirmación de teorías . Wallace muestra que la probabilidad everettiana basta para el uso real de estadística en laboratorio."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Inferencia estadística everettiana",
+      "text": "En el problema del estado desconocido (qubits idénticos en un estado puro desconocido), medir en bases repetidas y estimar frecuencias produce ramas de bajo peso con estimaciones erróneas. El agente racional las ignora según el teorema de Born. El falsacionismo popperiano aplicado a la mecánica cuántica everettiana (EQM) funciona igual. Los resultados en ramas de peso agregado despreciable no desconfirman la estrategia racional."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Inferencia estadística everettiana",
+      "text": "El enfoque bayesiano actualiza credencias personales con la regla de Bayes, y EQM no bloquea la actualización sobre evidencia. El marco decisionista unificado del final del capítulo prueba un teorema de representación general. El peso de rama desempeña exactamente el papel de probabilidad objetiva en inferencia, con el teorema de Born como caso especial."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Inferencia estadística everettiana",
+      "text": "La sección sobre literatura reciente sitúa estos resultados frente a trabajos previos de Saunders, Deutsch, Greaves y otros. La moraleja del capítulo 4 se confirma. La mecánica cuántica no complica la inferencia más de lo que la física clásica ya dejaba sin resolver filosóficamente."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Inferencia estadística everettiana",
+      "text": "La inferencia estadística científica funciona en Everett si se respetan los pesos de rama como probabilidades operativas, ya sea en enfoque frecuentista, falsacionista o bayesiano."
+    },
+    {
+      "sectionId": "interludio2",
+      "sectionTitle": "Segundo interludio",
+      "text": "Después de la Parte II sobre probabilidad, un segundo diálogo entre el escéptico y el autor recoge críticas adicionales surgidas en la última década. El tono es el mismo que en el primer interludio. El autor responde sin conceder que haya un problema científico pendiente específico de Everett."
+    },
+    {
+      "sectionId": "interludio2",
+      "sectionTitle": "Segundo interludio",
+      "text": "Las objeciones restantes suelen apelar a intuiciones sobre incertidumbre genuina, igualdad entre ramas o imposibilidad de confirmar la teoría. Wallace remite a los capítulos 4 – 7 . Formalmente la probabilidad está definida, operativamente la regla de Born está justificada y lingüísticamente la incertidumbre cotidiana sobrevive."
+    },
+    {
+      "sectionId": "interludio2",
+      "sectionTitle": "Segundo interludio",
+      "text": "El escéptico permanece sin convencer al cierre, deliberadamente: el autor prometió no forzar una capitulación ficticia. El interludio cierra la discusión probabilística antes de las consecuencias filosóficas y físicas de la Parte III."
+    },
+    {
+      "sectionId": "interludio2",
+      "sectionTitle": "Segundo interludio",
+      "text": "Las críticas residuales a la probabilidad everettiana reiteran problemas generales de la noción de probabilidad, no defectos nuevos de la mecánica cuántica unitaria."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Incertidumbre, posibilidad e identidad",
+      "text": "Si el futuro ramifica, ¿cómo seguir diciendo «ocurrirá A o B, pero no ambos, y no sé cuál»? ¿Cómo mantener identidad personal ante múltiples versiones futuras de uno mismo? Wallace defiende una posición conservadora . El uso cotidiano del lenguaje permanece válido, y cambian teorías metafísicas y semánticas, no las prácticas."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Incertidumbre, posibilidad e identidad",
+      "text": "Desde la teoría veritativa condicional, el significado de una oración es una regla que asigna a cada contexto de enunciación una proposición (conjunto de «mundos posibles»). En un marco determinista ramificado, «A o B» y «no ambos» se interpretan relativos a la rama del hablante , no a un único futuro global. La incertidumbre expresa ignorancia sobre en qué rama continuará la línea de identidad del agente, no indeterminismo fundamental."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Incertidumbre, posibilidad e identidad",
+      "text": "El capítulo no es premisa obligatoria del argumento probabilístico de la Parte II (que opera con pesos y decisiones), sino investigación de consecuencias. Responde a críticos como Albert y Loewer, que temían revisiones radicales de la noción de persona, y a quienes abrazan revisionismo extremo (Greaves, Tappenden)."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Incertidumbre, posibilidad e identidad",
+      "text": "Wallace concluye que podemos seguir anticipando un futuro único pero impredecible desde la perspectiva de la rama. Podemos usar el mismo vocabulario de posibilidad y contingencia que antes, porque ese vocabulario nunca dependió de que solo existiera un futuro físico global."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Incertidumbre, posibilidad e identidad",
+      "text": "La incertidumbre, la posibilidad y la identidad personal siguen siendo coherentes en un universo ramificado si se reinterpretan las condiciones de verdad, no el uso lingüístico cotidiano."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Espaciotiempo y el estado cuántico",
+      "text": "Para evaluar localidad en mecánica cuántica everettiana hace falta precisar qué representa el estado cuántico físicamente. Wallace distingue acción a distancia (cambio instantáneo en B al perturbar A) de no separabilidad (el estado de A+B no se fija solo con los estados de A y B por separado)."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Espaciotiempo y el estado cuántico",
+      "text": "El realismo del estado en el espaciotiempo , desarrollado con Chris Timpson, propone que el operador de densidad de cada subsistema asociado a una región espacial representa propiedades intrínsecas de esa región, como el campo electromagnético clásico en un punto. Si no hubiera descomposición en subsistemas, el universo entero sería un solo portador de una sola propiedad, demasiado pobre ontológicamente."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Espaciotiempo y el estado cuántico",
+      "text": "La mecánica cuántica everettiana es no separable (como el electromagnetismo clásico con efecto Aharonov-Bohm) pero cumple acción local : no hay señalización superlumínica ni dinámica que transmita influencias instantáneas manipulables. Los experimentos tipo Aspect se analizan con ramas correlacionadas, no con colapsos no locales."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Espaciotiempo y el estado cuántico",
+      "text": "Wallace también revisa alternativas como el realismo de la función de onda en espacio de configuración de alta dimensión, el relacionalismo cuántico y los campos con valores operador. El capítulo muestra que tratar el estado como descripción completa y la ecuación de Schrödinger como universal facilita discusiones conceptuales antes obstruidas por el vocabulario de «medición»."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Espaciotiempo y el estado cuántico",
+      "text": "Everettian QM es no separable ontológicamente pero local en dinámica, compatible con el espíritu de la relatividad especial."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Direcciones de ramificación y del tiempo",
+      "text": "Decir que las historias «divergen hacia el futuro» introduce una flecha de tiempo. La microdinámica de Schrödinger es simétrica en t, y la asimetría de ramificación es emergente , como la irreversibilidad termodinámica. Wallace conecta ambos fenómenos con las mismas condiciones de frontera."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Direcciones de ramificación y del tiempo",
+      "text": "La irreversibilidad macroscópica no basta con geometría del espacio de fases (la idea de que lo típico alcanza equilibrio). Hace falta explicar teorías cuantitativas (química, tasas de equilibrio) y la hipótesis del pasado , es decir, entropía muy baja en el universo primitivo. La asimetría observada no se deriva de microfísica simétrica sin postulado de baja entropía inicial."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Direcciones de ramificación y del tiempo",
+      "text": "La dinámica coarse-grained (función de Wigner, Husimi y álgebras de macropropiedades) muestra cómo derivar predicciones irreversibles fiables desde microdinámica reversible. En el caso cuántico, la decoherencia selecciona historias que ramifican hacia adelante, y el reverso temporal de un conjunto decoherente no lo es."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Direcciones de ramificación y del tiempo",
+      "text": "Wallace concluye que la flecha de ramificación y la segunda ley comparten esencialmente la misma explicación. Las situaciones donde apuntaran en direcciones opuestas no deberían ocurrir."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Direcciones de ramificación y del tiempo",
+      "text": "La asimetría de la ramificación hacia el futuro emerge de las mismas condiciones de frontera de baja entropía que explican la flecha del tiempo termodinámica."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Consecuencias everettianas variadas",
+      "text": "Este capítulo misceláneo explora consecuencias tentativas. Respecto al caos y el indeterminismo , globalmente el futuro es determinista mediante ramificación con pesos conocidos. Para el observador en una rama es impredecible en principio, como en la mecánica cuántica estándar. El caos cuántico produce ramificación, no la hipersensibilidad clásica a condiciones iniciales, y la «mariposa» está exagerada."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Consecuencias everettianas variadas",
+      "text": "En casos de probabilidad exótica, el razonamiento antrópico cosmológico es más disciplinado en el multiverso everettiano, con teoría precisa y predicciones testeables, que en multiversos ad hoc de inflación o cuerdas. El suicidio cuántico , que apuesta la vida a un resultado cuántico, no otorga certeza subjetiva de supervivencia. Renormalizar probabilidades sobre ramas con experiencia no sigue de la imposibilidad de «esperar la muerte»."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Consecuencias everettianas variadas",
+      "text": "David Deutsch sostuvo que interferencia y computación cuántica permiten «observar» el multiverso. Wallace analiza interferometría, computación (algoritmo de Shor), efecto Zeno y criterios de realidad para partículas clásicas. Los estados mixtos no son ignorancia cuántica primitiva sino descripción de subsistemas entrelazados. El universo total puede permanecer en estado puro."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Consecuencias everettianas variadas",
+      "text": "Como especulación final, la mecánica cuántica everettiana altera las paradojas del viaje en el tiempo según el modelo computacional de Deutsch. Las secciones son independientes y más esbozadas que el resto del libro."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Consecuencias everettianas variadas",
+      "text": "Everett unifica la impredecibilidad cuántica y el caos clásico bajo la ramificación, y abre lecturas disciplinadas de interferencia, cosmología antrópica y paradojas límite."
+    },
+    {
+      "sectionId": "conclusion",
+      "sectionTitle": "Conclusión",
+      "text": "Wallace cierra reafirmando la tesis conservadora: ha tratado de mecánica cuántica determinista, lorentz-covariante y realista . Leída así, la teoría implica mundos emergentes ramificados, medida probabilística sobre ellos, justificación de Born, conservación del lenguaje cotidiano de incertidumbre, localidad dinámica y flecha de tiempo ligada a la termodinámica."
+    },
+    {
+      "sectionId": "conclusion",
+      "sectionTitle": "Conclusión",
+      "text": "No hay problema de la medición. La interpretación de Everett no lo «resuelve», lo disuelve . La multiplicidad de mundos es sorprendente y contraintuitiva, pero no constituye argumento contra la teoría. De hecho, cualquier explicación adecuada de los datos requiere alguna forma de multiplicidad (sección 10.3 )."
+    },
+    {
+      "sectionId": "conclusion",
+      "sectionTitle": "Conclusión",
+      "text": "Alternativas testables son bienvenidas, pero la mecánica cuántica unitaria no tiene defecto científico que obligue a abandonarla. La gravedad cuántica fallará en algún régimen, pero el problema de la medición no señalaba ese camino. La obfuscación histórica (colapso, observación primitiva) se disipa. La cosmología cuántica, la computación y las cuerdas debaten unitariedad seriamente."
+    },
+    {
+      "sectionId": "conclusion",
+      "sectionTitle": "Conclusión",
+      "text": "La mecánica cuántica everettiana es simplemente la mecánica cuántica. Interpretar una teoría física literalmente no es privilegio ni anomalía de la cuántica. Después de ochenta años de trabajo, el universo resultó extraño, pero sigue siendo imaginable con claridad conceptual, como recordaron Eddington y Haldane."
+    },
+    {
+      "sectionId": "conclusion",
+      "sectionTitle": "Conclusión",
+      "text": "La interpretación de Everett disuelve el problema de la medición porque la mecánica cuántica unitaria realista ya es coherente con todos nuestros datos empíricos."
+    },
+    {
+      "sectionId": "epilogo",
+      "sectionTitle": "Epílogo",
+      "text": "Un diálogo final entre el autor y el escéptico cierra el libro sin reconciliación forzada. Wallace cita a Hugh Everett III , quien sostuvo que es posible una teoría causal completa de la mecánica cuántica con aspectos probabilísticos en el nivel subjetivo, sin postulados nuevos, tomando en serio la mecánica ondulatoria."
+    },
+    {
+      "sectionId": "epilogo",
+      "sectionTitle": "Epílogo",
+      "text": "El escéptico no se convence. El autor evita la capitulación ficticia y deja la última palabra a Galileo . Simplicio pregunta para qué sirve el vasto vacío entre Saturno y las estrellas fijas. Salviati responde que la naturaleza no crea en vano y que ese espacio contiene innumerables estrellas no visibles a simple vista."
+    },
+    {
+      "sectionId": "epilogo",
+      "sectionTitle": "Epílogo",
+      "text": "El paralelo con la objeción everettiana es explícito. Lo que parece «vacío» o «extravagancia» puede estar poblado de estructura real que nuestra intuición pre-copernicana o pre-cuántica no anticipó. La discusión termina con humor. Si Eddington no dijo la cita famosa en este mundo, quizá la dijo en otro."
+    },
+    {
+      "sectionId": "epilogo",
+      "sectionTitle": "Epílogo",
+      "text": "Everett ofreció desde 1957 una teoría completa y causal sin postulados extra. La resistencia final es filosófica, no empírica."
+    }
+  ]
+}

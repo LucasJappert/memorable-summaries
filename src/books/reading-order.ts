@@ -1,5 +1,5 @@
 /**
- * Número de lectura según fuentes/orden-de-lectura.md (Fases 1–8).
+ * Número de lectura según fuentes/orden-de-lectura.md (Fases 1–9).
  * Mantener sincronizado al agregar libros al catálogo.
  */
 export const READING_ORDER_BY_SLUG: Record<string, number> = {
@@ -37,6 +37,20 @@ export const READING_ORDER_BY_SLUG: Record<string, number> = {
   'fabric-of-reality': 32,
   'beginning-of-infinity': 33,
   'black-swan': 34,
+  'el-gran-diseno': 35,
+  'hidden-reality': 36,
+  'something-deeply-hidden': 37,
+  'quantum-enigma': 38,
+  'emergent-multiverse': 39,
+  'ai-2041': 40,
+  'alignment-problem': 41,
+  'being-you': 42,
+  'experience-machine': 43,
+  'case-against-reality': 44,
+  'death': 45,
+  'ageless': 46,
+  'lifespan': 47,
+  'why-we-die': 48,
 }
 
 export function getReadingOrder(slug: string): number | undefined {

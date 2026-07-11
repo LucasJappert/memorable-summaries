@@ -6,28 +6,35 @@ export interface ReadingPhase {
   slugs: string[]
 }
 
-const PHASE_RANGES: Array<{ num: number; title: string; from: number; to: number }> = [
-  { num: 1, title: 'Cosmos y física', from: 1, to: 5 },
-  { num: 2, title: 'Evolución', from: 6, to: 10 },
-  { num: 3, title: 'Origen de la vida / SETI', from: 11, to: 14 },
-  { num: 4, title: 'Cerebro', from: 15, to: 18 },
-  { num: 5, title: 'Inteligencia artificial', from: 19, to: 21 },
-  { num: 6, title: 'Harari y matemáticas', from: 22, to: 25 },
-  { num: 7, title: 'Libre albedrío y conciencia', from: 26, to: 31 },
-  { num: 8, title: 'Deutsch y Taleb', from: 32, to: 34 },
+const PHASE_RANGES: Array<{ num: number; title: string; ranges: Array<[number, number]> }> = [
+  { num: 1, title: 'Cosmos y física', ranges: [[1, 5], [35, 39]] },
+  { num: 2, title: 'Evolución', ranges: [[6, 10]] },
+  { num: 3, title: 'Origen de la vida / SETI', ranges: [[11, 14]] },
+  { num: 4, title: 'Cerebro', ranges: [[15, 18]] },
+  { num: 5, title: 'Inteligencia artificial', ranges: [[19, 21], [40, 41]] },
+  { num: 6, title: 'Harari y matemáticas', ranges: [[22, 25]] },
+  { num: 7, title: 'Libre albedrío y conciencia', ranges: [[26, 31], [42, 45]] },
+  { num: 8, title: 'Deutsch y Taleb', ranges: [[32, 34]] },
+  { num: 9, title: 'Longevidad y muerte', ranges: [[46, 48]] },
 ]
 
-function slugsInOrderRange(from: number, to: number): string[] {
+function slugsInOrderRanges(ranges: Array<[number, number]>): string[] {
+  const orders = new Set<number>()
+  for (const [from, to] of ranges) {
+    for (let order = from; order <= to; order += 1) {
+      orders.add(order)
+    }
+  }
   return Object.entries(READING_ORDER_BY_SLUG)
-    .filter(([, order]) => order >= from && order <= to)
+    .filter(([, order]) => orders.has(order))
     .sort(([, a], [, b]) => a - b)
     .map(([slug]) => slug)
 }
 
-export const READING_PHASES: ReadingPhase[] = PHASE_RANGES.map(({ num, title, from, to }) => ({
+export const READING_PHASES: ReadingPhase[] = PHASE_RANGES.map(({ num, title, ranges }) => ({
   num,
   title,
-  slugs: slugsInOrderRange(from, to),
+  slugs: slugsInOrderRanges(ranges),
 }))
 
 const slugToPhase = new Map<string, ReadingPhase>(

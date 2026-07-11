@@ -28,12 +28,26 @@ import { twentyOneLessons } from '../data/21-lessons'
 import { determined } from '../data/determined'
 import { freeWill } from '../data/free-will'
 import { egoTunnel } from '../data/ego-tunnel'
+import { beingYou } from '../data/being-you'
 import { godelEscherBach } from '../data/godel-escher-bach'
 import { livewired } from '../data/livewired'
 import { selfAssemblingBrain } from '../data/self-assembling-brain'
 import { fabricOfReality } from '../data/fabric-of-reality'
 import { beginningOfInfinity } from '../data/beginning-of-infinity'
 import { blackSwan } from '../data/black-swan'
+import { elGranDiseno } from '../data/el-gran-diseno'
+import { hiddenReality } from '../data/hidden-reality'
+import { somethingDeeplyHidden } from '../data/something-deeply-hidden'
+import { quantumEnigma } from '../data/quantum-enigma'
+import { emergentMultiverse } from '../data/emergent-multiverse'
+import { ai2041 } from '../data/ai-2041'
+import { alignmentProblem } from '../data/alignment-problem'
+import { experienceMachine } from '../data/experience-machine'
+import { caseAgainstReality } from '../data/case-against-reality'
+import { death } from '../data/death'
+import { ageless } from '../data/ageless'
+import { lifespan } from '../data/lifespan'
+import { whyWeDie } from '../data/why-we-die'
 
 export interface BookCatalogEntry {
   slug: string
@@ -74,7 +88,7 @@ function buildCatalogEntry(book: BookSummary): BookCatalogEntry {
   }
 }
 
-/** Fases 1–8 (orden-de-lectura.md) — 34 libros */
+/** Fases 1–9 (orden-de-lectura.md) — 47 libros */
 const ALL_BOOKS: BookSummary[] = [
   cosmos,
   universoNada,
@@ -104,12 +118,26 @@ const ALL_BOOKS: BookSummary[] = [
   determined,
   freeWill,
   egoTunnel,
+  beingYou,
   godelEscherBach,
   livewired,
   selfAssemblingBrain,
   fabricOfReality,
   beginningOfInfinity,
   blackSwan,
+  elGranDiseno,
+  hiddenReality,
+  somethingDeeplyHidden,
+  quantumEnigma,
+  emergentMultiverse,
+  ai2041,
+  alignmentProblem,
+  experienceMachine,
+  caseAgainstReality,
+  death,
+  ageless,
+  lifespan,
+  whyWeDie,
 ]
 
 export const bookCatalog: BookCatalogEntry[] = ALL_BOOKS.map(buildCatalogEntry)

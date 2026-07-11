@@ -1,0 +1,319 @@
+{
+  "slug": "lifespan",
+  "title": "La vida longeva",
+  "concepts": [
+    {
+      "title": "Teoría de la información del envejecimiento",
+      "description": "El declive es pérdida de lectura epigenética, no mutaciones primarias del ADN."
+    },
+    {
+      "title": "Circuito de supervivencia",
+      "description": "Genes A/B ancestrales que pausan reproducción para reparar ADN; origen de sirtuinas."
+    },
+    {
+      "title": "Sirtuinas / NAD+",
+      "description": "Enzimas que mantienen el epigenoma; requieren NAD+, restaurable con NMN."
+    },
+    {
+      "title": "mTOR / AMPK",
+      "description": "Vías nutricionales: mTOR crece con abundancia; AMPK y ayuno activan defensas."
+    },
+    {
+      "title": "Células senescentes",
+      "description": "Dejan de dividirse pero secretan inflamación; objetivo de senolíticos."
+    },
+    {
+      "title": "Reloj epigenético",
+      "description": "Metilación del ADN que mide edad biológica vs cronológica."
+    },
+    {
+      "title": "Medicina de precisión",
+      "description": "Diagnóstico y tratamiento según genoma y datos individuales."
+    },
+    {
+      "title": "Healthspan",
+      "description": "Años de vida activa y sana, no solo conteo total."
+    },
+    {
+      "title": "Inflammaging",
+      "description": "Inflamación crónica de bajo grado impulsada por senescencia."
+    },
+    {
+      "title": "Envejecimiento como enfermedad",
+      "description": "Marco que unifica patologías del declive bajo una causa tratable."
+    }
+  ],
+  "highlight": "envejecer es una enfermedad, y las enfermedades se tratan",
+  "entries": [
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "El envejecimiento no es el precio inevitable de vivir: es una pérdida tratable de información epigenética."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Podemos activar circuitos ancestrales de supervivencia con estilo de vida, fármacos y reprogramación celular."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La medicina de precisión y los senolíticos podrían añadir décadas de salud en este siglo."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Pero hace falta inversión pública y equidad para que el futuro no sea solo para quienes puedan pagarlo."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La ciencia ya avanza; la sociedad debe decidir qué mundo quiere cuando la juventud dure mucho más."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "envejecer es una enfermedad, y las enfermedades se tratan"
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "La oración de una abuela",
+      "text": "David Sinclair creció en los suburbios del norte de Sídney, explorando el monte como un niño que aún no ha aprendido que «el reloj corre». Su abuela Vera , refugiada húngara que huyó de los soviéticos en 1956 , vivió con espíritu bohemio hasta bien entrados los 70 años. Les leía el poema «Now We Are Six» de Milne y les decía que seis era la mejor edad y que nunca dejaran de ser jóvenes."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "La oración de una abuela",
+      "text": "Pero el reloj sí corría. A mediados de los 80 , Vera era una sombra: sin música, sin silla vacía, sin la mujer que había sido. Murió a los 92 con la frase resignada «así es como va». Sinclair cree que la persona que fue había muerto años antes. La muerte de su madre Diana —asfixia por líquido en el pulmón, neuronas borrando recuerdos en minutos, le mostró lo que nadie cuenta: morir no es dormir tranquilo."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "La oración de una abuela",
+      "text": "El documentalista Claude Lanzmann advirtió que toda muerte es violenta. Los niños entienden la irreversibilidad entre los 5 y 7 años y luego entierran el pensamiento. Hemos ganado años en el siglo pasado, pero no vida valiosa: ventiladores, quimio, facturas hospitalarias. Atul Gawande señaló que convertimos la mortalidad en experiencia médica. Sinclair pregunta si ¿y si pudiéramos ser jóvenes más tiempo —no solo años, sino décadas, sin que el final se parezca al declive que ya conocemos?"
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "La oración de una abuela",
+      "text": "«No one tells you what it is like to die. Why doesn't anyone tell you?»"
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "La oración de una abuela",
+      "text": "El envejecimiento tal como lo vivimos roba décadas de vitalidad y no debe aceptarse como destino natural ."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Viva primordium",
+      "text": "Sinclair imagina la Tierra hace 4000 millones de años: océanos tóxicos, sin oxígeno, hasta que ARN y membranas de ácidos grasos forman las primeras células en charcos junto a respiraderos termales. Una especie ficticia, Magna superstes , evoluciona un circuito genético: el gen A frena la reproducción en tiempos duros y el gen B lo silencia cuando conviene dividirse, pero si el ADN se rompe, la proteína de B sale a repararlo y A vuelve a activarse."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Viva primordium",
+      "text": "Cuando rayos cósmicos destrozan el ADN de casi todo el lago, solo M. superstes pausa todo para reparar antes de reproducirse. Ese circuito, conservado en plantas, hongos y animales —incluidos nosotros, es la razón por la que sobrevivimos décadas más allá de la reproducción. Pero tiene un costo, pues es también la razón por la que envejecemos ."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Viva primordium",
+      "text": "Muchos biólogos nunca preguntaron por qué envejecemos. los gerontólogos trataban síntomas. El cáncer cambió de paradigma cuando Peter Vogt y Peter Duesberg hallaron oncogenes en los 70 : dejó de ser «así es la vida» y pasó a ser un blanco molecular. Sinclair propone el mismo giro para el envejecimiento: una causa unificada, no miles de enfermedades sueltas."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Viva primordium",
+      "text": "Heredamos un circuito de supervivencia primordial que nos mantiene vivos y, a la vez, nos hace envejecer."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "El pianista demente",
+      "text": "En 2003 anunciaron el genoma humano «completo», pero faltaban huecos enormes: hasta 69 % del «ADN basura» y genes menores de 300 pares de bases ignorados. No encontrarás un gen del envejecimiento porque los genes no evolucionaron para envejecernos. La clave está en la información epigenética : las marcas que dicen a las células qué ser, como la partitura de un pianista."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "El pianista demente",
+      "text": "El camino empezó con Robert Mortimer en Berkeley, quien convirtió la levadura Saccharomyces cerevisiae en modelo accesible. Comparte 70 % de nuestros genes y envejece en una semana. Leonard Guarente en MIT buscaba genes de longevidad. Sinclair llegó en 1995 con una beca Whitney tras convencer a Douglas Melton . El gen WRN de síndrome de Werner —envejecimiento prematuro a los 30-40 , tenía homólogo en levadura: Sir2 ."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "El pianista demente",
+      "text": "Sir2 silencia genes y repara ADN. En levadura vieja, círculos de ADN ribosomal ( ERC ) secuestran Sir2, la célula madre envejece y la hija nace vieja. La teoría de la información del envejecimiento sostiene que perdemos la lectura epigenética correcta —ruido, no mutaciones primarias, . Los ratones ICE, con roturas de ADN inducidas sin mutar secuencia, envejecen antes: el reloj epigenético acelera."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "El pianista demente",
+      "text": "Envejecemos por pérdida de información epigenética , como un pianista que olvida la partitura mientras el piano sigue intacto."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "La epidemia ciega",
+      "text": "En mayo de 2010 , mientras Londres celebraba fútbol y política, la Royal Society reunió a luminarias del envejecimiento. Cynthia Kenyon , Brian Kennedy , Nir Barzilai y otros convergieron en una tesis subversiva: el envejecimiento no es inevitable, es un proceso patológico del que cáncer, Alzheimer y diabetes son síntomas. David Gems resumió que envejecer es una enfermedad con espectro amplio de consecuencias."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "La epidemia ciega",
+      "text": "Históricamente, «decrepitud» figuraba en certificados de defunción junto a «susto» o «vómito». Hoy la OMS tiene 14 000 códigos y los médicos evitan citar la edad como causa inmediata. Pero envejecer nos lleva al precipicio: la ley de Benjamin Gompertz ( 1825 ) describe un reloj interno más probabilidad de muerte que se duplica cada 8 años. Solo 3 % llegan al siglo. 115 es una apuesta de 1 en 100 millones ."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "La epidemia ciega",
+      "text": "La madre de Sinclair, fumadora, fue diagnosticada de cáncer de pulmón a los 50 — 21 años antes que el promedio, . Tabaco, genética y tiempo matan juntos. Tratar cada enfermedad por separado sin atacar el envejecimiento subyacente es como estudiar por qué alguien cayó del acantilado sin preguntar qué lo llevó hasta el borde."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "La epidemia ciega",
+      "text": "El envejecimiento debe tratarse como enfermedad unificadora, no como destino natural fuera de la medicina."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Longevidad ahora",
+      "text": "Cada día Sinclair recibe correos pidiendo píldoras o plaza en ensayos clínicos. Mientras tanto, cualquiera puede activar sus genes de longevidad ya: las zonas azules de Okinawa, Nicoya y Cerdeña muestran que más verduras, legumbres y menos carne y azúcar ayudan. En 1900 neumonía, tuberculosis y gripe mataban a la mitad. hoy esas causas son raras y el declive llega décadas después, debilitado por el envejecimiento."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Longevidad ahora",
+      "text": "El consejo más sólido tras 25 años de investigación: comer menos a menudo . No malnutrición —eso acorta la vida, sino ayuno o restricción que activa el circuito de supervivencia. Hipócrates y el veneciano Luigi Cornaro (siglo XV ) vivieron casi un siglo comiendo poco. la ciencia moderna lo confirma en levadura, moscas y ratones."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Longevidad ahora",
+      "text": "La restricción calórica compacta el ADN y retrasa ERC en levadura. En Okinawa los adultos comían 20 % menos calorías. en Biosfera 2 ( 1991-1993 ) la escasez de cultivo imitó CR y los biomarcadores de Roy Walford parecieron los de ratones longevos. Ejercicio vigoroso, exposición al frío y calor ( hormesis ) y dieta basada en plantas también activan AMPK y sirtuinas."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Longevidad ahora",
+      "text": "**Ayuno intermitente** — activa defensas celulares sin privación extrema."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Longevidad ahora",
+      "text": "**Hormesis** — estrés leve (frío, calor, ejercicio) fortalece el organismo."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Longevidad ahora",
+      "text": "**Dieta vegetal** — reduce aminoácidos que aceleran vías de crecimiento."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Longevidad ahora",
+      "text": "Sin esperar fármacos, podemos activar genes de longevidad con comer menos, moverse más y estrés controlado."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Una mejor píldora",
+      "text": "Richard Feynman dijo que nada en biología indica la inevitabilidad de la muerte. A escala nanométrica, la vida es química ordenada: enzimas como catalasa procesan miles de reacciones por segundo. Si el caos enzimático se detiene, morimos en segundos. Las herramientas genéticas y epigenéticas ya permiten modular ese orden con medicinas existentes."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Una mejor píldora",
+      "text": "La rapamicina , descubierta en bacterias bajo un moái de la Isla de Pascua ( 1964 ), suprime el sistema inmune y salva trasplantes, pero también alarga la vida en levadura, moscas y ratones ( 9-14 % , equivalente a una década humana). Inhibe mTOR , la vía que dice a la célula «hay comida, crece». La metformina , usada en diabetes, activa AMPK y muestra señales de protección en humanos. Los STACs (activadores de sirtuinas) como resveratrol y compuestos sintéticos estimulan SIRT1."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Una mejor píldora",
+      "text": "El NMN y precursores restauran NAD+ , cofactor que cae con la edad y sin el cual las sirtuinas no reparan el epigenoma. En humanos hay ensayos en curso. en animales, NMN mejora vasos, energía y fertilidad en ratones viejos. No es inmortalidad mañana, pero son los primeros pasos que Feynman anticipó."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Una mejor píldora",
+      "text": "Moléculas que modulan sirtuinas, AMPK y mTOR ya pueden ralentizar el envejecimiento en laboratorio y ensayos humanos tempranos."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Grandes pasos adelante",
+      "text": "Pensábamos que envejecer sería intratablemente complejo. Pero si hay reguladores universales en levadura, gusanos, ratones y humanos, y si moléculas como NMN o horas de ejercicio los cambian, y si todo es una enfermedad , el panorama se simplifica: más fácil que curar todos los cánceres uno a uno. Como Lavoisier con el lavado de manos o Jenner con la vacuna, entender el problema lo vuelve soluble."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Grandes pasos adelante",
+      "text": "Las células senescentes dejan de dividirse pero no mueren: secretan citocinas, inflaman tejidos ( inflammaging ) y convierten vecinas en «zombies». Darren Baker y Jan van Deursen en la Mayo Clinic eliminaron senescentes en ratones y ganaron 20-30 % de vida con riñones y corazones más sanos. Los senolíticos buscan destruirlas selectivamente."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Grandes pasos adelante",
+      "text": "La senescencia evolucionó por pleiotropía antagonista ( George Williams , Judith Campisi ): frena cáncer en la treintena, pero daña en la setentena cuando pocos morían de viejo en la evolución. Telómeros cortos activan el circuito de supervivencia permanentemente. La reprogramación epigenética con factores Yamanaka, en dosis controladas, rejuvenece ratones ICE sin borrar identidad celular."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Grandes pasos adelante",
+      "text": "Eliminar células senescentes y revertir el epigenoma podrían rejuvenecer tejidos enteros en las próximas décadas."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "La era de la innovación",
+      "text": "Kuhn Lawan , anciana tailandesa con cáncer de pulmón, recibía quimio correcta para el tumor equivocado: en realidad tenía leucemia sólida en el pulmón. Mark Boguski , pionero de la medicina de precisión , argumenta que diagnosticar por ubicación anatómica sin secuenciar es como clasificar ballenas como peces porque nadan. Con ADN del tumor, Lawan cambió de tratamiento y mejoró."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "La era de la innovación",
+      "text": "La secuenciación cayó de miles de millones de dólares a menos de 100 dólares en un dispositivo MinION del tamaño de una barra de chocolate. Pronto dirá qué comer, qué microbioma cultivar y qué fármaco evitar —como la deficiencia de G6PD en 300 millones de personas, donde antipalúdicos comunes provocan hemólisis. CAR-T y checkpoint inhibitors (usados en el melanoma cerebral de Jimmy Carter ) muestran remisiones > 80 % en algunos cánceres."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "La era de la innovación",
+      "text": "Wearables detectarán arritmias, analizadores de aliento infecciones, patrones de teclado Parkinson. El reloj epigenético mide edad biológica por metilación del ADN. La medicina dejará de ser «lo que funciona para la mayoría» y pasará a ser individual, preventiva y anticipatoria."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "La era de la innovación",
+      "text": "La medicina de precisión permitirá diagnosticar y tratar antes de que el declive sea irreversible."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "La forma de las cosas por venir",
+      "text": "Sinclair hace aritmética conservadora y suma monitoreo temprano suma 10 años saludables. estilo de vida 5 . moléculas longevas 8 . reprogramación y senolíticos 10 más. Total: expectativa de 113 años en países desarrollados, con más de la mitad superando esa cifra. Jeanne Calment saldrá del top 100 de longevos en décadas."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "La forma de las cosas por venir",
+      "text": "La mitad de los niños japoneses nacidos hoy podrían pasar los 107 años, y en EE.UU. la proyección ronda los 104 . La reprogramación celular podría hacer alcanzables los 150 años antes de fin de siglo. Si la teoría de la información es correcta, el epigenoma podría resetearse repetidamente sin límite superior conocido."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "La forma de las cosas por venir",
+      "text": "Su hijo Alex , de 16 años, ve calentamiento global, guerras y terrorismo y duda del optimismo. Los críticos no son trolls, sino colegas y familia. Aun así, un tercio de los científicos del campo ya toman metformina o NAD+, y las conferencias serias debaten cuántas décadas extra llegarán, no si llegarán. El riesgo es extrapolar de forma lineal cuando las tecnologías avanzan en exponencial."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "La forma de las cosas por venir",
+      "text": "Combinando tecnologías emergentes, la vida saludable podría superar ampliamente el siglo en personas nacidas hoy."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Un camino adelante",
+      "text": "H.G. Wells predijo guerra aérea en 1908 , cinco años después del primer vuelo. Arthur C. Clarke advirtió que científicos mayores de 50 solo sirven para reuniones —pero también dijo que cuando un distinguido anciano dice que algo es imposible, probablemente se equivoca. Sinclair, a los 50 , predice el primer supercentenario joven del siglo XXII ."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Un camino adelante",
+      "text": "El futuro puede ser desigualdad extrema y escasez, o prosperidad con ancianos reverenciados por sabiduría y recursos liberados de una medicina que combate enfermedades una por una. Para el segundo hace falta trabajo. El NIH de EE.UU. gasta menos del 1 % en biología del envejecimiento. de 3.5 mil millones etiquetados «aging» en 2018 , menos del 3 % iba a entender por qué envejecemos. Leonard Hayflick calculó que curar Alzheimer añade 19 días a la expectativa."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Un camino adelante",
+      "text": "El café cuesta 300 mil millones al año en EE.UU.. un caza F-22, 335 millones la unidad. Invertir en envejecimiento no es lujo: el 93 % de mayores de 50 está discapacitado por él. Equilibrio público-privado, redefinir envejecimiento como enfermedad en agencias de financiación y evitar que solo los ricos compren décadas extra."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Un camino adelante",
+      "text": "Prolongar la salud exige inversión pública en biología del envejecimiento y políticas que eviten desigualdad y colapso ambiental."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Conclusión",
+      "text": "El laboratorio de Sinclair en Harvard, en el noveno piso del New Research Building, reúne a 30-40 científicos de todo el mundo. Jae-Hyun Yang aceleró el reloj epigenético en ratones ICE. Yuancheng Lu reprogramó animales viejos con virus modificado. Michael Bonkowski tiene el récord de ratón longevo: 5 años. João Amorim prueba si resveratrol activa SIRT1 directamente. Lindsay Wu restauró fertilidad con NMN."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Conclusión",
+      "text": "No es un laboratorio aislado: el Glenn Center en Harvard y MIT, el Buck Institute en California, centros en cada universidad importante. Industria privada busca fármacos con IA. la financiación pública para «envejecimiento» sigue siendo gota frente a cáncer o Alzheimer. Hace una década casi nadie trabajaba esto. hoy es campo global."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Conclusión",
+      "text": "Susan DeStefano , cristiana devota que cree que curar enfermos es obra de Dios, gestiona el caos administrativo. La diversidad de creencias y orígenes no impide la convicción compartida: la vitalidad prolongada viene en camino. La pregunta ya no es si, sino cuándo y para quién."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Conclusión",
+      "text": "Cientos de laboratorios en el mundo ya hacen inevitable una humanidad con vitalidad prolongada ."
+    }
+  ]
+}

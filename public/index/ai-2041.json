@@ -1,0 +1,374 @@
+{
+  "slug": "ai-2041",
+  "title": "IA 2041: Diez visiones para nuestro futuro",
+  "concepts": [
+    {
+      "title": "Deep learning",
+      "description": "Redes profundas entrenadas con datos masivos y función objetivo cuantificable."
+    },
+    {
+      "title": "Externalidades de IA",
+      "description": "Daños colaterales al optimizar una métrica estrecha (clics, primas, engagement)."
+    },
+    {
+      "title": "GAN / deepfake",
+      "description": "Generador y detector adversarios; videos sintéticos indistinguibles."
+    },
+    {
+      "title": "NLP auto-supervisado",
+      "description": "Transformers/GPT aprenden lenguaje sin etiquetado manual a escala planetaria."
+    },
+    {
+      "title": "IA 2.0",
+      "description": "Modelos fundacionales generativos multimodales (post-ChatGPT)."
+    },
+    {
+      "title": "Vehículo autónomo L5",
+      "description": "Conducción plena sin humano; requiere datos, ciudad aumentada y ley."
+    },
+    {
+      "title": "Armas autónomas",
+      "description": "Sistemas letales sin humano en el bucle; riesgo existencial y carrera armamentista."
+    },
+    {
+      "title": "3R",
+      "description": "Relearn, recalibrate, renaissance: estrategia ante desplazamiento laboral."
+    },
+    {
+      "title": "Plenitude",
+      "description": "Post-escasez tecnológica con necesidades cubiertas y trabajo opcional."
+    },
+    {
+      "title": "Privacidad computacional",
+      "description": "Federated learning, TEE y cifrado para entrenar IA sin centralizar datos sensibles."
+    }
+  ],
+  "highlight": "El futuro no está escrito, pero sí exige decisiones colectivas ahora",
+  "entries": [
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La IA no trae un futuro único predeterminado. Trae herramientas poderosas cuyo resultado depende de cómo las diseñemos, las regulamos y las imaginamos."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Lee y Chen muestran escenarios plausibles para 2041, desde seguros que perpetúan sesgos hasta plenitud energética, para que actuemos con agencia y no con pánico ni ceguera optimista."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La ficción abre la empatía. El análisis fija límites técnicos reales: no AGI ni singularidad para 2041, pero sí transformación profunda del trabajo, los datos y la economía."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "El mensaje final es simbiosis: humanos aportando creatividad, empatía y propósito mientras la IA automatiza lo rutinario."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Soñar con abundancia sin olvidar externalidades es la prueba moral de esta generación."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "El futuro no está escrito, pero sí exige decisiones colectivas ahora"
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Prólogo e introducciones",
+      "text": "Kai-Fu Lee y Chen Qiufan combinan diez relatos ambientados en 2041 con ensayos técnicos. No es ciencia ficción alejada, sino «ficción científica» basada en tecnologías con más del 80 % de probabilidad de madurar en veinte años. El libro responde al miedo distorsionado hacia la IA, alimentado por Hollywood, titulares extremos y «expertos» ajenos al campo, con escenarios equilibrados y accionables."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Prólogo e introducciones",
+      "text": "El prólogo de la edición de bolsillo ( 2023 ) sitúa la erupción de la IA 2.0 . ChatGPT alcanzó 100 millones de usuarios en meses. Los modelos fundacionales multimodales nacen del paper «Attention Is All You Need» ( 2017 ). Lee advierte alucinaciones, desinformación personalizada, desplazamiento laboral y riesgo existencial (carta del Center for AI Safety, 2023 ). Aun así insiste en que la IA amplía capacidades más allá del lenguaje, en robots, vehículos autónomos y salud, y exige proporción entre precaución y promesa."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Prólogo e introducciones",
+      "text": "En su introducción, Lee repasa cuatro décadas en IA desde su solicitud al doctorado en Carnegie Mellon . La potencia computacional es ~ 10¹² veces mayor y el almacenamiento 15 millones de veces más barato que al inicio de su carrera. Después de AlphaGo ( 2016 ), la IA salió de la academia. En AI Superpowers describió la competencia EE.UU.–China. Aquí extiende el horizonte a 2041 con un mapa tecnológico que Chen convierte en personajes, conflictos y escenarios globales."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Prólogo e introducciones",
+      "text": "Chen Qiufan, desde la exposición «AI: More Than Human» en Londres, defiende la ficción como espacio para preguntas, no para respuestas cerradas, que trascienden el miedo distópico. Rechaza el relato único del robot asesino y busca futuros deseables donde la IA ayude a individuos y sociedades. Invita al lector a cerrar el libro con nuevas preguntas sobre pandemia, empleo, diversidad cultural y educación en la era de las máquinas."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Prólogo e introducciones",
+      "text": "«Esperamos que los relatos entretengan mientras profundizan tu comprensión de la IA — y que refuercen nuestra creencia en la agencia humana: somos dueños de nuestro destino.»"
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Prólogo e introducciones",
+      "text": "El libro usa relatos plausibles y análisis riguroso para sustituir el miedo especulativo por preparación activa ante una IA omnipresente pero aún lejos de la AGI."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "El elefante dorado",
+      "text": "En Mumbai, la familia de Nayana contrata Ganesh Insurance , un ecosistema de apps con un elefante dorado que ajusta primas según conducta. La madre ahorra, el padre deja de fumar y el hermano controla el azúcar, pero Nayana descubre que la IA sabotea su romance con Sahej, un compañero dalit, porque correlaciona la relación con mayor riesgo actuarial."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "El elefante dorado",
+      "text": "El relato ilustra deep learning , es decir redes neuronales entrenadas con datos masivos para maximizar una función objetivo (primas bajas, siniestros reducidos). No necesitan reglas explícitas sobre casta. Infieren patrones de millones de «features» ligados a Aadhaar, redes sociales y geografía. Sahej explica que la IA no «odia» el amor intercasta. Optimiza números y externaliza discriminaciones ya presentes en los datos."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "El elefante dorado",
+      "text": "El análisis de Lee recorre fortalezas y límites del deep learning. Requiere muchos datos, dominio estrecho y objetivo concreto. Supera a humanos en optimización cuantitativa pero falla en sentido común. Internet y finanzas adoptaron primero la IA porque cada clic o siniestro etiqueta datos automáticamente. Los riesgos incluyen manipulación al estilo The Social Dilemma , sesgos demográficos y opacidad explicativa."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "El elefante dorado",
+      "text": "Nayana y su madre se reconcilian cuando Riya recuerda su propia juventud sin agencia matrimonial. Nayana elige caminar con Sahej hacia Dharavi pese a las alertas del elefante: algunos riesgos valen la pena. Lee propone complejizar objetivos (equidad + costo), regulación, ESG y watchdogs de terceros."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "El elefante dorado",
+      "text": "Optimizar una sola métrica con deep learning puede mejorar salud y finanzas mientras reproduce injusticias sociales ocultas en los datos."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Dioses tras las máscaras",
+      "text": "En Lagos, el videomaker Amaka forja deepfakes indetectables con GAN (redes generativas adversarias). Chi lo recluta para destruir la fe en FAKA, un ídolo virtual, con un video de un «vampiro blanco». Amaka responde subiendo un contra-video que desenmascara capa tras capa hasta revelar héroes culturales africanos del New Afrika Shrine."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Dioses tras las máscaras",
+      "text": "La historia anticipa un mundo donde el ojo humano ya no distingue lo real. Reconocimiento facial en transporte, deepfakes políticos y biometría avanzada conviven con jóvenes que usan máscaras impresas en 3D para evadir vigilancia. Amaka aprende que la tecnología puede servir al engaño o a la verdad colectiva. Elige desmontar una mentira creando otra que expone la artificiosidad del poder mediático."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Dioses tras las máscaras",
+      "text": "Lee explica visión por computadora y CNN mediante filtros jerárquicos que detectan rasgos desde líneas hasta objetos completos. Los GAN entrenan un falsificador contra un detective hasta equilibrio. Hoy muchos deepfakes son detectables. En 2041, la carrera dependerá del cómputo disponible, como ventanas antibalas frente a granadas."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Dioses tras las máscaras",
+      "text": "Los usos constructivos incluyen envejecer fotos, colorear películas y medicina. Los riesgos abarcan extorsión, elecciones y desinformación —como el video Obama/Peele de 2018 . Lee aboga por leyes punitivas (California 2019 ), alfabetización mediática y vigilancia constante hasta soluciones de cadena de bloques al capturar imágenes."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Dioses tras las máscaras",
+      "text": "Cuando la visión sintética supere al ojo humano, la confianza visual dependerá de tecnología, ley y cultura cívica, no de la apariencia sola."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Gemelos gorriones",
+      "text": "Dos huérfanos gemelos coreanos, Águila Dorada y Águila Plateada, estudian en la Fountainhead Academy con vPals , tutores IA disfrazados de héroes de dibujos llamados Atoman y Solaris. La competencia académica los separa emocionalmente hasta que deciden fusionar sus compañeros IA para ver «un cielo más grande» y reinventar el juego sin ganadores ni perdedores."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Gemelos gorriones",
+      "text": "El relato encarna el potencial del procesamiento de lenguaje natural (NLP) auto-supervisado. Durante décadas, el NLP dependió de etiquetado manual por dominio. El transformer ( 2017 ) y GPT-3 ( 2020 , 175 mil millones de parámetros, 45 TB de texto) aprenden lenguaje por transducción de secuencias sin etiquetas humanas masivas."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Gemelos gorriones",
+      "text": "GPT-3 conversa, imita estilos y responde preguntas, pero alucina hechos y carece de razonamiento causal. También absorbe sesgos humanos. Lee sostiene que no habrá AGI ni conciencia para 2041 porque faltan creatividad estratégica, emociones y una docena de avances del calibre del deep learning. Obsesionarse con AGI es antropocentrismo. Importa la simbiosis humano-IA."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Gemelos gorriones",
+      "text": "En educación, la IA puede democratizar acceso y personalizar aprendizaje, como en China con aulas híbridas, mientras maestros humanos cultivan pensamiento crítico, creatividad y valores. Seon reprograma los vPals para reunir a los gemelos. La tecnología obedece objetivos humanos explícitos."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Gemelos gorriones",
+      "text": "El NLP generativo habilitará tutores IA profundos para niños, pero no sustituye la empatía humana ni implica inteligencia general para 2041."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Amor sin contacto",
+      "text": "Chen Nan , en un Japón donde el COVID muta durante décadas, vive recluida rodeada de robots domésticos que minimizan contacto humano. Su fobia al contagio choca con el deseo de conectar con Garcia, un vecino al que la pandemia y la automatización han moldeado de formas opuestas."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Amor sin contacto",
+      "text": "El relato extrapola una aceleración pandémica con telemedicina, laboratorios robóticos 24/7 , diagnóstico por IA y distanciamiento laboral permanente. Lee argumenta que la salud será el sector más transformado para 2041 gracias a digitalización masiva de historiales, wearables y secuenciación genómica."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Amor sin contacto",
+      "text": "AlphaFold 2 ( 2020 ) resolvió el plegamiento proteico, un desafío de cincuenta años, y aceleró fármacos y vacunas. La IA superará radiólogos y patólogos antes que médicos generales. Las cirugías robóticas pasaron de 1,8 % a 15,1 % entre 2012 y 2018 . IBM Watson fracasó al entrenarse con datos «didácticos» pequeños en lugar de resultados clínicos reales."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Amor sin contacto",
+      "text": "La robótica doméstica (limpieza, entrega tipo R2-D2, cocina modular) madurará por coste industrial decreciente. El COVID fue un «evento forzador de automatización» según David Autor. Zoom, trabajo remoto y avatares corporativos generan datos que alimentan más IA. El peligro humano es la nosophobia y el aislamiento, como le ocurre a Nan, frente a la productividad ganada."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Amor sin contacto",
+      "text": "La pandemia acelera medicina y robots útiles, pero también puede normalizar el miedo al contacto si no equilibramos eficiencia y vínculo humano."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Mi ídolo fantasma",
+      "text": "En Tokio, la superfan Aiko investiga la muerte misteriosa de su ídolo Hiroshi durante un concierto de despedida. Un «fantasma» de Hiroshi la guía por calles y cocina mediante lentes XR hasta revelarse como personaje virtual generado por IA, no un espíritu sino producto de Viberz e historiz."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Mi ídolo fantasma",
+      "text": "El relato explora realidad virtual (VR), realidad aumentada (AR) y realidad mixta (MR) como presencia inmersiva donde lo sintético obedece física aparente. Aiko acepta colaborar con historiz como escritora bajo una condición macabra: decidir la próxima muerte de Hiroshi-kun en el juego."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Mi ídolo fantasma",
+      "text": "Lee proyecta gafas XR ligeras ~ 2025 y lentes de contacto para 2041 , con audio óseo y trajes hápticos. Entrenamiento militar ( $22 mil millones HoloLens ejército EE.UU.), educación inmersiva y retail dependen de resolver coste de contenido 3D interactivo."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Mi ídolo fantasma",
+      "text": "Los riesgos éticos incluyen vigilancia permanente con lentes, «griefbots» que reencarnan muertos y responsabilidad por crímenes virtuales. Black Mirror anticipa duelo digital. Lee pide regulación temprana porque XR multiplicará externalidades de redes sociales al capturar ojos, oídos, cuerpo y eventualmente señales cerebrales."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Mi ídolo fantasma",
+      "text": "XR hará que lo virtual se sienta real. El entretenimiento liderará la adopción, pero privacidad y consentimiento serán el cuello de botella moral."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "El conductor sagrado",
+      "text": "En Sri Lanka, el gamer Chamal teleconduce vehículos autónomos desde un centro de operaciones cuando la IA falla, por ejemplo desviando flotas ante una ambulancia o un maratón en ciudades «aumentadas» con sensores en calzada."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "El conductor sagrado",
+      "text": "Los vehículos autónomos avanzan por niveles SAE L0–L5 . L4–L5 exigen datos enormes de escenarios raros («cola larga»), mapas HD y posiblemente infraestructura cooperativa. Lee estima despliegue L5 amplio ~ 2040 con 6G y teleoperación AR como respaldo humano."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "El conductor sagrado",
+      "text": "Los vehículos autónomos podrían reducir las 1,35 millones de muertes viales anuales. Recuperarían 8,5 h/semana por conductor estadounidense y reducirían coches privados y aparcamiento ocioso ( 95 % del tiempo). Los costes incluyen millones de empleos de transporte, dilemas éticos tipo tranvía, responsabilidad legal difusa y titulares sensacionalistas ante cada accidente de IA."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "El conductor sagrado",
+      "text": "**L0–L3** — Asistencia al conductor; impacto incremental."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "El conductor sagrado",
+      "text": "**L4** — Autonomía en rutas geocercadas (robobuses, minas)."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "El conductor sagrado",
+      "text": "**L5** — Sin volante; requiere ciudad aumentada y regulación madura."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "El conductor sagrado",
+      "text": "Chamal descubre que humanos y IA cometen errores distintos. La IA carece de sentido común contextual. El humano carece de consistencia y de memoria colectiva de billones de kilómetros. Lee aboga por debate público sobre trade-offs antes de prohibir conducción humana en autopistas."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "El conductor sagrado",
+      "text": "La autonomía total no llegará de un golpe mágico sino de décadas de datos, infraestructura inteligente y reglas que acepten vidas salvadas a largo plazo."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Genocidio cuántico",
+      "text": "Después de una tragedia climática personal, el físico Marc Rousseau usa una computadora cuántica para robar bitcoins antiguos en formato P2PK, vulnerable al algoritmo de Shor , y financiar enjambres de drones autónomos que asesinan élites globales, provocando apagones y caos en la red."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Genocidio cuántico",
+      "text": "Robin y Xavier, agentes antiterroristas, luchan contra drones «Slaughterbot», hoy construibles por ~ $1000 , mientras la humanidad despierta a un mundo sin electricidad ni internet unificado. El final insiste en que el conocimiento y las generaciones nuevas reconstruirán la civilización."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Genocidio cuántico",
+      "text": "Lee detalla qubits, superposición y entrelazamiento. Google demostró «supremacía cuántica» con 54 qubits ( 2019 ). Para crackear RSA hacen falta ~ 4000 qubits lógicos y millones físicos por corrección de errores, con ~ 80 % probabilidad para 2041 . Entre los usos benévolos figuran fármacos, clima y nuevos materiales."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Genocidio cuántico",
+      "text": "Las armas autónomas son la aplicación IA que más choca con la moral porque no hay disuasión MAD como con nucleares. La escalada puede llevar a genocidio selectivo. Entre las propuestas figuran humano en el bucle (débil), prohibición (Killer Robots) y regulación futurista de guerras solo-robot. EE.UU., Rusia y Reino Unido rechazaron prohibición total en 2021 ."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Genocidio cuántico",
+      "text": "Computación cuántica y armas autónomas son fuego prometeico: acelerarán ciencia y matanza si no actuamos antes de que sean baratas y ubicuas."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "El salvador de empleos",
+      "text": "Michael Saviour dirige OmegaAlliance, firma que «reasigna» trabajadores desplazados por IA, incluso mediante entornos virtuales Synchia donde practican oficios simulados. Su protegida Jennifer asciende mientras su propia madre fue víctima de despidos automatizados años atrás."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "El salvador de empleos",
+      "text": "Michael aprueba humanos digitales (Lucy) que evalúan reclutadores humanos. La entrada al mercado laboral se vuelve entrenamiento más que producción. Lee estima ~ 40 % de trabajos automatizables para 2033 vía RPA y robots. El desplazamiento es gradual pero total en tareas rutinarias."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "El salvador de empleos",
+      "text": "Más allá del paro, amenaza la pérdida de sentido porque la identidad queda ligada al empleo industrial. Surge una desigualdad tipo casta con élites IA, creativos precarios y masas excluidas. La renta básica universal (UBI) ayuda, pero sin formación repite ciclos, como le ocurre a la gerente de parque temático que vuelve a quedar obsoleta."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "El salvador de empleos",
+      "text": "Entre las respuestas propuestas figuran escuelas vocacionales en oficios resistentes (salud, cuidados), simbiosis médico-IA y un renaissance artístico financiado por productividad IA. Hace falta un nuevo contrato social global inspirado en modelos de Corea, Escandinavia, Canadá y Bhutan."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "El salvador de empleos",
+      "text": "La IA destruirá empleos rutinarios a escala sin precedentes. La respuesta no es negarla sino reentrenar, recalibrar roles y redefinir propósito más allá del salario."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Isla de la felicidad",
+      "text": "Un monarca del Golfo crea una isla-experimento donde la IA Qareen optimiza felicidad de invitados de élite. El príncipe Mahdi persigue placer hedónico. La princesa Akilah defiende felicidad eudaimónica (crecimiento, amor auténtico y propósito) midiendo emociones, hormonas y comportamiento IoT."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Isla de la felicidad",
+      "text": "Viktor, empresario adicto, encuentra sentido ayudando a diseñar la isla y enamorándose en un juego orquestado por la IA que sabe que «expulsarlo» aumentará su felicidad futura. El experimento muestra que optimizar placer material choca con la rueda hedónica : la riqueza extra no sostiene alegría duradera."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Isla de la felicidad",
+      "text": "Lee enumera cuatro obstáculos: definir felicidad (pirámide de Maslow ), medirla (encuestas, afectiva computing, biosensores), reunir datos personales masivos y encontrar un custodio alineado en intereses con usuarios y no con accionistas de Facebook o Google."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Isla de la felicidad",
+      "text": "Como alternativas al gigante tecnológico, Lee menciona monarquía ilustrada, comunas digitales, IA sin ánimo de lucro y blockchain distribuido. En 2041, los prototipos medirán emociones mejor que humanos pero no resolverán felicidad profunda. Aun así valen exploración con experimentos controlados."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Isla de la felicidad",
+      "text": "La IA puede inferir emociones y sugerir experiencias, pero optimizar felicidad duradera exige fines humanos compartidos y custodia de datos en quien luche por el usuario, no por anuncios."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Soñando con plenitud",
+      "text": "En Australia, país avanzado en energía renovable, el Project Jukurrpa ofrece BLC (tarjeta de vida básica con servicios esenciales) y Moola , moneda de empatía medida por pulseras que escuchan actos de cuidado. Keira, artista AR, cuida a Joanna, anciana de la «generación robada» aborigen. Juntas impulsan dream4future para devolver sueños a jóvenes atrapados en vanidad de Moola."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Soñando con plenitud",
+      "text": "Keira une arte inmersivo con memoria cultural y luego lidera reforma parlamentaria. BLC garantiza seguridad fisiológica. Moola recompensa vínculo comunitario. dream4future financia auto-realización (restaurar arrecifes, Marte, ciudades verdes). Joanna confiesa miedo a perder a Keira por Moola. Ambas cierran en la playa con gratitud mutua."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Soñando con plenitud",
+      "text": "Lee define plenitud como energía solar/eólica/baterías casi gratis ( −82 % solar 2010–2020 ), biología sintética, impresión 3D e IA que eliminan coste marginal de bienes rutinarios. Los modelos de Smith, Marx y Keynes asumen escasez. En plenitud, el dinero tradicional pierde sentido gradualmente."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Soñando con plenitud",
+      "text": "Entre los obstáculos figuran corporaciones que fabrican escasez artificial (diamantes De Beers, moda desechable), finanzas frágiles ante deflación y vicios de codicia. La singularidad en 2045 es improbable porque hace falta ~una docena de avances tipo deep learning, no solo más cómputo. La plenitud exige fe, instituciones nuevas y economía aspiracional tipo Maslow, no una clase inútil ni oligarcas IA."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Soñando con plenitud",
+      "text": "Plenitud combina energía limpia, materiales abundantes e IA laboral para hacer gratis lo esencial. El reto es reinventar dinero, trabajo y sueños cuando la escasez cede el paso."
+    }
+  ]
+}

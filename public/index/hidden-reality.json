@@ -1,0 +1,409 @@
+{
+  "slug": "hidden-reality",
+  "title": "La realidad oculta",
+  "concepts": [
+    {
+      "title": "Multiverso acolchado",
+      "description": "Repeticiones por espacio infinito y configuraciones finitas por horizonte."
+    },
+    {
+      "title": "Multiverso inflacionario",
+      "description": "Burbujas eternas separadas más rápido que la luz; interiores posiblemente infinitos."
+    },
+    {
+      "title": "Braneworld",
+      "description": "Universo en una brana; gravedad se filtra por dimensiones extra."
+    },
+    {
+      "title": "Multiverso paisaje",
+      "description": "~10^500 vacíos de cuerdas + inflación + túnel cuántico."
+    },
+    {
+      "title": "Many Worlds",
+      "description": "Schrödinger lineal sin colapso → ramas cuánticas paralelas."
+    },
+    {
+      "title": "Principio holográfico",
+      "description": "Información de volumen codificada en superficie boundary."
+    },
+    {
+      "title": "Constante cosmológica",
+      "description": "Energía del vacío con gravedad repulsiva; medida ~10^-123 (Planck)."
+    },
+    {
+      "title": "Principio antrópico",
+      "description": "Observadores solo miden parámetros compatibles con su existencia."
+    },
+    {
+      "title": "Entropía / información",
+      "description": "Microestados ocultos; en agujeros negros, escala con área del horizonte."
+    },
+    {
+      "title": "Inflatón",
+      "description": "Campo que impulsa inflación con presión negativa y energía de vacío."
+    }
+  ],
+  "highlight": "La realidad oculta puede ser más vasta que todo lo que vemos: multiversos que surgen de la lógica, no del capricho.",
+  "entries": [
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Seguir las matemáticas de la física moderna hasta sus últimas consecuencias lleva una y otra vez a universos paralelos, aunque ninguno esté aún demostrado."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La pregunta decisiva no es si nos gusta la idea, sino si las teorías que explican nuestros datos la exigen."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Confiar en ecuaciones ha reconfigurado antes el cosmos, y hacerlo de nuevo exige humildad y rigor."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Medir importa, pero también saber cuándo una explicación indirecta es la única disponible."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Al final, explorar lo extremo nos recuerda que la experiencia cotidiana no es juez suficiente de lo real."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La realidad oculta puede ser más vasta que todo lo que vemos: multiversos que surgen de la lógica, no del capricho."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Más allá de la apariencia cotidiana",
+      "text": "Para finales del siglo XX quedó claro que la experiencia común engaña cuando buscamos la naturaleza profunda de la realidad. Brian Greene abre *The Hidden Reality* con esa lección y anuncia un recorrido accesible, con metáforas, historia y física, hacia una posibilidad que antes parecía ciencia ficción: que nuestro universo no sea el único."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Más allá de la apariencia cotidiana",
+      "text": "El libro no asume dominio previo de relatividad o mecánica cuántica e introduce lo necesario «sobre la marcha». Tampoco pretende convencer de que vivimos en un multiverso, porque ningún experimento lo ha establecido. Su objetivo es trazar con claridad la cadena de razonamientos, desde cosmología, unificación, cuántica y más, que lleva a considerar nueve variedades de realidades paralelas."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Más allá de la apariencia cotidiana",
+      "text": "Greene advierte que algunos tramos finales de capítulos son más técnicos, pero el lector puede saltarlos sin perder continuidad. Las notas al final profundizan para quien tenga formación matemática. El tono es de exploración honesta: especulación informada, no fantasía descontrolada."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Más allá de la apariencia cotidiana",
+      "text": "La física moderna empuja hacia universos paralelos, y el libro mapea ese camino sin afirmar que ya hayamos llegado a la prueba definitiva."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Los límites de la realidad",
+      "text": "De niño, Greene veía en dos espejos enfrentados un corredor infinito de reflexiones: metáfora de mundos paralelos. Hoy esa imagen resuena con un tema central de la física teórica: que lo que llamamos «universo» puede ser solo una parte de algo mucho mayor."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Los límites de la realidad",
+      "text": "Antaño «universo» significaba «todo lo que existe». Desarrollos de relatividad, cuántica, cosmología y computación han matizado el término: a veces denota lo accesible, a veces un miembro entre muchos. Greene recorre nueve variantes del multiverso que desarrollará en capítulos posteriores, desde copias lejanas en espacio infinito hasta ramas cuánticas, branas y simulaciones."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Los límites de la realidad",
+      "text": "La mecánica cuántica predice probabilidades, pero no explica por qué vemos un solo resultado. Una respuesta temprana, Many Worlds, propone que todos los resultados ocurren en universos separados. Greene anticipa también el multiverso acolchado (espacio infinito), inflacionario, de branas, cíclico, paisaje, holográfico, simulado y ultimate. Ninguna está confirmada, pero todas emergen, afirma, de matemáticas construidas para explicar datos convencionales."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Los límites de la realidad",
+      "text": "Algunos ven en el multiverso una humillación cósmica, pero Greene responde que el valor está en la profundidad del entendimiento alcanzado desde un punto de vista aparentemente insignificante en el cosmos."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Los límites de la realidad",
+      "text": "Nueve caminos teóricos distintos convergen en universos paralelos. Ninguno está probado, pero todos nacen de física establecida llevada al límite."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Gemelos sin fin",
+      "text": "Si el espacio se extiende infinitamente, en regiones inaccesibles más allá de nuestro horizonte cósmico deben existir parches con la misma configuración de partículas que la nuestra: copias tuyas leyendo este resumen, y variantes casi iguales o radicalmente distintas."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Gemelos sin fin",
+      "text": "Greene repasa cosmología básica. Lemaître y Friedmann mostraron con la relatividad general de Einstein que el universo puede expandirse, y Hubble lo confirmó en 1929 . El principio cosmológico simplifica el análisis asumiendo homogeneidad a gran escala. La forma del espacio (positiva, plana o negativa) depende de la densidad respecto a la densidad crítica (~seis átomos de hidrógeno por metro cúbico)."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Gemelos sin fin",
+      "text": "Observaciones modernas incluyen ~ 73% de energía oscura y ~ 27% de materia, favoreciendo un universo espacialmente plano. En un espacio infinito, «parches» del tamaño del horizonte (~ 41 mil millones de años luz de radio) no se han influido mutuamente. El principio de incertidumbre limita las configuraciones microscópicas distintas por parche a un número finito gigantesco (~10^(10^122)), garantizando repeticiones en un cosmos infinito."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Gemelos sin fin",
+      "text": "Greene asume reduccionismo físico. La disposición de partículas fija mental y materialmente un individuo. Cada decisión ramifica en algún parche lejano. La objeción más convincente al multiverso acolchado sería un universo finito demasiado pequeño, pero la inflación (capítulo siguiente) refuerza el escenario infinito."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Gemelos sin fin",
+      "text": "Espacio infinito + configuraciones finitas por horizonte implican copias infinitas de cada arreglo de partículas, incluidos tú y tu entorno."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Eternidad e infinito",
+      "text": "El fondo cósmico de microondas (CMB), reliquia del universo caliente, es uniforme hasta ~cuatro decimales. En el big bang estándar, regiones opuestas del cielo no tuvieron tiempo de igualar temperatura: el problema del horizonte ."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Eternidad e infinito",
+      "text": "Alan Guth ( 1979 ), con refinamientos de Andrei Linde , Paul Steinhardt y Andreas Albrecht , propuso inflación : una fase de expansión ultra-rápida impulsada por un campo inflatón con energía y presión negativa, generando gravedad repulsiva. Después del descubrimiento de Gamow, Alpher y Herman y de la detección accidental de Penzias y Wilson ( 1965 ), las anomalías del CMB exigían un mecanismo explicativo."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Eternidad e infinito",
+      "text": "La inflación eterna ocurre cuando el volumen que aún infla crece más rápido que el que «cae» del plateau del inflatón. Eso produce un «queso suizo» cósmico de burbujas que dejan de inflar y se enfrían en universos como el nuestro. Cada burbuja puede ser internamente infinita: desde fuera parece finita, pero desde dentro el espacio es infinito y reintroduce el multiverso acolchado dentro del inflacionario."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Eternidad e infinito",
+      "text": "Las fluctuaciones cuánticas del inflatón, estiradas por la expansión, imprimen las manchas del CMB (~milésima de grado), confirmadas con precisión (Nobel 2006 a Smoot y Mather). Campos Higgs distintos en otras burbujas cambiarían masas y fuerzas, haciendo muchos universos inhóspitos."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Eternidad e infinito",
+      "text": "La inflación eterna genera burbujas-universo separadas causalmente. Dentro de cada una, el espacio puede ser infinito y repetir el multiverso acolchado."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Unificar las leyes de la naturaleza",
+      "text": "Einstein soñó con unificar gravedad y electromagnetismo. La física del siglo XX unificó fuerzas nucleares y electromagnética con campos cuánticos, pero al mezclar gravedad y cuántica las ecuaciones divergen (probabilidades infinitas)."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Unificar las leyes de la naturaleza",
+      "text": "La teoría de cuerdas (supercuerdas, años 1980 ) reemplaza puntos por filamentos vibrantes (~escala de Planck, 10^-33 cm). Un patrón de vibración equivale a una partícula e incluye naturalmente el gravitón (espín 2). Requiere 10 dimensiones espaciales, y las seis extra pueden enrollarse (Calabi-Yau), fijando en principio masas y cargas."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Unificar las leyes de la naturaleza",
+      "text": "El logro central es fusionar relatividad general y cuántica, pero explicar propiedades concretas de partículas sigue abierto porque hay muchísimas formas Calabi-Yau sin criterio único. A baja energía, cuerdas parecen puntos, y experimentos (LHC, gravedad a submilímetro, ondas gravitacionales, CMB) podrían dar pistas indirectas como supersimetría, dimensiones extra o mini agujeros negros, aunque ninguna prueba definitiva existe aún."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Unificar las leyes de la naturaleza",
+      "text": "Cuerdas tamea singularidades orbifold y flop donde la relatividad clásica falla, y la entropía de agujeros negros (Strominger/Vafa) coincide con Bekenstein-Hawking. También contribuye a matemática (simetría espejo). En síntesis, la teoría es excelente en gravedad cuántica y unificación, pero sigue indeterminada en predicciones experimentales y propiedades de partículas."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Unificar las leyes de la naturaleza",
+      "text": "**Planck** — Escala ~10^-33 cm donde gravedad y cuántica chocan; tamaño típico de una cuerda."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Unificar las leyes de la naturaleza",
+      "text": "**Calabi-Yau** — Formas compactas de dimensiones extra que dictan el «menú» de partículas."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Unificar las leyes de la naturaleza",
+      "text": "**Dualidad** — Distintas descripciones matemáticas de la misma física; clave en capítulo 5."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Unificar las leyes de la naturaleza",
+      "text": "Las cuerdas unifican gravedad y cuántica, pero la falta de una forma extra-dimensional única impide predicciones numéricas definitivas de las partículas."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Universos flotantes en dimensiones cercanas",
+      "text": "Métodos perturbativos en cuerdas ocultaron física esencial hasta mediados de los 1990 : Edward Witten mostró que las cinco formulaciones de supercuerdas son aspectos de una M-teoría única, unidas por dualidades (como Einstein/Marilyn según la distancia de observación)."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Universos flotantes en dimensiones cercanas",
+      "text": "Surgen branas (membranas) de diversas dimensiones. Nuestra experiencia de tres dimensiones espaciales podría ser una 3-brane flotando en un bulk de dimensiones extra. Las cuerdas abiertas terminan en branas, la materia está confinada, pero la gravedad (gravitones en bucle) se propaga por el bulk. Eso explicaría la debilidad aparente de la gravedad y permitiría detectar dimensiones extra en LHC (energía «missing») o en experimentos de fuerza gravitatoria a corta distancia."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Universos flotantes en dimensiones cercanas",
+      "text": "Los choques entre branas paralelas, el «big splat» de Paul Steinhardt y colaboradores, reinician un universo cíclico cada ~ 10^12 años y evitan el problema entropico de ciclos clásicos (Tolman/Zanstra) al diluir entropía en branas en expansión. El modelo predice pocas ondas gravitacionales primordiales fuertes, a diferencia de muchos modelos inflacionarios."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Universos flotantes en dimensiones cercanas",
+      "text": "Los flux que atraviesan agujeros de Calabi-Yau multiplican las formas posibles del vacío: ~ 10^500 «atuendos» para dimensiones extra, agudizando el problema de selección y abriendo la puerta al multiverso paisaje (capítulo 6)."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Universos flotantes en dimensiones cercanas",
+      "text": "Branas y dualidades revelan universos paralelos separados por dimensiones extra o por ciclos temporales de colisiones cósmicas."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Nueva luz sobre una vieja constante",
+      "text": "En 1998 , supernovas tipo Ia lejanas mostraron que la expansión cósmica acelera desde hace ~ 7 mil millones de años: la energía oscura o constante cosmológica Λ (~ 10^-123 en unidades de Planck) domina el universo."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Nueva luz sobre una vieja constante",
+      "text": "Einstein introdujo Λ en 1917 para un cosmos estático, pero Hubble lo hizo prescindible. La cúantica predice energía del vacío enorme (~10^120 veces mayor), mientras simetrías (p. ej. supersimetría) intentaban cancelarla a cero. Steven Weinberg ( 1987 ) sugirió valor pequeño pero no nulo vía razonamiento antrópico : en un multiverso, solo burbujas con Λ lo bastante baja forman galaxias y observadores."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Nueva luz sobre una vieja constante",
+      "text": "El paisaje de cuerdas (~10^500 vacíos con Λ distribuidos) combinado con inflación eterna y túnel cuántico (Coleman–De Luccia) llena el paisaje de burbujas anidadas con distintas formas extra-dimensionales: el Multiverso Paisaje . El «model building» busca vacíos parecidos al nuestro, aunque aún no hay réplica exacta."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Nueva luz sobre una vieja constante",
+      "text": "Greene pregunta si esto es ciencia. Explica Λ donde la física de vacío falla, pero invoca entidades inaccesibles. Comparar infinitos de universos es difícil, y el capítulo siguiente analiza criterios de legitimidad."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Nueva luz sobre una vieja constante",
+      "text": "Un Λ minúsculo pero no nulo encaja con selección antrópica en un paisaje de ~10^500 vacíos generados por inflación eterna y cuerdas."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Ciencia y el multiverso",
+      "text": "El multiverso paisaje divide a la comunidad. Para algunos es física profunda, para otros metafísica disfrazada. El debate toca el «alma de la ciencia»: inferencia, explicación, predicción y falsabilidad cuando hay universos inobservables."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Ciencia y el multiverso",
+      "text": "Greene distingue multiversos que surgen por extensión espacial (acolchado, inflacionario, brane) de los definidos por ramas cuánticas o simulación. Entre los criterios útiles están preguntarse si la teoría base está anclada en datos, si el multiverso es predicción o añadido oportunista, y si hay consecuencias estadísticas testables (CMB, Λ, ausencia de ondas primordiales en ciclos)."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Ciencia y el multiverso",
+      "text": "El principio antrópico y el sesgo de selección advierten contra explicar «coincidencias» (distancia Tierra-Sol, valor de Λ) sin contar que solo en parámetros compatibles con vida hay observadores. Eso requiere multiverso vasto y variación real de constantes, lo cual es cuestionable si hay ley única pendiente."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Ciencia y el multiverso",
+      "text": "Comparar teorías con multiversos infinitos exige reglas de conteo (medida sobre universos). Sin ellas, las probabilidades antrópicas son ambiguas. Aun así, Greene defiende que, bajo condiciones claras, hablar de multiverso puede ser ciencia con inferencia indirecta, no mera evasión."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Ciencia y el multiverso",
+      "text": "Multiversos pueden ser científicos si emergen de teorías contrastadas y dejan huellas estadísticas o indirectas, aunque no se visiten otros universos."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Los muchos mundos cuánticos",
+      "text": "La cuántica predice probabilidades, no trayectorias únicas. El experimento de doble rendija muestra interferencia: cada electrón «siente» ambas rendijas. Max Born interpretó la onda como probabilidad, y la medición parece colapsar la onda a un resultado."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Los muchos mundos cuánticos",
+      "text": "La interpretación de Copenhague suspende Schrödinger al medir, de forma ad hoc y mal definida («¿mide un ratón?»). En 1957 , Hugh Everett propuso en cambio que la ecuación es lineal y universal, y que aparato, observador y sistema entran en superposición. Cuando se miden posiciones en superposición (p. ej. «Strawberry Fields» y «Grant's Tomb»), no hay colapso: las ramas coexisten, cada una con un resultado distinto, formando el Multiverso Cuántico ."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Los muchos mundos cuánticos",
+      "text": "Bryce DeWitt popularizó la idea en los 1970 . Aún persisten problemas sobre el origen de probabilidades en Many Worlds y el papel de la decoherencia, que suprime interferencia entre ramas pero no elige una. Para objetos macroscópicos las ondas son ultra-estrechas y recuperan Newton, mientras que en lo micro la indeterminación domina."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Los muchos mundos cuánticos",
+      "text": "Everett pagó el precio académico (tesis recortada por John Wheeler tras crítica de Bohr ), pero la interpretación sigue viva entre quienes «toman en serio la ecuación» como Einstein pidió con Maxwell y Schrödinger."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Los muchos mundos cuánticos",
+      "text": "Seguir la matemática cuántica sin colapso ad hoc implica que cada resultado posible persiste en una rama paralela del multiverso."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Los muchos mundos cuánticos",
+      "text": "Si Schrödinger gobierna también a observadores, cada medición divide la realidad en ramas paralelas que no se comunican: Many Worlds."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Agujeros negros y hologramas",
+      "text": "John Wheeler apostó por «información» como núcleo de la física. Los agujeros negros desafiaron la Segunda Ley : ¿entropía que desaparece al caer dentro? Jacob Bekenstein propuso que el agujero almacena entropía proporcional al área del horizonte, no al volumen."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Agujeros negros y hologramas",
+      "text": "Stephen Hawking calculó radiación térmica de agujeros negros con temperatura inversamente proporcional a la masa. La entropía S es proporcional al área (células de Planck en el horizonte ≈ bits). Strominger y Vafa contaron estados microscópicos con cuerdas, confirmando la fórmula. La entropía mide información oculta sobre microestados compatibles con macroobservables."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Agujeros negros y hologramas",
+      "text": "La dualidad interior y exterior muestra que quien cae libremente atraviesa el horizonte sin drama, mientras un observador lejano ve radiación térmica e «incineración» en el horizonte. Ambas descripciones son complementarias (como Einstein/Marilyn). El principio holográfico sugiere que la física 3D+tiempo puede codificarse en una superficie 2D. AdS/CFT ( Juan Maldacena ) es el ejemplo riguroso: un universo gravitatorio bulk equivalente a una teoría cuántica en el borde."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Agujeros negros y hologramas",
+      "text": "Greene llama al Multiverso Holográfico la propuesta más extraña: nuestra experiencia sería proyección de procesos en un universo paralelo de menor dimensión. Hay evidencia fuerte en anti-de Sitter, pero la extensión a cosmología real (de Sitter) sigue en desarrollo."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Agujeros negros y hologramas",
+      "text": "La entropía de agujeros negros escala con el área, no con el volumen: pista de que la realidad puede ser holográfica, codificada en un borde paralelo."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Universos, computadoras y matemática",
+      "text": "¿Podrían civilizaciones avanzadas crear universos? La inflación sugiere una semilla de ~ 10 gramos de inflatón en ~ 10^-26 cm , pero Alan Guth y Edward Farhi encontraron que haría falta un agujero blanco para arrancar la expansión, un obstáculo prácticamente insuperable."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Universos, computadoras y matemática",
+      "text": "Crear burbujas inflacionarias aisladas dejaría solo un agujero negro aparente en el laboratorio, lo que haría imposible verificar el hijo cósmico. Es más plausible considerar universos simulados con suficiente potencia de cómputo (~10^14–10^17 operaciones/s por cerebro humano, con un futuro cuántico mucho mayor). El functionalismo sostiene que la mente es procesamiento de información y que no importa si el sustrato es carbono o silicio."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Universos, computadoras y matemática",
+      "text": "Nick Bostrom argumenta que, si las simulaciones conscientes son baratas, la mayoría de seres sintientes serían simulados, lo que sugiere estadísticamente que podríamos estar en uno ( Multiverso Simulado ). Detectarlo sería casi imposible salvo fallos de malla (estrategia emergente frente a reduccionismo ultra)."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Universos, computadoras y matemática",
+      "text": "Max Tegmark lleva al extremo la fe en matemáticas con el Multiverso Ultimate , donde toda estructura matemática consistente existe como universo físico. Como en la Biblioteca de Babel o en el experimento mental de Nozick, la realidad sería matemática realizada."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Universos, computadoras y matemática",
+      "text": "**Semilla inflacionaria** — ~10 g, densidad extrema; gravedad repulsiva alimenta energía de materia."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Universos, computadoras y matemática",
+      "text": "**Argumento de Bostrom** — Muchas simulaciones ⇒ probabilidad alta de ser simulado."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Universos, computadoras y matemática",
+      "text": "**Ultimate multiverso** — Cada ecuación consistente = un cosmos."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Universos, computadoras y matemática",
+      "text": "Crear universos «reales» parece bloqueado. Simularlos o postular todos los mundos matemáticos posibles extiende el multiverso al software y a la platonica física."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Los límites de la indagación",
+      "text": "Newton comparó su ciencia con jugar en la orilla, y la física posterior confirmó que lo profundo supera la intuición. Greene resume nueve multiversos (tabla 11.1) y admite que ninguno está verificado. El veredicto requiere más teoría, datos y observación."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Los límites de la indagación",
+      "text": "¿Es copernicano el patrón? Cada ampliación del cosmos nos descentró, y el multiverso sería la última vuelta, no buscada a propósito sino encontrada al seguir ecuaciones. Condiciones iniciales, constantes y hasta leyes podrían ser estadísticas en lugar de explicables únicamente desde primeros principios."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Los límites de la indagación",
+      "text": "Confiar en matemáticas funcionó con Maxwell/Einstein (relatividad especial desde ecuaciones de Maxwell), pero Einstein rechazó agujeros negros, expansión y a veces sus propias implicaciones. Hugh Everett sí siguió Schrödinger hasta Many Worlds. La lección es que saber qué ecuaciones tomar «en serio» es arte y riesgo."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Los límites de la indagación",
+      "text": "Quedan preguntas abiertas sobre si el patrón copernicano es fundamental, si la matemática descubre o inventa, y si probaremos alguna variedad de multiverso. Greene cierra invitando a explorar sin miedo: la realidad puede ser más rica que la experiencia cotidiana, y entenderla, aunque sea parcialmente, sigue valiendo la pena."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Los límites de la indagación",
+      "text": "Ningún multiverso está probado, pero seguir las matemáticas de la física moderna ha reconfigurado el cosmos antes y puede hacerlo otra vez."
+    }
+  ]
+}

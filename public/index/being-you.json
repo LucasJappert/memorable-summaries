@@ -1,0 +1,375 @@
+{
+  "slug": "being-you",
+  "title": "Ser tú",
+  "concepts": [
+    {
+      "title": "Problema real",
+      "description": "Explicar propiedades fenomenológicas (nivel, contenido, yo) con mecanismos; disolver el hard problem indirectamente."
+    },
+    {
+      "title": "Alucinación controlada",
+      "description": "Percepción = predicción top-down acotada por error sensorial y acción."
+    },
+    {
+      "title": "PCI",
+      "description": "Índice de complejidad perturbacional; TMS + LZW; clínica de conciencia residual."
+    },
+    {
+      "title": "Φ (IIT)",
+      "description": "Información integrada como medida identitaria de conciencia; difícil de medir."
+    },
+    {
+      "title": "Inferencia interoceptiva",
+      "description": "Emociones y yo profundo como predicciones sobre estado corporal y regulación."
+    },
+    {
+      "title": "Máquina bestia",
+      "description": "Conciencia encarnada al servicio de variables esenciales y supervivencia."
+    },
+    {
+      "title": "Energía libre",
+      "description": "Cota de sorpresa sensorial; minimizarla ≈ minimizar error predictivo."
+    },
+    {
+      "title": "Inferencia activa",
+      "description": "Actuar para cumplir predicciones; acción y percepción unificadas."
+    },
+    {
+      "title": "Grados de libertad",
+      "description": "Flexibilidad de control corporal; base de agencia voluntaria percibida."
+    }
+  ],
+  "highlight": "Ser tú es una alucinación controlada al servicio de la vida",
+  "entries": [
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La conciencia no es un misterio único que exija un alma o un eureka cuántico."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Es un conjunto de propiedades — nivel, contenido y yo — explicables en términos de cerebro encarnado que predice para seguir vivo."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Percibimos mundo y yo de adentro hacia afuera, no como ventanas transparentes al real."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Cuando la ciencia explica cada propiedad fenomenológica, el problema difícil se disuelve en lugar de exigir magia."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Al final, la experiencia en primera persona sigue siendo personal; solo cambia cómo la entendemos y la cuidamos."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Ser tú es una alucinación controlada al servicio de la vida"
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Tres veces dejé de existir",
+      "text": "Anil Seth abre con la anestesia general: no es dormir, sino apagar la conciencia hasta convertir al paciente en objeto quirúrgico y luego devolverlo sin continuidad subjetiva. Esa nada reconfortante pero total anticipa la muerte y muestra que «ser» depende del equilibrio electroquímico del cerebro."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Tres veces dejé de existir",
+      "text": "Seth plantea un experimento mental en el que reemplazarían tu cerebro por una máquina funcionalmente idéntica sin garantía de experiencia consciente. Casi nadie aceptaría el trato porque, sin conciencia, importa poco vivir cinco años o quinientos. La conciencia importa clínicamente en anestesia, lesiones y demencia, y también filosóficamente al pensar en animales, fetos, máquinas o la empatía con HAL y los replicantes."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Tres veces dejé de existir",
+      "text": "Su ciencia no busca un único descubrimiento tipo genoma humano. Busca explicar propiedades fenomenológicas con mecanismos en cerebros y cuerpos encarnados. Rechaza el misterianismo y también reducir la mente a software. La tesis central sostiene que somos máquinas bestia conscientes y que el yo profundo no es razón pura sino regulación biológica del cuerpo vivo."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Tres veces dejé de existir",
+      "text": "«La conciencia no se 'resolverá' como el genoma humano ni cederá a un único eureka. Lo que mostraré es cómo sus propiedades dependen de operaciones del wetware neuronal.»"
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Tres veces dejé de existir",
+      "text": "La conciencia se aborda como problema real : explicar propiedades de la experiencia, no solo por qué hay experiencia en el universo."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "El problema real",
+      "text": "Conciencia, para Thomas Nagel , es «lo que se siente» ser un organismo. Hay algo que es ser tú, oveja o murciélago, pero probablemente nada que sea ser una bacteria."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "El problema real",
+      "text": "Esa fenomenología no debe confundirse con lenguaje, inteligencia ni comportamiento flexible, como en las teorías de workspace global o higher-order thought."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "El problema real",
+      "text": "David Chalmers separa el problema difícil de los «fáciles». Seth recorre fisicalismo, idealismo, dualismo, funcionalismo, panpsiquismo y misterianismo, y desarma el zombi filosófico porque concebir un zombi no implica que sea posible dado lo que sabemos del cerebro."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "El problema real",
+      "text": "El problema real pide explicar, predecir y controlar propiedades fenomenológicas con mecanismos. Los correlatos neuronales de conciencia (NCC) de Crick y Koch , definidos en rivalidad binocular, son útiles pero la correlación no explica. La analogía con el vitalismo sugiere que al explicar propiedades como nivel, contenido y yo el misterio global puede desvanecerse."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "El problema real",
+      "text": "El progreso viene de puentes explicativos mecanismo→fenomenología, no de acumular correlaciones ni de perseguir solo el problema difícil."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Medir la conciencia",
+      "text": "Medir transforma lo cualitativo en cuantitativo, como la termodinámica hizo con el calor. Un «medidor de conciencia» no solo diría sí/no, sino grados. Eso sería útil en anestesia, con millones de operaciones diarias, y en pacientes con daño cerebral en estado vegetativo, mínimamente consciente o locked-in."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Medir la conciencia",
+      "text": "El nivel de conciencia no coincide con la vigilia. Puedes soñar dormido o estar despierto pero inconsciente, como en el síndrome de vigilia sin respuesta. Marcello Massimini y Giulio Tononi desarrollaron el PCI (perturbational complexity index), que aplica un «zap» de TMS y mide la complejidad LZW del eco cortical. Los valores bajos aparecen en sueño sin sueños y bajo anestesia. En 2013 el índice distinguió vegetativo de mínimamente consciente y locked-in."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Medir la conciencia",
+      "text": "Adrian Owen demostró conciencia encubierta pidiendo a pacientes imaginar tenis frente a recorrer mentalmente su casa durante fMRI. Los psicodélicos como LSD o psilocibina elevan la complejidad medida, y hay interacción entre nivel y contenido. En 1998 , Tononi y Edelman propusieron que toda experiencia es informática e integrada . Las medidas deben captar el punto medio entre orden y desorden, no solo aleatoriedad."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Medir la conciencia",
+      "text": "Medir conciencia construye puentes reales entre mecanismo y experiencia, con impacto clínico inmediato."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Phi",
+      "text": "Giulio Tononi lleva información e integración hasta la teoría de información integrada (IIT). Para IIT, la conciencia es Φ (phi), información integrada intrínseca al sistema, como la temperatura es energía cinética. Seth debatió con Tononi en Las Vegas en 2006 . Hoy IIT es influyente y controvertida."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Phi",
+      "text": "Un Φ alto exige que el todo supere a sus partes en información, no un simple array de fotodiodos independientes. La teoría explica por qué el cerebelo no entra en la conciencia y por qué Φ cae en sueño profundo. La medición de Φ es difícil porque exige conocer estados posibles , no solo observados. Esa distinción entre información intrínseca y de Shannon vuelve casi intratable la identidad central IIT/conciencia."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Phi",
+      "text": "IIT predice casos extraños, como neuronas inactivas que aun así cambian Φ, panpsiquismo restringido o dos consciencias en un cerebro dividido. Seth propone retener información e integración como propiedades generales del problema real, sin identidad ontológica. Versiones observables de Φ, como las de Barrett y Mediano, permiten contrastar la teoría con datos empíricos."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Phi",
+      "text": "IIT aporta intuición sobre integración e información , pero su claim identitario Φ=conciencia escapa a la evidencia empírica."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Percibir de adentro hacia afuera",
+      "text": "Desde una terraza en California, Seth insiste en que el mundo que ves es construcción cerebral, una alucinación controlada . Imagina ser el cerebro en oscuridad total: solo recibes señales eléctricas sin etiqueta de modalidad y debes inferir sus causas."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Percibir de adentro hacia afuera",
+      "text": "La vista «bottom-up» de Marr y del deep learning encaja con anatomía jerárquica, pero Wittgenstein sobre Copérnico advierte que cómo parece no es cómo es. Desde Helmholtz y Kant hasta predictive coding, la percepción es inferencia inconsciente. El contenido consciente son predicciones top-down, no señales crudas. La alucinación clínica surge cuando esas predicciones carecen de anclaje sensorial."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Percibir de adentro hacia afuera",
+      "text": "El color lo ilustra bien. «Rojo» no está en la silla ni en el cerebro como pigmento, según la falla de doble transducción de Dennett, sino en la interacción superficie-perceptor. The Dress ( 2015 ), el tablero de Adelson y las imágenes Mooney muestran cómo expectativas previas moldean lo que ves con los mismos píxeles."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Percibir de adentro hacia afuera",
+      "text": "«Cuando estamos de acuerdo en nuestras alucinaciones, a eso lo llamamos realidad.»"
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Percibir de adentro hacia afuera",
+      "text": "Percibir es predicción top-down restringida por error sensorial, no lectura pasiva del mundo."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El mago de las probabilidades",
+      "text": "Thomas Bayes formaliza inferencia bajo incertidumbre mediante prior × likelihood → posterior. El césped mojado puede deberse a lluvia o a una regadera olvidada. Nueva evidencia, como el césped vecino seco, invierte la mejor explicación. El cerebro hace lo mismo con señales ambiguas."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El mago de las probabilidades",
+      "text": "Las creencias bayesianas usan distribuciones con media y precisión. Señales poco fiables, como un gorila lejano o una ventana sucia, mueven poco el posterior. La minimización de error de predicción implementa Bayes aproximado con modelos generativos, jerarquías y ponderación de precisión . La atención sube la ganancia sensorial. La ceguera inatencional de Simons demuestra datos ignorados cuando la precisión estimada es baja."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El mago de las probabilidades",
+      "text": "Karl Friston añade la inferencia activa , según la cual también se minimiza error actuando para cumplir predicciones, como buscar llaves o mover los ojos. Las acciones son predicciones propioceptivas auto-cumplidas con atenuación sensorial, una «desatención» al cuerpo. Percepción y acción son dos caras del mismo proceso predictivo."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El mago de las probabilidades",
+      "text": "El contenido consciente son las predicciones top-down, no un readout de datos sensoriales."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "La parte del espectador",
+      "text": "En Viena fin de siècle, Alois Riegl y Ernst Gombrich hablaron de la parte del espectador . El observador completa la obra, como el impresionismo deja margen para inferir escenas. Kandel une esto a predictive processing."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "La parte del espectador",
+      "text": "Yair Pinto mostró con flash suppression que las expectativas aceleran ver caras o casas. El LSD y la «máquina de alucinaciones» basada en deep dream en VR exageran priors top-down. La estructura profunda incluye objecthood , predicciones condicionales sensorimotoras, cambio y tiempo sin reloj interno. Warrick Roseboom mostró que la duración se infiere del ritmo de cambio visual. La «realidad» aparece en substitutional reality ."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "La parte del espectador",
+      "text": "Hume proyectó causalidad al mundo. Lo «objetivamente real» en percepción es propiedad fenomenológica útil para guiar acción, no prueba de noumeno. Disolver esa ilusión debilita el hard problem: la silla existe, pero «sillidad» y rojo son construcciones."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "La parte del espectador",
+      "text": "Toda la escena perceptual, incluidos tiempo, objetos, causalidad y realidad, es proyección inferencial útil, no ventana transparente."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Delirio",
+      "text": "En 2014 la madre de Seth entró en estado vegetativo por encefalopatía. En 2018 sufrió delirium hospitalario con alucinaciones y paranoia, creyendo que él experimentaba con ella, y fuga del ward. Hasta un tercio de ancianos en cuidados agudos lo padecen, con secuelas cognitivas."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Delirio",
+      "text": "El delirio no es aleatorio. Encaja con su rol de neurocientífico hijo que lee notas clínicas en la cama. Factores como fiebre, sedación o lugar extraño rompen el modelo predictivo del self. Las palabras se separan y la identidad fluctúa. El yo puede fragmentarse y recomponerse."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Delirio",
+      "text": "El capítulo pregunta qué es un «self» al que se puede salir y volver. Esa pregunta abre la Parte III: el yo tampoco es lo que parece."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Delirio",
+      "text": "Delirio muestra que identidad y realidad son logros cerebrales frágiles, no entidades fijas."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Espérate a ti mismo",
+      "text": "El yo no es el que percibe, sino también percepción. La paradoja de teletransportación con Eva1 y Eva2, ambas «reales», desafía la identidad única. Hume, Metzinger y el budismo niegan un self sustancial. Los craniopagus comparten sensaciones."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Espérate a ti mismo",
+      "text": "El yo tiene capas. El cuerpo incluye propiedad y emoción. La perspectiva aparece en Mach y en OBE por estimulación de Blanke o Penfield. La volición , el yo narrativo de Clive Wearing con amnesia de segundos y el yo social con teoría de mente anidada completan el haz. Rubber hand y body swap en VR muestran plasticidad, aunque las ilusiones corporales suelen ser débiles frente a la clínica, como en somatoparaphrenia."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Espérate a ti mismo",
+      "text": "La estabilidad subjetiva del yo es ceguera al cambio . Evolucionamos para controlarnos, no conocernos con precisión. Donne escribió que «ningún hombre es una isla». La self-awareness social puede requerir otros."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Espérate a ti mismo",
+      "text": "Ser tú es un haz de percepciones del yo , tan inferidas y revisables como ver un vaso rojo."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Ser una máquina bestia",
+      "text": "Descartes llamó a los animales bête-machine sin alma racional. La Mettrie extendió la máquina al hombre. Seth invierte la idea: la conciencia liga más a estar vivo que a ser inteligente. Bajo capas narrativas y perspectivales hay afecto e interocepción."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Ser una máquina bestia",
+      "text": "Según James-Lange, la emoción es percepción de cambio corporal: «lloramos, luego estamos tristes». La inferencia interoceptiva unifica emoción sin dualismo cognitivo/corporal. El miedo es predicción sobre estado visceral ante un oso. Ashby sostuvo que todo buen regulador debe ser modelo del sistema. Las emociones regulan variables esenciales como temperatura o glucosa mediante acciones externas e intero-acciones."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Ser una máquina bestia",
+      "text": "La percepción epistémica trata objetos y la instrumental busca control. Esa distinción explica la fenomenología: la taza tiene «dorso», la ansiedad no. La sensación basal de «simplemente estar vivo» es predicción interoceptiva profunda. Priors precisos de supervivencia explican estabilidad del yo y autoengaño fisiológico."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Ser una máquina bestia",
+      "text": "«No somos computadoras cognitivas; somos máquinas de sentir.»"
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Ser una máquina bestia",
+      "text": "Somos máquinas bestia conscientes . Mundo y yo son alucinaciones al servicio de seguir vivos."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Un pez en el agua",
+      "text": "El principio de energía libre (FEP) de Karl Friston parte de que existir es mantener frontera y estados de baja entropía contra la segunda ley. Un pez en agua ocupa estados esperados. Fuera del agua, se desintegra."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Un pez en el agua",
+      "text": "Los organismos minimizan sorpresa sensorial aproximada por free energy , que equivale al error de predicción. Eso requiere modelos generativos. Friston resume: «me predigo, luego existo». No implica quedarse en habitación oscura, porque el hambre sube entropía y hay que explorar mediante allostasis anticipatoria."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Un pez en el agua",
+      "text": "FEP no es teoría de conciencia sino marco filosófico-matemático. Refuerza beast machine desde la física de lo vivo. En el encuentro de Aegina de 2018 , FEP e IIT hablaron poco entre sí. Hoy hay adversarial collaborations en curso."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Un pez en el agua",
+      "text": "La vida persiste minimizando sorpresa . La mente predictiva es consecuencia, no excepción dualista."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Grados de libertad",
+      "text": "Ian McEwan , vía Briony, pregunta si la intención causa el dedo o el dedo a la intención. El libre albedrío «spooky», con dualismo e indeterminismo necesario, queda descartado. El compatibilismo basta."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Grados de libertad",
+      "text": "Benjamin Libet registró potencial de readiness unos 500 ms antes del «urge» consciente. Aaron Schurger reinterpretó en 2012 que la pendiente puede ser fluctuación cercana a umbral, no causa especial. La voluntad se percibe cuando la acción parece venir de dentro, alineada con deseos y con alternativas aparentes. Eso es útil para aprender, no magia."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Grados de libertad",
+      "text": "La red de Patrick Haggard distingue what, when y whether. Los grados de libertad de Ashby cuantifican flexibilidad motora. Wegner no prueba que la experiencia volitiva sea falsa. Es tan real como el rojo, con contenido metafísico engañoso. Tumores como el de Whitman muestran fragilidad legal y moral."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Grados de libertad",
+      "text": "Libre albedrío es percepción de agencia voluntaria, no interrupción acausal del flujo físico."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Más allá de lo humano",
+      "text": "Tribunales medievales juzgaron cerdos. Descartes negó mente animal. Hoy sabemos que conciencia no equivale a lenguaje ni a metacognición. El antropomorfismo y el antropocentrismo distorsionan. La inteligencia abre estados ramificados como el arrepentimiento, pero no define conciencia."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Más allá de lo humano",
+      "text": "Seth, Baars y Edelman listaron en 2005 17 propiedades testeables, entre ellas corteza de seis capas, tálamo, dinámica sueño-vigilia y anestesia similar. Los mamíferos probablemente son conscientes. Pocos pasan el test del espejo: grandes simios, delfines y un elefante. Monos en Cayo Santiago «se divierten» y capuchinos protestan unfairness, pero sin espejo su selfhood difiere del humano."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Más allá de lo humano",
+      "text": "Peter Godfrey-Smith describe pulpos con mente evolutivamente alienígena, neuronas en brazos y camuflaje sin ver color. Podrían tener conciencia distribuida sin propiedad corporal unificada. Aves, dolor en peces y moscas, anestésicos amplios. Un gusano con 302 neuronas probablemente no siente. Perfil multidimensional de Birch y precaución ética guían la frontera."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Más allá de lo humano",
+      "text": "Conciencia se extiende por mecanismos compartidos y vida , no por parecerse a Homo sapiens inteligente."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Mentes artificiales",
+      "text": "Golem, Frankenstein y HAL muestran que crear mentes sintéticas invita hubris. La IA actual no implica conciencia. El funcionalismo es necesario pero insuficiente. Inteligencia avanzada no arrastra qualia, y la Singularidad está sobrevalorada."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Mentes artificiales",
+      "text": "Dehaene propone criterios de procesamiento global. IIT permite zombis conductuales con Φ=0. Un robot «beast machine» de silicio con interocepción sintética podría parecer sentiente. Seth sospecha que la materialidad viva , con autopoiesis celular, importa. GPT-3 pasa Turing estrecho sin entender. El Garland test de Ex Machina prueba al humano, no la máquina."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Mentes artificiales",
+      "text": "El valle inquietante con Geminoid Ishiguro, los deepfakes y la ética preventiva complican el panorama. Thomas Metzinger pidió moratoria de 30 años a fenomenología sintética. Los organoides cerebrales complican la frontera. Dennett ve herramientas inteligentes, no colegas. Subir upload o Simulation argument rechaza funcionalismo ingenuo."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Mentes artificiales",
+      "text": "Máquinas pueden ser inteligentes sin sentir . La conciencia artificial exige más que information processing."
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "slug": "ageless",
+  "title": "Sin edad",
+  "concepts": [
+    {
+      "title": "Senescencia negligible",
+      "description": "Riesgo de muerte que no aumenta con la edad cronológica; modelo de «inmortalidad biológica»."
+    },
+    {
+      "title": "Marcas del envejecimiento",
+      "description": "Cambios moleculares causales (ADN, telómeros, senescencia, etc.) que explican el deterioro sincronizado."
+    },
+    {
+      "title": "Células senescentes",
+      "description": "Células que dejan de dividirse pero secretan SASP inflamatorio; blanco de senolíticos."
+    },
+    {
+      "title": "Restricción dietética",
+      "description": "Reducir calorías con nutrición completa; activa mTOR/autofagia y ralentiza envejecimiento en muchas especies."
+    },
+    {
+      "title": "Pleiotropía antagonista",
+      "description": "Genes beneficiosos en la reproducción temprana que dañan después; motor evolutivo del envejecimiento."
+    },
+    {
+      "title": "Soma desechable",
+      "description": "Teoría de que el cuerpo es prescindible frente a la reproducción bajo mortalidad extrínseca alta."
+    },
+    {
+      "title": "Reloj epigenético",
+      "description": "Patrones de metilación del ADN que predicen edad biológica y riesgo de muerte con alta precisión."
+    },
+    {
+      "title": "Senolíticos",
+      "description": "Fármacos que eliminan células senescentes (p. ej. dasatinib + quercetina)."
+    },
+    {
+      "title": "Miméticos de DR",
+      "description": "Compuestos (rapamycin, metformina, spermidina) que imitan señales de escasez sin ayunar."
+    },
+    {
+      "title": "Velocidad de escape de longevidad",
+      "description": "Ganar ≥1 año de esperanza de vida por cada año vivido mediante terapias sucesivas."
+    }
+  ],
+  "highlight": "curar el envejecimiento sería la mayor revolución médica desde los antibióticos",
+  "entries": [
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "El envejecimiento no es un reloj misterioso ni un castigo inevitable: es un conjunto de procesos biológicos que la ciencia ya puede ralentizar en el laboratorio."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Tratarlo como causa, y no solo como síntoma, podría postergar enfermedad, fragilidad y muerte a escala planetaria."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La cura no llegará en una píldora milagrosa, sino como un rompecabezas de terapias que se renuevan con cada generación."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Mientras tanto, estilo de vida y política pública pueden comprarnos años para llegar a esas medicinas."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "El objetivo final es la senescencia negligible: envejecer sin perder salud solo por haber cumplido años."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "curar el envejecimiento sería la mayor revolución médica desde los antibióticos"
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Introducción",
+      "text": "Andrew Steele abre con las tortugas gigantes de Galápagos, animales de 175 años con senescencia negligible : su riesgo de muerte no sube con la edad. Los humanos, en cambio, ven duplicarse ese riesgo cada ocho años . A los 80 , la probabilidad de morir ese año es unas 60 veces mayor que a los 30 ."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Introducción",
+      "text": "Definido biológicamente, envejecer es el aumento exponencial de muerte y sufrimiento. Ser viejo es el mayor factor de riesgo para cáncer, demencia y enfermedad cardiovascular, por encima del tabaco o la obesidad. Más de 100.000 de las 150.000 muertes diarias en el planeta se atribuyen al envejecimiento. Ignoramos la causa raíz y tratamos cada enfermedad por separado."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Introducción",
+      "text": "La buena noticia llegó en 1935 , cuando Clive McCay demostró que ratas con dieta restringida vivían más y mejor. Hoy sabemos qué ocurre a nivel molecular y celular, y ya hay tratamientos en ensayo. En 2011 se eliminaron células senescentes en ratones. En 2018 , fármacos similares entraron en ensayos clínicos humanos."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Introducción",
+      "text": "Curar el envejecimiento no significa vivir para siempre, sino reducir el sufrimiento y hacer que el riesgo de muerte deje de depender de cuántos años llevas en el calendario."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Introducción",
+      "text": "El envejecimiento es la principal causa de muerte y sufrimiento del planeta, pero la biología demuestra que es un proceso tratable ."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "La era del envejecimiento",
+      "text": "Durante milenios la esperanza de vida rondó los 30–35 años por la mortalidad infantil. Quien sobrevivía a la adolescencia podía llegar a los 50 o más. Desde 1840 , el país más longevo gana unos tres meses de esperanza de vida cada año, con regularidad casi mecánica."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "La era del envejecimiento",
+      "text": "La victoria sobre infecciosas, vacunas, nutrición y el declive del tabaco duplicó la vida media en países ricos, pero abrió paso al envejecimiento como nuevo enemigo principal. Hoy un 20 años tiene más probabilidades de tener abuela viva que un joven del siglo XIX de tener madre viva. La población mayor de 65 pasó de 150 millones en 1960 a 700 millones en 2020 ."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "La era del envejecimiento",
+      "text": "El modelo educación-trabajo-jubilación quedó obsoleto porque la edad de pensión de 65 años en el Reino Unido no cambió casi un siglo mientras la esperanza de vida subió 23 años . Un adulto mayor de 80 cuesta al sistema sanitario unas cinco veces más que uno de 30 . Aun así, la discapacidad grave en muy ancianos ha bajado."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "La era del envejecimiento",
+      "text": "Nunca hubo fármacos aprobados específicamente contra el envejecimiento: los reguladores solo autorizan tratamientos para enfermedades concretas. En 2018 la OMS añadió el código XT9T para condiciones relacionadas con la edad. Extrapolar la tendencia actual sugiere que muchos nacidos este siglo podrían llegar al siglo en países ricos."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "La era del envejecimiento",
+      "text": "La humanidad duplicó su esperanza de vida sin tratar el envejecimiento y entró en una era del envejecimiento que redefine economía, demografía y biografía personal."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "El origen del envejecimiento",
+      "text": "La segunda ley de la termodinámica no obliga a envejecer: los seres vivos importan energía y se reparan. El enigma es evolutivo. Si la selección natural favorece la supervivencia, ¿por qué degeneramos?"
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "El origen del envejecimiento",
+      "text": "Las primeras teorías de «selección de grupo» (animales viejos que consumen recursos de los jóvenes) fallan: un mutante longevo siempre ganaría. La explicación moderna es la mortalidad extrínseca (depredadores, accidentes, enfermedades): como la mayoría muere joven, la selección apenas optimiza la edad avanzada."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "El origen del envejecimiento",
+      "text": "La diversidad vital desafía el fatalismo. Los peces BOFFFF (hembras viejas, gordas y fértiles) reducen su riesgo de muerte con la edad. Las tortugas de Michigan no muestran aumento de mortalidad y las hidras en laboratorio parecen inmortales. Incluso existe senescencia negativa en algunas especies."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "El origen del envejecimiento",
+      "text": "Estas excepciones importan porque comparar especies longevas revela genes y mecanismos que podríamos imitar. Pero las teorías evolutivas también advirtieron durante décadas que el envejecimiento sería intratablemente complejo, hasta que la biología molecular demostró lo contrario."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "El origen del envejecimiento",
+      "text": "El envejecimiento evolucionó por negligencia selectiva , no por un reloj programado, y por eso es un mosaico de procesos reparables."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "El nacimiento de la biogerontología",
+      "text": "La biogerontología moderna nació tarde porque el envejecimiento parecía demasiado complejo y poco glamoroso. Dos líneas de evidencia lo cambiaron: hambre controlada y genética de gusanos."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "El nacimiento de la biogerontología",
+      "text": "Clive McCay alimentó 106 ratas con dietas estrictas en 1934–1935 . La última rata restringida murió a los 1.321 días frente a 927 de las bien alimentadas. La restricción dietética (DR) funciona desde levaduras hasta perros, probablemente vía mTOR e insulina , señalando escasez y activando mantenimiento."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "El nacimiento de la biogerontología",
+      "text": "En un compost de Bristol, Cynthia Kenyon y Tom Johnson encontraron mutantes de C. elegans . El gen daf-2 (receptor de insulina) duplicó la vida del gusano. Un solo cambio de nucleótido en age-1 la multiplicó por 10 . Cambiar una letra de ADN alteró todo el ritmo de envejecimiento."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "El nacimiento de la biogerontología",
+      "text": "Los mutantes longevos pierden ante gusanos normales en condiciones de competencia real, pero los humanos del mundo rico viven en un entorno más parecido al laboratorio que a la selva prehistórica. La DR en macacos rhesus alarga la salud pero no siempre la vida total, lo que sugiere efectos decrecientes en especies largas como la nuestra."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "El nacimiento de la biogerontología",
+      "text": "McCay y los nematodos demostraron que el envejecimiento es un proceso coherente y genéticamente modificable , no un desgaste irreducible."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Por qué envejecemos",
+      "text": "Steele organiza el envejecimiento en diez marcas inspiradas en los «Hallmarks of Aging» ( 2013 ) y en SENS de Aubrey de Grey . Cada marca aumenta con la edad, empeora la salud si se acelera y mejora si se frena."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Por qué envejecemos",
+      "text": "Steele enumera daño al ADN , acortamiento de telómeros y problemas de proteínas (autofagia, amiloides, AGEs). También incluye alteraciones epigenéticas medibles con el reloj de Steve Horvath (correlación 0,96 ), acumulación de células senescentes con SASP inflamatorio, mitocondrias disfuncionales, señalización alterada ( inflammaging ), cambios del microbioma , agotamiento de células madre e inmunosenescencia (involución tímica, CMV, aterosclerosis)."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Por qué envejecemos",
+      "text": "Las marcas se entrelazan. Los telómeros cortos provocan senescencia, el SASP alimenta inflamación crónica y la diabetes acelera la glicación del colágeno. Por eso un tratamiento contra una marca puede aliviar varias enfermedades. La Parte 2 del libro explora cómo intervenir cada una."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Por qué envejecemos",
+      "text": "El envejecimiento no es una sola causa ni miles: es un puñado de marcas moleculares interconectadas que explican por qué todo empeora a la vez."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Fuera lo viejo",
+      "text": "La estrategia más intuitiva es eliminar lo que se acumula con los años. El candidato más avanzado son las células senescentes , zombies inflamatorias que representan apenas un pequeño porcentaje de células pero dañan tejidos enteros."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Fuera lo viejo",
+      "text": "En 2011 el Mayo Clinic activó suicidio genético en senescentes de ratones envejecidos prematuramente. En 2015 , el cóctel senolítico D+Q (dasatinib + quercetina) rejuveneció ratones de 24 meses y extendió su vida. En 2019 un piloto en humanos con fibrosis pulmonar idiopática mostró seguridad y mejoría modesta."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Fuera lo viejo",
+      "text": "Contra la basura intracelular, los miméticos de DR como rapamycin (descubierta en Isla de Pascua) y metformina activan la autofagia. Se investigan enzimas bacterianas para degradar lipofuscina en ojos y arterias. Contra amiloides , anticuerpos, catabodies y el motivo GAIM (descubierto por azar en un fago M13) atacan agregados de Alzheimer, Parkinson y transtiretina cardiaca."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Fuera lo viejo",
+      "text": "Las senescentes cumplen funciones en desarrollo y cicatrización, así que el objetivo no es borrarlas todas sino periódicamente, como una visita al dentista. La hipótesis amiloide de Alzheimer sigue debatiéndose, pero limpiar placas puede ser prudente incluso antes de demencia."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Fuera lo viejo",
+      "text": "Eliminar senescentes, basura celular y amiloides es el frente terapéutico más cercano a la clínica y prueba que atacar el envejecimiento funciona."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Dentro lo nuevo",
+      "text": "A veces hay que reponer y no solo eliminar. Las células madre y los trasplantes de médula ósea ya salvan vidas. Shinya Yamanaka ( 2006 ) permitió revertir células adultas a estado pluripotente (iPSC) sin rechazo inmune si provienen del propio paciente."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Dentro lo nuevo",
+      "text": "Ensayos con células RPE derivadas de madre embrionaria mejoraron la visión en degeneración macular y Parkinson avanza con neuronas dopaminérgicas desde iPSC. La involutión del timo explica por qué las vacunas fallan en ancianos. Hormonas, el gen FOXN1 o un timo cultivado en laboratorio podrían rejuvenecer linfocitos T. Los eunucos de la dinastía Joseon vivieron unos 70 años frente a unos 47 de los reyes."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Dentro lo nuevo",
+      "text": "El microbioma intestinal envejece con nosotros: menos diversidad, más inflamación. Probióticos, prebióticos y trasplantes fecales (ya usados para C. difficile ) podrían restaurar equilibrio. El ácido colánico de bacterias extendió la vida de gusanos un 10 % ."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Dentro lo nuevo",
+      "text": "Fuera de la célula, el colágeno y la elastina acumulan AGEs y pierden flexibilidad, endureciendo piel y arterias. Romper AGEs o estimular recambio (el ejercicio ayuda) podría devolver elasticidad vascular, más vital que la cosmética."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Dentro lo nuevo",
+      "text": "Regenerar tejidos, rejuvenecer la inmunidad y reequilibrar el microbioma complementan la limpieza de lo acumulado para reponer capacidad perdida con la edad."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Reparaciones en marcha",
+      "text": "Muchos daños deben repararse in situ. Los telómeros se acortan en cada división hasta provocar senescencia o muerte celular. Elizabeth Blackburn y Carol Greider descubrieron la telomerasa ( 1984 , Nobel 2009 ), enzima que los alarga pero que el cáncer explota en el 90 % de tumores."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Reparaciones en marcha",
+      "text": "María Blasco mostró que telomerasa más genes protectores extendió la vida de ratones un 40 % sin más cáncer. La parabiosis heterocrónica (suturar ratones jóvenes y viejos) rejuveneció músculo, hígado y cerebro al cambiar señales sanguíneas, no al trasplantar células jóvenes. El plasma joven solo no basta: la sangre vieja también envenena."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Reparaciones en marcha",
+      "text": "Fármacos como inhibidores de TGF-beta más oxitocina imitaron beneficios de parabiosis en una semana. Los exosomas de células madre hipotalámicas alargaron la vida de ratones un 10 % . En mitocondrias, antioxidantes dirigidos ( MitoQ ) y urolithin A mejoran la función. La expresión alotópica movería genes mitocondriales al núcleo."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Reparaciones en marcha",
+      "text": "El secuenciado masivo reveló expansiones clonales de mutaciones conductoras en piel y esófago ancianos, vía evolución celular similar al cáncer. Aprender de elefantes (múltiples copias de p53 ) y ballenas (reparación de ADN) sugiere reforzar defensas genómicas."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Reparaciones en marcha",
+      "text": "Reparar telómeros, señales, mitocondrias y ADN muestra que células viejas conservan capacidad latente si se corrige su entorno."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Reprogramar el envejecimiento",
+      "text": "La reprogramación con factores Yamanaka (OKSM) resetea la identidad celular. Usada de forma cíclica (dos días on, cinco off) en ratones envejecidos prematuramente, extendió la vida un 30 % sin tumores teratoma."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Reprogramar el envejecimiento",
+      "text": "La clonación y la medusa Turritopsis demuestran que el reloj biológico puede retroceder. En humanos, activar OKSM de forma continua sería letal. La clave es revertir marcas epigenéticas sin borrar la función del tejido. Células humanas en cultivo rejuvenecieron según relojes epigenéticos y mitocondrias sin convertirse en iPSC."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Reprogramar el envejecimiento",
+      "text": "La cura definitiva exigirá biología de sistemas con modelos computacionales que predigan cómo una intervención afecta redes enteras. La secuenciación cuesta ya menos de 1.000 dólares por genoma y la potencia de cálculo crece exponencialmente. El fin último es restaurar la homeostasis de un adulto joven y dejar que el cuerpo se autorregule."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Reprogramar el envejecimiento",
+      "text": "Aunque la reprogramación completa tarde décadas, hallazgos como Yamanaka sugieren que la naturaleza ya nos dio palancas amplias. Tratar el envejecimiento será, en el fondo, reprogramar la biología humana con datos, genes y fármacos en combinación inteligente."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Reprogramar el envejecimiento",
+      "text": "La reprogramación epigenética transitoria apunta a revertir el envejecimiento de forma holística , no solo a parchar síntomas aislados."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "La búsqueda de la cura",
+      "text": "¿Llegará la cura a tiempo para nosotros? Steele es cauteloso con fechas, pero optimista con mecanismos: hay demasiadas vías distintas que alargan vida en ratones para que todas fallen en humanos."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "La búsqueda de la cura",
+      "text": "Curar una enfermedad aislada aporta poco: eliminar el cáncer sumaría menos de tres años de esperanza de vida porque otra patología ocupará su lugar. Tratar el envejecimiento ataca muchas causas a la vez. Efectos sinérgicos (dos mutaciones en gusanos que quintuplican la vida) y círculos virtuosos (senolíticos que mejoran huesos, hígado y cerebro) refuerzan la estrategia."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "La búsqueda de la cura",
+      "text": "La meta práctica es la velocidad de escape de longevidad : ganar al menos un año de esperanza de vida por cada año vivido gracias a terapias sucesivas. No hace falta una cura instantánea, solo mantenerse un paso adelante del deterioro con un rompecabezas de tratamientos que mejora con cada década."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "La búsqueda de la cura",
+      "text": "La primera generación «sin edad» quizá no lo note: verá cómo cada avance médico empuja su funeral más lejos hasta que el riesgo de muerte deje de crecer con la edad. Eso será obvio en retrospecto en las estadísticas vitales."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "La búsqueda de la cura",
+      "text": "La cura del envejecimiento será un rompecabezas evolutivo de terapias, no una píldora única, y la velocidad de escape es la meta alcanzable."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Vivir lo suficiente para vivir más",
+      "text": "Solo una fracción pequeña de la longevidad es genética y el estilo de vida con la suerte mandan. Cinco hábitos sanos (no fumar, peso normal, poco alcohol, ejercicio, buena dieta) pueden añadir unos 10 años de vida y salud a los 50 ."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Vivir lo suficiente para vivir más",
+      "text": "**No fumar** — Resta ~10 años; acelera casi todas las marcas (ADN, telómeros, senescencia, AGEs). Dejarlo recupera riesgo en años."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Vivir lo suficiente para vivir más",
+      "text": "**Peso saludable** — La grasa visceral secreta inflamación; el IMC alto resta años y empeora diabetes."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Vivir lo suficiente para vivir más",
+      "text": "**Ejercicio** — Incluso 30 minutos diarios reducen mortalidad; fortalece músculo, mitocondrias, telómeros y recambia colágeno."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Vivir lo suficiente para vivir más",
+      "text": "**Sueño (7–8 h)** — El cerebro elimina amiloide al dormir; cataratas alteran ritmos circadianos."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Vivir lo suficiente para vivir más",
+      "text": "**Vacunas e higiene** — Menos infecciones significa menos inflamación crónica de por vida."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Vivir lo suficiente para vivir más",
+      "text": "La restricción calórica extrema en humanos sigue sin prueba de longevidad. Los macacos NIA frente a Wisconsin muestran que una dieta ya sana limita ganancias extra. El ayuno intermitente puede ayudar a algunos, con riesgos inmunes y óseos. Los suplementos antioxidantes generales no funcionan e incluso dañan (vitamina E, beta-caroteno)."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Vivir lo suficiente para vivir más",
+      "text": "No hay píldora anti-edad probada para sanos todavía: espere ensayos de metformina (TAME) y senolíticos. Mientras tanto, hábitos básicos son la mejor apuesta para llegar vivo a la medicina del futuro."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Vivir lo suficiente para vivir más",
+      "text": "Optimizar estilo de vida compra décadas de salud para beneficiarse de terapias anti-edad aún en desarrollo."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "De la ciencia a la medicina",
+      "text": "La biogerontología necesita visibilidad y dinero. El NIA de EE. UU. recibe unos 6 % del presupuesto del NIH aunque el envejecimiento causa unos 85 % de muertes. La división de biología del envejecimiento recibe una fracción mínima frente a un gasto sanitario de 4 billones de dólares."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "De la ciencia a la medicina",
+      "text": "Los reguladores no aprueban fármacos «contra el envejecimiento». El ensayo TAME ( Nir Barzilai ) testará metformina en 3.000 adultos de 65–80 midiendo aparición tardía de cáncer, cardiovascular y demencia, estableciendo precedente con la FDA aunque el efecto sea modesto."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "De la ciencia a la medicina",
+      "text": "Los ensayos largos en sanos son caros. Los biomarcadores (relojes epigenéticos, fuerza de agarre, apariencia facial con IA) permitirían ensayos más cortos y baratos si responden a intervenciones como DR o senolíticos. Hay que incluir ancianos reales y ratones viejos, no solo modelos juveniles de enfermedad."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "De la ciencia a la medicina",
+      "text": "Cuando lleguen terapias, cada persona deberá sopesar riesgos de tratamientos preventivos. Mientras tanto, combatir charlatanes y canalizar autoexperimentadores con protocolos mínimos evitará desperdiciar datos. Cada día que adelantamos la cura salva unas 100.000 vidas."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "De la ciencia a la medicina",
+      "text": "Convertir la biogerontología en medicina exige financiación, regulación y biomarcadores , no solo descubrimientos de laboratorio."
+    }
+  ]
+}
