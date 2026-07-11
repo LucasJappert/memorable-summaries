@@ -30,7 +30,8 @@ const shareUrl = ref('')
 
 function shareBook() {
   if (!book.value) return
-  const url = `${window.location.origin}/libro/${book.value.slug}`
+  const base = window.location.origin + (import.meta.env.BASE_URL || '/')
+  const url = `${base}libro/${book.value.slug}`
   const shareData = {
     title: book.value.title,
     text: `${book.value.title} — ${book.value.author}`,
