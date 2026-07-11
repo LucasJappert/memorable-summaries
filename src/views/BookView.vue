@@ -199,10 +199,15 @@ function scrollToCover() {
 }
 
 watchEffect((onCleanup) => {
+  const b = book.value
+  if (!b) return
   registerBookBottomBar({
     hasAudio: hasAudio.value,
     menuOpen: menuOpen.value,
     audioOpen: audioVisible.value,
+    slug: b.slug,
+    title: b.meta.title,
+    author: b.meta.author,
     handlers: {
       scrollToTop: scrollToCover,
       toggleMenu,

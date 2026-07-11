@@ -10,6 +10,9 @@ export interface BookBottomBarState {
   hasAudio: boolean
   menuOpen: boolean
   audioOpen: boolean
+  slug: string
+  title: string
+  author: string
   handlers: BookBottomBarHandlers
 }
 

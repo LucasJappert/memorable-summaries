@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed } from 'vue'
+import { computed, ref } from 'vue'
 import { RouterLink, useRoute } from 'vue-router'
 import {
   closeGlobalSearch,
@@ -24,6 +24,34 @@ const isLibrary = computed(() => route.name === 'library')
 const { progress } = useScrollProgress()
 
 const book = computed(() => bookBarState.value)
+
+const showShareToast = ref(false)
+const shareUrl = ref('')
+
+function shareBook() {
+  if (!book.value) return
+  const url = `${window.location.origin}/libro/${book.value.slug}`
+  const shareData = {
+    title: book.value.title,
+    text: `${book.value.title} — ${book.value.author}`,
+    url,
+  }
+  // Try Web Share API first (works on HTTPS, may throw on HTTP non-secure)
+  if (navigator.share) {
+    navigator.share(shareData).catch(() => showShareToastWithUrl(url))
+  } else {
+    showShareToastWithUrl(url)
+  }
+}
+
+function showShareToastWithUrl(url: string) {
+  shareUrl.value = url
+  showShareToast.value = true
+}
+
+function closeShareToast() {
+  showShareToast.value = false
+}
 
 const continueLink = computed(() => {
   readingRevision.value
@@ -183,6 +211,20 @@ function onMenuClick() {
 
         <button
           type="button"
+          class="app-bottom-bar__btn app-bottom-bar__btn--share"
+          aria-label="Compartir libro"
+          @click="onNavAway(); shareBook()"
+        >
+          <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <path
+              d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92 1.61 0 2.92-1.31 2.92-2.92s-1.31-2.92-2.92-2.92z"
+              fill="currentColor"
+            />
+          </svg>
+        </button>
+
+        <button
+          type="button"
           class="app-bottom-bar__btn app-bottom-bar__btn--audio"
           :class="{
             'app-bottom-bar__btn--active': book.hasAudio && book.audioOpen,
@@ -221,6 +263,32 @@ function onMenuClick() {
       </template>
     </div>
   </nav>
+
+  <!-- Share-toast fallback for non-HTTPS contexts (mobile HTTP local network) -->
+  <Teleport to="body">
+    <div
+      v-if="showShareToast"
+      class="share-toast"
+      role="dialog"
+      aria-label="Enlace para compartir"
+    >
+      <div class="share-toast__body">
+        <span class="share-toast__label">🔗 Enlace:</span>
+        <a
+          :href="shareUrl"
+          class="share-toast__link"
+          target="_blank"
+          rel="noopener noreferrer"
+        >{{ shareUrl }}</a>
+      </div>
+      <button
+        type="button"
+        class="share-toast__close"
+        aria-label="Cerrar"
+        @click="closeShareToast"
+      >Cerrar</button>
+    </div>
+  </Teleport>
 </template>
 
 <style src="./AppBottomBar.css"></style>

@@ -36,6 +36,9 @@
 .app-bottom-bar--library .app-bottom-bar__pill {
   max-width: min(100%, 26rem);
 }
+.app-bottom-bar--book .app-bottom-bar__pill {
+  max-width: min(100%, 30rem);
+}
 .app-bottom-bar__pill--wide {
   max-width: min(100%, 28rem);
   padding: 0.35rem 0.45rem;
@@ -137,4 +140,90 @@
 }
 .app-bottom-bar__btn--no-audio:active {
   transform: none;
+}
+.app-bottom-bar__btn--share-copied {
+  background: rgba(76, 175, 80, 0.22) !important;
+  color: #66bb6a !important;
+  animation: share-pop 0.3s ease;
+}
+@keyframes share-pop {
+  0% { transform: scale(0.94); }
+  50% { transform: scale(1.15); }
+  100% { transform: scale(1); }
+}
+
+/* Share-toast fallback for non-HTTPS contexts (mobile HTTP local network) */
+.share-toast {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: max(5rem, env(safe-area-inset-bottom, 0px) + 3.5rem);
+  z-index: 300;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.6rem;
+  margin: 0 auto;
+  padding: 0.7rem 1rem;
+  max-width: min(calc(100% - 2rem), 36rem);
+  border-radius: 14px;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  background: rgba(10, 14, 28, 0.92);
+  backdrop-filter: blur(28px) saturate(180%);
+  -webkit-backdrop-filter: blur(28px) saturate(180%);
+  box-shadow:
+    0 8px 32px rgba(0, 0, 0, 0.5),
+    inset 0 1px 0 rgba(255, 255, 255, 0.08);
+  font-size: 0.85rem;
+  line-height: 1.4;
+  color: #e0e0e0;
+  pointer-events: auto;
+  animation: share-toast-in 0.25s ease;
+}
+@keyframes share-toast-in {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.share-toast__body {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.35rem;
+}
+.share-toast__label {
+  white-space: nowrap;
+  opacity: 0.85;
+  font-weight: 500;
+}
+.share-toast__link {
+  color: var(--accent3, #82b1ff);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+  word-break: break-all;
+  overflow-wrap: break-word;
+  -webkit-tap-highlight-color: transparent;
+}
+.share-toast__close {
+  flex-shrink: 0;
+  padding: 0.4rem 0.7rem;
+  border: 0;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.12);
+  color: #e0e0e0;
+  font-size: 0.8rem;
+  font-weight: 500;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  transition: background 0.15s ease;
+}
+.share-toast__close:active {
+  background: rgba(255, 255, 255, 0.22);
 }
