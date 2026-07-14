@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://memorable-summaries.example.com/sitemap.xml
+Sitemap: https://lucasjappert.github.io/memorable-summaries/sitemap.xml
