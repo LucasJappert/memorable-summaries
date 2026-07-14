@@ -16,9 +16,16 @@ PERSON_COLON = re.compile(
 )
 SEMICOLON_OR_DASH = re.compile(r"[;]|—.*—")
 FRAGMENT_START = re.compile(
-    r"^(?:Une|Son|Es|Era|Fue|Hay|Sin|Con|Para|Tras|Pero|Relatividad|Probabilidad)\s",
+    r"^(?:Une|Son|Es|Era|Fue|Hay|Sin|Con|Para|Tras|Pero|Aunque|Porque|Si|Como|Desde|Hasta|Ante|Bajo|Relatividad|Probabilidad)\s",
     re.I,
 )
+# 4+ items separated by commas in a single sentence usually means a list
+CATALOGUE_PATTERN = re.compile(
+    r"[^,]+,[^,]+,[^,]+,[^,]+,[^,]+|[^,]+,[^,]+,[^,]+,[^,]+", re.S
+)
+# Sequential "person" or "term" spans separated by commas/"y"
+PERSON_LIST = re.compile(r"(?:<span class=\"person\">[^<]+</span>[^<]{0,15}){3,}", re.S)
+TERM_LIST = re.compile(r"(?:<span class=\"term\">[^<]+</span>[^<]{0,15}){3,}", re.S)
 # Sentence-initial "Etiqueta: dato" without finite verb in the label
 SENTENCE_LABEL_COLON = re.compile(r"(?:^|[.!?]\s+)([A-ZÁÉÍÓÚÑ«\"][^:]{2,55}):\s")
 VERB_IN_LABEL = re.compile(
@@ -82,7 +89,7 @@ def split_sections(body: str) -> list[tuple[str, str]]:
 def parse_paragraphs(section: str) -> list[tuple[str, str]]:
     blocks: list[tuple[str, str]] = []
     for m in re.finditer(
-        r"<!--\s*(paragraph(?:\s+lead)?|key)\s*-->\s*\n(.+?)(?=\n\n<!--|\n\n---|\Z)",
+        r"<!--\s*(paragraph(?:\s+lead)?|bridge|key)\s*-->\s*\n(.+?)(?=\n\n<!--|\n\n---|\Z)",
         section,
         re.S,
     ):
@@ -117,6 +124,51 @@ def has_finite_verb(sentence: str) -> bool:
     )
 
 
+def split_sentences(plain: str) -> list[str]:
+    return [s.strip() for s in re.split(r"(?<=[.!?])\s+", plain) if s.strip()]
+
+
+def count_words(text: str) -> int:
+    return len(re.sub(r"<[^>]+>", "", text).split())
+
+
+def count_spans(text: str) -> int:
+    return len(re.findall(r"<span[^>]+class=\"[^\"]+\"[^>]*>", text))
+
+
+def check_long_sentences(sid: str, plain: str, issues: list[str]) -> None:
+    for sent in split_sentences(plain):
+        words = count_words(sent)
+        if words > 25:
+            issues.append(f"[{sid}] oración de {words} palabras (>25): «{sent[:70]}…»")
+
+
+def check_span_density(sid: str, para: str, issues: list[str]) -> None:
+    spans = count_spans(para)
+    if spans > 5:
+        issues.append(f"[{sid}] párrafo con {spans} spans (máx. 5): «{para[:70]}…»")
+    for sent in split_sentences(para):
+        sent_spans = count_spans(sent)
+        if sent_spans > 2:
+            issues.append(
+                f"[{sid}] oración con {sent_spans} spans (>2): «{sent[:70]}…»"
+            )
+
+
+def check_listitis(sid: str, para: str, plain: str, issues: list[str]) -> None:
+    if PERSON_LIST.search(para) or TERM_LIST.search(para):
+        issues.append(f"[{sid}] posible catálogo de nombres/términos: «{plain[:70]}…»")
+    for sent in split_sentences(plain):
+        words = count_words(sent)
+        if words < 8:
+            continue
+        # 4+ commas usually means a list of items
+        if sent.count(",") >= 4:
+            issues.append(
+                f"[{sid}] oración con {sent.count(',')} comas: posible listitis: «{sent[:70]}…»"
+            )
+
+
 def check_prose_block(sid: str, kind: str, para: str, issues: list[str]) -> None:
     plain = re.sub(r"<[^>]+>", "", para)
 
@@ -148,12 +200,16 @@ def check_prose_block(sid: str, kind: str, para: str, issues: list[str]) -> None
         )
 
     if kind.startswith("paragraph"):
-        for sent in re.split(r"(?<=[.!?])\s+", plain):
-            sent = sent.strip()
+        for sent in split_sentences(plain):
             if len(sent.split()) < 6:
                 continue
             if FRAGMENT_START.match(sent) and not has_finite_verb(sent):
                 issues.append(f"[{sid}] posible fragmento: «{sent[:70]}…»")
+
+    if kind.startswith("paragraph"):
+        check_long_sentences(sid, plain, issues)
+        check_span_density(sid, para, issues)
+        check_listitis(sid, para, plain, issues)
 
 
 def lint_file(path: Path) -> list[str]:
@@ -174,7 +230,9 @@ def lint_file(path: Path) -> list[str]:
         if sid == "cierre":
             lines, highlight = parse_closing(section)
             if highlight and any(norm(l) == norm(highlight) for l in lines):
-                issues.append(f"[cierre] highlight duplicado en lines: «{highlight[:60]}…»")
+                issues.append(
+                    f"[cierre] highlight duplicado en lines: «{highlight[:60]}…»"
+                )
             before = len(lines)
             if highlight:
                 if before != 5:
@@ -201,8 +259,12 @@ def lint_file(path: Path) -> list[str]:
                             seen_sentences[s] = sid
 
         if len(blocks) >= 2:
-            last_para = re.sub(r"<[^>]+>", "", blocks[-2][1]) if blocks[-1][0] == "key" else ""
-            key_text = re.sub(r"<[^>]+>", "", blocks[-1][1]) if blocks[-1][0] == "key" else ""
+            last_para = (
+                re.sub(r"<[^>]+>", "", blocks[-2][1]) if blocks[-1][0] == "key" else ""
+            )
+            key_text = (
+                re.sub(r"<[^>]+>", "", blocks[-1][1]) if blocks[-1][0] == "key" else ""
+            )
             if last_para and key_text and norm(last_para) == norm(key_text):
                 issues.append(f"[{sid}] key repite el párrafo anterior")
 
@@ -211,13 +273,17 @@ def lint_file(path: Path) -> list[str]:
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="Lint de summaries/*.md")
-    parser.add_argument("slug", nargs="?", help="slug del libro (ej. seven-brief-lessons)")
+    parser.add_argument(
+        "slug", nargs="?", help="slug del libro (ej. seven-brief-lessons)"
+    )
     parser.add_argument("--all", action="store_true", help="lint todos los summaries")
     args = parser.parse_args()
 
     paths: list[Path] = []
     if args.all:
-        paths = sorted(p for p in SUMMARIES.glob("*.md") if not p.name.endswith(".skeleton.md"))
+        paths = sorted(
+            p for p in SUMMARIES.glob("*.md") if not p.name.endswith(".skeleton.md")
+        )
     elif args.slug:
         p = SUMMARIES / f"{args.slug}.md"
         if not p.exists():

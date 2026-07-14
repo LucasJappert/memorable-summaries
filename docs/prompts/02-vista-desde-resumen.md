@@ -19,54 +19,54 @@ Convertí el resumen Markdown estructurado en datos tipados para la app Vue 3 de
 ### Reglas estrictas
 
 1. **No agregues contenido** que no esté en el `.md`. Solo transformá formato.
-1b. **Preferí `scripts/md-to-ts.py`** para la conversión mecánica. Si generás TS a mano, `closing.lines` **no** debe incluir el texto de `closing.highlight`.
+   1b. **Preferí `scripts/md-to-ts.py`** para la conversión mecánica. Si generás TS a mano, `closing.lines` **no** debe incluir el texto de `closing.highlight`.
 2. **Respetá los tipos** de `BookSummary` y `ContentBlock`
 3. **IDs de sección** = los del `.md` (prefacio, cap1, …)
 4. **Idioma:** conservar `title` original + `titleEs` si existe; el resto ya debe estar en español en el `.md`
 5. **HTML inline** permitido en `paragraph.html`, `key.html` y `list.items`:
-   - Etiquetas: `<strong>`, `<em>`, `<sup>`
-   - Marcadores semánticos: `<span class="term">`, `<span class="person">`, `<span class="num">`, `<span class="key-term">` (solo en bloques `key`)
+    - Etiquetas: `<strong>`, `<em>`, `<sup>`
+    - Marcadores semánticos: `<span class="term">`, `<span class="person">`, `<span class="num">`, `<span class="key-term">` (solo en bloques `key`)
 6. **Export** con nombre camelCase: `export const sapiens: BookSummary = { ... }`
 7. **Archivo** en `src/data/<slug-corto>.ts`
 
 ### Mapeo MD → TypeScript
 
-| Bloque MD | Tipo TS |
-|-----------|---------|
-| Frontmatter | `meta` |
-| `slug` | `slug` (identificador del libro para persistencia de lectura) |
-| `title` | `meta.title` (idioma original) |
-| `title_es` | `meta.titleEs` (opcional; solo si title no está en español) |
-| Tabla `# Contenido` | `toc[]` |
-| Sección `# capN` | `sections[]` con `blocks[]` |
-| `<!-- paragraph -->` | `{ type: 'paragraph', html: '...' }` |
-| `<!-- paragraph lead -->` | `{ type: 'paragraph', html: '...', variant: 'lead' }` |
-| `<!-- quote -->` | `{ type: 'quote', text, attribution? }` |
-| `<!-- key -->` | `{ type: 'key', html: '...' }` (sin «Clave:» en el texto) |
-| `<!-- concept-grid -->` | `{ type: 'concept-grid', items: [{ icon?, title, description }] }` |
-| `<!-- big-numbers -->` | `{ type: 'big-numbers', items: [{ value, label }] }` |
-| `<!-- timeline -->` | `{ type: 'timeline', items: [{ year, text }] }` |
-| `<!-- list -->` | `{ type: 'list', items: ['...'] }` |
-| `# conceptos` | `keyConcepts[]` (extraer del concept-grid de esa sección) |
-| `# cronologia` | `chronology[]` |
-| `# figuras` | `figures[]` |
-| `# cierre` | `closing: { title, lines[], highlight }` — `lines` = líneas del `<!-- closing -->` **sin** el bloque `<!-- highlight -->` |
-| `# footer` | `footer: { line1, line2 }` |
+| Bloque MD                 | Tipo TS                                                                                                                   |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Frontmatter               | `meta`                                                                                                                    |
+| `slug`                    | `slug` (identificador del libro para persistencia de lectura)                                                             |
+| `title`                   | `meta.title` (idioma original)                                                                                            |
+| `title_es`                | `meta.titleEs` (opcional; solo si title no está en español)                                                               |
+| Tabla `# Contenido`       | `toc[]`                                                                                                                   |
+| Sección `# capN`          | `sections[]` con `blocks[]`                                                                                               |
+| `<!-- paragraph -->`      | `{ type: 'paragraph', html: '...' }`                                                                                      |
+| `<!-- paragraph lead -->` | `{ type: 'paragraph', html: '...', variant: 'lead' }`                                                                     |
+| `<!-- quote -->`          | `{ type: 'quote', text, attribution? }`                                                                                   |
+| `<!-- key -->`            | `{ type: 'key', html: '...' }` (sin «Clave:» en el texto)                                                                 |
+| `<!-- concept-grid -->`   | `{ type: 'concept-grid', items: [{ icon?, title, description }] }`                                                        |
+| `<!-- big-numbers -->`    | `{ type: 'big-numbers', items: [{ value, label }] }`                                                                      |
+| `<!-- timeline -->`       | `{ type: 'timeline', items: [{ year, text }] }`                                                                           |
+| `<!-- list -->`           | `{ type: 'list', items: ['...'] }`                                                                                        |
+| `# conceptos`             | `keyConcepts[]` (extraer del concept-grid de esa sección)                                                                 |
+| `# cronologia`            | `chronology[]`                                                                                                            |
+| `# figuras`               | `figures[]`                                                                                                               |
+| `# cierre`                | `closing: { title, lines[], highlight }` — `lines` = líneas del `<!-- closing -->` **sin** el bloque `<!-- highlight -->` |
+| `# footer`                | `footer: { line1, line2 }`                                                                                                |
 
 ### Secciones especiales
 
 - `# conceptos`, `# cronologia`, `# figuras`, `# cierre`, `# footer` **no van** en `sections[]`
 - Su contenido se mapea a las propiedades top-level de `BookSummary`
 - Los capítulos normales sí van en `sections[]`
-- En la app, **`closing` se muestra primero** (antes del prólogo/prefacio), aunque en el `.md` `# cierre` puede estar al inicio o al final del archivo
+- En la app, **`closing` se muestra al final** del flujo de lectura, después de los capítulos y antes de conceptos/cronología/figuras. Aunque en el `.md` `# cierre` puede estar al inicio o al final del archivo, el lector llega a él como conclusión.
 
 ### Integración en la app
 
 Después de crear el `.ts`, actualizá `src/App.vue`:
 
 ```ts
-import { nombreLibro } from './data/nombre-libro'
-const book = nombreLibro
+import { nombreLibro } from "./data/nombre-libro";
+const book = nombreLibro;
 ```
 
 (Cuando haya múltiples libros, migrar a router — por ahora reemplazar import.)

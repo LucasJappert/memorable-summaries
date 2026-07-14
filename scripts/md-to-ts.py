@@ -58,14 +58,14 @@ def esc(s: str) -> str:
 def parse_blocks(content: str) -> list[dict]:
     blocks: list[dict] = []
     parts = re.split(
-        r"<!--\s*(paragraph(?:\s+lead)?|quote|key|concept-grid|big-numbers|timeline|list)\s*-->",
+        r"<!--\s*(paragraph(?:\s+lead)?|bridge|quote|key|concept-grid|big-numbers|timeline|list)\s*-->",
         content,
     )
     # parts[0] = preamble (ignored); then alternating kind, body
     for i in range(1, len(parts), 2):
         kind = parts[i].strip()
         body = parts[i + 1].strip() if i + 1 < len(parts) else ""
-        if kind.startswith("paragraph"):
+        if kind.startswith("paragraph") or kind == "bridge":
             variant = "lead" if "lead" in kind else "default"
             html = re.sub(r"\s*\n\s*", " ", body).strip()
             block: dict = {"type": "paragraph", "html": html}
@@ -75,7 +75,13 @@ def parse_blocks(content: str) -> list[dict]:
         elif kind == "quote":
             m = re.search(r"^>\s*(.+?)\s*\n\s*—\s*(.+)$", body, re.S)
             if m:
-                blocks.append({"type": "quote", "text": m.group(1).strip(), "attribution": m.group(2).strip()})
+                blocks.append(
+                    {
+                        "type": "quote",
+                        "text": m.group(1).strip(),
+                        "attribution": m.group(2).strip(),
+                    }
+                )
         elif kind == "key":
             html = re.sub(r"\s*\n\s*", " ", body).strip()
             blocks.append({"type": "key", "html": html})
@@ -130,17 +136,21 @@ def parse_closing(content: str) -> dict:
 def block_to_ts(block: dict, indent: str = "        ") -> str:
     t = block["type"]
     if t == "paragraph":
-        lines = [f'{indent}{{', f'{indent}  type: \'paragraph\',']
+        lines = [f"{indent}{{", f"{indent}  type: 'paragraph',"]
         if block.get("variant") == "lead":
-            lines.append(f'{indent}  variant: \'lead\',')
+            lines.append(f"{indent}  variant: 'lead',")
         lines.append(f'{indent}  html: {esc(block["html"])},')
-        lines.append(f'{indent}}},')
+        lines.append(f"{indent}}},")
         return "\n".join(lines)
     if t == "quote":
-        lines = [f'{indent}{{', f'{indent}  type: \'quote\',', f'{indent}  text: {esc(block["text"])},']
+        lines = [
+            f"{indent}{{",
+            f"{indent}  type: 'quote',",
+            f'{indent}  text: {esc(block["text"])},',
+        ]
         if block.get("attribution"):
             lines.append(f'{indent}  attribution: {esc(block["attribution"])},')
-        lines.append(f'{indent}}},')
+        lines.append(f"{indent}}},")
         return "\n".join(lines)
     if t == "key":
         return f"{indent}{{\n{indent}  type: 'key',\n{indent}  html: {esc(block['html'])},\n{indent}}},"
@@ -156,7 +166,9 @@ def convert(md_path: Path, out_path: Path, export_name: str) -> None:
 
     # TOC
     toc: list[dict] = []
-    toc_m = re.search(r"# Contenido\s*\n\s*\| id \|.*?\n(\|[-| ]+\|\n)?((?:\|[^\n]+\n)+)", body)
+    toc_m = re.search(
+        r"# Contenido\s*\n\s*\| id \|.*?\n(\|[-| ]+\|\n)?((?:\|[^\n]+\n)+)", body
+    )
     if toc_m:
         for line in toc_m.group(2).splitlines():
             parts = [p.strip() for p in line.strip("|").split("|")]
@@ -180,12 +192,23 @@ def convert(md_path: Path, out_path: Path, export_name: str) -> None:
         if not sid_m:
             continue
         sid = sid_m.group(1)
-        if sid in ("Contenido", "conceptos", "cronologia", "figuras", "cierre", "footer"):
+        if sid in (
+            "Contenido",
+            "conceptos",
+            "cronologia",
+            "figuras",
+            "cierre",
+            "footer",
+        ):
             if sid == "conceptos":
                 cg = re.search(r"<!-- concept-grid -->\s*\n((?:\|[^\n]+\n)+)", part)
                 if cg:
                     rows = parse_table(cg.group(1).splitlines())
-                    key_concepts = [{"title": r[0], "description": r[1]} for r in rows if len(r) >= 2]
+                    key_concepts = [
+                        {"title": r[0], "description": r[1]}
+                        for r in rows
+                        if len(r) >= 2
+                    ]
                 title_m = re.search(r"## title: (.+)", part)
                 if title_m:
                     pass
@@ -193,12 +216,16 @@ def convert(md_path: Path, out_path: Path, export_name: str) -> None:
                 tl = re.search(r"<!-- timeline -->\s*\n((?:\|[^\n]+\n)+)", part)
                 if tl:
                     rows = parse_table(tl.group(1).splitlines())
-                    chronology = [{"year": r[0], "text": r[1]} for r in rows if len(r) >= 2]
+                    chronology = [
+                        {"year": r[0], "text": r[1]} for r in rows if len(r) >= 2
+                    ]
             elif sid == "figuras":
                 fg = re.search(r"<!-- figures -->\s*\n((?:\|[^\n]+\n)+)", part)
                 if fg:
                     rows = parse_table(fg.group(1).splitlines())
-                    figures = [{"name": r[0], "role": r[1]} for r in rows if len(r) >= 2]
+                    figures = [
+                        {"name": r[0], "role": r[1]} for r in rows if len(r) >= 2
+                    ]
             elif sid == "cierre":
                 title_m = re.search(r"## title: (.+)", part)
                 closing["title"] = title_m.group(1).strip() if title_m else ""
@@ -265,12 +292,18 @@ def convert(md_path: Path, out_path: Path, export_name: str) -> None:
         out.append("      ],")
         out.append("    },")
     out.append("  ],")
-    out.append("  keyConcepts: " + json.dumps(key_concepts, ensure_ascii=False, indent=2) + ",")
-    out.append("  chronology: " + json.dumps(chronology, ensure_ascii=False, indent=2) + ",")
+    out.append(
+        "  keyConcepts: " + json.dumps(key_concepts, ensure_ascii=False, indent=2) + ","
+    )
+    out.append(
+        "  chronology: " + json.dumps(chronology, ensure_ascii=False, indent=2) + ","
+    )
     out.append("  figures: " + json.dumps(figures, ensure_ascii=False, indent=2) + ",")
     out.append("  closing: {")
     out.append(f"    title: {esc(closing['title'])},")
-    out.append("    lines: " + json.dumps(closing["lines"], ensure_ascii=False, indent=2) + ",")
+    out.append(
+        "    lines: " + json.dumps(closing["lines"], ensure_ascii=False, indent=2) + ","
+    )
     out.append(f"    highlight: {esc(closing['highlight'])},")
     out.append("  },")
     out.append("  footer: {")
@@ -315,7 +348,11 @@ def main() -> None:
     if len(sys.argv) == 1:
         jobs = [
             (ROOT / "summaries/cosmos.md", ROOT / "src/data/cosmos.ts", "cosmos"),
-            (ROOT / "summaries/wonderful-life.md", ROOT / "src/data/wonderful-life.ts", "wonderfulLife"),
+            (
+                ROOT / "summaries/wonderful-life.md",
+                ROOT / "src/data/wonderful-life.ts",
+                "wonderfulLife",
+            ),
         ]
     elif len(sys.argv) == 2 and sys.argv[1] == "--all":
         jobs = [resolve_job(p.stem) for p in sorted((ROOT / "summaries").glob("*.md"))]

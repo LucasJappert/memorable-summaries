@@ -4,8 +4,8 @@ title_es: "Traducción al español del título"
 subtitle: "Subtítulo o pregunta guía (siempre en español)"
 author: "Autor Apellido"
 meta:
-  - "📖 Año · Editorial"
-  - "✍️ Nota extra (postfacio, traducción, etc.)"
+    - "📖 Año · Editorial"
+    - "✍️ Nota extra (postfacio, traducción, etc.)"
 slug: titulo-del-libro
 lang: es
 ---
@@ -18,11 +18,14 @@ lang: es
 # Contenido
 
 <!-- toc: id | num | label -->
-| id | num | label |
-|----|-----|-------|
-| cierre | ★ | La idea central |
-| prefacio | 00 | Prefacio |
-| cap1 | 01 | Título del capítulo 1 |
+
+| id       | num | label                 |
+| -------- | --- | --------------------- |
+| cierre   | ★   | La idea central       |
+| prefacio | 00  | Prefacio              |
+| cap1     | 01  | Título del capítulo 1 |
+
+<!-- Nota: el cierre puede ubicarse al final del flujo de lectura. La TOC sigue listándolo porque el id es necesario. -->
 
 ---
 
@@ -31,9 +34,12 @@ lang: es
 ## title: La idea central
 
 <!-- closing -->
+
 Primera línea de la tesis.
 Segunda línea que desarrolla.
+
 <!-- highlight -->frase más importante<!-- /highlight -->
+
 Cuarta línea.
 Quinta línea.
 Sexta línea poética o memorable.
@@ -43,19 +49,27 @@ Sexta línea poética o memorable.
 # prefacio
 
 ## num: Prefacio
+
 ## title: Título de la sección
 
 <!-- paragraph lead -->
-Texto del primer párrafo. Usar <span class="term">términos</span>, <span class="person">personas</span> y <span class="num">1945</span>.
+<!-- Plantear la pregunta o premisa del capítulo en el primer párrafo. Máximo 25 palabras por oración. -->
+
+¿Qué pregunta responde este capítulo? Usar <span class="term">términos</span>, <span class="person">personas</span> y <span class="num">1945</span>.
 
 <!-- paragraph -->
+<!-- Un ejemplo principal por párrafo. Desarrollarlo con sujeto + verbo. Evitar listas de ejemplos. -->
+
 Segundo párrafo si hace falta. Máximo 3–4 párrafos por sección.
 
 <!-- quote -->
+
 > Texto de la cita entre comillas tipográficas «».
-— Autor
+> — Autor
 
 <!-- key -->
+<!-- Una sola frase que condense la consecuencia del argumento, no una repetición del último párrafo. -->
+
 Una sola frase que resume la sección (sin prefijo «Clave:»).
 
 ---
@@ -63,45 +77,65 @@ Una sola frase que resume la sección (sin prefijo «Clave:»).
 # cap1
 
 ## num: 01
+
 ## title: Título del capítulo
 
+<!-- paragraph lead -->
+<!-- Planteá la pregunta que responde el capítulo. -->
+
+¿Qué pregunta responde este capítulo?
+
 <!-- paragraph -->
+<!-- Desarrollá la respuesta con un ejemplo principal. No encadenar ejemplos con comas. -->
+
 Contenido...
 
 <!-- concept-grid -->
-| icon | title | description |
-|------|-------|-------------|
-| 🌡️ | Nombre del concepto | Definición en una o dos frases cortas. |
-| 📐 | Otro concepto | Otra definición. |
+<!-- Usar este bloque para los ejemplos secundarios, no para el ejemplo principal. -->
+
+| icon | title               | description                            |
+| ---- | ------------------- | -------------------------------------- |
+| 🌡️   | Nombre del concepto | Definición en una o dos frases cortas. |
+| 📐   | Otro concepto       | Otra definición.                       |
 
 <!-- big-numbers -->
-| value | label |
-|-------|-------|
-| ~5% | Materia visible |
-| ~70% | Energía oscura |
+
+| value | label           |
+| ----- | --------------- |
+| ~5%   | Materia visible |
+| ~70%  | Energía oscura  |
 
 <!-- timeline -->
-| year | text |
-|------|------|
+
+| year | text                        |
+| ---- | --------------------------- |
 | 1916 | Qué pasó y por qué importa. |
-| 1929 | Otro hito. |
+| 1929 | Otro hito.                  |
 
 <!-- list -->
+
 - **Término** — explicación breve.
 - **Otro término** — explicación breve.
+
+<!-- bridge -->
+<!-- Una oración que explique por qué el siguiente capítulo es el paso lógico. Usar entre el key y el --- del capítulo (excepto en el último). -->
+
+Una oración de puente al siguiente capítulo.
 
 ---
 
 # conceptos
 
 ## num: ✦
+
 ## title: Conceptos clave
 
 <!-- concept-grid -->
-| title | description |
-|-------|-------------|
+
+| title            | description                       |
+| ---------------- | --------------------------------- |
 | Término global 1 | Definición de memoria (glosario). |
-| Término global 2 | Definición. |
+| Término global 2 | Definición.                       |
 
 <!-- Incluir 6–10 conceptos. Repetir los más importantes de los capítulos. -->
 
@@ -110,11 +144,13 @@ Contenido...
 # cronologia
 
 ## num: ◈
+
 ## title: Cronología de los descubrimientos
 
 <!-- timeline -->
-| year | text |
-|------|------|
+
+| year | text                                 |
+| ---- | ------------------------------------ |
 | AAAA | Evento histórico vinculado al libro. |
 
 ---
@@ -122,11 +158,13 @@ Contenido...
 # figuras
 
 ## num: ✦
+
 ## title: Figuras clave
 
 <!-- figures -->
-| name | role |
-|------|------|
+
+| name            | role                                  |
+| --------------- | ------------------------------------- |
 | Nombre Apellido | Contribución principal · segundo dato |
 
 ---

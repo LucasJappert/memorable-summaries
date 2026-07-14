@@ -5,7 +5,7 @@ Usá este prompt **después** de generar `summaries/<slug>.md` (Paso A) y **ante
 **Salida:** un diagnóstico accionable (JSON o lista) con qué secciones reescribir y qué ideas faltan.
 
 > **Diferencia con 01c.** `01c` es un corrector **de prosa** conservador (gramática, repeticiones,
-> telegráfico) que *no mejora un resumen flojo*. `01b` es lo contrario: revisa **contenido** —si el
+> telegráfico) que _no mejora un resumen flojo_. `01b` es lo contrario: revisa **contenido** —si el
 > resumen captura el argumento del libro— y **puede pedir reescrituras**. Orden: `01b` (fidelidad) → reescribir lo que marque → `01c` (prosa).
 
 ---
@@ -22,15 +22,14 @@ acá; señalás qué reescribir y por qué.
 Para cada dimensión, marcá `ok`, `flojo` o `falla` y justificá en 1 oración.
 
 1. **Cobertura de capítulos** — ¿Están todos los capítulos del índice real? ¿En orden? ¿Alguno fusionado o ausente?
-2. **Idea principal por capítulo** — ¿Cada `# capN` transmite la tesis del capítulo (afirmación, no tema)?
-   ¿El bloque `<!-- key -->` expresa esa idea y no un dato lateral?
-3. **Cadena argumental** — ¿Aparece el *por qué* (evidencia/razonamiento), no solo el *qué*?
-   ¿Se entiende de qué quiere convencer el autor en cada capítulo?
-4. **Hilo conductor** — ¿Se percibe cómo avanza el libro de un capítulo al siguiente, o son piezas sueltas?
-5. **Tesis en el cierre** — ¿El `# cierre` refleja la tesis global del esqueleto (no un tópico genérico)?
-6. **Fidelidad factual** — ¿Hay citas, cifras o fechas que **no** están en el libro? (verificar contra `.extracted`)
-   Marcá cualquier dato sospechoso de invención.
-7. **Balance ancla/argumento** — ¿Algún capítulo argumentativo quedó reducido a `big-numbers`/`timeline`/`concept-grid` sin su tesis?
+2. **Idea principal por capítulo** — ¿Cada `# capN` transmite la tesis del capítulo (afirmación, no tema)? ¿El `<!-- paragraph lead -->` plantea la pregunta del capítulo? ¿El bloque `<!-- key -->` expresa esa idea y no un dato lateral?
+3. **Cadena argumental** — ¿Aparece el _por qué_ (evidencia/razonamiento), no solo el _qué_? ¿Se entiende de qué quiere convencer el autor en cada capítulo?
+4. **Legibilidad de principio a fin** — ¿Algún párrafo es un catálogo de ejemplos (listitis)? ¿Hay oraciones de más de 25 palabras? ¿Hay más de 3–4 spans (`<span class="...">`) por párrafo? ¿Cada capítulo se puede leer sin releer oraciones?
+5. **Hilo conductor** — ¿Se percibe cómo avanza el libro de un capítulo al siguiente? ¿Hay `<!-- bridge -->` al final de los capítulos, o al menos conectores claros entre secciones?
+6. **Tesis en el cierre** — ¿El `# cierre` refleja la tesis global del esqueleto (no un tópico genérico)?
+7. **Fidelidad factual** — ¿Hay citas, cifras o fechas que **no** están en el libro? (verificar contra `.extracted`) Marcá cualquier dato sospechoso de invención.
+8. **Balance ancla/argumento** — ¿Algún capítulo argumentativo quedó reducido a `big-numbers`/`timeline`/`concept-grid` sin su tesis?
+9. **Key vs. párrafo anterior** — ¿El `<!-- key -->` repite casi literalmente el último párrafo? Debe condensar la consecuencia, no repetir la idea.
 
 ## Salida
 
@@ -38,28 +37,28 @@ Devolvé un diagnóstico con esta forma (podés usar JSON o lista markdown):
 
 ```json
 {
-  "veredicto": "aprobado | requiere_reescritura",
-  "rubrica": {
-    "cobertura": "ok|flojo|falla — justificación",
-    "idea_principal": "…",
-    "cadena_argumental": "…",
-    "hilo_conductor": "…",
-    "tesis_cierre": "…",
-    "fidelidad_factual": "…",
-    "balance": "…"
-  },
-  "capitulos_faltantes": ["cap7", "cap11"],
-  "secciones_a_reescribir": [
-    {
-      "seccion": "cap4",
-      "motivo": "Quedó como lista de fechas; falta la tesis del capítulo.",
-      "idea_a_incluir": "<la idea principal según el esqueleto>",
-      "que_agregar": "el porqué / la evidencia que el autor usa"
-    }
-  ],
-  "datos_sospechosos": [
-    { "seccion": "cap2", "dato": "«cita X»", "razon": "no aparece en .extracted" }
-  ]
+    "veredicto": "aprobado | requiere_reescritura",
+    "rubrica": {
+        "cobertura": "ok|flojo|falla — justificación",
+        "idea_principal": "…",
+        "cadena_argumental": "…",
+        "legibilidad": "…",
+        "hilo_conductor": "…",
+        "tesis_cierre": "…",
+        "fidelidad_factual": "…",
+        "balance": "…",
+        "key_no_repetido": "…"
+    },
+    "capitulos_faltantes": ["cap7", "cap11"],
+    "secciones_a_reescribir": [
+        {
+            "seccion": "cap4",
+            "motivo": "Quedó como lista de fechas; falta la tesis del capítulo.",
+            "idea_a_incluir": "<la idea principal según el esqueleto>",
+            "que_agregar": "el porqué / la evidencia que el autor usa"
+        }
+    ],
+    "datos_sospechosos": [{ "seccion": "cap2", "dato": "«cita X»", "razon": "no aparece en .extracted" }]
 }
 ```
 
@@ -68,7 +67,7 @@ Devolvé un diagnóstico con esta forma (podés usar JSON o lista markdown):
 - **Sé concreto:** cada crítica debe apuntar a una sección y decir qué falta o qué sobra.
 - **No reescribas el resumen acá:** solo diagnosticá. La reescritura se hace aplicando este diagnóstico
   con `01-resumen-desde-libro.md` sobre las secciones marcadas.
-- **Priorizá contenido sobre estilo:** las cuestiones de prosa las maneja `01c`. Acá importa el argumento.
+- **Priorizá contenido y legibilidad:** las cuestiones de prosa las maneja `01c`, pero si un capítulo es ilegible por listitis u oraciones largas, marcá `legibilidad` como `falla` y pedí reescritura.
 - **`aprobado`** solo si `secciones_a_reescribir` está vacío y ninguna dimensión está en `falla`.
 
 ## Ciclo

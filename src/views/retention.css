@@ -87,8 +87,6 @@
   border-radius: var(--radius);
   background: var(--surface);
   color: inherit;
-  cursor: pointer;
-  padding: 0;
 }
 
 .flashcard__inner {
@@ -99,8 +97,16 @@
   justify-content: center;
 }
 
+.flashcard__face--back {
+  display: none;
+}
+
 .flashcard__card--flipped .flashcard__face--front {
   display: none;
+}
+
+.flashcard__card--flipped .flashcard__face--back {
+  display: block;
 }
 
 .flashcard__prompt {
@@ -116,10 +122,19 @@
   line-height: 1.6;
 }
 
-.flashcard__hint {
-  margin-top: 0.75rem;
-  font-size: 0.85rem;
-  color: var(--text2);
+.flashcard__reveal,
+.flashcard__btn {
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface2);
+  color: var(--text);
+  padding: 0.75rem 0.4rem;
+  font: inherit;
+  cursor: pointer;
+}
+
+.flashcard__reveal {
+  width: 100%;
 }
 
 .flashcard__actions {
@@ -129,13 +144,7 @@
 }
 
 .flashcard__btn {
-  border: 1px solid var(--border);
-  border-radius: var(--radius);
-  background: var(--surface2);
-  color: var(--text);
   padding: 0.6rem 0.4rem;
-  font: inherit;
-  cursor: pointer;
 }
 
 .flashcard__btn--again { border-color: #c45; }

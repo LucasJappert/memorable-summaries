@@ -17,8 +17,9 @@ const route = useRoute()
 const router = useRouter()
 
 const flipped = ref(false)
-const currentIndex = ref(0)
 const sessionCards = ref<SrsCardState[]>([])
+const queue = ref<SrsCardState[]>([])
+const completedCount = ref(0)
 const finished = ref(false)
 
 const activeSlug = computed(() => props.slug || (route.params.slug as string | undefined))
@@ -30,10 +31,10 @@ const displayTitle = computed(() => {
   return book.meta.titleEs?.trim() || book.meta.title
 })
 
-const currentCard = computed(() => sessionCards.value[currentIndex.value] ?? null)
+const currentCard = computed(() => queue.value[0] ?? null)
 const progressLabel = computed(() => {
   if (!sessionCards.value.length) return '0 / 0'
-  return `${currentIndex.value + 1} / ${sessionCards.value.length}`
+  return `${completedCount.value} / ${sessionCards.value.length}`
 })
 
 function loadSession() {
@@ -43,7 +44,8 @@ function loadSession() {
   } else {
     sessionCards.value = getDueCards()
   }
-  currentIndex.value = 0
+  queue.value = sessionCards.value.slice()
+  completedCount.value = 0
   flipped.value = false
   finished.value = sessionCards.value.length === 0
 }
@@ -56,15 +58,23 @@ function answer(quality: ReviewQuality) {
   const card = currentCard.value
   if (!card) return
 
-  recordReview(card.id, quality)
-  flipped.value = false
-
-  if (currentIndex.value >= sessionCards.value.length - 1) {
-    finished.value = true
+  if (quality === 'again') {
+    // No se acepta: la tarjeta vuelve al final de la cola sin marcar como completa.
+    queue.value.shift()
+    queue.value.push(card)
+    flipped.value = false
     return
   }
 
-  currentIndex.value += 1
+  // El usuario acepta la respuesta: se registra la revisión y se marca como completa.
+  recordReview(card.id, quality)
+  queue.value.shift()
+  completedCount.value += 1
+  flipped.value = false
+
+  if (queue.value.length === 0) {
+    finished.value = true
+  }
 }
 
 function restart() {
@@ -85,10 +95,9 @@ function exportTsv() {
   const book = getBookBySlug(slug)
   if (!book?.keyConcepts.length) return
 
-  const title = displayTitle.value
   const rows = book.keyConcepts.map((concept) => {
-    const front = concept.title.replace(/\t/g, ' ')
-    const back = `${concept.description.replace(/\t/g, ' ')}\n\n— ${title}`
+    const front = concept.description.replace(/\t/g, ' ')
+    const back = concept.title.replace(/\t/g, ' ')
     return `${front}\t${back}\tmemorable::${slug}`
   })
   const tsv = ['Front\tBack\tTags', ...rows].join('\n')
@@ -133,28 +142,31 @@ onMounted(() => {
     </div>
 
     <div v-else-if="currentCard" class="flashcard">
-      <button
-        type="button"
-        class="flashcard__card"
-        :class="{ 'flashcard__card--flipped': flipped }"
-        @click="!flipped && reveal()"
-      >
+      <div class="flashcard__card" :class="{ 'flashcard__card--flipped': flipped }">
         <div class="flashcard__inner">
           <div class="flashcard__face flashcard__face--front">
-            <p class="flashcard__prompt">Frente</p>
+            <p class="flashcard__prompt">Pregunta</p>
             <p class="flashcard__text">{{ currentCard.front }}</p>
-            <span class="flashcard__hint">Tocá para ver la respuesta</span>
           </div>
           <div class="flashcard__face flashcard__face--back">
-            <p class="flashcard__prompt">Reverso</p>
+            <p class="flashcard__prompt">Respuesta</p>
             <p class="flashcard__text">{{ currentCard.back }}</p>
           </div>
         </div>
+      </div>
+
+      <button
+        v-if="!flipped"
+        type="button"
+        class="flashcard__reveal"
+        @click="reveal"
+      >
+        Ver respuesta
       </button>
 
-      <div v-if="flipped" class="flashcard__actions">
+      <div v-else class="flashcard__actions">
         <button type="button" class="flashcard__btn flashcard__btn--again" @click="answer('again')">
-          Otra vez
+          No sabía
         </button>
         <button type="button" class="flashcard__btn flashcard__btn--hard" @click="answer('hard')">
           Difícil
