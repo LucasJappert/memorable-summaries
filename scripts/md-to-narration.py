@@ -290,10 +290,19 @@ def md_to_narration(md_path: Path) -> str:
             continue
 
         if stripped.startswith("<!--"):
-            comment = stripped.strip("<!- ").rstrip("->").strip()
-            pending_comment = comment
-            i += 1
-            continue
+            # Inline wrappers keep their text:
+            #   <!-- highlight -->frase…<!-- /highlight -->
+            # Pure markers only set pending_comment:
+            #   <!-- key -->, <!-- closing -->, <!-- quote -->
+            text_only = re.sub(r"<!--.*?-->", "", stripped).strip()
+            if text_only:
+                stripped = text_only
+            else:
+                m = re.match(r"<!--\s*(.*?)\s*-->", stripped)
+                comment = (m.group(1).strip() if m else "")
+                pending_comment = "" if comment.startswith("/") else comment
+                i += 1
+                continue
 
         if stripped.startswith("|"):
             table_lines = []
