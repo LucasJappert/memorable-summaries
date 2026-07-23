@@ -2,7 +2,6 @@
 import { computed } from 'vue'
 import type { BookMeta } from '../types/book'
 import { bookHasAudio } from '../books/audio-catalog'
-import AudioPlayer from './AudioPlayer.vue'
 import CoverArt from './CoverArt.vue'
 import EnvelopeIcon from './icons/EnvelopeIcon.vue'
 
@@ -12,19 +11,15 @@ const props = withDefaults(
     slug: string
     done?: boolean
     hideAudio?: boolean
-    /** Si es false, oculta el reproductor flotante */
-    floatAudio?: boolean
   }>(),
-  { floatAudio: true },
+  {},
 )
 
 const emit = defineEmits<{
   toggleRead: []
-  closeAudio: []
 }>()
 
-const hasAudio = computed(() => bookHasAudio(props.slug))
-const showAudio = computed(() => hasAudio.value && !props.hideAudio && props.floatAudio)
+const hasAudio = computed(() => bookHasAudio(props.slug) && !props.hideAudio)
 </script>
 
 <template>
@@ -48,9 +43,6 @@ const showAudio = computed(() => hasAudio.value && !props.hideAudio && props.flo
       <p class="meta">
         <span v-for="item in meta.meta" :key="item">{{ item }}</span>
       </p>
-      <Teleport v-if="showAudio" to="body">
-        <AudioPlayer :slug="slug" floating class="hero__audio" @close="emit('closeAudio')" />
-      </Teleport>
       <div class="hero__actions">
         <div class="hero__read-toggle">
           <EnvelopeIcon class="hero__read-toggle-icon" aria-hidden="true" />

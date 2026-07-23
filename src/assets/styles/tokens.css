@@ -20,4 +20,6 @@
   --book-font-size-mobile: 18px;
   /* Altura reservada para AppBottomBar (pill + pequeño respiro; safe-area va aparte en app-shell) */
   --bottom-bar-clearance: 4rem;
+  /* Mini-player full-width encima de la bottom bar */
+  --audio-mini-clearance: 4.5rem;
 }

@@ -33,11 +33,96 @@
     0 10px 36px rgba(0, 0, 0, 0.45),
     inset 0 1px 0 rgba(255, 255, 255, 0.1);
 }
+
+.app-bottom-bar__eq {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 2px;
+  padding: 0.35rem 0.55rem;
+  pointer-events: none;
+  opacity: 0.55;
+  mask-image: linear-gradient(
+    90deg,
+    transparent 0%,
+    #000 12%,
+    #000 88%,
+    transparent 100%
+  );
+  -webkit-mask-image: linear-gradient(
+    90deg,
+    transparent 0%,
+    #000 12%,
+    #000 88%,
+    transparent 100%
+  );
+}
+
+.app-bottom-bar__eq-bar {
+  flex: 1 1 0;
+  min-width: 2px;
+  max-width: 4px;
+  height: 35%;
+  border-radius: 99px 99px 0 0;
+  background: linear-gradient(
+    180deg,
+    color-mix(in srgb, var(--accent3) 85%, #fff) 0%,
+    color-mix(in srgb, var(--accent) 70%, transparent) 100%
+  );
+  transform-origin: bottom center;
+  animation: bottom-bar-eq 0.85s ease-in-out infinite;
+  opacity: 0.85;
+}
+
+.app-bottom-bar__eq-bar:nth-child(3n) {
+  animation-duration: 1.05s;
+}
+
+.app-bottom-bar__eq-bar:nth-child(4n) {
+  animation-duration: 0.7s;
+  height: 45%;
+}
+
+.app-bottom-bar__eq-bar:nth-child(5n) {
+  animation-duration: 1.2s;
+  height: 28%;
+}
+
+@keyframes bottom-bar-eq {
+  0%,
+  100% {
+    transform: scaleY(0.35);
+    opacity: 0.45;
+  }
+  40% {
+    transform: scaleY(1);
+    opacity: 0.95;
+  }
+  70% {
+    transform: scaleY(0.55);
+    opacity: 0.65;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .app-bottom-bar__eq-bar {
+    animation: none;
+    transform: scaleY(0.55);
+    opacity: 0.4;
+  }
+}
+
+.app-bottom-bar__pill--playing {
+  border-color: color-mix(in srgb, var(--accent3) 35%, rgba(255, 255, 255, 0.12));
+}
 .app-bottom-bar--library .app-bottom-bar__pill {
-  max-width: min(100%, 26rem);
+  max-width: min(100%, 28rem);
 }
 .app-bottom-bar--book .app-bottom-bar__pill {
-  max-width: min(100%, 30rem);
+  max-width: min(100%, 34rem);
 }
 .app-bottom-bar__pill--wide {
   max-width: min(100%, 28rem);
@@ -122,6 +207,22 @@
   background: rgba(255, 255, 255, 0.16);
   color: var(--accent3);
   box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.08);
+}
+.app-bottom-bar__badge {
+  position: absolute;
+  top: 0.15rem;
+  right: 0.1rem;
+  min-width: 1rem;
+  height: 1rem;
+  padding: 0 0.22rem;
+  border-radius: 999px;
+  font-size: 0.58rem;
+  font-weight: 700;
+  line-height: 1rem;
+  text-align: center;
+  color: #0a101c;
+  background: var(--accent3);
+  pointer-events: none;
 }
 .app-bottom-bar__btn--no-audio {
   opacity: 0.42;

@@ -6,6 +6,7 @@ import {
   writeAudioPosition,
 } from '../reading/audio-storage'
 import { audioUrl, publicAssetUrl } from '../utils/audioUrl'
+import { coverImageUrl } from '../utils/coverImage'
 
 const SKIP_SECONDS = 10
 const SAVE_INTERVAL_MS = 2000
@@ -16,22 +17,71 @@ const props = withDefaults(
     audioSrc?: string
     /** Si es false, no se muestra el reproductor */
     available?: boolean
-    /** Fijo abajo a la derecha (~300px) */
+    /** Fijo abajo a la derecha (~300px) — legado */
     floating?: boolean
     /** Siempre fijo arriba (legado / casos puntuales) */
     dockTop?: boolean
+    /** Mini full-width encima de la bottom bar */
+    bar?: boolean
+    /** Panel expandido a pantalla completa */
+    expanded?: boolean
+    /** Título corto debajo del progreso (cola global) */
+    trackTitle?: string
+    /** Subtítulo (autor) */
+    trackSubtitle?: string
+    /** Pedir autoplay tras cargar metadata */
+    autoplay?: boolean
+    /** Pedir pause remoto */
+    pauseRequest?: boolean
+    /** Pedir resume remoto */
+    resumeRequest?: boolean
+    /** Pedir seek a 0 */
+    seekZeroRequest?: boolean
+    /** Mostrar prev/next de cola */
+    showTransport?: boolean
   }>(),
-  { available: undefined, floating: false, dockTop: false },
+  {
+    available: undefined,
+    floating: false,
+    dockTop: false,
+    bar: false,
+    expanded: false,
+    autoplay: false,
+    pauseRequest: false,
+    resumeRequest: false,
+    seekZeroRequest: false,
+    showTransport: false,
+  },
 )
 
 const emit = defineEmits<{
   play: []
   pause: []
   close: []
+  ended: []
+  openQueue: []
+  prev: []
+  next: []
+  expand: []
+  collapse: []
+  progress: [payload: { currentTime: number; duration: number }]
+  pauseConsumed: []
+  resumeConsumed: []
+  seekZeroConsumed: []
 }>()
 
 const src = computed(() =>
   props.audioSrc ? publicAssetUrl(props.audioSrc) : audioUrl(props.slug),
+)
+
+const coverSrc = computed(() => coverImageUrl(props.slug))
+const coverFailed = ref(false)
+
+watch(
+  () => props.slug,
+  () => {
+    coverFailed.value = false
+  },
 )
 
 const rootEl = ref<HTMLElement | null>(null)
@@ -56,6 +106,8 @@ const timeLabel = computed(
   () => `${formatTime(currentTime.value)} / ${formatTime(duration.value)}`,
 )
 
+const isChrome = computed(() => props.bar || props.expanded || props.floating || props.dockTop)
+
 watch(
   () => props.available,
   (value) => {
@@ -75,7 +127,50 @@ watch(src, () => {
   audioEl.value?.pause()
   audioEl.value?.load()
   loadSavedPosition()
+  emitProgress()
 })
+
+watch(
+  () => props.pauseRequest,
+  (want) => {
+    if (!want) return
+    audioEl.value?.pause()
+    emit('pauseConsumed')
+  },
+)
+
+watch(
+  () => props.resumeRequest,
+  (want) => {
+    if (!want) return
+    const audio = audioEl.value
+    if (!audio) {
+      emit('resumeConsumed')
+      return
+    }
+    restorePosition()
+    void audio.play().catch(() => {
+      /* autoplay bloqueado */
+    })
+    emit('resumeConsumed')
+  },
+)
+
+watch(
+  () => props.seekZeroRequest,
+  (want) => {
+    if (!want) return
+    const audio = audioEl.value
+    if (audio) {
+      audio.currentTime = 0
+      currentTime.value = 0
+      hasEnded.value = false
+      persistPosition(true)
+      emitProgress()
+    }
+    emit('seekZeroConsumed')
+  },
+)
 
 function loadSavedPosition() {
   const saved = readAudioPosition(props.slug)
@@ -94,6 +189,13 @@ function formatTime(seconds: number): string {
   const minutes = Math.floor(seconds / 60)
   const secs = Math.floor(seconds % 60)
   return `${minutes}:${secs.toString().padStart(2, '0')}`
+}
+
+function emitProgress() {
+  emit('progress', {
+    currentTime: currentTime.value,
+    duration: duration.value,
+  })
 }
 
 function persistPosition(force = false) {
@@ -156,11 +258,11 @@ function skip(seconds: number) {
   audio.currentTime = next
   currentTime.value = next
   persistPosition(true)
+  emitProgress()
 }
 
 function closePlayer() {
   persistPosition(true)
-  audioEl.value?.pause()
   emit('close')
 }
 
@@ -180,15 +282,26 @@ function onTimeUpdate() {
   if (isDragging.value) return
   if (audioEl.value) currentTime.value = audioEl.value.currentTime
   persistPosition()
+  emitProgress()
 }
 
 function onLoadedMetadata() {
   if (audioEl.value) duration.value = audioEl.value.duration
   restorePosition()
+  emitProgress()
+  tryAutoplay()
 }
+
+watch(
+  () => props.autoplay,
+  (want) => {
+    if (want) tryAutoplay()
+  },
+)
 
 function onDurationChange() {
   restorePosition()
+  emitProgress()
 }
 
 function onEnded() {
@@ -198,6 +311,18 @@ function onEnded() {
     currentTime.value = audioEl.value.duration
   }
   clearAudioPosition(props.slug)
+  emitProgress()
+  emit('ended')
+}
+
+function tryAutoplay() {
+  if (!props.autoplay) return
+  const audio = audioEl.value
+  if (!audio) return
+  restorePosition()
+  void audio.play().catch(() => {
+    /* autoplay bloqueado por el navegador */
+  })
 }
 
 function onError() {
@@ -213,6 +338,7 @@ function seekTo(ratio: number) {
   if (hasEnded.value && next < duration.value - 0.25) {
     hasEnded.value = false
   }
+  emitProgress()
 }
 
 function seekFromClientX(clientX: number) {
@@ -275,6 +401,15 @@ function onVisibilityChange() {
   if (document.visibilityState === 'hidden') persistPosition(true)
 }
 
+function onCoverError() {
+  coverFailed.value = true
+}
+
+function onExpandClick() {
+  if (props.expanded) emit('collapse')
+  else emit('expand')
+}
+
 onMounted(() => {
   loadSavedPosition()
   window.addEventListener('beforeunload', () => persistPosition(true))
@@ -289,7 +424,7 @@ onBeforeUnmount(() => {
   audioEl.value?.pause()
 })
 
-defineExpose({ rootEl })
+defineExpose({ rootEl, skip, togglePlay })
 </script>
 
 <template>
@@ -300,6 +435,8 @@ defineExpose({ rootEl })
     :class="{
       'audio-player--floating': floating || dockTop,
       'audio-player--dock-top': dockTop,
+      'audio-player--bar': bar && !expanded,
+      'audio-player--expanded': expanded,
     }"
     role="group"
     aria-label="Reproductor de audio del resumen"
@@ -317,120 +454,352 @@ defineExpose({ rootEl })
       @error="onError"
     />
 
-    <button
-      type="button"
-      class="audio-player__btn audio-player__btn--play"
-      :aria-label="hasEnded ? 'Volver a empezar' : playing ? 'Pausar narración' : 'Reproducir narración'"
-      :aria-pressed="playing"
-      @click="togglePlay"
-    >
-      <svg
-        v-if="hasEnded"
-        class="audio-player__icon"
-        viewBox="0 0 24 24"
-        aria-hidden="true"
-        focusable="false"
-      >
-        <path
-          d="M12 5V1l-5 5 5 5V7c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6H4c0 4.42 3.58 8 8 8s8-3.58 8-8-3.58-8-8-8z"
-          fill="currentColor"
-        />
-      </svg>
-      <svg
-        v-else-if="!playing"
-        class="audio-player__icon"
-        viewBox="0 0 24 24"
-        aria-hidden="true"
-        focusable="false"
-      >
-        <path d="M8 5v14l11-7z" fill="currentColor" />
-      </svg>
-      <svg
-        v-else
-        class="audio-player__icon"
-        viewBox="0 0 24 24"
-        aria-hidden="true"
-        focusable="false"
-      >
-        <path d="M6 5h4v14H6zm8 0h4v14h-4z" fill="currentColor" />
-      </svg>
-    </button>
-
-    <button
-      type="button"
-      class="audio-player__btn audio-player__btn--skip"
-      aria-label="Retroceder 10 segundos"
-      @click="skip(-SKIP_SECONDS)"
-    >
-      <svg class="audio-player__skip-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-        <path
-          d="M11.99 5V1l-5 5 5 5V7c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6H4c0 4.42 3.58 8 8 8s8-3.58 8-8-3.58-8-8-8z"
-          fill="currentColor"
-        />
-      </svg>
-      <span class="audio-player__skip-label">10</span>
-    </button>
-
-    <div class="audio-player__track">
+    <!-- Mini bar / expanded chrome -->
+    <template v-if="bar || expanded">
       <div
-        ref="progressEl"
-        class="audio-player__progress"
-        :class="{ 'audio-player__progress--dragging': isDragging }"
-        role="slider"
-        tabindex="0"
-        :aria-valuemin="0"
-        :aria-valuemax="Math.floor(duration)"
-        :aria-valuenow="Math.floor(currentTime)"
-        :aria-valuetext="timeLabel"
-        aria-label="Progreso de la narración"
-        @pointerdown="onProgressPointerDown"
-        @pointermove="onProgressPointerMove"
-        @pointerup="onProgressPointerUp"
-        @pointercancel="onProgressPointerUp"
-        @keydown="onProgressKeydown"
+        v-if="bar && !expanded"
+        class="audio-player__bar-progress"
+        aria-hidden="true"
       >
-        <div class="audio-player__progress-fill" :style="{ width: `${progress}%` }" />
-        <div
-          class="audio-player__progress-thumb"
-          :style="{ left: `${progress}%` }"
-          aria-hidden="true"
-        />
+        <div class="audio-player__bar-progress-fill" :style="{ width: `${progress}%` }" />
       </div>
-      <span class="audio-player__time" aria-hidden="true">{{ timeLabel }}</span>
-    </div>
 
-    <button
-      type="button"
-      class="audio-player__btn audio-player__btn--skip"
-      aria-label="Adelantar 10 segundos"
-      @click="skip(SKIP_SECONDS)"
-    >
-      <svg class="audio-player__skip-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-        <path
-          d="M12 5V1l5 5-5 5V7c-3.31 0-6 2.69-6 6s2.69 6 6 6 6-2.69 6-6h2c0 4.42-3.58 8-8 8s-8-3.58-8-8 3.58-8 8-8z"
-          fill="currentColor"
-        />
-      </svg>
-      <span class="audio-player__skip-label">10</span>
-    </button>
+      <button
+        v-if="expanded"
+        type="button"
+        class="audio-player__collapse"
+        aria-label="Minimizar reproductor"
+        @click="emit('collapse')"
+      >
+        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+          <path d="M7.41 8.59 12 13.17l4.59-4.58L18 10l-6 6-6-6 1.41-1.41z" fill="currentColor" />
+        </svg>
+      </button>
 
-    <button
-      v-if="floating || dockTop"
-      type="button"
-      class="audio-player__btn audio-player__btn--close"
-      aria-label="Ocultar reproductor"
-      @click="closePlayer"
-    >
-      <svg class="audio-player__close-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-        <path
-          d="M6.4 6.4 17.6 17.6M17.6 6.4 6.4 17.6"
-          fill="none"
-          stroke="currentColor"
-          stroke-width="2.2"
-          stroke-linecap="round"
+      <button
+        type="button"
+        class="audio-player__cover-btn"
+        :aria-label="expanded ? 'Minimizar' : 'Expandir reproductor'"
+        @click="onExpandClick"
+      >
+        <img
+          v-if="!coverFailed"
+          class="audio-player__cover"
+          :src="coverSrc"
+          alt=""
+          @error="onCoverError"
         />
-      </svg>
-    </button>
+        <div v-else class="audio-player__cover audio-player__cover--fallback" aria-hidden="true">
+          {{ (trackTitle || slug).slice(0, 1).toUpperCase() }}
+        </div>
+      </button>
+
+      <div class="audio-player__main">
+        <button
+          type="button"
+          class="audio-player__identity"
+          :aria-label="expanded ? 'Minimizar' : 'Expandir reproductor'"
+          @click="onExpandClick"
+        >
+          <span class="audio-player__title">{{ trackTitle || slug }}</span>
+          <span v-if="trackSubtitle" class="audio-player__subtitle">{{ trackSubtitle }}</span>
+        </button>
+
+        <div
+          v-if="expanded"
+          ref="progressEl"
+          class="audio-player__progress"
+          :class="{ 'audio-player__progress--dragging': isDragging }"
+          role="slider"
+          tabindex="0"
+          :aria-valuemin="0"
+          :aria-valuemax="Math.floor(duration)"
+          :aria-valuenow="Math.floor(currentTime)"
+          :aria-valuetext="timeLabel"
+          aria-label="Progreso de la narración"
+          @pointerdown="onProgressPointerDown"
+          @pointermove="onProgressPointerMove"
+          @pointerup="onProgressPointerUp"
+          @pointercancel="onProgressPointerUp"
+          @keydown="onProgressKeydown"
+        >
+          <div class="audio-player__progress-fill" :style="{ width: `${progress}%` }" />
+          <div
+            class="audio-player__progress-thumb"
+            :style="{ left: `${progress}%` }"
+            aria-hidden="true"
+          />
+        </div>
+        <div v-if="expanded" class="audio-player__meta">
+          <span class="audio-player__time" aria-hidden="true">{{ timeLabel }}</span>
+        </div>
+
+        <div class="audio-player__transport">
+          <button
+            v-if="showTransport"
+            type="button"
+            class="audio-player__btn audio-player__btn--skip"
+            aria-label="Anterior"
+            @click="emit('prev')"
+          >
+            <svg class="audio-player__skip-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+              <path d="M15.41 7.41 14 6l-6 6 6 6 1.41-1.41L10.83 12z" fill="currentColor" />
+            </svg>
+          </button>
+
+          <button
+            v-if="expanded"
+            type="button"
+            class="audio-player__btn audio-player__btn--skip"
+            aria-label="Retroceder 10 segundos"
+            @click="skip(-SKIP_SECONDS)"
+          >
+            <svg class="audio-player__skip-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+              <path
+                d="M11.99 5V1l-5 5 5 5V7c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6H4c0 4.42 3.58 8 8 8s8-3.58 8-8-3.58-8-8-8z"
+                fill="currentColor"
+              />
+            </svg>
+            <span class="audio-player__skip-label">10</span>
+          </button>
+
+          <button
+            type="button"
+            class="audio-player__btn audio-player__btn--play"
+            :aria-label="hasEnded ? 'Volver a empezar' : playing ? 'Pausar narración' : 'Reproducir narración'"
+            :aria-pressed="playing"
+            @click="togglePlay"
+          >
+            <svg
+              v-if="hasEnded"
+              class="audio-player__icon"
+              viewBox="0 0 24 24"
+              aria-hidden="true"
+              focusable="false"
+            >
+              <path
+                d="M12 5V1l-5 5 5 5V7c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6H4c0 4.42 3.58 8 8 8s8-3.58 8-8-3.58-8-8-8z"
+                fill="currentColor"
+              />
+            </svg>
+            <svg
+              v-else-if="!playing"
+              class="audio-player__icon"
+              viewBox="0 0 24 24"
+              aria-hidden="true"
+              focusable="false"
+            >
+              <path d="M8 5v14l11-7z" fill="currentColor" />
+            </svg>
+            <svg
+              v-else
+              class="audio-player__icon"
+              viewBox="0 0 24 24"
+              aria-hidden="true"
+              focusable="false"
+            >
+              <path d="M6 5h4v14H6zm8 0h4v14h-4z" fill="currentColor" />
+            </svg>
+          </button>
+
+          <button
+            v-if="expanded"
+            type="button"
+            class="audio-player__btn audio-player__btn--skip"
+            aria-label="Adelantar 10 segundos"
+            @click="skip(SKIP_SECONDS)"
+          >
+            <svg class="audio-player__skip-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+              <path
+                d="M12 5V1l5 5-5 5V7c-3.31 0-6 2.69-6 6s2.69 6 6 6 6-2.69 6-6h2c0 4.42-3.58 8-8 8s-8-3.58-8-8 3.58-8 8-8z"
+                fill="currentColor"
+              />
+            </svg>
+            <span class="audio-player__skip-label">10</span>
+          </button>
+
+          <button
+            v-if="showTransport"
+            type="button"
+            class="audio-player__btn audio-player__btn--skip"
+            aria-label="Siguiente"
+            @click="emit('next')"
+          >
+            <svg class="audio-player__skip-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+              <path d="M10 6 8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" fill="currentColor" />
+            </svg>
+          </button>
+        </div>
+      </div>
+
+      <button
+        type="button"
+        class="audio-player__btn audio-player__btn--queue"
+        aria-label="Abrir cola de reproducción"
+        @click="emit('openQueue')"
+      >
+        <svg class="audio-player__queue-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+          <path
+            d="M4 6h12v2H4V6zm0 5h12v2H4v-2zm0 5h8v2H4v-2zm13-1v4l3.5-2L17 15z"
+            fill="currentColor"
+          />
+        </svg>
+      </button>
+
+      <button
+        v-if="!expanded"
+        type="button"
+        class="audio-player__btn audio-player__btn--close"
+        aria-label="Ocultar reproductor"
+        @click="closePlayer"
+      >
+        <svg class="audio-player__close-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+          <path
+            d="M6.4 6.4 17.6 17.6M17.6 6.4 6.4 17.6"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2.2"
+            stroke-linecap="round"
+          />
+        </svg>
+      </button>
+    </template>
+
+    <!-- Layout clásico (hero / floating legado) -->
+    <template v-else>
+      <button
+        type="button"
+        class="audio-player__btn audio-player__btn--play"
+        :aria-label="hasEnded ? 'Volver a empezar' : playing ? 'Pausar narración' : 'Reproducir narración'"
+        :aria-pressed="playing"
+        @click="togglePlay"
+      >
+        <svg
+          v-if="hasEnded"
+          class="audio-player__icon"
+          viewBox="0 0 24 24"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <path
+            d="M12 5V1l-5 5 5 5V7c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6H4c0 4.42 3.58 8 8 8s8-3.58 8-8-3.58-8-8-8z"
+            fill="currentColor"
+          />
+        </svg>
+        <svg
+          v-else-if="!playing"
+          class="audio-player__icon"
+          viewBox="0 0 24 24"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <path d="M8 5v14l11-7z" fill="currentColor" />
+        </svg>
+        <svg
+          v-else
+          class="audio-player__icon"
+          viewBox="0 0 24 24"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <path d="M6 5h4v14H6zm8 0h4v14h-4z" fill="currentColor" />
+        </svg>
+      </button>
+
+      <button
+        type="button"
+        class="audio-player__btn audio-player__btn--skip"
+        aria-label="Retroceder 10 segundos"
+        @click="skip(-SKIP_SECONDS)"
+      >
+        <svg class="audio-player__skip-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+          <path
+            d="M11.99 5V1l-5 5 5 5V7c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6H4c0 4.42 3.58 8 8 8s8-3.58 8-8-3.58-8-8-8z"
+            fill="currentColor"
+          />
+        </svg>
+        <span class="audio-player__skip-label">10</span>
+      </button>
+
+      <div class="audio-player__track">
+        <div
+          ref="progressEl"
+          class="audio-player__progress"
+          :class="{ 'audio-player__progress--dragging': isDragging }"
+          role="slider"
+          tabindex="0"
+          :aria-valuemin="0"
+          :aria-valuemax="Math.floor(duration)"
+          :aria-valuenow="Math.floor(currentTime)"
+          :aria-valuetext="timeLabel"
+          aria-label="Progreso de la narración"
+          @pointerdown="onProgressPointerDown"
+          @pointermove="onProgressPointerMove"
+          @pointerup="onProgressPointerUp"
+          @pointercancel="onProgressPointerUp"
+          @keydown="onProgressKeydown"
+        >
+          <div class="audio-player__progress-fill" :style="{ width: `${progress}%` }" />
+          <div
+            class="audio-player__progress-thumb"
+            :style="{ left: `${progress}%` }"
+            aria-hidden="true"
+          />
+        </div>
+        <div class="audio-player__meta">
+          <span v-if="trackTitle" class="audio-player__title">{{ trackTitle }}</span>
+          <span class="audio-player__time" aria-hidden="true">{{ timeLabel }}</span>
+        </div>
+      </div>
+
+      <button
+        v-if="isChrome"
+        type="button"
+        class="audio-player__btn audio-player__btn--queue"
+        aria-label="Abrir cola de reproducción"
+        @click="emit('openQueue')"
+      >
+        <svg class="audio-player__queue-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+          <path
+            d="M4 6h12v2H4V6zm0 5h12v2H4v-2zm0 5h8v2H4v-2zm13-1v4l3.5-2L17 15z"
+            fill="currentColor"
+          />
+        </svg>
+      </button>
+
+      <button
+        type="button"
+        class="audio-player__btn audio-player__btn--skip"
+        aria-label="Adelantar 10 segundos"
+        @click="skip(SKIP_SECONDS)"
+      >
+        <svg class="audio-player__skip-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+          <path
+            d="M12 5V1l5 5-5 5V7c-3.31 0-6 2.69-6 6s2.69 6 6 6 6-2.69 6-6h2c0 4.42-3.58 8-8 8s-8-3.58-8-8 3.58-8 8-8z"
+            fill="currentColor"
+          />
+        </svg>
+        <span class="audio-player__skip-label">10</span>
+      </button>
+
+      <button
+        v-if="floating || dockTop"
+        type="button"
+        class="audio-player__btn audio-player__btn--close"
+        aria-label="Ocultar reproductor"
+        @click="closePlayer"
+      >
+        <svg class="audio-player__close-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+          <path
+            d="M6.4 6.4 17.6 17.6M17.6 6.4 6.4 17.6"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2.2"
+            stroke-linecap="round"
+          />
+        </svg>
+      </button>
+    </template>
   </div>
 </template>
 

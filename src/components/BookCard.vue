@@ -1,13 +1,19 @@
 <script setup lang="ts">
-import { computed } from 'vue'
+import { computed, onBeforeUnmount, onMounted, ref } from 'vue'
 import type { BookCatalogEntry } from '../books/catalog'
 import { readReadingPosition, hasMeaningfulScroll } from '../reading/storage'
 import { readingRevision } from '../reading/revision'
 import { bookHasAudio } from '../books/audio-catalog'
 import { getBookProgress, getBookReadingStatus } from '../reading/status'
+import { useAudioQueue } from '../composables/useAudioQueue'
 import CoverArt from './CoverArt.vue'
 
 const props = defineProps<{ book: BookCatalogEntry }>()
+
+const { addNext, moveToEnd, remove, items, statsFor, play } = useAudioQueue()
+
+const menuOpen = ref(false)
+const menuRoot = ref<HTMLElement | null>(null)
 
 const reading = computed(() => {
   readingRevision.value
@@ -29,6 +35,16 @@ const status = computed(() => {
 })
 
 const hasAudio = computed(() => bookHasAudio(props.book.slug))
+
+const inQueue = computed(() => items.value.includes(props.book.slug))
+
+const listenBadge = computed(() => {
+  readingRevision.value
+  const stats = statsFor(props.book.slug)
+  if (stats.completedCount > 0) return `×${stats.completedCount}`
+  if (stats.markedListened) return '✓'
+  return null
+})
 
 const linkLabel = computed(() => {
   const audioNote = hasAudio.value ? ' Incluye narración en audio.' : ''
@@ -52,26 +68,59 @@ const bookLink = computed(() => {
   }
   return base
 })
+
+function onMenuToggle(event: Event) {
+  event.preventDefault()
+  event.stopPropagation()
+  menuOpen.value = !menuOpen.value
+}
+
+function closeMenu() {
+  menuOpen.value = false
+}
+
+function onAddEnd(event: Event) {
+  event.preventDefault()
+  event.stopPropagation()
+  moveToEnd(props.book.slug)
+  closeMenu()
+}
+
+function onAddNext(event: Event) {
+  event.preventDefault()
+  event.stopPropagation()
+  addNext(props.book.slug)
+  closeMenu()
+}
+
+function onRemove(event: Event) {
+  event.preventDefault()
+  event.stopPropagation()
+  remove(props.book.slug)
+  closeMenu()
+}
+
+function onPlayNow(event: Event) {
+  event.preventDefault()
+  event.stopPropagation()
+  play(props.book.slug)
+  closeMenu()
+}
+
+function onDocPointerDown(event: PointerEvent) {
+  if (!menuOpen.value) return
+  const root = menuRoot.value
+  if (root && event.target instanceof Node && root.contains(event.target)) return
+  closeMenu()
+}
+
+onMounted(() => document.addEventListener('pointerdown', onDocPointerDown, true))
+onBeforeUnmount(() => document.removeEventListener('pointerdown', onDocPointerDown, true))
 </script>
 
 <template>
   <article class="book-tile" :class="{ 'book-tile--done': status === 'done' }">
     <RouterLink :to="bookLink" class="book-tile__link" :aria-label="linkLabel">
-      <span v-if="status === 'done'" class="book-tile__ribbon" aria-hidden="true">
-        <span class="book-tile__ribbon-band">
-          <svg class="book-tile__ribbon-check" viewBox="0 0 12 12" aria-hidden="true">
-            <path
-              d="M2.5 6.2 4.8 8.5 9.5 3.5"
-              fill="none"
-              stroke="currentColor"
-              stroke-width="1.8"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-            />
-          </svg>
-        </span>
-      </span>
-
       <div class="book-tile__cover-wrap">
         <span v-if="book.readingOrder" class="book-tile__order-chip">
           {{ book.readingOrder }}
@@ -88,7 +137,76 @@ const bookLink = computed(() => {
           >
             {{ progress }}%
           </span>
+          <span
+            v-if="status === 'done'"
+            class="cover-art__badge cover-art__badge--read"
+          >
+            Leído
+          </span>
+          <span
+            v-if="listenBadge"
+            class="cover-art__badge cover-art__badge--audio-stats"
+          >
+            {{ listenBadge }}
+          </span>
         </CoverArt>
+
+        <div
+          v-if="hasAudio"
+          ref="menuRoot"
+          class="book-tile__menu"
+          @click.prevent.stop
+        >
+          <button
+            type="button"
+            class="book-tile__menu-btn"
+            :aria-expanded="menuOpen"
+            aria-haspopup="menu"
+            aria-label="Opciones de audio"
+            @click="onMenuToggle"
+          >
+            <span class="book-tile__menu-dots" aria-hidden="true">⋮</span>
+          </button>
+          <div
+            v-if="menuOpen"
+            class="book-tile__menu-panel"
+            role="menu"
+          >
+            <button
+              type="button"
+              class="book-tile__menu-item"
+              role="menuitem"
+              @click="onPlayNow"
+            >
+              Reproducir ahora
+            </button>
+            <button
+              type="button"
+              class="book-tile__menu-item"
+              role="menuitem"
+              @click="onAddEnd"
+            >
+              {{ inQueue ? 'Mover al final' : 'Agregar al final' }}
+            </button>
+            <button
+              type="button"
+              class="book-tile__menu-item"
+              role="menuitem"
+              @click="onAddNext"
+            >
+              Agregar como siguiente
+            </button>
+            <button
+              v-if="inQueue"
+              type="button"
+              class="book-tile__menu-item book-tile__menu-item--danger"
+              role="menuitem"
+              @click="onRemove"
+            >
+              Quitar de la cola
+            </button>
+          </div>
+        </div>
       </div>
 
       <div class="book-tile__info">

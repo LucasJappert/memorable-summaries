@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, onMounted, ref } from 'vue'
+import { computed, nextTick, onMounted, ref, watch } from 'vue'
 import { RouterLink } from 'vue-router'
 import { bookCatalog } from '../books/catalog'
 import { bookHasAudio } from '../books/audio-catalog'
@@ -7,6 +7,11 @@ import AppVersionFooter from '../components/AppVersionFooter.vue'
 import BookCard from '../components/BookCard.vue'
 import ReviewNudge from '../components/ReviewNudge.vue'
 import SectionPageHero from '../components/SectionPageHero.vue'
+import {
+  closeLibraryCatalogSearch,
+  libraryCatalogQuery,
+  libraryCatalogSearchOpen,
+} from '../composables/useLibraryCatalogSearch'
 import { useNextInRoute, bookDisplayTitle, isContinueAction } from '../composables/useNextInRoute'
 import { usePageMeta } from '../composables/usePageMeta'
 import { defaultOgImageUrl } from '../config/site'
@@ -23,12 +28,18 @@ import {
 type StatusFilter = 'all' | 'reading' | 'new' | 'done' | 'audio'
 
 const statusFilter = ref<StatusFilter>('all')
-const searchQuery = ref('')
+const searchInputEl = ref<HTMLInputElement | null>(null)
 
 const { continueBook, continueSource, continueStatus } = useNextInRoute()
 
 onMounted(() => {
   window.scrollTo(0, 0)
+})
+
+watch(libraryCatalogSearchOpen, async (open) => {
+  if (!open) return
+  await nextTick()
+  searchInputEl.value?.focus()
 })
 
 const sortedCatalog = computed(() => {
@@ -88,7 +99,7 @@ const normalize = (value: string) =>
 const filteredCatalog = computed(() => {
   readingRevision.value
 
-  const terms = normalize(searchQuery.value.trim()).split(/\s+/).filter(Boolean)
+  const terms = normalize(libraryCatalogQuery.value.trim()).split(/\s+/).filter(Boolean)
 
   return sortedCatalog.value.filter((book) => {
     const matchesStatus =
@@ -133,6 +144,10 @@ usePageMeta(
     ogImageHeight: DEFAULT_OG_IMAGE_HEIGHT,
   })),
 )
+
+function onSearchBackdrop(event: MouseEvent) {
+  if (event.target === event.currentTarget) closeLibraryCatalogSearch()
+}
 </script>
 
 <template>
@@ -143,28 +158,6 @@ usePageMeta(
         title="Biblioteca"
         :meta="readSummary"
       >
-        <template #title-aside>
-          <label class="library-search">
-            <span class="sr-only">Buscar libros</span>
-            <svg
-              class="library-search__icon"
-              viewBox="0 0 20 20"
-              aria-hidden="true"
-            >
-              <path
-                d="M8.5 3a5.5 5.5 0 0 1 4.23 9.02l3.62 3.63a.9.9 0 0 1-1.27 1.27l-3.63-3.62A5.5 5.5 0 1 1 8.5 3Zm0 1.8a3.7 3.7 0 1 0 0 7.4 3.7 3.7 0 0 0 0-7.4Z"
-                fill="currentColor"
-              />
-            </svg>
-            <input
-              v-model="searchQuery"
-              type="search"
-              class="library-search__input"
-              placeholder="Buscar…"
-              aria-label="Buscar libros"
-            />
-          </label>
-        </template>
         <RouterLink
           v-if="continueBook && continuePrefix && continueTitle"
           :to="continueLink"
@@ -193,7 +186,11 @@ usePageMeta(
       </div>
 
       <p v-if="filteredCatalog.length === 0" class="library-empty">
-        {{ searchQuery.trim() ? 'No hay libros que coincidan con la búsqueda.' : 'No hay libros con estos filtros.' }}
+        {{
+          libraryCatalogQuery.trim()
+            ? 'No hay libros que coincidan con la búsqueda.'
+            : 'No hay libros con estos filtros.'
+        }}
       </p>
 
       <div v-else class="library-shelf">
@@ -202,6 +199,50 @@ usePageMeta(
 
       <AppVersionFooter />
     </main>
+
+    <Teleport to="body">
+      <div
+        v-if="libraryCatalogSearchOpen"
+        class="library-catalog-search"
+        role="dialog"
+        aria-modal="true"
+        aria-label="Buscar libros"
+        @click="onSearchBackdrop"
+      >
+        <div class="library-catalog-search__panel" @click.stop>
+          <label class="library-catalog-search__field">
+            <span class="sr-only">Buscar libros</span>
+            <svg
+              class="library-catalog-search__icon"
+              viewBox="0 0 20 20"
+              aria-hidden="true"
+            >
+              <path
+                d="M8.5 3a5.5 5.5 0 0 1 4.23 9.02l3.62 3.63a.9.9 0 0 1-1.27 1.27l-3.63-3.62A5.5 5.5 0 1 1 8.5 3Zm0 1.8a3.7 3.7 0 1 0 0 7.4 3.7 3.7 0 0 0 0-7.4Z"
+                fill="currentColor"
+              />
+            </svg>
+            <input
+              ref="searchInputEl"
+              v-model="libraryCatalogQuery"
+              type="search"
+              class="library-catalog-search__input"
+              placeholder="Título, autor…"
+              aria-label="Buscar libros"
+              @keydown.escape="closeLibraryCatalogSearch()"
+            />
+          </label>
+          <button
+            type="button"
+            class="library-catalog-search__close"
+            aria-label="Cerrar búsqueda"
+            @click="closeLibraryCatalogSearch()"
+          >
+            Listo
+          </button>
+        </div>
+      </div>
+    </Teleport>
   </div>
 </template>
 

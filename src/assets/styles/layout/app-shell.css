@@ -2,3 +2,9 @@
 .app-shell {
   padding-bottom: calc(var(--bottom-bar-clearance) + env(safe-area-inset-bottom, 0px));
 }
+
+.app-shell--audio-dock {
+  padding-bottom: calc(
+    var(--bottom-bar-clearance) + var(--audio-mini-clearance) + env(safe-area-inset-bottom, 0px)
+  );
+}

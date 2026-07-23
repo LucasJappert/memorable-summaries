@@ -8,15 +8,21 @@ import {
 } from '../composables/useGlobalSearch'
 import { appNavMenuOpen, closeAppNavMenu, toggleAppNavMenu } from '../composables/useAppNavMenu'
 import { useAppBottomBarBook } from '../composables/useAppBottomBar'
-import { useNextInRoute, isContinueAction } from '../composables/useNextInRoute'
+import { useAudioQueue } from '../composables/useAudioQueue'
+import {
+  libraryCatalogQuery,
+  libraryCatalogSearchOpen,
+  toggleLibraryCatalogSearch,
+  closeLibraryCatalogSearch,
+} from '../composables/useLibraryCatalogSearch'
 import { useScrollProgress } from '../composables/useScrollProgress'
-import { readReadingPosition, hasMeaningfulScroll } from '../reading/storage'
-import { readingRevision } from '../reading/revision'
 import AudioIcon from './icons/AudioIcon.vue'
 
 const route = useRoute()
 const { bookBarState } = useAppBottomBarBook()
-const { continueBook, continueSource, continueStatus } = useNextInRoute()
+const { queueLength, queueSheetOpen, toggleQueueSheet, isPlaying } = useAudioQueue()
+
+const eqBars = Array.from({ length: 28 }, (_, i) => i)
 
 const isBook = computed(() => route.name === 'book')
 const isLibrary = computed(() => route.name === 'library')
@@ -27,6 +33,14 @@ const book = computed(() => bookBarState.value)
 
 const showShareToast = ref(false)
 const shareUrl = ref('')
+
+const searchActive = computed(() =>
+  isLibrary.value ? libraryCatalogSearchOpen.value : globalSearchOpen.value,
+)
+
+const searchHasQuery = computed(
+  () => isLibrary.value && libraryCatalogQuery.value.trim().length > 0,
+)
 
 function shareBook() {
   if (!book.value) return
@@ -54,52 +68,35 @@ function closeShareToast() {
   showShareToast.value = false
 }
 
-const continueLink = computed(() => {
-  readingRevision.value
-  const entry = continueBook.value
-  if (!entry) return { name: 'flashcards' as const }
-
-  const base = `/libro/${entry.slug}`
-  const reading = readReadingPosition(entry.slug)
-
-  if (
-    continueStatus.value === 'reading' &&
-    reading?.sectionId &&
-    hasMeaningfulScroll(reading.scrollY)
-  ) {
-    return `${base}#${reading.sectionId}`
-  }
-
-  return base
-})
-
-const continueActive = computed(() => {
-  if (route.name !== 'book' || !continueBook.value) return false
-  return route.params.slug === continueBook.value.slug
-})
-
-const continueLabel = computed(() => {
-  if (!continueBook.value) return 'Repasar tarjetas'
-  return isContinueAction(continueSource.value) ? 'Continuar lectura' : 'Siguiente libro'
-})
-
-function isActive(name: string): boolean {
-  return route.name === name
-}
-
 function onSearchClick() {
+  closeAppNavMenu()
+  if (isLibrary.value) {
+    closeGlobalSearch()
+    toggleLibraryCatalogSearch()
+    return
+  }
+  closeLibraryCatalogSearch()
   if (globalSearchOpen.value) closeGlobalSearch()
   else openGlobalSearch()
 }
 
 function onNavAway() {
   closeGlobalSearch()
+  closeLibraryCatalogSearch()
   closeAppNavMenu()
 }
 
 function onMenuClick() {
   closeGlobalSearch()
+  closeLibraryCatalogSearch()
   toggleAppNavMenu()
+}
+
+function onQueueClick() {
+  closeGlobalSearch()
+  closeLibraryCatalogSearch()
+  closeAppNavMenu()
+  toggleQueueSheet()
 }
 </script>
 
@@ -115,7 +112,21 @@ function onMenuClick() {
   >
     <div
       class="app-bottom-bar__pill"
+      :class="{ 'app-bottom-bar__pill--playing': isPlaying }"
     >
+      <div
+        v-if="isPlaying"
+        class="app-bottom-bar__eq"
+        aria-hidden="true"
+      >
+        <span
+          v-for="i in eqBars"
+          :key="i"
+          class="app-bottom-bar__eq-bar"
+          :style="{ animationDelay: `${(i % 7) * 0.11}s` }"
+        />
+      </div>
+
       <div
         v-if="isBook"
         class="app-bottom-bar__progress"
@@ -144,10 +155,35 @@ function onMenuClick() {
 
         <button
           type="button"
+          class="app-bottom-bar__btn app-bottom-bar__btn--queue"
+          :class="{ 'app-bottom-bar__btn--active': queueSheetOpen }"
+          :aria-pressed="queueSheetOpen"
+          :aria-label="
+            queueLength > 0
+              ? `Cola de audio, ${queueLength} en cola`
+              : 'Cola de audio'
+          "
+          @click="onQueueClick"
+        >
+          <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <path
+              d="M4 6h11v2H4V6zm0 5h11v2H4v-2zm0 5h7v2H4v-2zm13-6.5v7l5-3.5-5-3.5z"
+              fill="currentColor"
+            />
+          </svg>
+          <span
+            v-if="queueLength > 0"
+            class="app-bottom-bar__badge"
+            aria-hidden="true"
+          >{{ queueLength > 9 ? '9+' : queueLength }}</span>
+        </button>
+
+        <button
+          type="button"
           class="app-bottom-bar__btn"
-          :class="{ 'app-bottom-bar__btn--active': globalSearchOpen }"
-          :aria-pressed="globalSearchOpen"
-          aria-label="Buscar en libros leídos"
+          :class="{ 'app-bottom-bar__btn--active': searchActive }"
+          :aria-pressed="searchActive"
+          :aria-label="isLibrary ? 'Buscar libros' : 'Buscar en libros leídos'"
           @click="onSearchClick"
         >
           <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
@@ -156,19 +192,12 @@ function onMenuClick() {
               fill="currentColor"
             />
           </svg>
+          <span
+            v-if="searchHasQuery"
+            class="app-bottom-bar__badge"
+            aria-hidden="true"
+          >·</span>
         </button>
-
-        <RouterLink
-          :to="continueLink"
-          class="app-bottom-bar__btn app-bottom-bar__btn--continue"
-          :class="{ 'app-bottom-bar__btn--active': continueActive || isActive('flashcards') }"
-          :aria-label="continueLabel"
-          @click="onNavAway"
-        >
-          <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-            <path d="M8 5v14l11-7L8 5z" fill="currentColor" />
-          </svg>
-        </RouterLink>
 
         <button
           type="button"
@@ -243,6 +272,31 @@ function onMenuClick() {
           @click="onNavAway(); book.hasAudio && book.handlers.toggleAudio()"
         >
           <AudioIcon />
+        </button>
+
+        <button
+          type="button"
+          class="app-bottom-bar__btn app-bottom-bar__btn--queue"
+          :class="{ 'app-bottom-bar__btn--active': queueSheetOpen }"
+          :aria-pressed="queueSheetOpen"
+          :aria-label="
+            queueLength > 0
+              ? `Cola de audio, ${queueLength} en cola`
+              : 'Cola de audio'
+          "
+          @click="onQueueClick"
+        >
+          <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <path
+              d="M4 6h11v2H4V6zm0 5h11v2H4v-2zm0 5h7v2H4v-2zm13-6.5v7l5-3.5-5-3.5z"
+              fill="currentColor"
+            />
+          </svg>
+          <span
+            v-if="queueLength > 0"
+            class="app-bottom-bar__badge"
+            aria-hidden="true"
+          >{{ queueLength > 9 ? '9+' : queueLength }}</span>
         </button>
 
         <button

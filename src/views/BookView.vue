@@ -16,6 +16,7 @@ import { useMediaQuery } from "../composables/useMediaQuery";
 import { usePageMeta } from "../composables/usePageMeta";
 import { useReadingPosition } from "../composables/useReadingPosition";
 import { registerBookBottomBar, unregisterBookBottomBar } from "../composables/useAppBottomBar";
+import { useAudioQueue } from "../composables/useAudioQueue";
 import ReadCelebration from "../components/ReadCelebration.vue";
 import { absoluteUrl, bookOgImageUrl } from "../config/site";
 import { bookCanonicalPath, formatBookDescription, formatBookDisplayTitle, formatBookPageTitle } from "../utils/seo";
@@ -60,8 +61,7 @@ usePageMeta(
 const hasAudio = computed(() => bookHasAudio(props.slug));
 
 const menuOpen = ref(false);
-/** Muestra/oculta el reproductor flotante (abajo a la derecha) */
-const audioVisible = ref(true);
+const { playerVisible, togglePlayer, ensureBookInQueueAndShow, play } = useAudioQueue();
 
 const chapterToc = computed(() => {
     if (!book.value) return [];
@@ -140,11 +140,13 @@ function closeMenu() {
 }
 
 function toggleAudio() {
-    audioVisible.value = !audioVisible.value;
-}
-
-function closeAudio() {
-    audioVisible.value = false;
+    if (!hasAudio.value) return;
+    if (playerVisible.value) {
+        togglePlayer();
+        return;
+    }
+    ensureBookInQueueAndShow(props.slug);
+    play(props.slug);
 }
 
 function scrollToCover() {
@@ -157,7 +159,7 @@ watchEffect((onCleanup) => {
     registerBookBottomBar({
         hasAudio: hasAudio.value,
         menuOpen: menuOpen.value,
-        audioOpen: audioVisible.value,
+        audioOpen: playerVisible.value,
         slug: b.slug,
         title: b.meta.title,
         author: b.meta.author,
@@ -179,9 +181,7 @@ watchEffect((onCleanup) => {
             :meta="book.meta"
             :slug="book.slug"
             :done="isMarkedRead"
-            :float-audio="audioVisible"
             @toggle-read="toggleMarkedRead"
-            @close-audio="closeAudio"
         />
 
         <ReadCelebration :active="showReadCelebration" @finished="onReadCelebrationFinished" />

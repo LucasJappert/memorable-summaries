@@ -11,6 +11,10 @@ html {
   touch-action: manipulation;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  -webkit-tap-highlight-color: transparent;
+  /* Firefox */
+  scrollbar-width: thin;
+  scrollbar-color: color-mix(in srgb, var(--accent) 55%, var(--border)) var(--surface);
 }
 
 body {
@@ -21,4 +25,69 @@ body {
   font-size: 16px;
   overflow-x: hidden;
   touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
 }
+
+button,
+a,
+[role='button'],
+input,
+select,
+textarea,
+summary,
+label {
+  -webkit-tap-highlight-color: transparent;
+}
+
+/* Evita el outline blanco al clickear con modificadores (Shift/Ctrl); teclado sí conserva foco visible */
+:focus {
+  outline: none;
+}
+
+:focus-visible {
+  outline: 2px solid color-mix(in srgb, var(--accent3) 75%, transparent);
+  outline-offset: 2px;
+}
+
+/* Scrollbars (WebKit / Chromium / Safari) — marca */
+*::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+*::-webkit-scrollbar-track {
+  background: var(--surface);
+  border-radius: 999px;
+}
+
+*::-webkit-scrollbar-thumb {
+  background: linear-gradient(
+    180deg,
+    color-mix(in srgb, var(--accent) 70%, var(--border)) 0%,
+    color-mix(in srgb, var(--accent3) 35%, var(--border)) 100%
+  );
+  border: 2px solid var(--surface);
+  border-radius: 999px;
+  background-clip: padding-box;
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(
+    180deg,
+    var(--accent) 0%,
+    color-mix(in srgb, var(--accent3) 65%, var(--accent)) 100%
+  );
+  border: 2px solid var(--surface);
+  background-clip: padding-box;
+}
+
+*::-webkit-scrollbar-corner {
+  background: var(--surface);
+}
+
+/* Contenedores con overflow (Firefox) */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: color-mix(in srgb, var(--accent) 55%, var(--border)) var(--surface);
+}
+
