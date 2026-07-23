@@ -1,58 +1,34 @@
 <script setup lang="ts">
-import { computed, nextTick, onBeforeUnmount, ref, watch } from 'vue'
+import { computed } from 'vue'
 import type { BookMeta } from '../types/book'
 import { bookHasAudio } from '../books/audio-catalog'
-import { useHeroAudioFloat } from '../composables/useHeroAudioFloat'
 import AudioPlayer from './AudioPlayer.vue'
 import CoverArt from './CoverArt.vue'
 import EnvelopeIcon from './icons/EnvelopeIcon.vue'
 
-const props = defineProps<{ meta: BookMeta; slug: string; done?: boolean; hideAudio?: boolean }>()
+const props = withDefaults(
+  defineProps<{
+    meta: BookMeta
+    slug: string
+    done?: boolean
+    hideAudio?: boolean
+    /** Si es false, oculta el reproductor flotante */
+    floatAudio?: boolean
+  }>(),
+  { floatAudio: true },
+)
 
 const emit = defineEmits<{
   toggleRead: []
+  closeAudio: []
 }>()
 
 const hasAudio = computed(() => bookHasAudio(props.slug))
-const showAudio = computed(() => hasAudio.value && !props.hideAudio)
-const heroRef = ref<HTMLElement | null>(null)
-const audioPlayerRef = ref<InstanceType<typeof AudioPlayer> | null>(null)
-const audioSpacerHeight = ref(0)
-const { isFloating } = useHeroAudioFloat(heroRef)
-
-let resizeObserver: ResizeObserver | null = null
-
-function syncSpacerHeight() {
-  const player = audioPlayerRef.value?.rootEl
-  if (!player) return
-  audioSpacerHeight.value = player.offsetHeight
-}
-
-watch(isFloating, (floating) => {
-  if (floating) syncSpacerHeight()
-})
-
-watch(showAudio, async (value) => {
-  if (!value) {
-    resizeObserver?.disconnect()
-    resizeObserver = null
-    return
-  }
-  await nextTick()
-  const player = audioPlayerRef.value?.rootEl
-  if (!player || resizeObserver) return
-  resizeObserver = new ResizeObserver(syncSpacerHeight)
-  resizeObserver.observe(player)
-  syncSpacerHeight()
-}, { immediate: true })
-
-onBeforeUnmount(() => {
-  resizeObserver?.disconnect()
-})
+const showAudio = computed(() => hasAudio.value && !props.hideAudio && props.floatAudio)
 </script>
 
 <template>
-  <header ref="heroRef" class="hero">
+  <header class="hero">
     <div class="hero__cover" aria-hidden="true">
       <CoverArt :slug="slug" :meta="meta" :done="done" :has-audio="hasAudio" />
     </div>
@@ -72,22 +48,9 @@ onBeforeUnmount(() => {
       <p class="meta">
         <span v-for="item in meta.meta" :key="item">{{ item }}</span>
       </p>
-      <div v-if="showAudio" class="hero__audio-wrap">
-        <div
-          v-if="isFloating"
-          class="hero__audio-spacer"
-          :style="{ height: `${audioSpacerHeight}px` }"
-          aria-hidden="true"
-        />
-        <Teleport to="body" :disabled="!isFloating">
-          <AudioPlayer
-            ref="audioPlayerRef"
-            :slug="slug"
-            :floating="isFloating"
-            class="hero__audio"
-          />
-        </Teleport>
-      </div>
+      <Teleport v-if="showAudio" to="body">
+        <AudioPlayer :slug="slug" floating class="hero__audio" @close="emit('closeAudio')" />
+      </Teleport>
       <div class="hero__actions">
         <div class="hero__read-toggle">
           <EnvelopeIcon class="hero__read-toggle-icon" aria-hidden="true" />

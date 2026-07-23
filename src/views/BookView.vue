@@ -11,7 +11,6 @@ import FiguresGrid from "../components/FiguresGrid.vue";
 import CollapsibleBookSection from "../components/CollapsibleBookSection.vue";
 import ClosingSection from "../components/ClosingSection.vue";
 import BookNavDrawer from "../components/BookNavDrawer.vue";
-import AudioPlayer from "../components/AudioPlayer.vue";
 import { useActiveSection } from "../composables/useActiveSection";
 import { useMediaQuery } from "../composables/useMediaQuery";
 import { usePageMeta } from "../composables/usePageMeta";
@@ -61,32 +60,8 @@ usePageMeta(
 const hasAudio = computed(() => bookHasAudio(props.slug));
 
 const menuOpen = ref(false);
-const audioVisible = ref(false);
-
-const PAUSE_HIDE_MS = 5000;
-let pauseHideTimer: ReturnType<typeof setTimeout> | null = null;
-
-function clearPauseHideTimer() {
-    if (pauseHideTimer) {
-        clearTimeout(pauseHideTimer);
-        pauseHideTimer = null;
-    }
-}
-
-function schedulePauseHide() {
-    clearPauseHideTimer();
-    pauseHideTimer = setTimeout(() => {
-        audioVisible.value = false;
-    }, PAUSE_HIDE_MS);
-}
-
-function onAudioPlay() {
-    clearPauseHideTimer();
-}
-
-function onAudioPaused() {
-    schedulePauseHide();
-}
+/** Muestra/oculta el reproductor flotante (abajo a la derecha) */
+const audioVisible = ref(true);
 
 const chapterToc = computed(() => {
     if (!book.value) return [];
@@ -148,20 +123,12 @@ function onCompletionPanelDismiss() {
     bookJustCompleted.value = false;
 }
 
-watch(audioVisible, async (visible) => {
-    clearPauseHideTimer();
-    if (!visible) return;
-    await nextTick();
-    schedulePauseHide();
-});
-
 watch(menuOpen, (open) => {
     document.body.style.overflow = open ? "hidden" : "";
 });
 
 onUnmounted(() => {
     document.body.style.overflow = "";
-    clearPauseHideTimer();
 });
 
 function toggleMenu() {
@@ -174,6 +141,10 @@ function closeMenu() {
 
 function toggleAudio() {
     audioVisible.value = !audioVisible.value;
+}
+
+function closeAudio() {
+    audioVisible.value = false;
 }
 
 function scrollToCover() {
@@ -204,15 +175,18 @@ watchEffect((onCleanup) => {
     <div v-if="book" class="book-page">
         <ReadingProgress v-if="!isMobile" />
 
-        <HeroSection :meta="book.meta" :slug="book.slug" :done="isMarkedRead" hide-audio @toggle-read="toggleMarkedRead" />
+        <HeroSection
+            :meta="book.meta"
+            :slug="book.slug"
+            :done="isMarkedRead"
+            :float-audio="audioVisible"
+            @toggle-read="toggleMarkedRead"
+            @close-audio="closeAudio"
+        />
 
         <ReadCelebration :active="showReadCelebration" @finished="onReadCelebrationFinished" />
 
         <ReadCompletionPanel :slug="book.slug" :active="showCompletionPanel" @dismiss="onCompletionPanelDismiss" />
-
-        <Teleport to="body">
-            <AudioPlayer v-if="hasAudio && audioVisible" :slug="book.slug" dock-top class="audio-player--mobile-dock" @play="onAudioPlay" @pause="onAudioPaused" />
-        </Teleport>
 
         <div class="page-layout">
             <main id="contenido" class="page-layout__main">

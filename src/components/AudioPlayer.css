@@ -44,12 +44,16 @@
 }
 .audio-player--floating {
   position: fixed;
-  top: calc(env(safe-area-inset-top, 0px) + 3.15rem);
-  left: 50%;
-  transform: translateX(-50%);
+  top: auto;
+  left: auto;
+  right: max(1rem, env(safe-area-inset-right, 0px));
+  bottom: calc(var(--bottom-bar-clearance) + env(safe-area-inset-bottom, 0px) + 0.65rem);
+  transform: none;
   z-index: 55;
-  width: min(calc(100% - var(--gutter-left) - var(--gutter-right)), 34rem);
+  width: min(300px, calc(100vw - 2rem));
   margin: 0;
+  gap: 0.55rem;
+  padding: 0.65rem 0.75rem;
   border-color: rgba(255, 255, 255, 0.14);
   box-shadow:
     0 10px 40px rgba(0, 0, 0, 0.45),
@@ -58,16 +62,12 @@
 }
 .audio-player--dock-top {
   top: calc(env(safe-area-inset-top, 0px) + 0.55rem);
+  bottom: auto;
+  left: 50%;
+  right: auto;
+  transform: translateX(-50%);
   z-index: 54;
-}
-@media (min-width: 1024px) {
-  .audio-player--floating:not(.audio-player--dock-top) {
-    top: calc(env(safe-area-inset-top, 0px) + 4.15rem);
-    right: max(1.25rem, env(safe-area-inset-right, 0px));
-    left: auto;
-    transform: none;
-    width: min(26rem, calc(100vw - 2.5rem));
-  }
+  width: min(26rem, calc(100vw - 2.5rem));
 }
 @supports ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {
   .audio-player--floating {
@@ -76,17 +76,8 @@
     -webkit-backdrop-filter: blur(32px) saturate(185%);
   }
 }
-.hero__audio-wrap {
-  width: min(100%, 34rem);
-  margin: 0.85rem auto 0;
-}
 .hero__audio {
-  margin-top: 0;
-  width: 100%;
-}
-.hero__audio-spacer {
-  width: 100%;
-  pointer-events: none;
+  margin: 0;
 }
 .audio-player__btn {
   display: inline-flex;
@@ -118,6 +109,33 @@
   width: 2.7rem;
   height: 2.7rem;
   color: var(--text2);
+}
+.audio-player__btn--close {
+  width: 1.85rem;
+  height: 1.85rem;
+  color: var(--text2);
+  border-color: rgba(255, 255, 255, 0.08);
+  background: rgba(255, 255, 255, 0.04);
+}
+.audio-player--floating .audio-player__btn--play {
+  width: 2.55rem;
+  height: 2.55rem;
+}
+.audio-player--floating .audio-player__btn--skip {
+  width: 2.25rem;
+  height: 2.25rem;
+}
+.audio-player--floating .audio-player__icon {
+  width: 1.15rem;
+  height: 1.15rem;
+}
+.audio-player--floating .audio-player__skip-icon {
+  width: 1.05rem;
+  height: 1.05rem;
+}
+.audio-player__close-icon {
+  width: 0.95rem;
+  height: 0.95rem;
 }
 .audio-player__skip-icon {
   width: 1.2rem;
@@ -229,12 +247,8 @@
 }
 
 @media (max-width: 1023px) {
-  .audio-player {
+  .audio-player:not(.audio-player--floating) {
     width: 100%;
-    max-width: none;
-  }
-  .audio-player--floating {
-    width: calc(100% - var(--gutter-left) - var(--gutter-right));
     max-width: none;
   }
 }

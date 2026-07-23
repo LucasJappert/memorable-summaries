@@ -16,9 +16,9 @@ const props = withDefaults(
     audioSrc?: string
     /** Si es false, no se muestra el reproductor */
     available?: boolean
-    /** Barra fija arriba cuando el hero ya no está visible */
+    /** Fijo abajo a la derecha (~300px) */
     floating?: boolean
-    /** Siempre fijo arriba (móvil) */
+    /** Siempre fijo arriba (legado / casos puntuales) */
     dockTop?: boolean
   }>(),
   { available: undefined, floating: false, dockTop: false },
@@ -27,6 +27,7 @@ const props = withDefaults(
 const emit = defineEmits<{
   play: []
   pause: []
+  close: []
 }>()
 
 const src = computed(() =>
@@ -155,6 +156,12 @@ function skip(seconds: number) {
   audio.currentTime = next
   currentTime.value = next
   persistPosition(true)
+}
+
+function closePlayer() {
+  persistPosition(true)
+  audioEl.value?.pause()
+  emit('close')
 }
 
 function onPlay() {
@@ -405,6 +412,24 @@ defineExpose({ rootEl })
         />
       </svg>
       <span class="audio-player__skip-label">10</span>
+    </button>
+
+    <button
+      v-if="floating || dockTop"
+      type="button"
+      class="audio-player__btn audio-player__btn--close"
+      aria-label="Ocultar reproductor"
+      @click="closePlayer"
+    >
+      <svg class="audio-player__close-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+        <path
+          d="M6.4 6.4 17.6 17.6M17.6 6.4 6.4 17.6"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2.2"
+          stroke-linecap="round"
+        />
+      </svg>
     </button>
   </div>
 </template>
