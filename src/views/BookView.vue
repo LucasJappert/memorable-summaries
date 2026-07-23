@@ -71,8 +71,8 @@ const chapterToc = computed(() => {
 const navToc = computed(() => {
     if (!book.value) return [];
     return [
-        ...chapterToc.value,
         { id: "cierre", num: "★", label: book.value.closing.title },
+        ...chapterToc.value,
         { id: "conceptos", num: "✦", label: "Conceptos clave" },
         { id: "cronologia", num: "◈", label: "Cronología" },
         { id: "figuras", num: "✦", label: "Figuras clave" },
@@ -81,7 +81,7 @@ const navToc = computed(() => {
 
 const readingSectionIds = computed(() => {
     if (!book.value) return [];
-    return [...chapterToc.value.map((item) => item.id), "cierre", "conceptos", "cronologia", "figuras"];
+    return ["cierre", ...chapterToc.value.map((item) => item.id), "conceptos", "cronologia", "figuras"];
 });
 
 const sectionLabels = computed(() => {
@@ -191,9 +191,9 @@ watchEffect((onCleanup) => {
         <div class="page-layout">
             <main id="contenido" class="page-layout__main">
                 <div class="container book-content">
-                    <BookSection v-for="section in book.sections" :key="section.id" :section="section" />
-
                     <ClosingSection :closing="book.closing" />
+
+                    <BookSection v-for="section in book.sections" :key="section.id" :section="section" />
 
                     <div class="divider" />
 
