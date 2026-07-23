@@ -2,8 +2,8 @@
 
 Usá este prompt cuando el usuario pida **generar audio / narración / audiolibro** de un resumen.
 
-**Alcance actual (v0):** **un solo** archivo `summaries/<slug>.md` → **un** WAV/MP3.  
-No procesar los 34 libros todavía.
+**Alcance:** un `summaries/<slug>.md` → texto plano + MP3 publicado.  
+Batch de varios libros: solo si el usuario lo pide explícitamente (`scripts/batch-omnivoice-tts.sh`).
 
 **Disparadores del usuario:**
 
@@ -16,19 +16,21 @@ No procesar los 34 libros todavía.
 
 ## Contexto del repo
 
-| Ruta                                       | Rol                                              |
-| ------------------------------------------ | ------------------------------------------------ |
-| `summaries/<slug>.md`                      | Fuente de verdad del contenido a narrar          |
-| `docs/templates/resumen-libro.template.md` | Estructura del MD (saber qué ignorar al parsear) |
-| `audio/<slug>.wav`                         | Salida principal (crear carpeta si no existe)    |
-| `audio/<slug>.mp3`                         | Salida opcional (derivada del WAV)               |
+| Ruta | Rol |
+|------|-----|
+| `summaries/<slug>.md` | Fuente de verdad del contenido a narrar |
+| `scripts/md-to-narration.py` | MD → texto plano + TTS |
+| `audio/<slug>.txt` | Texto intermedio para revisar / reanudar |
+| `audio/<slug>/chunks/` | Chunks WAV temporales (gitignored) |
+| `public/audio/<slug>.mp3` | Audio servido por la app (commitear si va a prod) |
+| `src/books/audio-catalog.ts` | Gate UI: solo slugs en `BOOKS_WITH_AUDIO` muestran audio |
+| `.env` / `.env.example` | `LUCAS_AI_API_KEY` (nunca commitear `.env`) |
+| `.cursor/rules/tts-api-key.mdc` | Dónde vive la key para agentes |
 
-**Repo Hermes Director** (TTS reutilizable):
+**Motor TTS (default):** OmniVoice vía **lucas-ai-api** con API key Bearer (`LUCAS_AI_API_KEY`).  
+Fair-share por cliente: nombre de la key (`memorable-summaries`). Sin login JWT.
 
-- Ruta: `/home/ljappert/my-repos/Project Hermes Director`
-- Motor: Edge TTS → `core/tts/edge.py`
-- Config: `config/default.yaml` → voz `es-MX-JorgeNeural`, rate `-8%`
-- Audio: `core/audio.py` → `concat_wavs`, `mp3_to_wav`, `probe_duration`
+**Alternativa legada:** `--tts-hermes` (Edge TTS vía Project Hermes Director), solo si el usuario lo pide.
 
 ---
 
@@ -40,95 +42,113 @@ No procesar los 34 libros todavía.
 
 ---
 
-## Paso 1 — MD → texto plano para TTS
+## Paso 1 — MD → texto plano
 
-Crear o extender un script (sugerido: `scripts/md-to-narration.py` en este repo) que:
+El script ya hace el parseo. No reinventar:
 
-1. Lea `summaries/<slug>.md`
-2. **Quite** (no narrar):
-    - Frontmatter YAML (`---` … `---`)
-    - Tabla de contenidos (`# Contenido`, tablas `| id |`)
-    - Comentarios HTML (`<!-- paragraph -->`, etc.)
-    - Tags HTML: `<span>`, `<em>`, `<strong>`, `<a>` → conservar solo el texto interior
-    - Bloques de tabla markdown (`| ... |`)
-    - Líneas vacías repetidas
-3. **Conserve y formatee para voz**:
-    - Intro: «{title}, de {author}.» (desde frontmatter)
-    - Títulos de sección: `## title: ...` → leer como frase («Capítulo uno: Orillas del océano cósmico»)
-    - Párrafos de cuerpo
-    - Citas `>` → «Cita: …» (sin guión largo al inicio si suena raro)
-4. Guarde texto intermedio en `audio/<slug>.txt` (útil para revisar y reanudar)
+```bash
+python3 scripts/md-to-narration.py <slug> --text-only
+# → audio/<slug>.txt
+```
+
+Qué **no** se narra: frontmatter, TOC, comentarios HTML, tags HTML (solo texto), tablas markdown.  
+Qué **sí**: intro título/autor, títulos de sección, párrafos, citas.
 
 **Reglas:** no inventar contenido; no resumir más; español latino; tono divulgativo.
 
 ---
 
-## Paso 2 — TTS (un solo libro)
+## Paso 2 — TTS OmniVoice (un libro)
 
-Reutilizar Hermes Director (importar desde su venv o agregar path):
+Requisitos:
 
-```python
-from core.config import load_config
-from core.tts import get_tts_engine
-from core.audio import concat_wavs, probe_duration
+```bash
+cp .env.example .env   # una vez
+# Completar LUCAS_AI_API_KEY=sk-...
 ```
 
-1. Partir `audio/<slug>.txt` en **chunks** de ~3000–5000 caracteres, cortando en fin de párrafo.
-2. Por cada chunk → `audio/<slug>/chunks/chunkNNN.wav` con Edge TTS.
-3. **Reanudación:** omitir chunks que ya existan.
-4. `request_delay_s: 0.75` entre chunks (config Hermes).
-5. Concatenar todos los chunks → `audio/<slug>.wav`
-6. Opcional: exportar `audio/<slug>.mp3` con ffmpeg.
+Generar:
 
-Mostrar al terminar: duración (`probe_duration`), tamaño en MB, ruta final.
+```bash
+python3 scripts/md-to-narration.py <slug> --tts --mp3
+# Forzar regeneración de chunks:
+python3 scripts/md-to-narration.py <slug> --tts --mp3 --force
+```
+
+Comportamiento:
+
+1. Parte `audio/<slug>.txt` en chunks y llama a lucas-ai-api (OmniVoice).
+2. **Reanudación:** omite chunks existentes salvo `--force`.
+3. Reintenta en 429 con backoff.
+4. Concatena → WAV temporal → `public/audio/<slug>.mp3`.
+
+Mostrar al terminar: duración, tamaño, ruta final.
+
+### Publicar en la UI
+
+Tras un MP3 nuevo o regenerado post-rewrite:
+
+1. Asegurar que el slug está en `BOOKS_WITH_AUDIO` (`src/books/audio-catalog.ts`).
+2. `npm run build` (o al menos verificar que `/audio/<slug>.mp3` se sirve).
+3. Commitear `public/audio/<slug>.mp3` + el cambio de catálogo si aplica.
+
+Sin el slug en el catálogo, el archivo puede existir en disco pero **no** aparece en la cola ni en la biblioteca.
 
 ---
 
 ## Paso 3 — Probar antes de escalar
 
-1. Correr con el slug elegido (o `seven-brief-lessons` por defecto).
+1. Correr con el slug elegido (o `seven-brief-lessons`).
 2. Escuchar los primeros 30 s; si el parser deja basura («num dos», «term Cosmos»), corregir el script.
-3. **No** generar audio de los otros 33 resúmenes hasta que el usuario lo pida explícitamente.
+3. **No** batch masivo hasta que el usuario lo pida.
+
+Batch opcional:
+
+```bash
+./scripts/batch-omnivoice-tts.sh
+```
+
+---
+
+## Reproducción en la app (referencia)
+
+No es parte de la generación, pero el audio entra a:
+
+- Cola global (`useAudioQueue`, sheet en navbar)
+- Bottom bar con ecualizador mientras suena
+- Card de libro: agregar / reproducir
 
 ---
 
 ## Entregables
 
-- [x] `scripts/md-to-narration.py`
-- [x] `audio/<slug>.txt` (texto plano)
-- [x] `public/audio/<slug>.mp3` (commiteado; WAV/chunks en `.gitignore`)
-- [x] Reproductor en `HeroSection` + `meta.audio` opcional en `BookMeta`
+- [x] `scripts/md-to-narration.py` (OmniVoice + opcional Hermes)
+- [x] `audio/<slug>.txt`
+- [x] `public/audio/<slug>.mp3`
+- [x] Entrada en `src/books/audio-catalog.ts` cuando el audio está listo para UI
+- [ ] WAV/chunks locales (gitignored; no commitear)
 
 ---
 
-## Comando
+## Comando rápido
 
 ```bash
-# Solo texto plano
+# Solo texto
 python3 scripts/md-to-narration.py free-will --text-only
 
-# TTS OmniVoice via lucas-ai-api (API key dedicada; sin login JWT):
-export LUCAS_AI_API_KEY='sk-...'
-export LUCAS_AI_API_URL='https://lucas-ai-api.eu1.netbird.services'  # opcional
+# TTS OmniVoice (preferido; lee .env)
 python3 scripts/md-to-narration.py free-will --tts --mp3
 
-# Alternativa Edge TTS (Hermes Director):
+# Alternativa Edge TTS (Hermes), solo bajo pedido:
 "/home/ljappert/my-repos/Project Hermes Director/.venv/bin/python" \
   scripts/md-to-narration.py free-will --tts-hermes --mp3
 ```
 
-Salida: `audio/<slug>.txt`, `public/audio/<slug>.mp3` (servido por Vite en `/audio/<slug>.mp3`).
-
----
-
-## Libros disponibles (`summaries/`)
-
-`21-lessons`, `beginning-of-infinity`, `biggest-ideas-universe`, `biosignatures-astrobiology`, `black-swan`, `blind-watchmaker`, `cosmos`, `determined`, `ego-tunnel`, `emperors-new-mind`, `fabric-of-reality`, `free-will`, `future-of-the-mind`, `godel-escher-bach`, `homo-deus`, `how-we-learn`, `incognito`, `intelligent-life-universe`, `life-3-0`, `livewired`, `murmurs-of-earth`, `origins`, `our-mathematical-universe`, `sapiens`, `self-assembling-brain`, `selfish-gene`, `seven-brief-lessons`, `superintelligence`, `the-brain`, `universo-de-la-nada`, `vital-question`, `why-does-world-exist`, `why-evolution-is-true`, `wonderful-life`
+Salida publicada: `public/audio/<slug>.mp3` → Vite `/audio/<slug>.mp3`.
 
 ---
 
 ## Futuro
 
-- Batch de los 34 MD
-- Guion condensado multi-libro
-- Precache PWA de archivos `.mp3` grandes
+- Seguir regenerando MP3 stale post-rewrite y sumarlos a `BOOKS_WITH_AUDIO`
+- Precache PWA selectivo de narraciones

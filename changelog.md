@@ -1,5 +1,30 @@
 ### Changelog
 
+## [Versión 0.2.4]
+
+> 2026-07-23
+
+### Ajustes UX/UI
+
+- 🎧 **Cola de audio tipo playlist**
+    - Sheet full-height (mobile) / drawer (desktop) con «Reproduciendo» y «A continuación».
+    - Transport play/pausa, anterior/siguiente, flechas para reordenar con animación, vaciar con confirmación.
+    - Persistencia en `localStorage` (`audio-queue-storage` / stats de escuchas).
+    - Acciones desde cards de biblioteca y botón de cola en la bottom bar (también en vista libro).
+
+- 📱 **Bottom bar viva al reproducir**
+    - Ecualizador animado a lo ancho del pill, detrás de los iconos, solo mientras suena audio.
+    - Mini-player bajo demanda (botón de audio); cerrar la cola no lo revela automáticamente.
+
+- 🎨 **Polish mobile**
+    - Scrollbars con colores de marca.
+    - Sin highlight celeste nativo al tap; outline de foco controlado (evita anillo blanco con Shift).
+
+### Docs
+
+- `README.md`: sección «Audio en la app» + gate `BOOKS_WITH_AUDIO`.
+- `docs/prompts/03-audio-desde-resumen.md`: alineado a OmniVoice / lucas-ai-api (API key) y catálogo UI.
+
 ## [Versión 0.2.3]
 
 > 2026-07-13
