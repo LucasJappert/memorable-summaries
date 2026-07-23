@@ -26,10 +26,17 @@ const {
   playNext,
   pause,
   resume,
+  seekTo,
+  seekBy,
 } = useAudioQueue()
 
 const openMenuIndex = ref<number | null>(null)
 const confirmClearOpen = ref(false)
+const progressEl = ref<HTMLDivElement | null>(null)
+const isSeekDragging = ref(false)
+let seekPointerId: number | null = null
+
+const SKIP_SECONDS = 10
 
 const rows = computed(() => {
   readingRevision.value
@@ -53,6 +60,19 @@ const rows = computed(() => {
 
 const currentRow = computed(() => rows.value.find((r) => r.isCurrent) ?? null)
 const upNextRows = computed(() => rows.value.filter((r) => !r.isCurrent))
+
+const nowTimeLabel = computed(() => {
+  const { currentTime, duration } = trackProgress.value
+  return `${formatTime(currentTime)} / ${formatTime(duration)}`
+})
+
+function formatTime(seconds: number): string {
+  if (!Number.isFinite(seconds) || seconds < 0) return '0:00'
+  const total = Math.floor(seconds)
+  const minutes = Math.floor(total / 60)
+  const secs = total % 60
+  return `${minutes}:${secs.toString().padStart(2, '0')}`
+}
 
 function move(index: number, delta: number) {
   openMenuIndex.value = null
@@ -100,6 +120,54 @@ function onRowActivate(index: number) {
 function onTransportPlay() {
   if (isPlaying.value) pause()
   else resume()
+}
+
+function seekFromClientX(clientX: number) {
+  const bar = progressEl.value
+  const duration = trackProgress.value.duration
+  if (!bar || !(duration > 0)) return
+  const rect = bar.getBoundingClientRect()
+  if (rect.width <= 0) return
+  const ratio = Math.min(1, Math.max(0, (clientX - rect.left) / rect.width))
+  seekTo(ratio * duration)
+}
+
+function onSeekPointerDown(event: PointerEvent) {
+  if (event.button !== 0 && event.pointerType === 'mouse') return
+  const bar = progressEl.value
+  if (!bar) return
+  isSeekDragging.value = true
+  seekPointerId = event.pointerId
+  bar.setPointerCapture(event.pointerId)
+  seekFromClientX(event.clientX)
+  event.preventDefault()
+}
+
+function onSeekPointerMove(event: PointerEvent) {
+  if (!isSeekDragging.value || event.pointerId !== seekPointerId) return
+  seekFromClientX(event.clientX)
+}
+
+function onSeekPointerUp(event: PointerEvent) {
+  if (!isSeekDragging.value || event.pointerId !== seekPointerId) return
+  seekFromClientX(event.clientX)
+  isSeekDragging.value = false
+  seekPointerId = null
+  try {
+    progressEl.value?.releasePointerCapture(event.pointerId)
+  } catch {
+    /* ignore */
+  }
+}
+
+function onSeekKeydown(event: KeyboardEvent) {
+  if (event.key === 'ArrowRight') {
+    event.preventDefault()
+    seekBy(SKIP_SECONDS)
+  } else if (event.key === 'ArrowLeft') {
+    event.preventDefault()
+    seekBy(-SKIP_SECONDS)
+  }
 }
 
 function onDocPointerDown(event: PointerEvent) {
@@ -158,22 +226,45 @@ onBeforeUnmount(() => document.removeEventListener('pointerdown', onDocPointerDo
         </header>
 
         <div v-if="currentRow" class="audio-queue-sheet__now">
-          <div class="audio-queue-sheet__now-label">Reproduciendo</div>
+          <img
+            class="audio-queue-sheet__now-bg"
+            :src="currentRow.cover"
+            alt=""
+            loading="lazy"
+          />
           <div class="audio-queue-sheet__now-body">
-            <img
-              class="audio-queue-sheet__cover"
-              :src="currentRow.cover"
-              alt=""
-              loading="lazy"
-            />
             <div class="audio-queue-sheet__now-text">
               <div class="audio-queue-sheet__item-title">{{ currentRow.title }}</div>
               <div class="audio-queue-sheet__item-meta">{{ currentRow.author }}</div>
-              <div class="audio-queue-sheet__now-progress" aria-hidden="true">
+              <div
+                ref="progressEl"
+                class="audio-queue-sheet__now-progress"
+                :class="{ 'audio-queue-sheet__now-progress--dragging': isSeekDragging }"
+                role="slider"
+                tabindex="0"
+                :aria-valuemin="0"
+                :aria-valuemax="Math.floor(trackProgress.duration)"
+                :aria-valuenow="Math.floor(trackProgress.currentTime)"
+                :aria-valuetext="nowTimeLabel"
+                aria-label="Progreso de la narración"
+                @pointerdown="onSeekPointerDown"
+                @pointermove="onSeekPointerMove"
+                @pointerup="onSeekPointerUp"
+                @pointercancel="onSeekPointerUp"
+                @keydown="onSeekKeydown"
+              >
                 <div
                   class="audio-queue-sheet__now-progress-fill"
                   :style="{ width: `${trackProgress.progress}%` }"
                 />
+                <div
+                  class="audio-queue-sheet__now-progress-thumb"
+                  :style="{ left: `${trackProgress.progress}%` }"
+                  aria-hidden="true"
+                />
+              </div>
+              <div class="audio-queue-sheet__now-time">
+                {{ nowTimeLabel }}
               </div>
             </div>
             <div class="audio-queue-sheet__now-transport">
@@ -186,6 +277,20 @@ onBeforeUnmount(() => document.removeEventListener('pointerdown', onDocPointerDo
                 <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
                   <path d="M15.41 7.41 14 6l-6 6 6 6 1.41-1.41L10.83 12z" fill="currentColor" />
                 </svg>
+              </button>
+              <button
+                type="button"
+                class="audio-queue-sheet__transport-btn audio-queue-sheet__transport-btn--skip"
+                aria-label="Retroceder 10 segundos"
+                @click="seekBy(-SKIP_SECONDS)"
+              >
+                <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+                  <path
+                    d="M11.99 5V1l-5 5 5 5V7c3.31 0 6 2.69 6 6s-2.69 6-6 6-6-2.69-6-6H4c0 4.42 3.58 8 8 8s8-3.58 8-8-3.58-8-8-8z"
+                    fill="currentColor"
+                  />
+                </svg>
+                <span class="audio-queue-sheet__skip-label">10</span>
               </button>
               <button
                 type="button"
@@ -210,6 +315,20 @@ onBeforeUnmount(() => document.removeEventListener('pointerdown', onDocPointerDo
                 >
                   <path d="M8 5v14l11-7z" fill="currentColor" />
                 </svg>
+              </button>
+              <button
+                type="button"
+                class="audio-queue-sheet__transport-btn audio-queue-sheet__transport-btn--skip"
+                aria-label="Adelantar 10 segundos"
+                @click="seekBy(SKIP_SECONDS)"
+              >
+                <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+                  <path
+                    d="M12 5V1l5 5-5 5V7c-3.31 0-6 2.69-6 6s2.69 6 6 6 6-2.69 6-6h2c0 4.42-3.58 8-8 8s-8-3.58-8-8 3.58-8 8-8z"
+                    fill="currentColor"
+                  />
+                </svg>
+                <span class="audio-queue-sheet__skip-label">10</span>
               </button>
               <button
                 type="button"

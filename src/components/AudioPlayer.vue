@@ -37,6 +37,10 @@ const props = withDefaults(
     resumeRequest?: boolean
     /** Pedir seek a 0 */
     seekZeroRequest?: boolean
+    /** Pedir seek a tiempo absoluto (segundos); null = idle */
+    seekToRequest?: number | null
+    /** Token para re-disparar el mismo seek */
+    seekToToken?: number
     /** Mostrar prev/next de cola */
     showTransport?: boolean
   }>(),
@@ -50,6 +54,8 @@ const props = withDefaults(
     pauseRequest: false,
     resumeRequest: false,
     seekZeroRequest: false,
+    seekToRequest: null,
+    seekToToken: 0,
     showTransport: false,
   },
 )
@@ -68,6 +74,7 @@ const emit = defineEmits<{
   pauseConsumed: []
   resumeConsumed: []
   seekZeroConsumed: []
+  seekToConsumed: []
 }>()
 
 const src = computed(() =>
@@ -169,6 +176,31 @@ watch(
       emitProgress()
     }
     emit('seekZeroConsumed')
+  },
+)
+
+watch(
+  () => [props.seekToRequest, props.seekToToken] as const,
+  ([seconds]) => {
+    if (seconds === null || seconds === undefined) return
+    const audio = audioEl.value
+    if (!audio) {
+      emit('seekToConsumed')
+      return
+    }
+    const max =
+      Number.isFinite(duration.value) && duration.value > 0
+        ? duration.value
+        : Number.isFinite(audio.duration)
+          ? audio.duration
+          : seconds
+    const next = Math.min(Math.max(seconds, 0), max)
+    audio.currentTime = next
+    currentTime.value = next
+    if (hasEnded.value && next < max - 0.25) hasEnded.value = false
+    persistPosition(true)
+    emitProgress()
+    emit('seekToConsumed')
   },
 )
 

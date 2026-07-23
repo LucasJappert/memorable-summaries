@@ -13,6 +13,8 @@ const {
   pausePending,
   resumePending,
   seekZeroPending,
+  seekToPending,
+  seekToToken,
   playerExpanded,
   isPlaying,
   hidePlayer,
@@ -23,6 +25,7 @@ const {
   consumePause,
   consumeResume,
   consumeSeekZero,
+  consumeSeekTo,
   reportPlaying,
   reportProgress,
   playNext,
@@ -37,6 +40,8 @@ const shouldAutoplay = ref(false)
 const wantPause = ref(false)
 const wantResume = ref(false)
 const wantSeekZero = ref(false)
+const wantSeekTo = ref<number | null>(null)
+const wantSeekToken = ref(0)
 
 const trackTitle = computed(() => {
   const slug = currentSlug.value
@@ -74,6 +79,12 @@ watch(seekZeroPending, (v) => {
   if (v) wantSeekZero.value = true
 })
 
+watch([seekToPending, seekToToken], ([seconds, token]) => {
+  if (seconds === null) return
+  wantSeekTo.value = seconds
+  wantSeekToken.value = token
+})
+
 function onPlay() {
   shouldAutoplay.value = false
   reportPlaying(true)
@@ -105,6 +116,11 @@ function onResumeConsumed() {
 function onSeekZeroConsumed() {
   wantSeekZero.value = false
   consumeSeekZero()
+}
+
+function onSeekToConsumed() {
+  wantSeekTo.value = null
+  consumeSeekTo()
 }
 
 function onKeydown(event: KeyboardEvent) {
@@ -166,6 +182,8 @@ onBeforeUnmount(() => window.removeEventListener('keydown', onKeydown))
       :pause-request="wantPause"
       :resume-request="wantResume"
       :seek-zero-request="wantSeekZero"
+      :seek-to-request="wantSeekTo"
+      :seek-to-token="wantSeekToken"
       bar
       :expanded="playerExpanded"
       show-transport
@@ -183,6 +201,7 @@ onBeforeUnmount(() => window.removeEventListener('keydown', onKeydown))
       @pause-consumed="onPauseConsumed"
       @resume-consumed="onResumeConsumed"
       @seek-zero-consumed="onSeekZeroConsumed"
+      @seek-to-consumed="onSeekToConsumed"
     />
   </Teleport>
   <AudioQueueSheet :open="queueSheetOpen" @close="closeQueueSheet" />

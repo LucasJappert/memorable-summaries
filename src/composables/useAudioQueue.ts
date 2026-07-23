@@ -26,6 +26,10 @@ const pausePending = ref(false)
 const resumePending = ref(false)
 /** Pedir seek a 0 (prev inteligente estilo YTM) */
 const seekZeroPending = ref(false)
+/** Pedir seek a un tiempo absoluto (segundos) */
+const seekToPending = ref<number | null>(null)
+/** Token para re-disparar el mismo seek */
+const seekToToken = ref(0)
 /** Mini vs panel expandido */
 const playerExpanded = ref(false)
 /** Progreso del track actual (para prev inteligente y UI) */
@@ -341,6 +345,34 @@ function consumeSeekZero(): boolean {
   return true
 }
 
+/** Seek absoluto en segundos (barra / ±10s). */
+function seekTo(seconds: number) {
+  const duration = trackProgress.value.duration
+  const max = duration > 0 && Number.isFinite(duration) ? duration : Number.POSITIVE_INFINITY
+  const next = Math.min(Math.max(seconds, 0), max)
+  seekToPending.value = next
+  seekToToken.value += 1
+  trackProgress.value = {
+    currentTime: next,
+    duration: trackProgress.value.duration,
+    progress:
+      trackProgress.value.duration > 0
+        ? Math.min(100, Math.max(0, (next / trackProgress.value.duration) * 100))
+        : 0,
+  }
+}
+
+function seekBy(deltaSeconds: number) {
+  seekTo(trackProgress.value.currentTime + deltaSeconds)
+}
+
+function consumeSeekTo(): number | null {
+  const value = seekToPending.value
+  if (value === null) return null
+  seekToPending.value = null
+  return value
+}
+
 function playNext() {
   hydrate()
   if (currentIndex.value < 0) return
@@ -477,6 +509,8 @@ export function useAudioQueue() {
     pausePending,
     resumePending,
     seekZeroPending,
+    seekToPending,
+    seekToToken,
     playerExpanded,
     trackProgress,
     undoState,
@@ -499,6 +533,8 @@ export function useAudioQueue() {
     resume,
     reportPlaying,
     reportProgress,
+    seekTo,
+    seekBy,
     playNext,
     playPrev,
     playPrevSmart,
@@ -516,6 +552,7 @@ export function useAudioQueue() {
     consumePause,
     consumeResume,
     consumeSeekZero,
+    consumeSeekTo,
     statsFor,
     toggleMarked,
     ensureBookInQueueAndShow,
