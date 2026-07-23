@@ -34,7 +34,7 @@ Tras generar, sumá el slug a `BOOKS_WITH_AUDIO` en `src/books/audio-catalog.ts`
 - Mientras suena una narración, la bottom bar muestra un ecualizador de fondo.
 - Biblioteca: menú ⋮ en cards con audio (agregar al final / siguiente / reproducir).
 
-## Desarrollo
+### Extraer texto de un epub
 
 ```bash
 python3 scripts/extract-epub.py sapiens          # busca en fuentes/
