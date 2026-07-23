@@ -1,4 +1,7 @@
-/** Slugs con narración TTS en public/audio/<slug>.mp3 */
+/** Slugs con narración TTS en public/audio/<slug>.mp3
+ *  Solo audios regenerados post-rewrite (batch .ok).
+ *  MP3 stale pueden existir en disco pero no se listan aquí.
+ */
 export const BOOKS_WITH_AUDIO = new Set<string>([
   '21-lessons',
   'ageless',
@@ -11,23 +14,19 @@ export const BOOKS_WITH_AUDIO = new Set<string>([
   'black-swan',
   'blind-watchmaker',
   'case-against-reality',
-  'cosmos',
   'death',
-  'determined',
-  'ego-tunnel',
+  'el-gran-diseno',
+  'emergent-multiverse',
+  'emperors-new-mind',
+  'experience-machine',
   'fabric-of-reality',
-  'free-will',
-  'homo-deus',
-  'incognito',
-  'life-3-0',
+  'future-of-the-mind',
+  'godel-escher-bach',
+  'hidden-reality',
+  'how-we-learn',
   'origins',
   'sapiens',
-  'selfish-gene',
   'seven-brief-lessons',
-  'superintelligence',
-  'universo-de-la-nada',
-  'why-evolution-is-true',
-  'wonderful-life',
 ])
 
 export function bookHasAudio(slug: string): boolean {

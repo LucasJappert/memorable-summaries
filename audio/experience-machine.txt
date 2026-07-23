@@ -6,6 +6,8 @@ No percibimos el mundo como una ventana transparente.
 
 Lo construimos en cada instante mezclando predicciones del cerebro con señales sensoriales corregidas por error.
 
+Somos océanos de predicción orquestados por cerebro, cuerpo y mundo
+
 Percepción, acción, emoción y dolor comparten la misma moneda.
 
 Esa moneda es minimizar error de predicción ponderado.
