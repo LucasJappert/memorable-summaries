@@ -66,6 +66,36 @@ CLARIFIED_COMPARISON = re.compile(
     r"accidentes|terrorismo|agrarias|tempranas|UE|tráfico|bacterias|arqueas)\b",
     re.I,
 )
+TERM_SPAN = re.compile(
+    r'<span class="term">([^<]+)</span>',
+    re.I,
+)
+# Glosa inmediata o casi inmediata tras el término
+TERM_GLOSS_AFTER = re.compile(
+    r"^(?:"
+    r"\s*(?:"
+    r"\([^)]{3,160}\)"
+    r"|:\s+\S"
+    r"|—\s+\S"
+    r"|,\s+(?:es decir|o sea|esto es|significa|llamad[oa]s?|se conoce)\b"
+    r"|,\s+(?:un[ao]?|el|la|los|las|esa?|ese|esto)\b"
+    r")"
+    r"|"
+    # glosa tras 1–3 palabras puente: «filos enteros —planes…»
+    r"(?:\s+\S+){1,3}\s*(?:"
+    r"\([^)]{3,160}\)"
+    r"|—\s+\S"
+    r"|:\s+\S"
+    r")"
+    r")",
+    re.I,
+)
+# Glosa justo antes: «X, llamado Y» / explicación … término
+TERM_GLOSS_BEFORE = re.compile(
+    r"(?:llamad[oa]s?|conocido como|conocido[as]? como|se conoce como|"
+    r"es decir|o sea|esto es)\s+$",
+    re.I,
+)
 
 
 def norm(s: str) -> str:
@@ -155,6 +185,45 @@ def check_span_density(sid: str, para: str, issues: list[str]) -> None:
             )
 
 
+def term_has_gloss(para: str, match: re.Match[str]) -> bool:
+    """True if the term span is glossed in the same sentence neighborhood."""
+    before = para[max(0, match.start() - 60) : match.start()]
+    after = para[match.end() : match.end() + 100]
+    if TERM_GLOSS_AFTER.search(after):
+        return True
+    if TERM_GLOSS_BEFORE.search(before):
+        return True
+    # Aposición tipográfica: término seguido de coma y frase explicativa corta
+    if re.match(r"^,\s+(?:un[ao]?|el|la|los|las|esa?|ese|esto)\b", after, re.I):
+        return True
+    return False
+
+
+def check_unexplained_terms(
+    sid: str, para: str, seen_terms: set[str], issues: list[str]
+) -> int:
+    """Warn on first-appearance term spans without a nearby gloss. Returns new-term count."""
+    new_count = 0
+    for m in TERM_SPAN.finditer(para):
+        term = re.sub(r"\s+", " ", m.group(1)).strip().lower()
+        term = term.strip("«»\"'")
+        if not term:
+            continue
+        if term in seen_terms:
+            continue
+        seen_terms.add(term)
+        new_count += 1
+        if not term_has_gloss(para, m):
+            issues.append(
+                f"[{sid}] término sin glosa en 1.ª aparición: «{m.group(1)[:50]}»"
+            )
+    if new_count > 3:
+        issues.append(
+            f"[{sid}] {new_count} términos técnicos nuevos en un párrafo (máx. orientativo: 3)"
+        )
+    return new_count
+
+
 def check_listitis(sid: str, para: str, plain: str, issues: list[str]) -> None:
     if PERSON_LIST.search(para) or TERM_LIST.search(para):
         issues.append(f"[{sid}] posible catálogo de nombres/términos: «{plain[:70]}…»")
@@ -222,6 +291,7 @@ def lint_file(path: Path) -> list[str]:
     issues: list[str] = []
     sections = split_sections(body)
     seen_sentences: dict[str, str] = {}
+    seen_terms: set[str] = set()
 
     for sid, section in sections:
         if sid in ("conceptos", "cronologia", "figuras", "footer", "Contenido"):
@@ -242,11 +312,15 @@ def lint_file(path: Path) -> list[str]:
             continue
 
         blocks = parse_paragraphs(section)
+        section_new_terms = 0
         for kind, para in blocks:
             check_prose_block(sid, kind, para, issues)
             plain = re.sub(r"<[^>]+>", "", para)
 
             if kind.startswith("paragraph"):
+                section_new_terms += check_unexplained_terms(
+                    sid, para, seen_terms, issues
+                )
                 for sent in re.split(r"(?<=[.!?])\s+", plain):
                     sent = sent.strip()
                     s = norm(sent)
@@ -257,6 +331,12 @@ def lint_file(path: Path) -> list[str]:
                             )
                         else:
                             seen_sentences[s] = sid
+
+        if section_new_terms > 3 and sid.startswith("cap"):
+            issues.append(
+                f"[{sid}] {section_new_terms} términos técnicos nuevos en la sección "
+                f"(máx. orientativo: 3 en prosa)"
+            )
 
         if len(blocks) >= 2:
             last_para = (

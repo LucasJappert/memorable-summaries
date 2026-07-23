@@ -50,13 +50,13 @@ La ciencia lleva la antorcha del descubrimiento en la búsqueda del Gran Diseño
 ## title: La cuestión última
 
 <!-- paragraph lead -->
-Tres décadas después de Historia del tiempo, <span class="person">Stephen Hawking</span> y <span class="person">Leonard Mlodinow</span> vuelven a las preguntas que aquel libro no pudo cerrar: ¿por qué existe el universo?, ¿por qué hay algo en lugar de nada?, ¿necesita el cosmos un creador? El desarrollo de la <span class="term">teoría M</span> y las observaciones de satélites como los de la NASA permiten enfrentar por fin la cuestión última.
+¿Por qué existe el universo y hace falta un creador? Tres décadas después de Historia del tiempo, el cosmólogo <span class="person">Stephen Hawking</span> y el físico <span class="person">Leonard Mlodinow</span> retoman las preguntas abiertas. ¿Por qué hay algo en lugar de nada?
 
 <!-- paragraph -->
-La tesis central es audaz y polémica: nuestro universo y muchos otros surgieron de la nada sin intervención divina. La creación no requiere un Dios ni un ser sobrenatural, sino que obedece a las <span class="term">leyes físicas</span>. Si la teoría M se confirma por la observación, habremos completado una búsqueda que se remonta a más de tres mil años de reflexión sobre el cosmos.
+La <span class="term">teoría M</span> (marco unificador de la física con once dimensiones) y los satélites de la NASA permiten enfrentar por fin la cuestión última. La tesis central es audaz: nuestro universo y muchos otros surgieron de la nada sin intervención divina. La creación obedece a <span class="term">leyes físicas</span> (regularidades naturales descubiertas por la ciencia), no a decretos sobrenaturales.
 
 <!-- paragraph -->
-El libro ofrece una imagen del universo muy distinta de la tradicional y también de la que Hawking mismo esbozó hace una o dos décadas. No es un tratado técnico, sino un mapa accesible de la cuántica, la suma de historias, el realismo dependiente del modelo y el multiverso, que hacen posible esa respuesta.
+Cuando la teoría M se confirme con la observación, completaremos una búsqueda de más de tres mil años. El libro ofrece una imagen del cosmos muy distinta de la tradicional. No es un tratado técnico. Es un mapa accesible de ideas que hacen posible esa respuesta.
 
 <!-- key -->
 El libro plantea responder, con la física del siglo <span class="key-term">XXI</span>, las preguntas cosmológicas que la filosofía ya no puede abordar.
@@ -69,16 +69,19 @@ El libro plantea responder, con la física del siglo <span class="key-term">XXI<
 ## title: El misterio del ser
 
 <!-- paragraph lead -->
-Cada humano existe un instante brevísimo y solo explora una fracción minúscula del universo, pero la curiosidad nos empuja a preguntar por la naturaleza de la realidad, el origen de todo y la necesidad de un Creador. Tradicionalmente esas cuestiones correspondían a la filosofía, pero los autores abren con una afirmación contundente: la filosofía ha muerto porque no se mantuvo al corriente de la física moderna.
+¿Puede la física responder por qué hay algo en lugar de nada? Cada humano existe un instante brevísimo y explora solo una fracción minúscula del universo. Aun así, la curiosidad nos empuja a preguntar por el origen de todo y la necesidad de un Creador.
 
 <!-- paragraph -->
-La imagen clásica del mundo, con objetos que tienen posiciones y trayectorias bien definidas, falló en la década de <span class="num">1920</span> ante el comportamiento atómico y subatómico. La <span class="term">física cuántica</span> predice esos fenómenos con precisión asombrosa y recupera las leyes clásicas en la escala cotidiana, pero descansa en una concepción de la realidad radicalmente distinta. <span class="person">Richard Feynman</span> la expresó con claridad: un sistema no tiene una sola historia, sino todas las historias posibles.
+Tradicionalmente esas cuestiones correspondían a la filosofía. Los autores abren con una afirmación contundente: la filosofía ha muerto porque no se mantuvo al corriente de la física moderna. La imagen clásica del mundo falló en la década de <span class="num">1920</span> ante el comportamiento atómico.
 
 <!-- paragraph -->
-Esa idea se extiende al cosmos entero. El universo no tiene una única historia ni una existencia independiente de la observación. Los autores manejan paradojas que chocan con el sentido común, formado por la vida diaria y no por el interior del átomo, mediante el <span class="term">realismo dependiente del modelo</span>. Nuestro cerebro construye modelos a partir de los sentidos y los tomamos por realidad cuando funcionan. Si dos modelos predicen lo mismo, ninguno es más verdadero.
+La <span class="term">física cuántica</span> (la rama que describe átomos y partículas) predice esos fenómenos con precisión asombrosa. Recupera las leyes clásicas en la escala cotidiana, pero descansa en una concepción radicalmente distinta. <span class="person">Richard Feynman</span> lo expresó con claridad: un sistema no tiene una sola historia, sino todas las historias posibles.
 
 <!-- paragraph -->
-La candidata a teoría final es la <span class="term">teoría M</span>, una familia de teorías solapadas como mapas de la Tierra: ninguna cubre todo el terreno, pero donde se superponen coinciden. Según sus predicciones, innumerables universos surgieron de la nada sin Dios, y nuestra presencia selecciona el que puede albergar vida.
+Esa idea se extiende al cosmos entero. Los autores manejan paradojas que chocan con el sentido común. Lo hacen con el <span class="term">realismo dependiente del modelo</span> (la idea de que solo existe la realidad descrita por un modelo coherente con las observaciones). Nuestro cerebro construye modelos a partir de los sentidos.
+
+<!-- paragraph -->
+La candidata a teoría final es la teoría M: una familia de teorías solapadas, como mapas de la Tierra. Según sus predicciones, innumerables universos surgieron de la nada sin Dios. Nuestra presencia selecciona el que puede albergar vida.
 
 <!-- quote -->
 > «La filosofía ha muerto. La filosofía no se ha mantenido al corriente de los desarrollos modernos de la ciencia, en particular de la física.»
@@ -86,6 +89,9 @@ La candidata a teoría final es la <span class="term">teoría M</span>, una fami
 
 <!-- key -->
 La física moderna, con su cuántica, sus historias múltiples y la teoría M, reemplaza a la filosofía como guía para responder por qué hay <span class="key-term">algo</span> en lugar de nada.
+
+<!-- bridge -->
+Antes de hablar del origen del cosmos, hay que entender qué son las leyes que lo rigen.
 
 ---
 
@@ -95,13 +101,16 @@ La física moderna, con su cuántica, sus historias múltiples y la teoría M, r
 ## title: Las reglas de la ley
 
 <!-- paragraph lead -->
-Antes de preguntar por el origen del cosmos hay que entender qué son las <span class="term">leyes de la naturaleza</span>. Los griegos como <span class="person">Tales de Mileto</span> y <span class="person">Pitágoras</span> buscaron regularidades sin recurrir a dioses para cada fenómeno. Siglos después, <span class="person">Isaac Newton</span> unificó los movimientos terrestres y celestes bajo leyes matemáticas, y <span class="person">Pierre-Simon Laplace</span> imaginó un universo determinista donde conocer las leyes y el estado actual bastaría para predecir el futuro entero.
+¿Qué son las leyes que gobiernan el universo? Antes de preguntar por el origen del cosmos hay que entender qué son las <span class="term">leyes de la naturaleza</span> (regularidades matemáticas descubiertas por la observación). Los griegos como <span class="person">Tales de Mileto</span> y <span class="person">Pitágoras</span> buscaron patrones sin recurrir a dioses para cada fenómeno.
 
 <!-- paragraph -->
-La ciencia avanza construyendo modelos que relacionan observaciones con leyes. Las leyes no son decretos divinos sino descripciones descubiertas de regularidades. La <span class="term">relatividad general</span> de Einstein mostró además que el espacio-tiempo no es un escenario fijo: la materia lo curva y esa curvatura es lo que llamamos gravedad. La paradoja de los gemelos demuestra que el tiempo mismo es dinámico, porque el hermano que viaja al espacio envejece menos que el que se queda en la Tierra.
+Siglos después, el físico <span class="person">Isaac Newton</span> unificó los movimientos terrestres y celestes bajo leyes matemáticas. El matemático <span class="person">Pierre-Simon Laplace</span> imaginó un universo determinista: conocer las leyes y el estado actual bastaría para predecir el futuro entero.
 
 <!-- paragraph -->
-Aceptar leyes naturales abre tres preguntas que la ciencia tradicional no resolvió. ¿Por qué existen leyes en absoluto? ¿Por qué estas leyes y no otras? ¿Por qué el universo las obedece? Los autores devuelven esas preguntas a la física moderna en los capítulos siguientes, cuando la cuántica y la teoría M permitan hablar de creación sin legislador.
+La ciencia avanza construyendo modelos que relacionan observaciones con leyes. Las leyes no son decretos divinos sino descripciones descubiertas de regularidades. La <span class="term">relatividad general</span> (teoría de Einstein donde la gravedad curva el espacio y el tiempo) mostró además que el espacio-tiempo no es un escenario fijo.
+
+<!-- paragraph -->
+La paradoja de los gemelos demuestra que el tiempo es dinámico. El hermano que viaja al espacio envejece menos que el que se queda en la Tierra. Aceptar leyes naturales abre tres preguntas que la ciencia tradicional no resolvió. ¿Por qué existen leyes en absoluto? ¿Por qué estas y no otras? ¿Por qué el universo las obedece?
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -113,6 +122,9 @@ Aceptar leyes naturales abre tres preguntas que la ciencia tradicional no resolv
 <!-- key -->
 Las leyes de la naturaleza son descubrimientos científicos, pero aún falta explicar por qué existen y por qué rigen el <span class="key-term">universo</span>.
 
+<!-- bridge -->
+Si las leyes son descubrimientos y no decretos, ¿qué significa entonces que algo sea «real»?
+
 ---
 
 # cap3
@@ -121,19 +133,22 @@ Las leyes de la naturaleza son descubrimientos científicos, pero aún falta exp
 ## title: ¿Qué es la realidad?
 
 <!-- paragraph lead -->
-Si la cuántica contradice la intuición, ¿qué significa «real»? Los autores defienden el <span class="term">realismo dependiente del modelo</span>, según el cual solo existe la realidad que describe un modelo coherente con las observaciones. Nuestros sentidos entregan datos y el cerebro construye una imagen del mundo. Cuando el modelo funciona, lo confundimos con la verdad absoluta.
+¿Qué significa «real» cuando la cuántica contradice la intuición? Los autores defienden el realismo dependiente del modelo. Solo existe la realidad que describe un modelo coherente con las observaciones. Nuestros sentidos entregan datos y el cerebro construye una imagen del mundo.
 
 <!-- paragraph -->
-El <span class="term">Juego de la Vida</span> de <span class="person">John Conway</span> lo ilustra con elegancia. Unas reglas simples sobre una cuadrícula generan patrones complejos como planos, reproductores y calculadoras, sin que las reglas «contengan» esos objetos. Del mismo modo, leyes simples de la física producen la riqueza del cosmos. Las leyes no son entidades separadas del modelo: son parte de él.
+El matemático <span class="person">John Conway</span> creó el <span class="term">Juego de la Vida</span> (simulación en una cuadrícula con reglas simples) en 1970. Unas reglas simples generan patrones complejos como planos y calculadoras. Las reglas no «contienen» esos objetos. Del mismo modo, leyes simples de la física producen la riqueza del cosmos.
 
 <!-- paragraph -->
-La historia de la astronomía muestra que modelos rivales pueden ser igualmente válidos. <span class="person">Ptolomeo</span> situó la Tierra en el centro con epiciclos, y <span class="person">Copérnico</span> movió el Sol al centro. Ambos acordaban con las observaciones de su tiempo. Hoy usamos el modelo heliocéntrico porque es más simple, no porque hayamos «visto» la Tierra girar. En cuántica ocurre lo mismo con distintas formulaciones matemáticas.
+La historia de la astronomía muestra que modelos rivales pueden ser igualmente válidos. <span class="person">Ptolomeo</span> situó la Tierra en el centro con epiciclos. <span class="person">Copérnico</span> movió el Sol al centro. Ambos acordaban con las observaciones de su tiempo. Hoy usamos el modelo heliocéntrico porque es más simple, no porque hayamos «visto» la Tierra girar.
 
 <!-- paragraph -->
-Esta postura libera a la física de perseguir una imagen única del mundo. Lo que importa es que el modelo prediga mediciones. Esa flexibilidad prepara al lector para aceptar que el universo entero puede carecer de una historia única y aun así ser objeto de ciencia rigurosa.
+Esta postura libera a la física de perseguir una imagen única del mundo. Lo que importa es que el modelo prediga mediciones. Esa flexibilidad prepara al lector para aceptar que el universo entero puede carecer de una historia única.
 
 <!-- key -->
 La realidad es la del mejor <span class="key-term">modelo</span> predictivo, no una imagen única independiente de cómo la describamos.
+
+<!-- bridge -->
+Si no hay una sola historia del cosmos, la cuántica obliga a pensar en historias múltiples.
 
 ---
 
@@ -143,16 +158,16 @@ La realidad es la del mejor <span class="key-term">modelo</span> predictivo, no 
 ## title: Historias alternativas
 
 <!-- paragraph lead -->
-La mecánica cuántica es el corazón del libro. A escala microscópica, la luz se comporta como onda y como partícula. El experimento de la <span class="term">doble rendija</span> muestra que un fotón parece atravesar ambas aberturas a la vez y producir un patrón de interferencia, como si interfirieran consigo mismo. La realidad clásica de trayectorias definidas colapsa.
+¿Por qué una partícula puede estar en dos lugares a la vez? La mecánica cuántica es el corazón del libro. A escala microscópica, la luz se comporta como onda y como partícula. El experimento de la <span class="term">doble rendija</span> (dos aberturas por las que pasa un fotón) muestra un patrón de interferencia imposible con trayectorias clásicas.
 
 <!-- paragraph -->
-<span class="person">Werner Heisenberg</span> formuló el <span class="term">principio de incertidumbre</span>: cuanto más precisa es la posición de una partícula, menos precisa es su velocidad, y viceversa. No es un fallo del instrumento sino una propiedad del mundo. Feynman reformuló la teoría con la <span class="term">suma de historias</span>: una partícula va de A a B por todos los caminos posibles simultáneamente, y cada trayectoria aporta una fase que determina la probabilidad del resultado.
+<span class="person">Werner Heisenberg</span> formuló el principio de incertidumbre: cuanto más precisa es la posición de una partícula, menos precisa es su velocidad. No es un fallo del instrumento sino una propiedad del mundo. <span class="person">Richard Feynman</span> reformuló la teoría con la <span class="term">suma de historias</span> (cada partícula recorre todos los caminos posibles a la vez).
 
 <!-- paragraph -->
-La observación es decisiva. Mientras nadie mide, el sistema explora historias superpuestas. Al medir, una de ellas se actualiza. Eso no significa que la conciencia cree la realidad, sino que la interacción física selecciona un resultado entre posibilidades cuánticas. La extrañeza no es retórica: está verificada en laboratorios desde hace casi un siglo.
+La observación es decisiva. Mientras nadie mide, el sistema explora historias superpuestas. Al medir, una de ellas se actualiza. Eso no significa que la conciencia cree la realidad. La interacción física selecciona un resultado entre posibilidades cuánticas.
 
 <!-- paragraph -->
-Si las partículas tienen historias múltiples, el universo entero puede tenerlas. La <span class="term">cosmología cuántica</span> aplica la suma de historias al espacio-tiempo mismo, abriendo la puerta a que el cosmos no tenga un único pasado sino muchos, ponderados por probabilidad. Esa idea es la base de los capítulos cosmológicos.
+Si las partículas tienen historias múltiples, el universo entero puede tenerlas. La <span class="term">cosmología cuántica</span> (aplicación de la cuántica al origen del cosmos) aplica la suma de historias al espacio-tiempo mismo. El cosmos no tiene un único pasado sino muchos, ponderados por probabilidad.
 
 <!-- quote -->
 > «Según Feynman, un sistema no tiene una sola historia, sino todas las historias posibles.»
@@ -160,6 +175,9 @@ Si las partículas tienen historias múltiples, el universo entero puede tenerla
 
 <!-- key -->
 En cuántica, cada sistema recorre todas las <span class="key-term">historias</span> posibles a la vez, y la observación selecciona probabilidades.
+
+<!-- bridge -->
+Esas historias múltiples exigen un marco que una todas las fuerzas de la naturaleza.
 
 ---
 
@@ -169,16 +187,16 @@ En cuántica, cada sistema recorre todas las <span class="key-term">historias</s
 ## title: La teoría de todo
 
 <!-- paragraph lead -->
-La física busca desde hace siglos una <span class="term">teoría del todo</span> que unifique las cuatro fuerzas fundamentales: gravedad, electromagnetismo, fuerza nuclear débil y fuerza nuclear fuerte. <span class="person">James Clerk Maxwell</span> unificó electricidad y magnetismo. Einstein intentó unir gravedad y electromagnetismo sin éxito. En la década de <span class="num">1960</span>, la teoría electrodébil unió electromagnetismo y fuerza débil.
+¿Se pueden unificar todas las fuerzas de la naturaleza? La física busca desde hace siglos una <span class="term">teoría del todo</span> (marco que explique las cuatro fuerzas fundamentales). <span class="person">James Clerk Maxwell</span> unificó electricidad y magnetismo. <span class="person">Albert Einstein</span> intentó unir gravedad y electromagnetismo sin éxito.
 
 <!-- paragraph -->
-La <span class="term">teoría de cuerdas</span> propone que las partículas no son puntos sino vibraciones minúsculas en objetos unidimensionales. Esa idea exige dimensiones extra enrolladas de forma compacta. Surgieron cinco versiones distintas de cuerdas, aparentemente incompatibles, hasta que la <span class="term">teoría M</span> las reconcilió en un marco con <span class="num">11</span> dimensiones, donde también viven las llamadas <span class="term">branas</span>, variedades de distinta dimensionalidad en las que pueden vivir universos enteros.
+En la década de <span class="num">1960</span>, la teoría electrodébil unió electromagnetismo y fuerza nuclear débil. La <span class="term">teoría de cuerdas</span> (modelo donde las partículas son vibraciones minúsculas en objetos unidimensionales) propone dimensiones extra enrolladas de forma compacta. Surgieron cinco versiones distintas, aparentemente incompatibles.
 
 <!-- paragraph -->
-La teoría M no es una sola teoría sino una familia de modelos, como un atlas de mapas. Cada versión describe bien las observaciones solo en un dominio limitado, como las energías bajas, y donde los dominios se solapan predicen lo mismo. No existe un mapa plano único del universo físico, ni una ecuación única para todo.
+La teoría M las reconcilió en un marco con <span class="num">11</span> dimensiones. No es una sola teoría sino una familia de modelos, como un atlas de mapas. Cada versión describe bien las observaciones solo en un dominio limitado. Donde los dominios se solapan predicen lo mismo.
 
 <!-- paragraph -->
-El paisaje de la teoría M admite del orden de <span class="num">10⁵⁰⁰</span> configuraciones distintas de leyes y constantes. Ese número vertiginoso no es un defecto: será la base del argumento multiverso en el capítulo siguiente.
+El paisaje de la teoría M admite del orden de <span class="num">10⁵⁰⁰</span> configuraciones distintas de leyes y constantes. Ese número vertiginoso no es un defecto. Será la base del argumento multiverso en el capítulo siguiente.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -190,6 +208,9 @@ El paisaje de la teoría M admite del orden de <span class="num">10⁵⁰⁰</sp
 <!-- key -->
 La <span class="key-term">teoría M</span> unifica las fuerzas como un atlas de modelos solapados, con un paisaje de ~10⁵⁰⁰ configuraciones posibles.
 
+<!-- bridge -->
+Con ese marco teórico, la cosmología puede explicar cómo surgen universos enteros.
+
 ---
 
 # cap6
@@ -198,16 +219,16 @@ La <span class="key-term">teoría M</span> unifica las fuerzas como un atlas de 
 ## title: Escogiendo nuestro universo
 
 <!-- paragraph lead -->
-La cosmología moderna describe un universo que se expandió desde un estado muy denso y caliente hace unos <span class="num">13.800 millones</span> de años. La <span class="term">inflación</span>, una expansión exponencial fracciones de segundo después del origen, explica por qué el cosmos es tan uniforme y tan plano. Las fluctuaciones cuánticas en ese período sembraron las galaxias.
+¿Por qué existe nuestro universo y no otro? La cosmología moderna describe un cosmos que se expandió desde un estado muy denso y caliente hace unos <span class="num">13.800 millones</span> de años. La <span class="term">inflación</span> (expansión exponencial fracciones de segundo después del origen) explica por qué el cosmos es tan uniforme y tan plano.
 
 <!-- paragraph -->
-Pero el Big Bang de nuestro universo no tiene por qué ser único. La combinación de gravedad cuántica y la suma de historias permite que universos enteros surjan de la nada, sin coste energético neto en un cosmos cerrado. Los autores formulan la tesis más citada del libro: dado que existe una ley como la gravedad, el universo puede y va a crearse a sí mismo a partir de la nada. La <span class="term">creación espontánea</span> es la razón de que haya algo y no nada.
+Pero el Big Bang de nuestro universo no tiene por qué ser único. La combinación de gravedad cuántica y la suma de historias permite que universos enteros surjan de la nada. Los autores formulan la tesis más citada del libro. Dado que existe una ley como la gravedad, el universo puede crearse a sí mismo a partir de la nada.
 
 <!-- paragraph -->
-Eso produce un <span class="term">multiverso</span> inmenso. La mayoría de los universos tendrán leyes incompatibles con la vida. Solo unos pocos permitirán estructuras complejas. Nuestra existencia no designa el cosmos, pero selecciona cuál observamos. El <span class="term">principio antrópico débil</span> dice que solo en un universo habitable podríamos formular la pregunta.
+Eso produce un <span class="term">multiverso</span> (conjunto de universos con leyes y constantes distintas) inmenso. La mayoría tendrán leyes incompatibles con la vida. Solo unos pocos permitirán estructuras complejas. Nuestra existencia no designa el cosmos, pero selecciona cuál observamos.
 
 <!-- paragraph -->
-<span class="person">Einstein</span> preguntó si Dios tuvo elección al crear el universo. La respuesta de los autores es que, si existe un multiverso con todas las posibilidades, un diseñador que «elige» unas leyes resulta redundante: la física ya explica la variedad.
+<span class="person">Einstein</span> preguntó si Dios tuvo elección al crear el universo. La respuesta de los autores es que un diseñador que «elige» unas leyes resulta redundante si ya existe un multiverso con todas las posibilidades. La física explica la variedad sin un agente externo.
 
 <!-- quote -->
 > «Dado que existe una ley como la gravedad, el universo puede y va a crearse a sí mismo a partir de la nada.»
@@ -215,6 +236,9 @@ Eso produce un <span class="term">multiverso</span> inmenso. La mayoría de los 
 
 <!-- key -->
 Los universos surgen solos de la nada por las leyes físicas, y nuestra presencia <span class="key-term">selecciona</span> el cosmos habitable entre un multiverso inmenso.
+
+<!-- bridge -->
+Si hay innumerables universos, las constantes de la naturaleza parecen milagrosamente afinadas para la vida.
 
 ---
 
@@ -224,13 +248,16 @@ Los universos surgen solos de la nada por las leyes físicas, y nuestra presenci
 ## title: El milagro aparente
 
 <!-- paragraph lead -->
-Las constantes de la naturaleza parecen afinadas con precisión milimétrica para permitir la vida. Si la fuerza nuclear fuerte fuera ligeramente distinta, no existirían átomos estables. Si la fuerza débil cambiara, el hidrógeno no se quemaría en las estrellas. El carbono, base de la química vital, solo se forma gracias a una resonancia que <span class="person">Fred Hoyle</span> predijo antes de que se midiera.
+¿Por qué las constantes de la naturaleza parecen afinadas para permitir la vida? Una ligera variación en la fuerza nuclear fuerte impediría átomos estables. Un cambio en la fuerza débil impediría que el hidrógeno arda en las estrellas. El carbono solo se forma gracias a una resonancia que <span class="person">Fred Hoyle</span> predijo antes de que se midiera.
 
 <!-- paragraph -->
-Frente a ese ajuste fino hay tres respuestas. La primera es la suerte pura: ganamos la lotería cósmica. La segunda es el diseño divino: un Creador eligió las constantes. La tercera es el multiverso: con <span class="num">10⁵⁰⁰</span> configuraciones posibles, es inevitable que algún universo resulte habitable, y solo en uno así podemos preguntarnos por qué.
+Frente a ese ajuste fino hay tres respuestas. La primera es la suerte pura: ganamos la lotería cósmica. La segunda es el diseño divino: un Creador eligió las constantes. La tercera es el multiverso: con <span class="num">10⁵⁰⁰</span> configuraciones posibles, es inevitable que algún universo resulte habitable.
 
 <!-- paragraph -->
-Los autores rechazan el <span class="term">diseño inteligente</span> como explicación científica porque solo traslada el misterio. Si las leyes requieren un diseñador, el diseñador requiere una explicación mayor. El «dios de los huecos», que invoca lo divino solo donde la ciencia aún no llegó, se reduce con cada avance. El ajuste fino parece milagro, pero el multiverso lo convierte en consecuencia estadística.
+Los autores rechazan el <span class="term">diseño inteligente</span> (la idea de que un agente diseñó la vida) como explicación científica porque solo traslada el misterio. El «dios de los huecos» invoca lo divino solo donde la ciencia aún no llegó. Ese espacio se reduce con cada avance.
+
+<!-- paragraph -->
+El ajuste fino parece milagro, pero el multiverso lo convierte en consecuencia estadística. Solo en un universo habitable podríamos formular la pregunta. Eso es lo que el principio antrópico débil resume.
 
 <!-- big-numbers -->
 | value | label |
@@ -241,6 +268,9 @@ Los autores rechazan el <span class="term">diseño inteligente</span> como expli
 <!-- key -->
 El ajuste fino de las constantes parece milagro, pero el <span class="key-term">multiverso</span> y el principio antrópico lo explican sin diseñador.
 
+<!-- bridge -->
+Con el multiverso resuelto, queda la pregunta filosófica final: ¿hace falta un creador?
+
 ---
 
 # cap8
@@ -249,16 +279,16 @@ El ajuste fino de las constantes parece milagro, pero el <span class="key-term">
 ## title: El gran diseño
 
 <!-- paragraph lead -->
-El libro contrapone dos enfoques para entender el origen. El <span class="term">enfoque tradicional</span> asume un Dios que creó el universo, interviene con milagros y está por encima de las leyes naturales. El <span class="term">enfoque científico</span>, con leyes inviolables, creación espontánea y multiverso, explica los mismos fenómenos sin postular un agente externo.
+¿Hace falta un Dios para explicar el origen del universo? El libro contrapone dos enfoques. El <span class="term">enfoque tradicional</span> (Dios crea el universo e interviene con milagros) asume un agente por encima de las leyes naturales. El <span class="term">enfoque científico</span> (leyes inviolables, creación espontánea y multiverso) explica los mismos fenómenos sin postular un agente externo.
 
 <!-- paragraph -->
-El enfoque tradicional falla donde la cuántica y la cosmología moderna avanzan. Si los universos pueden crearse solos y las leyes surgen del paisaje de la teoría M, invocar a Dios para «encender la mecha» del cosmos es innecesario. Los autores recuerdan que, en el famoso debate con <span class="person">Newton</span>, se afirmó que no hace falta invocar a Dios para poner en marcha el universo.
+El enfoque tradicional falla donde la cuántica y la cosmología moderna avanzan. Los universos pueden crearse solos y las leyes surgen del paisaje de la teoría M. Invocar a Dios para «encender la mecha» del cosmos resulta innecesario. En el famoso debate con Newton ya se afirmó que no hace falta invocar a Dios para poner en marcha el universo.
 
 <!-- paragraph -->
-La creación espontánea responde a la pregunta de por qué hay algo en lugar de nada. No es que la nada sea un vacío absoluto sin leyes: la nada cuántica es inestable y produce universos. La ciencia no demuestra que Dios no exista, pero muestra que no es necesario para explicar el cosmos. La filosofía y la teología cedieron la antorcha a la física.
+La creación espontánea responde a la pregunta de por qué hay algo en lugar de nada. La nada cuántica no es un vacío absoluto sin leyes: es inestable y produce universos. La ciencia no demuestra que Dios no exista. Muestra que no es necesario para explicar el cosmos.
 
 <!-- paragraph -->
-A diferencia de la Guía del autoestopista galáctico, la respuesta no es «42». Es que las leyes de la gravedad y la mecánica cuántica, encuadradas en la teoría M, bastan para que el universo, y nosotros dentro de él, existamos sin diseñador.
+A diferencia de la Guía del autoestopista galáctico, la respuesta no es «42». Las leyes de la gravedad y la mecánica cuántica, encuadradas en la teoría M, bastan para que el universo exista sin diseñador.
 
 <!-- quote -->
 > «No es necesario invocar a Dios para encender la mecha azul y poner en marcha el universo.»

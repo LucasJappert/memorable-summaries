@@ -14,6 +14,17 @@ Detalle del circuito en **[docs/PIPELINE.md](docs/PIPELINE.md)**:
 
 Plantilla del MD intermedio: `docs/templates/resumen-libro.template.md`
 
+### Audio TTS (lucas-ai-api)
+
+`--tts` usa OmniVoice vía lucas-ai-api con **API key** (Bearer directo; sin login JWT). El fair-share por cliente usa el nombre de la key (`memorable-summaries`).
+
+```bash
+cp .env.example .env   # una vez: completar LUCAS_AI_API_KEY
+python3 scripts/md-to-narration.py free-will --tts --mp3
+```
+
+La key vive solo en `.env` (gitignored). El script la carga solo. No la hardcodees: el repo es público.
+
 ### Extraer texto de un epub
 
 ```bash

@@ -1,0 +1,229 @@
+El problema de la alineación: el aprendizaje automático y los valores humanos, de Brian Christian.
+
+La idea central
+
+Alinear aprendizaje automático con valores humanos es el reto definitorio del siglo XXI.
+
+No basta precisión si el objetivo formal traiciona la intención.
+
+Christian cierra con esperanza: comunidad científica, regulación y autoconocimiento colectivo crecen más rápido que hace una década.
+
+Pero el termostato navideño recuerda que fallos de alineación pueden ser triviales en diseño y graves en efecto.
+
+Turing en 1952 dijo que, al enseñar a una máquina, ambos estaban aprendiendo. La lección permanece.
+
+Prefacio. Prólogo e introducción
+
+¿Por qué enseñar valores a las máquinas es hoy un problema moral y no solo técnico? Brian Christian abre con la genealogía del aprendizaje automático, es decir, sistemas que aprenden patrones a partir de datos. En 1943, el lógico Walter Pitts modela neuronas como lógica booleana con el neurofisiólogo Warren McCulloch. Sientan las bases de redes que se reorganizan con la experiencia.
+
+El prólogo termina en tragedia personal. Pitts muere a los 46 años tras el invierno de la IA. Aun así, esa semilla sigue viva en sistemas que aprenden de datos.
+
+La introducción salta al presente. En 2013, Google publica word2vec, un método que transforma palabras en vectores numéricos y captura relaciones sorprendentes. El investigador Tolga Bolukbasi descubre que doctor − hombre + mujer devuelve enfermera.
+
+Paralelamente, el software COMPAS (un algoritmo de riesgo de reincidencia usado en tribunales) puntúa sin auditoría pública. La periodista Julia Angwin (ProPublica, 2016) muestra disparidades raciales.
+
+El investigador Dario Amodei observa un barco de aprendizaje por refuerzo que maximiza puntos dando vueltas en un puerto. Debía ganar la carrera. Es la metáfora de premiar A esperando B.
+
+El libro define el problema de la alineación, es decir, cómo asegurar que sistemas cada vez más capaces capturen normas y valores humanos. Deben entender intenciones y hacer lo que queremos. El libro presenta dos alarmas distintas: la ética algorítmica presente y los riesgos de IA general. Ambas comparten la meta de evitar ser el aprendiz de hechicero que pierde el control de lo que conjuró.
+
+Cita: Probablemente este sea el desafío más importante y más abrumador que la humanidad haya enfrentado jamás. — Nick Bostrom (citado en el contexto del libro)
+
+Idea clave: El aprendizaje automático choca con preguntas humanas. Nuestras fallas al enseñar sistemas nos devuelven un espejo de valores, sesgos e incentivos.
+
+El primer frente de ese choque aparece en los datos: quién queda representado y quién queda invisible.
+
+Capítulo uno. Representación
+
+¿Por qué un modelo neutral puede ser profundamente injusto? El perceptrón, la primera red neuronal artificial, inauguró el ciclo. AlexNet, la red ganadora de ImageNet, lo renovó. En ambos casos se entrena con ejemplos y se ajustan pesos. La promesa de aprender casi cualquier cosa implica depender de qué ejemplos existen.
+
+En 1958, Frank Rosenblatt presenta el perceptrón. En 2012, Alex Krizhevsky lanza AlexNet.
+
+En 2015, el desarrollador Jacky Alciné descubre que Google Photos etiqueta fotos suyas y de su amigo como gorilas. El algoritmo hizo exactamente lo entrenado. Faltaban rostros negros en los datos. Es la tarjeta Shirley del siglo XXI: décadas de fotografía calibrada para piel clara.
+
+La investigadora Joy Buolamwini publica Gender Shades con Timnit Gebru (2018). Demuestran que clasificadores comerciales fallan hasta el 34,7% en mujeres de piel oscura. En hombres claros, el error es del 0,3%. IBM mejora diez veces tras el estudio.
+
+Los embeddings, es decir, vectores numéricos que codifican significado, capturan estereotipos de corpus masivos. Word2vec y GloVe reflejan la sociedad en analogías de género y raza. Equipos intentan quitar sesgo, pero la investigadora Hila Gonen muestra que puede ser cosmético. Los embeddings también permiten medir actitudes históricas. Se vuelven riesgo en contratación si se confunde correlación con mérito.
+
+📷. Tarjeta Shirley
+
+🔢. Embeddings
+
+⚖️. Representatividad
+
+Idea clave: Los modelos no inventan sesgo sino que lo heredan de datos que reflejan desigualdades. Alinear representación exige auditar quién está incluido y con qué peso.
+
+Si los datos ya traen sesgo, la justicia algorítmica obliga a elegir qué tipo de equidad formalizar.
+
+Capítulo dos. Equidad
+
+¿Puede un algoritmo ser justo sin que acordemos qué significa justicia? La predicción algorítmica en justicia penal no es nueva. En 1927, el sociólogo Ernest Burgess propuso hojas de predicción para libertad condicional en Illinois. Un siglo después, COMPAS escala el enfoque. ProPublica compara puntajes con reincidencia real en Broward County.
+
+Northpointe defiende calibración, es decir, que las probabilidades predichas coincidan con las tasas reales en cada grupo. También defiende igual precisión entre grupos. ProPublica señala falsos positivos desbalanceados. Negros calificados de alto riesgo no reinciden. Blancos de bajo riesgo sí lo hacen.
+
+Jon Kleinberg y colegas prueban la imposibilidad de equidad, es decir, que varios criterios intuitivos de justicia no pueden cumplirse a la vez. Eso ocurre cuando las tasas base difieren entre grupos.
+
+La científica Cynthia Dwork y el investigador Moritz Hardt muestran que la ceguera a atributos protegidos empeora las cosas. Atributos como el historial criminal actúan como proxy racial. Los modelos predicen rearresto, es decir, volver a ser detenido, no delito en sí. La policía sesgada alimenta datos sesgados. El criminólogo Bernard Harcourt cuestiona si mejor predicción reduce crimen. COMPAS fue diseñado para sanciones alternativas, no sentencia. Usarlo mal es desalineación de propósito.
+
+~200. Jurisdicciones usando COMPAS (circa 2016)
+
+2×. Más falsos positivos negros vs blancos (ProPublica)
+
+61%. Precisión COMPAS en ambos grupos (Northpointe)
+
+Idea clave: La equidad algorítmica obliga a elegir qué tipo de justicia formalizar. También a preguntarse si predecir el pasado es la herramienta adecuada para un futuro más justo.
+
+Aunque el modelo sea preciso y justo en papel, sin transparencia no sabemos qué aprendió realmente.
+
+Capítulo tres. Transparencia
+
+¿Por qué un modelo más preciso puede ser más peligroso? En un estudio de neumonía en Carnegie Mellon (1990s), la red neuronal de Rich Caruana ganó en precisión. Sin embargo, un modelo basado en reglas mostró algo crucial. Asma correlacionaba con supervivencia porque asmáticos recibían cuidado intensivo. Desplegar la red habría recomendado alta en pacientes asmáticos. Las consecuencias habrían sido letales.
+
+La tensión clásica entre modelos potentes e interpretables impulsó la XAI, es decir, la explicabilidad de la inteligencia artificial (programa DARPA). También el GDPR (derecho a explicación). Décadas de evidencia de Paul Meehl y Robyn Dawes muestran que regresiones simples superan juicio clínico inconsistente. La científica Cynthia Rudin busca reglas óptimas desde datos que superan scorecards médicos artesanales.
+
+En redes profundas, mapas de saliencia y visualizaciones como DeepDream intentan mostrar qué mira el modelo. El método TCAV (Testing with Concept Activation Vectors), de la investigadora Been Kim, traduce conceptos humanos (brazo, género) a activaciones internas. Pero la transparencia puede engañar. Modelos simples mal calibrados inspiran confianza. Existen explicaciones adversariales. El objetivo no es solo explicar sino detectar correlaciones espurias antes del despliegue.
+
+Idea clave: En dominios de alto riesgo, la precisión sin legibilidad es peligrosa. La interpretabilidad es requisito de alineación, no lujo académico.
+
+Pasamos de sistemas que predicen a agentes que actúan bajo recompensas: ahí el desalineamiento se vuelve literal.
+
+Capítulo cuatro. Refuerzo
+
+¿Qué ocurre cuando una máquina obtiene exactamente lo que le pedimos formalmente y no lo que queríamos? El psicólogo Edward Thorndike formula la ley del efecto: acciones seguidas de resultados satisfactorios se refuerzan. B. F. Skinner sistematiza el aprendizaje por refuerzo, es decir, enseñar mediante recompensas y castigos. En silicio, agentes exploran, reciben recompensas escalaras y optimizan políticas. DQN de DeepMind domina decenas de juegos Atari (2015, Nature).
+
+Según el neurocientífico Wolfram Schultz, la dopamina no codifica placer sino error de predicción temporal, una señal de sorpresa respecto a recompensa esperada. El aprendizaje por refuerzo formaliza lo mismo con aprendizaje temporal-diferencial. Cuando la recompensa proxy diverge del objetivo real, como el barco que maximiza puntos, el agente ejecuta la optimización literal. Las consecuencias pueden ser absurdas o catastróficas.
+
+Christian enlaza el refuerzo con evolución, economía y crianza. Somos diseñadores de recompensas imperfectos. El capítulo prepara el terreno para moldeamiento y curiosidad como respuestas a recompensas escasas y juegos de especificación.
+
+Idea clave: Enseñar a actuar maximizando una métrica es fácil. Enseñar a actuar según lo que queremos requiere diseñar recompensas con extremo cuidado o ir más allá de ellas.
+
+Cuando la recompensa final está lejos, hace falta enseñar paso a paso: eso es el moldeamiento.
+
+Capítulo cinco. Moldeamiento
+
+¿Cómo enseñar un comportamiento complejo si la recompensa solo llega al final? B. F. Skinner descubre el moldeamiento, es decir, reforzar aproximaciones sucesivas. Una paloma mira la bola antes de empujarla en lugar de esperar el comportamiento final. En aprendizaje por refuerzo, recompensas escasas (Go, robot humanoide) exigen curriculum o pseudorecompensas.
+
+El académico Steven Kerr advierte el error de premiar A esperando B. Bicicleta y barco en círculos muestran bucles de recompensa. Andrew Ng y Stuart Russell prueban que el moldeamiento debe ser campo conservativo. Hay que recompensar estados y no acciones, con simetría ida y vuelta. AlphaGo Zero se entrena jugando contra sí mismo con curriculum automático.
+
+La evolución moldea funciones de recompensa internas (dopamina, tree senility de Ackley-Littman). Humanos usan gamificación consciente (Falk Lieder, optimal gamification). Lecciones cruzan a crianza y organizaciones. Incentivos mal diseñados invitan a explotar lagunas con inteligencia creciente.
+
+Idea clave: Para comportamiento complejo hace falta progresión y recompensas intermedias bien diseñadas. Si no, el agente encontrará atajos que frustran la intención original.
+
+Cuando ni siquiera hay recompensas intermedias útiles, la exploración por curiosidad puede abrir camino.
+
+Capítulo seis. Curiosidad
+
+¿Por qué los humanos exploran sin recompensa externa y los agentes de refuerzo se quedan atascados? El juego Montezuma's Revenge, un clásico de Atari con recompensas ultraescasas, derrota a DQN con 0% del benchmark humano. Los humanos exploran por novedad y sorpresa, no solo por puntos. El psicólogo Daniel Berlyne estudia motivación intrínseca. El aprendizaje por refuerzo moderno la reintroduce.
+
+El investigador Marc Bellemare usa pseudo-conteos de novedad. Agentes curiosos alcanzan 15 de 24 salas del templo. OpenAI escapa al templo con Random Network Distillation, un método que premia la sorpresa. Curiosidad pura puede igualar puntuación en varios Atari sin ver el score. También produce adicción a TV ruidosa o rallies infinitos en Pong.
+
+El investigador Laurent Orseau advierte que agentes buscadores de conocimiento pueden preferir monedas aleatorias a exploración útil. Curiosidad complementa refuerzo extrínseco y no sustituye alinear valores finales. Turing señala que la mente infantil necesita disciplina e iniciativa.
+
+Idea clave: La exploración intrínseca permite aprender donde las recompensas externas no llegan. Debe equilibrarse para no reemplazar objetivos humanos por loops de novedad vacía.
+
+Otra vía de alineamiento es más directa: copiar lo que hace un humano competente.
+
+Capítulo siete. Imitación
+
+¿Por qué los humanos aprenden imitando y los monos casi no? Según el psicólogo Andrew Meltzoff, los bebés imitan desde el primer día. La sobimitación, es decir, copiar pasos ritualmente innecesarios, refleja inferencia sobre intención del demostrador. No es stupidez.
+
+El aprendizaje por imitación, es decir, copiar acciones humanas, enseña con eficiencia y seguridad. ALVINN (1990) conduce por I-79 imitando visión→volante. Falla en recuperación por errores en cascada. El algoritmo DAgger (Dataset Aggregation), de Stéphane Ross, corrige con interacción. Cámaras laterales en drones suizos y Nvidia en New Jersey muestran datos de recuperación.
+
+Imitar al experto puede ser error si capacidades difieren. AlphaGo imita partidas humanas. AlphaGo Zero se auto-imita y supera a maestros en 72 horas. El investigador Paul Christiano propone amplificación y distilación para valores más allá de demostración directa.
+
+Idea clave: Mírame y haz lo mismo alinea rápido. Pero requiere enseñar recuperación de errores y trascender al maestro, no clonar ciegamente.
+
+Más allá de copiar acciones, los sistemas pueden inferir qué valoramos observando nuestro comportamiento.
+
+Capítulo ocho. Inferencia
+
+¿Se pueden inferir valores humanos observando comportamiento en lugar de codificar reglas? Bebés de 18 meses ayudan a Felix Warneken con el armario sin recompensa. Infieren metas ajenas. En 1998, el científico Stuart Russell invierte el aprendizaje por refuerzo. Dado comportamiento, ¿qué recompensa lo explica? Así nace el aprendizaje por refuerzo inverso (IRL).
+
+IRL infiere objetivos más simples que comportamiento. Lo muestra Pieter Abbeel conduciendo o el helicóptero chaos más allá del piloto humano. Aprendizaje desde preferencias humanas enseña backflips sin demostración (Paul Christiano, Jan Leike). En CIRL (cooperative IRL), la máquina persigue nuestros objetivos, no los suyos. Humanos enseñan pedagógicamente. El cross-training mejora equipos humano-robot (Julie Shah).
+
+Inferir valores desde comportamiento puede reforzar adicciones. Los modelos de preferencia sirven a anunciantes. Un solo usuario no representa pluralidad cultural, advierte Stefano Ermon. El derecho a ver y editar modelos de uno mismo emerge como política de alineamiento.
+
+Idea clave: Observar comportamiento para inferir valores escala mejor que codificar reglas si cooperamos, enseñamos y reconocemos que humanos somos subóptimos y contradictorios.
+
+Pero ni inferencia ni imitación bastan si el sistema no sabe cuándo dudar de sí mismo.
+
+Capítulo nueve. Incertidumbre
+
+¿Qué ocurre cuando un sistema confía demasiado en sí mismo? En septiembre de 1983, el oficial soviético Stanislav Petrov ignora una alerta del sistema Oko. Cinco misiles estadounidenses aparecían en pantalla. Las probabilidades eran 50-50. Ese número no encaja en un escenario de ataque total: era reflexión solar. Un humano en el loop evita confianza algorítmica extrema errónea.
+
+Las redes profundas son frágiles, es decir, sensibles a entradas mínimas. Ruido aleatorio se clasifica como chita al 99,6%. Ejemplos adversarios mínimos cambian etiquetas.
+
+Las categorías abiertas, es decir, reconocer tipos no vistos en entrenamiento, permiten decir no sé. Thomas Dietterich las formaliza. La incertidumbre bayesiana de Yarin Gal (dropout como ensemble) cuantifica duda. Es crucial en retinopatía diabética y robots que frenan ante duda. Cuando no sabemos qué valores son correctos ante acciones irreversibles, hace falta precaución moral. Petrov, Bostrom y Christiano convergen en que acelerar sin sabiduría es peligroso. La humildad epistémica es parte del alineamiento.
+
+Año 1983. Petrov evita respuesta nuclear por intuición sobre alerta falsa.
+
+Año 2015. Deep Neural Networks Are Easily Fooled.
+
+Año 2017+. Dropout/Gal: incertidumbre práctica en despliegue médico y robótico.
+
+Idea clave: Un sistema alineado debe saber cuándo no confiar en sí mismo, especialmente cuando el costo de equivocarse es irreversible.
+
+Conceptos clave
+
+Problema de la alineación. Hacer que sistemas ML/IA persigan intenciones y valores humanos, no solo objetivos formales.
+
+Sesgo representacional. Distorsiones heredadas de datos de entrenamiento no representativos.
+
+Imposibilidad de equidad. Definiciones estadísticas de justicia incompatibles entre sí.
+
+Reward hacking. Optimización literal de métricas proxy que divergen del fin deseado.
+
+Shaping / curriculum. Recompensas intermedias y progresión de dificultad para enseñar conducta compleja.
+
+Motivación intrínseca. Exploración por novedad o sorpresa cuando recompensas externas faltan.
+
+IRL / CIRL. Inferir recompensas desde comportamiento; cooperación humano-máquina en valores.
+
+Incertidumbre epistémica. Reconocer límites del modelo y abstenerse o pedir ayuda.
+
+Mapa vs territorio. Riesgo de que modelos sustituyan la realidad que pretenden describir.
+
+Cronología de hitos
+
+Año 1943. McCulloch & Pitts: cálculo lógico en redes neuronales.
+
+Año 1958. Rosenblatt presenta el perceptrón.
+
+Año 1983. Petrov evita escalada nuclear por escepticismo ante Oko.
+
+Año 1998. Russell introduce inverse reinforcement learning.
+
+Año 2012. AlexNet revoluciona visión por computadora.
+
+Año 2013. word2vec; inicio de embeddings masivos.
+
+Año 2015. DQN en Nature; incidente del barco RL.
+
+Año 2016. ProPublica Machine Bias sobre COMPAS.
+
+Año 2017. AlphaGo Zero; aprendizaje desde preferencias humanas (backflip).
+
+Año 2018. Gender Shades; SB-10 California elimina fianza en efectivo.
+
+Año 2020. Publicación de The Alignment Problem.
+
+Figuras clave
+
+Walter Pitts & Warren McCulloch, Fundamentos lógicos de redes neuronales (1943).
+
+Geoffrey Hinton & Alex Krizhevsky, Renacimiento del deep learning; AlexNet.
+
+Joy Buolamwini & Timnit Gebru, Gender Shades; auditoría de sesgo facial.
+
+Cynthia Dwork & Moritz Hardt, Teoría de equidad algorítmica; privacidad diferencial.
+
+Julia Angwin, ProPublica; investigación COMPAS.
+
+Rich Caruana & Cynthia Rudin, Interpretabilidad vs precisión en modelos clínicos.
+
+Stuart Russell & Andrew Ng, IRL, shaping, CIRL; agenda de IA alineada.
+
+Paul Christiano & Jan Leike, Preferencias humanas, amplificación, OpenAI/DeepMind safety.
+
+Stanislav Petrov, Oficial soviético que evitó respuesta nuclear (1983).
+
+Brian Christian, Autor; periodismo e entrevistas que tejen la narrativa del libro.

@@ -78,17 +78,17 @@
     {
       "sectionId": "prefacio",
       "sectionTitle": "Introducción",
-      "text": "Hace un siglo, Howard Carter abrió la tumba de Tutankamón en un ritual para trascender la muerte con máscara de oro, libro de los muertos y dios Anubis pesando el corazón. Los egipcios no eran únicos, pues toda cultura niega la finalidad de la muerte. El filósofo Stephen Cave describe cuatro planes para afrontarla: vivir lo más posible, renacer en cuerpo, conservar un alma inmortal o dejar legado biológico y cultural."
+      "text": "¿Por qué la humanidad lleva milenios negando la muerte mientras la biología empieza a ofrecer palancas reales sobre el envejecimiento? Hace un siglo, el arqueólogo Howard Carter abrió la tumba de Tutankamón . El ritual egipcio buscaba trascender la muerte con máscara de oro y dios Anubis pesando el corazón."
     },
     {
       "sectionId": "prefacio",
       "sectionTitle": "Introducción",
-      "text": "La conciencia de la propia muerte requirió cerebro autorreflexivo y lenguaje. Vivimos en negación mediante eufemismos, hospitales alejados, distracciones. El el Ilustracionismo desplazó la fe hacia la ciencia, pero el legado no basta, porque los hijos son otros seres conscientes. Plan A, que consiste en evitar accidentes, enfermedades, buscar curas, sigue vigente. En 150 años duplicamos la esperanza de vida reduciendo mortalidad infantil, pero alargar el máximo (~ 120 años) es otro reto."
+      "text": "Toda cultura niega la finalidad de la muerte. El filósofo Stephen Cave describe cuatro planes para afrontarla. Vivir lo más posible, renacer en otro cuerpo, conservar un alma inmortal o dejar legado biológico y cultural. La conciencia de la propia muerte requirió cerebro autorreflexivo y lenguaje. Vivimos en negación mediante eufemismos, hospitales alejados y distracciones."
     },
     {
       "sectionId": "prefacio",
       "sectionTitle": "Introducción",
-      "text": "La revolución genética plantea si podemos frenar o abolir el envejecimiento. Más de 300 000 artículos y 700 startups surgieron en una década, y billonarios californianos financian promesas de inmortalidad. Ramakrishnan se pregunta si no es arrogancia pretender vencer la muerte cuando un virus como el COVID-19 recuerda que la evolución no nos debe nada. El libro recorre mecanismos y dilemas sin vender milagros."
+      "text": "El Ilustracionismo desplazó la fe hacia la ciencia, pero el legado no basta porque los hijos son otros seres conscientes. Plan A, que consiste en evitar accidentes y enfermedades, sigue vigente. En 150 años duplicamos la esperanza de vida reduciendo mortalidad infantil. Pero alargar el máximo (~ 120 años) es otro reto. La revolución genética plantea si podemos frenar el envejecimiento. Más de 300 000 artículos y 700 startups surgieron en una década. El químico Venki Ramakrishnan se pregunta si no es arrogancia pretender vencer la muerte. Un virus como el COVID-19 recuerda que la evolución no nos debe nada."
     },
     {
       "sectionId": "prefacio",
@@ -98,37 +98,42 @@
     {
       "sectionId": "cap1",
       "sectionTitle": "El gen inmortal y el cuerpo desechable",
-      "text": "Una célula es una ciudad con transporte, residuos, comunicación y crecimiento controlado. Las ciudades también nacen y mueren. Hampi fue el Londres de su época y hoy son ruinas. Cuando morimos, la mayoría de las células siguen vivas, un riñón trasplantado funciona y las bacterias prosperan. Morimos cuando las células dejan de cooperar como un organismo coherente ."
+      "text": "¿Por qué morimos si muchas células del cuerpo siguen vivas después? Una célula es una ciudad con transporte, residuos, comunicación y crecimiento controlado. Las ciudades también nacen y mueren: Hampi fue el Londres de su época y hoy son ruinas."
     },
     {
       "sectionId": "cap1",
       "sectionTitle": "El gen inmortal y el cuerpo desechable",
-      "text": "El envejecimiento es daño químico acumulado que reduce la capacidad física y mental hasta el fallo sistémico. Hemingway lo resume en una frase: «Dos maneras. Poco a poco, luego de repente». La muerte legal varía según el estado, y el momento exacto es borroso, como ocurre con el nacimiento entre la concepción, la implantación y la primitive streak a los 14 días."
+      "text": "Cuando morimos, un riñón trasplantado funciona y las bacterias prosperan. Morimos cuando las células dejan de cooperar como un organismo coherente (un cuerpo que funciona como un solo ser vivo). El envejecimiento es daño químico acumulado que reduce la capacidad física y mental hasta el fallo sistémico. Hemingway lo resume: «Poco a poco, luego de repente»."
     },
     {
       "sectionId": "cap1",
       "sectionTitle": "El gen inmortal y el cuerpo desechable",
-      "text": "La paradoja central sostiene que aunque individuos mueren, la vida continúa . Cada ser vivo desciende de una célula ancestral de hace miles de millones de años. Lo que no muere es la información genética , transmitida en cada división y, en células germinales, a la siguiente generación. Lamarck creía en herencia de caracteres adquiridos. Darwin y Wallace (carta de 1858 ) explicaron selección natural: el cuello de la jirafa no se estira por esfuerzo, sino por variantes favorables."
+      "text": "La paradoja central sostiene que aunque individuos mueren, la vida continúa. Cada ser vivo desciende de una célula ancestral de hace miles de millones de años. Lo que no muere es la información genética (el código heredado que se transmite de generación en generación). El naturalista Charles Darwin explicó la selección natural en 1858 , junto con el biólogo Wallace. El cuello de la jirafa no se estira por esfuerzo, sino por variantes favorables."
     },
     {
       "sectionId": "cap1",
       "sectionTitle": "El gen inmortal y el cuerpo desechable",
-      "text": "Los genes son inmortales entre generaciones. nuestros cuerpos son vehículos desechables diseñados para reproducirse, no para durar."
+      "text": "Los genes son inmortales entre generaciones, pero nuestros cuerpos son vehículos desechables diseñados para reproducirse, no para durar."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "El gen inmortal y el cuerpo desechable",
+      "text": "Si los genes persisten pero los cuerpos caducan, la pregunta siguiente es por qué unos organismos viven días y otros milenios."
     },
     {
       "sectionId": "cap2",
       "sectionTitle": "Vive rápido y muere joven",
-      "text": "Una mariposa vive días. un tejo británico, más de 3000 años. La hidra y la medusa Turritopsis dohrnii parecen no envejecer —pueden regenerarse o revertir etapas, , pero no son mamíferos y sus trucos de regeneración distan de traducirse fácilmente a humanos."
+      "text": "¿Por qué una mariposa vive días y un tejo británico más de 3000 años? La hidra (un animal de agua dulce diminuto) y la medusa Turritopsis dohrnii parecen no envejecer. Pueden regenerarse o revertir etapas, pero no son mamíferos y sus trucos distan de traducirse fácilmente a humanos."
     },
     {
       "sectionId": "cap2",
       "sectionTitle": "Vive rápido y muere joven",
-      "text": "Entre mamíferos, el tamaño correlaciona con longevidad: más grandes, metabolismo más lento, menos latidos por gramo. La ley de Kleiber escala metabolismo a masa ¾ . Geoffrey West nota ~ 1 500 millones latidos por vida, como revoluciones de un motor de auto. Humanos hoy casi duplican eso gracias a medicina, pero el máximo sigue en ~ 120 años."
+      "text": "Entre mamíferos, el tamaño correlaciona con longevidad: más grandes, metabolismo más lento, menos latidos por gramo. La ley de Max Kleiber escala el metabolismo a masa ¾ . Geoffrey West nota ~ 1 500 millones latidos por vida, como revoluciones de un motor de auto. Humanos hoy casi duplican eso gracias a medicina, pero el máximo sigue en ~ 120 años."
     },
     {
       "sectionId": "cap2",
       "sectionTitle": "Vive rápido y muere joven",
-      "text": "Steven Austad y el cociente de longevidad (LQ) buscan especies que batan la escala: aves vuelan y viven más que roedores similares. La evolución optimiza aptitud , no longevidad absoluta: si un depredador te come joven, no sirve vivir siglo y medio. Vivir más vale solo si sobrevives lo suficiente para reproducirte."
+      "text": "El biólogo Steven Austad busca especies que batan la escala esperada: aves vuelan y viven más que roedores similares. La evolución optimiza la aptitud reproductiva (dejar más descendencia viable), no longevidad absoluta. Cuando un depredador mata a un animal joven, vivir siglo y medio no ayuda. Por eso vivir más vale solo si sobrevives lo suficiente para reproducirte."
     },
     {
       "sectionId": "cap2",
@@ -136,14 +141,19 @@
       "text": "La longevidad refleja presiones evolutivas y metabolismo, no un límite físico fijo para todos los organismos."
     },
     {
-      "sectionId": "cap3",
-      "sectionTitle": "Destruyendo el controlador maestro",
-      "text": "Hampi , gran ciudad del sur de India, colapsó cuando perdió control, como una célula sin regulación. Los genes son unidades de información que no solo transmiten rasgos heredados, sino que dan instrucciones para construir y mantener un organismo. Las proteínas ejecutan casi todas las funciones vitales, desde la estructura y las señales hasta los anticuerpos y la memoria."
+      "sectionId": "cap2",
+      "sectionTitle": "Vive rápido y muere joven",
+      "text": "Esas presiones actúan sobre el programa que mantiene cada célula funcionando: el material genético."
     },
     {
       "sectionId": "cap3",
       "sectionTitle": "Destruyendo el controlador maestro",
-      "text": "Hasta 1953 , el ADN era misterio. Watson y Crick dedujeron la doble hélice: A-T, C-G, cada hebra copia a la otra. El mensaje se transcribe a ARNm y los ribosomas leen codones de tres bases para ensamblar proteínas que se pliegan solas en formas funcionales —milagro que Ramakrishnan estudió toda su carrera."
+      "text": "¿Qué ocurre cuando una célula pierde el control central de su programa? Hampi , gran ciudad del sur de India, colapsó cuando perdió gobierno, como una célula sin regulación. Los genes (unidades de información heredada) no solo transmiten rasgos, sino que dan instrucciones para construir y mantener un organismo."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Destruyendo el controlador maestro",
+      "text": "Hasta 1953 , el ADN era misterio. Los biólogos James Watson y Francis Crick dedujeron la doble hélice: A-T, C-G, cada hebra copia a la otra. El mensaje se transcribe y los ribosomas ensamblan proteínas (moléculas que ejecutan casi todas las funciones vitales). Estas se pliegan solas en formas funcionales —milagro que Ramakrishnan estudió toda su carrera."
     },
     {
       "sectionId": "cap3",
@@ -156,19 +166,24 @@
       "text": "El envejecimiento empieza cuando el ADN y su programa génico se dañan o desregulan."
     },
     {
-      "sectionId": "cap4",
-      "sectionTitle": "El problema de los extremos",
-      "text": "Alexis Carrel , cirujano francés en el Rockefeller, anunció en los años 20 células de embrión de pollo «inmortales» en cultivo. Scientific American ( 1921 ) soñó con vidas de mil años. Estaba equivocado, pues probable contaminación con células frescas o cáncer de pollo vecino."
+      "sectionId": "cap3",
+      "sectionTitle": "Destruyendo el controlador maestro",
+      "text": "Un fallo crítico aparece cada vez que una célula se divide: el problema de copiar los extremos del cromosoma."
     },
     {
       "sectionId": "cap4",
       "sectionTitle": "El problema de los extremos",
-      "text": "Leonard Hayflick en los 50-60 demostró que células humanas normales dividen un número finito y entran en senescencia : las viejas recuerdan su edad aunque rodeadas de jóvenes. Publicado en 1961 tras rechazo inicial. El límite de Hayflick (~ 40-60 divisiones) diferencia células normales de cancerosas."
+      "text": "¿Por qué las células normales dejan de dividirse mientras las cancerosas no? El cirujano Alexis Carrel , en el Rockefeller, anunció en los años 20 células de embrión de pollo «inmortales» en cultivo. Estaba equivocado, pues probablemente hubo contaminación con células frescas o cáncer de pollo vecino."
     },
     {
       "sectionId": "cap4",
       "sectionTitle": "El problema de los extremos",
-      "text": "El problema de replicar extremos surge porque la maquinaria copia ADN en una dirección y deja un trozo sin duplicar bajo el «tren». Cada división acorta los cromosomas. Barbara McClintock y Hermann Muller vieron que los extremos naturales — telómeros , no se fusionan como roturas. Elizabeth Blackburn y Jack Szostak secuenciaron repeticiones TTGGGG en Tetrahymena y estabilizaron cromosomas artificiales en levadura."
+      "text": "El anatomista Leonard Hayflick demostró en los 50-60 que células humanas normales dividen un número finito. Entran en senescencia celular (un freno que detiene la división): las viejas recuerdan su edad aunque rodeadas de jóvenes. Publicado en 1961 tras rechazo inicial. El límite de Hayflick (~ 40-60 divisiones) diferencia células normales de cancerosas."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "El problema de los extremos",
+      "text": "El problema surge porque la maquinaria copia ADN en una dirección y deja un trozo sin duplicar bajo el «tren». Cada división acorta los cromosomas. Los extremos naturales, los telómeros (capas protectoras en los extremos del cromosoma), no se fusionan como roturas. La bioquímica Elizabeth Blackburn y el genetista Jack Szostak secuenciaron repeticiones TTGGGG en Tetrahymena y estabilizaron cromosomas artificiales en levadura."
     },
     {
       "sectionId": "cap4",
@@ -176,19 +191,24 @@
       "text": "Los telómeros y el límite de Hayflick explican por qué las células normales no son inmortales."
     },
     {
-      "sectionId": "cap5",
-      "sectionTitle": "Reiniciando el reloj biológico",
-      "text": "El 26 de junio de 2000 , Clinton y Blair anunciaron el borrador del genoma humano. Craig Venter (Celera, privado) chocó con John Sulston (consorcio público, sandalias y bicicleta). El ADN no es libro legible: flujo sin puntuación, 2 % codifica proteínas, resto «basura» aún enigma."
+      "sectionId": "cap4",
+      "sectionTitle": "El problema de los extremos",
+      "text": "Si los telómeros marcan un reloj celular, la pregunta es si ese reloj se puede rebobinar sin cambiar el ADN."
     },
     {
       "sectionId": "cap5",
       "sectionTitle": "Reiniciando el reloj biológico",
-      "text": "Gemelos idénticos muestran que el genoma no es destino: pueden diferir en esquizofrenia pese a mismos genes. La epigenética —capa «sobre» los genes, explica por qué una célula piel no vuelve a ser neurona. Conrad Waddington ( 1942 ) imaginó una bola rodando por valles del desarrollo. difícil subir de nuevo."
+      "text": "¿El genoma humano es un destino escrito o un programa que se puede reprogramar? En junio de 2000 , Clinton y Blair anunciaron el borrador del genoma humano. El ADN no es libro legible: flujo sin puntuación, 2 % codifica proteínas, resto «basura» aún enigma."
     },
     {
       "sectionId": "cap5",
       "sectionTitle": "Reiniciando el reloj biológico",
-      "text": "La clonación (Briggs-King, 1952 , rana) y los factores Yamanaka demostraron que el núcleo de célula especializada puede reprogramarse a estado pluripotente. No es Lamarckismo: son cambios reversibles en control génico, no en secuencia. La pregunta es hasta dónde se puede «rebobinar» sin tumores."
+      "text": "Gemelos idénticos muestran que el genoma no es destino: pueden diferir en esquizofrenia pese a mismos genes. La epigenética (capa de control «sobre» los genes) explica por qué una célula piel no vuelve a ser neurona. El biólogo Conrad Waddington ( 1942 ) imaginó una bola rodando por valles del desarrollo. Es difícil subir de nuevo."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Reiniciando el reloj biológico",
+      "text": "La clonación ( 1952 , rana) y los factores Yamanaka demostraron que el núcleo de célula especializada puede reprogramarse a estado pluripotente. No es Lamarckismo: son cambios reversibles en control génico, no en secuencia. La pregunta es hasta dónde se puede «rebobinar» sin tumores."
     },
     {
       "sectionId": "cap5",
@@ -196,19 +216,24 @@
       "text": "La epigenética explica identidades celulares distintas con el mismo ADN y abre la puerta a revertir parte del envejecimiento."
     },
     {
-      "sectionId": "cap6",
-      "sectionTitle": "Reciclando la basura",
-      "text": "Ramakrishnan, a los 70 , olvida citas y pierde guantes, pero recuerda haber olvidado una cena a los 20 . La demencia es otra cosa: más de 50 millones de personas hoy, 139 millones proyectados para 2050 . En Inglaterra ya superó a enfermedad cardíaca como causa de muerte."
+      "sectionId": "cap5",
+      "sectionTitle": "Reiniciando el reloj biológico",
+      "text": "Reprogramar el reloj no basta si la célula acumula proteínas dañadas que no puede reciclar."
     },
     {
       "sectionId": "cap6",
       "sectionTitle": "Reciclando la basura",
-      "text": "Alois Alzheimer (~ 1900 ) describió pérdida de identidad progresiva. Enfermedades neurodegenerativas comparten proteínas mal plegadas. Las cadenas deben esconder partes hidrofóbicas. si se despliegan, se pegan como huevo hervido. Chaperonas ayudan a plegar. la respuesta a proteína desplegada activa más chaperonas, frena síntesis o mata la célula."
+      "text": "¿Por qué el envejecimiento se parece tanto a una casa que se llena de chatarra? Ramakrishnan, a los 70 , olvida citas y pierde guantes, pero recuerda haber olvidado una cena a los 20 . La demencia es otra cosa. Hoy afecta a más de 50 millones de personas. En 2050 habrá cerca de 139 millones de casos."
     },
     {
       "sectionId": "cap6",
       "sectionTitle": "Reciclando la basura",
-      "text": "A medida que envejecemos, el control de calidad celular se debilita. La ubiquitina marca proteínas defectuosas y la autofagia las degrada. La glicación aleatoria daña lentes y retina. Cuando el reciclaje falla, la célula se llena de chatarra molecular."
+      "text": "El neurólogo Alois Alzheimer (~ 1900 ) describió pérdida de identidad progresiva. Enfermedades neurodegenerativas comparten proteínas mal plegadas. Las cadenas deben esconder partes hidrofóbicas. Cuando se despliegan, se pegan como huevo hervido. Las chaperonas moleculares (proteínas auxiliares que ayudan a plegar otras) corrigen el proceso."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Reciclando la basura",
+      "text": "A medida que envejecemos, el control de calidad celular se debilita. La autofagia (reciclaje interno que degrada proteínas defectuosas) falla con la edad. La glicación aleatoria daña lentes y retina. Cuando el reciclaje falla, la célula se llena de chatarra molecular."
     },
     {
       "sectionId": "cap6",
@@ -216,19 +241,24 @@
       "text": "El envejecimiento acelera cuando fallan el plegamiento, la calidad y el reciclaje de proteínas ."
     },
     {
-      "sectionId": "cap7",
-      "sectionTitle": "Menos es más",
-      "text": "En la India de Ramakrishnan todos ayunaban: hindúes, musulmanes en Ramadán, cristianos en Cuaresma. La abundancia occidental trajo obesidad —factor de riesgo para COVID-19, diabetes, cáncer, Alzheimer. Comer menos prolonga vida en ratones desde experimentos de 1917 ."
+      "sectionId": "cap6",
+      "sectionTitle": "Reciclando la basura",
+      "text": "Parte del reciclaje celular responde a cuánto comemos: menos nutrientes pueden activar vías de mantenimiento."
     },
     {
       "sectionId": "cap7",
       "sectionTitle": "Menos es más",
-      "text": "La restricción calórica reduce entre un 30 y un 50 % las calorías sin malnutrición y alarga la vida entre un 20 y un 50 % en roedores. También funciona en levadura. Estudios en monos Wisconsin vs NIA se contradicen: dieta control sana vs sobrealimentación importa. Hayflick sospecha que CR solo corrige dietas de laboratorio excesivas."
+      "text": "¿Comer menos puede alargar la vida? En la India de Ramakrishnan todos ayunaban: hindúes, musulmanes en Ramadán, cristianos en Cuaresma. La abundancia occidental trajo obesidad —factor de riesgo para COVID-19, diabetes, cáncer y Alzheimer. Comer menos prolonga vida en ratones desde experimentos de 1917 ."
     },
     {
       "sectionId": "cap7",
       "sectionTitle": "Menos es más",
-      "text": "La rapamicina , hallada en isla de Pascua ( 1964 ), inhibe mTOR y imita hambre celular. Ayuno intermitente, alineación con ritmo circadiano y menos metionina/triptófano ayudan. La restricción también trae hambre, frío, pérdida muscular y libido, y las ratas vuelven a comer en cuanto pueden. La industria anti-edad quiere una píldora sin renunciar al postre."
+      "text": "La restricción calórica , o sea comer mucho menos sin malnutrición, alarga la vida en roedores. El aumento puede ir del veinte al cincuenta por ciento. También funciona en levadura. Estudios en monos Wisconsin vs NIA se contradicen: dieta control sana vs sobrealimentación importa. Hayflick sospecha que la restricción solo corrige dietas de laboratorio excesivas."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Menos es más",
+      "text": "La rapamicina, hallada en isla de Pascua ( 1964 ), inhibe mTOR (una vía que detecta nutrientes y acelera el crecimiento). Imida hambre celular. Ayuno intermitente y alineación con ritmo circadiano ayudan. Comer menos trae hambre, frío y pérdida muscular. La industria anti-edad quiere una píldora sin renunciar al postre."
     },
     {
       "sectionId": "cap7",
@@ -236,19 +266,24 @@
       "text": "Comer menos activa vías de mantenimiento celular , pero no es panacea humana probada a largo plazo."
     },
     {
-      "sectionId": "cap8",
-      "sectionTitle": "Lecciones de un humilde gusano",
-      "text": "La heredabilidad de longevidad humana en gemelos daneses era solo ~ 25 % —muchos genes pequeños, , pero el nematodo C. elegans revolucionó el campo. Sydney Brenner lo eligió por transparencia, corta generación y linaje trazable de 900 células."
+      "sectionId": "cap7",
+      "sectionTitle": "Menos es más",
+      "text": "El metabolismo no es solo dieta: un solo gen en un gusano diminuto reveló vías hormonales conservadas hasta los humanos."
     },
     {
       "sectionId": "cap8",
       "sectionTitle": "Lecciones de un humilde gusano",
-      "text": "Tom Johnson publicó en Science ( 1990 ) que mutación en un solo gen, age-1 , duplicaba la vida máxima. Recibió escepticismo dos años. Cynthia Kenyon en Nature ( 1993 ) halló daf-2 : gusanos con mutación vivían el doble. Gary Ruvkun identificó que daf-2 es receptor de IGF-1 (insulina-like) y daf-16 es factor de transcripción FOXO: vía hormonal conservada hasta humanos."
+      "text": "¿Puede un solo gen cambiar cuánto vive un animal? La heredabilidad de longevidad humana en gemelos daneses era solo ~ 25 % . Pero el nematodo C. elegans (un gusano transparente de laboratorio) revolucionó el campo. El biólogo Sydney Brenner lo eligió por transparencia, corta generación y linaje trazable de 900 células."
     },
     {
       "sectionId": "cap8",
       "sectionTitle": "Lecciones de un humilde gusano",
-      "text": "El estado dauer de hambre suspende envejecimiento en juveniles ~ 2 meses (equivalente a 300 años humanos relativos), pero adultos ya no entran. Un gen grande, no mil factores diminutos, puede cambiar el reloj."
+      "text": "Tom Johnson publicó en 1990 que mutación en un solo gen duplicaba la vida máxima. Recibió escepticismo dos años. La genetista Cynthia Kenyon en 1993 halló el gen daf-2: gusanos con mutación vivían el doble. El biólogo Gary Ruvkun identificó que daf-2 es receptor de hormona tipo insulina y daf-16 es factor de transcripción FOXO."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Lecciones de un humilde gusano",
+      "text": "El estado dauer (suspensión del desarrollo por hambre) suspende envejecimiento en juveniles ~ 2 meses. Eso equivale a ~ 300 años humanos relativos, pero adultos ya no entran. Un gen grande, no mil factores diminutos, puede cambiar el reloj."
     },
     {
       "sectionId": "cap8",
@@ -256,39 +291,49 @@
       "text": "Un solo gen en gusanos reveló la vía insulina/IGF-1 que regula longevidad en muchos animales."
     },
     {
-      "sectionId": "cap9",
-      "sectionTitle": "El polizón dentro de nosotros",
-      "text": "Hace ~ 2000 millones de años, un arqueon tragó una bacteria que no murió: simbiosis. Lynn Margulis defendió la endosimbiosis contra el dogma de evolución lineal. hoy las mitocondrias son descendientes de ese polizón."
+      "sectionId": "cap8",
+      "sectionTitle": "Lecciones de un humilde gusano",
+      "text": "Esa vía hormonal depende de la energía celular, producida por organelas que alguna vez fueron bacterias independientes."
     },
     {
       "sectionId": "cap9",
       "sectionTitle": "El polizón dentro de nosotros",
-      "text": "Las mitocondrias convierten carbohidratos en ATP , moneda energética universal de la célula —como electricidad en sociedad moderna. El cuerpo genera roughly su peso en ATP al día. el cerebro consume una quinta parte. Producción vía gradiente de protones y turbina molecular ATP sintasa ."
+      "text": "¿De dónde sale la energía que mantiene viva cada célula? Hace ~ 2000 millones de años, una célula ancestral tragó una bacteria que no murió: simbiosis. La bióloga Lynn Margulis defendió la endosimbiosis contra el dogma de evolución lineal. Hoy las mitocondrias (organelas que producen energía dentro de la célula) son descendientes de ese polizón."
     },
     {
       "sectionId": "cap9",
       "sectionTitle": "El polizón dentro de nosotros",
-      "text": "Perdieron la mayoría de genes al núcleo host. el minúsculo ADN mitocondrial muta y causa enfermedades (diabetes, sordera). Se heredan solo de madre. UK legalizó bebés de «tres padres». Mitocondrias fusionan y dividen. defectos se segregan. Su desgaste impulsa envejecimiento."
+      "text": "Las mitocondrias convierten carbohidratos en ATP (moneda energética universal de la célula). El cuerpo genera aproximadamente su peso en ATP al día. El cerebro consume una quinta parte. La producción usa un gradiente de protones y una turbina molecular llamada ATP sintasa."
     },
     {
       "sectionId": "cap9",
       "sectionTitle": "El polizón dentro de nosotros",
-      "text": "Las mitocondrias nos dan energía pero su daño acumulado contribuye al declive."
+      "text": "Perdieron la mayoría de genes al núcleo host. El minúsculo ADN mitocondrial muta y causa enfermedades. Se heredan solo de madre. Reino Unido legalizó bebés de «tres padres». Mitocondrias fusionan y dividen. Sus defectos se segregan. Por eso su desgaste impulsa envejecimiento."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "El polizón dentro de nosotros",
+      "text": "Las mitocondrias nos dan energía, pero su daño acumulado contribuye al declive."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "El polizón dentro de nosotros",
+      "text": "Cuando la energía falla y las células dañadas no mueren, el cuerpo envejecido se vuelve frágil e inflamado."
     },
     {
       "sectionId": "cap10",
       "sectionTitle": "Dolores, achaques y sangre de vampiro",
-      "text": "En el coast-to-coast walk de 2013 , Ramakrishnan abandonó la travesía por una rodilla con menisco roto y osteoartritis . La inflamación articular es local, pero con la edad aparece un inflammaging sistémico impulsado por células senescentes ."
+      "text": "¿Por qué envejecer duele tanto en las articulaciones y en todo el cuerpo? En el coast-to-coast walk de 2013 , Ramakrishnan abandonó la travesía por una rodilla con menisco roto y osteoartritis (desgaste del cartílago articular). La inflamación articular es local, pero con la edad aparece un inflammaging (inflamación crónica de bajo grado en la vejez)."
     },
     {
       "sectionId": "cap10",
       "sectionTitle": "Dolores, achaques y sangre de vampiro",
-      "text": "Daño al ADN puede matar la célula, repararla o mandarla a senescencia (freno anticancerígeno vía p53 ). Si el sistema inmune envejece, senescentes se acumulan y secretan citocinas que dañan tejido. Jan van Deursen eliminó senescentes en ratones: + 20-30 % vida, riñones y corazón mejores. Pocas senescentes trasplantadas bastan para dañar ratones jóvenes."
+      "text": "Daño al ADN puede matar la célula, repararla o mandarla a senescencia (freno anticancerígeno). Si el sistema inmune envejece, las células senescentes (células «zombie» que dejaron de dividirse pero siguen activas) se acumulan y secretan citocinas que dañan tejido. El oncólogo Jan van Deursen eliminó senescentes en ratones: + 20-30 % vida, riñones y corazón mejores."
     },
     {
       "sectionId": "cap10",
       "sectionTitle": "Dolores, achaques y sangre de vampiro",
-      "text": "Las células madre regeneran tejidos pero pierden balance y número. clones mutados dominan y pueden dar cáncer. Reprogramación Yamanaka completa puede generar teratomas. La transfusión de sangre joven a viejos (experimento en ratones) inspiró terapias «vampiro» controvertidas en humanos."
+      "text": "Las células madre regeneran tejidos pero pierden balance y número. Clones mutados dominan y pueden dar cáncer. Reprogramación Yamanaka completa puede generar teratomas. La transfusión de sangre joven a viejos en ratones inspiró terapias «vampiro» controvertidas en humanos."
     },
     {
       "sectionId": "cap10",
@@ -296,19 +341,24 @@
       "text": "Eliminar células senescentes y restaurar células madre podría revertir fragilidad, con riesgos reales."
     },
     {
-      "sectionId": "cap11",
-      "sectionTitle": "¿Locos o profetas?",
-      "text": "Los egipcios momificaron faraones para renacer. hoy la criogenia congela cuerpos en nitrógeno líquido tras la muerte. Robert Ettinger fundó el Cryonics Institute ( 1976 , ~ 28 000 dólares). Alcor cobra ~ 200 000 . Transhumanistas congelan solo cerebro esperando subir la mente a computadora."
+      "sectionId": "cap10",
+      "sectionTitle": "Dolores, achaques y sangre de vampiro",
+      "text": "Entre esas intervenciones serias y las fantasías sin evidencia está la promesa de congelar cuerpos para renacer."
     },
     {
       "sectionId": "cap11",
       "sectionTitle": "¿Locos o profetas?",
-      "text": "No hay evidencia creíble de que funcione. Minutos u horas después de la muerte, las células colapsan bioquímicamente. La conectómica avanza en moscas, pero un mapa estático no captura estados dinámicos, hormonas ni cuerpo. Albert Cardona (MRC) sostiene que un cerebro sin cuerpo no es la persona, y que el cerebro envejecido no equivale al de los 25 años."
+      "text": "¿Puede congelarse un cuerpo muerto para revivir en el futuro? Los egipcios momificaron faraones para renacer. Hoy la criogenia (congelación en nitrógeno líquido tras la muerte legal) promete resurrección. Robert Ettinger fundó el Cryonics Institute en 1976 . El servicio cuesta unos 28 000 dólares. La empresa Alcor cobra cerca de 200 000 ."
     },
     {
       "sectionId": "cap11",
       "sectionTitle": "¿Locos o profetas?",
-      "text": "Entre los casos legales, niña británica de 14 años con cáncer quiso criogenia. Ted Williams quería cremación pero hijos congelaron su cabeza ( 2002 ). Científicos UK pidieron restringir marketing a vulnerables. Criopreservar células y embriones sí funciona. personas enteras, no."
+      "text": "No hay evidencia creíble de que funcione. Minutos u horas después de la muerte, las células colapsan bioquímicamente. La conectómica (mapa de conexiones neuronales) avanza en moscas, pero un mapa estático no captura estados dinámicos, hormonas ni cuerpo. El neurocientífico Albert Cardona (MRC) sostiene que un cerebro sin cuerpo no es la persona."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "¿Locos o profetas?",
+      "text": "Entre los casos legales, una niña británica de 14 años con cáncer quiso criogenia. Ted Williams quería cremación pero hijos congelaron su cabeza ( 2002 ). Científicos UK pidieron restringir marketing a vulnerables. Criopreservar células y embriones sí funciona. Personas enteras, no."
     },
     {
       "sectionId": "cap11",
@@ -316,19 +366,29 @@
       "text": "La criogenia promete resurrección futura sin base científica seria hoy."
     },
     {
-      "sectionId": "cap12",
-      "sectionTitle": "¿Deberíamos vivir para siempre?",
-      "text": "Ramakrishnan, activo a la edad en que murieron sus abuelos, ve un mundo con ~ 20 % mayores de 65 en países ricos, menos hijos por familia y sistemas de pensiones diseñados para pocos años post- 65 . Gobiernos financian gerontología para mantener ancianos productivos y sanos."
+      "sectionId": "cap11",
+      "sectionTitle": "¿Locos o profetas?",
+      "text": "Separar ciencia seria de profecías obliga a preguntar qué haríamos con años extra si realmente los consiguiéramos."
     },
     {
       "sectionId": "cap12",
       "sectionTitle": "¿Deberíamos vivir para siempre?",
-      "text": "Extender vida sin comprimir morbilidad empeora todo. Desigualdad: en Inglaterra 10 años de brecha de vida, casi el doble en años sanos. en EE.UU. 15 años rich/poor. Medicina avanzada beneficia primero a ricos. riesgo de dos clases humanas: longevos sanos vs el resto."
+      "text": "¿Qué pasaría con pensiones y desigualdad si alargáramos la vida sin replantear la sociedad? Ramakrishnan, activo a la edad en que murieron sus abuelos, ve un mundo con ~ 20 % mayores de 65 en países ricos. Hay menos hijos por familia y sistemas de pensiones diseñados para pocos años post- 65 ."
     },
     {
       "sectionId": "cap12",
       "sectionTitle": "¿Deberíamos vivir para siempre?",
-      "text": "Sobre la sobrepoblación, no es inevitable que Japón vive más pero población cae desde 2010 . Carreras más largas son la salida si jubilación a los 65 es insostenible —pero obrero de 65 no desea otros 50 de faena física. En Francia, 1,2 millones marcharon en 2023 contra subir jubilación de 62 a 64 . Científicos creen hacer su mejor trabajo siendo jóvenes. el Nobel rara vez llega por trabajo tardío."
+      "text": "Extender vida sin comprimir morbilidad (acortar años enfermos, no solo alargar la cuenta total) empeora todo. En Inglaterra hay 10 años de brecha de vida, casi el doble en años sanos. En EE.UU. la brecha entre ricos y pobres llega a 15 años. Medicina avanzada beneficia primero a ricos y puede crear dos clases humanas."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "¿Deberíamos vivir para siempre?",
+      "text": "Sobre la sobrepoblación, Japón vive más pero su población cae desde 2010 . Carreras más largas son la salida si jubilación a los 65 es insostenible."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "¿Deberíamos vivir para siempre?",
+      "text": "Un obrero de sesenta y cinco años no desea otros cincuenta de faena física. En dos mil veintitrés, en Francia marcharon 1,2 millones contra subir la jubilación de sesenta y dos a sesenta y cuatro años."
     },
     {
       "sectionId": "cap12",

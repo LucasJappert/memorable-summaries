@@ -1,0 +1,249 @@
+Livewired: La historia interior del cerebro en constante cambio, de David Eagleman.
+
+La idea central
+
+La naturaleza no escribió firmware cerrado.
+
+Escribió reglas para que el cerebro se reescriba con la experiencia.
+
+Sustituir sentidos o perder medio cerebro no agota el mundo interior.
+
+Las máquinas del futuro deberían livewirearse, no solo ejecutar código.
+
+Leer estas líneas ya te cambió. Ese es el punto del libro.
+
+Epígrafe. Nacer como muchos, morir como uno
+
+¿Qué significa nacer con muchas posibilidades y terminar siendo una sola persona? El libro abre citando a Martin Heidegger (filósofo alemán del siglo XX). Según él, todo hombre nace como muchos hombres y muere como uno solo. David Eagleman (neurocientífico de Stanford) retoma esa idea al final porque condensa su tesis sobre identidad.
+
+No somos un diseño cerrado, sino una trayectoria de reconfiguraciones que converge en un solo camino vivido. La frase anticipa el contraste entre el bebé y el adulto. El bebé tiene un cerebro incompleto y abierto a infinitas especializaciones. El adulto es eficiente en pocas tareas, pero rígido en el resto. El epígrafe no argumenta. Solo promete explicar el mecanismo biológico detrás de esa metamorfosis.
+
+La identidad no es esencia fija: es el resultado de un cerebro que elige, con la experiencia, qué posibilidades conservar y cuáles dejar morir.
+
+Para entender esa metamorfosis hace falta ver primero cómo funciona el tejido cerebral que se reconfigura sin cesar.
+
+Capítulo uno. El tejido eléctrico viviente
+
+¿Por qué la naturaleza no envía un rover pesado a Marte, sino una esfera que se replica y arma sensores? Eagleman usa esa metáfora para el bebé humano. De un óvulo emerge un organismo con detectores de luz y extremidades, pero sin un programa cerrado. El cerebro se esculpe interactuando con el mundo.
+
+La prueba extrema es Matthew, un niño con epilepsia por encefalitis de Rasmussen. A los seis años le extirparon medio cerebro en Johns Hopkins. Después de terapia intensiva, Matthew recuperó lenguaje y vida casi normal. El hemisferio restante se livewired (cableado vivo que se reescribe sin cesar) para cubrir funciones perdidas. El tejido vivo reasigna territorio. No hay un plano rígido.
+
+El cerebro humano tiene unos 86 000 millones de neuronas. También tiene cientos de billones de conexiones, unas 0,2 cuatrillones. Lo decisivo no es el número sino la interacción dinámica. Las dendritas (ramificaciones que reciben señales) buscan conexiones como ciudadanos formando redes. Cada aprendizaje altera físicamente ese tapiz.
+
+William James (psicólogo del siglo XIX) acuñó plasticidad. Eagleman prefiere livewired porque el cerebro no se moldea una vez. Se reteje sin cesar. Cuando Tokio se reconstruyó en 1945, ingenieros bélicos reorientaron su talento al Shinkansen. El cerebro hace lo mismo con sus recursos. Un experto en fútbol gasta menos actividad cerebral que un novato porque quemó el juego en su cableado.
+
+⚡ Livewired Sistema que se reconfigura con experiencia; no capas fijas hardware/software.
+
+🧒 Hemisferectomía Prueba extrema: medio cerebro puede reasignar funciones con terapia.
+
+🏙️ Tejido vivo Red tridimensional que brota, muere y reconfigura circuitos sin cesar.
+
+La magia no está en las piezas sino en el tejido eléctrico que se reteje sin fin para reflejar el mundo.
+
+Si el cerebro se esculpe con la experiencia, la pregunta siguiente es qué parte del cableado trae el genoma y qué parte aporta el mundo.
+
+Capítulo dos. Solo añade mundo
+
+¿Cómo puede el ADN construir un cerebro con billones de conexiones usando solo unos veinte mil genes? Eagleman sostiene que el genoma no puede prescribir 200 billones de conexiones con solo ~20 000 genes. La estrategia evolutiva es construir incompleto y dejar que la experiencia (todo lo que el mundo aporta al cableado) refine el cableado. Cuando falta mundo, el mapa queda incompleto o dañado.
+
+Los experimentos con ratas en entornos enriquecidos versus jaulas vacías mostraron dendritas más largas y mejor aprendizaje en las enriquecidas. En humanos, autopsias compararon cerebros de quienes terminaron secundaria versus universidad. Los universitarios tenían más dendritas en áreas de comprensión del lenguaje. El entorno modula el cerebro desde la escala molecular hasta la anatomía global.
+
+El reloj circadiano ilustra el truco. Nace impreciso y se calibra con el sol. Igual la visión estereoscópica requiere inputs correlacionados de ambos ojos. Cuando un niño es estrábico y no se corrige, un ojo pierde territorio cortical. La privación extrema lo confirma. Danielle Crockett, hallada en Florida en 2005 tras años en un armario, no desarrolló lenguaje ni interacción normal. Los monos aislados de Harry Harlow (psicólogo de Wisconsin) quedaron incapaces de vínculo social.
+
+La naturaleza apuesta a que el mundo completará el cerebro, pero es un riesgo. Faltan inputs adecuados en ventanas críticas y el cableado se deforma de forma irreversible. Cerebro y mundo juntos generan especialización. Ni el ADN solo ni el entorno solo bastan.
+
+El genoma lanza el primer dominó y el mundo termina de cablear el cerebro. Sin él, el mapa queda vacío o dañado.
+
+Una vez que el mundo completa el cableado, conviene preguntar cómo el interior refleja lo que entra desde fuera.
+
+Capítulo tres. El interior refleja el exterior
+
+¿Cómo sabe un cerebro a oscuras la forma del cuerpo? Wilder Penfield (neurocirujano canadiense) mapeó el cuerpo en la corteza con electrodos. La respuesta no es genética. Los monos de Silver Spring de Edward Taub (neurocientífico) tenían nervios cortados en brazos o piernas. El territorio del miembro invadido pasó al de la cara. El mapa sigue al input activo.
+
+El brazo fantasma de Lord Nelson tras la amputación de 1797 confirma el mismo mecanismo. La corteza vecina coloniza el territorio vacío. Áreas downstream aún creen que el brazo existe y generan dolor fantasma. La regla es simple: las neuronas que se activan juntas terminan representadas juntas en el cerebro. Eso resume la regla de Hebb (células que disparan juntas se conectan más fuerte).
+
+La colonización cortical (cuando un sentido ocupa territorio de otro) es negocio a tiempo completo. Cuando la visión cesa, la corteza occipital la pierden tacto, oído e incluso olfato en personas ciegas. Ronnie Milsap y otros músicos ciegos muestran oído excepcional porque más territorio procesa sonido. Ben Underwood aprendió a ecolocalizar haciendo clic con la lengua.
+
+El sueño y la rotación planetaria también calibran modelos internos. Los cambios son ultrarrápidos. El mapa no es plano fijo sino negociación continua entre expectativa y estímulo. Quien nace ciego reasigna más territorio que quien pierde la vista a los diez años.
+
+Los mapas corticales son espejos dinámicos del cuerpo y del entorno. Emergen de correlación temporal, no de un plano genético.
+
+Si el mapa sigue cualquier input activo, el siguiente paso es ver qué entradas puede envolver el cerebro.
+
+Capítulo cuatro. Envolver las entradas
+
+¿Ve el cerebro el mundo directamente o solo recibe impulsos eléctricos? El cerebro nunca ve ni oye el mundo directamente. Solo recibe impulsos electroquímicos. Por eso Michael Chorost, sordo tras fallar su audífono, pudo aprender a oír con un implante coclear. El implante hablaba en un dialecto eléctrico ajeno que su cerebro aprendió a decodificar.
+
+Terry Byland, con retina degenerada, recuperó destellos de luz con un chip. Su corteza visual aprendió a interpretarlos. Eagleman llama modelo Potato Head (como el juguete con piezas intercambiables) a la idea de que ojos, oídos y piel son periféricos plug-and-play. Casos como arhinia (bebé sin nariz) o anoftalmia (sin ojos) demuestran que el cerebro central funciona aunque falte un periférico.
+
+Paul Bach-y-Rita llevó esto más lejos con sustitución sensorial. Una cámara enviaba señales a vibradores en espalda o lengua. El dispositivo BrainPort (cámara conectada a electrodos en la lengua) permitió leer esas señales como visión espacial. La corteza reutiliza un solo truco: importa la correlación estadística con la conducta, no el órgano de origen.
+
+En Neosensory, la empresa de Eagleman, construye hardware que expande sentidos humanos. La pregunta abierta es si, entendida la livewiring, son imaginables colores o sensaciones totalmente nuevos.
+
+👅 Sustitución sensorial Datos táctiles o eléctricos interpretados como visión o oído.
+
+📷 BrainPort Cámara → electrodos en lengua → percepción espacial emergente.
+
+🔌 Nuevos sentidos Vestir sensores externos como parte del cuerpo extendido.
+
+El cerebro envuelve cualquier entrada correlacionada con conducta. El canal importa poco si la estructura refleja el mundo.
+
+Las entradas sensoriales son flexibles; la salida motora también puede esculpirse con práctica y herramientas.
+
+Capítulo cinco. Cómo conseguir un mejor cuerpo
+
+¿Puede el cerebro aprender a mover un cuerpo distinto del que trajo el genoma? Doc Ock de 1963 era fantasía, pero hoy la corteza motora se reorganiza cuando pierdes una extremidad. Laura, sin mano tras un accidente, vio cómo el territorio de los músculos del brazo anexionó el de la mano en semanas. El motor se optimiza para conducir la maquinaria disponible.
+
+Matt Stutzman, sin brazos, es el mejor arquero del mundo usando los pies. Faith, la perra sin patas delanteras, camina bípeda. Sus cerebros caninos no evolucionaron con ruedas ni olas. El motor babbling (exploración motora aleatoria que compara movimiento y feedback) esculpe mapas nuevos en esos casos. Sir Blake patina y Sugar surfea con el mismo principio.
+
+La bicicleta de Destin Sandlin, con dirección invertida, demostró que conocer la regla no basta. Hacen falta semanas de práctica para reescribir el cableado. Violinistas como Itzhak Perlman muestran un signo omega (Ω) en la corteza motora. Pianistas como Vladimir Ashkenazy lo tienen en ambos hemisferios. La práctica masiva automatiza movimientos y los vuelve rápidos y eficientes.
+
+La reorganización motora exige uso activo. Un mono que solo sostiene una rastrillo no expande su mapa corporal. Un mismo cerebro puede adoptar infinitos planos corporales. Las herramientas, exoesqueletos e interfaces se funden con el miembro cuando importan y se practican.
+
+A mejor cuerpo disponible, mejor mapa motor. La práctica funde herramienta y miembro en un solo circuito.
+
+No basta con mover el cuerpo: el cerebro consolida sobre todo lo que le importa de verdad.
+
+Capítulo seis. Por qué importa importar
+
+¿Por qué tres hermanas dominan el ajedrez mundial mientras millones de personas solo juegan de vez en cuando? László Polgár entrenó a sus tres hijas en ajedrez desde niñas con refuerzo emocional constante. Susan, Sofia y Judit dominaron el mundo porque su cerebro asignó territorio a lo que les importaba. El mattering (relevancia subjetiva de que algo importe) guía qué conexiones se fortalecen más allá de la mera exposición.
+
+Itzhak Perlman practica nueve horas diarias. Cuando un admirador dijo que daría su vida por tocar así, respondió Lo hice. Su corteza motora muestra el signo omega. La de Ashkenazy, pianista, difiere porque ambas manos trabajan con precisión. Estudiantes de medicina cambian volumen de materia gris en tres meses. Los taxistas londinenses agrandan el hipocampo. Lo que haces se refleja en la estructura.
+
+La vibración fantasma del celular ilustra el principio. Tu muslo interpreta cualquier temblor parecido como mensaje urgente porque la relevancia esculpió un paisaje neural. Bebés japoneses y estadounidenses divergen en distinguir R de L según si su idioma lo exige. Faith, la perra bípeda, reconfiguró su mapa porque caminar importaba para sobrevivir, no por repetición pasiva.
+
+La motivación y la recompensa son palancas de livewiring. Cuando algo carece de relevancia biográfica, el cerebro no dedica territorio duradero. Los nativos digitales optimizan circuitos que sus abuelos nunca necesitaron.
+
+El cerebro no solo refleja el mundo. Refleja lo que te importa, y eso decide qué territorio se consolida.
+
+Lo que importa también moldea lo que el cerebro predice y vuelve invisible hasta que falta.
+
+Capítulo siete. Por qué el amor no conoce su profundidad
+
+¿Por qué solo echamos de menos lo que perdemos cuando ya no está? El título retoma un verso de Emily Dickinson (poeta estadounidense). El amor no conoce su profundidad hasta la separación. Eagleman extiende esa idea. El cerebro modela lo esperado y lo vuelve invisible. Solo cuando predicción y realidad divergen revelas cuánto cableado invertiste en el vínculo.
+
+Aristóteles describió una cascada que parece subir. Eso no es fatiga neuronal sino recalibración activa (el cerebro resta lo predecible para detectar cambios). En los 1980, quienes miraban monitores verdes horas veían las páginas de libros teñidas de rojo. El cerebro canceló el verde horizontal y dejó el complementario.
+
+El efecto Troxler hace desaparecer estímulos fijos en la perifería. Los vasos sanguíneos de la retina son invisibles porque no cambian. Después de usar una caminadora, el suelo parece moverse. Después de correr en cinta, el mundo pasa demasiado rápido. La diferencia entre lo predicho y lo ocurrido impulsa aprendizaje dopaminérgico. La adicción y el desamor comparten recalibración de expectativas.
+
+El dolor de perder muestra el volumen de livewiring social que el cerebro había modelado como normal.
+
+Detrás de esas expectativas hay un equilibrio frágil entre neuronas que compiten por territorio.
+
+Capítulo ocho. Equilibrio al borde del cambio
+
+¿Por qué los mapas cerebrales parecen estables si en realidad cambian todo el tiempo? Parecen estables porque fuerzas opuestas están en equilibrio frágil. Eagleman compara esa tensión con la crisis de los misiles de 1962. Nada se mueve hasta que algo rompe el equilibrio. La plasticidad emerge de competencia constante entre neuronas por territorio y recursos.
+
+Alice, nacida sin hemisferio derecho, representó ambos campos visuales en el hemisferio izquierdo restante. El mapa se comprimió como Haití acogiendo refugiados. Experimentos en renacuajos muestran que mapas se estiran, comprimen o se reparten en franjas según el espacio disponible. Tras un ictus, el lenguaje puede migrar al hemisferio derecho.
+
+La metáfora de los dealers de Albuquerque explica la distribución. No hay planificador central, pero la competencia local genera patrones globales. Hubel y Wiesel demostraron que parchear un ojo en la infancia deja al otro dominar la corteza visual. Las neurotrofinas (sustancias químicas que alimentan y premian conexiones exitosas) son la moneda por la que compiten las sinapsis.
+
+Hace falta balance entre excitación e inhibición. Demasiada inhibición congela el mapa. Demasiada competencia impide que surja un ganador. La buena muerte sináptica es necesaria. El cáncer puede ser plasticidad descontrolada.
+
+La plasticidad es cuchillo de doble filo: adaptación vital frente a desorden cuando la competencia neuronal se desbalancea.
+
+Ese equilibrio cambia con la edad: las ventanas de plasticidad masiva se cierran, pero no desaparecen.
+
+Capítulo nueve. Perros viejos y trucos nuevos
+
+¿Por qué un niño herido en la cabeza se recupera mejor que un adulto con la misma lesión? Hans-Lukas Teuber (neuropsicólogo suizo) siguió a soldados heridos durante la Segunda Guerra Mundial. Descubrió que cuanto más joven era al lesionarse, mejor se recuperaba. El cerebro madura como un planeta cuyas fronteras se vuelven rígidas tras siglos de disputas.
+
+Los períodos sensibles (ventanas de máxima maleabilidad) abren y cierran puertas para lenguaje, visión binocular y acento nativo. Mila Kunis, llegada a EE. UU. a los siete años, habla sin acento. Arnold Schwarzenegger, expuesto tarde al inglés, conserva el suyo. Parchear el ojo bueno solo funciona en los primeros seis años. Después la vía visual queda pavimentada.
+
+Los adultos también cambian. Los músicos tardíos, la rehabilitación y el bilingüismo lo confirman. La diferencia es escala. Los bebés modifican vastos territorios con neurotransmisores difusos. Los adultos ajustan pocos puntos como un pintor puntillista. La livewiring nunca cesa, pero baja la velocidad y sube el coste.
+
+Los perros viejos aprenden más lento porque las puertas de plasticidad masiva ya cerraron, no porque estén sellados.
+
+La plasticidad también escribe el pasado: la memoria es cableado distribuido, no un cajón único.
+
+Capítulo diez. Recuerda cuándo
+
+¿Por qué los recuerdos antiguos resisten mejor que los nuevos en la demencia? La ley de Théodule Ribot (psicólogo francés) lo observó en 1882. Los recuerdos antiguos resisten mejor que los nuevos. Por eso pacientes con demencia recuperan el idioma infantil. Albert Einstein murió hablando alemán en 1955, ininteligible para la enfermera angloparlante.
+
+Karl Lashley entrenó ratas en laberintos y cortó distintas áreas corticales. Ninguna borró la memoria. La memoria no vive en un cajón sino distribuida como computación en la nube. Donald Hebb propuso que células que disparan juntas se conectan más fuerte. La potenciación a largo plazo, descubierta en 1973, lo respaldó experimentalmente.
+
+Las redes de John Hopfield mostraron que patrones asociativos sobreviven incluso si se borran nodos. El enemigo de la memoria no es el tiempo sino otras memorias que interfieren. Hablar con tu yo futuro es modelar un agente con circuitos distintos al presente. El pasado compite por espacio representacional.
+
+La memoria es livewiring del pasado. Son conexiones distribuidas que se fortalecen con uso y ceden ante interferencias nuevas.
+
+Esa flexibilidad biológica contrasta con la rigidez de las máquinas que diseñamos hoy.
+
+Capítulo 11. El lobo y el rover marciano
+
+¿Qué lección deja un rover atascado en Marte frente a un lobo con la pata atrapada? El rover Spirit funcionó en Marte desde 2004. En 2009 se atascó con una rueda rota y perdió orientación solar. Murió en 2010. Era hardware rígido sin margen de reconfiguración.
+
+Un lobo con la pata atrapada se la muerde y sigue cojeando porque su cerebro ajusta el plano corporal hacia metas de supervivencia. Eagleman contrasta esto con una escuela de California. Gastó 330 millones de dólares en computadoras obsoletas en menos de una década mientras eliminaba arte y educación física. La ingeniería tradicional separa hardware y software. La naturaleza los fusiona en liveware que optimiza hacia propósitos.
+
+Ingenieros en Singapur imitan sensores del pez ciego mexicano para submarinos. El desafío mayor es diseñar sistemas nerviosos que integren periféricos nuevos. Las máquinas del futuro deberían reconfigurarse como cerebros, no ejecutar firmware fijo hasta quedar en un vertedero.
+
+Livewiring vence al diseño rígido cuando el entorno sorprende porque optimiza hacia metas, no solo hacia especificaciones.
+
+Eagleman cierra el libro volviendo a la identidad: quién fuimos queda escrito en el cableado que el mundo esculpió.
+
+Capítulo 12. Encontrar el amor perdido de Ötzi
+
+¿Podría el cerebro leerse como un diario de todo lo vivido? Ötzi es el hombre del hielo hallado en los Alpes en 1991. Revela su dieta, enfermedades y migraciones en pelo, uñas y pulmones. Eagleman propone que el cerebro podría leerse igual. Qué mano usaba o qué idioma escuchaba sigue siendo ciencia ficción hoy, posible en décadas.
+
+Somos cambiapieles. El yo de hace años puede parecer un extraño leyendo su diario. La identidad es trayectoria de reconfiguraciones, no esencia grabada en genes. Eagleman resume siete principios que recorren el libro. El cerebro refleja el mundo. Envuelve entradas nuevas. Conduce cualquier maquinaria. Retiene lo relevante. Fija lo estable. Compite o muere. Se mueve hacia los datos.
+
+La livewiring explica memoria, inteligencia flexible y civilizaciones. Libera a la evolución de prever cada eventualidad. El cerebro ajusta miles de millones de parámetros sobre la marcha. Leer estas líneas ya te cambió, y ese es el punto del libro.
+
+La identidad es verbo livewired, no sustantivo fijo. Es un diario escrito en conexiones que el mundo esculpe.
+
+Conceptos clave
+
+⚡ Livewired Cableado cerebral que se reescribe continuamente con experiencia y relevancia.
+
+🧠 Neuroplasticidad Término clásico (James); Eagleman lo amplía más allá del molde único.
+
+👅 Sustitución sensorial Nuevos canales de datos integrados como percepción (BrainPort, cocleares).
+
+🪟 Período sensible Ventana de máxima maleabilidad para lenguaje, visión o acento.
+
+❤️ Mattering Relevancia subjetiva que guía qué circuitos se consolidan.
+
+👐 Motor babbling Exploración motora aleatoria que esculpe mapas corporales.
+
+🗺️ Colonización cortical Territorios sensoriales competidos según uso y demanda.
+
+✂️ Hemisferectomía Extirpación de hemisferio con reasignación funcional posible.
+
+Cronología de hitos citados
+
+1596 Ortelius intuye continentes encajables (metáfora continental)
+
+1797 Amputación del brazo de Lord Nelson; brazo fantasma
+
+1882 Ribot formula la ley de memoria (recuerdos antiguos más estables)
+
+1912 Wegener: deriva continental como analogía de flujo cerebral
+
+1945– Tokio reorienta industria bélica al Shinkansen
+
+s. XIX William James acuña plasticidad
+
+1980s Páginas de libros percibidas ligeramente rojas (monitores verdes)
+
+1991 Descubrimiento de Ötzi en los Alpes
+
+2005 Danielle Crockett, niña feral en Florida
+
+2020 Publicación de Livewired (Pantheon)
+
+2021 Edición Vintage en rústica
+
+Figuras clave
+
+David Eagleman Autor · Plasticidad · Neosensory · Serie The Brain
+
+William James Plasticidad como metáfora fundacional
+
+Martin Heidegger Epígrafe sobre nacer como muchos y morir como uno
+
+Paul Bach-y-Rita Pionero de sustitución sensorial
+
+Wilder Penfield Mapas corticales del cuerpo (homúnculo)
+
+Itzhak Perlman Ejemplo de dedicación motora y cortical
+
+Rita Levi-Montalcini Neurotrofinas y competencia sináptica

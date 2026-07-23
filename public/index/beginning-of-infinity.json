@@ -78,17 +78,17 @@
     {
       "sectionId": "prefacio",
       "sectionTitle": "Introducción",
-      "text": "David Deutsch plantea un problema histórico: el progreso rápido y estable (en ciencia, tecnología, instituciones, moral y arte) ocurrió una sola vez, con la revolución científica , y sigue en curso. Muchos pensadores negaron que fuera genuino o deseable. Deutsch responde que hay diferencia objetiva entre explicación falsa y verdadera, entre estancamiento y mejora."
+      "text": "¿Por qué el progreso rápido en ciencia, tecnología e instituciones ocurrió una sola vez? David Deutsch , físico y filósofo de la ciencia, plantea ese enigma histórico. El avance estable comenzó con la revolución científica (el giro del siglo XVII que convirtió la investigación en crítica abierta) y sigue en curso. Muchos pensadores negaron que fuera genuino o deseable."
     },
     {
       "sectionId": "prefacio",
       "sectionTitle": "Introducción",
-      "text": "La solución que propone es única: todo ese progreso proviene de la búsqueda de buenas explicaciones . No es casualidad humana: refleja que la realidad obedece leyes universales que son, ellas mismas, buenas explicaciones. Ese vínculo entre lo cósmico y lo humano sugiere un papel central de las personas en el esquema de las cosas."
+      "text": "Deutsch responde que hay diferencia objetiva entre explicación falsa y verdadera. También entre estancamiento y mejora real. Todo ese progreso proviene de buscar buenas explicaciones , es decir, teorías difíciles de variar sin perder sentido. No es casualidad humana: la realidad obedece leyes universales que son, ellas mismas, buenas explicaciones."
     },
     {
       "sectionId": "prefacio",
       "sectionTitle": "Introducción",
-      "text": "El título alude a si el progreso debe terminar en catástrofe o completitud, o es ilimitado . La respuesta es la segunda. Cada campo científico y filosófico tiene su propio «inicio del infinito»: la condición que permite despegar. Esos inicios parecen inconexos, pero son facetas de un mismo atributo de la realidad."
+      "text": "El título pregunta si el progreso debe terminar en catástrofe o completitud. Deutsch sostiene que es ilimitado , o sea, sin techo fijo de mejora. Cada campo tiene su propio «inicio del infinito»: la condición que permite despegar. Esos inicios parecen inconexos, pero son facetas de un mismo atributo de la realidad."
     },
     {
       "sectionId": "prefacio",
@@ -96,374 +96,474 @@
       "text": "El progreso ilimitado comienza cuando una tradición prioriza buenas explicaciones y crítica de errores por encima de la autoridad."
     },
     {
-      "sectionId": "cap1",
-      "sectionTitle": "The Reach of Explanations",
-      "text": "El capítulo abre con un contraste: el cielo nocturno muestra puntos y manchas, pero la astrofísica explica estrellas , transmutación nuclear, supernovas, cuásares y un multiverso . El problema es cómo conocemos todo eso sin haber visitado ninguna estrella: solo mediante impulsos eléctricos en el cerebro. La respuesta no es la experiencia sensorial pura, sino las explicaciones ."
+      "sectionId": "prefacio",
+      "sectionTitle": "Introducción",
+      "text": "Para entender ese mecanismo, hay que preguntarse cómo conocemos un cosmos que nunca visitamos."
     },
     {
       "sectionId": "cap1",
-      "sectionTitle": "The Reach of Explanations",
-      "text": "Deutsch refuta empirismo e inductivismo . John Locke imaginaba la mente como papel en blanco, pero las teorías son conjeturas creativas que la experiencia solo sirve para elegir entre ellas. El inductivismo falla por dos motivos. Confunde predicción de experiencias con conocimiento de la realidad, y supone que el futuro se parece al pasado cuando la ciencia predice fenómenos radicalmente nuevos, como el vuelo, la fisión nuclear o amaneceres cada noventa minutos en órbita."
+      "sectionTitle": "El alcance de las explicaciones",
+      "text": "¿Cómo sabemos tanto del cielo sin haber visitado ninguna estrella? El capítulo abre con un contraste. El cielo nocturno muestra puntos y manchas. La astrofísica explica estrellas, transmutación nuclear, supernovas y cuásares. La respuesta no es la experiencia sensorial pura, sino las explicaciones , o sea, teorías que conectan apariencias con causas reales."
     },
     {
       "sectionId": "cap1",
-      "sectionTitle": "The Reach of Explanations",
-      "text": "Frente al justificationism (conocimiento = creencia justificada verdadera), Deutsch defiende el falibilismo : no hay fuentes autoritarias ni justificación infalible. crear conocimiento es entender mejor la realidad corrigiendo errores. Una buena explicación es difícil de variar: cambiar un detalle arruina el poder explicativo. El mito de Perséfone «explica» estaciones pero cada dios o semilla mágica podría sustituirse. la inclinación del eje terrestre no admite variantes triviales y predice hemisferios desfasados."
+      "sectionTitle": "El alcance de las explicaciones",
+      "text": "Deutsch refuta el empirismo (la idea de que el conocimiento nace solo de los sentidos). También refuta el inductivismo (la creencia de que basta acumular observaciones para inferir leyes). John Locke , filósofo inglés del siglo XVII, imaginaba la mente como papel en blanco. Pero las teorías son conjeturas creativas que la experiencia solo sirve para elegir entre ellas."
     },
     {
       "sectionId": "cap1",
-      "sectionTitle": "The Reach of Explanations",
+      "sectionTitle": "El alcance de las explicaciones",
+      "text": "El inductivismo falla por dos motivos. Confunde predicción de experiencias con conocimiento de la realidad. Supone que el futuro se parece al pasado. La ciencia predice fenómenos radicalmente nuevos, como el vuelo o amaneceres cada noventa minutos en órbita. Frente al justificationism, Deutsch defiende el falibilismo: no hay fuentes autoritarias ni justificación infalible."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "El alcance de las explicaciones",
+      "text": "Una buena explicación es difícil de variar: cambiar un detalle arruina el poder explicativo. El mito de Perséfone «explica» estaciones, pero cada dios podría sustituirse. La inclinación del eje terrestre no admite variantes triviales y predice hemisferios desfasados."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "El alcance de las explicaciones",
       "text": "Detrás de todo hay seguramente una idea tan simple, tan bella, que cuando la comprendamos diremos: ¿cómo pudo ser de otro modo?"
     },
     {
       "sectionId": "cap1",
-      "sectionTitle": "The Reach of Explanations",
+      "sectionTitle": "El alcance de las explicaciones",
       "text": "El progreso científico nació al buscar buenas explicaciones difíciles de variar, no al acumular observaciones ni justificar creencias."
     },
     {
-      "sectionId": "cap2",
-      "sectionTitle": "Closer to Reality",
-      "text": "Parece paradójico que los instrumentos científicos nos acerquen a la realidad alejándonos físicamente del fenómeno. El problema es que nunca observamos «en crudo»: toda percepción es cargada de teoría . Incluso el dolor de cabeza es una interpretación cerebral de señales eléctricas. la esfera celeste parecía observada directamente y no existía."
+      "sectionId": "cap1",
+      "sectionTitle": "El alcance de las explicaciones",
+      "text": "Si el conocimiento crece corrigiendo teorías, ¿qué significa acercarse a la realidad con instrumentos?"
     },
     {
       "sectionId": "cap2",
-      "sectionTitle": "Closer to Reality",
-      "text": "Cada error es un error en una explicación, no un dato puro. Por eso podemos corregir el engaño de los sentidos: la esfera celeste geocéntrica fue reemplazada por un sistema heliocéntrico en movimiento. El crecimiento del conocimiento consiste en corregir conceptos erróneos en nuestras teorías, no en acercarse a un contacto directo con los hechos."
+      "sectionTitle": "Más cerca de la realidad",
+      "text": "¿Por qué los instrumentos nos acercan a la realidad alejándonos físicamente del fenómeno? Parece paradójico, pero nunca observamos «en crudo». Toda percepción está cargada de teoría , es decir, interpretada mediante explicaciones previas. Incluso el dolor de cabeza es una interpretación cerebral de señales eléctricas. La esfera celeste parecía observada directamente y no existía."
     },
     {
       "sectionId": "cap2",
-      "sectionTitle": "Closer to Reality",
-      "text": "Thomas Edison dijo que investigar es un uno por ciento inspiración y noventa y nueve transpiración. Deutsch lee esa «transpiración» como el trabajo sistemático de detectar y corregir errores en explicaciones provisionales. Los instrumentos amplían ese proceso porque refinan la teoría en lugar de sustituirla."
+      "sectionTitle": "Más cerca de la realidad",
+      "text": "Cada error es un error en una explicación, no un dato puro. Por eso podemos corregir el engaño de los sentidos. La esfera celeste geocéntrica fue reemplazada por un sistema heliocéntrico en movimiento. El crecimiento del conocimiento consiste en corregir conceptos erróneos en nuestras teorías."
     },
     {
       "sectionId": "cap2",
-      "sectionTitle": "Closer to Reality",
+      "sectionTitle": "Más cerca de la realidad",
+      "text": "Thomas Edison , inventor estadounidense, dijo que investigar es un uno por ciento inspiración y noventa y nueve transpiración. Deutsch lee esa «transpiración» como el trabajo sistemático de detectar y corregir errores en explicaciones provisionales. Los instrumentos amplían ese proceso porque refinan la teoría en lugar de sustituirla."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Más cerca de la realidad",
       "text": "Estar más cerca de la realidad significa tener mejores explicaciones que corrigen errores, no acceder a datos sin interpretar."
     },
     {
-      "sectionId": "cap3",
-      "sectionTitle": "The Spark",
-      "text": "El principio de mediocridad y la metáfora de la Nave Tierra intentan humillar al ser humano frente al cosmos. Deutsch sostiene que son tan parroquiales como el geocentrismo: desde la perspectiva menos provincial disponible, las personas son las entidades más significativas porque crean conocimiento que se sostiene a sí mismo."
+      "sectionId": "cap2",
+      "sectionTitle": "Más cerca de la realidad",
+      "text": "Corregir teorías sobre el cosmos lleva a preguntarse qué papel tienen los humanos en ese universo."
     },
     {
       "sectionId": "cap3",
-      "sectionTitle": "The Spark",
-      "text": "El problema cosmológico no es que el universo nos hospede, sino cómo los sistemas complejos sobreviven. Los humanos, con el conocimiento de la Ilustración, no dependen pasivamente del entorno: lo transforman mediante explicaciones. La «chispa» no es privilegio místico sino capacidad de generar conocimiento de alcance universal."
+      "sectionTitle": "La chispa",
+      "text": "¿Somos insignificantes frente al cosmos o centralmente importantes? El principio de mediocridad (la idea de que la Tierra no ocupa un lugar especial) intenta humillar al ser humano. Lo mismo hace la metáfora de la Nave Tierra (tratar el planeta como nave cerrada). Deutsch sostiene que ambas son tan parroquiales como el geocentrismo."
     },
     {
       "sectionId": "cap3",
-      "sectionTitle": "The Spark",
-      "text": "Solo la evolución biológica y las personas crean conocimiento. Si encuentras oro en cualquier parte del cosmos, hubo una supernova o un ser inteligente con la explicación adecuada. Si encuentras una explicación, hubo un ser capaz de conjeturar y criticar."
+      "sectionTitle": "La chispa",
+      "text": "Desde la perspectiva menos provincial disponible, las personas son las entidades más significativas. Crean conocimiento , es decir, generan explicaciones que se sostienen a sí mismas. El problema cosmológico no es que el universo nos hospede, sino cómo los sistemas complejos sobreviven. Los humanos, con el conocimiento de la Ilustración, no dependen pasivamente del entorno: lo transforman."
     },
     {
       "sectionId": "cap3",
-      "sectionTitle": "The Spark",
+      "sectionTitle": "La chispa",
+      "text": "Solo la evolución biológica y las personas crean conocimiento. El oro en cualquier parte del cosmos implica una supernova previa o un ser inteligente con la explicación adecuada. Toda explicación encontrada implica un ser capaz de conjeturar y criticar. La «chispa» no es privilegio místico sino capacidad de generar conocimiento de alcance universal."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "La chispa",
       "text": "La relevancia humana proviene de crear conocimiento universal, no de ocupar el centro del espacio."
     },
     {
-      "sectionId": "cap4",
-      "sectionTitle": "Creation",
-      "text": "¿Cómo surge el conocimiento en la naturaleza y en la cultura? Deutsch compara evolución biológica y creación de conocimiento humano : ambas usan variación y selección, pero en dominios distintos. Los genes codifican adaptaciones. las ideas codifican teorías sujetas a crítica explícita."
+      "sectionId": "cap3",
+      "sectionTitle": "La chispa",
+      "text": "Si los humanos crean conocimiento, conviene comparar ese proceso con la evolución biológica."
     },
     {
       "sectionId": "cap4",
-      "sectionTitle": "Creation",
-      "text": "La similitud profunda es que adaptaciones y buenas teorías son difíciles de variar . La diferencia decisiva es el alcance explicativo , porque las adaptaciones no explican ni trascienden su nicho y las ideas humanas sí. El lamarckismo (adquisición heredada de caracteres) es el análogo biológico del inductivismo, ya que supone un mecanismo de creación de conocimiento que no existe."
+      "sectionTitle": "Creación",
+      "text": "¿Cómo surge el conocimiento en la naturaleza y en la cultura? Deutsch compara la evolución biológica (selección de genes por variación y supervivencia) y la creación de conocimiento humano. Ambas usan variación y selección, pero en dominios distintos. Los genes codifican adaptaciones. Las ideas codifican teorías sujetas a crítica explícita."
     },
     {
       "sectionId": "cap4",
-      "sectionTitle": "Creation",
-      "text": "La evolución cultural puede corregir errores de forma intencional y acelerada. la biológica opera sin diseño. Ese contraste prepara el análisis de memes y creatividad en capítulos posteriores."
+      "sectionTitle": "Creación",
+      "text": "La similitud profunda es que adaptaciones y buenas teorías son difíciles de variar , o sea, no admiten cambios triviales sin perder función. La diferencia decisiva es el alcance explicativo (la capacidad de resolver problemas fuera del nicho original). Las adaptaciones no explican ni trascienden su nicho. Las ideas humanas sí."
     },
     {
       "sectionId": "cap4",
-      "sectionTitle": "Creation",
+      "sectionTitle": "Creación",
+      "text": "El lamarckismo, que supone herencia de caracteres adquiridos, es el análogo biológico del inductivismo. La evolución cultural puede corregir errores de forma intencional y acelerada. La biológica opera sin diseño. Ese contraste prepara el análisis de memes y creatividad en capítulos posteriores."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Creación",
       "text": "Genes e ideas se replican y seleccionan, pero solo las ideas humanas pueden explicar y mejorarse deliberadamente."
     },
     {
-      "sectionId": "cap5",
-      "sectionTitle": "The Reality of Abstractions",
-      "text": "Ni el reduccionismo rígido ni el holismo vago resuelven el problema de los niveles de descripción. Deutsch sostiene que las explicaciones no forman una jerarquía donde solo lo microscópico es fundamental: hay leyes autónomas en cada nivel de emergencia."
+      "sectionId": "cap4",
+      "sectionTitle": "Creación",
+      "text": "¿Las abstracciones que usan las ideas humanas son reales o solo palabras?"
     },
     {
       "sectionId": "cap5",
-      "sectionTitle": "The Reality of Abstractions",
-      "text": "Si una entidad abstracta es indispensable en la mejor explicación disponible, es real en sentido causal-explicativo. La causalidad misma es una abstracción real, no un epifenómeno del lenguaje. Negarlo obliga a empobrecer teorías que funcionan."
+      "sectionTitle": "La realidad de las abstracciones",
+      "text": "¿Son reales las ideas abstractas o solo convenientes para hablar? Ni el reduccionismo (explicar todo solo con partículas) ni el holismo vago resuelven el problema de los niveles de descripción. Deutsch sostiene que las explicaciones no forman una jerarquía donde solo lo microscópico es fundamental. Hay leyes autónomas en cada nivel de emergencia."
     },
     {
       "sectionId": "cap5",
-      "sectionTitle": "The Reality of Abstractions",
-      "text": "Esto importa para física, mente y moral: no hay que «reducir» todo a partículas para tener conocimiento fundamental. Las explicaciones de alto nivel capturan regularidades que el microfísico solo no revela."
+      "sectionTitle": "La realidad de las abstracciones",
+      "text": "Si una entidad abstracta es indispensable en la mejor explicación disponible, es real en sentido causal-explicativo. La causalidad , o sea, la relación de causa y efecto, es una abstracción real y no un epifenómeno del lenguaje. Negarlo obliga a empobrecer teorías que funcionan."
     },
     {
       "sectionId": "cap5",
-      "sectionTitle": "The Reality of Abstractions",
+      "sectionTitle": "La realidad de las abstracciones",
+      "text": "Esto importa para física, mente y moral. No hay que «reducir» todo a partículas para tener conocimiento fundamental. Las explicaciones de alto nivel capturan regularidades que el microfísico solo no revela."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "La realidad de las abstracciones",
       "text": "Lo abstracto es real cuando participa causalmente en la mejor explicación y no puede eliminarse sin arruinarla."
     },
     {
-      "sectionId": "cap6",
-      "sectionTitle": "The Jump to Universality",
-      "text": "Muchos sistemas mejoran incrementalmente hasta un punto de inflexión: se vuelven universales en un dominio —capaces de representar o ejecutar cualquier caso relevante. El problema previo era la parcialidad. la solución abre un régimen de alcance ilimitado en ese ámbito."
+      "sectionId": "cap5",
+      "sectionTitle": "La realidad de las abstracciones",
+      "text": "Si las abstracciones pueden volverse universales, hay que entender qué significa ese salto."
     },
     {
       "sectionId": "cap6",
-      "sectionTitle": "The Jump to Universality",
-      "text": "Deutsch cita escritura, cómputo, el código genético y el método científico. Antes de la Ilustración, los innovadores rara vez buscaban la universalidad a propósito. después, las explicaciones universales se valoran por sí mismas y por su utilidad. La corrección de errores es esencial en procesos potencialmente infinitos: un sistema universal sin crítica acumula fallos."
+      "sectionTitle": "El salto a la universalidad",
+      "text": "¿Qué convierte una mejora local en plataforma de progreso sin fin? Muchos sistemas mejoran incrementalmente hasta un punto de inflexión. Se vuelven universales , es decir, capaces de representar o ejecutar cualquier caso relevante en un dominio. El problema previo era la parcialidad. La solución abre un régimen de alcance ilimitado en ese ámbito."
     },
     {
       "sectionId": "cap6",
-      "sectionTitle": "The Jump to Universality",
-      "text": "En física, las funciones que aparecen suelen ser analíticas , con propiedades que restringen qué leyes son posibles. Eso conecta matemática y realidad y será relevante para cosmología y antropicidad."
+      "sectionTitle": "El salto a la universalidad",
+      "text": "Deutsch cita escritura, cómputo, el código genético y el método científico. Antes de la Ilustración, los innovadores rara vez buscaban la universalidad a propósito. Después, las explicaciones universales se valoran por sí mismas y por su utilidad. La corrección de errores es esencial en procesos potencialmente infinitos."
     },
     {
       "sectionId": "cap6",
-      "sectionTitle": "The Jump to Universality",
+      "sectionTitle": "El salto a la universalidad",
+      "text": "En física, las funciones que aparecen suelen ser analíticas (funciones suaves con propiedades matemáticas restrictivas). Eso conecta matemática y realidad y será relevante para cosmología y antropicidad. Un sistema universal sin crítica acumula fallos."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "El salto a la universalidad",
       "text": "Un salto a la universalidad convierte mejoras locales en plataforma de progreso potencialmente sin fin en ese dominio."
     },
     {
-      "sectionId": "cap7",
-      "sectionTitle": "Artificial Creativity",
-      "text": "La inteligencia artificial general no avanza porque enfrenta un problema filosófico sin resolver: no entendemos cómo funciona la creatividad . Más hardware no compensa la ausencia de buena explicación del fenómeno."
+      "sectionId": "cap6",
+      "sectionTitle": "El salto a la universalidad",
+      "text": "La universalidad humana plantea si las máquinas pueden replicar la creatividad explicativa."
     },
     {
       "sectionId": "cap7",
-      "sectionTitle": "Artificial Creativity",
-      "text": "El test de Turing y enfoques conductistas confunden imitación de salida con comprensión explicativa. Deutsch argumenta que, una vez resuelto el problema epistemológico, programar creatividad será difícil pero no misterioso. Lo mismo aplica a la «evolución artificial»: quizá no se ha logrado porque no comprendemos la universalidad del sistema de replicación del ADN."
+      "sectionTitle": "Creatividad artificial",
+      "text": "¿Por qué la inteligencia artificial general no avanza como se esperaba? Deutsch sostiene que enfrenta un problema filosófico sin resolver: no entendemos cómo funciona la creatividad , es decir, la capacidad de conjeturar y criticar explicaciones nuevas. Más hardware no compensa la ausencia de buena explicación del fenómeno."
     },
     {
       "sectionId": "cap7",
-      "sectionTitle": "Artificial Creativity",
-      "text": "La universalidad de los explicadores humanos implica que no habrá mentes «superhumanas» en sentido cualitativo: solo más velocidad, memoria y automatización del trabajo ya humano."
+      "sectionTitle": "Creatividad artificial",
+      "text": "El test de Turing (probar si una máquina imita conversación humana) y enfoques conductistas confunden imitación de salida con comprensión explicativa. Deutsch argumenta que, una vez resuelto el problema epistemológico, programar creatividad será difícil pero no misterioso. Lo mismo aplica a la «evolución artificial»: quizá no se ha logrado porque no comprendemos la universalidad del sistema de replicación del ADN."
     },
     {
       "sectionId": "cap7",
-      "sectionTitle": "Artificial Creativity",
+      "sectionTitle": "Creatividad artificial",
+      "text": "La universalidad de los explicadores humanos implica que no habrá mentes «superhumanas» en sentido cualitativo. Solo más velocidad, memoria y automatización del trabajo ya humano."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Creatividad artificial",
       "text": "Sin teoría de la creatividad, la IA general permanece bloqueada por un problema filosófico, no solo técnico."
     },
     {
-      "sectionId": "cap8",
-      "sectionTitle": "A Window on Infinity",
-      "text": "El infinito no es extravagancia matemática: entra en física y en la teoría de la explicación. El problema es intuir propiedades que parecen imposibles. la solución pasa por buenas explicaciones que las hacen coherentes."
+      "sectionId": "cap7",
+      "sectionTitle": "Creatividad artificial",
+      "text": "Si el progreso puede ser ilimitado, hay que comprender qué significa el infinito en física y en epistemología."
     },
     {
       "sectionId": "cap8",
-      "sectionTitle": "A Window on Infinity",
-      "text": "El hotel de Hilbert muestra que un hotel lleno puede alojar más huéspedes: el infinito no se comporta como lo finito. Cantor demostró con el argumento diagonal que hay infinitos de distinto tamaño. Si el progreso es ilimitado, siempre estamos casi al comienzo, nunca «casi al final»."
+      "sectionTitle": "Una ventana al infinito",
+      "text": "¿Cómo puede el infinito ser comprensible y físicamente relevante? El infinito , o sea, lo que no tiene fin, no es extravagancia matemática: entra en física y en la teoría de la explicación. El problema es intuir propiedades que parecen imposibles. La solución pasa por buenas explicaciones que las hacen coherentes."
     },
     {
       "sectionId": "cap8",
-      "sectionTitle": "A Window on Infinity",
-      "text": "Esa paradoja desarma profecías de completitud: quien predice que el saber está casi agotado confunde ignorancia infinita con proximidad a un techo."
+      "sectionTitle": "Una ventana al infinito",
+      "text": "El hotel de Hilbert (un hotel con infinitas habitaciones siempre lleno) muestra una paradoja. Aún puede alojar más huéspedes. El infinito no se comporta como lo finito. Georg Cantor , matemático alemán, demostró con el argumento diagonal que hay infinitos de distinto tamaño. Si el progreso es ilimitado, siempre estamos casi al comienzo, nunca «casi al final»."
     },
     {
       "sectionId": "cap8",
-      "sectionTitle": "A Window on Infinity",
+      "sectionTitle": "Una ventana al infinito",
+      "text": "Esa paradoja desarma profecías de completitud. Quien predice que el saber está casi agotado confunde ignorancia infinita con proximidad a un techo."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Una ventana al infinito",
       "text": "Comprender el infinito amplía qué problemas consideramos solubles y nos sitúa siempre en un comienzo del progreso."
     },
     {
-      "sectionId": "cap9",
-      "sectionTitle": "Optimism",
-      "text": "Deutsch redefine optimismo como tesis epistemológica: todo mal persistente es, ante todo, un problema de conocimiento insuficiente . No es actitud complaciente ni garantía de éxito. exige responsabilidad y crítica institucional."
+      "sectionId": "cap8",
+      "sectionTitle": "Una ventana al infinito",
+      "text": "Entender el infinito del progreso lleva a preguntarse qué actitud adoptar frente a los males persistentes."
     },
     {
       "sectionId": "cap9",
-      "sectionTitle": "Optimism",
+      "sectionTitle": "Optimismo",
+      "text": "¿Significa optimismo creer que todo saldrá bien? Deutsch redefine el optimismo , es decir, la confianza en que los problemas son solubles, como tesis epistemológica y no como actitud complaciente. Todo mal persistente es un problema de conocimiento insuficiente , o sea, de explicaciones que aún no hemos encontrado. No es garantía de éxito: exige responsabilidad y crítica institucional."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Optimismo",
       "text": "El pesimismo paraliza porque trata los males como inevitables. El optimismo racional parte de que no hay autoridad final: siempre puede haber mejor explicación. Incluso moral y política admiten progreso objetivo mediante buenas explicaciones, no solo consenso relativo."
     },
     {
       "sectionId": "cap9",
-      "sectionTitle": "Optimism",
+      "sectionTitle": "Optimismo",
       "text": "Historias de «mini-ilustraciones» truncadas muestran que sin tradición de crítica el progreso se apaga. El problema nunca desaparece del todo: evolucionamos de problemas a mejores problemas, no a un estado sin conflicto."
     },
     {
       "sectionId": "cap9",
-      "sectionTitle": "Optimism",
+      "sectionTitle": "Optimismo",
       "text": "Optimismo racional es la convicción de que los males son problemas soluble en principio mediante mejores explicaciones."
     },
     {
-      "sectionId": "cap10",
-      "sectionTitle": "A Dream of Socrates",
-      "text": "En un diálogo onírico, Hermes (Apolo) enseña a Sócrates epistemología. El problema del oráculo («nadie es más sabio que Sócrates») introduce la distinción entre saber y creer justificado."
+      "sectionId": "cap9",
+      "sectionTitle": "Optimismo",
+      "text": "Esa actitud falibilista tiene raíces antiguas: Deutsch la dramatiza en un diálogo con Sócrates."
     },
     {
       "sectionId": "cap10",
-      "sectionTitle": "A Dream of Socrates",
-      "text": "La creencia verdadera justificada es una quimera, porque la justificación infinita o la autoridad no producen conocimiento objetivo. Quien busca certeza rechaza como «conocimiento» lo que ya comprende hasta que un dios lo confirme. El conocimiento objetivo es falible y mejorable, mientras que la certeza es innecesaria y dañina."
+      "sectionTitle": "Un sueño de Sócrates",
+      "text": "¿Qué significa «conocer» si no hay certeza infalible? En un diálogo onírico, Hermes (Apolo) enseña a Sócrates , filósofo griego, epistemología. El problema del oráculo («nadie es más sabio que Sócrates») introduce la distinción entre saber y creer justificado."
     },
     {
       "sectionId": "cap10",
-      "sectionTitle": "A Dream of Socrates",
-      "text": "Según Hermes , nada es «fácil de ver». Lo que parece obvio (un dios ante tus ojos mientras duermes) requiere teorías para interpretarse. El diálogo dramatiza el mensaje popperiano del capítulo 1 para quien prefiera el mito al tratado."
+      "sectionTitle": "Un sueño de Sócrates",
+      "text": "La creencia verdadera justificada (la definición clásica de «conocimiento») es una quimera. La justificación infinita o la autoridad no producen conocimiento objetivo. Quien busca certeza rechaza como «conocimiento» lo que ya comprende hasta que un dios lo confirme. El conocimiento objetivo es falible y mejorable, mientras que la certeza es innecesaria y dañina."
     },
     {
       "sectionId": "cap10",
-      "sectionTitle": "A Dream of Socrates",
+      "sectionTitle": "Un sueño de Sócrates",
+      "text": "Según Hermes, nada es «fácil de ver». Lo que parece obvio requiere teorías para interpretarse. El diálogo dramatiza el mensaje popperiano del capítulo 1 para quien prefiera el mito al tratado."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Un sueño de Sócrates",
       "text": "Conocer no es justificar infaliblemente, sino mejorar explicaciones en conversación crítica consciente de la falibilidad."
     },
     {
-      "sectionId": "cap11",
-      "sectionTitle": "The Multiverse",
-      "text": "La mejor explicación de la mecánica cuántica implica un multiverso : la realidad física contiene flujos de información en historias cuasi autónomas. Un «universo» clásico es una característica emergente, no el todo."
+      "sectionId": "cap10",
+      "sectionTitle": "Un sueño de Sócrates",
+      "text": "El falibilismo tiene consecuencias en física: Deutsch las desarrolla con la interpretación cuántica del multiverso."
     },
     {
       "sectionId": "cap11",
-      "sectionTitle": "The Multiverse",
-      "text": "La interferencia cuántica evidencia otras historias, y negarlas obliga a postular colapsos ad hoc. Deutsch defiende nubes de instancias fungibles de partículas con atributos discretos. El problema de la gravedad cuántica (la incompatibilidad entre cuántica y relatividad general) muestra que nuestras mejores teorías aún fallan."
+      "sectionTitle": "El multiverso",
+      "text": "¿Qué implica tomar en serio la mecánica cuántica? La mejor explicación implica un multiverso , es decir, una realidad física con flujos de información en historias cuasi autónomas. Un «universo» clásico es una característica emergente, no el todo."
     },
     {
       "sectionId": "cap11",
-      "sectionTitle": "The Multiverse",
+      "sectionTitle": "El multiverso",
+      "text": "La interferencia cuántica (patrones de ondas que revelan superposición de estados) evidencia otras historias. Negarlas obliga a postular colapsos ad hoc. Deutsch defiende nubes de instancias fungibles de partículas con atributos discretos. El problema de la gravedad cuántica muestra que nuestras mejores teorías aún fallan."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "El multiverso",
       "text": "Contar «copias» de observadores sin teoría de medida produce paradojas antrópicas. La ontología ampliada no es adorno: resuelve problemas concretos de probabilidad y estructura."
     },
     {
       "sectionId": "cap11",
-      "sectionTitle": "The Multiverse",
+      "sectionTitle": "El multiverso",
       "text": "Tomar en serio la cuántica implica un multiverso de historias múltiples, no solo predicciones instrumentales."
     },
     {
-      "sectionId": "cap12",
-      "sectionTitle": "A Physicist's History of Bad Philosophy",
-      "text": "Deutsch define mala filosofía como la que impide activamente el crecimiento del conocimiento. Antes de la Ilustración predominaba. Después de la Ilustración creció la buena filosofía, pero la mala empeoró al descender del empirismo al positivismo, al instrumentalismo, a la filosofía lingüística y al postmodernismo."
+      "sectionId": "cap11",
+      "sectionTitle": "El multiverso",
+      "text": "Negar explicaciones reales en física es síntoma de una tradición filosófica que Deutsch llama «mala filosofía»."
     },
     {
       "sectionId": "cap12",
-      "sectionTitle": "A Physicist's History of Bad Philosophy",
-      "text": "El daño central es separar predicción de explicación: la teoría se reduce a fórmula útil más «interpretación» arbitraria. Eso legitimó interpretaciones de la mecánica cuántica que renuncian a describir la realidad y dehumanizaron campos como la psicología."
+      "sectionTitle": "Historia de la mala filosofía",
+      "text": "¿Qué tipo de filosofía frena el progreso del conocimiento? Deutsch define mala filosofía (doctrinas que impiden activamente el crecimiento del saber) como la que bloquea la crítica. Antes de la Ilustración predominaba. Después creció la buena filosofía, pero la mala empeoró."
     },
     {
       "sectionId": "cap12",
-      "sectionTitle": "A Physicist's History of Bad Philosophy",
-      "text": "La salida no es eliminar la filosofía de la ciencia, sino exigir explicaciones buenas y criticables. La ciencia progresa integrando filosofía crítica, no fingiendo prescindir de ella."
+      "sectionTitle": "Historia de la mala filosofía",
+      "text": "Descendió del empirismo al positivismo, al instrumentalismo, a la filosofía lingüística y al postmodernismo. El daño central es separar predicción de explicación: la teoría se reduce a fórmula útil más «interpretación» arbitraria. Eso legitimó interpretaciones de la mecánica cuántica que renuncian a describir la realidad."
     },
     {
       "sectionId": "cap12",
-      "sectionTitle": "A Physicist's History of Bad Philosophy",
+      "sectionTitle": "Historia de la mala filosofía",
+      "text": "También dehumanizó campos como la psicología. La salida no es eliminar la filosofía de la ciencia, sino exigir explicaciones buenas y criticables. La ciencia progresa integrando filosofía crítica, no fingiendo prescindir de ella."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Historia de la mala filosofía",
       "text": "La mala filosofía bloquea el progreso al tratar las teorías como oráculos predictivos sin explicación real."
     },
     {
-      "sectionId": "cap13",
-      "sectionTitle": "Choices",
-      "text": "Los sistemas de decisión colectiva enfrentan un problema: no existe regla perfecta que agregue preferencias sin paradojas. Deutsch advierte que modelar la política como selección entre opciones fijas omite lo esencial — crear nuevas opciones ."
+      "sectionId": "cap12",
+      "sectionTitle": "Historia de la mala filosofía",
+      "text": "Ese bloqueo también afecta cómo pensamos las decisiones colectivas y las instituciones políticas."
     },
     {
       "sectionId": "cap13",
-      "sectionTitle": "Choices",
-      "text": "Las buenas políticas, como las buenas explicaciones, son difíciles de variar: mezclar arbitrariamente principios incompatibles produce malas soluciones. Los gobiernos de coalición no son un ideal electoral. son síntoma de marcos que no permiten crítica clara."
+      "sectionTitle": "Elecciones",
+      "text": "¿Basta elegir entre opciones ya dadas para decidir bien en política? Los sistemas de decisión colectiva enfrentan un problema. No existe regla perfecta que agregue preferencias sin paradojas. Deutsch advierte que modelar la política como selección entre opciones fijas omite lo esencial: crear nuevas opciones , es decir, inventar alternativas que antes no existían."
     },
     {
       "sectionId": "cap13",
-      "sectionTitle": "Choices",
+      "sectionTitle": "Elecciones",
+      "text": "Las buenas políticas, como las buenas explicaciones, son difíciles de variar. Mezclar arbitrariamente principios incompatibles produce malas soluciones. Los gobiernos de coalición no son un ideal electoral: son síntoma de marcos que no permiten crítica clara."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Elecciones",
       "text": "Decidir racionalmente replica el método científico: conjeturar alternativas, criticarlas y mejorar instituciones. La democracia falla cuando se congela en fórmulas supuestamente definitivas."
     },
     {
       "sectionId": "cap13",
-      "sectionTitle": "Choices",
+      "sectionTitle": "Elecciones",
       "text": "Elegir bien exige creatividad institucional y revisión continua, no obediencia a algoritmos de agregación fijos."
     },
     {
-      "sectionId": "cap14",
-      "sectionTitle": "Why are Flowers Beautiful?",
-      "text": "¿Hay belleza objetiva o solo gusto? El empirismo no puede fundar estética. Deutsch sostiene que existen verdades objetivas en estética ligadas a hechos mediante explicaciones."
+      "sectionId": "cap13",
+      "sectionTitle": "Elecciones",
+      "text": "Deutsch analiza cómo las instituciones transmiten ideas mediante evolución cultural."
     },
     {
       "sectionId": "cap14",
-      "sectionTitle": "Why are Flowers Beautiful?",
-      "text": "Las flores parecen bellas a los humanos aunque su diseño evolucionó para polinizadores, no para nosotros. Esa convergencia sugiere criterios de belleza independientes de la función original: señales difíciles de falsificar cuando falta conocimiento compartido previo."
+      "sectionTitle": "¿Por qué son bellas las flores?",
+      "text": "¿Hay belleza objetiva o solo gusto personal? El empirismo no puede fundar estética. Deutsch sostiene que existen verdades objetivas en estética , es decir, criterios convergentes sobre qué formas importan, ligadas a hechos mediante explicaciones."
     },
     {
       "sectionId": "cap14",
-      "sectionTitle": "Why are Flowers Beautiful?",
-      "text": "El arte también resuelve problemas. por eso admite crítica más allá del relativismo total. Las buenas obras son difíciles de variar sin perder lo que logran."
+      "sectionTitle": "¿Por qué son bellas las flores?",
+      "text": "Las flores parecen bellas a los humanos aunque su diseño evolucionó para polinizadores, no para nosotros. Esa convergencia sugiere criterios de belleza independientes de la función original. Son señales difíciles de falsificar cuando falta conocimiento compartido previo."
     },
     {
       "sectionId": "cap14",
-      "sectionTitle": "Why are Flowers Beautiful?",
+      "sectionTitle": "¿Por qué son bellas las flores?",
+      "text": "El arte también resuelve problemas. Por eso admite crítica más allá del relativismo total. Las buenas obras son difíciles de variar sin perder lo que logran."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "¿Por qué son bellas las flores?",
       "text": "La estética participa del proyecto racional: explicar por qué ciertas formas importan con criterios convergentes y objetivos."
     },
     {
-      "sectionId": "cap15",
-      "sectionTitle": "The Evolution of Culture",
-      "text": "Las culturas evolucionan mediante memes , es decir, ideas que se replican en mentes y conductas. El problema es explicar su dinámica sin reducirla a genes ni a elección racional individual."
+      "sectionId": "cap14",
+      "sectionTitle": "¿Por qué son bellas las flores?",
+      "text": "El arte y la cultura se transmiten por memes: ideas que compiten por replicarse en mentes."
     },
     {
       "sectionId": "cap15",
-      "sectionTitle": "The Evolution of Culture",
-      "text": "A diferencia de los genes, cada meme incluye su mecanismo de réplica y se selecciona por dos vías: capacidad de producir conducta y de que esa conducta contagie el meme. Los portadores rara vez saben por qué un meme funciona."
+      "sectionTitle": "La evolución de la cultura",
+      "text": "¿Cómo evolucionan las culturas sin reducir todo a genes o a elección individual? Las culturas evolucionan mediante memes , es decir, ideas que se replican en mentes y conductas. El problema es explicar su dinámica sin perder de vista la selección y la crítica."
     },
     {
       "sectionId": "cap15",
-      "sectionTitle": "The Evolution of Culture",
-      "text": "Deutsch distingue culturas dinámicas , que toleran corrección, y estáticas , que priorizan preservación sobre verdad. El destino de una sociedad depende de cuál predominio."
+      "sectionTitle": "La evolución de la cultura",
+      "text": "A diferencia de los genes, cada meme incluye su mecanismo de réplica. Se selecciona de dos maneras distintas. Una es la capacidad de producir conducta. La otra es que esa conducta contagie el meme. Los portadores rara vez saben por qué un meme funciona."
     },
     {
       "sectionId": "cap15",
-      "sectionTitle": "The Evolution of Culture",
+      "sectionTitle": "La evolución de la cultura",
+      "text": "Deutsch distingue culturas dinámicas (que toleran corrección) y estáticas (que priorizan preservación sobre verdad). El destino de una sociedad depende de cuál predominio."
+    },
+    {
+      "sectionId": "cap15",
+      "sectionTitle": "La evolución de la cultura",
       "text": "La evolución cultural decide si una sociedad corrige errores o queda atrapada en memes anti-críticos."
     },
     {
-      "sectionId": "cap16",
-      "sectionTitle": "The Evolution of Creativity",
-      "text": "Deutsch plantea dos enigmas. ¿Por qué evolucionó la creatividad si el conocimiento crecía demasiado lento para dar ventaja selectiva? ¿Cómo se transmiten memes complejos si el cerebro no los «descarga» como archivos?"
+      "sectionId": "cap15",
+      "sectionTitle": "La evolución de la cultura",
+      "text": "Para que los memes complejos se transmitan, hace falta creatividad: Deutsch explica por qué evolucionó."
     },
     {
       "sectionId": "cap16",
-      "sectionTitle": "The Evolution of Creativity",
-      "text": "La misma respuesta resuelve ambos enigmas. Los memes complejos no mandan acciones fijas sino reglas , y replicarlos requiere creatividad para inferir la regla desde comportamientos observados. La creatividad fue seleccionada para copiar memes con fidelidad suficiente, no como ornamento."
+      "sectionTitle": "La evolución de la creatividad",
+      "text": "¿Por qué evolucionó la creatividad si el conocimiento crecía demasiado lento para dar ventaja selectiva? Deutsch plantea dos enigmas. ¿Cómo se transmiten memes complejos si el cerebro no los «descarga» como archivos? La misma respuesta resuelve ambos."
     },
     {
       "sectionId": "cap16",
-      "sectionTitle": "The Evolution of Creativity",
-      "text": "Eso conecta biología, cultura y epistemología. Sin creatividad no hay transmisión cultural de explicaciones, y sin crítica no hay progreso."
+      "sectionTitle": "La evolución de la creatividad",
+      "text": "Los memes complejos no mandan acciones fijas sino reglas , es decir, principios que hay que inferir desde comportamientos observados. Replicarlos requiere creatividad para deducir la regla. La creatividad fue seleccionada para copiar memes con fidelidad suficiente, no como ornamento."
     },
     {
       "sectionId": "cap16",
-      "sectionTitle": "The Evolution of Creativity",
+      "sectionTitle": "La evolución de la creatividad",
+      "text": "Eso conecta biología, cultura y epistemología. Sin creatividad no hay transmisión cultural de explicaciones. Sin crítica no hay progreso."
+    },
+    {
+      "sectionId": "cap16",
+      "sectionTitle": "La evolución de la creatividad",
       "text": "La creatividad evolucionó porque replicar memes complejos exige inferir reglas invisibles detrás de las acciones."
     },
     {
-      "sectionId": "cap17",
-      "sectionTitle": "Unsustainable",
-      "text": "Las sociedades estáticas pueden durar siglos, pero colapsan cuando un problema supera su capacidad de generar conocimiento correctivo. El problema no es solo recursos: es la imposibilidad de crear soluciones nuevas."
+      "sectionId": "cap16",
+      "sectionTitle": "La evolución de la creatividad",
+      "text": "Las culturas estáticas pueden durar siglos, pero Deutsch muestra por qué no son sostenibles."
     },
     {
       "sectionId": "cap17",
-      "sectionTitle": "Unsustainable",
-      "text": "Deutsch critica narrativas simplistas sobre Rapa Nui y el determinismo geográfico que defienden Marx , Engels y Jared Diamond . Para él, la historia es historia de ideas, no de biogeografía mecánica, y analogizar el Occidente tecnológico con civilizaciones estáticas es falaz."
+      "sectionTitle": "Insostenible",
+      "text": "¿Puede una sociedad durar siglos sin crear conocimiento nuevo? Las sociedades estáticas pueden persistir mucho tiempo, pero colapsan cuando un problema supera su capacidad de generar conocimiento correctivo. El problema no es solo recursos: es la imposibilidad de crear soluciones nuevas."
     },
     {
       "sectionId": "cap17",
-      "sectionTitle": "Unsustainable",
-      "text": "Estrategias que solo previenen desastres previsibles fallarán ante lo imprevisible. La sostenibilidad real requiere progreso científico-tecnológico continuo y apertura a la corrección."
+      "sectionTitle": "Insostenible",
+      "text": "Deutsch critica narrativas simplistas sobre Rapa Nui (isla de Pascua). Rechaza el determinismo geográfico que defiende el historiador Jared Diamond . También critica esa lectura en Marx y Engels . Para él, la historia es historia de ideas, no de biogeografía mecánica."
     },
     {
       "sectionId": "cap17",
-      "sectionTitle": "Unsustainable",
+      "sectionTitle": "Insostenible",
+      "text": "Analogizar el Occidente tecnológico con civilizaciones estáticas es falaz. Estrategias que solo previenen desastres previsibles fallarán ante lo imprevisible. La sostenibilidad real requiere progreso científico-tecnológico continuo y apertura a la corrección."
+    },
+    {
+      "sectionId": "cap17",
+      "sectionTitle": "Insostenible",
       "text": "Nada es sostenible sin capacidad abierta de crear conocimiento nuevo frente a crisis imprevisibles."
     },
     {
-      "sectionId": "cap18",
-      "sectionTitle": "The Beginning",
-      "text": "El cierre retoma la profecía de «casi llegamos». Michelson en 1894 creía que la física solo fijaría el sexto decimal, y Feynman en 1965 vaticinó mil años sin leyes nuevas. Ambos casos muestran la falacia profética de convertir el saber actual en techo permanente."
+      "sectionId": "cap17",
+      "sectionTitle": "Insostenible",
+      "text": "Esa tesis cierra el libro: rechazar que «ya casi llegamos» es condición para el progreso ilimitado."
     },
     {
       "sectionId": "cap18",
-      "sectionTitle": "The Beginning",
-      "text": "Eratóstenes midió la Tierra en el siglo III a.C., y hoy la vemos pequeña. Lo mismo ocurre con el conocimiento, porque lo que parece casi completo es parroquial. John Horgan (*The End of Science*, 1996 ) partió de empirismo y declaró la ciencia fundamental terminada, pero hoy hay problemas más profundos, como la gravedad cuántica y la energía oscura ."
+      "sectionTitle": "El comienzo",
+      "text": "¿Estamos cerca del final del saber o siempre al comienzo? El cierre retoma la profecía de «casi llegamos». En 1894 , el físico Albert Michelson creía que la física solo fijaría el sexto decimal. En 1965 , Richard Feynman vaticinó mil años sin leyes nuevas. Ambos casos muestran la falacia profética de convertir el saber actual en techo permanente."
     },
     {
       "sectionId": "cap18",
-      "sectionTitle": "The Beginning",
-      "text": "Deutsch critica la «singularidad» tecnológica porque los humanos ya son explicadores universales. La IA no creará mentes cualitativamente superiores, solo acelerará lo que hacemos. Cita a Isaac Asimov (*The End of Eternity*, 1955 ) para recordar que abandonar la sociedad estática es el fin de la eternidad estancada y el comienzo del infinito. Especular más allá del horizonte predictivo es legítimo, pero profetizar no lo es."
+      "sectionTitle": "El comienzo",
+      "text": "Eratóstenes , geógrafo griego del siglo III a.C., midió la Tierra sin recorrerla. Hoy la vemos pequeña. Lo mismo ocurre con el conocimiento: lo que parece casi completo es parroquial. El periodista John Horgan publicó *The End of Science* en 1996 . Partió de empirismo y declaró la ciencia fundamental terminada."
     },
     {
       "sectionId": "cap18",
-      "sectionTitle": "The Beginning",
+      "sectionTitle": "El comienzo",
+      "text": "Hoy hay problemas más profundos, como la gravedad cuántica y la energía oscura (la fuerza que acelera la expansión del universo). Deutsch critica la «singularidad» tecnológica porque los humanos ya son explicadores universales. La IA no creará mentes cualitativamente superiores, solo acelerará lo que hacemos."
+    },
+    {
+      "sectionId": "cap18",
+      "sectionTitle": "El comienzo",
+      "text": "Cita a Isaac Asimov (*The End of Eternity*, 1955 ) para recordar un contraste. Abandonar la sociedad estática es el fin de la eternidad estancada y el comienzo del infinito. Especular más allá del horizonte predictivo es legítimo, pero profetizar no lo es."
+    },
+    {
+      "sectionId": "cap18",
+      "sectionTitle": "El comienzo",
       "text": "Creo que no habrá novedad, digamos, en mil años… Tenemos la suerte de vivir en una era en la que aún hacemos descubrimientos."
     },
     {
       "sectionId": "cap18",
-      "sectionTitle": "The Beginning",
-      "text": "Rechazar que el conocimiento está casi completo es condición para el progreso ilimitado. siempre estamos en un inicio del infinito."
+      "sectionTitle": "El comienzo",
+      "text": "Rechazar que el conocimiento está casi completo es condición para el progreso ilimitado: siempre estamos en un inicio del infinito."
     }
   ]
 }

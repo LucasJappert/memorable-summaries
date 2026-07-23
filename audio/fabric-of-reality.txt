@@ -12,151 +12,203 @@ La racionalidad no garantiza infalibilidad, pero sí progreso crítico.
 
 El tejido de la realidad es, también, el tejido de cómo aprendemos a entenderla.
 
-Prefacio. Tomar en serio las teorías profundas
+Prefacio. La Teoría del Todo
 
-Deutsch sostiene que una comprensión real del mundo exige tomar en serio las mejores teorías científicas como explicaciones, no solo como instrumentos de predicción.
+¿Cómo entender la realidad sin fragmentarla en especialidades? David Deutsch (físico británico) parte de una idea exigente. El conocimiento científico consiste sobre todo en explicaciones (decir por qué ocurre algo, no solo predecir). Los hechos se consultan y las predicciones solo sirven para diseñar experimentos que deciden entre teorías rivales.
 
-El libro busca una visión unificada entre cuatro líneas: mecánica cuántica, epistemología popperiana, teoría de la computación y evolución. Su apuesta es que juntas describen mejor la estructura de la realidad.
+Contra la intuición de fragmentación, nuestras mejores teorías se vuelven más profundas y se integran. Por eso nos acercamos a un estado en que una sola persona podría entender todo lo entendido. Esa Teoría del Todo (una visión unificada de la realidad) es más amplia que la que buscan los físicos de partículas. La realidad no se compone solo de espacio, tiempo y partículas. También incluye vida, pensamiento y cómputo. La sostienen cuatro hilos que se explican mejor juntos.
 
-Idea clave: La meta de la ciencia es explicar la realidad en profundidad, aunque sus conclusiones desafíen la intuición.
+⚛️. Física cuántica
+
+Epistemología. Cómo crece el conocimiento por conjetura y crítica (Popper).
+
+💻. Computación
+
+🧬. Evolución
+
+Idea clave: Entender la realidad no es acumular datos, sino explicar en profundidad, hasta que las mejores teorías solo puedan comprenderse juntas.
 
 Capítulo uno. Sombras
 
-Los experimentos de interferencia muestran que la luz no se comporta como si viajara en un único mundo clásico. Ciertos patrones de sombras exigen una explicación más amplia.
+¿Por qué abrir una rendija extra puede oscurecer un punto de luz? Los experimentos de interferencia (patrones donde ondas de luz se suman o se cancelan) esconden un hecho perturbador. En un patrón de sombras hay puntos que se oscurecen al abrir nuevas rendijas en la barrera. Esto ocurre incluso lanzando fotones (partículas de luz) de a uno.
 
-Deutsch defiende que la mejor explicación es un multiverso cuántico donde distintas historias físicas se influyen. Lo decisivo no es lo extraño de la idea, sino su poder explicativo frente a alternativas ad hoc.
+Si un solo fotón atraviesa el aparato, algo tiene que interferir con él. Ese algo bloquea la luz justo donde antes había claridad. Deutsch argumenta que son fotones sombra que viajan por otros universos. Solo se detectan por su interferencia con el nuestro.
 
-Idea clave: La interferencia cuántica apunta a una realidad con múltiples universos físicamente reales.
+La conclusión es clara. El universo que vemos no es toda la realidad física. Existe un multiverso (muchos universos paralelos que interfieren entre sí). Lo que vuelve creíble la idea no es su rareza. Toda alternativa exige maniobras artificiales que explican menos.
+
+Idea clave: La interferencia de partículas individuales solo tiene una explicación no forzada: universos paralelos físicamente reales.
+
+Si el multiverso es real, hay que explicar cómo crece el conocimiento sobre él sin caer en la inducción.
 
 Capítulo dos. Resolución de problemas
 
-Deutsch rechaza el inductivismo: repetir observaciones no basta para justificar teorías ni para crearlas.
+¿Cómo crece el conocimiento si la inducción no funciona? Deutsch ataca el inductivismo (la idea de que las teorías se justifican acumulando observaciones). Repetir casos nunca prueba una ley. Ni siquiera se puede extrapolar una observación sin un marco explicativo previo.
 
-Siguiendo a Popper, Deutsch sostiene que la ciencia avanza resolviendo problemas. Se formulan conjeturas, se critican y se reemplazan por explicaciones mejores. El experimento refuta errores, pero no otorga certeza final.
+Siguiendo a Karl Popper (filósofo de la ciencia), propone que la ciencia es resolución de problemas. Aparece un problema cuando nuestras explicaciones fallan. Entonces formulamos conjeturas (hipótesis tentativas), las criticamos y descartamos las peores. El experimento refuta errores, pero no otorga certeza final.
 
-Idea clave: El conocimiento crece por crítica racional entre explicaciones rivales, no por acumulación de casos.
+Ese proceso se parece a la evolución biológica, donde sobreviven las variantes mejor adaptadas. Las teorías que superan la crítica se vuelven las vigentes. Nuevos problemas exigen explicaciones aún mejores.
+
+Idea clave: El conocimiento crece por crítica racional entre explicaciones rivales, no por acumular observaciones que confirmen.
+
+Aceptar universos invisibles obliga a preguntar qué criterio nos autoriza a llamarlos reales.
 
 Capítulo tres. Criterios de realidad
 
-El caso de Galileo muestra que la disputa científica no es solo por ajustar datos, sino por qué teoría describe mejor lo real.
+¿Qué nos autoriza a llamar real a algo que no vemos, como los universos paralelos? Deutsch responde con un criterio simple. Es real aquello complejo y autónomo que devuelve el golpe. Eso es el criterio de Dr. Johnson (probar la realidad chocando contra ella).
 
-Deutsch prioriza explicaciones menos artificiosas y más profundas. Una teoría puede coincidir con observaciones y, sin embargo, ser peor si depende de maniobras arbitrarias.
+Lo defiende tomando en serio el solipsismo (la tesis de que solo existe mi mente). Resulta autoconsistente. Al usarlo como explicación se vuelve un realismo disfrazado y recargado. Necesita reintroducir toda la complejidad del mundo dentro de la mente. Por eso lo descarta la navaja de Occam (preferir la explicación más simple).
 
-Idea clave: Tomamos como real aquello que nuestras mejores explicaciones necesitan para funcionar.
+Tomamos como real lo que nuestras mejores explicaciones necesitan para funcionar. Ese mundo es autosemejante, es decir, un trozo de realidad puede representar a otro. Esa propiedad la estudiaron primero los teóricos de la computación.
+
+Idea clave: Es real lo que nuestras mejores explicaciones no pueden evitar usar, aunque nunca lo observemos de forma directa.
+
+Si la realidad puede representarse a sí misma, la simulación de entornos deja de ser un mero truco técnico.
 
 Capítulo cuatro. Realidad virtual
 
-La realidad virtual revela límites y posibilidades generales de la representación física de experiencias.
+¿Qué enseña la simulación de mundos sobre la estructura del mundo? La realidad virtual (entornos generados por computadora que el usuario puede explorar) parece un asunto tecnológico. Para Deutsch es una pista sobre la estructura del mundo. Un generador da al usuario la experiencia de estar en un entorno determinado.
 
-Deutsch distingue entre generar imágenes y generar entornos interactivos completos. El alcance de ambos depende de leyes físicas y de capacidad de cómputo, no solo de ingeniería actual.
+Conviene distinguir dos cosas. Una imagen (representación fija) produce sensaciones. Un entorno renderizado además responde de la forma esperada a cada acción posible del usuario. Que esto sea posible no es un detalle de ingeniería. Es la base de la computación, la imaginación, la ciencia y hasta el arte.
 
-Idea clave: La virtualidad no es un apéndice tecnológico: ilumina la estructura de la experiencia y de la simulación física.
+El alcance de la realidad virtual no lo fija la técnica actual. Lo fijan las leyes físicas y la capacidad de cómputo. Esa pregunta por sus límites abre el capítulo siguiente.
+
+Idea clave: Que se puedan simular entornos enteros es un hecho profundo sobre la realidad, no un mero truco de las computadoras.
+
+La pregunta siguiente es hasta dónde llega esa simulación y dónde se detiene para siempre.
 
 Capítulo cinco. Universalidad y límites del cálculo
 
-Si toda realidad virtual depende de cómputo, su frontera coincide con la computabilidad física.
+¿Hasta dónde llega la realidad virtual? Deutsch da una respuesta doble, con un techo altísimo y un límite tajante. Por un lado formula el principio de Turing (la tesis de que es físicamente posible simular cualquier entorno posible). Ese generador universal podría reproducir cualquier entorno físicamente posible.
 
-Deutsch combina la idea de máquina universal con límites de tipo diagonal (Cantor y Turing). Hay procesos que pueden emularse universalmente y otros que quedan fuera de todo cálculo físico posible.
+La razón es la máquina universal de Turing, un único objeto capaz de imitar a cualquier otro. Esa universalidad es lo que hace comprensible la realidad. Una parte del mundo puede modelar a todas las demás. Por otro lado, un argumento diagonal (razonamiento al estilo de Cantor y Turing) muestra un límite. La inmensa mayoría de entornos lógicamente posibles nunca podrán renderizarse. Deutsch los llama entornos Cantgotu. La universalidad es enorme, aunque no abarca todo lo imaginable.
 
-Idea clave: La computación puede ser universal dentro de lo físicamente computable, pero no abarcar todo lo lógicamente imaginable.
+Idea clave: La computación puede ser universal dentro de lo físicamente posible, aunque casi todo lo lógicamente posible quede para siempre fuera de su alcance.
+
+Si el conocimiento es falible, conviene desmontar la última ilusión de que la ciencia descansa en un principio oculto de inducción.
 
 Capítulo seis. Una conversación sobre justificación
 
-En forma de diálogo, Deutsch desmonta la idea de que toda predicción depende de un principio el futuro se parece al pasado.
+¿Cómo se justifica el conocimiento sin fundamentos infalibles? En forma de diálogo, Deutsch remata la discusión sobre justificación. Su blanco es el cripto-inductivista (quien niega la inducción pero busca otra garantía oculta). Concede que la inducción es inválida. Pero sigue creyendo que hace falta algún principio que garantice confiar en la ciencia.
 
-La justificación científica no surge de fundamentos infalibles, sino de argumentos que comparan explicaciones y eliminan posturas que empeoran el cuadro general.
+El error está en suponer un principio oculto según el cual el futuro se parecerá al pasado. No existe tal principio. Cuando predecimos, lo hacemos apoyados en explicaciones sobre cómo funcionan las cosas. No en una fe en la repetición.
 
-Idea clave: No hay principio de inducción oculto: hay crítica racional de teorías en problemas concretos.
+La justificación no descansa en fundamentos infalibles. Descansa en argumentos que comparan explicaciones y eliminan las que empeoran el cuadro. El conocimiento es falible y, aun así, puede ser objetivo.
+
+Idea clave: No hay un principio de inducción escondido detrás de la ciencia, solo crítica racional de explicaciones frente a problemas concretos.
+
+Con ese marco epistemológico, Deutsch puede replantear el lugar de la vida en el cosmos.
 
 Capítulo siete. El significado de la vida
 
-Deutsch evita tanto el vitalismo como el reduccionismo superficial: la vida es un fenómeno fundamental para comprender la realidad.
+¿Por qué la vida no es un accidente marginal del universo? La ciencia desde Galileo (astrónomo pionero del método experimental) pareció mostrar que la vida es marginal en un universo inmenso. Deutsch invierte esa impresión sin caer en el vitalismo (la idea de que la vida requiere una fuerza especial).
 
-La clave está en los replicadores (como genes) que preservan información y generan adaptación por selección. Lo vivo no requiere una sustancia especial, pero sí una explicación informacional profunda.
+La clave está en los replicadores (entidades que logran que su entorno las copie). Los genes son replicadores hechos de ADN. Una idea que se propaga es un meme, en el sentido de Dawkins. Estar adaptado a un nicho significa encarnar conocimiento que hace que ese nicho conserve ese conocimiento.
 
-Idea clave: La vida es creación y transmisión de conocimiento codificado en procesos físicos replicativos.
+Además, la vida fue el primer modo en que la realidad virtual se realizó en la naturaleza. Eso la liga al principio de Turing. A gran escala, la estructura más regular a través de los universos aparece donde hay materia que porta conocimiento, como el ADN o los cerebros.
+
+Idea clave: La vida es creación y transmisión de conocimiento codificado en procesos físicos, y por eso resulta fundamental, no marginal.
+
+Ese vínculo entre vida y cómputo se vuelve explícito cuando entra la computación cuántica.
 
 Capítulo ocho. Computadoras cuánticas
 
-La computación cuántica muestra que la teoría cuántica no es solo formalismo matemático: describe recursos físicos reales.
+¿Por qué la computación cuántica refuerza la lectura realista de la cuántica? La computación cuántica (cálculo que explota propiedades cuánticas de la materia) demuestra que la teoría cuántica describe recursos físicos reales. No solo un formalismo matemático. Deutsch la presenta como un modo cualitativamente nuevo de aprovechar la naturaleza.
 
-Deutsch interpreta su potencia como evidencia a favor de una ontología multiversal: ciertos cálculos se entienden mejor cuando admitimos interferencia entre historias cuánticas.
+La universalidad no solo es posible, también es tratable. Un computador puede reproducir cualquier entorno físicamente posible sin recursos desmesurados. Un computador cuántico resuelve de forma eficiente problemas clásicamente intratables (imposibles de resolver en tiempo razonable), como la factorización de números grandes.
 
-Idea clave: El poder computacional cuántico refuerza una lectura realista y explicativa de la mecánica cuántica.
+¿De dónde sale esa potencia? Deutsch responde que el cálculo se reparte entre universos paralelos que interfieren. Ese rendimiento es, por tanto, otra evidencia a favor del multiverso. El obstáculo práctico principal es la decoherencia, que degrada la interferencia entre ramas.
+
+Idea clave: El poder de la computación cuántica refuerza una lectura realista de la cuántica, porque se explica mejor admitiendo universos que colaboran.
+
+Si el cómputo es físico, la certeza matemática también depende de lo que sabemos del mundo.
 
 Capítulo nueve. La naturaleza de las matemáticas
 
-Las matemáticas no aparecen como mero juego simbólico, sino como parte del mapa de posibilidades y límites del mundo físico.
+¿Por qué la matemática no es un reino de certeza absoluta? Deutsch desafía esa creencia. Sostiene que el conocimiento matemático es derivado y depende de nuestra física. Una demostración (argumento que prueba una proposición) no es una cadena de símbolos infalible. Es un cómputo físico que modela las propiedades de una entidad abstracta.
 
-Deutsch conecta verdad matemática, demostrabilidad y computación, incorporando los límites internos de sistemas formales sin renunciar al realismo matemático.
+Su validez depende de que sean correctas nuestras teorías sobre los objetos con que demostramos. Por eso no otorga certeza. El teorema de incompletitud (límite de Gödel para sistemas formales) hundió el sueño de Hilbert de fijar de una vez la certeza matemática. Aun así, Deutsch mantiene el realismo. Las entidades abstractas complejas existen objetivamente, incluso las incomprensibles.
 
-Idea clave: La matemática expresa estructuras objetivas que dialogan con física, prueba y cómputo.
+Idea clave: Las verdades matemáticas son objetivas pero no ciertas, porque conocerlas depende de lo que sepamos del mundo físico.
+
+Ese realismo sobre el cambio prepara el terreno para repensar el tiempo como concepto cuántico.
 
 Capítulo diez. El tiempo: primer concepto cuántico
 
-El tiempo no es un añadido externo a la teoría cuántica: atraviesa su forma de describir cambio y posibilidad.
+¿Por qué el tiempo es el primer concepto cuántico aunque lo descubrimos mucho antes que la cuántica? Deutsch sostiene que el tiempo (la dimensión en que ocurren los cambios) encierra una tesis provocadora. El tiempo no fluye. La sensación de que el presente se mueve hacia el futuro no describe nada real.
 
-Deutsch insiste en que las intuiciones temporales clásicas pueden bloquear buenas explicaciones cuánticas. Entender el tiempo exige revisar esos marcos.
+La realidad es un multiverso. Lo que llamamos otros momentos son casos especiales de otros universos. No etapas por las que algo se desplaza. Por eso la física del espacio-tiempo (el continuo unificado de Einstein) es a lo sumo una aproximación. Nuestras intuiciones temporales clásicas bloquean las buenas explicaciones. Conviene revisarlas para entender el cambio y la causalidad.
 
-Idea clave: Pensar el tiempo cuánticamente implica abandonar simplificaciones clásicas sobre historia y causalidad.
+Idea clave: El tiempo no fluye, y pensar otros tiempos como otros universos disuelve las paradojas de un presente en movimiento.
+
+Repensar el tiempo abre la puerta a analizar los viajes al pasado sin paradojas lógicas.
 
 Capítulo 11. Viajes en el tiempo
 
-Los viajes temporales se analizan como cuestión de consistencia física, no como paradoja narrativa.
+¿Son los viajes al pasado una fantasía o un problema de coherencia física? Deutsch trata los viajes en el tiempo (desplazamiento a momentos anteriores o posteriores) como un problema de coherencia física. Distingue el viaje al futuro, que solo dilata el tiempo, del viaje al pasado, que es el interesante.
 
-Deutsch examina bucles causales y muestra que muchas contradicciones vienen de imponer supuestos clásicos incompatibles con teorías más generales.
+Las paradojas clásicas se disuelven con el multiverso. En la paradoja del abuelo (¿qué pasa si matas a tu antepasado?) el viajero conserva su libertad de acción. En general llega al pasado de un universo distinto. Así no borra su propio origen. Algo parecido ocurre con la paradoja del conocimiento.
 
-Idea clave: La pregunta no es si suena absurdo, sino qué configuraciones temporales son coherentes con las leyes físicas.
+Que el viaje al pasado sea factible o no queda abierto. Lo que Deutsch muestra es que analizarlo exige los cuatro hilos a la vez. Desde la cuántica hasta la epistemología que limita cómo puede aparecer el conocimiento.
+
+Idea clave: Viajar al pasado no es paradójico, porque uno actúa con libertad pero en el pasado de otro universo.
+
+Ese análisis prepara la síntesis explícita de los cuatro hilos que sostienen todo el libro.
 
 Capítulo 12. Los cuatro hilos
 
-Aquí se unifican explícitamente los cuatro pilares del libro: cuántica, epistemología, computación y evolución.
+¿Por qué las cuatro grandes teorías parecen frías cuando se leen por separado? Aquí Deutsch une explícitamente los cuatro hilos y señala un patrón histórico llamativo. Las cuatro teorías fundamentales fueron a la vez aceptadas para usarlas y rechazadas como descripción de la realidad.
 
-Deutsch defiende que cada hilo corrige y completa a los demás. La visión conjunta explica mejor por qué el universo puede contener conocimiento y cómo ese conocimiento progresa.
+Tomada por separado, cada teoría deja huecos y suena fría o pesimista. Basar en una sola toda la visión del mundo es una forma de reduccionismo. Unidas, en cambio, se corrigen y se completan. La interpretación de Copenhague (lectura que evita afirmar qué es real en la cuántica) ejemplifica una maniobra evasiva. Evita lo que la cuántica dice sobre lo real.
 
-Idea clave: La trama de la realidad se vuelve inteligible cuando los cuatro hilos se leen como una sola teoría explicativa.
+Ese rechazo no nace de fallas de las teorías. Nace de sostener un solo paradigma (marco de ideas dominante) a la vez, como describió Kuhn. La visión conjunta explica mejor por qué el universo puede contener conocimiento y cómo ese conocimiento progresa.
+
+Idea clave: Los cuatro hilos parecen fríos por separado, pero leídos como una sola explicación vuelven inteligible la trama de la realidad.
+
+La síntesis final proyecta ese marco hasta el destino último del cosmos.
 
 Capítulo 13. Los fines del universo
 
-El cierre proyecta las consecuencias cosmológicas del marco propuesto: límites físicos, destino de la complejidad y futuro del conocimiento.
+¿Puede el conocimiento perdurar hasta el fin del universo? En el cierre, Deutsch proyecta el marco hasta el final del cosmos. Se apoya en el punto Omega (destino final del universo según Frank Tipler). La pregunta ya no es el pasado del universo. Es la mayor parte del espacio-tiempo, que está en su futuro.
 
-Más que un final cerrado, Deutsch propone un horizonte abierto. En él, las leyes de la naturaleza y la capacidad explicativa de mentes racionales codeterminan lo posible.
+En ciertos modelos del Big Crunch (colapso final del universo), la violencia del colapso permitiría memoria y pasos de cómputo infinitos en un tiempo finito. Sostener ese cómputo, sin embargo, exige pilotear el colapso. Eso obliga a crear conocimiento sin cesar. Del principio de Turing se sigue entonces que la inteligencia debe sobrevivir hasta el fin.
 
-Idea clave: El futuro cósmico depende de la interacción entre restricciones físicas y creación continua de conocimiento.
+Ese destino impone fechas límite. Hay que dominar el Sol antes de unos 5000 millones de años. Luego colonizar la galaxia y el universo entero. Deutsch defiende solo el componente científico. Rechaza la lectura casi religiosa de Tipler. El futuro no será una mente única. Serán comunidades que discrepan y se equivocan a escala titánica.
+
+Idea clave: Si el principio de Turing es cierto, el conocimiento y la inteligencia deben perdurar hasta el fin del universo, aunque siempre falibles.
 
 Conceptos clave
 
-Multiverso. Conjunto de universos paralelos cuya interacción explica fenómenos cuánticos.
+Multiverso. Toda la realidad física: muchos universos paralelos que interfieren débilmente.
 
-Explicación. Criterio central de una teoría: decir por qué pasa algo, no solo prever que pasará.
+Explicación. Decir por qué pasa algo, no solo prever que pasará; es el núcleo de la ciencia.
 
-Inductivismo. Doctrina criticada que intenta justificar teorías por acumulación de observaciones.
+Inductivismo. Doctrina que se critica: pretende justificar teorías acumulando observaciones.
 
-Conjetura y refutación. Dinámica popperiana de progreso del conocimiento mediante crítica.
+Conjetura y refutación. Dinámica popperiana: el conocimiento progresa por crítica de explicaciones rivales.
 
-Realismo crítico. Compromiso con entidades no observables cuando son parte de la mejor explicación.
+Criterio de realidad. Es real lo complejo y autónomo que devuelve el golpe (Dr. Johnson).
 
-Computabilidad. Distinción entre problemas resolubles por procesos físicos y no resolubles.
+Principio de Turing. Es físicamente posible construir un generador de realidad virtual universal.
 
-Principio de Turing. Posibilidad de una máquina universal que emule cualquier cómputo físicamente posible.
+Entornos Cantgotu. Entornos lógicamente posibles que ningún generador físico puede renderizar.
 
 Replicador. Entidad que causa copias de sí misma en ciertos entornos (gen, meme, programa).
 
-Conocimiento objetivo. Información explicativa que puede criticarse y mejorarse independientemente del autor.
+Conocimiento objetivo. Información explicativa criticable y mejorable, con estructura a través de universos.
 
 Cuatro hilos. Integración de cuántica, epistemología, evolución y computación.
 
 Cronología de ideas y referentes
 
-Año 1633. Proceso a Galileo; disputa entre autoridad doctrinal y método científico.
+Año 1633. Proceso a Galileo: autoridad doctrinal frente a método científico.
 
-Año 1859. Publicación de Darwin sobre selección natural.
+Año 1859. Darwin publica la teoría de la selección natural.
 
-Año 1931. Gödel establece límites de sistemas formales (incompletitud).
+Año 1931. Gödel establece los límites de los sistemas formales (incompletitud).
 
-Año 1936. Turing, Church y Post formalizan modelos de computación universal.
+Año 1936. Turing, Church y Post formalizan la computación universal.
 
-Año 1957. Everett presenta la interpretación de muchos mundos en cuántica.
+Año 1957. Everett presenta la interpretación de muchos mundos.
 
 Año 1985. Deutsch publica un artículo fundacional de computación cuántica universal.
 
@@ -164,18 +216,20 @@ Año 1997. Se publica *The Fabric of Reality*.
 
 Figuras clave
 
-David Deutsch, Físico; autor del marco unificado presentado en el libro.
+David Deutsch, Físico; autor del marco unificado de los cuatro hilos.
 
-Karl Popper, Filósofo; teoría de conjeturas y refutaciones como base epistemológica.
+Karl Popper, Filósofo; conjeturas y refutaciones como base epistemológica.
 
 Hugh Everett III, Físico; interpretación de muchos mundos en mecánica cuántica.
 
-Alan Turing, Matemático; concepto de computación universal y límites del cálculo.
+Alan Turing, Matemático; computación universal y sus límites.
 
-Galileo Galilei, Figura histórica del método experimental y del realismo científico.
+Frank Tipler, Físico; teoría del punto Omega sobre el fin del universo.
 
-Charles Darwin, Teoría evolutiva de la selección natural aplicada al origen de adaptación.
+Galileo Galilei, Método experimental y realismo científico.
 
-Kurt Gödel, Lógico; límites de demostración en sistemas formales.
+Charles Darwin, Selección natural como origen de la adaptación.
 
-Richard Dawkins, Biólogo; desarrollo y difusión del concepto de replicador/meme.
+Kurt Gödel, Lógico; límites de la demostración en sistemas formales.
+
+Richard Dawkins, Biólogo; desarrollo del concepto de replicador y meme.

@@ -52,22 +52,22 @@
     {
       "sectionId": "cierre",
       "sectionTitle": "Cierre",
-      "text": "La historia no avanza por promedios estables, sino por un puñado de eventos improbables de impacto extremo que nuestras mentes convierten después en relatos «obvios»."
+      "text": "La historia no avanza por promedios estables."
     },
     {
       "sectionId": "cierre",
       "sectionTitle": "Cierre",
-      "text": "Leer periódicos y confiar en expertos que miden riesgo sin colas gruesas nos hace más frágiles, no más informados."
+      "text": "Un puñado de eventos improbables con impacto extremo explica casi todo lo que importa."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Nuestras mentes los convierten después en relatos «obvios»."
     },
     {
       "sectionId": "cierre",
       "sectionTitle": "Cierre",
       "text": "La racionalidad práctica no es adivinar el futuro, sino reconocer lo que ignoramos y actuar en consecuencia."
-    },
-    {
-      "sectionId": "cierre",
-      "sectionTitle": "Cierre",
-      "text": "La falacia narrativa nos seduce. La estrategia de barra y la serendipia nos permiten beneficiarnos del azar sin creer que lo dominamos."
     },
     {
       "sectionId": "cierre",
@@ -82,17 +82,17 @@
     {
       "sectionId": "prefacio",
       "sectionTitle": "Prólogo: el triplete del cisne negro",
-      "text": "Antes del descubrimiento de Australia, el Viejo Mundo creía que todos los cisnes eran blancos. Milenios de avistamientos confirmatorios no bastaban. Un solo cisne negro invalida la generalización. Nassim Nicholas Taleb lleva esa lección al terreno empírico. Un cisne negro reúne tres atributos: rareza (queda fuera de lo esperable), impacto extremo y predictibilidad retrospectiva (después parece inevitable, aunque antes era imprevisible)."
+      "text": "¿Por qué un solo avistamiento puede tumbar milenios de certeza? Antes del descubrimiento de Australia, el Viejo Mundo creía que todos los cisnes eran blancos. Milenios de avistamientos confirmatorios no bastaban. Un solo cisne negro invalida la generalización. Nassim Nicholas Taleb (trader y ensayista sobre el azar) lleva esa lección al terreno empírico. Un cisne negro (evento raro, de gran impacto y explicado solo después) reúne tres rasgos. Son rareza, impacto extremo y la sensación de que «siempre fue inevitable»."
     },
     {
       "sectionId": "prefacio",
       "sectionTitle": "Prólogo: el triplete del cisne negro",
-      "text": "La tesis no es ornitológica sino epistemológica. Pocos cisnes negros explican casi todo lo significativo (ideas, religiones, guerras, mercados, vidas personales) y su peso crece con la complejidad del mundo moderno. Imaginar el mundo en la víspera de 1914 , del ascenso de Hitler o de Internet demuestra cuán inútil es la retrospectiva para predecir. Lo que llamamos conocimiento social opera como si esos saltos no existieran."
+      "text": "La tesis no es ornitológica sino epistemológica. Pocos cisnes negros explican casi todo lo significativo. Ideas, religiones, guerras, mercados y vidas personales dependen de saltos discontinuos. Imaginar el mundo la víspera de 1914 demuestra cuán inútil es la retrospectiva para predecir. Lo mismo ocurre con el ascenso de Hitler o con Internet."
     },
     {
       "sectionId": "prefacio",
       "sectionTitle": "Prólogo: el triplete del cisne negro",
-      "text": "Taleb insiste en una asimetría crucial: lo que no sabemos pesa más que lo que sabemos, y muchos cisnes negros se agravan precisamente por ser inesperados (el 11-S no habría ocurrido si hubiera sido «razonablemente concebible» el día anterior). Leer el periódico, paradójicamente, puede reducir el conocimiento del mundo al enfocarse en lo rutinario."
+      "text": "Taleb insiste en una asimetría crucial. Lo que no sabemos pesa más que lo que sabemos. Muchos cisnes negros se agravan por ser inesperados. El 11-S no habría ocurrido si hubiera sido «razonablemente concebible» el día anterior. Leer el periódico puede reducir el conocimiento del mundo al enfocarse en lo rutinario."
     },
     {
       "sectionId": "prefacio",
@@ -100,39 +100,49 @@
       "text": "Vivimos bajo el dominio de lo altamente improbable, y nuestra ceguera ante el azar convierte la incertidumbre radical en falsa sensación de control."
     },
     {
-      "sectionId": "cap1",
-      "sectionTitle": "El aprendizaje de un escéptico empírico",
-      "text": "Taleb entrelaza autobiografía e historia para mostrar que la experiencia no enseña automáticamente a pensar bien sobre el azar. El Líbano de su juventud parecía un paraíso de convivencia. En pocos meses, la guerra civil lo transformó en infierno. Esa ruptura le enseñó que la «estabilidad histórica» es narrativa, no garantía."
+      "sectionId": "prefacio",
+      "sectionTitle": "Prólogo: el triplete del cisne negro",
+      "text": "Para ver cómo se aprende esa ceguera, Taleb parte de su propia biografía y de rupturas históricas."
     },
     {
       "sectionId": "cap1",
       "sectionTitle": "El aprendizaje de un escéptico empírico",
-      "text": "Taleb introduce el triplete de opacidad , formado por la ilusión de entender el mundo, la distorsión retrospectiva y la sobrevaloración de la información factual frente a lo desconocido. La historia no arrastra. Salta. El crash de 1987 y la guerra lebanesa le parecieron el mismo fenómeno psicológico, porque la gente no ve los mamuts o los olvida enseguida."
+      "text": "¿Enseña la experiencia a pensar bien sobre el azar? Taleb entrelaza autobiografía e historia para mostrar que no siempre. El Líbano de su juventud parecía un paraíso de convivencia. En pocos meses, la guerra civil lo transformó en infierno. Esa ruptura le enseñó que la «estabilidad histórica» es narrativa, no garantía."
     },
     {
       "sectionId": "cap1",
       "sectionTitle": "El aprendizaje de un escéptico empírico",
-      "text": "Su carrera como trader le permitió acumular «f*** you money», capital suficiente para no prostituir el pensamiento, y dedicarse a construir un sistema entero alrededor del cisne negro. El problema no estaba en la naturaleza de los eventos, sino en cómo los percibimos."
+      "text": "Taleb introduce el triplete de opacidad (tres ilusiones que nos engañan). Creemos que entendemos el mundo, distorsionamos el pasado y sobrevaloramos datos frente a lo desconocido. La historia no arrastra. Salta. El crash de 1987 y la guerra lebanesa le parecieron el mismo fenómeno psicológico."
     },
     {
       "sectionId": "cap1",
       "sectionTitle": "El aprendizaje de un escéptico empírico",
-      "text": "El escéptico empírico desconfía de explicaciones elegantes sobre procesos gobernados por saltos discontinuos que la mente convierte en continuidad."
+      "text": "Su carrera como trader le permitió acumular capital suficiente para no prostituir el pensamiento. Ese margen le permitió dedicar años a construir un sistema entero alrededor del cisne negro. El problema no estaba en la naturaleza de los eventos, sino en cómo los percibimos."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "El aprendizaje de un escéptico empírico",
+      "text": "El escéptico empírico desconfía de explicaciones elegantes sobre procesos gobernados por saltos que la mente convierte en continuidad."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "El aprendizaje de un escéptico empírico",
+      "text": "Esa lógica del salto imprevisible aparece con claridad en una carrera literaria ficticia."
     },
     {
       "sectionId": "cap2",
       "sectionTitle": "El cisne negro de Yevgenia",
-      "text": "Yevgenia Krasnova encarna la lógica del cisne negro en una carrera literaria. Rechazada por editores que «sabían» qué vendía, publica por su cuenta y su novela se convierte en fenómeno global. Un solo hallazgo imprevisto derriba años de certidumbres del mercado editorial."
+      "text": "¿Puede un solo éxito derribar años de certidumbre editorial? Yevgenia Krasnova (personaje narrativo del libro) encarna la lógica del cisne negro en una carrera literaria. Rechazada por editores que «sabían» qué vendía, publica por su cuenta. Su novela se convierte en fenómeno global."
     },
     {
       "sectionId": "cap2",
       "sectionTitle": "El cisne negro de Yevgenia",
-      "text": "Taleb usa la anécdota para mostrar la asimetría entre expectativa y resultado. Las creencias generalizadas se construyen sobre muestras incompletas hasta que una observación las invalida. Lo que después parece inevitable («claro que ese libro triunfaría») era imprevisible antes. La fragilidad narrativa consiste en creer que el relato posterior explica el proceso real."
+      "text": "Taleb usa la anécdota para mostrar la asimetría entre expectativa y resultado. Las creencias generalizadas se construyen sobre muestras incompletas hasta que una observación las invalida. Lo que después parece inevitable («claro que ese libro triunfaría») era imprevisible antes."
     },
     {
       "sectionId": "cap2",
       "sectionTitle": "El cisne negro de Yevgenia",
-      "text": "El capítulo anticipa el epílogo, donde el éxito narrativo no garantiza el siguiente libro. La misma lógica aplica a carreras, negocios y ciencia, porque un cisne positivo redefine toda una trayectoria."
+      "text": "El capítulo anticipa el epílogo, donde el éxito narrativo no garantiza el siguiente libro. La misma lógica aplica a carreras, negocios y ciencia. Un cisne positivo redefine toda una trayectoria."
     },
     {
       "sectionId": "cap2",
@@ -140,19 +150,24 @@
       "text": "Una sola observación fuera de patrón puede invalidar un edificio entero de certidumbres sostenidas por confirmación retrospectiva."
     },
     {
-      "sectionId": "cap3",
-      "sectionTitle": "El especulador y la prostituta",
-      "text": "Un consejo de carrera en Wharton le abrió la puerta al problema de la inducción. Le recomendaron buscar una profesión escalable . Taleb contrasta profesiones no escalables (dentista, prostituta, masajista), donde el ingreso tiene techo y depende del tiempo, con las escalables (escritor, trader, actor), donde se pueden añadir ceros al resultado sin esfuerzo proporcional."
+      "sectionId": "cap2",
+      "sectionTitle": "El cisne negro de Yevgenia",
+      "text": "Para entender por qué unos pocos triunfan tanto, Taleb distingue dos tipos de profesión y de estadística."
     },
     {
       "sectionId": "cap3",
       "sectionTitle": "El especulador y la prostituta",
-      "text": "Esa distinción introduce dos mundos estadísticos. En Mediocristán , ninguna observación individual domina el total. En Extremistán , unos pocos concentran resultados desproporcionados. J. K. Rowling no reescribe su libro por cada lector, pero un panadero debe hornear cada pieza."
+      "text": "¿Por qué algunas profesiones pueden multiplicar ingresos sin multiplicar horas? Un consejo de carrera en Wharton le abrió la puerta al problema de la inducción. Le recomendaron buscar una profesión escalable (donde un acierto puede multiplicarse sin límite de tiempo). Taleb contrasta oficios no escalables, como dentista o masajista, con los escalables, como escritor o trader."
     },
     {
       "sectionId": "cap3",
       "sectionTitle": "El especulador y la prostituta",
-      "text": "La globalización amplifica Extremistán porque permite que una sola obra capture mercados enteros. Confundir ambos mundos es el error metodológico central del libro, porque aplica herramientas de variación acotada donde mandan las colas gruesas."
+      "text": "Esa distinción introduce dos mundos estadísticos. En Mediocristán (mundo de promedios estables), ninguna observación individual domina el total. En Extremistán (mundo de colas gruesas), unos pocos concentran resultados desproporcionados. J. K. Rowling (autora de Harry Potter) no reescribe su libro por cada lector. Un panadero debe hornear cada pieza."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "El especulador y la prostituta",
+      "text": "La globalización amplía Extremistán porque permite que una sola obra capture mercados enteros. Confundir ambos mundos es el error metodológico central del libro. Aplica herramientas de variación acotada donde mandan las colas gruesas."
     },
     {
       "sectionId": "cap3",
@@ -160,14 +175,19 @@
       "text": "La escalabilidad separa dos tipos de incertidumbre. En Mediocristán el promedio describe la realidad. En Extremistán, unos pocos mandan."
     },
     {
-      "sectionId": "cap4",
-      "sectionTitle": "Mil y un días, o cómo no ser un pavo",
-      "text": "El problema del pavo condensa la inducción. Mil días de alimento refuerzan la creencia de que los humanos cuidan al pavo, hasta el miércoles anterior a Acción de Gracias, cuando llega la revisión de creencias. La ausencia de eventos negativos no prueba seguridad. Puede acumular riesgo invisible."
+      "sectionId": "cap3",
+      "sectionTitle": "El especulador y la prostituta",
+      "text": "Mediocristán engaña cuando la calma acumula riesgo invisible, como en la parábola del pavo."
     },
     {
       "sectionId": "cap4",
       "sectionTitle": "Mil y un días, o cómo no ser un pavo",
-      "text": "Taleb recorre la tradición escéptica ( Sexto Empírico , Algazel , David Hume ) para mostrar que el problema no es nuevo pero sí sistemáticamente ignorado. Los judíos alemanes en los años treinta y la población libanesa antes de la guerra son pavos reales. La mano que alimenta puede ser la que estrangula."
+      "text": "¿Por qué la ausencia de catástrofes no prueba que estamos a salvo? El problema del pavo (parábola sobre inducción engañosa) condensa la lección. Mil días de alimento refuerzan la creencia de que los humanos cuidan al pavo. Llega el miércoles anterior a Acción de Gracias y la creencia se revisa de golpe."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Mil y un días, o cómo no ser un pavo",
+      "text": "Taleb recorre la tradición escéptica para mostrar que el problema no es nuevo pero sí ignorado. David Hume (filósofo escéptico del siglo XVIII) criticó la inducción: ver el pasado no garantiza el futuro. Los judíos alemanes en los años treinta y la población libanesa antes de la guerra son pavos reales."
     },
     {
       "sectionId": "cap4",
@@ -180,14 +200,19 @@
       "text": "Mil días de evidencia confirmatoria no protegen del día que prueba que estabas equivocado."
     },
     {
-      "sectionId": "cap5",
-      "sectionTitle": "Confirmación shmonfirmation",
-      "text": "La mente practica empirismo ingenuo y busca instancias que confirmen su historia. Diplomáticos muestran logros, no fracasos. Matemáticos citan aplicaciones útiles, no despilfarros. Si se busca confirmación con suficiente ingenio, casi cualquier hipótesis parece validarse."
+      "sectionId": "cap4",
+      "sectionTitle": "Mil y un días, o cómo no ser un pavo",
+      "text": "Si la inducción engaña, hay que revisar cómo buscamos pruebas a favor de nuestras ideas."
     },
     {
       "sectionId": "cap5",
       "sectionTitle": "Confirmación shmonfirmation",
-      "text": "Taleb propone empirismo negativo al estilo de Karl Popper y avanza por refutación, no por verificación. Ver cisnes blancos no prueba que no existan negros. Ver uno negro sí prueba que no todos son blancos. En medicina, confundir NED (No Evidence of Disease) con END (Evidence of No Disease) ha costado vidas, como ocurrió con la leche materna despreciada o las amígdalas extirpadas sin criterio."
+      "text": "¿Por qué la mente ama las pruebas que confirman lo que ya cree? La mente practica empirismo ingenuo (buscar solo ejemplos que validen la hipótesis). Diplomáticos muestran logros, no fracasos. Matemáticos citan aplicaciones útiles, no despilfarros. Si se busca con suficiente ingenio, casi cualquier idea parece validarse."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Confirmación shmonfirmation",
+      "text": "Taleb propone empirismo negativo (avanzar por refutación, al estilo de Popper). Ver cisnes blancos no prueba que no existan negros. Ver uno negro sí prueba que no todos son blancos. En medicina, confundir «no hay evidencia de enfermedad» con «hay evidencia de que no hay enfermedad» ha costado vidas."
     },
     {
       "sectionId": "cap5",
@@ -200,19 +225,24 @@
       "text": "Para pensar bajo incertidumbre, vale más buscar lo que puede falsear una idea que acumular pruebas a su favor."
     },
     {
-      "sectionId": "cap6",
-      "sectionTitle": "La falacia narrativa",
-      "text": "La mente humana necesita historias coherentes. Simplifica cadenas causales y rellena huecos con relatos plausibles. Taleb llama falacia narrativa a convertir ruido y contingencia en guiones con sentido. Esa compulsión produce ceguera al cisne negro porque privilegia lo vívido, lo reciente y lo ordenado."
+      "sectionId": "cap5",
+      "sectionTitle": "Confirmación shmonfirmation",
+      "text": "Esa búsqueda de coherencia explica por qué convertimos el azar en historias demasiado limpias."
     },
     {
       "sectionId": "cap6",
       "sectionTitle": "La falacia narrativa",
-      "text": "Los experimentos de Gazzaniga muestran que el hemisferio izquierdo «intérprete» inventa causas incluso cuando no las hay. La dopamina aumenta la búsqueda de patrones y reduce el escepticismo. La regla de Kolmogorov explica por qué lo narrativo se comprime y almacena fácilmente, mientras el azar puro no."
+      "text": "¿Por qué necesitamos historias aunque distorsionen la realidad? La mente humana simplifica cadenas causales y rellena huecos con relatos plausibles. Taleb llama falacia narrativa (compulsión de comprimir el azar en guiones con sentido) a ese hábito. Produce ceguera al cisne negro porque privilegia lo vívido, lo reciente y lo ordenado."
     },
     {
       "sectionId": "cap6",
       "sectionTitle": "La falacia narrativa",
-      "text": "La narrativa es útil para la memoria pero peligrosa si se confunde con verdad o predicción. Lo que Taleb llama después «antifragilidad» frente al azar empieza aquí. Reconocer que nuestros relatos nos hacen frágiles y resistir la compulsión de explicar todo es el primer paso para no ser víctima sistemática de lo imprevisto."
+      "text": "Los experimentos de Gazzaniga muestran que el hemisferio izquierdo «intérprete» inventa causas incluso cuando no las hay. La dopamina aumenta la búsqueda de patrones y reduce el escepticismo. La narrativa es útil para la memoria pero peligrosa si se confunde con verdad o predicción."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "La falacia narrativa",
+      "text": "Lo que Taleb llama después «antifragilidad» frente al azar empieza aquí. Reconocer que nuestros relatos nos hacen frágiles es el primer paso. Resistir la compulsión de explicar todo evita ser víctima sistemática de lo imprevisto."
     },
     {
       "sectionId": "cap6",
@@ -220,14 +250,19 @@
       "text": "La claridad narrativa no es evidencia de verdad: muchas veces es compresión psicológica que oculta la incertidumbre radical."
     },
     {
-      "sectionId": "cap7",
-      "sectionTitle": "Viviendo en la antesala de la esperanza",
-      "text": "Muchas carreras ofrecen recompensas lumpadas y no lineales: largos periodos de espera en la antesala de la esperanza sostienen la ilusión de un gran resultado futuro. La gente permanece en estrategias frágiles por miedo a abandonar «justo antes» del éxito."
+      "sectionId": "cap6",
+      "sectionTitle": "La falacia narrativa",
+      "text": "Las narrativas de espera explican por qué mucha gente permanece en estrategias frágiles demasiado tiempo."
     },
     {
       "sectionId": "cap7",
       "sectionTitle": "Viviendo en la antesala de la esperanza",
-      "text": "Taleb distingue entre «bleed or blowup», es decir, pequeñas pérdidas continuas frente a ruina súbita. Evaluar por resultados visibles de corto plazo favorece quienes parecen estables pero acumulan riesgo de cola, como banqueros «conservadores» sentados sobre dinamita. En industrias con opcionalidad positiva (cine, biotecnología), la espera puede tener sentido. En las de solo downside (banca, seguros catastróficos), no."
+      "text": "¿Por qué seguimos en carreras que rara vez pagan? Muchas ofrecen recompensas lumpadas y no lineales. Largos periodos en la antesala de la esperanza (espera prolongada de un gran resultado) sostienen la ilusión de un éxito futuro. La gente permanece en estrategias frágiles por miedo a abandonar «justo antes» del triunfo."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Viviendo en la antesala de la esperanza",
+      "text": "Taleb distingue entre «bleed or blowup»: pequeñas pérdidas continuas frente a ruina súbita. Evaluar por resultados visibles de corto plazo favorece quienes parecen estables pero acumulan riesgo de cola. En industrias con opcionalidad positiva, como cine o biotecnología, la espera puede tener sentido."
     },
     {
       "sectionId": "cap7",
@@ -240,9 +275,14 @@
       "text": "No todo resultado bueno valida una estrategia. En entornos no lineales, la antesala de la esperanza puede ser una trampa de fragilidad narrativa."
     },
     {
+      "sectionId": "cap7",
+      "sectionTitle": "Viviendo en la antesala de la esperanza",
+      "text": "Los éxitos visibles ocultan otra distorsión: solo vemos a quienes sobrevivieron al azar."
+    },
+    {
       "sectionId": "cap8",
       "sectionTitle": "La suerte infalible de Casanova y la evidencia silenciosa",
-      "text": "Giacomo Casanova parece tener «suerte infalible», pero solo vemos al superviviente. La evidencia silenciosa (los ahogados, los fracasados, las cartas no publicadas) desaparece de la muestra y distorsiona toda inferencia sobre éxito, talento y estrategia."
+      "text": "¿Por qué los triunfadores parecen tener suerte infalible? Giacomo Casanova (aventurero del siglo XVIII) parece invencible, pero solo vemos al superviviente. La evidencia silenciosa (fracasos ausentes de la muestra) distorsiona toda inferencia sobre éxito, talento y estrategia."
     },
     {
       "sectionId": "cap8",
@@ -260,19 +300,24 @@
       "text": "Lo que no vemos (los fracasos invisibles) distorsiona cualquier lección extraída de los éxitos visibles."
     },
     {
-      "sectionId": "cap9",
-      "sectionTitle": "La falacia lúdica",
-      "text": "La falacia lúdica consiste en modelar la incertidumbre real como un juego de reglas cerradas y probabilidades conocidas. Fat Tony piensa fuera de la caja. Dr. John , el «nerd», piensa dentro. Es brillante en exámenes y ciego en la vida real."
+      "sectionId": "cap8",
+      "sectionTitle": "La suerte infalible de Casanova y la evidencia silenciosa",
+      "text": "Otra distorsión aparece cuando tratamos la vida real como un juego de reglas cerradas."
     },
     {
       "sectionId": "cap9",
       "sectionTitle": "La falacia lúdica",
-      "text": "En un almuerzo en Lake Como con el Pentágono y el dueño de un casino, Taleb descubre que el riesgo real del casino no son tramposos ni contadores de cartas. Son eventos imprevistos (secuestro, demanda, cierre regulatorio) que ningún modelo lúdico captura. Los militares, paradójicamente, entienden mejor la epistemología del riesgo que muchos académicos."
+      "text": "¿Por qué confundimos la incertidumbre real con un casino? La falacia lúdica (modelar lo incierto como juego de probabilidades conocidas) hace brillar al «nerd» en exámenes y cegarlo en la vida. Fat Tony (figura de intuición práctica del libro) piensa fuera de la caja. Dr. John (el nerd modelador) piensa dentro."
     },
     {
       "sectionId": "cap9",
       "sectionTitle": "La falacia lúdica",
-      "text": "El conocimiento platónico cierra la mente donde manda Extremistán. Tratar lo incalculable como casino es un error estructural que produce decisiones técnicamente sofisticadas pero frágiles."
+      "text": "En un almuerzo en Lake Como con el Pentágono y el dueño de un casino, Taleb descubre algo revelador. El riesgo real del casino no son tramposos ni contadores de cartas. Son eventos imprevistos: secuestro, demanda o cierre regulatorio."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "La falacia lúdica",
+      "text": "El conocimiento platónico cierra la mente donde manda Extremistán. Tratar lo incalculable como casino es un error estructural. Produce decisiones técnicamente sofisticadas pero frágiles."
     },
     {
       "sectionId": "cap9",
@@ -280,19 +325,24 @@
       "text": "No todo lo incierto es calculable: confundir la vida con un juego de dados conocidos es la falacia del nerd."
     },
     {
-      "sectionId": "cap10",
-      "sectionTitle": "El escándalo de la predicción",
-      "text": "En dominios de cisne negro, los expertos predicen mal de forma sistemática pero conservan prestigio gracias a explicaciones post hoc. Taleb cuestiona la autoridad de quienes pronostican en campos donde los resultados dependen de shocks improbables (economía, geopolítica, finanzas)."
+      "sectionId": "cap9",
+      "sectionTitle": "La falacia lúdica",
+      "text": "Esa confianza en modelos alimenta el prestigio de quienes predicen mal en sistemas complejos."
     },
     {
       "sectionId": "cap10",
       "sectionTitle": "El escándalo de la predicción",
-      "text": "Más información no siempre mejora el conocimiento. Puede aumentar ruido, sobreajuste y confianza injustificada. El «traje vacío» (empty suit) sobrevive porque nadie lo hace responsable de sus errores. «Casi acerté» y «salvo por eso» son las frases de quien no tiene skin in the game."
+      "text": "¿Por qué los expertos que fallan siguen siendo escuchados? En dominios de cisne negro, los expertos predicen mal de forma sistemática pero conservan prestigio. Las explicaciones post hoc salvan su autoridad. Taleb cuestiona a quienes pronostican en campos donde mandan shocks improbables."
     },
     {
       "sectionId": "cap10",
       "sectionTitle": "El escándalo de la predicción",
-      "text": "Hay campos predecibles (horarios de cine, fases lunares). El error es trasladar la misma confianza a sistemas complejos donde los eventos «salidos de quicio» mandan."
+      "text": "Más información no siempre mejora el conocimiento. Puede aumentar ruido, sobreajuste y confianza injustificada. El «traje vacío» sobrevive porque nadie lo hace responsable de sus errores. «Casi acerté» y «salvo por eso» son las frases de quien no tiene skin in the game."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "El escándalo de la predicción",
+      "text": "Hay campos predecibles, como horarios de cine o fases lunares. El error es trasladar la misma confianza a sistemas complejos donde los eventos «salidos de quicio» mandan."
     },
     {
       "sectionId": "cap10",
@@ -300,19 +350,24 @@
       "text": "La predicción detallada en sistemas complejos produce más apariencia de conocimiento que conocimiento efectivo."
     },
     {
-      "sectionId": "cap11",
-      "sectionTitle": "Cómo buscar excremento de pájaro",
-      "text": "No podemos predecir descubrimientos futuros porque incorporar el futuro en el presente sería ya haberlo inventado. Taleb formula la ley de iteración del conocimiento, según la cual para entender el futuro necesitas elementos del futuro mismo."
+      "sectionId": "cap10",
+      "sectionTitle": "El escándalo de la predicción",
+      "text": "Si no podemos predecir descubrimientos, conviene cambiar la estrategia de búsqueda."
     },
     {
       "sectionId": "cap11",
       "sectionTitle": "Cómo buscar excremento de pájaro",
-      "text": "La serendipia (hallazgos inadvertidos como el láser, la Viagra o la espuma de Apeles) supera la planificación. Henri Poincaré y el problema de los tres cuerpos muestran que incluso sistemas deterministas pueden ser impredecibles en la práctica. Friedrich Hayek advirtió que el conocimiento está disperso y no centralizable."
+      "text": "¿Por qué no podemos predecir descubrimientos futuros? Incorporar el futuro en el presente sería ya haberlo inventado. Taleb formula una regla incómoda según la cual entender el futuro exige elementos del futuro mismo."
     },
     {
       "sectionId": "cap11",
       "sectionTitle": "Cómo buscar excremento de pájaro",
-      "text": "La historia sirve para el placer narrativo, no para teorizar ni predecir. Buscar «caca de pájaro» es mantener opciones abiertas y bajo costo de error, no adivinar el próximo hallazgo."
+      "text": "La serendipia supera la planificación. Hallazgos inadvertidos como el láser, la Viagra o la espuma de Apeles lo demuestran. Henri Poincaré (matemático francés) mostró con el problema de los tres cuerpos que sistemas deterministas pueden ser impredecibles en la práctica."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Cómo buscar excremento de pájaro",
+      "text": "La historia sirve para el placer narrativo, no para teorizar ni predecir. Buscar «caca de pájaro» es mantener opciones abiertas y bajo costo de error. No adivinar el próximo hallazgo."
     },
     {
       "sectionId": "cap11",
@@ -320,9 +375,14 @@
       "text": "No sabemos lo que sabremos. La serendipia y la búsqueda abierta superan la predicción planificada."
     },
     {
+      "sectionId": "cap11",
+      "sectionTitle": "Cómo buscar excremento de pájaro",
+      "text": "Esa humildad ante lo desconocido apunta a un ideal político e intelectual."
+    },
+    {
       "sectionId": "cap12",
       "sectionTitle": "Epistemocracia, un sueño",
-      "text": "Taleb sueña con una epistemocracia , un orden que premia la humildad epistemológica y penaliza la sobreconfianza experta. Michel de Montaigne es el modelo del epistemócrata (sabe que no sabe) frente a los bildungsphilisters que confunden cultura con comprensión."
+      "text": "¿Cómo gobernaría una sociedad que admite no saber? Taleb sueña con una epistemocracia (orden que premia la humildad epistemológica y penaliza la sobreconfianza experta). Michel de Montaigne (ensayista escéptico del Renacimiento) es el modelo del epistemócrata: sabe que no sabe."
     },
     {
       "sectionId": "cap12",
@@ -340,19 +400,24 @@
       "text": "Gobernar bien bajo incertidumbre requiere instituciones que incorporen duda, no que la oculten tras narrativas de certeza."
     },
     {
-      "sectionId": "cap13",
-      "sectionTitle": "Apeles el pintor, o qué hacer si no se puede predecir",
-      "text": "Ante la imposibilidad de predecir cisnes negros, Taleb propone acción, no más teoría. La estrategia de barra combina hiperconservadurismo ( 85–90 % en activos máximamente seguros) con exposición hiperagresiva y convexa ( 10–15 % a opciones, venture capital) para que ningún cisne negativo cause ruina y los positivos puedan compensar con creces."
+      "sectionId": "cap12",
+      "sectionTitle": "Epistemocracia, un sueño",
+      "text": "La duda no paraliza. Obliga a diseñar acciones robustas cuando la predicción falla."
     },
     {
       "sectionId": "cap13",
       "sectionTitle": "Apeles el pintor, o qué hacer si no se puede predecir",
-      "text": "William Goldman gritaba «¡Nadie sabe nada!» sobre el cine. No predice qué película triunfa, pero sabe que lo imprevisible puede beneficiarlo. La asimetría grande (perder poco para ganar mucho) define negocios de cisne positivo (editorial, investigación, VC) frente a los de solo downside (banca, seguros)."
+      "text": "¿Qué hacer si los cisnes negros son impredecibles? Taleb propone acción, no más teoría. La estrategia de barra (hiperseguridad abajo más exposición convexa arriba) combina dos polos. Entre 85 y 90 % en activos máximamente seguros. Entre 10 y 15 % a opciones o venture capital."
     },
     {
       "sectionId": "cap13",
       "sectionTitle": "Apeles el pintor, o qué hacer si no se puede predecir",
-      "text": "No es comprar lotería. Los payoffs reales son escalables y las reglas desconocidas solo pueden ayudarte si tu pérdida está acotada. Maximizar la serendipia alrededor tuyo es la versión práctica de la antifragilidad narrativa. Consiste en dejar de creer que entiendes el futuro y diseñar exposición convexa a lo que no prevés."
+      "text": "William Goldman (guionista de Hollywood) gritaba «¡Nadie sabe nada!» sobre el cine. No predice qué película triunfa, pero sabe que lo imprevisible puede beneficiarlo. La asimetría grande define negocios de cisne positivo frente a los de solo downside."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Apeles el pintor, o qué hacer si no se puede predecir",
+      "text": "No es comprar lotería. Los payoffs reales son escalables y las reglas desconocidas solo pueden ayudarte si tu pérdida está acotada. Maximizar la serendipia alrededor tuyo es dejar de creer que entiendes el futuro."
     },
     {
       "sectionId": "cap13",
@@ -360,14 +425,19 @@
       "text": "Si no puedes predecir, diseña asimetría: mucha protección abajo y apertura convexa al upside."
     },
     {
-      "sectionId": "cap14",
-      "sectionTitle": "De Mediocristán a Extremistán, y de vuelta",
-      "text": "Taleb formaliza los dos mundos introducidos en el capítulo 3. En Mediocristán , ninguna observación individual altera demasiado el agregado (alturas, calorías, pesos). En Extremistán , unos pocos dominan (riqueza, fama, ventas, citas) y el promedio deja de describir la realidad."
+      "sectionId": "cap13",
+      "sectionTitle": "Apeles el pintor, o qué hacer si no se puede predecir",
+      "text": "Para aplicar esa asimetría hay que saber en qué mundo estadístico estamos."
     },
     {
       "sectionId": "cap14",
       "sectionTitle": "De Mediocristán a Extremistán, y de vuelta",
-      "text": "El efecto Mateo («al que tiene, se le dará») y la long tail explican por qué la globalización ingenua exporta desigualdad extrema. Las ideas también contagian en Extremistán: un bestseller puede capturar toda la atención."
+      "text": "¿Cómo saber si el promedio describe la realidad? Taleb formaliza los dos mundos introducidos antes. En Mediocristán, ninguna observación individual altera demasiado el agregado. Alturas, calorías y pesos son ejemplos típicos."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "De Mediocristán a Extremistán, y de vuelta",
+      "text": "En Extremistán, unos pocos dominan riqueza, fama, ventas o citas. El promedio deja de describir la realidad. El efecto Mateo («al que tiene, se le dará») concentra riqueza y fama. La long tail (cola larga de pocos gigantes) explica por qué la globalización ingenua exporta desigualdad extrema."
     },
     {
       "sectionId": "cap14",
@@ -380,19 +450,24 @@
       "text": "La pregunta previa a cualquier análisis es si estamos en Mediocristán o en Extremistán."
     },
     {
-      "sectionId": "cap15",
-      "sectionTitle": "La curva de campana, ese gran fraude intelectual",
-      "text": "Taleb ataca el uso indiscriminado de la distribución gaussiana en fenómenos de Extremistán. La campana subestima eventos raros y extremos, precisamente los que más importan, y alimenta el fraude gaussiano , que viste de matemáticas una ceguera al riesgo real."
+      "sectionId": "cap14",
+      "sectionTitle": "De Mediocristán a Extremistán, y de vuelta",
+      "text": "El error más costoso es aplicar la campana de Gauss donde mandan colas gruesas."
     },
     {
       "sectionId": "cap15",
       "sectionTitle": "La curva de campana, ese gran fraude intelectual",
-      "text": "Benoit Mandelbrot y las leyes de potencia describen mejor desigualdades y concentraciones observadas. Adolphe Quételet y el «monstruo promedio» ilustran el error de buscar la normalidad donde no existe. La regla 80/20 es síntoma de Extremistán, no excepción."
+      "text": "¿Por qué la campana gaussiana engaña en mercados y guerras? Taleb ataca el uso indiscriminado de la distribución gaussiana (curva de campana simétrica) en fenómenos de Extremistán. Subestima eventos raros y extremos, precisamente los que más importan."
     },
     {
       "sectionId": "cap15",
       "sectionTitle": "La curva de campana, ese gran fraude intelectual",
-      "text": "El argumento no es abandonar las matemáticas, sino usar las adecuadas al dominio. Aplicar Gauss donde mandan colas gruesas no es un error menor: es una forma sistemática de fragilidad institucional."
+      "text": "Benoit Mandelbrot (matemático de colas gruesas) y las leyes de potencia describen mejor desigualdades observadas. Adolphe Quételet (pionero de la estadística social) ilustró el error de buscar la normalidad donde no existe. La regla 80/20 es síntoma de Extremistán, no excepción."
+    },
+    {
+      "sectionId": "cap15",
+      "sectionTitle": "La curva de campana, ese gran fraude intelectual",
+      "text": "El argumento no es abandonar las matemáticas, sino usar las adecuadas al dominio. Aplicar Gauss donde mandan colas gruesas es fragilidad institucional sistemática."
     },
     {
       "sectionId": "cap15",
@@ -400,14 +475,19 @@
       "text": "Aplicar la campana de Gauss en Extremistán es ceguera al riesgo disfrazada de ciencia."
     },
     {
-      "sectionId": "cap16",
-      "sectionTitle": "La estética del azar",
-      "text": "Benoit Mandelbrot ofrece una estética del azar más fiel que las curvas suaves platónicas. La fractalidad (irregularidad que se repite a distintas escalas) captura mejor la rugosidad de la realidad que los modelos simétricos."
+      "sectionId": "cap15",
+      "sectionTitle": "La curva de campana, ese gran fraude intelectual",
+      "text": "Mandelbrot ofrece una estética del azar más fiel que las curvas platónicas."
     },
     {
       "sectionId": "cap16",
       "sectionTitle": "La estética del azar",
-      "text": "Taleb distingue cisnes negros de cisnes grises , eventos extremos pero un poco más previsibles, en la frontera entre ambos mundos. La precisión excesiva en parámetros inestables empeora decisiones. En contextos complejos, rangos robustos superan exactitudes espurias."
+      "text": "¿Cómo representar el azar sin forzar simetrías falsas? Benoit Mandelbrot ofrece una estética del azar más fiel que las curvas suaves platónicas. La fractalidad (irregularidad que se repite a distintas escalas) captura mejor la rugosidad de la realidad."
+    },
+    {
+      "sectionId": "cap16",
+      "sectionTitle": "La estética del azar",
+      "text": "Taleb distingue cisnes negros de cisnes grises (eventos extremos algo más previsibles, en la frontera entre mundos). La precisión excesiva en parámetros inestables empeora decisiones. En contextos complejos, rangos robustos superan exactitudes espurias."
     },
     {
       "sectionId": "cap16",
@@ -420,19 +500,24 @@
       "text": "Comprender el azar exige aceptar formas rugosas y escalables, no forzar simetrías que la realidad no tiene."
     },
     {
-      "sectionId": "cap17",
-      "sectionTitle": "Los locos de Locke, o campanas en lugares equivocados",
-      "text": "Aplicar modelos mediocristánicos donde manda Extremistán produce consecuencias sociales graves. Taleb muestra cómo la obsesión por la normalidad estadística (desde John Locke hasta políticas contemporáneas) genera diagnósticos deficientes, métricas engañosas y decisiones frágiles."
+      "sectionId": "cap16",
+      "sectionTitle": "La estética del azar",
+      "text": "Usar campanas donde no corresponde tiene consecuencias sociales concretas, no solo teóricas."
     },
     {
       "sectionId": "cap17",
       "sectionTitle": "Los locos de Locke, o campanas en lugares equivocados",
-      "text": "«Cualquiera puede ser presidente» suena democrático pero ignora Extremistán político. Los burócratas confirman sus modelos con datos seleccionados y llaman «cisne negro» a lo que era previsible para quien miraba la estructura correcta."
+      "text": "¿Qué pasa cuando políticas públicas usan el modelo equivocado? Aplicar modelos mediocristánicos donde manda Extremistán produce consecuencias graves. Taleb muestra cómo la obsesión por la normalidad estadística genera diagnósticos deficientes y métricas engañosas."
     },
     {
       "sectionId": "cap17",
       "sectionTitle": "Los locos de Locke, o campanas en lugares equivocados",
-      "text": "Lo «científico» puede volverse ritual cuando no respeta la forma del fenómeno. La mala modelización no solo falla en teoría: acumula costos en lo público y lo privado."
+      "text": "«Cualquiera puede ser presidente» suena democrático pero ignora Extremistán político. Los burócratas confirman sus modelos con datos seleccionados. Llaman «cisne negro» a lo que era previsible para quien miraba la estructura correcta."
+    },
+    {
+      "sectionId": "cap17",
+      "sectionTitle": "Los locos de Locke, o campanas en lugares equivocados",
+      "text": "Lo «científico» puede volverse ritual cuando no respeta la forma del fenómeno. La mala modelización no solo falla en teoría. Acumula costos en lo público y lo privado."
     },
     {
       "sectionId": "cap17",
@@ -440,19 +525,24 @@
       "text": "Poner campanas de Gauss donde mandan colas gruesas no es abstracción inocua: produce políticas y métricas que acumulan fragilidad."
     },
     {
-      "sectionId": "cap18",
-      "sectionTitle": "La incertidumbre del farsante",
-      "text": "Taleb critica al farsante que proyecta dominio técnico en ámbitos sin base predictiva sólida. La jerga, el formalismo y las retrospectivas autojustificatorias ocultan incapacidad real. La falacia lúdica reaparece en el nerd con título pero sin skin in the game."
+      "sectionId": "cap17",
+      "sectionTitle": "Los locos de Locke, o campanas en lugares equivocados",
+      "text": "Detrás de esas métricas suele esconderse el farsante que proyecta certeza sin responsabilidad."
     },
     {
       "sectionId": "cap18",
       "sectionTitle": "La incertidumbre del farsante",
-      "text": "Karl Popper debería estar presente donde más se necesita y más se ignora. El problema no es la especialización, sino la falta de responsabilidad por el error y la desconexión entre teoría y práctica."
+      "text": "¿Cómo reconocer al experto que no sabe pero habla como si supiera? Taleb critica al farsante (quien proyecta dominio técnico sin base predictiva sólida). La jerga, el formalismo y las retrospectivas autojustificatorias ocultan incapacidad real."
     },
     {
       "sectionId": "cap18",
       "sectionTitle": "La incertidumbre del farsante",
-      "text": "La defensa contra el falso experto es exigir exposición real a las consecuencias de sus consejos y límites explícitos de conocimiento."
+      "text": "Karl Popper (filósofo de la falsación) debería estar presente donde más se necesita y más se ignora. El problema no es la especialización, sino la falta de responsabilidad por el error y la desconexión entre teoría y práctica."
+    },
+    {
+      "sectionId": "cap18",
+      "sectionTitle": "La incertidumbre del farsante",
+      "text": "La defensa contra el falso experto es exigir exposición real a las consecuencias de sus consejos. También límites explícitos de conocimiento."
     },
     {
       "sectionId": "cap18",
@@ -460,19 +550,24 @@
       "text": "En incertidumbre extrema, la mejor defensa contra el farsante es exigir skin in the game y humildad epistémica."
     },
     {
-      "sectionId": "cap19",
-      "sectionTitle": "Mitad y mitad, o cómo vengarse del cisne negro",
-      "text": "Taleb sintetiza una ética operativa en pares de «mitad y mitad». Es semiescepticismo donde otros confían y agresividad donde otros temen. Es hiperconservador en lo que otros llaman riesgo e hiperagresivo donde recomiendan cautela. Odia los cisnes negros negativos y ama los positivos (los accidentes de Apeles, la serendipia)."
+      "sectionId": "cap18",
+      "sectionTitle": "La incertidumbre del farsante",
+      "text": "Taleb cierra la primera parte del libro con una ética operativa frente al azar extremo."
     },
     {
       "sectionId": "cap19",
       "sectionTitle": "Mitad y mitad, o cómo vengarse del cisne negro",
-      "text": "La regla es simple. Hay que ser agresivo cuando un error del modelo puede beneficiarte y paranoico cuando puede destruirte. En finanzas, la gente hace lo contrario con teorías endebles para gestionar riesgos y locuras bajo escrutinio «racional». «No corro por los trenes» resume la actitud. Perder un tren solo duele si corres tras él. Rechazar el éxito que otros esperan de ti solo duele si lo buscas."
+      "text": "¿Cómo vivir cuando el azar manda más que los promedios? Taleb sintetiza una ética operativa en pares de «mitad y mitad». Es semiescepticismo donde otros confían y agresividad donde otros temen. Odia los cisnes negros negativos y ama los positivos."
     },
     {
       "sectionId": "cap19",
       "sectionTitle": "Mitad y mitad, o cómo vengarse del cisne negro",
-      "text": "La venganza contra el cisne negro no es dominarlo. Consiste en dejar de ser su víctima sistemática mediante asimetría, opcionalidad y estoicismo ante lo irrecuperable."
+      "text": "La regla es simple. Hay que ser agresivo cuando un error del modelo puede beneficiarte y paranoico cuando puede destruirte. En finanzas, la gente hace lo contrario con teorías endebles para gestionar riesgos."
+    },
+    {
+      "sectionId": "cap19",
+      "sectionTitle": "Mitad y mitad, o cómo vengarse del cisne negro",
+      "text": "«No corro por los trenes» resume la actitud. Perder un tren solo duele si corres tras él. La venganza contra el cisne negro no es dominarlo. Es dejar de ser su víctima mediante asimetría y opcionalidad."
     },
     {
       "sectionId": "cap19",
@@ -480,14 +575,19 @@
       "text": "La estrategia correcta frente al azar extremo es asimétrica: máxima protección abajo y apertura convexa al upside."
     },
     {
-      "sectionId": "cap20",
-      "sectionTitle": "Epílogo: los cisnes blancos de Yevgenia",
-      "text": "Taleb invierte la perspectiva con los cisnes blancos , eventos muy esperados que no ocurren. Yevgenia Krasnova publica The Loop tras ocho años de trabajo. Las críticas son excelentes, pero casi nadie compra. El editor, que apostó la granja, culpa al libro «demasiado largo»."
+      "sectionId": "cap19",
+      "sectionTitle": "Mitad y mitad, o cómo vengarse del cisne negro",
+      "text": "El epílogo invierte la lógica del éxito con un cisne blanco literario."
     },
     {
       "sectionId": "cap20",
       "sectionTitle": "Epílogo: los cisnes blancos de Yevgenia",
-      "text": "La moraleja del capítulo 2 se subvierte. El éxito narrativo pasado no predice el siguiente. El público hablaba del libro sin leerlo. El cisne blanco es la obra maestra ignorada. Por simetría, lo altamente probable que falla es tan revelador como lo improbable que ocurre."
+      "text": "¿Puede lo muy esperado fallar con la misma fuerza que lo improbable? Taleb invierte la perspectiva con los cisnes blancos (eventos muy esperados que no ocurren). Yevgenia Krasnova publica The Loop tras ocho años de trabajo. Las críticas son excelentes, pero casi nadie compra."
+    },
+    {
+      "sectionId": "cap20",
+      "sectionTitle": "Epílogo: los cisnes blancos de Yevgenia",
+      "text": "La moraleja del capítulo 2 se subvierte. El éxito narrativo pasado no predice el siguiente. El público hablaba del libro sin leerlo. El cisne blanco es la obra maestra ignorada."
     },
     {
       "sectionId": "cap20",

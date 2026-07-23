@@ -153,15 +153,15 @@ export const twentyOneLessons: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "En un mundo saturado de información irrelevante, la <span class=\"term\">claridad es poder</span>. Miles de millones no pueden permitirse investigar el futuro de la humanidad porque deben trabajar, criar hijos o cuidar ancianos. Aun así, la historia no concede descuentos: si el futuro se decide en su ausencia, ellos y sus hijos tampoco quedarán exentos de las consecuencias.",
+          html: "¿Cómo orientarse cuando la información sobra y la relevancia falta? Harari abre con una tesis simple: la <span class=\"term\">claridad</span>, o sea, saber qué importa y por qué, es poder en el siglo XXI. Miles de millones no pueden investigar el futuro de la humanidad porque deben trabajar, criar hijos o cuidar ancianos. Aun así, la historia no concede descuentos. Cuando el futuro se decide en su ausencia, ellos y sus hijos pagan las consecuencias.",
         },
         {
           type: 'paragraph',
-          html: "Tras <em>Sapiens</em> (pasado) y <em>Homo Deus</em> (futuro lejano), Harari enfoca el <span class=\"term\">aquí y el ahora</span>: qué ocurre hoy, cuáles son los mayores desafíos y qué debemos enseñar a nuestros hijos. El libro no es una narrativa histórica sino una selección de lecciones que estimulan el pensamiento sin ofrecer respuestas simples.",
+          html: "Tras <em>Sapiens</em> (pasado) y <em>Homo Deus</em> (futuro lejano), el historiador israelí enfoca el <span class=\"term\">aquí y el ahora</span>, es decir, lo que ocurre hoy. Pregunta cuáles son los mayores desafíos y qué debemos enseñar a nuestros hijos. El libro no es una narrativa histórica sino una selección de lecciones que estimulan el pensamiento sin ofrecer respuestas simples.",
         },
         {
           type: 'paragraph',
-          html: "El libro se organiza en cinco partes que abarcan el <span class=\"term\">desafío tecnológico</span> (IA, biotecnología, desempleo), el político (comunidad, civilización, nacionalismo, religión, inmigración), desesperanza y esperanza (terrorismo, guerra, humildad, Dios, secularismo), la verdad (ignorancia, justicia, posverdad, ciencia ficción) y la resiliencia (educación, significado, meditación).",
+          html: "Cinco partes organizan el volumen. Abre el <span class=\"term\">desafío tecnológico</span>, o sea, IA, biotecnología y desempleo. Sigue el desafío político con comunidad, civilización, nacionalismo, religión e inmigración. Una tercera parte mezcla desesperanza y esperanza. Trata terrorismo, guerra, humildad, Dios y secularismo. Luego vienen la verdad y la resiliencia. Cubren ignorancia, justicia, posverdad y ciencia ficción. Cierran con educación, significado y meditación.",
         },
         {
           type: 'quote',
@@ -170,7 +170,11 @@ export const twentyOneLessons: BookSummary = {
         },
         {
           type: 'key',
-          html: "El libro critica al liberalismo no porque sea el peor sistema, sino porque es el más exitoso hasta ahora — y por eso conviene reparar sus fallas antes de que el autoritarismo secuestre el debate.",
+          html: "El libro critica al liberalismo no porque sea el peor sistema, sino porque es el más exitoso hasta ahora. Por eso conviene reparar sus fallas antes de que el autoritarismo secuestre el debate.",
+        },
+        {
+          type: 'paragraph',
+          html: "La primera lección pregunta qué ocurre cuando ese relato liberal deja de convencer a las masas.",
         },
       ],
     },
@@ -182,15 +186,15 @@ export const twentyOneLessons: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Los humanos pensamos en <span class=\"term\">historias</span>, no en hechos aislados. En el siglo XX, las élites globales ofrecieron tres grandes relatos: fascismo, comunismo y liberalismo. Después de <span class=\"num\">1945</span> quedaron dos. Después de <span class=\"num\">1989</span>, uno: el liberal, que parecía destinado a conquistar el mundo.",
+          html: "¿Por qué tantas sociedades perdieron la fe en el futuro tras <span class=\"num\">1989</span>? Los humanos pensamos en <span class=\"term\">historias</span>, o sea, relatos que dan sentido a los hechos, no en datos aislados. En el siglo XX, las élites globales ofrecieron tres grandes relatos: fascismo, comunismo y liberalismo. Tras <span class=\"num\">1945</span> quedaron dos. Tras <span class=\"num\">1989</span>, uno solo.",
         },
         {
           type: 'paragraph',
-          html: "El relato liberal celebra la libertad: democracia, derechos humanos, mercados libres y bienestar estatal. Desde la crisis financiera de <span class=\"num\">2008</span>, no obstante, creció la desilusión: muros, resistencia a la inmigración, autoritarismos. El <span class=\"num\">2016</span>, Brexit y <span class=\"person\">Donald Trump</span>, marcó cuando la ola llegó al núcleo liberal occidental. En <span class=\"num\">1938</span> había tres historias. En <span class=\"num\">1968</span>, dos. En <span class=\"num\">1998</span>, una. En <span class=\"num\">2018</span>, cero.",
+          html: "El relato liberal celebra la libertad: democracia, derechos humanos, mercados libres y bienestar estatal. Parecía destinado a conquistar el mundo. La crisis financiera de 2008 cambió el clima. Crecieron muros, resistencia a la inmigración y autoritarismos. Brexit y Donald Trump, en 2016, marcaron cuando la ola llegó al núcleo liberal occidental. En 1938 había tres historias. En 1968, dos. En 1998, una. En 2018, cero.",
         },
         {
           type: 'paragraph',
-          html: "La disrupción tecnológica agrava la desorientación: Internet, IA y blockchain transforman finanzas y política mientras los votantes temen la <span class=\"term\">irrelevancia</span> más que la explotación. Trump y Brexit fueron apoyados por quienes aún tenían poder político pero temían perder valor económico — una trayectoria opuesta a las revoluciones del siglo XX.",
+          html: "La disrupción tecnológica agrava la desorientación. Internet, IA y blockchain transforman finanzas y política. Los votantes temen la <span class=\"term\">irrelevancia</span>, es decir, volverse prescindibles, más que la explotación. Trump y Brexit fueron apoyados por quienes aún tenían poder político. Temían perder valor económico. Es una trayectoria opuesta a las revoluciones del siglo XX.",
         },
         {
           type: 'concept-grid',
@@ -216,6 +220,10 @@ export const twentyOneLessons: BookSummary = {
           type: 'key',
           html: "El liberalismo no tiene respuestas obvias al colapso ecológico ni a la disrupción tecnológica. Confiaba en que el crecimiento económico resolvería los conflictos mágicamente.",
         },
+        {
+          type: 'paragraph',
+          html: "Si el relato se desmorona, el empleo es el primer terreno donde la tecnología pone a prueba ese optimismo.",
+        },
       ],
     },
     {
@@ -226,15 +234,15 @@ export const twentyOneLessons: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "No sabemos cómo será el mercado laboral en <span class=\"num\">2050</span>. El <span class=\"term\">aprendizaje automático</span> y la robótica cambiarán casi toda línea de trabajo. Unos prevén desempleo masivo, otros creen que seguirán creándose empleos. A diferencia de revoluciones anteriores, la IA ya supera a humanos en tareas cognitivas, incluida la lectura de emociones.",
+          html: "¿Qué trabajos existirán en <span class=\"num\">2050</span>? Nadie lo sabe con certeza. El <span class=\"term\">aprendizaje automático</span>, o sea, programas que mejoran solos con datos, y la robótica cambiarán casi toda línea de trabajo. Unos prevén desempleo masivo. Otros creen que seguirán creándose empleos. A diferencia de revoluciones anteriores, la IA ya supera a humanos en tareas cognitivas.",
         },
         {
           type: 'paragraph',
-          html: "La revolución de la IA se alimenta de neurociencia y economía conductual: las decisiones humanas son algoritmos bioquímicos, no misterio espiritual. La IA posee además <span class=\"term\">conectividad</span> y <span class=\"term\">actualizabilidad</span>: no compites con un robot sino con una red integrada que se actualiza al instante. Los coches autónomos podrían reducir muertes en carretera ~<span class=\"num\">90%</span> (~un millón de vidas al año).",
+          html: "La revolución de la IA se alimenta de neurociencia y economía conductual. Las decisiones humanas son algoritmos bioquímicos, no misterio espiritual. La IA posee además <span class=\"term\">conectividad</span>, es decir, enlaces en red. También tiene <span class=\"term\">actualizabilidad</span>, o sea, mejoras instantáneas. No compites con un robot sino con un sistema integrado. Los coches autónomos podrían reducir muertes en carretera ~<span class=\"num\">90%</span>, unas un millón de vidas al año.",
         },
         {
           type: 'paragraph',
-          html: "Aun así, sería una locura frenar la automatización en transporte o salud para «proteger empleos»: debemos proteger humanos, no puestos. En el largo plazo, hasta el arte puede ser hackeado: algoritmos que analicen datos biométricos y compongan música personalizada. Los nuevos empleos (mantenimiento de drones, investigación médica) no compensarán necesariamente las pérdidas masivas.",
+          html: "Sería una locura frenar la automatización en transporte o salud para «proteger empleos». Debemos proteger humanos, no puestos. En el largo plazo, hasta el arte puede ser hackeado. Algoritmos analizan datos biométricos y componen música personalizada. Los nuevos empleos no compensarán necesariamente las pérdidas masivas.",
         },
         {
           type: 'big-numbers',
@@ -257,6 +265,10 @@ export const twentyOneLessons: BookSummary = {
           type: 'key',
           html: "El problema real no es la falta de empleos sino cómo redefinir el significado y la dignidad cuando millones se vuelven económicamente redundantes.",
         },
+        {
+          type: 'paragraph',
+          html: "El mismo avance tecnológico que amenaza el trabajo también cuestiona la idea liberal de libre voluntad.",
+        },
       ],
     },
     {
@@ -267,15 +279,15 @@ export const twentyOneLessons: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El liberalismo sitúa la autoridad en la <span class=\"term\">libre voluntad</span> individual: el votante sabe, el cliente tiene razón, sigue tu corazón. Pero las elecciones son sobre sentimientos, no racionalidad — y pronto los algoritmos podrían entender y manipular esos sentimientos mejor que nosotros mismos.",
+          html: "¿Sigue teniendo sentido la <span class=\"term\">libre voluntad</span>, es decir, la creencia de que elegimos por nosotros mismos? El liberalismo sitúa la autoridad en el individuo: el votante sabe, el cliente tiene razón, sigue tu corazón. Pero las elecciones son sobre sentimientos, no racionalidad. Pronto los algoritmos podrían entender y manipular esos sentimientos mejor que nosotros.",
         },
         {
           type: 'paragraph',
-          html: "Los sentimientos son mecanismos bioquímicos de cálculo de probabilidades de supervivencia, no prueba de alma libre. Hasta hoy, nadie externo podía hackear tu interior. La Inquisición y la KGB carecían de datos biométricos. La fusión biotech-infotech produce <span class=\"term\">Big Data</span> que monitoriza tu salud <span class=\"num\">24/7</span>, predice enfermedades antes de síntomas y podría dictar dietas, seguros y empleo.",
+          html: "Los sentimientos son mecanismos bioquímicos de cálculo de probabilidades de supervivencia. No prueban alma libre. Ningún extraño ha podido hackear tu interior con precisión, hasta ahora. La Inquisición y la KGB carecían de datos biométricos. La fusión biotech-infotech produce <span class=\"term\">Big Data</span>, o sea, masas de información personal, que monitoriza tu salud <span class=\"num\">24/7</span>. Predice enfermedades antes de síntomas y podría dictar dietas, seguros y empleo.",
         },
         {
           type: 'paragraph',
-          html: "Los sensores biométricos convertirán elecciones de películas en decisiones sobre estudios, trabajo y pareja. Como con Google Maps, aprenderemos a confiar en algoritmos más que en el instinto. Churchill dijo que la democracia es el peor sistema excepto los demás. Podríamos llegar a la misma conclusión sobre los algoritmos.",
+          html: "Los sensores biométricos convertirán elecciones de películas en decisiones sobre estudios, trabajo y pareja. Aprenderemos a confiar en algoritmos como hoy confiamos en Google Maps. <span class=\"person\">Winston Churchill</span> dijo que la democracia es el peor sistema excepto los demás. Podríamos llegar a la misma conclusión sobre los algoritmos.",
         },
         {
           type: 'quote',
@@ -284,7 +296,11 @@ export const twentyOneLessons: BookSummary = {
         },
         {
           type: 'key',
-          html: "La dependencia del «corazón» liberal puede ser su talón de Aquiles: quien controle los algoritmos que leen emociones controlará la política.",
+          html: "La dependencia del «corazón» liberal puede ser su talón de Aquiles. Quien controle los algoritmos que leen emociones controlará la política.",
+        },
+        {
+          type: 'paragraph',
+          html: "Si los algoritmos leen emociones, también concentran riqueza y poder de un modo nuevo.",
         },
       ],
     },
@@ -296,15 +312,15 @@ export const twentyOneLessons: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Se prometió que la globalización reduciría la desigualdad. El siglo XXI podría crear las sociedades más desiguales de la historia. El <span class=\"num\">1%</span> más rico posee la mitad de la riqueza mundial. Las cien personas más ricas, más que los cuatro mil millones más pobres.",
+          html: "¿La globalización redujo la desigualdad como prometió? El siglo XXI podría crear las sociedades más desiguales de la historia. El <span class=\"num\">1%</span> más rico posee la mitad de la riqueza mundial. Las cien personas más ricas tienen más que los cuatro mil millones más pobres.",
         },
         {
           type: 'paragraph',
-          html: "La IA podría eliminar el valor económico de la mayoría. La biotecnología traduciría desigualdad económica en <span class=\"term\">desigualdad biológica</span>: superhumanos ricos frente a una clase inútil de <em>Homo sapiens</em>. Hacia <span class=\"num\">2100</span>, los ricos podrían ser genuinamente más talentosos, no solo más privilegiados legalmente. Eso abriría una brecha casi imposible de cerrar.",
+          html: "La IA podría eliminar el valor económico de la mayoría. La biotecnología traduciría desigualdad económica en <span class=\"term\">desigualdad biológica</span>, o sea, ventajas corporales y cognitivas heredables. Superhumanos ricos frente a una clase inútil de <em>Homo sapiens</em>. Hacia <span class=\"num\">2100</span>, los ricos podrían ser genuinamente más talentosos, no solo más privilegiados legalmente. Eso abriría una brecha casi imposible de cerrar.",
         },
         {
           type: 'paragraph',
-          html: "En el siglo XXI los <span class=\"term\">datos</span> eclipsan tierra y maquinaria como activo clave. Google, Facebook, Baidu y Tencent acumulan atención y datos. El modelo futuro transfiere autoridad de humanos a algoritmos que eligen y compran por nosotros. La pregunta política más urgente del siglo es quién posee los datos: individuos, gobiernos o corporaciones.",
+          html: "En el siglo XXI los <span class=\"term\">datos</span>, es decir, registros digitales de comportamiento y biología, eclipsan tierra y maquinaria como activo clave. Google, Facebook, Baidu y Tencent acumulan atención y datos. El modelo futuro transfiere autoridad de humanos a algoritmos que eligen y compran por nosotros. La pregunta política más urgente del siglo es quién posee esos datos.",
         },
         {
           type: 'list',
@@ -318,6 +334,10 @@ export const twentyOneLessons: BookSummary = {
           type: 'key',
           html: "Si los datos se concentran en pocas manos, la humanidad podría dividirse en especies distintas. Regular su propiedad es la cuestión política más urgente del siglo.",
         },
+        {
+          type: 'paragraph',
+          html: "La desigualdad digital choca con el anhelo humano de pertenecer a una comunidad real.",
+        },
       ],
     },
     {
@@ -328,19 +348,23 @@ export const twentyOneLessons: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Después de las elecciones de <span class=\"num\">2016</span>, <span class=\"person\">Mark Zuckerberg</span> prometió que Facebook construiría una <span class=\"term\">comunidad global</span> con IA que sugiera grupos «significativos» a mil millones de personas. El escándalo Cambridge Analytica socavó esa promesa, pero la tensión central permanece.",
+          html: "¿Puede una red social sustituir la vecindad? Tras las elecciones de 2016, <span class=\"person\">Mark Zuckerberg</span> prometió construir una <span class=\"term\">comunidad global</span>, es decir, vínculos significativos entre extraños. El CEO de Facebook quería que la IA sugiera grupos a mil millones de personas. El escándalo Cambridge Analytica socavó esa promesa. La tensión central permanece.",
         },
         {
           type: 'paragraph',
-          html: "Somos animales de la Edad de Piedra adaptados a bandas de unas <span class=\"num\">150</span> personas (la regla de Dunbar). Las comunidades íntimas se desintegraron. Las «familias» nacionales o partidarias no sustituyen el calor de un hermano real. Facebook gana vendiendo atención a anunciantes — difícil construir comunidad auténtica con ese modelo.",
+          html: "Somos animales de la Edad de Piedra adaptados a bandas de unas <span class=\"num\">150</span> personas. Ese límite se conoce como la regla de Dunbar. Las comunidades íntimas se desintegraron. Las «familias» nacionales o partidarias no sustituyen el calor de un hermano real. Facebook gana vendiendo atención a anunciantes. Es difícil construir comunidad auténtica con ese modelo.",
         },
         {
           type: 'paragraph',
-          html: "Las comunidades online carecen de profundidad física: nadie te trae sopa por WiFi. La tecnología nos aleja del cuerpo — miramos smartphones en lugar de la pareja en el desayuno. Zuckerberg quiere que compartamos experiencias. Quizá necesitamos herramientas para conectar con nuestras propias sensaciones. El puente online-offline es la prueba decisiva de Facebook.",
+          html: "Las comunidades online carecen de profundidad física. Nadie te trae sopa por WiFi. La tecnología nos aleja del cuerpo. Miramos smartphones en lugar de la pareja en el desayuno. Zuckerberg quiere que compartamos experiencias. Quizá necesitamos herramientas para conectar con nuestras propias sensaciones. El puente online-offline es la prueba decisiva de Facebook.",
         },
         {
           type: 'key',
-          html: "Un paso crucial hacia unir la humanidad es recordar que los humanos tienen cuerpos — y que la comunidad real exige presencia física, no solo algoritmos.",
+          html: "Un paso crucial hacia unir la humanidad es recordar que los humanos tienen cuerpos. La comunidad real exige presencia física, no solo algoritmos.",
+        },
+        {
+          type: 'paragraph',
+          html: "Esa humanidad encarnada comparte, a su vez, más de lo que sugieren los relatos de choque cultural.",
         },
       ],
     },
@@ -352,19 +376,23 @@ export const twentyOneLessons: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "La tesis del «choque de civilizaciones», Occidente contra Islam, domina el debate tras Siria, ISIS y Brexit. Harari la rechaza: el fundamentalismo islámico desafía una <span class=\"term\">civilización global</span>, no una occidental exclusiva. El ISIS une a Irán y EE.UU. en su contra.",
+          html: "¿Existen civilizaciones separadas e irreconciliables? La tesis del «choque de civilizaciones», Occidente contra Islam, domina el debate tras Siria, ISIS y Brexit. Harari la rechaza. El fundamentalismo islámico desafía una <span class=\"term\">civilización global</span>, o sea, un mismo tejido de ciencia, salud y derecho. No es una occidental exclusiva. El ISIS une a Irán y EE.UU. en su contra.",
         },
         {
           type: 'paragraph',
-          html: "La analogía biológica es falsa: las especies animales tienen identidades genéticas estables. Las civilizaciones humanas cambian radicalmente. Alemania pasó por seis sistemas en menos de un siglo. No hay esencia alemana inmutable desde <span class=\"person\">Guillermo II</span> hasta <span class=\"person\">Angela Merkel</span>.",
+          html: "La analogía biológica es falsa. Las especies animales tienen identidades genéticas estables. Las civilizaciones humanas cambian radicalmente. Alemania pasó por seis sistemas en menos de un siglo. No hay esencia alemana inmutable desde <span class=\"person\">Guillermo II</span> hasta <span class=\"person\">Angela Merkel</span>.",
         },
         {
           type: 'paragraph',
-          html: "Salud, riqueza y ciencia son estándares globales. Las diferencias culturales son «condimentos» sobre el mismo plato. Cuando algo funciona de verdad, antibióticos, electricidad, constituciones, todo el mundo lo adopta. Hablar de civilizaciones separadas e irreconciliables es mala historia y peor política.",
+          html: "Salud, riqueza y ciencia son estándares globales. Las diferencias culturales son «condimentos» sobre el mismo plato. Cuando algo funciona de verdad, todo el mundo lo adopta. Antibióticos, electricidad y constituciones son ejemplos. Hablar de civilizaciones separadas e irreconciliables es mala historia y peor política.",
         },
         {
           type: 'key',
           html: "Hay una sola civilización planetaria en formación. Los conflictos actuales son disputas internas, no guerras entre especies culturales distintas.",
+        },
+        {
+          type: 'paragraph',
+          html: "Dentro de esa civilización única, el nacionalismo vuelve a encender fronteras justo cuando los problemas son planetarios.",
         },
       ],
     },
@@ -376,15 +404,15 @@ export const twentyOneLessons: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Si la humanidad es una civilización única, ¿por qué el auge del nacionalismo aislacionista? El <span class=\"term\">nacionalismo</span> no es eterno ni biológico: la lealtad a millones de desconocidos requiere inmensa construcción social, como las presas del Nilo que unieron tribus en nación.",
+          html: "¿Por qué resurge el <span class=\"term\">nacionalismo</span>, es decir, la lealtad extrema a un Estado, si la humanidad es una civilización única? No es eterno ni biológico. La lealtad a millones de desconocidos requiere inmensa construcción social. Las presas del Nilo unieron tribus en nación.",
         },
         {
           type: 'paragraph',
-          html: "El patriotismo moderado puede ser benévolo. El ultra-nacionalismo exige lealtad total y alimenta guerras. Después de <span class=\"num\">1945</span> y Hiroshima, la amenaza nuclear empujó cooperación internacional. El anuncio Daisy de <span class=\"person\">Lyndon Johnson</span> (<span class=\"num\">1964</span>) vinculó supervivencia con amor mutuo. Hoy esa lección parece olvidada: regresa la carrera nuclear y el Brexit ignora la paz europea que costó décadas construir.",
+          html: "El patriotismo moderado puede ser benévolo. El ultra-nacionalismo exige lealtad total y alimenta guerras. Después de 1945 y Hiroshima, la amenaza nuclear empujó cooperación internacional. El anuncio Daisy de <span class=\"person\">Lyndon Johnson</span> (<span class=\"num\">1964</span>) vinculó supervivencia con amor mutuo. Hoy esa lección parece olvidada. Regresa la carrera nuclear y el Brexit ignora la paz europea que costó décadas construir.",
         },
         {
           type: 'paragraph',
-          html: "Tres desafíos exigen respuestas globales, no muros: <span class=\"term\">guerra nuclear</span>, <span class=\"term\">colapso ecológico</span> y <span class=\"term\">disrupción tecnológica</span>. El cambio climático ya es realidad presente, no futuro hipotético. Reducir emisiones en veinte años es urgente. Gritar «¡nuestro país primero!» sin cooperación robusta no protege ni al país ni al planeta.",
+          html: "Tres desafíos exigen respuestas globales, no muros. La <span class=\"term\">guerra nuclear</span>, o sea, el riesgo de aniquilación masiva, puede destruir civilizaciones enteras. El <span class=\"term\">colapso ecológico</span>, o sea, el calentamiento y la pérdida de biodiversidad, ya es realidad presente. La disrupción tecnológica atraviesa fronteras sin pedir permiso. Reducir emisiones en veinte años es urgente. Gritar «¡nuestro país primero!» sin cooperación robusta no protege ni al país ni al planeta.",
         },
         {
           type: 'timeline',
@@ -407,6 +435,10 @@ export const twentyOneLessons: BookSummary = {
           type: 'key',
           html: "El nacionalismo fue útil para problemas locales. Es irresponsable como respuesta a bombas nucleares, climatología y algoritmos globales.",
         },
+        {
+          type: 'paragraph',
+          html: "En ese clima político, las religiones vuelven a ofrecer identidad aunque no resuelvan los problemas técnicos.",
+        },
       ],
     },
     {
@@ -417,19 +449,23 @@ export const twentyOneLessons: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "¿Pueden las religiones tradicionales guiarnos en la era de la IA y el calentamiento global? Harari distingue tres tipos de problemas: <span class=\"term\">técnicos</span> (¿cómo regar con sequía?), de <span class=\"term\">política</span> (¿cómo prevenir el calentamiento?) y de <span class=\"term\">identidad</span> (¿me importan agricultores lejanos?).",
+          html: "¿Pueden las religiones tradicionales guiarnos en la era de la IA y el calentamiento global? Harari distingue tres tipos de problemas. Los <span class=\"term\">técnicos</span>, o sea, los que piden saber cómo regar con sequía. Los de <span class=\"term\">política</span>, o sea, cómo prevenir el calentamiento. Los de <span class=\"term\">identidad</span>, o sea, si me importan agricultores lejanos.",
         },
         {
           type: 'paragraph',
-          html: "Las religiones perdieron agricultura y medicina ante la ciencia, no porque la oración fallara, sino porque los sacerdotes eran genios de las excusas, no de la lluvia. En política económica, rabinos y ayatolás citan Marx o Friedman más que profetas. Donde sí importan es en identidad, y a menudo como parte del problema, no de la solución.",
+          html: "Las religiones perdieron agricultura y medicina ante la ciencia. No porque la oración fallara, sino porque los sacerdotes eran genios de las excusas, no de la lluvia. En política económica, rabinos y ayatolás citan Marx o Friedman más que profetas. Donde sí importan es en identidad. A menudo son parte del problema, no de la solución.",
         },
         {
           type: 'paragraph',
-          html: "Hoy Dios sirve a la nación: el judaísmo ortodoxo, el hinduismo nacionalista, el islamismo político y el cristianismo evangélico adaptan la fe a agendas estatales. Las Escrituras no resuelven ingeniería genética. Pueden movilizar millones para guerras santas o muros.",
+          html: "Hoy Dios sirve a la nación. El judaísmo ortodoxo, el hinduismo nacionalista, el islamismo político y el cristianismo evangélico adaptan la fe a agendas estatales. Las Escrituras no resuelven ingeniería genética. Pueden movilizar millones para guerras santas o muros.",
         },
         {
           type: 'key',
           html: "Las religiones son irrelevantes en lo técnico y secundarias en política económica, pero potentes y peligrosas en identidad colectiva.",
+        },
+        {
+          type: 'paragraph',
+          html: "Una de las fronteras donde esa identidad estalla con más fuerza es la inmigración.",
         },
       ],
     },
@@ -441,19 +477,23 @@ export const twentyOneLessons: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "La inmigración tensa sistemas políticos diseñados para tiempos menos fluidos. Europa prometió trascender diferencias entre franceses y alemanes. Podría fracturarse ante diferencias con migrantes de África y Oriente Medio. Los sirios prefieren Alemania a Arabia Saudita por su historial de acogida.",
+          html: "¿Por qué la inmigración fractura democracias que supuestamente trascendieron diferencias? Europa prometió superar la frontera entre franceses y alemanes. Podría fracturarse ante diferencias con migrantes de África y Oriente Medio. Los sirios prefieren Alemania a Arabia Saudita por su historial de acogida.",
         },
         {
           type: 'paragraph',
-          html: "Harari modela la inmigración como un trato de tres términos: (1) el país anfitrión deja entrar. (2) Los inmigrantes adoptan normas centrales del anfitrión. (3) Tras asimilación, se convierten en ciudadanos de pleno derecho. Cuatro debates separados, obligación vs favor, grado de asimilación, plazo para la igualdad, cumplimiento real, se mezclan en gritos cruzados.",
+          html: "Harari modela la inmigración como un trato de tres términos. Primero, el país anfitrión deja entrar. Segundo, los inmigrantes adoptan normas centrales del anfitrión. Tercero, tras asimilación, se convierten en ciudadanos de pleno derecho. Cuatro debates separados se mezclan en gritos cruzados: obligación versus favor, grado de asimilación, plazo para la igualdad y cumplimiento real.",
         },
         {
           type: 'paragraph',
-          html: "Pro-inmigración ve derecho moral a buscar mejor vida. Anti-inmigración ve privilegio del anfitrión de elegir. La asimilación plantea otra pregunta: ¿basta la tolerancia liberal o se exige adoptar una identidad nacional específica? Las escalas temporal colectiva (siglos) y personal (una generación) chocan: para el Estado, cuarenta años es poco. Para un joven nacido en Francia, es toda la vida.",
+          html: "Pro-inmigración ve derecho moral a buscar mejor vida. Anti-inmigración ve privilegio del anfitrión de elegir. La asimilación plantea otra pregunta. ¿Basta la tolerancia liberal o se exige adoptar una identidad nacional específica? Las escalas chocan. Para el Estado, cuarenta años es poco. Para un joven nacido en Francia, es toda la vida.",
         },
         {
           type: 'key',
           html: "Sin acuerdo sobre los tres términos del trato, el debate de inmigración seguirá siendo un campo de batalla cultural sin salida clara.",
+        },
+        {
+          type: 'paragraph',
+          html: "Otro miedo que alimenta el cierre de fronteras es el terrorismo, aunque sus números sean diminutos.",
         },
       ],
     },
@@ -465,15 +505,15 @@ export const twentyOneLessons: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Los terroristas son maestros del <span class=\"term\">control mental</span>: matan pocos pero aterrorizan a miles de millones. Desde <span class=\"num\">2001</span>, ~<span class=\"num\">50</span> muertos anuales por terrorismo en la UE vs ~<span class=\"num\">80.000</span> en accidentes de tráfico. El azúcar y la contaminación matan muchos más que las bombas.",
+          html: "¿Por qué un puñado de ataques paraliza continentes enteros? Los terroristas son maestros del <span class=\"term\">control mental</span>, es decir, de convertir pocas muertes en miedo masivo. En la UE, desde 2001, mueren unos 50 personas al año por terrorismo. En accidentes de tráfico europeos mueren unos 80.000. El azúcar y la contaminación matan muchos más que las bombas.",
         },
         {
           type: 'paragraph',
-          html: "El terrorismo es estrategia de actores débiles: cambiar la política mediante el miedo, no el daño material. Como la mosca que no puede romper la vajilla, entra en el oído del toro (Estados Unidos tras <span class=\"num\">9/11</span>) y este destruye la tienda (Oriente Medio). El enemigo conserva todas sus opciones militares. El estado pierde los nervios y sobre-reacciona.",
+          html: "El terrorismo es estrategia de actores débiles. Busca cambiar la política mediante el miedo, no el daño material. Como la mosca que no puede romper la vajilla, entra en el oído del toro. Después del 11-S, Estados Unidos destruyó la tienda en Oriente Medio. El enemigo conserva todas sus opciones militares. El estado pierde los nervios y sobre-reacciona.",
         },
         {
           type: 'paragraph',
-          html: "La legitimidad moderna exige un espacio público libre de violencia política. Un acto raro resuena como moneda en un frasco vacío. Matar a decenas en Bélgica impacta más que matar a cientos en Nigeria. La respuesta eficaz consiste en un teatro de seguridad mesurado, sin invasiones ni persecuciones masivas que alimenten el ciclo.",
+          html: "La legitimidad moderna exige un espacio público libre de violencia política. Un acto raro resuena como moneda en un frasco vacío. Matar a decenas en Bélgica impacta más que matar a cientos en Nigeria. La respuesta eficaz consiste en un teatro de seguridad mesurado. Invasiones y persecuciones masivas alimentan el ciclo.",
         },
         {
           type: 'big-numbers',
@@ -496,6 +536,10 @@ export const twentyOneLessons: BookSummary = {
           type: 'key',
           html: "Solo nosotros podemos derrotarnos ante el terrorismo. La provocación busca que abandonemos valores liberales en nombre de la seguridad.",
         },
+        {
+          type: 'paragraph',
+          html: "El terrorismo es raro, pero la guerra convencional sigue siendo un riesgo que no conviene subestimar.",
+        },
       ],
     },
     {
@@ -506,19 +550,23 @@ export const twentyOneLessons: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Vivimos la era más pacífica de la historia: la violencia causa ~<span class=\"num\">1%</span> de muertes humanas hoy vs ~<span class=\"num\">15%</span> en sociedades agrarias tempranas. Desde <span class=\"num\">2008</span>, no obstante, el belicismo regresa y el gasto militar crece.",
+          html: "¿Vivimos en paz o en la antesala de nuevos conflictos? Hoy la violencia causa ~<span class=\"num\">1%</span> de muertes humanas frente a ~<span class=\"num\">15%</span> en sociedades agrarias tempranas. Es la era más pacífica de la historia. El belicismo regresa desde 2008, no obstante, y el gasto militar crece.",
         },
         {
           type: 'paragraph',
-          html: "En <span class=\"num\">1914</span> la guerra parecía rentable: imperios construidos por conquista. En <span class=\"num\">2018</span> las guerras exitosas son especie en peligro. EE.UU. venció a la URSS sin guerra mayor. Irak y Afganistán fueron fiascos trillonarios. China no disparó un tiro desde su invasión fallida de Vietnam (<span class=\"num\">1979</span>).",
+          html: "En <span class=\"num\">1914</span> la guerra parecía rentable. Imperios se construían por conquista. En <span class=\"num\">2018</span> las guerras exitosas son especie en peligro. EE.UU. venció a la URSS sin guerra mayor. Irak y Afganistán fueron fiascos trillonarios. China no disparó un tiro desde su invasión fallida de Vietnam (<span class=\"num\">1979</span>).",
         },
         {
           type: 'paragraph',
-          html: "La única conquista importante del siglo XXI: Crimea (<span class=\"num\">2014</span>), circunstancias irrepetibles. Las guerras cibernéticas y económicas reemplazan invasiones. Sentarse en la valla y dejar que otros luchen puede ser la estrategia óptima. Aun así, la estupidez humana, armas nucleares y cambio climático mantienen el riesgo existencial.",
+          html: "La única conquista importante del siglo XXI fue Crimea (<span class=\"num\">2014</span>), en circunstancias irrepetibles. Las guerras cibernéticas y económicas reemplazan invasiones. Sentarse en la valla y dejar que otros luchen puede ser la estrategia óptima. Aun así, la estupidez humana, armas nucleares y cambio climático mantienen el riesgo existencial.",
         },
         {
           type: 'key',
           html: "No hay que subestimar la estupidez humana. Los líderes pueden arrastrarnos a conflictos cuyo «éxito» militar ya no existe como en el siglo XIX.",
+        },
+        {
+          type: 'paragraph',
+          html: "Antes de imponer nuestras certezas al mundo, Harari pide humildad histórica.",
         },
       ],
     },
@@ -530,19 +578,23 @@ export const twentyOneLessons: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Cada cultura cree ser el eje de la historia: griegos con Platón, chinos con el Emperador Amarillo, hindúes con aviones védicos, musulmanes con la ummah. Todas esas afirmaciones combinan ignorancia histórica con racismo encubierto.",
+          html: "¿Por qué cada cultura cree ser el eje de la historia? Griegos con Platón, chinos con el Emperador Amarillo, hindúes con aviones védicos, musulmanes con la ummah. Todas esas afirmaciones combinan ignorancia histórica con racismo encubierto.",
         },
         {
           type: 'paragraph',
-          html: "La moralidad, el arte y la creatividad son capacidades humanas universales nacidas en África hace cientos de miles de años — no en Grecia, China o Arabia. Harari usa el judaísmo como ejemplo auto-crítico: el Talmud importa más que el Pentateuco para los judíos, pero fue el cristianismo quien globalizó la Biblia hebrea.",
+          html: "La moralidad, el arte y la creatividad son capacidades humanas universales. Nacieron en África hace cientos de miles de años, no en Grecia, China o Arabia. Harari usa el judaísmo como ejemplo auto-crítico. El Talmud importa más que el Pentateuco para los judíos. Pero fue el cristianismo quien globalizó la Biblia hebrea.",
         },
         {
           type: 'paragraph',
-          html: "Judaísmo como la madre de Freud: crucial para un hijo famoso, pero no el protagonista de la historia universal. Monedas, universidades, parlamentos e imprenta fueron inventos gentiles. La humildad histórica no es autodesprecio: es ver el cuadro completo sin egotismo tribal.",
+          html: "Judaísmo como la madre de Freud: crucial para un hijo famoso, pero no el protagonista de la historia universal. Monedas, universidades, parlamentos e imprenta fueron inventos gentiles. La humildad histórica no es autodesprecio. Es ver el cuadro completo sin egotismo tribal.",
         },
         {
           type: 'key',
           html: "Ningún pueblo es el centro del cosmos. La ética y la sabiduría son patrimonio de toda la especie, no de una tradición exclusiva.",
+        },
+        {
+          type: 'paragraph',
+          html: "Esa humildad también aplica a cómo invocamos a Dios en debates públicos.",
         },
       ],
     },
@@ -554,11 +606,11 @@ export const twentyOneLessons: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "¿Existe Dios? Depende de cuál. El <span class=\"term\">misterio cósmico</span>, por qué hay algo, qué es la conciencia, es el Dios de los filósofos, sobre el que no podemos decir nada concreto. El <span class=\"term\">legislador mundano</span> es el Dios de cruzados y yihadistas, sobre el que supuestamente sabemos demasiado: faldas, alcohol, sexo, política.",
+          html: "¿Existe Dios? Depende de cuál. El <span class=\"term\">misterio cósmico</span>, o sea, el enigma de por qué hay algo y qué es la conciencia, es el Dios de los filósofos. Sobre él no podemos decir nada concreto. El <span class=\"term\">legislador mundano</span>, es decir, un Dios que dicta leyes sobre faldas y votos, es el de cruzados y yihadistas. Sobre él supuestamente sabemos demasiado.",
         },
         {
           type: 'paragraph',
-          html: "Los fieles invocan el misterio del Big Bang y, como un truco de magia, lo sustituyen por leyes mundanas: «no entendemos el origen del universo, luego cúbrete el pelo y vota contra el matrimonio gay». El eslabón perdido es un libro sagrado lleno de ritual menor atribuido al creador del espacio-tiempo, escrito, según la ciencia, por <em>Homo sapiens</em> imaginativos.",
+          html: "Los fieles invocan el misterio del Big Bang. Luego, como un truco de magia, lo sustituyen por leyes mundanas. «No entendemos el origen del universo, luego cúbrete el pelo y vota contra el matrimonio gay». El eslabón perdido es un libro sagrado lleno de ritual menor. La ciencia lo atribuye a <em>Homo sapiens</em> imaginativos, no al creador del espacio-tiempo.",
         },
         {
           type: 'paragraph',
@@ -567,6 +619,10 @@ export const twentyOneLessons: BookSummary = {
         {
           type: 'key',
           html: "Invocar al Dios misterioso para justificar reglas tribales es el uso indebido del nombre que el mandamiento prohíbe.",
+        },
+        {
+          type: 'paragraph',
+          html: "Una alternativa a esas reglas divinas es el secularismo, entendido como código de valores, no como mera ausencia de fe.",
         },
       ],
     },
@@ -578,19 +634,23 @@ export const twentyOneLessons: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El <span class=\"term\">secularismo</span> no es simple negación de religión: es código de valores positivo basado en verdad (observación y evidencia), <span class=\"term\">compasión</span>, igualdad, libertad, coraje y responsabilidad. Millones de musulmanes, cristianos e hindúes comparten estos valores.",
+          html: "¿El <span class=\"term\">secularismo</span>, es decir, la orientación hacia valores independientes de revelación, es solo negación de religión? Harari lo define como código positivo basado en verdad y <span class=\"term\">compasión</span>, o sea, preocupación por el sufrimiento ajeno. También incluye igualdad, libertad, coraje y responsabilidad. Millones de musulmanes, cristianos e hindúes comparten estos valores.",
         },
         {
           type: 'paragraph',
-          html: "Los seculares no monopolizan la verdad: la santifican donde aparezca — fósiles, galaxias, estadísticas. Abstenerse de matar por compasión al sufrimiento, no porque un libro lo prohíba. Ante dilemas (impuestos, guerras, refugiados), se sopesan daños, no se consulta «¿qué manda Dios?».",
+          html: "Los seculares no monopolizan la verdad. La santifican en fósiles, galaxias y estadísticas. Abstenerse de matar por compasión al sufrimiento, no porque un libro lo prohíba. Cuando hay dilemas de impuestos, guerras o refugiados, se sopesan daños.",
         },
         {
           type: 'paragraph',
-          html: "El ideal secular queda corto en la práctica (Robespierre, guillotina), como las sociedades cristianas incumplen el Evangelio. La sombra secular incluye arrogancia científica, crueldad burocrática y fe ciega en el progreso. Reconocerla es el primer paso para un humanismo honesto.",
+          html: "El ideal secular queda corto en la práctica. Robespierre y la guillotina son ejemplo. Las sociedades cristianas incumplen el Evangelio. La sombra secular incluye arrogancia científica, crueldad burocrática y fe ciega en el progreso. Reconocerla es el primer paso para un humanismo honesto.",
         },
         {
           type: 'key',
           html: "Ser secular es comprometerse con la verdad y la compasión sabiendo que ningún grupo, ni siquiera los ateos, tiene monopolio de la sabiduría.",
+        },
+        {
+          type: 'paragraph',
+          html: "Ese humanismo parte de admitir cuánto ignoramos, no de presumir saberlo todo.",
         },
       ],
     },
@@ -602,19 +662,23 @@ export const twentyOneLessons: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Nadie puede procesar todo lo descrito en este libro — y eso es correcto. El mito del individuo racional sustenta democracia, mercado y educación liberal. Pero la mayoría de decisiones son emocionales y heurísticas, inadecuadas para la era del silicio.",
+          html: "¿Cuánto sabemos realmente de lo que opinamos? Nadie puede procesar todo lo descrito en este libro, y eso es correcto. El mito del individuo racional sustenta democracia, mercado y educación liberal. Pero la mayoría de decisiones son emocionales y heurísticas. Son inadecuadas para la era del silicio.",
         },
         {
           type: 'paragraph',
-          html: "La <span class=\"term\">ilusión del conocimiento</span> (Sloman y Fernbach): creemos entender un cierre porque lo usamos, pero no podemos explicar su mecanismo. Confiar en el saber colectivo funcionó en la sabana. Hoy ignoramos meteorología, biología e Irak pero opinamos con fuerza. Agregar más datos tampoco convence a quien fortalece su lealtad grupal.",
+          html: "La <span class=\"term\">ilusión del conocimiento</span>, o sea, creer que entendemos algo solo porque lo usamos, fue estudiada por Sloman y Fernbach. En realidad no podemos explicar su mecanismo. Confiar en el saber colectivo funcionó en la sabana. Hoy ignoramos meteorología, biología e Irak pero opinamos con fuerza. Agregar más datos tampoco convence a quien fortalece su lealtad grupal.",
         },
         {
           type: 'paragraph',
-          html: "El poder también distorsiona la verdad. Quien gobierna no tiene tiempo para pensar profundamente. Cada visitante tiene agenda. Netanyahu en una cena de treinta personas: todos compiten por impresionar, nadie dice secretos grandes. La verdad revolucionaria vive en la periferia, llena de basura pero ocasionalmente brillante.",
+          html: "El poder también distorsiona la verdad. Quien gobierna no tiene tiempo para pensar profundamente. Cada visitante tiene agenda. <span class=\"person\">Benjamin Netanyahu</span> en una cena de treinta personas: todos compiten por impresionar, nadie dice secretos grandes. La verdad revolucionaria vive en la periferia, llena de basura pero ocasionalmente brillante.",
         },
         {
           type: 'key',
-          html: "Como ya enseñaba Sócrates, lo mejor es reconocer la propia ignorancia: una base escasa pero honesta para la moral y la justicia.",
+          html: "Como ya enseñaba Sócrates, lo mejor es reconocer la propia ignorancia. Es una base escasa pero honesta para la moral y la justicia.",
+        },
+        {
+          type: 'paragraph',
+          html: "Reconocer ignorancia no basta por sí solo. La justicia exige marcos que nuestra moral tribal no alcanza.",
         },
       ],
     },
@@ -626,7 +690,7 @@ export const twentyOneLessons: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "La justicia evolucionó en bandas de cazadores-recolectores: ¿comparto la caza? ¿puedo arrebatar hongos al más fuerte? Los dilemas del siglo XXI, Siria, desigualdad global, clima, parecen versiones ampliadas, pero el <span class=\"term\">tamaño importa</span>: no estamos adaptados a escala planetaria.",
+          html: "¿Por qué los dilemas morales del siglo XXI nos desbordan? La justicia evolucionó en bandas de cazadores-recolectores. Allí importaba si compartías la caza o si podías arrebatar hongos al más fuerte. Los dilemas actuales parecen versiones ampliadas. El punto clave es que el <span class=\"term\">tamaño importa</span>, o sea, que no estamos adaptados a escala planetaria.",
         },
         {
           type: 'paragraph',
@@ -634,11 +698,15 @@ export const twentyOneLessons: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Harari no ofrece fórmulas pero advierte: aplicar moral de aldea a problemas globales produce injusticias nuevas. Necesitamos nuevos marcos — no abandonar compasión, sino repensarla para miles de millones conectados.",
+          html: "Harari no ofrece fórmulas pero advierte. Aplicar moral de aldea a problemas globales produce injusticias nuevas. Necesitamos nuevos marcos. No abandonar compasión, sino repensarla para miles de millones conectados.",
         },
         {
           type: 'key',
-          html: "Nuestro radar moral es ancestral. Los problemas son planetarios — la justicia del siglo XXI requiere imaginación que la evolución no nos regaló.",
+          html: "Nuestro radar moral es ancestral. Los problemas son planetarios. La justicia del siglo XXI requiere imaginación que la evolución no nos regaló.",
+        },
+        {
+          type: 'paragraph',
+          html: "Esa imaginación choca con una especie que siempre vivió entre hechos y ficciones útiles.",
         },
       ],
     },
@@ -650,19 +718,23 @@ export const twentyOneLessons: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Vivimos «posverdad», dicen. Putin negó tropas rusas en Crimea mientras mentía deliberadamente. Pero ¿cuándo fue la edad de oro de la verdad? La propaganda y naciones ficticias tienen larga historia: Manchukuo (<span class=\"num\">1931</span>), <em>terra nullius</em> en Australia, «pueblo sin tierra» sionista.",
+          html: "¿Vivimos en una era de mentiras sin precedentes? Se dice que estamos en «posverdad». <span class=\"person\">Vladimir Putin</span> negó tropas rusas en Crimea mientras mentía deliberadamente. Pero ¿cuándo fue la edad de oro de la verdad? La propaganda y naciones ficticias tienen larga historia.",
         },
         {
           type: 'paragraph',
-          html: "<em>Homo sapiens</em> es especie <span class=\"term\">posverdad</span>: cooperamos masivamente creyendo ficciones compartidas. Religiones son fake news que duran milenios — eficaces para hospitales y catedrales, no por ser factualmente verdaderas. Distinguir «fake news» de «religión» es proteger sentimientos, no epistemología.",
+          html: "<em>Homo sapiens</em> es especie <span class=\"term\">posverdad</span>, o sea, cooperamos masivamente creyendo ficciones compartidas. Religiones son fake news que duran milenios. Son eficaces para hospitales y catedrales, no por ser factualmente verdaderas. Distinguir «fake news» de «religión» es proteger sentimientos, no epistemología.",
         },
         {
           type: 'paragraph',
-          html: "El peligro actual no es la mentira nueva sino la combinación de ficciones antiguas con algoritmos que personalizan la desinformación. La ciencia ofrece corrección colectiva. Las historias tribales ofrecen pertenencia — ambas compiten por la misma mente.",
+          html: "El peligro actual no es la mentira nueva sino la combinación de ficciones antiguas con algoritmos que personalizan la desinformación. La ciencia ofrece corrección colectiva. Las historias tribales ofrecen pertenencia. Ambas compiten por la misma mente.",
         },
         {
           type: 'key',
           html: "Siempre vivimos entre ficción y hecho. El reto es cultivar instituciones que corrijan errores sin destruir la cooperación que las ficciones posibilitan.",
+        },
+        {
+          type: 'paragraph',
+          html: "Una de esas ficciones más influyentes sobre el futuro llega disfrazada de entretenimiento.",
         },
       ],
     },
@@ -674,19 +746,23 @@ export const twentyOneLessons: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "La ciencia ficción moldea cómo entendemos IA y biotecnología más que los papers científicos. <em>Matrix</em>, <em>Her</em>, <em>Westworld</em> y <em>Black Mirror</em> son el currículo popular del futuro — con responsabilidad enorme.",
+          html: "¿Qué películas moldean nuestra idea del futuro? La ciencia ficción influye en cómo entendemos IA y biotecnología más que los papers científicos. <em>Matrix</em>, <em>Her</em>, <em>Westworld</em> y <em>Black Mirror</em> son el currículo popular del futuro. Tienen responsabilidad enorme.",
         },
         {
           type: 'paragraph',
-          html: "El mayor pecado del género consiste en confundir <span class=\"term\">inteligencia</span> con <span class=\"term\">conciencia</span>. Debemos temer la brecha entre élite algorítmica y masa irrelevante, no guerra robots vs humanos — <span class=\"person\">Karl Marx</span> guía mejor que <span class=\"person\">Steven Spielberg</span>. <em>Ex Machina</em> habla del miedo masculino al poder femenino, no de cibernética.",
+          html: "El mayor pecado del género consiste en confundir <span class=\"term\">inteligencia</span>, o sea, capacidad de resolver problemas, con otra cosa. Confunde eso con <span class=\"term\">conciencia</span>, es decir, experiencia subjetiva. Debemos temer la brecha entre élite algorítmica y masa irrelevante, no guerra robots versus humanos.",
         },
         {
           type: 'paragraph',
-          html: "<em>Matrix</em> y <em>The Truman Show</em> asumen un yo auténtico más allá de la manipulación — pero la autenticidad misma puede ser ilusión neuronal. Escapar de una caja solo revela una caja mayor. La ciencia ficción responsable debe mostrar vigilancia algorítmica y desigualdad de clases, no androides conscientes rebeldes.",
+          html: "<em>Matrix</em> y <em>The Truman Show</em> asumen un yo auténtico más allá de la manipulación. <span class=\"person\">Karl Marx</span> guía mejor que <span class=\"person\">Steven Spielberg</span> para leer el futuro real. <em>Ex Machina</em> habla del miedo masculino al poder femenino, no de cibernética. Pero la autenticidad misma puede ser ilusión neuronal. Escapar de una caja solo revela una caja mayor. La ciencia ficción responsable debe mostrar vigilancia algorítmica y desigualdad de clases, no androides conscientes rebeldes.",
         },
         {
           type: 'key',
-          html: "El futuro real no parece película de acción: parece concentración de datos, manipulación emocional y bifurcación biológica de la especie.",
+          html: "El futuro real no parece película de acción. Parece concentración de datos, manipulación emocional y bifurcación biológica de la especie.",
+        },
+        {
+          type: 'paragraph',
+          html: "Para afrontar ese futuro, la escuela debe enseñar algo distinto de lo que enseñaba hace un siglo.",
         },
       ],
     },
@@ -698,19 +774,23 @@ export const twentyOneLessons: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Un bebé de hoy tendrá treinta y pico en <span class=\"num\">2050</span> y podría vivir hasta el siglo XXII. ¿Qué enseñarle? En <span class=\"num\">1018</span> sabían que en <span class=\"num\">1050</span> seguirían siendo agricultores. Hoy no sabemos qué trabajos existirán ni qué significará «ser humano».",
+          html: "¿Qué enseñar a un bebé que tendrá treinta y pico en <span class=\"num\">2050</span>? Podría vivir hasta el siglo XXII. En <span class=\"num\">1018</span> sabían que en <span class=\"num\">1050</span> seguirían siendo agricultores. Hoy no sabemos qué trabajos existirán ni qué significará «ser humano».",
         },
         {
           type: 'paragraph',
-          html: "Las escuelas acumulan información cuando sobra y falta sentido. En el siglo XXI el desafío es discernir lo importante, construir panorama global y resistir distracciones. Los «cuatro C»: pensamiento crítico, comunicación, colaboración, creatividad — más <span class=\"term\">reinvención personal</span> continua.",
+          html: "Las escuelas acumulan información cuando sobra y falta sentido. En el siglo XXI el desafío es discernir lo importante, construir panorama global y resistir distracciones. Los «cuatro C» son pensamiento crítico, comunicación, colaboración y creatividad. Harari suma la <span class=\"term\">reinvención personal</span>, o sea, volver a aprender y reorientarse a lo largo de la vida.",
         },
         {
           type: 'paragraph',
-          html: "El modelo vida de aprendizaje + vida de trabajo se rompe: con longevidad y cambio acelerado, habrá que reinventarse a los 25, 35, 45… La resiliencia emocional ante lo desconocido importa más que saber C++ o chino — quizá obsoletos antes de los treinta.",
+          html: "El modelo vida de aprendizaje más vida de trabajo se rompe. La longevidad y el cambio acelerado obligan a reinventarse a los 25, 35 y 45. La resiliencia emocional ante lo desconocido importa más que saber C++ o chino. Quizá obsoletos antes de los treinta.",
         },
         {
           type: 'key',
           html: "Enseñar a aprender, a adaptarse y a mantener equilibrio mental: las únicas certezas en un mundo donde hasta el cuerpo y la mente serán ingeniería.",
+        },
+        {
+          type: 'paragraph',
+          html: "Aprender a adaptarse no responde, sin embargo, la pregunta más íntima: para qué vivir.",
         },
       ],
     },
@@ -722,19 +802,23 @@ export const twentyOneLessons: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "¿Quién soy? ¿Para qué vivir? Casi siempre la búsqueda de sentido adopta la forma de una <span class=\"term\">historia</span>: el círculo eterno del <em>Bhagavad Gita</em> y <em>El rey león</em>, la línea temporal del Islam o el sionismo, la lucha de clases marxista. Cada relato asigna un papel cósmico que da sentido a lo cotidiano.",
+          html: "¿Para qué vivir si no hay un guion cósmico? Casi siempre la búsqueda de sentido adopta la forma de una <span class=\"term\">historia</span>, o sea, un relato con papel asignado. El círculo eterno del <em>Bhagavad Gita</em> y <em>El rey león</em> son ejemplos. También la línea temporal del Islam o el sionismo, o la lucha de clases marxista. Cada relato asigna un papel cósmico que da sentido a lo cotidiano.",
         },
         {
           type: 'paragraph',
-          html: "Pero la vida no es una narración con clímax y final feliz. Los acontecimientos son tejido caótico. Forzar arco dramático distorsiona la realidad y alimenta fanatismos — «Jerusalén eterna» frente a milenios de historia real. Las historias pequeñas (nación, religión) ignoran la escala cósmica.",
+          html: "Pero la vida no es una narración con clímax y final feliz. Los acontecimientos son tejido caótico. Forzar arco dramático distorsiona la realidad y alimenta fanatismos. «Jerusalén eterna» choca con milenios de historia real. Las historias pequeñas de nación o religión ignoran la escala cósmica.",
         },
         {
           type: 'paragraph',
-          html: "El liberalismo ofreció libertad individual en lugar de papel cósmico — pero sin narrativa sustituta, muchos vuelven a mitos tribales. Harari no proscribe búsqueda de sentido: advierte que confundir ficción con destino puede destruir planetas y personas por «eternidad» de cinco mil años.",
+          html: "El liberalismo ofreció libertad individual en lugar de papel cósmico. Muchos vuelven a mitos tribales cuando falta una narrativa sustituta. Harari no proscribe búsqueda de sentido. Advierte que confundir ficción con destino puede destruir planetas y personas por «eternidad» de cinco mil años.",
         },
         {
           type: 'key',
           html: "El significado puede encontrarse sin creer que el universo es una novela en la que tú eres el protagonista predestinado.",
+        },
+        {
+          type: 'paragraph',
+          html: "Harari cierra el libro con la práctica personal que él usa para mirar la mente sin nuevas mitologías.",
         },
       ],
     },
@@ -746,15 +830,15 @@ export const twentyOneLessons: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Después de criticar tantas historias, Harari explica su propia práctica: <span class=\"term\">Vipassana</span> (introspección), aprendida con <span class=\"person\">S. N. Goenka</span> en <span class=\"num\">2000</span>. No es misticismo New Age: observar la respiración en las fosas nasales, sin controlar ni juzgar — «solo observa la realidad del momento presente».",
+          html: "¿Qué hace un historiador escéptico cuando deja de confiar en las grandes historias? Harari explica su propia práctica: <span class=\"term\">Vipassana</span>, o sea, meditación de introspección, aprendida con <span class=\"person\">S. N. Goenka</span> en <span class=\"num\">2000</span>. No es misticismo New Age. Consiste en observar la respiración en las fosas nasales, sin controlar ni juzgar.",
         },
         {
           type: 'paragraph',
-          html: "La pregunta real no es qué pasa al morir sino qué pasa antes de morir. Cuerpo, cerebro y mente cambian cada instante. Nada permanece de momento a momento. Entre nosotros y el mundo siempre hay <span class=\"term\">sensaciones corporales</span>. Reaccionamos a ellas, no a «la nación» ni a un tuit. El sufrimiento surge de patrones mentales, no solo de condiciones externas.",
+          html: "La pregunta real no es qué pasa al morir sino qué pasa antes de morir. Cuerpo, cerebro y mente cambian cada instante. Nada permanece de momento a momento. Entre nosotros y el mundo siempre hay <span class=\"term\">sensaciones corporales</span>, es decir, señales físicas que sentimos antes de interpretarlas. Reaccionamos a ellas, no a «la nación» ni a un tuit. El sufrimiento surge de patrones mentales, no solo de condiciones externas.",
         },
         {
           type: 'paragraph',
-          html: "Dos horas diarias de meditación y retiros anuales no son escape: son contacto con la realidad que posibilitó escribir <em>Sapiens</em> y <em>Homo Deus</em>. La meditación también complementa a la ciencia: el estudio de la mente necesita observación directa además de escáneres y estadísticas.",
+          html: "Dos horas diarias de meditación y retiros anuales no son escape. Son contacto con la realidad que posibilitó escribir <em>Sapiens</em> y <em>Homo Deus</em>. La meditación también complementa a la ciencia. El estudio de la mente necesita observación directa además de escáneres y estadísticas.",
         },
         {
           type: 'quote',
@@ -887,7 +971,7 @@ export const twentyOneLessons: BookSummary = {
   "Observar la propia mente, sin nuevas mitologías, puede sostener la lucidez en tiempos de desconcierto.",
   "El futuro no está escrito; tampoco está garantizado."
 ],
-    highlight: "La claridad — sobre tecnología, política, ignorancia y ficciones — es el primer paso para decisiones conscientes antes de que el mercado o los algoritmos decidan por nosotros.",
+    highlight: "La claridad sobre tecnología, política, ignorancia y ficciones es el primer paso para decisiones conscientes antes de que el mercado o los algoritmos decidan por nosotros.",
   },
   footer: {
     line1: "Resumen generado a partir de la obra de Yuval Noah Harari",

@@ -88,11 +88,15 @@ export const experienceMachine: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "<span class=\"person\">Andy Clark</span> espera backstage en el festival <span class=\"term\">New Scientist Live</span> cuando siente una vibración clara en el bolsillo. Su teléfono no está ahí: lo dejó bajo el podio en modo avión. Es un <span class=\"term\">síndrome de vibración fantasma</span>, fenómeno moderno donde el cerebro espera tanto el zumbido habitual que lo fabrica.",
+          html: "¿Por qué sentimos el móvil vibrar cuando no está en el bolsillo? El filósofo cognitivo <span class=\"person\">Andy Clark</span> espera backstage en el festival <span class=\"term\">New Scientist Live</span> (feria británica de divulgación científica). Siente una vibración clara en el bolsillo, pero su teléfono no está ahí: lo dejó bajo el podio en modo avión.",
         },
         {
           type: 'paragraph',
-          html: "Un estudio de <span class=\"num\">2012</span> encontró que el <span class=\"num\">89%</span> de universitarios reportaba esas sensaciones, sobre todo bajo estrés. En <span class=\"num\">2013</span> Australia la eligió «palabra del año». Clark encaja el fenómeno en la tesis del libro. Según el <span class=\"term\">procesamiento predictivo</span>, la realidad vivida se arma desde nuestras propias predicciones, no solo desde el mundo externo.",
+          html: "Es un <span class=\"term\">síndrome de vibración fantasma</span>, o sea, una sensación fabricada por el cerebro porque espera el zumbido habitual del móvil. Un estudio de <span class=\"num\">2012</span> encontró que el <span class=\"num\">89%</span> de universitarios reportaba esas sensaciones, sobre todo bajo estrés. En <span class=\"num\">2013</span> Australia la eligió «palabra del año».",
+        },
+        {
+          type: 'paragraph',
+          html: "Clark encaja el fenómeno en la tesis del libro. Según el <span class=\"term\">procesamiento predictivo</span>, es decir, la idea de que el cerebro adivina antes de mirar, la realidad vivida se arma desde nuestras propias predicciones. No solo desde el mundo externo.",
         },
         {
           type: 'paragraph',
@@ -107,6 +111,10 @@ export const experienceMachine: BookSummary = {
           type: 'key',
           html: "La experiencia es siempre un encuentro entre <span class=\"key-term\">predicciones informadas</span> y estimulación sensorial, nunca un reflejo desnudo del mundo.",
         },
+        {
+          type: 'paragraph',
+          html: "Si la experiencia se construye así, conviene abrir el mecanismo: cómo el cerebro predice antes de percibir.",
+        },
       ],
     },
     {
@@ -117,19 +125,19 @@ export const experienceMachine: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Clark despierta antes de la alarma y oye canto de pájaros en un cuarto silencioso. Su pareja usa una app que simula un coro matutino gradual. El cerebro, entrenado por esa rutina, alucina auditivamente el inicio del chirp aunque la alarma no suene y no haya pájaros reales tras el doble vidrio.",
+          html: "¿Por qué oímos pájaros que aún no cantan? Clark despierta antes de la alarma y oye canto de pájaros en un cuarto silencioso. Su pareja usa una app que simula un coro matutino gradual. El cerebro, entrenado por esa rutina, alucina auditivamente el inicio del chirp.",
         },
         {
           type: 'paragraph',
-          html: "Esas alucinaciones breves se corrigen cuando llega evidencia de silencio mediante señales de <span class=\"term\">error de predicción</span>. Pero cuando las expectativas son fuertes o la evidencia es sutil, la predicción puede sobreescribir la señal real. El cerebro no espera pasivamente. Intenta alucinar el mundo y deja que los sentidos empuen el pincel cuando falla.",
+          html: "La alarma no suena y no hay pájaros reales tras el doble vidrio. Esas alucinaciones breves se corrigen cuando llega evidencia de silencio. Surgen señales de <span class=\"term\">error de predicción</span>, o sea, la diferencia entre lo esperado y lo que llega por los sentidos. Cuando las expectativas son fuertes o la evidencia es sutil, la predicción puede sobreescribir la señal real.",
         },
         {
           type: 'paragraph',
-          html: "Durante décadas dominó el modelo de la <span class=\"term\">cámara inteligente</span>. La información visual avanzaba en capas desde la retina hacia abstracciones, como en <span class=\"person\">David Marr</span> o en <span class=\"person\">Descartes</span> (<span class=\"num\">1664</span>). El procesamiento predictivo invierte el flujo. Las predicciones profundas bajan hasta la piel y los ojos, y solo sube lo inesperado. Esa lógica recuerda la codificación predictiva lineal de <span class=\"person\">Claude Shannon</span> (<span class=\"num\">1948</span>) o formatos como JPEG y MP3.",
+          html: "El cerebro no espera pasivamente. Intenta alucinar el mundo y deja que los sentidos empuen el pincel cuando falla. Durante décadas dominó el modelo de la <span class=\"term\">cámara inteligente</span>, la visión clásica de que la información visual sube capa a capa desde la retina. David Marr y Descartes (<span class=\"num\">1664</span>) pensaron así.",
         },
         {
           type: 'paragraph',
-          html: "Varias demos perceptivas lo confirman. En una cuadrícula ambigua, ver «13» o «B» cambia la experiencia del mismo trazo central. Escuchar «White Christmas» distorsionado o decodificar <span class=\"term\">sine-wave speech</span> muestra cómo el conocimiento previo transforma lo auditivo. La percepción es pintura guiada por historia y necesidades, no fotografía instantánea.",
+          html: "El procesamiento predictivo invierte el flujo. Las predicciones profundas bajan hasta la piel y los ojos, y solo sube lo inesperado. Esa lógica recuerda la codificación predictiva lineal de <span class=\"person\">Claude Shannon</span> (<span class=\"num\">1948</span>) o formatos como JPEG y MP3. En una cuadrícula ambigua, ver «13» o «B» cambia la experiencia del mismo trazo central. Escuchar «White Christmas» distorsionado muestra cómo el conocimiento previo transforma lo auditivo.",
         },
         {
           type: 'concept-grid',
@@ -155,6 +163,10 @@ export const experienceMachine: BookSummary = {
           type: 'key',
           html: "Percepción exitosa es <span class=\"key-term\">alucinación controlada</span>: predicción lidera y la evidencia sensorial corrige.",
         },
+        {
+          type: 'paragraph',
+          html: "Si percepción y dolor comparten ese motor, la clínica debe unificar psiquiatría y neurología.",
+        },
       ],
     },
     {
@@ -165,19 +177,19 @@ export const experienceMachine: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Un obrero ve un clavo de <span class=\"num\">15 cm</span> atravesando su bota y siente dolor agónico hasta que los médicos descubren que el clavo pasó entre los dedos sin lesionarlo. El dolor fue real pero generado por predicciones visuales de lesión grave, no por daño tisular.",
+          html: "¿Puede el dolor ser real sin lesión? Un obrero ve un clavo de <span class=\"num\">15 cm</span> atravesando su bota. Siente dolor agónico hasta que los médicos descubren que el clavo pasó entre los dedos sin lesionarlo. El dolor fue real pero generado por predicciones visuales de lesión grave, no por daño tisular.",
         },
         {
           type: 'paragraph',
-          html: "Los nociceptores aportan evidencia, pero no son lo que sentimos. Podemos sentir dolor sin ellos o no sentirlo con actividad intensa si la acción urgente domina. <span class=\"person\">Helmholtz</span> ya hablaba de inferencia inconsciente. El marco unifica percepción externa e interna y erosiona el dualismo psiquiatría/neurología.",
+          html: "Los nociceptores aportan evidencia, pero no son lo que sentimos. Podemos sentir dolor sin ellos o no sentirlo con actividad intensa si la acción urgente domina. <span class=\"person\">Helmholtz</span>, fisiólogo del siglo XIX, ya hablaba de inferencia inconsciente. El marco unifica percepción externa e interna y erosiona el dualismo psiquiatría/neurología.",
         },
         {
           type: 'paragraph',
-          html: "El dolor crónico afecta hasta el <span class=\"num\">10%</span> de la población mundial. En el Reino Unido, entre un tercio y la mitad de las personas lo padecen. En <span class=\"num\">2016</span>, tras reconocer categorías nociceptiva y neuropática, la medicina añadió el <span class=\"term\">dolor nociplástico</span>, definido como procesamiento anómalo sin daño claro. <span class=\"person\">Irene Tracey</span> mostró con fMRI que expectativas y creencias religiosas modulan circuitos del dolor. El dentista que llama «cosquilleo suave» al taladro altera la experiencia.",
+          html: "El dolor crónico afecta hasta el <span class=\"num\">10%</span> de la población mundial. En el Reino Unido, entre un tercio y la mitad de las personas lo padecen. En <span class=\"num\">2016</span> la medicina añadió el <span class=\"term\">dolor nociplástico</span>, o sea, dolor por procesamiento anómalo sin daño claro. Ya reconocía categorías nociceptiva y neuropática. <span class=\"person\">Irene Tracey</span> mostró con fMRI que expectativas y creencias religiosas modulan circuitos del dolor.",
         },
         {
           type: 'paragraph',
-          html: "Los <span class=\"term\">trastornos funcionales</span> incluyen parálisis, ceguera o temblor sin causa estructural. Son reales, no simulación, y representan alrededor del <span class=\"num\">16%</span> de derivaciones neurológicas nuevas. Un defecto visual «tubular» imposible ópticamente revela predicciones de túnel uniforme. <span class=\"person\">Jon Stone</span> trató a una adolescente ciega funcional cuya aversión a la luz entrenó predicciones de oscuridad. Las expectativas falsas se auto-confirman cuando cada exposición parece validarlas.",
+          html: "Los <span class=\"term\">trastornos funcionales</span>, o sea, parálisis o ceguera sin causa estructural, son reales y no simulación. Representan alrededor del <span class=\"num\">16%</span> de derivaciones neurológicas nuevas. Un defecto visual «tubular» imposible ópticamente revela predicciones de túnel uniforme. <span class=\"person\">Jon Stone</span>, neurólogo escocés, trató a una adolescente ciega funcional cuya aversión a la luz entrenó predicciones de oscuridad. Las expectativas falsas se auto-confirman cuando cada exposición parece validarlas.",
         },
         {
           type: 'concept-grid',
@@ -203,6 +215,10 @@ export const experienceMachine: BookSummary = {
           type: 'key',
           html: "El dolor y los síntomas funcionales son <span class=\"key-term\">construcciones predictivas</span> tan reales como ver un escarabajo rojo.",
         },
+        {
+          type: 'paragraph',
+          html: "La percepción corrige predicciones; la acción las cumple moviendo cuerpo y mundo.",
+        },
       ],
     },
     {
@@ -213,23 +229,27 @@ export const experienceMachine: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "La acción no es un apéndice de la percepción: es el lugar donde el cerebro debe «ganarse» metabólicamente su costo evolutivo. Según la <span class=\"term\">inferencia activa</span>, los movimientos se causan prediciendo las sensaciones que ocurrirían si ya los estuviéramos ejecutando.",
+          html: "¿Por qué movemos el cuerpo si el cerebro solo quiere predecir bien? La acción no es un apéndice de la percepción. Es el lugar donde el cerebro debe «ganarse» metabólicamente su costo evolutivo. Según la <span class=\"term\">inferencia activa</span>, o sea, actuar es cumplir predicciones sensoriales. Los movimientos se causan prediciendo las sensaciones que ocurrirían si ya los estuviéramos ejecutando.",
         },
         {
           type: 'paragraph',
-          html: "La <span class=\"term\">teoría ideomotora</span> de <span class=\"person\">Hermann Lotze</span> y <span class=\"person\">William James</span> sostenía que la imagen del efecto completado provoca la acción. Clark ilustra el punto con una marioneta. Tirar del hilo de la mano mueve hombro y codo sin planificarlos. El cerebro aprende qué vería y sentiría si una fuerza externa tirara hacia la meta, y esas predicciones proprioceptivas actúan como comandos motores.",
+          html: "La <span class=\"term\">teoría ideomotora</span>, o sea, la idea de que imaginar el efecto provoca la acción, la formuló <span class=\"person\">William James</span> y otros. Clark ilustra el punto con una marioneta. Tirar del hilo de la mano mueve hombro y codo sin planificarlos. El cerebro aprende qué vería y sentiría si una fuerza externa tirara hacia la meta.",
         },
         {
           type: 'paragraph',
-          html: "Para mirar gaviotas desde su ventana, Clark predice verlas. Como aún mira la pantalla, surgen errores que elimina girando cuello y ojos. Hay dos vías para minimizar error. Una cambia la predicción en percepción. La otra cambia el mundo o el cuerpo en acción. Un jardinero de béisbol corre manteniendo constante la aceleración aparente de la pelota. Un conductor experto ve la trayectoria y deja que el cerebro corrija micro-errores de volante y pedal.",
+          html: "Esas predicciones proprioceptivas actúan como comandos motores. Para mirar gaviotas desde su ventana, Clark predice verlas. Todavía mira la pantalla, así que surgen errores que elimina girando cuello y ojos. Hay dos vías para minimizar error. Una cambia la predicción en percepción. La otra cambia el mundo o el cuerpo en acción.",
         },
         {
           type: 'paragraph',
-          html: "La fluidez exige entrenamiento. <span class=\"person\">Muhammad Ali</span> sabía que sin práctica no hay «suerte». Aprendemos las consecuencias sensoriales de hacer bien algo, no «cómo mover el músculo». Las metas a largo plazo usan predicciones contrafácticas sobre qué pasaría si actuamos o no.",
+          html: "Un jardinero de béisbol corre manteniendo constante la aceleración aparente de la pelota. Un conductor experto ve la trayectoria y deja que el cerebro corrija micro-errores de volante y pedal. La fluidez exige entrenamiento. <span class=\"person\">Muhammad Ali</span> sabía que sin práctica no hay «suerte». Aprendemos las consecuencias sensoriales de hacer bien algo, no «cómo mover el músculo».",
         },
         {
           type: 'key',
           html: "Actuar es hacer cumplir predicciones de <span class=\"key-term\">sensaciones corporales</span> que aún no ocurren.",
+        },
+        {
+          type: 'paragraph',
+          html: "Las predicciones no solo miran afuera: el cuerpo interno también se anticipa y se siente.",
         },
       ],
     },
@@ -241,19 +261,19 @@ export const experienceMachine: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Si solo importara minimizar error, ¿por qué no quedarnos en una habitación oscura hasta morir? El <span class=\"term\">puzzle de la habitación oscura</span> se resuelve porque organismos como nosotros predicen forrajeo, movimiento y supervivencia, y esas predicciones se cumplen con acción.",
+          html: "¿Por qué no nos quedamos en una habitación oscura si solo importara minimizar error? El <span class=\"term\">puzzle de la habitación oscura</span>, o sea, el enigma de por qué buscamos estímulo, se resuelve así. Organismos como nosotros predicen forrajeo y supervivencia. Esas predicciones se cumplen con acción.",
         },
         {
           type: 'paragraph',
-          html: "La <span class=\"term\">homeostasis</span>, desarrollada por <span class=\"person\">Claude Bernard</span> y <span class=\"person\">Walter Bradford Cannon</span>, mantiene rangos vitales. La <span class=\"term\">alostasis</span> ajusta los setpoints antes del peligro. El cortisol prepara glucosa para huir. Hambre y sueño anticipan necesidades futuras, no solo estados actuales. El sistema <span class=\"term\">interoceptivo</span> informa vísceras, glucosa y temperatura. El exteroceptivo mira afuera. El proprioceptivo guía postura.",
+          html: "La <span class=\"term\">homeostasis</span>, o sea, mantener rangos vitales estables, la desarrolló <span class=\"person\">Claude Bernard</span>. La <span class=\"term\">alostasis</span>, o sea, el ajuste anticipado del cuerpo, modifica los setpoints antes del peligro. El cortisol prepara glucosa para huir. Hambre y sueño anticipan necesidades futuras, no solo estados actuales.",
         },
         {
           type: 'paragraph',
-          html: "La valencia, lo atractivo frente a lo repulsivo, refleja <span class=\"term\">dinámicas de error</span>. Pregunta si vamos mejor o peor de lo esperado al reducir error. La curiosidad explora cuando el error es manejable y prometedor. Las emociones integran señales corporales con predicciones de causa. Un corazón acelerado en el gimnasio frente a un posible infarto produce sentimientos distintos. No hay «sentimiento crudo» previo al reencuadre.",
+          html: "El sistema interoceptivo informa vísceras, glucosa y temperatura. El exteroceptivo mira afuera. El proprioceptivo guía postura. La valencia, lo atractivo frente a lo repulsivo, refleja si vamos mejor o peor de lo esperado al reducir error. La curiosidad explora cuando el error es manejable y prometedor.",
         },
         {
           type: 'paragraph',
-          html: "El <span class=\"term\">córtex insular anterior</span> integra interocepción, acción y percepción externa en bucles cortico-subcorticales. No opera como jerarquía donde la razón reprime emoción primitiva. Experimentos con feedback cardíaco falso inflan atractivo o intensidad emocional de caras neutras. Rostros enojados subliminales alteran confianza hacia caras visibles neutras mediante cambios fisiológicos.",
+          html: "Las emociones integran señales corporales con predicciones de causa. Un corazón acelerado en el gimnasio frente a un posible infarto produce sentimientos distintos. No hay «sentimiento crudo» previo al reencuadre. El córtex insular anterior integra interocepción, acción y percepción externa en bucles cortico-subcorticales. No opera como jerarquía donde la razón reprime emoción primitiva.",
         },
         {
           type: 'concept-grid',
@@ -279,6 +299,10 @@ export const experienceMachine: BookSummary = {
           type: 'key',
           html: "Emoción es predicción integrada de <span class=\"key-term\">cuerpo en contexto</span>, no lectura pasiva de señales viscerales.",
         },
+        {
+          type: 'paragraph',
+          html: "Explicar percepción y emoción no basta: queda el misterio de la experiencia consciente en sí.",
+        },
       ],
     },
     {
@@ -289,23 +313,27 @@ export const experienceMachine: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El marco explica percepción, acción y valencia, pero ¿qué dice de las <span class=\"term\">qualia</span> —el rojo de ver rojo, el sabor del kombucha de frambuesa? Clark aborda el <span class=\"term\">problema difícil</span> de la conciencia de forma especulativa: parte del enigma es conceptual, no científico.",
+          html: "¿Qué dice el marco del rojo de ver rojo o del sabor del kombucha? Clark aborda el <span class=\"term\">problema difícil</span>, o sea, por qué hay experiencia subjetiva y no solo procesamiento. Lo plantea de forma especulativa porque parte del enigma es conceptual, no científico.",
         },
         {
           type: 'paragraph',
-          html: "Clark propone atacar el <span class=\"term\">meta-problema</span> que plantea <span class=\"person\">David Chalmers</span>. La pregunta es por qué sentimos que hay un abismo explicativo. La <span class=\"term\">sentience</span> básica, acuñada por <span class=\"person\">Jeremy Bentham</span> en <span class=\"num\">1789</span>, surge cuando el modelo del mundo dialoga con el modelo corporal. Surge un mundo de <span class=\"term\">affordances</span>, oportunidades de comer, huir o fotografiar, cuyo atractivo cambia con hambre o satisfacción.",
+          html: "Clark propone atacar el <span class=\"term\">meta-problema</span>, o sea, por qué sentimos que hay un abismo explicativo. Lo plantea el filósofo <span class=\"person\">David Chalmers</span>. La sentience básica, término acuñado por <span class=\"person\">Jeremy Bentham</span> en <span class=\"num\">1789</span>, surge cuando el modelo del mundo dialoga con el modelo corporal.",
         },
         {
           type: 'paragraph',
-          html: "Agentes inteligentes con acceso solo a las «mejores conjeturas» finales, no al procesamiento intermedio, simplifican su auto-modelo: «veo un perro», «siento dolor». Esa opacidad sobre el mecanismo predictivo nos empuja a posular qualia misteriosas. Un zombi filosófico que describiera perros, colores y preferencias sin experiencia interna resulta cada vez menos imaginable cuanto más detalle exige su comportamiento.",
+          html: "Surge un mundo de oportunidades de acción (comer, huir o fotografiar) cuyo atractivo cambia con hambre o satisfacción. Agentes inteligentes con acceso solo a las «mejores conjeturas» finales simplifican su auto-modelo: «veo un perro», «siento dolor». Esa opacidad sobre el mecanismo predictivo nos empuja a posular <span class=\"term\">qualia</span>, o sea, cualidades subjetivas misteriosas del rojo o del dolor.",
         },
         {
           type: 'paragraph',
-          html: "Clark concluye que la conciencia cualitativa es real, pero quizá no es lo que creemos. Resolver sentience básica con ciencia predictiva podría disolver gran parte del misterio restante ligado a la autorreflexión lingüística humana.",
+          html: "Un zombi filosófico que describiera perros, colores y preferencias sin experiencia interna resulta cada vez menos imaginable cuanto más detalle exige su comportamiento. Clark concluye que la conciencia cualitativa es real, pero quizá no es lo que creemos. Resolver sentience básica con ciencia predictiva podría disolver gran parte del misterio restante ligado a la autorreflexión lingüística humana.",
         },
         {
           type: 'key',
           html: "Las qualia inferidas son herramientas para <span class=\"key-term\">predecirnos a nosotros mismos</span>, no entidades aparte del procesamiento predictivo.",
+        },
+        {
+          type: 'paragraph',
+          html: "Si las expectativas moldean la experiencia, también moldean sesgos sociales y errores mortales.",
         },
       ],
     },
@@ -317,23 +345,27 @@ export const experienceMachine: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "<span class=\"person\">Antonie van Leeuwenhoek</span> (<span class=\"num\">1677</span>), convencido del preformacionismo, «vio» vasos en espermatozoides: las expectativas esculpieron la microscopia. El sesgo predictivo no afecta solo juicios posteriores sino la evidencia sensorial misma.",
+          html: "¿Pueden las expectativas distorsionar lo que vemos bajo el microscopio? <span class=\"person\">Antonie van Leeuwenhoek</span> (<span class=\"num\">1677</span>), convencido del preformacionismo, «vio» vasos en espermatozoides. Las expectativas esculpieron la microscopia. El sesgo predictivo no afecta solo juicios posteriores sino la evidencia sensorial misma.",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Susanna Siegel</span> imagina a Jack enojado. La cara neutral parece enfadada, lo que refuerza la creencia inicial en un «doble conteo» y altera la interacción real. En tiroteos policiales (<span class=\"num\">2007–2014</span>), el <span class=\"num\">49%</span> de víctimas desarmadas involucró fallos de percepción de amenaza. En Filadelfia, el <span class=\"num\">80%</span> eran negros. <span class=\"person\">Lisa Feldman Barrett</span> describe <span class=\"term\">realismo afectivo</span>. El arousal corporal por cafeína o turnos largos se usa como evidencia extra de peligro junto a estereotipos raciales.",
+          html: "La filósofa <span class=\"person\">Susanna Siegel</span> imagina a Jack enojado. La cara neutral parece enfadada, lo que refuerza la creencia inicial en un «doble conteo» y altera la interacción real. En tiroteos policiales (<span class=\"num\">2007–2014</span>), el <span class=\"num\">49%</span> de víctimas desarmadas involucró fallos de percepción de amenaza. En Filadelfia, el <span class=\"num\">80%</span> eran negros.",
         },
         {
           type: 'paragraph',
-          html: "Titulares post-maratón de Boston («Not Since 9/11» frente a «Boston Strong») cambiaron errores en tareas de disparo simulado. <span class=\"person\">Maurice Merleau-Ponty</span> comparó percepción con un teclado móvil que ofrece distintas teclas al mismo martillo del mundo. La neurodiversidad no es más ni menos «verdad». El autismo da más peso sensorial. El TEPT o la depresión rigen actualización rígida. Son otros balances predicción/evidencia.",
+          html: "<span class=\"person\">Lisa Feldman Barrett</span> describe el <span class=\"term\">realismo afectivo</span>, o sea, tratar las emociones inferidas como hechos del mundo. El arousal corporal por cafeína o turnos largos se usa como evidencia extra de peligro junto a estereotipos raciales. Titulares post-maratón de Boston («Not Since 9/11» frente a «Boston Strong») cambiaron errores en tareas de disparo simulado.",
         },
         {
           type: 'paragraph',
-          html: "Aun así, mundo físico, anatomía compartida, acción exploratoria y vida social mantienen realidad común. El mismo mecanismo que detecta preocupación en un ser querido puede, bajo presión, producir alucinaciones mortales. Hay que cambiar estereotipos y también entrenar respuestas corporales en profesiones de riesgo.",
+          html: "<span class=\"person\">Maurice Merleau-Ponty</span> comparó percepción con un teclado móvil que ofrece distintas teclas al mismo martillo del mundo. La neurodiversidad no es más ni menos «verdad». El autismo da más peso sensorial. El TEPT o la depresión rigen actualización rígida. Son otros balances predicción/evidencia. Aun así, mundo físico, anatomía compartida, acción exploratoria y vida social mantienen realidad común.",
         },
         {
           type: 'key',
           html: "Sesgos predictivos viven en la <span class=\"key-term\">percepción primaria</span>. Combatirlos exige mejor cultura y mejor entrenamiento corporal.",
+        },
+        {
+          type: 'paragraph',
+          html: "Las herramientas y los entornos forman parte del sistema cognitivo, no solo el cerebro aislado.",
         },
       ],
     },
@@ -345,19 +377,19 @@ export const experienceMachine: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "<span class=\"person\">Tabitha Goldstaub</span>, disléxica, describe <span class=\"term\">SwiftKey</span> y <span class=\"term\">Grammarly</span> como amigos: sin ellas vuelve la niebla escolar. Su mente normal no es solo hardware biológico sino sistema acoplado cerebro-herramientas.",
+          html: "¿Dónde termina la mente si sin una app no podemos escribir bien? <span class=\"person\">Tabitha Goldstaub</span>, disléxica, describe SwiftKey y Grammarly como amigos. Cuando no usa esas apps, Goldstaub siente de nuevo la niebla escolar. Su mente normal no es solo hardware biológico sino sistema acoplado cerebro-herramientas.",
         },
         {
           type: 'paragraph',
-          html: "Desde los volúmenes <span class=\"term\">PDPD</span> (<span class=\"num\">1986</span>) en Sussex, Clark exploró la <span class=\"term\">mente extendida</span>: multiplicar <span class=\"num\">77777 × 99999</span> con lápiz reduce el problema a pasos simples. <span class=\"person\">Carolyn Baum</span> encontró pacientes con Alzheimer viviendo solos gracias a entornos con notas, etiquetas y álbumes —el mundo compensa déficits.",
+          html: "Clark exploró la <span class=\"term\">mente extendida</span>, o sea, la tesis de que herramientas fiables forman un solo sistema con el cerebro. Lo hizo desde los volúmenes PDPD (<span class=\"num\">1986</span>) en Sussex. Multiplicar <span class=\"num\">77777 × 99999</span> con lápiz reduce el problema a pasos simples. <span class=\"person\">Carolyn Baum</span>, terapeuta ocupacional, encontró pacientes con Alzheimer viviendo solos gracias a entornos con notas, etiquetas y álbumes.",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Richard Feynman</span> respondió a <span class=\"person\">Charles Wiener</span> que el papel no es un registro sino parte del trabajo. «Hay que trabajar en el papel», dijo. Pensar es un ciclo cerebro-papel, no solo actividad interna. Si un chip neural funciona igual dentro o fuera del cráneo vía radio, ¿por qué no contar el chip externo como parte de la mente?",
+          html: "<span class=\"person\">Richard Feynman</span>, físico teórico, respondió a <span class=\"person\">Charles Wiener</span> que el papel no es un registro sino parte del trabajo. «Hay que trabajar en el papel», dijo. Pensar es un ciclo cerebro-papel, no solo actividad interna. Un chip neural que funcione igual dentro o fuera del cráneo plantea la misma pregunta. ¿Por qué no contar el chip externo, conectado por radio, como parte de la mente?",
         },
         {
           type: 'paragraph',
-          html: "El intestino tiene alrededor de <span class=\"num\">500 millones</span> de neuronas. La microbiota produce hasta el <span class=\"num\">95%</span> de la serotonina y modula timidez o agresión en ratones con antibióticos. Las acciones <span class=\"term\">epistémicas</span>, como mirar donde se pasará el balón, dependen de predicciones temporales. Los retrasos de red rompen pensar-vía-teclado porque el cerebro espera latencias específicas.",
+          html: "El intestino tiene alrededor de <span class=\"num\">500 millones</span> de neuronas. La microbiota produce hasta el <span class=\"num\">95%</span> de la serotonina y modula timidez o agresión en ratones con antibióticos. Las acciones epistémicas, como mirar donde se pasará el balón, dependen de predicciones temporales. Los retrasos de red rompen pensar-vía-teclado porque el cerebro espera latencias específicas.",
         },
         {
           type: 'concept-grid',
@@ -383,6 +415,10 @@ export const experienceMachine: BookSummary = {
           type: 'key',
           html: "Cerebros predictivos ensamblan <span class=\"key-term\">mentes híbridas</span> con herramientas y entornos fiables.",
         },
+        {
+          type: 'paragraph',
+          html: "Si la mente es predictiva y extendida, podemos reentrenar expectativas con intervenciones clínicas y culturales.",
+        },
       ],
     },
     {
@@ -393,19 +429,19 @@ export const experienceMachine: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Si la experiencia refleja expectativas confiadas, podemos modularla: rituales médicos, lenguaje, placebo, reencuadre del dolor, realidad virtual e incluso psicodélicos. La bata blanca del médico activa predicciones de eficacia aun sabiendo que es convención.",
+          html: "¿Podemos modular la experiencia si refleja expectativas confiadas? Clark propone rituales médicos y placebo. También lenguaje, reencuadre del dolor, realidad virtual e incluso psicodélicos. La bata blanca del médico activa predicciones de eficacia aun sabiendo que es convención.",
         },
         {
           type: 'paragraph',
-          html: "Los placebos funcionan en dolor, ansiedad, fatiga y rendimiento deportivo. Atletas mejoraron un <span class=\"num\">1,5%</span> con salina creída ergogénica. La cirugía placebo de rodilla alivia tanto como la real. <span class=\"person\">Ted Kaptchuk</span> logró mejoría clínica en <span class=\"num\">59%</span> con placebo honesto para síndrome de intestino irritable, frente al <span class=\"num\">35%</span> del grupo control, con «placebo» impreso en el frasco.",
+          html: "Los placebos funcionan en dolor, ansiedad, fatiga y rendimiento deportivo. Atletas mejoraron un <span class=\"num\">1,5%</span> con salina creída ergogénica. La cirugía placebo de rodilla alivia tanto como la real. <span class=\"person\">Ted Kaptchuk</span>, investigador de Harvard, logró mejoría clínica en el <span class=\"num\">59%</span> con placebo honesto para síndrome de intestino irritable. El grupo control mejoró un <span class=\"num\">35%</span>, con «placebo» impreso en el frasco.",
         },
         {
           type: 'paragraph',
-          html: "En dolor lumbar crónico, el placebo abierto redujo un <span class=\"num\">30%</span> el dolor y un <span class=\"num\">29%</span> la discapacidad. Los placebos de dosis extendida enseñan al cuerpo la cascada de alivio. Cuando pacientes con Parkinson recibieron cuatro dosis reales de apomorphina, la salina posterior replicó la respuesta. Reencuadrar adrenalina pre-escena o describir batidos idénticos como «cremosos» frente a «ligeros» cambia saciedad y <span class=\"term\">ghrelina</span>.",
+          html: "En dolor lumbar crónico, el placebo abierto redujo un <span class=\"num\">30%</span> el dolor y un <span class=\"num\">29%</span> la discapacidad. Los placebos de dosis extendida enseñan al cuerpo la cascada de alivio. Cuando pacientes con Parkinson recibieron cuatro dosis reales de apomorphina, la salina posterior replicó la respuesta. Reencuadrar adrenalina pre-escena o describir batidos idénticos como «cremosos» frente a «ligeros» cambia saciedad y niveles de ghrelina, hormona del hambre.",
         },
         {
           type: 'paragraph',
-          html: "El <span class=\"term\">reprocesamiento del dolor</span> desafía la inferencia «duele, no debo moverme» en dolor crónico nociplástico. Hannah Vickers evitó escaleras y reforzó el dolor. Renombrar ejercicios como «entrenamiento» alteró predicciones. La VR de Karuna Labs permite movimientos temidos en cuerpos virtuales y baja predicciones de dolor al moverse. El dolor sigue siendo real y neuronal. La intervención apunta a precisiones erróneas, no a negar sufrimiento.",
+          html: "El <span class=\"term\">reprocesamiento del dolor</span>, o sea, desafiar la creencia de que el movimiento agrava el dolor, ayuda en dolor crónico nociplástico. Hannah Vickers evitó escaleras y reforzó el dolor. Renombrar ejercicios como «entrenamiento» alteró predicciones. La VR de Karuna Labs permite movimientos temidos en cuerpos virtuales y baja predicciones de dolor al moverse. El dolor sigue siendo real y neuronal. La intervención apunta a precisiones erróneas, no a negar sufrimiento.",
         },
         {
           type: 'big-numbers',

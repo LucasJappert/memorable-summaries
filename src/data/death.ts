@@ -128,11 +128,11 @@ export const death: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Este libro proviene de un curso sobre la muerte que <span class=\"person\">Shelly Kagan</span> enseñó durante años en Yale y, antes, en la Universidad de Illinois en Chicago. En el semestre de primavera de <span class=\"num\">2007</span>, las clases se grabaron para <span class=\"term\">Open Yale Courses</span>, y las transcripciones formaron el primer borrador de la obra.",
+          html: "¿Cómo nace un libro sobre la muerte que suena a conversación y no a tratado? <span class=\"person\">Shelly Kagan</span> (filósofo de Yale) enseñó durante años un curso sobre la muerte en Yale y, antes, en Chicago. En primavera de <span class=\"num\">2007</span> las clases se grabaron para <span class=\"term\">Open Yale Courses</span> (cursos gratuitos de Yale en línea). Las transcripciones formaron el primer borrador.",
         },
         {
           type: 'paragraph',
-          html: "Al revisar esas transcripciones, Kagan eliminó repeticiones, corrigió errores y acortó la discusión de Platón, pero conservó el tono informal de las conferencias. La muerte es un tema serio, escribe, pero no hace falta un academicismo pesado para tratarlo. Agradece a estudiantes y oyentes en línea cuyas preguntas le mostraron que estas ideas interesan más allá de la academia.",
+          html: "Al revisar esas transcripciones, Kagan eliminó repeticiones y corrigió errores. Acortó la discusión de Platón, pero conservó el tono informal de las conferencias. La muerte es un tema serio, escribe, pero no hace falta un academicismo pesado para tratarlo. Agradece a estudiantes y oyentes en línea cuyas preguntas le mostraron que estas ideas interesan más allá de la academia.",
         },
         {
           type: 'paragraph',
@@ -140,7 +140,11 @@ export const death: BookSummary = {
         },
         {
           type: 'key',
-          html: "Un curso universitario grabado en línea se transformó en una introducción filosófica accesible pero exigente sobre la mortalidad.",
+          html: "Un curso universitario grabado en línea se transformó en una <span class=\"key-term\">introducción filosófica</span> accesible pero exigente sobre la mortalidad.",
+        },
+        {
+          type: 'paragraph',
+          html: "Antes de entrar en argumentos, conviene saber qué preguntas plantea el libro y cuáles deja fuera.",
         },
       ],
     },
@@ -152,15 +156,15 @@ export const death: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Este libro trata la muerte desde la filosofía, no desde la psicología del duelo ni la sociología del morir. <span class=\"person\">Shelly Kagan</span> deja fuera el proceso de morir, el luto, la industria funeraria y las actitudes sociales que ocultan a los moribundos. En cambio, plantea preguntas como qué somos, si tenemos <span class=\"term\">alma</span>, qué significa sobrevivir y si la muerte puede ser mala.",
+          html: "¿Qué puede decirnos la filosofía sobre la muerte que no diga ya la psicología del duelo? Este libro trata la muerte desde la filosofía, no desde el luto ni la sociología del morir. <span class=\"person\">Shelly Kagan</span> deja fuera el proceso de morir, la industria funeraria y las actitudes sociales que ocultan a los moribundos. En cambio, plantea preguntas como qué somos, si tenemos <span class=\"term\">alma</span> (una sustancia inmaterial distinta del cuerpo) y si la muerte puede ser mala.",
         },
         {
           type: 'paragraph',
-          html: "La primera mitad del libro es metafísica: existencia del alma, naturaleza de la muerte, identidad personal. La segunda mitad es <span class=\"term\">teoría del valor</span>: mala de la muerte, deseabilidad de la inmortalidad, actitud ante la finitud y racionalidad del suicidio. A diferencia de muchos textos introductorios, Kagan no se declara neutral: defenderá una línea de pensamiento concreta y tratará de convencer al lector.",
+          html: "La primera mitad del libro es metafísica: existencia del alma, naturaleza de la muerte, identidad personal. La segunda mitad es <span class=\"term\">teoría del valor</span> (qué es bueno o malo en la vida). Allí trata la mala de la muerte, la inmortalidad, la finitud y el suicidio. A diferencia de muchos textos introductorios, Kagan no se declara neutral: defenderá una línea concreta y tratará de convencer al lector.",
         },
         {
           type: 'paragraph',
-          html: "La visión común que combate incluye creer en alma inmaterial, esperar supervivencia, temer la muerte como misterio horrible, desear inmortalidad y rechazar el suicidio siempre. En cambio, defiende que no hay alma, que la inmortalidad no sería buena, que el miedo no siempre es apropiado, que la muerte no es especialmente misteriosa y que el suicidio puede justificarse en algunos casos.",
+          html: "La visión común que combate incluye creer en alma inmaterial y esperar supervivencia. También temer la muerte como misterio horrible, desear inmortalidad y rechazar el suicidio siempre. En cambio, defiende que no hay alma. Sostiene que la inmortalidad no sería buena y que el miedo no siempre es apropiado. La muerte no es especialmente misteriosa, y el suicidio puede justificarse en algunos casos.",
         },
         {
           type: 'paragraph',
@@ -169,6 +173,10 @@ export const death: BookSummary = {
         {
           type: 'key',
           html: "La muerte se aborda con argumentos filosóficos y secularmente, rechazando la visión popular del alma, el miedo y la inmortalidad deseable.",
+        },
+        {
+          type: 'paragraph',
+          html: "Para evaluar esa visión hay que aclarar primero qué somos y qué significaría seguir existiendo.",
         },
       ],
     },
@@ -180,15 +188,15 @@ export const death: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Para saber si podemos sobrevivir a la muerte hay que aclarar dos cosas: qué clase de cosa soy y qué significa <span class=\"term\">sobrevivir</span>. El problema de la <span class=\"term\">identidad personal</span> pregunta qué hace que la persona de mañana sea la misma que la de hoy. Sin esas definiciones, la pregunta «¿hay vida después de la muerte?» queda confusa.",
+          html: "¿Tiene sentido preguntar si hay vida después de la muerte? Para responder hay que aclarar dos cosas: qué clase de cosa soy y qué significa <span class=\"term\">sobrevivir</span> (seguir existiendo como la misma persona). También hay que definir identidad personal: qué hace que el yo de mañana sea el mismo que el de hoy. Sin esas definiciones, la pregunta «¿hay vida después de la muerte?» queda confusa.",
         },
         {
           type: 'paragraph',
-          html: "Una objeción inicial dice que la pregunta es trivial: «vida después del fin de la vida» debe responderse con un no obvio, como preguntar si queda comida después de comerse todo el plato. Kagan responde que esa objeción apresura el análisis. Si «yo» soy algo que podría continuar sin mi cuerpo, la pregunta no es vacía.",
+          html: "Una objeción inicial dice que la pregunta es trivial. «Vida después del fin de la vida» debe responderse con un no obvio, como preguntar si queda comida después de comerse todo el plato. Kagan responde que esa objeción apresura el análisis. Si «yo» soy algo que podría continuar sin mi cuerpo, la pregunta no es vacía.",
         },
         {
           type: 'paragraph',
-          html: "Las dos posturas rivales son el <span class=\"term\">dualismo</span> y el <span class=\"term\">fisicalismo</span>. El dualista cree que somos cuerpo más alma inmaterial. Para él, la mente es un alma no físico. El fisicalista también cree en mentes, pero las entiende como capacidades del cuerpo, como pensar, sentir y planear. En este libro, «alma» designa solo la entidad inmaterial del dualismo. Los fisicalistas niegan almas, no mentes.",
+          html: "Las dos posturas rivales son el <span class=\"term\">dualismo</span> (cuerpo más alma inmaterial) y el <span class=\"term\">fisicalismo</span> (solo cuerpos y procesos físicos). El dualista cree que la mente es un alma no físico. El fisicalista también cree en mentes, pero las entiende como capacidades del cuerpo: pensar, sentir y planear. En este libro, «alma» designa solo la entidad inmaterial del dualismo. Los fisicalistas niegan almas, no mentes.",
         },
         {
           type: 'paragraph',
@@ -196,7 +204,11 @@ export const death: BookSummary = {
         },
         {
           type: 'key',
-          html: "Sobrevivir a la muerte solo tiene sentido tras definir qué somos, y la disputa básica es dualismo del alma frente a fisicalismo del cuerpo.",
+          html: "<span class=\"key-term\">Sobrevivir</span> a la muerte solo tiene sentido tras definir qué somos, y la disputa básica es dualismo del alma frente a fisicalismo del cuerpo.",
+        },
+        {
+          type: 'paragraph',
+          html: "Si la disputa importa, hace falta ver si hay buenas razones para creer en un alma.",
         },
       ],
     },
@@ -208,15 +220,15 @@ export const death: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Después de presentar dualismo y fisicalismo, Kagan pregunta si hay buenas razones para creer en el <span class=\"term\">alma</span>. Ambas posturas aceptan cuerpos y divergen en si hace falta añadir una sustancia inmaterial. Los argumentos que examina apelan a experiencias, explicación y coherencia metafísica.",
+          html: "¿Qué pruebas ofrece la experiencia y la razón a favor del alma? Después de presentar dualismo y fisicalismo, Kagan pregunta si hay buenas razones para creer en el alma. Ambas posturas aceptan cuerpos y divergen en si hace falta añadir una sustancia inmaterial. Los argumentos que examina apelan a experiencias, explicación y coherencia metafísica.",
         },
         {
           type: 'paragraph',
-          html: "Las <span class=\"term\">experiencias cercanas a la muerte</span> no demuestran alma, porque pueden interpretarse como fenómenos cerebrales bajo estrés extremo. El <span class=\"term\">problema de la interacción</span> tampoco prueba dualismo. Solo señala una dificultad de la postura dualista (¿cómo lo inmaterial mueve lo material?) sin validarla.",
+          html: "Las <span class=\"term\">experiencias cercanas a la muerte</span> (relatos de luz, túneles o sensación de salir del cuerpo bajo riesgo vital) no demuestran alma. Pueden interpretarse como fenómenos cerebrales bajo estrés extremo. El <span class=\"term\">problema de la interacción</span> (la dificultad de explicar cómo lo inmaterial mueve lo material) tampoco prueba dualismo. Solo señala una dificultad de la postura dualista sin validarla.",
         },
         {
           type: 'paragraph',
-          html: "El argumento más prometedor es la <span class=\"term\">inferencia a la mejor explicación</span>: quizá el alma explica conciencia, libre albedrío o unidad de la experiencia mejor que el fisicalismo. Kagan concluye que, hoy, el dualismo no ofrece explicación real en los casos difíciles sino que postula lo inmaterial como etiqueta. Eso no basta.",
+          html: "El argumento más prometedor es la <span class=\"term\">inferencia a la mejor explicación</span> (razonar que la hipótesis más plausible es la correcta). Quizá el alma explica conciencia, libre albedrío o unidad de la experiencia mejor que el fisicalismo. Kagan concluye que, hoy, el dualismo no ofrece explicación real en los casos difíciles. Postula lo inmaterial como etiqueta, y eso no basta.",
         },
         {
           type: 'paragraph',
@@ -224,7 +236,11 @@ export const death: BookSummary = {
         },
         {
           type: 'key',
-          html: "Los argumentos empíricos y explicativos revisados no ofrecen hoy una razón convincente para postular un alma inmaterial.",
+          html: "Los argumentos empíricos y explicativos revisados no ofrecen hoy una razón convincente para postular un <span class=\"key-term\">alma inmaterial</span>.",
+        },
+        {
+          type: 'paragraph',
+          html: "El argumento más famoso de la tradición occidental viene del filósofo René Descartes.",
         },
       ],
     },
@@ -236,19 +252,23 @@ export const death: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "<span class=\"person\">René Descartes</span> ofrece un argumento desde el sillón, sin premisas empíricas fuertes. Pide imaginar una mañana en la que existe mi mente pero no mi cuerpo: si puedo concebir esa situación, parecería que mente y cuerpo son distintos, y entonces podría haber almas.",
+          html: "¿Basta con imaginar la mente sin cuerpo para demostrar que tenemos alma? <span class=\"person\">René Descartes</span> (filósofo del siglo XVII) ofrece un argumento desde el sillón, sin premisas empíricas fuertes. Pide imaginar una mañana en la que existe mi mente pero no mi cuerpo. Si puedo concebir esa situación, parecería que mente y cuerpo son distintos, y entonces podría haber almas.",
         },
         {
           type: 'paragraph',
-          html: "El argumento seduce porque apela a la imaginación, no a laboratorios. Kagan sostiene, sin embargo, que Descartes falla ya en la primera premisa. En realidad no estoy imaginando un mundo donde mi mente existe sin cuerpo, sino un mundo donde alguien sin cuerpo cree erróneamente ser yo. Eso podría mostrar que las mentes sin cuerpo son lógicamente posibles, no que la mía lo sea.",
+          html: "El argumento seduce porque apela a la imaginación, no a laboratorios. Kagan sostiene, sin embargo, que Descartes falla ya en la primera premisa. En realidad no estoy imaginando un mundo donde mi mente existe sin cuerpo. Estoy imaginando un mundo donde alguien sin cuerpo cree erróneamente ser yo. Eso podría mostrar que las mentes sin cuerpo son lógicamente posibles, no que la mía lo sea.",
         },
         {
           type: 'paragraph',
-          html: "Después de revisar también otros intentos de inferencia a la mejor explicación, Kagan concluye con escepticismo que no tenemos buena razón para creer en el alma. Debemos rechazar el dualismo y adoptar el fisicalismo. Si alguien sigue creyendo en alma, debería poder decir cuál es el argumento, no solo encontrar la idea reconfortante.",
+          html: "Después de revisar también otros intentos de inferencia a la mejor explicación, Kagan concluye con escepticismo. No tenemos buena razón para creer en el alma. Debemos rechazar el dualismo y adoptar el fisicalismo. Si alguien sigue creyendo en alma, debería poder decir cuál es el argumento, no solo encontrar la idea reconfortante.",
         },
         {
           type: 'key',
-          html: "El argumento cartesiano de concebibilidad no demuestra que mi mente sea distinta de mi cuerpo ni que yo tenga alma.",
+          html: "El <span class=\"key-term\">argumento cartesiano</span> de concebibilidad no demuestra que mi mente sea distinta de mi cuerpo ni que yo tenga alma.",
+        },
+        {
+          type: 'paragraph',
+          html: "Aunque muchos crean en alma, Platón intentó demostrar además que el alma es inmortal.",
         },
       ],
     },
@@ -260,15 +280,15 @@ export const death: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Aunque existiera alma, no seguiría siendo inmortal. <span class=\"person\">Platón</span>, en el <span class=\"term\">Fedón</span>, intenta demostrar lo contrario. Kagan examina varios argumentos del diálogo aunque el libro acorte esa sección respecto a las clases originales.",
+          html: "¿Demuestra Platón que el alma sobrevive a la muerte? Kagan distingue alma e inmortalidad: aunque existiera alma, no sería automáticamente inmortal. <span class=\"person\">Platón</span> (filósofo griego del siglo IV a. C.), en el <span class=\"term\">Fedón</span> (diálogo sobre la muerte de Sócrates), intenta demostrar lo contrario. Kagan examina varios argumentos del diálogo aunque el libro acorte esa sección respecto a las clases originales.",
         },
         {
           type: 'paragraph',
-          html: "El <span class=\"term\">argumento de las Formas</span> sostiene que el alma, como lo invisible y eterno, se asemeja a las Formas y por eso perdura. El <span class=\"term\">argumento de la simplicidad</span> afirma que el alma es simple, sin partes, y lo simple no puede descomponerse. El de <span class=\"term\">reminiscencia</span> dice que aprendemos recordando verdades de vidas anteriores.",
+          html: "El <span class=\"term\">argumento de las Formas</span> (realidades eternas e invisibles en Platón) sostiene que el alma se asemeja a lo invisible y perdura. El <span class=\"term\">argumento de la simplicidad</span> (la tesis de que el alma no tiene partes) afirma que lo simple no puede descomponerse. Un tercer argumento, el de reminiscencia, dice que aprendemos recordando verdades de vidas anteriores.",
         },
         {
           type: 'paragraph',
-          html: "Ninguno convence a Kagan. Además, Platón critica el fisicalismo con analogías de instrumentos (la armonía no sobrevive al laúd roto). Eran los mejores esbozos posibles en su época, pero no refutan una biología moderna del cuerpo pensante.",
+          html: "Ninguno convence a Kagan. Además, Platón critica el fisicalismo con analogías de instrumentos: la armonía no sobrevive al laúd roto. Eran los mejores esbozos posibles en su época, pero no refutan una biología moderna del cuerpo pensante.",
         },
         {
           type: 'paragraph',
@@ -277,6 +297,10 @@ export const death: BookSummary = {
         {
           type: 'key',
           html: "Los argumentos platónicos por la inmortalidad del alma y contra el fisicalismo no resisten un escrutinio filosófico cuidadoso.",
+        },
+        {
+          type: 'paragraph',
+          html: "Sin alma, la pregunta urgente es qué hace que sigamos siendo la misma persona en el tiempo.",
         },
       ],
     },
@@ -288,11 +312,11 @@ export const death: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Kagan resume su conclusión previa: no hay buenas razones para creer en alma. Si no hay alma, debemos explicar la <span class=\"term\">identidad personal</span> de otro modo. Presenta tres teorías rivales: la del alma, la del cuerpo y la de la personalidad.",
+          html: "¿Quién soy si no hay un yo inmaterial? Kagan resume su conclusión previa: no hay buenas razones para creer en alma. Si no hay alma, debemos explicar la identidad personal de otro modo. Presenta tres teorías rivales: la del alma, la del cuerpo y la de la personalidad.",
         },
         {
           type: 'paragraph',
-          html: "La <span class=\"term\">teoría del cuerpo</span> ve a la persona como un cuerpo con etapas continuas, como un sándwich o un salame de rebanadas conectadas. La <span class=\"term\">teoría de la personalidad</span>, asociada a <span class=\"person\">John Locke</span>, identifica al yo con un conjunto de recuerdos, creencias, deseos y proyectos con continuidad.",
+          html: "La <span class=\"term\">teoría del cuerpo</span> (el yo es un organismo biológico continuo) ve a la persona como etapas conectadas de un mismo cuerpo. La <span class=\"term\">teoría de la personalidad</span> (el yo es continuidad psicológica) la asocia a <span class=\"person\">John Locke</span> (filósofo británico del siglo XVII). Identifica al yo con recuerdos y proyectos que se enlazan en el tiempo.",
         },
         {
           type: 'paragraph',
@@ -304,7 +328,11 @@ export const death: BookSummary = {
         },
         {
           type: 'key',
-          html: "Sin alma, la identidad personal debe explicarse por continuidad del cuerpo o de la personalidad psicológica, no por un yo inmaterial.",
+          html: "Sin alma, la <span class=\"key-term\">identidad personal</span> debe explicarse por continuidad del cuerpo o de la personalidad psicológica, no por un yo inmaterial.",
+        },
+        {
+          type: 'paragraph',
+          html: "Para elegir entre esas teorías hace falta someterlas a casos extremos imaginarios.",
         },
       ],
     },
@@ -316,11 +344,11 @@ export const death: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Kagan no acepta la teoría del alma, así que la elección queda entre cuerpo y personalidad. Recurre a casos imaginarios de <span class=\"person\">Bernard Williams</span> y <span class=\"person\">Derek Parfit</span> para forzar la decisión, como torturas con cambio de cerebro, teletransportación, duplicación y fisión.",
+          html: "¿Qué teoría de identidad resiste mejor los casos imposibles? Kagan no acepta la teoría del alma, así que la elección queda entre cuerpo y personalidad. Recurre a casos imaginarios de <span class=\"person\">Bernard Williams</span> (filósofo británico) y <span class=\"person\">Derek Parfit</span> (especialista en identidad y valor). Incluyen tortura con cambio de cerebro, teletransportación y duplicación.",
         },
         {
           type: 'paragraph',
-          html: "Si solo importara la personalidad, una copia con mis recuerdos podría contar como yo. Si importa el cuerpo, necesito continuidad corporal biológica. Los casos muestran tensiones: a veces queremos decir que sobrevivo, a veces que solo hay un sucesor o dos personas distintas.",
+          html: "Cuando solo importa la personalidad, una copia con mis recuerdos cuenta como yo. Cuando importa el cuerpo, hace falta continuidad biológica. Los casos muestran tensiones: a veces queremos decir que sobrevivo, a veces que hay un sucesor o dos personas distintas.",
         },
         {
           type: 'paragraph',
@@ -334,6 +362,10 @@ export const death: BookSummary = {
           type: 'key',
           html: "Los experimentos mentales sobre duplicación y tortura favorecen teorías corporales o psicológicas y apoyan que la muerte será el fin del yo.",
         },
+        {
+          type: 'paragraph',
+          html: "Si la muerte acaba con el yo, conviene precisar qué significa morir para un fisicalista.",
+        },
       ],
     },
     {
@@ -344,11 +376,11 @@ export const death: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Para el fisicalista, una persona es un cuerpo con <span class=\"term\">funciones P</span>: capacidades de pensar, sentir, amar, planear, ser racional y autoconsciente. Un cuerpo <span class=\"term\">P-funcionante</span> es una persona viva. Morir es dejar de ser eso.",
+          html: "¿Qué es morir si somos solo cuerpos que piensan? Para el fisicalista, una persona es un cuerpo con <span class=\"term\">funciones P</span> (capacidades cognitivas superiores como pensar y planear). Un cuerpo <span class=\"term\">P-funcionante</span> (con esas capacidades activas) es una persona viva. Morir es dejar de ser eso.",
         },
         {
           type: 'paragraph',
-          html: "La respuesta básica parece simple. Vivo mientras el cuerpo funciona correctamente y muero cuando deja de hacerlo. Pero hay que precisar qué funciones cuentan. Hay funciones vitales <span class=\"term\">B</span>, como respirar y circular sangre, y funciones cognitivas superiores P.",
+          html: "La respuesta básica parece simple. Vivo mientras el cuerpo funciona correctamente y muero cuando deja de hacerlo. Pero hay que precisar qué funciones cuentan. Hay funciones vitales <span class=\"term\">B</span> (respirar y circular sangre) y funciones cognitivas superiores P.",
         },
         {
           type: 'paragraph',
@@ -360,7 +392,11 @@ export const death: BookSummary = {
         },
         {
           type: 'key',
-          html: "Morir, para el fisicalista, es perder las funciones cognitivas que hacen de un cuerpo una persona viva.",
+          html: "Morir, para el fisicalista, es perder las <span class=\"key-term\">funciones cognitivas</span> que hacen de un cuerpo una persona viva.",
+        },
+        {
+          type: 'paragraph',
+          html: "Con la muerte definida como fin, puede abordarse si ese fin es malo y por qué.",
         },
       ],
     },
@@ -372,7 +408,7 @@ export const death: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Kagan examina dos frases populares sobre la muerte. La primera, asociada a <span class=\"person\">Sigmund Freud</span>, dice que en el fondo no creemos que vamos a morir: operamos como si fuéramos inmortales, aunque intelectualmente sepamos lo contrario.",
+          html: "¿Creemos de verdad que vamos a morir? Kagan examina dos frases populares sobre la muerte. La primera, asociada a <span class=\"person\">Sigmund Freud</span> (fundador del psicoanálisis), dice que en el fondo no creemos que vamos a morir. Operamos como si fuéramos inmortales, aunque intelectualmente sepamos lo contrario.",
         },
         {
           type: 'paragraph',
@@ -390,6 +426,10 @@ export const death: BookSummary = {
           type: 'key',
           html: "Ni la negación inconsciente de nuestra muerte ni el eslogan «todos morimos solos» resisten un análisis filosófico riguroso.",
         },
+        {
+          type: 'paragraph',
+          html: "La pregunta central de la segunda mitad es por qué la muerte, si acaba con nosotros, puede perjudicarnos.",
+        },
       ],
     },
     {
@@ -400,11 +440,11 @@ export const death: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "La intuición dice que la muerte es mala. Pero <span class=\"person\">Epicuro</span> plantea un puzzle. Si después de morir no existo, ¿cómo puede ser mala para mí? No parece mala ahora, vivo, ni después, cuando ya no habrá yo. <span class=\"person\">Lucrecio</span> extiende la simetría al período prenatal. Antes de nacer tampoco existía yo, y no me lamenta.",
+          html: "¿Cómo puede ser mala la muerte si, estando muertos, no existimos para sufrir? La intuición dice que la muerte es mala. <span class=\"person\">Epicuro</span> (filósofo helenístico) plantea un puzzle famoso. Si después de morir no existo, ¿cómo puede ser mala para mí? No parece mala ahora, vivo, ni después, cuando ya no habrá yo. <span class=\"person\">Lucrecio</span> (poeta romano seguidor de Epicuro) extiende la simetría al período prenatal. Antes de nacer tampoco existía yo, y no me lamenta.",
         },
         {
           type: 'paragraph',
-          html: "La respuesta que Kagan favorece es la <span class=\"term\">cuenta de privación</span>: la muerte es mala porque me priva de los bienes que la vida me habría dado. <span class=\"person\">Thomas Nagel</span> y <span class=\"person\">Derek Parfit</span> ayudan a ver cómo algo puede perjudicarme aunque no me «ocurra» en un momento experienciable.",
+          html: "La respuesta que Kagan favorece es la <span class=\"term\">cuenta de privación</span> (la tesis de que la muerte es mala porque quita bienes futuros). La muerte es mala porque me priva de los bienes que la vida me habría dado. <span class=\"person\">Thomas Nagel</span> y <span class=\"person\">Derek Parfit</span> ayudan a ver cómo algo puede perjudicarme aunque no me «ocurra» en un momento experienciable.",
         },
         {
           type: 'paragraph',
@@ -412,11 +452,15 @@ export const death: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Si la muerte priva de bienes, surge la tentación de pensar que nunca morir sería ideal. El siguiente capítulo cuestiona esa idea.",
+          html: "La privación de bienes lleva a pensar que nunca morir sería ideal. El siguiente capítulo cuestiona esa idea.",
         },
         {
           type: 'key',
           html: "La muerte es mala principalmente porque nos priva de bienes futuros, no porque nos haga sufrir estando muertos.",
+        },
+        {
+          type: 'paragraph',
+          html: "Si perder bienes futuros es lo malo, ¿sería mejor vivir para siempre?",
         },
       ],
     },
@@ -428,11 +472,11 @@ export const death: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Muchos desean vivir para siempre. <span class=\"person\">Bernard Williams</span>, en el <span class=\"term\">caso Makropulos</span>, argumenta lo contrario: Elfa lleva <span class=\"num\">342</span> años con el mismo carácter y encuentra la eternidad insoportablemente aburrida.",
+          html: "¿Sería deseable vivir para siempre? Muchos desean hacerlo. <span class=\"person\">Bernard Williams</span> argumenta lo contrario con el caso Makropulos: una mujer condenada a <span class=\"num\">342</span> años de vida. Elfa lleva siglos con el mismo carácter y encuentra la eternidad insoportablemente aburrida.",
         },
         {
           type: 'paragraph',
-          html: "La inmortalidad no garantiza felicidad. Puede producir tedio, alienación y pérdida de sentido. <span class=\"person\">Jonathan Swift</span> imaginó a los Struldbrugs, condenados a envejecer sin morir. Incluso la fantasía literaria sugiere que la vida sin fin no es obviamente deseable.",
+          html: "La inmortalidad no garantiza felicidad. Puede producir tedio, alienación y pérdida de sentido. <span class=\"person\">Jonathan Swift</span> (satírico irlandés del siglo XVIII) imaginó a los Struldbrugs, condenados a envejecer sin morir. Incluso la fantasía literaria sugiere que la vida sin fin no es obviamente deseable.",
         },
         {
           type: 'paragraph',
@@ -446,6 +490,10 @@ export const death: BookSummary = {
           type: 'key',
           html: "La inmortalidad sería indeseable porque una vida sin fin puede volverse tediosa y vacía, como muestra el caso Makropulos.",
         },
+        {
+          type: 'paragraph',
+          html: "Rechazada la inmortalidad como ideal, queda preguntar qué hace valiosa una vida finita.",
+        },
       ],
     },
     {
@@ -456,11 +504,11 @@ export const death: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "¿Qué hace valiosa una vida? No solo la cantidad de placer. <span class=\"person\">Robert Nozick</span> mostró que no elegiríamos una máquina de experiencias placenteras si perdiéramos proyectos reales. Importan bienes internos, relaciones y la <span class=\"term\">forma</span> global de la vida.",
+          html: "¿Qué hace valiosa una vida además de acumular placer? No solo la cantidad de placer importa. <span class=\"person\">Robert Nozick</span> (filósofo estadounidense) mostró que no elegiríamos una máquina de experiencias placenteras si perdiéramos proyectos reales. Importan bienes internos, relaciones y la <span class=\"term\">forma</span> (el perfil global) de la vida.",
         },
         {
           type: 'paragraph',
-          html: "La <span class=\"term\">teoría del contenedor valioso</span> compara la vida con un recipiente. Lo que importa es lo que contiene, no solo el hecho de seguir existiendo. Los optimistas creen que el próximo tramo de vida casi siempre vale la pena. Los pesimistas niegan eso siempre.",
+          html: "La <span class=\"term\">teoría del contenedor valioso</span> (comparar la vida con un recipiente cuyo valor depende de lo que contiene) compara la vida con un recipiente. Lo que importa es lo que contiene, no solo el hecho de seguir existiendo. Los optimistas creen que el próximo tramo de vida casi siempre vale la pena. Los pesimistas niegan eso siempre.",
         },
         {
           type: 'paragraph',
@@ -474,6 +522,10 @@ export const death: BookSummary = {
           type: 'key',
           html: "El valor de la vida depende de proyectos y bienes reales, y la muerte puede llegar demasiado pronto para muchos, aunque no para todos.",
         },
+        {
+          type: 'paragraph',
+          html: "Más allá de si la muerte es mala, hay otros rasgos de la mortalidad que condicionan cómo vivir.",
+        },
       ],
     },
     {
@@ -484,7 +536,7 @@ export const death: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Además de si la muerte es mala, Kagan señala otros rasgos: la <span class=\"term\">universalidad</span> de la muerte, su <span class=\"term\">impredecibilidad</span> y la pregunta filosófica de si habría sido mejor no nacer. Todos hemos nacido y todos moriremos, pero rara vez sabemos cuándo.",
+          html: "¿Qué más importa de la muerte además de que sea mala? Kagan subraya la <span class=\"term\">universalidad</span> (todos morimos) y la <span class=\"term\">impredecibilidad</span> (rara vez sabemos cuándo). También plantea si habría sido mejor no nacer. Todos hemos nacido y todos moriremos, pero rara vez sabemos cuándo.",
         },
         {
           type: 'paragraph',
@@ -502,6 +554,10 @@ export const death: BookSummary = {
           type: 'key',
           html: "La muerte es universal e impredecible, y aun la duda sobre si valió la pena nacer no implica por sí sola que el suicidio sea adecuado.",
         },
+        {
+          type: 'paragraph',
+          html: "Sabiendo que moriremos, la pregunta práctica es cómo convivir con esa certeza.",
+        },
       ],
     },
     {
@@ -512,15 +568,15 @@ export const death: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "La mayoría evita pensar en la muerte y pasa cementerios sin mirar. Kagan propone estrategias para vivir con la finitud. Una es ignorarla. Otra es el miedo paralizante. La que él prefiere para la mayoría es un conjunto de actitudes optimistas.",
+          html: "¿Cómo vivir sabiendo que la muerte pone fin a todo? La mayoría evita pensar en la muerte y pasa cementerios sin mirar. Kagan propone estrategias para vivir con la finitud. Una es ignorarla. Otra es el miedo paralizante. La que él prefiere para la mayoría es un conjunto de actitudes optimistas.",
         },
         {
           type: 'paragraph',
-          html: "Esas actitudes incluyen comprometerse en proyectos significativos, cultivar relaciones y apreciar la vida como privilegio. <span class=\"person\">Kurt Vonnegut</span>, en <span class=\"term\">Cat's Cradle</span>, celebra ser «barro sentado», materia organizada que por un tiempo puede reflexionar sobre el universo. Kagan leía ese pasaje a sus alumnos. Vonnegut murió en <span class=\"num\">2007</span> mientras se grababa el curso.",
+          html: "Esas actitudes incluyen comprometerse en proyectos significativos, cultivar relaciones y apreciar la vida como privilegio. <span class=\"person\">Kurt Vonnegut</span>, en <span class=\"term\">Cat's Cradle</span> (novela satírica sobre ciencia y apocalipsis), celebra ser «barro sentado». Es materia organizada que un tiempo puede reflexionar sobre el universo. Kagan leía ese pasaje a sus alumnos. Vonnegut murió en <span class=\"num\">2007</span> mientras se grababa el curso.",
         },
         {
           type: 'paragraph',
-          html: "El miedo a la muerte no siempre es racional. A veces refleja confundir finitud con castigo. <span class=\"person\">Friedrich Hölderlin</span> invita a recordar que «una vez vivimos como dioses» al valorar los momentos intensos. Vías pesimistas como <span class=\"person\">Arthur Schopenhauer</span> o cierto budismo enseñan desapego, pero Kagan solo esboza esas rutas sin adoptarlas plenamente.",
+          html: "El miedo a la muerte no siempre es racional. A veces refleja confundir finitud con castigo. <span class=\"person\">Friedrich Hölderlin</span> (poeta romántico alemán) invita a recordar que «una vez vivimos como dioses» al valorar los momentos intensos. Vías pesimistas como <span class=\"person\">Arthur Schopenhauer</span> o cierto budismo enseñan desapego, pero Kagan solo esboza esas rutas sin adoptarlas plenamente.",
         },
         {
           type: 'paragraph',
@@ -529,6 +585,10 @@ export const death: BookSummary = {
         {
           type: 'key',
           html: "Ante la muerte como fin, conviene más cultivar proyectos y gratitud que el miedo paralizante o la negación ciega.",
+        },
+        {
+          type: 'paragraph',
+          html: "Una decisión extrema ante el sufrimiento y la finitud es elegir cuándo terminar la propia vida.",
         },
       ],
     },
@@ -540,15 +600,15 @@ export const death: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Podemos controlar, en parte, cuándo termina nuestra vida. La cultura suele ver el suicidio como siempre irracional e inmoral. Kagan pregunta bajo qué condiciones podría tener sentido. Recurre a gráficos de bienestar para mostrar que hay momentos en que estar muerto sería mejor que seguir vivo.",
+          html: "¿Cuándo puede tener sentido elegir morir? Podemos controlar, en parte, cuándo termina nuestra vida. La cultura suele ver el suicidio como siempre irracional e inmoral. Kagan pregunta bajo qué condiciones podría tener sentido. Recurre a gráficos de bienestar para mostrar que hay momentos en que estar muerto sería mejor que seguir vivo.",
         },
         {
           type: 'paragraph',
-          html: "El caso real de <span class=\"person\">Donald «Dax» Cowart</span>, quemado gravemente y obligado a tratamientos que no deseaba, ilustra tensiones entre autonomía y paternalismo. <span class=\"person\">David Hume</span>, en «On Suicide», defiende que la libertad de quitarse la vida puede ser racional cuando el balance de bienes es negativo.",
+          html: "El caso real de <span class=\"person\">Donald «Dax» Cowart</span>, quemado gravemente y obligado a tratamientos que no deseaba, ilustra tensiones entre autonomía y paternalismo. <span class=\"person\">David Hume</span> (filósofo ilustrado escocés) defiende en «On Suicide» la racionalidad de quitarse la vida cuando el balance de bienes es negativo.",
         },
         {
           type: 'paragraph',
-          html: "Kagan formula un <span class=\"term\">principio de consentimiento</span>. El suicidio es permisible si la persona está informada, competente, actúa voluntariamente y tiene buenas razones. Ante intentos, conviene una presunción de cautela y preguntarse si la persona piensa con claridad. Esa cautela no equivale a prohibición absoluta.",
+          html: "Kagan formula un <span class=\"term\">principio de consentimiento</span> (criterio moral: suicidio permisible si hay información, competencia, voluntariedad y buenas razones). El suicidio es permisible si la persona está informada, competente, actúa voluntariamente y tiene buenas razones. Los intentos exigen presunción de cautela: hay que preguntarse si la persona piensa con claridad. Esa cautela no equivale a prohibición absoluta.",
         },
         {
           type: 'paragraph',
@@ -557,6 +617,10 @@ export const death: BookSummary = {
         {
           type: 'key',
           html: "El suicidio puede ser racional y moralmente permisible cuando quien decide está informado, competente y tiene buenas razones.",
+        },
+        {
+          type: 'paragraph',
+          html: "Tras recorrer metafísica y teoría del valor, el libro cierra invitando al lector a pensar por sí mismo.",
         },
       ],
     },
@@ -568,7 +632,7 @@ export const death: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Al inicio, Kagan invitó a pensar la muerte. Al cerrar, recuerda que pocos lo hacen. Caminamos junto a cementerios sin detenernos. Leer este libro ya es una excepción.",
+          html: "¿Basta con leer sobre la muerte o hay que pensarla de verdad? Al inicio, Kagan invitó a pensar la muerte. Al cerrar, recuerda que pocos lo hacen. Caminamos junto a cementerios sin detenernos. Leer este libro ya es una excepción.",
         },
         {
           type: 'paragraph',
@@ -707,7 +771,7 @@ export const death: BookSummary = {
     title: "La idea central",
     lines: [
   "La muerte no es un enigma metafísico que exija alma, miedo o desesperación.",
-  "Somos cuerpos que piensan y sienten; morir es dejar de funcionar así, y eso puede ser malo porque nos priva de vida, no porque nos duela estando muertos.",
+  "Somos cuerpos que piensan y sienten; morir es dejar de funcionar así.",
   "La inmortalidad no salvaría el problema: una vida sin fin podría volverse insoportable.",
   "El suicidio no es siempre locura ni crimen; a veces es la respuesta racional de quien ha pensado sus razones.",
   "Lo esencial es examinar las propias creencias, no solo heredarlas."

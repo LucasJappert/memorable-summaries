@@ -1,0 +1,21 @@
+---
+description: Dónde está la API key de lucas-ai-api para TTS (nunca en git)
+alwaysApply: true
+---
+
+# TTS — API key (repo público)
+
+El repo es **público**. La key de lucas-ai-api **nunca** va en código, commits, README, issues ni chat pegado a archivos tracked.
+
+## Dónde está
+
+1. **Fuente local:** `.env` en la raíz del repo (gitignored).
+2. Variables: `LUCAS_AI_API_KEY` (obligatoria para `--tts`); opcional `LUCAS_AI_API_URL`.
+3. Plantilla sin secretos: `.env.example` (sí se commitea).
+
+## Al generar audio
+
+- Si falta la key en el entorno, cargá desde `.env` (el script `md-to-narration.py` ya lo intenta) o:
+  `set -a && source .env && set +a`
+- Si `.env` no existe: **pedir al usuario** que lo cree desde `.env.example`. No inventar ni reusar keys de otros proyectos (yt-video-factory, DayLog, login `lucas`).
+- Client fair-share = nombre de la key en prod: `memorable-summaries`.

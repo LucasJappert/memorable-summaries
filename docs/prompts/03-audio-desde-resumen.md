@@ -104,12 +104,17 @@ Mostrar al terminar: duración (`probe_duration`), tamaño en MB, ruta final.
 ## Comando
 
 ```bash
-# Desde /home/ljappert/Downloads/libros — solo texto plano
+# Solo texto plano
 python3 scripts/md-to-narration.py free-will --text-only
 
-# TTS completo (WAV + MP3 en public/audio/ para la app):
+# TTS OmniVoice via lucas-ai-api (API key dedicada; sin login JWT):
+export LUCAS_AI_API_KEY='sk-...'
+export LUCAS_AI_API_URL='https://lucas-ai-api.eu1.netbird.services'  # opcional
+python3 scripts/md-to-narration.py free-will --tts --mp3
+
+# Alternativa Edge TTS (Hermes Director):
 "/home/ljappert/my-repos/Project Hermes Director/.venv/bin/python" \
-  scripts/md-to-narration.py free-will --tts --mp3
+  scripts/md-to-narration.py free-will --tts-hermes --mp3
 ```
 
 Salida: `audio/<slug>.txt`, `public/audio/<slug>.mp3` (servido por Vite en `/audio/<slug>.mp3`).

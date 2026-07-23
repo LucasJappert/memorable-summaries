@@ -63,10 +63,13 @@ Cada capítulo de esta obra fue, en el fondo, una pregunta sobre ese destino.
 ## title: Tres revoluciones que marcaron la historia
 
 <!-- paragraph lead -->
-<span class="person">Yuval Noah Harari</span> propone leer la trayectoria de <span class="term">Homo sapiens</span> como una cadena de transformaciones: primero la física del <span class="term">Big Bang</span>, luego la química de las moléculas, la biología de los organismos y, hace unos <span class="num">70.000</span> años, la <span class="term">historia</span> propiamente dicha, cuando los sapiens empezaron a tejer culturas.
+¿Cómo leer la historia de la humanidad sin perderse en detalles? <span class="person">Yuval Noah Harari</span>, historiador israelí, propone un marco simple. Primero hubo física, química y biología. Hace unos <span class="num">70.000</span> años empezó la <span class="term">historia</span> (el relato de culturas humanas), cuando los sapiens empezaron a tejer mitos y normas.
 
 <!-- paragraph -->
-Tres revoluciones marcan esa historia. La <span class="term">revolución cognitiva</span> (~<span class="num">70.000</span> a) permitió mitos y cooperación flexible entre miles de extraños. La <span class="term">revolución agrícola</span> (~<span class="num">12.000</span> a) multiplicó la población y fijó al humano al campo. La <span class="term">revolución científica</span> (últimos <span class="num">500</span> años) admitió la ignorancia y desató un poder tecnológico sin precedentes que podría poner fin a la historia tal como la conocemos.
+Tres revoluciones marcan ese relato. La revolución cognitiva abrió la cooperación entre miles de extraños. La revolución agrícola multiplicó la población y ató al humano al campo. La <span class="term">revolución científica</span> (el giro que admitió la ignorancia y buscó métodos nuevos) desató un poder tecnológico sin precedentes en los últimos <span class="num">500</span> años.
+
+<!-- paragraph -->
+Harari advierte que su libro es macro-historia interpretativa, no crónica de batallas. Ese zoom amplio ayuda a ver un patrón claro. Cada revolución transformó por completo cómo imaginamos y cooperamos. Por eso el resto del libro sigue ese hilo en cuatro partes.
 
 <!-- key -->
 La historia humana es la historia de tres revoluciones que redefinieron cómo imaginamos y cooperamos.
@@ -79,16 +82,19 @@ La historia humana es la historia de tres revoluciones que redefinieron cómo im
 ## title: Un animal sin importancia
 
 <!-- paragraph lead -->
-Durante millones de años los humanos ocuparon el centro de la cadena alimenticia: cazaban conejos y recolectaban plantas mientras leones y osos los cazaban a ellos. Solo hace unos <span class="num">100.000</span> años <span class="term">Homo sapiens</span> saltó al tope, demasiado rápido para que el ecosistema y nuestra psicología se ajustaran.
+¿Por qué un simio africano terminó gobernando el planeta? Durante millones de años los humanos ocupaban el centro de la cadena alimenticia. Cazaban conejos y recolectaban plantas. Leones y osos los cazaban a ellos. Solo hace unos <span class="num">100.000</span> años saltamos al tope. Fue demasiado rápido para que el ecosistema y nuestra psicología se ajustaran.
 
 <!-- paragraph -->
-El género <span class="term">Homo</span> incluyó muchas especies hermanas: neandertales, erectus, floresiensis, denisovanos. Hace <span class="num">70.000</span> años los sapiens salieron de África y, en pocas decenas de milenios, las extinguieron o absorbieron. El ADN neandertal compone un <span class="num">1-4 %</span> del genoma de poblaciones europeas y de Medio Oriente, lo que sugiere contactos raros pero reales.
+El género <span class="term">Homo</span> (el grupo de especies humanas cercanas) incluyó muchas especies hermanas. Neandertales, erectus, floresiensis y denisovanos convivieron con nosotros. Hace <span class="num">70.000</span> años los sapiens salieron de África. En pocas decenas de milenios las extinguieron o absorbieron. El ADN neandertal compone un <span class="num">1-4 %</span> del genoma de europeos y de Medio Oriente. Eso sugiere contactos raros pero reales.
 
 <!-- paragraph -->
-El cerebro humano consume un <span class="num">25 %</span> de la energía en reposo pese a representar solo el <span class="num">2-3 %</span> del peso corporal. El fuego, usado a diario desde hace unos <span class="num">300.000</span> años, permitió cocinar, acortar el intestino y abrir camino a cráneos más grandes. Aun así, durante dos millones de años ese cerebro costoso apenas produjo herramientas de piedra.
+Nuestro cerebro consume un <span class="num">25 %</span> de la energía en reposo. Pesa solo el <span class="num">2-3 %</span> del cuerpo. El fuego, usado a diario desde hace unos <span class="num">300.000</span> años, permitió cocinar y acortar el intestino. Así hubo camino a cráneos más grandes. Aun así, durante dos millones de años ese cerebro costoso apenas produjo herramientas de piedra.
 
 <!-- key -->
 Fuimos animales marginales hasta un ascenso reciente al tope de la pirámide, demasiado abrupto para asimilarlo.
+
+<!-- bridge -->
+Si el cerebro grande no bastó durante millones de años, hace falta otra explicación del éxito reciente de Sapiens.
 
 ---
 
@@ -98,13 +104,13 @@ Fuimos animales marginales hasta un ascenso reciente al tope de la pirámide, de
 ## title: El árbol del conocimiento
 
 <!-- paragraph lead -->
-Hace <span class="num">150.000</span> años ya existían sapiens anatómicamente modernos en África Oriental, pero solo hace unos <span class="num">70.000</span> empezaron a conquistar el mundo, crear arte, comercio y religiones. La causa probable es la <span class="term">revolución cognitiva</span>: un cambio en el cableado cerebral que habilitó un lenguaje capaz de hablar de lo inexistente.
+¿Qué cambió hace unos <span class="num">70.000</span> años? Ya existían sapiens anatómicamente modernos en África Oriental desde hace <span class="num">150.000</span> años. Solo entonces empezaron a conquistar el mundo, crear arte y comerciar. La causa probable es la revolución cognitiva: un cambio en el cerebro que habilitó un lenguaje capaz de hablar de lo inexistente.
 
 <!-- paragraph -->
-El lenguaje sapiens no solo describe leones: puede narrar que «el león es el espíritu guardián de la tribu». Las <span class="term">ficciones intersubjetivas</span> permiten que extraños cooperen en cruzadas, empresas o estados. La leyenda de <span class="term">Peugeot</span> ilustra una «persona jurídica» que existe solo en la ley y en la creencia colectiva, pero puede poseer propiedades y demandar en tribunales.
+Ese lenguaje no solo describe leones. Puede narrar que «el león es el espíritu guardián de la tribu». Las <span class="term">ficciones intersubjetivas</span> (creencias compartidas sobre entidades imaginadas) permiten que extraños cooperen en cruzadas o empresas. La leyenda de Peugeot ilustra una «persona jurídica» que existe solo en la ley. Aun así puede poseer propiedades y demandar en tribunales.
 
 <!-- paragraph -->
-Mientras la evolución genética avanza lento, la evolución cultural aceleró: un papa católico renuncia a reproducirse sin transmitir un «gen de celibato», sino una historia que moldea conducta. La revolución cognitiva separó la historia de la biología: para entender el cristianismo o la Revolución Francesa no alcanza con genes y hormonas.
+Mientras la evolución genética avanza lento, la evolución cultural aceleró. Un papa católico renuncia a reproducirse sin transmitir un «gen de celibato». Transmite una historia que moldea conducta. Por eso la revolución cognitiva separó la historia de la biología. Entender el cristianismo o la Revolución Francesa requiere más que genes y hormonas.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -116,6 +122,9 @@ Mientras la evolución genética avanza lento, la evolución cultural aceleró: 
 <!-- key -->
 Sapiens conquistó el mundo porque su lenguaje inventa realidades imaginadas que unen a multitudes.
 
+<!-- bridge -->
+Con esa capacidad de inventar mitos, la vida cotidiana de los cazadores-recolectores pudo tomar formas muy distintas.
+
 ---
 
 # cap3
@@ -124,16 +133,19 @@ Sapiens conquistó el mundo porque su lenguaje inventa realidades imaginadas que
 ## title: Un día en la vida de Adán y Eva
 
 <!-- paragraph lead -->
-Durante decenas de milenios nuestros ancestros fueron <span class="term">cazadores-recolectores</span>. La <span class="term">psicología evolutiva</span> sostiene que comemos en exceso hoy porque el cerebro sigue programado para la escasez del Pleistoceno: un árbol de higos era devorarlo entero antes que los babuinos.
+¿Cómo vivían los humanos antes de la agricultura? Durante decenas de milenios nuestros ancestros fueron <span class="term">cazadores-recolectores</span> (bandas nómadas que cazaban, pescaban y recolectaban). La psicología evolutiva sostiene que comemos en exceso hoy porque el cerebro sigue programado para la escasez del Pleistoceno. Un árbol de higos era devorarlo entero antes que los babuinos.
 
 <!-- paragraph -->
-La evidencia arqueológica es escasa: la Edad de Piedra debió ser en gran medida la Edad de la Madera. Los foragers modernos no son buen espejo del pasado, pero sugieren bandas de decenas o cientos de personas, gran conocimiento del territorio y enorme diversidad cultural. No hay un «modo de vida natural» único desde la revolución cognitiva: Oxford y Cambridge, imaginadas hace <span class="num">30.000</span> años, habrían tenido lenguas, mitos y normas opuestas.
+La evidencia arqueológica es escasa. La Edad de Piedra debió ser en gran medida la Edad de la Madera. Los foragers modernos no son buen espejo del pasado. Sugieren bandas de decenas o cientos de personas y enorme diversidad cultural. No hay un «modo de vida natural» único desde la revolución cognitiva. Oxford y Cambridge, imaginadas hace <span class="num">30.000</span> años, habrían tenido lenguas y normas opuestas.
 
 <!-- paragraph -->
-Harari describe la sociedad de foragers como la «<span class="term">sociedad afluente original</span>»: menos horas de trabajo que el campesino, dieta variada, pero también violencia entre bandas y abandono de ancianos en tiempos duros. Los perros, domesticados hace unos <span class="num">15.000</span> años, fueron la primera alianza interespecie antes de la agricultura.
+Harari describe a los foragers como una <span class="term">sociedad afluente original</span>, o sea, con menos horas de trabajo que el campesino y dieta variada. También hubo violencia entre bandas y abandono de ancianos en tiempos duros. Los perros, domesticados hace unos <span class="num">15.000</span> años, fueron la primera alianza interespecie antes de la agricultura.
 
 <!-- key -->
 No existe un solo modo humano «natural»: la revolución cognitiva abrió un abanico enorme de culturas posibles.
+
+<!-- bridge -->
+Esas culturas diversas convivieron con ecosistemas enteros hasta que Sapiens empezó a borrarlos.
 
 ---
 
@@ -143,13 +155,13 @@ No existe un solo modo humano «natural»: la revolución cognitiva abrió un ab
 ## title: La inundación
 
 <!-- paragraph lead -->
-La expansión de Sapiens fue la primera gran catástrofe ecológica. En Australia, hace unos <span class="num">45.000</span> años, desapareció la megafauna local poco después de la llegada humana. En América, hace unos <span class="num">13.000</span> años, el mismo patrón: perezosos gigantes, mastodontes y armadillos gigantes se extinguieron.
+¿Por qué desapareció tanta megafauna cuando llegamos? La expansión de Sapiens fue la primera gran catástrofe ecológica. En Australia, hace unos <span class="num">45.000</span> años, desapareció la megafauna local poco después de la llegada humana. En América, hace unos <span class="num">13.000</span> años, el mismo patrón se repitió. Perezosos gigantes, mastodontes y armadillos gigantes se extinguieron.
 
 <!-- paragraph -->
-Hace <span class="num">70.000</span> años existían unos <span class="num">200</span> géneros de mamíferos terrestres mayores de <span class="num">50</span> kg. Al inicio de la revolución agrícola quedaban unos <span class="num">100</span>. Madagascar perdió su megafauna hace unos <span class="num">1.500</span> años. La polinización de islas del Pacífico repitió el guion durante milenios.
+Hace unos 70.000 años existían unos 200 géneros de mamíferos terrestres mayores de 50 kg. Al inicio de la revolución agrícola quedaban unos 100. Madagascar perdió su megafauna hace unos <span class="num">1.500</span> años. La polinización de islas del Pacífico repitió el guion durante milenios.
 
 <!-- paragraph -->
-Harari rechaza la imagen romántica del humano en armonía con la naturaleza. La primera ola de extinciones precedió a la rueda, la escritura y el hierro. La segunda vendría con los agricultores. La tercera, con la industria.
+Harari rechaza la imagen romántica del humano en armonía con la naturaleza. La primera ola de extinciones precedió a la rueda, la escritura y el hierro. La segunda vendría con los agricultores. La tercera, con la industria. Por eso Sapiens ya era el depredador más letal de la biosfera mucho antes de fábricas y motores.
 
 <!-- big-numbers -->
 | value | label |
@@ -161,6 +173,9 @@ Harari rechaza la imagen romántica del humano en armonía con la naturaleza. La
 <!-- key -->
 Sapiens fue el depredador más letal de la biosfera mucho antes de la revolución industrial.
 
+<!-- bridge -->
+Tras diez milenios de foragers, una nueva revolución cambió la relación con la tierra y con la comida.
+
 ---
 
 # cap5
@@ -169,16 +184,19 @@ Sapiens fue el depredador más letal de la biosfera mucho antes de la revolució
 ## title: El mayor fraude de la historia
 
 <!-- paragraph lead -->
-Durante <span class="num">2,5 millones</span> de años los humanos recolectaron y cazaron sin domesticar. Hace unos <span class="num">12.000</span> años, en el Cercano Oriente, empezaron a sembrar trigo y criar cabras. Eso fue la <span class="term">revolución agrícola</span>: no un progreso obvio para el individuo, sino una trampa.
+¿Fue la agricultura un progreso para quien la adoptó? Durante <span class="num">2,5 millones</span> de años los humanos recolectaron y cazaron sin domesticar. Hace unos <span class="num">12.000</span> años, en el Cercano Oriente, empezaron a sembrar trigo y criar cabras. Eso fue la revolución agrícola. No fue un progreso obvio para el individuo, sino una trampa.
 
 <!-- paragraph -->
-Harari invierte la metáfora: el <span class="term">trigo</span> domesticó a Sapiens. Exigió despejar campos, regar, luchar contra plagas y quedarse en un lugar. Esqueletos agrícolas muestran hernias, artritis y dientes cariados. El oasis de Jericó pasó de unos <span class="num">100</span> nómadas saludables (~<span class="num">13.000</span> a.C.) a unos <span class="num">1.000</span> aldeanos enfermizos (~<span class="num">8.500</span> a.C.).
+Harari invierte la metáfora. El <span class="term">trigo</span> (planta domesticada que exigió trabajo constante) domesticó a Sapiens, no al revés. Exigió despejar campos, regar y luchar contra plagas. Esqueletos agrícolas muestran hernias, artritis y dientes cariados. En Jericó, unos 100 nómadas saludables (~13.000 a.C.) se convirtieron en unos 1.000 aldeanos enfermizos (~8.500 a.C.).
 
 <!-- paragraph -->
-La moneda de la evolución son copias de ADN, no felicidad. Más personas en peores condiciones pueden ser «éxito» biológico. El campesino aceptó cada mejora, como sembrar en surcos o regar, sin ver el resultado acumulado: más trabajo, más hijos, más epidemias. Hoy más del <span class="num">90 %</span> de las calorías humanas provienen de un puñado de cultivos domesticados entre <span class="num">9.500</span> y <span class="num">3.500</span> a.C.
+La moneda de la evolución son copias de ADN, no felicidad. Más personas en peores condiciones pueden ser «éxito» biológico. El campesino aceptó cada mejora sin ver el resultado acumulado. Más trabajo, más hijos, más epidemias. Hoy más del 90 % de las calorías humanas provienen de un puñado de cultivos domesticados entre 9.500 y 3.500 a.C.
 
 <!-- key -->
 La agricultura multiplicó la especie a costa de empeorar la vida del agricultor medio: el mayor fraude de la historia.
+
+<!-- bridge -->
+El excedente de comida obligó a inventar nuevas formas de organizar millones de extraños.
 
 ---
 
@@ -188,16 +206,19 @@ La agricultura multiplicó la especie a costa de empeorar la vida del agricultor
 ## title: Construir pirámides
 
 <!-- paragraph lead -->
-Los excedentes agrícolas alimentaron reyes, sacerdotes y soldados. Millones de extraños no cooperan sin mitos compartidos, porque no saben repartir tierra ni resolver conflictos. La Revolución Francesa estalló en tiempos de abundancia, no solo de hambre.
+¿Cómo logran cooperar millones de desconocidos? Los excedentes agrícolas alimentaron reyes, sacerdotes y soldados. Millones de extraños no cooperan sin mitos compartidos. No saben repartir tierra ni resolver conflictos entre sí. La Revolución Francesa estalló en tiempos de abundancia, no solo de hambre.
 
 <!-- paragraph -->
-Los <span class="term">órdenes imaginados</span>, códigos legales inspirados en dioses o en derechos, hacen creer que la jerarquía es natural. El código de <span class="person">Hammurabi</span> fija superiores, plebeyos y esclavos con valores distintos. La Declaración de <span class="num">1776</span> proclama igualdad, pero sus firmantes eran esclavistas. Biológicamente, «creados iguales» sería «evolucionados distinto».
+Los <span class="term">órdenes imaginados</span> (jerarquías que existen solo en creencia colectiva) hacen creer que la desigualdad es natural. El código de <span class="person">Hammurabi</span>, rey babilónico del siglo XVIII a.C., fija superiores, plebeyos y esclavos con valores distintos. La Declaración de <span class="num">1776</span> proclama igualdad, pero sus firmantes eran esclavistas. Biológicamente, «creados iguales» sería «evolucionados distinto».
 
 <!-- paragraph -->
-Para sostener un orden imaginado hace falta violencia y verdaderos creyentes: un sacerdote convence mejor que un batallón. El orden se incrusta en casas con habitaciones privadas, en moda, en deseos de viajar al extranjero moldeados por el <span class="term">consumismo romántico</span>.
+Para sostener un orden imaginado hace falta violencia y verdaderos creyentes. Un sacerdote convence mejor que un batallón. El orden se incrusta en casas con habitaciones privadas, en moda y en deseos de viajar al extranjero. Eso es el <span class="term">consumismo romántico</span> (la idea de que la felicidad viene de experiencias y compras nuevas).
 
 <!-- key -->
 La cooperación masiva descansa en ficciones legales y religiosas que nadie puede señalar con el dedo.
+
+<!-- bridge -->
+Gobernar esos órdenes a escala imperial exigió una herramienta nueva: registrar datos por escrito.
 
 ---
 
@@ -207,16 +228,19 @@ La cooperación masiva descansa en ficciones legales y religiosas que nadie pued
 ## title: Sobrecarga de memoria
 
 <!-- paragraph lead -->
-La <span class="term">escritura</span> surgió hace unos <span class="num">5.000-3.500</span> años como herramienta parcial para registrar deudas e impuestos, no para literatura. Los sumerios guardaban cebada y cantidades. La epopeya vino después.
+¿Para qué nació la escritura? Surgió hace unos <span class="num">5.000-3.500</span> años como herramienta parcial para registrar deudas e impuestos. No nació para literatura. Los sumerios guardaban cebada y cantidades. La epopeya vino después.
 
 <!-- paragraph -->
-Los imperios en crecimiento necesitaban archivar cada vez más datos. El rey Zimrilim de Mari no podía hallar una escritura entre miles de tablillas. Surgieron catálogos, escuelas de escribas y un pensamiento compartimentado. El cerebro asocia libremente. La burocracia exige cajones separados.
+Los imperios en crecimiento necesitaban archivar cada vez más datos. El rey Zimrilim de Mari no podía hallar una escritura entre miles de tablillas. Surgieron catálogos, escuelas de escribas y un pensamiento compartimentado. El cerebro asocia libremente. La burocracia exige cajones separados. Por eso Harari dice que la escritura reprogramó cómo pensamos.
 
 <!-- paragraph -->
-Los <span class="term">números arábigos</span> y luego el binario ampliaron la brecha entre pensamiento humano y procesamiento de datos. Hoy traducimos pobreza, felicidad y honor a cifras porque las máquinas solo entienden números.
+Los <span class="term">números arábigos</span> (símbolos del 0 al 9 que simplifican el cálculo) ampliaron la brecha entre pensamiento humano y procesamiento de datos. Luego llegó el binario. Hoy traducimos pobreza, felicidad y honor a cifras porque las máquinas solo entienden números.
 
 <!-- key -->
 La escritura nació para el impuesto y terminó reprogramando cómo pensamos: como archiveros, no como narradores holísticos.
+
+<!-- bridge -->
+Con archivos y jerarquías escritas, la desigualdad pudo disfrazarse de ley natural.
 
 ---
 
@@ -226,16 +250,19 @@ La escritura nació para el impuesto y terminó reprogramando cómo pensamos: co
 ## title: No hay justicia en la historia
 
 <!-- paragraph lead -->
-Toda jerarquía afirma ser natural. Los defensores de la esclavitud invocaban una naturaleza servil. Los supremacistas raciales hablaban de inferioridad biológica. Los capitalistas invocaban el mérito individual. En todos los casos, la desigualdad es una <span class="term">ficción legitimada</span>, no un hecho biológico.
+¿Por qué toda sociedad grande tiene jerarquías? Toda jerarquía afirma ser natural. Los defensores de la esclavitud invocaban una naturaleza servil. Los supremacistas raciales hablaban de inferioridad biológica. Los capitalistas invocaban el mérito individual. En todos los casos, la desigualdad es una <span class="term">ficción legitimada</span> (una creencia compartida que justifica el orden), no un hecho biológico.
 
 <!-- paragraph -->
-Harari distingue <span class="term">sexo</span>, definido por cromosomas, de <span class="term">género</span>, los roles culturales de hombre y mujer. «Biology enables, Culture forbids»: la biología permite muchos comportamientos. La cultura prohíbe la mayoría. El patriarcado domina desde la agricultura, pero ninguna teoría (fuerza muscular, agresión, genes) lo explica del todo.
+Harari distingue <span class="term">sexo</span> (definido por cromosomas) de <span class="term">género</span> (los roles culturales de hombre y mujer). «Biology enables, Culture forbids»: la biología permite muchos comportamientos. La cultura prohíbe la mayoría. El patriarcado domina desde la agricultura. Ninguna teoría (fuerza muscular, agresión, genes) lo explica del todo.
 
 <!-- paragraph -->
-Las jerarquías permiten a extraños saber cómo tratarse sin intimidad previa. Por eso casi ninguna sociedad grande eliminó la discriminación por completo. Las diferencias de aptitud real existen, pero se amplifican por acceso desigual a educación y poder.
+Las jerarquías permiten a extraños saber cómo tratarse sin intimidad previa. Por eso casi ninguna sociedad grande eliminó la discriminación por completo. Las diferencias de aptitud real existen. Se amplifican por acceso desigual a educación y poder.
 
 <!-- key -->
 Toda desigualdad social masiva es imaginada y se disfraza de ley de la naturaleza.
+
+<!-- bridge -->
+Esas jerarquías no son eternas: las culturas cambian por tensiones internas y buscan unificarse.
 
 ---
 
@@ -245,16 +272,19 @@ Toda desigualdad social masiva es imaginada y se disfraza de ley de la naturalez
 ## title: La flecha de la historia
 
 <!-- paragraph lead -->
-Las culturas no son esencias inmutables. Cambian por contradicciones internas. La nobleza medieval debía ser cristiana (humilde) y caballeresca (violenta). Reconciliar ambas tensiones alimentó cruzadas y literatura artúrica.
+¿Hacia dónde «avanza» la historia humana? Las culturas no son esencias inmutables. Cambian por contradicciones internas. La nobleza medieval debía ser cristiana (humilde) y caballeresca (violenta). Reconciliar ambas tensiones alimentó cruzadas y literatura artúrica.
 
 <!-- paragraph -->
-La modernidad enfrenta otra contradicción entre <span class="term">igualdad</span> y <span class="term">libertad</span>. Garantizar igualdad restringe la libertad de los más ricos. Maximizar libertad profundiza la brecha. Esa tensión impulsa la política desde <span class="num">1789</span>.
+La modernidad enfrenta otra contradicción entre <span class="term">igualdad</span> (mismo trato ante la ley) y <span class="term">libertad</span> (mínima interferencia estatal). Garantizar igualdad restringe la libertad de los más ricos. Maximizar libertad profundiza la brecha. Esa tensión impulsa la política desde <span class="num">1789</span>.
 
 <!-- paragraph -->
-Tres fuerzas unifican a la humanidad: <span class="term">dinero</span>, <span class="term">imperio</span> y <span class="term">religión</span> universal. La historia tiene dirección hacia la unificación global, pero no garantía de bienestar.
+Tres fuerzas unifican a la humanidad: dinero, imperio y religión universal. La historia tiene dirección hacia la unificación global. Pero eso no garantiza bienestar. Por eso Harari dedica los siguientes capítulos a cada vector.
 
 <!-- key -->
 Las culturas avanzan por contradicciones internas hacia redes cada vez más vastas de cooperación humana.
+
+<!-- bridge -->
+El primer vector de unificación es el más tolerante: el dinero.
 
 ---
 
@@ -264,16 +294,19 @@ Las culturas avanzan por contradicciones internas hacia redes cada vez más vast
 ## title: El aroma del dinero
 
 <!-- paragraph lead -->
-El <span class="term">dinero</span> es el sistema de confianza mutua más tolerante, pues cristianos y musulmanes que no comparten fe pueden comerciar si comparten creencia en el oro o el dólar. Los sumerios usaban cebada como unidad. Las primeras monedas aparecieron en Lidia hacia el <span class="num">640 a.C.</span>
+¿Qué une a cristianos y musulmanes que no comparten fe? El <span class="term">dinero</span> (un sistema de confianza mutua en símbolos intercambiables) es el más tolerante de la historia. Permite comerciar si ambos creen en el oro o el dólar. Los sumerios usaban cebada como unidad. Las primeras monedas aparecieron en Lidia hacia el <span class="num">640 a.C.</span>
 
 <!-- paragraph -->
-El dinero cumple convertibilidad universal y confianza en terceros. Eso tiene un precio, porque corroe valores íntimos y sustituye comunidad por mercado. En hambrunas se vendían hijos y se compraban indulgencias. Aun así, el equilibrio entre mercado y tradición se renegocia sin cesar.
+El dinero cumple convertibilidad universal y confianza en terceros. Eso tiene un precio. Corroe valores íntimos y sustituye comunidad por mercado. En hambrunas se vendían hijos y se compraban indulgencias. Aun así, el equilibrio entre mercado y tradición se renegocia sin cesar.
 
 <!-- paragraph -->
-Harari subraya que la unificación humana no es solo economía, pues tras el dinero viene el acero imperial.
+Harari subraya que la unificación humana no es solo economía. El acero imperial sigue al dinero en esa unificación. Por eso el siguiente capítulo pasa de monedas a imperios.
 
 <!-- key -->
 El dinero es confianza materializada: convierte casi cualquier cosa en casi cualquier otra entre desconocidos.
+
+<!-- bridge -->
+Donde el dinero no alcanza, los imperios imponen un orden político multiétnico.
 
 ---
 
@@ -283,16 +316,19 @@ El dinero es confianza materializada: convierte casi cualquier cosa en casi cual
 ## title: Visiones imperiales
 
 <!-- paragraph lead -->
-Un <span class="term">imperio</span> gobierna muchos pueblos distintos con fronteras flexibles y apetito de expandirse. Roma destruyó Numancia, pero los patriotas españoles de hoy hablan romance, usan leyes romanas y profesan una religión nacida en el Imperio.
+¿Por qué casi todas las culturas actuales llevan huellas imperiales? Un <span class="term">imperio</span> (un estado que gobierna pueblos diversos con fronteras flexibles) domina la historia de los últimos <span class="num">2.500</span> años. Roma destruyó Numancia. Los patriotas españoles de hoy hablan romance, usan leyes romanas y profesan una religión nacida en el Imperio.
 
 <!-- paragraph -->
-Los imperios suelen ser estables y difíciles de derrocar desde dentro. Las culturas «puras» son ilusión: la India independiente conserva democracia británica, ferrocarriles, inglés y té. Retirar todo legado imperial sería amputar la cultura actual.
+Los imperios suelen ser estables y difíciles de derrocar desde dentro. Las culturas «puras» son ilusión. La India independiente conserva democracia británica, ferrocarriles, inglés y té. Retirar todo legado imperial sería amputar la cultura actual. Por eso Harari insiste en que el legado es ineludible.
 
 <!-- paragraph -->
-<span class="person">Ciro el Grande</span> prometió conquistar «por beneficio de todos», no solo de Persia. Hoy emerge un imperio global multiétnico que podría responder al calentamiento planetario donde el estado-nación falla.
+<span class="person">Ciro el Grande</span>, fundador del Imperio persa, prometió conquistar «por beneficio de todos», no solo de Persia. Hoy emerge un imperio global multiétnico. Podría responder al calentamiento planetario donde el estado-nación falla. El tercer unificador, la religión, cierra esta tríada.
 
 <!-- key -->
 Los imperios masacraron y fusionaron pueblos. Casi todos hoy somos herederos de su legado cultural.
+
+<!-- bridge -->
+Junto al dinero y al imperio, las religiones universales ofrecieron mitos que trascienden la tribu.
 
 ---
 
@@ -302,16 +338,19 @@ Los imperios masacraron y fusionaron pueblos. Casi todos hoy somos herederos de 
 ## title: La ley de la religión
 
 <!-- paragraph lead -->
-La <span class="term">religión</span> legitima órdenes frágiles invocando un superorden no humano y normas vinculantes. Debe ser universal y misionera para unir masas: cristianismo, islam, budismo. El animismo local no buscaba convertir al mundo.
+¿Por qué las religiones grandes buscan convertir al mundo entero? La <span class="term">religión</span> (un superorden no humano más normas vinculantes) legitima órdenes frágiles. Debe ser universal y misionera para unir masas. El cristianismo, el islam y el budismo lo son. El animismo local no buscaba convertir al mundo.
 
 <!-- paragraph -->
-La agricultura degradó plantas y animales de interlocutores espirituales a propiedad. Surgieron dioses que mediaban fertilidad y cosecha. El politeísmo toleraba dioses ajenos. El monoteísmo evangelizador fue más exclusivo y, a menudo, más sangriento entre variantes.
+La agricultura degradó plantas y animales de interlocutores espirituales a propiedad. Surgieron dioses que mediaban fertilidad y cosecha. El politeísmo toleraba dioses ajenos. El monoteísmo evangelizador fue más exclusivo. A menudo fue más sangriento entre variantes del mismo credo.
 
 <!-- paragraph -->
-El <span class="term">humanismo</span> moderno, ya sea liberal, socialista o evolutivo, es una religión que coloca a la humanidad (o al individuo, la especie o el superhombre) como fuente de autoridad moral.
+El <span class="term">humanismo</span> (doctrina que coloca a la humanidad como fuente de autoridad moral) moderno es una religión disfrazada. Ya sea liberal, socialista o evolutivo, coloca al individuo, la especie o el superhombre en el centro. Por eso prepara la pregunta sobre el éxito histórico de las culturas.
 
 <!-- key -->
 Las religiones universales dieron a millones de extraños mitos comunes más poderosos que la tribu.
+
+<!-- bridge -->
+Pero triunfar en la historia no prueba que una cultura beneficie a quienes la viven.
 
 ---
 
@@ -321,16 +360,19 @@ Las religiones universales dieron a millones de extraños mitos comunes más pod
 ## title: El secreto del éxito
 
 <!-- paragraph lead -->
-La historia no es determinista. Lo que parece inevitable hoy fue impredecible para quienes lo vivieron. <span class="person">Constantino</span> eligió el cristianismo cuando era secta marginal. En <span class="num">1913</span> los bolcheviques eran grupo diminuto.
+¿Por qué ganó el cristianismo y no el maniqueísmo? La historia no es determinista. Lo que parece inevitable hoy fue impredecible para quienes lo vivieron. <span class="person">Constantino</span>, emperador romano, eligió el cristianismo cuando era secta marginal. En <span class="num">1913</span> los bolcheviques eran grupo diminuto.
 
 <!-- paragraph -->
-La historia es un caos de «nivel dos»: las predicciones alteran el resultado (mercados, revoluciones). Estudiarla no predice el futuro, pero muestra que el presente no era inevitable.
+La historia es un caos de «nivel dos». Las predicciones alteran el resultado en mercados y revoluciones. Estudiarla no predice el futuro. Pero muestra que el presente no era inevitable. Por eso Harari rechaza el sesgo retrospectivo.
 
 <!-- paragraph -->
-Las culturas exitosas propagan <span class="term">memes</span>, no necesariamente bienestar. El nacionalismo, el cristianismo o el capitalismo triunfaron sin prueba de que sean lo mejor para Homo sapiens.
+Las culturas exitosas propagan <span class="term">memes</span> (ideas que se replican de mente en mente), no necesariamente bienestar. El nacionalismo, el cristianismo o el capitalismo triunfaron sin prueba de que sean lo mejor para Homo sapiens. Eso abre paso a la revolución científica.
 
 <!-- key -->
 El éxito histórico de una cultura no prueba que beneficie a quienes la sufren.
+
+<!-- bridge -->
+La revolución científica cambió las reglas: admitió lo que no se sabía.
 
 ---
 
@@ -340,16 +382,19 @@ El éxito histórico de una cultura no prueba que beneficie a quienes la sufren.
 ## title: El descubrimiento de la ignorancia
 
 <!-- paragraph lead -->
-En el año <span class="num">1500</span> había unos <span class="num">500 millones</span> de humanos. Hoy somos unos <span class="num">7.000 millones</span>. La producción global pasó de unos <span class="num">250.000 millones</span> de dólares actuales a unos <span class="num">60 billones</span>. Un campesino del siglo XVI reconocería el mundo de <span class="num">1800</span>. Un marinero de Colón quedaría extraviado ante un iPhone.
+¿Qué cambió en los últimos 500 años para multiplicar el poder humano? En el año 1500 había unos 500 millones de humanos. Hoy somos unos 7.000 millones. La producción global pasó de unos 250.000 millones de dólares actuales a unos 60 billones. Un campesino del siglo XVI reconocería el mundo de 1800. Un marinero de Colón quedaría extraviado ante un iPhone.
 
 <!-- paragraph -->
-La <span class="term">revolución científica</span> comenzó al admitir ignorancia y buscar métodos para llenarla. Antes, tradiciones afirmaban que todo lo esencial ya estaba revelado. <span class="person">Benjamin Franklin</span> demostró que el rayo es electricidad. La pobreza dejó de verse como destino divino.
+La <span class="term">revolución científica</span> comenzó al admitir ignorancia y buscar métodos para llenarla. Antes, tradiciones afirmaban que todo lo esencial ya estaba revelado. <span class="person">Benjamin Franklin</span>, científico y político estadounidense, demostró que el rayo es electricidad. La pobreza dejó de verse como destino divino.
 
 <!-- paragraph -->
-La ciencia no elige sola sus prioridades. Reyes, capitalistas e imperios financian lo útil para el poder. El <span class="term">Proyecto Gilgamesh</span>, vencer la muerte, es el sueño científico moderno. La esperanza de vida global ronda los <span class="num">67</span> años.
+La ciencia no elige sola sus prioridades. Reyes, capitalistas e imperios financian lo útil para el poder. El Proyecto Gilgamesh (vencer la muerte) es el sueño científico moderno. La esperanza de vida global ronda los 67 años. Harari advierte que quien paga decide la agenda.
 
 <!-- key -->
 Admitir ignorancia y financiar investigación desató un poder sin precedentes, siempre ligado a intereses políticos y económicos.
+
+<!-- bridge -->
+Ese poder se alió con imperios que cartografiaban y explotaban el mundo.
 
 ---
 
@@ -359,16 +404,19 @@ Admitir ignorancia y financiar investigación desató un poder sin precedentes, 
 ## title: El matrimonio entre ciencia e imperio
 
 <!-- paragraph lead -->
-Explorar el mundo fue proyecto científico e imperial a la vez. La Royal Society quiso medir la distancia Tierra-Sol durante el tránsito de Venus de 1769 y envió a James Cook a Tahití. Llevaba botánicos y artistas bajo bandera británica.
+¿Por qué Cook llevaba botánicos bajo bandera británica? Explorar el mundo fue proyecto científico e imperial a la vez. La Royal Society quiso medir la distancia Tierra-Sol durante el tránsito de Venus de <span class="num">1769</span>. Envió a <span class="person">James Cook</span>, capitán de la Royal Navy, a Tahití. Llevaba botánicos y artistas bajo bandera británica.
 
 <!-- paragraph -->
-Los británicos en la India cartografiaron el territorio. Excavaron Mohenjo-daro y descifraron escrituras que los gobernantes locales habían olvidado. <span class="person">Henry Rawlinson</span> copió la inscripción de Behistún. <span class="person">William Jones</span> fundó la lingüística comparada. Menos de <span class="num">5.000</span> funcionarios británicos gobernaron unos <span class="num">300 millones</span> de indios gracias a conocimiento y legitimidad de «progreso».
+Los británicos en la India cartografiaron el territorio. Excavaron Mohenjo-daro y descifraron escrituras que los gobernantes locales habían olvidado. <span class="person">Henry Rawlinson</span>, oficial y erudito británico, copió la inscripción de Behistún. <span class="person">William Jones</span>, juez en Bengala, fundó la lingüística comparada. Menos de <span class="num">5.000</span> funcionarios británicos gobernaron unos <span class="num">300 millones</span> de indios gracias a conocimiento y legitimidad de «progreso».
 
 <!-- paragraph -->
-La ciencia también sirvió ideologías racistas (teoría aria) que hoy mutaron en «culturismo». Imperio y laboratorio compartían bomba atómica y hambruna de Bengala (~<span class="num">10 millones</span> de muertos, <span class="num">1769-1773</span>).
+La ciencia también sirvió ideologías racistas (teoría aria) que hoy mutaron en «culturismo». Imperio y laboratorio compartieron bomba atómica y hambruna de Bengala (~<span class="num">10 millones</span> de muertos, ~<span class="num">1770</span>). Por eso Harari no idealiza la alianza.
 
 <!-- key -->
 Ciencia e imperio se necesitaron mutuamente, porque explorar, clasificar y explotar el mundo fue la misma empresa moderna.
+
+<!-- bridge -->
+Un tercer motor financió ese poder: el capitalismo y su fe en el crecimiento.
 
 ---
 
@@ -378,16 +426,19 @@ Ciencia e imperio se necesitaron mutuamente, porque explorar, clasificar y explo
 ## title: El credo capitalista
 
 <!-- paragraph lead -->
-La palabra clave de la economía moderna es <span class="term">crecimiento</span>. El PIB per cápita pasó de unos <span class="num">550</span> dólares en <span class="num">1500</span> a unos <span class="num">8.800</span> hoy. Ese salto depende del <span class="term">crédito</span>, porque los bancos crean dinero confiando en beneficios futuros. Hasta el <span class="num">90 %</span> del dinero en cuentas no tiene respaldo en efectivo.
+¿De dónde sale el crecimiento económico moderno? La palabra clave es <span class="term">crecimiento</span> (aumento perpetuo de producción y consumo). El PIB per cápita pasó de unos 550 dólares en 1500 a unos 8.800 hoy. Ese salto depende del <span class="term">crédito</span> (dinero creado hoy contra ganancias futuras esperadas). Hasta el 90 % del dinero en cuentas no tiene respaldo en efectivo.
 
 <!-- paragraph -->
-El capitalismo reinvirtió ganancias en producción y, cuando faltó mano de obra barata, recurrió a la esclavitud atlántica: unos <span class="num">10 millones</span> de africanos, acciones en Ámsterdam y Londres, rendimientos del ~<span class="num">6 %</span> anual. Leopoldo II en el Congo mató a millones persiguiendo caucho sin control estatal.
+El capitalismo reinvirtió ganancias en producción. Cuando faltó mano de obra barata, recurrió a la esclavitud atlántica. Unos <span class="num">10 millones</span> de africanos cruzaron el océano. Sus cuerpos se negociaron en Ámsterdam y Londres con rendimientos del ~<span class="num">6 %</span> anual. Leopoldo II en el Congo mató a millones persiguiendo caucho sin control estatal.
 
 <!-- paragraph -->
-El capitalismo responde que no hay alternativa viable y que el crecimiento eventualmente elevará a todos. Harari advierte que puede ser otro fraude a escala planetaria.
+El capitalismo responde que no hay alternativa viable. Sostiene que el crecimiento eventualmente elevará a todos. Harari advierte que puede ser otro fraude a escala planetaria. Ese crecimiento exigió más energía de la que el sol regalaba directamente a los músculos.
 
 <!-- key -->
 El capitalismo convierte la confianza en el futuro en crecimiento, con atroces costos humanos cuando no hay freno ético.
+
+<!-- bridge -->
+La revolución industrial convirtió carbón y petróleo en movimiento a voluntad.
 
 ---
 
@@ -397,16 +448,19 @@ El capitalismo convierte la confianza en el futuro en crecimiento, con atroces c
 ## title: Las ruedas de la industria
 
 <!-- paragraph lead -->
-La <span class="term">revolución industrial</span> fue una revolución en convertir energía: el motor de vapor tomó calor del carbón y lo volvió movimiento. Antes, casi toda la energía humana provenía de plantas y del sol que las alimentaba.
+¿Qué cambió cuando aprendimos a convertir energía a voluntad? La <span class="term">revolución industrial</span> (el salto que convirtió combustibles en movimiento mecánico) tomó calor del carbón y lo volvió movimiento. Antes, casi toda la energía humana provenía de plantas y del sol que las alimentaba.
 
 <!-- paragraph -->
-La química industrial creó materiales desconocidos como aluminio y plásticos, además de alimentos sintéticos. El proceso Haber-Bosch sintetizó amoníaco del aire y prolongó guerras y agricultura industrial. El sol aporta millones de exajulios al año. La humanidad consume una fracción minúscula comparada con lo disponible.
+La química industrial creó materiales desconocidos como aluminio y plásticos. También creó alimentos sintéticos. El proceso Haber-Bosch sintetizó amoníaco del aire y prolongó guerras y agricultura industrial. El sol aporta millones de exajulios al año. La humanidad consume una fracción minúscula comparada con lo disponible.
 
 <!-- paragraph -->
-La agricultura industrial trata animales como máquinas: gallinas en jaulas de <span class="num">25×22</span> cm, cerdas que no pueden girar. La revolución industrial fue, sobre todo, la segunda revolución agrícola.
+La agricultura industrial trata animales como máquinas. Gallinas en jaulas de <span class="num">25×22</span> cm. Cerdas que no pueden girar. Por eso Harari dice que la revolución industrial fue, sobre todo, la segunda revolución agrícola.
 
 <!-- key -->
 Aprender a convertir energía y materia a voluntad multiplicó la producción y convirtió gran parte de la biosfera en fábrica.
+
+<!-- bridge -->
+Ese cambio acelerado alteró también la paz y el ritmo de la vida social.
 
 ---
 
@@ -416,16 +470,19 @@ Aprender a convertir energía y materia a voluntad multiplicó la producción y 
 ## title: Una revolución permanente
 
 <!-- paragraph lead -->
-El orden social moderno es <span class="term">elástico</span>: cada generación encuentra un mundo distinto. Pese a guerras del siglo XX, la era post-<span class="num">1945</span> es la más pacífica en términos macro: en el año <span class="num">2000</span>, unas <span class="num">310.000</span> muertes por guerra frente a <span class="num">56 millones</span> de muertes totales.
+¿Vivimos en la era más violenta o en la más pacífica? El orden social moderno es <span class="term">elástico</span> (cada generación encuentra un mundo distinto). Pese a guerras del siglo XX, la era post-<span class="num">1945</span> es la más pacífica en términos macro. En el año 2000 hubo unas 310.000 muertes por guerra frente a 56 millones de muertes totales.
 
 <!-- paragraph -->
-El <span class="term">estado</span> redujo la violencia local. La bomba atómica encareció la guerra entre superpotencias. Conquistar territorio ya no paga como antes (el valor está en capital humano, no en campos). El comercio hace la paz rentable. Los imperios europeos se retiraron con relativa calma. La URSS se disolvió sin guerra civil total.
+El estado redujo la violencia local. La bomba atómica encareció la guerra entre superpotencias. Conquistar territorio ya no paga como antes. El valor está en capital humano, no en campos. El comercio hace la paz rentable. Los imperios europeos se retiraron con relativa calma. La URSS se disolvió sin guerra civil total.
 
 <!-- paragraph -->
-La paz real es <span class="term">improbabilidad</span> de guerra, no ausencia de sufrimiento. Optimistas y pesimistas pueden mirar el mismo siglo XX y ver cielo o infierno según el foco.
+La paz real es <span class="term">improbabilidad</span> (baja probabilidad) de guerra, no ausencia de sufrimiento. Optimistas y pesimistas pueden mirar el mismo siglo XX y ver cielo o infierno según el foco. Por eso Harari pregunta si todo ese progreso nos hizo más felices.
 
 <!-- key -->
 Vivimos cambio acelerado constante y, paradójicamente, la era más pacífica a escala internacional.
+
+<!-- bridge -->
+Si hubo tanto progreso material, ¿por qué la felicidad no creció en paralelo?
 
 ---
 
@@ -435,16 +492,19 @@ Vivimos cambio acelerado constante y, paradójicamente, la era más pacífica a 
 ## title: Y vivieron felices para siempre
 
 <!-- paragraph lead -->
-¿El progreso nos hizo más felices? Los historiadores rara vez preguntan. Las ideologías asumen que democracia, mercado o revolución proletaria traen bienestar, pero la evidencia es ambigua.
+¿El progreso nos hizo más felices? Los historiadores rara vez preguntan. Las ideologías asumen que democracia, mercado o revolución proletaria traen bienestar. Pero la evidencia es ambigua. Harari revisa esa premisa con escepticismo.
 
 <!-- paragraph -->
-La agricultura empeoró la vida del campesino. Los imperios europeos beneficiaron a Europa más que a africanos o aborígenes. La familia y la comunidad intimas cedieron ante estado y mercado. Estudios de <span class="term">bienestar subjetivo</span> no muestran incremento claro de felicidad pese a riqueza material.
+La agricultura empeoró la vida del campesino. Los imperios europeos beneficiaron a Europa más que a africanos o aborígenes. La familia y la comunidad íntimas cedieron ante estado y mercado. Estudios de <span class="term">bienestar subjetivo</span> (encuestas sobre cómo la gente se siente) no muestran incremento claro de felicidad pese a riqueza material.
 
 <!-- paragraph -->
-La biología sugiere un <span class="term">termostato hedónico</span>: logros y tragedias nos devuelven a un nivel base. Conquistar el mundo no garantizó conquistar la satisfacción.
+La biología sugiere un <span class="term">termostato hedónico</span> (tendencia a volver a un nivel base de satisfacción). Logros y tragedias nos devuelven a ese nivel. Conquistar el mundo no garantizó conquistar la satisfacción. Por eso el cierre pregunta hacia dónde va la especie.
 
 <!-- key -->
 Más poder y riqueza colectivos no se tradujeron en más felicidad individual demostrable.
+
+<!-- bridge -->
+Si la felicidad no justifica la historia, queda la pregunta biológica final: ¿seguiremos siendo Homo sapiens?
 
 ---
 
@@ -454,13 +514,13 @@ Más poder y riqueza colectivos no se tradujeron en más felicidad individual de
 ## title: El final de Homo sapiens
 
 <!-- paragraph lead -->
-Durante miles de millones de años reinó la <span class="term">selección natural</span>. Hace <span class="num">10.000</span> años Sapiens empezó a criar animales por diseño. Hoy la <span class="term">ingeniería biológica</span>, los <span class="term">ciborgs</span> y la vida inorgánica amenazan con reemplazarla por diseño inteligente.
+¿Puede la humanidad dejar de ser una especie biológica? Durante miles de millones de años reinó la <span class="term">selección natural</span> (supervivencia diferencial sin diseño consciente). Hace <span class="num">10.000</span> años Sapiens empezó a criar animales por diseño. Hoy la ingeniería biológica, los ciborgs y la vida inorgánica amenazan con reemplazarla.
 
 <!-- paragraph -->
-El conejo <span class="term">Alba</span> fluorescente, el ratón con oreja de cartílago cultivada y la posibilidad de revivir neandertales muestran que ya cruzamos umbrales. Prótesis biónicas, insectos cyborg militares y cerebros conectados a redes apuntan a seres que no serían Homo sapiens.
+El conejo Alba fluorescente, el ratón con oreja de cartílago cultivada y la posibilidad de revivir neandertales muestran que ya cruzamos umbrales. Prótesis biónicas, insectos cyborg militares y cerebros conectados a redes apuntan a seres que no serían Homo sapiens. <span class="person">Eduardo Kac</span>, artista brasileño, creó el conejo Alba como símbolo de ese cruce.
 
 <!-- paragraph -->
-Harari cierra donde empezó: éramos un animal sin importancia. Podemos convertirnos en dioses o en una especie distinta. La historia como la conocemos podría ser solo el aprendizaje previo a algo radicalmente otro.
+Harari cierra donde empezó. Éramos un animal sin importancia. Podemos convertirnos en dioses o en una especie distinta. La historia como la conocemos podría ser solo el aprendizaje previo a algo radicalmente otro.
 
 <!-- key -->
 Por primera vez podemos alterar las reglas de la vida y dejar de ser <span class="key-term">Homo sapiens</span>.

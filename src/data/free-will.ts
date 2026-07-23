@@ -88,15 +88,23 @@ export const freeWill: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "La pregunta del <span class=\"term\">libre albedrío</span> toca casi todo lo que nos importa: moral, ley, política, religión, culpa y logro personal. Si no existiera, criminales y pecadores serían «relojes mal calibrados» y la justicia retributiva perdería sentido. <span class=\"person\">Sam Harris</span> abre con el caso de Cheshire (<span class=\"num\">2007</span>): <span class=\"person\">Steven Hayes</span> y <span class=\"person\">Joshua Komisarjevsky</span> asesinaron a <span class=\"person\">Jennifer Petit</span> y a sus hijas tras una noche de violencia.",
+          html: "¿Somos autores de nuestros pensamientos o testigos de una ilusión? El filósofo y neurocientífico <span class=\"person\">Sam Harris</span> abre con un caso extremo: el crimen de Cheshire (<span class=\"num\">2007</span>).",
         },
         {
           type: 'paragraph',
-          html: "Ante semejante horror, casi todos sentimos que los culpables deben responder moralmente. Si intercambiáramos átomo por átomo con Komisarjevsky (genes, infancia y cerebro idénticos), actuaríamos igual que él. El papel de la <span class=\"term\">suerte</span> parece decisivo. Un tumor cerebral que explique la violencia desplazaría nuestra culpa, y la neurofisiología ordinaria haría lo mismo, porque ambos son eventos físicos que producen pensamientos y actos.",
+          html: "La pregunta del <span class=\"term\">libre albedrío</span> (la creencia de poder elegir libremente) toca casi todo lo que nos importa. Afecta la moral, la ley y la culpa personal. Los criminales serían como relojes mal calibrados si no existiera el libre albedrío. La justicia retributiva perdería sentido.",
         },
         {
           type: 'paragraph',
-          html: "Harris sostiene que el libre albedrío no solo es una ilusión, sino que no puede hacerse conceptualmente coherente. O nuestras voluntades están determinadas por causas previas y no somos responsables de ellas, o son producto del azar y tampoco lo somos. Las dos suposiciones populares (que podríamos haber actuado distinto y que somos la fuente consciente de nuestros actos) son falsas.",
+          html: "<span class=\"person\">Steven Hayes</span> y <span class=\"person\">Joshua Komisarjevsky</span> asesinaron a Jennifer Petit y a sus hijas tras una noche de violencia. Ante semejante horror, casi todos sentimos que los culpables deben responder moralmente.",
+        },
+        {
+          type: 'paragraph',
+          html: "Intercambiados átomo por átomo con Komisarjevsky, actuaríamos igual que él. La <span class=\"term\">suerte</span> (genes, infancia y cerebro que no elegimos) parece decisiva. Un tumor cerebral que explique la violencia desplazaría nuestra culpa. La neurofisiología ordinaria haría lo mismo: ambos son eventos físicos que producen pensamientos y actos.",
+        },
+        {
+          type: 'paragraph',
+          html: "Harris sostiene que el libre albedrío no solo es una ilusión. Tampoco puede hacerse conceptualmente coherente. O nuestras voluntades están determinadas por causas previas y no somos responsables de ellas, o son producto del azar y tampoco lo somos. Las dos suposiciones populares son falsas: que podríamos haber actuado distinto y que somos la fuente consciente de nuestros actos.",
         },
         {
           type: 'quote',
@@ -106,6 +114,10 @@ export const freeWill: BookSummary = {
         {
           type: 'key',
           html: "No somos los autores conscientes de nuestros pensamientos: las intenciones surgen de causas de las que no somos testigos ni dueños.",
+        },
+        {
+          type: 'paragraph',
+          html: "Para ver por qué esa tesis no es solo abstracta, Harris recurre a lo que el cerebro hace antes de que sintamos decidir.",
         },
       ],
     },
@@ -117,15 +129,27 @@ export const freeWill: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Procesamos solo una fracción minúscula de lo que el cerebro calcula en cada instante. Esta mañana Harris tomó café, no té, y no sabe por qué. La «elección» apareció en conciencia, pero no se originó allí: el deseo surgió en la mente sin que él pudiera inspeccionarlo ni influirlo.",
+          html: "¿Por qué elegimos café y no té sin saber el motivo? Procesamos solo una fracción minúscula de lo que el cerebro calcula en cada instante. Esta mañana Harris tomó café, no té, y no sabe por qué.",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Benjamin Libet</span> (<span class=\"num\">1983</span>) detectó actividad motora unos <span class=\"num\">300 ms</span> antes de que la persona sintiera haber decidido moverse. Mediante fMRI, <span class=\"person\">John-Dylan Haynes</span> predijo la elección <span class=\"num\">7–10 s</span> antes. Registros directos de <span class=\"num\">256</span> neuronas alcanzaron ~<span class=\"num\">80 %</span> de precisión a <span class=\"num\">700 ms</span>. Antes de que parezcamos libres, el cerebro ya decidió.",
+          html: "La «elección» apareció en conciencia, pero no se originó allí. El deseo surgió en la mente sin que él pudiera inspeccionarlo ni influirlo. Somos testigos tardíos de impulsos, no su fuente última.",
         },
         {
           type: 'paragraph',
-          html: "Incluso si el alma fuera inmaterial, no ayudaría, porque quien no sabe qué hará su alma no controla nada. La distinción voluntario/involuntario existe y dice mucho sobre el carácter futuro de una persona, pero no salva el libre albedrío. Habría que controlar todas las influencias que moldean cada pensamiento para tenerlo de verdad, y entonces surge la pregunta de qué influiría en esas influencias. No controlamos la tormenta. Somos la tormenta.",
+          html: "En <span class=\"num\">1983</span>, el neurocientífico <span class=\"person\">Benjamin Libet</span> detectó actividad motora unos 300 ms antes de que la persona sintiera haber decidido moverse. Mediante resonancia magnética, <span class=\"person\">John-Dylan Haynes</span> predijo la elección varios segundos antes.",
+        },
+        {
+          type: 'paragraph',
+          html: "Registros directos de <span class=\"num\">256</span> neuronas alcanzaron cerca del <span class=\"num\">80 %</span> de precisión. Lo hicieron unos <span class=\"num\">700 ms</span> antes de la sensación de decidir. Antes de que parezcamos libres, el cerebro ya decidió. La conciencia llega tarde a decisiones ya iniciadas.",
+        },
+        {
+          type: 'paragraph',
+          html: "Incluso si el alma fuera inmaterial, no ayudaría. Quien no sabe qué hará su alma no controla nada. La distinción voluntario/involuntario existe y dice mucho sobre el carácter futuro de una persona, pero no salva el libre albedrío.",
+        },
+        {
+          type: 'paragraph',
+          html: "Habría que controlar todas las influencias que moldean cada pensamiento para tenerlo de verdad. Entonces surge la pregunta de qué influiría en esas influencias. No controlamos la tormenta. Somos la tormenta.",
         },
         {
           type: 'concept-grid',
@@ -151,6 +175,10 @@ export const freeWill: BookSummary = {
           type: 'key',
           html: "Las intenciones aparecen en conciencia como si brotaran del vacío, pero el cerebro ya las había determinado antes de que sintiéramos decidir.",
         },
+        {
+          type: 'paragraph',
+          html: "La evidencia experimental choca con cómo la filosofía y el sentido común suelen definir la libertad.",
+        },
       ],
     },
     {
@@ -161,15 +189,27 @@ export const freeWill: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El libre albedrío nace de una <span class=\"term\">experiencia sentida</span>, no de un argumento abstracto. En filosofía conviven <span class=\"term\">determinismo</span>, <span class=\"term\">libertarianismo</span> y <span class=\"term\">compatibilismo</span>. Hoy solo el compatibilismo es respetable, porque el determinismo relevante para el comportamiento humano es cierto.",
+          html: "¿Por qué la gente cree tener libre albedrío aunque el cerebro decida antes? El libre albedrío nace de una <span class=\"term\">experiencia sentida</span> (la sensación de ser autor de lo que hacemos), no de un argumento abstracto.",
         },
         {
           type: 'paragraph',
-          html: "Los compatibilistas, como <span class=\"person\">Daniel Dennett</span>, dicen que actuar según tus deseos sin coacción externa es libertad. Eso no coincide con lo que la gente siente, que es creer poder haber actuado de otro modo con el universo idéntico. Si las causas cerebrales son totalmente eficaces, la responsabilidad personal convencional pierde anclaje. Dennett afirma que «somos» también la neurofisiología inconsciente, como quien dice que todos vivimos de luz porque la cadena alimentaria depende de la fotosíntesis, pero eso no es la capacidad que la gente cree tener.",
+          html: "En filosofía conviven el <span class=\"term\">determinismo</span> (la idea de que todo tiene causa previa), el libertarianismo y el <span class=\"term\">compatibilismo</span> (libertad compatible con causas previas). Hoy solo el compatibilismo es respetable, porque el determinismo relevante para el comportamiento humano es cierto.",
         },
         {
           type: 'paragraph',
-          html: "Harris responde que somos polvo de estrellas, pero no nos <em>sentimos</em> estrellas, y esa identidad no guía la intuición moral ni el sistema penal. El <span class=\"term\">90 %</span> de las células de nuestro cuerpo son microbios: ¿nos sentimos idénticos a ellos? <span class=\"person\">Daniel Wegner</span> mostró que atribuimos agencia donde no la hay. El compatibilismo ignora la fuente del problema: la sensación de autoría consciente que hizo surgir la idea de libre albedrío.",
+          html: "Los compatibilistas, como el filósofo <span class=\"person\">Daniel Dennett</span>, dicen que actuar según tus deseos sin coacción externa es libertad. Eso no coincide con lo que la gente siente. La gente cree poder haber actuado de otro modo con el universo idéntico.",
+        },
+        {
+          type: 'paragraph',
+          html: "Si las causas cerebrales son totalmente eficaces, la responsabilidad personal convencional pierde anclaje. Dennett afirma que «somos» también la neurofisiología inconsciente. Es como decir que todos vivimos de luz porque la cadena alimentaria depende de la fotosíntesis. Eso no es la capacidad que la gente cree tener.",
+        },
+        {
+          type: 'paragraph',
+          html: "Harris responde que somos polvo de estrellas, pero no nos <em>sentimos</em> estrellas. Esa identidad no guía la intuición moral ni el sistema penal. Cerca del <span class=\"num\">90 %</span> de las células de nuestro cuerpo son microbios: ¿nos sentimos idénticos a ellos?",
+        },
+        {
+          type: 'paragraph',
+          html: "El psicólogo <span class=\"person\">Daniel Wegner</span> mostró que atribuimos agencia donde no la hay. El compatibilismo ignora la fuente del problema: la sensación de autoría consciente que hizo surgir la idea de libre albedrío.",
         },
         {
           type: 'quote',
@@ -178,7 +218,11 @@ export const freeWill: BookSummary = {
         },
         {
           type: 'key',
-          html: "El compatibilismo sustituye la experiencia psicológica de agencia por una definición técnica de «persona» que no explica por qué nos importa el libre albedrío.",
+          html: "El compatibilismo sustituye la <span class=\"key-term\">experiencia psicológica de agencia</span> por una definición técnica de «persona» que no explica por qué nos importa el libre albedrío.",
+        },
+        {
+          type: 'paragraph',
+          html: "Si ni la conciencia tardía ni las definiciones filosóficas salvan la libertad, queda preguntar qué papel juegan la causalidad y el azar.",
         },
       ],
     },
@@ -190,11 +234,19 @@ export const freeWill: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Toda acción humana puede reducirse a eventos impersonales: genes transcritos, neurotransmisores, fibras musculares. Nuestra moralidad cotidiana parece exigir que las acciones no sean meramente productos de biología o condicionamiento. Algunos esperan que el azar cuántico o la aleatoriedad sináptica (como la que observa <span class=\"person\">Martin Heisenberg</span> en canales iónicos) abra espacio al libre albedrío.",
+          html: "¿Puede el azar cuántico abrir espacio al libre albedrío? Toda acción humana puede reducirse a eventos impersonales: genes transcritos, neurotransmisores, fibras musculares.",
         },
         {
           type: 'paragraph',
-          html: "Pero un neurotransmisor liberado al azar no es «yo» decidiendo: es suerte, no responsabilidad. Si cada acto fuera genuinamente aleatorio, no habría mente coherente ni posibilidad de razonar con otros. La <span class=\"term\">indeterminación cuántica</span> opera en la evolución (rayos cósmicos mutando ADN), pero no hace inteligible el concepto de libre albedrío en la vida diaria.",
+          html: "Nuestra moralidad cotidiana parece exigir que las acciones no sean meramente productos de biología o condicionamiento. Algunos esperan que el azar cuántico o la aleatoriedad sináptica (como la que observa <span class=\"person\">Martin Heisenberg</span> en canales iónicos) abra ese espacio.",
+        },
+        {
+          type: 'paragraph',
+          html: "Pero un neurotransmisor liberado al azar no es «yo» decidiendo: es suerte, no responsabilidad. Cada acto genuinamente aleatorio haría imposible una mente coherente y el razonamiento con otros.",
+        },
+        {
+          type: 'paragraph',
+          html: "La <span class=\"term\">indeterminación cuántica</span> (eventos subatómicos sin causa local previa) opera en la evolución. Los rayos cósmicos mutan ADN. Pero eso no hace inteligible el concepto de libre albedrío en la vida diaria.",
         },
         {
           type: 'paragraph',
@@ -203,6 +255,10 @@ export const freeWill: BookSummary = {
         {
           type: 'key',
           html: "Ni determinismo ni azar cuántico producen la libertad que la gente cree tener: en ambos casos no somos los autores últimos de lo que hacemos.",
+        },
+        {
+          type: 'paragraph',
+          html: "Aun sin libre albedrío, las elecciones parecen reales y a veces cambian vidas: hay que explicar esa paradoja.",
         },
       ],
     },
@@ -214,15 +270,27 @@ export const freeWill: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Podemos distinguir estados volicionales de reflejos automáticos, y la atención consciente importa para planificar y corregir. No se puede decidir ir al fisioterapeuta sin darse cuenta del dolor. Aun así, todo el proceso (dolor, pensamientos, terapia) surge sin que el yo consciente lo haya creado. La diferencia entre volición y reflejo no ofrece fundamento para la libertad de la voluntad.",
+          html: "¿Importan las elecciones si no somos autores últimos? Podemos distinguir estados volicionales de reflejos automáticos, y la atención consciente importa para planificar y corregir.",
         },
         {
           type: 'paragraph',
-          html: "Confundir determinismo con fatalismo es un error: sentarse a esperar también es una elección con consecuencias. Las decisiones son estados causales del cerebro que producen resultados reales en el mundo. Aun así, la próxima elección emergerá de causas previas que el testigo consciente no trajo a la existencia. Desde la perspectiva de la conciencia, no somos más responsables del próximo pensamiento que de haber nacido.",
+          html: "No se puede decidir ir al fisioterapeuta sin darse cuenta del dolor. Aun así, todo el proceso (dolor, pensamientos, terapia) surge sin que el yo consciente lo haya creado. La diferencia entre volición y reflejo no ofrece fundamento para la libertad de la voluntad.",
         },
         {
           type: 'paragraph',
-          html: "Harris relata cambios de vida que parecen prueba de voluntad: dieta, emprendimiento con dominio de <span class=\"num\">10 dólares</span>, entrenamiento con <span class=\"person\">Tim Ferriss</span> y <span class=\"num\">20 libras</span> de grasa reemplazadas por músculo. No puede explicar por qué funcionó <em>esta</em> vez y no antes. Puedes elegir lo que quieres, pero no elegir <em>qué</em> quieres ni por qué un deseo vence a otro. La voluntad es un fenómeno biológico: tienes exactamente la capacidad de esfuerzo que tienes ahora, ni un ápice más.",
+          html: "Confundir determinismo con fatalismo es un error. Sentarse a esperar también es una elección con consecuencias. Las decisiones son estados causales del cerebro que producen resultados reales en el mundo.",
+        },
+        {
+          type: 'paragraph',
+          html: "Aun así, la próxima elección emergerá de causas previas que el testigo consciente no trajo a la existencia. La conciencia no nos hace más responsables del próximo pensamiento que de haber nacido.",
+        },
+        {
+          type: 'paragraph',
+          html: "Harris relata cambios de vida que parecen prueba de voluntad: dieta, emprendimiento con dominio de <span class=\"num\">10 dólares</span>, entrenamiento con <span class=\"person\">Tim Ferriss</span>. Reemplazó <span class=\"num\">20 libras</span> de grasa por músculo.",
+        },
+        {
+          type: 'paragraph',
+          html: "No puede explicar por qué funcionó <em>esta</em> vez y no antes. Puedes elegir lo que quieres, pero no elegir <em>qué</em> quieres ni por qué un deseo vence a otro. La voluntad es un fenómeno biológico: tienes exactamente la capacidad de esfuerzo que tienes ahora, ni un ápice más.",
         },
         {
           type: 'quote',
@@ -232,6 +300,10 @@ export const freeWill: BookSummary = {
         {
           type: 'key',
           html: "Las elecciones importan causalmente, pero cada una surge de un regresión de causas que termina siempre en la oscuridad: no elegimos qué elegimos.",
+        },
+        {
+          type: 'paragraph',
+          html: "Si negar el libre albedrío es verdad, el temor es que esa verdad corrompa la moral: Harris examina esa objeción.",
         },
       ],
     },
@@ -243,11 +315,15 @@ export const freeWill: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Estudios muestran que leer argumentos contra el libre albedrío puede aumentar la trampa en exámenes (<span class=\"person\">Vohs & Schooler</span>, <span class=\"num\">2008</span>) o reducir la ayuda y aumentar la agresividad (<span class=\"person\">Baumeister</span> et al., <span class=\"num\">2009</span>). La preocupación no es infundada, pero Harris no teme «degradar» la moral de sus lectores.",
+          html: "¿Nos volveríamos peores si dejáramos de creer en el libre albedrío? Estudios muestran efectos preocupantes. Leer argumentos contra el libre albedrío puede aumentar la trampa en exámenes (<span class=\"person\">Vohs & Schooler</span>, <span class=\"num\">2008</span>).",
         },
         {
           type: 'paragraph',
-          html: "Perder la ilusión aumentó su compasión, su perdón y disminuyó el sentido de merecer la buena suerte. En clase de autodefensa, en cambio, un «golpea los ojos» sigue siendo útil aunque el agresor sea víctima de causas previas: hay verdades científicas, éticas y prácticas para cada ocasión.",
+          html: "Otros trabajos (<span class=\"person\">Baumeister</span> et al., <span class=\"num\">2009</span>) vinculan esa lectura con menos ayuda y más agresividad. La preocupación no es infundada, pero Harris no teme «degradar» la moral de sus lectores.",
+        },
+        {
+          type: 'paragraph',
+          html: "Perder la ilusión aumentó su compasión, su perdón y disminuyó el sentido de merecer la buena suerte. En clase de autodefensa, en cambio, un «golpea los ojos» sigue siendo útil. El agresor es víctima de causas previas, pero hay verdades científicas, éticas y prácticas para cada ocasión.",
         },
         {
           type: 'paragraph',
@@ -256,6 +332,10 @@ export const freeWill: BookSummary = {
         {
           type: 'key',
           html: "Reconocer que no somos autores últimos puede aumentar compasión y espacio para cambiar, sin caer en fatalismo ni nihilismo.",
+        },
+        {
+          type: 'paragraph',
+          html: "Esa compasión no elimina la necesidad de juzgar conductas: la pregunta es cómo responsabilizar sin ilusión.",
         },
       ],
     },
@@ -267,15 +347,27 @@ export const freeWill: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "La Corte Suprema de EE. UU. (<span class=\"term\">United States v. Grayson</span>, <span class=\"num\">1978</span>) vincula el libre albedrío al sistema penal. Harris propone responsabilidad sin ilusión: ser responsable es que la conducta refleje la mente global (creencias, deseos, historial), no que exista un agente inmune a la causalidad.",
+          html: "¿Cómo castigar sin creer en un agente autónomo? La Corte Suprema de EE. UU. (<span class=\"num\">1978</span>, caso United States v. Grayson) vincula el libre albedrío al sistema penal.",
         },
         {
           type: 'paragraph',
-          html: "Cinco casos graduales muestran cómo el contexto modula la indignación aunque el cerebro sea siempre la causa: niño de <span class=\"num\">4 años</span>, abusado de <span class=\"num\">12</span>, adulto abusado, psicópata y psicópata con tumor en corteza prefrontal medial. El tumor «absuelve» porque parece adventicio, pero a medida que entendemos causas, la línea entre psicópata y paciente con tumor se difumina.",
+          html: "Harris propone responsabilidad sin ilusión. Ser responsable es que la conducta refleje la mente global (creencias, deseos, historial). No que exista un agente inmune a la causalidad.",
         },
         {
           type: 'paragraph',
-          html: "Encarcelar peligrosos protege a otros sin necesidad de odiar al agente. Si existiera una cura barata del «mal» en el suministro alimentario, retenerla como castigo sería absurdo: eso revela cuánto depende la venganza de ignorar causas. <span class=\"person\">Jared Diamond</span> contrasta la satisfacción de quien se vengó en Nueva Guinea con el arrepentimiento de quien no mató al asesino de su familia en el Holocausto. La retribución pura descansa en una ilusión cognitiva y moral.",
+          html: "Cinco casos graduales muestran cómo el contexto modula la indignación aunque el cerebro sea siempre la causa. Un niño de <span class=\"num\">4 años</span>, un abusado de <span class=\"num\">12</span>, un adulto abusado, un psicópata y un psicópata con tumor en corteza prefrontal medial.",
+        },
+        {
+          type: 'paragraph',
+          html: "El tumor «absuelve» porque parece adventicio. Entender más causas difumina la línea entre psicópata y paciente con tumor. Encarcelar peligrosos protege a otros sin necesidad de odiar al agente.",
+        },
+        {
+          type: 'paragraph',
+          html: "Retener una cura barata del «mal» en el suministro alimentario solo para castigar sería absurdo. Eso revela cuánto depende la venganza de ignorar causas.",
+        },
+        {
+          type: 'paragraph',
+          html: "El historiador <span class=\"person\">Jared Diamond</span> contrasta dos historias de venganza. En Nueva Guinea, quien se vengó quedó satisfecho. Quien no mató al asesino de su familia en el Holocausto se arrepintió. La retribución pura descansa en una ilusión cognitiva y moral.",
         },
         {
           type: 'list',
@@ -289,6 +381,10 @@ export const freeWill: BookSummary = {
           type: 'key',
           html: "Podemos responsabilizar conductas compatibles con el carácter y contener peligros sin creer en un agente autónomo ni en castigo retributivo puro.",
         },
+        {
+          type: 'paragraph',
+          html: "La misma lógica se extiende a la política: el mérito absoluto del éxito y del fracaso también depende de la suerte.",
+        },
       ],
     },
     {
@@ -299,11 +395,15 @@ export const freeWill: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Negar la ilusión tiene implicaciones políticas. Los liberales suelen reconocer la suerte en el éxito. Los conservadores a menudo fetichizan el individualismo sin ver cuánta fortuna requiere «trabajar duro»: inteligencia, salud, no quebrar por enfermedad de un cónyuge.",
+          html: "¿Qué cambia en política si la suerte es constitutiva? Negar la ilusión tiene implicaciones políticas. Los liberales suelen reconocer la suerte en el éxito.",
         },
         {
           type: 'paragraph',
-          html: "Nadie eligió su genoma, país, salud ni economía familiar. Incluso la disciplina para esforzarse es condición neurológica, no mérito: la pereza y la diligencia son estados del cerebro. Aun así, exigir esfuerzo y disuadir free riders sigue siendo útil socialmente.",
+          html: "Los conservadores a menudo fetichizan el individualismo sin ver cuánta fortuna requiere «trabajar duro». Hace falta inteligencia, salud y no quebrar por enfermedad de un cónyuge. Nadie eligió su genoma, país, salud ni economía familiar.",
+        },
+        {
+          type: 'paragraph',
+          html: "Incluso la disciplina para esforzarse es condición neurológica, no mérito. La pereza y la diligencia son estados del cerebro. Aun así, exigir esfuerzo y disuadir free riders sigue siendo útil socialmente.",
         },
         {
           type: 'paragraph',
@@ -312,6 +412,10 @@ export const freeWill: BookSummary = {
         {
           type: 'key',
           html: "La suerte es constitutiva de la moralidad misma y debería moderar el mérito absoluto del éxito y del fracaso.",
+        },
+        {
+          type: 'paragraph',
+          html: "Harris cierra volviendo a la experiencia íntima: observar de cerca cómo surgen los pensamientos.",
         },
       ],
     },
@@ -323,15 +427,19 @@ export const freeWill: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El misterio del libre albedrío no es solo objetivo sino subjetivo: al observar de cerca, la libertad desaparece. Harris «elige» escribir lo que quiera en el resto del libro, pero al prestar atención a su flujo de conciencia pregunta: ¿de dónde salió «conejo» y no «elefante»?",
+          html: "¿Qué queda al observar de cerca cómo surgen los pensamientos? El misterio del libre albedrío no es solo objetivo sino subjetivo. Al observar de cerca, la libertad desaparece.",
         },
         {
           type: 'paragraph',
-          html: "No sabe la causa de ninguna elección. Podría cambiar «conejo» por «elefante», pero tampoco explicaría por qué. Ni la ley de la naturaleza ni el azar parecen libertad. ¿Es libre de sentir que «elefante» es mejor palabra si no lo siente así? No: solo la palabra puede cambiarlo a él.",
+          html: "Harris «elige» escribir lo que quiera en el resto del libro. Al prestar atención a su flujo de conciencia pregunta: ¿de dónde salió «conejo» y no «elefante»? No sabe la causa de ninguna elección.",
         },
         {
           type: 'paragraph',
-          html: "La ilusión de libre albedrío es, en sí misma, otra ilusión: no sentimos tanta libertad como creemos cuando prestamos atención. Los pensamientos simplemente surgen. ¿Qué más podrían hacer?",
+          html: "Podría cambiar «conejo» por «elefante», pero tampoco explicaría por qué. Ni la ley de la naturaleza ni el azar parecen libertad. ¿Es libre de sentir que «elefante» es mejor palabra si no lo siente así? No: solo la palabra puede cambiarlo a él.",
+        },
+        {
+          type: 'paragraph',
+          html: "La ilusión de libre albedrío es, en sí misma, otra ilusión. No sentimos tanta libertad como creemos cuando prestamos atención. Los pensamientos simplemente surgen. ¿Qué más podrían hacer?",
         },
         {
           type: 'quote',
@@ -340,7 +448,7 @@ export const freeWill: BookSummary = {
         },
         {
           type: 'key',
-          html: "La verdad sobre nosotros es más extraña: somos tormentas, no capitanes que las gobiernan, y la introspección lo confirma.",
+          html: "La verdad sobre nosotros es más extraña: somos <span class=\"key-term\">tormentas</span>, no capitanes que las gobiernan, y la introspección lo confirma.",
         },
       ],
     },

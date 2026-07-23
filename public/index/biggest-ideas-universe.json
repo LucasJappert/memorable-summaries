@@ -48,12 +48,12 @@
     {
       "sectionId": "prefacio",
       "sectionTitle": "Entender ecuaciones, no solo metáforas",
-      "text": "El sueño de Sean Carroll es un mundo donde la gente discuta física moderna con la misma pasión con que debate economía o política. Hoy la física es un campo de especialistas: el público recibe metáforas, no la esencia matemática que sostiene las teorías."
+      "text": "¿Se puede discutir física moderna con la misma pasión con que se debate economía o política? El físico teórico Sean Carroll sueña con ese mundo. Hoy la física queda confinada a especialistas, y el público recibe metáforas en lugar de la esencia matemática que sostiene las teorías."
     },
     {
       "sectionId": "prefacio",
       "sectionTitle": "Entender ecuaciones, no solo metáforas",
-      "text": "Hay dos caminos habituales. Quedarse en divulgación popular (imágenes útiles pero incompletas) o convertirse en estudiante formal (años de cálculo antes de relatividad o mecánica cuántica). Este libro cierra esa brecha: exige solo álgebra de secundaria, pero enseña a entender ecuaciones, no a resolverlas como en un curso universitario."
+      "text": "Hay dos caminos habituales. Uno es la divulgación popular: imágenes útiles, pero incompletas. El otro es la formación formal: años de cálculo antes de llegar a relatividad o mecánica cuántica. Este libro cierra esa brecha. Solo exige álgebra de secundaria, pero enseña a entender (leer qué significa cada símbolo) las ecuaciones, no a resolverlas como en un curso universitario."
     },
     {
       "sectionId": "prefacio",
@@ -66,19 +66,24 @@
       "text": "La física moderna cabe en ecuaciones comprensibles: basta entender qué dicen los símbolos, no resolver cada una como un profesional."
     },
     {
-      "sectionId": "cap1",
-      "sectionTitle": "Conservación",
-      "text": "La física arranca en lo cotidiano: objetos con posición y propiedades que cambian. El salto rápido va de observaciones mundanas a patrones invariables, que llamamos leyes de la física."
+      "sectionId": "prefacio",
+      "sectionTitle": "Entender ecuaciones, no solo metáforas",
+      "text": "El primer paso es ver qué cantidades del mundo permanecen constantes aunque todo lo demás cambie."
     },
     {
       "sectionId": "cap1",
       "sectionTitle": "Conservación",
-      "text": "El patrón más simple es la conservación : ciertas cantidades permanecen constantes con el tiempo. La energía no es una sustancia fluida, sino una propiedad asociada a movimiento, altura, temperatura, masa o carga. La revolución frente a Aristóteles pasa por Ibn Sīnā y el impetus conservado hasta el momento p = mv , y por Émilie du Châtelet , quien demostró que energía y momento son cantidades distintas pero ambas conservadas."
+      "text": "¿Qué patrones del mundo físico no cambian con el tiempo? La física arranca en lo cotidiano: objetos con posición y propiedades que varían. El salto rápido va de observaciones mundanas a patrones (regularidades que se repiten) invariables, que llamamos leyes de la física."
     },
     {
       "sectionId": "cap1",
       "sectionTitle": "Conservación",
-      "text": "¿Por qué existen leyes de conservación? El teorema de Emmy Noether las vincula con simetrías de las leyes. La invariancia ante traslaciones espaciales implica conservación del momento. La invariancia ante traslaciones temporales implica conservación de la energía. La invariancia ante rotaciones implica momento angular. Si el universo en expansión viola la simetría temporal global, la energía total cósmica deja de ser constante de forma trivial."
+      "text": "El patrón más simple es la conservación (que ciertas cantidades permanecen constantes). La energía no es una sustancia fluida. Es una propiedad asociada a movimiento, altura, temperatura, masa o carga. La revolución frente al filósofo Aristóteles pasa por Ibn Sīnā , quien sostuvo un impetus conservado hasta el momento p = mv. Émilie du Châtelet demostró después que energía y momento son cantidades distintas, pero ambas conservadas."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Conservación",
+      "text": "¿Por qué existen leyes de conservación? El teorema de la matemática Emmy Noether las vincula con simetrías (propiedades que no cambian bajo ciertas transformaciones). Cuando las leyes no cambian al desplazar el espacio, el momento se conserva. Cuando no cambian al desplazar el tiempo, se conserva la energía. Cuando no cambian al rotar, se conserva el momento angular. En un universo en expansión la simetría temporal global se rompe, y la energía total cósmica deja de ser constante de forma trivial."
     },
     {
       "sectionId": "cap1",
@@ -86,19 +91,24 @@
       "text": "Conservar energía y momento no es truco contable: refleja que las leyes de la física no cambian con el tiempo ni con traslaciones espaciales."
     },
     {
-      "sectionId": "cap2",
-      "sectionTitle": "Cambio",
-      "text": "El cambio en física exige cálculo : derivadas (tasas instantáneas) e integrales (acumulación). La posición x(t) de un auto permite calcular velocidad v = dx/dt y aceleración a = dv/dt."
+      "sectionId": "cap1",
+      "sectionTitle": "Conservación",
+      "text": "Si las leyes fijan qué se conserva, el siguiente paso es describir cómo cambia todo lo demás."
     },
     {
       "sectionId": "cap2",
       "sectionTitle": "Cambio",
-      "text": "El paradigma laplaciano sostiene que, dado el estado inicial (posición y velocidad de cada componente), las leyes determinan toda la trayectoria pasada y futura. Newton , presionado por Edmond Halley , publicó los Principia ( 1687 ) con F = ma y gravitación universal F ∝ 1/r², derivando las leyes de Kepler desde fuerzas locales en cada instante, no desde descripciones globales de órbitas elípticas."
+      "text": "¿Cómo pasa la física de «saber ahora» a «predecir siempre»? El cambio en física exige cálculo (derivadas e integrales). La posición x(t) de un auto permite calcular velocidad v = dx/dt y aceleración a = dv/dt."
     },
     {
       "sectionId": "cap2",
       "sectionTitle": "Cambio",
-      "text": "La gravedad es universal . La misma ley explica manzanas cayendo y planetas orbitando. Integrar aceleración reconstruye velocidad y posición. Derivar posición da velocidad. Son operadores inversos entre sí, aunque integrar suele ser más difícil que derivar."
+      "text": "El paradigma laplaciano (la idea de que el estado inicial fija toda la evolución) sostiene una tesis fuerte. Dado el estado inicial, las leyes determinan toda la trayectoria pasada y futura. Isaac Newton publicó los Principia en 1687 , presionado por el astrónomo Edmond Halley. Allí aparecen F = ma y la gravitación universal F ∝ 1/r². Newton derivó las leyes de Johannes Kepler desde fuerzas locales en cada instante, no desde descripciones globales de órbitas elípticas."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Cambio",
+      "text": "La gravedad es universal (la misma ley rige en la Tierra y en el cielo). Explica manzanas cayendo y planetas orbitando. Integrar aceleración reconstruye velocidad y posición. Derivar posición da velocidad. Son operadores inversos entre sí, aunque integrar suele ser más difícil que derivar."
     },
     {
       "sectionId": "cap2",
@@ -121,19 +131,24 @@
       "text": "El cálculo convierte el «saber ahora» en «predecir siempre»: posición + velocidad + fuerzas → aceleración → integración → futuro y pasado."
     },
     {
-      "sectionId": "cap3",
-      "sectionTitle": "Dinámica",
-      "text": "La dinámica estudia cambios que obedecen ecuaciones físicas. El modelo «bola en colina», una partícula sin fricción en un paisaje de energía potencial V(x), reaparece hasta en campos cuánticos y el Modelo Estándar."
+      "sectionId": "cap2",
+      "sectionTitle": "Cambio",
+      "text": "Con las herramientas del cambio ya se puede estudiar cómo evolucionan los sistemas físicos concretos."
     },
     {
       "sectionId": "cap3",
       "sectionTitle": "Dinámica",
-      "text": "Energía cinética K = ½mv² más potencial V(x) suman un total conservado. Desde un valle parabólico surge el oscilador armónico simple : movimiento sinusoidal exactamente soluble y omnipresente (muelles, átomos, campos). Cerca de cualquier equilibrio, casi todo sistema se comporta como parábola."
+      "text": "¿Por qué una misma física admite descripciones tan distintas? La dinámica estudia cambios que obedecen ecuaciones físicas. El modelo «bola en colina», una partícula sin fricción en un paisaje de energía potencial V(x), reaparece hasta en campos cuánticos y el Modelo Estándar."
     },
     {
       "sectionId": "cap3",
       "sectionTitle": "Dinámica",
-      "text": "El espacio de fases {posición, momento} fija la evolución. Alternativamente, el principio de mínima acción (Lagrange) postula que, entre dos eventos, la trayectoria real extremiza la acción S = ∫(K − V)dt. Es una formulación global equivalente a Newton, aunque Richard Feynman advirtió que formulaciones matemáticamente equivalentes no son psicológicamente idénticas al explorar lo desconocido."
+      "text": "Energía cinética K = ½mv² más potencial V(x) suman un total conservado. En un valle parabólico aparece el oscilador armónico simple (movimiento sinusoidal alrededor de un equilibrio). Es exactamente soluble y omnipresente: muelles, átomos, campos. Cerca de cualquier equilibrio, casi todo sistema se comporta como parábola."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Dinámica",
+      "text": "El espacio de fases (el par {posición, momento}) fija la evolución. Alternativamente, el principio de mínima acción (formulación de Lagrange) postula que la trayectoria real extremiza la acción S = ∫(K − V)dt. Es equivalente a Newton, aunque el físico Richard Feynman advirtió que formulaciones matemáticamente equivalentes no son psicológicamente idénticas al explorar lo desconocido."
     },
     {
       "sectionId": "cap3",
@@ -141,19 +156,24 @@
       "text": "Newton, Lagrange y Hamilton describen lo mismo con vocabularios distintos. Elegir uno u otro puede abrir atajos hacia leyes más profundas."
     },
     {
-      "sectionId": "cap4",
-      "sectionTitle": "Espacio",
-      "text": "¿Qué es el espacio ? El debate clásico enfrenta sustancialismo (contenedor) y relacionalismo (solo distancias entre objetos). Hoy los campos llenan el espacio y Einstein mostró que su geometría responde a la energía."
+      "sectionId": "cap3",
+      "sectionTitle": "Dinámica",
+      "text": "Antes de unificar espacio y tiempo, Carroll pregunta qué hace especial a cada uno por separado."
     },
     {
       "sectionId": "cap4",
       "sectionTitle": "Espacio",
-      "text": "El espacio es tridimensional . Tiene tres direcciones independientes. En d dimensiones, fuerzas como gravedad siguen ley 1/r^(d−1). En 3D, la ley es del inverso del cuadrado. La mecánica hamiltoniana eleva el momento a variable independiente (no definido como mv). En un instante basta posición y momento, sin mirar instantes vecinos."
+      "text": "¿Qué es el espacio (el escenario donde ocurren las posiciones)? El debate clásico enfrenta sustancialismo (contenedor) y relacionalismo (solo distancias entre objetos). Hoy los campos (funciones con valor en cada punto) llenan el espacio. Einstein mostró además que su geometría responde a la energía."
     },
     {
       "sectionId": "cap4",
       "sectionTitle": "Espacio",
-      "text": "Lo que distingue al espacio es que las interacciones son locales en posición : los objetos se influyen cuando coinciden en el mismo lugar, mediados por campos. Newton temía la «acción a distancia», pero Laplace mostró que un campo gravitatorio local reproduce la misma física. Einstein luego limitó la propagación de cambios a la velocidad de la luz."
+      "text": "El espacio es tridimensional: tiene tres direcciones independientes. En d dimensiones, fuerzas como la gravedad siguen ley 1/r^(d−1). En 3D, la ley es del inverso del cuadrado. La mecánica hamiltoniana eleva el momento a variable independiente, no definido como mv. En un instante basta posición y momento, sin mirar instantes vecinos."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Espacio",
+      "text": "Lo que distingue al espacio es que las interacciones son locales en posición (los objetos se influyen cuando coinciden en el mismo lugar). Los campos median esa influencia. Newton temía la «acción a distancia», pero el matemático Pierre-Simon Laplace mostró que un campo gravitatorio local reproduce la misma física. Einstein luego limitó la propagación de cambios a la velocidad de la luz."
     },
     {
       "sectionId": "cap4",
@@ -176,19 +196,24 @@
       "text": "Vivimos en espacio de posiciones, no en espacio de momentos, porque los hamiltonianos reales acoplan objetos por proximidad espacial."
     },
     {
-      "sectionId": "cap5",
-      "sectionTitle": "Tiempo",
-      "text": "Sin tiempo no hay movimiento ni cambio. La duración se mide con relojes : sistemas periódicos (Tierra, osciladores) comparables entre sí. El tiempo se parece al espacio (localización en espaciotiempo) pero también difiere profundamente."
+      "sectionId": "cap4",
+      "sectionTitle": "Espacio",
+      "text": "El espacio tiene estructura clara; el tiempo, en cambio, plantea un misterio distinto: por qué solo avanza hacia delante."
     },
     {
       "sectionId": "cap5",
       "sectionTitle": "Tiempo",
-      "text": "La mecánica clásica es reversible : con el estado actual se predice futuro y pasado por igual. A nivel macroscópico, no obstante, el hielo se derrite y no vuelve a formarse. Esa irreversibilidad es la flecha del tiempo . Ludwig Boltzmann conectó entropía con el número de microestados compatibles con un macroestado."
+      "text": "¿Por qué el pasado parece fijo y el futuro abierto? Sin tiempo no hay movimiento ni cambio. La duración se mide con relojes: sistemas periódicos (Tierra, osciladores) comparables entre sí. El tiempo se parece al espacio, pero también difiere profundamente."
     },
     {
       "sectionId": "cap5",
       "sectionTitle": "Tiempo",
-      "text": "La flecha no está en las ecuaciones fundamentales. Emerge de la hipótesis del pasado , según la cual el universo empezó en entropía extremadamente baja (Big Bang denso y uniforme). Con gravedad relevante, un plasma uniforme es de baja entropía porque la gravedad prefiere la irregularidad. T, P y C se violan en partículas, pero CPT se conserva. Eso no explica la flecha macroscópica."
+      "text": "La mecánica clásica es reversible: con el estado actual se predice futuro y pasado por igual. A nivel macroscópico, no obstante, el hielo se derrite y no vuelve a formarse. Esa irreversibilidad es la flecha del tiempo (la dirección preferida del cambio). El físico Ludwig Boltzmann conectó entropía con el número de microestados compatibles con un macroestado."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Tiempo",
+      "text": "La flecha no está en las ecuaciones fundamentales. Emerge de la hipótesis del pasado (que el universo empezó en entropía extremadamente baja). El Big Bang denso y uniforme cumple esa condición. Con gravedad relevante, un plasma uniforme es de baja entropía porque la gravedad prefiere la irregularidad. T, P y C se violan en partículas, pero CPT se conserva. Eso no explica la flecha macroscópica."
     },
     {
       "sectionId": "cap5",
@@ -196,14 +221,19 @@
       "text": "La flecha del tiempo no está en las ecuaciones fundamentales: emerge del universo de baja entropía cerca del Big Bang."
     },
     {
-      "sectionId": "cap6",
-      "sectionTitle": "Espaciotiempo",
-      "text": "La relatividad especial ( Einstein 1905 , Minkowski 1907 ) unifica espacio y tiempo en un continuo 4D. No hay tiempo absoluto: cada observador divide espaciotiempo de forma distinta."
+      "sectionId": "cap5",
+      "sectionTitle": "Tiempo",
+      "text": "Einstein unificó espacio y tiempo cuando mostró que ninguno es absoluto por separado."
     },
     {
       "sectionId": "cap6",
       "sectionTitle": "Espaciotiempo",
-      "text": "Hay dos nociones de tiempo: coordenada t (etiqueta convencional) y tiempo propio τ (lo que marca un reloj viajero). En espacio, la recta es el camino más corto. En espaciotiempo, la trayectoria inercial maximiza el tiempo propio. El intervalo de Minkowski se define como τ² = Δt² − Δx² (con c = 1)."
+      "text": "¿Qué queda cuando espacio y tiempo dejan de ser independientes? La relatividad especial ( 1905 ) unifica ambos en un continuo 4D. El matemático Hermann Minkowski formalizó ese espaciotiempo en 1907 . No hay tiempo absoluto: cada observador divide espaciotiempo de forma distinta."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Espaciotiempo",
+      "text": "Hay dos nociones de tiempo. Una es la coordenada t (etiqueta convencional). La otra es el tiempo propio τ (lo que marca un reloj viajero). En espacio, la recta es el camino más corto. En espaciotiempo, la trayectoria inercial maximiza el tiempo propio. El intervalo de Minkowski (medida de separación en 4D) se define como τ² = Δt² − Δx² con c = 1."
     },
     {
       "sectionId": "cap6",
@@ -216,19 +246,24 @@
       "text": "En relatividad especial lo real es el espaciotiempo 4D. Espacio y tiempo son cortes convencionales, no divisiones objetivas del mundo."
     },
     {
-      "sectionId": "cap7",
-      "sectionTitle": "Geometría",
-      "text": "Einstein necesitó geometría riemanniana para curvar el espaciotiempo. Euclides axiomatizó el plano. El quinto postulato (paralelas) puede reemplazarse y surgen geometrías esférica (curvatura +) e hiperbólica (−)."
+      "sectionId": "cap6",
+      "sectionTitle": "Espaciotiempo",
+      "text": "Para curvar ese espaciotiempo hace falta una geometría distinta de la euclídea del plano escolar."
     },
     {
       "sectionId": "cap7",
       "sectionTitle": "Geometría",
-      "text": "Gauss y Riemann desarrollaron geometría intrínseca , medible desde dentro sin embedding en espacio mayor. Una variedad (manifold) es un conjunto de puntos con dimensión definida. Al hacer zoom infinitesimal, parece plano euclídeo. Un cilindro es plano intrínsecamente aunque parezca curvo desde fuera."
+      "text": "¿Cómo se mide la curvatura sin imaginar un espacio mayor? Einstein necesitó geometría riemanniana (geometría de superficies y espacios curvos) para curvar el espaciotiempo. Euclides axiomatizó el plano. El quinto postulado (paralelas) puede reemplazarse y surgen geometrías esférica (curvatura +) e hiperbólica (−)."
     },
     {
       "sectionId": "cap7",
       "sectionTitle": "Geometría",
-      "text": "El tensor métrico g_ij codifica toda la geometría vía elemento de línea ds² = g_ij dx^i dx^j. Los tensores generalizan funciones y vectores. El tensor de curvatura de Riemann se construye a partir de derivadas del métrico. Einstein aprendió esto con Marcel Grossmann antes de formular la relatividad general."
+      "text": "Los matemáticos Carl Friedrich Gauss y Bernhard Riemann desarrollaron geometría intrínseca, medible desde dentro sin embedding en espacio mayor. Una variedad (manifold, conjunto de puntos con dimensión definida) es el objeto básico. Al hacer zoom infinitesimal, parece plano euclídeo. Un cilindro es plano intrínsecamente aunque parezca curvo desde fuera."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Geometría",
+      "text": "El tensor métrico (objeto que define distancias locales) g_ij codifica toda la geometría vía elemento de línea ds² = g_ij dx^i dx^j. Los tensores generalizan funciones y vectores. El tensor de curvatura de Riemann se construye a partir de derivadas del métrico. Einstein aprendió esto con Marcel Grossmann antes de formular la relatividad general."
     },
     {
       "sectionId": "cap7",
@@ -251,19 +286,24 @@
       "text": "La curvatura no es «cómo se dobla en un espacio mayor»: es propiedad interna medible con círculos, ángulos y geodésicas."
     },
     {
-      "sectionId": "cap8",
-      "sectionTitle": "Gravedad",
-      "text": "La gravedad es curvatura del espaciotiempo. La ecuación de Einstein ( 25 nov 1915 ) relaciona tensor de Einstein (curvatura) con tensor energía-momento (materia). Según John Wheeler , el espaciotiempo dice a la materia cómo moverse y la materia dice al espaciotiempo cómo curvarse."
+      "sectionId": "cap7",
+      "sectionTitle": "Geometría",
+      "text": "Con esa geometría en mano, la gravedad deja de ser una fuerza misteriosa y pasa a ser curvatura."
     },
     {
       "sectionId": "cap8",
       "sectionTitle": "Gravedad",
-      "text": "La masa inercial y la gravitatoria son iguales. Eso lleva al principio de equivalencia . En regiones pequeñas, la gravedad es indistinguible de la aceleración. La caída libre es movimiento geodésico. Quien está en el suelo experimenta la fuerza del suelo que lo desvía de esa geodésica. El tensor T_μν describe fluidos extendidos con densidad ρ, presión p y velocidades."
+      "text": "¿Qué es realmente la gravedad? Para Einstein es curvatura del espaciotiempo. La ecuación de Einstein ( 25 nov 1915 ) relaciona tensor de Einstein (curvatura) con tensor energía-momento (materia). Según el físico John Wheeler , el espaciotiempo dice a la materia cómo moverse y la materia dice al espaciotiempo cómo curvarse."
     },
     {
       "sectionId": "cap8",
       "sectionTitle": "Gravedad",
-      "text": "Einstein no resolvió sus ecuaciones, pero las entendió . Karl Schwarzschild , sentado en el frente, encontró la primera solución exacta semanas después. Las pruebas abarcan precesión de Mercurio, desviación de luz ( Eddington , eclipse 1919 ), redshift gravitacional, ondas gravitacionales (LIGO 2015 ) y expansión cósmica."
+      "text": "La masa inercial y la gravitatoria son iguales. Eso lleva al principio de equivalencia (indistinguibilidad local entre gravedad y aceleración). En regiones pequeñas, la gravedad es indistinguible de la aceleración. La caída libre es movimiento geodésico. Quien está en el suelo experimenta la fuerza del suelo que lo desvía de esa geodésica. El tensor T_μν describe fluidos extendidos con densidad ρ, presión p y velocidades."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Gravedad",
+      "text": "Einstein no resolvió sus ecuaciones, pero las comprendió a fondo. El astrónomo Karl Schwarzschild , sentado en el frente, encontró la primera solución exacta semanas después. Las pruebas abarcan precesión de Mercurio y desviación de luz. El eclipse de 1919 , observado por Arthur Eddington , confirmó la segunda. También están el redshift gravitacional, las ondas gravitacionales (LIGO 2015 ) y la expansión cósmica."
     },
     {
       "sectionId": "cap8",
@@ -276,19 +316,24 @@
       "text": "La gravedad no es una fuerza ordinaria en el espaciotiempo: es la curvatura del espaciotiempo determinada por la materia y la radiación."
     },
     {
-      "sectionId": "cap9",
-      "sectionTitle": "Agujeros negros",
-      "text": "La métrica de Schwarzschild ( 1915 ) describe el vacío fuera de un cuerpo esférico. Radio de Schwarzschild r_s = 2GM: horizonte de sucesos. Dentro, r se vuelve coordenada temporal : caer al centro es avanzar en el futuro inevitable hacia singularidad r = 0."
+      "sectionId": "cap8",
+      "sectionTitle": "Gravedad",
+      "text": "Una de las predicciones más extremas de esa curvatura son los agujeros negros."
     },
     {
       "sectionId": "cap9",
       "sectionTitle": "Agujeros negros",
-      "text": "La dilatación gravitacional implica que relojes cerca de masas marcan menos tiempo propio que relojes lejanos. Las coordenadas Eddington-Finkelstein eliminan la singularidad de coordenadas en el horizonte. Teorema «no-hair»: agujeros negros quedan caracterizados solo por masa, carga y spin ( solución de Kerr para rotación)."
+      "text": "¿Qué ocurre cuando la gravedad atrapa incluso a la luz? La métrica de Karl Schwarzschild ( 1915 ) describe el vacío fuera de un cuerpo esférico. Radio de Schwarzschild r_s = 2GM: horizonte de sucesos. Dentro, r se vuelve coordenada temporal. Caer al centro es avanzar en el futuro inevitable hacia singularidad r = 0."
     },
     {
       "sectionId": "cap9",
       "sectionTitle": "Agujeros negros",
-      "text": "Stephen Hawking ( 1971 ) demostró que el área del horizonte solo crece, análogo a entropía. Jacob Bekenstein propuso entropía proporcional al área. Más tarde, Hawking calculó radiación térmica y mostró que los agujeros negros «brillan» cuánticamente. LIGO detectó fusiones (p. ej. 36 + 29 masas solares, 2015 ). El Nobel 2020 fue para Penrose, Genzel y Ghez."
+      "text": "La dilatación gravitacional (relojes más lentos cerca de masas) implica que relojes cercanos marcan menos tiempo propio que relojes lejanos. Las coordenadas Eddington-Finkelstein eliminan la singularidad de coordenadas en el horizonte. Teorema «no-hair»: agujeros negros quedan caracterizados solo por masa, carga y spin. La solución de Kerr (métrica para agujeros rotatorios) describe el caso con rotación."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Agujeros negros",
+      "text": "El físico Stephen Hawking ( 1971 ) demostró que el área del horizonte solo crece, análogo a entropía. Jacob Bekenstein propuso entropía proporcional al área. Más tarde, Hawking calculó radiación térmica y mostró que los agujeros negros «brillan» cuánticamente. LIGO detectó fusiones (p. ej. 36 + 29 masas solares, 2015 ). El Nobel 2020 fue para Penrose, Genzel y Ghez."
     },
     {
       "sectionId": "cap9",

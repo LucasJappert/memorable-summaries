@@ -22,23 +22,27 @@ export const blindWatchmaker: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Dawkins escribe convencido de que nuestra existencia fue el mayor de los misterios y que ya no lo es: <span class=\"person\">Darwin</span> y <span class=\"person\">Wallace</span> lo resolvieron. Le sorprende que tantas personas ignoren no solo la solución elegante, sino que ni siquiera perciban el problema: el de la <span class=\"term\">complejidad por diseño</span>.",
+          html: "¿Por qué tantas personas ignoran el mayor misterio de la biología? <span class=\"person\">Richard Dawkins</span>, el etólogo y divulgador que escribió *The Selfish Gene*, sostiene que nuestra existencia ya no es un enigma sin resolver. <span class=\"person\">Charles Darwin</span> resolvió el enigma junto con <span class=\"person\">Alfred Wallace</span>. Explicaron la <span class=\"term\">complejidad por diseño</span> (la apariencia de que los organismos fueron planificados).",
         },
         {
           type: 'paragraph',
-          html: "Un cerebro humano contiene unos diez millones de kiloneuronas. Cada célula del cuerpo guarda en su ADN mil veces más información digital que un ordenador de <span class=\"num\">64 kilobytes</span>. Si alguien niega que esa complejidad exige explicación, el autor no se rinde: quiere transmitir la maravilla del diseño biológico y luego disipar el misterio.",
+          html: "Un cerebro humano contiene unos diez millones de kiloneuronas. Cada célula guarda en su ADN mil veces más información que un ordenador de <span class=\"num\">64 kilobytes</span>. El autor no se rinde cuando alguien niega que esa complejidad exige explicación. Insiste en transmitir primero la maravilla del diseño biológico.",
         },
         {
           type: 'paragraph',
-          html: "El libro no pretende ser un tratado científico frío. Su propósito es informar, persuadir e inspirar: el darwinismo no solo es cierto, sino la única teoría conocida que, en principio, puede resolver el misterio de nuestra existencia. Dawkins distingue su defensa de la de un abogado que defiende causas en las que no cree: nunca dice lo que no considera verdadero.",
+          html: "El libro no pretende ser un tratado científico frío. Dawkins quiere informar, persuadir e inspirar: el darwinismo no solo es cierto. Es la única teoría conocida que puede resolver el misterio de nuestra existencia en principio. El autor distingue su defensa de la de un abogado que defiende causas en las que no cree.",
         },
         {
           type: 'paragraph',
-          html: "El darwinismo parece necesitar más defensa que otras verdades científicas. La mente humana está predispuesta a malinterpretarlo por el azar, las escalas temporales evolutivas y la analogía con el diseño consciente. Como observó <span class=\"person\">Jacques Monod</span>, todo el mundo cree que lo entiende, aunque casi nadie pensó en la idea hasta <span class=\"person\">Darwin</span> y <span class=\"person\">Wallace</span> en el siglo XIX.",
+          html: "El darwinismo parece necesitar más defensa que otras verdades científicas. La mente humana está predispuesta a malinterpretarlo por el azar, las escalas temporales evolutivas y la analogía con el diseño consciente. El biólogo <span class=\"person\">Jacques Monod</span> observó que todo el mundo cree que lo entiende. Casi nadie había pensado en la idea hasta Darwin y Wallace en el siglo XIX.",
         },
         {
           type: 'key',
-          html: "El darwinismo es la única teoría que puede resolver el misterio de la complejidad biológica, pero la mente humana está predispuesta a malinterpretarlo.",
+          html: "El darwinismo resuelve la complejidad biológica, pero nuestra mente está predispuesta a malinterpretar el azar y las escalas evolutivas.",
+        },
+        {
+          type: 'paragraph',
+          html: "Para entender por qué la vida parece diseñada, hace falta plantear el problema con la misma claridad que lo hizo el teólogo William Paley.",
         },
       ],
     },
@@ -50,15 +54,15 @@ export const blindWatchmaker: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Los animales son las cosas más complicadas del universo conocido. La biología estudia entidades que parecen <span class=\"term\">diseñadas con un propósito</span>. La física estudia cosas simples que no invitan a invocar diseño. Ordenadores y coches, aunque no vivos, se tratan aquí como objetos biológicos: cualquier máquina de esa complejidad en un planeta diagnosticaría vida.",
+          html: "¿Por qué los organismos parecen diseñados a propósito? Los animales son las cosas más complicadas del universo conocido. La biología estudia entidades que parecen <span class=\"term\">diseñadas con un propósito</span> (como si un artífice las hubiera fabricado). La física estudia cosas simples que no invitan a invocar diseño.",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">William Paley</span>, en <em>Natural Theology</em> (<span class=\"num\">1802</span>), argumentó que un reloj encontrado en un brezal exige un artífice. La naturaleza muestra un diseño incomparablemente mayor. La analogía reloj-organismo es falsa: el único relojero en la naturaleza son las fuerzas ciegas de la física, desplegadas de modo especial. La <span class=\"term\">selección natural</span> no tiene propósito, mente ni visión de futuro: es el <span class=\"term\">relojero ciego</span>.",
+          html: "<span class=\"person\">William Paley</span>, teólogo natural del siglo XIX, argumentó en <em>Natural Theology</em> (<span class=\"num\">1802</span>) que un reloj encontrado en un brezal exige un artífice. La naturaleza muestra un diseño incomparablemente mayor. Pero la analogía reloj-organismo es falsa: el único relojero en la naturaleza son las fuerzas ciegas de la física, desplegadas de modo especial.",
         },
         {
           type: 'paragraph',
-          html: "Una cosa compleja tiene partes dispuestas de forma improbable por azar, con una cualidad especificada de antemano. En los seres vivos, esa cualidad es la <span class=\"term\">competencia</span>: volar, nadar o, más en general, sobrevivir y reproducirse. Hay muchas formas de estar vivo, pero infinitamente más de estar muerto. Mezclar células al azar no produce nunca un organismo funcional.",
+          html: "La <span class=\"term\">selección natural</span> (la reproducción no aleatoria de variantes hereditarias) no tiene propósito, mente ni visión de futuro. Es el <span class=\"term\">relojero ciego</span> del título: produce diseño sin prever el futuro. Una cosa compleja tiene partes dispuestas de forma improbable por azar, con una cualidad especificada de antemano. En los seres vivos, esa cualidad es la capacidad de sobrevivir y reproducirse.",
         },
         {
           type: 'quote',
@@ -89,6 +93,10 @@ export const blindWatchmaker: BookSummary = {
           type: 'key',
           html: "<span class=\"key-term\">Darwin</span> hizo posible ser un ateo intelectualmente satisfecho: antes de <span class=\"num\">1859</span> faltaba una explicación alternativa al diseño organizado.",
         },
+        {
+          type: 'paragraph',
+          html: "El argumento filosófico cobra fuerza cuando se examina un órgano concreto que impresionaría a cualquier ingeniero.",
+        },
       ],
     },
     {
@@ -99,15 +107,15 @@ export const blindWatchmaker: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "La selección natural es el relojero ciego: no ve adelante ni planifica, pero sus resultados impresionan como diseño de un maestro relojero. Este capítulo refuerza esa ilusión con un ejemplo que impresionaría a cualquier ingeniero: el <span class=\"term\">sonar</span> en los murciélagos.",
+          html: "¿Qué significa decir que un órgano está «bien diseñado»? La selección natural es el relojero ciego: no ve adelante ni planifica, pero sus resultados impresionan como diseño de un maestro relojero. Este capítulo refuerza esa ilusión con el <span class=\"term\">sonar</span> (localización por eco de sonidos) en los murciélagos.",
         },
         {
           type: 'paragraph',
-          html: "Los murciélagos cazan de noche sin luz. Fabricar luz propia consume demasiada energía. La evolución favoreció otra solución. Los murciélagos ciegos se orientan mediante <span class=\"term\">ecolocalización</span>: escuchan el eco de sus propios sonidos. Los pioneros del sonar en la Segunda Guerra Mundial no sabían que la selección natural lo había perfeccionado millones de años antes.",
+          html: "Los murciélagos cazan de noche sin luz. Fabricar luz propia consume demasiada energía. Por eso la evolución favoreció otra solución. Los murciélagos ciegos se orientan mediante <span class=\"term\">ecolocalización</span> (escuchan el eco de sus propios sonidos). Los pioneros del sonar en la Segunda Guerra Mundial no sabían que la selección natural lo había perfeccionado millones de años antes.",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Donald Griffin</span> acuñó «ecolocalización» para cubrir sonar y radar. Diferentes grupos de murciélagos usan el sonar de modos radicalmente distintos. El capítulo recorre el problema como lo haría un ingeniero (plantear el problema, imaginar soluciones, mostrar la adoptada por la naturaleza) para demostrar que Paley apenas empezaba a describir el caso del diseño biológico.",
+          html: "<span class=\"person\">Donald Griffin</span>, el zoólogo que acuñó «ecolocalización», mostró que distintos grupos de murciélagos usan el sonar de modos radicalmente distintos. El capítulo recorre el problema como lo haría un ingeniero: plantear el problema, imaginar soluciones y mostrar la adoptada por la naturaleza. Paley apenas empezaba a describir el caso del diseño biológico.",
         },
         {
           type: 'quote',
@@ -116,7 +124,11 @@ export const blindWatchmaker: BookSummary = {
         },
         {
           type: 'key',
-          html: "Un órgano o cuerpo está <span class=\"key-term\">bien diseñado</span> si un ingeniero inteligente podría haberlo construido para un fin sensato (volar, ver, comer, reproducirse), aunque no sea el mejor diseño imaginable.",
+          html: "Un órgano está <span class=\"key-term\">bien diseñado</span> si un ingeniero inteligente podría haberlo construido para un fin sensato, aunque no sea el mejor diseño imaginable.",
+        },
+        {
+          type: 'paragraph',
+          html: "Ver un diseño tan refinado obliga a preguntar cómo puede surgir esa complejidad sin un diseñador consciente.",
         },
       ],
     },
@@ -128,15 +140,19 @@ export const blindWatchmaker: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Los seres vivos son demasiado improbables para surgir de un solo golpe de azar. La respuesta de Darwin consiste en transformaciones graduales desde entidades simples, cada paso lo bastante pequeño para ser plausible, dirigidos en conjunto por la <span class=\"term\">selección no aleatoria</span>.",
+          html: "¿Cómo surge lo muy improbable sin un solo golpe de azar? Los seres vivos son demasiado improbables para aparecer de un solo paso. La respuesta de Darwin son transformaciones graduales desde entidades simples. Cada paso es lo bastante pequeño para ser plausible.",
         },
         {
           type: 'paragraph',
-          html: "Las olas ordenan guijarros en franjas sin intención: es un <span class=\"term\">cribado de un solo paso</span>. La organización viva exige, además, un candado combinacional con millones de diales, como ensamblar la hemoglobina mezclando aminoácidos al azar. El número hemoglobina (~<span class=\"num\">10<sup>190</sup></span>) muestra que el cribado simple no basta.",
+          html: "Las olas ordenan guijarros en franjas sin intención: es un <span class=\"term\">cribado de un solo paso</span> (un filtro que actúa una sola vez). La organización viva exige, además, un candado combinacional con millones de diales. Mezclar aminoácidos al azar para ensamblar la hemoglobina da un número de ~<span class=\"num\">10<sup>190</sup></span> combinaciones. El cribado simple no basta.",
         },
         {
           type: 'paragraph',
-          html: "En la <span class=\"term\">selección acumulativa</span>, las entidades se «reproducen» con variación. Cada generación parte del resultado anterior. El experimento del mono que escribe «METHINKS IT IS LIKE A WEASEL»: en un solo paso tardaría ~<span class=\"num\">10<sup>40</sup></span> intentos. Con selección acumulativa que retiene las frases más parecidas al objetivo, la frase emerge en minutos. Los <span class=\"term\">biomorfos</span> del ordenador muestran lo mismo con formas en árbol, y el programador no puede predecir qué criaturas emergerán.",
+          html: "En la <span class=\"term\">selección acumulativa</span> (variación retenida generación tras generación), las entidades se «reproducen» con variación. Cada generación parte del resultado anterior. El experimento del mono que escribe «METHINKS IT IS LIKE A WEASEL» tarda ~<span class=\"num\">10<sup>40</sup></span> intentos en un solo paso. Con selección acumulativa, la frase emerge en minutos.",
+        },
+        {
+          type: 'paragraph',
+          html: "Los <span class=\"term\">biomorfos</span> (formas generadas por un programa de ordenador con nueve «genes») muestran lo mismo con figuras en árbol. El programador no puede predecir qué criaturas emergerán.",
         },
         {
           type: 'concept-grid',
@@ -162,6 +178,10 @@ export const blindWatchmaker: BookSummary = {
           type: 'key',
           html: "La evolución no es azar puro: es <span class=\"key-term\">selección acumulativa</span>, mutaciones aleatorias filtradas paso a paso durante millones de generaciones.",
         },
+        {
+          type: 'paragraph',
+          html: "Si el mecanismo funciona, debe poder explicar el órgano más citado como «imposible por pasos graduales»: el ojo.",
+        },
       ],
     },
     {
@@ -172,15 +192,15 @@ export const blindWatchmaker: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Muchos dudan de que un ojo complejo surja por pasos graduales. Dawkins reformula el problema con una serie de preguntas sobre el <span class=\"term\">espacio animal</span>: el espacio de todas las formas posibles de cuerpos.",
+          html: "¿Puede un ojo complejo surgir por pasos graduales? Muchos dudan de ello. Dawkins reformula el problema con una serie de preguntas sobre el <span class=\"term\">espacio animal</span> (el espacio de todas las formas posibles de cuerpos).",
         },
         {
           type: 'paragraph',
-          html: "¿Pudo el ojo humano surgir de la nada en un paso? No: las probabilidades son astronómicas. ¿De algo ligeramente distinto, X? Sí, si X es suficientemente parecido. Repitiendo la pregunta con pasos cada vez menores, se traza una cadena de Xs desde «sin ojo» hasta el ojo moderno, caminando por el espacio animal en pasos pequeños.",
+          html: "¿Pudo el ojo humano surgir de la nada en un paso? No: las probabilidades son astronómicas. ¿De algo ligeramente distinto, X? Sí, si X es suficientemente parecido. Repitiendo la pregunta con pasos cada vez menores, se traza una cadena de Xs desde «sin ojo» hasta el ojo moderno.",
         },
         {
           type: 'paragraph',
-          html: "Con suficientes generaciones, medidas en miles de millones, la transición es plausible. Cada mutación modifica un proceso embriológico existente. Cuanto menor el cambio, más plausible embriológicamente. Y cada intermediario debe funcionar lo bastante bien como para ayudar a sobrevivir y reproducirse: un ojo imperfecto sigue siendo mejor que ninguno.",
+          html: "Con suficientes generaciones, medidas en miles de millones, la transición es plausible. Cada mutación modifica un proceso embriológico existente. Cuanto menor el cambio, más plausible embriológicamente. Y cada intermediario debe funcionar lo bastante bien como para ayudar a sobrevivir y reproducirse.",
         },
         {
           type: 'list',
@@ -194,6 +214,10 @@ export const blindWatchmaker: BookSummary = {
           type: 'key',
           html: "El ojo no salta en el <span class=\"key-term\">espacio animal</span>: camina en pasos diminutos, cada uno seleccionado por utilidad inmediata.",
         },
+        {
+          type: 'paragraph',
+          html: "Explicar la forma del cuerpo exige bajar al nivel de las instrucciones que la construyen: los genes.",
+        },
       ],
     },
     {
@@ -204,15 +228,15 @@ export const blindWatchmaker: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Llueve ADN en el jardín del autor: semillas de sauce flotan por el canal de Oxford. Lo que importa no es la celulosa del paracaídas, sino las instrucciones digitales para construir sauces que las esparcen. Llueven programas, algoritmos de crecimiento arbóreo.",
+          html: "¿Qué hay realmente en el corazón de un ser vivo? Llueve ADN en el jardín del autor: semillas de sauce flotan por el canal de Oxford. Lo que importa no es la celulosa del paracaídas, sino las instrucciones digitales para construir sauces que las esparcen.",
         },
         {
           type: 'paragraph',
-          html: "La vieja noción de <span class=\"term\">protoplasma</span> vitalista está muerta como el flogisto. Lo especial de la vida no es la sustancia, sino la información: instrucciones digitales en un medio de almacenamiento con muchas posiciones discretas. Los genes son tecnología de la información. Pensar en gel vibrante es el camino equivocado.",
+          html: "La vieja noción de <span class=\"term\">protoplasma</span> (sustancia viva misteriosa e indivisible) está muerta como el flogisto. Lo especial de la vida no es la sustancia, sino la información: instrucciones digitales en un medio de almacenamiento con muchas posiciones discretas. Los genes son tecnología de la información.",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Gregor Mendel</span> descubrió la herencia digital: no mezclamos rasgos de padres, los recibimos en partículas discretas. <span class=\"person\">Fleeming Jenkin</span> argumentó que la herencia mezcladora, creída en tiempos de Darwin, casi descartaba la selección natural. La genética particulada salvó el darwinismo moderno.",
+          html: "<span class=\"person\">Gregor Mendel</span>, el monje botánico, descubrió la herencia digital: no mezclamos rasgos de padres, los recibimos en partículas discretas. <span class=\"person\">Fleeming Jenkin</span> argumentó en <span class=\"num\">1867</span> que la herencia mezcladora, creída en tiempos de Darwin, casi descartaba la selección natural. La genética particulada salvó el darwinismo moderno.",
         },
         {
           type: 'quote',
@@ -222,6 +246,10 @@ export const blindWatchmaker: BookSummary = {
         {
           type: 'key',
           html: "En el corazón de todo ser vivo hay <span class=\"key-term\">información</span> (palabras, instrucciones), no fuego ni chispa vital.",
+        },
+        {
+          type: 'paragraph',
+          html: "Si la vida es información replicada, queda el límite más difícil: cómo empezó la primera copia.",
         },
       ],
     },
@@ -233,15 +261,19 @@ export const blindWatchmaker: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Los «milagros» son sucesos naturales en el extremo improbable del espectro. Cuánto azar podemos postular depende del tiempo y las oportunidades disponibles. La <span class=\"term\">selección acumulativa</span> convierte sucesos aceptablemente afortunados en un producto final que parece imposiblemente milagroso.",
+          html: "¿Cuánta suerte puede postularse en el origen de la vida? Los «milagros» son sucesos naturales en el extremo improbable del espectro. Cuánto azar podemos postular depende del tiempo y las oportunidades disponibles. La selección acumulativa convierte sucesos aceptablemente afortunados en un producto final que parece imposiblemente milagroso.",
         },
         {
           type: 'paragraph',
-          html: "La selección acumulativa necesitó arrancar con un primer paso de azar puro. Ahí está la paradoja del origen de la vida: la replicación exige maquinaria compleja (ADN, proteínas, RNA), y la única vía conocida hacia tal complejidad es la selección acumulativa. Invocar un diseñador sobrenatural no explica nada: un Dios capaz de diseñar esa maquinaria sería al menos tan complejo como ella.",
+          html: "La selección acumulativa necesitó arrancar con un primer paso de azar puro. Ahí está la paradoja del origen de la vida: la replicación exige maquinaria compleja (ADN, proteínas, RNA). Y la única vía conocida hacia tal complejidad es la selección acumulativa.",
         },
         {
           type: 'paragraph',
-          html: "Cuánta suerte máxima podemos permitirnos en un solo paso es una pregunta legítima. El mono que escribe «Methinks it is like a weasel» de un golpe (~<span class=\"num\">10<sup>40</sup></span>) es demasiado. El argumento «hay tantos planetas que la vida debe ser común» asume lo que pretende demostrar. Dawkins explora química autorreplicante y el experimento de <span class=\"person\">Spiegelman</span> con RNA como vías hacia el primer replicador.",
+          html: "Invocar un diseñador sobrenatural no explica nada: un Dios capaz de diseñar esa maquinaria sería al menos tan complejo como ella. Cuánta suerte máxima podemos permitirnos en un solo paso es una pregunta legítima. El mono que escribe «Methinks it is like a weasel» de un golpe (~<span class=\"num\">10<sup>40</sup></span>) es demasiado.",
+        },
+        {
+          type: 'paragraph',
+          html: "El argumento «hay tantos planetas que la vida debe ser común» asume lo que pretende demostrar. Dawkins explora química autorreplicante y el experimento de <span class=\"person\">Spiegelman</span> con RNA como vías hacia el primer replicador.",
         },
         {
           type: 'concept-grid',
@@ -267,6 +299,10 @@ export const blindWatchmaker: BookSummary = {
           type: 'key',
           html: "Postular un diseñador para explicar la maquinaria replicadora deja sin explicar el origen del <span class=\"key-term\">diseñador</span>.",
         },
+        {
+          type: 'paragraph',
+          html: "Una vez iniciada la replicación, la evolución no solo elimina lo defectuoso: también construye complejidad nueva.",
+        },
       ],
     },
     {
@@ -277,19 +313,27 @@ export const blindWatchmaker: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Algunos ven la selección natural solo como fuerza negativa que elimina defectos. Como el escultor que resta mármol, la selección resta. Pero la <span class=\"term\">mutación</span> suma. Juntas pueden construir complejidad en dos vías: <span class=\"term\">genotipos coadaptados</span> y <span class=\"term\">carreras armamentísticas</span>.",
+          html: "¿La selección natural solo elimina lo defectuoso? Algunos ven la selección natural solo como fuerza negativa, comparable al escultor que quita mármol. La <span class=\"term\">mutación</span> (cambio aleatorio en el ADN) introduce variación nueva. Juntas pueden construir complejidad en dos vías.",
         },
         {
           type: 'paragraph',
-          html: "Un gen solo tiene efecto sobre una estructura ya existente. Desde el punto de vista de cada gen, el ambiente más importante son los otros genes del <span class=\"term\">pool génico</span>. Genes que colaboran en vías bioquímicas o en equipos (dientes de carnívoro con intestino carnívoro) evolucionan juntos. Un equipo dominante resiste ser desplazado por alternativas equivalentes.",
+          html: "Un gen solo tiene efecto sobre una estructura ya existente. Desde el punto de vista de cada gen, el ambiente más importante son los otros genes de la población. Genes que colaboran en vías bioquímicas o en equipos evolucionan juntos. Un equipo dominante resiste ser desplazado por alternativas equivalentes.",
         },
         {
           type: 'paragraph',
-          html: "Las <span class=\"term\">carreras armamentísticas</span> entre depredador y presa, huésped y parásito, macho y hembra, escalan la complejidad como una espiral: cada mejora de un bando selecciona contramedidas en el otro. Leones y antílopes podrían haber invertido roles por accidente inicial. Una vez iniciado un equipo de genes para carne o hierba, el proceso se autorreforzó.",
+          html: "Los <span class=\"term\">genotipos coadaptados</span> (conjuntos de genes que funcionan bien juntos) explican por qué dientes de carnívoro van con intestino carnívoro. Las <span class=\"term\">carreras armamentísticas</span> (escalada evolutiva entre rivales) escalan la complejidad como una espiral. Cada mejora de un bando selecciona contramedidas en el otro.",
+        },
+        {
+          type: 'paragraph',
+          html: "Leones y antílopes podrían haber invertido roles por accidente inicial. Una vez iniciado un equipo de genes para carne o hierba, el proceso se autorreforzó.",
         },
         {
           type: 'key',
           html: "La evolución <span class=\"key-term\">construye</span> complejidad cuando genes cooperan en equipos y cuando rivales se superan mutuamente en espiral.",
+        },
+        {
+          type: 'paragraph',
+          html: "Esa espiral de rivales conduce a analogías tentadoras — y a malentendidos si se las lleva demasiado lejos.",
         },
       ],
     },
@@ -301,15 +345,15 @@ export const blindWatchmaker: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "La mente humana analogiza con facilidad, a veces demasiado. Este capítulo explora dos analogías fructíferas pero peligrosas: procesos tipo <span class=\"term\">explosión</span> (retroalimentación positiva) y la semejanza entre evolución darwiniana y <span class=\"term\">evolución cultural</span>.",
+          html: "¿Cuándo una analogía ayuda y cuándo confunde? La mente humana analogiza con facilidad, a veces demasiado. Este capítulo explora dos analogías fructíferas pero peligrosas. Una es el proceso tipo <span class=\"term\">explosión</span> (retroalimentación positiva). La otra es la semejanza entre evolución darwiniana y <span class=\"term\">evolución cultural</span> (cambio de ideas y costumbres por imitación y selección).",
         },
         {
           type: 'paragraph',
-          html: "La retroalimentación negativa estabiliza (governador de Watt). La positiva amplifica perturbaciones hasta el desastre o un nuevo equilibrio, como una explosión química. En biología, la coevolución depredador-presa puede dispararse en espiral. Los cuerpos usan más retroalimentación negativa que positiva porque la regulación estable es útil. Pero las explosiones importan aquí.",
+          html: "La retroalimentación negativa estabiliza (como el governador de Watt en las máquinas de vapor). La positiva amplifica perturbaciones hasta el desastre o un nuevo equilibrio, como una explosión química. En biología, la coevolución depredador-presa puede dispararse en espiral.",
         },
         {
           type: 'paragraph',
-          html: "Los <span class=\"term\">memes</span>, unidades de transmisión cultural, se replican con variación y selección, analogía con los genes. Dawkins advierte, no obstante, que la analogía puede llevarse demasiado lejos, como ocurre con los cranks que ven evolución en todo. El criterio es la calidad de la inspiración y la capacidad de descartar analogías frívolas.",
+          html: "Los <span class=\"term\">memes</span> (unidades de transmisión cultural que se copian entre cerebros con variación y selección) son una analogía con los genes. Dawkins advierte, no obstante, que la analogía puede llevarse demasiado lejos. El criterio es la calidad de la inspiración y la capacidad de descartar analogías frívolas.",
         },
         {
           type: 'concept-grid',
@@ -335,6 +379,10 @@ export const blindWatchmaker: BookSummary = {
           type: 'key',
           html: "La evolución biológica y la cultural comparten replicación con variación y selección, pero la analogía no debe <span class=\"key-term\">sustituir</span> el análisis riguroso.",
         },
+        {
+          type: 'paragraph',
+          html: "Entre los malentendidos contemporáneos que más ruido hacen está el punctuationismo evolutivo.",
+        },
       ],
     },
     {
@@ -345,11 +393,11 @@ export const blindWatchmaker: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Dawkins parodia a historiadores «punctuationistas» bíblicos que acusan a los «gradualistas» de creer que los israelitas avanzaban <span class=\"num\">24 yardas</span> al día sin parar. La parábola satiriza el punctuationismo evolutivo: no es tan revolucionario ni tan opuesto a Darwin como su publicidad sugiere.",
+          html: "¿Es el punctuationismo un rival del darwinismo? Dawkins parodia a historiadores «punctuationistas» bíblicos que acusan a los «gradualistas» de creer que los israelitas avanzaban <span class=\"num\">24 yardas</span> al día sin parar. La parábola satiriza el punctuationismo evolutivo: no es tan revolucionario ni tan opuesto a Darwin como su publicidad sugiere.",
         },
         {
           type: 'paragraph',
-          html: "Los punctuationistas, muchos paleontólogos, enfatizan <span class=\"term\">estasis</span> en el registro fósil y cambios rápidos en eventos de especiación. Los «gradualistas» de paja avanzarían a ritmo constante generación tras generación. En realidad, casi todos los darwinianos son gradualistas en el sentido de que no hay saltos macromutacionales milagrosos.",
+          html: "Los punctuationistas, muchos paleontólogos, enfatizan <span class=\"term\">estasis</span> (periodos largos sin cambio visible en el registro fósil) y cambios rápidos en eventos de especiación. Los «gradualistas» de paja avanzarían a ritmo constante generación tras generación. En realidad, casi todos los darwinianos son gradualistas en el sentido de que no hay saltos macromutacionales milagrosos.",
         },
         {
           type: 'paragraph',
@@ -358,6 +406,10 @@ export const blindWatchmaker: BookSummary = {
         {
           type: 'key',
           html: "El <span class=\"key-term\">punctuationismo</span> es una variedad menor de darwinismo, no un rival. Los «gradualistas» que critica son un hombre de paja.",
+        },
+        {
+          type: 'paragraph',
+          html: "Despejado ese falso debate, queda la segunda gran función de la evolución: explicar parentescos entre formas vivas.",
         },
       ],
     },
@@ -369,19 +421,23 @@ export const blindWatchmaker: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Además de explicar el diseño (ojos, ecolocalización), la evolución explica la <span class=\"term\">diversidad</span>: patrones de parentesco entre formas vivas. Este capítulo trata la <span class=\"term\">taxonomía</span>, clasificación biológica, y por qué solo la evolución ofrece un árbol único y correcto.",
+          html: "¿Por qué la clasificación biológica no es como ordenar libros en una biblioteca? Además de explicar el diseño (ojos, ecolocalización), la evolución explica la diversidad: patrones de parentesco entre formas vivas. Este capítulo trata la <span class=\"term\">taxonomía</span> (clasificación biológica) y por qué solo la evolución ofrece un árbol único y correcto.",
         },
         {
           type: 'paragraph',
-          html: "Clasificar libros en una biblioteca admite muchos sistemas igualmente válidos por conveniencia. Clasificar organismos es distinto: la evolución implica un solo <span class=\"term\">árbol genealógico</span> verdadero con anidamiento perfecto. Todo subgrupo está completamente contenido en un grupo mayor, sin solapamientos parciales.",
+          html: "Clasificar libros en una biblioteca admite muchos sistemas igualmente válidos por conveniencia. Clasificar organismos es distinto: la evolución implica un solo <span class=\"term\">árbol genealógico</span> (historia de descendencia con ramificaciones) verdadero con anidamiento perfecto. Todo subgrupo está completamente contenido en un grupo mayor, sin solapamientos parciales.",
         },
         {
           type: 'paragraph',
-          html: "Los taxonomistas cladistas agrupan por <span class=\"term\">parentesco reciente</span>, no por parecido superficial. Los ornitorrincos ponen huevos, pero pertenecen a los mamíferos porque comparten ancestro mamífero más reciente que con aves o reptiles. La biología molecular confirma el árbol independientemente de la morfología.",
+          html: "Los taxonomistas cladistas agrupan por <span class=\"term\">parentesco reciente</span> (ancestro común más cercano), no por parecido superficial. Los ornitorrincos ponen huevos, pero pertenecen a los mamíferos porque comparten ancestro mamífero más reciente que con aves o reptiles. La biología molecular confirma el árbol independientemente de la morfología.",
         },
         {
           type: 'key',
           html: "Solo la evolución justifica buscar el <span class=\"key-term\">único árbol verdadero</span> de la vida con anidamiento perfecto.",
+        },
+        {
+          type: 'paragraph',
+          html: "Con el árbol establecido, resta examinar las teorías rivales que pretenden explicar la complejidad adaptativa.",
         },
       ],
     },
@@ -393,15 +449,15 @@ export const blindWatchmaker: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Ningún biólogo serio niega que la evolución ocurrió ni que todos los seres vivos son primos. Algunos dudan del mecanismo darwiniano. Este capítulo examina rivales reales (no el punctuationismo) y argumenta que el darwinismo es la única teoría capaz, en principio, de explicar la <span class=\"term\">complejidad adaptativa</span>.",
+          html: "¿Existe alguna alternativa seria al darwinismo? Ningún biólogo serio niega que la evolución ocurrió ni que todos los seres vivos son primos. Algunos dudan del mecanismo darwiniano. Este capítulo examina rivales reales. Argumenta que el darwinismo es la única teoría capaz, en principio, de explicar la <span class=\"term\">complejidad adaptativa</span> (organización improbable útil para vivir).",
         },
         {
           type: 'paragraph',
-          html: "El <span class=\"term\">lamarckismo</span> combina uso y desuso con herencia de caracteres adquiridos. Los músculos crecen con el ejercicio, pero no hay evidencia de que el hijo herede el bíceps del padre. Darwin mismo creía en la herencia de lo adquirido, pero eso no era el núcleo de su teoría. El neutralismo explica variación molecular sin selección, no el diseño adaptativo del ojo.",
+          html: "El <span class=\"term\">lamarckismo</span> (herencia de caracteres adquiridos por uso o desuso) combina uso y desuso con herencia de lo adquirido. Los músculos crecen con el ejercicio, pero no hay evidencia de que el hijo herede el bíceps del padre. Darwin mismo creía en la herencia de lo adquirido, pero eso no era el núcleo de su teoría.",
         },
         {
           type: 'paragraph',
-          html: "El <span class=\"term\">creacionismo</span> postula complejidad organizada sin explicarla. Dawkins predice que si alguna vez se descubre vida extraterrestre, también habrá evolucionado por selección natural darwiniana, y con esa apuesta subraya que ninguna otra teoría conocida explica el diseño adaptativo.",
+          html: "El neutralismo explica variación molecular sin selección, no el diseño adaptativo del ojo. El <span class=\"term\">creacionismo</span> (complejidad organizada atribuida a un diseñador sin explicar cómo surgió) postula complejidad sin explicarla. Dawkins predice que si alguna vez se descubre vida extraterrestre, también habrá evolucionado por selección natural darwiniana.",
         },
         {
           type: 'quote',
@@ -410,7 +466,7 @@ export const blindWatchmaker: BookSummary = {
         },
         {
           type: 'key',
-          html: "El darwinismo es la única teoría conocida que, en principio, puede explicar la <span class=\"key-term\">complejidad adaptativa</span>. Los rivales fallan incluso antes de mirar la evidencia.",
+          html: "El darwinismo es la única teoría conocida que puede explicar la <span class=\"key-term\">complejidad adaptativa</span>. Los rivales fallan incluso antes de mirar la evidencia.",
         },
       ],
     },

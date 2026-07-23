@@ -25,6 +25,7 @@ Para cada dimensión, marcá `ok`, `flojo` o `falla` y justificá en 1 oración.
 2. **Idea principal por capítulo** — ¿Cada `# capN` transmite la tesis del capítulo (afirmación, no tema)? ¿El `<!-- paragraph lead -->` plantea la pregunta del capítulo? ¿El bloque `<!-- key -->` expresa esa idea y no un dato lateral?
 3. **Cadena argumental** — ¿Aparece el _por qué_ (evidencia/razonamiento), no solo el _qué_? ¿Se entiende de qué quiere convencer el autor en cada capítulo?
 4. **Legibilidad de principio a fin** — ¿Algún párrafo es un catálogo de ejemplos (listitis)? ¿Hay oraciones de más de 25 palabras? ¿Hay más de 3–4 spans (`<span class="...">`) por párrafo? ¿Cada capítulo se puede leer sin releer oraciones?
+4b. **Accesibilidad léxica** — ¿Cada término técnico de la prosa se explica en su 1.ª aparición? ¿Hay más de 2–3 tecnicismos nuevos por capítulo sin glosa? ¿Se asume conocimiento de autores, eras o yacimientos sin presentarlos?
 5. **Hilo conductor** — ¿Se percibe cómo avanza el libro de un capítulo al siguiente? ¿Hay `<!-- bridge -->` al final de los capítulos, o al menos conectores claros entre secciones?
 6. **Tesis en el cierre** — ¿El `# cierre` refleja la tesis global del esqueleto (no un tópico genérico)?
 7. **Fidelidad factual** — ¿Hay citas, cifras o fechas que **no** están en el libro? (verificar contra `.extracted`) Marcá cualquier dato sospechoso de invención.
@@ -43,6 +44,7 @@ Devolvé un diagnóstico con esta forma (podés usar JSON o lista markdown):
         "idea_principal": "…",
         "cadena_argumental": "…",
         "legibilidad": "…",
+        "accesibilidad_lexica": "ok|flojo|falla — tecnicismos sin glosa / jerga acumulada / conocimiento previo asumido",
         "hilo_conductor": "…",
         "tesis_cierre": "…",
         "fidelidad_factual": "…",

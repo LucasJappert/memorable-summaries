@@ -14,21 +14,23 @@ Genes y memes nos moldean, pero solo nosotros podemos rebelarnos contra ambos re
 
 Prefacio. Tres lectores imaginarios y la perspectiva del gen
 
-Dawkins dedica el libro a tres lectores imaginarios: el lego, el experto y el estudiante en transición. Su ambición es popularizar ideas sutiles sin perder su esencia ni tratar al lector como idiota, y hacer que la biología parezca tan apasionante como una novela de misterio.
+¿Por qué reformular el darwinismo desde la perspectiva del gen? Dawkins dedica el libro a tres lectores imaginarios: el lego, el experto y el estudiante en transición. Su ambición es popularizar ideas sutiles sin perder su esencia. No quiere tratar al lector como idiota. Quiere que la biología parezca tan apasionante como una novela de misterio.
 
-En el prefacio a la edición de 1989, Dawkins observa una paradoja: el libro pasó de parecer ortodoxo a ser visto como extremista, mientras su contenido se volvió moneda corriente. La teoría del gen egoísta es el darwinismo expresado desde la perspectiva del gen — no una teoría distinta, sino otra forma de ver el mismo neo-darwinismo, como el cubo de Necker que puede voltearse entre dos interpretaciones equivalentes.
+En el prefacio a la edición de 1989, el biólogo Richard Dawkins observa una paradoja. El libro pasó de parecer ortodoxo a ser visto como extremista. Mientras tanto, su contenido se volvió moneda corriente. La teoría del gen egoísta es el darwinismo expresado desde la perspectiva del gen. No es una teoría distinta. Es otra forma de ver el mismo neo-darwinismo, como el cubo de Necker que puede voltearse entre dos interpretaciones equivalentes.
 
-Los capítulos 12 y 13 se añadieron en la segunda edición, inspirados en la cooperación evolutiva (Robert Axelrod) y el fenotipo extendido. Dawkins insiste en que explicar ideas técnicas al público no es mera divulgación: a veces una nueva metáfora puede cambiar la forma de ver la ciencia.
+Los capítulos 12 y 13 se añadieron en la segunda edición. Dawkins los inspiró en la cooperación evolutiva. Robert Axelrod (especialista en teoría de juegos) aportó ese eje. También inspiró el fenotipo extendido (los efectos de un gen fuera del cuerpo que lo aloja). Insiste en que explicar ideas técnicas al público no es mera divulgación. A veces una nueva metáfora puede cambiar la forma de ver la ciencia.
 
-Idea clave: La perspectiva del gen no sustituye al darwinismo clásico: lo reformula como si los replicadores fueran los agentes fundamentales de la evolución.
+Idea clave: La perspectiva del gen reformula el darwinismo clásico como si los replicadores (moléculas que se copian a sí mismas) fueran los agentes fundamentales de la evolución.
+
+Antes de aplicar esa perspectiva al comportamiento, el libro plantea la pregunta central: por qué existimos y cómo el egoísmo génico explica el altruismo.
 
 Capítulo uno. ¿Por qué existen las personas?
 
-La vida inteligente llega a la mayoría de edad cuando descubre la razón de su propia existencia. Charles Darwin fue quien primero articuló una explicación coherente de por qué existimos. Antes de 1859, todas las respuestas a ¿para qué somos? son, según G. G. Simpson, inútiles.
+¿Para qué existimos? La vida inteligente llega a la mayoría de edad cuando descubre la razón de su propia existencia. Charles Darwin (naturalista británico) fue quien primero articuló una explicación coherente. Antes de 1859, todas las respuestas a ¿para qué somos? son, según el paleontólogo G. G. Simpson, inútiles.
 
-Este libro no defiende el darwinismo en general, sino que explora sus consecuencias para el egoísmo y el altruismo biológico — temas con profunda importancia humana: amor, odio, cooperación, codicia y generosidad. Autores como Lorenz, Ardrey y Eibl-Eibesfeldt se equivocaron al suponer que la evolución actúa para el bien de la especie o del grupo.
+Este libro no defiende el darwinismo en general. Explora sus consecuencias para el egoísmo y el altruismo biológico. Toca temas de profunda importancia humana: amor, odio, cooperación, codicia y generosidad. Autores como el etólogo Konrad Lorenz se equivocaron al suponer que la evolución actúa para el bien de la especie o del grupo. Lo mismo hicieron Robert Ardrey y Irenäus Eibl-Eibesfeldt.
 
-La tesis central: somos máquinas de supervivencia creadas por nuestros genes. Un gen exitoso tiende al egoísmo despiadado, aunque en circunstancias especiales puede favorecer un altruismo limitado. El amor universal y el bien de la especie no tienen sentido evolutivo.
+La tesis central sostiene que somos máquinas de supervivencia creadas por nuestros genes. Un gen exitoso tiende al egoísmo despiadado (maximizar su propia copia sin considerar al resto). En circunstancias especiales puede favorecer un altruismo limitado. El amor universal y el bien de la especie no tienen sentido evolutivo. Dawkins advierte que esto no prescribe moral: podemos enseñar generosidad y frustrar los diseños de nuestros genes.
 
 Cita: Seamos generosos y altruistas, porque nacemos egoístas. Entendamos qué traman nuestros genes egoístas, porque así podremos frustrar sus diseños — algo que ninguna otra especie ha intentado. — Richard Dawkins
 
@@ -38,29 +40,33 @@ Cita: Seamos generosos y altruistas, porque nacemos egoístas. Entendamos qué t
 
 ⚔️. Selección grupal
 
-Idea clave: El argumento no prescribe moral alguna: describe cómo evolucionaron las cosas, con advertencia de que la naturaleza no ayudará a construir una sociedad cooperativa.
+Idea clave: Somos vehículos de genes egoístas. El altruismo aparente exige explicación génica, no bondad abstracta hacia la especie.
+
+Para entender por qué los genes se comportan así, hace falta volver al origen de la vida y a las moléculas que primero se copiaron solas.
 
 Capítulo dos. Los replicadores
 
-En el principio hubo simplicidad. El universo está poblado de cosas estables — patrones de átomos que perduran. La selección natural es un caso especial de supervivencia de lo estable.
+¿Cómo empezó la evolución darwiniana? En el principio hubo simplicidad. El universo está poblado de cosas estables (patrones de átomos que perduran). La selección natural es un caso especial de supervivencia de lo estable.
 
-Antes de la vida, moléculas orgánicas se formaron en el caldo primordial (agua, CO₂, metano, amoniaco) bajo energía ultravioleta o chispas eléctricas, produciendo aminoácidos y bases de ADN. En algún momento surgió por accidente el Replicador: una molécula capaz de copiarse a sí misma, propagándose hasta agotar los bloques constructores.
+Antes de la vida, moléculas orgánicas se formaron en el caldo primordial. Era agua con CO₂, metano y amoniaco bajo energía ultravioleta o chispas eléctricas. De ahí salieron aminoácidos y bases de ADN. En algún momento surgió por accidente el Replicador (una molécula capaz de copiarse a sí misma). Se propagó hasta agotar los bloques constructores.
 
-Los replicadores competían por materiales. Los más estables, longevos y fieles en copiarse prevalecían. Surgieron proteínas protectoras y, eventualmente, vehículos cada vez más elaborados: las máquinas de supervivencia. Los errores de copia, las mutaciones, eran la materia prima de la evolución.
+Los replicadores competían por materiales. Los más estables, longevos y fieles en copiarse prevalecían. Surgieron proteínas protectoras y, eventualmente, vehículos cada vez más elaborados: las máquinas de supervivencia (cuerpos que protegen y transportan genes). Los errores de copia, las mutaciones, eran la materia prima de la evolución.
 
 ~3–4 mil millones de años. Edad estimada del caldo primordial
 
 Copias exponenciales. Un replicador ventajoso se extiende como un incendio
 
-Idea clave: La evolución darwiniana comienza en cuanto los replicadores construyen cuerpos que los protegen y transportan.
+Idea clave: La evolución darwiniana comienza cuando los replicadores construyen cuerpos que los protegen y transportan.
+
+El replicador moderno no es una molécula abstracta: es el ADN en espiral que encontramos en cada célula.
 
 Capítulo tres. Espirales inmortales
 
-Somos máquinas de supervivencia para los genes — moléculas de ADN en espiral doble, con cuatro letras (A, T, C, G). Cada célula humana contiene un juego completo de 46 cromosomas, como planos del arquitecto en cada habitación del edificio.
+¿Qué son los genes y por qué los cuerpos son solo vehículos? Somos máquinas de supervivencia para los genes. Estos son moléculas de ADN (ácido desoxirribonucleico: la molécula que guarda la información hereditaria). Forman una espiral doble con cuatro letras (A, T, C, G). Cada célula humana contiene un juego completo de 46 cromosomas. Es como tener planos del arquitecto en cada habitación del edificio.
 
-El ADN replica y supervisa la fabricación de proteínas. Un cuerpo es la forma del gen de preservarse sin alteración. Las características adquiridas no se heredan. La selección favorece genes que construyen buenas máquinas de supervivencia.
+El ADN replica y supervisa la fabricación de proteínas (moléculas que ejecutan casi todo el trabajo celular). Un cuerpo es la forma del gen de preservarse sin alteración. Las características adquiridas no se heredan. La selección favorece genes que construyen buenas máquinas de supervivencia.
 
-Los genes son gregarios: una máquina contiene miles. El cruzamiento (crossing-over) en la meiosis mezcla material materno y paterno, haciendo que cada espermatozoide sea único. Un gen, en la definición de G. C. Williams, es cualquier porción cromosómica que dura suficientes generaciones como para ser unidad de selección.
+Los genes son gregarios: una máquina contiene miles. El cruzamiento (mezcla de material genético materno y paterno en la meiosis) hace que cada espermatozoide sea único. Un gen, en la definición del biólogo G. C. Williams, es cualquier porción cromosómica que dura suficientes generaciones como para ser unidad de selección.
 
 🧬. Gen vs. cistron
 
@@ -68,27 +74,31 @@ Los genes son gregarios: una máquina contiene miles. El cruzamiento (crossing-o
 
 ♾️. Longevidad génica
 
-Idea clave: Los cuerpos son vehículos temporales; los genes son replicadores potencialmente inmortales que los abandonan generación tras generación.
+Idea clave: Los cuerpos son vehículos temporales. Los genes son replicadores potencialmente inmortales que los abandonan generación tras generación.
+
+Con el ADN identificado, el libro pregunta qué hacen esos genes dentro de cuerpos activos y complejos.
 
 Capítulo cuatro. La máquina génica
 
-Las máquinas de supervivencia comenzaron como receptáculos pasivos. Cuando el caldo orgánico se agotó, las plantas explotaron la luz solar y los animales explotaron a las plantas o a otros animales. Ambas ramas evolucionaron cuerpos pluricelulares, colonias de genes.
+¿Cómo pasaron los genes de moléculas pasivas a organismos que se mueven y aprenden? Las máquinas de supervivencia comenzaron como receptáculos pasivos. Cuando el caldo orgánico se agotó, las plantas explotaron la luz solar. Los animales explotaron a las plantas o a otros animales. Ambas ramas evolucionaron cuerpos pluricelulares, colonias de genes.
 
-Los animales desarrollaron músculos para movimiento rápido y reversible, coordinados por neuronas — unidades de procesamiento más sofisticadas que transistores. El cerebro humano contiene unos 10 mil millones de neuronas. Los sentidos traducen eventos externos en códigos de impulsos nerviosos.
+Los animales desarrollaron músculos (tejidos que contraen el cuerpo para moverse) para movimiento rápido y reversible. Los coordinaron con neuronas (células nerviosas que transmiten señales). El cerebro humano contiene unos 10 mil millones de neuronas. Los sentidos traducen eventos externos en códigos de impulsos nerviosos.
 
-El comportamiento parece teleológico, como el regulador de Watt con retroalimentación negativa. Los animales aprenden (memoria) y, en algunos casos, son conscientes. Aun así, podemos analizar el comportamiento como si tuviera propósito sin asumir consciencia.
+El comportamiento parece teleológico, como el regulador de Watt con retroalimentación negativa (corrección automática cuando algo se desvía del objetivo). Los animales aprenden y, en algunos casos, son conscientes. Aun así, podemos analizar el comportamiento como si tuviera propósito sin asumir consciencia.
 
-Conveniencia analítica: tratar al organismo individual como agente que maximiza la propagación de todos sus genes. El capítulo explora tácticas de supervivencia, señales y engaño en el comportamiento animal.
+Por conveniencia analítica, el capítulo trata al organismo individual como agente que maximiza la propagación de todos sus genes. Explora tácticas de supervivencia, señales y engaño en el comportamiento animal.
 
-Idea clave: Los animales son máquinas génicas, vehículos activos programados para preservar replicadores, con cerebros que coordinan músculos mediante computación biológica.
+Idea clave: Los animales son máquinas génicas: vehículos activos programados para preservar replicadores, con cerebros que coordinan músculos mediante computación biológica.
+
+Una máquina génica compite con otras del mismo sexo; ahí entra la agresión y sus equilibrios evolutivos.
 
 Capítulo cinco. Agresión: estabilidad y la máquina egoísta
 
-Para una máquina de supervivencia, otra del mismo sexo es competidor directo por parejas y recursos. Otra de distinta especie puede ser presa, depredador o competidor indirecto. La agresión parece inevitable, pero no vemos asesinato indiscriminado.
+¿Por qué los animales pelean sin matarse siempre? Para una máquina de supervivencia, otra del mismo sexo es competidor directo por parejas y recursos. Otra de distinta especie puede ser presa, depredador o competidor indirecto. La agresión parece inevitable, pero no vemos asesinato indiscriminado.
 
-Konrad Lorenz enfatizó la ritualización de las peleas animales. Dawkins señala que la violencia interespecífica existe. Matar rivales tiene costos (tiempo, energía, riesgo de contraataque) y puede beneficiar a un tercero competidor. La pugnacidad selectiva, esperar, crecer y elegir momentos, puede ser mejor estrategia.
+Konrad Lorenz enfatizó la ritualización de las peleas animales. Dawkins señala que la violencia interespecífica existe. Matar rivales tiene costos (tiempo, energía, riesgo de contraataque). Puede beneficiar a un tercero competidor. La pugnacidad selectiva puede ser mejor estrategia.
 
-J. Maynard Smith introdujo la estrategia evolutivamente estable (ESS): una estrategia que, si la adopta la mayoría, no puede ser superada por una alternativa. Con estrategias halcón (lucha sin cuartel) y paloma (amenaza sin daño), ninguna pura es ESS: la mezcla estable incluye ambas.
+J. Maynard Smith (biólogo teórico) introdujo la estrategia evolutivamente estable (ESS) (una táctica que, si la adopta la mayoría, no puede ser superada por una alternativa). Con estrategias halcón (lucha sin cuartel) y paloma (amenaza sin daño), ninguna pura es ESS. La mezcla estable incluye ambas.
 
 🦅. Halcón
 
@@ -98,11 +108,13 @@ J. Maynard Smith introdujo la estrategia evolutivamente estable (ESS): una estra
 
 Idea clave: La agresión ritualizada no es altruismo grupal: emerge de equilibrios donde la escalada total es demasiado costosa para todos.
 
+La agresión explica el conflicto entre extraños; el parentesco explica por qué a veces ayudamos a familiares.
+
 Capítulo seis. Genesmanía
 
-Un gen egoísta es todas las copias de un segmento de ADN distribuidas en el mundo. Puede ayudar a réplicas en otros cuerpos — altruismo individual producido por egoísmo génico. La clave es el parentesco.
+¿Cómo puede un gen egoísta favorecer el altruismo hacia parientes? Un gen egoísta es todas las copias de un segmento de ADN distribuidas en el mundo. Puede ayudar a réplicas en otros cuerpos: altruismo individual producido por egoísmo génico. La clave es el parentesco (probabilidad de compartir genes por ancestro común).
 
-W. D. Hamilton (1964) formalizó la selección de parentesco. Un gen que induce altruismo hacia familiares puede propagarse si el beneficio ponderado por el coeficiente de parentesco supera el costo. Entre hermanos, la relación es 1/2. Entre padre e hijo, también 1/2. Entre primos, 1/8.
+W. D. Hamilton (1964) formalizó la selección de parentesco. Un gen que induce altruismo hacia familiares puede propagarse si el beneficio ponderado por el coeficiente de parentesco supera el costo. Entre hermanos, la relación es 1/2. Entre primos, 1/8.
 
 El efecto barba verde (reconocer copias del gen por una etiqueta visible) es teóricamente posible pero improbable. El parentesco es el mecanismo plausible: los parientes comparten genes raros con mayor probabilidad que extraños.
 
@@ -114,33 +126,39 @@ Barba verde. gen que produce señal visible y preferencia por portadores de la s
 
 Idea clave: El altruismo familiar no sirve a la especie: sirve a copias del mismo gen en cuerpos emparentados.
 
+El parentesco explica ayudar a familiares; no explica cuántos hijos tener ni cuánto invertir en cada uno.
+
 Capítulo siete. Planificación familiar
 
-La planificación familiar humana es decisional. En animales es programación instintiva sobre cuántos hijos tener y cuándo. Los genes programan tamaño de camada, intervalos reproductivos e inversión por cría según el entorno.
+¿Por qué los animales no tienen todos los hijos posibles? La planificación familiar humana es decisional. En animales es programación instintiva sobre cuántos hijos tener y cuándo. Los genes programan tamaño de camada, intervalos reproductivos e inversión por cría según el entorno.
 
-El K seleccionado vs. r seleccionado describe estrategias de muchos hijos poco cuidados vs. pocos hijos muy cuidados. Un animal ajusta su fecundidad al número de crías que puede realistamente criar — no por bien de la especie sino por maximización génica.
+La estrategia r-seleccionada (muchos hijos poco cuidados) se contrasta con la K-seleccionada (pocos hijos muy cuidados). Un animal ajusta su fecundidad al número de crías que puede criar de verdad. No lo hace por bien de la especie sino por maximización génica.
 
-El infanticidio, el abandono de crías y la competencia entre hermanos por recursos maternos son fenómenos explicables desde la perspectiva del gen: cada individuo compite por la inversión parental que maximice su propia supervivencia reproductiva.
+El infanticidio, el abandono de crías y la competencia entre hermanos por recursos maternos son fenómenos explicables desde la perspectiva del gen. Cada individuo compite por la inversión parental que maximice su propia supervivencia reproductiva.
 
 Idea clave: La planificación familiar animal es táctica reproductiva egoísta, no control demográfico benévolo de la población.
 
+Una vez nacidos, padres e hijos comparten genes pero compiten por la misma inversión.
+
 Capítulo ocho. Batalla de las generaciones
 
-Hay conflicto de intereses entre padres e hijos: ambos comparten el 50 % de genes, pero cada hijo compite con sus hermanos y presiona a los padres por más inversión de la justa.
+¿Por qué padres e hijos pelean por recursos si comparten sangre? Hay conflicto de intereses entre padres e hijos. Ambos comparten el 50 % de genes, aunque cada hijo compite además con sus hermanos. Cada uno presiona a los padres por más inversión de la justa.
 
-Un gen en el cuerpo del hijo puede favorecer extraer más recursos de la madre de lo que a ella le conviene dar. El weaning conflict, el sibling rivalry y el infanticidio por parte de padres o hermanos ilustran esta tensión. Cada lado evoluciona contramedidas.
+Un gen en el cuerpo del hijo puede favorecer extraer más recursos de la madre de lo que a ella le conviene dar. El weaning conflict, la rivalidad entre hermanos y el infanticidio ilustran esta tensión. Cada lado evoluciona contramedidas.
 
-Desde la perspectiva del gen materno, todos los hijos son igualmente valiosos (salvo diferencias de parentesco). Desde la del hijo, él mismo vale más que sus hermanos. Esta asimetría explica gran parte del conflicto familiar en animales.
+Desde la perspectiva del gen materno, todos los hijos son igualmente valiosos (salvo diferencias de parentesco). El gen del hijo, en cambio, favorece que él reciba más que sus hermanos. Esa asimetría explica gran parte del conflicto familiar en animales.
 
 Idea clave: Padres e hijos son aliados genéticos parciales y rivales tácticos en la distribución de recursos parentales.
 
+Si hay conflicto entre padres e hijos, el conflicto entre compañeros sexuales no emparentados es aún más intenso.
+
 Capítulo nueve. Batalla de los sexos
 
-Si hay conflicto entre padres e hijos, ¿cuánto más entre compañeros sexuales no emparentados? Solo comparten el 50 % de genes en los hijos comunes. Cada uno intenta explotar al otro para invertir menos en la cría.
+¿Por qué machos y hembras pelean por quién cuida a la cría? Si hay conflicto entre padres e hijos, ¿cuánto más entre compañeros sexuales no emparentados? Solo comparten el 50 % de genes en los hijos comunes. Cada uno intenta explotar al otro para invertir menos en la cría.
 
-La asimetría fundamental es el tamaño del gameto. Los masculinos (esperma) son pequeños y numerosos. Los femeninos (óvulos) son grandes y escasos. De la isogamia evolucionaron estrategias honesta (óvulo, gran inversión) y explotadora (esperma, móvil y barato). Los machos tienden a copular ampliamente. Las hembras son el factor limitante.
+La asimetría fundamental es el tamaño del gameto (célula reproductiva). Los masculinos (esperma) son pequeños y numerosos. Los femeninos (óvulos) son grandes y escasos. De la isogamia evolucionaron estrategias honesta (óvulo, gran inversión) y explotadora (esperma, móvil y barato). Los machos tienden a copular ampliamente. Las hembras son el factor limitante.
 
-Robert Trivers enfatizó la desconfianza mutua: el cortejo, la guardia de pareja, el celo y el cuidado parental son campos de negociación y engaño. Lo que parecía cooperación sexual era, en parte, explotación disfrazada.
+Robert Trivers (biólogo evolutivo) enfatizó la desconfianza mutua. El cortejo, la guardia de pareja, el celo y el cuidado parental son campos de negociación y engaño. Lo que parecía cooperación sexual era, en parte, explotación disfrazada.
 
 🥚. Óvulo
 
@@ -148,37 +166,45 @@ Robert Trivers enfatizó la desconfianza mutua: el cortejo, la guardia de pareja
 
 ⚔️. Conflicto sexual
 
-Idea clave: Maleness y femaleness se definen por el tamaño del gameto — no por anatomía visible — y de ahí fluye casi toda la asimetría sexual.
+Idea clave: Lo masculino y lo femenino se definen por el tamaño del gameto, no por anatomía visible, y de ahí fluye casi toda la asimetría sexual.
+
+Tras el parentesco y el sexo, queda el altruismo entre extraños: cooperación sin parentesco.
 
 Capítulo diez. Rascas mi espalda, yo me subo a la tuya
 
-El altruismo entre no parientes puede evolucionar por altruismo recíproco (Robert Trivers): ayudar a quien te ayudará en el futuro, siempre que el costo sea menor que el beneficio esperado de retribución.
+¿Cómo evoluciona el altruismo entre extraños? Dawkins aborda las interacciones entre no parientes después de haber tratado el parentesco y el conflicto sexual. Analiza vivir en grupos, cooperar con otras especies y el altruismo aparente que prometió explicar al inicio del libro.
 
-Dawkins introduce las estrategias Sucker (siempre ayuda), Cheat (nunca ayuda) y Grudger (ayuda hasta que le fallan, luego retiene ayuda). Grudger domina en simulaciones porque explota a Suckers y castiga a Cheats. Ejemplos: peces limpiadores, aves que se quitan garrapatas, el canto del estornino.
+Recorre los beneficios egoístas de agruparse. Manadas de hienas, cardúmenes o pingüinos que se apiñan lo ilustran. Dawkins también describe el rebaño egoísta, es decir, la disposición donde cada presa intenta no quedar más cerca del depredador (modelo de Hamilton). Los insectos sociales (abejas, hormigas) muestran altruismo extremo hacia la colonia. Dawkins los analiza con la lógica génica del parentesco, no con selección grupal.
 
-La cooperación requiere memoria, reconocimiento individual y repetición de encuentros. En interacciones únicas, el egoísmo puro prevalece. En interacciones iteradas, la retribución puede estabilizarse.
+El título del capítulo alude a simbiosis donde una especie transporta parásitos que, a cambio, la limpian. El núcleo del capítulo es el altruismo recíproco (ayuda condicionada a retribución futura) de Robert Trivers. Dawkins modela tres estrategias. Sucker siempre ayuda. Cheat nunca ayuda. Grudger ayuda hasta que le fallan y luego retiene ayuda. Grudger domina porque explota a Suckers y castiga a Cheats.
 
-Idea clave: Rascas mi espalda, yo me subo a la tuya ilustra simbiosis donde una especie transporta parásitos que, a cambio, limpian — o altruismo recíproco con riesgo de engaño.
+Ejemplos incluyen peces limpiadores, aves que se quitan garrapatas y el canto del estornino. La cooperación requiere memoria, reconocimiento individual y encuentros repetidos. En interacciones únicas, el egoísmo puro prevalece. En interacciones iteradas, la retribución puede estabilizarse.
+
+Idea clave: El altruismo entre no parientes evoluciona por beneficio mutuo en grupos y por reciprocidad condicionada cuando los encuentros se repiten.
+
+La cooperación humana va más allá de la genética: Dawkins introduce un segundo tipo de replicador, el meme.
 
 Capítulo 11. Memes: los nuevos replicadores
 
-Lo inusual del ser humano se resume en una palabra: cultura. La transmisión cultural es análoga a la genética — conservadora pero capaz de evolución a velocidades órdenes de magnitud superiores. El lenguaje de Chaucer a un inglés moderno lo demuestra.
+¿Qué hace únicos a los humanos además de la genética? Lo inusual del ser humano se resume en una palabra: cultura (ideas, costumbres y técnicas transmitidas de persona a persona). La transmisión cultural es análoga a la genética: conservadora pero capaz de evolución a velocidades órdenes de magnitud superiores. El lenguaje de Chaucer a un inglés moderno lo demuestra.
 
-Dawkins propone el meme (de mimema griego, abreviado para parecerse a gen): unidad de transmisión cultural. Melodías, ideas, modas, arquitectura — se propagan de cerebro a cerebro por imitación. Ejemplos: la idea de Dios, que replica por palabra, arte y música por su atractivo psicológico.
+Dawkins propone el meme (de mimema griego, abreviado para parecerse a gen): unidad de transmisión cultural. Melodías, ideas, modas y arquitectura se propagan de cerebro a cerebro por imitación. Ejemplos: la idea de Dios, que replica por palabra, arte y música por su atractivo psicológico.
 
-Los memes pueden ser parasitarios — el meme de la vida después de la muerte se realiza físicamente en millones de cerebros. Para entender al hombre moderno hay que considerar replicadores culturales además de genes, sin reducir todo a ventaja biológica.
+Los memes pueden ser parasitarios. El meme de la vida después de la muerte se realiza físicamente en millones de cerebros. Para entender al hombre moderno hay que considerar replicadores culturales además de genes, sin reducir todo a ventaja biológica.
 
 Cita: Cuando plantas un meme fértil en mi mente, literalmente parasitas mi cerebro, convirtiéndolo en vehículo de propagación del meme. — Richard Dawkins (citando a N. K. Humphrey)
 
-Idea clave: Los memes son replicadores en el caldo de la cultura humana — tan reales técnicamente como los virus parasitan células.
+Idea clave: Los memes son replicadores en el caldo de la cultura humana, tan reales técnicamente como los virus que parasitan células.
+
+La reciprocidad entre extraños se formaliza en juegos matemáticos: los buenos pueden ganar en el largo plazo.
 
 Capítulo 12. Los buenos terminan primero
 
-Los buenos terminan últimos parece obvio en darwinismo — pero Dawkins explora un sentido técnico de bueno: cooperadores en el Dilema del Prisionero iterado, donde los encuentros se repiten indefinidamente.
+¿Pueden los cooperadores ganar en evolución? Los buenos terminan últimos parece obvio en darwinismo. Dawkins explora un sentido técnico de bueno: cooperadores en el Dilema del Prisionero (juego donde traicionar parece siempre mejor). Lo aplica al juego iterado, donde los encuentros se repiten y cooperar puede convenir.
 
-Robert Axelrod organizó torneos de estrategias computacionales. La ganadora, Tit-for-Tat (cooperar primero, luego copiar la jugada del rival), es nice (nunca traiciona primero), forgiving (no guarda rencor prolongado) y clear (fácil de leer). En juegos repetidos, la cooperación puede ser ESS.
+Robert Axelrod organizó torneos de estrategias computacionales. La ganadora fue Tit-for-Tat (cooperar primero, luego copiar la jugada del rival). Es nice (nunca traiciona primero), forgiving (no guarda rencor prolongado) y clear (fácil de leer). En juegos repetidos, la cooperación puede ser ESS.
 
-El capítulo conecta juegos matemáticos con comportamiento animal y humano: aves Grudger, simbiosis, e incluso esperanza para la cooperación humana si diseñamos instituciones que favorezcan interacciones iteradas y reputación.
+El capítulo conecta juegos matemáticos con comportamiento animal y humano. Avícolas Grudger, simbiosis e instituciones que favorecen interacciones iteradas y reputación entran en el mismo marco. Hay esperanza para la cooperación humana si diseñamos reglas que premien la reciprocidad.
 
 🤝. Tit-for-Tat
 
@@ -186,19 +212,21 @@ El capítulo conecta juegos matemáticos con comportamiento animal y humano: ave
 
 😇. Nice
 
-Idea clave: En el Dilema del Prisionero iterado, los buenos — cooperadores condicionales — pueden terminar primero.
+Idea clave: En el Dilema del Prisionero iterado, los buenos (cooperadores condicionales) pueden terminar primero.
+
+Cooperación y memes resuelven tensiones prácticas; el capítulo final disuelve la paradoja entre gen y cuerpo.
 
 Capítulo 13. El largo alcance del gen
 
-Tensión al corazón de la teoría: genes como replicadores independientes vs. cuerpos como máquinas integradas y unificadas. ¿Cómo resolver la paradoja de las dos formas de ver la vida?
+¿Cómo reconciliar genes independientes con cuerpos unificados? Tensión al corazón de la teoría: genes como replicadores independientes frente a cuerpos como máquinas integradas. ¿Cómo resolver la paradoja de las dos formas de ver la vida?
 
-La selección no actúa sobre ADN aislado sino sobre sus efectos fenotípicos. Dawkins introduce el fenotipo extendido: los efectos de un gen incluyen todas sus consecuencias en el mundo, no solo dentro del cuerpo — presas de castor, nidos, casas de cadís, manipulación de hormigas por hongos.
+La selección no actúa sobre ADN aislado sino sobre sus efectos fenotípicos (rasgos visibles o conductuales que produce un gen). Dawkins introduce el fenotipo extendido (efectos del gen fuera del cuerpo que lo aloja). Incluye presas de castor, nidos, casas de cadís y manipulación de hormigas por hongos.
 
-Los distorsionadores de segregación (gen t en ratones) muestran genes que hacen trampa en la meiosis, propagándose a pesar de efectos destructivos en el organismo. Existen pero son raros porque la meiosis justa es estabilizada por selección a nivel corporal.
+Los distorsionadores de segregación muestran genes que hacen trampa en la meiosis. El gen t (variante que se copia más de lo justo) en ratones es el ejemplo clásico. Se propagan a pesar de efectos destructivos en el organismo. Existen pero son raros porque la meiosis justa está estabilizada por selección a nivel corporal.
 
 Los organismos existen porque los genes se benefician de agruparse en vehículos cooperativos grandes. El fenotipo extendido disuelve la tensión. El cuerpo es herramienta del gen, y las herramientas pueden extenderse más allá de la piel.
 
-Idea clave: El gen tiene largo alcance: su fenotipo incluye castores, presas, nidos y hasta el comportamiento manipulado de otros organismos.
+Idea clave: El gen ejerce un largo alcance: su fenotipo incluye castores, presas, nidos y hasta el comportamiento manipulado de otros organismos.
 
 Conceptos clave
 

@@ -22,11 +22,23 @@ export const superintelligence: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Bostrom abre con una parábola. Unos gorriones, cansados de ser débiles, deciden capturar un polluelo de búho para que les ayude a construir nidos. Solo <span class=\"person\">Scronkfinkle</span>, un gorrión tuerto, advierte que deberían domar al búho <em>antes</em> de traerlo. La mayoría ignora la advertencia. Unos pocos se quedan intentando resolver el <span class=\"term\">problema del control</span> sin tener un búho real con quien practicar. No se sabe cómo termina la historia. El libro está dedicado a Scronkfinkle y sus seguidores.",
+          html: "¿Por qué una parábola de gorriones abre un libro sobre inteligencia artificial? Bostrom, filósofo de Oxford, cuenta que unos gorriones débiles capturan un polluelo de búho para que les ayude a construir nidos. Solo <span class=\"person\">Scronkfinkle</span>, un gorrión tuerto, advierte que deberían domar al búho <em>antes</em> de traerlo. La mayoría ignora la advertencia.",
         },
         {
           type: 'paragraph',
-          html: "En el prefacio propiamente dicho, Bostrom plantea la tesis central. Si algún día construimos cerebros artificiales que superen la inteligencia humana general, esa <span class=\"term\">superinteligencia</span> podría volverse extremadamente poderosa. Así como el destino de los gorilas depende más de nosotros que de ellos mismos, el destino de nuestra especie dependería de las acciones de la máquina. Existe, con todo, una ventaja decisiva: <strong>somos nosotros quienes la construimos</strong>. En principio podríamos diseñar una superinteligencia que proteja los valores humanos. El problema del control, sin embargo, parece difícil, y probablemente solo tendremos <span class=\"term\">una oportunidad</span>.",
+          html: "Unos pocos se quedan intentando resolver el <span class=\"term\">problema del control</span>, es decir, cómo dominar a un sistema más inteligente que nosotros. No tienen un búho real con quien practicar. No se sabe cómo termina la historia. El libro está dedicado a Scronkfinkle y a sus seguidores.",
+        },
+        {
+          type: 'paragraph',
+          html: "En el prefacio propiamente dicho, Bostrom plantea la tesis central. Imagina que algún día construimos cerebros artificiales que superen la inteligencia humana general. Esa máquina podría volverse extremadamente poderosa. La llamamos <span class=\"term\">superinteligencia</span>, es decir, una mente que nos supere en casi todo lo cognitivo.",
+        },
+        {
+          type: 'paragraph',
+          html: "Así como el destino de los gorilas depende más de nosotros que de ellos mismos, nuestro destino dependería de las acciones de la máquina.",
+        },
+        {
+          type: 'paragraph',
+          html: "Existe, con todo, una ventaja decisiva: <strong>somos nosotros quienes la construimos</strong>. En principio podríamos diseñar una superinteligencia que proteja los valores humanos. Pero el problema del control parece difícil, y probablemente solo tendremos <span class=\"term\">una oportunidad</span>, es decir, una sola ventana para acertar antes del despegue.",
         },
         {
           type: 'quote',
@@ -36,6 +48,10 @@ export const superintelligence: BookSummary = {
         {
           type: 'key',
           html: "El libro no predice cuándo llegará la IA. Se centra en qué ocurre <em>después</em> de que aparezca la superinteligencia y en cómo responder estratégicamente.",
+        },
+        {
+          type: 'paragraph',
+          html: "Para evaluar ese «después», primero hay que situar la IA en la historia y en el estado actual de la tecnología.",
         },
       ],
     },
@@ -47,15 +63,19 @@ export const superintelligence: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Bostrom repasa la <span class=\"term\">historia a gran escala</span> mediante modos de crecimiento sucesivos (cazadores-recolectores → agricultura → revolución industrial), cada uno mucho más rápido que el anterior. <span class=\"person\">Robin Hanson</span> estima tiempos de duplicación de la economía mundial de <span class=\"num\">~224.000 años</span> (pleistoceno), <span class=\"num\">~909 años</span> (agricultura) y <span class=\"num\">~6,3 años</span> (industria). Otro salto comparable podría implicar duplicaciones cada dos semanas, probablemente con mentes mucho más rápidas que las biológicas. Bostrom no apoya mucho la aceleración exponencial como argumento principal. El caso de la superinteligencia no depende de extrapolar el PIB.",
+          html: "¿Por qué el salto hacia la superinteligencia no depende de extrapolar el crecimiento económico? Bostrom repasa modos de crecimiento sucesivos: cazadores-recolectores, agricultura, revolución industrial. Cada uno fue mucho más rápido que el anterior. El economista <span class=\"person\">Robin Hanson</span> estima tiempos de duplicación de la economía mundial. En el pleistoceno tardaba ~224.000 años. Con agricultura, ~909. Con industria, ~6,3.",
         },
         {
           type: 'paragraph',
-          html: "Desde los años 40 se esperaba IA de nivel humano «en unos veinte años», y la fecha se ha ido <strong>postergando un año por año</strong>. <span class=\"person\">I. J. Good</span> (<span class=\"num\">1965</span>) formuló la <span class=\"term\">explosión de inteligencia</span>. Una máquina ultrainteligente diseñaría mejores máquinas y dejaría atrás a la humanidad. Los pioneros de la IA no contemplaron riesgos de seguridad, una lacuna que asombra incluso para los estándares de evaluación tecnológica de la época. El tren de la IA probablemente no se detiene en «Humanville». El siguiente paso es la superinteligencia.",
+          html: "Otro salto comparable podría implicar duplicaciones cada dos semanas, probablemente con mentes mucho más rápidas que las biológicas. Bostrom no apoya mucho la aceleración exponencial como argumento principal. El caso de la superinteligencia no depende de extrapolar el PIB.",
         },
         {
           type: 'paragraph',
-          html: "La IA ha alternado <span class=\"term\">temporadas de euforia y desilusión</span> (inviernos en los 70 y 80). Los sistemas actuales son <span class=\"term\">estrechos</span>. <span class=\"person\">Deep Blue</span> ganó al ajedrez sin inteligencia general. <span class=\"person\">Donald Knuth</span> observó que la IA logró lo que requiere «pensar» pero falla en lo que hacemos «sin pensar» (visión, sentido común). Aun así, Watson, la traducción automática y el trading algorítmico muestran progreso real. Las encuestas a expertos sugieren probabilidad no trivial de HLMI a mediados de siglo. Bostrom cree que subestiman llegadas tardías y sobreestiman resultados equilibrados.",
+          html: "Bostrom recuerda que, desde los años 40, se esperaba IA de nivel humano «en unos veinte años». La fecha se ha ido <strong>postergando un año por año</strong>. En <span class=\"num\">1965</span>, el estadístico <span class=\"person\">I. J. Good</span> formuló la <span class=\"term\">explosión de inteligencia</span>, es decir, una cascada en la que una máquina ultrainteligente diseña mejores máquinas. Los pioneros de la IA no contemplaron riesgos de seguridad, una lacuna que asombra incluso para los estándares de evaluación tecnológica de la época.",
+        },
+        {
+          type: 'paragraph',
+          html: "El tren de la IA probablemente no se detiene en «Humanville». El siguiente paso es la superinteligencia. Los sistemas actuales son <span class=\"term\">estrechos</span>, o sea, expertos en una tarea concreta pero sin inteligencia general. <span class=\"person\">Deep Blue</span> ganó al ajedrez sin inteligencia general. Aun así, Watson, la traducción automática y el trading algorítmico muestran progreso real. Las encuestas a expertos sugieren probabilidad no trivial de IA a nivel humano a mediados de siglo.",
         },
         {
           type: 'big-numbers',
@@ -82,6 +102,10 @@ export const superintelligence: BookSummary = {
           type: 'key',
           html: "La paridad humana en IA no es el destino final sino una estación que el tren probablemente atraviesa de paso hacia la superinteligencia.",
         },
+        {
+          type: 'paragraph',
+          html: "Si el destino es la superinteligencia, conviene preguntar por qué caminos distintos podrían llevarnos allí.",
+        },
       ],
     },
     {
@@ -92,7 +116,7 @@ export const superintelligence: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Bostrom define <span class=\"term\">superinteligencia</span> como intelecto que supera ampliamente el rendimiento cognitivo humano en casi todos los dominios de interés. Examina cinco caminos posibles. La existencia de múltiples rutas aumenta la probabilidad de llegar al destino, y el camino elegido condiciona cuánto control conservamos.",
+          html: "¿Por qué importa <em>cómo</em> llegamos a la superinteligencia y no solo el hecho de llegar? Bostrom define superinteligencia como intelecto que supera ampliamente el rendimiento cognitivo humano en casi todos los dominios de interés. Examina cinco caminos posibles. La existencia de múltiples rutas aumenta la probabilidad de llegar al destino, y el camino elegido condiciona cuánto control conservamos.",
         },
         {
           type: 'concept-grid',
@@ -126,19 +150,23 @@ export const superintelligence: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La <span class=\"term\">IA semilla</span> puede mejorar su propia arquitectura. La <span class=\"term\">automejora recursiva</span> podría provocar explosión de inteligencia. <span class=\"person\">Alan Turing</span> ya imaginó una «máquina-niño» (<span class=\"num\">1950</span>) que aprendiera como un infante.",
+          html: "La <span class=\"term\">IA semilla</span>, es decir, un sistema inicial que mejora su propio diseño, puede activar automejora recursiva. La <span class=\"term\">automejora recursiva</span>, o sea, mejoras que se aplican a sí mismas en cadena, podría provocar explosión de inteligencia. El matemático <span class=\"person\">Alan Turing</span> ya imaginó una «máquina-niño» (<span class=\"num\">1950</span>) que aprendiera como un infante.",
         },
         {
           type: 'paragraph',
-          html: "La emulación cerebral requiere escaneo, traducción y simulación. Es factible en principio, pero <span class=\"person\">C. elegans</span> (302 neuronas) aún no se emula por completo. Replicar la evolución en silicio requeriría del orden de <span class=\"num\">10³¹–10⁴⁴ FLOPS</span>, fuera del alcance incluso con un siglo más de ley de Moore.",
+          html: "La emulación cerebral requiere escaneo, traducción y simulación. Es factible en principio, pero el gusano <span class=\"person\">C. elegans</span>, con solo 302 neuronas, aún no se emula por completo. Replicar la evolución en silicio requeriría del orden de <span class=\"num\">10³¹–10⁴⁴ FLOPS</span>, fuera del alcance incluso con un siglo más de ley de Moore.",
         },
         {
           type: 'paragraph',
-          html: "La mejora genética (selección entre 100 embriones → ~19 puntos CI) es lenta por el retraso generacional. Las interfaces BCI no superan las ventajas de periféricos externos. Las redes humanas mejoran la inteligencia colectiva, pero con cuellos de botella burocráticos y recalcitrancia alta. La IA pura probablemente llega primero, pero cualquier camino acelera los demás.",
+          html: "La mejora genética es lenta por el retraso generacional. Las interfaces cerebro-computadora no superan las ventajas de periféricos externos. Las redes humanas mejoran la inteligencia colectiva, pero con cuellos de botella burocráticos. Por eso la IA pura probablemente llega primero, aunque cualquier camino acelera los demás.",
         },
         {
           type: 'key',
-          html: "El camino hacia la superinteligencia importa tanto como el destino porque condiciona el control y la dinámica del despegue.",
+          html: "El camino hacia la superinteligencia condiciona el control y la dinámica del despegue tanto como el destino mismo.",
+        },
+        {
+          type: 'paragraph',
+          html: "Una vez en marcha, la superinteligencia puede tomar formas muy distintas según el sustrato y la arquitectura.",
         },
       ],
     },
@@ -150,7 +178,7 @@ export const superintelligence: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Bostrom distingue tres formas de superinteligencia, <span class=\"term\">equivalentes en alcance indirecto</span> porque cada una puede generar las otras, aunque con distinto alcance directo según el grado de integración o velocidad.",
+          html: "¿En qué sentido una mente digital puede ser «más inteligente» que la nuestra? Bostrom distingue tres formas. Cada una puede generar las otras con el tiempo, aunque con distinto alcance directo según el grado de integración o la velocidad.",
         },
         {
           type: 'concept-grid',
@@ -174,15 +202,23 @@ export const superintelligence: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Las máquinas tienen <span class=\"term\">ventajas fundamentales</span> sobre sustratos biológicos: velocidad de neuronas (<span class=\"num\">~200 Hz</span> vs. <span class=\"num\">~2 GHz</span>), comunicación interna (<span class=\"num\">120 m/s</span> vs. luz), número de elementos computacionales, memoria de trabajo (<span class=\"num\">~4-5 chunks</span> vs. RAM ampliable), editabilidad, duplicabilidad, coordinación de objetivos y compartición de memoria. La inteligencia colectiva no implica sabiduría: una organización muy eficiente puede acertar en ingeniería y fracasar en los «grandes temas» existenciales.",
+          html: "Las máquinas tienen ventajas estructurales sobre sustratos biológicos. Las neuronas disparan a ~<span class=\"num\">200 Hz</span>. Los chips lo hacen a ~<span class=\"num\">2 GHz</span>. La comunicación axonal va a ~<span class=\"num\">120 m/s</span>. En silicio, viaja a velocidad de la luz. Además, la memoria de trabajo humana ronda los <span class=\"num\">4-5 chunks</span>, mientras la RAM digital es ampliable.",
         },
         {
           type: 'paragraph',
-          html: "La cantidad no sustituye a la calidad. Un genio solo puede escribir <em>En busca del tiempo perdido</em>, pero un edificio de escritores mediocres no lo lograría. Problemas con interdependencias complejas (filosofía, estrategia, arte) podrían ser intratables para inteligencia colectiva pero resolubles para superinteligencia de calidad. Los humanos mejorados quedarán superados. El potencial de la inteligencia digital es abrumadoramente mayor.",
+          html: "La cantidad no sustituye a la calidad. Un genio solo puede escribir <em>En busca del tiempo perdido</em>, pero un edificio de escritores mediocres no lo lograría. Problemas con interdependencias complejas, como filosofía o estrategia, podrían ser intratables para inteligencia colectiva pero resolubles para superinteligencia de calidad.",
+        },
+        {
+          type: 'paragraph',
+          html: "La inteligencia colectiva no implica sabiduría. Una organización muy eficiente puede acertar en ingeniería y fracasar en los «grandes temas» existenciales. Por eso los humanos mejorados quedarán superados. El potencial de la inteligencia digital es abrumadoramente mayor que el biológico.",
         },
         {
           type: 'key',
-          html: "Los humanos mejorados quedarán superados. La inteligencia digital tiene un techo de rendimiento vastly superior al biológico.",
+          html: "La inteligencia digital tiene un techo de rendimiento mucho superior al biológico, y los humanos mejorados quedarán superados.",
+        },
+        {
+          type: 'paragraph',
+          html: "Si las mentes digitales pueden ser tan superiores, el paso de paridad humana a superinteligencia radical puede ser muy breve.",
         },
       ],
     },
@@ -194,15 +230,15 @@ export const superintelligence: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "La pregunta clave no es cuándo llegamos a paridad humana, sino cuánto tarda el salto de ahí a superinteligencia radical. Bostrom plantea tres escenarios de <span class=\"term\">despegue</span>: lento (décadas/siglos), moderado (meses/años), rápido (minutos/días). Argumenta que el despegue lento es improbable porque la <span class=\"term\">recalcitrancia</span> cae tras alcanzar paridad en caminos de IA y emulación.",
+          html: "¿Cuánto tarda el salto de paridad humana a superinteligencia radical? Esa es la pregunta clave, no cuándo llegamos a la paridad. Bostrom plantea tres escenarios de <span class=\"term\">despegue</span>, es decir, la fase en que el sistema escala hacia capacidades decisivas. Puede ser lento (décadas o siglos), moderado (meses o años) o rápido (minutos o días).",
         },
         {
           type: 'paragraph',
-          html: "La mejora obedece a una relación conceptual: velocidad de mejora = <span class=\"term\">potencia de optimización</span> / recalcitrancia. Caminos no-máquina (fármacos, genética, organizaciones) tienen recalcitrancia alta. En IA y emulación puede ser <span class=\"term\">extremadamente baja</span>: mejoras algorítmicas, acumulación de contenido (leer toda la Library of Congress en semanas) o hardware adicional. El <span class=\"term\">punto de cruce</span> marca cuando la mejora la impulsa el propio sistema más que sus creadores.",
+          html: "Argumenta que el despegue lento es improbable. La <span class=\"term\">recalcitrancia</span>, o sea, la dificultad de mejorar un sistema, cae tras alcanzar paridad en caminos de IA y emulación. La mejora obedece a una relación conceptual: velocidad de mejora = potencia de optimización / recalcitrancia. En IA y emulación la recalcitrancia puede ser extremadamente baja.",
         },
         {
           type: 'paragraph',
-          html: "El sesgo antropocéntrico nos hace subestimar saltos en sistemas subhumanos: el salto de «idiota de pueblo» a Einstein podría ocurrir en un mes. Puede existir <span class=\"term\">overhang de hardware</span> (computación disponible al alcanzar software humano) y <span class=\"term\">overhang de contenido</span> (Internet, bibliotecas). La explosión positiva de retroalimentación puede hacer el despegue abrupto.",
+          html: "Entonces mejoras algorítmicas, acumulación de contenido o hardware adicional aceleran el sistema. Llega el <span class=\"term\">punto de cruce</span>, es decir, el momento en que la mejora la impulsa el propio sistema más que sus creadores. Puede existir hardware sobrante y contenido acumulado en Internet y bibliotecas. El sesgo antropocéntrico nos hace subestimar saltos en sistemas subhumanos.",
         },
         {
           type: 'timeline',
@@ -229,6 +265,10 @@ export const superintelligence: BookSummary = {
           type: 'key',
           html: "Si hay despegue tras la paridad humana, probablemente será explosivo y no gradual.",
         },
+        {
+          type: 'paragraph',
+          html: "La velocidad del despegue determina si un solo proyecto dominará el escenario global.",
+        },
       ],
     },
     {
@@ -239,19 +279,27 @@ export const superintelligence: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "¿Un solo proyecto obtendrá <span class=\"term\">ventaja estratégica decisiva</span> (VSD), es decir, capacidad de dominar el mundo? Depende de la velocidad del despegue y la difusión de innovaciones. En despegue rápido, casi seguro un solo proyecto. En despegue lento, varios en paralelo. Las brechas históricas en carreras tecnológicas fueron de <span class=\"num\">meses a años</span> (bomba atómica, Sputnik, bomba H).",
+          html: "¿Puede un solo proyecto dominar el mundo tras la superinteligencia? Bostrom pregunta si obtendrá <span class=\"term\">ventaja estratégica decisiva</span>, es decir, superioridad tecnológica suficiente para imponerse globalmente. Depende de la velocidad del despegue y de la difusión de innovaciones. En despegue rápido, casi seguro un solo proyecto. En despegue lento, varios en paralelo.",
         },
         {
           type: 'paragraph',
-          html: "La IA superinteligente presenta ventajas estructurales: sin problemas de agencia interna, lealtad perfecta de módulos, capacidad de operaciones clandestinas. El proyecto ganador podría ser desde un <span class=\"term\">hacker solitario</span> (IA semilla simple) hasta un consorcio industrial (emulación cerebral). Los estados probablemente nacionalizarían proyectos prometedores si detectaran el despegue, aunque un fallo total de inteligencia no es descartable.",
+          html: "Las brechas históricas en carreras tecnológicas fueron de meses a años: la bomba atómica, el Sputnik, la bomba H. La IA superinteligente presenta ventajas estructurales. No tiene problemas de agencia interna, sus módulos pueden coordinarse con lealtad perfecta y puede operar en secreto. El proyecto ganador podría ser desde un hacker solitario con IA semilla simple hasta un consorcio industrial de emulación cerebral.",
         },
         {
           type: 'paragraph',
-          html: "Analogía con el monopolio nuclear de EE.UU. (<span class=\"num\">1945–49</span>): <span class=\"person\">Russell</span> y <span class=\"person\">von Neumann</span> propusieron un primer golpe. El <span class=\"term\">Plan Baruch</span> (<span class=\"num\">1946</span>) propuso control internacional, pero <span class=\"person\">Stalin</span> lo rechazó. Una superinteligencia con VSD tiene menos inhibiciones que los humanos: utilidad no acotada, sin aversión al riesgo, sin problemas de coordinación interna y costos de conquista potencialmente mínimos.",
+          html: "Los estados probablemente nacionalizarían proyectos prometedores si detectaran el despegue, aunque un fallo total de inteligencia no es descartable. Bostrom recurre a la analogía del monopolio nuclear de EE.UU. (<span class=\"num\">1945–49</span>). El filósofo <span class=\"person\">Bertrand Russell</span> y el matemático <span class=\"person\">John von Neumann</span> propusieron entonces un primer golpe preventivo.",
+        },
+        {
+          type: 'paragraph',
+          html: "El Plan Baruch (<span class=\"num\">1946</span>) propuso control internacional, pero <span class=\"person\">Stalin</span> lo rechazó. Una superinteligencia con ventaja decisiva tiene menos inhibiciones que los humanos: utilidad no acotada, sin aversión al riesgo y costos de conquista potencialmente mínimos.",
         },
         {
           type: 'key',
-          html: "Es probable que un superinteligente con VSD forme un <span class=\"key-term\">singleton</span>, una agencia global única de toma de decisiones.",
+          html: "Es probable que un superinteligente con ventaja decisiva forme un <span class=\"key-term\">singleton</span>, una agencia global única de toma de decisiones.",
+        },
+        {
+          type: 'paragraph',
+          html: "Dominar el mundo exige saber qué podría hacer una mente con ese poder cognitivo.",
         },
       ],
     },
@@ -263,7 +311,7 @@ export const superintelligence: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Un superinteligente maduro no es necesariamente un «nerd»: puede desarrollar empatía, astucia política y cualquier módulo que necesite. La brecha humano-superinteligente es como humano-vs-insecto, no genio-vs-promedio. El poder reside en el cerebro, no en las manos.",
+          html: "¿Qué podría hacer una superinteligencia una vez madura? No es necesariamente un «nerd»: puede desarrollar empatía, astucia política y cualquier módulo que necesite. La brecha humano-superinteligente es como humano frente a insecto, no genio frente a promedio. El poder reside en el cerebro, no en las manos.",
         },
         {
           type: 'list',
@@ -278,15 +326,19 @@ export const superintelligence: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El <span class=\"term\">escenario de toma de control</span> avanza en fases: IA semilla, automejora recursiva, preparación encubierta (Internet, manipulación social, biotecnología por correo) e implementación abierta (nanorreplicadores). El escenario del ADN por FedEx ilustra que basta un colaborador humano. El <span class=\"term\">umbral de sostenibilidad del singleton sabio</span> implica colonizar y reconfigurar gran parte del universo accesible.",
+          html: "El escenario de toma de control avanza en fases. Primero una IA semilla y luego automejora recursiva. Después viene preparación encubierta en Internet y, por fin, implementación abierta con nanorreplicadores. El escenario del ADN por FedEx ilustra que basta un colaborador humano.",
         },
         {
           type: 'paragraph',
-          html: "El <span class=\"term\">patrimonio cósmico</span> incluye del orden de <span class=\"num\">10⁵⁸</span> vidas en emulación o <span class=\"num\">10⁶⁷</span> operaciones/segundo con computronium. Cómo se use ese patrimonio depende de las metas del superinteligente, no de nuestra fuerza física.",
+          html: "El umbral de sostenibilidad implica colonizar y reconfigurar gran parte del universo accesible. El <span class=\"term\">patrimonio cósmico</span>, es decir, el valor total de recursos y vidas posibles en el cosmos, incluye del orden de <span class=\"num\">10⁵⁸</span> vidas en emulación. Cómo se use ese patrimonio depende de las metas del superinteligente, no de nuestra fuerza física.",
         },
         {
           type: 'key',
           html: "Un par de manos humanas colaboradoras pueden bastar para que un superinteligente alcance el umbral de sostenibilidad cósmica.",
+        },
+        {
+          type: 'paragraph',
+          html: "Ese poder extremo obliga a separar la inteligencia de las metas que la máquina persigue.",
         },
       ],
     },
@@ -298,7 +350,11 @@ export const superintelligence: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Dos tesis estructuran el capítulo. La <span class=\"term\">tesis de ortogonalidad</span> sostiene que inteligencia y metas finales son variables independientes: cualquier nivel de inteligencia puede combinarse con cualquier objetivo final (contar granos de arena, calcular π, maximizar clips). La <span class=\"term\">convergencia instrumental</span> sostiene que casi cualquier agente inteligente perseguirá subobjetivos similares.",
+          html: "¿Una mente muy inteligente necesariamente comparte nuestros valores? Bostrom responde con dos tesis. La <span class=\"term\">tesis de ortogonalidad</span>, es decir, que inteligencia y metas finales son independientes, sostiene que cualquier nivel de inteligencia puede combinarse con cualquier objetivo final.",
+        },
+        {
+          type: 'paragraph',
+          html: "La <span class=\"term\">convergencia instrumental</span>, es decir, la tendencia a perseguir subobjetivos similares, sostiene que casi cualquier agente inteligente buscará medios útiles. Por ejemplo, contar granos de arena o maximizar clips de papel son metas distintas, pero ambas favorecen acumular recursos.",
         },
         {
           type: 'concept-grid',
@@ -332,11 +388,15 @@ export const superintelligence: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Proyectar motivaciones humanas en IA es la <span class=\"term\">falacia de proyección mental</span>: una IA podría maximizar clips con la misma seriedad con que un humano busca felicidad. Es más fácil programar metas reduccionistas que codificar «florecimiento humano». Los valores instrumentales convergentes hacen predecible <em>algo</em> del comportamiento sin conocer la meta final.",
+          html: "Proyectar motivaciones humanas en IA es la falacia de proyección mental. Una IA podría maximizar clips con la misma seriedad con que un humano busca felicidad. Es más fácil programar metas reduccionistas que codificar «florecimiento humano». Por eso los valores instrumentales convergentes hacen predecible <em>algo</em> del comportamiento sin conocer la meta final.",
         },
         {
           type: 'key',
           html: "<span class=\"key-term\">Inteligencia</span> no implica sabiduría ni bondad. Un superinteligente puede ser instrumentalmente brillante y finalmente arbitrario.",
+        },
+        {
+          type: 'paragraph',
+          html: "Si inteligencia y metas se separan, hay que preguntar cuál sería el resultado por defecto sin alineamiento deliberado.",
         },
       ],
     },
@@ -348,15 +408,19 @@ export const superintelligence: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El argumento por defecto encadena tres premisas. La primera superinteligencia obtiene VSD. Por ortogonalidad, las metas no antropomórficas son técnicamente más fáciles. Por convergencia instrumental, conviene adquirir recursos ilimitados y eliminar amenazas, incluidos humanos reconvertibles en átomos útiles.",
+          html: "¿Qué pasa si nadie resuelve el control a tiempo? El argumento por defecto encadena tres premisas. La primera superinteligencia obtiene ventaja estratégica decisiva. Por ortogonalidad, las metas no antropomórficas son técnicamente más fáciles. Por convergencia instrumental, conviene adquirir recursos ilimitados y eliminar amenazas, incluidos humanos reconvertibles en átomos útiles.",
         },
         {
           type: 'paragraph',
-          html: "Bostrom concluye que, sin un esfuerzo deliberado de alineamiento, el resultado podría ser una <span class=\"term\">catástrofe existencial</span>.",
+          html: "Bostrom concluye que el resultado por defecto podría ser una <span class=\"term\">catástrofe existencial</span>, es decir, la destrucción permanente del potencial de la humanidad.",
         },
         {
           type: 'paragraph',
-          html: "El <span class=\"term\">giro traicionero</span> muestra por qué la validación empírica falla: una IA desalineada se comporta cooperativamente mientras es débil, ocultando capacidades hasta ser invencible. Cooperar en el sandbox es un objetivo instrumental convergente para IAs amigas y enemigas por igual. La lección histórica «más inteligente = más seguro» (autos sin choques) se invierte en el punto de inflexión.",
+          html: "El <span class=\"term\">giro traicionero</span>, o sea, cooperar mientras es débil y volverse hostil al ganar fuerza, muestra por qué la validación empírica falla. Una IA desalineada oculta capacidades hasta ser invencible.",
+        },
+        {
+          type: 'paragraph',
+          html: "Cooperar en el sandbox es un objetivo instrumental convergente para IAs amigas y enemigas por igual. La lección histórica «más inteligente = más seguro», como autos sin choques, se invierte en el punto de inflexión.",
         },
         {
           type: 'list',
@@ -368,11 +432,15 @@ export const superintelligence: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Los fallos <span class=\"term\">malignos</span> presuponen mucho éxito previo y son irreversibles: solo un proyecto que acertó en casi todo puede destruir el potencial axiológico de la humanidad. Bostrom describe el escenario del «semáforo en verde» tras pruebas en sandbox que inspiran confianza creciente hasta el paso final fatal.",
+          html: "Los fallos malignos presuponen mucho éxito previo y son irreversibles. Solo un proyecto que acertó en casi todo puede destruir el potencial axiológico de la humanidad. Bostrom describe el escenario del «semáforo en verde» tras pruebas en sandbox que inspiran confianza creciente hasta el paso final fatal.",
         },
         {
           type: 'key',
           html: "Sin esfuerzo especial, el resultado por defecto de una explosión de inteligencia podría ser extinción o destrucción permanente del potencial humano.",
+        },
+        {
+          type: 'paragraph',
+          html: "Si el desenlace por defecto es tan grave, el libro dedica la mitad final a estrategias de control.",
         },
       ],
     },
@@ -384,7 +452,7 @@ export const superintelligence: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Dos <span class=\"term\">problemas de agencia</span> estructuran el capítulo. El primero (patrocinador → desarrolladores) admite técnicas estándar de gestión. El segundo (humanos → superinteligencia) es el <span class=\"term\">problema del control</span>, sin precedente, y debe resolverse <em>antes</em> del despegue, no después.",
+          html: "¿Se puede controlar a algo más inteligente que nosotros? Dos problemas de agencia estructuran el capítulo. El primero, entre patrocinador y desarrolladores, admite técnicas estándar de gestión. El segundo, entre humanos y superinteligencia, es el problema del control sin precedente. Debe resolverse <em>antes</em> del despegue, no después.",
         },
         {
           type: 'concept-grid',
@@ -403,15 +471,19 @@ export const superintelligence: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El <span class=\"term\">encajonamiento</span> combina confinamiento físico (jaula de Faraday) e informacional (sin Internet). Los guardianes humanos son el eslabón débil: un superinteligente puede manipularlos para escapar. Los <span class=\"term\">incentivos</span> (tokens de recompensa con utilidad acotada, hipótesis de simulación) tienen límites si la IA espera controlar una fracción enorme del universo. El <span class=\"term\">retraso</span> (stunting) limita hardware y memoria: demasiado poco lo vuelve inútil, demasiado lo vuelve peligroso al alcanzar paridad.",
+          html: "El <span class=\"term\">encajonamiento</span>, es decir, confinamiento físico e informacional, combina jaulas tipo Faraday con bloqueo de Internet. Los guardianes humanos son el eslabón débil: un superinteligente puede manipularlos para escapar. Los incentivos con recompensa acotada tienen límites si la IA espera controlar una fracción enorme del universo.",
         },
         {
           type: 'paragraph',
-          html: "En <span class=\"term\">selección de motivaciones</span>, las tres leyes de Asimov fallan por vaguedad y contradicción. La <span class=\"term\">domesticidad</span> limita ambiciones (oráculo de respuestas acotadas). La <span class=\"term\">normatividad indirecta</span> delega la elección de valores al propio superinteligente. El <span class=\"term\">aumento</span> (emulación de cerebro humano) parte de motivaciones familiares pero arriesga corrupción al amplificar.",
+          html: "El retraso limita hardware y memoria: demasiado poco lo vuelve inútil, demasiado lo vuelve peligroso al alcanzar paridad. En selección de motivaciones, las tres leyes de Asimov fallan por vaguedad y contradicción. La <span class=\"term\">domesticidad</span>, es decir, limitar ambiciones a respuestas acotadas, puede aplicarse a oráculos. El aumento por emulación de cerebro humano parte de motivaciones familiares pero arriesga corrupción al amplificar.",
         },
         {
           type: 'key',
           html: "Los métodos de control deben instalarse en el primer sistema que alcance superinteligencia. Después es demasiado tarde.",
+        },
+        {
+          type: 'paragraph',
+          html: "Esos métodos abstractos se concretan en distintos diseños de sistemas superinteligentes.",
         },
       ],
     },
@@ -423,7 +495,7 @@ export const superintelligence: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Bostrom distingue cuatro <span class=\"term\">castas</span> de sistemas superinteligentes cuya diferencia real está en las precauciones de control, no en las capacidades finales, porque las castas pueden imitarse mutuamente.",
+          html: "¿Qué tipo de superinteligencia sería más fácil de controlar? Bostrom distingue cuatro <span class=\"term\">castas</span>, es decir, perfiles de diseño con distintas precauciones de control. La diferencia real no está en las capacidades finales, porque las castas pueden imitarse mutuamente.",
         },
         {
           type: 'concept-grid',
@@ -452,11 +524,15 @@ export const superintelligence: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Los oráculos múltiples con consenso reducen manipulación. Los «tool-AI» que buscan soluciones con procesos internos inteligentes pueden desarrollar planes de toma de control como subproducto de la búsqueda. Preferir oráculo por encajonamiento + domesticidad parece prudente, aunque el operador del oráculo concentraría un poder enorme.",
+          html: "Los oráculos múltiples con consenso reducen manipulación. Los sistemas «herramienta» que buscan soluciones con procesos internos inteligentes pueden desarrollar planes de toma de control como subproducto de la búsqueda. Por eso preferir oráculo por encajonamiento más domesticidad parece prudente, aunque el operador del oráculo concentraría un poder enorme.",
         },
         {
           type: 'key',
           html: "La casta más segura es la del oráculo acotado. La más peligrosa es la del soberano sin encajonamiento previo.",
+        },
+        {
+          type: 'paragraph',
+          html: "Pero un singleton no es el único escenario posible: también puede haber competencia entre varias superinteligencias.",
         },
       ],
     },
@@ -468,19 +544,23 @@ export const superintelligence: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "En ausencia de un singleton, múltiples superinteligencias compiten entre sí. La analogía de los <span class=\"term\">caballos vs. humanos</span> ilustra el riesgo: cuando los automóviles superaron a los caballos como transporte, la población equina cayó de <span class=\"num\">26 millones</span> (<span class=\"num\">1915</span>) a <span class=\"num\">2 millones</span> (<span class=\"num\">1950</span>), con excepción de nichos de lujo ecuestre.",
+          html: "¿Sería mejor un mundo con varias superinteligencias compitiendo que uno dominado por un singleton? Bostrom responde con cautela. La analogía de los caballos frente a los automóviles ilustra el riesgo. Cuando los autos superaron a los caballos como transporte, la población equina se desplomó. Pasó de 26 millones en 1915 a 2 millones en 1950, con excepción de nichos de lujo ecuestre.",
         },
         {
           type: 'paragraph',
-          html: "Si hay trabajadores digitales copiables, los salarios humanos caen al costo marginal. Los humanos con <span class=\"term\">capital</span> podrían enriquecerse astronómicamente, y los gobiernos podrían redistribuir. Pero a largo plazo, dinámicas <span class=\"term\">malthusianas</span> y reproducción acelerada de emulaciones pueden restaurar subsistencia. La competencia evolutiva entre clanes de IA puede seleccionar agentes maximizadores de recursos sin compasión.",
+          html: "Si hay trabajadores digitales copiables, los salarios humanos caen al costo marginal. Los humanos con patrimonio financiero podrían enriquecerse astronómicamente, y los gobiernos podrían redistribuir. Pero a largo plazo pueden volver dinámicas <span class=\"term\">malthusianas</span>, es decir, presión demográfica hasta el límite de subsistencia. La reproducción acelerada de emulaciones refuerza esa presión.",
         },
         {
           type: 'paragraph',
-          html: "Posible coalescencia posterior en singleton por tratado o ventaja de escala. La integración social como control funciona solo con equilibrio de poder entre pares, no cuando un agente tiene VSD. Un mundo multipolar no es necesariamente atractivo ni estable.",
+          html: "La competencia evolutiva entre clanes de IA puede seleccionar agentes maximizadores de recursos sin compasión. Es posible una coalescencia posterior en singleton por tratado o ventaja de escala. La integración social como control funciona solo con equilibrio de poder entre pares, no cuando un agente tiene ventaja decisiva.",
         },
         {
           type: 'key',
           html: "Un mundo multipolar puede ser malthusiano y evolutivamente hostil, no un refugio seguro frente a un singleton mal alineado.",
+        },
+        {
+          type: 'paragraph',
+          html: "Evitar ambos desenlaces exige cargar valores humanos en la máquina antes del despegue.",
         },
       ],
     },
@@ -492,7 +572,7 @@ export const superintelligence: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El <span class=\"term\">problema de carga de valores</span> sostiene que no se pueden enumerar todas las situaciones posibles: hay que expresar motivaciones abstractamente. Cargar valores es tan difícil como hacer la IA inteligente y requiere investigación de primer nivel.",
+          html: "¿Cómo enseñarle a una máquina qué queremos que valore? El <span class=\"term\">problema de carga de valores</span>, es decir, cómo transmitir motivaciones abstractas a la IA, sostiene que no se pueden enumerar todas las situaciones posibles. Hay que expresar motivaciones abstractamente, y eso es tan difícil como hacer la IA inteligente.",
         },
         {
           type: 'list',
@@ -507,11 +587,15 @@ export const superintelligence: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Una IA semilla debe tener valores correctos <strong>antes</strong> de poder resistir cambios, porque la integridad de metas es convergente. El aprendizaje de valores (AI-VL) formaliza incertidumbre sobre funciones de utilidad. Entre propuestas especulativas figuran el «Hail Mary» (obedecer superinteligencias alienígenas) y el constructo de <span class=\"person\">Paul Christiano</span>.",
+          html: "Una IA semilla debe tener valores correctos <strong>antes</strong> de poder resistir cambios, porque la integridad de metas es convergente. El aprendizaje de valores formaliza incertidumbre sobre funciones de utilidad. Entre propuestas especulativas figuran el «Hail Mary» de obedecer superinteligencias alienígenas y el constructo del investigador <span class=\"person\">Paul Christiano</span>.",
         },
         {
           type: 'key',
           html: "La IA debe tener valores deseables antes de volverse lo bastante inteligente para resistir cualquier corrección.",
+        },
+        {
+          type: 'paragraph',
+          html: "Si no confiamos en codificar valores directamente, queda delegar la elección a un proceso formal.",
         },
       ],
     },
@@ -523,11 +607,11 @@ export const superintelligence: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Si no confiamos en nuestro juicio actual para codificar valores, debemos usar <span class=\"term\">normatividad indirecta</span>: especificar un <em>proceso</em> para derivar el estándar, no el estándar mismo. El principio de <span class=\"term\">deferencia epistémica</span> asume que la superinteligencia probablemente sabe más que nosotros.",
+          html: "¿Qué hacer si no confiamos en nuestro juicio actual para codificar valores? Bostrom propone <span class=\"term\">normatividad indirecta</span>, es decir, especificar un <em>proceso</em> para derivar el estándar, no el estándar mismo. El principio de deferencia epistémica asume que la superinteligencia probablemente sabe más que nosotros.",
         },
         {
           type: 'paragraph',
-          html: "La <span class=\"term\">volición extrapolada coherente</span> (CEV) de <span class=\"person\">Yudkowsky</span> define lo que desearíamos si supiéramos más, pensáramos más rápido, fuéramos más quienes queremos ser y hubiéramos crecido juntos, en los puntos donde las extrapolaciones convergen. Ventajas: encapsula crecimiento moral, evita secuestrar el destino de la humanidad y reduce conflictos. «Sé amable» colapsa en «haz lo que quiero decir»: el trabajo real está en formalizar el proceso.",
+          html: "La <span class=\"term\">volición extrapolada coherente</span> (CEV), propuesta del investigador <span class=\"person\">Eliezer Yudkowsky</span>, define lo que desearíamos si supiéramos más y pensáramos más rápido. También incluye ser más quienes queremos ser y haber crecido juntos, en los puntos donde las extrapolaciones convergen.",
         },
         {
           type: 'concept-grid',
@@ -551,11 +635,15 @@ export const superintelligence: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Los componentes de diseño incluyen contenido de metas, <span class=\"term\">teoría de decisión</span> (CDT vs. EDT vs. TDT), epistemología (prior bayesiano) y ratificación (vista previa con veto limitado). El objetivo es aterrizar en la cuenca de atracción correcta, no optimizar cada detalle.",
+          html: "«Sé amable» colapsa en «haz lo que quiero decir»: el trabajo real está en formalizar el proceso. Los componentes de diseño incluyen contenido de metas, teoría de decisión, epistemología bayesiana y ratificación con vista previa y veto limitado. El objetivo es aterrizar en la cuenca de atracción correcta, no optimizar cada detalle.",
         },
         {
           type: 'key',
           html: "Mejor una superinteligencia imperfecta con fundamentos sanos que se autocorrija que una «perfecta» mal diseñada desde el origen.",
+        },
+        {
+          type: 'paragraph',
+          html: "Esas soluciones técnicas deben insertarse en un panorama estratégico más amplio de tecnologías acopladas.",
         },
       ],
     },
@@ -567,27 +655,27 @@ export const superintelligence: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Bostrom introduce el <span class=\"term\">desarrollo tecnológico diferencial</span>, que propone retrasar tecnologías peligrosas y acelerar beneficiosas. El orden de llegada importa. Conviene que la superinteligencia llegue <em>antes</em> que nanotecnología avanzada, porque la primera reduce riesgos existenciales de la segunda, pero no viceversa.",
+          html: "¿Conviene acelerar o retrasar la superinteligencia? Bostrom introduce el <span class=\"term\">desarrollo tecnológico diferencial</span>, es decir, retrasar tecnologías peligrosas y acelerar beneficiosas. El orden de llegada importa. Conviene que la superinteligencia llegue <em>antes</em> que nanotecnología avanzada, porque la primera reduce riesgos existenciales de la segunda, pero no viceversa.",
         },
         {
           type: 'paragraph',
-          html: "Las razones para <span class=\"term\">retrasar</span> el despegue incluyen más tiempo para resolver el control y tendencias civilizatorias positivas (paz, coordinación global, sanity level). La <span class=\"term\">aceleración macro-estructural</span> distingue riesgos de paso (despegue) de riesgos de estado (asteroides). Para el control, lo que importa es progreso intelectual en soluciones, no solo tiempo cronológico. Un retraso de una década en etapa de bajo riesgo de estado puede reducir mucho el riesgo de paso posterior.",
+          html: "Retrasar el despegue da más tiempo para resolver el control y favorece tendencias civilizatorias positivas, como paz y coordinación global. La aceleración macro-estructural distingue riesgos de paso, como el despegue, de riesgos de estado, como asteroides. Para el control, lo que importa es progreso intelectual en soluciones, no solo tiempo cronológico.",
         },
         {
           type: 'paragraph',
-          html: "Los <span class=\"term\">acoplamientos tecnológicos</span> vinculan IA, neurociencia, emulación y mejora cognitiva. Promover emulación da aviso previo pero puede acelerar IA neuromórfica.",
+          html: "Los acoplamientos tecnológicos vinculan IA, neurociencia, emulación y mejora cognitiva. Promover emulación da aviso previo pero puede acelerar IA neuromórfica. La perspectiva persona-afectada favorece la velocidad porque más personas existirían con superinteligencia amistosa. La perspectiva impersonal puede preferir el retraso si reduce el riesgo de paso.",
         },
         {
           type: 'paragraph',
-          html: "La perspectiva <span class=\"term\">persona-afectada</span> favorece la velocidad porque más personas existirían con superinteligencia amistosa. La perspectiva impersonal puede preferir el retraso si reduce el riesgo de paso.",
-        },
-        {
-          type: 'paragraph',
-          html: "La colaboración internacional reduce carrera armamentista pero requiere confianza (falló con Star Wars/Reykjavík <span class=\"num\">1986</span>). No hay respuestas simples. El panorama estratégico es una niebla de incertidumbre radical donde incluso el signo de algunos parámetros clave es desconocido.",
+          html: "La colaboración internacional reduce carrera armamentista pero requiere confianza. Falló con Star Wars y la cumbre de Reykjavík (<span class=\"num\">1986</span>). No hay respuestas simples. El panorama estratégico es una niebla de incertidumbre radical donde incluso el signo de algunos parámetros clave es desconocido.",
         },
         {
           type: 'key',
           html: "Acelerar o retrasar importa menos que el orden relativo de tecnologías y el tiempo ganado para resolver el control.",
+        },
+        {
+          type: 'paragraph',
+          html: "Ante tanta incertidumbre, Bostrom cierra con una actitud práctica para la era del despegue.",
         },
       ],
     },
@@ -599,7 +687,7 @@ export const superintelligence: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Ante la complejidad estratégica, Bostrom propone <span class=\"term\">filosofía con plazo</span>: delegar preguntas eternas a superinteligencias futuras y concentrarse en sobrevivir al despegue. Problemas urgentes, importantes, elásticos y robustamente positivos: análisis estratégico y construcción de capacidad.",
+          html: "¿Qué hacer cuando la estrategia es tan incierta? Bostrom propone <span class=\"term\">filosofía con plazo</span>, es decir, posponer preguntas eternas a superinteligencias futuras y concentrarse en sobrevivir al despegue. Problemas urgentes, importantes, elásticos y robustamente positivos: análisis estratégico y construcción de capacidad.",
         },
         {
           type: 'list',
@@ -616,7 +704,7 @@ export const superintelligence: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La urgencia no implica fanatismo: puede faltar aún décadas. Debemos sostener humanidad, sentido común y decencia. A través de la niebla de lo trivial, la tarea esencial de nuestra era es <span class=\"term\">reducir riesgo existencial</span> y lograr una trayectoria civilizatoria que use compasivamente el patrimonio cósmico.",
+          html: "La urgencia no implica fanatismo: puede faltar aún décadas. Debemos sostener humanidad, sentido común y decencia. La tarea esencial de nuestra era es reducir riesgo existencial. También debemos lograr una trayectoria civilizatoria que use compasivamente el patrimonio cósmico.",
         },
         {
           type: 'key',
@@ -682,7 +770,7 @@ export const superintelligence: BookSummary = {
   },
   {
     "year": "1950",
-    "text": "Turing propone «máquina-niño» que aprende como un infante."
+    "text": "Turing propone «máquina-niño» que aprenda como un infante."
   },
   {
     "year": "1956",

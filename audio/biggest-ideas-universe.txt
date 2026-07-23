@@ -1,0 +1,251 @@
+Las mayores ideas del universo: espacio, tiempo y movimiento, de Sean Carroll.
+
+La idea central
+
+La física moderna cabe en ecuaciones comprensibles.
+
+No hace falta resolverlas todas; basta entender qué dicen.
+
+Espacio, tiempo y movimiento forman un solo escenario curvable.
+
+Desde conservación hasta agujeros negros, un hilo continuo.
+
+El volumen 1 abre la puerta; cuántica y emergencia vienen después.
+
+Introducción. Entender ecuaciones, no solo metáforas
+
+¿Se puede discutir física moderna con la misma pasión con que se debate economía o política? El físico teórico Sean Carroll sueña con ese mundo. Hoy la física queda confinada a especialistas, y el público recibe metáforas en lugar de la esencia matemática que sostiene las teorías.
+
+Hay dos caminos habituales. Uno es la divulgación popular: imágenes útiles, pero incompletas. El otro es la formación formal: años de cálculo antes de llegar a relatividad o mecánica cuántica. Este libro cierra esa brecha. Solo exige álgebra de secundaria, pero enseña a entender (leer qué significa cada símbolo) las ecuaciones, no a resolverlas como en un curso universitario.
+
+La distinción clave es entender frente a resolver. Las ecuaciones de Einstein no piden calcular cada curvatura del espaciotiempo. Piden comprender qué significa cada símbolo. Al capítulo 8 el lector entiende la ecuación de Einstein completa. Este volumen cubre física clásica ampliada hasta relatividad general y agujeros negros. Se limita a ideas con excelentes razones para seguir vigentes dentro de cien años.
+
+Idea clave: La física moderna cabe en ecuaciones comprensibles: basta entender qué dicen los símbolos, no resolver cada una como un profesional.
+
+El primer paso es ver qué cantidades del mundo permanecen constantes aunque todo lo demás cambie.
+
+Capítulo uno. Conservación
+
+¿Qué patrones del mundo físico no cambian con el tiempo? La física arranca en lo cotidiano: objetos con posición y propiedades que varían. El salto rápido va de observaciones mundanas a patrones (regularidades que se repiten) invariables, que llamamos leyes de la física.
+
+El patrón más simple es la conservación (que ciertas cantidades permanecen constantes). La energía no es una sustancia fluida. Es una propiedad asociada a movimiento, altura, temperatura, masa o carga. La revolución frente al filósofo Aristóteles pasa por Ibn Sīnā, quien sostuvo un impetus conservado hasta el momento p = mv. Émilie du Châtelet demostró después que energía y momento son cantidades distintas, pero ambas conservadas.
+
+¿Por qué existen leyes de conservación? El teorema de la matemática Emmy Noether las vincula con simetrías (propiedades que no cambian bajo ciertas transformaciones). Cuando las leyes no cambian al desplazar el espacio, el momento se conserva. Cuando no cambian al desplazar el tiempo, se conserva la energía. Cuando no cambian al rotar, se conserva el momento angular. En un universo en expansión la simetría temporal global se rompe, y la energía total cósmica deja de ser constante de forma trivial.
+
+⚡. Energía
+
+🎯. Momento
+
+🔄. Simetrías
+
+Idea clave: Conservar energía y momento no es truco contable: refleja que las leyes de la física no cambian con el tiempo ni con traslaciones espaciales.
+
+Si las leyes fijan qué se conserva, el siguiente paso es describir cómo cambia todo lo demás.
+
+Capítulo dos. Cambio
+
+¿Cómo pasa la física de saber ahora a predecir siempre? El cambio en física exige cálculo (derivadas e integrales). La posición x(t) de un auto permite calcular velocidad v = dx/dt y aceleración a = dv/dt.
+
+El paradigma laplaciano (la idea de que el estado inicial fija toda la evolución) sostiene una tesis fuerte. Dado el estado inicial, las leyes determinan toda la trayectoria pasada y futura. Isaac Newton publicó los Principia en 1687, presionado por el astrónomo Edmond Halley. Allí aparecen F = ma y la gravitación universal F ∝ 1/r². Newton derivó las leyes de Johannes Kepler desde fuerzas locales en cada instante, no desde descripciones globales de órbitas elípticas.
+
+La gravedad es universal (la misma ley rige en la Tierra y en el cielo). Explica manzanas cayendo y planetas orbitando. Integrar aceleración reconstruye velocidad y posición. Derivar posición da velocidad. Son operadores inversos entre sí, aunque integrar suele ser más difícil que derivar.
+
+Función. mapa de un argumento a un valor (p. ej. posición en función del tiempo).
+
+Derivada. pendiente de la tangente; límite de Δx/Δt cuando Δt → 0.
+
+Integral. área bajo la curva; acumula cambios para reconstruir trayectorias.
+
+Idea clave: El cálculo convierte el saber ahora en predecir siempre: posición + velocidad + fuerzas → aceleración → integración → futuro y pasado.
+
+Con las herramientas del cambio ya se puede estudiar cómo evolucionan los sistemas físicos concretos.
+
+Capítulo tres. Dinámica
+
+¿Por qué una misma física admite descripciones tan distintas? La dinámica estudia cambios que obedecen ecuaciones físicas. El modelo bola en colina, una partícula sin fricción en un paisaje de energía potencial V(x), reaparece hasta en campos cuánticos y el Modelo Estándar.
+
+Energía cinética K = ½mv² más potencial V(x) suman un total conservado. En un valle parabólico aparece el oscilador armónico simple (movimiento sinusoidal alrededor de un equilibrio). Es exactamente soluble y omnipresente: muelles, átomos, campos. Cerca de cualquier equilibrio, casi todo sistema se comporta como parábola.
+
+El espacio de fases (el par {posición, momento}) fija la evolución. Alternativamente, el principio de mínima acción (formulación de Lagrange) postula que la trayectoria real extremiza la acción S = ∫(K − V)dt. Es equivalente a Newton, aunque el físico Richard Feynman advirtió que formulaciones matemáticamente equivalentes no son psicológicamente idénticas al explorar lo desconocido.
+
+🎢. Energía potencial
+
+〰️. Oscilador armónico
+
+🎯. Acción
+
+Idea clave: Newton, Lagrange y Hamilton describen lo mismo con vocabularios distintos. Elegir uno u otro puede abrir atajos hacia leyes más profundas.
+
+Antes de unificar espacio y tiempo, Carroll pregunta qué hace especial a cada uno por separado.
+
+Capítulo cuatro. Espacio
+
+¿Qué es el espacio (el escenario donde ocurren las posiciones)? El debate clásico enfrenta sustancialismo (contenedor) y relacionalismo (solo distancias entre objetos). Hoy los campos (funciones con valor en cada punto) llenan el espacio. Einstein mostró además que su geometría responde a la energía.
+
+El espacio es tridimensional: tiene tres direcciones independientes. En d dimensiones, fuerzas como la gravedad siguen ley 1/r^(d−1). En 3D, la ley es del inverso del cuadrado. La mecánica hamiltoniana eleva el momento a variable independiente, no definido como mv. En un instante basta posición y momento, sin mirar instantes vecinos.
+
+Lo que distingue al espacio es que las interacciones son locales en posición (los objetos se influyen cuando coinciden en el mismo lugar). Los campos median esa influencia. Newton temía la acción a distancia, pero el matemático Pierre-Simon Laplace mostró que un campo gravitatorio local reproduce la misma física. Einstein luego limitó la propagación de cambios a la velocidad de la luz.
+
+Localidad. lo que ocurre en un punto solo afecta lo inmediatamente cercano; los efectos se propagan con el tiempo.
+
+Campo. función con valor en cada punto; el Sol deforma el campo gravitatorio, no tira mágicamente a distancia.
+
+Simetría galileana. no hay posición ni velocidad preferidas; sí aceleración cero (trayectorias inerciales).
+
+Idea clave: Vivimos en espacio de posiciones, no en espacio de momentos, porque los hamiltonianos reales acoplan objetos por proximidad espacial.
+
+El espacio tiene estructura clara; el tiempo, en cambio, plantea un misterio distinto: por qué solo avanza hacia delante.
+
+Capítulo cinco. Tiempo
+
+¿Por qué el pasado parece fijo y el futuro abierto? Sin tiempo no hay movimiento ni cambio. La duración se mide con relojes: sistemas periódicos (Tierra, osciladores) comparables entre sí. El tiempo se parece al espacio, pero también difiere profundamente.
+
+La mecánica clásica es reversible: con el estado actual se predice futuro y pasado por igual. A nivel macroscópico, no obstante, el hielo se derrite y no vuelve a formarse. Esa irreversibilidad es la flecha del tiempo (la dirección preferida del cambio). El físico Ludwig Boltzmann conectó entropía con el número de microestados compatibles con un macroestado.
+
+La flecha no está en las ecuaciones fundamentales. Emerge de la hipótesis del pasado (que el universo empezó en entropía extremadamente baja). El Big Bang denso y uniforme cumple esa condición. Con gravedad relevante, un plasma uniforme es de baja entropía porque la gravedad prefiere la irregularidad. T, P y C se violan en partículas, pero CPT se conserva. Eso no explica la flecha macroscópica.
+
+Flecha termodinámica. Calor fluye de caliente a frío; irreversibilidad emergente.
+
+🔙. T-inversión
+
+🌅. Presentismo vs. eternalismo
+
+Idea clave: La flecha del tiempo no está en las ecuaciones fundamentales: emerge del universo de baja entropía cerca del Big Bang.
+
+Einstein unificó espacio y tiempo cuando mostró que ninguno es absoluto por separado.
+
+Capítulo seis. Espaciotiempo
+
+¿Qué queda cuando espacio y tiempo dejan de ser independientes? La relatividad especial (1905) unifica ambos en un continuo 4D. El matemático Hermann Minkowski formalizó ese espaciotiempo en 1907. No hay tiempo absoluto: cada observador divide espaciotiempo de forma distinta.
+
+Hay dos nociones de tiempo. Una es la coordenada t (etiqueta convencional). La otra es el tiempo propio τ (lo que marca un reloj viajero). En espacio, la recta es el camino más corto. En espaciotiempo, la trayectoria inercial maximiza el tiempo propio. El intervalo de Minkowski (medida de separación en 4D) se define como τ² = Δt² − Δx² con c = 1.
+
+Más movimiento espacial implica menos tiempo propio. El experimento de los gemelos no es paradoja: caminos distintos, duraciones distintas. La velocidad c convierte unidades espacio↔tiempo y fija conos de luz que sustituyen la simultaneidad absoluta. E = mc² unifica energía y momento como componente temporal del cuadrimomento.
+
+c ≈ 3×10⁸ m/s. Velocidad universal; límite para materia
+
+v = 0,99c. ~7 años externos por 1 año propio del viajero
+
+Conos de luz. Sustituyen simultaneidad absoluta
+
+Idea clave: En relatividad especial lo real es el espaciotiempo 4D. Espacio y tiempo son cortes convencionales, no divisiones objetivas del mundo.
+
+Para curvar ese espaciotiempo hace falta una geometría distinta de la euclídea del plano escolar.
+
+Capítulo siete. Geometría
+
+¿Cómo se mide la curvatura sin imaginar un espacio mayor? Einstein necesitó geometría riemanniana (geometría de superficies y espacios curvos) para curvar el espaciotiempo. Euclides axiomatizó el plano. El quinto postulado (paralelas) puede reemplazarse y surgen geometrías esférica (curvatura +) e hiperbólica (−).
+
+Los matemáticos Carl Friedrich Gauss y Bernhard Riemann desarrollaron geometría intrínseca, medible desde dentro sin embedding en espacio mayor. Una variedad (manifold, conjunto de puntos con dimensión definida) es el objeto básico. Al hacer zoom infinitesimal, parece plano euclídeo. Un cilindro es plano intrínsecamente aunque parezca curvo desde fuera.
+
+El tensor métrico (objeto que define distancias locales) g_ij codifica toda la geometría vía elemento de línea ds² = g_ij dx^i dx^j. Los tensores generalizan funciones y vectores. El tensor de curvatura de Riemann se construye a partir de derivadas del métrico. Einstein aprendió esto con Marcel Grossmann antes de formular la relatividad general.
+
+Geometría plana. paralelas permanecen equidistantes; Pitágoras clásico.
+
+Geometría esférica. triángulos suman >180°; circunferencias < 2πr.
+
+Transporte paralelo. comparar vectores en puntos distintos revela curvatura.
+
+Idea clave: La curvatura no es cómo se dobla en un espacio mayor: es propiedad interna medible con círculos, ángulos y geodésicas.
+
+Con esa geometría en mano, la gravedad deja de ser una fuerza misteriosa y pasa a ser curvatura.
+
+Capítulo ocho. Gravedad
+
+¿Qué es realmente la gravedad? Para Einstein es curvatura del espaciotiempo. La ecuación de Einstein (25 nov 1915) relaciona tensor de Einstein (curvatura) con tensor energía-momento (materia). Según el físico John Wheeler, el espaciotiempo dice a la materia cómo moverse y la materia dice al espaciotiempo cómo curvarse.
+
+La masa inercial y la gravitatoria son iguales. Eso lleva al principio de equivalencia (indistinguibilidad local entre gravedad y aceleración). En regiones pequeñas, la gravedad es indistinguible de la aceleración. La caída libre es movimiento geodésico. Quien está en el suelo experimenta la fuerza del suelo que lo desvía de esa geodésica. El tensor T_μν describe fluidos extendidos con densidad ρ, presión p y velocidades.
+
+Einstein no resolvió sus ecuaciones, pero las comprendió a fondo. El astrónomo Karl Schwarzschild, sentado en el frente, encontró la primera solución exacta semanas después. Las pruebas abarcan precesión de Mercurio y desviación de luz. El eclipse de 1919, observado por Arthur Eddington, confirmó la segunda. También están el redshift gravitacional, las ondas gravitacionales (LIGO 2015) y la expansión cósmica.
+
+Cita: El espaciotiempo dice a la materia cómo moverse; la materia dice al espaciotiempo cómo curvarse. — John Wheeler (resumen citado por Carroll)
+
+Idea clave: La gravedad no es una fuerza ordinaria en el espaciotiempo: es la curvatura del espaciotiempo determinada por la materia y la radiación.
+
+Una de las predicciones más extremas de esa curvatura son los agujeros negros.
+
+Capítulo nueve. Agujeros negros
+
+¿Qué ocurre cuando la gravedad atrapa incluso a la luz? La métrica de Karl Schwarzschild (1915) describe el vacío fuera de un cuerpo esférico. Radio de Schwarzschild r_s = 2GM: horizonte de sucesos. Dentro, r se vuelve coordenada temporal. Caer al centro es avanzar en el futuro inevitable hacia singularidad r = 0.
+
+La dilatación gravitacional (relojes más lentos cerca de masas) implica que relojes cercanos marcan menos tiempo propio que relojes lejanos. Las coordenadas Eddington-Finkelstein eliminan la singularidad de coordenadas en el horizonte. Teorema no-hair: agujeros negros quedan caracterizados solo por masa, carga y spin. La solución de Kerr (métrica para agujeros rotatorios) describe el caso con rotación.
+
+El físico Stephen Hawking (1971) demostró que el área del horizonte solo crece, análogo a entropía. Jacob Bekenstein propuso entropía proporcional al área. Más tarde, Hawking calculó radiación térmica y mostró que los agujeros negros brillan cuánticamente. LIGO detectó fusiones (p. ej. 36 + 29 masas solares, 2015). El Nobel 2020 fue para Penrose, Genzel y Ghez.
+
+🕳️. Horizonte
+
+🌀. Kerr
+
+📡. Ondas G
+
+Idea clave: Los agujeros negros pasaron de curiosidad teórica a protagonistas observacionales: millones en la Vía Láctea, ~4 millones M☉ en Sagitario A*.
+
+Conceptos clave
+
+Conservación. Cantidades (energía, momento) invariantes si las leyes no cambian.
+
+Paradigma laplaciano. Estado en un instante determina toda la evolución.
+
+Principio de mínima acción. Trayectoria real extremiza (típicamente minimiza) la acción.
+
+Espacio de fases. Posición + momento; evolución hamiltoniana.
+
+Localidad. Interacciones mediadas por campos en el mismo punto.
+
+Entropía. Medida de microestados compatibles con un macroestado; flecha del tiempo.
+
+Espaciotiempo de Minkowski. Plano 4D; intervalo τ² = Δt² − Δx².
+
+Tensor métrico. Define distancias y curvatura en una variedad.
+
+Ecuación de Einstein. Curvatura ∝ energía-momento; gravedad como geometría.
+
+Horizonte de sucesos. Superficie de no retorno alrededor de un agujero negro.
+
+Cronología de hitos
+
+Año ~350 a.C.. Aristóteles: movimiento natural vs. violento; reposo preferido.
+
+Año 1687. Newton publica Principia: F = ma y gravitación 1/r².
+
+Año 1687–1700s. Desarrollo del cálculo (Newton, Leibniz).
+
+Año 1870s. Boltzmann conecta entropía con microestados.
+
+Año 1905. Einstein: relatividad especial; Minkowski unifica espaciotiempo (1907).
+
+Año 1915. Einstein presenta relatividad general (25 nov); Schwarzschild solución exacta.
+
+Año 1919. Eddington confirma desviación de luz estelar.
+
+Año 1963. Kerr describe agujeros negros rotatorios.
+
+Año 1971. Hawking: teorema del área; radiación Hawking (1974).
+
+Año 2015. LIGO detecta ondas gravitacionales de fusión de agujeros negros.
+
+Año 2020. Nobel a Penrose, Genzel y Ghez por agujeros negros.
+
+Figuras clave
+
+Isaac Newton, Mecánica clásica · Ley de gravitación universal
+
+Gottfried Leibniz, Cálculo · Correspondencia con Clarke sobre espacio
+
+Joseph-Louis Lagrange, Mecánica lagrangiana · Principio de acción
+
+William Rowan Hamilton, Mecánica hamiltoniana
+
+Albert Einstein, Relatividad especial y general
+
+Hermann Minkowski, Formalismo espaciotiempo 4D
+
+Bernhard Riemann, Geometría de variedades
+
+Karl Schwarzschild, Primera solución exacta a Einstein (1915)
+
+Roy Kerr, Métrica de agujero negro rotatorio (1963)
+
+Roger Penrose, Teoremas de singularidad · Área de horizontes
+
+Stephen Hawking, Radiación de agujeros negros · Teorema del área

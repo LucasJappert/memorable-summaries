@@ -33,16 +33,16 @@ lang: es
 ## title: Prefacio y agradecimientos
 
 <!-- paragraph lead -->
-Gould aborda la naturaleza de la <span class="term">historia</span> no por un ataque frontal, sino mediante un caso excepcional: la <span class="term">Formación Burgess</span> en Yoho National Park, Columbia Británica. El detalle sin generalidad es «nature writing» y la generalidad sin detalle es tedio. La belleza está en lo particular y el mensaje en lo general.
+¿Cómo se entiende la historia de la vida sin convertirla en una escalera hacia el hombre? Gould no responde con una teoría abstracta. Arranca desde un caso concreto, el yacimiento de fósiles llamado <span class="term">Burgess Shale</span> (Formación Burgess), en el parque Yoho de Columbia Británica.
 
 <!-- paragraph -->
-<span class="person">Charles Doolittle Walcott</span> descubrió en <span class="num">1909</span> la fauna más antigua de animales de cuerpo blando excepcionalmente preservados, pero su interpretación tradicionalista las hizo «invisibles» al público durante décadas. Veinte años de trabajo de <span class="person">Harry Whittington</span>, <span class="person">Derek Briggs</span> y <span class="person">Simon Conway Morris</span> revirtieron esa lectura y plantearon la <span class="term">contingencia</span>: rebobinar la cinta de la vida al Burgess y repetir el experimento haría vanamente improbable la inteligencia humana.
+En <span class="num">1909</span>, <span class="person">Charles Doolittle Walcott</span> (entonces secretario del Smithsonian) encontró allí animales de cuerpo blando conservados con un detalle excepcional. Durante décadas su lectura tradicionalista hizo «invisibles» esas rarezas. Décadas después, el equipo de <span class="person">Harry Whittington</span> las reinterpretó. Plantearon la <span class="term">contingencia</span> (la idea de que la historia no es predecible ni repetible). Eso implica rebobinar la cinta de la vida hasta el Burgess y volver a correrla: la inteligencia humana sería vanamente improbable.
 
 <!-- paragraph -->
-Los organismos reconstruidos, como <span class="term">Opabinia</span> con cinco ojos, <span class="term">Anomalocaris</span> con mandíbula circular o <span class="term">Hallucigenia</span>, son tan extraños como la nueva visión de la vida. El título honra la escena de <em>It's a Wonderful Life</em> donde un ángel muestra a George Bailey un mundo sin él: el poder de lo aparentemente insignificante en la historia.
+Los organismos reconstruidos (cinco ojos, mandíbulas circulares, anatomías casi irreconocibles) son tan extraños como esa nueva visión. El título del libro evoca la película <em>It's a Wonderful Life</em>. Allí un ángel muestra un mundo sin George Bailey, y queda claro el poder de lo aparentemente insignificante.
 
 <!-- key -->
-La Burgess Shale no solo preserva vida maravillosa del pasado. Obliga a repensar progreso, predictibilidad y el papel del azar en la evolución.
+La Burgess Shale no solo muestra vida maravillosa del pasado. Obliga a repensar progreso, predictibilidad y el papel del azar en la evolución.
 
 ---
 
@@ -52,13 +52,13 @@ La Burgess Shale no solo preserva vida maravillosa del pasado. Obliga a repensar
 ## title: Iconografía de una expectativa
 
 <!-- paragraph lead -->
-<span class="person">Charles R. Knight</span>, maestro de la reanimación de fósiles, pintó en <span class="num">1940</span> para National Geographic una reconstrucción de la fauna del Burgess Shale. Gould afirma que estos invertebrados son los fósiles animales más importantes del mundo: aparecen justo después de la <span class="term">explosión cámbrica</span> (~<span class="num">570 millones</span> de años), cuando casi todos los grandes grupos animales modernos irrumpen en el registro fósil en pocos millones de años.
+¿Por qué las imágenes de la evolución nos enseñan a esperar un ascenso hacia el hombre? En <span class="num">1940</span>, el artista <span class="person">Charles R. Knight</span> pintó para National Geographic una fauna del Burgess. Gould sostiene que esos invertebrados son los fósiles animales más importantes del mundo. Aparecen justo después de la <span class="term">explosión cámbrica</span> (la irrupción rápida de casi todos los grandes grupos animales modernos).
 
 <!-- paragraph -->
-La iconografía revela expectativas culturales. Knight colocó a <span class="term">Sidneyia</span> como centro dominante. Las reconstrucciones modernas de <span class="person">Briggs</span> y <span class="person">Whittington</span> muestran un ecosistema mucho más diverso y extraño. La metáfora de la <span class="term">escalera del progreso</span> y el <span class="term">cono de diversidad creciente</span> domina libros de texto: la vida sube hacia la complejidad humana. Gould expone caricaturas, cómics y manuales que repiten esa imagen falsa.
+La imagen revela una expectativa cultural. Knight puso en el centro a un artrópodo (animal con exoesqueleto y patas articuladas, como insectos o cangrejos). Las reconstrucciones modernas muestran un ecosistema mucho más diverso y extraño. Los libros de texto suelen dibujar una <span class="term">escalera del progreso</span>: la vida sube hacia la complejidad humana. Gould muestra caricaturas y manuales que repiten esa metáfora falsa.
 
 <!-- paragraph -->
-El experimento mental crucial es <span class="term">rebobinar la cinta de la vida</span>. Si la historia es contingente, repetir el Cámbrico no produciría necesariamente vertebrados ni humanos. La Burgess desafía el cono: máxima disparidad temprana seguida de <span class="term">decimación</span>, no ascenso lineal. Diversidad (número de especies) no es lo mismo que disparidad (diferencias anatómicas profundas).
+El experimento mental clave es <span class="term">rebobinar la cinta de la vida</span>: repetir el periodo cámbrico desde el mismo punto de partida. Ese periodo es la primera gran irrupción de animales complejos en el registro fósil. Si la historia es contingente, no tiene por qué producir vertebrados ni humanos. La Burgess desafía el modelo del cono que se abre hacia el presente: muestra máxima variedad de diseños tempranos y luego una poda brutal. Por eso Gould separa <em>diversidad</em> (cuántas especies hay) de <em>disparidad</em> (cuán distintos son los planes corporales).
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -68,7 +68,10 @@ El experimento mental crucial es <span class="term">rebobinar la cinta de la vid
 | 🎬 | Rebobinar la cinta | Experimento mental: repetir la historia desde el Burgess. |
 
 <!-- key -->
-La <span class="key-term">iconografía del progreso</span> encubre una visión falsa: el Burgess muestra disparidad máxima y decimación, no una escalera hacia el hombre.
+La <span class="key-term">iconografía del progreso</span> encubre una visión falsa: el Burgess muestra disparidad máxima y luego poda, no una escalera hacia el hombre.
+
+<!-- bridge -->
+Para entender por qué ese yacimiento obliga a cambiar la imagen, hace falta saber cómo se formó y qué conserva.
 
 ---
 
@@ -78,13 +81,13 @@ La <span class="key-term">iconografía del progreso</span> encubre una visión f
 ## title: Antecedentes del Burgess Shale
 
 <!-- paragraph lead -->
-La escala geológica (Cámbrico, Ordovícico, etc.) no es un capricho mnemotécnico: marca episodios reales de la historia terrestre. Antes del Cámbrico, la vida multicelular era escasa o enigmática. Después, el registro fósil se enriquece. La <span class="term">explosión cámbrica</span> concentra el origen de filos enteros en un intervalo geológicamente breve.
+¿Por qué un solo yacimiento puede cambiar la lectura de toda una era? La escala geológica (Cámbrico, Ordovícico, etc.) no es un capricho de nombres: marca episodios reales. Antes del Cámbrico, la vida multicelular era escasa o enigmática. Después, el registro fósil se enriquece. La explosión cámbrica concentra el origen de <span class="term">filos</span> (grandes planes corporales, como artrópodos o cordados) en un intervalo geológicamente breve.
 
 <!-- paragraph -->
-La mayoría de fósiles preservan partes duras. La Burgess conserva anatomía blanda con detalle fino: filamentos de branquias y contenido intestinal. El yacimiento (~<span class="num">530 millones</span> de años) se formó por deslizamientos de lodo que enterraron una comunidad marina en un fondo anóxico que impidió la descomposición. Walcott, secretario del Smithsonian, lo encontró en <span class="num">1909</span> tras cinco temporadas de colección obsesiva.
+La mayoría de fósiles preservan solo partes duras: conchas, huesos, caparazones. El Burgess conserva anatomía blanda con detalle fino: filamentos de branquias e incluso contenido intestinal. El yacimiento (~<span class="num">530 millones</span> de años) se formó cuando deslizamientos de lodo enterraron una comunidad marina en un fondo sin oxígeno. Eso frenó la descomposición. Walcott lo encontró en <span class="num">1909</span> tras años de colección obsesiva.
 
 <!-- paragraph -->
-Gould distingue fauna anterior (Ediacara) y posteriores ventanas a cuerpos blandos (faunas de Konservat-Lagerstätte). La ubicación en la cordillera canadiense, cerca de Field, BC, y el mecanismo de preservación explican por qué este yacimiento es único entre los cruciales. Si no existiera el yacimiento de Burgess, la ventana sobre la explosión cámbrica sería estrecha e incompleta.
+Gould ubica la Burgess frente a faunas anteriores (como la de Ediacara, fósiles muy primitivos anteriores al Cámbrico) y otras ventanas posteriores a cuerpos blandos. Este yacimiento cerca de Field, en Columbia Británica, es tan excepcional que sin él la ventana sobre la explosión cámbrica sería estrecha e incompleta. Por eso importan tanto el mecanismo de preservación como la fecha del descubrimiento.
 
 <!-- timeline -->
 | year | text |
@@ -96,6 +99,9 @@ Gould distingue fauna anterior (Ediacara) y posteriores ventanas a cuerpos bland
 <!-- key -->
 Sin la preservación excepcional del Burgess, la <span class="key-term">explosión cámbrica</span> quedaría casi invisible en el registro fósil.
 
+<!-- bridge -->
+Hallar el yacimiento fue solo el comienzo: la visión nueva nació al reinterpretar los fósiles, no al excavarlo.
+
 ---
 
 # cap3
@@ -104,22 +110,25 @@ Sin la preservación excepcional del Burgess, la <span class="key-term">explosi�
 ## title: Reconstrucción del Burgess Shale: hacia una nueva visión de la vida
 
 <!-- paragraph lead -->
-La revisión del Burgess fue una revolución silenciosa: monografías técnicas en la <em>Philosophical Transactions</em>, no eureka en el campo. Los hallazgos decisivos llegaron revisando cajones del Smithsonian, no solo excavando. En <span class="num">1973</span>, <span class="person">Conway Morris</span> buscó sistemáticamente rarezas en las colecciones de Walcott y encontró la clave de la disparidad.
+¿Cómo se descubrió que el Cámbrico no era un ensayo general de los animales actuales? La revisión del Burgess fue una revolución silenciosa: monografías técnicas, no un eureka en la montaña. Los hallazgos decisivos llegaron revisando cajones del Smithsonian. En <span class="num">1973</span>, <span class="person">Simon Conway Morris</span> buscó rarezas en las colecciones de Walcott y encontró la clave de la disparidad (cuántos diseños corporales distintos coexistían).
 
 <!-- paragraph -->
-<span class="person">Whittington</span> empezó con <span class="term">Marrella</span> y <span class="term">Yohoia</span> (<span class="num">1971-1974</span>), dudando de encasillar todo en artrópodos modernos. <span class="term">Opabinia</span> (<span class="num">1975</span>), con cinco ojos y probóscide, rompió expectativas. El equipo amplió el catálogo: <span class="term">Anomalocaris</span> como depredador gigante, <span class="term">Wiwaxia</span> y <span class="term">Hallucigenia</span>, inicialmente mal orientada. Muchos organismos no encajan en filos actuales y representan <span class="term">diseños corporales</span> extintos.
+<span class="person">Whittington</span> empezó con animales que ya no encajaban cómodos en grupos modernos. Luego llegó <span class="term">Opabinia</span>, un organismo con cinco ojos y una trompa prensil que rompió expectativas. El equipo amplió el catálogo con depredadores gigantes y anatomías tan raras que al principio se dibujaron al revés. Muchos no caben en los filos actuales: son <span class="term">diseños corporales</span> (planes anatómicos distintos) que se extinguieron.
 
 <!-- paragraph -->
-La conclusión general es que el Cámbrico temprano tuvo máxima disparidad. Una decimación posterior eliminó la mayoría de planes corporales. Los «ganadores» actuales no fueron necesariamente superiores por diseño, sino sobrevivientes de un sorteo histórico. Gould presenta el capítulo como drama en cinco actos, respetando la cronología de la investigación.
+La conclusión es clara. El Cámbrico temprano tuvo máxima disparidad. Una <span class="term">decimación</span> posterior (eliminación masiva de linajes) borró la mayoría de planes corporales. Los «ganadores» de hoy no fueron necesariamente superiores por diseño: sobrevivieron un sorteo histórico. Gould narra ese trabajo como un drama en cinco actos, respetando la cronología de la investigación.
 
 <!-- list -->
 - **Marrella** — Artrópodo que inició las dudas de Whittington.
-- **Opabinia** — Símbolo de lo extraño; cinco ojos y probóscide.
+- **Opabinia** — Símbolo de lo extraño; cinco ojos y trompa prensil.
 - **Anomalocaris** — Mayor depredador del Cámbrico; mandíbula circular.
-- **Hallucigenia** — Anatomía tan bizarra que desafió reconstrucciones iniciales.
+- **Hallucigenia** — Anatomía tan bizarra que desafió las primeras reconstrucciones.
 
 <!-- key -->
 La Burgess muestra que la historia animal fue un experimento masivo de formas, no una escalera hacia el hombre.
+
+<!-- bridge -->
+Si la reinterpretación es correcta, hay que explicar por qué Walcott (el descubridor) no la vio.
 
 ---
 
@@ -129,20 +138,23 @@ La Burgess muestra que la historia animal fue un experimento masivo de formas, n
 ## title: La visión de Walcott y la naturaleza de la historia
 
 <!-- paragraph lead -->
-<span class="person">Walcott</span> no fue un paleontólogo cualquiera: administrador poderoso del Smithsonian, coleccionista incansable y conservador profundo. Su error, el <span class="term">«zapato de Walcott»</span> (shoehorn), forzó cada fósil del Burgess dentro de grupos modernos como ancestros primitivos y negó la disparidad real. No fue incompetencia técnica: fue compromiso ideológico con el cono de diversidad creciente.
+¿Por qué un científico brillante forzó fósiles raros dentro de moldes conocidos? <span class="person">Walcott</span> no fue un paleontólogo cualquiera: administrador poderoso del Smithsonian y coleccionista incansable. Su error, el <span class="term">«zapato de Walcott»</span> (shoehorn), consistió en encajar cada fósil del Burgess como ancestro primitivo de grupos modernos. Negó así la disparidad real. No fue torpeza técnica: fue compromiso con la idea de progreso predecible.
 
 <!-- paragraph -->
-Walcott veía la historia como progreso hacia formas superiores, en sintonía con la América expansionista de su época. Su Darwin era el Darwin ambivalente sobre progreso, no el Darwin de ajuste local. La biografía muestra un hombre de fe, patriotismo y orden institucional que resistió interpretaciones radicales. La historia de la ciencia olvida a quienes dominaron su tiempo pero no innovaron intelectualmente, y Gould insiste en recuperarlos.
+Walcott veía la historia como ascenso hacia formas superiores, en sintonía con la América expansionista de su época. Leyó a Darwin buscando una trayectoria hacia formas «superiores», no la idea de que cada rasgo se adapta solo a condiciones locales. Gould recupera esa biografía (fe, patriotismo, orden institucional) para mostrar cómo una visión del mundo puede cegar a un observador excelente.
 
 <!-- paragraph -->
-El capítulo vincula el caso Burgess con la <span class="term">naturaleza de la historia</span>: ¿es ley general o secuencia irrepetible? Walcott creía en ley. La revisión moderna enfatiza contingencia. La historia natural merece el mismo respeto epistemológico que la historia humana: explicaciones rigurosas en retrospectiva y impredecibilidad prospectiva.
+El caso Burgess plantea la pregunta de fondo: ¿la historia sigue leyes generales o es una secuencia irrepetible? Walcott creía en ley. La revisión moderna enfatiza contingencia. Por eso Gould pide para la historia natural el mismo respeto que damos a la historia humana. Explicar el pasado con rigor no implica poder predecir el futuro.
 
 <!-- quote -->
-> «Rebobina la cinta de la vida hasta los primeros días del Burgess Shale; déjala reproducir desde un punto de partida idéntico, y la probabilidad de que algo parecido a la inteligencia humana aparezca en la repetición es vanishingly small.»
+> «Rebobina la cinta de la vida hasta los primeros días del Burgess Shale; déjala reproducir desde un punto de partida idéntico, y la probabilidad de que algo parecido a la inteligencia humana aparezca en la repetición es infinitesimalmente pequeña.»
 — Stephen Jay Gould
 
 <!-- key -->
 Walcott forzó cada fósil en grupos modernos no por torpeza, sino porque creía en <span class="key-term">progreso predecible</span>, no en contingencia histórica.
+
+<!-- bridge -->
+Queda demostrar con ejemplos que otros desenlaces eran razonables: mundos posibles sin nuestra especie.
 
 ---
 
@@ -152,13 +164,13 @@ Walcott forzó cada fósil en grupos modernos no por torpeza, sino porque creía
 ## title: Mundos posibles: el poder del «puro historial»
 
 <!-- paragraph lead -->
-Gould debe demostrar con ejemplos que historias razonablemente distintas habrían sido posibles sin inteligencia humana. No podemos predecir descendientes de Opabinia, pero sí comparar grupos actuales con fortunas opuestas. Los <span class="term">poliquetos</span> (anélidos marinos) son un éxito rotundo, con miles de especies, frente a los <span class="term">priapúlidos</span>, reducidos a un nicho marginal.
+¿Cómo se prueba que la inteligencia humana no era destino? Gould debe mostrar que otras historias razonables eran posibles: el «puro historial» (la historia como secuencia irrepetible, no como ley). No puede predecir qué habría salido de Opabinia. Sí puede comparar grupos vivos con fortunas opuestas. Los <span class="term">poliquetos</span> (gusanos marinos anélidos) son un éxito con miles de especies. Los <span class="term">priapúlidos</span> (otro grupo de gusanos) quedaron en un nicho marginal. Nada en su anatomía inicial anunciaba ese resultado.
 
 <!-- paragraph -->
-Propone <span class="term">siete mundos posibles</span> donde la contingencia alteró el curso: origen de la célula eucariota, primera fauna multicelular, explosión cámbrica, fauna moderna posterior, vertebrados terrestres, mamíferos y <span class="term">Homo sapiens</span>. En cada umbral, pequeños cambios pudieron desviar la historia. Las extinciones masivas no son accidentes menores: reconfiguran el tablero evolutivo.
+Propone <span class="term">siete mundos posibles</span>: umbrales donde un cambio pequeño pudo desviar la historia, desde la célula con núcleo hasta <em>Homo sapiens</em>. En cada paso, la contingencia importa. Las extinciones masivas no son accidentes menores: reconfiguran el tablero evolutivo y abren o cierran caminos.
 
 <!-- paragraph -->
-El patrón Burgess (proliferación inicial y decimación) se repite a escalas posteriores. La inteligencia humana no era destino, sino resultado de una cadena improbable. Reconocerlo no menosprecia a nuestra especie: amplía la comprensión de la vida. <span class="term">Pikaia</span>, posible ancestro cordado, ilustra cuán frágil fue el camino hacia los vertebrados.
+El patrón Burgess (proliferación inicial y luego poda) se repite a otras escalas. La inteligencia humana no era un destino escrito: fue el final de una cadena improbable. Reconocerlo no menosprecia a nuestra especie. Amplía la comprensión de la vida. Un animal temprano con notocorda (un cordón flexible que precede a la columna) como <em>Pikaia</em> ilustra esa fragilidad. Era un posible antepasado de los vertebrados.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -188,7 +200,7 @@ El patrón Burgess (proliferación inicial y decimación) se repite a escalas po
 | Decimación | Pérdida masiva de linajes tras máxima disparidad temprana. |
 | Shoehorn de Walcott | Forzar fósiles del Burgess en grupos modernos; error interpretativo. |
 | Rebobinar la cinta | Experimento mental: repetir la evolución desde el Cámbrico. |
-| Konservat-Lagerstätte | Depósitos con preservación extraordinaria de fósiles. |
+| Konservat-Lagerstätte | Yacimiento con preservación extraordinaria (tejidos blandos, no solo conchas o huesos). |
 
 ---
 

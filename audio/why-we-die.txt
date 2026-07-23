@@ -1,0 +1,233 @@
+Por qué morimos, de Venki Ramakrishnan.
+
+La idea central
+
+Morimos porque el cuerpo acumula daño y la evolución diseñó cuerpos desechables, no genes eternos.
+
+La biología molecular ya identifica telómeros, epigenética, mitocondrias y senescencia como palancas del declive.
+
+La criogenia promete sin evidencia; la ciencia seria exige ensayos, no profetas.
+
+Si comprimimos la morbilidad, ganamos años sanos; si no, empeoramos desigualdad y pensiones.
+
+La pregunta final no es solo ¿podemos? sino ¿cómo repartimos el beneficio?.
+
+Prólogo. Introducción
+
+¿Por qué la humanidad lleva milenios negando la muerte mientras la biología empieza a ofrecer palancas reales sobre el envejecimiento? Hace un siglo, el arqueólogo Howard Carter abrió la tumba de Tutankamón. El ritual egipcio buscaba trascender la muerte con máscara de oro y dios Anubis pesando el corazón.
+
+Toda cultura niega la finalidad de la muerte. El filósofo Stephen Cave describe cuatro planes para afrontarla. Vivir lo más posible, renacer en otro cuerpo, conservar un alma inmortal o dejar legado biológico y cultural. La conciencia de la propia muerte requirió cerebro autorreflexivo y lenguaje. Vivimos en negación mediante eufemismos, hospitales alejados y distracciones.
+
+El Ilustracionismo desplazó la fe hacia la ciencia, pero el legado no basta porque los hijos son otros seres conscientes. Plan A, que consiste en evitar accidentes y enfermedades, sigue vigente. En 150 años duplicamos la esperanza de vida reduciendo mortalidad infantil. Pero alargar el máximo (~120 años) es otro reto. La revolución genética plantea si podemos frenar el envejecimiento. Más de 300 000 artículos y 700 startups surgieron en una década. El químico Venki Ramakrishnan se pregunta si no es arrogancia pretender vencer la muerte. Un virus como el COVID-19 recuerda que la evolución no nos debe nada.
+
+Idea clave: Por primera vez la biología ofrece palancas reales sobre el envejecimiento, pero la sociedad no está preparada para sus consecuencias.
+
+Capítulo uno. El gen inmortal y el cuerpo desechable
+
+¿Por qué morimos si muchas células del cuerpo siguen vivas después? Una célula es una ciudad con transporte, residuos, comunicación y crecimiento controlado. Las ciudades también nacen y mueren: Hampi fue el Londres de su época y hoy son ruinas.
+
+Cuando morimos, un riñón trasplantado funciona y las bacterias prosperan. Morimos cuando las células dejan de cooperar como un organismo coherente (un cuerpo que funciona como un solo ser vivo). El envejecimiento es daño químico acumulado que reduce la capacidad física y mental hasta el fallo sistémico. Hemingway lo resume: Poco a poco, luego de repente.
+
+La paradoja central sostiene que aunque individuos mueren, la vida continúa. Cada ser vivo desciende de una célula ancestral de hace miles de millones de años. Lo que no muere es la información genética (el código heredado que se transmite de generación en generación). El naturalista Charles Darwin explicó la selección natural en 1858, junto con el biólogo Wallace. El cuello de la jirafa no se estira por esfuerzo, sino por variantes favorables.
+
+Idea clave: Los genes son inmortales entre generaciones, pero nuestros cuerpos son vehículos desechables diseñados para reproducirse, no para durar.
+
+Si los genes persisten pero los cuerpos caducan, la pregunta siguiente es por qué unos organismos viven días y otros milenios.
+
+Capítulo dos. Vive rápido y muere joven
+
+¿Por qué una mariposa vive días y un tejo británico más de 3000 años? La hidra (un animal de agua dulce diminuto) y la medusa Turritopsis dohrnii parecen no envejecer. Pueden regenerarse o revertir etapas, pero no son mamíferos y sus trucos distan de traducirse fácilmente a humanos.
+
+Entre mamíferos, el tamaño correlaciona con longevidad: más grandes, metabolismo más lento, menos latidos por gramo. La ley de Max Kleiber escala el metabolismo a masa¾. Geoffrey West nota ~1 500 millones latidos por vida, como revoluciones de un motor de auto. Humanos hoy casi duplican eso gracias a medicina, pero el máximo sigue en ~120 años.
+
+El biólogo Steven Austad busca especies que batan la escala esperada: aves vuelan y viven más que roedores similares. La evolución optimiza la aptitud reproductiva (dejar más descendencia viable), no longevidad absoluta. Cuando un depredador mata a un animal joven, vivir siglo y medio no ayuda. Por eso vivir más vale solo si sobrevives lo suficiente para reproducirte.
+
+Idea clave: La longevidad refleja presiones evolutivas y metabolismo, no un límite físico fijo para todos los organismos.
+
+Esas presiones actúan sobre el programa que mantiene cada célula funcionando: el material genético.
+
+Capítulo tres. Destruyendo el controlador maestro
+
+¿Qué ocurre cuando una célula pierde el control central de su programa? Hampi, gran ciudad del sur de India, colapsó cuando perdió gobierno, como una célula sin regulación. Los genes (unidades de información heredada) no solo transmiten rasgos, sino que dan instrucciones para construir y mantener un organismo.
+
+Hasta 1953, el ADN era misterio. Los biólogos James Watson y Francis Crick dedujeron la doble hélice: A-T, C-G, cada hebra copia a la otra. El mensaje se transcribe y los ribosomas ensamblan proteínas (moléculas que ejecutan casi todas las funciones vitales). Estas se pliegan solas en formas funcionales —milagro que Ramakrishnan estudió toda su carrera.
+
+El genoma no dicta como un plano rígido, sino que forma una red que responde al entorno. El ADN se deteriora con el tiempo, y las mutaciones son errores de letras que alteran el significado. Por eso el programa no puede correr eternamente sin fallos.
+
+Idea clave: El envejecimiento empieza cuando el ADN y su programa génico se dañan o desregulan.
+
+Un fallo crítico aparece cada vez que una célula se divide: el problema de copiar los extremos del cromosoma.
+
+Capítulo cuatro. El problema de los extremos
+
+¿Por qué las células normales dejan de dividirse mientras las cancerosas no? El cirujano Alexis Carrel, en el Rockefeller, anunció en los años 20 células de embrión de pollo inmortales en cultivo. Estaba equivocado, pues probablemente hubo contaminación con células frescas o cáncer de pollo vecino.
+
+El anatomista Leonard Hayflick demostró en los 50-60 que células humanas normales dividen un número finito. Entran en senescencia celular (un freno que detiene la división): las viejas recuerdan su edad aunque rodeadas de jóvenes. Publicado en 1961 tras rechazo inicial. El límite de Hayflick (~40-60 divisiones) diferencia células normales de cancerosas.
+
+El problema surge porque la maquinaria copia ADN en una dirección y deja un trozo sin duplicar bajo el tren. Cada división acorta los cromosomas. Los extremos naturales, los telómeros (capas protectoras en los extremos del cromosoma), no se fusionan como roturas. La bioquímica Elizabeth Blackburn y el genetista Jack Szostak secuenciaron repeticiones TTGGGG en Tetrahymena y estabilizaron cromosomas artificiales en levadura.
+
+Idea clave: Los telómeros y el límite de Hayflick explican por qué las células normales no son inmortales.
+
+Si los telómeros marcan un reloj celular, la pregunta es si ese reloj se puede rebobinar sin cambiar el ADN.
+
+Capítulo cinco. Reiniciando el reloj biológico
+
+¿El genoma humano es un destino escrito o un programa que se puede reprogramar? En junio de 2000, Clinton y Blair anunciaron el borrador del genoma humano. El ADN no es libro legible: flujo sin puntuación, 2 % codifica proteínas, resto basura aún enigma.
+
+Gemelos idénticos muestran que el genoma no es destino: pueden diferir en esquizofrenia pese a mismos genes. La epigenética (capa de control sobre los genes) explica por qué una célula piel no vuelve a ser neurona. El biólogo Conrad Waddington (1942) imaginó una bola rodando por valles del desarrollo. Es difícil subir de nuevo.
+
+La clonación (1952, rana) y los factores Yamanaka demostraron que el núcleo de célula especializada puede reprogramarse a estado pluripotente. No es Lamarckismo: son cambios reversibles en control génico, no en secuencia. La pregunta es hasta dónde se puede rebobinar sin tumores.
+
+Idea clave: La epigenética explica identidades celulares distintas con el mismo ADN y abre la puerta a revertir parte del envejecimiento.
+
+Reprogramar el reloj no basta si la célula acumula proteínas dañadas que no puede reciclar.
+
+Capítulo seis. Reciclando la basura
+
+¿Por qué el envejecimiento se parece tanto a una casa que se llena de chatarra? Ramakrishnan, a los 70, olvida citas y pierde guantes, pero recuerda haber olvidado una cena a los 20. La demencia es otra cosa. Hoy afecta a más de 50 millones de personas. En 2050 habrá cerca de 139 millones de casos.
+
+El neurólogo Alois Alzheimer (~1900) describió pérdida de identidad progresiva. Enfermedades neurodegenerativas comparten proteínas mal plegadas. Las cadenas deben esconder partes hidrofóbicas. Cuando se despliegan, se pegan como huevo hervido. Las chaperonas moleculares (proteínas auxiliares que ayudan a plegar otras) corrigen el proceso.
+
+A medida que envejecemos, el control de calidad celular se debilita. La autofagia (reciclaje interno que degrada proteínas defectuosas) falla con la edad. La glicación aleatoria daña lentes y retina. Cuando el reciclaje falla, la célula se llena de chatarra molecular.
+
+Idea clave: El envejecimiento acelera cuando fallan el plegamiento, la calidad y el reciclaje de proteínas.
+
+Parte del reciclaje celular responde a cuánto comemos: menos nutrientes pueden activar vías de mantenimiento.
+
+Capítulo siete. Menos es más
+
+¿Comer menos puede alargar la vida? En la India de Ramakrishnan todos ayunaban: hindúes, musulmanes en Ramadán, cristianos en Cuaresma. La abundancia occidental trajo obesidad —factor de riesgo para COVID-19, diabetes, cáncer y Alzheimer. Comer menos prolonga vida en ratones desde experimentos de 1917.
+
+La restricción calórica, o sea comer mucho menos sin malnutrición, alarga la vida en roedores. El aumento puede ir del veinte al cincuenta por ciento. También funciona en levadura. Estudios en monos Wisconsin vs NIA se contradicen: dieta control sana vs sobrealimentación importa. Hayflick sospecha que la restricción solo corrige dietas de laboratorio excesivas.
+
+La rapamicina, hallada en isla de Pascua (1964), inhibe mTOR (una vía que detecta nutrientes y acelera el crecimiento). Imida hambre celular. Ayuno intermitente y alineación con ritmo circadiano ayudan. Comer menos trae hambre, frío y pérdida muscular. La industria anti-edad quiere una píldora sin renunciar al postre.
+
+Idea clave: Comer menos activa vías de mantenimiento celular, pero no es panacea humana probada a largo plazo.
+
+El metabolismo no es solo dieta: un solo gen en un gusano diminuto reveló vías hormonales conservadas hasta los humanos.
+
+Capítulo ocho. Lecciones de un humilde gusano
+
+¿Puede un solo gen cambiar cuánto vive un animal? La heredabilidad de longevidad humana en gemelos daneses era solo ~25 %. Pero el nematodo C. elegans (un gusano transparente de laboratorio) revolucionó el campo. El biólogo Sydney Brenner lo eligió por transparencia, corta generación y linaje trazable de 900 células.
+
+Tom Johnson publicó en 1990 que mutación en un solo gen duplicaba la vida máxima. Recibió escepticismo dos años. La genetista Cynthia Kenyon en 1993 halló el gen daf-2: gusanos con mutación vivían el doble. El biólogo Gary Ruvkun identificó que daf-2 es receptor de hormona tipo insulina y daf-16 es factor de transcripción FOXO.
+
+El estado dauer (suspensión del desarrollo por hambre) suspende envejecimiento en juveniles ~2 meses. Eso equivale a ~300 años humanos relativos, pero adultos ya no entran. Un gen grande, no mil factores diminutos, puede cambiar el reloj.
+
+Idea clave: Un solo gen en gusanos reveló la vía insulina/IGF-1 que regula longevidad en muchos animales.
+
+Esa vía hormonal depende de la energía celular, producida por organelas que alguna vez fueron bacterias independientes.
+
+Capítulo nueve. El polizón dentro de nosotros
+
+¿De dónde sale la energía que mantiene viva cada célula? Hace ~2000 millones de años, una célula ancestral tragó una bacteria que no murió: simbiosis. La bióloga Lynn Margulis defendió la endosimbiosis contra el dogma de evolución lineal. Hoy las mitocondrias (organelas que producen energía dentro de la célula) son descendientes de ese polizón.
+
+Las mitocondrias convierten carbohidratos en ATP (moneda energética universal de la célula). El cuerpo genera aproximadamente su peso en ATP al día. El cerebro consume una quinta parte. La producción usa un gradiente de protones y una turbina molecular llamada ATP sintasa.
+
+Perdieron la mayoría de genes al núcleo host. El minúsculo ADN mitocondrial muta y causa enfermedades. Se heredan solo de madre. Reino Unido legalizó bebés de tres padres. Mitocondrias fusionan y dividen. Sus defectos se segregan. Por eso su desgaste impulsa envejecimiento.
+
+Idea clave: Las mitocondrias nos dan energía, pero su daño acumulado contribuye al declive.
+
+Cuando la energía falla y las células dañadas no mueren, el cuerpo envejecido se vuelve frágil e inflamado.
+
+Capítulo diez. Dolores, achaques y sangre de vampiro
+
+¿Por qué envejecer duele tanto en las articulaciones y en todo el cuerpo? En el coast-to-coast walk de 2013, Ramakrishnan abandonó la travesía por una rodilla con menisco roto y osteoartritis (desgaste del cartílago articular). La inflamación articular es local, pero con la edad aparece un inflammaging (inflamación crónica de bajo grado en la vejez).
+
+Daño al ADN puede matar la célula, repararla o mandarla a senescencia (freno anticancerígeno). Si el sistema inmune envejece, las células senescentes (células zombie que dejaron de dividirse pero siguen activas) se acumulan y secretan citocinas que dañan tejido. El oncólogo Jan van Deursen eliminó senescentes en ratones: +20-30 % vida, riñones y corazón mejores.
+
+Las células madre regeneran tejidos pero pierden balance y número. Clones mutados dominan y pueden dar cáncer. Reprogramación Yamanaka completa puede generar teratomas. La transfusión de sangre joven a viejos en ratones inspiró terapias vampiro controvertidas en humanos.
+
+Idea clave: Eliminar células senescentes y restaurar células madre podría revertir fragilidad, con riesgos reales.
+
+Entre esas intervenciones serias y las fantasías sin evidencia está la promesa de congelar cuerpos para renacer.
+
+Capítulo 11. ¿Locos o profetas?
+
+¿Puede congelarse un cuerpo muerto para revivir en el futuro? Los egipcios momificaron faraones para renacer. Hoy la criogenia (congelación en nitrógeno líquido tras la muerte legal) promete resurrección. Robert Ettinger fundó el Cryonics Institute en 1976. El servicio cuesta unos 28 000 dólares. La empresa Alcor cobra cerca de 200 000.
+
+No hay evidencia creíble de que funcione. Minutos u horas después de la muerte, las células colapsan bioquímicamente. La conectómica (mapa de conexiones neuronales) avanza en moscas, pero un mapa estático no captura estados dinámicos, hormonas ni cuerpo. El neurocientífico Albert Cardona (MRC) sostiene que un cerebro sin cuerpo no es la persona.
+
+Entre los casos legales, una niña británica de 14 años con cáncer quiso criogenia. Ted Williams quería cremación pero hijos congelaron su cabeza (2002). Científicos UK pidieron restringir marketing a vulnerables. Criopreservar células y embriones sí funciona. Personas enteras, no.
+
+Idea clave: La criogenia promete resurrección futura sin base científica seria hoy.
+
+Separar ciencia seria de profecías obliga a preguntar qué haríamos con años extra si realmente los consiguiéramos.
+
+Capítulo 12. ¿Deberíamos vivir para siempre?
+
+¿Qué pasaría con pensiones y desigualdad si alargáramos la vida sin replantear la sociedad? Ramakrishnan, activo a la edad en que murieron sus abuelos, ve un mundo con ~20 % mayores de 65 en países ricos. Hay menos hijos por familia y sistemas de pensiones diseñados para pocos años post-65.
+
+Extender vida sin comprimir morbilidad (acortar años enfermos, no solo alargar la cuenta total) empeora todo. En Inglaterra hay 10 años de brecha de vida, casi el doble en años sanos. En EE.UU. la brecha entre ricos y pobres llega a 15 años. Medicina avanzada beneficia primero a ricos y puede crear dos clases humanas.
+
+Sobre la sobrepoblación, Japón vive más pero su población cae desde 2010. Carreras más largas son la salida si jubilación a los 65 es insostenible.
+
+Un obrero de sesenta y cinco años no desea otros cincuenta de faena física. En dos mil veintitrés, en Francia marcharon 1,2 millones contra subir la jubilación de sesenta y dos a sesenta y cuatro años.
+
+Idea clave: Podemos ralentizar el envejecimiento, pero la sociedad debe decidir conscientemente cómo repartir años extra sin agravar desigualdad.
+
+Conceptos clave
+
+Gen inmortal / cuerpo desechable. Información genética persiste; individuos son vehículos temporales.
+
+Restricción calórica / mTOR. Menos nutrientes activan mantenimiento; rapamicina inhibe mTOR.
+
+Telómeros / Hayflick limit. Extremos cromosómicos que acortan; límite ~40-60 divisiones.
+
+Epigenética. Control reversible sobre genes; factores Yamanaka reprograman.
+
+daf-2 / IGF-1 / FOXO. Vía insulina que regula longevidad desde gusanos a mamíferos.
+
+Mitocondrias / ATP. Simbiontes energéticos; daño mitocondrial envejece al organismo.
+
+Células senescentes. Zombie celulares que inflaman; blanco de senolíticos.
+
+Autofagia. Reciclaje de proteínas dañadas marcadas con ubiquitina.
+
+Inflammaging. Inflamación crónica de bajo grado en la vejez.
+
+Compresión de morbilidad. Acortar años enfermos, no solo alargar la cuenta total.
+
+Cronología
+
+Año ~1922. Carter abre tumba de Tutankamón.
+
+Año 1858. Wallace escribe a Darwin; selección natural publicada.
+
+Año 1953. Watson y Crick deducen estructura del ADN.
+
+Año 1961. Hayflick demuestra límite replicativo celular.
+
+Año 1964. Expedición a isla de Pascua; suelo con rapamicina.
+
+Año 1990. Johnson publica age-1 en Science (gusano longevo).
+
+Año 1993. Kenyon publica daf-2 en Nature (doble vida).
+
+Año 2000. Clinton y Blair anuncian borrador del genoma humano (26 junio).
+
+Año 2024. Publicación de Why We Die.
+
+Figuras clave
+
+Venki Ramakrishnan, Autor; Nobel Química 2009 por estructura del ribosoma
+
+Stephen Cave, Cuatro planes de inmortalidad psicológica
+
+Charles Darwin / Alfred Wallace, Selección natural; carta 1858
+
+Alexis Carrel, Células inmortales en cultivo; refutado
+
+Leonard Hayflick, Límite de divisiones; senescencia celular 1961
+
+Elizabeth Blackburn / Jack Szostak, Secuencia y función de telómeros
+
+Cynthia Kenyon / Tom Johnson, Genética de longevidad en C. elegans
+
+Sydney Brenner, Introdujo C. elegans como modelo
+
+Lynn Margulis, Teoría endosimbiótica de mitocondrias
+
+Jan van Deursen, Eliminación de senescentes prolonga vida en ratones
+
+Robert Ettinger, Pionero moderno de criogenia humana

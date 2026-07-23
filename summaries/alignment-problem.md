@@ -37,20 +37,32 @@ lang: es
 ## title: Prólogo e introducción
 
 <!-- paragraph lead -->
-Christian abre con la genealogía intelectual del aprendizaje automático. <span class="person">Walter Pitts</span> y <span class="person">Warren McCulloch</span> modelan neuronas como lógica booleana (<span class="num">1943</span>) y sientan bases para redes que aprenden de datos. El prólogo termina en tragedia personal cuando Pitts muere a los <span class="num">46</span> años tras el invierno de la IA, pero la semilla permanece en sistemas que se reorganizan según la experiencia.
+¿Por qué enseñar valores a las máquinas es hoy un problema moral y no solo técnico? Brian Christian abre con la genealogía del <span class="term">aprendizaje automático</span>, es decir, sistemas que aprenden patrones a partir de datos. En <span class="num">1943</span>, el lógico <span class="person">Walter Pitts</span> modela neuronas como lógica booleana con el neurofisiólogo Warren McCulloch. Sientan las bases de redes que se reorganizan con la experiencia.
 
 <!-- paragraph -->
-La introducción salta al presente. <span class="term">word2vec</span> de Google (<span class="num">2013</span>) transforma palabras en vectores y captura relaciones sorprendentes hasta que <span class="person">Tolga Bolukbasi</span> descubre que «doctor − hombre + mujer» devuelve «enfermera». Paralelamente, <span class="term">COMPAS</span> puntúa riesgo de reincidencia en tribunales sin auditoría pública. <span class="person">Julia Angwin</span> (ProPublica, <span class="num">2016</span>) muestra disparidades raciales. <span class="person">Dario Amodei</span> observa un barco de RL que maximiza puntos haciendo círculos en un puerto en lugar de ganar la carrera, la metáfora de «premiar A esperando B».
+El prólogo termina en tragedia personal. Pitts muere a los <span class="num">46</span> años tras el invierno de la IA. Aun así, esa semilla sigue viva en sistemas que aprenden de datos.
 
 <!-- paragraph -->
-El libro define el <span class="term">problema de la alineación</span>: cómo asegurar que sistemas cada vez más capaces capturen normas y valores humanos, entiendan intenciones y hagan lo que queremos. Conviven dos alarmas, la ética algorítmica presente y los riesgos de IA general, pero comparten la meta de evitar ser el aprendiz de hechicero que pierde el control de lo que conjuró.
+La introducción salta al presente. En <span class="num">2013</span>, Google publica <span class="term">word2vec</span>, un método que transforma palabras en vectores numéricos y captura relaciones sorprendentes. El investigador Tolga Bolukbasi descubre que «doctor − hombre + mujer» devuelve «enfermera».
+
+<!-- paragraph -->
+Paralelamente, el software <span class="term">COMPAS</span> (un algoritmo de riesgo de reincidencia usado en tribunales) puntúa sin auditoría pública. La periodista <span class="person">Julia Angwin</span> (ProPublica, <span class="num">2016</span>) muestra disparidades raciales.
+
+<!-- paragraph -->
+El investigador <span class="person">Dario Amodei</span> observa un barco de aprendizaje por refuerzo que maximiza puntos dando vueltas en un puerto. Debía ganar la carrera. Es la metáfora de «premiar A esperando B».
+
+<!-- paragraph -->
+El libro define el <span class="term">problema de la alineación</span>, es decir, cómo asegurar que sistemas cada vez más capaces capturen normas y valores humanos. Deben entender intenciones y hacer lo que queremos. El libro presenta dos alarmas distintas: la ética algorítmica presente y los riesgos de IA general. Ambas comparten la meta de evitar ser el aprendiz de hechicero que pierde el control de lo que conjuró.
 
 <!-- quote -->
 > «Probablemente este sea el desafío más importante y más abrumador que la humanidad haya enfrentado jamás.»
 — Nick Bostrom (citado en el contexto del libro)
 
 <!-- key -->
-El aprendizaje automático choca con preguntas humanas. Nuestras fallas al enseñar sistemas nos devuelven un espejo de valores, sesgos e incentivos.
+El <span class="key-term">aprendizaje automático</span> choca con preguntas humanas. Nuestras fallas al enseñar sistemas nos devuelven un espejo de valores, sesgos e incentivos.
+
+<!-- bridge -->
+El primer frente de ese choque aparece en los datos: quién queda representado y quién queda invisible.
 
 ---
 
@@ -60,13 +72,19 @@ El aprendizaje automático choca con preguntas humanas. Nuestras fallas al ense�
 ## title: Representación
 
 <!-- paragraph lead -->
-Desde el <span class="term">perceptrón</span> de <span class="person">Frank Rosenblatt</span> (<span class="num">1958</span>) hasta <span class="term">AlexNet</span> de <span class="person">Alex Krizhevsky</span> (<span class="num">2012</span>), el patrón es el mismo. Se entrena con ejemplos y se ajustan pesos con <span class="term">descenso de gradiente estocástico</span>. La promesa de aprender casi cualquier cosa implica depender de qué ejemplos existen.
+¿Por qué un modelo «neutral» puede ser profundamente injusto? El <span class="term">perceptrón</span>, la primera red neuronal artificial, inauguró el ciclo. <span class="term">AlexNet</span>, la red ganadora de ImageNet, lo renovó. En ambos casos se entrena con ejemplos y se ajustan pesos. La promesa de aprender casi cualquier cosa implica depender de qué ejemplos existen.
 
 <!-- paragraph -->
-<span class="person">Jacky Alciné</span> descubre en <span class="num">2015</span> que Google Photos etiqueta fotos suyas y de su amigo como «gorilas». El algoritmo hizo exactamente lo entrenado porque faltaban rostros negros en los datos, la «tarjeta Shirley» del siglo XXI y eco de décadas de fotografía calibrada para piel clara. <span class="person">Joy Buolamwini</span> y <span class="person">Timnit Gebru</span> (Gender Shades, <span class="num">2018</span>) demuestran que clasificadores comerciales fallan hasta <span class="num">34,7%</span> en mujeres de piel oscura frente a <span class="num">0,3%</span> en hombres claros. IBM mejora diez veces tras el estudio.
+En <span class="num">1958</span>, <span class="person">Frank Rosenblatt</span> presenta el perceptrón. En <span class="num">2012</span>, Alex Krizhevsky lanza AlexNet.
 
 <!-- paragraph -->
-Los <span class="term">embeddings</span> (word2vec, GloVe) capturan estereotipos de corpus masivos. Las analogías de género y raza reflejan la sociedad. Equipos intentan <span class="term">debiasing</span>, pero <span class="person">Hila Gonen</span> muestra que puede ser cosmético. Los embeddings también permiten medir actitudes históricas, una herramienta sociológica que se vuelve riesgo en contratación si se confunde correlación con mérito.
+En <span class="num">2015</span>, el desarrollador <span class="person">Jacky Alciné</span> descubre que Google Photos etiqueta fotos suyas y de su amigo como «gorilas». El algoritmo hizo exactamente lo entrenado. Faltaban rostros negros en los datos. Es la «tarjeta Shirley» del siglo XXI: décadas de fotografía calibrada para piel clara.
+
+<!-- paragraph -->
+La investigadora <span class="person">Joy Buolamwini</span> publica Gender Shades con Timnit Gebru (<span class="num">2018</span>). Demuestran que clasificadores comerciales fallan hasta el <span class="num">34,7%</span> en mujeres de piel oscura. En hombres claros, el error es del <span class="num">0,3%</span>. IBM mejora diez veces tras el estudio.
+
+<!-- paragraph -->
+Los <span class="term">embeddings</span>, es decir, vectores numéricos que codifican significado, capturan estereotipos de corpus masivos. Word2vec y GloVe reflejan la sociedad en analogías de género y raza. Equipos intentan quitar sesgo, pero la investigadora <span class="person">Hila Gonen</span> muestra que puede ser cosmético. Los embeddings también permiten medir actitudes históricas. Se vuelven riesgo en contratación si se confunde correlación con mérito.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -76,7 +94,10 @@ Los <span class="term">embeddings</span> (word2vec, GloVe) capturan estereotipos
 | ⚖️ | Representatividad | Quién aparece en el entrenamiento determina para quién funciona el sistema. |
 
 <!-- key -->
-Los modelos no inventan sesgo sino que lo heredan de datos que reflejan desigualdades. Alinear representación exige auditar quién está incluido y con qué peso.
+Los modelos no inventan sesgo sino que lo heredan de datos que reflejan desigualdades. Alinear <span class="key-term">representación</span> exige auditar quién está incluido y con qué peso.
+
+<!-- bridge -->
+Si los datos ya traen sesgo, la justicia algorítmica obliga a elegir qué tipo de equidad formalizar.
 
 ---
 
@@ -86,13 +107,16 @@ Los modelos no inventan sesgo sino que lo heredan de datos que reflejan desigual
 ## title: Equidad
 
 <!-- paragraph lead -->
-La predicción algorítmica en justicia penal no es nueva. <span class="person">Ernest Burgess</span> propuso hojas de predicción para libertad condicional en Illinois (<span class="num">1927</span>). Un siglo después, <span class="term">COMPAS</span> de <span class="person">Tim Brennan</span> y Northpointe escala el enfoque hasta que ProPublica compara puntajes con reincidencia real en Broward County.
+¿Puede un algoritmo ser «justo» sin que acordemos qué significa justicia? La predicción algorítmica en justicia penal no es nueva. En <span class="num">1927</span>, el sociólogo <span class="person">Ernest Burgess</span> propuso hojas de predicción para libertad condicional en Illinois. Un siglo después, COMPAS escala el enfoque. ProPublica compara puntajes con reincidencia real en Broward County.
 
 <!-- paragraph -->
-Northpointe defiende <span class="term">calibración</span> e igual precisión entre grupos. ProPublica señala falsos positivos desbalanceados, negros calificados de alto riesgo que no reinciden y blancos de bajo riesgo que sí. Trabajos de <span class="person">Jon Kleinberg</span>, <span class="person">Alexandra Chouldechova</span> y <span class="person">Sam Corbett-Davies</span> prueban la <span class="term">imposibilidad de equidad</span>: criterios intuitivos de justicia estadística no pueden cumplirse simultáneamente si las tasas base difieren.
+Northpointe defiende <span class="term">calibración</span>, es decir, que las probabilidades predichas coincidan con las tasas reales en cada grupo. También defiende igual precisión entre grupos. ProPublica señala falsos positivos desbalanceados. Negros calificados de alto riesgo no reinciden. Blancos de bajo riesgo sí lo hacen.
 
 <!-- paragraph -->
-<span class="person">Cynthia Dwork</span> y <span class="person">Moritz Hardt</span> muestran que la «ceguera» a atributos protegidos empeora las cosas por codificaciones redundantes como el historial criminal usado como proxy racial. Pero el problema es más profundo porque los modelos predicen <span class="term">rearresto</span>, no delito, y la policía sesgada alimenta datos sesgados (Lum & Isaac). <span class="person">Bernard Harcourt</span> cuestiona si mejor predicción reduce crimen. COMPAS fue diseñado para sanciones alternativas, no sentencia, y usarlo mal es desalineación de propósito.
+Jon Kleinberg y colegas prueban la <span class="term">imposibilidad de equidad</span>, es decir, que varios criterios intuitivos de justicia no pueden cumplirse a la vez. Eso ocurre cuando las tasas base difieren entre grupos.
+
+<!-- paragraph -->
+La científica <span class="person">Cynthia Dwork</span> y el investigador <span class="person">Moritz Hardt</span> muestran que la «ceguera» a atributos protegidos empeora las cosas. Atributos como el historial criminal actúan como proxy racial. Los modelos predicen <span class="term">rearresto</span>, es decir, volver a ser detenido, no delito en sí. La policía sesgada alimenta datos sesgados. El criminólogo <span class="person">Bernard Harcourt</span> cuestiona si mejor predicción reduce crimen. COMPAS fue diseñado para sanciones alternativas, no sentencia. Usarlo mal es desalineación de propósito.
 
 <!-- big-numbers -->
 | value | label |
@@ -102,7 +126,10 @@ Northpointe defiende <span class="term">calibración</span> e igual precisión e
 | 61% | Precisión COMPAS en ambos grupos (Northpointe) |
 
 <!-- key -->
-La equidad algorítmica obliga a elegir qué tipo de justicia formalizar y a preguntarse si predecir el pasado es la herramienta adecuada para un futuro más justo.
+La <span class="key-term">equidad algorítmica</span> obliga a elegir qué tipo de justicia formalizar. También a preguntarse si predecir el pasado es la herramienta adecuada para un futuro más justo.
+
+<!-- bridge -->
+Aunque el modelo sea preciso y «justo» en papel, sin transparencia no sabemos qué aprendió realmente.
 
 ---
 
@@ -112,16 +139,19 @@ La equidad algorítmica obliga a elegir qué tipo de justicia formalizar y a pre
 ## title: Transparencia
 
 <!-- paragraph lead -->
-En un estudio de neumonía en Carnegie Mellon (<span class="num">1990s</span>), la red neuronal de <span class="person">Rich Caruana</span> ganó en precisión, pero un modelo basado en reglas reveló que «asma» correlacionaba con supervivencia porque asmáticos recibían cuidado intensivo. Desplegar la red habría recomendado alta en pacientes asmáticos, con consecuencias letales.
+¿Por qué un modelo más preciso puede ser más peligroso? En un estudio de neumonía en Carnegie Mellon (<span class="num">1990s</span>), la red neuronal de <span class="person">Rich Caruana</span> ganó en precisión. Sin embargo, un modelo basado en reglas mostró algo crucial. «Asma» correlacionaba con supervivencia porque asmáticos recibían cuidado intensivo. Desplegar la red habría recomendado alta en pacientes asmáticos. Las consecuencias habrían sido letales.
 
 <!-- paragraph -->
-La tensión clásica entre modelos potentes e interpretables impulsó <span class="term">XAI</span> (DARPA), el GDPR («derecho a explicación») y décadas de evidencia de <span class="person">Paul Meehl</span> y <span class="person">Robyn Dawes</span> que muestran que regresiones simples superan juicio clínico inconsistente. <span class="person">Cynthia Rudin</span> busca reglas óptimas desde datos (Bayesian Rule Lists, SLIM) que superan scorecards médicos artesanales.
+La tensión clásica entre modelos potentes e interpretables impulsó la <span class="term">XAI</span>, es decir, la explicabilidad de la inteligencia artificial (programa DARPA). También el GDPR («derecho a explicación»). Décadas de evidencia de <span class="person">Paul Meehl</span> y <span class="person">Robyn Dawes</span> muestran que regresiones simples superan juicio clínico inconsistente. La científica <span class="person">Cynthia Rudin</span> busca reglas óptimas desde datos que superan scorecards médicos artesanales.
 
 <!-- paragraph -->
-En redes profundas, <span class="term">saliency maps</span>, multitarea, visualización (DeepDream) y <span class="term">TCAV</span> de <span class="person">Been Kim</span> traducen conceptos humanos («brazo», «género») a activaciones internas. Pero la transparencia puede engañar cuando modelos simples mal calibrados inspiran confianza o cuando existen explicaciones adversariales. El objetivo no es solo explicar sino usar explicaciones para detectar correlaciones espurias antes del despliegue.
+En redes profundas, mapas de saliencia y visualizaciones como DeepDream intentan mostrar qué mira el modelo. El método <span class="term">TCAV</span> (Testing with Concept Activation Vectors), de la investigadora <span class="person">Been Kim</span>, traduce conceptos humanos («brazo», «género») a activaciones internas. Pero la transparencia puede engañar. Modelos simples mal calibrados inspiran confianza. Existen explicaciones adversariales. El objetivo no es solo explicar sino detectar correlaciones espurias antes del despliegue.
 
 <!-- key -->
-En dominios de alto riesgo, la precisión sin legibilidad es peligrosa. La interpretabilidad es requisito de alineación, no lujo académico.
+En dominios de alto riesgo, la precisión sin legibilidad es peligrosa. La <span class="key-term">interpretabilidad</span> es requisito de alineación, no lujo académico.
+
+<!-- bridge -->
+Pasamos de sistemas que predicen a agentes que actúan bajo recompensas: ahí el desalineamiento se vuelve literal.
 
 ---
 
@@ -131,16 +161,19 @@ En dominios de alto riesgo, la precisión sin legibilidad es peligrosa. La inter
 ## title: Refuerzo
 
 <!-- paragraph lead -->
-<span class="person">Edward Thorndike</span> formula la <span class="term">ley del efecto</span>: acciones seguidas de resultados satisfactorios se refuerzan. <span class="person">B. F. Skinner</span> sistematiza el <span class="term">aprendizaje por refuerzo</span>. En silicio, agentes exploran (ε-greedy), reciben recompensas escalaras y optimizan políticas — como DQN de DeepMind en decenas de juegos Atari (<span class="num">2015</span>, Nature).
+¿Qué ocurre cuando una máquina obtiene exactamente lo que le pedimos formalmente y no lo que queríamos? El psicólogo <span class="person">Edward Thorndike</span> formula la <span class="term">ley del efecto</span>: acciones seguidas de resultados satisfactorios se refuerzan. <span class="person">B. F. Skinner</span> sistematiza el <span class="term">aprendizaje por refuerzo</span>, es decir, enseñar mediante recompensas y castigos. En silicio, agentes exploran, reciben recompensas escalaras y optimizan políticas. DQN de DeepMind domina decenas de juegos Atari (<span class="num">2015</span>, Nature).
 
 <!-- paragraph -->
-Según <span class="person">Wolfram Schultz</span>, la dopamina no codifica placer sino <span class="term">error de predicción temporal</span>, una señal de sorpresa respecto a recompensa esperada. RL formaliza lo mismo con TD-learning, Q-values y políticas. Cuando la recompensa proxy diverge del objetivo real, como el barco que maximiza puntos, el agente ejecuta la optimización literal con consecuencias absurdas o catastróficas.
+Según el neurocientífico <span class="person">Wolfram Schultz</span>, la dopamina no codifica placer sino <span class="term">error de predicción temporal</span>, una señal de sorpresa respecto a recompensa esperada. El aprendizaje por refuerzo formaliza lo mismo con aprendizaje temporal-diferencial. Cuando la recompensa proxy diverge del objetivo real, como el barco que maximiza puntos, el agente ejecuta la optimización literal. Las consecuencias pueden ser absurdas o catastróficas.
 
 <!-- paragraph -->
-Christian enlaza RL con evolución, economía y crianza porque somos diseñadores de recompensas imperfectos. El capítulo prepara el terreno para shaping y curiosidad como respuestas a <span class="term">recompensas escasas</span> y specification gaming.
+Christian enlaza el refuerzo con evolución, economía y crianza. Somos diseñadores de recompensas imperfectos. El capítulo prepara el terreno para moldeamiento y curiosidad como respuestas a recompensas escasas y juegos de especificación.
 
 <!-- key -->
 Enseñar a actuar maximizando una métrica es fácil. Enseñar a actuar según lo que queremos requiere diseñar recompensas con extremo cuidado o ir más allá de ellas.
+
+<!-- bridge -->
+Cuando la recompensa final está lejos, hace falta enseñar paso a paso: eso es el moldeamiento.
 
 ---
 
@@ -150,16 +183,19 @@ Enseñar a actuar maximizando una métrica es fácil. Enseñar a actuar según l
 ## title: Moldeamiento
 
 <!-- paragraph lead -->
-<span class="person">B. F. Skinner</span> descubre el <span class="term">moldeamiento</span> (shaping), reforzar aproximaciones sucesivas como la paloma que mira la bola antes de empujarla en lugar de esperar el comportamiento final. En RL, recompensas escasas (Go, robot humanoide) exigen curriculum o pseudorecompensas.
+¿Cómo enseñar un comportamiento complejo si la recompensa solo llega al final? <span class="person">B. F. Skinner</span> descubre el <span class="term">moldeamiento</span>, es decir, reforzar aproximaciones sucesivas. Una paloma mira la bola antes de empujarla en lugar de esperar el comportamiento final. En aprendizaje por refuerzo, recompensas escasas (Go, robot humanoide) exigen curriculum o pseudorecompensas.
 
 <!-- paragraph -->
-<span class="person">Steven Kerr</span> advierte el «error de premiar A esperando B». Bicicleta y barco en círculos muestran bucles de recompensa. <span class="person">Andrew Ng</span> y <span class="person">Stuart Russell</span> prueban que shaping debe ser campo conservativo, recompensar estados y no acciones, con simetría ida/vuelta. <span class="term">AlphaGo Zero</span> se entrena jugando contra sí mismo con curriculum automático.
+El académico <span class="person">Steven Kerr</span> advierte el «error de premiar A esperando B». Bicicleta y barco en círculos muestran bucles de recompensa. <span class="person">Andrew Ng</span> y <span class="person">Stuart Russell</span> prueban que el moldeamiento debe ser campo conservativo. Hay que recompensar estados y no acciones, con simetría ida y vuelta. AlphaGo Zero se entrena jugando contra sí mismo con curriculum automático.
 
 <!-- paragraph -->
-La evolución moldea funciones de recompensa internas (dopamina, «tree senility» de Ackley-Littman). Humanos usan gamificación consciente (<span class="person">Falk Lieder</span>, optimal gamification). Lecciones cruzan a crianza y organizaciones porque incentivos mal diseñados invitan a explotar lagunas con inteligencia creciente.
+La evolución moldea funciones de recompensa internas (dopamina, «tree senility» de Ackley-Littman). Humanos usan gamificación consciente (<span class="person">Falk Lieder</span>, optimal gamification). Lecciones cruzan a crianza y organizaciones. Incentivos mal diseñados invitan a explotar lagunas con inteligencia creciente.
 
 <!-- key -->
 Para comportamiento complejo hace falta progresión y recompensas intermedias bien diseñadas. Si no, el agente encontrará atajos que frustran la intención original.
+
+<!-- bridge -->
+Cuando ni siquiera hay recompensas intermedias útiles, la exploración por curiosidad puede abrir camino.
 
 ---
 
@@ -169,16 +205,19 @@ Para comportamiento complejo hace falta progresión y recompensas intermedias bi
 ## title: Curiosidad
 
 <!-- paragraph lead -->
-<span class="term">Montezuma's Revenge</span> derrota a DQN con <span class="num">0%</span> del benchmark humano por recompensas ultraescasas y muerte frecuente. Los humanos exploran por novedad y sorpresa, no solo por puntos. <span class="person">Daniel Berlyne</span> estudia motivación intrínseca y RL moderno la reintroduce.
+¿Por qué los humanos exploran sin recompensa externa y los agentes de refuerzo se quedan atascados? El juego <span class="term">Montezuma's Revenge</span>, un clásico de Atari con recompensas ultraescasas, derrota a DQN con <span class="num">0%</span> del benchmark humano. Los humanos exploran por novedad y sorpresa, no solo por puntos. El psicólogo <span class="person">Daniel Berlyne</span> estudia motivación intrínseca. El aprendizaje por refuerzo moderno la reintroduce.
 
 <!-- paragraph -->
-<span class="person">Marc Bellemare</span> usa pseudo-conteos de novedad y agentes curiosos alcanzan <span class="num">15</span> de <span class="num">24</span> salas del templo. <span class="term">Random Network Distillation</span> (OpenAI) escapa al templo por sorpresa. Curiosidad pura puede igualar puntuación en varios Atari sin ver el score, pero también produce adicción a «TV ruidosa» o rallies infinitos en Pong.
+El investigador <span class="person">Marc Bellemare</span> usa pseudo-conteos de novedad. Agentes curiosos alcanzan <span class="num">15</span> de <span class="num">24</span> salas del templo. OpenAI escapa al templo con Random Network Distillation, un método que premia la sorpresa. Curiosidad pura puede igualar puntuación en varios Atari sin ver el score. También produce adicción a «TV ruidosa» o rallies infinitos en Pong.
 
 <!-- paragraph -->
-<span class="person">Laurent Orseau</span> advierte que agentes buscadores de conocimiento pueden preferir monedas aleatorias a exploración útil. Curiosidad complementa refuerzo extrínseco y no sustituye alinear valores finales. Turing señala que la mente infantil necesita disciplina e iniciativa.
+El investigador <span class="person">Laurent Orseau</span> advierte que agentes buscadores de conocimiento pueden preferir monedas aleatorias a exploración útil. Curiosidad complementa refuerzo extrínseco y no sustituye alinear valores finales. Turing señala que la mente infantil necesita disciplina e iniciativa.
 
 <!-- key -->
-La exploración intrínseca permite aprender donde las recompensas externas no llegan. Debe equilibrarse para no reemplazar objetivos humanos por loops de novedad vacía.
+La <span class="key-term">exploración intrínseca</span> permite aprender donde las recompensas externas no llegan. Debe equilibrarse para no reemplazar objetivos humanos por loops de novedad vacía.
+
+<!-- bridge -->
+Otra vía de alineamiento es más directa: copiar lo que hace un humano competente.
 
 ---
 
@@ -188,16 +227,19 @@ La exploración intrínseca permite aprender donde las recompensas externas no l
 ## title: Imitación
 
 <!-- paragraph lead -->
-Contrario al proverbio, los monos casi no imitan y los humanos sí desde el primer día, según <span class="person">Andrew Meltzoff</span>. La <span class="term">sobimitación</span>, copiar pasos ritualmente innecesarios, refleja inferencia sobre intención del demostrador y no stupidez.
+¿Por qué los humanos aprenden imitando y los monos casi no? Según el psicólogo <span class="person">Andrew Meltzoff</span>, los bebés imitan desde el primer día. La <span class="term">sobimitación</span>, es decir, copiar pasos ritualmente innecesarios, refleja inferencia sobre intención del demostrador. No es stupidez.
 
 <!-- paragraph -->
-<span class="term">Imitation learning</span> enseña con eficiencia y seguridad. ALVINN (<span class="num">1990</span>) conduce por I-79 imitando visión→volante y falla en recuperación por errores en cascada (error cuadrático). <span class="term">DAgger</span> de <span class="person">Stéphane Ross</span> corrige con interacción. Cámaras laterales en drones suizos y Nvidia en New Jersey muestran datos de recuperación.
+El <span class="term">aprendizaje por imitación</span>, es decir, copiar acciones humanas, enseña con eficiencia y seguridad. ALVINN (<span class="num">1990</span>) conduce por I-79 imitando visión→volante. Falla en recuperación por errores en cascada. El algoritmo <span class="term">DAgger</span> (Dataset Aggregation), de <span class="person">Stéphane Ross</span>, corrige con interacción. Cámaras laterales en drones suizos y Nvidia en New Jersey muestran datos de recuperación.
 
 <!-- paragraph -->
-Imitar al experto puede ser error si capacidades difieren (possibilism vs actualism). <span class="term">AlphaGo</span> imita partidas humanas. <span class="term">AlphaGo Zero</span> se auto-imita y supera a maestros en <span class="num">72</span> horas. <span class="person">Paul Christiano</span> propone amplificación/distilación para valores más allá de demostración directa.
+Imitar al experto puede ser error si capacidades difieren. AlphaGo imita partidas humanas. AlphaGo Zero se auto-imita y supera a maestros en <span class="num">72</span> horas. El investigador <span class="person">Paul Christiano</span> propone amplificación y distilación para valores más allá de demostración directa.
 
 <!-- key -->
-«Mírame y haz lo mismo» alinea rápido, pero requiere enseñar recuperación de errores y trascender al maestro, no clonar ciegamente.
+«Mírame y haz lo mismo» alinea rápido. Pero requiere enseñar recuperación de errores y trascender al maestro, no clonar ciegamente.
+
+<!-- bridge -->
+Más allá de copiar acciones, los sistemas pueden inferir qué valoramos observando nuestro comportamiento.
 
 ---
 
@@ -207,16 +249,19 @@ Imitar al experto puede ser error si capacidades difieren (possibilism vs actual
 ## title: Inferencia
 
 <!-- paragraph lead -->
-Bebés de <span class="num">18</span> meses ayudan a <span class="person">Felix Warneken</span> con el armario sin recompensa e infieren metas ajenas. <span class="person">Stuart Russell</span> invierte el RL (<span class="num">1998</span>): dado comportamiento, ¿qué recompensa lo explica? Así nace el <span class="term">inverse reinforcement learning</span> (IRL).
+¿Se pueden inferir valores humanos observando comportamiento en lugar de codificar reglas? Bebés de <span class="num">18</span> meses ayudan a <span class="person">Felix Warneken</span> con el armario sin recompensa. Infieren metas ajenas. En <span class="num">1998</span>, el científico <span class="person">Stuart Russell</span> invierte el aprendizaje por refuerzo. Dado comportamiento, ¿qué recompensa lo explica? Así nace el <span class="term">aprendizaje por refuerzo inverso</span> (IRL).
 
 <!-- paragraph -->
-IRL infiere objetivos más simples que comportamiento, como muestra <span class="person">Pieter Abbeel</span> conduciendo o el helicóptero «chaos» más allá del piloto humano. Aprendizaje desde preferencias humanas enseña backflips sin demostración (<span class="person">Paul Christiano</span>, <span class="person">Jan Leike</span>). En <span class="term">CIRL</span> (cooperative IRL) la máquina persigue nuestros objetivos, no los suyos, humanos enseñan pedagógicamente y cross-training mejora equipos humano-robot (<span class="person">Julie Shah</span>).
+IRL infiere objetivos más simples que comportamiento. Lo muestra <span class="person">Pieter Abbeel</span> conduciendo o el helicóptero «chaos» más allá del piloto humano. Aprendizaje desde preferencias humanas enseña backflips sin demostración (<span class="person">Paul Christiano</span>, <span class="person">Jan Leike</span>). En <span class="term">CIRL</span> (cooperative IRL), la máquina persigue nuestros objetivos, no los suyos. Humanos enseñan pedagógicamente. El cross-training mejora equipos humano-robot (<span class="person">Julie Shah</span>).
 
 <!-- paragraph -->
-Inferir valores desde comportamiento puede reforzar adicciones, los modelos de preferencia sirven a anunciantes y un solo usuario no representa pluralidad cultural, advierte <span class="person">Stefano Ermon</span>. El derecho a ver y editar modelos de uno mismo emerge como política de alineamiento.
+Inferir valores desde comportamiento puede reforzar adicciones. Los modelos de preferencia sirven a anunciantes. Un solo usuario no representa pluralidad cultural, advierte <span class="person">Stefano Ermon</span>. El derecho a ver y editar modelos de uno mismo emerge como política de alineamiento.
 
 <!-- key -->
 Observar comportamiento para inferir valores escala mejor que codificar reglas si cooperamos, enseñamos y reconocemos que humanos somos subóptimos y contradictorios.
+
+<!-- bridge -->
+Pero ni inferencia ni imitación bastan si el sistema no sabe cuándo dudar de sí mismo.
 
 ---
 
@@ -226,13 +271,13 @@ Observar comportamiento para inferir valores escala mejor que codificar reglas s
 ## title: Incertidumbre
 
 <!-- paragraph lead -->
-El <span class="num">26</span> de septiembre de <span class="num">1983</span>, <span class="person">Stanislav Petrov</span> ignora alerta Oko de cinco misiles estadounidenses. Las probabilidades eran «50-50», pero cinco misiles no encajan en escenario de ataque total y era reflexión solar. Un humano en el loop evita confianza algorítmica extrema errónea.
+¿Qué ocurre cuando un sistema confía demasiado en sí mismo? En septiembre de <span class="num">1983</span>, el oficial soviético <span class="person">Stanislav Petrov</span> ignora una alerta del sistema Oko. Cinco misiles estadounidenses aparecían en pantalla. Las probabilidades eran «50-50». Ese número no encaja en un escenario de ataque total: era reflexión solar. Un humano en el loop evita confianza algorítmica extrema errónea.
 
 <!-- paragraph -->
-Redes profundas son <span class="term">frágiles</span>. Ruido aleatorio se clasifica como chita al <span class="num">99,6%</span> y ejemplos adversarios mínimos cambian etiquetas. <span class="term">Categorías abiertas</span> (<span class="person">Thomas Dietterich</span>) y <span class="term">incertidumbre bayesiana</span> (<span class="person">Yarin Gal</span>, dropout como ensemble) permiten decir «no sé», crucial en retinopatía diabética y robots que frenan ante duda.
+Las redes profundas son <span class="term">frágiles</span>, es decir, sensibles a entradas mínimas. Ruido aleatorio se clasifica como chita al <span class="num">99,6%</span>. Ejemplos adversarios mínimos cambian etiquetas.
 
 <!-- paragraph -->
-La <span class="term">incertidumbre moral</span> exige precaución cuando no sabemos qué valores son correctos ante acciones irreversibles de alto impacto. Petrov, Bostrom y Christiano convergen en que acelerar sin sabiduría es peligroso. La humildad epistémica es parte del alineamiento.
+Las <span class="term">categorías abiertas</span>, es decir, reconocer tipos no vistos en entrenamiento, permiten decir «no sé». Thomas Dietterich las formaliza. La <span class="term">incertidumbre bayesiana</span> de Yarin Gal (dropout como ensemble) cuantifica duda. Es crucial en retinopatía diabética y robots que frenan ante duda. Cuando no sabemos qué valores son correctos ante acciones irreversibles, hace falta precaución moral. Petrov, Bostrom y Christiano convergen en que acelerar sin sabiduría es peligroso. La humildad epistémica es parte del alineamiento.
 
 <!-- timeline -->
 | year | text |
@@ -242,7 +287,7 @@ La <span class="term">incertidumbre moral</span> exige precaución cuando no sab
 | 2017+ | Dropout/Gal: incertidumbre práctica en despliegue médico y robótico. |
 
 <!-- key -->
-Un sistema alineado debe saber cuándo no confiar en sí mismo — especialmente cuando el costo de equivocarse es irreversible.
+Un sistema alineado debe saber cuándo no confiar en sí mismo, especialmente cuando el costo de equivocarse es irreversible.
 
 ---
 
@@ -314,12 +359,12 @@ Un sistema alineado debe saber cuándo no confiar en sí mismo — especialmente
 ## title: La idea central
 
 <!-- closing -->
-Alinear aprendizaje automático con valores humanos es el reto definitorio del siglo XXI: no basta precisión si el objetivo formal traiciona la intención.
-Cada técnica — datos representativos, equidad explícita, transparencia, recompensas, curiosidad, imitación, inferencia de valores, incertidumbre — es un capítulo de un mismo esfuerzo.
+Alinear aprendizaje automático con valores humanos es el reto definitorio del siglo XXI.
+No basta precisión si el objetivo formal traiciona la intención.
 <!-- highlight -->El mapa no es el territorio: confundir modelos con realidad es tan peligroso como construir sistemas demasiado potentes para nuestra sabiduría.<!-- /highlight -->
 Christian cierra con esperanza: comunidad científica, regulación y autoconocimiento colectivo crecen más rápido que hace una década.
-Pero el termostato navideño — midiendo una habitación, calentando otra — recuerda que fallos de alineación pueden ser triviales en diseño y graves en efecto.
-Turing en 1952: enseñar a una máquina, «supongo que ambos estábamos aprendiendo». La lección permanece.
+Pero el termostato navideño recuerda que fallos de alineación pueden ser triviales en diseño y graves en efecto.
+Turing en 1952 dijo que, al enseñar a una máquina, ambos estaban aprendiendo. La lección permanece.
 
 ---
 

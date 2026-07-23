@@ -98,15 +98,15 @@ export const intelligentLifeUniverse: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Una de las preguntas más apasionantes para la humanidad es si estamos solos en el universo. Desde la prehistoria hasta la antigüedad se creyó en seres inteligentes no humanos, pero la ciencia moderna muestra que, desde la revolución copernicana, todo intento de definir nuestra posición como excepcional ha fracasado.",
+          html: "¿Estamos solos en el universo? Es una de las preguntas más apasionantes para la humanidad. En la prehistoria y la antigüedad se creyó en seres inteligentes no humanos. La ciencia moderna, desde la revolución copernicana, ha fracasado una y otra vez al tratar de hacer excepcional nuestro lugar en el cosmos.",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Ulmschneider</span> organiza el libro en tres partes (planetas, vida e inteligencia) porque la respuesta exige encadenar disciplinas. Sin estrellas no hay elementos pesados. Sin planetas estables no hay océanos. Sin evolución en tierra firme no hay manos libres para la tecnología. Si otras civilizaciones existen, ¿por qué no hay rastro astronómico ni terrestre de ellas? La segunda edición (<span class=\"num\">2006</span>) añade el capítulo geológico sobre la Tierra y actualiza la búsqueda de planetas, el LUCA y la inteligencia animal en primates, delfines y cuervos.",
+          html: "El astrofísico <span class=\"person\">Peter Ulmschneider</span> (Heidelberg) organiza el libro en tres partes: planetas, vida e inteligencia. La respuesta exige encadenar disciplinas. Sin estrellas no hay elementos pesados. Sin planetas estables no hay océanos. Sin evolución en tierra firme no hay manos libres para la tecnología. Si otras civilizaciones existen, ¿por qué no hay rastro astronómico ni terrestre de ellas?",
         },
         {
           type: 'paragraph',
-          html: "El autor sostiene que reflexionar sobre el futuro de la humanidad ilumina la naturaleza de civilizaciones extraterrestres avanzadas. La singularidad de la inteligencia humana no es absoluta: depende de un cerebro muy grande y de especializaciones en comunicación y uso de herramientas, requisitos evolutivos ligados a la conquista de la tierra, no accidentes cosméticos.",
+          html: "La segunda edición (<span class=\"num\">2006</span>) añade un capítulo geológico sobre la Tierra. También actualiza la búsqueda de planetas, el ancestro común de toda la vida y la inteligencia animal en primates, delfines y cuervos. Reflexionar sobre el futuro humano ilumina la naturaleza de civilizaciones extraterrestres avanzadas.",
         },
         {
           type: 'quote',
@@ -115,7 +115,11 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "La inteligencia tecnológica humana está ligada a la vida en tierra: manos libres, visión aguda y vida social en grupo son requisitos evolutivos, no accidentes cosméticos.",
+          html: "La <span class=\"key-term\">inteligencia tecnológica</span> humana está ligada a la vida en tierra: manos libres, visión aguda y vida social en grupo son requisitos evolutivos, no accidentes cosméticos.",
+        },
+        {
+          type: 'paragraph',
+          html: "Para saber si esos requisitos pueden repetirse en otros mundos, hay que entender primero de dónde vienen los átomos que componen planetas y organismos.",
         },
       ],
     },
@@ -127,15 +131,19 @@ export const intelligentLifeUniverse: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "La vida, aquí y probablemente en otros mundos, surge en estrecha asociación con planetas, estrellas y galaxias. Los organismos vivos y los planetas están hechos de elementos sintetizados en estrellas, y comprender esa historia es el primer paso hacia la astrobiología.",
+          html: "¿De dónde salen los átomos que forman planetas y seres vivos? La vida, aquí y probablemente en otros mundos, surge en estrecha asociación con planetas, estrellas y galaxias. Comprender esa historia química es el primer paso de la astrobiología.",
         },
         {
           type: 'paragraph',
-          html: "Hace unos <span class=\"num\">14 mil millones de años</span> el universo apareció en el <span class=\"term\">Big Bang</span>. La ley de Hubble (<span class=\"person\">Edwin Hubble</span>, <span class=\"num\">1924</span>) y la radiación cósmica de fondo de <span class=\"num\">3 K</span> confirman un origen caliente y denso. Después de una «edad oscura» de ~1 mil millones de años aparecieron las primeras estrellas de la <span class=\"term\">población III</span>. Eran muy masivas y de vida corta. Fusionaron elementos hasta el hierro y los expulsaron en supernovas.",
+          html: "Hace unos <span class=\"num\">14 mil millones de años</span> el universo apareció en el <span class=\"term\">Big Bang</span> (origen caliente y denso del espacio, el tiempo y la materia). La ley de Hubble confirma ese origen expansivo. El astrónomo <span class=\"person\">Edwin Hubble</span> la formuló en <span class=\"num\">1924</span>. La radiación cósmica de fondo de <span class=\"num\">3 K</span> apunta en la misma dirección.",
         },
         {
           type: 'paragraph',
-          html: "Generaciones sucesivas enriquecieron el medio interestelar hasta formar la mezcla metálica de la <span class=\"term\">población I</span>, de la que nació el Sol y los planetas. Las nubes moleculares (hasta 10⁶ M☉, núcleos a 5–10 K) son cunas del colapso gravitacional. Los <span class=\"term\">relojes radiométricos</span> (²⁶Al, ²³⁸U) datan meteoritos y la formación planetaria en ~4,567 Ga.",
+          html: "Al terminar una «edad oscura» de unos mil millones de años aparecieron las primeras estrellas, la <span class=\"term\">población III</span> (formadas solo de hidrógeno y helio). Eran muy masivas y de vida corta. Fusionaron elementos hasta el hierro y los expulsaron en supernovas. Generaciones sucesivas enriquecieron el medio interestelar hasta formar estrellas ricas en metales como el Sol.",
+        },
+        {
+          type: 'paragraph',
+          html: "Las nubes moleculares, hasta un millón de masas solares con núcleos a <span class=\"num\">5–10 K</span>, son cunas del colapso gravitacional. Los <span class=\"term\">relojes radiométricos</span> (decaimiento de isótopos como el aluminio-26 o el uranio-238) datan meteoritos y la formación planetaria en unos <span class=\"num\">4.567 Ga</span>.",
         },
         {
           type: 'concept-grid',
@@ -164,7 +172,11 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "Sin estrellas no hay carbono ni metales: la química de la vida es herencia directa de la evolución estelar y galáctica.",
+          html: "Sin estrellas no hay carbono ni metales: la <span class=\"key-term\">química de la vida</span> es herencia directa de la evolución estelar y galáctica.",
+        },
+        {
+          type: 'paragraph',
+          html: "Si los átomos pesados existen, el siguiente paso es ver cómo se agrupan en discos planetarios alrededor de estrellas jóvenes.",
         },
       ],
     },
@@ -176,15 +188,19 @@ export const intelligentLifeUniverse: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Los planetas no se forman solos: son subproducto inevitable del colapso gravitacional de gas y polvo interestelar, que produce discos de acreción que alimentan la protostrella y dan origen a planetesimales.",
+          html: "¿Cómo nacen los planetas a partir de polvo interestelar? No se forman solos. Son subproducto del colapso gravitacional de gas y polvo, que produce discos de acreción alimentando la protostrella y dando origen a planetesimales.",
         },
         {
           type: 'paragraph',
-          html: "En el <span class=\"term\">disco solar</span>, la fricción desacelera la rotación y permite que la materia migre hacia la estrella. La temperatura decrece con la distancia. Cerca del Sol (menos de <span class=\"num\">3 AU</span>) se acumulan silicatos y hierro. Más allá de la <span class=\"term\">línea de hielo</span> (~150 K) dominan los granos de hielo. El polvo sedimenta en el plano ecuatorial. Las fuerzas eléctricas aglutinan granos hasta planetesimales de ~10 km en ~100 000 años.",
+          html: "En el <span class=\"term\">disco solar</span> (el anillo de gas y polvo que rodea una estrella joven), la fricción desacelera la rotación. La materia migra hacia la estrella. La temperatura decrece con la distancia. Cerca del Sol, a menos de <span class=\"num\">3 AU</span>, se acumulan silicatos y hierro. Más allá de la <span class=\"term\">línea de hielo</span> (donde el agua se congela, ~150 K) dominan los granos helados.",
         },
         {
           type: 'paragraph',
-          html: "Simulaciones de <span class=\"person\">Wetherill</span> muestran que de ~500 planetesimales entre 0,4 y 2 AU quedan pocos protoplanetas en decenas de millones de años. Los planetas jovianos se forman más allá de la línea de hielo, pero la <span class=\"term\">migración joviana</span> puede desplazarlos hacia la estrella y perturbar los planetas interiores. Solo ~<span class=\"num\">6 %</span> de los sistemas conservan planetas terrestres sin destrucción por migración.",
+          html: "El polvo sedimenta en el plano ecuatorial. Las fuerzas eléctricas aglutinan granos hasta planetesimales de unos <span class=\"num\">10 km</span> en unos <span class=\"num\">100 000 años</span>. Simulaciones de <span class=\"person\">George Wetherill</span> muestran que de unos quinientos planetesimales entre 0,4 y 2 AU quedan pocos protoplanetas en decenas de millones de años.",
+        },
+        {
+          type: 'paragraph',
+          html: "Los planetas jovianos se forman más allá de la línea de hielo. La <span class=\"term\">migración joviana</span> (desplazamiento de gigantes gaseosos hacia la estrella) puede perturbar los planetas interiores. Solo alrededor del <span class=\"num\">6 %</span> de los sistemas conservan planetas terrestres sin destrucción por migración.",
         },
         {
           type: 'concept-grid',
@@ -213,7 +229,11 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "La temperatura del disco determina la composición química de cada planeta. La Tierra se formó seca en la zona caliente interior.",
+          html: "La temperatura del disco determina la composición química de cada planeta. La <span class=\"key-term\">Tierra se formó seca</span> en la zona caliente interior.",
+        },
+        {
+          type: 'paragraph',
+          html: "Una vez formado un planeta rocoso, importa saber qué lo hace estable y distinto durante miles de millones de años.",
         },
       ],
     },
@@ -225,15 +245,19 @@ export const intelligentLifeUniverse: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "La vida está ligada a planetas terrestres. La Tierra ofrece tres propiedades esenciales que Ulmschneider considera requisitos para la inteligencia tecnológica: <span class=\"term\">tectónica de placas</span> que creó continentes y la división tierra-mar, una Luna estabilizadora del eje de rotación, y condiciones primitivas que permitieron el origen de la vida.",
+          html: "¿Qué hace de la Tierra un escenario plausible para la inteligencia tecnológica? La vida está ligada a planetas terrestres. Ulmschneider destaca tres propiedades esenciales. La <span class=\"term\">tectónica de placas</span> (convección del manto que crea continentes) divide tierra y mar. Una Luna estabiliza el eje de rotación. Las condiciones primitivas permitieron el origen de la vida.",
         },
         {
           type: 'paragraph',
-          html: "La acumulación por planetesimales terminó ~<span class=\"num\">30–40 Ma</span> después del inicio del sistema solar (<span class=\"num\">4,567 Ga</span>). El bombardeo intenso duró ~600 Ma más. Impactos del tamaño de Ceres o Marte vaporizaban océanos enteros. La Luna se formó por impacto de un planetesimal del tamaño de Marte hace <span class=\"num\">4,527 Ga</span>. Las mareas frenaron la rotación de ~5 h a 24 h y alejaron la Luna hasta ~63 radios terrestres.",
+          html: "La acumulación por planetesimales terminó unos <span class=\"num\">30–40 Ma</span> después del inicio del sistema solar (<span class=\"num\">4.567 Ga</span>). El bombardeo intenso duró unos <span class=\"num\">600 Ma</span> más. Impactos del tamaño de Ceres o Marte vaporizaban océanos enteros.",
         },
         {
           type: 'paragraph',
-          html: "La sismología revela núcleo de hierro-níquel, manto silicatado y corteza. El campo magnético y la expansión del suelo oceánico confirman la tectónica de placas. La vida dominó los océanos durante ~3,5 Ga antes de conquistar la tierra firme hace ~<span class=\"num\">470 Ma</span>. Ese mutualismo entre plantas y animales hizo posible la bipedestación y las manos libres. Marte y Venus probablemente carecen de tectónica activa comparable.",
+          html: "La Luna se formó por impacto de un planetesimal del tamaño de Marte hace <span class=\"num\">4.527 Ga</span>. Las mareas frenaron la rotación de unas cinco horas a veinticuatro horas y alejaron la Luna hasta unos sesenta y tres radios terrestres. La sismología revela núcleo de hierro-níquel, manto silicatado y corteza.",
+        },
+        {
+          type: 'paragraph',
+          html: "El campo magnético y la expansión del suelo oceánico confirman la tectónica activa. La vida dominó los océanos durante unos <span class=\"num\">3,5 Ga</span> antes de conquistar la tierra firme hace unos <span class=\"num\">470 Ma</span>. Ese mutualismo entre plantas y animales hizo posible la bipedestación y las manos libres. Marte y Venus probablemente carecen de tectónica activa comparable.",
         },
         {
           type: 'timeline',
@@ -262,7 +286,11 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "Sin tierra firme y tectónica activa, la inteligencia capaz de comunicación interestelar sería improbable, pues requiere manos libres y bipedestación en tierra.",
+          html: "Sin tierra firme y tectónica activa, la <span class=\"key-term\">inteligencia comunicante</span> sería improbable, pues requiere manos libres y bipedestación en tierra.",
+        },
+        {
+          type: 'paragraph',
+          html: "Si la Tierra cumple requisitos tan exigentes, conviene preguntar cuántos mundos parecidos existen en otras estrellas.",
         },
       ],
     },
@@ -274,15 +302,15 @@ export const intelligentLifeUniverse: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Hasta <span class=\"num\">1995</span> los exoplanetas eran teóricos. En octubre de <span class=\"num\">2005</span> ya se habían detectado más de <span class=\"num\">165</span> alrededor de estrellas de secuencia principal, casi todos tipo Júpiter e inhóspitos para la vida.",
+          html: "¿Cuántos planetas orbitan otras estrellas? Antes de <span class=\"num\">1995</span> los exoplanetas eran solo teóricos. En octubre de <span class=\"num\">2005</span> ya se habían detectado más de <span class=\"num\">165</span>. Orbitaban estrellas de secuencia principal. Casi todos eran tipo Júpiter e inhóspitos para la vida.",
         },
         {
           type: 'paragraph',
-          html: "Un tercio de los exoplanetas detectados supera 2 M<sub>Júpiter</sub>. El más pequeño (Gliese 876 d) tiene 7,3 M<sub>Tierra</sub>. Curiosamente, la mitad orbita dentro de <span class=\"num\">0,5 AU</span>, mucho más cerca que Mercurio. Esto contradice la teoría clásica de formación joviana más allá de 3 AU. Ulmschneider interpreta los «Júpiteres calientes» como evidencia de migración y sesgo observacional, no como la distribución real de planetas en la galaxia.",
+          html: "Un tercio de los exoplanetas detectados supera dos masas jovianas. El más pequeño (Gliese 876 d) tiene 7,3 masas terrestres. Curiosamente, la mitad orbita dentro de <span class=\"num\">0,5 AU</span>, mucho más cerca que Mercurio. Esto contradice la teoría clásica de formación joviana más allá de 3 AU.",
         },
         {
           type: 'paragraph',
-          html: "Los métodos incluyen <span class=\"term\">velocidad radial</span> (variaciones Doppler), tránsitos, microlentes gravitacionales e imagen directa futura (coronografía, nulling). Misiones como Gaia, SIM, Kepler, Darwin y TPF permitirán detectar planetas terrestres y analizar atmósferas buscando H₂O y O₃ como biosignaturas.",
+          html: "Ulmschneider interpreta los «Júpiteres calientes» como evidencia de migración y sesgo observacional, no como la distribución real de planetas en la galaxia. Los métodos incluyen <span class=\"term\">velocidad radial</span> (variaciones Doppler en la luz estelar) y tránsitos (atenuación periódica del brillo al pasar el planeta). Misiones como Gaia, Kepler, Darwin y TPF apuntan a planetas terrestres y atmósferas con agua u ozono.",
         },
         {
           type: 'list',
@@ -295,7 +323,11 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "Los «Júpiteres calientes» reflejan migración y sesgo observacional, no la distribución real de planetas en la galaxia.",
+          html: "Los «Júpiteres calientes» reflejan <span class=\"key-term\">migración y sesgo observacional</span>, no la distribución real de planetas en la galaxia.",
+        },
+        {
+          type: 'paragraph',
+          html: "Detectar un planeta es solo el primer paso: falta saber si su tamaño, atmósfera y órbita permiten vida durante eones.",
         },
       ],
     },
@@ -307,15 +339,15 @@ export const intelligentLifeUniverse: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Buscar vida inteligente implica buscar planetas tipo Tierra. La mayoría de organismos son vulnerables. Los extremófilos terrestres se adaptaron por selección darwiniana, pero no contradicen que la vida florece en condiciones benignas.",
+          html: "¿Qué hace habitable un planeta, más allá de existir? Buscar vida inteligente implica buscar planetas tipo Tierra. La mayoría de organismos son vulnerables. Los extremófilos terrestres se adaptaron por selección darwiniana, pero no contradicen que la vida florece en condiciones benignas.",
         },
         {
           type: 'paragraph',
-          html: "El <span class=\"term\">carbono</span> es excepcional: más de 10 millones de compuestos orgánicos frente a ~200 000 inorgánicos. La <span class=\"term\">zona habitable</span> solar se estima entre <span class=\"num\">0,7 y 1,4 AU</span>, pero la <span class=\"term\">zona habitables continuamente habitable</span> (CHZ), considerando el aumento de luminosidad solar, inestabilidades atmosféricas y efectos de Júpiter sobre Marte, se estrecha a <span class=\"num\">0,95–1,01 AU</span>. Solo estrellas G de población I, sin bloqueo mareal, cumplen los requisitos.",
+          html: "El carbono es excepcional: más de diez millones de compuestos orgánicos frente a unos doscientos mil inorgánicos. La zona donde el agua puede ser líquida en el Sistema Solar se estima entre <span class=\"num\">0,7 y 1,4 AU</span>. La <span class=\"term\">zona habitables continuamente habitables</span> (CHZ: órbita estable para evolución durante miles de millones de años) es mucho más estrecha. Ulmschneider la fija en <span class=\"num\">0,95–1,01 AU</span> al considerar el aumento de luminosidad solar.",
         },
         {
           type: 'paragraph',
-          html: "El ciclo <span class=\"term\">carbonato-silicato</span> actúa como termostato geológico. Su fallo produce invernadero runaway (Venus) o <span class=\"term\">glaciation irreversible</span> (Marte). Ulmschneider estima N_HP ≈ <span class=\"num\">4×10⁶</span> planetas habitables en la Vía Láctea (1 cada 40 000 estrellas) y ~<span class=\"num\">4×10¹⁷</span> en el universo observable.",
+          html: "Solo estrellas G de población I, sin bloqueo mareal, cumplen los requisitos. El ciclo <span class=\"term\">carbonato-silicato</span> (intercambio geológico que regula el CO₂ atmosférico) actúa como termostato planetario. Su fallo produce invernadero descontrolado en Venus o congelación irreversible en Marte. Ulmschneider estima unos <span class=\"num\">4×10⁶</span> planetas habitables en la Vía Láctea y unos <span class=\"num\">4×10¹⁷</span> en el universo observable.",
         },
         {
           type: 'concept-grid',
@@ -344,7 +376,11 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "Un planeta apto para inteligencia necesita masa, atmósfera, agua líquida, estrella G estable y permanecer en la CHZ durante miles de millones de años.",
+          html: "Un planeta apto para inteligencia necesita masa, atmósfera, agua líquida, estrella G estable y permanecer en la <span class=\"key-term\">CHZ</span> durante miles de millones de años.",
+        },
+        {
+          type: 'paragraph',
+          html: "Tener el escenario correcto no basta: hay que explicar cómo la química abiótica dio el salto a organismos vivos.",
         },
       ],
     },
@@ -356,15 +392,19 @@ export const intelligentLifeUniverse: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "¿Qué es la vida? Tras secuenciar organismos primitivos, incluidas micoplasmas con ~300 genes, la definición precisa está al alcance. Fenomenológicamente: metabolismo, crecimiento, uso de energía, individualidad, reproducción y mutación en ambiente abiótico. Los virus no califican.",
+          html: "¿Qué es la vida y cómo pudo surgir de la química? Al secuenciar organismos primitivos, incluidas micoplasmas con unos trescientos genes, la definición precisa está al alcance. Fenomenológicamente implica metabolismo y crecimiento. También uso de energía, individualidad, reproducción y mutación en ambiente abiótico. Los virus no califican.",
         },
         {
           type: 'paragraph',
-          html: "La bioquímica terrestre se basa en cuatro clases de compuestos. Son las <span class=\"term\">proteínas</span> (20 aminoácidos L-quirales), los <span class=\"term\">carbohidratos</span>, los <span class=\"term\">lípidos</span> y los <span class=\"term\">ácidos nucleicos</span>. El código genético traduce tripletes en aminoácidos. El ATP es la moneda energética. El experimento <span class=\"person\">Urey-Miller</span> (<span class=\"num\">1953</span>) sintetizó aminoácidos abióticos en atmósfera reductora simulada.",
+          html: "La bioquímica terrestre se basa en cuatro clases de compuestos: proteínas, carbohidratos, lípidos y ácidos nucleicos. El código genético traduce tripletes en aminoácidos. El ATP es la moneda energética. El experimento <span class=\"person\">Urey-Miller</span> (<span class=\"num\">1953</span>) sintetizó aminoácidos abióticos en atmósfera reductora simulada.",
         },
         {
           type: 'paragraph',
-          html: "Las teorías del origen incluyen el mundo del ARN, la arcilla autorreplicante de <span class=\"person\">Cairns-Smith</span>, el <span class=\"term\">mundo hierro-azufre</span> de Wächtershäuser en chimeneas hidrotermales y las microcavernas de «fumadores negros» de <span class=\"person\">Martin & Russell</span>. La búsqueda del LUCA sugiere un mínimo de ~256–300 genes. <span class=\"person\">Christian de Duve</span> argumenta que el origen vino por pasos pequeños con probabilidad plausible. Ulmschneider concluye que no sabemos el detalle, pero debe haber una ruta química plausible.",
+          html: "Las teorías del origen incluyen el <span class=\"term\">mundo del ARN</span> (ARN que copia y cataliza reacciones antes del ADN). También la arcilla autorreplicante de <span class=\"person\">Graham Cairns-Smith</span>. También el mundo hierro-azufre de Wächtershäuser en chimeneas hidrotermales y las microcavernas de «fumadores negros» de <span class=\"person\">Martin & Russell</span>.",
+        },
+        {
+          type: 'paragraph',
+          html: "La búsqueda del ancestro común de toda la vida sugiere un mínimo de unos <span class=\"num\">256–300</span> genes. <span class=\"person\">Christian de Duve</span> argumenta que el origen vino por pasos pequeños con probabilidad plausible. Ulmschneider concluye que no sabemos el detalle, pero debe haber una ruta química plausible.",
         },
         {
           type: 'concept-grid',
@@ -393,7 +433,11 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "Una vez iniciada, la competencia darwiniana seleccionó los organismos más eficientes. El origen exacto sigue abierto, pero no su plausibilidad general.",
+          html: "Una vez iniciada, la competencia darwiniana seleccionó los organismos más eficientes. El <span class=\"key-term\">origen exacto</span> sigue abierto, pero no su plausibilidad general.",
+        },
+        {
+          type: 'paragraph',
+          html: "Si la vida puede empezar, la pregunta siguiente es cuánto tarda en producir cerebros capaces de tecnología.",
         },
       ],
     },
@@ -405,15 +449,19 @@ export const intelligentLifeUniverse: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "¿La vida extraterrestre evolucionaría hacia la inteligencia? En la Tierra, las primeras células aparecieron en pocos cientos de millones de años, pero los eucariotas y la multicelularidad tardaron ~3 Ga más, y la inteligencia humana otros ~800 Ma. Los dos motores del cambio son la mutación (azar) y la selección natural (direccional).",
+          html: "¿La vida extraterrestre evolucionaría hacia la inteligencia? En la Tierra, las primeras células aparecieron en pocos cientos de millones de años. Los eucariotas y la multicelularidad tardaron unos <span class=\"num\">3 Ga</span> más. La inteligencia humana otros unos <span class=\"num\">800 Ma</span>. Los dos motores del cambio son la mutación (azar) y la selección natural (direccional).",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Darwin</span> argumentó que mutaciones aleatorias del ADN producen variantes y la selección favorece las más eficientes. Ulmschneider sostiene que la <span class=\"term\">convergencia evolutiva</span> demuestra que la selección también gobierna la evolución a largo plazo. La inteligencia comparable en cuervos y monos es un ejemplo de ello.",
+          html: "<span class=\"person\">Charles Darwin</span> argumentó que mutaciones aleatorias del ADN producen variantes y la selección favorece las más eficientes. Ulmschneider sostiene que la <span class=\"term\">convergencia evolutiva</span> (aparición independiente de rasgos similares bajo presiones parecidas) demuestra que la selección también gobierna la evolución a largo plazo. La inteligencia comparable en cuervos y monos es un ejemplo.",
         },
         {
           type: 'paragraph',
-          html: "Entre los hitos figuran la endosimbiosis hacia eucariotas y el oxígeno como catástrofe ambiental (~<span class=\"num\">2,4 Ga</span>). También la multicelularidad y los genes <span class=\"term\">HOX</span> (~630–542 Ma), la conquista de la tierra por plantas (~<span class=\"num\">470 Ma</span>) y animales, y el evento K/T (<span class=\"num\">65 Ma</span>). Este último extinguió dinosaurios no aviares y abrió camino a mamíferos. La inteligencia humana requiere visión estereoscópica, bipedestación con manos libres, vida social, lenguaje y cultura de herramientas. El volumen cerebral se triplicó desde Australopithecus.",
+          html: "Entre los hitos figuran la endosimbiosis hacia eucariotas y el oxígeno como catástrofe ambiental (~<span class=\"num\">2,4 Ga</span>). También la multicelularidad y los genes reguladores del desarrollo (~630–542 Ma). Más tarde, plantas y animales conquistaron la tierra (~<span class=\"num\">470 Ma</span>). El evento K/T (<span class=\"num\">65 Ma</span>) extinguió dinosaurios no aviares y abrió camino a mamíferos.",
+        },
+        {
+          type: 'paragraph',
+          html: "La inteligencia humana requiere visión estereoscópica, bipedestación con manos libres, vida social, lenguaje y cultura de herramientas. El volumen cerebral se triplicó desde Australopithecus.",
         },
         {
           type: 'timeline',
@@ -446,7 +494,11 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "Acumular información, de genes a cultura, es la estrategia evolutiva ganadora. Las mismas leyes de la naturaleza deberían producir inteligencia en planetas similares.",
+          html: "Acumular información, de genes a cultura, es la estrategia evolutiva ganadora. Las mismas leyes de la naturaleza deberían producir <span class=\"key-term\">inteligencia</span> en planetas similares.",
+        },
+        {
+          type: 'paragraph',
+          html: "Si la evolución puede crear mentes, el siguiente paso es buscar señales de vida más simple en el Sistema Solar y más allá.",
         },
       ],
     },
@@ -458,15 +510,19 @@ export const intelligentLifeUniverse: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "La investigación combina dos vías: la búsqueda directa en el Sistema Solar y en exoplanetas, o la inferencia de probabilidades a partir del origen terrestre. Hasta ahora no hay detección confirmada, pero las técnicas mejoran rápidamente.",
+          html: "¿Cómo buscamos vida fuera de la Tierra sin ir allí? La investigación combina dos vías: la búsqueda directa en el Sistema Solar y en exoplanetas, o la inferencia de probabilidades a partir del origen terrestre. Hasta ahora no hay detección confirmada, pero las técnicas mejoran rápidamente.",
         },
         {
           type: 'paragraph',
-          html: "En el Sistema Solar, <span class=\"term\">Europa</span> (Júpiter) tiene océano subsuperficial bajo hielo donde la vida primitiva es posible. <span class=\"term\">Marte</span> tuvo ríos, deltas y océano norteño con atmósfera densa de CO₂ durante cientos de millones de años. Luego sufrió glaciation irreversible al cesar la tectónica (~2 Ga). Las misiones Viking (<span class=\"num\">1976</span>) no detectaron vida. Los meteoritos marcianos (ALH84001) suscitaron debate sobre fósiles microscópicos.",
+          html: "En el Sistema Solar, el satélite <span class=\"term\">Europa</span> (luna helada de Júpiter con océano subsuperficial) ofrece un posible hábitat primitivo. <span class=\"term\">Marte</span> (el planeta rojo vecino) tuvo ríos, deltas y un océano norteño con atmósfera densa de CO₂ durante cientos de millones de años. Luego sufrió congelación irreversible al cesar la tectónica (~<span class=\"num\">2 Ga</span>).",
         },
         {
           type: 'paragraph',
-          html: "Fuera del Sistema Solar conviene detectar H₂O y O₃ como <span class=\"term\">biosignaturas</span>. Son compuestos fuera del equilibrio termodinámico. <span class=\"person\">Lovelock</span> (<span class=\"num\">1965</span>) señaló que la vida produce compuestos inesperados. El metano terrestre es 10¹⁴ veces más abundante de lo esperado. Los <span class=\"term\">OVNI</span> generaron miles de avistamientos desde <span class=\"num\">1947</span>, pero el informe Condon (<span class=\"num\">1969</span>) concluyó que 21 años de estudio no añadieron conocimiento científico.",
+          html: "Las misiones Viking (<span class=\"num\">1976</span>) no detectaron vida en Marte. Los meteoritos marcianos (ALH84001) suscitaron debate sobre fósiles microscópicos. Fuera del Sistema Solar conviene detectar agua y ozono como <span class=\"term\">biosignaturas</span> (compuestos atmosféricos fuera del equilibrio termodinámico que sugieren vida).",
+        },
+        {
+          type: 'paragraph',
+          html: "<span class=\"person\">James Lovelock</span> (<span class=\"num\">1965</span>) señaló que la vida produce compuestos inesperados. El metano terrestre es diez elevado a catorce veces más abundante de lo esperado. Miles de avistamientos de objetos voladores no identificados se reportaron desde <span class=\"num\">1947</span>. El informe Condon (<span class=\"num\">1969</span>) concluyó que veintiún años de estudio no añadieron conocimiento científico.",
         },
         {
           type: 'list',
@@ -478,7 +534,11 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "La detección de O₃ y H₂O en exoplanetas terrestres será el método más prometedor para detectar vida. El SETI por radio se trata en el capítulo 10.",
+          html: "La detección de ozono y agua en exoplanetas terrestres será el método más prometedor para detectar <span class=\"key-term\">vida</span>. El SETI por radio se trata en el capítulo 10.",
+        },
+        {
+          type: 'paragraph',
+          html: "Mientras buscamos señales biológicas, conviene preguntar qué futuro le espera a la única civilización tecnológica que conocemos.",
         },
       ],
     },
@@ -490,15 +550,19 @@ export const intelligentLifeUniverse: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Reflexionar sobre el futuro humano ilumina la naturaleza de civilizaciones extraterrestres avanzadas. Ulmschneider describe tres desarrollos paralelos: conquista del espacio, dominio de la biología e inteligencia artificial.",
+          html: "¿Qué nos dice el futuro humano sobre civilizaciones extraterrestres? Reflexionar sobre nuestro devenir ilumina la naturaleza de civilizaciones avanzadas. Ulmschneider describe tres desarrollos paralelos: conquista del espacio, dominio de la biología e inteligencia artificial.",
         },
         {
           type: 'paragraph',
-          html: "La colonización del Sistema Solar incluye estaciones espaciales, bases lunares y marcianas, y minería de asteroides. Los hábitats de <span class=\"person\">O'Neill</span> podrían albergar hasta 20 millones de personas autosuficientes. El viaje interestelar es lento. Un viaje a α Centauri a ~100 km/s requeriría ~12 000 años.",
+          html: "La colonización del Sistema Solar incluye estaciones espaciales, bases lunares y marcianas, y minería de asteroides. Los hábitats cilíndricos de <span class=\"person\">Gerard O'Neill</span> podrían albergar hasta veinte millones de personas autosuficientes. El viaje interestelar es lento. Un viaje a α Centauri a unos cien km/s requeriría unos doce mil años.",
         },
         {
           type: 'paragraph',
-          html: "El dominio biológico avanza con la secuenciación del genoma humano (<span class=\"num\">2001–2003</span>, ~30 000 genes) y la creación de vida mínima en laboratorio. Los peligros externos (supernovas, rayos gamma, impactos) son poco probables como extinción total. Los internos (daño ambiental, invenciones incontrolables, guerra y terrorismo) son los formidables. Ulmschneider propone distribuir la humanidad en colonias espaciales, controlar armas de destrucción masiva y educar la responsabilidad social.",
+          html: "El dominio biológico avanza con la secuenciación del genoma humano (<span class=\"num\">2001–2003</span>, unos treinta mil genes) y la creación de vida mínima en laboratorio. Los peligros externos (supernovas, rayos gamma, impactos) son poco probables como extinción total.",
+        },
+        {
+          type: 'paragraph',
+          html: "Los peligros internos son los formidables: daño ambiental, invenciones incontrolables, guerra y terrorismo. Ulmschneider propone distribuir la humanidad en colonias espaciales, controlar armas de destrucción masiva y educar la responsabilidad social. El factor <span class=\"term\">L de Drake</span> (duración media de una civilización tecnológica comunicante) es el más incierto de la ecuación de Drake.",
         },
         {
           type: 'concept-grid',
@@ -527,7 +591,11 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "El crecimiento incesante de conocimiento y poder aumenta al mismo tiempo la capacidad de autodestrucción. L es el factor más incierto de la ecuación de Drake.",
+          html: "El crecimiento incesante de conocimiento y poder aumenta al mismo tiempo la capacidad de <span class=\"key-term\">autodestrucción</span>. L es el factor más incierto de la ecuación de Drake.",
+        },
+        {
+          type: 'paragraph',
+          html: "Si las civilizaciones suelen durar poco, eso explica por qué aún no hemos oído a ninguna, a pesar de los millones de planetas habitables.",
         },
       ],
     },
@@ -539,19 +607,27 @@ export const intelligentLifeUniverse: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Después de construir el marco (planetas habitables, origen y evolución de la vida, futuro humano), Ulmschneider aborda la pregunta central: ¿existen civilizaciones inteligentes y por qué no las vemos?",
+          html: "¿Existen civilizaciones inteligentes y por qué no las vemos? Ulmschneider ya construyó el marco de planetas habitables, origen y evolución de la vida. Ahora aborda la pregunta central. El argumento a favor es que la evolución química hacia la vida parece plausible. La convergencia evolutiva sugiere que acumular información es estrategia universal.",
         },
         {
           type: 'paragraph',
-          html: "El argumento a favor es que la evolución química hacia la vida parece plausible y la convergencia evolutiva sugiere que acumular información es estrategia universal. Su estimación da ~<span class=\"num\">4000</span> civilizaciones tecnológicas existentes en la galaxia, con distancia media ~<span class=\"num\">1700 Ly</span>.",
+          html: "Su estimación da unos <span class=\"num\">4000</span> civilizaciones tecnológicas existentes en la galaxia, con distancia media de unos <span class=\"num\">1700 años luz</span>. Sobre la naturaleza de los extraterrestres, una civilización mil millones de años más avanzada difiere de nosotros tanto como nosotros de un organismo unicelular.",
         },
         {
           type: 'paragraph',
-          html: "Sobre la naturaleza de los extraterrestres, una civilización mil millones de años más avanzada difiere de nosotros tanto como nosotros de un organismo unicelular. En etapa comparable a la nuestra podrían parecerse a humanos. Millones de años después, probablemente serían androides no orgánicos. <span class=\"term\">SETI</span> abarca desde Ozma (<span class=\"person\">Frank Drake</span>, <span class=\"num\">1960</span>) hasta META, BETA y SERENDIP. La banda <span class=\"term\">water hole</span> (1–20 GHz) tiene mínimo ruido de fondo. Hasta <span class=\"num\">2005</span>, el resultado fue nulo. Los receptores actuales detectarían una emisora de 3 kW a 100 Ly, no a 1700 Ly.",
+          html: "En etapa comparable a la nuestra podrían parecerse a humanos. Millones de años después, probablemente serían androides no orgánicos. La búsqueda por radio llamada <span class=\"term\">SETI</span> (Search for Extraterrestrial Intelligence) abarca desde Ozma (<span class=\"num\">1960</span>) hasta META, BETA y SERENDIP. La inició el radioastrónomo <span class=\"person\">Frank Drake</span>.",
         },
         {
           type: 'paragraph',
-          html: "La <span class=\"term\">paradoja de Fermi</span> (<span class=\"person\">Enrico Fermi</span>, <span class=\"num\">1950</span>) pregunta: si hay millones de civilizaciones, ¿dónde están? Las respuestas posibles son cuatro: no existen o ya perecieron, la visita es técnicamente imposible, están cerca pero son indetectables, o no les interesamos (<span class=\"term\">hipótesis del zoo</span>). Ulmschneider favorece que la mayoría se autodestruyeron y que las supervivientes evitan contacto o usan medios que no detectamos.",
+          html: "La banda de microondas de uno a veinte GHz, llamada «water hole», tiene mínimo ruido de fondo. Hasta <span class=\"num\">2005</span>, el resultado fue nulo. Los receptores actuales detectarían una emisora de 3 kW a 100 años luz, no a 1700.",
+        },
+        {
+          type: 'paragraph',
+          html: "La <span class=\"term\">paradoja de Fermi</span> (el enigma de por qué no vemos civilizaciones pese a los millones de planetas habitables) admite cuatro respuestas. No existen o ya perecieron. La visita es técnicamente imposible. Están cerca pero son indetectables. O no les interesamos, como en la <span class=\"term\">hipótesis del zoo</span> (civilizaciones avanzadas que observan sin intervenir). El físico <span class=\"person\">Enrico Fermi</span> la formuló en <span class=\"num\">1950</span>.",
+        },
+        {
+          type: 'paragraph',
+          html: "Ulmschneider favorece que la mayoría se autodestruyeron y que las supervivientes evitan contacto o usan medios que no detectamos.",
         },
         {
           type: 'quote',
@@ -560,14 +636,14 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "La vida inteligente probablemente es común, pero la comunicación detectable es rara porque L es corto y las distancias galácticas son enormes.",
+          html: "La vida inteligente probablemente es común, pero la comunicación detectable es rara porque <span class=\"key-term\">L es corto</span> y las distancias galácticas son enormes.",
         },
       ],
     },
   ],
   keyConcepts: [
   {
-    "title": "Zona habitables continuamente habitable (CHZ)",
+    "title": "Zona habitables continuamente habitables (CHZ)",
     "description": "Rango orbital (~0,95–1,01 AU) donde un planeta mantiene condiciones para evolución ininterrumpida durante miles de millones de años."
   },
   {
@@ -694,8 +770,8 @@ export const intelligentLifeUniverse: BookSummary = {
   closing: {
     title: "La idea central",
     lines: [
-  "La vida inteligente no es un accidente cósmico aislado: requiere estrellas que forjen carbono, planetas estables en la CHZ y millones de años de evolución en tierra firme.",
-  "También exige química orgánica, selección darwiniana y manos libres para manipular el entorno.",
+  "La vida inteligente no es un accidente cósmico aislado.",
+  "Requiere estrellas que forjen carbono, planetas estables en la zona habitable y millones de años de evolución en tierra firme.",
   "La paradoja de Fermi no prueba nuestra singularidad.",
   "Prueba que el conocimiento sin responsabilidad es letal.",
   "Buscar por radio, espectroscopía o geología planetaria sigue siendo la única forma de saberlo."

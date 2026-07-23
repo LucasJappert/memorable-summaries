@@ -1,0 +1,433 @@
+De fósiles a la astrobiología: Registros de vida en la Tierra y búsqueda de biosignaturas extraterrestres, de Joseph Seckbach y Maud M. Walsh (eds.).
+
+La idea central
+
+La astrobiología no empieza en el telescopio: empieza en el registro fósil terrestre.
+
+Cada capítulo aporta un tipo de biosignatura: morfológica, química, sedimentaria o isotópica.
+
+Estromatolitos, seeps de metano, endolitos y ventanas martianas son piezas de un mismo mapa.
+
+ALH84001 y NanoSIMS recuerdan que la evidencia rara vez es inequívoca al primer aviso.
+
+Buscar vida más allá de la Tierra es, ante todo, aprender a leer la vida que ya dejó huella aquí.
+
+Prefacio. Registros terrestres, búsqueda extraterrestre
+
+¿Cómo buscar vida en otros planetas sin un manual confiable? Los editores Joseph Seckbach y Maud M. Walsh presentan el volumen 12 de la serie COLE. Es un compendio sobre el registro de vida en la Tierra como guía para investigar biosignaturas (evidencias de vida pasada o presente) en el cosmos.
+
+La astrobiología (ciencia que estudia el origen y la distribución de la vida) integra astronomía, química y ciencias planetarias. Este libro reúne a 30 contribuyentes de 16 países. Cubre geología, biología y ciencias espaciales en tres bloques. Cierra con capítulos sobre Marte y perspectivas generales.
+
+Idea clave: El registro fósil terrestre calibra qué buscar, dónde buscarlo y con qué cautela interpretarlo fuera de la Tierra.
+
+Antes de las técnicas y los yacimientos, el volumen abre con una advertencia sobre el riesgo de buscar lo que aún no está probado.
+
+Capítulo uno. Introducción: un mapa hacia la fata morgana
+
+¿Puede una ciencia prosperar sin objeto demostrable? El geólogo Wladyslaw Altermann advierte en la introducción que la astrobiología puede ser ciencia sin objeto sin vida probada fuera de la Tierra. Eso sería una posible fata morgana (espejismo que parece real pero se desvanece al acercarse).
+
+Reconoce, no obstante, el enorme aporte de la disciplina. Ha renovado la geología precámbrica, la paleobiología y la microbiología. También ha impulsado técnicas analíticas nuevas. Critica interpretaciones espectaculares, como fósiles marcianos o los canales que Percival Lowell creyó ver en Marte. La presión social por resultados positivos distorsiona la objetividad científica.
+
+Define astrobiología según la NASA como estudio del origen, evolución, distribución y futuro de la vida. Propone un enfoque humilde: el registro fósil debe ser la referencia confirmada antes de extrapolar a otros planetas.
+
+Cita: Si no hay vida allá afuera o es demasiado remota para probarse, la astrobiología puede ser un camino costoso hacia una fata morgana. — Wladyslaw Altermann
+
+Idea clave: La Tierra es el único laboratorio confirmado. Extrapolar exige rigor proporcional a la distancia en tiempo y espacio.
+
+Si la Tierra es la referencia, hace falta saber qué instrumentos permiten leer señales químicas diminutas en roca antigua.
+
+Capítulo dos. NanoSIMS y materia orgánica en muestras terrestres y extraterrestres
+
+¿Cómo distinguir restos de vida de materia orgánica que nunca estuvo viva? Dorothy Z. Oehler y coautores presentan NanoSIMS (espectrometría de iones secundarios a nanoescala). Es una herramienta que mapea carbono, nitrógeno y azufre en estructuras microscópicas.
+
+La resolución es de ~0,05 µm. Supera entre diez y cincuenta veces la de SIMS convencional. Permite comparar firmas químicas con microfósiles reconocibles en la Formación Bitter Springs (~0,85 Ga). Allí la biogenicidad no se discute.
+
+El estudio establece firmas de referencia para evaluar materiales menos claros del Arcaico temprano. También sirve para muestras extraterrestres como el meteorito marciano ALH84001.
+
+Idea clave: NanoSIMS une morfología microscópica e isotopía elemental a escala submicrométrica: una nueva ventana para biosignaturas químicas.
+
+Pero leer bien la química no basta si microbios modernos han invadido rocas que parecen arcaicas.
+
+Capítulo tres. Barberton: desenredar el registro fósil microbiano
+
+¿Cómo saber si un microfósil arcaico no fue colonizado mucho después? Maud M. Walsh y Frances Westall advierten sobre falsas señales en el Cinturón Greenstone de Barberton (complejo rocoso de Sudáfrica con rocas de hasta ~3.500 Ma).
+
+El capítulo documenta dos casos concretos. Hongos colonizaron superficies internas de roca tras la litificación. Bacterias modernas precipitaron óxidos de hierro y manganeso sobre material arcaico removilizado. Las formaciones Hooggenoeg y Kromberg del Grupo Onverwacht conservan texturas primarias. No están inmunes a sobreimpresión biológica tardía.
+
+Con biomarcadores químicos cada vez más sensibles, discriminar actividad sindeposicional de procesos posteriores es crítico para astrobiología.
+
+Idea clave: Un microfósil arcaico exige demostrar que la señal es contemporánea al depósito, no un invasor post-Arcaico.
+
+Barberton enseña cautela; otros yacimientos ofrecen las mejores ventanas al origen de la vida en la Tierra y en Marte.
+
+Capítulo cuatro. Ventanas al origen de la vida en la Tierra y Marte
+
+¿Dónde conviene buscar las señales más antiguas de vida? David Wacey y coautores revisan indicios biogénicos putativos en rocas de más de ~3 Ga. Estudian Groenlandia (Isua, Akilia), Pilbara (Australia) y Barberton. Son las tres ventanas preservacionales principales del registro temprano.
+
+Solo Pilbara y Barberton conservan pilas estratigráficas arcaicas intactas con bajo metamorfismo. Isua y rocas más antiguas (~3,85 Ga) están más alteradas. Los esfuerzos se centran en cherts, bandas ferríferas y rocas hidrotermales. También en rocas volcánicas recientemente estudiadas.
+
+Ante cada nuevo reporte cabe preguntarse si la estructura es auténticamente biogénica. También si está en contexto estratigráfico coherente. El consenso sobre la vida más antigua sigue siendo elusivo.
+
+🪟. Ventana preservacional
+
+🔬. Ground truthing
+
+⚖️. Controversia
+
+Idea clave: Buscar vida antigua es elegir la roca correcta y someter cada señal a un estándar de prueba excepcionalmente alto.
+
+Una ventana válida depende también de cómo los minerales encierran o borran materia orgánica.
+
+Capítulo cinco. Modelos de fósiles silicatos de materiales orgánicos
+
+¿Qué le ocurre al carbono orgánico cuando el sílice lo entierra? Vera M. Kolb y Patrick J. Liesch estudian en laboratorio cómo compuestos orgánicos interactúan con silicatos básicos de sodio. Modelan la silicificación (incorporación del orgánico en sílice que puede fijar forma y química).
+
+Usan espectroscopía IR in situ, relevante para misiones a Marte sin retorno de muestras. Preguntan si el orgánico silicificado conserva bandas IR características. También si el orgánico modifica la morfología del gel de sílice aunque luego desaparezca.
+
+Los silicatos son abundantes en Tierra y Marte. Expandir el catálogo terrestre de biosignaturas minerales facilita distinguir procesos biológicos de abióticos en otros mundos.
+
+Idea clave: La silicificación puede preservar orgánico dentro del sílice o dejar solo huellas morfológicas inorgánicas del compuesto original.
+
+Otra vía de preservación excepcional trabaja con fósforo en lugar de sílice.
+
+Capítulo seis. Fosfatización de microfósiles e implicaciones astrobiológicas
+
+¿Cómo conservar microbios blandos durante miles de millones de años? Shuhai Xiao y James D. Schiffbauer analizan la fosfatización (mineralización en fosfato que puede fijar células en tres dimensiones). Es una vía tafonómica excepcional para organismos sin esqueleto.
+
+La biosfera Arcaico-Proterozoica (3,5–0,54 Ga) fue casi enteramente microbiana. Butterfield identifica seis estilos de preservación excepcional. La fosfatización tridimensional de la Formación Doushantuo (~635–551 Ma) es una de las más potentes.
+
+Hay que priorizar ventanas fosfáticas análogas si hubo organismos extraterrestres microscópicos.
+
+Idea clave: En mundos antiguos, la evidencia morfológica de vida será microscópica, blanda y excepcionalmente preservada, no fósil clásico.
+
+El registro indio muestra qué diversidad microbiana puede aparecer cuando el material rocoso es escaso.
+
+Capítulo siete. Fósiles unicelulares y multicelulares proterozoicos de la India
+
+¿Qué enseña un yacimiento remoto cuando cada roca extraterrestre será estadísticamente preciosa? Vinod Chandra Tewari describe microfósiles del Dolomita Buxa (Himalaya nororiental, India). Documenta 27 taxones de cianobacterias, acritarcos y microfósiles en forma de vaso en el Ediacárico.
+
+El registro precámbrico indio (cuenca Krol, formaciones Blaini/Tal) enlaza glaciaciones marinoanas y biota ediacárica. También marca la transición al Cámbrico. Los fósiles de Buxa ocurren entre la diamictita Blaini y los depósitos del Tal.
+
+Usa el registro terrestre como modelo para la escasez de roca disponible en otros planetas. Cada muestra marciana futura tendrá un peso desproporcionado.
+
+Idea clave: La diversidad microbiana ediacárica del Himalaya ilustra qué buscar cuando el material rocoso extraterrestre es limitado.
+
+Entre las biosignaturas sedimentarias más antiguas y abundantes están los estromatolitos.
+
+Capítulo ocho. Comunidades microbianas de estromatolitos
+
+¿Qué relación hay entre estromatolitos vivos y los más antiguos fósiles de la Tierra? Brendan P. Burns y coautores revisan los estromatolitos (estructuras laminadas formadas por comunidades microbianas y sedimentos). Son análogos vivos del registro fósil más antiguo y abundante (3,5 Ga–0,6 Ga).
+
+Los estromatolitos dominaron el registro macrofósil precámbrico. Su declive coincide con cambios químicos del océano y con pastoreo por metazoos. Persisten hoy en ambientes extremos como Shark Bay y Yellowstone, donde hay pocos consumidores.
+
+Perfilado lipídico y diversidad microbiana en mantos modernos vinculan firmas químicas estables con componentes bióticos. Eso une geología y microbiología.
+
+Idea clave: Estromatolito moderno, microfósil antiguo y biomarcador lipídico forman la tríada clásica de biosignatura sedimentaria.
+
+En fuentes termales, la vida puede dejar huella sin convertirse en microfósil carbonoso.
+
+Capítulo nueve. Biofábricas de sinter en fuentes termales (Uzon, Kamchatka)
+
+¿Puede haber biosignatura sin fósil visible? Jessica C. Goin y Sherry L. Cady estudian cómo biofilms microbianos moldean la biofábrica (textura sedimentaria moldeada por actividad biológica) del sinter en fuentes termales de la caldera Uzon (Kamchatka, Rusia).
+
+La mayoría de microbios en ecosistemas termales no se preservan como microfósiles carbonosos auténticos. Aun así influyen en la textura del sinter. Lo hacen mediante procesos biológicos, químicos y sedimentarios concurrentes.
+
+Reconocer esa influencia en depósitos hidrotermales terrestres, y potencialmente marcianos, requiere entender la interacción comunidad-mineral durante la acreción del sinter.
+
+Idea clave: Ausencia de microfósil carbonoso no descarta vida: la biofábrica sedimentaria puede ser la biosignatura.
+
+Los mantos microbianos también dejan marcas en arenas y limos, no solo en carbonatos laminados.
+
+Capítulo diez. Rasgos de mantos cianobacterianos en siliciclásticos
+
+¿Qué huellas dejan las cianobacterias en desiertos antiguos? Hubertus Porada y Patrick G. Eriksson comparan rasgos de mantos microbianos (capas delgadas de microbios que recubren sedimentos) en paleodesiertos del Grupo Waterberg (~2,0–1,8 Ga, cratón Kaapvaal) y planicies modernas.
+
+El registro muestra cianobacterias oxigénicas desde ~3,5 Ga. Eso sigue a eventos estabilizadores planetarios (~3.850 Ma). Los ambientes áridos extremos preservaron proxies de desecación, inundación flash y cicatrización de grietas en areniscas finas.
+
+Esos rasgos sedimentarios complementan el registro carbonático de estromatolitos. Amplían el catálogo de biosignaturas para Marte.
+
+Idea clave: Mats microbianos dejan huellas físicas en sedimentos clásticos, no solo en carbonatos laminados.
+
+Leer fósiles antiguos y buscar vida en Marte comparten el mismo problema: interpretar formas ambiguas bajo escrutinio extremo.
+
+Capítulo 11. Descifrar el origen de la vida y de los animales
+
+¿Por qué dos grandes misterios evolutivos se parecen tanto? Jonathan Antcliffe y Nicola McLoughlin proponen preguntas anidadas comunes al estudiar origen de la vida (Arcaico) y origen de los animales (biota Ediacara, ~580–543 Ma).
+
+Analogía con el poema Jabberwocky: estructuras precámbricas invitan interpretaciones plausibles pero no únicas. Estromatolitos arcaicos y Tribrachidium (organismo ediacárico de simetría radial triple) ilustran el desafío.
+
+Un paleontólogo precámbrico debe preguntarse qué evidencia es válida y qué estándar de prueba exige cada afirmación. Esas lecciones se transfieren directamente a Marte.
+
+Idea clave: Origen de la vida y origen de los animales comparten el mismo problema epistemológico: morfología ambigua bajo escrutinio extremo.
+
+Si la vida puede esconderse bajo tierra hoy, conviene estudiar quién habita el subsuelo terrestre.
+
+Capítulo 12. Microorganismos en el subsuelo antiguo — ¿y en el espacio?
+
+¿Dónde buscar vida hoy en planetas desérticos y radiados? Helga Stan-Lotter y coautores revisan la vida intraterrestre (microbios que habitan bajo la superficie) en granito, permafrost, cuevas y minas. El modelo importa para subsuelos marcianos y el océano subsuperficial de Europa.
+
+Las superficies de planetas sin atmósfera protectora, como Marte, están esterilizadas por rayos UV. El subsuelo promete refugio. Preguntas abiertas: ¿son los microbios tan antiguos como la roca? ¿Existen formas dormantes distintas de endosporas?
+
+Investigación aplicada en residuos radiactivos y acuíferos contaminados informa instrumentos y estrategias. Ayuda a buscar organics y vida en profundidad extraterrestre.
+
+Idea clave: Si hay vida en Marte hoy, lo más probable es intraterrestre, protegida del UV y de la desecación superficial.
+
+Los cráteres de impacto combinan calor, agua y roca antigua: otro escenario donde vida y preservación pueden coincidir.
+
+Capítulo 13. Vida microbiana antigua en estructuras de impacto
+
+¿Puede un impacto crear hábitat y archivo fósil a la vez? Tomas Hode y coautores estudian un caso terrestre de vida microbiana preservada en estructura de impacto. Vinculan Marte temprano, con agua líquida y bombardeo, con sistemas hidrotermales como blanco astrobiológico.
+
+Los depósitos hidrotermales preservan quimiofósiles, estructuras organosedimentarias, microfósiles silicificados y biomarcadores. Marte carece de tectónica de placas pero conserva estratos antiguos intactos. Eso es ventaja sobre la Tierra.
+
+Cuando una roca terrestre antigua bien preservada se analiza, los problemas metodológicos anticipan los de muestras marcianas futuras.
+
+Idea clave: Impacto e hidrotermalismo forman un sistema que puede generar, albergar y preservar biosignaturas en ambos planetas.
+
+Para datar cuándo surgieron los metabolismos microbianos, los genomas ofrecen un reloj complementario al fósil.
+
+Capítulo 14. Datación filogenómica y ancestria de metabolismos procariotas
+
+¿Cuándo aparecieron los grandes linajes microbianos si el fósil es ambiguo? Carrine E. Blank propone la datación filogenómica (estimar edades evolutivas combinando muchos genes y rasgos inferidos). Es un puente entre genomas completos y el registro geológico.
+
+El desafío astrobiológico central es comprender cómo los microorganismos coevolucionaron con la Tierra. Biomarcadores, isótopos y microfósiles arcaicos se interpretan con ambigüedad en hitos como el fraccionamiento de azufre a ~2,4 Ga o la oxigenación a ~2,32 Ga. Un solo gen como el ARNr 16S no basta: la transferencia lateral distorsiona árboles basados en un único marcador.
+
+La metodología combina supermatrices de genes conservados y reconstrucción ancestral de rasgos fisiológicos. En arqueas, clados con ancestros aeróbicos en hábitats demasiado calientes deben ser posteriores a la oxigenación (~2,32 Ga). En cambio, la metanogénesis y la hipertermofilia parecen más antiguas.
+
+Cada hipótesis debe contrastarse con isótopos, lípidos y microfósiles en intervalos geológicos definidos. Ese contraste es el ground truthing (calibración con evidencia independiente del registro rocoso).
+
+🧬. Supermatriz
+
+⏳. ASR
+
+🪨. Ground truthing
+
+Idea clave: La datación filogenómica acota cuándo surgieron metabolismos procariotas, pero solo es tan fiable como el árbol y el registro que lo contrasta.
+
+Un trazador atmosférico debatido en Marte conecta con ecosistemas terrestres donde el metano sostiene vida y deja fósiles.
+
+Capítulo 15. Microorganismos fósiles en filtraciones de metano
+
+¿Qué significa detectar metano en la atmósfera marciana? Roberto Barbieri y Barbara Cavalazzi conectan ese gas con ecosistemas de cold seeps (filtraciones frías ricas en metano) terrestres. Esas comunidades quimiosintéticas dejan registro fósil desde el Paleozoico inferior.
+
+Los carbonatos authigénicos derivados de metano precipitan con comunidades microbianas que fijan la base trófica. Arqueas metanotróficas y consorcios simbióticos con metazoos participan en el proceso. El interés se extiende a Europa, Titán y Marte.
+
+Si la vida marciana fue microbiana y hubo periodos húmedos, los ecosistemas tipo filtración de metano son análogos prioritarios. Su potencial de fosilización por interacciones microbio-mineral es alto.
+
+🫧. Cold seep
+
+🪨. Carbonato authigénico
+
+🔴. Metano marciano
+
+Idea clave: Filtraciones de metano unen trazador atmosférico, ecosistema extremo y registro fósil preservable.
+
+En desiertos terrestres, la misma lógica de refugio interno aparece con microbios que viven dentro de la roca.
+
+Capítulo 16. Endolitos en ambientes áridos terrestres
+
+¿Dónde sobreviven los microbios cuando la superficie es un desierto radiado? Nunzia Stivaletta y Roberto Barbieri describen microbios endolíticos (organismos que habitan en el interior de rocas) en desiertos calientes y fríos. Estudian el Negev, Atacama, Antártida y el Ártico.
+
+Migran a fracturas y poros donde hay humedad, nutrientes y protección contra UV, sequedad y variaciones térmicas. Fósiles endolíticos se conocen desde el Proterozoico tardío (Formación Eleonora Bay, Groenlandia).
+
+La detección de sulfatos (sales de azufre) en Marte impulsa el interés en evaporitas continentales. Podrían haber albergado endolitos en el pasado o aún hoy.
+
+Idea clave: El endolito es una estrategia de supervivencia en desierto. Marte árido y radiado favorece la misma lógica de refugio interno.
+
+Algunas bacterias combinan metabolismo versátil con una brújula interna de imanes microscópicos.
+
+Capítulo 17. Bacterias magnetotácticas y terraformación
+
+¿Podrían bacterias orientadas por imanes ayudar a modificar otro planeta? Ioan I. Ardelean y coautores revisan bacterias magnetotácticas (microbios que navegan según el campo magnético gracias a imanes internos). Richard Blakemore las describió en 1975.
+
+Proponen su potencial en terraformación de Marte por respiración con nitratos o hierro, fijación de CO₂ en oscuridad y uso de nitrógeno molecular. Complementarían fototróficos y extremófilos ya considerados candidatos.
+
+La magnetotaxis podría ayudar a navegar hacia condiciones óptimas si existiera un campo magnético planetario utilizable.
+
+Idea clave: Las bacterias magnetotácticas combinan metabolismo versátil y navegación magnética: especulación sobre terraformación, no consenso establecido.
+
+Mientras unos imaginan terraformar, otros preguntan si la inteligencia humana es un destino evolutivo esperable.
+
+Capítulo 18. Inteligencia humana no es rasgo convergente
+
+¿Es inevitable que la vida evolucione hacia civilizaciones como la nuestra? Charles H. Lineweaver critica la hipótesis del Planeta de los Simios. Sostiene que la inteligencia tipo humana no es convergencia evolutiva esperable.
+
+En debates sobre la ecuación de Drake, el término biológico más controvertido es la probabilidad de inteligencia comunicativa tras el origen de la vida. Lineweaver argumenta con pruebas paleontológicas que la inteligencia humanoide no es un resultado probable.
+
+Biogénesis rápida en la Tierra no implica que complejidad tecnológica sea un atractor universal. Eso importa para SETI y para expectativas públicas sobre vida extraterrestre.
+
+Idea clave: La vida microbiana puede ser común, pero la civilización radio-detectable probablemente no lo es.
+
+En el otro extremo del espectro filosófico, algunos autores amplían vida más allá de la bioquímica terrestre.
+
+Capítulo 19. Formas de vida cósmicas
+
+¿Puede definirse la vida sin limitarla a la química de la Tierra? Attila Grandpierre propone el principio de Bauer (idea de que los organismos invierten trabajo contra el equilibrio). Lo presenta como primer principio de la biología aplicable más allá de proteínas terrestres.
+
+Formula una cadena conceptual que enlaza interacciones virtuales, acoplamientos biológicos y aumento de organización. Extiende la noción de vida al Sol, a ciclos estelares y a formas intermitentes u ocultas en el vacío.
+
+Es una posición minoritaria y altamente especulativa dentro del volumen. Ilustra el espectro filosófico de la astrobiología más allá del empirismo geológico.
+
+Idea clave: Grandpierre amplía vida más allá de la bioquímica terrestre: útil como contraste metodológico, no como guía operativa de misión.
+
+Entre lo empírico y lo especulativo, el registro fósil también guarda huellas del entorno cósmico que rodeó la biosfera temprana.
+
+Capítulo 20. Huellas astronómicas y astrobiológicas en el registro fósil
+
+¿Dejó el Sol y el espacio una firma en la historia de la vida? Julian Chela-Flores y coautores integran clima espacial (variaciones solares y cósmicas que afectan atmósferas) con núcleos de hielo, anillos de árboles y materiales extraterrestres.
+
+Meteoritos, lunares y cometas conservan implantes iónicos y radionúcleidos de rayos cósmicos. Archivos terrestres como sedimentos marinos, corales y nódulos de manganeso registran proxies climáticos detallados.
+
+El clima espacial y la actividad solar temprana son factores en el origen y evolución de la biosfera. Unen astronomía y paleobiología.
+
+Idea clave: La vida no evolucionó aislada del entorno cósmico: el Sol y el clima espacial dejaron improntas en el registro terrestre.
+
+Si el cosmos influyó en la biosfera, conviene no atribuir cada catástrofe biológica a un impacto extraterrestre.
+
+Capítulo 20. ¿Los impactos causan la mayoría de extinciones masivas?
+
+¿Basta un asteroide para explicar cada gran extinción? Donald R. Prothero cuestiona la moda de atribuir extinciones masivas a impactos. Solo el límite Cretácico-Paleógeno (~65 Ma) tiene evidencia impactante sólida.
+
+Horizontes propuestos en otras grandes extinciones resultaron de edad o tamaño incorrectos. Muchos impactos del Eoceno tardío no causaron extinción. Las erupciones de basalto de inundación tampoco explican todos los eventos.
+
+Cada extinción masiva muestra un patrón distinto. Los modelos únicos, ya sea impacto, volcanismo o cambios de CO₂/O₂, fallan como explicación universal. Es una lección de humildad para correlacionar catástrofes cósmicas y evolución biológica.
+
+Idea clave: Un impacto no implica extinción automática. La astrobiología debe evitar narrativas simples sobre catástrofes cósmicas y biosfera.
+
+Los cometas, además de destruir, pueden haber aportado la química que precedió a la vida.
+
+Capítulo 21. Irradiación de analogos cometarios y origen de la vida
+
+¿Puede la luz ultravioleta crear vida química en hielos cometarios? María Colín-García y coautores estudian cómo la irradiación UV (radiación ultravioleta) de hielos análogos a cometas genera compuestos orgánicos relevantes para la evolución química prebiótica.
+
+Los cometas, casi coetáneos con el sistema solar, pueden haber aportado materia orgánica a la Tierra primitiva. La hipótesis se remonta a J. Oró en 1961. Los impactos son paradójicos: entregan organics y gases nobles pero también pueden extinguir vida.
+
+Experimentos de irradiación en laboratorio complementan modelos atmosféricos terrestres. Ayudan a entender síntesis abiótica y aporte extraterrestre.
+
+Idea clave: Cometa significa química prebiótica en hielo y posible entrega de organics, pero también agente de destrucción masiva.
+
+Antes de cualquier biosfera, el universo mismo tuvo un origen en el tiempo que condiciona toda búsqueda de vida.
+
+Capítulo 22. El Big Bang en el tiempo cero
+
+¿Qué condición cosmológica precede a cualquier biosfera? Peter R. Bahn y Steven H. Pravdo tratan la radiación cósmica de fondo (~14 Ga) como el fósil más antiguo. El Big Bang es la condición de frontera necesaria para la vida.
+
+Los premios Nobel de 1965 y 2006 consolidaron un universo con inicio hace ~14 mil millones de años. Reconocieron la detección y el detalle de la radiación cósmica de fondo frente a la teoría del estado estacionario.
+
+En la singularidad inicial no hay espacio-tiempo operativo para causalidad clásica. Es conclusión filosófica sobre un evento no causado.
+
+Idea clave: Condición cosmológica previa a cualquier biosfera: universo con origen en el tiempo, no eterno.
+
+Desde la cosmología hasta el microfósil, la pregunta es si las moléculas son solo registro o también memoria viva.
+
+Capítulo 23. Improntas moleculares: ¿vivas o no vivas?
+
+¿Es una biosignatura lo mismo que memoria biológica activa? Koichiro Matsuno distingue improntas moleculares (rastros químicos leídos por el científico) de memoria descifrada por un cuerpo material interno a la organización viva.
+
+Los átomos son reliquias del Big Bang. El ADN de dinosaurios puede reiniciar síntesis proteica en un ribosoma adecuado. Eso borra la frontera entre registro pasivo y agencia biológica.
+
+Las improntas moleculares, lejos de ser solo obstáculo, pueden identificar unidades materiales capaces de buscar contextos donde encajar. Es marco para el origen de la vida en contexto cosmológico.
+
+Idea clave: La biosignatura molecular puede ser evidencia externa para el científico o memoria operativa para el sistema vivo.
+
+El caso que más movió al público sobre vida marciana llegó en un meteorito del desierto antártico.
+
+Capítulo 24. El caso ALH84001 por vida en Marte
+
+¿Qué enseñó el meteorito que reabrió el debate sobre vida en Marte? Alfonso F. Davila y coautores repasan ALH84001 (meteorito marciano con carbonatos y estructuras nanoescala). En 1996 alimentó la controversia sobre vida marciana fossilizada.
+
+Marte era un mundo habitable imaginado para Schiaparelli y Lowell. Mariner y Viking lo describieron como desierto frío de CO₂. ALH84001 reabrió entonces el debate científico y público sobre biosignaturas en material retornado.
+
+Independientemente del veredicto final, el caso definió estándares de evidencia y complejidad interpretativa. Marcó la edad dorada de exploración espacial astrobiológica.
+
+Idea clave: El meteorito ALH84001 dejó una lección sobre cautela: señales ambiguas bajo máximo escrutinio mediático y científico.
+
+Si alguna señal sobrevivió en Marte, hay que saber en qué roca y en qué era buscarla.
+
+Capítulo 25. Ventanas de preservación paleobiológica en Marte
+
+¿Dónde conviene buscar huellas de vida en un planeta entero? David C. Fernández-Remolar y coautores mapean ventanas de preservación (contextos rocosos que retienen trazas biológicas) en el registro geológico marciano según mineralogía orbital e in situ.
+
+Marte albergó hidrología activa en eras pasadas: deltas, sistemas fluviales y lacustres. Los terrenos noaquianos (>~3,8 Ga) concentran filosilicatos en estratos arcaicos. En el Hesperiano (3,8–3,0 Ga) predominan sulfatos ferríferos. Son ambientes distintos para trazas paleobiológicas.
+
+Integrar geomorfología, mineralogía y geoquímica define dónde buscar texturas organosedimentarias, quimiofósiles o moléculas orgánicas preservables.
+
+Idea clave: No buscar vida en Marte genérico: buscar la ventana mineralógica y temporal correcta.
+
+El cierre del volumen recapitula lo aprendido sin afirmar lo que aún no está demostrado.
+
+Capítulo 27. Síntesis, comentarios finales y conclusiones
+
+¿Qué aporta este compendio si aún no hay vida extraterrestre confirmada? Joseph Seckbach y coautores cierran el volumen recordando que el registro fósil terrestre orienta dónde y cómo buscar. Entre ellos figuran Julian Chela-Flores, Aharon Oren y François Raulin.
+
+Repasan estromatolitos como fósiles más antiguos (~3,5 Ga en Australia, posibles señales a ~3,85 Ga en Groenlandia). También fósiles vivientes y la definición multidisciplinaria de astrobiología.
+
+Enfatizan analogías extremas, biosignaturas morfológicas y geoquímicas. Insisten en cruzar paleontología, microbiología y exploración planetaria.
+
+Idea clave: El volumen no prueba vida extraterrestre: provee el marco terrestre para hacer esa búsqueda con criterio.
+
+Conceptos clave
+
+Biosignatura. Evidencia de vida pasada o presente: morfológica, química, isotópica o sedimentaria.
+
+Ventana preservacional. Contexto rocoso y mineralógico que retiene trazas biológicas en el tiempo.
+
+Ground truthing. Calibrar criterios de detección en la Tierra antes de extrapolar a otros planetas.
+
+Estromatolito. Estructura laminada organosedimentaria, a menudo de mats microbianos; macrofósil dominante del Precámbrico.
+
+Cold seep. Filtración fría de metano/hidrocarburos con ecosistema quimiosintético y potencial fósil.
+
+Endolito. Microorganismo que habita en el interior de rocas, común en desiertos y candidato analogo marciano.
+
+NanoSIMS. Espectrometría iónica secundaria a nanoescala para mapear elementos en microestructuras.
+
+Fosfatización. Tafonomía excepcional que preserva microbios blandos en tres dimensiones.
+
+Silicificación. Incorporación de orgánico en sílice; puede conservar moléculas o solo morfología.
+
+ALH84001. Meteorito marciano cretáceo cuya microestructura reavivó el debate sobre vida fossilizada en Marte.
+
+Cronología de hitos citados en el volumen
+
+Año ~14 Ga. Big Bang; posteriormente, radiación cósmica de fondo como fósil cosmológico.
+
+Año ~3,85 Ga. Sedimentos y lavas en Groenlandia con posibles señales de vida temprana.
+
+Año ~3,5 Ga. Microfósiles y estromatolitos putativos en Pilbara y Barberton.
+
+Año ~2,7–2,3 Ga. Biomarcadores vs. microfósiles cianobacterianos; oxigenación atmosférica.
+
+Año ~2,32 Ga. Oxigenación atmosférica; restricción de edad para arqueas aeróbicas (filogenómica).
+
+Año ~635–551 Ma. Fosfatización excepcional en Formación Doushantuo (China).
+
+Año 1860s–1900s. Canales marcianos (Lowell) y primeras interpretaciones erróneas de habitabilidad.
+
+Año 1965. Penzias y Wilson detectan la radiación cósmica de fondo.
+
+Año 1996. Controversia ALH84001: posibles biosignaturas en meteorito marciano.
+
+Año 2004–2005. Detección de metano en atmósfera marciana; impulso a analogos de cold seeps.
+
+Año 2009. Publicación del volumen From Fossils to Astrobiology (Springer COLE 12).
+
+Figuras clave
+
+Joseph Seckbach, Editor de la serie COLE y coautor del cierre · astrobiología y algas extremas
+
+Maud M. Walsh, Coeditora · fósiles microbianos y suelos
+
+Wladyslaw Altermann, Introducción escéptica · geología precámbrica
+
+Barbara Cavalazzi, Coautora cap. metano · filtraciones frías y analogos marcianos
+
+Dorothy Z. Oehler, NanoSIMS y orgánico en cherts y meteoritos
+
+Frances Westall, Biogenicidad y contaminación post-Arcaica en Barberton
+
+Sherry L. Cady, Biosignaturas en hidrotermal · editora de Astrobiology
+
+Charles H. Lineweaver, Crítica a convergencia de inteligencia tecnológica
+
+Julian Chela-Flores, Clima espacial e improntas astronómicas en el registro fósil

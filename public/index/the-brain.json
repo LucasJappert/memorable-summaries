@@ -44,52 +44,57 @@
     {
       "sectionId": "prefacio",
       "sectionTitle": "El material que te hace ser tú",
-      "text": "La neurociencia avanza tan rápido que rara vez nos detenemos a preguntar qué significa para nuestras vidas ser criaturas biológicas. David Eagleman escribe este libro para tender un puente entre la literatura académica y quienes «poseen» un cerebro sin formación especializada: cómo decidimos, percibimos la realidad, quiénes somos y hacia dónde se dirige la especie."
+      "text": "¿Qué cambia en tu vida cuando descubres que «tú» eres un órgano de tres kilos? El neurocientífico David Eagleman escribe para quien tiene cerebro pero no formación especializada. Quiere tender un puente entre la ciencia académica y la vida cotidiana."
     },
     {
       "sectionId": "prefacio",
       "sectionTitle": "El material que te hace ser tú",
-      "text": "El tejido computacional del cráneo es la maquinaria perceptual con la que navegamos el mundo, el material del que surgen decisiones e imaginación. Comprenderlo arroja luz sobre lo que damos por real en las relaciones personales y en la política social: cómo peleamos, por qué amamos, qué aceptamos como verdad y cómo educar."
+      "text": "Ese tejido dentro del cráneo es la maquinaria con la que percibes, decides e imaginas. Comprenderlo arroja luz sobre lo que damos por real. Afecta cómo peleamos, por qué amamos y qué aceptamos como verdad."
     },
     {
       "sectionId": "prefacio",
       "sectionTitle": "El material que te hace ser tú",
-      "text": "Raramente hablamos del cerebro en la cultura popular. Eagleman lo interpreta como pista de que estamos tan atrapados dentro de nuestra realidad que cuesta notar la trampa. Damos por hecho que los colores existen «afuera», que la memoria funciona como una cámara de video y que conocemos las razones reales de nuestras creencias. Las páginas siguientes ponen esas suposiciones bajo el foco."
+      "text": "Rara vez hablamos del cerebro en la cultura popular. Eagleman lo interpreta como señal de que estamos atrapados dentro de nuestra propia experiencia. Damos por hecho que los colores existen «afuera». Creemos que la memoria funciona como una cámara de video. Suponemos conocer las razones reales de nuestras creencias. Las páginas siguientes ponen esas suposiciones bajo el foco."
     },
     {
       "sectionId": "prefacio",
       "sectionTitle": "El material que te hace ser tú",
-      "text": "Este libro explora la identidad, la percepción, el control, la decisión, la socialidad y el futuro de una especie que empieza a tomar sus propias riendas."
+      "text": "Este libro explora identidad, percepción, control, decisión, socialidad y el futuro de una especie que empieza a tomar sus propias riendas."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "El material que te hace ser tú",
+      "text": "Para empezar, Eagleman pregunta quién eres si el cerebro se reescribe con cada experiencia."
     },
     {
       "sectionId": "cap1",
       "sectionTitle": "¿Quién soy yo?",
-      "text": "Todas las experiencias, desde una conversación hasta la cultura que te rodea, moldean los detalles microscópicos del cerebro. Neuronalmente, quién eres depende de dónde has estado. El cerebro es un livewire (cableado vivo) que reescribe su propia circuitería. La identidad es un blanco en movimiento que nunca alcanza un punto final."
+      "text": "¿Quién eres si cada conversación y cada cultura que te rodea deja huella microscópica en el cerebro? Neuronalmente, quién eres depende de dónde has estado. El cerebro es un livewire (cableado vivo que reescribe su propia circuitería). La identidad es un blanco en movimiento que nunca alcanza un punto final."
     },
     {
       "sectionId": "cap1",
       "sectionTitle": "¿Quién soy yo?",
-      "text": "Un cerebro adulto pesa unas 1,4 kg (tres libras), con consistencia de gelatina firme. Pensamientos, sueños y recuerdos surgen de patrones de pulsos electroquímicos. Cuando esa actividad cesa, tú cesas. A diferencia de otros órganos, dañar un fragmento pequeño del cerebro puede cambiar radicalmente quién eres."
+      "text": "Un cerebro adulto pesa unas 1,4 kg , con consistencia de gelatina firme. Pensamientos, sueños y recuerdos surgen de pulsos electroquímicos. Cuando esa actividad cesa, tú cesas. A diferencia de otros órganos, dañar un fragmento pequeño puede cambiar radicalmente quién eres."
     },
     {
       "sectionId": "cap1",
       "sectionTitle": "¿Quién soy yo?",
-      "text": "Los humanos nacen inacabados y dependemos años de cuidadores mientras el cerebro se moldea por experiencia. A los dos años hay más de 100 billones de sinapsis, el doble que en la adultez. Luego la poda neuronal elimina conexiones no usadas: te conviertes en quien eres no por lo que crece, sino por lo que se elimina."
+      "text": "Los humanos nacen incompletos y dependen años de cuidadores mientras el cerebro se moldea por experiencia. A los dos años hay más de 100 billones de sinapsis, el doble que en la adultez. Luego la poda sináptica (eliminación de conexiones no usadas) esculpe la identidad. Te conviertes en quien eres no por lo que crece, sino por lo que se elimina."
     },
     {
       "sectionId": "cap1",
       "sectionTitle": "¿Quién soy yo?",
-      "text": "La adolescencia trae una segunda oleada de poda en la corteza prefrontal (hasta ~ 25 años). Los adolescentes muestran mayor ansiedad social y más búsqueda de recompensa con control de impulsos inmaduro. Los taxistas londinenses que memorizan «The Knowledge» (~ 25 000 calles) desarrollan un hipocampo posterior agrandado: la plasticidad no termina en la adultez."
+      "text": "La adolescencia trae una segunda oleada de poda en la corteza prefrontal (hasta ~ 25 años). Los adolescentes muestran mayor ansiedad social y más búsqueda de recompensa. Los taxistas londinenses que memorizan «The Knowledge» (~ 25 000 calles) desarrollan un hipocampo posterior agrandado. La plasticidad no termina en la adultez."
     },
     {
       "sectionId": "cap1",
       "sectionTitle": "¿Quién soy yo?",
-      "text": "Charles Whitman ( 1966 ) pidió autopsia tras una matanza en la Torre de Texas. Un tumor del tamaño de una moneda presionaba la amígdala. Elizabeth Loftus demostró que recuerdos falsos, como perderse de niño en un centro comercial, pueden implantarse y enriquecerse con el tiempo. La memoria no es un video: es reconstrucción frágil que el presente colorea."
+      "text": "Charles Whitman pidió autopsia tras una matanza en la Torre de Texas ( 1966 ). Un tumor del tamaño de una moneda presionaba la amígdala. La psicóloga Elizabeth Loftus demostró que recuerdos falsos pueden implantarse y enriquecerse con el tiempo. La memoria no es un video: es reconstrucción frágil que el presente colorea."
     },
     {
       "sectionId": "cap1",
       "sectionTitle": "¿Quién soy yo?",
-      "text": "El estudio de órdenes religiosas dirigido por David Bennett en Rush University mostró que la reserva cognitiva puede compensar la patología de Alzheimer en autopsia. La actividad mental, las redes sociales y el propósito protegen la cognición. La conciencia emerge cuando neuronas coordinan ritmos complejos. En sueño profundo, la sincronía apaga el «yo» consciente."
+      "text": "Un estudio de órdenes religiosas en Rush University, dirigido por David Bennett , mostró algo sorprendente. La reserva cognitiva (redes alternativas que compensan daño cerebral) puede enmascarar la patología de Alzheimer en autopsia. La actividad mental, las redes sociales y el propósito protegen la cognición. La conciencia emerge cuando neuronas coordinan ritmos complejos. En sueño profundo, la sincronía apaga el «yo» consciente."
     },
     {
       "sectionId": "cap1",
@@ -97,9 +102,14 @@
       "text": "La identidad no es un núcleo fijo: es un patrón neural en constante reescritura, desde la cuna hasta la vejez."
     },
     {
+      "sectionId": "cap1",
+      "sectionTitle": "¿Quién soy yo?",
+      "text": "Si el yo es un proceso cambiante, la siguiente pregunta es qué ocurre con el mundo que damos por «real»."
+    },
+    {
       "sectionId": "cap2",
       "sectionTitle": "¿Qué es la realidad?",
-      "text": "¿Y si el mundo de colores, texturas y olores fuera un espectáculo montado por el cerebro? Fuera del cráneo solo hay energía y materia. La evolución convirtió eso en experiencia rica. Ilusiones como las serpientes rotatorias de Akiyoshi Kitaoka o el tablero de Edward Adelson muestran que la percepción depende más de adentro que de afuera."
+      "text": "¿Y si el mundo de colores, texturas y olores fuera un espectáculo montado por el cerebro? Fuera del cráneo solo hay energía y materia. La evolución convirtió eso en experiencia rica. Ilusiones como las serpientes rotatorias de Akiyoshi Kitaoka muestran que la percepción depende más de adentro que de afuera."
     },
     {
       "sectionId": "cap2",
@@ -109,12 +119,12 @@
     {
       "sectionId": "cap2",
       "sectionTitle": "¿Qué es la realidad?",
-      "text": "Mike May recuperó la vista tras más de 40 años de ceguera. Los ojos funcionaban, pero el cerebro no «veía»: no reconocía rostros ni profundidad. En el experimento de Held y Hein ( 1963 ), solo el gatito que caminaba, no el que iba en góndola, desarrolló visión normal. Ver exige entrenar cuerpo y sentidos juntos."
+      "text": "Mike May recuperó la vista tras más de 40 años de ceguera. Los ojos funcionaban, pero el cerebro no «veía»: no reconocía rostros ni profundidad. En el experimento de Held y Hein ( 1963 ), solo el gatito que caminaba desarrolló visión normal. Ver exige entrenar cuerpo y sentidos juntos."
     },
     {
       "sectionId": "cap2",
       "sectionTitle": "¿Qué es la realidad?",
-      "text": "Gafas de prisma invierten izquierda y derecha. En minutos provocan náusea, pero tras una semana el cerebro re-mapea el espacio. El cerebro sincroniza sentidos con retraso, de modo que vives en el pasado para que todo parezca simultáneo. En el «Hole» de Alcatraz, sin luz ni sonido, el modelo interno sigue generando imágenes vívidas. La corteza visual envía diez veces más señales al tálamo que las que recibe de los ojos."
+      "text": "Gafas de prisma invierten izquierda y derecha. En minutos provocan náusea, pero tras una semana el cerebro re-mapea el espacio. El cerebro sincroniza sentidos con retraso, de modo que vives en el pasado para que todo parezca simultáneo. En el «Hole» de Alcatraz, sin luz ni sonido, el modelo interno (predicción cerebral que compara expectativas con datos sensoriales) sigue generando imágenes vívidas."
     },
     {
       "sectionId": "cap2",
@@ -127,29 +137,34 @@
       "text": "La realidad consciente es construcción cerebral: predicción, comparación de errores y edición temporal, no registro fiel del exterior."
     },
     {
-      "sectionId": "cap3",
-      "sectionTitle": "¿Quién manda?",
-      "text": "Actos simples como reconocer un rostro, conducir o entender un chiste requieren cálculos masivos bajo el umbral de la conciencia. ¿Quién conduce el barco si la mayor parte del trabajo es invisible?"
+      "sectionId": "cap2",
+      "sectionTitle": "¿Qué es la realidad?",
+      "text": "Si el mundo es una representación interna, conviene preguntar quién dirige lo que ocurre bajo la superficie consciente."
     },
     {
       "sectionId": "cap3",
       "sectionTitle": "¿Quién manda?",
-      "text": "Al leer, los ojos saltan en sacadas de ~ 20 ms . El cerebro estabiliza la escena mientras tú crees mirar de forma continua. Levantar una taza de café exige coordinación de visión, memoria, corteza motora, cerebelo y ganglios basales en fracciones de segundo, con un gasto energético comparable a decenas de supercomputadoras, todo sin que la conciencia lo note."
+      "text": "¿Quién conduce el barco si reconocer un rostro, conducir o entender un chiste exige cálculos masivos bajo el umbral de la conciencia? Actos simples esconden trabajo invisible. La mayor parte del cerebro opera sin que «tú» lo notes."
     },
     {
       "sectionId": "cap3",
       "sectionTitle": "¿Quién manda?",
-      "text": "Ian Waterman perdió la propiocepción y el tacto por daño nervioso. Debe planificar cada movimiento con atención consciente y vigilar sus extremidades visualmente. Una distracción le hace caer. Su caso revela lo que el inconsciente hace por nosotros al caminar. Austin Naber , campeón infantil de apilar vasos, muestra ondas alfa de reposo mientras un adulto novato quema ondas beta de esfuerzo. La práctica graba la habilidad en el hardware neuronal."
+      "text": "Al leer, los ojos saltan en sacadas (movimientos rápidos de unas 20 ms ). El cerebro estabiliza la escena mientras tú crees mirar de forma continua. Levantar una taza exige coordinar visión, memoria, corteza motora, cerebelo y ganglios basales en fracciones de segundo. Todo ocurre sin que la conciencia lo note."
     },
     {
       "sectionId": "cap3",
       "sectionTitle": "¿Quién manda?",
-      "text": "Habilidades automatizadas (conducir «en piloto automático», escalar en flow ) liberan recursos conscientes. Interferir deliberadamente empeora el rendimiento. El inconsciente también fabrica lenguaje, ideas y narrativas de elección: el priming y el egotismo implícito influyen en profesión y pareja sin entrar en la historia que contamos."
+      "text": "Ian Waterman perdió la propiocepción y el tacto por daño nervioso. Debe planificar cada movimiento con atención consciente y vigilar sus extremidades visualmente. Una distracción le hace caer. Su caso revela lo que el inconsciente hace por nosotros al caminar. El campeón infantil Austin Naber , experto en apilar vasos, muestra ondas alfa de reposo mientras un adulto novato quema ondas beta de esfuerzo. La práctica graba la habilidad en el hardware neuronal."
     },
     {
       "sectionId": "cap3",
       "sectionTitle": "¿Quién manda?",
-      "text": "En experimentos de Alvaro Pascual-Leone , la estimulación magnética transcraneal inclina la mano que se mueve, pero los participantes reportan haber querido esa mano. La conciencia narra como propia lo que ya decidieron otras redes. Aun así, Eagleman sugiere que la conciencia actúa como CEO ante lo inesperado y ante conflictos internos (helado vs. dieta). La complejidad del cerebro hace impredecible cada acción en la práctica."
+      "text": "Habilidades automatizadas (conducir «en piloto automático», escalar en estado de flujo) liberan recursos conscientes. Interferir deliberadamente empeora el rendimiento. El inconsciente también fabrica lenguaje, ideas y narrativas de elección. El priming (influencia previa invisible en juicios) y el egotismo implícito influyen en profesión y pareja sin entrar en la historia que contamos."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "¿Quién manda?",
+      "text": "En experimentos del neurocientífico Alvaro Pascual-Leone , la estimulación magnética transcraneal inclina la mano que se mueve. Los participantes reportan haber querido esa mano. La conciencia narra como propia lo que ya decidieron otras redes. Aun así, Eagleman sugiere que la conciencia actúa como CEO ante lo inesperado y ante conflictos internos (helado vs. dieta). La complejidad del cerebro hace impredecible cada acción en la práctica."
     },
     {
       "sectionId": "cap3",
@@ -157,29 +172,34 @@
       "text": "El yo consciente es la punta del iceberg: la mayoría de las decisiones y percepciones ya están resueltas cuando «tú» te enteras."
     },
     {
-      "sectionId": "cap4",
-      "sectionTitle": "¿Cómo decido?",
-      "text": "¿Como el helado o no? ¿Responder el correo ahora? Miles de microdecisiones al día. Eagleman rechaza el modelo del actor racional: el cerebro es un parlamento neural de redes rivales que compiten por el control."
+      "sectionId": "cap3",
+      "sectionTitle": "¿Quién manda?",
+      "text": "Si gran parte del trabajo es inconsciente, la elección consciente merece un capítulo aparte."
     },
     {
       "sectionId": "cap4",
       "sectionTitle": "¿Cómo decido?",
-      "text": "Durante cirugía despierta, los «pops» de neuronas de Jim reflejan cuándo su cerebro elige ver a la joven o a la anciana en una imagen ambigua. Cada decisión perceptual es winner-take-all entre coaliciones. En la heladería, redes de «menta» y «limón» se excitan y suprimen mutuamente hasta que una gana."
+      "text": "¿Como el helado o no? ¿Responder el correo ahora? Miles de microdecisiones al día. Eagleman rechaza el modelo del actor racional. El cerebro es un parlamento neural (redes rivales que compiten por el control en cada elección)."
     },
     {
       "sectionId": "cap4",
       "sectionTitle": "¿Cómo decido?",
-      "text": "Pacientes con cerebro dividido muestran una mano «alienígena» que deshace lo que la otra hace. El test Stroop obliga a suprimir la lectura automática para nombrar colores. En el dilema del tranvía, tirar de la palanca activa redes lógicas. Empujar a alguien activa emociones y cambia la respuesta, aunque la ecuación sea la misma."
+      "text": "Durante cirugía despierta, los «pops» de neuronas de Jim marcan elecciones perceptuales. Reflejan cuándo su cerebro elige ver a la joven o a la anciana en una imagen ambigua. Cada decisión perceptual es winner-take-all entre coaliciones. En la heladería, redes de «menta» y «limón» se excitan y suprimen mutuamente hasta que una gana."
     },
     {
       "sectionId": "cap4",
       "sectionTitle": "¿Cómo decido?",
-      "text": "Tammy Myers , con daño en la corteza orbitofrontal, puede listar pros y contras pero no decidir: sin señales corporales que resuman «esto importa», queda paralizada. El cuerpo dialoga con el cerebro en cada elección, desde un perro que gruñe hasta elegir sopa en el supermercado. Read Montague correlaciona respuesta de asco neural con ideología política con ~ 95 % de precisión en un solo estímulo."
+      "text": "Pacientes con cerebro dividido (mitades cerebrales con vías cortadas) muestran una mano «alienígena» que deshace lo que la otra hace. El test Stroop obliga a suprimir la lectura automática para nombrar colores. En el dilema del tranvía, tirar de la palanca activa redes lógicas. Empujar a alguien activa emociones y cambia la respuesta, aunque la ecuación sea la misma."
     },
     {
       "sectionId": "cap4",
       "sectionTitle": "¿Cómo decido?",
-      "text": "El cerebro viaja en el tiempo al simular futuros y valorarlos en moneda de recompensa. La dopamina codifica el error de predicción. El poder del ahora vence las simulaciones futuras en préstamos subprime, drogas o aventuras. El contrato de Ulises ata al yo futuro, por ejemplo con un gimnasio concertado con un amigo."
+      "text": "Tammy Myers , con daño en la corteza orbitofrontal, puede listar pros y contras pero no decidir. Le faltan señales corporales que resuman «esto importa», y eso la paraliza. El cuerpo dialoga con el cerebro en cada elección. El neurocientífico Read Montague correlaciona respuesta de asco neural con ideología política con ~ 95 % de precisión en un solo estímulo."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "¿Cómo decido?",
+      "text": "El cerebro simula futuros y los valora en moneda de recompensa. La dopamina codifica el error de predicción. El sesgo hacia el presente vence las simulaciones futuras en préstamos subprime, drogas o aventuras. El contrato de Ulises (comprometer al yo futuro contra el sesgo del «ahora») es una herramienta contra ese sesgo. Por ejemplo, concertar el gimnasio con un amigo."
     },
     {
       "sectionId": "cap4",
@@ -192,44 +212,59 @@
       "text": "Decidir no es un acto único del yo: es competencia entre sistemas automáticos, emoción corporal, simulación del futuro y un sesgo hacia el presente."
     },
     {
-      "sectionId": "cap5",
-      "sectionTitle": "¿Te necesito?",
-      "text": "Más allá de nutrientes y oxígeno, el cerebro necesita otros cerebros . La función neural normal depende de la red social: somos una especie profundamente social cuyo cableado incluye vastos circuitos para leer intenciones, emociones y pertenencia."
+      "sectionId": "cap4",
+      "sectionTitle": "¿Cómo decido?",
+      "text": "Las decisiones no ocurren en el vacío: el cerebro humano está cableado para necesitar a otros."
     },
     {
       "sectionId": "cap5",
       "sectionTitle": "¿Te necesito?",
-      "text": "En la animación de Heider y Simmel , triángulos y círculos se perciben como persecución y romance. Bebés de menos de un año eligen, en un títere, al oso amable sobre el malo sin necesidad de palabras. Nacemos con antenas sociales para confianza y desconfianza."
+      "text": "¿Puede un cerebro funcionar bien aislado del contacto humano? Más allá de nutrientes y oxígeno, necesita otros cerebros. La función neural normal depende de la red social. Somos una especie profundamente social cuyo cableado incluye vastos circuitos para leer intenciones, emociones y pertenencia."
     },
     {
       "sectionId": "cap5",
       "sectionTitle": "¿Te necesito?",
-      "text": "John Robison , con Asperger, tras estimulación TMS en corteza prefrontal dorsolateral percibió por primera vez el canal social de expresiones faciales. El espejeo facial automático ayuda a leer emociones. El Botox, al paralizar músculos, empeora esa lectura. Ver dolor ajeno activa la matriz del dolor emocional. La empatía es simulación neural."
+      "text": "En la animación de Heider y Simmel, triángulos y círculos se perciben como persecución y romance. Bebés de menos de un año eligen, en un títere, al oso amable sobre el malo sin necesidad de palabras. Nacemos con antenas sociales para confianza y desconfianza."
     },
     {
       "sectionId": "cap5",
       "sectionTitle": "¿Te necesito?",
-      "text": "Sarah Shourd pasó 410 días en confinamiento solitario, y la privación de interacción convirtió su cerebro en fuente de tortura. En experimentos de Naomi Eisenberger , la exclusión en un juego de pelota activa las mismas áreas que el dolor físico. La evolución favoreció el eusocialismo . Cooperar en grupo supera al individuo aislado, pero genera ingroups y outgroups."
+      "text": "John Robison , con Asperger, tras estimulación TMS en corteza prefrontal dorsolateral percibió por primera vez el canal social de expresiones faciales. El espejeo facial (imitación automática que ayuda a leer emociones) facilita esa lectura. El Botox, al paralizar músculos, empeora esa lectura. Ver dolor ajeno activa la matriz del dolor (circuitos compartidos entre dolor propio y observación del ajeno). La empatía es simulación neural."
     },
     {
       "sectionId": "cap5",
       "sectionTitle": "¿Te necesito?",
-      "text": "Eagleman midió menor respuesta empática al ver dolor en manos etiquetadas como outgroup religioso. Lasana Harris muestra que ver personas sin hogar desactiva la corteza prefrontal medial. La deshumanización facilita la indiferencia y el horror colectivo. La propaganda explota estos circuitos. La educación en perspectiva ajena, como el ejercicio de Elliott, puede contrarrestarlo."
+      "text": "Sarah Shourd pasó 410 días en confinamiento solitario. La privación de interacción convirtió su cerebro en fuente de tortura. En experimentos de Naomi Eisenberger , la exclusión en un juego de pelota activa las mismas áreas que el dolor físico. La evolución favoreció el eusocialismo (cooperación extrema en grupo). Cooperar en grupo supera al individuo aislado, pero genera ingroups y outgroups."
     },
     {
       "sectionId": "cap5",
       "sectionTitle": "¿Te necesito?",
-      "text": "No hay cerebro aislado: tu identidad es negociación continua entre tu red neural y las de los demás."
+      "text": "Eagleman midió menor respuesta empática al ver dolor en manos etiquetadas como outgroup religioso. La psicóloga Lasana Harris muestra que ver personas sin hogar desactiva la corteza prefrontal medial. La deshumanización facilita la indiferencia y el horror colectivo. La propaganda explota estos circuitos. La educación en perspectiva ajena, como el ejercicio de Jane Elliott , puede contrarrestarlo."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "¿Te necesito?",
+      "text": "No hay cerebro aislado : tu identidad es negociación continua entre tu red neural y las de los demás."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "¿Te necesito?",
+      "text": "Entender el cerebro social abre la pregunta final: qué pasa cuando la biología deja de ser el límite."
     },
     {
       "sectionId": "cap6",
       "sectionTitle": "¿Quiénes seremos?",
-      "text": "El cuerpo humano reúne unos 40 billones de células, pero sus sentidos y límites físicos no son el techo. La plasticidad cerebral permite acoplar tecnología y expandir qué podemos percibir, controlar y quizá ser."
+      "text": "¿Qué somos cuando el cuerpo deja de ser el techo de lo que podemos percibir y controlar? El cuerpo humano reúne unos 40 billones de células. Sus sentidos y límites físicos no son el final. La plasticidad cerebral permite acoplar tecnología y expandir capacidades."
     },
     {
       "sectionId": "cap6",
       "sectionTitle": "¿Quiénes seremos?",
-      "text": "En 2007 , Cameron Mott se sometió a una hemisferectomía y recuperó lenguaje y escuela con medio cerebro. El tejido restante reasignó funciones. Implantes cocleares y retinianos demuestran que el cerebro aprende a interpretar señales artificiales como un idioma nuevo. La sustitución sensorial (espalda, lengua, chaleco VEST) prueba que no importa el canal: importa el patrón de datos."
+      "text": "En 2007 , Cameron Mott se sometió a una hemisferectomía (extirpación de un hemisferio cerebral) y recuperó lenguaje y escuela con medio cerebro. El tejido restante reasignó funciones. Implantes cocleares y retinianos demuestran que el cerebro aprende a interpretar señales artificiales como un idioma nuevo."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "¿Quiénes seremos?",
+      "text": "La sustitución sensorial (traducir datos por cualquier canal periférico) prueba que no importa el canal: importa el patrón de datos. Bach-y-Rita mostró «ver» con cámara traducida a presión en la espalda. El chaleco VEST lleva el mismo principio al oído y al tacto."
     },
     {
       "sectionId": "cap6",
@@ -239,7 +274,7 @@
     {
       "sectionId": "cap6",
       "sectionTitle": "¿Quiénes seremos?",
-      "text": "La criogenia en Alcor congela cuerpos o cabezas a −196 °C apostando a una segunda oportunidad futura. Mapear el conectoma completo exigiría un zettabyte y aún faltaría la dinámica eléctrica. La hipótesis computacional pregunta si la mente podría correr en silicio. iCub y la habitación china de John Searle muestran lo lejos que está la IA consciente."
+      "text": "La criogenia en Alcor congela cuerpos o cabezas a −196 °C apostando a una segunda oportunidad futura. Mapear el conectoma (mapa completo de conexiones neuronales) exigiría un zettabyte y aún faltaría la dinámica eléctrica. La hipótesis computacional pregunta si la mente podría correr en silicio. iCub y la habitación china de John Searle muestran lo lejos que está la IA consciente."
     },
     {
       "sectionId": "cap6",

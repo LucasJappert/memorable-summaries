@@ -42,16 +42,19 @@ lang: es
 ## title: No tengas miedo
 
 <!-- paragraph lead -->
-La mecánica cuántica es la teoría más precisa del mundo microscópico y sostiene la tecnología moderna, desde semiconductores hasta la química de la vida. <span class="person">Richard Feynman</span> admitió que «nadie entiende la mecánica cuántica». Los físicos la usan como un robot que calcula, no como una imagen coherente de la realidad.
+¿Por qué la teoría más precisa del mundo microscópico sigue sin consenso sobre qué significa? La <span class="term">mecánica cuántica</span> (la teoría que describe átomos, luz y partículas subatómicas) sostiene la tecnología moderna. Va desde semiconductores hasta la química de la vida. El físico <span class="person">Richard Feynman</span> admitió que «nadie entiende la mecánica cuántica». Los físicos la usan como un robot que calcula, no como una imagen coherente de la realidad.
 
 <!-- paragraph -->
-El escándalo central es el <span class="term">problema de la medición</span>. Mientras no miramos, los sistemas evolucionan según la ecuación de Schrödinger. Al medir, reglas extra dicen que la función de onda «colapsa» y solo vemos un resultado. Los libros de texto suelen callar qué es una medición y por qué importa, y la investigación en fundamentos sigue siendo mal vista en muchos departamentos.
+El escándalo central es el <span class="term">problema de la medición</span> (la tensión entre lo que la ecuación describe y lo que vemos al observar). Mientras no miramos, los sistemas evolucionan según la ecuación de Schrödinger. Al medir, reglas extra dicen que la función de onda «colapsa» y solo vemos un resultado. Los libros de texto suelen callar qué es una medición. La investigación en fundamentos sigue siendo mal vista en muchos departamentos.
 
 <!-- paragraph -->
-Carroll plantea tres mensajes. Primero, entender la cuántica debería ser prioridad científica, no misterio inevitable. Segundo, el progreso más prometedor pasa por la formulación de <span class="person">Hugh Everett</span> (muchos mundos): los universos paralelos no se añaden a mano, sino que surgen del formalismo. Tercero, esto importa para la gravedad y el espaciotiempo: quizá la clave no sea cuantizar la relatividad general, sino profundizar en la mecánica cuántica misma.
+Carroll plantea tres mensajes. Primero, entender la cuántica debería ser prioridad científica, no misterio inevitable. Segundo, el progreso más prometedor pasa por la formulación de <span class="person">Hugh Everett</span> (muchos mundos). Los universos paralelos no se añaden a mano: surgen del formalismo. Tercero, esto importa para la gravedad y el espaciotiempo. Quizá la clave no sea cuantizar la relatividad general, sino profundizar en la mecánica cuántica misma.
 
 <!-- key -->
-La cuántica funciona como oráculo predictivo, pero aún no tenemos consenso sobre qué está pasando realmente detrás de las ecuaciones.
+La cuántica funciona como oráculo predictivo, pero aún no tenemos consenso sobre qué ocurre realmente detrás de las ecuaciones.
+
+<!-- bridge -->
+Para ver el escándalo con claridad, Carroll contrasta el mundo clásico con las reglas cuánticas de la medición.
 
 ---
 
@@ -61,13 +64,13 @@ La cuántica funciona como oráculo predictivo, pero aún no tenemos consenso so
 ## title: Qué está pasando
 
 <!-- paragraph lead -->
-<span class="person">Albert Einstein</span> llamó a la mecánica cuántica <span class="term">spukhaft</span> («fantasmal»), y la cultura popular la explota con metáforas vacías. Carroll insiste en que el fenómeno es extraño pero no inexplicable: la respuesta científica es resolver el puzzle, no celebrar el misterio.
+¿Por qué lo que vemos al medir parece distinto de lo que la teoría dice entre mediciones? <span class="person">Albert Einstein</span> llamó a la mecánica cuántica <span class="term">spukhaft</span> («fantasmal»). La cultura popular la explota con metáforas vacías. Carroll insiste en que el fenómeno es extraño pero no inexplicable. La respuesta científica es resolver el puzzle, no celebrar el misterio.
 
 <!-- paragraph -->
-La mecánica clásica describe el mundo con posiciones y velocidades que evolucionan con leyes deterministas (<span class="person">Isaac Newton</span>, <span class="person">Pierre-Simon Laplace</span>). La cuántica reemplaza el estado clásico por una <span class="term">función de onda</span> Ψ: una nube de amplitudes complejas, no probabilidades directas. La probabilidad de un resultado es el cuadrado del módulo de la amplitud (<span class="term">regla de Born</span>, <span class="person">Max Born</span>).
+La mecánica clásica describe el mundo con posiciones y velocidades que evolucionan con leyes deterministas. Ese marco lo forjaron <span class="person">Isaac Newton</span> y <span class="person">Pierre-Simon Laplace</span>. La cuántica reemplaza el estado clásico por una <span class="term">función de onda</span> (una descripción matemática del sistema, simbolizada Ψ). Es una nube de amplitudes complejas, no probabilidades directas. La probabilidad de un resultado es el cuadrado del módulo de la amplitud. Eso es la <span class="term">regla de Born</span> (la regla que convierte amplitudes en probabilidades), formulada por <span class="person">Max Born</span>.
 
 <!-- paragraph -->
-Las reglas estándar tienen dos partes: evolución suave con Schrödinger y, al medir, colapso instantáneo a un resultado permitido. Eso plantea preguntas sin respuesta oficial: ¿qué cuenta como medición?, ¿cuándo colapsa?, ¿qué pasa con los resultados no observados? La mecánica cuántica actual es un oráculo útil, no una comprensión genuina.
+Las reglas estándar tienen dos partes. Evolución suave con Schrödinger y, al medir, colapso instantáneo a un resultado permitido. Eso plantea preguntas sin respuesta oficial. ¿Qué cuenta como medición? ¿Cuándo colapsa? ¿Qué pasa con los resultados no observados? La mecánica cuántica actual es un oráculo útil, no una comprensión genuina.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -77,7 +80,10 @@ Las reglas estándar tienen dos partes: evolución suave con Schrödinger y, al 
 | 👁️ | Problema de medición | Lo observado parece distinto de lo que la ecuación describe entre mediciones. |
 
 <!-- key -->
-El lema del capítulo resume el escándalo: lo que vemos al medir parece fundamentalmente distinto de lo que la teoría dice que ocurre cuando nadie mira.
+Lo que vemos al medir parece fundamentalmente distinto de lo que la teoría dice que ocurre cuando nadie mira.
+
+<!-- bridge -->
+Carroll propone eliminar ese quiebre tomando la función de onda en serio desde el principio.
 
 ---
 
@@ -87,13 +93,13 @@ El lema del capítulo resume el escándalo: lo que vemos al medir parece fundame
 ## title: La formulación valiente
 
 <!-- paragraph lead -->
-En la conferencia de Solvay de <span class="num">1927</span>, <span class="person">Niels Bohr</span> defendió usar la cuántica solo para probabilidades de medición, mientras <span class="person">Albert Einstein</span> exigía una descripción completa de la realidad. Carroll reconstruye el camino lógico hacia la <span class="term">mecánica cuántica austera</span> (AQM): tomar la función de onda en serio y suponer que siempre obedece a Schrödinger.
+¿Qué pasa si la función de onda es la realidad completa y nunca colapsa? En la conferencia de Solvay de <span class="num">1927</span>, el físico <span class="person">Niels Bohr</span> defendió usar la cuántica solo para probabilidades de medición. <span class="person">Albert Einstein</span> exigía una descripción completa de la realidad. Carroll reconstruye el camino hacia la <span class="term">mecánica cuántica austera</span> (AQM: solo función de onda y ecuación de Schrödinger, sin colapsos).
 
 <!-- paragraph -->
-Si la función de onda es la realidad y no hay colapsos, medir es una interacción física ordinaria. Un electrón en superposición se entrelaza con el aparato y con el observador, y todos quedan en superposición correlacionada. La salida aparente es que el observador nunca «siente» estar en superposición, lo que llevó a inventar reglas de colapso.
+Si la función de onda es la realidad y no hay colapsos, medir es una interacción física ordinaria. Un electrón en superposición se entrelaza con el aparato y con el observador. Todos quedan en superposición correlacionada. La salida aparente es que el observador nunca «siente» estar en superposición. Eso llevó a inventar reglas de colapso.
 
 <!-- paragraph -->
-La reinterpretación valiente es la de <span class="person">Hugh Everett</span> (<span class="num">1957</span>). Tras la interacción no hay un observador dividido en estados mentales contradictorios, sino <span class="term">múltiples ramas</span> del estado universal, cada una con un observador que vio un resultado definido. No se añadieron mundos al formalismo. Ya estaban implícitos en la superposición desde el principio.
+La reinterpretación valiente es la de <span class="person">Hugh Everett</span> en <span class="num">1957</span>. Tras la interacción no hay un observador dividido en estados mentales contradictorios. Hay <span class="term">múltiples ramas</span> (copias separadas del universo) del estado universal. Cada rama tiene un observador que vio un resultado definido. No se añadieron mundos al formalismo. Ya estaban implícitos en la superposición desde el principio.
 
 <!-- list -->
 - **AQM** — Solo función de onda + Schrödinger; sin postulados de medición.
@@ -103,6 +109,9 @@ La reinterpretación valiente es la de <span class="person">Hugh Everett</span> 
 <!-- key -->
 La formulación valiente elimina el colapso: la medición ramifica la función de onda en mundos separados en lugar de destruir posibilidades.
 
+<!-- bridge -->
+Para entender por qué quedó ese puzzle abierto, Carroll repasa cómo nació la teoría cuántica.
+
 ---
 
 # cap3
@@ -111,13 +120,13 @@ La formulación valiente elimina el colapso: la medición ramifica la función d
 ## title: Cómo surgió la mecánica cuántica
 
 <!-- paragraph lead -->
-El siglo XIX imaginaba materia como <span class="term">partículas</span> y fuerzas como <span class="term">campos</span> clásicos. Los experimentos obligaron a unificar todo en una sola entidad ondulatoria cuántica: al medir bajo ciertas condiciones, el mundo parece corpuscular, pero lo fundamental es la función de onda.
+¿Cómo los experimentos forzaron a unificar partículas y campos en una sola entidad ondulatoria? El siglo XIX imaginaba materia como <span class="term">partículas</span> (trozos localizados de materia) y fuerzas como <span class="term">campos</span> (influencias que llenan el espacio). Los experimentos obligaron a unificar todo en una sola entidad ondulatoria cuántica. Al medir bajo ciertas condiciones, el mundo parece corpuscular. Lo fundamental es la función de onda.
 
 <!-- paragraph -->
-<span class="person">Max Planck</span> (<span class="num">1900</span>) cuantizó la radiación del cuerpo negro. <span class="person">Albert Einstein</span> (<span class="num">1905</span>) propuso fotones reales. <span class="person">Niels Bohr</span> (<span class="num">1913</span>) postuló órbitas electrónicas cuantizadas para salvar la estabilidad atómica (sin cuántica, un electrón clásico caería al núcleo en ~10 picosegundos). <span class="person">Werner Heisenberg</span>, <span class="person">Erwin Schrödinger</span> y <span class="person">Paul Dirac</span> cerraron la teoría nueva hacia <span class="num">1927</span>.
+En <span class="num">1900</span>, el físico <span class="person">Max Planck</span> cuantizó la radiación del cuerpo negro. Einstein propuso en <span class="num">1905</span> fotones reales. Bohr postuló en <span class="num">1913</span> órbitas electrónicas cuantizadas para salvar la estabilidad atómica. Un electrón clásico caería al núcleo en unos diez picosegundos si no existiera la cuántica.
 
 <!-- paragraph -->
-<span class="person">Erwin Schrödinger</span> esperaba paquetes de onda localizados, pero su ecuación dispersa las funciones. <span class="person">Max Born</span> completó el esquema al interpretar Ψ como generador de probabilidades, no de posiciones ocultas. Schrödinger detestó esa lectura. Su gato dormido/despierto buscaba mostrar el absurdo del colapso, no celebrarlo. Los fundadores triunfaron en predicciones pero no acordaron qué representa Ψ.
+Hacia <span class="num">1927</span>, Heisenberg y Schrödinger cerraron la teoría nueva. Paul Dirac la unificó con la relatividad. Schrödinger esperaba paquetes de onda localizados, pero su ecuación dispersa las funciones. Born completó el esquema al interpretar Ψ como generador de probabilidades, no de posiciones ocultas. Schrödinger detestó esa lectura. Su gato dormido/despierto buscaba mostrar el absurdo del colapso, no celebrarlo. Los fundadores triunfaron en predicciones pero no acordaron qué representa Ψ.
 
 <!-- timeline -->
 | year | text |
@@ -131,6 +140,9 @@ El siglo XIX imaginaba materia como <span class="term">partículas</span> y fuer
 <!-- key -->
 La revolución cuántica unificó partículas y campos en Ψ, pero dejó sin resolver si la función de onda describe la realidad o solo nuestra ignorancia.
 
+<!-- bridge -->
+El principio de incertidumbre muestra por qué esa pregunta no es un detalle técnico menor.
+
 ---
 
 # cap4
@@ -139,16 +151,26 @@ La revolución cuántica unificó partículas y campos en Ψ, pero dejó sin res
 ## title: Incertidumbre y complementariedad
 
 <!-- paragraph lead -->
-El principio de incertidumbre no dice que «todo es incierto», sino que <span class="term">posición</span> y <span class="term">momento</span> no pueden ser simultáneamente definidos en un mismo estado. No es ignorancia medible: son cantidades que no existen a la vez en la ontología cuántica.
+¿Por qué posición y momento no pueden definirse a la vez? El principio de incertidumbre no dice que «todo es incierto». Dice que <span class="term">posición</span> (dónde está un objeto) y <span class="term">momento</span> (masa por velocidad) no pueden definirse a la vez en un mismo estado. No es ignorancia medible. Son cantidades que no existen a la vez en la ontología cuántica.
 
 <!-- paragraph -->
-En la doble rendija, electrones individuales dibujan un patrón de interferencia como ondas, pero impactan como partículas. Si detectamos por qué rendija pasan, desaparece la interferencia: el entrelazamiento con el detector destruye la superposición espacial. El experimento refuta la idea de que Ψ solo codifica ignorancia sobre una trayectoria clásica oculta.
+En la doble rendija, electrones individuales dibujan un patrón de interferencia como ondas. Impactan como partículas. Cuando detectamos por qué rendija pasan, la interferencia desaparece. El entrelazamiento con el detector destruye la superposición espacial. El experimento refuta la idea de que Ψ solo codifica ignorancia sobre una trayectoria clásica oculta.
 
 <!-- paragraph -->
-El <span class="term">espín</span> ofrece el modelo más simple (<span class="term">qubit</span>), con solo arriba o abajo según el eje elegido. La función de onda es un vector en un espacio abstracto de resultados, y la regla de Born equivale a Pitágoras (las amplitudes al cuadrado suman 1). Bohr llamó <span class="term">complementariedad</span> al hecho de que descripciones igualmente válidas (posición/momento, onda/partícula) no pueden aplicarse a la vez.
+El espín ofrece el modelo más simple. Es una propiedad interna con solo dos valores según el eje elegido. La función de onda es un vector en un espacio abstracto de resultados. La regla de Born equivale a Pitágoras: las amplitudes al cuadrado suman 1. Bohr llamó complementariedad al hecho de que descripciones igualmente válidas no pueden aplicarse a la vez.
+
+<!-- concept-grid -->
+| icon | title | description |
+|------|-------|-------------|
+| 🧲 | Espín | Propiedad interna con dos valores; modelo del qubit. |
+| 💻 | Qubit | Unidad básica de información cuántica (0 y 1 en superposición). |
+| ⚖️ | Complementariedad | Descripciones válidas (posición/momento, onda/partícula) son mutuamente excluyentes. |
 
 <!-- key -->
 La incertidumbre refleja la estructura de los estados cuánticos, no un límite accidental de nuestro conocimiento ni de nuestros instrumentos.
+
+<!-- bridge -->
+Esa estructura se vuelve aún más extraña cuando dos sistemas comparten una sola función de onda.
 
 ---
 
@@ -158,13 +180,13 @@ La incertidumbre refleja la estructura de los estados cuánticos, no un límite 
 ## title: Entrelazamiento
 
 <!-- paragraph lead -->
-Hay una sola función de onda para el universo entero, no una por partícula. Cuando dos electrones chocan conservando momento total cero, medir uno determina instantáneamente el otro: están <span class="term">entrelazados</span>, no correlacionados por azar clásico.
+¿Por qué medir un electrón puede fijar al instante el estado de otro lejano? Hay una sola función de onda para el universo entero, no una por partícula. Cuando dos electrones chocan conservando momento total cero, medir uno determina instantáneamente el otro. Están <span class="term">entrelazados</span> (ligados de modo que no tienen estados independientes), no correlacionados por azar clásico.
 
 <!-- paragraph -->
-El papel EPR de <span class="num">1935</span> (<span class="person">Einstein</span>, <span class="person">Podolsky</span>, <span class="person">Rosen</span>) argumentó que la cuántica es incompleta si exige «elementos de realidad» locales para ambos espines. <span class="person">Niels Bohr</span> respondió que lo real depende del contexto de medición. La tensión quedó empírica con <span class="person">John Bell</span> (<span class="num">1964</span>): correlaciones cuánticas en ángulo de 45° alcanzan ~71%, imposible en teorías locales clásicas (máximo 50%).
+El papel EPR de <span class="num">1935</span> argumentó que la cuántica es incompleta si exige «elementos de realidad» locales para ambos espines. Einstein lo escribió con Podolsky y Rosen. Bohr respondió que lo real depende del contexto de medición. La tensión quedó empírica con John Bell en <span class="num">1964</span>. Correlaciones cuánticas en ángulo de 45° alcanzan unos 71 por ciento. Eso supera el máximo del 50 por ciento en teorías locales clásicas.
 
 <!-- paragraph -->
-El <span class="term">teorema de no-señalización</span> impide enviar información más rápido que la luz usando entrelazamiento. En Many-Worlds, Bell no exige acción fantasmal. No hay un único resultado definido que deba «avisar» al otro sistema, sino ramas correlacionadas.
+El <span class="term">teorema de no-señalización</span> (la prueba de que el entrelazamiento no envía mensajes más rápido que la luz) impide usar entrelazamiento para comunicación superlumínica. En Many-Worlds, Bell no exige acción fantasmal. No hay un único resultado definido que deba «avisar» al otro sistema. Hay ramas correlacionadas.
 
 <!-- big-numbers -->
 | value | label |
@@ -176,6 +198,9 @@ El <span class="term">teorema de no-señalización</span> impide enviar informac
 <!-- key -->
 El entrelazamiento demuestra que la realidad cuántica no se factoriza en historias locales independientes, como Einstein deseaba.
 
+<!-- bridge -->
+Everett usó ese entrelazamiento universal para explicar por qué parece colapsar la función de onda.
+
 ---
 
 # cap6
@@ -184,16 +209,19 @@ El entrelazamiento demuestra que la realidad cuántica no se factoriza en histor
 ## title: Decoherencia y mundos paralelos
 
 <!-- paragraph lead -->
-<span class="person">Hugh Everett</span> propuso en <span class="num">1957</span> que el universo entero tiene una sola función de onda, sin región clásica externa. La medición es entrelazamiento entre sistema, aparato y entorno. Everett aún no conocía la <span class="term">decoherencia</span>, introducida por <span class="person">Hans Dieter Zeh</span> en <span class="num">1970</span>.
+¿Por qué un aparato macroscópico nunca parece estar en superposición? <span class="person">Hugh Everett</span> propuso en <span class="num">1957</span> que el universo entero tiene una sola función de onda, sin región clásica externa. La medición es entrelazamiento entre sistema, aparato y entorno. Everett aún no conocía la <span class="term">decoherencia</span> (la pérdida de interferencia entre ramas por entrelazamiento con el entorno). La introdujo <span class="person">Hans Dieter Zeh</span> en <span class="num">1970</span>.
 
 <!-- paragraph -->
-Un aparato macroscópico en superposición interactúa con aire, fotones y calor. El entorno se entrelaza de forma distinta con cada rama, impidiendo la <span class="term">interferencia</span> entre ellas. Eso define mundos separados. Como fantasmas en un «mundo fantasma», ramas decoherentes no pueden afectarse mutuamente. La medición no es mística ni requiere conciencia. Basta un grano de polvo entrelazado con el ambiente.
+Un aparato macroscópico en superposición interactúa con aire, fotones y calor. El entorno se entrelaza de forma distinta con cada rama. Eso impide la <span class="term">interferencia</span> (la superposición visible de ondas que se refuerzan o cancelan) entre ellas. Así se definen mundos separados. Ramas decoherentes no pueden afectarse mutuamente. La medición no es mística ni requiere conciencia. Basta un grano de polvo entrelazado con el ambiente.
 
 <!-- paragraph -->
-La historia humana del descubrimiento es dramática. <span class="person">John Wheeler</span> suavizó la tesis para no herir a Bohr. Everett dejó la academia y murió joven (<span class="num">1982</span>). <span class="person">Bryce DeWitt</span> popularizó la etiqueta «Many-Worlds» en los años 70. Carroll estima ramificaciones astronómicas (p. ej. ~2⁵⁰⁰⁰ por segundo por decaimientos en el cuerpo), pero el peso de cada rama (|amplitud|²) mantiene la economía total.
+La historia humana del descubrimiento es dramática. <span class="person">John Wheeler</span> suavizó la tesis para no herir a Bohr. Everett dejó la academia y murió joven en <span class="num">1982</span>. <span class="person">Bryce DeWitt</span> popularizó la etiqueta «Many-Worlds» en los años 70. Carroll estima ramificaciones astronómicas por decaimientos radiactivos en el cuerpo. El peso de cada rama (amplitud al cuadrado) mantiene la economía total.
 
 <!-- key -->
 La decoherencia explica el supuesto colapso: las ramas del entorno dejan de interferir y cada copia del observador experimenta un único resultado clásico.
+
+<!-- bridge -->
+Si no hay colapso ni azar fundamental, queda explicar de dónde sale la probabilidad que usamos cada día.
 
 ---
 
@@ -203,16 +231,19 @@ La decoherencia explica el supuesto colapso: las ramas del entorno dejan de inte
 ## title: De dónde viene la probabilidad
 
 <!-- paragraph lead -->
-La ecuación de Schrödinger es determinista, así que ¿por qué vemos azar? La respuesta everettiana no añade la regla de Born como postulado: reinterpreta la probabilidad como <span class="term">credenciais epistémicas</span> bajo <span class="term">incertidumbre auto-localizadora</span> (<span class="person">Lev Vaidman</span>).
+¿Cómo puede haber azar si la ecuación de Schrödinger es determinista? La respuesta everettiana no añade la regla de Born como postulado. Reinterpreta la probabilidad como <span class="term">credenciales epistémicas</span> (grados de confianza racionales sobre qué rama habitamos). Eso ocurre bajo <span class="term">incertidumbre auto-localizadora</span> (no saber en qué rama quedaste tras ramificar), según <span class="person">Lev Vaidman</span>.
 
 <!-- paragraph -->
-Tras la ramificación, hay dos copias idénticas que no saben en qué rama están. Preguntar «¿en cuál terminaré?» es mal planteado: ambas descendientes son «yo» legítimo (<span class="person">Derek Parfit</span>). El frecuentismo falla porque todos los resultados ocurren en alguna rama con peso distinto. Contar ramas por igual («branch counting») genera inconsistencias al medir de nuevo.
+Tras la ramificación, hay dos copias idénticas que no saben en qué rama están. Preguntar «¿en cuál terminaré?» es mal planteado. Ambas descendientes son «yo» legítimo, según el filósofo <span class="person">Derek Parfit</span>. El frecuentismo falla porque todos los resultados ocurren en alguna rama con peso distinto. Contar ramas por igual genera inconsistencias al medir de nuevo.
 
 <!-- paragraph -->
-La regla «ramas de igual amplitud → igual probabilidad» se generaliza únicamente a probabilidad = amplitud² (Pitágoras en Hilbert). <span class="person">David Deutsch</span> y <span class="person">David Wallace</span> derivan lo mismo desde teoría de decisiones: un agente racional actúa como si viviera en un mundo estocástico con regla de Born, aunque el universo sea determinista y ramificado.
+La regla «ramas de igual amplitud dan igual probabilidad» se generaliza a probabilidad igual a amplitud al cuadrado. <span class="person">David Deutsch</span> y <span class="person">David Wallace</span> derivan lo mismo desde teoría de decisiones. Un agente racional actúa como si viviera en un mundo estocástico con regla de Born. El universo sería determinista y ramificado.
 
 <!-- key -->
 La probabilidad cuántica no es frecuencia en un mundo: es el peso racional que asignamos a cada rama mientras ignoramos cuál habitamos.
+
+<!-- bridge -->
+Carroll responde las objeciones filosóficas más citadas en un diálogo entre padre e hija.
 
 ---
 
@@ -222,16 +253,19 @@ La probabilidad cuántica no es frecuencia en un mundo: es el peso racional que 
 ## title: Diálogo sobre los puzzles cuánticos
 
 <!-- paragraph lead -->
-Carroll encarna las objeciones clásicas en un diálogo entre un físico de partículas (padre) y una especialista en Many-Worlds (hija). La navaja de Occam no condena Everett. Los mundos no se postulan, sino que emergen de Ψ+Schrödinger, mientras las alternativas añaden colapsos, variables ocultas o negaciones de la realidad de Ψ.
+¿Many-Worlds viola la navaja de Occam al multiplicar universos? Carroll encarna las objeciones clásicas en un diálogo entre un físico de partículas (padre) y una especialista en Many-Worlds (hija). La navaja de Occam no condena Everett. Los mundos no se añaden como postulado extra. Emergen de Ψ más Schrödinger. Las alternativas añaden colapsos, variables ocultas o negaciones de la realidad de Ψ.
 
 <!-- paragraph -->
-Many-Worlds sigue siendo falsable porque es cuántica pura. Cualquier evidencia contra interferencia o a favor de señales superlumínicas lo refutaría. Los mundos no se «fusionan» hacia atrás por la misma razón entrópica por la que el café no se desmezcla. El universo primitivo tenía baja entropía y poco entrelazamiento. La flecha cuántica (ramificación) y la termodinámica comparten condiciones iniciales especiales.
+Many-Worlds sigue siendo falsable porque es cuántica pura. Cualquier evidencia contra interferencia o a favor de señales superlumínicas lo refutaría. Los mundos no se «fusionan» hacia atrás. La misma razón entrópica impide que el café se desmezcle. El universo primitivo tenía baja entropía y poco entrelazamiento. La flecha cuántica (ramificación) y la termodinámica comparten condiciones iniciales especiales.
 
 <!-- paragraph -->
-La conservación de energía se mantiene al ramificar. Cada mundo conserva la energía local que percibe, pero su <span class="term">peso</span> (amplitud²) disminuye, de modo que la energía total ponderada se conserva. El número de mundos puede ser indefinido o finito (~2^(10^122) según gravedad cuántica). Lo operativo es el peso relativo, no el conteo. La ramificación puede modelarse como local (a la velocidad de la luz) o global según conveniencia descriptiva.
+La conservación de energía se mantiene al ramificar. Cada mundo conserva la energía local que percibe. Su peso (amplitud al cuadrado) disminuye, de modo que la energía total ponderada se conserva. El número de mundos puede ser indefinido o finito. Lo operativo es el peso relativo, no el conteo. La ramificación puede modelarse como local o global según conveniencia descriptiva.
 
 <!-- key -->
 Las objeciones filosóficas más citadas contra Many-Worlds tienen respuestas internas coherentes si se acepta que los mundos son patrones emergentes, no postulados extra.
+
+<!-- bridge -->
+Antes de la Parte III sobre espaciotiempo, Carroll compara las teorías rivales que evitan los muchos mundos.
 
 ---
 
@@ -241,13 +275,13 @@ Las objeciones filosóficas más citadas contra Many-Worlds tienen respuestas in
 ## title: Alternativas a muchos mundos
 
 <!-- paragraph lead -->
-Carroll revisa tres familias rivales, todas teorías físicas distintas, no meras «interpretaciones». La <span class="term">teoría GRW</span> (<span class="num">1985</span>) modifica Schrödinger con colapsos espontáneos rarísimos en partículas pero frecuentes en objetos macroscópicos entrelazados. Es testeable pero ad hoc y difícil de extender a campos.
+¿Existen teorías físicas distintas que eviten ramificar el universo? Carroll revisa tres familias rivales. No son meras «interpretaciones». La <span class="term">teoría GRW</span> (colapsos espontáneos rarísimos en partículas, frecuentes en objetos macroscópicos) modifica Schrödinger desde <span class="num">1985</span>. Es testeable pero ad hoc y difícil de extender a campos.
 
 <!-- paragraph -->
-La mecánica de <span class="person">de Broglie</span>–<span class="person">David Bohm</span> añade posiciones clásicas guiadas por Ψ de forma <span class="term">no local</span>. Reproduce la cuántica en «equilibrio» pero resulta forzada en teoría cuántica de campos. El <span class="term">QBism</span> trata Ψ como credencia personal del agente. Evita colapsos pero sacrifica un mundo objetivo compartido (<span class="person">Christopher Fuchs</span>, <span class="person">N. David Mermin</span>).
+La mecánica de de Broglie–Bohm añade posiciones clásicas guiadas por Ψ de forma <span class="term">no local</span> (sin influencia limitada por la velocidad de la luz). Reproduce la cuántica en «equilibrio» pero resulta forzada en teoría cuántica de campos. El <span class="term">QBism</span> (tratar Ψ como creencia personal del agente) evita colapsos pero sacrifica un mundo objetivo compartido. Lo defienden Christopher Fuchs y N. David Mermin.
 
 <!-- paragraph -->
-Carroll concede virtudes a cada vía, pero apuesta por Everett porque solo asume Ψ y Schrödinger y se adapta a QFT, cosmología y gravedad sin rehacer el formalismo cada vez. La simplicidad del postulado compensa la riqueza ontológica de las ramas. Otras teorías compran comodidad fenomenológica con ingredientes extra.
+Carroll concede virtudes a cada vía. Apuesta por Everett porque solo asume Ψ y Schrödinger. Se adapta a QFT, cosmología y gravedad sin rehacer el formalismo cada vez. La simplicidad del postulado compensa la riqueza ontológica de las ramas. Otras teorías compran comodidad fenomenológica con ingredientes extra.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -259,6 +293,9 @@ Carroll concede virtudes a cada vía, pero apuesta por Everett porque solo asume
 <!-- key -->
 Las alternativas eliminan mundos añadiendo dinámica, variables o negando la ontología de Ψ, pero pagan complejidad y rigidez frente a la plug-and-play everettiana.
 
+<!-- bridge -->
+Con la apuesta por Everett hecha, Carroll pregunta cómo emerge el espacio clásico desde la función de onda.
+
 ---
 
 # cap10
@@ -267,7 +304,7 @@ Las alternativas eliminan mundos añadiendo dinámica, variables o negando la on
 ## title: El lado humano
 
 <!-- paragraph lead -->
-Aunque existan ramas donde pediste pepperoni y otras donde pediste salchicha (la app <span class="term">Universe Splitter</span> lo ilustra), la vida cotidiana debe seguir la regla de Born como si hubiera un solo mundo. El «suicidio cuántico» no otorga inmortalidad significativa: las ramas donde mueres importan a quien aún está vivo.
+¿Many-Worlds cambia cómo debemos vivir? Aunque existan ramas donde pediste pepperoni y otras salchicha, la vida cotidiana debe seguir la regla de Born como si hubiera un solo mundo. La app <span class="term">Universe Splitter</span> (una app que simula ramificaciones al tomar decisiones triviales) lo ilustra. El «suicidio cuántico» no otorga inmortalidad significativa. Las ramas donde mueres importan a quien aún está vivo.
 
 <!-- paragraph -->
 Después de ramificar, las copias son personas distintas aunque compartan pasado. No comparten recompensas ni experiencias. El utilitarismo debe ponderar utilidades por peso de rama, no duplicar felicidad al medir un espín. Las decisiones humanas son procesos clásicos emergentes en el cerebro. No «causan» ramificación microscópica, aunque haya ramas con elecciones distintas por fluctuaciones diminutas.
@@ -278,6 +315,9 @@ La cuántica no rescata el libre albedrío fuerte. Ni el determinismo de Many-Wo
 <!-- key -->
 Many-Worlds cambia la ontología profunda, pero no el manual de instrucciones práctico: actúa y decide como si las probabilidades cuánticas gobernaran un único mundo.
 
+<!-- bridge -->
+La Parte III conecta esos mundos ramificados con la emergencia del espacio y la materia clásica.
+
 ---
 
 # cap11
@@ -286,16 +326,19 @@ Many-Worlds cambia la ontología profunda, pero no el manual de instrucciones pr
 ## title: ¿Por qué hay espacio?
 
 <!-- paragraph lead -->
-La Parte III pregunta cómo emerge el mundo clásico desde Ψ. Los <span class="term">mundos everettianos</span> no están en los postulados: son descripciones <span class="term">emergentes</span> útiles, como sillas o temperatura, que capturan patrones reales (<span class="person">Daniel Dennett</span>, <span class="person">David Wallace</span>).
+¿Por qué vemos objetos en posiciones definidas si la función de onda vive en un espacio abstracto? Los <span class="term">mundos everettianos</span> (ramas decoherentes interpretadas como realidades separadas) no están en los postulados. Son descripciones <span class="term">emergentes</span> (patrones útiles que capturan regularidades reales), como sillas o temperatura. Lo sostienen el filósofo <span class="person">Daniel Dennett</span> y el físico <span class="person">David Wallace</span>.
 
 <!-- paragraph -->
-La emergencia ocurre cuando podemos descartar casi toda la información microscópica y aun predecir (centro de masa de la Tierra con seis números en lugar de 6×10⁵⁰). Después de la decoherencia, las ramas independientes siguen leyes clásicas casi siempre. El <span class="term">problema de la base preferida</span> pregunta por qué vemos objetos en posiciones definidas. La respuesta es que las interacciones son <span class="term">locales en espacio</span>, no en momento.
+La emergencia ocurre cuando podemos descartar casi toda la información microscópica y aun predecir. El centro de masa de la Tierra se calcula con seis números en lugar de seguir billones de partículas. Después de la decoherencia, las ramas independientes siguen leyes clásicas casi siempre. El problema de la base preferida pregunta por qué vemos objetos en posiciones definidas. La respuesta es que las interacciones son locales en espacio, no en momento.
 
 <!-- paragraph -->
-Estados «puntero» (gato despierto/dormido, aguja arriba/abajo) coinciden con configuraciones espaciales que el entorno distingue al chocar fotones y moléculas. El espacio no es fundamental en la ontología cuántica: es la variable en la que las interacciones del Hamiltoniano son locales. Posición y momento son simétricos en el formalismo, pero la dinámica rompe la simetría a favor del espacio.
+Estados «puntero» (gato despierto/dormido, aguja arriba/abajo) coinciden con configuraciones espaciales que el entorno distingue al chocar fotones y moléculas. El espacio no es fundamental en la ontología cuántica. Es la variable en la que las interacciones del Hamiltoniano son locales. Posición y momento son simétricos en el formalismo, pero la dinámica rompe la simetría a favor del espacio.
 
 <!-- key -->
 El espacio emerge porque la física real acopla lo que está cerca en posición, y la decoherencia selecciona bases de estados espacialmente coherentes como mundos clásicos.
+
+<!-- bridge -->
+Esa imagen requiere la descripción moderna de partículas como excitaciones de campos cuánticos.
 
 ---
 
@@ -305,16 +348,19 @@ El espacio emerge porque la física real acopla lo que está cerca en posición,
 ## title: Teoría cuántica de campos
 
 <!-- paragraph lead -->
-La <span class="term">Teoría del Núcleo</span> (Core Theory) cuantiza campos y describe partículas, gravedad débil y fenómenos cotidianos. Los electrones y quarks son vibraciones en campos. Las partículas son lo que vemos al excitar el <span class="term">vacío</span> cuántico, el estado de mínima energía.
+¿Qué son realmente las partículas si no son bolitas clásicas? La Teoría del Núcleo cuantiza campos y describe partículas, gravedad débil y fenómenos cotidianos. Los electrones y quarks son vibraciones en campos. Las partículas son lo que vemos al excitar el <span class="term">vacío</span> (el estado de mínima energía del campo, no «nada» absoluto). El <span class="term">vacío cuántico</span> es estacionario: no «fluctúa» en el tiempo como metáfora popular sugiere.
 
 <!-- paragraph -->
-El vacío no «fluctúa» en el tiempo. Es un estado estacionario. Lo que llamamos fluctuaciones son efectos de medición local que distorsionan lo observado. La energía del vacío contribuye a la <span class="term">constante cosmológica</span>, medida por la aceleración del universo (<span class="num">1998</span>). La estimación teórica con corte de Planck erra por ~10¹²² (problema de la constante cosmológica).
+Lo que llamamos fluctuaciones son efectos de medición local que distorsionan lo observado. La energía del vacío contribuye a la <span class="term">constante cosmológica</span> (la energía mínima del espacio vacío que acelera la expansión del universo). Se midió por la aceleración cósmica en <span class="num">1998</span>. La estimación teórica con corte de Planck erra por unos 10¹²² órdenes de magnitud. Ese es el problema de la constante cosmológica.
 
 <!-- paragraph -->
-Incluso el vacío está densamente <span class="term">entrelazado</span>: modos en cajas vecinas y lejanas comparten correlaciones. El teorema <span class="term">Reeh-Schlieder</span> implica que una medición local podría, con probabilidad minúscula, corresponder a estados globales arbitrarios (el «Taj Mahal en la Luna»). La localidad dinámica del QFT es la base sobre la que Carroll construirá la gravedad emergente.
+Incluso el vacío está densamente entrelazado. Modos en cajas vecinas y lejanas comparten correlaciones. El teorema Reeh-Schlieder implica que una medición local podría, con probabilidad minúscula, corresponder a estados globales arbitrarios. La localidad dinámica del QFT es la base sobre la que Carroll construirá la gravedad emergente.
 
 <!-- key -->
 En QFT los campos son lo fundamental, el vacío es un estado altamente entrelazado y estacionario, y las partículas son lecturas efectivas de sus excitaciones.
+
+<!-- bridge -->
+Carroll invierte el enfoque habitual: en lugar de cuantizar la gravedad, extrae geometría del entrelazamiento.
 
 ---
 
@@ -324,16 +370,19 @@ En QFT los campos son lo fundamental, el vacío es un estado altamente entrelaza
 ## title: Gravedad dentro de la mecánica cuántica
 
 <!-- paragraph lead -->
-Cuantizar la relatividad general directamente choca con infinitos y con la falta de un espacio de fondo fijo. Carroll invierte el problema: partir de Ψ abstracta y extraer geometría. <span class="person">Ted Jacobson</span> (<span class="num">1995</span>) mostró que si la entropía de entrelazamiento de una región es proporcional al área de su frontera, se puede derivar la ecuación de Einstein.
+¿Por qué cuantizar la relatividad general choca con infinitos y con la falta de un espacio de fondo fijo? Carroll invierte el problema. Parte de Ψ abstracta y extrae geometría. En <span class="num">1995</span>, el físico <span class="person">Ted Jacobson</span> mostró un resultado clave. Si la entropía de entrelazamiento de una región es proporcional al área de su frontera, se puede derivar la ecuación de Einstein.
 
 <!-- paragraph -->
-La estrategia «It from Qubit» descompone el Hamiltoniano en grados de libertad que interactúan solo con vecinos. Eso define una red y, vía entropía de subregiones, una <span class="term">métrica</span> emergente. Trabajos recientes (Cao, Carroll, Michalakis) especifican condiciones bajo las cuales la geometría obedece relatividad general a bajas energías.
+La estrategia «It from Qubit» descompone el Hamiltoniano en grados de libertad que interactúan solo con vecinos. Eso define una red y, vía entropía de subregiones, una <span class="term">métrica</span> (la descripción matemática de distancias y curvatura del espacio). Trabajos recientes de Cao, Carroll y Michalakis especifican condiciones bajo las cuales la geometría obedece relatividad general a bajas energías.
 
 <!-- paragraph -->
-El <span class="term">tiempo</span> puede ser fundamental (Schrödinger) o emergente: la ecuación de <span class="person">Wheeler-DeWitt</span> con energía total cero congela Ψ, y el truco de <span class="person">Page</span>–<span class="person">Wootters</span> (<span class="num">1983</span>) recupera evolución entrelazando un reloj con el resto. La gravedad cuántica completa sigue sin datos experimentales (G es ~10⁴³ veces más débil que el electromagnetismo en escala atómica).
+El tiempo puede ser fundamental (Schrödinger) o emergente. La ecuación de Wheeler-DeWitt con energía total cero congela Ψ. El truco de Page–Wootters de <span class="num">1983</span> recupera evolución entrelazando un reloj con el resto. La gravedad cuántica completa sigue sin datos experimentales. G es unos 10⁴³ veces más débil que el electromagnetismo en escala atómica.
 
 <!-- key -->
 La gravedad podría no requerir cuantizar el espaciotiempo clásico, sino emerger del patrón de entrelazamiento en la función de onda del universo.
+
+<!-- bridge -->
+Los agujeros negros muestran dónde esa localidad emergente empieza a fallar.
 
 ---
 
@@ -343,13 +392,13 @@ La gravedad podría no requerir cuantizar el espaciotiempo clásico, sino emerge
 ## title: Más allá del espacio y el tiempo
 
 <!-- paragraph lead -->
-<span class="person">Stephen Hawking</span> demostró que los agujeros negros emiten radiación térmica y pierden masa. La temperatura de uno solar es ~6×10⁻⁸ K. Evaporaría en ~10⁶⁷ años. La historia popular de «pares virtuales» es metáfora. Lo real es la evolución de Ψ de campos cerca del horizonte.
+¿Qué nos enseñan los agujeros negros sobre los límites del espacio? <span class="person">Stephen Hawking</span> demostró que emiten radiación térmica y pierden masa. La temperatura de uno solar es unos 6×10⁻⁸ kelvin. Evaporaría en unos 10⁶⁷ años. La historia popular de «pares virtuales» es metáfora. Lo real es la evolución de Ψ de campos cerca del horizonte.
 
 <!-- paragraph -->
-El puzzle de la información sigue abierto. La radiación Hawking parece térmica aleatoria y destruiría la información del objeto caído, violando la reversibilidad cuántica. La mayoría apuesta a que la información escapa codificada en la radiación, pero hace falta gravedad cuántica completa.
+El puzzle de la información sigue abierto. La radiación Hawking parece térmica aleatoria y destruiría la información del objeto caído. Eso violaría la reversibilidad cuántica. La mayoría apuesta a que la información escapa codificada en la radiación, pero hace falta gravedad cuántica completa.
 
 <!-- paragraph -->
-La entropía de Bekenstein-Hawking (proporcional al área del horizonte) sugiere que los grados de libertad viven en la superficie, no en el volumen. Eso apunta al principio <span class="term">holográfico</span>. La gravedad fuerte hace fallar la localidad estricta de vecinos cuánticos. El espacio puede ser proyección de datos en una frontera. Many-Worlds facilita aceptar que el espacio no es absoluto, sino dependiente del régimen.
+La entropía de Bekenstein-Hawking es proporcional al área del horizonte. Sugiere que los grados de libertad viven en la superficie, no en el volumen. Eso apunta al principio <span class="term">holográfico</span> (la idea de que la información de un volumen se codifica en su frontera). La gravedad fuerte hace fallar la localidad estricta de vecinos cuánticos. El espacio puede ser proyección de datos en una frontera. Many-Worlds facilita aceptar que el espacio no es absoluto, sino dependiente del régimen.
 
 <!-- key -->
 Los agujeros negros muestran que la localidad y el espacio tridimensional son aproximaciones: la información parece vivir en fronteras, no en el volumen que percibimos.
@@ -365,7 +414,7 @@ Los agujeros negros muestran que la localidad y el espacio tridimensional son ap
 | title | description |
 |-------|-------------|
 | Función de onda | Estado cuántico completo; en AQM describe la realidad, no solo creencias. |
-| Problema de medición | Tensión entre evolución Schrödinger y resultados definidos al observar. |
+| Problema de la medición | Tensión entre evolución Schrödinger y resultados definidos al observar. |
 | Decoherencia | Entrelazamiento con el entorno que impide interferencia entre ramas. |
 | Many-Worlds | Formalismo mínimo: ramificación sin colapso ni variables extra. |
 | Regla de Born | Probabilidad = |amplitud|²; emerge de geometría o credencias racionalizadas. |
@@ -423,7 +472,7 @@ Los agujeros negros muestran que la localidad y el espacio tridimensional son ap
 | Ted Jacobson | Gravedad entropica |
 | Stephen Hawking | Radiación de agujeros negros · Entropía BH |
 | David Bohm | Mecánica con variables ocultas no local |
-| Sean Carroll | Divulgación y investigación en fundamentos y gravedad cuántica |
+| Sean Carroll | Divulgación e investigación en fundamentos y gravedad cuántica |
 
 ---
 

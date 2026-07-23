@@ -2,23 +2,23 @@ Determinado: Una ciencia de la vida sin libre albedrío, de Robert M. Sapolsky.
 
 La idea central
 
-No hay tortuga flotando: cada acto es biología e historia que no elegimos.
+No hay tortuga flotando en el aire, porque cada acto es biología e historia que no elegimos.
 
-Estudiar solo intención o segundos previos es mirar el final de Casablanca sin la película.
+Estudiar solo la intención o los segundos previos es mirar el final de Casablanca sin haber visto la película.
 
-Retribución placentera sobrevive porque ignora causas.
+El caos, la emergencia y el azar cuántico asombran, pero ninguno inserta un agente libre en la ecuación.
 
-Aceptar determinismo puede liberar de culpa absurda y estigma biológico.
+El placer de castigar sobrevive porque ignora las causas que produjeron al culpable.
 
-La ciencia no da sentido cósmico, pero sí menos odio y más cuarentena sensata.
+Aceptar el determinismo no da un sentido cósmico, pero sí menos crueldad y más cuarentena sensata.
 
 Capítulo uno. Tortugas hasta el fondo
 
-Robert M. Sapolsky abre con la anécdota de William James y la anciana que cree que el mundo descansa sobre tortugas infinitas. Burlarse de ella es fácil. Lo absurdo es creer que alguna tortuga flota sin causa.
+¿Por qué una anciana convencida de que el mundo descansa sobre tortugas infinitas resume todo el libro? El neurobiólogo Robert M. Sapolsky abre con la anécdota que el filósofo William James contó sobre esa mujer. Reírse de ella es fácil. Lo absurdo es creer que alguna tortuga flota sin nada debajo: conducta sin causa previa.
 
-Cada comportamiento, heroico o vil, tiene causas previas. Van desde las neuronas del segundo anterior hasta pensamientos, hormonas, meses de experiencia, adolescencia, infancia, feto, genes, cultura, ecología y evolución. No hay causa sin causa. Somos suerte biológica y ambiental acumulada sobre la que no tuvimos control.
+La demostración es acumulativa. Cualquier acto, heroico o vil, procede de las neuronas del segundo anterior. Esas neuronas dependen de las hormonas de esa mañana y del estrés de los meses previos. También dependen de la adolescencia, la infancia y la vida fetal. También de genes, cultura y evolución. Cada nivel explica al siguiente sin dejar hueco. Somos, según Sapolsky, suerte biológica y ambiental acumulada sobre la que nunca tuvimos control.
 
-Negar libre albedrío implica varias consecuencias. No hay culpa retributiva merecida. El castigo solo sirve para contener peligro. El elogio es herramienta instrumental, no merecimiento. La mayoría cree en libre albedrío cuando importa: filósofos (~90 %), jueces, padres e incluso primates atribuyen más culpa a conductores humanos que a coches autónomos.
+Por eso su postura es el incompatibilismo duro (la idea de que determinismo y libre albedrío no pueden coexistir). Si todo tiene causa, no hay desierto moral (mérito o culpa que alguien realmente merezca). No existe culpa retributiva ni mérito absoluto. El castigo solo se justifica para contener un peligro, no para saldar una deuda. La resistencia es enorme porque casi todos creen en el libre albedrío cuando importa. Cerca del 90 % de los filósofos lo defienden. Incluso los primates atribuyen más culpa a un humano que a una máquina.
 
 🐢. Tortugas
 
@@ -26,188 +26,240 @@ Negar libre albedrío implica varias consecuencias. No hay culpa retributiva mer
 
 ⚖️. Incompatibilismo duro
 
-Idea clave: Ninguna disciplina sola falsifica el libre albedrío; todas juntas no dejan grieta alguna.
+Idea clave: Ninguna ciencia por sí sola derriba el libre albedrío, pero todas encadenadas no dejan grieta por donde meterlo: somos tortugas hasta el fondo.
+
+Si la tesis exige causas en cadena, el siguiente paso es mostrar por qué mirar solo el instante del acto distorsiona por completo la pregunta.
 
 Capítulo dos. Los tres minutos finales de una película
 
-Una escena nocturna en un aeródromo: un civil dispara a un militar y un policía no lo detiene. Fuera de contexto, la escena parece corrupción y asesinato a sangre fría. Es el final de Casablanca. La intención microscópica no basta para entender la acción.
+¿Por qué un asesinato a sangre fría puede ser, en realidad, un final conmovedor? Sapolsky imagina una escena nocturna en un aeródromo. Un civil dispara a un oficial y un policía no lo arresta. Aislada, parece un crimen inexplicable. Es el final de Casablanca, y sin las dos horas previas resulta ininteligible. Lo mismo sucede con las decisiones humanas cuando solo miramos el instante del acto.
 
-Décadas de estudios libetianos (Benjamin Libet, 1983) muestran potencial de preparación ~300 ms antes de sentir decidir. El fMRI llega hasta 10 s antes (Haynes). Neuronas individuales predicen con ~80 % de precisión (Itzhak Fried). Los compatibilistas contraatacan con tareas artificiales, predicción ~60 % y el free won't como veto.
+Ese instante es lo que estudian los experimentos libetianos (inspirados en el neurocientífico Benjamin Libet). En 1983, Libet midió un potencial de preparación unos 300 ms antes de que el sujeto sintiera decidir. Haynes usó resonancia magnética para anticipar la elección hasta 10 s antes. Itzhak Fried, registrando neuronas sueltas, acertó cerca del 80 % de las veces. La conciencia llega tarde a su propia fiesta.
 
-Sapolsky concluye que, aunque Libet no mate el libre albedrío, es irrelevante. Falta la pregunta central: ¿de dónde vino la intención? Podemos hacer lo que intendemos, pero nunca intendemos lo que intendimos. Juzgar solo el presente, como cuando Daniel Dennett dice que la suerte se promedia con el tiempo, es miopía moral.
+Aquí Sapolsky hace una concesión clave. Los compatibilistas objetan que las tareas son artificiales. Sostienen que la predicción real ronda el 60 % y que existe un free won't, un veto de última hora. Puede que tengan razón y que Libet no mate el libre albedrío. Da igual, porque la pregunta decisiva es anterior: ¿de dónde salió la intención? Podemos hacer lo que queremos, pero no elegimos qué queremos.
 
-Idea clave: Estudiar los últimos segundos antes del acto es ver solo el final de la película.
+Idea clave: Discutir los milisegundos previos al acto es pelear por el desenlace ignorando toda la película que lo volvió inevitable.
+
+Si la intención no nace en el instante del acto, hay que rastrearla hacia atrás en la cadena causal.
 
 Capítulo tres. ¿De dónde viene la intención?
 
-Este capítulo recorre la cadena causal completa: desde estímulos sensoriales y memoria hasta circuitos frontales, historial de estrés, epigenética, genes y cultura. La intención consciente es un epifenómeno tardío en una cascada mucho más larga.
+¿De dónde sale la intención si no aparece de la nada en el instante de actuar? Sapolsky recorre la cadena que va desde el estímulo sensorial inmediato hasta los genes. La voluntad consciente es el último eslabón visible de una cascada larguísima. Esa cascada empezó mucho antes de que sintiéramos decidir.
 
-Experimentos de priming muestran influencias inconscientes. Por ejemplo, la palabra ocean inclina a elegir Tide. Incluso resistir el priming es estar determinado por reconocerlo. La meta-consciencia no restaura libertad.
+En los segundos previos, factores invisibles empujan el juicio. Un olor a basura activa la ínsula (región cerebral del disgusto) y endurece las condenas morales. Un rostro bello enciende la corteza orbitofrontal y nos hace percibir a esa persona como más buena. El llamado efecto Macbeth muestra que sentirse moralmente sucio despierta ganas de lavarse las manos. Horas antes influyen las hormonas. Un juez con hambre concede menos libertades condicionales.
 
-El desafío permanece: mostrar una neurona causa de comportamiento independiente de toda biología previa — nadie lo ha hecho.
+El priming (activación inconsciente de ideas por estímulos previos) completa el cuadro. Oír ocean inclina a nombrar la marca Tide. Sapolsky remata señalando la trampa habitual. Incluso resistir un impulso o reconocer el priming es una conducta con causas, no un acto libre. La meta-conciencia no devuelve la libertad: agrega otro eslabón determinado a la misma cadena.
 
-Idea clave: La intención es el último eslabón visible de una cadena que empezó mucho antes del acto.
+Idea clave: Nadie ha mostrado jamás una neurona que cause una intención sin haber sido antes moldeada por biología y ambiente que no elegimos.
+
+Los compatibilistas intentan rescatar la libertad en el pasado o en la fuerza de voluntad, y Sapolsky examina esas rendijas.
 
 Capítulo cuatro. Voluntad de hierro: mito del grit
 
-Algunos compatibilistas postergan libre albedrío al pasado: tuviste tiempo de convertirte en otra persona. Neil Levy resume esa postura. Sapolsky responde que el was fue alguna vez now, y también estuvo determinado.
+¿Puede el pasado ser la rendija donde se cuela el libre albedrío? Los compatibilistas más finos aceptan la cadena causal, pero apelan al tiempo. Sostienen que tuviste tiempo de convertirte en otra persona, postura que resume el filósofo Neil Levy. Sapolsky responde que ese pasado también fue alguna vez un presente igual de determinado. Trasladar la libertad atrás no la crea: solo la esconde.
 
-El mito central separa lo que te dieron de lo que haces con ello (grit, resistir impulsos). El caso Jerry Sandusky lo ilustra. James Cantor admite que no se elige ser pedófilo, pero sí elegir no ser abusador. Es un dualismo falso.
+El mito más querido es el del grit (perseverancia y fuerza de voluntad como mérito personal). Separa lo que te dieron de lo que hiciste con ello. El caso del entrenador Jerry Sandusky lo tensiona. James Cantor admite que nadie elige ser pedófilo aunque sí podría elegir no abusar. Sapolsky lo llama dualismo encubierto, porque ambas columnas de la tabla son biología.
 
-La corteza prefrontal (PFC) madura hacia mediados de los veinte. Regula impulsos, reglas reversibles y control social. Ambos lados de la tabla, atributos biológicos y carácter, son biología más entorno.
+La razón es concreta. La fuerza de voluntad vive en la corteza prefrontal (región cerebral que regula impulsos y reglas sociales). No termina de madurar hasta mediados de los veinte. Esa corteza se construye con genes, hormonas fetales, infancia y cultura, todo ajeno a nuestra elección. Quien resiste una tentación lo hace con un cerebro que le fue dado.
 
-Idea clave: Willpower no es polvo de hadas sobre neuronas: es PFC moldeada por genes y experiencia.
+Idea clave: La fuerza de voluntad no es polvo mágico rociado sobre las neuronas, sino una corteza prefrontal esculpida por genes y experiencia.
+
+Antes de refutar las escapatorias científicas, Sapolsky necesita explicarlas, y la primera es el caos.
 
 Capítulo cinco. Introducción al caos
 
-El universo lineal permitía predecir X+1 desde X con error proporcional —base del reduccionismo. Edward Lorenz (1963) descubrió lo contrario: redondear 0,506127 a 0,506 desvió totalmente el clima simulado.
+¿Cómo puede un sistema impredecible seguir siendo completamente causal? Antes de refutar las escapatorias científicas, Sapolsky empieza por el caos determinista (orden impredecible que obedece reglas fijas). El viejo mundo lineal permitía predecir el estado siguiente desde el actual con error proporcional. Esa lógica es la base del reduccionismo (explicar lo complejo descomponiéndolo en piezas simples). El caos rompe esa comodidad sin abandonar la causalidad.
 
-Tres o más cuerpos interactuando (problema de tres cuerpos) vuelven impredecible el futuro: dependencia sensible de condiciones iniciales y efecto mariposa. Aun así, el sistema es determinista —caótico, no aleatorio.
+El ejemplo fundacional es el meteorólogo Edward Lorenz en 1963. Al redondear un dato de 0,506127 a 0,506 obtuvo un clima simulado completamente distinto. Es la dependencia sensible de las condiciones iniciales, el célebre efecto mariposa. Un cambio minúsculo en el arranque produce un futuro irreconocible. Cada paso sigue reglas fijas.
 
-Automatons celulares (reglas locales tipo Conway) muestran patrones complejos imposibles de predecir reductivamente. No hay libre albedrío en esas grietas.
+Lo mismo ocurre con el problema de los tres cuerpos y con los autómatas celulares. Reglas locales simples generan patrones ornados que ningún atajo reductivo puede anticipar. La lección sostendrá los próximos capítulos. Hay sistemas imposibles de predecir en la práctica que son, sin embargo, absolutamente deterministas.
 
-Idea clave: Caos = determinismo + impredecibilidad práctica, no libertad.
+Idea clave: El caos no es azar sino orden escondido, impredecible para nosotros pero causal hasta el último decimal.
+
+Si el caos parece una puerta al libre albedrío, el siguiente capítulo muestra por qué confundir impredecible con indeterminado es un error.
 
 Capítulo seis. ¿Tu libre albedrío es caótico?
 
-Algunos buscan libre albedrío en sistemas caóticos biológicos: comportamiento complejo emergente de reglas simples. Sapolsky rechaza la inferencia: impredecibilidad no es autonomía.
+¿Salva el caos al libre albedrío al volver el cerebro impredecible? Sapolsky derriba la primera escapatoria. Pensadores como Eilenberger creen que, si el caos abre esa puerta, la agencia queda otra vez en juego. El argumento comete dos errores lógicos que conviene separar.
 
-El cerebro puede ser sensible a condiciones iniciales, pero sigue siendo máquina causal. Confundir no puedo predecir con nadie causó es error lógico repetido en debates filosóficos.
+El primero confunde impredecible con indeterminado. El determinismo es una cuestión ontológica sobre por qué algo ocurrió. La predictibilidad es epistemológica: trata de si podemos calcularlo. La demencia frontotemporal lo ilustra. En 1922, sin poder anticiparla, la habríamos llamado libre elección. En 2022, con la mutación genética MAPT (asociada a esa enfermedad) a la vista, la llamamos biología. El libre albedrío no puede ser solo el nombre de la biología que aún no entendemos.
 
-Idea clave: Caos no inserta un agente libre en la ecuación.
+El segundo error niega toda causa. La convergencia y la sobredeterminación lo muestran: dos incendios juntos queman un edificio. El caso legal Kingston contra Chicago (1927) es otro ejemplo. El reduccionismo ingenuo falla porque no siempre hay una causa única y rastreable. Que no puedas señalar cuál de dos torres de tortugas te sostiene no significa que estés flotando en el aire.
+
+Idea clave: Que la causa de una conducta sea imposible de calcular no la convierte en una conducta sin causa.
+
+La segunda escapatoria invoca la complejidad emergente, y Sapolsky la introduce antes de examinarla.
 
 Capítulo siete. Introducción a la complejidad emergente
 
-Emergencia: propiedades del conjunto (húmedo, vivo, consciente) que no aparecen en piezas aisladas. Las interacciones no lineales producen patrones nuevos —flocking, mercados, mente.
+¿Cómo nace lo complejo a partir de piezas simples sin un diseñador central? La segunda escapatoria necesita el concepto de emergencia (propiedades nuevas del conjunto que no están en cada pieza). De reglas locales simples, repetidas por miles de componentes tontos, brota complejidad adaptativa sin plano ni arquitecto. El físico Philip Anderson lo resumió como more is different: más es diferente.
 
-Michael Gazzaniga y otros compatibilistas ubican la responsabilidad en el nivel social, no en neuronas. Sapolsky responde que la socialidad también es producto biológico. Declararla libre por convención no la hace causa sui.
+Los ejemplos abundan en biología. Las hormigas y las abejas resuelven problemas colectivos sin líder. Un moho mucilaginoso reconstruye la red ferroviaria de Tokio guiado solo por reglas de exploración y refuerzo. La bifurcación iterativa de los fractales mete estructuras casi infinitas en espacios finitos. Así caben miles de millones de capilares en una fracción mínima del cuerpo.
 
-Idea clave: Emergencia explica novedad, no exoneración.
+Estos sistemas siguen distribuciones de ley de potencia: pocos nodos concentran casi todo, como la regla del 80 y 20. Aun así, cada pieza obedece instrucciones triviales. La complejidad deslumbrante tienta a suponer que allí ocurre algo mágico o indeterminado. Ese será el gancho del siguiente capítulo.
+
+Idea clave: La emergencia explica cómo nace la novedad a partir de piezas simples, no cómo esas piezas dejarían de obedecer sus causas.
+
+Si la mente emerge del cerebro, ¿recupera eso la agencia libre? Sapolsky responde en el capítulo siguiente.
 
 Capítulo ocho. ¿Tu libre albedrío emerge?
 
-Algunos argumentan que la mente emerge del cerebro y luego lo controla, un círculo que salvaría agencia. Sapolsky lo considera circular. Los niveles superiores siguen siendo físicos.
+¿Puede la mente emerger del cerebro y luego gobernarlo con libertad? El filósofo Christian List (2019) sostiene exactamente eso y rescata la agencia. Sapolsky responde con tres objeciones que cierran también esta puerta.
 
-Consciencia puede ser necesaria para ciertas conductas flexibles, pero no introduce causalidad acausal. El compatibilismo social repite el truco de cambiar de nivel sin escapar determinismo.
+La primera repite el error del caos: tomar lo impredecible por indeterminado. La segunda ataca el truco técnico del coarse-graining, que declara idénticos estados que solo son parecidos. Basta un contraejemplo químico. Dos moléculas casi iguales pueden ser estrógeno o testosterona, y esa diferencia mínima lo cambia todo. Redondear detalles no es lícito.
 
-Idea clave: Emerger no es flotar: sigue siendo tortugas.
+La tercera admite que existe causalidad descendente (influencia de un nivel superior sobre piezas inferiores), pero débil. El experimento de conformidad de Asch (2005) muestra que la presión del grupo altera hasta la corteza visual. Aun así, una neurona no se libera de su historia por estar acompañada por millones de otras. El conjunto sigue hecho de ladrillos causales.
+
+Idea clave: Emerger no es flotar, porque incluso la mente que surge del cerebro sigue estando hecha de tortugas apiladas.
+
+La escapatoria más seductiva es la indeterminación cuántica, la única que ofrece azar genuino.
 
 Capítulo nueve. Introducción a la indeterminación cuántica
 
-La mecánica cuántica introduce genuina indeterminación en partículas. ¿Rescata libre albedrío? Laplace estaba incompleto. El universo no es billar clásico.
+¿Puede el azar subatómico abrir una grieta para el libre albedrío? La tercera escapatoria es la física cuántica, la única que ofrece indeterminación genuina. A escala subatómica el universo de Laplace se quiebra de verdad. Por eso conviene entender qué promete antes de ver si cumple.
 
-Mutaciones por rayos cósmicos ilustran azar en evolución, pero escala subatómica rara vez altera decisiones humanas macroscópicas. Usar cuántica para moral es mezclar niveles de análisis.
+Sapolsky repasa las rarezas fundacionales. La doble rendija de Young (1801) revela la dualidad onda y partícula. Se suman la superposición, el problema de la medición y el tunelamiento. El entrelazamiento conecta partículas a enormes distancias más rápido que la luz. Los experimentos de Bell mostraron que Einstein estaba equivocado cuando insistía en que Dios no juega a los dados.
 
-Idea clave: Indeterminación cuántica ≠ elección responsable.
+El propio autor admite que apenas domina esta física y que el tema atrae a excéntricos como un imán. Reconoce que la indeterminación es real y contraintuitiva. Eso la vuelve el candidato más tentador para quienes buscan una grieta donde alojar la libertad.
+
+Idea clave: En el fondo del mundo hay auténtico azar cuántico, y esa rareza real es lo que hace atractiva la última escapatoria.
+
+Si el azar cuántico llegara a la conducta, ¿salvaría la agencia o solo la volvería errática?
 
 Capítulo diez. ¿Tu libre albedrío es aleatorio?
 
-Si decisiones fueran aleatorias cuánticas, serían suerte, no yo eligiendo. Robert Kane propuso Self-Forming Actions en momentos de crisis — Sapolsky las disuelve en biología igual que impulsos ordinarios.
+¿Rescata el azar cuántico la libertad o solo la vuelve impredecible y absurda? Sapolsky cierra la puerta cuántica con tres golpes. Primero, esos efectos no burbujean hasta la conducta. El cerebro es cálido, húmedo y ruidoso, y la decoherencia los borra mucho antes de que un pensamiento se forme. Max Tegmark refutó por esta vía la teoría de los microtúbulos de Penrose y Hameroff.
 
-Azar y determinismo son las únicas opciones. Ninguna produce el libre albedrío que la gente cree tener.
+Segundo, aunque el azar cuántico llegara a las neuronas, solo daría aleatoriedad, no agencia. Searle pregunta cómo se pasaría del ruido puro a la racionalidad. Lo que valoramos moralmente es la consistencia del carácter de una persona. Una conducta lanzada al azar no sería más libre. Sería errática e imputable a un dado.
 
-Idea clave: Randomness no es agency.
+Tercero, los modelos de aprovechar el azar, como los de Robert Kane en momentos de decisión crítica, siempre necesitan un filtro. Ese filtro elige qué fluctuación seguir. Los criterios vienen otra vez de la biología y la historia del capítulo tres. El azar resulta tan implacable como la necesidad.
+
+Idea clave: Si una acción fuera puro azar cuántico sería suerte lanzada, no una elección tuya de la que puedas enorgullecerte.
+
+Con las escapatorias cerradas, Sapolsky hace una pausa para recapitular antes de preguntar cómo vivir sin libre albedrío.
 
 10.5. Interludio
 
-Breve pausa narrativa en el libro: diálogo interno (my brain: click them / me: why? / my brain: you gotta) ilustra la dissociación entre impulsos neuronales y narrativa consciente de control.
+¿Qué ocurre cuando el cerebro manda y el yo pregunta en vano por qué? Sapolsky hace una pausa para recapitular la primera mitad con un diálogo interno. El cerebro ordena y el yo obedece preguntando sin respuesta. Es la imagen viva de la tesis: la voz que cree decidir habla después de que los procesos subterráneos ya resolvieron.
 
-Refuerza que la voz que cree decidir llega después de procesos subterráneos — tono lúdico antes de preguntar si negar libre albedrío desata el caos social.
+El autor recuerda que ni siquiera pretende convencer a todos, solo desafiar la fe en la libertad. Cuenta que puede predecir qué estudiante levantará libremente el lápiz. Admite que hasta los chimpancés parecen creerse autores de sus actos. La impredecibilidad sigue existiendo por el caos, pero la ignorancia se achica año a año.
 
-Idea clave: La conversación cerebro-yo resume el libro en tres líneas.
+Idea clave: La breve conversación entre el cerebro que manda y el yo que pregunta resume el libro entero antes de girar hacia cómo vivir sin libre albedrío.
+
+La segunda mitad enfrenta el miedo práctico: sin libre albedrío, ¿no correríamos todos amok?
 
 Capítulo 11. ¿Nos descontrolaremos?
 
-El temor clásico es que, sin libre albedrío, todos correrían amok. Los estudios de Katherine Vohs muestran que leer a Francis Crick sobre determinismo aumenta trampa, agresión con salsa picante y reduce gratitud. Los efectos son pequeños y la replicación es mixta.
+¿Nos volveríamos crueles si dejáramos de creer en el libre albedrío? La segunda mitad enfrenta ese miedo práctico. Los estudios de Katherine Vohs sugerían que leer a Francis Crick sobre determinismo aumentaba la trampa y la agresión. También reducía la gratitud. El problema es que esos efectos son pequeños y replican mal.
 
-Meta-análisis 2022 (~145 experimentos): manipulaciones reducen creencia en libre albedrío sin efecto consistente en ética. Paralelo con ateísmo: la gente teme inmoralidad atea, pero observando conducta real, diferencias desaparecen al controlar edad, sexo, red social.
+Un meta-análisis de 2022 con unos 145 experimentos confirmó algo distinto. Se puede debilitar la creencia en el libre albedrío sin un efecto ético consistente. El paralelo con el ateísmo es esclarecedor. Se teme la inmoralidad de quien no cree en dioses moralizantes. Al medir conducta real y controlar edad, sexo y red social, las diferencias se esfuman. La secular Escandinavia es de las más decentes.
 
-El priming religioso mejora prosocialidad en creyentes. El priming secular (deber cívico) hace lo mismo en ateos. Valores distintos, decencia comparable cuando se activan.
+Sapolsky añade un matiz en forma de curva en U. Los que corren peligro de portarse mal son quienes tienen una creencia tibia y maleable. No los escépticos firmes ni los creyentes firmes: en el estudio de Crone y Levy resultan igual de éticos. Quien piensa hondo llega a una moral decente sin importar su credo.
 
-Idea clave: Negar libre albedrío no convierte automáticamente a la gente en jerks de laboratorio.
+Idea clave: Perder la fe en el libre albedrío no vuelve cruel a la gente, porque la decencia depende de la identidad moral, no de esa creencia.
+
+Determinismo no significa inmovilidad: el siguiente capítulo muestra cómo cambiamos sin actos libres.
 
 Capítulo 12. Engranajes antiguos: ¿cómo cambia?
 
-Determinismo no implica estasis: cerebros cambian, comportamientos cambian. Plasticidad, terapia, hormonas, entorno —todo causal, nada libre.
+¿Cómo cambia alguien en un universo sin libre albedrío? Sapolsky aclara que no cambiamos de opinión por un acto libre. Somos cambiados por las circunstancias mediante una maquinaria neuroquímica antiquísima. Esa antigüedad es motivo de optimismo, no de resignación.
 
-Sapolsky revisa mecanismos de cambio (extinción, aprendizaje, intervención social) compatibles con incompatibilismo. La pregunta ¿puede cambiar? es distinta de ¿puede elegir libremente cambiar?.
+El modelo es la babosa marina Aplysia, cuyo estudio le dio el Nobel a Eric Kandel en 2000. Un solo shock añade neurotransmisor a una sinapsis. Cuatro shocks estabilizan una proteína. La repetición construye conexiones nuevas mediante mensajeros como cAMP, PKA y CREB. Esas mismas moléculas operan en el condicionamiento del parpadeo y en el miedo de la amígdala que estudió LeDoux.
 
-Idea clave: Un mundo determinista puede ser un mundo donde las personas se transforman.
+Lo asombroso es que humanos y Aplysia no comparten ancestro desde hace unos 500 millones de años. Aun así usan la misma química para aprender. Lo mismo que graba un reflejo puede grabar un prejuicio. Un discurso que repite que cierto grupo es peligroso lo demuestra. También puede grabar lo contrario. El mundo nos moldea, incluso cuando buscamos que nos moldee.
+
+Idea clave: Un universo sin libre albedrío es un universo donde la gente igual se transforma, movida por la misma química del aprendizaje que compartimos con una babosa.
+
+Abandonar el libre albedrío parece impensable, pero Sapolsky recuerda que ya lo hicimos con dominios enteros de la conducta.
 
 Capítulo 13. Ya lo hicimos antes
 
-Precedentes históricos de abandonar ideas morales basadas en fantasía: fin de brujería como crimen real, avances en psiquiatría, abolición progresiva de castigos corporales.
+¿Es inédito dejar de culpar cuando la ciencia explica la conducta? Sapolsky recuerda que ya lo hicimos con dominios enteros. Cada vez que la ciencia explicó algo que atribuíamos a la voluntad o al mal, dejamos de culpar. La sociedad no se derrumbó. Mejoró.
 
-Las sociedades funcionan sin creer en brujas poseídas. Pueden reorientarse hacia cuarentena médica en lugar de retribución. Ese cambio radical de marco ya ocurrió.
+La epilepsia fue durante cuatro mil años castigo divino o posesión. El manual de caza de brujas Malleus maleficarum (1487) la sancionó. También lo hizo la esterilización forzada del caso Buck contra Bell (1927). Hoy la entendemos como un exceso de excitación neuronal. A nadie se le ocurre culpar moralmente a quien sufre un ataque súbito al volante. Solo le retiramos la licencia por precaución.
 
-Idea clave: Rechazar libre albedrío no es sin precedente cultural.
+La esquizofrenia siguió el mismo arco. La psiquiatría culpó a la madre esquizofrenógena hasta revelarse como trastorno del neurodesarrollo. Tiene base genética y dopaminérgica. El cambio de opinión público llegó con campañas y programas de televisión que mostraban cerebros de gemelos. El caso de conductores que no toman su medicación recuerda que aún nos aferramos a la culpa en los bordes. No medicarse es tan biológico como el ataque mismo.
+
+Idea clave: Rechazar el libre albedrío no tiene nada de inédito, porque ya expulsamos la culpa de la epilepsia y la esquizofrenia y salimos ganando.
+
+Si tenemos precedentes y argumentos, ¿por qué cuesta tanto soltar la justicia retributiva?
 
 Capítulo 14. El placer del castigo
 
-Reforma de sistemas basados en tonterías no basta — brujas con glándulas lagrimales atrofiadas siguen siendo brujas en el marco. Retribución disfrutada: masacre de leprosos (1321), ejecución de Damiens (1757), último ahorcamiento público de Rainey Bethea (1936).
+¿Por qué cuesta tanto soltar la justicia retributiva si tenemos precedentes y argumentos? La respuesta de Sapolsky es incómoda. Castigar a quien hizo daño evolucionó para sentirse placentero. Ese placer visceral es el mayor obstáculo del libro.
 
-Modelos alternativos: comisiones de verdad y reconciliación (Sudáfrica), justicia restaurativa — útiles pero aún asumen culpa libre. Cuarentena (Derk Pereboom, Gregg Caruso): contener peligro como aislar enfermedad, mínima restricción, atacar determinantes sociales.
+El castigo del tramposo sostiene la cooperación. Por eso activa el circuito dopaminérgico de recompensa. Los niños y los chimpancés pagan un costo con tal de ver castigado a quien se portó mal. Esa raíz antigua explica el largo desfile histórico de crueldad celebrada. Va desde el descuartizamiento de Damiens (1757) hasta el último ahorcamiento público de Rainey Bethea (1936).
 
-En Escandinavia, por ejemplo Noruega, hay más confort carcelario, menos reincidencia y menor costo social que en EE. UU. El placer de castigar, arraigado en la evolución de normas de cooperación, puede sabotear el cambio.
+La alternativa coherente es el modelo de cuarentena (contener el peligro como se aísla una enfermedad, sin castigo merecido). Lo impulsan Derk Pereboom y Gregg Caruso. Contiene el peligro con la mínima restricción necesaria y ataca los determinantes sociales del delito. Contra la objeción de que sin castigo nada disuade, Noruega ofrece la prueba. Tiene una fracción de los homicidios, del encarcelamiento y de la reincidencia de Estados Unidos.
 
-Idea clave: Retribución satisface emociones antiguas; cuarentena protege sin merecer odio.
+Idea clave: La retribución sobrevive porque satisface una vieja sed de venganza, mientras que la cuarentena protege a la sociedad sin necesitar que nadie merezca sufrir.
+
+El cierre del libro es a la vez filosófico y consolador: sin mérito cósmico, pero con menos crueldad.
 
 Capítulo 15. Si mueres pobre
 
-No hay por qué más allá de porque lo anterior. El universo es indiferente. Los mecanismos de terror management ante muerte y falta de sentido siguen activos. Los compatibilistas a veces defienden libre albedrío porque sería un downer sin él (Stephen Cave, 2016).
+¿Qué queda cuando no hay un por qué cósmico ni mérito absoluto? El cierre es a la vez filosófico y consolador. Solo queda la larga cadena de causas. Algunos defienden el libre albedrío porque negarlo sería deprimente, como confiesa Stephen Cave (2016). Sapolsky insiste en que la verdad, aun incómoda, libera.
 
-Los deprimidos estiman el control con más precisión que otros. Son más tristes pero más sabios. La verdad puede ser estrés según el timing. Aun así Sapolsky defiende enfrentarla. Las implicaciones incluyen menos auto-bullying por obesidad, TDAH o bipolaridad cuando se entiende la biología.
+La evidencia es delicada. Las personas deprimidas estiman su grado de control con más exactitud que las demás. Son más tristes pero más lúcidas. Saber esto puede estresar según el momento. Aun así, entender la biología frena el auto-castigo. Aplica a la obesidad ligada a la leptina, al TDAH o a la orientación sexual. Deja de haber un yo culpable al que fustigar.
 
-Graduado vs. basurero intercambiando genes e infancia — determinismo puro. Si la conclusión te parece liberatoria, probablemente fuiste afortunado. Ciencia liberatoria sin lengua en mejilla: entender causas reduce estigma y puede mejorar política.
+Vuelve entonces la imagen del graduado y el basurero. El graduado y el basurero, con genes e infancias intercambiados, intercambiarían destinos. El fenómeno del John Henryism muestra algo más. Creer que solo el esfuerzo vence a un sistema injusto llega a enfermar el cuerpo. Quien encuentre liberadora esta conclusión en lugar de amenazante probablemente fue de los afortunados.
 
-Idea clave: Sin libre albedrío no hay mérito absoluto ni culpa absoluta — hay causas, contención y compasión posible.
+Idea clave: Sin libre albedrío nadie merece de veras su fortuna ni su miseria, y asumirlo abre la puerta a menos estigma y más compasión.
 
 Conceptos clave
 
 Incompatibilismo duro. Determinismo universal incompatible con libre albedrío y desierto moral.
 
-Tortugas. Metáfora de causas en cadena sin causa flotante.
+Tortugas hasta el fondo. Metáfora de causas encadenadas sin ninguna causa flotante.
 
-Libet / readiness potential. Actividad cerebral antes de la sensación de decidir.
+Determinismo vs. predictibilidad. Lo ontológico de por qué pasó frente a lo epistémico de poder calcularlo.
 
-Grit falso. Creer que carácter escapa a biología del PFC.
+Caos determinista. Sensible a las condiciones iniciales, impredecible pero causal.
 
-Caos determinista. Impredecible pero causal; no es libertad.
+Complejidad emergente. Propiedades nuevas del conjunto sin ningún agente libre añadido.
 
-Emergencia. Propiedades nuevas del sistema sin agente libre.
+Indeterminación cuántica. Azar real subatómico que se decohere antes de llegar a la conducta.
 
-Cuarentena. Modelo penal: contener peligro, no castigar merecidamente.
+Modelo de cuarentena. Contener el peligro con mínima restricción, sin castigo merecido.
 
-Suerte constitutiva. Genes, feto, infancia, cultura fuera de control personal.
+Suerte constitutiva. Genes, feto, infancia y cultura, todo fuera del control personal.
 
 Cronología
 
-Año 1321. Complot de los leprosos; linchamientos en Francia/Alemania.
+Año 1801. Young y la doble rendija: dualidad onda y partícula.
 
-Año 1757. Ejecución de Robert-François Damiens en París.
+Año 1487. El Malleus maleficarum codifica la caza de brujas.
 
-Año 1848. Phineas Gage; lesión frontal y cambio de carácter.
+Año 1757. Ejecución y descuartizamiento de Damiens en París.
+
+Año 1848. Phineas Gage: lesión frontal que cambia el carácter.
+
+Año 1927. Buck contra Bell avala la esterilización forzada.
 
 Año 1936. Último ahorcamiento público en EE. UU. (Rainey Bethea).
 
-Año 1983. Libet publica experimento de potencial de preparación.
+Año 1963. Lorenz descubre el caos y el efecto mariposa.
 
-Año 1994. Crick: solo un paquete de neuronas.
+Año 1983. Libet publica el potencial de preparación.
+
+Año 2000. Kandel recibe el Nobel por la plasticidad de la Aplysia.
 
 Año 2023. Publicación de Determined (Penguin Press).
 
 Figuras clave
 
-Robert M. Sapolsky, Autor; primatólogo y neurobiólogo, incompatibilista.
+Robert M. Sapolsky, Autor, neurobiólogo y primatólogo, incompatibilista duro.
 
-Benjamin Libet, EEG y debate sobre veto consciente.
+Benjamin Libet, Potencial de preparación y debate del veto consciente.
 
-Daniel Dennett, Compatibilista; suerte se promedia, maratón vs. dash.
+Daniel Dennett, Compatibilista al que Sapolsky rebate sobre la suerte y el tiempo.
 
-Derk Pereboom, Modelo de cuarentena penal.
+Christian List, Defensor del libre albedrío emergente mediante coarse-graining.
 
-Gregg Caruso, Cuarentena + determinantes sociales del crimen.
+Max Tegmark, Refutó los microtúbulos cuánticos de Penrose y Hameroff.
 
-Edward Lorenz, Caos y efecto mariposa en meteorología.
+Eric Kandel, Plasticidad de la Aplysia, Nobel en 2000.
 
-Francis Crick, Determinismo duro citado en experimentos psicológicos.
+Derk Pereboom, Impulsor del modelo penal de cuarentena.
+
+Gregg Caruso, Cuarentena más determinantes sociales del delito.

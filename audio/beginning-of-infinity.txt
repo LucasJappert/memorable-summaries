@@ -1,0 +1,325 @@
+El inicio del infinito, de David Deutsch.
+
+La idea central
+
+El universo es explicable, y por eso mejorable sin límite fijo.
+
+Cada mal persistente es un problema de conocimiento, no un destino escrito.
+
+No hay justificación infalible ni punto final del saber.
+
+Sí hay una elección permanente entre dogma y creatividad explicativa.
+
+Nuestro destino depende de instituciones que permitan corregir errores sin fin.
+
+Prefacio. Introducción
+
+¿Por qué el progreso rápido en ciencia, tecnología e instituciones ocurrió una sola vez? David Deutsch, físico y filósofo de la ciencia, plantea ese enigma histórico. El avance estable comenzó con la revolución científica (el giro del siglo XVII que convirtió la investigación en crítica abierta) y sigue en curso. Muchos pensadores negaron que fuera genuino o deseable.
+
+Deutsch responde que hay diferencia objetiva entre explicación falsa y verdadera. También entre estancamiento y mejora real. Todo ese progreso proviene de buscar buenas explicaciones, es decir, teorías difíciles de variar sin perder sentido. No es casualidad humana: la realidad obedece leyes universales que son, ellas mismas, buenas explicaciones.
+
+El título pregunta si el progreso debe terminar en catástrofe o completitud. Deutsch sostiene que es ilimitado, o sea, sin techo fijo de mejora. Cada campo tiene su propio inicio del infinito: la condición que permite despegar. Esos inicios parecen inconexos, pero son facetas de un mismo atributo de la realidad.
+
+Idea clave: El progreso ilimitado comienza cuando una tradición prioriza buenas explicaciones y crítica de errores por encima de la autoridad.
+
+Para entender ese mecanismo, hay que preguntarse cómo conocemos un cosmos que nunca visitamos.
+
+Capítulo uno. El alcance de las explicaciones
+
+¿Cómo sabemos tanto del cielo sin haber visitado ninguna estrella? El capítulo abre con un contraste. El cielo nocturno muestra puntos y manchas. La astrofísica explica estrellas, transmutación nuclear, supernovas y cuásares. La respuesta no es la experiencia sensorial pura, sino las explicaciones, o sea, teorías que conectan apariencias con causas reales.
+
+Deutsch refuta el empirismo (la idea de que el conocimiento nace solo de los sentidos). También refuta el inductivismo (la creencia de que basta acumular observaciones para inferir leyes). John Locke, filósofo inglés del siglo XVII, imaginaba la mente como papel en blanco. Pero las teorías son conjeturas creativas que la experiencia solo sirve para elegir entre ellas.
+
+El inductivismo falla por dos motivos. Confunde predicción de experiencias con conocimiento de la realidad. Supone que el futuro se parece al pasado. La ciencia predice fenómenos radicalmente nuevos, como el vuelo o amaneceres cada noventa minutos en órbita. Frente al justificationism, Deutsch defiende el falibilismo: no hay fuentes autoritarias ni justificación infalible.
+
+Una buena explicación es difícil de variar: cambiar un detalle arruina el poder explicativo. El mito de Perséfone explica estaciones, pero cada dios podría sustituirse. La inclinación del eje terrestre no admite variantes triviales y predice hemisferios desfasados.
+
+Cita: Detrás de todo hay seguramente una idea tan simple, tan bella, que cuando la comprendamos diremos: ¿cómo pudo ser de otro modo? — John Archibald Wheeler
+
+🔭. Problema
+
+💡. Conjetura
+
+🧪. Testabilidad
+
+🌐. Alcance
+
+Idea clave: El progreso científico nació al buscar buenas explicaciones difíciles de variar, no al acumular observaciones ni justificar creencias.
+
+Si el conocimiento crece corrigiendo teorías, ¿qué significa acercarse a la realidad con instrumentos?
+
+Capítulo dos. Más cerca de la realidad
+
+¿Por qué los instrumentos nos acercan a la realidad alejándonos físicamente del fenómeno? Parece paradójico, pero nunca observamos en crudo. Toda percepción está cargada de teoría, es decir, interpretada mediante explicaciones previas. Incluso el dolor de cabeza es una interpretación cerebral de señales eléctricas. La esfera celeste parecía observada directamente y no existía.
+
+Cada error es un error en una explicación, no un dato puro. Por eso podemos corregir el engaño de los sentidos. La esfera celeste geocéntrica fue reemplazada por un sistema heliocéntrico en movimiento. El crecimiento del conocimiento consiste en corregir conceptos erróneos en nuestras teorías.
+
+Thomas Edison, inventor estadounidense, dijo que investigar es un uno por ciento inspiración y noventa y nueve transpiración. Deutsch lee esa transpiración como el trabajo sistemático de detectar y corregir errores en explicaciones provisionales. Los instrumentos amplían ese proceso porque refinan la teoría en lugar de sustituirla.
+
+Idea clave: Estar más cerca de la realidad significa tener mejores explicaciones que corrigen errores, no acceder a datos sin interpretar.
+
+Corregir teorías sobre el cosmos lleva a preguntarse qué papel tienen los humanos en ese universo.
+
+Capítulo tres. La chispa
+
+¿Somos insignificantes frente al cosmos o centralmente importantes? El principio de mediocridad (la idea de que la Tierra no ocupa un lugar especial) intenta humillar al ser humano. Lo mismo hace la metáfora de la Nave Tierra (tratar el planeta como nave cerrada). Deutsch sostiene que ambas son tan parroquiales como el geocentrismo.
+
+Desde la perspectiva menos provincial disponible, las personas son las entidades más significativas. Crean conocimiento, es decir, generan explicaciones que se sostienen a sí mismas. El problema cosmológico no es que el universo nos hospede, sino cómo los sistemas complejos sobreviven. Los humanos, con el conocimiento de la Ilustración, no dependen pasivamente del entorno: lo transforman.
+
+Solo la evolución biológica y las personas crean conocimiento. El oro en cualquier parte del cosmos implica una supernova previa o un ser inteligente con la explicación adecuada. Toda explicación encontrada implica un ser capaz de conjeturar y criticar. La chispa no es privilegio místico sino capacidad de generar conocimiento de alcance universal.
+
+Idea clave: La relevancia humana proviene de crear conocimiento universal, no de ocupar el centro del espacio.
+
+Si los humanos crean conocimiento, conviene comparar ese proceso con la evolución biológica.
+
+Capítulo cuatro. Creación
+
+¿Cómo surge el conocimiento en la naturaleza y en la cultura? Deutsch compara la evolución biológica (selección de genes por variación y supervivencia) y la creación de conocimiento humano. Ambas usan variación y selección, pero en dominios distintos. Los genes codifican adaptaciones. Las ideas codifican teorías sujetas a crítica explícita.
+
+La similitud profunda es que adaptaciones y buenas teorías son difíciles de variar, o sea, no admiten cambios triviales sin perder función. La diferencia decisiva es el alcance explicativo (la capacidad de resolver problemas fuera del nicho original). Las adaptaciones no explican ni trascienden su nicho. Las ideas humanas sí.
+
+El lamarckismo, que supone herencia de caracteres adquiridos, es el análogo biológico del inductivismo. La evolución cultural puede corregir errores de forma intencional y acelerada. La biológica opera sin diseño. Ese contraste prepara el análisis de memes y creatividad en capítulos posteriores.
+
+Idea clave: Genes e ideas se replican y seleccionan, pero solo las ideas humanas pueden explicar y mejorarse deliberadamente.
+
+¿Las abstracciones que usan las ideas humanas son reales o solo palabras?
+
+Capítulo cinco. La realidad de las abstracciones
+
+¿Son reales las ideas abstractas o solo convenientes para hablar? Ni el reduccionismo (explicar todo solo con partículas) ni el holismo vago resuelven el problema de los niveles de descripción. Deutsch sostiene que las explicaciones no forman una jerarquía donde solo lo microscópico es fundamental. Hay leyes autónomas en cada nivel de emergencia.
+
+Si una entidad abstracta es indispensable en la mejor explicación disponible, es real en sentido causal-explicativo. La causalidad, o sea, la relación de causa y efecto, es una abstracción real y no un epifenómeno del lenguaje. Negarlo obliga a empobrecer teorías que funcionan.
+
+Esto importa para física, mente y moral. No hay que reducir todo a partículas para tener conocimiento fundamental. Las explicaciones de alto nivel capturan regularidades que el microfísico solo no revela.
+
+Idea clave: Lo abstracto es real cuando participa causalmente en la mejor explicación y no puede eliminarse sin arruinarla.
+
+Si las abstracciones pueden volverse universales, hay que entender qué significa ese salto.
+
+Capítulo seis. El salto a la universalidad
+
+¿Qué convierte una mejora local en plataforma de progreso sin fin? Muchos sistemas mejoran incrementalmente hasta un punto de inflexión. Se vuelven universales, es decir, capaces de representar o ejecutar cualquier caso relevante en un dominio. El problema previo era la parcialidad. La solución abre un régimen de alcance ilimitado en ese ámbito.
+
+Deutsch cita escritura, cómputo, el código genético y el método científico. Antes de la Ilustración, los innovadores rara vez buscaban la universalidad a propósito. Después, las explicaciones universales se valoran por sí mismas y por su utilidad. La corrección de errores es esencial en procesos potencialmente infinitos.
+
+En física, las funciones que aparecen suelen ser analíticas (funciones suaves con propiedades matemáticas restrictivas). Eso conecta matemática y realidad y será relevante para cosmología y antropicidad. Un sistema universal sin crítica acumula fallos.
+
+Idea clave: Un salto a la universalidad convierte mejoras locales en plataforma de progreso potencialmente sin fin en ese dominio.
+
+La universalidad humana plantea si las máquinas pueden replicar la creatividad explicativa.
+
+Capítulo siete. Creatividad artificial
+
+¿Por qué la inteligencia artificial general no avanza como se esperaba? Deutsch sostiene que enfrenta un problema filosófico sin resolver: no entendemos cómo funciona la creatividad, es decir, la capacidad de conjeturar y criticar explicaciones nuevas. Más hardware no compensa la ausencia de buena explicación del fenómeno.
+
+El test de Turing (probar si una máquina imita conversación humana) y enfoques conductistas confunden imitación de salida con comprensión explicativa. Deutsch argumenta que, una vez resuelto el problema epistemológico, programar creatividad será difícil pero no misterioso. Lo mismo aplica a la evolución artificial: quizá no se ha logrado porque no comprendemos la universalidad del sistema de replicación del ADN.
+
+La universalidad de los explicadores humanos implica que no habrá mentes superhumanas en sentido cualitativo. Solo más velocidad, memoria y automatización del trabajo ya humano.
+
+Idea clave: Sin teoría de la creatividad, la IA general permanece bloqueada por un problema filosófico, no solo técnico.
+
+Si el progreso puede ser ilimitado, hay que comprender qué significa el infinito en física y en epistemología.
+
+Capítulo ocho. Una ventana al infinito
+
+¿Cómo puede el infinito ser comprensible y físicamente relevante? El infinito, o sea, lo que no tiene fin, no es extravagancia matemática: entra en física y en la teoría de la explicación. El problema es intuir propiedades que parecen imposibles. La solución pasa por buenas explicaciones que las hacen coherentes.
+
+El hotel de Hilbert (un hotel con infinitas habitaciones siempre lleno) muestra una paradoja. Aún puede alojar más huéspedes. El infinito no se comporta como lo finito. Georg Cantor, matemático alemán, demostró con el argumento diagonal que hay infinitos de distinto tamaño. Si el progreso es ilimitado, siempre estamos casi al comienzo, nunca casi al final.
+
+Esa paradoja desarma profecías de completitud. Quien predice que el saber está casi agotado confunde ignorancia infinita con proximidad a un techo.
+
+Idea clave: Comprender el infinito amplía qué problemas consideramos solubles y nos sitúa siempre en un comienzo del progreso.
+
+Entender el infinito del progreso lleva a preguntarse qué actitud adoptar frente a los males persistentes.
+
+Capítulo nueve. Optimismo
+
+¿Significa optimismo creer que todo saldrá bien? Deutsch redefine el optimismo, es decir, la confianza en que los problemas son solubles, como tesis epistemológica y no como actitud complaciente. Todo mal persistente es un problema de conocimiento insuficiente, o sea, de explicaciones que aún no hemos encontrado. No es garantía de éxito: exige responsabilidad y crítica institucional.
+
+El pesimismo paraliza porque trata los males como inevitables. El optimismo racional parte de que no hay autoridad final: siempre puede haber mejor explicación. Incluso moral y política admiten progreso objetivo mediante buenas explicaciones, no solo consenso relativo.
+
+Historias de mini-ilustraciones truncadas muestran que sin tradición de crítica el progreso se apaga. El problema nunca desaparece del todo: evolucionamos de problemas a mejores problemas, no a un estado sin conflicto.
+
+Idea clave: Optimismo racional es la convicción de que los males son problemas soluble en principio mediante mejores explicaciones.
+
+Esa actitud falibilista tiene raíces antiguas: Deutsch la dramatiza en un diálogo con Sócrates.
+
+Capítulo diez. Un sueño de Sócrates
+
+¿Qué significa conocer si no hay certeza infalible? En un diálogo onírico, Hermes (Apolo) enseña a Sócrates, filósofo griego, epistemología. El problema del oráculo (nadie es más sabio que Sócrates) introduce la distinción entre saber y creer justificado.
+
+La creencia verdadera justificada (la definición clásica de conocimiento) es una quimera. La justificación infinita o la autoridad no producen conocimiento objetivo. Quien busca certeza rechaza como conocimiento lo que ya comprende hasta que un dios lo confirme. El conocimiento objetivo es falible y mejorable, mientras que la certeza es innecesaria y dañina.
+
+Según Hermes, nada es fácil de ver. Lo que parece obvio requiere teorías para interpretarse. El diálogo dramatiza el mensaje popperiano del capítulo 1 para quien prefiera el mito al tratado.
+
+Idea clave: Conocer no es justificar infaliblemente, sino mejorar explicaciones en conversación crítica consciente de la falibilidad.
+
+El falibilismo tiene consecuencias en física: Deutsch las desarrolla con la interpretación cuántica del multiverso.
+
+Capítulo 11. El multiverso
+
+¿Qué implica tomar en serio la mecánica cuántica? La mejor explicación implica un multiverso, es decir, una realidad física con flujos de información en historias cuasi autónomas. Un universo clásico es una característica emergente, no el todo.
+
+La interferencia cuántica (patrones de ondas que revelan superposición de estados) evidencia otras historias. Negarlas obliga a postular colapsos ad hoc. Deutsch defiende nubes de instancias fungibles de partículas con atributos discretos. El problema de la gravedad cuántica muestra que nuestras mejores teorías aún fallan.
+
+Contar copias de observadores sin teoría de medida produce paradojas antrópicas. La ontología ampliada no es adorno: resuelve problemas concretos de probabilidad y estructura.
+
+Idea clave: Tomar en serio la cuántica implica un multiverso de historias múltiples, no solo predicciones instrumentales.
+
+Negar explicaciones reales en física es síntoma de una tradición filosófica que Deutsch llama mala filosofía.
+
+Capítulo 12. Historia de la mala filosofía
+
+¿Qué tipo de filosofía frena el progreso del conocimiento? Deutsch define mala filosofía (doctrinas que impiden activamente el crecimiento del saber) como la que bloquea la crítica. Antes de la Ilustración predominaba. Después creció la buena filosofía, pero la mala empeoró.
+
+Descendió del empirismo al positivismo, al instrumentalismo, a la filosofía lingüística y al postmodernismo. El daño central es separar predicción de explicación: la teoría se reduce a fórmula útil más interpretación arbitraria. Eso legitimó interpretaciones de la mecánica cuántica que renuncian a describir la realidad.
+
+También dehumanizó campos como la psicología. La salida no es eliminar la filosofía de la ciencia, sino exigir explicaciones buenas y criticables. La ciencia progresa integrando filosofía crítica, no fingiendo prescindir de ella.
+
+Idea clave: La mala filosofía bloquea el progreso al tratar las teorías como oráculos predictivos sin explicación real.
+
+Ese bloqueo también afecta cómo pensamos las decisiones colectivas y las instituciones políticas.
+
+Capítulo 13. Elecciones
+
+¿Basta elegir entre opciones ya dadas para decidir bien en política? Los sistemas de decisión colectiva enfrentan un problema. No existe regla perfecta que agregue preferencias sin paradojas. Deutsch advierte que modelar la política como selección entre opciones fijas omite lo esencial: crear nuevas opciones, es decir, inventar alternativas que antes no existían.
+
+Las buenas políticas, como las buenas explicaciones, son difíciles de variar. Mezclar arbitrariamente principios incompatibles produce malas soluciones. Los gobiernos de coalición no son un ideal electoral: son síntoma de marcos que no permiten crítica clara.
+
+Decidir racionalmente replica el método científico: conjeturar alternativas, criticarlas y mejorar instituciones. La democracia falla cuando se congela en fórmulas supuestamente definitivas.
+
+Idea clave: Elegir bien exige creatividad institucional y revisión continua, no obediencia a algoritmos de agregación fijos.
+
+Deutsch analiza cómo las instituciones transmiten ideas mediante evolución cultural.
+
+Capítulo 14. ¿Por qué son bellas las flores?
+
+¿Hay belleza objetiva o solo gusto personal? El empirismo no puede fundar estética. Deutsch sostiene que existen verdades objetivas en estética, es decir, criterios convergentes sobre qué formas importan, ligadas a hechos mediante explicaciones.
+
+Las flores parecen bellas a los humanos aunque su diseño evolucionó para polinizadores, no para nosotros. Esa convergencia sugiere criterios de belleza independientes de la función original. Son señales difíciles de falsificar cuando falta conocimiento compartido previo.
+
+El arte también resuelve problemas. Por eso admite crítica más allá del relativismo total. Las buenas obras son difíciles de variar sin perder lo que logran.
+
+Idea clave: La estética participa del proyecto racional: explicar por qué ciertas formas importan con criterios convergentes y objetivos.
+
+El arte y la cultura se transmiten por memes: ideas que compiten por replicarse en mentes.
+
+Capítulo 15. La evolución de la cultura
+
+¿Cómo evolucionan las culturas sin reducir todo a genes o a elección individual? Las culturas evolucionan mediante memes, es decir, ideas que se replican en mentes y conductas. El problema es explicar su dinámica sin perder de vista la selección y la crítica.
+
+A diferencia de los genes, cada meme incluye su mecanismo de réplica. Se selecciona de dos maneras distintas. Una es la capacidad de producir conducta. La otra es que esa conducta contagie el meme. Los portadores rara vez saben por qué un meme funciona.
+
+Deutsch distingue culturas dinámicas (que toleran corrección) y estáticas (que priorizan preservación sobre verdad). El destino de una sociedad depende de cuál predominio.
+
+Idea clave: La evolución cultural decide si una sociedad corrige errores o queda atrapada en memes anti-críticos.
+
+Para que los memes complejos se transmitan, hace falta creatividad: Deutsch explica por qué evolucionó.
+
+Capítulo 16. La evolución de la creatividad
+
+¿Por qué evolucionó la creatividad si el conocimiento crecía demasiado lento para dar ventaja selectiva? Deutsch plantea dos enigmas. ¿Cómo se transmiten memes complejos si el cerebro no los descarga como archivos? La misma respuesta resuelve ambos.
+
+Los memes complejos no mandan acciones fijas sino reglas, es decir, principios que hay que inferir desde comportamientos observados. Replicarlos requiere creatividad para deducir la regla. La creatividad fue seleccionada para copiar memes con fidelidad suficiente, no como ornamento.
+
+Eso conecta biología, cultura y epistemología. Sin creatividad no hay transmisión cultural de explicaciones. Sin crítica no hay progreso.
+
+Idea clave: La creatividad evolucionó porque replicar memes complejos exige inferir reglas invisibles detrás de las acciones.
+
+Las culturas estáticas pueden durar siglos, pero Deutsch muestra por qué no son sostenibles.
+
+Capítulo 17. Insostenible
+
+¿Puede una sociedad durar siglos sin crear conocimiento nuevo? Las sociedades estáticas pueden persistir mucho tiempo, pero colapsan cuando un problema supera su capacidad de generar conocimiento correctivo. El problema no es solo recursos: es la imposibilidad de crear soluciones nuevas.
+
+Deutsch critica narrativas simplistas sobre Rapa Nui (isla de Pascua). Rechaza el determinismo geográfico que defiende el historiador Jared Diamond. También critica esa lectura en Marx y Engels. Para él, la historia es historia de ideas, no de biogeografía mecánica.
+
+Analogizar el Occidente tecnológico con civilizaciones estáticas es falaz. Estrategias que solo previenen desastres previsibles fallarán ante lo imprevisible. La sostenibilidad real requiere progreso científico-tecnológico continuo y apertura a la corrección.
+
+Idea clave: Nada es sostenible sin capacidad abierta de crear conocimiento nuevo frente a crisis imprevisibles.
+
+Esa tesis cierra el libro: rechazar que ya casi llegamos es condición para el progreso ilimitado.
+
+Capítulo 18. El comienzo
+
+¿Estamos cerca del final del saber o siempre al comienzo? El cierre retoma la profecía de casi llegamos. En 1894, el físico Albert Michelson creía que la física solo fijaría el sexto decimal. En 1965, Richard Feynman vaticinó mil años sin leyes nuevas. Ambos casos muestran la falacia profética de convertir el saber actual en techo permanente.
+
+Eratóstenes, geógrafo griego del siglo III a.C., midió la Tierra sin recorrerla. Hoy la vemos pequeña. Lo mismo ocurre con el conocimiento: lo que parece casi completo es parroquial. El periodista John Horgan publicó *The End of Science* en 1996. Partió de empirismo y declaró la ciencia fundamental terminada.
+
+Hoy hay problemas más profundos, como la gravedad cuántica y la energía oscura (la fuerza que acelera la expansión del universo). Deutsch critica la singularidad tecnológica porque los humanos ya son explicadores universales. La IA no creará mentes cualitativamente superiores, solo acelerará lo que hacemos.
+
+Cita a Isaac Asimov (*The End of Eternity*, 1955) para recordar un contraste. Abandonar la sociedad estática es el fin de la eternidad estancada y el comienzo del infinito. Especular más allá del horizonte predictivo es legítimo, pero profetizar no lo es.
+
+Cita: Creo que no habrá novedad, digamos, en mil años… Tenemos la suerte de vivir en una era en la que aún hacemos descubrimientos. — Richard Feynman (citado y refutado por Deutsch)
+
+Idea clave: Rechazar que el conocimiento está casi completo es condición para el progreso ilimitado: siempre estamos en un inicio del infinito.
+
+Conceptos clave
+
+Buena explicación. Teoría difícil de variar sin perder poder explicativo; reguladora del progreso.
+
+Problema. Conflicto entre ideas que impulsa conjetura y crítica.
+
+Falibilismo. Todo conocimiento es corregible; no hay justificación infalible.
+
+Alcance (reach). Capacidad de una explicación de resolver problemas fuera de su origen.
+
+Salto a la universalidad. Mejora que hace un sistema capaz de todo un dominio.
+
+Optimismo racional. Los males persistentes son problemas de conocimiento, no límites fijos.
+
+Multiverso. Estructura de historias cuánticas múltiples con flujo de información.
+
+Memes. Replicadores culturales con selección dual de conducta y contagio.
+
+Mala filosofía. Doctrinas que separan predicción de explicación y frenan el saber.
+
+Inicio del infinito. Condición donde la mejora abierta se vuelve posible y sostenida.
+
+Cronología de referencias del libro
+
+Año s. III a.C.. Eratóstenes estima la circunferencia terrestre (~40 000 km).
+
+Año 1660. Fundación de la Royal Society; lema Nullius in verba.
+
+Año 1689. John Locke formula el empirismo del papel en blanco.
+
+Año 1901. Soddy y Rutherford demuestran transmutación radiactiva.
+
+Año 1936. Alan Turing funda la teoría de la computación universal.
+
+Año 1945. Karl Popper publica *The Open Society and Its Enemies*.
+
+Año 1955. Isaac Asimov publica *The End of Eternity*.
+
+Año 1963. Popper: en nuestra ignorancia infinita somos todos iguales.
+
+Año 1965. Feynman profetiza mil años sin novedad en física.
+
+Año 1993. Vernor Vinge escribe sobre la singularidad tecnológica.
+
+Año 1996. John Horgan publica *The End of Science*.
+
+Año 2011. Publicación de *The Beginning of Infinity*.
+
+Figuras clave
+
+David Deutsch, Autor; defiende progreso ilimitado mediante buenas explicaciones.
+
+Karl Popper, Falibilismo, conjeturas y refutaciones, sociedad abierta.
+
+John Locke, Empirismo clásico criticado como origen del conocimiento.
+
+Eratóstenes de Cirene, Alcance explicativo: midió la Tierra sin recorrerla.
+
+Alan Turing, Universalidad computacional e IA.
+
+Richard Feynman, Ejemplo de profecía de casi completitud refutada.
+
+Isaac Asimov, *The End of Eternity*; metáfora del inicio del infinito.
+
+John Horgan, *The End of Science*; empirismo y fin del saber.
+
+Galileo Galilei, Experimentos como pruebas (cimenti) frente a leer la naturaleza.
+
+Jared Diamond, Determinismo geográfico criticado en cap. 17.

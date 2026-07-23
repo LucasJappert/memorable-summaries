@@ -22,19 +22,23 @@ export const homoDeus: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "En <span class=\"term\">Sapiens</span>, Harari explicó cómo una especie insignificante conquistó la Tierra. Ahora se pregunta qué haremos con ese poder cuando las nuevas tecnologías nos otorguen capacidades casi divinas, tanto creativas como destructivas, y eleven la vida a otra etapa evolutiva.",
+          html: "¿Qué sigue después de conquistar la Tierra? En <span class=\"term\">Sapiens</span> (su libro anterior), el historiador <span class=\"person\">Yuval Noah Harari</span> explicó cómo una especie insignificante dominó el planeta. Ahora pregunta qué haremos con ese poder cuando la tecnología nos dé capacidades casi divinas.",
         },
         {
           type: 'paragraph',
-          html: "La tesis inquietante es que, en la codicia por salud, felicidad y poder, el <span class=\"person\">Homo sapiens</span> podría fabricar un <span class=\"term\">Homo deus</span> tecno-reforzado más distinto de nosotros que nosotros del neandertal. Si construimos máquinas que nos superan en casi todo, ¿qué queda del humano y del <span class=\"term\">humanismo</span>, la religión moderna que hizo del ser humano la medida de todas las cosas?",
+          html: "La tesis inquietante es clara. En la codicia por salud, felicidad y poder, el <span class=\"person\">Homo sapiens</span> podría fabricar un <span class=\"term\">Homo deus</span> (un humano mejorado biotecnológicamente). Sería más distinto de nosotros que nosotros del neandertal. Harari advierte que las máquinas podrían superarnos en casi todo. Entonces habría que repensar qué queda del humano y del <span class=\"term\">humanismo</span> (la fe moderna que hizo del ser humano la medida de todas las cosas).",
         },
         {
           type: 'paragraph',
-          html: "El libro avanza en tres movimientos: cómo el sapiens conquistó el mundo, cómo le dio sentido con ficciones compartidas y cómo pierde el control ante la biotecnología, la inteligencia artificial y la <span class=\"term\">religión de los datos</span>. Harari aclara que el ocaso del humanismo no tiene por qué ser catastrófico, como no lo fueron la caída de los faraones o la «muerte de Dios», pero advierte que la historia nunca tolera un vacío: algo ocupará el trono.",
+          html: "El libro avanza en tres movimientos. Primero, cómo el sapiens conquistó el mundo. Segundo, cómo le dio sentido con ficciones compartidas. Tercero, cómo pierde el control ante la biotecnología, la inteligencia artificial y la religión de los datos. Harari aclara que el ocaso del humanismo no tiene por qué ser catastrófico. Cayeron faraones y «murió Dios» sin fin del mundo. Harari recuerda que la historia no tolera vacíos. Algo ocupará el trono.",
         },
         {
           type: 'key',
           html: "El sapiens está por convertirse en <span class=\"key-term\">Homo deus</span>. La pregunta del libro no es si tendremos poderes divinos, sino qué quedará del humano cuando los usemos.",
+        },
+        {
+          type: 'paragraph',
+          html: "Antes de imaginar dioses tecnológicos, Harari muestra que los viejos azotes ya dejaron de ser destino.",
         },
       ],
     },
@@ -46,11 +50,11 @@ export const homoDeus: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Al amanecer del tercer milenio, la humanidad descubre algo asombroso. Los tres problemas milenarios (<span class=\"term\">hambre</span>, <span class=\"term\">enfermedad</span> y <span class=\"term\">guerra</span>) dejaron de ser fuerzas incontrolables de la naturaleza y se volvieron retos gestionables.",
+          html: "¿Qué ocurre cuando hambre, peste y guerra dejan de mandar? Al amanecer del tercer milenio, la humanidad descubre algo asombroso. Esos tres problemas milenarios dejaron de ser fuerzas incontrolables de la naturaleza. Pasaron a ser retos gestionables.",
         },
         {
           type: 'paragraph',
-          html: "El argumento de Harari no es que esos males desaparecieran, sino que cambió su estatus: ya no rezamos para que un dios nos libre de ellos, sino que sabemos qué hacer y solemos lograrlo. Por primera vez mueren más personas por comer demasiado que por comer poco, más por vejez que por epidemias, y más por suicidio que por soldados, terroristas y criminales juntos. El hambre moderno es casi siempre <span class=\"term\">político</span>, no natural.",
+          html: "Harari no dice que esos males desaparecieron. Dice que cambió su estatus. Ya no rezamos para que un dios nos libre de ellos: sabemos qué hacer y solemos lograrlo. Por primera vez mueren más personas por comer demasiado que por comer poco. Mueren más por vejez que por epidemias. Mueren más por suicidio que por soldados, terroristas y criminales juntos. El hambre moderno es casi siempre político, no natural.",
         },
         {
           type: 'big-numbers',
@@ -75,15 +79,19 @@ export const homoDeus: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Las pandemias históricas ceden ante vacunas, antibióticos e infraestructura, hasta el punto de que en 1979 la OMS declaró erradicada la viruela. Incluso el sida pasó de sentencia de muerte a enfermedad crónica en unos años. Las armas nucleares volvieron la guerra entre potencias un suicidio colectivo, así que el conocimiento, no el territorio, se convirtió en la fuente de riqueza y el «azúcar resultó más peligroso que la pólvora».",
+          html: "Las pandemias históricas ceden ante vacunas, antibióticos e infraestructura. En <span class=\"num\">1979</span>, la OMS declaró erradicada la viruela. El sida pasó de sentencia de muerte a enfermedad crónica en unos años. Las armas nucleares volvieron la guerra entre potencias un suicidio colectivo. El conocimiento, no el territorio, se convirtió en la fuente de riqueza. Harari resume: «el azúcar resultó más peligroso que la pólvora».",
         },
         {
           type: 'paragraph',
-          html: "Contenidos los viejos enemigos, la pregunta urgente cambia: ¿qué queremos <span class=\"term\">ser</span> con el poder de la biotecnología y la informática? Harari anticipa los tres proyectos del siglo XXI: <span class=\"term\">inmortalidad</span>, <span class=\"term\">felicidad</span> y <span class=\"term\">divinidad</span>. Nacen del éxito, no del fracaso, porque una humanidad que ya no teme morir de hambre empieza a soñar con no morir en absoluto.",
+          html: "Contenidos los viejos enemigos, la pregunta urgente cambia. ¿Qué queremos ser con el poder de la biotecnología y la informática? Harari anticipa tres proyectos del siglo XXI: <span class=\"term\">inmortalidad</span> (vencer la muerte), felicidad y divinidad. Nacen del éxito, no del fracaso. Una humanidad que ya no teme morir de hambre empieza a soñar con no morir en absoluto.",
         },
         {
           type: 'key',
           html: "Cuando el hambre, la peste y la guerra dejan de ser destino, la humanidad reorienta su ambición hacia vencer la muerte, comprar la felicidad y volverse dioses.",
+        },
+        {
+          type: 'paragraph',
+          html: "Para entender esa ambición nueva, hay que ver primero cómo el sapiens se convirtió en fuerza planetaria.",
         },
       ],
     },
@@ -95,7 +103,7 @@ export const homoDeus: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Los humanos llevan milenios comportándose como dioses para los demás animales, poco justos y menos misericordiosos. Hoy el planeta está poblado sobre todo por nosotros y nuestros <span class=\"term\">domesticados</span>: hay unos 400 millones de perros frente a unos 200.000 lobos salvajes.",
+          html: "¿Por qué importa cómo tratamos a los demás animales? Los humanos llevan milenios comportándose como dioses para ellos, poco justos y menos misericordiosos. Hoy el planeta está poblado sobre todo por nosotros y nuestros domesticados. Hay unos <span class=\"num\">400 millones</span> de perros frente a unos <span class=\"num\">200.000</span> lobos salvajes.",
         },
         {
           type: 'big-numbers',
@@ -106,7 +114,7 @@ export const homoDeus: BookSummary = {
             },
             {
               "value": "~70.000 a",
-              "label": "Inicio del <span class=\"term\">Antropoceno</span>: el sapiens, fuerza ecológica global"
+              "label": "Inicio del Antropoceno: el sapiens, fuerza ecológica global"
             },
             {
               "value": "~50%",
@@ -116,7 +124,7 @@ export const homoDeus: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La idea central es que el Antropoceno no empezó con las fábricas sino con la expansión del sapiens, que alteró la ecología planetaria como antes solo lo hacían las glaciaciones o los asteroides. Los cazadores-recolectores <span class=\"term\">animistas</span> trataban a los animales como interlocutores dentro de un mismo mundo. La revolución agrícola, legitimada por dioses, y luego el humanismo industrial degradaron al ganado a mera mercancía optimizada.",
+          html: "La idea central es que el <span class=\"term\">Antropoceno</span> (la era en que el humano transforma la biosfera) no empezó con las fábricas. Empezó con la expansión del sapiens hace unos <span class=\"num\">70.000</span> años. Alteró la ecología como antes solo lo hacían glaciaciones o asteroides. Los cazadores-recolectores animistas trataban a los animales como interlocutores. La revolución agrícola, legitimada por dioses, y luego el humanismo industrial degradaron al ganado a mera mercancía optimizada.",
         },
         {
           type: 'concept-grid',
@@ -140,11 +148,15 @@ export const homoDeus: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Aquí Harari introduce la tesis biológica que recorrerá todo el libro: los organismos son algoritmos que procesan datos sensoriales, y las emociones no son un misterio del alma sino cálculos de supervivencia. Esa idea, que ahora parece inofensiva aplicada a los cerdos, se volverá explosiva cuando se aplique a nosotros.",
+          html: "Aquí Harari introduce la tesis biológica que recorrerá todo el libro. Los organismos son algoritmos que procesan datos sensoriales. Las emociones no son un misterio del alma: son cálculos de supervivencia. Esa idea parece inofensiva aplicada a los cerdos. Se volverá explosiva cuando se aplique a nosotros.",
         },
         {
           type: 'key',
           html: "Nuestra relación de amos con los demás animales es el mejor espejo de cómo un futuro superhumano podría tratar al humano corriente.",
+        },
+        {
+          type: 'paragraph',
+          html: "Ese espejo obliga a preguntar qué separa realmente al humano del cerdo o de una máquina.",
         },
       ],
     },
@@ -156,11 +168,11 @@ export const homoDeus: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "¿Por qué vale más una vida humana que la de un cerdo? La respuesta teísta, el alma inmortal, no resiste el laboratorio: ni en cerdos ni en humanos aparece rastro alguno de un alma, y la evolución tampoco admite un «yo» indivisible e inmutable.",
+          html: "¿Por qué vale más una vida humana que la de un cerdo? La respuesta teísta, el alma inmortal, no resiste el laboratorio. Ni en cerdos ni en humanos aparece rastro alguno de un alma. La evolución tampoco admite un «yo» indivisible e inmutable.",
         },
         {
           type: 'paragraph',
-          html: "Por eso <span class=\"person\">Darwin</span> sigue inquietando, porque despoja al individuo de un núcleo eterno y lo explica como un ensamblaje gradual de partes combinables. Harari sostiene que la resistencia masiva a la evolución no nace de la ciencia sino del miedo a perder el alma, es decir, a perder aquello que supuestamente nos hace superiores.",
+          html: "Por eso <span class=\"person\">Charles Darwin</span>, el naturalista que formuló la selección natural, sigue inquietando. Despoja al individuo de un núcleo eterno y lo explica como un ensamblaje gradual de partes combinables. Harari sostiene que la resistencia masiva a la evolución no nace de la ciencia. Nace del miedo a perder el alma, es decir, aquello que supuestamente nos hace superiores.",
         },
         {
           type: 'concept-grid',
@@ -184,11 +196,15 @@ export const homoDeus: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Si no hay chispa, ¿de dónde viene entonces la supremacía humana? Viene de un superpoder concreto, la <span class=\"term\">ficción intersubjetiva</span>. Los animales tienen conciencia, emociones y hasta planificación, como el chimpancé Santino que apilaba piedras para lanzarlas, pero solo el sapiens teje dinero, naciones y derecho, entidades que existen únicamente en relatos compartidos y que, sin embargo, mueven el mundo.",
+          html: "Harari responde con un superpoder concreto. Se llama <span class=\"term\">ficción intersubjetiva</span> (entidades que existen solo porque muchos las creen). Los animales tienen conciencia, emociones y hasta planificación. El chimpancé Santino apilaba piedras para lanzarlas. Solo el sapiens teje dinero, naciones y derecho. Son entidades que existen únicamente en relatos compartidos y que, sin embargo, mueven el mundo.",
         },
         {
           type: 'key',
           html: "No hay alma ni chispa detectable. La supremacía humana descansa en inventar y creer ficciones cooperativas a escala masiva.",
+        },
+        {
+          type: 'paragraph',
+          html: "Esas ficciones no son adorno: son el motor de la historia humana.",
         },
       ],
     },
@@ -200,15 +216,15 @@ export const homoDeus: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Tras la revolución cognitiva (hace unos <span class=\"num\">70.000</span> años), el sapiens empezó a hablar de entidades imaginarias. La agricultura (~<span class=\"num\">12.000</span> a) trajo dioses que funcionan como marcas, y la <span class=\"term\">escritura</span> con el <span class=\"term\">dinero</span> (~<span class=\"num\">5.000</span> a) permitieron imperios y burocracias.",
+          html: "¿Cómo avanza la historia si gran parte de ella es inventada? Tras la revolución cognitiva (hace unos <span class=\"num\">70.000</span> años), el sapiens empezó a hablar de entidades imaginarias. La agricultura (~<span class=\"num\">12.000</span> a) trajo dioses que funcionan como marcas. La escritura y el dinero (~<span class=\"num\">5.000</span> a) permitieron imperios y burocracias.",
         },
         {
           type: 'paragraph',
-          html: "La tesis del capítulo es que la escritura no solo describe la realidad: la moldea, y al hacerlo puede desacoplarse de ella. Las fronteras africanas trazadas en la Conferencia de Berlín (<span class=\"num\">1884</span>) ignoraron ríos y etnias, y aun así fabricaron países reales. Las historias son herramientas poderosísimas, pero también trampas cuando confundimos el mapa con el territorio.",
+          html: "La tesis del capítulo es que la escritura no solo describe la realidad: la moldea. Y al hacerlo puede desacoplarse de ella. Las fronteras africanas trazadas en la Conferencia de Berlín (<span class=\"num\">1884</span>) ignoraron ríos y etnias. Aun así fabricaron países reales. Las historias son herramientas poderosísimas. También son trampas cuando confundimos el mapa con el territorio.",
         },
         {
           type: 'paragraph',
-          html: "Harari propone, para no perdernos en las ficciones, un criterio de realidad tan simple como radical, que consiste en preguntar <span class=\"term\">¿sufre?</span>. Zeus, el euro o «Francia» no sufren, pero el soldado herido en nombre de la nación sí. Las ficciones son vitales, porque sin reglas compartidas no hay mercados ni fútbol, pero se vuelven peligrosas cuando dejan de ser medios y se convierten en fines por los que se sacrifica el sufrimiento real.",
+          html: "Harari propone un criterio de realidad simple y radical. Consiste en preguntar <span class=\"term\">«¿sufre?»</span> (si la entidad puede sentir dolor). Zeus, el euro o «Francia» no sufren. El soldado herido en nombre de la nación sí. Las ficciones son vitales: sin reglas compartidas no hay mercados ni fútbol. Se vuelven peligrosas cuando dejan de ser medios y se convierten en fines.",
         },
         {
           type: 'quote',
@@ -218,6 +234,10 @@ export const homoDeus: BookSummary = {
         {
           type: 'key',
           html: "La historia avanza sobre redes de ficciones cada vez más potentes, y distinguir la ficción del sufrimiento real será más urgente que nunca en el siglo XXI.",
+        },
+        {
+          type: 'paragraph',
+          html: "Esas ficciones incluyen religiones y ciencia: no siempre como enemigas.",
         },
       ],
     },
@@ -229,11 +249,11 @@ export const homoDeus: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Ciencia y religión no son enemigos eternos. Harari define la <span class=\"term\">religión</span> por su función, que es legitimar normas humanas apelando a un orden sobre-humano (Dios, la naturaleza o la nación), y no por lo sobrenatural.",
+          html: "¿Por qué ciencia y religión no son enemigas eternas? Harari define la <span class=\"term\">religión</span> (cualquier sistema que legitime normas apelando a un orden sobre-humano) por su función, no por lo sobrenatural. Dios, la naturaleza o la nación pueden cumplir ese papel.",
         },
         {
           type: 'paragraph',
-          html: "Con esa definición, el choque real entre ciencia y religión no ocurre en los valores sino en los <span class=\"term\">hechos</span>: ¿cuándo empieza la vida?, ¿es guiada la evolución? La ciencia moderna no sustituyó los mitos por datos, sostiene Harari, sino que los reforzó, prometiendo super-cosechas y juventud eterna. Y no floreció en el tolerante Cairo otomano, sino en la Europa confesionalmente intolerante.",
+          html: "El choque real entre ciencia y religión no ocurre en los valores. Choca en los hechos empíricos, como cuándo empieza la vida o si la evolución es guiada. Harari sostiene que la ciencia moderna no sustituyó los mitos por datos. Los reforzó, prometiendo super-cosechas y juventud eterna. Y no floreció en el tolerante Cairo otomano. Floreció en la Europa confesionalmente intolerante.",
         },
         {
           type: 'concept-grid',
@@ -257,11 +277,15 @@ export const homoDeus: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La conclusión es incómoda: a las instituciones les importan más el <span class=\"term\">orden</span> que aporta la religión y el <span class=\"term\">poder</span> que aporta la ciencia que la verdad abstracta. Por eso el liberalismo actual no es el fin de la religión, sino una religión implementada científicamente, la pareja de baile que hace funcionar el mundo moderno.",
+          html: "La conclusión es incómoda. A las instituciones les importa más el orden que aporta la religión y el poder que aporta la ciencia que la verdad abstracta. Por eso el liberalismo actual no es el fin de la religión. Es una religión implementada científicamente: la pareja de baile que hace funcionar el mundo moderno.",
         },
         {
           type: 'key',
           html: "La ciencia no derrotó a la religión: se alió con una nueva, el humanismo, para darle un poder que ninguna otra tuvo antes.",
+        },
+        {
+          type: 'paragraph',
+          html: "Harari llama a esa alianza el pacto moderno entre poder y sentido.",
         },
       ],
     },
@@ -273,23 +297,27 @@ export const homoDeus: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El trato moderno cabe en una frase: la humanidad renuncia al <span class=\"term\">sentido cósmico</span> prefijado y recibe a cambio <span class=\"term\">poder</span> para remediar el hambre, la enfermedad y la muerte con ciencia y tecnología.",
+          html: "¿Qué ganó la humanidad al renunciar al sentido cósmico prefijado? El trato moderno cabe en una frase. La humanidad renuncia al guion divino. Recibe a cambio <span class=\"term\">poder</span> (capacidad real de transformar el mundo). Con él puede remediar hambre, enfermedad y muerte mediante ciencia y tecnología.",
         },
         {
           type: 'paragraph',
-          html: "Sin guion divino no hay garantía de final feliz, solo causas y efectos, pero tampoco hay límites de rol asignado: si nadie escribió el libreto, podemos aspirar a crear paraísos terrenales. El motor de ese salto es una alianza inédita entre el <span class=\"term\">crédito</span> (confianza en el futuro), el <span class=\"term\">capitalismo</span> (reinvertir las ganancias) y la <span class=\"term\">ciencia</span> aplicada.",
+          html: "Sin guion divino no hay garantía de final feliz. Solo hay causas y efectos. Pero tampoco hay límites de rol asignado. Nadie escribió el libreto, así que podemos aspirar a crear paraísos terrenales. El motor de ese salto es una alianza inédita entre el crédito (confianza en el futuro), el capitalismo (reinvertir las ganancias) y la ciencia aplicada.",
         },
         {
           type: 'paragraph',
-          html: "El crecimiento infinito chocaba con recursos finitos hasta que la ciencia prometió energía y materiales casi ilimitados, como la energía solar frente al petróleo agotable. El capitalismo santificó la codicia y el desequilibrio, y sin embargo, en apenas dos siglos, redujo el hambre, la peste y la guerra mejor que milenios de teología. Esa es la prueba de fuego que hizo irresistible al pacto.",
+          html: "El crecimiento infinito chocaba con recursos finitos hasta que la ciencia prometió energía casi ilimitada. La energía solar contrasta con el petróleo agotable. El capitalismo santificó la codicia y el desequilibrio. Aun así, en apenas dos siglos, redujo el hambre, la peste y la guerra mejor que milenios de teología. Esa es la prueba de fuego que hizo irresistible al pacto.",
         },
         {
           type: 'paragraph',
-          html: "Queda una pregunta que Harari deja abierta hacia el capítulo siguiente: ¿cómo sobrevivieron la moral, la belleza y la compasión sin cielo ni infierno que las respaldaran? No por la mano invisible del mercado, sino por una nueva fe capaz de rellenar el vacío de sentido.",
+          html: "Queda una pregunta que Harari deja abierta hacia el capítulo siguiente. ¿Cómo sobrevivieron la moral, la belleza y la compasión sin cielo ni infierno que las respaldaran? No por la mano invisible del mercado. Sino por una nueva fe capaz de rellenar el vacío de sentido.",
         },
         {
           type: 'key',
           html: "La modernidad regala poder a cambio de sentido, y el humanismo llenó ese vacío haciendo del sentir humano la brújula moral.",
+        },
+        {
+          type: 'paragraph',
+          html: "Ese humanismo no es un bloque único: tres corrientes disputan quién manda.",
         },
       ],
     },
@@ -301,11 +329,11 @@ export const homoDeus: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El humanismo invierte el guion milenario: ya no es un plan cósmico el que da sentido a las vidas humanas, sino que las <span class=\"term\">experiencias humanas</span> dan sentido al cosmos. Su mandamiento central es «escucha tu corazón».",
+          html: "¿Quién da sentido al cosmos si ya no lo escribe un dios? El humanismo invierte el guion milenario. Ya no es un plan cósmico el que da sentido a las vidas humanas. Son las <span class=\"term\">experiencias humanas</span> (sentimientos, deseos y sufrimientos reales) las que dan sentido al cosmos. Su mandamiento central es «escucha tu corazón».",
         },
         {
           type: 'paragraph',
-          html: "Harari lo muestra con un cambio de autoridad: donde el sacerdote medieval interpretaba el pecado con la Biblia, hoy el terapeuta pregunta «¿cómo se siente usted?», y el matrimonio pasó de sacramento impuesto a contrato de amor auténtico. Pero el humanismo no es un bloque: tres corrientes disputan quién manda cuando los sentimientos chocan.",
+          html: "Harari lo muestra con un cambio de autoridad. Donde el sacerdote medieval interpretaba el pecado con la Biblia, hoy el terapeuta pregunta «¿cómo se siente usted?». El matrimonio pasó de sacramento impuesto a contrato de amor auténtico. Pero el humanismo no es un bloque: tres corrientes disputan quién manda cuando los sentimientos chocan.",
         },
         {
           type: 'list',
@@ -317,11 +345,15 @@ export const homoDeus: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El liberalismo ganó las guerras y los mercados del siglo XX, pero Harari señala una trampa. Su propio éxito impulsa proyectos como la inmortalidad, la felicidad y la divinidad, capaces de destruir sus cimientos. Si la ciencia demuestra que votantes y consumidores no eligen libremente y que los algoritmos nos conocen mejor que nosotros mismos, ¿qué autoridad le queda al «corazón»?",
+          html: "El liberalismo ganó las guerras y los mercados del siglo XX. Harari señala una trampa. Su propio éxito impulsa proyectos como la inmortalidad, la felicidad y la divinidad. Esos proyectos pueden destruir sus cimientos. La ciencia puede demostrar que votantes y consumidores no eligen libremente. Los algoritmos pueden conocernos mejor que nosotros mismos. Entonces, ¿qué autoridad le queda al «corazón»?",
         },
         {
           type: 'key',
           html: "El humanismo destronó a Dios y coronó al ser humano, y sus victorias tecnológicas amenazan ahora con vaciar al individuo libre que lo fundó.",
+        },
+        {
+          type: 'paragraph',
+          html: "Esa amenaza empieza en el laboratorio, con la ciencia del cerebro y del yo.",
         },
       ],
     },
@@ -333,11 +365,11 @@ export const homoDeus: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El liberalismo no descansa solo en un valor moral, sino en un supuesto de hecho: que existe el <span class=\"term\">libre albedrío</span> y un «yo» único que elige. La neurociencia abre esa caja negra y encuentra genes, hormonas y neuronas, no a un soberano interior.",
+          html: "¿Sobre qué descansa el liberalismo en los hechos, no solo en valores? No descansa solo en un ideal moral. Supone que existe el <span class=\"term\">libre albedrío</span> (la capacidad real de elegir) y un «yo» único que elige. La neurociencia abre esa caja negra y encuentra genes, hormonas y neuronas, no a un soberano interior.",
         },
         {
           type: 'paragraph',
-          html: "El argumento es demoledor porque es empírico: las decisiones combinan procesos deterministas y azar, y ninguno de los dos es «libre». La neuroimagen llega a predecir una elección antes de que el sujeto sea consciente de haberla tomado. No hay un yo permanente que elija sus deseos, sino un flujo de experiencias y un <span class=\"term\">yo narrador</span> que fabrica coherencia a posteriori, como el «intérprete» del hemisferio izquierdo descrito por Gazzaniga.",
+          html: "El argumento es demoledor porque es empírico. Las decisiones combinan procesos deterministas y azar. Ninguno de los dos es «libre». La neuroimagen puede predecir una elección antes de que el sujeto sea consciente de haberla tomado. No hay un yo permanente que elija sus deseos. Hay un flujo de experiencias y un <span class=\"term\">yo narrador</span> (una voz que arma coherencia después) que fabrica sentido a posteriori. Así lo describió Gazzaniga con el «intérprete» del hemisferio izquierdo.",
         },
         {
           type: 'concept-grid',
@@ -361,11 +393,15 @@ export const homoDeus: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Harari insiste en que el peligro no es un debate de facultad de filosofía. La bomba de tiempo estalla cuando esa duda teórica se traduce en tecnología, porque si el individuo soberano es una ficción, las instituciones construidas sobre él (la democracia, el mercado libre, los derechos) empiezan a quedar obsoletas en la práctica.",
+          html: "Harari insiste en que el peligro no es un debate de facultad de filosofía. La bomba de tiempo estalla cuando esa duda teórica se traduce en tecnología. El individuo soberano puede ser una ficción útil. Entonces las institucciones construidas sobre él empiezan a quedar obsoletas. La democracia, el mercado libre y los derechos dependen de ese supuesto.",
         },
         {
           type: 'key',
           html: "El libre albedrío es un relato útil, no una entidad detectable, y las tecnologías del siglo XXI convierten esa duda en obsolescencia institucional.",
+        },
+        {
+          type: 'paragraph',
+          html: "Si el yo libre es ficción, la utilidad humana puede caer ante algoritmos más competentes.",
         },
       ],
     },
@@ -377,11 +413,11 @@ export const homoDeus: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Harari expone tres amenazas prácticas al liberalismo. Primero, los humanos pierden su valor militar y económico. Segundo, el sistema seguirá valorando a la masa pero no al individuo. Tercero, podría valorar solo a una élite de <span class=\"term\">superhumanos</span> optimizados.",
+          html: "¿Qué amenazas prácticas enfrenta hoy el liberalismo? Harari expone tres. Primero, los humanos pierden su valor militar y económico. Segundo, el sistema seguirá valorando a la masa pero no al individuo. Tercero, podría valorar solo a una élite de superhumanos optimizados.",
         },
         {
           type: 'paragraph',
-          html: "El nudo del argumento es que la <span class=\"term\">inteligencia</span> se está desacoplando de la <span class=\"term\">conciencia</span>. Durante milenios, la utilidad bélica e industrial justificó los derechos, desde la leva en masa hasta el sufragio. Hoy los drones, la ciberguerra y el trading algorítmico vuelven prescindibles a masas de soldados y oficinistas, y una IA como Watson diagnostica sin sentir nada. Para ejércitos y empresas, la inteligencia es imprescindible y la conciencia, opcional.",
+          html: "El nudo del argumento es otro. La <span class=\"term\">inteligencia</span> (capacidad de resolver problemas) se está desacoplando de la conciencia (capacidad de sentir). Durante milenios, la utilidad bélica e industrial justificó los derechos, desde la leva en masa hasta el sufragio. Hoy los drones, la ciberguerra y el trading algorítmico vuelven prescindibles a masas de soldados y oficinistas. Una IA como Watson diagnostica sin sentir nada. Para ejércitos y empresas, la inteligencia es imprescindible y la conciencia, opcional.",
         },
         {
           type: 'big-numbers',
@@ -402,11 +438,15 @@ export const homoDeus: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Harari usa esas cifras para ilustrar el desplazamiento de autoridad, del <span class=\"term\">oráculo</span> interior al soberano externo. Angelina Jolie se operó guiada por una probabilidad estadística, y pronto Google, que ha leído nuestros correos y medido nuestro pulso, dirá a quién amar con más acierto que nuestra intuición. El riesgo final no es solo el desempleo, sino una desigualdad biológica: optimizar a unos pocos «deus» y abandonar a los demás como vagones de tercera clase.",
+          html: "Harari usa esas cifras para ilustrar el desplazamiento de autoridad. Angelina Jolie se operó guiada por una probabilidad estadística. Pronto Google, que ha leído nuestros correos y medido nuestro pulso, podrá decir a quién amar con más acierto que nuestra intuición. El riesgo final no es solo el desempleo. Es una desigualdad biológica: optimizar a unos pocos «deus» y abandonar a los demás como vagones de tercera clase.",
         },
         {
           type: 'key',
           html: "Si la utilidad humana cae y los algoritmos nos conocen mejor que nosotros mismos, el liberalismo pierde la base fáctica que lo legitimaba.",
+        },
+        {
+          type: 'paragraph',
+          html: "Ese vacío abre la puerta a nuevas religiones nacidas en Silicon Valley.",
         },
       ],
     },
@@ -418,19 +458,23 @@ export const homoDeus: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Las nuevas religiones nacen en los laboratorios de Silicon Valley, no en las madrasas. Harari distingue dos: el <span class=\"term\">tecno-humanismo</span>, que quiere mejorar al Homo sapiens hasta volverlo Homo deus, y el <span class=\"term\">dataísmo</span>, que quiere pasarle la antorcha a los datos.",
+          html: "¿Qué religiones nuevas compiten por suceder al humanismo? Nacen en los laboratorios de Silicon Valley, no en las madrasas. Harari distingue dos. El <span class=\"term\">tecno-humanismo</span> (mejorar al Homo sapiens con biotecnología) quiere volverlo Homo deus. El dataísmo quiere pasarle la antorcha a los datos.",
         },
         {
           type: 'paragraph',
-          html: "El tecno-humanismo tropieza con un mapa que no existe. Optimizar la mente sin conocer el espectro completo de estados posibles es navegar a ciegas, porque la psicología estudió sobre todo mentes <span class=\"term\">WEIRD</span> (occidentales, educadas, industrializadas) y sus patologías. Ya sacrificamos el olfato fino, la atención plena y la cultura onírica a las exigencias urbano-industriales, sin saber muy bien qué perdíamos.",
+          html: "El tecno-humanismo tropieza con un mapa que no existe. Optimizar la mente sin conocer el espectro completo de estados posibles es navegar a ciegas. La psicología estudió sobre todo mentes WEIRD (occidentales, educadas, industrializadas) y sus patologías. Ya sacrificamos el olfato fino, la atención plena y la cultura onírica a las exigencias urbano-industriales. Hicimos eso sin saber muy bien qué perdíamos.",
         },
         {
           type: 'paragraph',
-          html: "La contradicción de fondo es letal para el propio proyecto. Si podemos diseñar los deseos (reprogramar el miedo, la orientación sexual o el amor como Romeo con una píldora), entonces el «corazón» deja de ser la autoridad final que el humanismo veneraba. Y como no tenemos un mapa de ese «océano de la conciencia», el sistema optimizará lo que necesita, la lectura y la productividad, y no la riqueza interior, abriendo así la puerta al dataísmo.",
+          html: "La contradicción de fondo es letal para el propio proyecto. Harari muestra que podemos diseñar los deseos, reprogramar el miedo o el amor como Romeo con una píldora. Entonces el «corazón» deja de ser la autoridad final que el humanismo veneraba. Y como no tenemos un mapa de ese «océano de la conciencia», el sistema optimizará lo que necesita. La lectura y la productividad, no la riqueza interior. Así se abre la puerta al dataísmo.",
         },
         {
           type: 'key',
           html: "Mejorar la mente sin cartografiarla es peligroso, y controlar el deseo anula al humanismo que había elevado ese deseo a la categoría de supremo.",
+        },
+        {
+          type: 'paragraph',
+          html: "Si el tecno-humanismo fracasa, el dataísmo ofrece una ideología más audaz.",
         },
       ],
     },
@@ -442,19 +486,19 @@ export const homoDeus: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El <span class=\"term\">dataísmo</span> ve el universo como flujos de datos y mide el valor de cualquier fenómeno por su aporte al procesamiento. Une la biología algorítmica de Darwin con la informática de Turing: organismos y máquinas obedecen las mismas matemáticas.",
+          html: "¿Qué propone el dataísmo como nueva fe? Ve el universo como flujos de datos y mide el valor de cualquier fenómeno por su aporte al procesamiento. Une la biología algorítmica de Darwin con la informática de Turing. Organismos y máquinas obedecen las mismas matemáticas.",
         },
         {
           type: 'paragraph',
-          html: "Desde esa óptica, la economía es un sistema de procesamiento de información, y el mercado libre «ganó» la Guerra Fría no por superioridad moral sino por eficiencia informacional frente a la planificación centralizada de Moscú. La nueva divinidad ya no es la libertad de opinión sino la <span class=\"term\">libertad de información</span>, cuyo mártir simbólico fue el activista Aaron Swartz en <span class=\"num\">2013</span>.",
+          html: "Desde esa óptica, la economía es un sistema de procesamiento de información. El mercado libre «ganó» la Guerra Fría no por superioridad moral. Ganó por eficiencia informacional frente a la planificación centralizada de Moscú. La nueva divinidad ya no es la libertad de opinión. Es la <span class=\"term\">libertad de información</span> (el flujo abierto de datos), cuyo mártir simbólico fue el activista Aaron Swartz en <span class=\"num\">2013</span>.",
         },
         {
           type: 'paragraph',
-          html: "El dataísmo invierte la pirámide del conocimiento. Los humanos dejan de destilar datos en sabiduría y ceden esa tarea a los grandes algoritmos, de modo que «conócete a ti mismo» pasa de la introspección a la monitorización biométrica permanente. Harari advierte un paralelo inquietante, porque el dataísmo amenaza con hacerle al sapiens lo que el sapiens hizo a los demás animales, volverlo irrelevante en cuanto pierda su función.",
+          html: "El dataísmo invierte la pirámide del conocimiento. Los humanos dejan de destilar datos en sabiduría y ceden esa tarea a los grandes algoritmos. «Conócete a ti mismo» pasa de la introspección a la monitorización biométrica permanente. Harari advierte un paralelo inquietante. El dataísmo puede hacerle al sapiens lo que el sapiens hizo a los demás animales. Puede volverlo irrelevante en cuanto pierda su función.",
         },
         {
           type: 'paragraph',
-          html: "El libro no cierra con una profecía sino con un horizonte marcado por tres procesos convergentes y tres preguntas abiertas. Los tres procesos son que la vida se entiende como algoritmos, que la inteligencia se separa de la conciencia y que los algoritmos empiezan a conocernos mejor que nosotros mismos. Las preguntas que Harari nos deja son si de verdad somos solo algoritmos, qué vale más entre inteligencia y conciencia, y qué será de nosotros cuando máquinas sin conciencia nos conozcan por dentro.",
+          html: "El libro no cierra con una profecía sino con un horizonte abierto. Tres procesos convergen a la vez. La vida se entiende como algoritmos. La inteligencia se separa de la conciencia. Los algoritmos empiezan a conocernos mejor que nosotros mismos. Harari deja tres preguntas. ¿Somos solo algoritmos? ¿Qué vale más, inteligencia o conciencia? ¿Qué será de nosotros cuando máquinas sin conciencia nos conozcan por dentro?",
         },
         {
           type: 'key',

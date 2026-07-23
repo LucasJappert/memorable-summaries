@@ -37,11 +37,19 @@ fuentes/**
 
 # Esqueletos argumentales (doc de trabajo del Paso A0, regenerable)
 summaries/*.skeleton.md
+summaries/*.backup-*.md
 
 # Audio TTS — commitear public/audio/*.mp3; intermedios regenerables
 audio/*/chunks/
+audio/**/clips-test/
+audio/batch-logs/
 audio/*.wav
 audio/*.mp3
+
+# Secrets locales (API keys TTS, etc.)
+.env
+.env.*
+!.env.example
 
 # Python
 __pycache__/
@@ -52,3 +60,6 @@ legacy/
 
 # Export Anki generado
 export/
+
+# Basura accidental del editor
+/Untitled

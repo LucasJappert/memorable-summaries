@@ -83,19 +83,19 @@ export const sevenBriefLessons: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Estas lecciones están escritas para quienes ignoran casi todo de la ciencia moderna. Juntas ofrecen una panorámica rápida de lo más fascinante de la revolución física de los siglos XX y XXI, y de las preguntas que aún permanecen abiertas.",
+          html: "¿Se puede entender la física moderna sin ser físico? Rovelli escribe para quienes ignoran casi todo de la ciencia reciente. En siete lecciones ofrece un mapa rápido de lo más fascinante del siglo XX y XXI, y de las preguntas que siguen abiertas.",
         },
         {
           type: 'paragraph',
-          html: "Las primeras seis lecciones recorren la relatividad general, la mecánica cuántica, la arquitectura del cosmos, las partículas elementales, la gravedad cuántica y la probabilidad ligada al calor de los agujeros negros. La séptima reflexiona sobre nosotros mismos frente a ese mundo.",
+          html: "Las primeras seis recorren gravedad, cuantos, cosmos y partículas. También el espacio granular y el calor de los agujeros negros. La séptima mira hacia nosotros y pregunta qué somos dentro de ese mapa.",
         },
         {
           type: 'paragraph',
-          html: "Son expansiones de artículos publicados en el suplemento dominical del diario italiano <em>Il Sole 24 Ore</em>. Rovelli agradece a <span class=\"person\">Armando Massarenti</span> por abrir las páginas culturales del domingo a la ciencia.",
+          html: "El libro nace de artículos en el suplemento dominical del diario italiano <em>Il Sole 24 Ore</em>. Rovelli agradece a <span class=\"person\">Armando Massarenti</span> por abrir esas páginas culturales a la ciencia.",
         },
         {
           type: 'key',
-          html: "La ciencia moderna ofrece un mapa rápido de lo más fascinante de la física reciente y, al mismo tiempo, abre preguntas más vastas que las que cierra.",
+          html: "La ciencia moderna cierra algunas puertas y abre otras más vastas: el mapa fascina precisamente porque no está terminado.",
         },
       ],
     },
@@ -107,15 +107,15 @@ export const sevenBriefLessons: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "En <span class=\"num\">1905</span> Einstein envió tres artículos revolucionarios al <em>Annalen der Physik</em>. El tercero presentó la relatividad especial, pero no encajaba con la gravedad newtoniana. Diez años de trabajo culminaron en noviembre de <span class=\"num\">1915</span> con la <span class=\"term\">relatividad general</span>, «la teoría más bella» según <span class=\"person\">Lev Landau</span>.",
+          html: "¿Por qué Einstein llamó «la más bella» a una teoría de la gravedad? En <span class=\"num\">1905</span> envió tres artículos revolucionarios. Uno presentaba la relatividad especial, pero esa teoría no encajaba con la gravedad de Newton. Diez años de trabajo culminaron en noviembre de <span class=\"num\">1915</span> con la <span class=\"term\">relatividad general</span> (la gravedad como curvatura del espacio y el tiempo).",
         },
         {
           type: 'paragraph',
-          html: "Tras Faraday y Maxwell, Einstein comprendió que la gravedad debe transmitirse por un campo. Su intuición decisiva fue que el <span class=\"term\">campo gravitatorio es el espacio mismo</span>. Newton imaginó un espacio vacío más una fuerza a distancia. Einstein, en cambio, los unificó en un espacio que ondula, se curva y se retuerce.",
+          html: "Tras Faraday y Maxwell, Einstein comprendió que la gravedad debe transmitirse por un campo, como la electricidad. Su intuición decisiva fue otra: el campo gravitatorio es el espacio mismo. Newton imaginó un espacio vacío más una fuerza a distancia. Einstein los unificó en un espacio que ondula, se curva y se retuerce.",
         },
         {
           type: 'paragraph',
-          html: "Gauss describió superficies curvas y su alumno <span class=\"person\">Riemann</span> generalizó la idea a dimensiones superiores. La curvatura R equivale a la energía de la materia. Las predicciones se verificaron una tras otra: desviación de la luz (<span class=\"num\">1919</span>), dilatación temporal en altura, agujeros negros, expansión del universo, radiación cósmica de fondo y ondas gravitacionales con una precisión de 1:10¹¹.",
+          html: "El matemático <span class=\"person\">Riemann</span> había generalizado las superficies curvas a más dimensiones. En la fórmula de Einstein, la curvatura del espacio equivale a la energía de la materia. Las predicciones se verificaron una tras otra. La luz se desvía cerca del Sol (<span class=\"num\">1919</span>). El tiempo corre distinto en altura. Existen agujeros negros y ondas gravitacionales.",
         },
         {
           type: 'quote',
@@ -124,7 +124,11 @@ export const sevenBriefLessons: BookSummary = {
         },
         {
           type: 'key',
-          html: "La intuición elemental de que el espacio es el campo gravitatorio se condensa en una ecuación que predijo un universo más extraño que cualquier ficción.",
+          html: "Una sola intuición (el espacio es el campo) predijo un universo más extraño que cualquier ficción.",
+        },
+        {
+          type: 'paragraph',
+          html: "Si el espacio puede curvarse, ¿qué ocurre cuando miramos la materia en lo más pequeño?",
         },
       ],
     },
@@ -136,19 +140,23 @@ export const sevenBriefLessons: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "La relatividad general es una gema compacta de una sola mente. La mecánica cuántica, en cambio, es un éxito experimental enorme envuelto en misterio. Nació en <span class=\"num\">1900</span> cuando <span class=\"person\">Max Planck</span> repartió la energía del campo en «cuantos» para resolver la radiación de cuerpo negro.",
+          html: "¿Por qué la mecánica cuántica funciona tan bien y aún nos deja confusos? La relatividad general es una gema de una sola mente. La cuántica, en cambio, es un éxito experimental enorme envuelto en misterio. Nació en <span class=\"num\">1900</span>, cuando <span class=\"person\">Max Planck</span> repartió la energía en «cuantos» (paquetes discretos) para explicar la luz de un cuerpo caliente.",
         },
         {
           type: 'paragraph',
-          html: "Einstein (<span class=\"num\">1905</span>) mostró que los cuantos de luz son reales: los <span class=\"term\">fotones</span>. Escribió «Me parece que…», con la misma cautela con que Darwin introdujo la evolución. En Copenhague, <span class=\"person\">Niels Bohr</span> comprendió que los electrones solo pueden ocupar ciertos niveles de energía. <span class=\"person\">Werner Heisenberg</span> fue más radical: el electrón no siempre existe, sino al interactuar, y toda la química sale de una ecuación.",
+          html: "Einstein (<span class=\"num\">1905</span>) mostró que esos paquetes de luz son reales: los <span class=\"term\">fotones</span> (partículas de luz). En Copenhague, <span class=\"person\">Niels Bohr</span> comprendió que los electrones solo ocupan ciertos niveles de energía. <span class=\"person\">Werner Heisenberg</span> fue más radical: el electrón no «está» siempre ahí, sino que aparece al interactuar. De esa idea sale toda la química.",
         },
         {
           type: 'paragraph',
-          html: "La probabilidad quedó en el corazón de la física. Einstein nominó a Heisenberg al Nobel, pero rechazó la interpretación: «Dios no juega a los dados». Bohr defendió que la realidad es relacional. Un siglo después seguimos sin acuerdo: ¿realidad indescribible, pista incompleta o interacción como esencia?",
+          html: "La probabilidad quedó en el corazón de la física. Einstein nominó a Heisenberg al Nobel, pero rechazó la interpretación: «Dios no juega a los dados». Bohr defendió que la realidad es relacional. Un siglo después seguimos sin acuerdo: ¿realidad indescribible, teoría incompleta o interacción como esencia?",
         },
         {
           type: 'key',
-          html: "La mecánica cuántica no describe qué es un sistema, sino cómo afecta a otro, y funciona demasiado bien para ignorarla.",
+          html: "La mecánica cuántica no describe qué «es» un sistema aislado, sino cómo afecta a otro. Funciona demasiado bien para ignorarla.",
+        },
+        {
+          type: 'paragraph',
+          html: "Con espacio curvo y materia en cuantos, ¿cómo se ve el cosmos entero?",
         },
       ],
     },
@@ -160,19 +168,23 @@ export const sevenBriefLessons: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Rovelli sostiene que, antes de experimentos, medidas y deducciones rigurosas, la ciencia es sobre todo <span class=\"term\">visión</span>. Cada revolución empieza por ver el mundo de otro modo. Anaximandro (<span class=\"num\">~VI a.C.</span>) reemplazó «cielo arriba, tierra abajo» por una Tierra flotando en el espacio. Aristóteles y Ptolomeo imaginaron esferas celestes. Copérnico puso el Sol en el centro, y Galileo mostró que el movimiento es relativo.",
+          html: "¿Qué viene primero en la ciencia: el cálculo o una nueva manera de mirar? Rovelli sostiene que, antes de medidas rigurosas, cada revolución empieza por <span class=\"term\">visión</span>: ver el mundo de otro modo. Anaximandro (~<span class=\"num\">VI a.C.</span>) reemplazó «cielo arriba, tierra abajo» por una Tierra flotando en el espacio. Copérnico puso el Sol en el centro. Galileo mostró que el movimiento es relativo.",
         },
         {
           type: 'paragraph',
-          html: "El Sol es una estrella entre cien mil millones en la Galaxia, y la Galaxia es un punto entre cientos de miles de millones de galaxias visibles con el telescopio Hubble. La mayoría de esas estrellas tienen planetas: miles de billones de mundos posibles.",
+          html: "Hoy el Sol es una estrella entre cien mil millones en la Galaxia. La Galaxia es un punto entre cientos de miles de millones de galaxias. La mayoría de esas estrellas tienen planetas: miles de billones de mundos posibles.",
         },
         {
           type: 'paragraph',
-          html: "Pero el espacio no es plano. Está <span class=\"term\">curvado</span>, ondulado como el mar, con agujeros negros en su textura. El universo entero emergió de una nube minúscula, caliente y densa hace unos <span class=\"num\">15 mil millones</span> de años. ¿Qué había antes? ¿Existen otros universos? Aún no lo sabemos.",
+          html: "Pero el espacio no es plano. Está <span class=\"term\">curvado</span> (ondulado como el mar), con agujeros negros en su textura. El universo entero emergió de una nube minúscula, caliente y densa hace unos <span class=\"num\">15 mil millones</span> de años. ¿Qué había antes? ¿Existen otros universos? Aún no lo sabemos.",
         },
         {
           type: 'key',
-          html: "Cada salto cosmológico humilló nuestra posición central y, al mismo tiempo, amplió la maravilla.",
+          html: "Cada salto cosmológico nos quitó el centro del escenario y, al mismo tiempo, amplió la maravilla.",
+        },
+        {
+          type: 'paragraph',
+          html: "Si el cosmos es inmenso, ¿de qué ladrillos está hecha la materia ordinaria?",
         },
       ],
     },
@@ -184,19 +196,23 @@ export const sevenBriefLessons: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Todo lo tangible está hecho de electrones y <span class=\"term\">quarks</span>, nombre que Murray Gell-Mann tomó de Joyce. Los gluones «pegan» quarks dentro de protones y neutrones. Junto con fotones, neutrinos y el bosón de Higgs (<span class=\"num\">2013</span>, CERN), hay menos de diez tipos de ladrillos elementales.",
+          html: "¿Cuántos tipos de ladrillos hacen falta para construir lo tangible? Todo lo que tocamos está hecho de electrones y <span class=\"term\">quarks</span> (piezas que forman protones y neutrones). Los gluones «pegan» esos quarks. Junto con fotones, neutrinos y el bosón de Higgs (detectado en <span class=\"num\">2013</span> en el CERN), hay menos de diez tipos de piezas elementales.",
         },
         {
           type: 'paragraph',
-          html: "Las partículas son cuantos de campos cuánticos: no piedras eternas, sino excitaciones efímeras de un vacío que nunca está vacío. El <span class=\"term\">Modelo Estándar</span> (años 1970) predice con precisión extraordinaria lo medido en el laboratorio, aunque parece «parcheado» y la renormalización deja mal sabor.",
+          html: "Esas partículas no son piedras eternas. Son excitaciones efímeras de campos cuánticos: un vacío que nunca está del todo vacío. El <span class=\"term\">Modelo Estándar</span> (años 1970) predice con precisión extraordinaria lo medido en el laboratorio. Aun así parece «parcheado», y algunos trucos matemáticos dejan mal sabor.",
         },
         {
           type: 'paragraph',
-          html: "Su gran límite es la <span class=\"term\">materia oscura</span>: masa gravitatoria invisible alrededor de las galaxias que no encaja en las partículas conocidas. Teorías elegantes como SU(5) o la supersimetría fallaron en experimentos clave.",
+          html: "Su gran límite es la <span class=\"term\">materia oscura</span>: masa que atrae gravitatoriamente alrededor de las galaxias pero no encaja en las partículas conocidas. Teorías elegantes fallaron en experimentos clave. Por eso el mapa de la materia sigue incompleto.",
         },
         {
           type: 'key',
           html: "Por ahora el Modelo Estándar es lo mejor que tenemos para la materia: feo quizá, pero extraordinariamente preciso.",
+        },
+        {
+          type: 'paragraph',
+          html: "Queda el choque más profundo. Relatividad y cuántica no se llevan bien entre sí.",
         },
       ],
     },
@@ -208,19 +224,23 @@ export const sevenBriefLessons: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "La relatividad general describe un espacio curvo y continuo. La mecánica cuántica exige saltos discretos. Ambas funcionan en su dominio, pero se contradicen. La <span class=\"term\">gravedad cuántica</span> busca la síntesis, como Newton unió caídas y órbitas o Maxwell electricidad y magnetismo.",
+          html: "¿Cómo unir un espacio continuo con una materia hecha de saltos? La relatividad general describe un espacio curvo y sin cortes. La mecánica cuántica exige paquetes discretos. Ambas funcionan en su dominio, pero se contradicen. La <span class=\"term\">gravedad cuántica</span> (la teoría que debería unirlas) busca esa síntesis, como Newton unió caídas y órbitas.",
         },
         {
           type: 'paragraph',
-          html: "La <span class=\"term\">gravedad cuántica de bucles</span>, en la que trabaja Rovelli, propone que el espacio no es continuo sino granular: «átomos de espacio» del orden de 10⁻³³ cm enlazados en redes. El espacio no contiene cosas sino que es esa red misma. El tiempo fundamental también desaparece y el cambio es local.",
+          html: "La <span class=\"term\">gravedad cuántica de bucles</span> (el enfoque en el que trabaja Rovelli) propone espacio granular. Habla de «átomos de espacio» del orden de 10⁻³³ cm enlazados en redes. El espacio no contiene cosas. Es esa red misma. En lo fundamental, el tiempo también desaparece y el cambio es local.",
         },
         {
           type: 'paragraph',
-          html: "Las predicciones concretas de este enfoque siguen siendo especulativas: estrellas colapsadas que rebotan como «estrellas de Planck», agujeros negros que explotan en cámara lenta, un posible <span class=\"term\">Big Bounce</span> en lugar de un Big Bang único. Aún no hay verificación experimental directa.",
+          html: "Las predicciones concretas siguen siendo especulativas. Incluyen estrellas que colapsan y rebotan, o agujeros negros que explotan en cámara lenta. También un posible <span class=\"term\">Big Bounce</span> (rebote cósmico) en lugar de un Big Bang único. Aún no hay verificación experimental directa.",
         },
         {
           type: 'key',
-          html: "Espacio y tiempo emergen de interacciones cuánticas, más lejos aún de nuestros instintos que las otras revoluciones.",
+          html: "Espacio y tiempo emergerían de interacciones cuánticas, más lejos aún de nuestros instintos que las otras revoluciones.",
+        },
+        {
+          type: 'paragraph',
+          html: "Si el tiempo no es fundamental, ¿de dónde sale la sensación de pasado y futuro?",
         },
       ],
     },
@@ -232,19 +252,23 @@ export const sevenBriefLessons: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "«¿Qué es el calor?» En términos simples, un cuerpo caliente es aquel cuyos átomos se mueven más rápido. El calor siempre fluye de lo caliente a lo frío, y con la fricción aparece la diferencia entre pasado y futuro. Para <span class=\"person\">Ludwig Boltzmann</span>, la entropía es pura <span class=\"term\">probabilidad</span>: es estadísticamente más probable igualar temperaturas.",
+          html: "¿Por qué el calor señala una dirección del tiempo? En términos simples, un cuerpo caliente es aquel cuyos átomos se mueven más rápido. El calor fluye de lo caliente a lo frío. La fricción también marca la diferencia entre pasado y futuro. Para <span class=\"person\">Ludwig Boltzmann</span>, la entropía es pura <span class=\"term\">probabilidad</span>: es más probable igualar temperaturas que mantener diferencias.",
         },
         {
           type: 'paragraph',
-          html: "Esa probabilidad clásica, ligada a nuestra ignorancia de los microestados, no es la misma que la cuántica. El «ahora» no existe objetivamente en física: Einstein escribió a la hermana de Besso que pasado, presente y futuro son una ilusión persistente. El flujo del tiempo emerge de la termodinámica y de interacciones limitadas, no de ecuaciones exactas.",
+          html: "Esa probabilidad clásica (ligada a nuestra ignorancia de los detalles microscópicos) no es la misma que la cuántica. El «ahora» no existe objetivamente en física. Einstein escribió que pasado, presente y futuro son una ilusión persistente. El flujo del tiempo emerge de la termodinámica y de interacciones limitadas, no de las ecuaciones exactas.",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Stephen Hawking</span> demostró que los agujeros negros tienen temperatura y emiten calor (radiación Hawking), el primer indicio de que el espacio puede comportarse como algo «caliente». Ese hallazgo une cuántica, gravedad y termodinámica, y es una pista central para entender el tiempo.",
+          html: "<span class=\"person\">Stephen Hawking</span> mostró que los agujeros negros tienen temperatura y emiten calor (radiación Hawking). Fue el primer indicio de que el espacio puede comportarse como algo «caliente». Ese hallazgo une cuántica, gravedad y termodinámica, y es una pista central para entender el tiempo.",
         },
         {
           type: 'key',
           html: "Solo cuando hay intercambio de calor distinguimos pasado de futuro. Nuestro reloj interior es estadístico, no fundamental.",
+        },
+        {
+          type: 'paragraph',
+          html: "Con ese mapa del cosmos, ¿dónde quedamos nosotros?",
         },
       ],
     },
@@ -256,15 +280,15 @@ export const sevenBriefLessons: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "¿Qué somos en un cosmos de quanta y campos? Observadores que construyen una «fotografía» de la realidad, nodos en una red de intercambio de información, parte integral del mundo y no espectadores externos.",
+          html: "¿Qué somos en un cosmos de cuantos y campos? Observadores que construyen una «fotografía» de la realidad. Nodos en una red de intercambio de información. Parte integral del mundo, no espectadores externos.",
         },
         {
           type: 'paragraph',
-          html: "Schelling creía que el hombre era la cumbre de la naturaleza, pero hoy sabemos que somos un rincón remoto, parientes de mariposas y álamos. Kant pensaba categorías universales, pero evolucionan con nuestra especie. La ciencia no es ficción campamental: sigue rastros como nuestros antepasados en la sabana, dispuesta a corregir el rumbo si aparece una pista mejor.",
+          html: "Schelling creía que el hombre era la cumbre de la naturaleza. Hoy sabemos que somos un rincón remoto, parientes de mariposas y álamos. Kant pensaba categorías universales, pero esas categorías evolucionan con nuestra especie. La ciencia no es ficción de campamento: sigue rastros, dispuesta a corregir el rumbo si aparece una pista mejor.",
         },
         {
           type: 'paragraph',
-          html: "La libertad no viola las leyes naturales: actuar según procesos neuronales internos. Para Spinoza, el «yo» es el complejo neuronal mismo. La consciencia sigue abierta (<span class=\"person\">Giulio Tononi</span> y la teoría de información integrada). Valores, lágrimas y música son reales precisamente por ser naturaleza. Somos una especie curiosa, quizá breve, pero en casa: como escribe Lucrecio, nacemos de la misma semilla celestial.",
+          html: "La libertad no viola las leyes naturales: actuar según procesos neuronales internos. Para Spinoza, el «yo» es ese complejo neuronal. La consciencia sigue abierta. Valores, lágrimas y música son reales precisamente por ser naturaleza. Somos una especie curiosa, quizá breve, pero en casa.",
         },
         {
           type: 'quote',

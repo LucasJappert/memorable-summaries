@@ -29,6 +29,10 @@ ese orden de prioridad.
    4d. **Claridad en la prosa:** cada oración con sujeto y verbo; una idea fuerte por oración (~15–25 palabras). Evitá estilo telegráfico (`Autor: dato`, fragmentos sin sujeto, más de un `—` o `;` por párrafo). Los nombres propios van en prosa, no como etiqueta.
    4e. **Conectores de progresión obligatorios.** Usá al menos uno de estos por sección: _por eso_, _de ahí que_, _entonces_, _pero_, _sin embargo_, _porque_, _esto explica_, _a partir de ahí_. El lector debe sentir que avanza, no que leen una lista de datos.
    4f. **Máximo 25 palabras por oración.** Si una oración supera esa cifra, dividila en dos. Si una oración tiene más de una coma, reconsiderá si no se están acumulando ideas.
+   4g. **Audiencia:** adultos curiosos **sin formación especializada**. El resumen debe entenderse sin haber leído el libro ni estudiado el campo.
+   4h. **Tecnicismos explicados en la 1.ª aparición.** Cada término técnico o jerga (marcado con `<span class="term">`) lleva, en la misma oración o la siguiente, una glosa breve: aposición, paréntesis, dos puntos, o marcadores (_es decir_, _o sea_, _significa_). Preferí **concepto en lenguaje llano → término** cuando el idea sea abstracta. Máximo **2–3 términos técnicos nuevos** por `# capN` en la prosa; el resto puede ir a `<!-- concept-grid -->` o `# conceptos`.
+   4i. **Concreto antes que abstracto.** Cuando un capítulo gira en torno a una idea abstracta (contingencia, progreso, disparidad), abrí con un caso concreto (un fósil, una escena, un contraste) y recién después generalizá.
+   4j. **No asumas conocimiento previo.** No des por sabidos autores, yacimientos, eras geológicas ni debates del campo: presentá a cada figura con un rol breve la primera vez («el paleontólogo X…»).
 5. **Incluí siempre** (si el libro lo permite): conceptos clave, cronología, figuras, cierre
 6. **Frontmatter YAML** al inicio con title, title_es (si aplica), subtitle, author, meta, slug, lang: es
 7. **Tabla de contenidos** completa con ids en kebab-case (`cap1`, `cap2`, …)
@@ -66,7 +70,7 @@ Usá `<span class="...">` en lugar de negrita genérica. **Cada clase = un signi
 
 | Clase      | Uso                                                             | Ejemplo                                                  |
 | ---------- | --------------------------------------------------------------- | -------------------------------------------------------- |
-| `term`     | Concepto o término técnico (1.ª aparición en la sección)        | `<span class="term">ventaja estratégica decisiva</span>` |
+| `term`     | Concepto o término técnico (1.ª aparición en el resumen); **siempre con glosa** | `<span class="term">gradualismo</span>: cambios grandes = muchos cambios pequeños` |
 | `person`   | Persona, institución o estado                                   | `<span class="person">Russell</span>`                    |
 | `key-term` | Término central del bloque `<!-- key -->` (no usar en párrafos) | `<span class="key-term">singleton</span>`                |
 | `num`      | Cifra, fecha, magnitud, rango temporal                          | `<span class="num">1945–49</span>`                       |

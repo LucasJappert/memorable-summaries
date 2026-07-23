@@ -78,17 +78,22 @@
     {
       "sectionId": "prefacio",
       "sectionTitle": "La píldora roja",
-      "text": "Donald Hoffman abre desmontando una intuición casi universal: creemos que ojos y sentidos son ventanas fiables sobre un mundo de objetos en espacio y tiempo que existen aunque nadie mire. La selección natural, suponemos, habría eliminado percepciones falsas porque las más verdaderas serían más aptas."
+      "text": "¿Por qué creemos que ojos y sentidos son ventanas fiables sobre el mundo? El científico cognitivo Donald Hoffman abre desmontando esa intuición casi universal. Suponemos que la selección natural eliminó percepciones falsas porque las más verdaderas serían más aptas."
     },
     {
       "sectionId": "prefacio",
       "sectionTitle": "La píldora roja",
-      "text": "Esa cadena de suposiciones es un teorema evolutivo en sentido contrario. Nuestras percepciones de manzanas, serpientes, espacio y tiempo no solo se equivocan en detalles: el lenguaje mismo de objetos en espacio-tiempo es el idioma equivocado para describir la realidad objetiva. Los sentidos ocultan la verdad y muestran iconos simples, como el archivo azul del escritorio que no es azul ni rectangular «en realidad», pero sí guía tareas vitales."
+      "text": "Esa cadena de suposiciones es un teorema evolutivo al revés. Nuestras percepciones de manzanas, serpientes, espacio y tiempo no solo se equivocan en detalles. El lenguaje mismo de objetos en espacio-tiempo es el idioma equivocado para describir la realidad objetiva."
     },
     {
       "sectionId": "prefacio",
       "sectionTitle": "La píldora roja",
-      "text": "No debemos confundir tomar en serio con tomar literalmente. No saltarías ante un Maserati por la misma razón por la que no arrastrarías un icono a la papelera sin cuidado. El libro recorrerá conciencia, belleza, consenso científico, matemática evolutiva, física, color, atención y una ontología de agentes conscientes."
+      "text": "Los sentidos ocultan la verdad y muestran iconos simples. Un archivo azul del escritorio no es azul ni rectangular «en realidad», pero sí guía tareas vitales. No debemos confundir tomar en serio con tomar literalmente. No saltarías ante un Maserati por la misma razón por la que no arrastrarías un icono a la papelera sin cuidado."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "La píldora roja",
+      "text": "El libro recorrerá conciencia, belleza y consenso científico. También matemática evolutiva, física, color, atención y una ontología de agentes conscientes."
     },
     {
       "sectionId": "prefacio",
@@ -101,24 +106,34 @@
       "text": "La evolución nos dio una interfaz perceptual orientada a aptitud, no a verdad objetiva."
     },
     {
-      "sectionId": "cap1",
-      "sectionTitle": "El misterio del bisturí",
-      "text": "En 1962 , Joseph Bogen y Philip Vogel seccionaron el cerebro de Bill Jenkins para frenar epilepsia intractable. La callosotomía corta el cuerpo calloso , con apenas 200 millones de axones entre hemisferios frente a billones intrahemisféricos, y puede dividir la conciencia. Un hemisferio ve «ring» y el otro elige «key» sin poder nombrarlo."
+      "sectionId": "prefacio",
+      "sectionTitle": "La píldora roja",
+      "text": "Si los sentidos ocultan más de lo que revelan, el primer misterio es la conciencia misma."
     },
     {
       "sectionId": "cap1",
       "sectionTitle": "El misterio del bisturí",
-      "text": "El misterio central persiste desde Leibniz , Huxley y William James . Ninguno explicó cómo tejido nervioso produce sabor, dolor o deseo. Después del triunfo del ADN sobre el vitalismo, el Club Helmholtz esperaba un «doble hélice» de la conciencia. Francis Crick admitió a Hoffman que, ni con hechos biológicos inventados, sabía explicar por qué actividad neural causa rojo fenomenológico."
+      "text": "¿Por qué cortar el cerebro por la mitad puede dividir la conciencia? En 1962 , el neurocirujano Joseph Bogen y su colega Vogel seccionaron el cerebro de Bill Jenkins para frenar epilepsia intractable."
     },
     {
       "sectionId": "cap1",
       "sectionTitle": "El misterio del bisturí",
-      "text": "Hay abundantes correlatos neuronales de conciencia (área V4 y color, propofol y estabilidad neural, terapia de fobias con propranolol). Pero correlación no es explicación. Ninguna teoría propone leyes que predigan experiencias concretas a partir de actividad cerebral. Algunos llaman esto el problema difícil ."
+      "text": "La callosotomía (cirugía que corta el puente entre hemisferios) secciona el cuerpo calloso (el haz de fibras que une ambos lados del cerebro). Un hemisferio ve «ring» y el otro elige «key» sin poder nombrarlo. Dos mentes pueden convivir en un solo cráneo."
     },
     {
       "sectionId": "cap1",
       "sectionTitle": "El misterio del bisturí",
-      "text": "Hoffman sospecha que partimos de una creencia falsa: vemos la realidad como es . El cubo de Necker muestra que construimos cubos alternativos. Cuando miras aparte, no queda un cubo objetivo. Galileo ya situó color y sabor en la conciencia, y la evolución extiende el gesto a forma, posición, masa y espacio-tiempo."
+      "text": "El misterio central persiste desde filósofos como Leibniz, Huxley y William James. Ninguno explicó cómo tejido nervioso produce sabor, dolor o deseo. Cuando el ADN venció al vitalismo, muchos esperaban un «doble hélice» de la conciencia. Francis Crick admitió a Hoffman que, ni con hechos biológicos inventados, sabía explicar por qué actividad neural causa rojo fenomenológico."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "El misterio del bisturí",
+      "text": "Hay abundantes correlatos neuronales de conciencia. El área V4 se vincula al color. El propofol altera la estabilidad neural. El propranolol ayuda en terapia de fobias. Pero correlación no es explicación. Ninguna teoría propone leyes que predigan experiencias concretas a partir de actividad cerebral. A eso algunos llaman el problema difícil (el misterio de cómo la materia produce experiencia subjetiva)."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "El misterio del bisturí",
+      "text": "Hoffman sospecha que partimos de una creencia falsa: que vemos la realidad como es. El cubo de Necker muestra que construimos cubos alternativos. Cuando miras aparte, no queda un cubo objetivo. Galileo ya situó color y sabor en la conciencia. La evolución extiende el gesto a forma, posición, masa y espacio-tiempo."
     },
     {
       "sectionId": "cap1",
@@ -126,24 +141,29 @@
       "text": "El estancamiento en conciencia invita a cuestionar la supuesta veracidad perceptual , no solo buscar más correlatos."
     },
     {
-      "sectionId": "cap2",
-      "sectionTitle": "Las sirenas del gen",
-      "text": "Para David Hume , la belleza está en el ojo del observador. Darwin explica por qué ese ojo juzga. La belleza resume, en una fracción de segundo, una estimación de potencial reproductivo y aptitud."
+      "sectionId": "cap1",
+      "sectionTitle": "El misterio del bisturí",
+      "text": "Si la percepción no reporta la realidad tal cual, un caso cotidiano lo ilustra: la belleza."
     },
     {
       "sectionId": "cap2",
       "sectionTitle": "Las sirenas del gen",
-      "text": "Escarabajos macho en Australia confundieron botellas cerveza «stubbie», con brillo, hendiduras y marrón, con hembras y casi llevaron la especie a la extinción. Alces aparecen apareándose con estatuas. La belleza es computación inconsciente sobre señales evolutivas, no capricho."
+      "text": "¿Por qué un escarabajo confunde una botella de cerveza con una pareja? Para David Hume , la belleza está en el ojo del observador. Darwin explica por qué ese ojo juzga. La belleza resume, en una fracción de segundo, una estimación de potencial reproductivo (probabilidad de dejar descendencia)."
     },
     {
       "sectionId": "cap2",
       "sectionTitle": "Las sirenas del gen",
-      "text": "Experimentos del laboratorio de Hoffman identificaron pistas en el ojo humano. Un anillo limbar prominente señala juventud y salud corneal. Los hombres prefieren iris relativamente grandes en mujeres menores de cincuenta. La esclerótica ligeramente azulada y los brillos «catch light» aumentan el atractivo. Los genes pueden mentir con maquillaje, orquídeas martillo engañando avispas, o luciérnagas Photuris devorando machos Photinus."
+      "text": "Escarabajos macho en Australia confundieron botellas cerveza «stubbie» con hembras. El brillo, las hendiduras y el marrón casi llevaron la especie a la extinción. Alces aparecen apareándose con estatuas. La belleza es computación inconsciente sobre señales evolutivas, no capricho."
     },
     {
       "sectionId": "cap2",
       "sectionTitle": "Las sirenas del gen",
-      "text": "Las mujeres enfrentan un trade-off evolutivo entre rostros más masculinos (testosterona) y mayor probabilidad de infidelidad. La preferencia varía con el ciclo menstrual. La belleza codifica aptitud personal e inclusiva ( William Hamilton ), no verdades sobre «cosas en sí»."
+      "text": "Experimentos del laboratorio de Hoffman identificaron pistas en el ojo humano. Un anillo limbar (el borde oscuro del iris) prominente señala juventud y salud corneal. Los hombres prefieren iris relativamente grandes en mujeres menores de cincuenta. La esclerótica ligeramente azulada y los brillos «catch light» aumentan el atractivo."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Las sirenas del gen",
+      "text": "Los genes pueden mentir con maquillaje, orquídeas martillo engañando avispas, o luciérnagas Photuris devorando machos Photinus. Las mujeres enfrentan un trade-off evolutivo entre rostros más masculinos (testosterona) y mayor probabilidad de infidelidad. La preferencia varía con el ciclo menstrual. La belleza codifica aptitud personal e inclusiva ( William Hamilton ), no verdades sobre «cosas en sí»."
     },
     {
       "sectionId": "cap2",
@@ -151,19 +171,24 @@
       "text": "La belleza es un termómetro de aptitud evolutiva, no un reflejo objetivo de cualidades en el mundo."
     },
     {
-      "sectionId": "cap3",
-      "sectionTitle": "Las peripecias del sol invisible",
-      "text": "Autoridades como Francis Crick , David Marr y Robert Trivers sostienen que la visión evolucionó para ser verídica: «lo que ves es lo que hay». Hoffman, antiguo alumno de Marr en el MIT, duda desde 1986 pero hasta 1994 no tenía refutación sólida."
+      "sectionId": "cap2",
+      "sectionTitle": "Las sirenas del gen",
+      "text": "Si la belleza codifica aptitud y no verdad, ¿qué dice el consenso científico sobre la visión en general?"
     },
     {
       "sectionId": "cap3",
       "sectionTitle": "Las peripecias del sol invisible",
-      "text": "En cartas con Crick, Hoffman plantea la paradoja: si vemos construyendo teorías, y vemos neuronas al mirar, ¿existían neuronas antes de observarlas? Crick distingue «cosa en sí» (sol) de «idea-de-cosa» (construcción), pero en la práctica asume que la idea refleja la cosa — la hipótesis puente ."
+      "text": "¿Por qué los grandes científicos asumen que vemos el mundo «como es»? Autoridades como Francis Crick sostienen que la visión evolucionó para ser verídica: «lo que ves es lo que hay». Hoffman, antiguo alumno de David Marr en el MIT, duda desde 1986 y aún en 1994 carecía de refutación sólida."
     },
     {
       "sectionId": "cap3",
       "sectionTitle": "Las peripecias del sol invisible",
-      "text": "Marr en Vision ( 1982 ) afirma que «normalmente» procesamos una descripción verdadera del mundo visible. El argumento estándar repite que los ancestros que veían mejor sobrevivían más. Incluso Marr admitió que la mosca ve de forma subjetiva pero suficiente para aparearse."
+      "text": "En cartas con Crick, Hoffman plantea la paradoja. Vemos construyendo teorías, y vemos neuronas al mirar. ¿Existían neuronas antes de observarlas? Crick distingue «cosa en sí» (sol) de «idea-de-cosa» (construcción). En la práctica asume que la idea refleja la cosa. Eso es la hipótesis puente (la suposición de que la percepción refleja la realidad)."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Las peripecias del sol invisible",
+      "text": "Marr en su libro Vision ( 1982 ) afirma que «normalmente» procesamos una descripción verdadera del mundo visible. El argumento estándar repite que los ancestros que veían mejor sobrevivían más. Incluso Marr admitió que la mosca ve de forma subjetiva pero suficiente para aparearse."
     },
     {
       "sectionId": "cap3",
@@ -176,19 +201,24 @@
       "text": "El consenso científico de percepción verídica carece de teorema evolutivo. Es la creencia a someter a prueba."
     },
     {
-      "sectionId": "cap4",
-      "sectionTitle": "La aptitud vence a la verdad",
-      "text": "¿Puede la evolución decidir si la selección favorece verdad o aptitud? Sí, con teoría de juegos evolutivos ( Maynard Smith , George Price , 1973 ) y Darwinismo universal : variación, herencia y selección sin asumir objetos físicos."
+      "sectionId": "cap3",
+      "sectionTitle": "Las peripecias del sol invisible",
+      "text": "Para someterla a prueba, Hoffman necesita matemática evolutiva, no solo intuición."
     },
     {
       "sectionId": "cap4",
       "sectionTitle": "La aptitud vence a la verdad",
-      "text": "El teorema Fitness-Beats-Truth (FBT), conjeturado por Hoffman y probado por Chetan Prakash , compara estrategias Truth (ve estructura del mundo) y Fitness (ve payoffs de aptitud). Con N estados posibles, la probabilidad de que Truth sobreviva es P(Truth) ≤ 2/(N−1) cuando N=10. Con 130 millones de fotorreceptores humanos, la probabilidad de verdad es efectivamente cero."
+      "text": "¿Puede la evolución decidir si la selección favorece verdad o aptitud? Sí, con la teoría de juegos evolutivos (modelos matemáticos de competencia entre estrategias heredables). John Maynard Smith y George Price la fundaron en 1973 ."
     },
     {
       "sectionId": "cap4",
       "sectionTitle": "La aptitud vence a la verdad",
-      "text": "Simulaciones con «kritters» y recurso «stuf» muestran que Fitness forrajea sin riesgo extra mientras Truth debe apostar la vida. Solo si payoffs correlacionan monotónicamente con estructura del mundo Truth podría competir — probabilidad ínfima en mundos complejos. Algoritmos genéticos de Justin Mark confirman extinción de Truth tras cientos de generaciones."
+      "text": "El teorema Fitness-Beats-Truth (la aptitud vence a la verdad, abreviado FBT) compara estrategias Truth (ve estructura del mundo) y Fitness (ve payoffs de aptitud). Con N estados posibles, la probabilidad de que Truth sobreviva es P(Truth) ≤ 2/(N−1) cuando N=10. Con 130 millones de fotorreceptores humanos, la probabilidad de verdad es efectivamente cero."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "La aptitud vence a la verdad",
+      "text": "Simulaciones con «kritters» y recurso «stuf» muestran que Fitness forrajea sin riesgo extra mientras Truth debe apostar la vida. Solo si payoffs correlacionan monotónicamente con estructura del mundo Truth podría competir. Eso tiene probabilidad ínfima en mundos complejos. Algoritmos genéticos de Justin Mark confirman extinción de Truth tras cientos de generaciones."
     },
     {
       "sectionId": "cap4",
@@ -201,19 +231,29 @@
       "text": "La selección natural moldea percepciones para aptitud , no para reconstruir la realidad objetiva."
     },
     {
-      "sectionId": "cap5",
-      "sectionTitle": "El farol del escritorio",
-      "text": "La Teoría de la Interfaz de la Percepción (ITP) compara cada sistema sensorial con el escritorio de un ordenador. Los iconos son útiles y ocultan voltajes, software y silicio. Espacio-tiempo es el escritorio 3D de Homo sapiens . Manzanas y estrellas son iconos, no cosas-en-sí."
+      "sectionId": "cap4",
+      "sectionTitle": "La aptitud vence a la verdad",
+      "text": "Si la aptitud vence a la verdad, ¿cómo se ve eso en la experiencia cotidiana de percibir?"
     },
     {
       "sectionId": "cap5",
       "sectionTitle": "El farol del escritorio",
-      "text": "La fallacia serio-literal confunde «debo tomarlo en serio» con «debe existir literalmente». Señales de biohazard o un punto verde en sonar no representan la realidad objetiva, pero salvan vidas. Una cuchara existe al mirar y deja de existir como cuchara al apartar la mirada. Algo persiste, pero no en el formato cuchara-en-espacio. Berkeley lo resumió con esse est percipi."
+      "text": "¿Por qué un icono azul del escritorio es útil sin ser azul «en realidad»? La Teoría de la Interfaz de la Percepción (ITP) compara cada sistema sensorial con el escritorio de un ordenador. Los iconos son útiles y ocultan voltajes, software y silicio."
     },
     {
       "sectionId": "cap5",
       "sectionTitle": "El farol del escritorio",
-      "text": "El consenso entre observadores no exige un objeto público. Compartimos interfaz y necesidades similares, construyendo iconos parecidos. La mímica funciona entre iconos (araña-heces), no porque exista verdad objetiva imitada. Las ilusiones, en ITP, son percepciones que fallan en guiar conducta adaptativa, no desvíos de una verdad base inexistente."
+      "text": "Espacio-tiempo es el escritorio 3D de Homo sapiens . Manzanas y estrellas son iconos, no cosas-en-sí. La fallacia serio-literal (confundir respetar una señal con creer que describe la realidad) mezcla «debo tomarlo en serio» con «debe existir literalmente»."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El farol del escritorio",
+      "text": "Señales de biohazard o un punto verde en sonar no representan la realidad objetiva, pero salvan vidas. Una cuchara existe al mirar y deja de existir como cuchara al apartar la mirada. Algo persiste, pero no en el formato cuchara-en-espacio. George Berkeley lo resumió con esse est percipi."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El farol del escritorio",
+      "text": "El consenso entre observadores no exige un objeto público. Compartimos interfaz y necesidades similares, construyendo iconos parecidos. La mímica funciona entre iconos (araña-heces), no porque exista verdad objetiva imitada. Las ilusiones, en ITP, son percepciones que fallan en guiar conducta adaptativa."
     },
     {
       "sectionId": "cap5",
@@ -226,19 +266,29 @@
       "text": "ITP sostiene que la percepción es una interfaz de usuario evolutiva, útil y seria, pero no literalmente verdadera."
     },
     {
-      "sectionId": "cap6",
-      "sectionTitle": "El espacio-tiempo está condenado",
-      "text": "ITP predice que electrones no tienen espín definido sin medición y que espacio-tiempo no existe no percibido. La física no refuta esa predicción. John Bell ( 1964 ) mostró experimentos posibles contra realismo local ."
+      "sectionId": "cap5",
+      "sectionTitle": "El farol del escritorio",
+      "text": "Si espacio-tiempo es interfaz y no fundamento, ¿qué dice la física moderna?"
     },
     {
       "sectionId": "cap6",
       "sectionTitle": "El espacio-tiempo está condenado",
-      "text": "El experimento de Delft ( 2016 ) midió espines entrelazados a 1280 m con correlaciones imposibles bajo realismo local. El teorema de Kochen-Specker niega propiedades definidas independientes del contexto de medición — la luna «allí» sin mirar cae con el realismo no contextual que Crick daba por sentado."
+      "text": "¿Por qué la física cuántica refuerza la idea de que espacio-tiempo no es fundamental? ITP predice que electrones no tienen espín definido sin medición. También predice que espacio-tiempo no existe no percibido. La física no refuta esa predicción."
     },
     {
       "sectionId": "cap6",
       "sectionTitle": "El espacio-tiempo está condenado",
-      "text": "Carlo Rovelli , QBism (Fuchs, Mermin, Schack) y John Wheeler enfatizan estados relacionales y participación del observador. El principio holográfico (Bekenstein, Hawking, Susskind): información en una región escala con área de superficie, no volumen — espacio-tiempo como pantalla 2D."
+      "text": "John Bell mostró en 1964 experimentos posibles contra el realismo local. Esa idea supone que propiedades existen definidas antes de medir. El experimento de Delft ( 2016 ) midió espines entrelazados a 1280 m con correlaciones imposibles bajo realismo local."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "El espacio-tiempo está condenado",
+      "text": "El teorema de Kochen-Specker (resultado que niega propiedades definidas sin medir) refuta el realismo no contextual. Crick daba por sentado que la luna «allí» sin mirar seguía existiendo."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "El espacio-tiempo está condenado",
+      "text": "Carlo Rovelli y John Wheeler enfatizan estados relacionales y participación del observador. El principio holográfico (información en una región limitada por el área de su frontera, no por su volumen) sugiere espacio-tiempo como pantalla 2D."
     },
     {
       "sectionId": "cap6",
@@ -251,24 +301,29 @@
       "text": "La física moderna respalda que espacio-tiempo y objetos no son la base objetiva de la realidad."
     },
     {
-      "sectionId": "cap7",
-      "sectionTitle": "Inflando un holomundo",
-      "text": "Si espacio-tiempo está condenado, ¿qué es? Hoffman propone un formato de datos que comprime funciones de aptitud multidimensionales en tres dimensiones espaciales y una temporal, más iconos con forma y color."
+      "sectionId": "cap6",
+      "sectionTitle": "El espacio-tiempo está condenado",
+      "text": "Si espacio-tiempo no es el escenario real, ¿cómo comprime el interfaz la información sobre aptitud?"
     },
     {
       "sectionId": "cap7",
       "sectionTitle": "Inflando un holomundo",
-      "text": "El teorema de Invención de la Simetría (Prakash): simetrías en percepción no implican simetrías en la realidad objetiva — son herramientas de compresión y corrección de errores, como en códigos Hamming. Ilusiones de líneas, cuadrados y cubos muestran superposición, entrelazamiento visual e «inflación» holográfica 2D→3D."
+      "text": "¿Qué es espacio-tiempo si no es el fundamento de la realidad? Hoffman propone un formato de datos (código que comprime información) que reduce funciones de aptitud multidimensionales en tres dimensiones espaciales y una temporal."
     },
     {
       "sectionId": "cap7",
       "sectionTitle": "Inflando un holomundo",
-      "text": "La redundancia espacial predicha por selección natural aparece en física como holografía y códigos correctores (Almheiri, Dong, Harlow). La causalidad entre objetos físicos sería ficción útil del interfaz — computadoras cuánticas sin orden causal fijo lo sugieren. Teorías de visión verídica (inverso óptico, Bayes, Gibson) fallan al asumir objetos preexistentes."
+      "text": "El teorema de Invención de la Simetría (Prakash) muestra que simetrías en percepción no implican simetrías en la realidad objetiva. Son herramientas de compresión y corrección de errores, como en códigos Hamming. Ilusiones de líneas, cuadrados y cubos muestran superposición, entrelazamiento visual e «inflación» holográfica 2D→3D."
     },
     {
       "sectionId": "cap7",
       "sectionTitle": "Inflando un holomundo",
-      "text": "Los jeans Body Optix™ muestran la aplicación práctica. Curvas, costuras y acabados manipulan gradientes de brillo para enviar mensajes de aptitud corporal. La distancia percibida depende del coste energético relativo (Proffitt). Los bucles percibir-decidir-actuar están moldeados por payoffs, no por reconstrucción del mundo."
+      "text": "La redundancia espacial predicha por selección natural aparece en física como holografía y códigos correctores (Almheiri, Dong, Harlow). La causalidad entre objetos físicos sería ficción útil del interfaz. Teorías de visión verídica (inverso óptico, Bayes, Gibson) fallan al asumir objetos preexistentes."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Inflando un holomundo",
+      "text": "Los jeans Body Optix™ muestran la aplicación práctica. Curvas, costuras y acabados manipulan gradientes de brillo para enviar mensajes de aptitud corporal. La distancia percibida depende del coste energético relativo (Proffitt). Los bucles percibir-decidir-actuar (ciclos donde percepción guía acción según payoffs) están moldeados por aptitud, no por reconstrucción del mundo."
     },
     {
       "sectionId": "cap7",
@@ -276,19 +331,24 @@
       "text": "Espacio-tiempo comprime y corrige mensajes de aptitud , pero no reconstruye un escenario objetivo preexistente."
     },
     {
-      "sectionId": "cap8",
-      "sectionTitle": "Mutaciones de una interfaz",
-      "text": "El color comprime longitudes de onda ( 400–700 nm ) en cuatro números por punto (conos L, M, S y bastones) — borrado masivo de datos sobre aptitud fuera de esa ventana (UV, microondas, rayos X)."
+      "sectionId": "cap7",
+      "sectionTitle": "Inflando un holomundo",
+      "text": "Un canal sensorial concreto muestra esa compresión en acción: el color."
     },
     {
       "sectionId": "cap8",
       "sectionTitle": "Mutaciones de una interfaz",
-      "text": "Ilusiones acuarela y cuadrado neón muestran corrección de borrados en tiempo real. Las cromaturas (color+textura) superan al color plano en precisión emocional y guía de acción — brócoli vs. carne verde vs. fresa. Plantas con 11 o 27 tipos de fotorreceptores explotan códigos cromáticos evolutivos distintos al nuestro."
+      "text": "¿Por qué vemos millones de colores con solo cuatro tipos de fotorreceptores? El color comprime longitudes de onda ( 400–700 nm ) en cuatro números por punto. Son conos L, M, S y bastones. Es borrado masivo de datos sobre aptitud fuera de esa ventana."
     },
     {
       "sectionId": "cap8",
       "sectionTitle": "Mutaciones de una interfaz",
-      "text": "Marcas defienden colores como propiedad intelectual (T-Mobile magenta vs. Aio plum, 2014 ). La psicología del color enlaza matices con emociones y contexto — el mismo marrón «opaque couché» cambia de feo a aceptable según sombreado del sombrero de Joseph."
+      "text": "Ilusiones acuarela y cuadrado neón muestran corrección de borrados en tiempo real. Las cromaturas (color más textura) superan al color plano en precisión emocional y guía de acción. Brócoli vs. carne verde vs. fresa lo ilustran. Plantas con 11 o 27 tipos de fotorreceptores explotan códigos cromáticos evolutivos distintos al nuestro."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Mutaciones de una interfaz",
+      "text": "Marcas defienden colores como propiedad intelectual (T-Mobile magenta vs. Aio plum, 2014 ). La psicología del color enlaza matices con emociones y contexto. El mismo marrón «opaque couché» cambia de feo a aceptable según sombreado del sombrero de Joseph."
     },
     {
       "sectionId": "cap8",
@@ -301,24 +361,29 @@
       "text": "Color y textura son códigos de aptitud , no propiedades objetivas de superficies."
     },
     {
-      "sectionId": "cap9",
-      "sectionTitle": "Obtienes lo que necesitas",
-      "text": "La visión recibe miles de millones de bits por segundo, pero la atención conserva unos 40 . La ceguera al cambio demuestra que creemos ver detalle global cuando solo la ventana de ~ 2° (ancho del pulgar a brazo extendido) tiene alta resolución. Las sacadas rellenan la ilusión."
+      "sectionId": "cap8",
+      "sectionTitle": "Mutaciones de una interfaz",
+      "text": "Si el color comprime aptitud, la atención decide qué iconos siquiera se construyen."
     },
     {
       "sectionId": "cap9",
       "sectionTitle": "Obtienes lo que necesitas",
-      "text": "Las señales exógenas (color, tamaño, movimiento, contraste) «saltan» del fondo. Las metas endógenas modulan mapas de saliencia en V1. New, Cosmides y Tooby ( 2007 ) demostraron que detectamos cambios en animados más rápido y con más fiabilidad que en objetos inertes. Eso respalda un sistema de monitoreo de animados."
+      "text": "¿Por qué creemos ver todo el detalle cuando solo atendemos un puñado de bits? La visión recibe miles de millones de bits por segundo, pero la atención conserva unos 40 . La ceguera al cambio (fallo en detectar cambios grandes fuera del foco) demuestra que la ilusión de detalle global es engañosa."
     },
     {
       "sectionId": "cap9",
       "sectionTitle": "Obtienes lo que necesitas",
-      "text": "El marketing explota pop-out, agrupamiento, estímulos supernormales y atención escenificada (mirada del modelo hacia el logo). Los anuncios iPod minimizan distracciones. Los escaparates caóticos pierden mensajes de aptitud. La memoria espacial favorece alimentos calóricos (mercado campesino)."
+      "text": "Solo la ventana de ~ 2° (ancho del pulgar a brazo extendido) tiene alta resolución. Las sacadas rellenan la ilusión. Las señales exógenas (color, tamaño, movimiento, contraste) «saltan» del fondo. Las metas endógenas modulan mapas de saliencia en V1."
     },
     {
       "sectionId": "cap9",
       "sectionTitle": "Obtienes lo que necesitas",
-      "text": "Objetos como gatos o coches son mensajes decodificados bajo demanda, creados y destruidos al atender. Neuronas y sol son iconos del interfaz. Creer que causan conciencia es útil en medicina, pero bloquea la ontología fundamental."
+      "text": "Leda Cosmides y John Tooby demostraron en 2007 que detectamos cambios en animados más rápido y con más fiabilidad que en objetos inertes. Eso respalda un sistema de monitoreo de animados. El marketing explota pop-out, agrupamiento, estímulos supernormales y atención escenificada (mirada del modelo hacia el logo)."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Obtienes lo que necesitas",
+      "text": "Los anuncios iPod minimizan distracciones. Los escaparates caóticos pierden mensajes de aptitud. La memoria espacial favorece alimentos calóricos (mercado campesino). Objetos como gatos o coches son mensajes decodificados bajo demanda, creados y destruidos al atender. Neuronas y sol son iconos del interfaz."
     },
     {
       "sectionId": "cap9",
@@ -341,14 +406,19 @@
       "text": "La atención es un filtro evolutivo de noticias de aptitud , no una cámara de realidad objetiva."
     },
     {
-      "sectionId": "cap10",
-      "sectionTitle": "La red de agentes conscientes",
-      "text": "Si teorías que parten de neuronas en espacio-tiempo no explican conciencia, Hoffman invierte la ontología: realismo consciente — agentes conscientes como realidad fundamental, materia y espacio-tiempo como interfaz proyectado."
+      "sectionId": "cap9",
+      "sectionTitle": "Obtienes lo que necesitas",
+      "text": "Si neuronas y objetos son iconos, ¿qué queda como base de la realidad?"
     },
     {
       "sectionId": "cap10",
       "sectionTitle": "La red de agentes conscientes",
-      "text": "Un agente consciente tiene menús de experiencias y acciones (espacios medibles), kernels markovianos de percibir, decidir y actuar, y contador temporal. La tesis del agente consciente postula que todo aspecto de conciencia es modelable así. Los agentes se combinan en agentes de orden superior ad infinitum."
+      "text": "¿Qué pasa cuando las teorías que parten de neuronas en espacio-tiempo no explican conciencia? Hoffman invierte la ontología con el realismo consciente (la idea de que agentes conscientes, no la materia, son lo fundamental). Materia y espacio-tiempo serían interfaz proyectado."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "La red de agentes conscientes",
+      "text": "Un agente consciente (entidad con experiencias y acciones posibles) tiene menús de experiencias y acciones. Incluye kernels markovianos de percibir, decidir y actuar, y contador temporal. Todo aspecto de conciencia sería modelable así. Los agentes se combinan en agentes de orden superior ad infinitum."
     },
     {
       "sectionId": "cap10",
@@ -371,14 +441,19 @@
       "text": "La conciencia como red de agentes conscientes reemplaza la materia inconsciente como base de la realidad."
     },
     {
-      "sectionId": "cap11",
-      "sectionTitle": "Con precisión (Apéndice)",
-      "text": "El apéndice formaliza un agente consciente C = (X, G, W, P, D, A, T). Define espacios medibles de experiencias X, acciones G y mundo W. Incluye kernels P (percepción), D (decisión), A (acción) y contador T."
+      "sectionId": "cap10",
+      "sectionTitle": "La red de agentes conscientes",
+      "text": "Para que esa ontología sea ciencia y no solo metáfora, hace falta formalización matemática."
     },
     {
       "sectionId": "cap11",
       "sectionTitle": "Con precisión (Apéndice)",
-      "text": "La tesis del agente consciente es paralela a Church-Turing. Cualquier aspecto de conciencia puede expresarse en esta formalización como propuesta empírica refutable. Agentes de un bit (N=2) son mapeables a escala de Planck vía álgebra geométrica G(2,4) y grupo SU(2,2)."
+      "text": "¿Se puede definir un agente consciente con precisión matemática? El apéndice responde sí. Formaliza un agente como tupla C con espacios de experiencias, acciones y mundo, más kernels de percepción, decisión y acción."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Con precisión (Apéndice)",
+      "text": "La tesis del agente consciente (hipótesis de que toda conciencia es modelable así) es paralela a Church-Turing. Cualquier aspecto de conciencia puede expresarse en esta formalización como propuesta empírica refutable. Agentes de un bit (N=2) son mapeables a escala de Planck vía álgebra geométrica G(2,4) y grupo SU(2,2)."
     },
     {
       "sectionId": "cap11",

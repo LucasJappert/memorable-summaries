@@ -22,19 +22,27 @@ export const selfAssemblingBrain: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El libro abre con una fábula: un alien escanea una semilla de manzana y obtiene toda su estructura molecular, pero no puede anticipar la forma del árbol sin dejar que crezca. Esa escena introduce la tesis central: el cerebro no se entiende como <span class=\"term\">plano final</span>, sino como proceso de <span class=\"term\">autoensamblaje</span> que requiere <span class=\"num\">tiempo</span> y energía.",
+          html: "¿Qué información contienen los genes cuando «codifican» un cerebro? El libro abre con una fábula: un alien escanea una semilla de manzana y obtiene toda su química molecular. Aun así, no puede anticipar la forma del árbol sin dejarla crecer.",
         },
         {
           type: 'paragraph',
-          html: "Para <span class=\"person\">Hiesinger</span>, la pregunta clave es qué tipo de información contienen los genes cuando «codifican» un cerebro. El genoma no trae un diagrama de conectividad terminado. Trae reglas que se ejecutan paso a paso en interacción con el entorno celular cambiante.",
+          html: "Esa escena introduce la tesis central. El cerebro no se entiende como <span class=\"term\">plano final</span> (un diagrama de cableado terminado). Es un <span class=\"term\">autoensamblaje</span> (formación gradual por reglas locales). El proceso requiere <span class=\"num\">tiempo</span> y energía.",
         },
         {
           type: 'paragraph',
-          html: "El prólogo prepara un puente entre <span class=\"term\">neurobiología del desarrollo</span> e <span class=\"term\">inteligencia artificial</span>: en ambos campos importa menos fotografiar el estado final que comprender cómo las reglas locales generan organización global. El desafío no es solo describir conexiones, sino explicar cómo emergen.",
+          html: "<span class=\"person\">Peter Robin Hiesinger</span>, neurobiólogo autor del libro, sostiene que el genoma no trae un mapa de conexiones. Trae reglas que se ejecutan en interacción con el entorno celular cambiante.",
+        },
+        {
+          type: 'paragraph',
+          html: "El prólogo prepara un puente entre <span class=\"term\">neurobiología del desarrollo</span> (cómo madura el cerebro desde el embrión) e <span class=\"term\">inteligencia artificial</span> (sistemas informáticos que aprenden). En ambos campos importa menos fotografiar el estado final que comprender cómo las reglas locales generan organización global.",
         },
         {
           type: 'key',
           html: "El cerebro se parece más a un programa que se ejecuta que a un cableado prefijado.",
+        },
+        {
+          type: 'paragraph',
+          html: "Para ver por qué esa metáfora importa, hay que enfrentar dos tradiciones que parecen opuestas pero comparten el mismo problema.",
         },
       ],
     },
@@ -46,19 +54,23 @@ export const selfAssemblingBrain: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "La introducción enfrenta dos tradiciones: la <span class=\"term\">neurobiología</span>, que estudia cómo se cablea el cerebro biológico, y la <span class=\"term\">inteligencia artificial</span>, que suele iniciar con redes prefabricadas y luego entrenarlas. En ambos casos aparece el mismo problema: qué información es realmente necesaria para lograr una red funcional.",
+          html: "¿Qué debe estar codificado para que una red cerebral funcione? La introducción enfrenta dos tradiciones. La <span class=\"term\">neurobiología</span> (ciencia del cerebro biológico) estudia cómo se cablea el órgano. La inteligencia artificial suele partir de redes prefabricadas y luego entrenarlas.",
         },
         {
           type: 'paragraph',
-          html: "El ejemplo de la mariposa monarca resume la dificultad: migra hasta <span class=\"num\">3.000 millas</span> hacia zonas de invernada precisas. El ciclo completo puede tomar <span class=\"num\">3–5 generaciones</span>. La ruta no puede explicarse solo por aprendizaje individual. Hay información de desarrollo ya incorporada antes del aprendizaje.",
+          html: "El ejemplo de la mariposa monarca resume la dificultad. Migra hasta <span class=\"num\">3.000 millas</span> hacia zonas de invernada precisas. El ciclo completo puede tomar <span class=\"num\">3–5 generaciones</span>. La ruta no puede explicarse solo por aprendizaje individual.",
         },
         {
           type: 'paragraph',
-          html: "El autor estructura el libro en diez seminarios ficticios entre cuatro personajes: un neurocientífico, una genetista del desarrollo, un ingeniero de robots y un investigador de IA. Un seminario histórico recorre las dicotomías que enmarcan el debate: neat vs scruffy, procesamiento simbólico vs conexionismo, y la transición que <span class=\"person\">Roger Sperry</span> marcó al reclamar cableado específico frente a redes aleatorias aprendidas.",
+          html: "Hay información de desarrollo ya incorporada antes del aprendizaje. El autor estructura el libro en diez seminarios ficticios. Participan un neurocientífico, una genetista del desarrollo, un ingeniero de robots y un investigador de IA.",
         },
         {
           type: 'paragraph',
-          html: "Hiesinger propone mirar el cableado cerebral como navegación en un mapa que se construye mientras se navega. No hay un «GPS» con destino final inscrito, sino una secuencia de estados donde cada etapa habilita o restringe la siguiente.",
+          html: "Un seminario histórico recorre las dicotomías que enmarcan el debate. Aparecen el procesamiento simbólico frente al conexionismo. <span class=\"person\">Roger Sperry</span>, neurocientífico pionero, reclamó cableado específico frente a redes aleatorias aprendidas.",
+        },
+        {
+          type: 'paragraph',
+          html: "Hiesinger propone mirar el cableado cerebral como navegación en un mapa que se construye mientras se navega. No hay un «GPS» con destino final inscrito. Hay una secuencia de estados donde cada etapa habilita o restringe la siguiente.",
         },
         {
           type: 'concept-grid',
@@ -84,6 +96,10 @@ export const selfAssemblingBrain: BookSummary = {
           type: 'key',
           html: "Sin crecimiento temporal no se puede leer toda la información que «hay» en el genoma.",
         },
+        {
+          type: 'paragraph',
+          html: "Esa intuición se formaliza cuando se distingue la información para generar un sistema de la información para describir su resultado.",
+        },
       ],
     },
     {
@@ -94,19 +110,27 @@ export const selfAssemblingBrain: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El capítulo introduce la distinción entre <span class=\"term\">información algorítmica</span> e <span class=\"term\">información de endpoint</span>: describir el resultado final puede requerir enormemente más bits que las reglas que lo generan. Con ejemplos como el <span class=\"term\">Game of Life</span> de Conway y la <span class=\"term\">rule 110</span>, Hiesinger muestra sistemas donde no se puede deducir el estado final sin ejecutar todas las iteraciones.",
+          html: "¿Por qué escanear el genoma no basta para predecir el cerebro? El capítulo distingue <span class=\"term\">información algorítmica</span> (reglas que generan un resultado paso a paso) de información de endpoint (descripción del estado final). Describir el resultado puede requerir enormemente más bits que las reglas que lo producen.",
         },
         {
           type: 'paragraph',
-          html: "Desde la teoría de la información, la <span class=\"term\">complejidad de Kolmogorov</span> mide cuán comprimible es una descripción. Un conjunto corto de reglas puede producir patrones cuya descripción explícita es enorme. Lo decisivo es que sistemas deterministas pueden ser matemáticamente <span class=\"term\">indecidibles</span>: no hay atajo analítico, solo ejecutar el algoritmo completo.",
+          html: "Hiesinger usa el <span class=\"term\">Game of Life</span> de Conway (un autómata celular en una cuadrícula). También usa la <span class=\"term\">rule 110</span> (la regla más simple conocida con completitud de Turing). En ambos casos no se deduce el estado final sin ejecutar todas las iteraciones.",
         },
         {
           type: 'paragraph',
-          html: "El paralelo biológico aparece con <span class=\"term\">L-systems</span> (árboles y dendritas), cascadas de <span class=\"term\">factores de transcripción</span> y la relación entre entropía e información. Maxwell's demon ilustra que reducir desorden local exige información y energía: crecer un cerebro consume ambas.",
+          html: "Desde la teoría de la información, la complejidad de Kolmogorov mide cuán comprimible es una descripción. Un conjunto corto de reglas puede producir patrones cuya descripción explícita es enorme. Lo decisivo es que sistemas deterministas pueden ser matemáticamente indecidibles.",
         },
         {
           type: 'paragraph',
-          html: "A diferencia de un autómata celular con regla fija, el crecimiento biológico combina reglas que cambian en cada iteración, retroalimentación entre genoma y productos génicos, y componentes estocásticos. La metáfora del <span class=\"term\">blueprint</span> (plano) falla: el genoma es una receta, no un diagrama de cableado.",
+          html: "No hay atajo analítico: solo ejecutar el algoritmo completo. El paralelo biológico aparece con L-systems (reglas que generan formas ramificadas como árboles), cascadas de factores de transcripción y la relación entre entropía e información.",
+        },
+        {
+          type: 'paragraph',
+          html: "Maxwell's demon ilustra que reducir desorden local exige información y energía. Crecer un cerebro consume ambas. A diferencia de un autómata celular con regla fija, el crecimiento biológico combina reglas que cambian en cada iteración.",
+        },
+        {
+          type: 'paragraph',
+          html: "También hay retroalimentación entre genoma y productos génicos, y componentes estocásticos. La metáfora del blueprint (plano) falla: el genoma es una receta, no un diagrama de cableado.",
         },
         {
           type: 'concept-grid',
@@ -132,6 +156,10 @@ export const selfAssemblingBrain: BookSummary = {
           type: 'key',
           html: "El desarrollo cerebral usa información algorítmica: no describe el cerebro, lo hace emerger.",
         },
+        {
+          type: 'paragraph',
+          html: "Pero un algoritmo biológico no siempre busca precisión perfecta: a veces incorpora variación aleatoria como parte del programa.",
+        },
       ],
     },
     {
@@ -142,23 +170,35 @@ export const selfAssemblingBrain: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Aquí el autor invierte una intuición habitual: el <span class=\"term\">ruido</span> no siempre destruye precisión. Muchas veces la habilita. Procesos como la quimiotaxis bacteriana o la diversidad del <span class=\"term\">sistema inmune</span> funcionan gracias a variación aleatoria seguida de selección.",
+          html: "¿El ruido siempre destruye la precisión biológica? Aquí el autor invierte una intuición habitual. El <span class=\"term\">ruido</span> (variación aleatoria en un proceso) no siempre perjudica. Muchas veces la habilita.",
         },
         {
           type: 'paragraph',
-          html: "En neurodesarrollo, el gen <span class=\"term\">Dscam</span> en Drosophila puede generar casi <span class=\"num\">40.000</span> variantes de proteína de superficie. Cada neurona expresa una versión aleatoria para <span class=\"term\">auto-evitación</span> de ramas propias. Si esa aleatoriedad falta, las ramas dendríticas dejan de extenderse y se amontonan.",
+          html: "Procesos como la quimiotaxis bacteriana o la diversidad del sistema inmune funcionan gracias a variación aleatoria seguida de selección. En neurodesarrollo, el gen <span class=\"term\">Dscam</span> en Drosophila (mosca del vinagre) puede generar casi <span class=\"num\">40.000</span> variantes de proteína de superficie.",
         },
         {
           type: 'paragraph',
-          html: "Mecanismos como la señalización <span class=\"term\">Notch</span> permiten romper simetrías mediante inhibición lateral: un proceso estocástico decide qué célula «gana» y cuál cede. El ruido puede ser parte del programa, no un error externo.",
+          html: "Cada neurona expresa una versión aleatoria para auto-evitación (rechazo de conexiones con ramas propias). Sin esa aleatoriedad, las ramas dendríticas no pueden extenderse y se amontonan.",
         },
         {
           type: 'paragraph',
-          html: "Esto se conecta con el concepto de <span class=\"term\">penetrancia</span>. Una mutación puede no expresarse igual en todos los individuos por dependencia de contexto, umbrales y procesos estocásticos. La «información relevante» no es absoluta. Depende del nivel donde se evalúa el fenotipo.",
+          html: "Mecanismos como la señalización Notch permiten romper simetrías mediante inhibición lateral. Un proceso estocástico decide qué célula «gana» y cuál cede. El ruido puede ser parte del programa, no un error externo.",
+        },
+        {
+          type: 'paragraph',
+          html: "Esto se conecta con el concepto de <span class=\"term\">penetrancia</span> (grado en que una mutación se expresa en el fenotipo). Una mutación puede no manifestarse igual en todos los individuos por dependencia de contexto, umbrales y procesos estocásticos.",
+        },
+        {
+          type: 'paragraph',
+          html: "La «información relevante» no es absoluta. Depende del nivel donde se evalúa el fenotipo.",
         },
         {
           type: 'key',
           html: "La precisión biológica suele surgir de ruido más selección, no de control perfecto sin variación.",
+        },
+        {
+          type: 'paragraph',
+          html: "El ruido y la selección operan en agentes que deciden localmente, sin visión del resultado global.",
         },
       ],
     },
@@ -170,19 +210,23 @@ export const selfAssemblingBrain: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El desarrollo se entiende como interacción de <span class=\"term\">agentes autónomos</span> (filopodios, conos de crecimiento, neuronas) que toman decisiones locales sin conocer el resultado global. El genoma envía al agente de viaje, pero una vez en marcha este debe «defenderse» en su entorno.",
+          html: "¿Quién «decide» cada conexión sináptica? El desarrollo se entiende como interacción de <span class=\"term\">agentes autónomos</span> (filopodios, conos de crecimiento, neuronas) que toman decisiones locales sin conocer el resultado global. El genoma envía al agente de viaje, pero una vez en marcha este debe «defenderse» en su entorno.",
         },
         {
           type: 'paragraph',
-          html: "La idea central es que la organización superior emerge de reglas locales con retroalimentación. Un filopodio no «sabe» el circuito final, pero su dinámica de exploración y estabilización contribuye al patrón de conectividad. Hiesinger retoma debates de <span class=\"person\">Gerald Edelman</span> (selección de grupos neuronales) y la tradición cibernética de <span class=\"person\">Ross Ashby</span>.",
+          html: "La idea central es que la organización superior emerge de reglas locales con retroalimentación. Un filopodio no «sabe» el circuito final. Su dinámica de exploración y estabilización contribuye al patrón de conectividad.",
         },
         {
           type: 'paragraph',
-          html: "La metáfora se extiende a enjambres, deportes colectivos y nanotecnología bottom-up: ceder control local es el precio de flexibilidad y robustez. Incluso la <span class=\"term\">muerte celular programada</span> en C. elegans ilustra que el organismo selecciona la supervivencia del conjunto, no de cada célula.",
+          html: "Hiesinger retoma debates de <span class=\"person\">Gerald Edelman</span>, biólogo que propuso selección de grupos neuronales, y la tradición cibernética de <span class=\"person\">W. Ross Ashby</span>, pionero de la autoorganización. La metáfora se extiende a enjambres, deportes colectivos y nanotecnología bottom-up.",
         },
         {
           type: 'paragraph',
-          html: "La neurona «quiere» crecer un axón y formar sinapsis. En ausencia de señales repulsivas, lo hará donde pueda. El cableado se logra más por exclusión y guía probabilística que por un director central que asigne cada conexión.",
+          html: "Ceder control local es el precio de flexibilidad y robustez. Incluso la muerte celular programada en C. elegans (un gusano modelo de <span class=\"num\">302</span> neuronas) ilustra que el organismo selecciona la supervivencia del conjunto, no de cada célula.",
+        },
+        {
+          type: 'paragraph',
+          html: "La neurona «quiere» crecer un axón y formar sinapsis. En ausencia de señales repulsivas, lo hará donde pueda. El cableado se logra más por exclusión y guía probabilística que por un director central.",
         },
         {
           type: 'concept-grid',
@@ -208,6 +252,10 @@ export const selfAssemblingBrain: BookSummary = {
           type: 'key',
           html: "El cerebro se cablea porque miles de agentes locales coordinan sin un «arquitecto» global.",
         },
+        {
+          type: 'paragraph',
+          html: "Esa lógica de agentes y selección también explica un enigma clásico de la neurogenética conductual.",
+        },
       ],
     },
     {
@@ -218,23 +266,31 @@ export const selfAssemblingBrain: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "Este tramo aborda la <span class=\"term\">paradoja de Benzer</span>: mutaciones puntuales pueden alterar conductas heredables y seleccionables, aunque no exista un «gen para» cada conducta compleja. El resultado conductual emerge de trayectorias de desarrollo, no de mapeos uno a uno.",
+          html: "¿Cómo puede una mutación puntual alterar una conducta compleja sin un «gen para» esa conducta? Este tramo aborda la <span class=\"term\">paradoja de Benzer</span> (mutación conductual heredable sin mapeo uno a uno entre gen y comportamiento). El resultado emerge de trayectorias de desarrollo, no de correspondencias directas.",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Seymour Benzer</span> fundó la neurogenética conductual en Drosophila en los años 60 con pantallas de mutagénesis y selección artificial. Encontró mutantes con fenotipos conductuales específicos y heredables, demostrando base genética del comportamiento.",
+          html: "<span class=\"person\">Seymour Benzer</span>, genetista pionero, fundó la neurogenética conductual en Drosophila en los años 60. Usó pantallas de mutagénesis y selección artificial. Encontró mutantes con fenotipos conductuales específicos y heredables.",
         },
         {
           type: 'paragraph',
-          html: "Aparecen dos clases de mutaciones. Casos como <span class=\"term\">period</span> y <span class=\"term\">timeless</span> (reloj circadiano molecular) enlazan mecanismo y conducta directamente. Otros, como mutaciones en enzimas metabólicas o factores de transcripción como <span class=\"term\">fruitless</span>, alteran conducta a través de cascadas de crecimiento algorítmico impredecibles.",
+          html: "Aparecen dos clases de mutaciones. Casos como period y timeless (genes del reloj circadiano molecular) enlazan mecanismo y conducta directamente. Otros, como mutaciones en enzimas metabólicas o en el factor fruitless, alteran conducta a través de cascadas de crecimiento impredecibles.",
         },
         {
           type: 'paragraph',
-          html: "La evolución selecciona la salida fenotípica y no predice la trayectoria interna. <span class=\"person\">Stephen Wolfram</span> subestimó esto al concluir que la evolución no puede «reprogramar» sistemas tan complejos como rule 110. La selección no necesita predecir. Solo evalúa el resultado tras el crecimiento completo.",
+          html: "La evolución selecciona la salida fenotípica y no predice la trayectoria interna. <span class=\"person\">Stephen Wolfram</span>, investigador de sistemas complejos, subestimó esto al concluir que la evolución no puede «reprogramar» sistemas tan complejos como rule 110. La selección no necesita predecir.",
+        },
+        {
+          type: 'paragraph',
+          html: "Solo evalúa el resultado tras el crecimiento completo.",
         },
         {
           type: 'key',
           html: "Una mutación puede reprogramar conducta sin que su función molecular «explique» linealmente esa conducta.",
+        },
+        {
+          type: 'paragraph',
+          html: "Esa paradoja se profundiza cuando se baja del gen a las moléculas que guían el cableado axonal.",
         },
       ],
     },
@@ -246,19 +302,23 @@ export const selfAssemblingBrain: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El «problema de niveles» afirma que una explicación válida en un nivel (molecular) no siempre traduce al siguiente (celular, circuital, conductual). Entre gen y conducta hay una cadena larga de transformaciones con realimentación.",
+          html: "¿Por qué explicar un gen no basta para explicar una conducta? El «problema de niveles» afirma que una explicación válida en un nivel molecular no siempre traduce al nivel celular, circuital o conductual. Entre gen y conducta hay una cadena larga de transformaciones con realimentación.",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Roger Sperry</span> propuso la <span class=\"term\">chemoafinidad estricta</span>, con etiquetas químicas que emparejan neuronas como cerraduras y llaves. La búsqueda de moléculas guía (ephrinas, netrina/unc-6) validó parte de la visión, pero el mecanismo resultó más complejo. Intervienen señales repulsivas, posicionamiento relativo (<span class=\"person\">Michael Gaze</span>) e <span class=\"term\">instrucciones compuestas</span> donde ningún factor domina solo.",
+          html: "<span class=\"person\">Roger Sperry</span> propuso la <span class=\"term\">chemoafinidad estricta</span> (emparejamiento químico uno a uno, como cerradura y llave). La búsqueda de moléculas guía (ephrinas, netrina/unc-6) validó parte de la visión, pero el mecanismo resultó más complejo.",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Sydney Brenner</span> eligió C. elegans (<span class=\"num\">302</span> neuronas) para conectómica completa, pero el diagrama de cableado de 1985 no reveló por sí solo cómo los genes controlan el sistema. Proyectos como OpenWorm muestran que simular «vida digital» exige decidir qué nivel de detalle conservar.",
+          html: "Intervienen señales repulsivas y posicionamiento relativo. <span class=\"person\">Michael Gaze</span>, neurobiólogo del sistema visual, propuso este último enfoque. También hay <span class=\"term\">instrucciones compuestas</span> (decisiones por múltiples factores contextuales, sin dominancia de uno solo).",
         },
         {
           type: 'paragraph',
-          html: "La distinción instructivo vs permisivo es un continuo: netrina, por ejemplo, funciona como atrayente de largo alcance, señal a lo largo del camino y factor permisivo según contexto. Cada atajo de simulación restringe qué clase de inteligencia puede emerger.",
+          html: "<span class=\"person\">Sydney Brenner</span>, biólogo molecular, eligió C. elegans (<span class=\"num\">302</span> neuronas) para conectómica completa. El diagrama de cableado de 1985 no reveló por sí solo cómo los genes controlan el sistema. Proyectos como OpenWorm muestran que simular «vida digital» exige decidir qué nivel de detalle conservar.",
+        },
+        {
+          type: 'paragraph',
+          html: "La distinción instructivo vs permisivo es un continuo. Netrina, por ejemplo, funciona como atrayente de largo alcance, señal a lo largo del camino y factor permisivo según contexto. Cada atajo de simulación restringe qué clase de inteligencia puede emerger.",
         },
         {
           type: 'concept-grid',
@@ -284,6 +344,10 @@ export const selfAssemblingBrain: BookSummary = {
           type: 'key',
           html: "Entender requiere cambiar de nivel sin perder de vista cómo cada nivel condiciona al siguiente.",
         },
+        {
+          type: 'paragraph',
+          html: "Si el desarrollo es un algoritmo en el tiempo, el aprendizaje no puede ser una fase separada.",
+        },
       ],
     },
     {
@@ -294,23 +358,31 @@ export const selfAssemblingBrain: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El capítulo sostiene que la función es continuación del desarrollo: aprender también es crecimiento algorítmico. La frase «<span class=\"term\">you are your history</span>» resume que memoria y sesgo surgen de acumulación temporal.",
+          html: "¿El aprendizaje es distinto del desarrollo cerebral? El capítulo sostiene que la función es continuación del desarrollo. Aprender también es crecimiento algorítmico. La frase <span class=\"term\">you are your history</span> (eres tu historia) resume que memoria y sesgo surgen de acumulación temporal.",
         },
         {
           type: 'paragraph',
-          html: "La retina de vertebrados, con fotorreceptores en el lado «equivocado», ilustra la <span class=\"term\">carga histórica evolutiva</span>: no es diseño óptimo, sino consecuencia de un pliegue embrionario bloqueado por la evolución. <span class=\"person\">Stephen Jay Gould</span> llamó <span class=\"term\">spandrels</span> a rasgos que surgen como subproducto, no como adaptación directa.",
+          html: "La retina de vertebrados, con fotorreceptores en el lado «equivocado», ilustra la carga histórica evolutiva. No es diseño óptimo, sino consecuencia de un pliegue embrionario bloqueado por la evolución. <span class=\"person\">Stephen Jay Gould</span>, paleontólogo, llamó <span class=\"term\">spandrels</span> (subproductos estructurales, no adaptaciones directas) a rasgos que surgen como subproducto.",
         },
         {
           type: 'paragraph',
-          html: "Las <span class=\"term\">columnas corticales</span> de Mountcastle y los experimentos de Hubel y Wiesel muestran plasticidad, pero su necesidad funcional absoluta sigue debatida. La arquitectura puede ser spandrel de un desarrollo eficiente, no la mejor solución de ingeniería.",
+          html: "Las columnas corticales de Mountcastle y los experimentos de Hubel y Wiesel muestran plasticidad. Su necesidad funcional absoluta sigue debatida. La arquitectura puede ser spandrel de un desarrollo eficiente, no la mejor solución de ingeniería.",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Jeff Hawkins</span> propone memoria-predicción secuencial. <span class=\"person\">Gerald Edelman</span> describe selección de grupos neuronales por reentrada. En ambos casos, almacenar, recuperar y modificar memoria son el mismo proceso algorítmico en el tiempo. Una red entrenada con datos en distinto orden será una red distinta.",
+          html: "<span class=\"person\">Jeff Hawkins</span>, investigador de IA, propone memoria-predicción secuencial. Edelman describe selección de grupos neuronales por reentrada. En ambos casos, almacenar, recuperar y modificar memoria son el mismo proceso algorítmico en el tiempo.",
+        },
+        {
+          type: 'paragraph',
+          html: "Una red entrenada con datos en distinto orden será una red distinta.",
         },
         {
           type: 'key',
           html: "Toda inteligencia funciona con arrastre histórico: cada aprendizaje reescribe parcialmente la red.",
+        },
+        {
+          type: 'paragraph',
+          html: "Esa continuidad entre desarrollo y función obliga a contrastar el cerebro biológico con la estrategia dominante de la IA.",
         },
       ],
     },
@@ -322,23 +394,35 @@ export const selfAssemblingBrain: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El capítulo contrapone dos estrategias. Una es el <span class=\"term\">diseño top-down</span> (arquitectura fija más entrenamiento). La otra es el <span class=\"term\">autoensamblaje</span> (estructura que emerge durante el proceso). La IA dominante usa la primera. El cerebro biológico combina crecimiento, poda, actividad y aprendizaje.",
+          html: "¿Por qué la IA actual parte de redes prefabricadas y el cerebro no? El capítulo contrapone dos estrategias. Una es el <span class=\"term\">diseño top-down</span> (arquitectura fija más entrenamiento posterior). La otra es el autoensamblaje (estructura que emerge durante el proceso).",
         },
         {
           type: 'paragraph',
-          html: "Desde el perceptrón de <span class=\"person\">Rosenblatt</span> (<span class=\"num\">1958</span>) hasta las redes convolucionales actuales, las ANN parten de topología prefijada y conexiones aleatorias iniciales. El cerebro biológico nunca arranca de ese modo. El número de neuronas, los tipos celulares y las conexiones cambian mientras aprende.",
+          html: "La IA dominante usa la primera. El cerebro biológico combina crecimiento, poda, actividad y aprendizaje. Las ANN tienen topología prefijada desde el perceptrón de <span class=\"person\">Frank Rosenblatt</span> (<span class=\"num\">1958</span>) hasta las redes convolucionales actuales. Sus conexiones iniciales suelen ser aleatorias.",
         },
         {
           type: 'paragraph',
-          html: "Una red de clasificación de imágenes con <span class=\"num\">650.000</span> neuronas supera a una mosca en visión, pero el cerebro de Drosophila (~<span class=\"num\">100.000</span> neuronas) integra vuelo, cortejo, metabolismo y más. La brecha entre IA de tarea única e inteligencia de insecto es mayor que entre mosca y humano.",
+          html: "El cerebro biológico nunca arranca de ese modo. El número de neuronas, los tipos celulares y las conexiones cambian mientras aprende. Una red de clasificación de imágenes con <span class=\"num\">650.000</span> neuronas supera a una mosca en visión.",
         },
         {
           type: 'paragraph',
-          html: "Investigadores como Hintze y Adami evolucionan genomas que codifican redes. Hinton critica la falta de niveles estructurales y la dependencia de backpropagation. La propuesta no es copiar biología por fetichismo. Busca reconocer que omitir desarrollo estructural puede ser el atajo que limita la generalidad.",
+          html: "El cerebro de Drosophila tiene ~<span class=\"num\">100.000</span> neuronas e integra vuelo, cortejo, metabolismo y más. La brecha entre IA de tarea única e inteligencia de insecto es mayor que entre mosca y humano.",
+        },
+        {
+          type: 'paragraph',
+          html: "Investigadores como Hintze y Adami evolucionan genomas que codifican redes. <span class=\"person\">Geoffrey Hinton</span>, pionero del deep learning, critica la falta de niveles estructurales y la dependencia de backpropagation. La propuesta no es copiar biología por fetichismo.",
+        },
+        {
+          type: 'paragraph',
+          html: "Busca reconocer que omitir desarrollo estructural puede ser el atajo que limita la generalidad.",
         },
         {
           type: 'key',
           html: "Entrenar redes prefabricadas funciona para tareas acotadas. Para inteligencia amplia quizá falte crecimiento.",
+        },
+        {
+          type: 'paragraph',
+          html: "Esas diferencias marcan los límites de las fronteras finales entre cerebro e IA.",
         },
       ],
     },
@@ -350,11 +434,11 @@ export const selfAssemblingBrain: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El capítulo final abre tres fronteras: interfaces cerebro-máquina, emulación cerebral completa y límites de predicción. La tesis común es que «más ancho de banda» no resuelve por sí solo el problema del tipo de información que se intercambia.",
+          html: "¿Basta con más ancho de banda para conectar cerebro e IA? El capítulo final abre tres fronteras: interfaces cerebro-máquina, emulación cerebral completa y límites de predicción. La tesis común es que «más ancho de banda» no resuelve por sí solo el problema del tipo de información que se intercambia.",
         },
         {
           type: 'paragraph',
-          html: "Sobre <span class=\"term\">whole brain emulation</span>, Hiesinger advierte que cualquier simulación depende de atajos de nivel. Cuanto más se recorta detalle dinámico, más se restringe qué clase de inteligencia puede emerger o preservarse.",
+          html: "Sobre <span class=\"term\">whole brain emulation</span> (copia computacional del cerebro entero), Hiesinger advierte que cualquier simulación depende de atajos de nivel. Cuanto más se recorta detalle dinámico, más se restringe qué clase de inteligencia puede emerger o preservarse.",
         },
         {
           type: 'paragraph',
@@ -362,7 +446,11 @@ export const selfAssemblingBrain: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Hiesinger explora el <span class=\"term\">sesgo cognitivo</span>: los sesgos no son solo fallas, sino resultado natural de un sistema que aprende secuencialmente y prioriza coherencia con su historia. Décadas de entrenamiento en un paradigma dificultan adoptar otro, en ciencia como en ingeniería.",
+          html: "Hiesinger explora el <span class=\"term\">sesgo cognitivo</span> (distorsión sistemática del juicio por la historia de aprendizaje). Los sesgos no son solo fallas. Son resultado natural de un sistema que aprende secuencialmente y prioriza coherencia con su historia.",
+        },
+        {
+          type: 'paragraph',
+          html: "Décadas de entrenamiento en un paradigma dificultan adoptar otro, en ciencia como en ingeniería.",
         },
         {
           type: 'concept-grid',
@@ -388,6 +476,10 @@ export const selfAssemblingBrain: BookSummary = {
           type: 'key',
           html: "No hay inteligencia «general» sin decidir qué historia, qué niveles y qué atajos se aceptan.",
         },
+        {
+          type: 'paragraph',
+          html: "El epílogo cierra los diez seminarios con una posición deliberadamente abierta.",
+        },
       ],
     },
     {
@@ -398,15 +490,19 @@ export const selfAssemblingBrain: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "El epílogo, en forma de diálogo telefónico entre Alfred y Aki, cierra con una posición pragmática: ninguna disciplina tiene el mapa completo y todas operan con sesgos de su propia tradición.",
+          html: "¿Qué disciplina tiene el mapa completo del cerebro y la inteligencia? El epílogo, en forma de diálogo telefónico entre Alfred y Aki, cierra con una posición pragmática. Ninguna disciplina tiene el mapa completo y todas operan con sesgos de su propia tradición.",
         },
         {
           type: 'paragraph',
-          html: "Mencionan el trabajo conjunto de Pramesh y Minda en evolución computacional con mecanismos de desarrollo, el auge de <span class=\"term\">Developmental Robotics</span> y sistemas como AlphaZero que aprenden reglas por autojuego. Aki reconoce que los atajos actuales funcionan para tareas concretas, pero la pregunta de qué inteligencia se desea permanece abierta.",
+          html: "Mencionan el trabajo conjunto de Pramesh y Minda en evolución computacional con mecanismos de desarrollo. También el auge de <span class=\"term\">Developmental Robotics</span> (robótica que incorpora crecimiento estructural) y sistemas como AlphaZero que aprenden reglas por autojuego.",
         },
         {
           type: 'paragraph',
-          html: "La conversación evoca evolución, entropía y la «pregunta fundamental de información»: de dónde vienen los cerebros en un universo que tiende al desorden. Hiesinger no ofrece receta única, sino advertencia consistente: cuando se ignoran desarrollo, contexto y selección, se subestima el origen real de la robustez biológica.",
+          html: "Aki reconoce que los atajos actuales funcionan para tareas concretas. La pregunta de qué inteligencia se desea permanece abierta. La conversación evoca evolución, entropía y la «pregunta fundamental de información».",
+        },
+        {
+          type: 'paragraph',
+          html: "¿De dónde vienen los cerebros en un universo que tiende al desorden? Hiesinger no ofrece receta única. Ofrece una advertencia consistente: cuando se ignoran desarrollo, contexto y selección, se subestima el origen real de la robustez biológica.",
         },
         {
           type: 'key',
@@ -472,11 +568,11 @@ export const selfAssemblingBrain: BookSummary = {
   },
   {
     "year": "1960s",
-    "text": "<span class=\"person\">Seymour Benzer</span> inaugura la neurogenética conductual en <span class=\"term\">Drosophila</span>."
+    "text": "<span class=\"person\">Seymour Benzer</span> inaugura la neurogenética conductual en Drosophila."
   },
   {
     "year": "1985",
-    "text": "Primer conectoma completo de <span class=\"term\">C. elegans</span> (302 neuronas)."
+    "text": "Primer conectoma completo de C. elegans (302 neuronas)."
   },
   {
     "year": "1994",
@@ -484,7 +580,7 @@ export const selfAssemblingBrain: BookSummary = {
   },
   {
     "year": "2012",
-    "text": "Explosión de <span class=\"term\">deep learning</span> en aplicaciones masivas de IA."
+    "text": "Explosión de deep learning en aplicaciones masivas de IA."
   },
   {
     "year": "2017",
@@ -544,11 +640,11 @@ export const selfAssemblingBrain: BookSummary = {
   closing: {
     title: "La idea central",
     lines: [
-  "El cerebro no viene descrito en los genes como un circuito terminado; viene codificado como reglas que se ejecutan con tiempo y energía.",
-  "La inteligencia emerge cuando esas reglas interactúan con ruido, selección y retroalimentación a lo largo del desarrollo y el aprendizaje.",
-  "Por eso el desarrollo no es un prefacio de la función: es su continuidad.",
-  "La IA actual muestra que muchos atajos son poderosos para tareas concretas.",
-  "El límite aparece cuando se busca flexibilidad amplia, historia integrada y adaptación de largo alcance."
+  "El cerebro no viene descrito en los genes como un circuito terminado.",
+  "Los genes codifican reglas que se ejecutan con tiempo y energía.",
+  "La inteligencia emerge cuando esas reglas interactúan con ruido, selección y retroalimentación.",
+  "El desarrollo no es un prefacio de la función: es su continuidad.",
+  "La IA actual muestra atajos poderosos para tareas concretas, pero no para flexibilidad amplia."
 ],
     highlight: "Sin crecimiento algorítmico no hay forma de «leer» toda la información que produce una red inteligente.",
   },
