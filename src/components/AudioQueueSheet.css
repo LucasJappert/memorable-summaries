@@ -559,6 +559,10 @@
   border-radius: 0.4rem;
   cursor: pointer;
 }
+.audio-queue-sheet__menu-item:disabled {
+  opacity: 0.55;
+  cursor: wait;
+}
 
 .audio-queue-sheet__menu-item--danger {
   color: #f0a0a0;

@@ -31,12 +31,14 @@ const {
   seekBy,
 } = useAudioQueue()
 
-const { cachedSlugs, isOfflineAudioCached } = useOfflineAudio()
+const { cachedSlugs, isOfflineAudioCached, isOfflineAudioDownloading, toggle: toggleOffline } =
+  useOfflineAudio()
 
 const openMenuIndex = ref<number | null>(null)
 const confirmClearOpen = ref(false)
 const progressEl = ref<HTMLDivElement | null>(null)
 const isSeekDragging = ref(false)
+const offlineBusySlug = ref<string | null>(null)
 let seekPointerId: number | null = null
 
 const SKIP_SECONDS = 10
@@ -49,6 +51,8 @@ const rows = computed(() => {
     const title = book?.meta.titleEs?.trim() || book?.meta.title || slug
     const author = book?.meta.author ?? ''
     const stats = statsFor(slug)
+    const offline = isOfflineAudioCached(slug)
+    const offlineBusy = offlineBusySlug.value === slug || isOfflineAudioDownloading(slug)
     return {
       slug,
       index,
@@ -58,7 +62,13 @@ const rows = computed(() => {
       isCurrent: index === currentIndex.value,
       completedCount: stats.completedCount,
       markedListened: stats.markedListened,
-      offline: isOfflineAudioCached(slug),
+      offline,
+      offlineBusy,
+      offlineLabel: offlineBusy
+        ? 'Descargando…'
+        : offline
+          ? 'Quitar descarga'
+          : 'Descargar',
     }
   })
 })
@@ -98,6 +108,17 @@ function closeMenus() {
 function removeRow(index: number, title: string) {
   openMenuIndex.value = null
   removeAt(index, { withUndo: true, undoTitle: title })
+}
+
+async function onToggleOffline(slug: string) {
+  if (offlineBusySlug.value === slug || isOfflineAudioDownloading(slug)) return
+  offlineBusySlug.value = slug
+  try {
+    await toggleOffline(slug)
+  } finally {
+    offlineBusySlug.value = null
+    openMenuIndex.value = null
+  }
 }
 
 function requestClear() {
@@ -454,6 +475,16 @@ onBeforeUnmount(() => document.removeEventListener('pointerdown', onDocPointerDo
                     class="audio-queue-sheet__menu-panel"
                     role="menu"
                   >
+                    <button
+                      type="button"
+                      class="audio-queue-sheet__menu-item"
+                      role="menuitem"
+                      :disabled="row.offlineBusy"
+                      :aria-busy="row.offlineBusy"
+                      @click="onToggleOffline(row.slug)"
+                    >
+                      {{ row.offlineLabel }}
+                    </button>
                     <button
                       type="button"
                       class="audio-queue-sheet__menu-item audio-queue-sheet__menu-item--danger"

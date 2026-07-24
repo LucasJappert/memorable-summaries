@@ -189,6 +189,10 @@
 .book-tile__menu-item:focus-visible {
   background: rgba(255, 255, 255, 0.08);
 }
+.book-tile__menu-item:disabled {
+  opacity: 0.55;
+  cursor: wait;
+}
 .book-tile__menu-item--danger {
   color: #f0a0a0;
 }

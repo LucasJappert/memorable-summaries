@@ -1,4 +1,4 @@
-import { computed, ref } from 'vue'
+import { computed, ref, watch } from 'vue'
 import { bookCatalog } from '../books/catalog'
 import { bookHasAudio } from '../books/audio-catalog'
 import { readAudioQueue, writeAudioQueue } from '../reading/audio-queue-storage'
@@ -62,7 +62,11 @@ function hydrate() {
     items.value.length === 0
       ? -1
       : Math.min(Math.max(q.currentIndex, 0), items.value.length - 1)
-  /* Mini-player solo se muestra con acción explícita (nav / play), no al hidratar */
+  if (items.value.length > 0) {
+    playerVisible.value = q.playerVisible
+    playerExpanded.value = q.playerExpanded
+    queueSheetOpen.value = q.queueSheetOpen
+  }
 }
 
 function persist() {
@@ -70,8 +74,16 @@ function persist() {
     items: items.value.slice(),
     currentIndex: currentIndex.value,
     updatedAt: Date.now(),
+    playerVisible: playerVisible.value,
+    playerExpanded: playerExpanded.value,
+    queueSheetOpen: queueSheetOpen.value,
   })
 }
+
+watch([playerVisible, playerExpanded, queueSheetOpen], () => {
+  if (!hydrated) return
+  persist()
+})
 
 const currentSlug = computed(() => {
   hydrate()

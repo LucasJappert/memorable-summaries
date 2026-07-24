@@ -6,14 +6,22 @@ import { readingRevision } from '../reading/revision'
 import { bookHasAudio } from '../books/audio-catalog'
 import { getBookProgress, getBookReadingStatus } from '../reading/status'
 import { useAudioQueue } from '../composables/useAudioQueue'
+import { useOfflineAudio } from '../composables/useOfflineAudio'
 import CoverArt from './CoverArt.vue'
 
 const props = defineProps<{ book: BookCatalogEntry }>()
 
 const { addNext, moveToEnd, remove, items, statsFor, play } = useAudioQueue()
+const {
+  cachedSlugs,
+  isOfflineAudioCached,
+  isOfflineAudioDownloading,
+  toggle: toggleOffline,
+} = useOfflineAudio()
 
 const menuOpen = ref(false)
 const menuRoot = ref<HTMLElement | null>(null)
+const offlineBusy = ref(false)
 
 const reading = computed(() => {
   readingRevision.value
@@ -37,6 +45,21 @@ const status = computed(() => {
 const hasAudio = computed(() => bookHasAudio(props.book.slug))
 
 const inQueue = computed(() => items.value.includes(props.book.slug))
+
+const offlineCached = computed(() => {
+  cachedSlugs.value
+  return isOfflineAudioCached(props.book.slug)
+})
+
+const offlineDownloading = computed(() => {
+  return offlineBusy.value || isOfflineAudioDownloading(props.book.slug)
+})
+
+const offlineMenuLabel = computed(() => {
+  if (offlineDownloading.value) return 'Descargando…'
+  if (offlineCached.value) return 'Quitar descarga'
+  return 'Descargar'
+})
 
 const listenBadge = computed(() => {
   readingRevision.value
@@ -105,6 +128,19 @@ function onPlayNow(event: Event) {
   event.stopPropagation()
   play(props.book.slug)
   closeMenu()
+}
+
+async function onToggleOffline(event: Event) {
+  event.preventDefault()
+  event.stopPropagation()
+  if (offlineDownloading.value) return
+  offlineBusy.value = true
+  try {
+    await toggleOffline(props.book.slug)
+  } finally {
+    offlineBusy.value = false
+    closeMenu()
+  }
 }
 
 function onDocPointerDown(event: PointerEvent) {
@@ -179,6 +215,16 @@ onBeforeUnmount(() => document.removeEventListener('pointerdown', onDocPointerDo
               @click="onPlayNow"
             >
               Reproducir ahora
+            </button>
+            <button
+              type="button"
+              class="book-tile__menu-item"
+              role="menuitem"
+              :disabled="offlineDownloading"
+              :aria-busy="offlineDownloading"
+              @click="onToggleOffline"
+            >
+              {{ offlineMenuLabel }}
             </button>
             <button
               type="button"
