@@ -444,22 +444,9 @@ function consumeSeekTo(): number | null {
 function playNext() {
   hydrate()
   if (currentIndex.value < 0 || items.value.length === 0) return
-
-  if (items.value.length === 1) {
-    seekZeroPending.value = true
-    autoplayPending.value = true
-    pausePending.value = false
-    resumePending.value = false
-    return
-  }
-
-  // Actual al frente → al final; el siguiente queda en 0 (lista completa en “A continuación”).
-  if (currentIndex.value > 0) rotatePrecedingToEnd(currentIndex.value)
-  const [item] = items.value.splice(0, 1)
-  if (!item) return
-  items.value.push(item)
-  currentIndex.value = 0
-  persist()
+  const next = skipToNext()
+  if (!next) return
+  if (items.value.length === 1) seekZeroPending.value = true
   autoplayPending.value = true
   pausePending.value = false
   resumePending.value = false
@@ -468,20 +455,14 @@ function playNext() {
 function playPrev() {
   hydrate()
   if (currentIndex.value < 0 || items.value.length === 0) return
-
+  const prev = skipToPrev()
+  if (!prev) return
   if (items.value.length === 1) {
     seekZeroPending.value = true
     resumePending.value = true
     pausePending.value = false
     return
   }
-
-  if (currentIndex.value > 0) rotatePrecedingToEnd(currentIndex.value)
-  const last = items.value.pop()
-  if (!last) return
-  items.value.unshift(last)
-  currentIndex.value = 0
-  persist()
   autoplayPending.value = true
   pausePending.value = false
   resumePending.value = false
@@ -499,6 +480,45 @@ function playPrevSmart() {
   playPrev()
 }
 
+/**
+ * Siguiente track sin autoplayPending (Media Session / ended síncrono).
+ * No registra completion.
+ */
+function skipToNext(): string | null {
+  hydrate()
+  if (currentIndex.value < 0 || items.value.length === 0) return null
+
+  if (items.value.length === 1) {
+    return items.value[0] ?? null
+  }
+
+  if (currentIndex.value > 0) rotatePrecedingToEnd(currentIndex.value)
+  const [item] = items.value.splice(0, 1)
+  if (!item) return null
+  items.value.push(item)
+  currentIndex.value = 0
+  persist()
+  return items.value[0] ?? null
+}
+
+/** Track anterior sin autoplayPending (Media Session síncrono). */
+function skipToPrev(): string | null {
+  hydrate()
+  if (currentIndex.value < 0 || items.value.length === 0) return null
+
+  if (items.value.length === 1) {
+    return items.value[0] ?? null
+  }
+
+  if (currentIndex.value > 0) rotatePrecedingToEnd(currentIndex.value)
+  const last = items.value.pop()
+  if (!last) return null
+  items.value.unshift(last)
+  currentIndex.value = 0
+  persist()
+  return items.value[0] ?? null
+}
+
 function expandPlayer() {
   playerExpanded.value = true
   playerVisible.value = true
@@ -514,10 +534,23 @@ function togglePlayerExpanded() {
 }
 
 function onTrackEnded() {
+  const next = takeNextAfterEnded()
+  if (!next) return
+  // Fallback si el player no hizo play() síncrono (p. ej. sin callback).
+  autoplayPending.value = true
+  pausePending.value = false
+  resumePending.value = false
+}
+
+/**
+ * Avanza tras `ended` y devuelve el próximo slug.
+ * Sin autoplayPending: en iOS el play() debe ir en el mismo tick que `ended`.
+ */
+function takeNextAfterEnded(): string | null {
+  hydrate()
   const slug = currentSlug.value
   if (slug) recordAudioCompletion(slug)
-  // Mueve el terminado al final y sigue con el siguiente (cola cíclica).
-  playNext()
+  return skipToNext()
 }
 
 function showPlayer() {
@@ -564,6 +597,12 @@ function consumeAutoplay(): boolean {
   if (!autoplayPending.value) return false
   autoplayPending.value = false
   return true
+}
+
+function requestAutoplay() {
+  autoplayPending.value = true
+  pausePending.value = false
+  resumePending.value = false
 }
 
 function statsFor(slug: string): AudioListenStats {
@@ -634,7 +673,10 @@ export function useAudioQueue() {
     playNext,
     playPrev,
     playPrevSmart,
+    skipToNext,
+    skipToPrev,
     onTrackEnded,
+    takeNextAfterEnded,
     showPlayer,
     hidePlayer,
     togglePlayer,
@@ -645,6 +687,7 @@ export function useAudioQueue() {
     closeQueueSheet,
     toggleQueueSheet,
     consumeAutoplay,
+    requestAutoplay,
     consumePause,
     consumeResume,
     consumeSeekZero,

@@ -20,8 +20,11 @@ const {
   hidePlayer,
   openQueueSheet,
   closeQueueSheet,
-  onTrackEnded,
+  takeNextAfterEnded,
+  skipToNext,
+  skipToPrev,
   consumeAutoplay,
+  requestAutoplay,
   consumePause,
   consumeResume,
   consumeSeekZero,
@@ -187,12 +190,16 @@ onBeforeUnmount(() => window.removeEventListener('keydown', onKeydown))
       :seek-zero-request="wantSeekZero"
       :seek-to-request="wantSeekTo"
       :seek-to-token="wantSeekToken"
+      :take-next-after-ended="takeNextAfterEnded"
+      :skip-to-next="skipToNext"
+      :skip-to-prev="skipToPrev"
       bar
       :expanded="playerExpanded"
       show-transport
       class="global-audio-dock"
       @close="onClose"
-      @ended="onTrackEnded"
+      @ended="reportPlaying(false)"
+      @continuation-blocked="requestAutoplay"
       @play="onPlay"
       @pause="onPause"
       @open-queue="openQueueSheet"

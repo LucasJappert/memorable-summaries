@@ -44,6 +44,14 @@ const props = withDefaults(
     seekToToken?: number
     /** Mostrar prev/next de cola */
     showTransport?: boolean
+    /**
+     * Callback síncrono al terminar: avanza la cola y devuelve el próximo slug.
+     * Necesario en iOS para play() del siguiente track en el mismo tick que `ended`.
+     */
+    takeNextAfterEnded?: () => string | null
+    /** Siguiente/anterior síncronos para Media Session (lock screen). */
+    skipToNext?: () => string | null
+    skipToPrev?: () => string | null
   }>(),
   {
     available: undefined,
@@ -76,6 +84,8 @@ const emit = defineEmits<{
   resumeConsumed: []
   seekZeroConsumed: []
   seekToConsumed: []
+  /** play() del siguiente track fue bloqueado (p. ej. iOS en background) */
+  continuationBlocked: []
 }>()
 
 const src = computed(() =>
@@ -103,6 +113,8 @@ const savedCurrentTime = ref<number | null>(null)
 const restoreApplied = ref(false)
 const hasEnded = ref(false)
 const isDragging = ref(false)
+/** Evita pause/load del watch(src) cuando ya hicimos play() síncrono tras ended. */
+let ignoreNextSrcWatch = false
 let lastSaveAt = 0
 let dragPointerId: number | null = null
 
@@ -125,6 +137,14 @@ watch(
 )
 
 watch(src, () => {
+  if (ignoreNextSrcWatch) {
+    ignoreNextSrcWatch = false
+    if (props.available !== false) visible.value = true
+    loadSavedPosition()
+    emitProgress()
+    syncMediaSessionMetadata()
+    return
+  }
   playing.value = false
   currentTime.value = 0
   duration.value = 0
@@ -353,46 +373,119 @@ function syncMediaSessionPosition() {
   }
 }
 
+function setMediaSessionHandler(
+  action: MediaSessionAction,
+  handler: MediaSessionActionHandler | null,
+) {
+  try {
+    navigator.mediaSession.setActionHandler(action, handler)
+  } catch {
+    /* acción no soportada en este navegador */
+  }
+}
+
+/** Cambia de pista y play() en el mismo tick (iOS lock screen / ended). */
+function continuePlaybackTo(nextSlug: string) {
+  const audio = audioEl.value
+  if (!audio) {
+    emit('continuationBlocked')
+    return
+  }
+
+  if (nextSlug === props.slug) {
+    hasEnded.value = false
+    audio.currentTime = 0
+    currentTime.value = 0
+    void audio.play().catch(() => emit('continuationBlocked'))
+    syncMediaSessionPlaybackState('playing')
+    return
+  }
+
+  ignoreNextSrcWatch = true
+  hasEnded.value = false
+  playing.value = false
+  currentTime.value = 0
+  duration.value = 0
+  const saved = readAudioPosition(nextSlug)
+  if (saved && saved.currentTime > 0) {
+    savedCurrentTime.value = saved.currentTime
+    restoreApplied.value = false
+  } else {
+    savedCurrentTime.value = null
+    restoreApplied.value = true
+  }
+
+  audio.src = audioUrl(nextSlug)
+  void audio
+    .play()
+    .then(() => {
+      syncMediaSessionPlaybackState('playing')
+      syncMediaSessionMetadata()
+      bindMediaSessionActions()
+    })
+    .catch(() => {
+      emit('continuationBlocked')
+    })
+}
+
 function bindMediaSessionActions() {
   if (typeof navigator === 'undefined' || !('mediaSession' in navigator)) return
-  try {
-    navigator.mediaSession.setActionHandler('play', () => {
-      void togglePlay()
+
+  setMediaSessionHandler('play', () => {
+    void togglePlay()
+  })
+  setMediaSessionHandler('pause', () => {
+    audioEl.value?.pause()
+  })
+  setMediaSessionHandler('seekto', (details) => {
+    if (details.seekTime == null || !audioEl.value) return
+    const audio = audioEl.value
+    const max =
+      Number.isFinite(duration.value) && duration.value > 0
+        ? duration.value
+        : audio.duration
+    if (!Number.isFinite(max) || max <= 0) return
+    const next = Math.min(Math.max(details.seekTime, 0), max)
+    audio.currentTime = next
+    currentTime.value = next
+    persistPosition(true)
+    emitProgress()
+    syncMediaSessionPosition()
+  })
+
+  // iOS: si registrás seek ± y next/prev, suele mostrar solo ±.
+  // Con cola (showTransport) priorizamos anterior/siguiente de pista.
+  if (props.showTransport) {
+    setMediaSessionHandler('seekbackward', null)
+    setMediaSessionHandler('seekforward', null)
+    setMediaSessionHandler('previoustrack', () => {
+      if (currentTime.value > 3) {
+        const audio = audioEl.value
+        if (audio) {
+          audio.currentTime = 0
+          currentTime.value = 0
+          void audio.play().catch(() => emit('continuationBlocked'))
+        }
+        return
+      }
+      const prev = props.skipToPrev?.() ?? null
+      if (prev) continuePlaybackTo(prev)
+      else emit('prev')
     })
-    navigator.mediaSession.setActionHandler('pause', () => {
-      audioEl.value?.pause()
+    setMediaSessionHandler('nexttrack', () => {
+      const next = props.skipToNext?.() ?? null
+      if (next) continuePlaybackTo(next)
+      else emit('next')
     })
-    navigator.mediaSession.setActionHandler('seekbackward', (details) => {
+  } else {
+    setMediaSessionHandler('previoustrack', null)
+    setMediaSessionHandler('nexttrack', null)
+    setMediaSessionHandler('seekbackward', (details) => {
       skip(-(details.seekOffset || SKIP_SECONDS))
     })
-    navigator.mediaSession.setActionHandler('seekforward', (details) => {
+    setMediaSessionHandler('seekforward', (details) => {
       skip(details.seekOffset || SKIP_SECONDS)
     })
-    navigator.mediaSession.setActionHandler('previoustrack', () => {
-      if (props.showTransport) emit('prev')
-      else skip(-SKIP_SECONDS)
-    })
-    navigator.mediaSession.setActionHandler('nexttrack', () => {
-      if (props.showTransport) emit('next')
-      else skip(SKIP_SECONDS)
-    })
-    navigator.mediaSession.setActionHandler('seekto', (details) => {
-      if (details.seekTime == null || !audioEl.value) return
-      const audio = audioEl.value
-      const max =
-        Number.isFinite(duration.value) && duration.value > 0
-          ? duration.value
-          : audio.duration
-      if (!Number.isFinite(max) || max <= 0) return
-      const next = Math.min(Math.max(details.seekTime, 0), max)
-      audio.currentTime = next
-      currentTime.value = next
-      persistPosition(true)
-      emitProgress()
-      syncMediaSessionPosition()
-    })
-  } catch {
-    /* algunos handlers no soportados en iOS */
   }
 }
 
@@ -407,11 +500,7 @@ function clearMediaSessionActions() {
     'nexttrack',
     'seekto',
   ] as MediaSessionAction[]) {
-    try {
-      navigator.mediaSession.setActionHandler(action, null)
-    } catch {
-      /* ignore */
-    }
+    setMediaSessionHandler(action, null)
   }
 }
 
@@ -421,6 +510,7 @@ function onPlay() {
   syncMediaSessionMetadata()
   syncMediaSessionPlaybackState('playing')
   syncMediaSessionPosition()
+  bindMediaSessionActions()
   emit('play')
 }
 
@@ -453,6 +543,13 @@ watch(
   },
 )
 
+watch(
+  () => props.showTransport,
+  () => {
+    bindMediaSessionActions()
+  },
+)
+
 function onDurationChange() {
   restorePosition()
   emitProgress()
@@ -466,8 +563,15 @@ function onEnded() {
   }
   clearAudioPosition(props.slug)
   emitProgress()
-  syncMediaSessionPlaybackState('none')
-  emit('ended')
+
+  const nextSlug = props.takeNextAfterEnded?.() ?? null
+  if (!nextSlug || !audioEl.value) {
+    syncMediaSessionPlaybackState('none')
+    emit('ended')
+    return
+  }
+
+  continuePlaybackTo(nextSlug)
 }
 
 function tryAutoplay() {
@@ -553,7 +657,12 @@ function onProgressKeydown(event: KeyboardEvent) {
 }
 
 function onVisibilityChange() {
-  if (document.visibilityState === 'hidden') persistPosition(true)
+  if (document.visibilityState === 'hidden') {
+    persistPosition(true)
+    return
+  }
+  // Al volver a primer plano: reintentar si el siguiente quedó pendiente (iOS).
+  tryAutoplay()
 }
 
 function onCoverError() {
@@ -604,6 +713,7 @@ defineExpose({ rootEl, skip, togglePlay })
       ref="audioEl"
       :src="src"
       preload="metadata"
+      playsinline
       @play="onPlay"
       @pause="onPause"
       @timeupdate="onTimeUpdate"
