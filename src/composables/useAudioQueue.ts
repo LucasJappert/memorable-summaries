@@ -53,6 +53,19 @@ function allAudioSlugsInOrder(): string[] {
     .map((book) => book.slug)
 }
 
+/**
+ * Rota los items antes de `index` al final, dejando ese track como actual (índice 0).
+ * Así “A continuación” lista el resto de la cola (cíclica).
+ */
+function rotatePrecedingToEnd(index: number) {
+  if (index < 0 || index >= items.value.length) return
+  if (index > 0) {
+    const preceding = items.value.splice(0, index)
+    items.value.push(...preceding)
+  }
+  currentIndex.value = 0
+}
+
 function hydrate() {
   if (hydrated) return
   hydrated = true
@@ -62,6 +75,18 @@ function hydrate() {
     items.value.length === 0
       ? -1
       : Math.min(Math.max(q.currentIndex, 0), items.value.length - 1)
+  // La UI de “A continuación” solo lista lo posterior al actual: dejarlo al frente.
+  if (currentIndex.value > 0) {
+    rotatePrecedingToEnd(currentIndex.value)
+    writeAudioQueue({
+      items: items.value.slice(),
+      currentIndex: currentIndex.value,
+      updatedAt: Date.now(),
+      playerVisible: q.playerVisible,
+      playerExpanded: q.playerExpanded,
+      queueSheetOpen: q.queueSheetOpen,
+    })
+  }
   if (items.value.length > 0) {
     playerVisible.value = q.playerVisible
     playerExpanded.value = q.playerExpanded
@@ -167,12 +192,41 @@ function addMany(slugs: string[]) {
   for (const slug of slugs) add(slug)
 }
 
+function missingAudioSlugs(): string[] {
+  hydrate()
+  const inQueue = new Set(items.value)
+  return allAudioSlugsInOrder().filter((slug) => !inQueue.has(slug))
+}
+
+const missingAudioCount = computed(() => {
+  hydrate()
+  const inQueue = new Set(items.value)
+  return allAudioSlugsInOrder().filter((slug) => !inQueue.has(slug)).length
+})
+
+/** Agrega al final todos los libros con audio que falten (no reinicia el track actual). */
+function enqueueAllWithAudio(): number {
+  hydrate()
+  const missing = missingAudioSlugs()
+  if (!missing.length) {
+    if (items.value.length > 0) playerVisible.value = true
+    return 0
+  }
+  items.value.push(...missing)
+  if (currentIndex.value < 0) currentIndex.value = 0
+  persist()
+  playerVisible.value = true
+  return missing.length
+}
+
+/** Reemplaza la cola por todos los libros con audio (orden de lectura). */
 function seedAllWithAudio() {
   hydrate()
   const slugs = allAudioSlugsInOrder()
   items.value = slugs.slice()
   currentIndex.value = slugs.length ? 0 : -1
   persist()
+  if (slugs.length) playerVisible.value = true
 }
 
 function clearUndoTimer() {
@@ -201,6 +255,7 @@ function removeAt(index: number, opts?: { undoTitle?: string; withUndo?: boolean
     autoplayPending.value = false
   } else if (wasCurrent) {
     currentIndex.value = Math.min(index, items.value.length - 1)
+    if (currentIndex.value > 0) rotatePrecedingToEnd(currentIndex.value)
   } else if (index < currentIndex.value) {
     currentIndex.value -= 1
   }
@@ -283,7 +338,7 @@ function play(slug?: string) {
       items.value.push(slug)
       idx = items.value.length - 1
     }
-    currentIndex.value = idx
+    rotatePrecedingToEnd(idx)
   } else if (currentIndex.value < 0 && items.value.length > 0) {
     currentIndex.value = 0
   }
@@ -296,11 +351,12 @@ function play(slug?: string) {
 function playAt(index: number) {
   hydrate()
   if (index < 0 || index >= items.value.length) return
-  currentIndex.value = index
+  rotatePrecedingToEnd(index)
   persist()
   autoplayPending.value = true
   pausePending.value = false
   resumePending.value = false
+  playerVisible.value = true
 }
 
 /** Fila actual: pause/resume; otra fila: play. */
@@ -387,27 +443,48 @@ function consumeSeekTo(): number | null {
 
 function playNext() {
   hydrate()
-  if (currentIndex.value < 0) return
-  if (currentIndex.value < items.value.length - 1) {
-    currentIndex.value += 1
-    persist()
+  if (currentIndex.value < 0 || items.value.length === 0) return
+
+  if (items.value.length === 1) {
+    seekZeroPending.value = true
     autoplayPending.value = true
     pausePending.value = false
     resumePending.value = false
     return
   }
-  autoplayPending.value = false
+
+  // Actual al frente → al final; el siguiente queda en 0 (lista completa en “A continuación”).
+  if (currentIndex.value > 0) rotatePrecedingToEnd(currentIndex.value)
+  const [item] = items.value.splice(0, 1)
+  if (!item) return
+  items.value.push(item)
+  currentIndex.value = 0
+  persist()
+  autoplayPending.value = true
+  pausePending.value = false
+  resumePending.value = false
 }
 
 function playPrev() {
   hydrate()
-  if (currentIndex.value > 0) {
-    currentIndex.value -= 1
-    persist()
-    autoplayPending.value = true
+  if (currentIndex.value < 0 || items.value.length === 0) return
+
+  if (items.value.length === 1) {
+    seekZeroPending.value = true
+    resumePending.value = true
     pausePending.value = false
-    resumePending.value = false
+    return
   }
+
+  if (currentIndex.value > 0) rotatePrecedingToEnd(currentIndex.value)
+  const last = items.value.pop()
+  if (!last) return
+  items.value.unshift(last)
+  currentIndex.value = 0
+  persist()
+  autoplayPending.value = true
+  pausePending.value = false
+  resumePending.value = false
 }
 
 /** YTM: si >3s, seek 0; si no, track anterior. */
@@ -439,6 +516,7 @@ function togglePlayerExpanded() {
 function onTrackEnded() {
   const slug = currentSlug.value
   if (slug) recordAudioCompletion(slug)
+  // Mueve el terminado al final y sigue con el siguiente (cola cíclica).
   playNext()
 }
 
@@ -462,6 +540,10 @@ function togglePlayer() {
 
 function openQueueSheet() {
   hydrate()
+  if (currentIndex.value > 0) {
+    rotatePrecedingToEnd(currentIndex.value)
+    persist()
+  }
   queueSheetOpen.value = true
   /* No abrir el mini-player: la cola trae su propio transport */
 }
@@ -526,11 +608,13 @@ export function useAudioQueue() {
     playerExpanded,
     trackProgress,
     undoState,
+    missingAudioCount,
     isInQueue,
     add,
     addNext,
     moveToEnd,
     addMany,
+    enqueueAllWithAudio,
     seedAllWithAudio,
     remove,
     removeAt,

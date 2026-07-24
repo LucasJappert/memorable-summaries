@@ -22,7 +22,8 @@ const {
   undoState,
   undoRemove,
   dismissUndo,
-  seedAllWithAudio,
+  enqueueAllWithAudio,
+  missingAudioCount,
   playPrevSmart,
   playNext,
   pause,
@@ -74,7 +75,12 @@ const rows = computed(() => {
 })
 
 const currentRow = computed(() => rows.value.find((r) => r.isCurrent) ?? null)
-const upNextRows = computed(() => rows.value.filter((r) => !r.isCurrent))
+/** Resto de la cola en orden cíclico (después del actual, luego lo anterior). */
+const upNextRows = computed(() => {
+  const idx = currentIndex.value ?? -1
+  if (idx < 0 || rows.value.length <= 1) return []
+  return [...rows.value.slice(idx + 1), ...rows.value.slice(0, idx)]
+})
 
 const nowTimeLabel = computed(() => {
   const { currentTime, duration } = trackProgress.value
@@ -112,12 +118,12 @@ function removeRow(index: number, title: string) {
 
 async function onToggleOffline(slug: string) {
   if (offlineBusySlug.value === slug || isOfflineAudioDownloading(slug)) return
+  openMenuIndex.value = null
   offlineBusySlug.value = slug
   try {
     await toggleOffline(slug)
   } finally {
     offlineBusySlug.value = null
-    openMenuIndex.value = null
   }
 }
 
@@ -221,26 +227,57 @@ onBeforeUnmount(() => document.removeEventListener('pointerdown', onDocPointerDo
         <header class="audio-queue-sheet__header">
           <h2 class="audio-queue-sheet__title">Cola</h2>
           <span class="audio-queue-sheet__count">{{ rows.length }}</span>
-          <button
-            v-if="rows.length"
-            type="button"
-            class="audio-queue-sheet__clear"
-            aria-label="Vaciar cola"
-            @click="requestClear"
-          >
-            <svg
-              class="audio-queue-sheet__clear-icon"
-              viewBox="0 0 24 24"
-              aria-hidden="true"
-              focusable="false"
+          <div class="audio-queue-sheet__header-actions">
+            <button
+              type="button"
+              class="audio-queue-sheet__enqueue"
+              :disabled="missingAudioCount === 0"
+              :aria-label="
+                missingAudioCount > 0
+                  ? `Agregar ${missingAudioCount} narraciones faltantes a la cola`
+                  : 'Todas las narraciones ya están en la cola'
+              "
+              :title="
+                missingAudioCount > 0
+                  ? `Agregar ${missingAudioCount} faltantes`
+                  : 'Ya están todas en la cola'
+              "
+              @click="enqueueAllWithAudio"
             >
-              <path
-                d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z"
-                fill="currentColor"
-              />
-            </svg>
-            <span>Vaciar</span>
-          </button>
+              <svg
+                class="audio-queue-sheet__enqueue-icon"
+                viewBox="0 0 24 24"
+                aria-hidden="true"
+                focusable="false"
+              >
+                <path
+                  d="M3 5h12v2H3V5zm0 4h12v2H3V9zm0 4h8v2H3v-2zm14-1v8l6-4-6-4z"
+                  fill="currentColor"
+                />
+              </svg>
+              <span>Todas</span>
+            </button>
+            <button
+              v-if="rows.length"
+              type="button"
+              class="audio-queue-sheet__clear"
+              aria-label="Vaciar cola"
+              @click="requestClear"
+            >
+              <svg
+                class="audio-queue-sheet__clear-icon"
+                viewBox="0 0 24 24"
+                aria-hidden="true"
+                focusable="false"
+              >
+                <path
+                  d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z"
+                  fill="currentColor"
+                />
+              </svg>
+              <span>Vaciar</span>
+            </button>
+          </div>
           <button
             type="button"
             class="audio-queue-sheet__close"
@@ -382,7 +419,7 @@ onBeforeUnmount(() => document.removeEventListener('pointerdown', onDocPointerDo
           <button
             type="button"
             class="audio-queue-sheet__seed"
-            @click="seedAllWithAudio"
+            @click="enqueueAllWithAudio"
           >
             Agregar todos los libros con audio
           </button>
@@ -436,13 +473,15 @@ onBeforeUnmount(() => document.removeEventListener('pointerdown', onDocPointerDo
                   :aria-label="`Reproducir ${row.title}`"
                   @click="onRowActivate(row.index)"
                 >
-                  <img
-                    class="audio-queue-sheet__cover audio-queue-sheet__cover--sm"
-                    :src="row.cover"
-                    alt=""
-                    loading="lazy"
-                  />
-                  <span class="audio-queue-sheet__play-icon" aria-hidden="true">▶</span>
+                  <span class="audio-queue-sheet__cover-wrap">
+                    <img
+                      class="audio-queue-sheet__cover audio-queue-sheet__cover--sm"
+                      :src="row.cover"
+                      alt=""
+                      loading="lazy"
+                    />
+                    <span class="audio-queue-sheet__play-icon" aria-hidden="true">▶</span>
+                  </span>
                   <span class="audio-queue-sheet__text">
                     <span class="audio-queue-sheet__item-title">
                       <span class="audio-queue-sheet__item-title-text">{{ row.title }}</span>

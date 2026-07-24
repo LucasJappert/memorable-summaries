@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { computed, onBeforeUnmount, onMounted, ref, watch } from 'vue'
+import { bookOgImageUrl } from '../config/site'
 import {
   clearAudioPosition,
   readAudioPosition,
@@ -135,7 +136,15 @@ watch(src, () => {
   audioEl.value?.load()
   loadSavedPosition()
   emitProgress()
+  syncMediaSessionMetadata()
 })
+
+watch(
+  () => [props.trackTitle, props.trackSubtitle, props.slug] as const,
+  () => {
+    syncMediaSessionMetadata()
+  },
+)
 
 watch(
   () => props.pauseRequest,
@@ -298,15 +307,127 @@ function closePlayer() {
   emit('close')
 }
 
+function syncMediaSessionMetadata() {
+  if (typeof navigator === 'undefined' || !('mediaSession' in navigator)) return
+  try {
+    const cover = bookOgImageUrl(props.slug)
+    navigator.mediaSession.metadata = new MediaMetadata({
+      title: props.trackTitle || props.slug,
+      artist: props.trackSubtitle || 'Memorable Summaries',
+      album: 'Memorable Summaries',
+      artwork: [
+        { src: cover, sizes: '96x96', type: 'image/jpeg' },
+        { src: cover, sizes: '128x128', type: 'image/jpeg' },
+        { src: cover, sizes: '192x192', type: 'image/jpeg' },
+        { src: cover, sizes: '256x256', type: 'image/jpeg' },
+        { src: cover, sizes: '384x384', type: 'image/jpeg' },
+        { src: cover, sizes: '512x512', type: 'image/jpeg' },
+      ],
+    })
+  } catch {
+    /* MediaMetadata no disponible */
+  }
+}
+
+function syncMediaSessionPlaybackState(state: MediaSessionPlaybackState) {
+  if (typeof navigator === 'undefined' || !('mediaSession' in navigator)) return
+  try {
+    navigator.mediaSession.playbackState = state
+  } catch {
+    /* ignore */
+  }
+}
+
+function syncMediaSessionPosition() {
+  if (typeof navigator === 'undefined' || !('mediaSession' in navigator)) return
+  if (!Number.isFinite(duration.value) || duration.value <= 0) return
+  const position = Math.min(Math.max(currentTime.value, 0), duration.value)
+  try {
+    navigator.mediaSession.setPositionState({
+      duration: duration.value,
+      playbackRate: 1,
+      position,
+    })
+  } catch {
+    /* setPositionState no soportado / valores inválidos */
+  }
+}
+
+function bindMediaSessionActions() {
+  if (typeof navigator === 'undefined' || !('mediaSession' in navigator)) return
+  try {
+    navigator.mediaSession.setActionHandler('play', () => {
+      void togglePlay()
+    })
+    navigator.mediaSession.setActionHandler('pause', () => {
+      audioEl.value?.pause()
+    })
+    navigator.mediaSession.setActionHandler('seekbackward', (details) => {
+      skip(-(details.seekOffset || SKIP_SECONDS))
+    })
+    navigator.mediaSession.setActionHandler('seekforward', (details) => {
+      skip(details.seekOffset || SKIP_SECONDS)
+    })
+    navigator.mediaSession.setActionHandler('previoustrack', () => {
+      if (props.showTransport) emit('prev')
+      else skip(-SKIP_SECONDS)
+    })
+    navigator.mediaSession.setActionHandler('nexttrack', () => {
+      if (props.showTransport) emit('next')
+      else skip(SKIP_SECONDS)
+    })
+    navigator.mediaSession.setActionHandler('seekto', (details) => {
+      if (details.seekTime == null || !audioEl.value) return
+      const audio = audioEl.value
+      const max =
+        Number.isFinite(duration.value) && duration.value > 0
+          ? duration.value
+          : audio.duration
+      if (!Number.isFinite(max) || max <= 0) return
+      const next = Math.min(Math.max(details.seekTime, 0), max)
+      audio.currentTime = next
+      currentTime.value = next
+      persistPosition(true)
+      emitProgress()
+      syncMediaSessionPosition()
+    })
+  } catch {
+    /* algunos handlers no soportados en iOS */
+  }
+}
+
+function clearMediaSessionActions() {
+  if (typeof navigator === 'undefined' || !('mediaSession' in navigator)) return
+  for (const action of [
+    'play',
+    'pause',
+    'seekbackward',
+    'seekforward',
+    'previoustrack',
+    'nexttrack',
+    'seekto',
+  ] as MediaSessionAction[]) {
+    try {
+      navigator.mediaSession.setActionHandler(action, null)
+    } catch {
+      /* ignore */
+    }
+  }
+}
+
 function onPlay() {
   playing.value = true
   hasEnded.value = false
+  syncMediaSessionMetadata()
+  syncMediaSessionPlaybackState('playing')
+  syncMediaSessionPosition()
   emit('play')
 }
 
 function onPause() {
   playing.value = false
   persistPosition(true)
+  syncMediaSessionPlaybackState('paused')
   emit('pause')
 }
 
@@ -315,6 +436,7 @@ function onTimeUpdate() {
   if (audioEl.value) currentTime.value = audioEl.value.currentTime
   persistPosition()
   emitProgress()
+  if (playing.value) syncMediaSessionPosition()
 }
 
 function onLoadedMetadata() {
@@ -344,6 +466,7 @@ function onEnded() {
   }
   clearAudioPosition(props.slug)
   emitProgress()
+  syncMediaSessionPlaybackState('none')
   emit('ended')
 }
 
@@ -444,6 +567,8 @@ function onExpandClick() {
 
 onMounted(() => {
   loadSavedPosition()
+  bindMediaSessionActions()
+  syncMediaSessionMetadata()
   window.addEventListener('beforeunload', () => persistPosition(true))
   document.addEventListener('visibilitychange', onVisibilityChange)
 })
@@ -454,6 +579,8 @@ onBeforeUnmount(() => {
   dragPointerId = null
   persistPosition(true)
   audioEl.value?.pause()
+  clearMediaSessionActions()
+  syncMediaSessionPlaybackState('none')
 })
 
 defineExpose({ rootEl, skip, togglePlay })

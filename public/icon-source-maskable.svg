@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none" role="img" aria-label="Memorable Summaries">
+  <defs>
+    <linearGradient id="bg" x1="256" y1="0" x2="256" y2="512" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#141b32"/>
+      <stop offset="0.5" stop-color="#0a0e1a"/>
+      <stop offset="1" stop-color="#060810"/>
+    </linearGradient>
+    <radialGradient id="aura" cx="256" cy="200" r="200" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7c8cf0" stop-opacity="0.36"/>
+      <stop offset="0.5" stop-color="#7c8cf0" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#7c8cf0" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="auraMint" cx="170" cy="280" r="130" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7cf0c8" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#7cf0c8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="auraWarm" cx="350" cy="290" r="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f0a87c" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#f0a87c" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="pageL" x1="130" y1="260" x2="256" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a8b4ff"/>
+      <stop offset="1" stop-color="#5a6bd9"/>
+    </linearGradient>
+    <linearGradient id="pageR" x1="382" y1="260" x2="256" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a3f7dc"/>
+      <stop offset="1" stop-color="#3dbfa0"/>
+    </linearGradient>
+    <linearGradient id="spine" x1="256" y1="260" x2="256" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd0a8"/>
+      <stop offset="1" stop-color="#d07a48"/>
+    </linearGradient>
+    <linearGradient id="cover" x1="256" y1="400" x2="256" y2="440" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1a2240"/>
+      <stop offset="1" stop-color="#0e1324"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4.5" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="nodeGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="3.5" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="512" height="512" fill="url(#bg)"/>
+  <circle cx="256" cy="200" r="200" fill="url(#aura)"/>
+  <circle cx="170" cy="280" r="130" fill="url(#auraMint)"/>
+  <circle cx="350" cy="290" r="120" fill="url(#auraWarm)"/>
+
+  <!-- Mark inset for maskable safe zone (~80%) -->
+  <g transform="translate(256 256) scale(0.76) translate(-256 -256)">
+    <ellipse cx="256" cy="438" rx="130" ry="14" fill="#000" opacity="0.32"/>
+
+    <path
+      d="M104 392 C148 364 210 352 256 376 C302 352 364 364 408 392 V420 C364 396 302 386 256 408 C210 386 148 396 104 420 Z"
+      fill="url(#cover)"
+      stroke="#2a3050"
+      stroke-width="2"
+    />
+
+    <path d="M256 258 C202 230 138 238 106 268 V392 C138 364 202 352 256 378 Z" fill="url(#pageL)"/>
+    <path d="M256 258 C310 230 374 238 406 268 V392 C374 364 310 352 256 378 Z" fill="url(#pageR)"/>
+
+    <path d="M256 266 C214 244 160 250 132 270 V370 C160 350 214 340 256 360 Z" fill="#fff" opacity="0.11"/>
+    <path d="M256 266 C298 244 352 250 380 270 V370 C352 350 298 340 256 360 Z" fill="#fff" opacity="0.11"/>
+
+    <path d="M140 310 H204 M146 334 H210 M154 358 H200" stroke="#eef1ff" stroke-width="6.5" stroke-linecap="round" opacity="0.30"/>
+    <path d="M308 310 H372 M302 334 H366 M312 358 H358" stroke="#eafff7" stroke-width="6.5" stroke-linecap="round" opacity="0.30"/>
+
+    <path d="M256 258 V378" stroke="url(#spine)" stroke-width="10" stroke-linecap="round"/>
+    <path d="M256 266 V368" stroke="#fff6ec" stroke-width="2.2" stroke-linecap="round" opacity="0.38"/>
+
+    <g filter="url(#softGlow)">
+      <path
+        d="M256 258 L256 196 M256 196 L188 146 M256 196 L324 146 M256 196 L256 120 M188 146 L150 180 M324 146 L362 180"
+        stroke="#d0d4ec"
+        stroke-width="5"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        opacity="0.82"
+      />
+    </g>
+
+    <g filter="url(#nodeGlow)">
+      <circle cx="256" cy="258" r="11" fill="#e8ebf8"/>
+      <circle cx="256" cy="196" r="9" fill="#7c8cf0"/>
+      <circle cx="188" cy="146" r="14" fill="#7cf0c8"/>
+      <circle cx="324" cy="146" r="14" fill="#f0a87c"/>
+      <circle cx="256" cy="120" r="11" fill="#9aa6f5"/>
+      <circle cx="150" cy="180" r="8" fill="#7c8cf0"/>
+      <circle cx="362" cy="180" r="8" fill="#7cf0c8"/>
+    </g>
+
+    <circle cx="184" cy="141" r="3.5" fill="#fff" opacity="0.55"/>
+    <circle cx="320" cy="141" r="3.5" fill="#fff" opacity="0.45"/>
+    <circle cx="254" cy="116" r="2.8" fill="#fff" opacity="0.5"/>
+
+    <circle cx="118" cy="240" r="2.6" fill="#7cf0c8" opacity="0.8"/>
+    <circle cx="394" cy="230" r="2.3" fill="#f0a87c" opacity="0.75"/>
+  </g>
+</svg>

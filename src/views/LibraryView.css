@@ -92,10 +92,14 @@
   align-items: stretch;
 }
 .book-tile {
+  position: relative;
   display: flex;
   flex-direction: column;
   width: 100%;
   min-width: 0;
+}
+.book-tile--menu-open {
+  z-index: 6;
 }
 .book-tile__link {
   position: relative;
@@ -138,8 +142,8 @@
 }
 .book-tile__menu {
   position: absolute;
-  top: 0.35rem;
-  right: 0.35rem;
+  top: 0.9rem;
+  right: 0.9rem;
   z-index: 8;
 }
 .book-tile__menu-btn {
@@ -164,7 +168,7 @@
   position: absolute;
   top: calc(100% + 0.25rem);
   right: 0;
-  min-width: 11.5rem;
+  min-width: 13.5rem;
   padding: 0.3rem;
   border-radius: 0.65rem;
   border: 1px solid rgba(255, 255, 255, 0.12);
@@ -173,7 +177,9 @@
   z-index: 9;
 }
 .book-tile__menu-item {
-  display: block;
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
   width: 100%;
   border: 0;
   background: transparent;
@@ -184,6 +190,12 @@
   padding: 0.5rem 0.55rem;
   border-radius: 0.45rem;
   cursor: pointer;
+}
+.book-tile__menu-icon {
+  width: 1rem;
+  height: 1rem;
+  flex-shrink: 0;
+  opacity: 0.88;
 }
 .book-tile__menu-item:hover,
 .book-tile__menu-item:focus-visible {
@@ -196,15 +208,37 @@
 .book-tile__menu-item--danger {
   color: #f0a0a0;
 }
-.cover-art__badge--read {
-  left: 0.32rem;
-  top: auto;
-  bottom: 0.32rem;
-  text-transform: none;
-  letter-spacing: 0.02em;
-  background: rgba(12, 16, 32, 0.85);
-  border-color: rgba(124, 240, 200, 0.35);
-  color: var(--accent3);
+.cover-art__ribbon--read {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 5;
+  width: 3.4rem;
+  height: 3.4rem;
+  overflow: hidden;
+  pointer-events: none;
+}
+.cover-art__ribbon-band {
+  position: absolute;
+  top: 0.42rem;
+  left: -1.35rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 4.4rem;
+  height: 1.05rem;
+  transform: rotate(-45deg);
+  color: #0a1814;
+  background: linear-gradient(180deg, #b8f5e4 0%, var(--accent3) 100%);
+  box-shadow:
+    0 1px 4px rgba(0, 0, 0, 0.35),
+    0 0 0 1px rgba(255, 255, 255, 0.22);
+}
+.cover-art__ribbon-check {
+  width: 0.72rem;
+  height: 0.72rem;
+  display: block;
+  transform: rotate(45deg);
 }
 .book-tile__audio-actions {
   display: none;

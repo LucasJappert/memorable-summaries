@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, onBeforeUnmount, onMounted, ref, watch } from 'vue'
+import { computed, nextTick, onBeforeUnmount, onMounted, ref, watch } from 'vue'
 import { getBookBySlug } from '../books/catalog'
 import { useAudioQueue } from '../composables/useAudioQueue'
 import AudioPlayer from './AudioPlayer.vue'
@@ -59,10 +59,13 @@ const trackSubtitle = computed(() => {
 
 watch(
   [currentSlug, autoplayPending],
-  () => {
-    if (autoplayPending.value) {
-      shouldAutoplay.value = consumeAutoplay()
-    }
+  async () => {
+    if (!autoplayPending.value) return
+    // Forzar re-trigger del watch de autoplay en AudioPlayer (true→false→true).
+    shouldAutoplay.value = false
+    const want = consumeAutoplay()
+    await nextTick()
+    shouldAutoplay.value = want
   },
   { immediate: true },
 )
