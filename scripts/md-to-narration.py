@@ -529,7 +529,7 @@ def export_mp3(wav_path: Path, slug: str) -> None:
 
 
 def api_base_url() -> str:
-    return (os.environ.get("LUCAS_AI_API_URL") or DEFAULT_API_URL).rstrip("/")
+    return (os.environ.get("LUCAS_AI_API_URL") or DEFAULT_API_URL).strip().rstrip("/")
 
 
 def api_key() -> str:

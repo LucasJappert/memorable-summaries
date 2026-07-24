@@ -8,6 +8,8 @@ Los genes codifican reglas que se ejecutan con tiempo y energía.
 
 La inteligencia emerge cuando esas reglas interactúan con ruido, selección y retroalimentación.
 
+Sin crecimiento algorítmico no hay forma de leer toda la información que produce una red inteligente.
+
 El desarrollo no es un prefacio de la función: es su continuidad.
 
 La IA actual muestra atajos poderosos para tareas concretas, pero no para flexibilidad amplia.
