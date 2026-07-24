@@ -92,6 +92,19 @@ export default defineConfig(({ mode }) => {
               urlPattern: /\/version\.json$/,
               handler: 'NetworkOnly',
             },
+            {
+              // Narraciones on-demand (botón Descargar). RangeRequests = seek offline.
+              urlPattern: ({ url }) => /\/audio\/[^/?]+\.mp3$/i.test(url.pathname),
+              handler: 'CacheFirst',
+              options: {
+                cacheName: 'audio-offline',
+                rangeRequests: true,
+                cacheableResponse: { statuses: [0, 200] },
+                expiration: {
+                  maxEntries: 48,
+                },
+              },
+            },
           ],
         },
       }),

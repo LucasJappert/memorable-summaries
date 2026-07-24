@@ -1,5 +1,6 @@
 <script setup lang="ts">
-import { computed, onBeforeUnmount, onMounted, ref, watch } from 'vue'
+import { computed, onBeforeUnmount, onMounted, ref, toRef, watch } from 'vue'
+import { useOfflineAudio } from '../composables/useOfflineAudio'
 import {
   clearAudioPosition,
   readAudioPosition,
@@ -102,8 +103,22 @@ const savedCurrentTime = ref<number | null>(null)
 const restoreApplied = ref(false)
 const hasEnded = ref(false)
 const isDragging = ref(false)
+const offlineBusy = ref(false)
+const offlineError = ref(false)
 let lastSaveAt = 0
 let dragPointerId: number | null = null
+
+const {
+  isCached: offlineCached,
+  isDownloading: offlineDownloading,
+  toggle: toggleOffline,
+} = useOfflineAudio(toRef(props, 'slug'))
+
+const offlineLabel = computed(() => {
+  if (offlineDownloading.value || offlineBusy.value) return 'Descargando para offline'
+  if (offlineCached.value) return 'Quitar de offline'
+  return 'Descargar para offline'
+})
 
 const progress = computed(() =>
   duration.value > 0 ? (currentTime.value / duration.value) * 100 : 0,
@@ -442,6 +457,19 @@ function onExpandClick() {
   else emit('expand')
 }
 
+async function onOfflineClick() {
+  if (offlineBusy.value || offlineDownloading.value) return
+  offlineBusy.value = true
+  offlineError.value = false
+  try {
+    await toggleOffline(props.slug)
+  } catch {
+    offlineError.value = true
+  } finally {
+    offlineBusy.value = false
+  }
+}
+
 onMounted(() => {
   loadSavedPosition()
   window.addEventListener('beforeunload', () => persistPosition(true))
@@ -663,6 +691,58 @@ defineExpose({ rootEl, skip, togglePlay })
           </button>
         </div>
       </div>
+
+      <button
+        v-if="expanded"
+        type="button"
+        class="audio-player__btn audio-player__btn--offline"
+        :class="{
+          'audio-player__btn--offline-saved': offlineCached,
+          'audio-player__btn--offline-busy': offlineDownloading || offlineBusy,
+          'audio-player__btn--offline-error': offlineError,
+        }"
+        :aria-label="offlineLabel"
+        :aria-pressed="offlineCached"
+        :disabled="offlineDownloading || offlineBusy"
+        @click="onOfflineClick"
+      >
+        <svg
+          v-if="offlineDownloading || offlineBusy"
+          class="audio-player__offline-icon audio-player__offline-icon--spin"
+          viewBox="0 0 24 24"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <path
+            d="M12 4a8 8 0 1 0 8 8h-2a6 6 0 1 1-6-6V4z"
+            fill="currentColor"
+          />
+        </svg>
+        <svg
+          v-else-if="offlineCached"
+          class="audio-player__offline-icon"
+          viewBox="0 0 24 24"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <path
+            d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"
+            fill="currentColor"
+          />
+        </svg>
+        <svg
+          v-else
+          class="audio-player__offline-icon"
+          viewBox="0 0 24 24"
+          aria-hidden="true"
+          focusable="false"
+        >
+          <path
+            d="M19.35 10.04A7.49 7.49 0 0 0 12 4C9.11 4 6.6 5.64 5.35 8.04A5.994 5.994 0 0 0 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM17 13l-5 5-5-5h3V9h4v4h3z"
+            fill="currentColor"
+          />
+        </svg>
+      </button>
 
       <button
         type="button"

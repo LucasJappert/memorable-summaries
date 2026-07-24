@@ -2,6 +2,7 @@
 import { computed, onBeforeUnmount, onMounted, ref } from 'vue'
 import { getBookBySlug } from '../books/catalog'
 import { useAudioQueue } from '../composables/useAudioQueue'
+import { useOfflineAudio } from '../composables/useOfflineAudio'
 import { readingRevision } from '../reading/revision'
 import { coverImageUrl } from '../utils/coverImage'
 
@@ -30,6 +31,8 @@ const {
   seekBy,
 } = useAudioQueue()
 
+const { cachedSlugs, isOfflineAudioCached } = useOfflineAudio()
+
 const openMenuIndex = ref<number | null>(null)
 const confirmClearOpen = ref(false)
 const progressEl = ref<HTMLDivElement | null>(null)
@@ -40,6 +43,7 @@ const SKIP_SECONDS = 10
 
 const rows = computed(() => {
   readingRevision.value
+  cachedSlugs.value
   return items.value.map((slug, index) => {
     const book = getBookBySlug(slug)
     const title = book?.meta.titleEs?.trim() || book?.meta.title || slug
@@ -54,6 +58,7 @@ const rows = computed(() => {
       isCurrent: index === currentIndex.value,
       completedCount: stats.completedCount,
       markedListened: stats.markedListened,
+      offline: isOfflineAudioCached(slug),
     }
   })
 })
@@ -234,7 +239,14 @@ onBeforeUnmount(() => document.removeEventListener('pointerdown', onDocPointerDo
           />
           <div class="audio-queue-sheet__now-body">
             <div class="audio-queue-sheet__now-text">
-              <div class="audio-queue-sheet__item-title">{{ currentRow.title }}</div>
+              <div class="audio-queue-sheet__item-title">
+                <span class="audio-queue-sheet__item-title-text">{{ currentRow.title }}</span>
+                <span
+                  v-if="currentRow.offline"
+                  class="audio-queue-sheet__offline-badge"
+                  title="Disponible sin conexión"
+                >Offline</span>
+              </div>
               <div class="audio-queue-sheet__item-meta">{{ currentRow.author }}</div>
               <div
                 ref="progressEl"
@@ -411,7 +423,14 @@ onBeforeUnmount(() => document.removeEventListener('pointerdown', onDocPointerDo
                   />
                   <span class="audio-queue-sheet__play-icon" aria-hidden="true">▶</span>
                   <span class="audio-queue-sheet__text">
-                    <span class="audio-queue-sheet__item-title">{{ row.title }}</span>
+                    <span class="audio-queue-sheet__item-title">
+                      <span class="audio-queue-sheet__item-title-text">{{ row.title }}</span>
+                      <span
+                        v-if="row.offline"
+                        class="audio-queue-sheet__offline-badge"
+                        title="Disponible sin conexión"
+                      >Offline</span>
+                    </span>
                     <span class="audio-queue-sheet__item-meta">
                       {{ row.author }}
                       <template v-if="row.completedCount > 0"> · ×{{ row.completedCount }}</template>

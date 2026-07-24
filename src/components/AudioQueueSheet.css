@@ -480,9 +480,31 @@
   font-size: 0.9rem;
   font-weight: 600;
   color: var(--text);
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  min-width: 0;
+}
+
+.audio-queue-sheet__item-title-text {
+  min-width: 0;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+}
+
+.audio-queue-sheet__offline-badge {
+  flex-shrink: 0;
+  font-size: 0.62rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: rgba(124, 240, 200, 0.95);
+  background: rgba(124, 240, 200, 0.12);
+  border: 1px solid rgba(124, 240, 200, 0.28);
+  border-radius: 999px;
+  padding: 0.12rem 0.4rem;
+  line-height: 1.2;
 }
 
 .audio-queue-sheet__item-meta {
