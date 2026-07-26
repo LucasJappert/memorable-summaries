@@ -1,0 +1,16 @@
+{
+  "slug": "free-will",
+  "style": "Cinematic 3D illustration style like a prestige animated feature (soft volumetric lighting, rounded forms, rich textures, gentle bloom and glow on celestial light). Deep midnight blues and indigos with warm gold moonlight and teal accents. Whimsical sense of wonder and scale, not photoreal, not flat vector. No text, no typography, no logos, no watermarks, no UI, no book covers. If any living beings appear, use stylized animated-feature character design (expressive, soft, non-photoreal) — never photoreal humans. No purple neon AI-glow cliché.",
+  "atmosphere": {
+    "size": "landscape",
+    "prompt": "Wide atmospheric hero backdrop for Harris's Free Will: thoughts appearing as gold sparks in a teal neural weather the self only watches, deep navy void. Empty of people. {style}"
+  },
+  "cover": {
+    "size": "portrait",
+    "prompt": "Vertical book-cover art for \"Free Will\". Central motif: a transparent observer facing a storm of pre-formed thought-lights; memorable, generous negative space. {style}"
+  },
+  "og": {
+    "size": "landscape",
+    "prompt": "Wide social share illustration for Free Will: panoramic mind as witnessed fireworks of thought without an author; cinematic, no people, no text. {style}"
+  }
+}

@@ -1,10 +1,11 @@
 <script setup lang="ts">
-import { computed } from 'vue'
+import { computed, ref, watch } from 'vue'
 import type { BookMeta } from '../types/book'
 import { bookHasAudio } from '../books/audio-catalog'
 import { useAudioQueue } from '../composables/useAudioQueue'
+import { atmosphereUrl } from '../utils/artImage'
 import CoverArt from './CoverArt.vue'
-import EnvelopeIcon from './icons/EnvelopeIcon.vue'
+import CheckIcon from './icons/CheckIcon.vue'
 
 const props = withDefaults(
   defineProps<{
@@ -24,6 +25,16 @@ const { currentSlug, isPlaying, play, resume, openQueueSheet } = useAudioQueue()
 
 const hasAudio = computed(() => bookHasAudio(props.slug) && !props.hideAudio)
 
+const atmosphereSrc = computed(() => atmosphereUrl(props.slug))
+const atmosphereOk = ref(false)
+
+watch(
+  atmosphereSrc,
+  () => {
+    atmosphereOk.value = false
+  },
+)
+
 function onListen() {
   if (!hasAudio.value) return
   if (currentSlug.value === props.slug) {
@@ -36,7 +47,16 @@ function onListen() {
 </script>
 
 <template>
-  <header class="hero">
+  <header class="hero" :class="{ 'hero--atmosphere': atmosphereOk }">
+    <img
+      class="hero__atmosphere"
+      :src="atmosphereSrc"
+      alt=""
+      aria-hidden="true"
+      @load="atmosphereOk = true"
+      @error="atmosphereOk = false"
+    />
+
     <div class="hero__cover" aria-hidden="true">
       <CoverArt :slug="slug" :meta="meta" :done="done" :has-audio="hasAudio" />
     </div>
@@ -58,7 +78,7 @@ function onListen() {
       </p>
       <div class="hero__actions">
         <div class="hero__read-toggle">
-          <EnvelopeIcon class="hero__read-toggle-icon" aria-hidden="true" />
+          <CheckIcon class="hero__read-toggle-icon" aria-hidden="true" />
           <span id="hero-read-label" class="hero__read-toggle-label">Leído</span>
           <button
             type="button"
@@ -73,21 +93,20 @@ function onListen() {
             <span class="hero__switch-knob" aria-hidden="true" />
           </button>
         </div>
+        <button
+          v-if="hasAudio"
+          type="button"
+          class="hero__listen"
+          aria-label="Escuchar narración"
+          @click="onListen"
+        >
+          <svg class="hero__listen-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <path d="M8 5v14l11-7L8 5z" fill="currentColor" />
+          </svg>
+          <span>Escuchar</span>
+        </button>
       </div>
     </div>
-
-    <button
-      v-if="hasAudio"
-      type="button"
-      class="hero__listen"
-      aria-label="Escuchar narración"
-      @click="onListen"
-    >
-      <svg class="hero__listen-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
-        <path d="M8 5v14l11-7L8 5z" fill="currentColor" />
-      </svg>
-      <span>Escuchar</span>
-    </button>
   </header>
 </template>
 

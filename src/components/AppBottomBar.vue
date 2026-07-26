@@ -12,6 +12,7 @@ import { useAudioQueue } from '../composables/useAudioQueue'
 import {
   libraryCatalogQuery,
   libraryCatalogSearchOpen,
+  libraryCatalogMatchCount,
   toggleLibraryCatalogSearch,
   closeLibraryCatalogSearch,
 } from '../composables/useLibraryCatalogSearch'
@@ -40,6 +41,20 @@ const searchActive = computed(() =>
 const searchHasQuery = computed(
   () => isLibrary.value && libraryCatalogQuery.value.trim().length > 0,
 )
+
+const searchMatchBadge = computed(() => {
+  if (!searchHasQuery.value) return null
+  const n = libraryCatalogMatchCount.value
+  return n > 99 ? '99+' : String(n)
+})
+
+const searchAriaLabel = computed(() => {
+  if (!isLibrary.value) return 'Buscar en libros leídos'
+  if (searchHasQuery.value) {
+    return `Buscar libros, ${libraryCatalogMatchCount.value} coincidencias`
+  }
+  return 'Buscar libros'
+})
 
 function shareBook() {
   if (!book.value) return
@@ -182,7 +197,7 @@ function onQueueClick() {
           class="app-bottom-bar__btn"
           :class="{ 'app-bottom-bar__btn--active': searchActive }"
           :aria-pressed="searchActive"
-          :aria-label="isLibrary ? 'Buscar libros' : 'Buscar en libros leídos'"
+          :aria-label="searchAriaLabel"
           @click="onSearchClick"
         >
           <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
@@ -192,10 +207,10 @@ function onQueueClick() {
             />
           </svg>
           <span
-            v-if="searchHasQuery"
+            v-if="searchMatchBadge"
             class="app-bottom-bar__badge"
             aria-hidden="true"
-          >·</span>
+          >{{ searchMatchBadge }}</span>
         </button>
 
         <button

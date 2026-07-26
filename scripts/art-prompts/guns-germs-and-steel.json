@@ -1,0 +1,16 @@
+{
+  "slug": "guns-germs-and-steel",
+  "style": "Cinematic 3D illustration style like a prestige animated feature (soft volumetric lighting, rounded forms, rich textures, gentle bloom and glow on celestial light). Deep midnight blues and indigos with warm gold moonlight and teal accents. Whimsical sense of wonder and scale, not photoreal, not flat vector. No text, no typography, no logos, no watermarks, no UI, no book covers. If any living beings appear, use stylized animated-feature character design (expressive, soft, non-photoreal) — never photoreal humans. No purple neon AI-glow cliché.",
+  "atmosphere": {
+    "size": "landscape",
+    "prompt": "Wide atmospheric hero backdrop for Guns, Germs, and Steel: The Fates of Human Societies by Jared Diamond: continents of unequal destiny — crops, animals and geography shaping soft golden civilizations. Empty of photoreal people, soft UI background. {style}"
+  },
+  "cover": {
+    "size": "portrait",
+    "prompt": "Vertical book-cover art for \"Guns, Germs, and Steel: The Fates of Human Societies\". Central motif: guns germs and steel — geographic lottery as luminous continents diverging in fate; memorable, generous negative space. {style}"
+  },
+  "og": {
+    "size": "landscape",
+    "prompt": "Wide social share illustration for Guns, Germs, and Steel: The Fates of Human Societies: panoramic unequal continents of geography and power; cinematic, no people, no text. {style}"
+  }
+}

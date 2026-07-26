@@ -1,0 +1,16 @@
+{
+  "slug": "how-we-learn",
+  "style": "Cinematic 3D illustration style like a prestige animated feature (soft volumetric lighting, rounded forms, rich textures, gentle bloom and glow on celestial light). Deep midnight blues and indigos with warm gold moonlight and teal accents. Whimsical sense of wonder and scale, not photoreal, not flat vector. No text, no typography, no logos, no watermarks, no UI, no book covers. If any living beings appear, use stylized animated-feature character design (expressive, soft, non-photoreal) — never photoreal humans. No purple neon AI-glow cliché.",
+  "atmosphere": {
+    "size": "landscape",
+    "prompt": "Wide atmospheric hero backdrop for Dehaene's How We Learn: soft glowing synapses forming crystal lattices of knowledge, attention beams and sleep-wave gold mist over navy. Empty of people. {style}"
+  },
+  "cover": {
+    "size": "portrait",
+    "prompt": "Vertical book-cover art for \"How We Learn\". Central motif: a luminous brain garden where error sparks and sleep waves grow into golden understanding; memorable, generous negative space. {style}"
+  },
+  "og": {
+    "size": "landscape",
+    "prompt": "Wide social share illustration for How We Learn: panoramic attention, error, and sleep as glowing learning currents across navy; cinematic, no people, no text. {style}"
+  }
+}

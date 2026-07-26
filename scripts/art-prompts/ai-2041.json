@@ -1,0 +1,16 @@
+{
+  "slug": "ai-2041",
+  "style": "Cinematic 3D illustration style like a prestige animated feature (soft volumetric lighting, rounded forms, rich textures, gentle bloom and glow on celestial light). Deep midnight blues and indigos with warm gold moonlight and teal accents. Whimsical sense of wonder and scale, not photoreal, not flat vector. No text, no typography, no logos, no watermarks, no UI, no book covers. If any living beings appear, use stylized animated-feature character design (expressive, soft, non-photoreal) — never photoreal humans. No purple neon AI-glow cliché.",
+  "atmosphere": {
+    "size": "landscape",
+    "prompt": "Wide atmospheric hero backdrop for AI 2041: Ten Visions for Our Future by Kai-Fu Lee & Chen Qiufan: near-future cities of soft AI helpers and human stories under teal dusk. Empty of photoreal people, soft UI background. {style}"
+  },
+  "cover": {
+    "size": "portrait",
+    "prompt": "Vertical book-cover art for \"AI 2041: Ten Visions for Our Future\". Central motif: ten luminous AI-future vignettes orbiting a human heart of light; memorable, generous negative space. {style}"
+  },
+  "og": {
+    "size": "landscape",
+    "prompt": "Wide social share illustration for AI 2041: Ten Visions for Our Future: panoramic AI 2041 story-cities; cinematic, no people, no text. {style}"
+  }
+}

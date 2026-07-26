@@ -1,0 +1,16 @@
+{
+  "slug": "murmurs-of-earth",
+  "style": "Cinematic 3D illustration style like a prestige animated feature (soft volumetric lighting, rounded forms, rich textures, gentle bloom and glow on celestial light). Deep midnight blues and indigos with warm gold moonlight and teal accents. Whimsical sense of wonder and scale, not photoreal, not flat vector. No text, no typography, no logos, no watermarks, no UI, no book covers. If any living beings appear, use stylized animated-feature character design (expressive, soft, non-photoreal) — never photoreal humans. No purple neon AI-glow cliché.",
+  "atmosphere": {
+    "size": "landscape",
+    "prompt": "Wide atmospheric hero backdrop for Murmurs of Earth / Voyager Golden Record: a golden disc of light sailing past planets into deep navy starfields. Empty of people. {style}"
+  },
+  "cover": {
+    "size": "portrait",
+    "prompt": "Vertical book-cover art for \"Murmurs of Earth\". Central motif: the Voyager golden record as a luminous emblem casting Earth's message into space; memorable, generous negative space. {style}"
+  },
+  "og": {
+    "size": "landscape",
+    "prompt": "Wide social share illustration for Murmurs of Earth: panoramic Voyager craft and glowing golden record message streaking through cosmos; cinematic, no people, no text. {style}"
+  }
+}

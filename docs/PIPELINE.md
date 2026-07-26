@@ -41,7 +41,8 @@ legacy/<slug>.html           ← HTML standalone con el mismo CSS
 | **1b → fidelidad** | Revisión de contenido con rúbrica | Detecta capítulos sin tesis, cobertura incompleta o datos inventados; puede pedir reescritura. |
 | **1c → pulido** | Corrección mínima de prosa por sección | Elimina repeticiones y telegráfico sin cambiar la esencia. |
 | **2 → `.ts` / `.html`** | Maquetar para memorizar | `md-to-ts.py` mecánico; prompt 02 solo si hace falta. |
-| **3 → `audio/*.wav`** | Narración TTS de un resumen | Un `.md` por vez; ver `docs/prompts/03-audio-desde-resumen.md` |
+| **3 → `audio/*.mp3`** | Narración TTS de un resumen | Un `.md` por vez; ver `docs/prompts/03-audio-desde-resumen.md` |
+| **4 → arte visual** | Atmósfera + portada Memorable + OG | `docs/prompts/04-arte-visual.md` + `scripts/generate-book-art.py` |
 
 > **1b vs 1c.** `1b` mira *qué dice* el resumen (fidelidad al argumento del libro) y puede pedir
 > reescrituras; `1c` mira *cómo está escrito* (prosa) y es conservador. Primero fidelidad, después estilo.
@@ -64,6 +65,8 @@ El `.md` intermedio actúa como **contrato**: si el paso 1 respeta la plantilla,
 | `docs/prompts/01c-correccion-minima.md` | Corrección mínima por sección (redundancias, claridad) |
 | `docs/prompts/02-vista-desde-resumen.md` | Prompt para generar `src/data/*.ts` (y opcionalmente HTML) |
 | `docs/prompts/03-audio-desde-resumen.md` | Prompt TTS: MD → OmniVoice → `public/audio/<slug>.mp3` |
+| `docs/prompts/04-arte-visual.md` | Atmósfera / Memorable / OG vía lucas-ai-api |
+| `scripts/generate-book-art.py` | Genera `public/art/<slug>/` + Memorable cover |
 | `scripts/md-to-ts.py` | Conversor mecánico MD → TS (preferido para Paso B) |
 | `scripts/check-coverage.py` | Gate de contenido: TOC↔secciones, key por capítulo, capítulos finos |
 | `scripts/lint-summary.py` | Lint de redundancias, cierre y telegráfico |
@@ -89,7 +92,10 @@ El `.md` intermedio actúa como **contrato**: si el paso 1 respeta la plantilla,
 7. [ ] Paso C: `01c-correccion-minima.md` + `python3 scripts/lint-summary.py <slug>` (obligatorio, exit 0)
 8. [ ] `python3 scripts/md-to-ts.py <slug>` → `src/data/<slug-corto>.ts`
 9. [ ] Registrar el libro en `src/books/catalog.ts` (cuando haya varios)
-10. [ ] `npm run build` para verificar tipos
+10. [ ] Portada editorial: `python3 scripts/extract-cover.py <slug>`
+11. [ ] Arte Memorable: `docs/prompts/04-arte-visual.md` + `python3 scripts/generate-book-art.py <slug>`
+12. [ ] `npm run build` para verificar tipos
+13. [ ] (Opcional) Audio TTS si hay key
 
 ## Principios de diseño (memorización)
 

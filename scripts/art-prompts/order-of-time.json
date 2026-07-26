@@ -1,0 +1,16 @@
+{
+  "slug": "order-of-time",
+  "style": "Cinematic 3D illustration style like a prestige animated feature (soft volumetric lighting, rounded forms, rich textures, gentle bloom and glow on celestial light). Deep midnight blues and indigos with warm gold moonlight and teal accents. Whimsical sense of wonder and scale, not photoreal, not flat vector. No text, no typography, no logos, no watermarks, no UI, no book covers. If any living beings appear, use stylized animated-feature character design (expressive, soft, non-photoreal) — never photoreal humans. No purple neon AI-glow cliché.",
+  "atmosphere": {
+    "size": "landscape",
+    "prompt": "Wide atmospheric backdrop for a book about the nature of time in physics. Soft layered light cones and curved spacetime as glowing translucent forms over a deep night field, gentle thermal gradient from cool teal past to warmer present. Empty landscape of ideas, calm wonder. {style}"
+  },
+  "cover": {
+    "size": "portrait",
+    "prompt": "Vertical book-cover art for \"The Order of Time\" by Carlo Rovelli. Central motif: a luminous fractured hourglass dissolving into glowing light cones and granular spacetime foam; elegant, memorable, series-ready composition with generous negative space. {style}"
+  },
+  "og": {
+    "size": "landscape",
+    "prompt": "Wide social share card illustration for a summary of Rovelli's The Order of Time. Abstract light cones and layered time emerging from soft entropy fog across a panoramic dark field; cinematic, calm, prestige animated-science feel. {style}"
+  }
+}

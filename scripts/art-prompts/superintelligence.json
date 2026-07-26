@@ -1,0 +1,16 @@
+{
+  "slug": "superintelligence",
+  "style": "Cinematic 3D illustration style like a prestige animated feature (soft volumetric lighting, rounded forms, rich textures, gentle bloom and glow on celestial light). Deep midnight blues and indigos with warm gold moonlight and teal accents. Whimsical sense of wonder and scale, not photoreal, not flat vector. No text, no typography, no logos, no watermarks, no UI, no book covers. If any living beings appear, use stylized animated-feature character design (expressive, soft, non-photoreal) — never photoreal humans. No purple neon AI-glow cliché.",
+  "atmosphere": {
+    "size": "landscape",
+    "prompt": "Wide atmospheric hero backdrop for Bostrom's Superintelligence: a quiet human city of tiny warm lights beneath a vast rising machine-mind aurora of teal intelligence. Empty of people close-up, soft UI background. {style}"
+  },
+  "cover": {
+    "size": "portrait",
+    "prompt": "Vertical book-cover art for \"Superintelligence\". Central motif: a luminous chess-like decision tree blooming into an overwhelming soft AI god-star above a fragile world; memorable, generous negative space. {style}"
+  },
+  "og": {
+    "size": "landscape",
+    "prompt": "Wide social share illustration for Superintelligence: panoramic human-scale world under an ascending intelligence horizon of teal/gold; cinematic, no people, no text. {style}"
+  }
+}

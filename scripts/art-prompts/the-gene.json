@@ -1,0 +1,16 @@
+{
+  "slug": "the-gene",
+  "style": "Cinematic 3D illustration style like a prestige animated feature (soft volumetric lighting, rounded forms, rich textures, gentle bloom and glow on celestial light). Deep midnight blues and indigos with warm gold moonlight and teal accents. Whimsical sense of wonder and scale, not photoreal, not flat vector. No text, no typography, no logos, no watermarks, no UI, no book covers. If any living beings appear, use stylized animated-feature character design (expressive, soft, non-photoreal) — never photoreal humans. No purple neon AI-glow cliché.",
+  "atmosphere": {
+    "size": "landscape",
+    "prompt": "Wide atmospheric hero backdrop for The Gene: An Intimate History by Siddhartha Mukherjee: a luminous double helix of inheritance threading families and history. Empty of photoreal people, soft UI background. {style}"
+  },
+  "cover": {
+    "size": "portrait",
+    "prompt": "Vertical book-cover art for \"The Gene: An Intimate History\". Central motif: the gene as a golden hereditary thread through generations of soft silhouettes; memorable, generous negative space. {style}"
+  },
+  "og": {
+    "size": "landscape",
+    "prompt": "Wide social share illustration for The Gene: An Intimate History: panoramic DNA helix spanning history like a glowing river; cinematic, no people, no text. {style}"
+  }
+}

@@ -1,10 +1,13 @@
 <script setup lang="ts">
-import { computed, onBeforeUnmount, onMounted, ref } from 'vue'
-import { getBookBySlug } from '../books/catalog'
+import { computed, onBeforeUnmount, onMounted, ref, watch } from 'vue'
+import { bookCatalog, getBookBySlug } from '../books/catalog'
+import { getReadingOrder } from '../books/reading-order'
 import { useAudioQueue } from '../composables/useAudioQueue'
 import { useOfflineAudio } from '../composables/useOfflineAudio'
 import { readingRevision } from '../reading/revision'
-import { coverImageUrl } from '../utils/coverImage'
+import { coverStyle } from '../composables/useCoverStyle'
+import { coverImageUrl, coverUrlForStyle } from '../utils/coverImage'
+import { atmosphereUrl } from '../utils/artImage'
 
 defineProps<{ open: boolean }>()
 const emit = defineEmits<{ close: [] }>()
@@ -24,6 +27,8 @@ const {
   dismissUndo,
   enqueueAllWithAudio,
   missingAudioCount,
+  seedWithSlugs,
+  shuffleKeepingCurrent,
   playPrevSmart,
   playNext,
   pause,
@@ -32,21 +37,41 @@ const {
   seekBy,
 } = useAudioQueue()
 
-const { cachedSlugs, isOfflineAudioCached, isOfflineAudioDownloading, toggle: toggleOffline } =
-  useOfflineAudio()
+const {
+  cachedSlugs,
+  downloadProgress,
+  audioBytesBySlug,
+  isOfflineAudioCached,
+  isOfflineAudioDownloading,
+  toggle: toggleOffline,
+  prefetchSize,
+  formatBytes,
+  getProgress,
+} = useOfflineAudio()
 
 const openMenuIndex = ref<number | null>(null)
 const confirmClearOpen = ref(false)
+const confirmShuffleOpen = ref(false)
 const progressEl = ref<HTMLDivElement | null>(null)
 const isSeekDragging = ref(false)
 const offlineBusySlug = ref<string | null>(null)
+/** Slugs sin `.editorial.jpg` → caer a Memorable (como CoverArt). */
+const coverFallbackMemorable = ref(new Set<string>())
 let seekPointerId: number | null = null
 
 const SKIP_SECONDS = 10
 
+watch(coverStyle, () => {
+  coverFallbackMemorable.value = new Set()
+})
+
 const rows = computed(() => {
   readingRevision.value
   cachedSlugs.value
+  downloadProgress.value
+  audioBytesBySlug.value
+  const style = coverStyle.value
+  const fallbacks = coverFallbackMemorable.value
   return items.value.map((slug, index) => {
     const book = getBookBySlug(slug)
     const title = book?.meta.titleEs?.trim() || book?.meta.title || slug
@@ -54,19 +79,29 @@ const rows = computed(() => {
     const stats = statsFor(slug)
     const offline = isOfflineAudioCached(slug)
     const offlineBusy = offlineBusySlug.value === slug || isOfflineAudioDownloading(slug)
+    const progress = getProgress(slug)
+    const sizeLabel = formatBytes(audioBytesBySlug.value[slug])
     return {
       slug,
       index,
       title,
       author,
-      cover: coverImageUrl(slug),
+      readingOrder: getReadingOrder(slug),
+      cover:
+        style === 'editorial' && fallbacks.has(slug)
+          ? coverImageUrl(slug)
+          : coverUrlForStyle(slug, style),
       isCurrent: index === currentIndex.value,
       completedCount: stats.completedCount,
       markedListened: stats.markedListened,
       offline,
       offlineBusy,
+      offlineProgress: progress,
+      sizeLabel,
       offlineLabel: offlineBusy
-        ? 'Descargando…'
+        ? progress > 0
+          ? `Descargando… ${progress}%`
+          : 'Descargando…'
         : offline
           ? 'Quitar descarga'
           : 'Descargar',
@@ -74,7 +109,84 @@ const rows = computed(() => {
   })
 })
 
+const downloadedCount = computed(() => cachedSlugs.value.size)
+
+const downloadedTotalLabel = computed(() => {
+  audioBytesBySlug.value
+  cachedSlugs.value
+  let total = 0
+  for (const slug of cachedSlugs.value) {
+    total += audioBytesBySlug.value[slug] ?? 0
+  }
+  return formatBytes(total)
+})
+
+/** Descarga → cola: orden de lectura del catálogo, luego el resto. */
+const downloadedSlugsInOrder = computed(() => {
+  cachedSlugs.value
+  const cached = cachedSlugs.value
+  if (!cached.size) return [] as string[]
+  const catalogOrder = [...bookCatalog]
+    .map((b) => b.slug)
+    .sort((a, b) => {
+      const oa = getReadingOrder(a) ?? Number.MAX_SAFE_INTEGER
+      const ob = getReadingOrder(b) ?? Number.MAX_SAFE_INTEGER
+      return oa - ob
+    })
+  const ordered: string[] = []
+  for (const slug of catalogOrder) {
+    if (cached.has(slug)) ordered.push(slug)
+  }
+  for (const slug of cached) {
+    if (!ordered.includes(slug)) ordered.push(slug)
+  }
+  return ordered
+})
+
+const canShuffle = computed(() => rows.value.length >= 2)
+
 const currentRow = computed(() => rows.value.find((r) => r.isCurrent) ?? null)
+
+/** Fondo del “now”: atmósfera del hero si existe; si no, portada. */
+const nowUseAtmosphere = ref(true)
+const nowAtmosphereOk = ref(false)
+
+const nowBgSrc = computed(() => {
+  const row = currentRow.value
+  if (!row) return ''
+  return nowUseAtmosphere.value ? atmosphereUrl(row.slug) : row.cover
+})
+
+watch(
+  () => currentRow.value?.slug,
+  () => {
+    nowUseAtmosphere.value = true
+    nowAtmosphereOk.value = false
+  },
+)
+
+function onNowBgLoad() {
+  if (nowUseAtmosphere.value) nowAtmosphereOk.value = true
+}
+
+function onNowBgError() {
+  if (nowUseAtmosphere.value) {
+    nowUseAtmosphere.value = false
+    nowAtmosphereOk.value = false
+    return
+  }
+  const slug = currentRow.value?.slug
+  if (slug) onCoverError(slug)
+}
+
+function onCoverError(slug: string) {
+  if (coverStyle.value !== 'editorial') return
+  if (coverFallbackMemorable.value.has(slug)) return
+  const next = new Set(coverFallbackMemorable.value)
+  next.add(slug)
+  coverFallbackMemorable.value = next
+}
+
 /** Resto de la cola en orden cíclico (después del actual, luego lo anterior). */
 const upNextRows = computed(() => {
   const idx = currentIndex.value ?? -1
@@ -104,7 +216,12 @@ function move(index: number, delta: number) {
 
 function toggleMenu(index: number, event: Event) {
   event.stopPropagation()
-  openMenuIndex.value = openMenuIndex.value === index ? null : index
+  const next = openMenuIndex.value === index ? null : index
+  openMenuIndex.value = next
+  if (next != null) {
+    const slug = items.value[next]
+    if (slug) void prefetchSize(slug)
+  }
 }
 
 function closeMenus() {
@@ -118,13 +235,20 @@ function removeRow(index: number, title: string) {
 
 async function onToggleOffline(slug: string) {
   if (offlineBusySlug.value === slug || isOfflineAudioDownloading(slug)) return
-  openMenuIndex.value = null
+  const removing = isOfflineAudioCached(slug)
+  if (removing) openMenuIndex.value = null
   offlineBusySlug.value = slug
   try {
     await toggleOffline(slug)
   } finally {
     offlineBusySlug.value = null
+    if (!removing) openMenuIndex.value = null
   }
+}
+
+function loadDownloadsQueue() {
+  openMenuIndex.value = null
+  seedWithSlugs(downloadedSlugsInOrder.value)
 }
 
 function requestClear() {
@@ -139,6 +263,21 @@ function cancelClear() {
 function confirmClear() {
   confirmClearOpen.value = false
   clear()
+}
+
+function requestShuffle() {
+  openMenuIndex.value = null
+  if (!canShuffle.value) return
+  confirmShuffleOpen.value = true
+}
+
+function cancelShuffle() {
+  confirmShuffleOpen.value = false
+}
+
+function confirmShuffle() {
+  confirmShuffleOpen.value = false
+  shuffleKeepingCurrent()
 }
 
 function onBackdropClick(event: MouseEvent) {
@@ -231,6 +370,42 @@ onBeforeUnmount(() => document.removeEventListener('pointerdown', onDocPointerDo
             <button
               type="button"
               class="audio-queue-sheet__enqueue"
+              :disabled="downloadedCount === 0"
+              :aria-label="
+                downloadedCount > 0
+                  ? `Cargar ${downloadedCount} narraciones descargadas en la cola`
+                  : 'No hay narraciones descargadas'
+              "
+              :title="
+                downloadedCount > 0
+                  ? downloadedTotalLabel
+                    ? `Descargas · ${downloadedTotalLabel}`
+                    : 'Cargar descargas offline'
+                  : 'Sin descargas'
+              "
+              @click="loadDownloadsQueue"
+            >
+              <svg
+                class="audio-queue-sheet__enqueue-icon"
+                viewBox="0 0 24 24"
+                aria-hidden="true"
+                focusable="false"
+              >
+                <path
+                  d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z"
+                  fill="currentColor"
+                />
+              </svg>
+              <span class="audio-queue-sheet__enqueue-copy">
+                <span>Offline</span>
+                <span v-if="downloadedTotalLabel" class="audio-queue-sheet__enqueue-meta">{{
+                  downloadedTotalLabel
+                }}</span>
+              </span>
+            </button>
+            <button
+              type="button"
+              class="audio-queue-sheet__enqueue"
               :disabled="missingAudioCount === 0"
               :aria-label="
                 missingAudioCount > 0
@@ -288,12 +463,24 @@ onBeforeUnmount(() => document.removeEventListener('pointerdown', onDocPointerDo
           </button>
         </header>
 
-        <div v-if="currentRow" class="audio-queue-sheet__now">
+        <div
+          v-if="currentRow"
+          class="audio-queue-sheet__now"
+          :class="{ 'audio-queue-sheet__now--atmosphere': nowAtmosphereOk }"
+        >
           <img
             class="audio-queue-sheet__now-bg"
-            :src="currentRow.cover"
+            :class="
+              nowUseAtmosphere
+                ? 'audio-queue-sheet__now-bg--atmosphere'
+                : 'audio-queue-sheet__now-bg--cover'
+            "
+            :src="nowBgSrc"
             alt=""
+            aria-hidden="true"
             loading="lazy"
+            @load="onNowBgLoad"
+            @error="onNowBgError"
           />
           <div class="audio-queue-sheet__now-body">
             <div class="audio-queue-sheet__now-text">
@@ -305,7 +492,15 @@ onBeforeUnmount(() => document.removeEventListener('pointerdown', onDocPointerDo
                   title="Disponible sin conexión"
                 >Offline</span>
               </div>
-              <div class="audio-queue-sheet__item-meta">{{ currentRow.author }}</div>
+              <div class="audio-queue-sheet__item-meta">
+                <span
+                  v-if="currentRow.readingOrder"
+                  class="audio-queue-sheet__order-chip"
+                  :title="`Libro ${currentRow.readingOrder} en el orden de lectura`"
+                >{{ currentRow.readingOrder }}</span>
+                <span>{{ currentRow.author }}</span>
+                <template v-if="currentRow.sizeLabel"> · {{ currentRow.sizeLabel }}</template>
+              </div>
               <div
                 ref="progressEl"
                 class="audio-queue-sheet__now-progress"
@@ -410,12 +605,36 @@ onBeforeUnmount(() => document.removeEventListener('pointerdown', onDocPointerDo
                   <path d="M10 6 8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z" fill="currentColor" />
                 </svg>
               </button>
+              <button
+                type="button"
+                class="audio-queue-sheet__transport-btn"
+                :disabled="!canShuffle"
+                aria-label="Aleatorizar cola"
+                title="Aleatorizar el resto de la cola"
+                @click="requestShuffle"
+              >
+                <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+                  <path
+                    d="M10.59 9.17 5.41 4 4 5.41l5.17 5.17 1.42-1.41zM14.5 4l2.04 2.04L4 18.59 5.41 20 17.96 7.46 20 9.5V4h-5.5zm.33 9.41-1.41 1.41 3.13 3.13L14.5 20H20v-5.5l-2.04 2.04-3.13-3.13z"
+                    fill="currentColor"
+                  />
+                </svg>
+              </button>
             </div>
           </div>
         </div>
 
         <div v-if="!rows.length" class="audio-queue-sheet__empty">
           <p>No hay narraciones en la cola.</p>
+          <button
+            v-if="downloadedCount > 0"
+            type="button"
+            class="audio-queue-sheet__seed"
+            @click="loadDownloadsQueue"
+          >
+            Cargar descargas offline
+            <template v-if="downloadedTotalLabel"> ({{ downloadedTotalLabel }})</template>
+          </button>
           <button
             type="button"
             class="audio-queue-sheet__seed"
@@ -479,6 +698,7 @@ onBeforeUnmount(() => document.removeEventListener('pointerdown', onDocPointerDo
                       :src="row.cover"
                       alt=""
                       loading="lazy"
+                      @error="onCoverError(row.slug)"
                     />
                     <span class="audio-queue-sheet__play-icon" aria-hidden="true">▶</span>
                   </span>
@@ -492,8 +712,28 @@ onBeforeUnmount(() => document.removeEventListener('pointerdown', onDocPointerDo
                       >Offline</span>
                     </span>
                     <span class="audio-queue-sheet__item-meta">
-                      {{ row.author }}
+                      <span
+                        v-if="row.readingOrder"
+                        class="audio-queue-sheet__order-chip"
+                        :title="`Libro ${row.readingOrder} en el orden de lectura`"
+                      >{{ row.readingOrder }}</span>
+                      <span>{{ row.author }}</span>
+                      <template v-if="row.sizeLabel"> · {{ row.sizeLabel }}</template>
                       <template v-if="row.completedCount > 0"> · ×{{ row.completedCount }}</template>
+                    </span>
+                    <span
+                      v-if="row.offlineBusy"
+                      class="audio-queue-sheet__dl-progress"
+                      role="progressbar"
+                      :aria-valuemin="0"
+                      :aria-valuemax="100"
+                      :aria-valuenow="row.offlineProgress"
+                      :aria-label="`Descarga ${row.offlineProgress}%`"
+                    >
+                      <span
+                        class="audio-queue-sheet__dl-progress-fill"
+                        :style="{ width: `${row.offlineProgress}%` }"
+                      />
                     </span>
                   </span>
                 </button>
@@ -516,13 +756,57 @@ onBeforeUnmount(() => document.removeEventListener('pointerdown', onDocPointerDo
                   >
                     <button
                       type="button"
-                      class="audio-queue-sheet__menu-item"
+                      class="audio-queue-sheet__menu-item audio-queue-sheet__menu-item--offline"
                       role="menuitem"
                       :disabled="row.offlineBusy"
                       :aria-busy="row.offlineBusy"
                       @click="onToggleOffline(row.slug)"
                     >
-                      {{ row.offlineLabel }}
+                      <span class="audio-queue-sheet__menu-item-row">
+                        <svg
+                          v-if="row.offline"
+                          class="audio-queue-sheet__menu-icon"
+                          viewBox="0 0 24 24"
+                          aria-hidden="true"
+                          focusable="false"
+                        >
+                          <path
+                            d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z"
+                            fill="currentColor"
+                          />
+                        </svg>
+                        <svg
+                          v-else
+                          class="audio-queue-sheet__menu-icon"
+                          viewBox="0 0 24 24"
+                          aria-hidden="true"
+                          focusable="false"
+                        >
+                          <path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z" fill="currentColor" />
+                        </svg>
+                        <span class="audio-queue-sheet__menu-item-copy">
+                          <span class="audio-queue-sheet__menu-item-label">{{
+                            row.offlineLabel
+                          }}</span>
+                          <span
+                            v-if="row.sizeLabel"
+                            class="audio-queue-sheet__menu-item-size"
+                          >{{ row.sizeLabel }}</span>
+                        </span>
+                      </span>
+                      <span
+                        v-if="row.offlineBusy"
+                        class="audio-queue-sheet__menu-progress"
+                        role="progressbar"
+                        :aria-valuemin="0"
+                        :aria-valuemax="100"
+                        :aria-valuenow="row.offlineProgress"
+                      >
+                        <span
+                          class="audio-queue-sheet__menu-progress-fill"
+                          :style="{ width: `${row.offlineProgress}%` }"
+                        />
+                      </span>
                     </button>
                     <button
                       type="button"
@@ -530,6 +814,17 @@ onBeforeUnmount(() => document.removeEventListener('pointerdown', onDocPointerDo
                       role="menuitem"
                       @click="removeRow(row.index, row.title)"
                     >
+                      <svg
+                        class="audio-queue-sheet__menu-icon"
+                        viewBox="0 0 24 24"
+                        aria-hidden="true"
+                        focusable="false"
+                      >
+                        <path
+                          d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+                          fill="currentColor"
+                        />
+                      </svg>
                       Quitar de la cola
                     </button>
                   </div>
@@ -573,6 +868,41 @@ onBeforeUnmount(() => document.removeEventListener('pointerdown', onDocPointerDo
             @click="confirmClear"
           >
             Vaciar
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <div
+      v-if="confirmShuffleOpen"
+      class="audio-queue-confirm"
+      role="dialog"
+      aria-modal="true"
+      aria-labelledby="audio-queue-shuffle-title"
+      @click.self="cancelShuffle"
+    >
+      <div class="audio-queue-confirm__card" @click.stop>
+        <h3 id="audio-queue-shuffle-title" class="audio-queue-confirm__title">
+          ¿Aleatorizar la cola?
+        </h3>
+        <p class="audio-queue-confirm__text">
+          Se reorganizará el orden de las pistas siguientes. La que está sonando ahora se
+          mantiene.
+        </p>
+        <div class="audio-queue-confirm__actions">
+          <button
+            type="button"
+            class="audio-queue-confirm__btn audio-queue-confirm__btn--ghost"
+            @click="cancelShuffle"
+          >
+            Cancelar
+          </button>
+          <button
+            type="button"
+            class="audio-queue-confirm__btn"
+            @click="confirmShuffle"
+          >
+            Aleatorizar
           </button>
         </div>
       </div>

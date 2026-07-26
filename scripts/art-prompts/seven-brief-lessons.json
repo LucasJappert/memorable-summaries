@@ -1,0 +1,16 @@
+{
+  "slug": "seven-brief-lessons",
+  "style": "Cinematic 3D illustration style like a prestige animated feature (soft volumetric lighting, rounded forms, rich textures, gentle bloom and glow on celestial light). Deep midnight blues and indigos with warm gold moonlight and teal accents. Whimsical sense of wonder and scale, not photoreal, not flat vector. No text, no typography, no logos, no watermarks, no UI, no book covers. If any living beings appear, use stylized animated-feature character design (expressive, soft, non-photoreal) — never photoreal humans. No purple neon AI-glow cliché.",
+  "atmosphere": {
+    "size": "landscape",
+    "prompt": "Wide atmospheric hero backdrop for Rovelli's Seven Brief Lessons on Physics: seven soft glowing orbs of light (gravity, quantum, cosmos) floating like brief lessons over a quiet dark field, teal and gold bloom. Empty, contemplative. {style}"
+  },
+  "cover": {
+    "size": "portrait",
+    "prompt": "Vertical book-cover art for \"Seven Brief Lessons on Physics\". Central motif: a delicate spiral of seven luminous pearls of light weaving relativity and quantum foam; elegant, memorable, generous negative space. {style}"
+  },
+  "og": {
+    "size": "landscape",
+    "prompt": "Wide social share illustration for Seven Brief Lessons on Physics: panoramic brief sparks of modern physics — curved space and quantum shimmer across navy; cinematic, no people, no text. {style}"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "slug": "our-mathematical-universe",
+  "style": "Cinematic 3D illustration style like a prestige animated feature (soft volumetric lighting, rounded forms, rich textures, gentle bloom and glow on celestial light). Deep midnight blues and indigos with warm gold moonlight and teal accents. Whimsical sense of wonder and scale, not photoreal, not flat vector. No text, no typography, no logos, no watermarks, no UI, no book covers. If any living beings appear, use stylized animated-feature character design (expressive, soft, non-photoreal) — never photoreal humans. No purple neon AI-glow cliché.",
+  "atmosphere": {
+    "size": "landscape",
+    "prompt": "Wide atmospheric hero backdrop for Tegmark's Our Mathematical Universe: glowing geometric lattices and platonic solids dissolving into galaxies across deep navy. Empty of people. {style}"
+  },
+  "cover": {
+    "size": "portrait",
+    "prompt": "Vertical book-cover art for \"Our Mathematical Universe\". Central motif: reality as a luminous mathematical crystal flowering into a cosmos; memorable, generous negative space. {style}"
+  },
+  "og": {
+    "size": "landscape",
+    "prompt": "Wide social share illustration for Our Mathematical Universe: panoramic math-fabric becoming stars and galaxies in teal/gold; cinematic, no people, no text. {style}"
+  }
+}

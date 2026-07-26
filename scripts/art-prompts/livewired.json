@@ -1,0 +1,16 @@
+{
+  "slug": "livewired",
+  "style": "Cinematic 3D illustration style like a prestige animated feature (soft volumetric lighting, rounded forms, rich textures, gentle bloom and glow on celestial light). Deep midnight blues and indigos with warm gold moonlight and teal accents. Whimsical sense of wonder and scale, not photoreal, not flat vector. No text, no typography, no logos, no watermarks, no UI, no book covers. If any living beings appear, use stylized animated-feature character design (expressive, soft, non-photoreal) — never photoreal humans. No purple neon AI-glow cliché.",
+  "atmosphere": {
+    "size": "landscape",
+    "prompt": "Wide atmospheric hero backdrop for Eagleman's Livewired: a living brain as rewiring city of teal pathways constantly rebuilding under gold learning storms. Empty of people. {style}"
+  },
+  "cover": {
+    "size": "portrait",
+    "prompt": "Vertical book-cover art for \"Livewired\". Central motif: a soft brain-city rewiring itself like living circuitry; memorable, generous negative space. {style}"
+  },
+  "og": {
+    "size": "landscape",
+    "prompt": "Wide social share illustration for Livewired: panoramic ever-changing brain as luminous adaptive landscape; cinematic, no people, no text. {style}"
+  }
+}

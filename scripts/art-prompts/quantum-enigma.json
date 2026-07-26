@@ -1,0 +1,16 @@
+{
+  "slug": "quantum-enigma",
+  "style": "Cinematic 3D illustration style like a prestige animated feature (soft volumetric lighting, rounded forms, rich textures, gentle bloom and glow on celestial light). Deep midnight blues and indigos with warm gold moonlight and teal accents. Whimsical sense of wonder and scale, not photoreal, not flat vector. No text, no typography, no logos, no watermarks, no UI, no book covers. If any living beings appear, use stylized animated-feature character design (expressive, soft, non-photoreal) — never photoreal humans. No purple neon AI-glow cliché.",
+  "atmosphere": {
+    "size": "landscape",
+    "prompt": "Wide atmospheric hero backdrop for Quantum Enigma: Physics Encounters Consciousness by Bruce Rosenblum & Fred Kuttner: observer and quantum mystery as a luminous enigma sphere of superposition. Empty of photoreal people, soft UI background. {style}"
+  },
+  "cover": {
+    "size": "portrait",
+    "prompt": "Vertical book-cover art for \"Quantum Enigma: Physics Encounters Consciousness\". Central motif: a glowing quantum enigma — wave and particle in soft paradox light; memorable, generous negative space. {style}"
+  },
+  "og": {
+    "size": "landscape",
+    "prompt": "Wide social share illustration for Quantum Enigma: Physics Encounters Consciousness: panoramic quantum mystery fog with dual light forms; cinematic, no people, no text. {style}"
+  }
+}

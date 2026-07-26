@@ -1,0 +1,16 @@
+{
+  "slug": "sapiens",
+  "style": "Cinematic 3D illustration style like a prestige animated feature (soft volumetric lighting, rounded forms, rich textures, gentle bloom and glow on celestial light). Deep midnight blues and indigos with warm gold moonlight and teal accents. Whimsical sense of wonder and scale, not photoreal, not flat vector. No text, no typography, no logos, no watermarks, no UI, no book covers. If any living beings appear, use stylized animated-feature character design (expressive, soft, non-photoreal) — never photoreal humans. No purple neon AI-glow cliché.",
+  "atmosphere": {
+    "size": "landscape",
+    "prompt": "Wide atmospheric hero backdrop for Harari's Sapiens: a soft timeline from firelit foragers to glowing cities under a navy myth-sky of shared stories as golden constellations. Empty close-up people or tiny stylized silhouettes only. {style}"
+  },
+  "cover": {
+    "size": "portrait",
+    "prompt": "Vertical book-cover art for \"Sapiens\". Central motif: a small ape silhouette walking a bridge of light into a vast imagined civilization; memorable, generous negative space. {style}"
+  },
+  "og": {
+    "size": "landscape",
+    "prompt": "Wide social share illustration for Sapiens: panoramic human journey — foragers to empires as glowing story-networks across navy; cinematic, no text. {style}"
+  }
+}

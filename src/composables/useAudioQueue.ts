@@ -229,6 +229,55 @@ function seedAllWithAudio() {
   if (slugs.length) playerVisible.value = true
 }
 
+/** Reemplaza la cola por una lista concreta (p. ej. solo descargas offline). */
+function seedWithSlugs(slugs: string[]) {
+  hydrate()
+  const unique = [...new Set(slugs.filter(bookHasAudio))]
+  if (!unique.length) {
+    items.value = []
+    currentIndex.value = -1
+    persist()
+    return 0
+  }
+
+  const current = currentSlug.value
+  const keepIdx = current ? unique.indexOf(current) : -1
+  items.value = unique
+  if (keepIdx >= 0) {
+    currentIndex.value = keepIdx
+    if (keepIdx > 0) rotatePrecedingToEnd(keepIdx)
+  } else {
+    currentIndex.value = 0
+  }
+  persist()
+  playerVisible.value = true
+  return unique.length
+}
+
+/**
+ * Mezcla el resto de la cola; la pista actual queda primera (índice 0).
+ */
+function shuffleKeepingCurrent(): boolean {
+  hydrate()
+  const idx = currentIndex.value
+  if (idx < 0 || items.value.length < 2) return false
+
+  const current = items.value[idx]
+  if (!current) return false
+
+  const rest = items.value.filter((_, i) => i !== idx)
+  for (let i = rest.length - 1; i > 0; i -= 1) {
+    const j = Math.floor(Math.random() * (i + 1))
+    const a = rest[i]!
+    rest[i] = rest[j]!
+    rest[j] = a
+  }
+  items.value = [current, ...rest]
+  currentIndex.value = 0
+  persist()
+  return true
+}
+
 function clearUndoTimer() {
   if (undoTimer) {
     clearTimeout(undoTimer)
@@ -655,6 +704,8 @@ export function useAudioQueue() {
     addMany,
     enqueueAllWithAudio,
     seedAllWithAudio,
+    seedWithSlugs,
+    shuffleKeepingCurrent,
     remove,
     removeAt,
     undoRemove,

@@ -1,0 +1,16 @@
+{
+  "slug": "human-compatible",
+  "style": "Cinematic 3D illustration style like a prestige animated feature (soft volumetric lighting, rounded forms, rich textures, gentle bloom and glow on celestial light). Deep midnight blues and indigos with warm gold moonlight and teal accents. Whimsical sense of wonder and scale, not photoreal, not flat vector. No text, no typography, no logos, no watermarks, no UI, no book covers. If any living beings appear, use stylized animated-feature character design (expressive, soft, non-photoreal) — never photoreal humans. No purple neon AI-glow cliché.",
+  "atmosphere": {
+    "size": "landscape",
+    "prompt": "Wide atmospheric hero backdrop for Human Compatible: Artificial Intelligence and the Problem of Control by Stuart Russell: powerful AI as a vast teal force gently constrained by a golden ring of human values. Empty of photoreal people, soft UI background. {style}"
+  },
+  "cover": {
+    "size": "portrait",
+    "prompt": "Vertical book-cover art for \"Human Compatible: Artificial Intelligence and the Problem of Control\". Central motif: human-compatible AI — intelligence aligned inside a protective circle of human flourishing; memorable, generous negative space. {style}"
+  },
+  "og": {
+    "size": "landscape",
+    "prompt": "Wide social share illustration for Human Compatible: Artificial Intelligence and the Problem of Control: panoramic aligned AI power and human-value halo; cinematic, no people, no text. {style}"
+  }
+}

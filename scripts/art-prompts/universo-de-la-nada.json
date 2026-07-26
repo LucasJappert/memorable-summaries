@@ -1,0 +1,16 @@
+{
+  "slug": "universo-de-la-nada",
+  "style": "Cinematic 3D illustration style like a prestige animated feature (soft volumetric lighting, rounded forms, rich textures, gentle bloom and glow on celestial light). Deep midnight blues and indigos with warm gold moonlight and teal accents. Whimsical sense of wonder and scale, not photoreal, not flat vector. No text, no typography, no logos, no watermarks, no UI, no book covers. If any living beings appear, use stylized animated-feature character design (expressive, soft, non-photoreal) — never photoreal humans. No purple neon AI-glow cliché.",
+  "atmosphere": {
+    "size": "landscape",
+    "prompt": "Wide atmospheric hero backdrop for Lawrence Krauss's A Universe from Nothing: empty deep space beginning to shimmer — a soft teal quantum vacuum foam blooming into the first warm sparks of stars and galaxies, sense of something emerging from void. Calm awe, empty of people, soft enough as UI background. {style}"
+  },
+  "cover": {
+    "size": "portrait",
+    "prompt": "Vertical book-cover art for \"Un universo de la nada\" / A Universe from Nothing. Central motif: a dark void cracking open into a luminous newborn cosmos — tiny galaxies and golden light spilling from emptiness; elegant, memorable single hero image with generous negative space. {style}"
+  },
+  "og": {
+    "size": "landscape",
+    "prompt": "Wide social share illustration for a summary of A Universe from Nothing: panoramic void transforming into a glowing cosmic dawn, quantum sparkles to galaxy glow across a deep navy field; cinematic, no people, no text. {style}"
+  }
+}

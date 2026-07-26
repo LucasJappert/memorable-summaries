@@ -23,11 +23,12 @@ Tracker para los 15 libros propuestos (jul 2026). Actualizar chips al avanzar ca
 7. **TypeScript** — `src/data/<slug-corto>.ts` (`md-to-ts.py`)
 8. **Catálogo** — `catalog.ts` + `reading-order.ts` (+ fase si aplica)
 9. **Portada** — `public/covers/<slug>.jpg` (`extract-cover.py`)
-10. **Audio** — `public/audio/<slug>.mp3` + `audio-catalog.ts`
-11. **Build** — `npm run build` OK
-12. **Deploy** — en main / prod con el libro visible
+10. **Arte** — atmósfera + Memorable + OG (`generate-book-art.py`; backup `.editorial.jpg`)
+11. **Audio** — `public/audio/<slug>.mp3` + `audio-catalog.ts`
+12. **Build** — `npm run build` OK
+13. **Deploy** — en main / prod con el libro visible
 
-> Meta: cada libro debería llegar a **Build ✅** (y **Audio ✅** si hay key TTS) antes de marcar **Deploy**.
+> Meta: cada libro debería llegar a **Build ✅** (y **Audio ✅** / **Arte ✅** si hay key) antes de marcar **Deploy**.
 
 ---
 

@@ -1,0 +1,16 @@
+{
+  "slug": "godel-escher-bach",
+  "style": "Cinematic 3D illustration style like a prestige animated feature (soft volumetric lighting, rounded forms, rich textures, gentle bloom and glow on celestial light). Deep midnight blues and indigos with warm gold moonlight and teal accents. Whimsical sense of wonder and scale, not photoreal, not flat vector. No text, no typography, no logos, no watermarks, no UI, no book covers. If any living beings appear, use stylized animated-feature character design (expressive, soft, non-photoreal) — never photoreal humans. No purple neon AI-glow cliché.",
+  "atmosphere": {
+    "size": "landscape",
+    "prompt": "Wide atmospheric hero backdrop for GEB: looping Escher-like stairs of light, musical canons as golden ribbons, and self-reflected Gödel glyphs as abstract glow (no readable text). Empty of people. {style}"
+  },
+  "cover": {
+    "size": "portrait",
+    "prompt": "Vertical book-cover art for \"Gödel, Escher, Bach\". Central motif: an eternal golden braid of strange loops forming a luminous self; memorable, generous negative space. {style}"
+  },
+  "og": {
+    "size": "landscape",
+    "prompt": "Wide social share illustration for Gödel Escher Bach: panoramic strange loops of math, art, and music as interlocking teal/gold light; cinematic, no people, no text. {style}"
+  }
+}

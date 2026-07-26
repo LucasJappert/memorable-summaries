@@ -80,10 +80,22 @@ Usuario: "Generame el html del libro Sapiens"
 [8] INTEGRAR en src/books/catalog.ts (si es libro nuevo)
         │
         ▼
-[9] npm run build  (obligatorio, debe pasar)
+[9] PORTADA editorial — python3 scripts/extract-cover.py <slug>
+    │   → public/covers/<slug>.jpg
         │
         ▼
-[10] (Opcional) legacy/resumen-<slug>.html  ← solo si lo pidió
+[10] ARTE Memorable — docs/prompts/04-arte-visual.md
+    │   scripts/art-prompts/<slug>.json + python3 scripts/generate-book-art.py <slug>
+    │   → atmosphere + og + portada Memorable (backup .editorial.jpg)
+        │
+        ▼
+[11] AUDIO (si hay key TTS) — md-to-narration.py --tts --mp3
+        │
+        ▼
+[12] npm run build  (obligatorio, debe pasar)
+        │
+        ▼
+[13] (Opcional) legacy/resumen-<slug>.html  ← solo si lo pidió
 ```
 
 **No saltees pasos.** No mezcles extracción y maquetado en un solo archivo de salida.
@@ -241,6 +253,20 @@ Debe terminar sin errores. Si falla, corregir tipos antes de reportar éxito.
 
 ---
 
+## Paso Arte — Atmósfera, portada Memorable y OG
+
+**Leer:** `docs/prompts/04-arte-visual.md`
+
+Después de la portada editorial (`extract-cover.py`) y con `LUCAS_AI_API_KEY` disponible:
+
+1. Crear `scripts/art-prompts/<slug>.json` (estilo de serie + prompts del libro)
+2. `python3 scripts/generate-book-art.py <slug>`
+3. Salidas: `public/art/<slug>/atmosphere.jpg`, `public/art/<slug>/og.jpg`, Memorable en `public/covers/<slug>.jpg`, backup `public/covers/<slug>.editorial.jpg`
+
+Si falta la API key: pedir `.env` (como TTS). No inventar imágenes ni saltar el paso en libros nuevos cuando la key esté disponible.
+
+---
+
 ## Paso E — HTML standalone (solo bajo demanda)
 
 Generar `legacy/resumen-<slug>.html` **únicamente** si el usuario pidió html standalone.
@@ -261,7 +287,8 @@ Referencia de estilos y estructura:
 |-----|-------|
 | Overview del pipeline | `docs/PIPELINE.md` |
 | Prompt paso 1 | `docs/prompts/01-resumen-desde-libro.md` |
-| Prompt paso 2 | `docs/prompts/02-vista-desde-resumen.md` |
+| Prompt TTS | `docs/prompts/03-audio-desde-resumen.md` |
+| Arte visual | `docs/prompts/04-arte-visual.md` + `scripts/generate-book-art.py` |
 | Plantilla MD | `docs/templates/resumen-libro.template.md` |
 | Tipos | `src/types/book.ts` |
 | Ejemplo TS completo | `src/data/universo-nada.ts` |
@@ -269,6 +296,7 @@ Referencia de estilos y estructura:
 | Estilos | `src/assets/styles.css` |
 | Componentes Vue | `src/components/` |
 | **Extractor epub** | `scripts/extract-epub.py` → `.extracted/<slug>.txt` |
+| **Extractor portada** | `scripts/extract-cover.py` → `public/covers/<slug>.jpg` |
 
 ---
 

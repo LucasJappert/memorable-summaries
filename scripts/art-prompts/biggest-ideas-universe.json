@@ -1,0 +1,16 @@
+{
+  "slug": "biggest-ideas-universe",
+  "style": "Cinematic 3D illustration style like a prestige animated feature (soft volumetric lighting, rounded forms, rich textures, gentle bloom and glow on celestial light). Deep midnight blues and indigos with warm gold moonlight and teal accents. Whimsical sense of wonder and scale, not photoreal, not flat vector. No text, no typography, no logos, no watermarks, no UI, no book covers. If any living beings appear, use stylized animated-feature character design (expressive, soft, non-photoreal) — never photoreal humans. No purple neon AI-glow cliché.",
+  "atmosphere": {
+    "size": "landscape",
+    "prompt": "Wide atmospheric hero backdrop for Sean Carroll's Biggest Ideas in the Universe: elegant glowing spacetime grid gently curved by motion, soft teal geodesics and warm gold energy flowing through dark navy space. Empty of people, calm physics wonder, soft UI background. {style}"
+  },
+  "cover": {
+    "size": "portrait",
+    "prompt": "Vertical book-cover art for \"The Biggest Ideas in the Universe\". Central motif: a luminous curved spacetime fabric with orbits of light and a single glowing equation-like ribbon of motion (abstract, no readable symbols); memorable, generous negative space. {style}"
+  },
+  "og": {
+    "size": "landscape",
+    "prompt": "Wide social share illustration for Biggest Ideas in the Universe: panoramic space-time-motion — warped glowing grid, soft gold particle trails across deep indigo; cinematic, no people, no text. {style}"
+  }
+}

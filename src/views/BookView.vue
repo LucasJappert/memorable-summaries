@@ -16,7 +16,7 @@ import { usePageMeta } from "../composables/usePageMeta";
 import { useReadingPosition } from "../composables/useReadingPosition";
 import { registerBookBottomBar, unregisterBookBottomBar } from "../composables/useAppBottomBar";
 import ReadCelebration from "../components/ReadCelebration.vue";
-import { absoluteUrl, bookOgImageUrl } from "../config/site";
+import { absoluteUrl, bookOgImageUrl, BOOK_OG_IMAGE_WIDTH, BOOK_OG_IMAGE_HEIGHT } from "../config/site";
 import { bookCanonicalPath, formatBookDescription, formatBookDisplayTitle, formatBookPageTitle } from "../utils/seo";
 import ReadCompletionPanel from "../components/ReadCompletionPanel.vue";
 
@@ -41,6 +41,8 @@ usePageMeta(
             canonicalPath: bookCanonicalPath(current.slug),
             ogType: "article" as const,
             ogImage: bookOgImageUrl(current.slug),
+            ogImageWidth: BOOK_OG_IMAGE_WIDTH,
+            ogImageHeight: BOOK_OG_IMAGE_HEIGHT,
             jsonLd: {
                 "@context": "https://schema.org",
                 "@type": "Book",

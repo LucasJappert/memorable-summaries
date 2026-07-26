@@ -1,0 +1,307 @@
+La realidad no es lo que parece, de Carlo Rovelli.
+
+La idea central
+
+La realidad no es el continuo espacio-tiempo de la intuición clásica sino una red de eventos granulares generada por campos cuánticos.
+
+Espacio, tiempo, materia e información emergen de interacciones probabilísticas, no de un escenario fijo.
+
+La síntesis coherente de relatividad general y cuántica exige repensar el mundo desde la gravedad cuántica
+
+Mileto, Demócrito, Einstein y Bohr convergen: lo divisible tiene límites y lo conocido siempre deja margen al misterio.
+
+La ciencia no promete certezas eternas; promete las mejores respuestas abiertas a corrección.
+
+El panorama es extraño, hermoso y aún incompleto: la aventura continúa más allá del horizonte.
+
+Prefacio. Caminando junto a la orilla
+
+¿De qué trata este libro y qué imagen del mundo propone la gravedad cuántica? Rovelli responde como si caminara con un colega junto a la orilla, en una tarde de verano.
+
+La física abre una ventana más allá del antropocentrismo. Hemos aprendido que la Tierra no es plana, que el universo es vasto y que la materia tiene estructura profunda. Hoy vemos casi hasta el Big Bang, hace unos 14 mil millones de años, pero ya entrevemos algo más allá.
+
+Lo aprendido en el siglo XX apunta a algo distinto de la escuela. La realidad es una red de eventos granulares (sucesos mínimos e indivisibles en la descripción cuántica). En ella, espacio y tiempo no existen como fondos independientes. Los campos cuánticos intercambian información entre eventos y generan una red dinámica y probabilística.
+
+Rovelli usa la caverna de Platón: sombras versus luz del Sol. La ciencia no da certezas absolutas en la frontera de la gravedad cuántica. Es aventura hacia lo desconocido, pero la física establecida del siglo XX es mayormente consensuada.
+
+Cita: Reality is a network of granular events.
+
+Cita: — Carlo Rovelli
+
+Idea clave: La realidad elemental no es el continuo espacio-tiempo de la intuición, sino una red de eventos cuánticos donde espacio y tiempo emergen de las interacciones.
+
+Para entender por qué espacio y tiempo pueden ser granulares hay que recuperar la primera gran intuición científica: el atomismo de Mileto y Abdera.
+
+Capítulo uno. Granos
+
+¿De dónde viene la idea de que la realidad está hecha de granos indivisibles y por qué sigue siendo central hoy?
+
+En ~450 a.C., según la tradición, Leucipo huyó de Mileto hacia Abdera y fundó allí la escuela atomista. Junto con Demócrito concibió un universo de átomos en el vacío: indivisibles, sin color ni sabor. Por convención dulce, por convención amargo… pero en verdad átomos y vacío.
+
+Demócrito argumentó contra el continuo, porque puntos sin extensión no componen extensión. Zenón había señalado la paradoja de Aquiles y la tortuga. Leucipo respondió que nada arbitrariamente pequeño existe: la materia tiene límite de división. Hoy sabemos que al dividir agua llegamos a una molécula y paramos.
+
+En 1897, Ernst Mach declaró en Viena: ¡No creo que existan los átomos!. En 1905, Albert Einstein demostró su existencia con el movimiento browniano. Las fluctuaciones en granos de polen revelaron moléculas finitas en número y tamaño. Lucrecio, redescubierto por Poggio en 1417, había anticipado esa prueba viva con los motes en un rayo de sol.
+
+Idea clave: Lo continuo es contradictorio. La materia, y por extensión lógica el espacio, tiene estructura granular que la física moderna confirma desde Demócrito hasta la longitud de Planck.
+
+El atomismo necesitó la tradición clásica y las matemáticas para convertirse en física moderna.
+
+Capítulo dos. Los clásicos
+
+¿Cómo pasamos del cosmos aristotélico al mundo newtoniano de partículas y fuerzas, y qué cambio conceptual abrió la puerta al siglo XX?
+
+La física de Aristóteles no es mala: describe bien cuerpos en fluidos con gravedad y fricción. Pero Platón comprendió que las matemáticas son el lenguaje del cosmos. Pidió las leyes de los planetas, y Ptolomeo las calculó con precisión en el Almagest.
+
+Copérnico puso el Sol en el centro. Kepler, en 1600, mejoró las predicciones. Galileo midió la caída libre y encontró aceleración constante, unos 9,8 m/s² para todos los cuerpos. Isaac Newton unificó cielo y tierra con la luna pequeña: la misma gravedad rige órbita y caída.
+
+En el siglo XIX, Michael Faraday introdujo líneas de fuerza. James Clerk Maxwell las formalizó en el campo (entidad real que llena el espacio y transmite fuerzas). Maxwell predijo que la luz es una onda electromagnética y, antes de Hertz y Marconi, las ondas de radio. Newton ya dudaba de la acción a distancia, y el campo respondió a esa inquietud.
+
+Idea clave: La física moderna nace al combinar atomismo renacentista con matemáticas pitagóricas: partículas más campos en el espacio, preparando la fusión espacio-campo de Einstein.
+
+El campo electromagnético y la velocidad de la luz chocan con la mecánica newtoniana: entra Einstein.
+
+Capítulo tres. Albert
+
+¿Qué modifican la relatividad especial y general en nuestra imagen de espacio, tiempo y gravitación?
+
+En 1905, Einstein resolvió el conflicto entre Maxwell y Newton. Descubrió el presente extendido: entre pasado y futuro hay una zona intermedia. No existe simultaneidad absoluta. En Marte, un cuarto de hora de eventos no es ni pasado ni futuro para nosotros. De ahí salió E = mc² (masa y energía son facetas de una misma entidad).
+
+En 1915, la relatividad general (gravedad como curvatura del espacio-tiempo) unificó espacio y campo gravitatorio. El espacio no es un contenedor vacío: es el propio campo, un molusco que se curva. Mercurio precesa +0,43″/año más que en Newton. La luz se desvía (1919). El tiempo dilata cerca de masas. Existen agujeros negros y ondas gravitacionales (LIGO, 2015–2016).
+
+Einstein propuso un universo finito sin frontera: una 3-esfera (espacio tridimensional que, como la superficie terrestre, es finito pero sin borde). Dante, en el Paradiso, describió esferas que se encierran mutuamente. Einstein añadió Λ por error buscando un cosmos estático. Lemaître mostró después que la expansión era real.
+
+Cita: The most beautiful of theories.
+
+Cita: — Lev Landau (sobre la relatividad general)
+
+Idea clave: Einstein revoluciona la ontología al mostrar que el espacio-tiempo no es escenario absoluto sino campo gravitatorio dinámico y relacional.
+
+La mecánica cuántica es el otro pilar del siglo XX: igualmente exitosa, pero conceptualmente opaca y aparentemente incompatible.
+
+Capítulo cuatro. Quanta
+
+¿Qué nos dice la mecánica cuántica sobre la estructura del mundo más allá de sus ecuaciones?
+
+En 1900, Max Planck repartió la energía en cuantos. La fórmula E = hν (h es la constante de Planck, que fija la escala cuántica) abrió la vía cuántica. En 1905, Einstein mostró que los fotones son reales al explicar el efecto fotoeléctrico. Importa la frecuencia, no la intensidad, como granizo que abolla un auto.
+
+Niels Bohr propuso saltos cuánticos en átomos. Werner Heisenberg, en 1925, fue más radical: el electrón existe al interactuar, no entre colisiones. Paul Dirac formalizó espectros y probabilidades. La tabla periódica de Mendeleev sale de una sola ecuación.
+
+Dirac unificó partículas y campos, de modo que los fotones son cuantos del electromagnetismo y los electrones, cuantos de sus campos. El modelo estándar (~15 campos, Higgs confirmado en 2013) describe casi todo salvo gravedad. La mecánica cuántica enseña tres lecciones: granularidad (h), indeterminación y relationalidad. Feynman sumó sobre todas las trayectorias posibles.
+
+Einstein aceptó la coherencia pero rechazó la relationalidad, porque quería realidad objetiva independiente. Bohr debatió con él la caja de luz hasta el final. Feynman confesó que Nadie entiende realmente la mecánica cuántica. Rovelli defiende la interpretación relacional (van Fraassen, Bitbol, Dorato).
+
+Idea clave: La mecánica cuántica revela granularidad, indeterminación y relationalidad: las cosas no tienen propiedades definidas sino que existen en interacciones.
+
+Relatividad general y cuántica funcionan por separado pero se contradicen cuando espacio y curvatura deben ser granulares.
+
+Capítulo cinco. El espacio-tiempo es cuántico
+
+¿Por qué necesitamos gravedad cuántica y qué nos dice sobre los límites del espacio y el tiempo?
+
+Por la mañana el estudiante aprende espacio-tiempo curvo y continuo. Por la tarde, espacio plano con quanta discretos. Ambas teorías funcionan, pero no pueden ser exactas a la vez en su forma actual. En agujeros negros y en el Big Bang necesitamos una teoría que una ambas.
+
+Matvei Bronštejn (~1930) mostró que localizar una partícula en región microscópica concentra energía, curva el espacio y crea un mini agujero negro. No podemos medir regiones arbitrariamente pequeñas. La longitud de Planck (escala mínima ~10⁻³³ cm) combina G, c y h en LP. Bronštejn fue ejecutado el 18 feb. 1938.
+
+John Wheeler imaginó el espacio como espuma de geometrías. Junto con Bryce DeWitt, en 1966, obtuvo la ecuación Wheeler-DeWitt: sin variable temporal. A fines de los 1980, soluciones de lazos (Smolin, Jacobson) abrieron la gravedad cuántica de bucles (LQG: unir relatividad general y cuántica sin dimensiones extra).
+
+Idea clave: Gravedad cuántica es necesaria porque juntas, relatividad general y cuántica implican una longitud mínima más allá de la cual el continuo clásico colapsa.
+
+Si el espacio es un campo cuántico, sus quanta deben tener estructura concreta: redes de espín y átomos de espacio.
+
+Capítulo seis. Quanta de espacio
+
+¿Cómo se ve el espacio a escala de Planck y qué significan los átomos de espacio?
+
+Las soluciones de lazos de la ecuación Wheeler-DeWitt son líneas cerradas del campo gravitatorio cuántico: Faraday cuantizado. Los nodos tienen volumen. Los enlaces tienen área. Los espectros de volumen y área son discretos (mediados 1990): A = 8π LP² √(j(j+1)).
+
+Una red de espín (spin network: grafo con volumen vn en nodos y spin j en enlaces) representa un estado cuántico del espacio. Medir el volumen de una habitación equivale a contar granos (~10² dígitos). En una página hay ~10⁷⁰ quanta de área.
+
+Los fotones existen en el espacio, mientras que los quanta de gravedad constituyen el espacio. Solo saben con qué otros granos son adyacentes. La curvatura se mide transportando flechas en lazos cerrados. El espacio es una nube probabilística de redes, no una red fija.
+
+Idea clave: En LQG el espacio físico es una red granular de quanta de volumen y área: no está en el espacio, es la red de adyacencia entre granos de gravedad.
+
+Si el espacio es relacional y granular, el tiempo también debe repensarse — y puede no existir a nivel fundamental.
+
+Capítulo siete. El tiempo no existe
+
+¿Qué pasa con el tiempo cuando espacio y gravedad son cuánticos, y cómo se calculan procesos sin t?
+
+Lucrecio ya advertía que el tiempo no es separable del movimiento. La ecuación Wheeler-DeWitt no contiene t. Espacio y tiempo emergen del campo gravitatorio cuántico. Galileo midió el péndulo con su pulso: nunca medimos tiempo solo, sino correlaciones A(B), B(C).
+
+Newton admitió que t es suposición útil, no observable directo. A escala de Planck no hay orden global de instantes: hay cambio ubiquo, pero sin director de orquesta. El tiempo macroscópico probablemente surge de promedios térmicos (tiempo térmico: flecha ligada a disipación y calor).
+
+Al calcular procesos, incluimos un trozo de espacio-tiempo en el propio proceso, como el sushi enrollado en sí mismo. Sumamos sobre spinfoams (espumas de espín: historias de redes de espín). El mundo son campos cuánticos covariantes sobre sí mismos, sin contenedor externo. Kant acertó en lo relacional, pero erró al tomar el espacio-tiempo newtoniano como a priori.
+
+Idea clave: A escala fundamental no hay variable temporal ni espacio contenedor: el tiempo emerge de relaciones entre procesos y, macroscópicamente, de promedios térmicos.
+
+Con marco teórico en mano, Part Four explora consecuencias cosmológicas: ¿qué hubo antes del Big Bang?
+
+Capítulo ocho. Más allá del Big Bang
+
+¿Qué ocurrió en el origen del universo y puede haber existido algo antes del Big Bang?
+
+Georges Lemaître, en 1927, predijo la expansión antes que Hubble. Einstein desestimó la idea con Cálculos correctos, física abominable. Lemaître disuadió al Papa Pio XII (22 nov. 1951) de identificar Big Bang con Génesis: ciencia y religión no deben mezclarse.
+
+Hoy el modelo cosmológico estándar está confirmado (Planck, CMB de Penzias y Wilson en 1964). A escala de Planck, las ecuaciones de Einstein dejan de valer. Como un electrón que no cae al núcleo por repulsión cuántica, un universo en contracción puede rebotar. Ese rebote es el Big Bounce (rebote cuántico del cosmos contraído).
+
+En el rebote, espacio-tiempo se disuelve en nube probabilística (cálculos con spinfoams, Francesca Vidotto). Universo es ambiguo: todo lo que hay versus nuestro continuum observable. Puede haber otro régimen pre-Big-Bang, no un antes clásico.
+
+Idea clave: El Big Bang clásico (singularidad infinita) cede ante un Big Bounce cuántico: el pasado pre-Big-Bang puede ser otro régimen espacio-temporal, no un antes clásico.
+
+¿Cómo sabremos si esta imagen es correcta? Hace falta distinguir pistas de evidencia fuerte y buscar señales observables.
+
+Capítulo nueve. ¿Confirmaciones empíricas?
+
+¿Cómo se prueba (o se desmiente) la gravedad cuántica y qué nos dicen los experimentos recientes?
+
+La ciencia avanza con predicciones verificables: Lemaître tenía razón y Einstein reconoció su error. También avanza sin datos nuevos, cuando Copérnico, Newton y Einstein sintetizaron teorías previas. Los datos experimentales de LQG son GR más QM.
+
+De 2013 a 2016 llegaron tres resultados sin sorpresas: Higgs (CERN), Planck y ondas gravitacionales (LIGO). Confirmaron modelo estándar y cosmología Λ, pero no la supersimetría esperada por cuerdas. Rovelli critica teorizar imaginemos que… sin anclaje empírico.
+
+Ashtekar, Agullo y Nelson (2013) calcularon que el bounce podría modificar fluctuaciones CMB a gran angular, aunque el resultado sigue inconcluso. Futuro LISA podría detectar fondo gravitacional primordial. Hay que distinguir pistas de evidencia fuerte.
+
+Idea clave: La gravedad cuántica aún no pasó exámenes decisivos, pero Higgs, Planck, LIGO y la ausencia de supersimetría en el LHC favorecen combinar GR, QM y modelo estándar.
+
+Otro laboratorio natural de gravedad cuántica: los agujeros negros y su termodinámica.
+
+Capítulo diez. Agujeros negros cuánticos
+
+¿Qué aporta la gravedad cuántica a la física de los agujeros negros y cómo podría testearse?
+
+Los agujeros negros presentan un horizonte, una frontera temporal unidireccional. Cerca del horizonte el tiempo se ralentiza extremadamente. En él, se detiene. Stephen Hawking, en los años 1970, predijo que emiten calor y evaporan.
+
+LQG explica el calor: los quanta de área en la superficie vibran. Eugenio Bianchi derivó la fórmula de Hawking desde las ecuaciones de bucles. El interior clásico tiene singularidad infinita. Con cuántica, hay rebote por presión de Planck.
+
+Visto desde fuera, el bounce puede tardar mil millones de años: el agujero negro es un atajo al futuro lejano y podría explotar. Los FRB (Fast Radio Bursts) son señal especulativa. Un agujero galáctico tiene ~10⁶ masas solares.
+
+Idea clave: Los agujeros negros confirman GR a escala macroscópica, pero su calor y su interior exigen cuántica: LQG reemplaza la singularidad por un rebote posiblemente observable.
+
+El mismo mecanismo que elimina singularidades cosmológicas y en agujeros negros elimina los infinitos patológicos de la física teórica.
+
+Capítulo 11. El fin del infinito
+
+¿Por qué desaparecen los infinitos de la física y qué límites naturales fija la teoría?
+
+GR sin QM predice singularidades. QFT sin gravedad produce divergencias al sumar sobre puntos infinitos del continuo. La granularidad cura ambos. La teoría fija tres límites naturales. c marca la velocidad máxima (SR). ℏ fija la información mínima (QM). LP marca la longitud mínima (QG).
+
+El cosmos medido es > ~100 mil millones de años luz, pero finito (3-esfera). Entre LP y la escala cosmológica hay ~60 órdenes de magnitud de complejidad. Arquimedes, en el Psammites, contó granos de arena del universo para mostrar que son finitos, no infinitos.
+
+Según el Eclesiástico, ¿Quién puede numerar la arena del mar? Arquimedes respondió con rebeldía racional. Lo infinito invocado como misterio opaco no es necesario. Lo único verdaderamente infinito es nuestra ignorancia.
+
+c. Velocidad máxima (relatividad especial)
+
+ℏ. Acción/información mínima (mecánica cuántica)
+
+LP. Longitud mínima (gravedad cuántica)
+
+Idea clave: La gravedad cuántica pone límites fundamentales a lo infinito: singularidades de Einstein y divergencias de QFT desaparecen porque el espacio no es infinitamente divisible.
+
+Si información está acotada y el tiempo no es fundamental, ¿cómo encaja la termodinámica en el cuadro?
+
+Capítulo 12. Información
+
+¿Qué papel juega la información en la física fundamental y cómo puede reemergir el tiempo sin contradecir su ausencia básica?
+
+Claude Shannon, en 1948, definió información como log₂ de alternativas (bit). Las correlaciones físicas incluyen bolas blanco/negro enlazadas o un teléfono. Demócrito ya sabía que importa el orden de los átomos, no solo los átomos.
+
+Ludwig Boltzmann formuló que la entropía S = k log W mide información faltante. No crece gratis, porque el té no se recalienta solo. Se suicidó en Duino, y su tumba lleva la fórmula. Wheeler dijo It from bit. Bekenstein ligó entropía de agujeros negros al área. Al evaporar, queda el problema de la información perdida.
+
+El tiempo térmico propone que la flecha del tiempo surge de promedios sobre muchos grados de libertad. Time is our ignorance. La realidad es red de correlaciones, no objetos discretos. Demócrito decía que El hombre es lo que todos conocemos: una red social de interacciones (Luria).
+
+Idea clave: Comprender el mundo exige tratar la información como ingrediente ontológico junto con GR y QM: entropía, finitud cuántica y tiempo macroscópico emergen del manejo incompleto de información microscópica.
+
+Capítulo 13. Misterio
+
+¿Qué grado de certeza tenemos sobre esta imagen del mundo y cómo convivir con lo desconocido?
+
+En el Fedón, Sócrates dice que la Tierra es esférica… No estoy seguro. La ciencia no ofrece certezas absolutas sino las mejores respuestas provisionales. Su fiabilidad viene de la apertura a corrección: Einstein corrigió a Newton.
+
+La ciencia desconfía de quien posee La Verdad, y por eso choca a veces con la religión. Demócrito sostenía que La verdad está en las profundidades. Aceptar incertidumbre puede asustar. Algunos prefieren certezas reconfortantes aunque infundadas.
+
+Rovelli cierra con Pavese: mundo de campos cuánticos interactuando, sin infinito, sin espacio-tiempo absoluto, describible con ecuaciones quizá por corregir. Invita a jóvenes lectores a explorar más allá del horizonte.
+
+Cita: The truth is in the depths.
+
+Cita: — Demócrito
+
+Idea clave: La ciencia no da certezas absolutas. La conciencia de la ignorancia, no la fe en respuestas definitivas, hace fiable el conocimiento y mantiene viva la aventura.
+
+Conceptos clave
+
+Grano / granularidad. Desde átomos democriteos hasta quanta de espacio; límite a la divisibilidad (h, LP).
+
+Campo. Entidad real que llena el espacio (Faraday-Maxwell); espacio = campo gravitatorio (Einstein).
+
+Espacio-tiempo. Unificado en relatividad; dinámico, curvo y eventualmente emergente/discreto.
+
+Evento / interacción. Unidad ontológica en QM y LQG; propiedades existen al interactuar.
+
+Red de espín / spinfoam. Estado cuántico del espacio (nodos, enlaces) e historia de ese estado.
+
+Longitud de Planck. Escala ~10⁻³³ cm donde GR+QM implican espacio-tiempo cuántico.
+
+Información. Alternativas finitas (Shannon); entropía = información faltante (Boltzmann).
+
+Tiempo térmico. Emergencia macroscópica del tiempo desde promedios e irreversibilidad.
+
+Singularidad / divergencia. Patologías del continuo clásico curadas por granularidad.
+
+Interpretación relacional. QM describe cómo sistemas se manifiestan unos a otros, no estados absolutos.
+
+Cronología de los descubrimientos
+
+Año ~VI–V a.C.. Mileto, atomismo, paradojas de Zenón
+
+Año 450 a.C.. Leucipo → Abdera; 494 a.C. destrucción de Mileto
+
+Año 1417. Poggio redescubre a Lucrecio
+
+Año 1600. Kepler; Galileo mide caída ~9,8 m/s²
+
+Año 1900. Planck; 1905: Einstein (átomos, relatividad especial, fotones)
+
+Año 1915. Relatividad general; 1917: cosmología Einstein (3-esfera)
+
+Año 1919. Eclipse confirma curvatura de la luz
+
+Año 1925–1927. Heisenberg, Dirac; Lemaître predice expansión
+
+Año 1930s. Bronštejn y longitud mínima; 18 feb. 1938: ejecución de Bronštejn
+
+Año 1964. CMB (Penzias & Wilson); 1966: ecuación Wheeler-DeWitt
+
+Año 2012. Rovelli concibe estructura del libro en viaje Italia-Francia
+
+Año 2013. Higgs; datos Planck; centenario modelo de Bohr
+
+Año 2015–2016. Ondas gravitacionales (LIGO)
+
+Año ~14 mil millones de años. Big Bang / posible Big Bounce
+
+Figuras clave
+
+Leucipo / Demócrito, Atomismo: átomos y vacío, sin finalismo
+
+Lucrecio, *De rerum natura*: salva el espíritu atomista para el Renacimiento
+
+Platón / Aristóteles, Matemáticas del cosmos; física cualitativa válida
+
+Galileo / Newton, Ley de caída; gravedad universal unifica cielo y tierra
+
+Faraday / Maxwell, Campo electromagnético; la luz es onda del campo
+
+Albert Einstein, Relatividad; espacio = campo gravitatorio; E = mc²
+
+Planck / Bohr / Heisenberg / Dirac, Mecánica cuántica: quanta, saltos, matrices, probabilidad
+
+Matvei Bronštejn, Primero en ver longitud mínima; ejecutado en 1938
+
+John Wheeler / Bryce DeWitt, Espuma cuántica; ecuación sin tiempo
+
+Georges Lemaître, Big Bang; disuade al Papa de mezclar ciencia y fe
+
+Stephen Hawking / Eugenio Bianchi, Radiación de agujeros negros; derivación desde LQG
+
+Claude Shannon / Ludwig Boltzmann, Información y entropía como claves unificadoras
+
+Carlo Rovelli, Gravedad cuántica de bucles; interpretación relacional

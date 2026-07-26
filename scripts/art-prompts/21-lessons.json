@@ -1,0 +1,16 @@
+{
+  "slug": "21-lessons",
+  "style": "Cinematic 3D illustration style like a prestige animated feature (soft volumetric lighting, rounded forms, rich textures, gentle bloom and glow on celestial light). Deep midnight blues and indigos with warm gold moonlight and teal accents. Whimsical sense of wonder and scale, not photoreal, not flat vector. No text, no typography, no logos, no watermarks, no UI, no book covers. If any living beings appear, use stylized animated-feature character design (expressive, soft, non-photoreal) — never photoreal humans. No purple neon AI-glow cliché.",
+  "atmosphere": {
+    "size": "landscape",
+    "prompt": "Wide atmospheric hero backdrop for Harari's 21 Lessons: a stormy present of glowing screens, fake-news fog, and fragile teal beacons of meaning in deep indigo. Empty of people. {style}"
+  },
+  "cover": {
+    "size": "portrait",
+    "prompt": "Vertical book-cover art for \"21 Lessons for the 21st Century\". Central motif: twenty-one soft sparks of challenge orbiting a calm human-scale lantern of clarity; memorable, generous negative space. {style}"
+  },
+  "og": {
+    "size": "landscape",
+    "prompt": "Wide social share illustration for 21 Lessons: panoramic present-tense chaos and soft lessons as lights in a navy storm; cinematic, no people, no text. {style}"
+  }
+}

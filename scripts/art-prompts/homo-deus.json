@@ -1,0 +1,16 @@
+{
+  "slug": "homo-deus",
+  "style": "Cinematic 3D illustration style like a prestige animated feature (soft volumetric lighting, rounded forms, rich textures, gentle bloom and glow on celestial light). Deep midnight blues and indigos with warm gold moonlight and teal accents. Whimsical sense of wonder and scale, not photoreal, not flat vector. No text, no typography, no logos, no watermarks, no UI, no book covers. If any living beings appear, use stylized animated-feature character design (expressive, soft, non-photoreal) — never photoreal humans. No purple neon AI-glow cliché.",
+  "atmosphere": {
+    "size": "landscape",
+    "prompt": "Wide atmospheric hero backdrop for Harari's Homo Deus: a dawn city of biotech and data temples rising toward a golden godlike human outline of light. Soft, empty of photoreal people. {style}"
+  },
+  "cover": {
+    "size": "portrait",
+    "prompt": "Vertical book-cover art for \"Homo Deus\". Central motif: a luminous upgraded human silhouette woven from data streams and immortality gold; memorable, generous negative space. {style}"
+  },
+  "og": {
+    "size": "landscape",
+    "prompt": "Wide social share illustration for Homo Deus: panoramic tomorrow of data-religion and biotech glow over navy; cinematic, no people, no text. {style}"
+  }
+}

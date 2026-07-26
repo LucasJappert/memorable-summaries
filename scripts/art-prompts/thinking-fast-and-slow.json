@@ -1,0 +1,16 @@
+{
+  "slug": "thinking-fast-and-slow",
+  "style": "Cinematic 3D illustration style like a prestige animated feature (soft volumetric lighting, rounded forms, rich textures, gentle bloom and glow on celestial light). Deep midnight blues and indigos with warm gold moonlight and teal accents. Whimsical sense of wonder and scale, not photoreal, not flat vector. No text, no typography, no logos, no watermarks, no UI, no book covers. If any living beings appear, use stylized animated-feature character design (expressive, soft, non-photoreal) — never photoreal humans. No purple neon AI-glow cliché.",
+  "atmosphere": {
+    "size": "landscape",
+    "prompt": "Wide atmospheric hero backdrop for Thinking, Fast and Slow by Daniel Kahneman: two minds as twin paths — a fast gold streak beside a slow careful teal river of thought. Empty of photoreal people, soft UI background. {style}"
+  },
+  "cover": {
+    "size": "portrait",
+    "prompt": "Vertical book-cover art for \"Thinking, Fast and Slow\". Central motif: thinking fast and slow — System 1 spark and System 2 deliberate lantern; memorable, generous negative space. {style}"
+  },
+  "og": {
+    "size": "landscape",
+    "prompt": "Wide social share illustration for Thinking, Fast and Slow: panoramic dual cognitive paths fast gold and slow teal; cinematic, no people, no text. {style}"
+  }
+}

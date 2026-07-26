@@ -1,0 +1,16 @@
+{
+  "slug": "wonderful-life",
+  "style": "Cinematic 3D illustration style like a prestige animated feature (soft volumetric lighting, rounded forms, rich textures, gentle bloom and glow on celestial light). Deep midnight blues and indigos with warm gold moonlight and teal accents. Whimsical sense of wonder and scale, not photoreal, not flat vector. No text, no typography, no logos, no watermarks, no UI, no book covers. If any living beings appear, use stylized animated-feature character design (expressive, soft, non-photoreal) — never photoreal humans. No purple neon AI-glow cliché.",
+  "atmosphere": {
+    "size": "landscape",
+    "prompt": "Wide atmospheric hero backdrop for Gould's Wonderful Life: Burgess Shale sea floor with soft stylized Cambrian creatures in teal bioluminescence under a gold-lit ancient ocean surface, deep navy. Empty of modern people. {style}"
+  },
+  "cover": {
+    "size": "portrait",
+    "prompt": "Vertical book-cover art for \"Wonderful Life\". Central motif: a luminous Burgess Shale slab cracking open to release strange Cambrian forms swimming into golden light; memorable, generous negative space. {style}"
+  },
+  "og": {
+    "size": "landscape",
+    "prompt": "Wide social share illustration for Wonderful Life: panoramic Cambrian explosion — soft stylized odd fossils becoming swimming creatures in teal/gold ancient sea; cinematic, no people, no text. {style}"
+  }
+}

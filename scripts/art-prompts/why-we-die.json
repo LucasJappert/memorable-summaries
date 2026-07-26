@@ -1,0 +1,16 @@
+{
+  "slug": "why-we-die",
+  "style": "Cinematic 3D illustration style like a prestige animated feature (soft volumetric lighting, rounded forms, rich textures, gentle bloom and glow on celestial light). Deep midnight blues and indigos with warm gold moonlight and teal accents. Whimsical sense of wonder and scale, not photoreal, not flat vector. No text, no typography, no logos, no watermarks, no UI, no book covers. If any living beings appear, use stylized animated-feature character design (expressive, soft, non-photoreal) — never photoreal humans. No purple neon AI-glow cliché.",
+  "atmosphere": {
+    "size": "landscape",
+    "prompt": "Wide atmospheric hero backdrop for Why We Die: The New Science of Aging and the Quest for Immortality by Venki Ramakrishnan: entropy and aging as soft falling leaves of life into deep time. Empty of photoreal people, soft UI background. {style}"
+  },
+  "cover": {
+    "size": "portrait",
+    "prompt": "Vertical book-cover art for \"Why We Die: The New Science of Aging and the Quest for Immortality\". Central motif: why we die — cellular wear as poetic gold autumn of organisms; memorable, generous negative space. {style}"
+  },
+  "og": {
+    "size": "landscape",
+    "prompt": "Wide social share illustration for Why We Die: The New Science of Aging and the Quest for Immortality: panoramic mortality biology of entropy; cinematic, no people, no text. {style}"
+  }
+}

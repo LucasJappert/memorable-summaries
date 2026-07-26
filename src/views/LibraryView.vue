@@ -3,12 +3,14 @@ import { computed, nextTick, onMounted, ref, watch } from 'vue'
 import { RouterLink } from 'vue-router'
 import { bookCatalog } from '../books/catalog'
 import { bookHasAudio } from '../books/audio-catalog'
+import { useOfflineAudio } from '../composables/useOfflineAudio'
 import AppVersionFooter from '../components/AppVersionFooter.vue'
 import BookCard from '../components/BookCard.vue'
 import ReviewNudge from '../components/ReviewNudge.vue'
 import SectionPageHero from '../components/SectionPageHero.vue'
 import {
   closeLibraryCatalogSearch,
+  libraryCatalogMatchCount,
   libraryCatalogQuery,
   libraryCatalogSearchOpen,
 } from '../composables/useLibraryCatalogSearch'
@@ -24,11 +26,16 @@ import {
   DEFAULT_SITE_DESCRIPTION,
   SITE_NAME,
 } from '../utils/seo'
+import {
+  preferEditorialCovers,
+  toggleCoverStyle,
+} from '../composables/useCoverStyle'
 
-type StatusFilter = 'all' | 'reading' | 'new' | 'done' | 'audio'
+type StatusFilter = 'all' | 'reading' | 'new' | 'done' | 'audio' | 'downloaded'
 
 const statusFilter = ref<StatusFilter>('all')
 const searchInputEl = ref<HTMLInputElement | null>(null)
+const { cachedSlugs } = useOfflineAudio()
 
 const { continueBook, continueSource, continueStatus } = useNextInRoute()
 
@@ -98,6 +105,7 @@ const normalize = (value: string) =>
 
 const filteredCatalog = computed(() => {
   readingRevision.value
+  cachedSlugs.value
 
   const terms = normalize(libraryCatalogQuery.value.trim()).split(/\s+/).filter(Boolean)
 
@@ -107,7 +115,9 @@ const filteredCatalog = computed(() => {
         ? true
         : statusFilter.value === 'audio'
           ? bookHasAudio(book.slug)
-          : getBookReadingStatus(book.slug) === statusFilter.value
+          : statusFilter.value === 'downloaded'
+            ? cachedSlugs.value.has(book.slug)
+            : getBookReadingStatus(book.slug) === statusFilter.value
 
     if (!matchesStatus) return false
     if (terms.length === 0) return true
@@ -125,12 +135,21 @@ const filteredCatalog = computed(() => {
   })
 })
 
+watch(
+  filteredCatalog,
+  (list) => {
+    libraryCatalogMatchCount.value = list.length
+  },
+  { immediate: true },
+)
+
 const statusFilters: Array<{ id: StatusFilter; label: string }> = [
   { id: 'all', label: 'Todos' },
   { id: 'reading', label: 'En curso' },
   { id: 'new', label: 'Por leer' },
   { id: 'done', label: 'Leídos' },
   { id: 'audio', label: 'Con audio' },
+  { id: 'downloaded', label: 'Descargados' },
 ]
 
 usePageMeta(
@@ -145,9 +164,6 @@ usePageMeta(
   })),
 )
 
-function onSearchBackdrop(event: MouseEvent) {
-  if (event.target === event.currentTarget) closeLibraryCatalogSearch()
-}
 </script>
 
 <template>
@@ -172,6 +188,27 @@ function onSearchBackdrop(event: MouseEvent) {
 
       <div class="library-toolbar">
         <div class="library-filters" role="group" aria-label="Filtrar por estado">
+          <div class="library-cover-toggle">
+            <span id="library-cover-label" class="library-cover-toggle__label">
+              {{ preferEditorialCovers ? 'Originales' : 'Memorable' }}
+            </span>
+            <button
+              type="button"
+              role="switch"
+              class="library-cover-toggle__switch"
+              :class="{ 'library-cover-toggle__switch--on': preferEditorialCovers }"
+              :aria-checked="preferEditorialCovers"
+              aria-labelledby="library-cover-label"
+              :aria-label="
+                preferEditorialCovers
+                  ? 'Portadas originales activas. Cambiar a Memorable'
+                  : 'Portadas Memorable activas. Cambiar a originales'
+              "
+              @click="toggleCoverStyle"
+            >
+              <span class="library-cover-toggle__knob" aria-hidden="true" />
+            </button>
+          </div>
           <button
             v-for="filter in statusFilters"
             :key="filter.id"
@@ -207,7 +244,7 @@ function onSearchBackdrop(event: MouseEvent) {
         role="dialog"
         aria-modal="true"
         aria-label="Buscar libros"
-        @click="onSearchBackdrop"
+        @click.self="closeLibraryCatalogSearch()"
       >
         <div class="library-catalog-search__panel" @click.stop>
           <label class="library-catalog-search__field">

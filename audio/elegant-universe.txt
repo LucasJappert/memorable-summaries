@@ -1,0 +1,317 @@
+El universo elegante, de Brian Greene.
+
+La idea central
+
+La física fundamental puede unificarse en cuerdas/M-teoría: partículas y fuerzas son modos de vibración unidimensionales y la gravedad emerge de la geometría del espacio-tiempo.
+
+Greene reconstruye tres conflictos del siglo XX — luz, gravedad, cuántica — y muestra cómo la cuerda los reconcilia con dimensiones ocultas, supersimetría y geometría cuántica.
+
+La promesa es elegante y profunda, pero la teoría aún carece de ecuaciones exactas, selección de vacío Calabi-Yau y prueba experimental definitiva
+
+Einstein buscó leyes simples y bellas; la supercuerda continúa esa búsqueda con espuma cuántica, dualidades y un cosmos que puede desgarrarse y recomponerse.
+
+La confirmación vendrá indirectamente — SUSY, cosmología, entropía de agujeros negros — mientras la escala de Planck permanece fuera del alcance directo.
+
+El relato del espacio-tiempo no ha terminado: es la aventura más ambiciosa de la física teórica contemporánea.
+
+Prefacio. Prefacio
+
+¿Por qué contar la historia de la teoría de supercuerdas y qué hilo temático la organiza?
+
+Durante los últimos treinta años de su vida, Albert Einstein buscó una teoría de campo unificada (marco único para todas las fuerzas de la naturaleza). No lo impulsaba un dato experimental aislado, sino la convicción de que las leyes más profundas deben ser simples y elegantes.
+
+Medio siglo después de su muerte, muchos físicos creen haber encontrado ese marco. Es la teoría de supercuerdas (cuerdas unidimensionales que aspiran a unificar todas las fuerzas). Greene elige como eje narrativo nuestra evolución en el entendimiento del espacio-tiempo (fusión de espacio y tiempo en un solo continuo). Einstein lo revolucionó. La cuerda lo revoluciona de nuevo con dimensiones ocultas enroscadas en el cosmos.
+
+La teoría aún no está completa ni confirmada experimentalmente. Parte IV es más abstracta y puede omitirse sin romper el hilo. Greene advierte su papel parcial en la investigación: más de mil físicos participan en la búsqueda de la teoría final.
+
+Cita: String theory is a part of twenty-first-century physics that fell by chance into the twentieth century.
+
+Cita: — Daniele Amati (citado por Edward Witten)
+
+Idea clave: La supercuerda aspira a ser el marco unificado que Einstein buscó: elegante, profundo y capaz de integrar gravedad y cuántica, aunque aún incompleto y sin prueba definitiva.
+
+El prefacio enmarca la promesa; el capítulo 1 plantea el conflicto concreto que la motiva: la incompatibilidad entre relatividad general y mecánica cuántica.
+
+Capítulo uno. Atados con una cuerda
+
+¿Cuál es el problema central de la física moderna y cómo la teoría de cuerdas promete resolverlo?
+
+Dos pilares sostienen la física del siglo XX: la relatividad general (gravedad como curvatura del espacio-tiempo) y la mecánica cuántica (micromundo probabilístico). Cada una está confirmada con precisión asombrosa en su dominio. Al combinarse, ambas predicen respuestas absurdas en el interior de agujeros negros o en el instante del big bang.
+
+La materia se organiza en tres familias de partículas (quarks, electrones, neutrinos y sus variantes) y cuatro fuerzas. El electromagnetismo es unos 10⁴² veces más fuerte que la gravedad. ¿Por qué esas masas y cargas tan particulares? El modelo estándar (~19 parámetros libres) describe tres fuerzas, pero no incluye gravedad.
+
+La teoría de cuerdas (sustituye puntos por lazos unidimensionales de escala de Planck) propone que cada partícula es un modo resonante de vibración. Lo mismo vale para las fuerzas. En 1984, Michael Green y John Schwarz mostraron que la supercuerda reconcilia gravedad y cuántica. Podría ser la teoría del todo (T.O.E.), aunque aún sin ecuaciones exactas ni predicciones definitivas.
+
+Idea clave: Relatividad general y mecánica cuántica, cada una triunfante por separado, chocan en el microuniverso. Las cuerdas vibrantes prometen unificarlos en un solo marco.
+
+Ese tercer conflicto fue precedido por otros dos: la luz frente a la mecánica newtoniana, resuelto en 1905.
+
+Capítulo dos. Espacio, tiempo y el ojo del observador
+
+¿Cómo la velocidad constante de la luz obliga a revisar la intuición newtoniana de espacio y tiempo?
+
+A los 16 años, Albert Einstein se preguntó qué pasaría si persiguiera un rayo de luz. Según Maxwell, la luz viaja siempre a c (~670 millones de mph) y nunca puede quedar quieta. En 1905, la relatividad especial (marco donde las leyes son iguales en todo movimiento uniforme) resolvió el primer conflicto del libro.
+
+El principio de relatividad (Galileo y Einstein) declara que las leyes físicas son idénticas en todo marco de movimiento uniforme. Como c es constante, observadores en movimiento relativo miden distancias y tiempos distintos. La simultaneidad deja de ser universal. El experimento del foco en el tren lo muestra sin ecuaciones.
+
+Un reloj de luz imaginario demuestra la dilatación temporal (los relojes en movimiento marcan más despacio). La contracción de Lorentz (acortamiento de longitudes en la dirección del movimiento) explica por qué los objetos en movimiento parecen comprimidos. Los muones a ~99,5% de c viven ~10 veces más desde el laboratorio. Minkowski unificó espacio y tiempo. Según su visión, todos los objetos se mueven a velocidad fija c a través del espacio-tiempo. De ahí sale E = mc²: más energía implica más masa, y nada supera c.
+
+Idea clave: La constancia de la luz destruye el espacio y el tiempo absolutos: son relativos al observador y están entrelazados en el espacio-tiempo.
+
+La relatividad especial prohíbe influencias más rápidas que la luz, pero la gravedad newtoniana actúa instantáneamente. De ahí nace el segundo conflicto.
+
+Capítulo tres. De deformaciones y ondas
+
+¿Qué es la gravedad y cómo puede ser compatible con el límite de velocidad de la luz?
+
+Isaac Newton unificó cielo y tierra con una fuerza gravitatoria instantánea, pero no explicaba cómo actúa a distancia. En 1907, el pensamiento más feliz de Einstein mostró que gravedad e aceleración son indistinguibles. Eso es el principio de equivalencia (base de la relatividad general).
+
+La relatividad general (1915) identifica gravedad con la curvatura del espacio-tiempo. La masa deforma el tejido como una bola de boliche sobre una lona. La Tierra orbita por la curvatura, no por un tirón invisible. Las perturbaciones se propagan a c, no al instante.
+
+En 1916, Karl Schwarzschild encontró soluciones con agujeros negros. Alexander Friedmann y Edwin Hubble mostraron expansión cósmica. Arthur Eddington confirmó en 1919 (Príncipe, 29 mayo) la desviación de la luz: 1,75″ de arco. John Wheeler dijo que la masa agarra al espacio… y el espacio agarra a la masa.
+
+Idea clave: Einstein reformuló la gravedad. Ya no es fuerza a distancia, sino geometría dinámica del espacio-tiempo que se curva y ondula a la velocidad de la luz.
+
+A escalas microscópicas hace falta la mecánica cuántica, cuyas reglas contradicen la geometría suave de Einstein.
+
+Capítulo cuatro. Extrañeza microscópica
+
+¿Qué revela la mecánica cuántica sobre el microuniverso que invalida el determinismo clásico?
+
+En 1900, Max Planck repartió la energía en cuantos. La constante h (≈ 10⁻³⁴ J·s en unidades cotidianas) fija el tamaño mínimo de esos paquetes. Un horno perfectamente aislado tendría energía infinita si la energía fuera continua. En 1905, Einstein mostró que los fotones (paquetes de luz) explican el efecto fotoeléctrico: importa la frecuencia, no la intensidad.
+
+El experimento de la doble rendija (Young, luego celebrado por Feynman) muestra interferencia incluso con fotones uno a uno. La luz es onda y partícula. Louis de Broglie extendió la dualidad a la materia. Max Born interpretó la función de onda como probabilidad. Werner Heisenberg formuló el principio de incertidumbre (posición y velocidad no pueden conocerse a la vez con precisión total).
+
+Richard Feynman propuso sumar sobre todas las trayectorias posibles. El túnel cuántico permite atravesar barreras imposibles. Einstein rechazó el azar (Dios no juega a los dados), pero experimentos de Bell y Aspect lo desmintieron. Según Stephen Hawking, Einstein estaba confundido, no la teoría cuántica.
+
+Idea clave: El mundo cuántico es probabilístico, cuantizado y dual: la intuición clásica de trayectorias definidas falla en la escala de h.
+
+Unir geometría suave (GR) con frenesí cuántico (QM) produce infinitos y probabilidades imposibles a escala de Planck.
+
+Capítulo cinco. La necesidad de una nueva teoría
+
+¿Por qué el conflicto entre relatividad general y mecánica cuántica es el problema central de la física contemporánea?
+
+El principio de incertidumbre genera fluctuaciones perpetuas de energía en el vacío: pares partícula-antipartícula aparecen y desaparecen. A distancias de escala de Planck (~10⁻³³ cm), la espuma cuántica (imagen de Wheeler) destruye la geometría lisa de Einstein. Los cálculos combinados dan infinitos.
+
+La electrodinámica cuántica (QED) predice propiedades del electrón con precisión de una parte en mil millones. Toichiro Kinoshita verificó esas cifras. Glashow, Salam y Weinberg unificaron electromagnetismo y fuerza débil en la interacción electrodébil (una sola fuerza a altas energías). Tres fuerzas quedaron en el modelo estándar. La gravedad, fuera.
+
+Las fuerzas respetan simetrías gauge. Los cambios de carga de color en quarks exigen la fuerza fuerte. Unificar gravedad con cuántica mediante campos puntuales falla una y otra vez. Solo con la supercuerda, escribe Greene, aparece salida.
+
+Idea clave: A escala de Planck, la espuma cuántica rompe la geometría riemanniana. El modelo estándar unifica tres fuerzas pero no puede fusionarse con la gravedad sin una teoría nueva.
+
+La teoría de cuerdas modifica el punto por cuerda extendida y reconcilia ambos marcos.
+
+Capítulo seis. Nada más que música
+
+¿Cómo la idea básica de cuerdas vibrantes resuelve el conflicto gravedad-cuántica y promete una T.O.E.?
+
+Las cuerdas unidimensionales de escala de Planck sustituyen puntos. El punto de partida fue Gabriele Veneziano (1968) y la función beta de Euler. Cada modo resonante determina masa y cargas: el electrón es una nota, el fotón otra. Joël Scherk y John Schwarz (1974) vieron el gravitón (spin-2) entre las vibraciones.
+
+La tensión de Planck (~10³⁹ toneladas) encoge las cuerdas a ~10⁻³³ cm. Las cancelaciones cuánticas explican masas bajas: la mayoría de modos pesa ~10¹⁹ veces el protón, pero unos pocos afortunados coinciden con las partículas observadas. La primera revolución supercuerda (1984–86) reunió a ~1000 físicos.
+
+Una cuerda extendida difumina la sonda más allá de Planck. David Gross y Paul Mende (1988) lo demostraron: no puede resolver sub-Planck. Por eso la espuma cuántica deja de ser catastrófica. La gravedad cuántica con partículas puntuales daba infinitos. La cuerda los evita.
+
+Idea clave: Partículas y fuerzas son modos resonantes de cuerdas minúsculas. Su extensión espacial suaviza la espuma cuántica y unifica materia, interacciones y gravedad.
+
+Las cuerdas requieren supersimetría para consistencia y eliminar el taquión del string bosónico.
+
+Capítulo siete. La super de las supercuerdas
+
+¿Qué aporta la supersimetría a la física de partículas y por qué es esencial para las supercuerdas?
+
+Las leyes físicas respetan simetrías como relatividad, equivalencia y gauge. Coleman y Mandula (1967) probaron que no hay más simetrías espacio-temporales, salvo un agujero: el spin (momento angular intrínseco de las partículas). Uhlenbeck y Goudsmit (1925) mostraron spin-½ en electrones. Los fotones tienen spin-1. El gravitón, spin-2.
+
+La supersimetría (SUSY) empareja bosones y fermiones en superpartners como selectrón, fotino y squarks. Ningún superpartner observado aún. Podrían ser muy masivos. Aun así, SUSY cancela fluctuaciones cuánticas finas y estabiliza el modelo estándar. Georgi, Quinn y Weinberg calcularon que sin SUSY las tres fuerzas casi convergen. La supersimetría activa hace que las tres fuerzas sí converjan (~10²⁸ K).
+
+El string bosónico tenía un taquión (masa² negativa). Ramond, Neveu, Schwarz y Gliozzi introdujeron fermiones en la cuerda y nació la supercuerda. Cinco teorías distintas (Type I, IIA, IIB, Heterotic O(32) y E₈×E₈) parecían minar la unicidad. Witten planteó entonces esta pregunta abierta: Si una describe nuestro universo, ¿quién vive en los otros cuatro?
+
+Idea clave: La supersimetría extiende las simetrías al spin, empareja bosones y fermiones, y es indispensable para supercuerdas consistentes sin taquión.
+
+Las supercuerdas exigen dimensiones espaciales adicionales más allá de las tres visibles.
+
+Capítulo ocho. Más dimensiones de las que aparentan
+
+¿Por qué la teoría de cuerdas necesita dimensiones extra y cómo pueden estar ocultas?
+
+Greene ilustra las dimensiones extra con la manguera: vista de lejos, parece 1D. De cerca, tiene grosor circular. Theodor Kaluza (1919) unificó gravedad y electromagnetismo en 5D. Oskar Klein enroscó la extra a escala de Planck. Einstein dudó, luego elogió la idea.
+
+Las cuerdas necesitan 9 direcciones espaciales de vibración independientes para evitar probabilidades negativas. Con 3 grandes y 6 compactas (10D total con tiempo), la teoría es consistente. Witten luego argumentó 11D (cap. 12).
+
+En 1984, Candelas, Horowitz, Strominger y Witten mostraron que las 6 extra deben ser espacios Calabi-Yau (formas complejas de 6D). La geometría compacta fija masas, cargas y número de familias de partículas. Decenas de miles de formas posibles. Elegir la correcta sigue abierto (la pregunta de los 64.000 dólares).
+
+Idea clave: Dimensiones extra enroscadas a escala sub-Planck son obligatorias en cuerdas, y su geometría Calabi-Yau determina la física observable en 3+1 dimensiones.
+
+Si la geometría extra fija la física, ¿hay firmas experimentales de la teoría?
+
+Capítulo nueve. La pistola humeante
+
+¿Puede la teoría de cuerdas contrastarse con la experimentación y con qué grado de certeza?
+
+Witten señala que la cuerda predice gravedad, pero en realidad es post-dicción. Confirmar cuerdas directamente requeriría un acelerador del tamaño de galaxia o universo, según Shmuel Nussinov. Solo quedan pruebas indirectas.
+
+Los agujeros de Calabi-Yau se relacionan con familias de partículas: 3 agujeros implican 3 familias (Candelas et al.). Masas dependen de intersecciones de agujeros (Strominger-Witten). Pero sin saber qué Calabi-Yau elegir, no hay predicciones numéricas definitivas.
+
+Entre las firmas genéricas figuran superpartners en el LHC (Ginebra, ~2010 en el texto original). También cargas fraccionarias exóticas (1/5, 1/11…), materia oscura y una constante cosmológica ~10¹²⁰ veces mayor de lo observado. Glashow y Feynman fueron escépticos. Witten, Vafa y Gell-Mann, entusiastas. Encontrar SUSY no probaría cuerdas únicamente. No encontrarla no las refutaría.
+
+Idea clave: La cuerda carece aún de predicciones numéricas precisas, pero ofrece firmas indirectas (SUSY, cargas exóticas, cosmología) mientras la escala de Planck permanece inaccesible.
+
+La geometría del espacio-tiempo misma debe generalizarse a geometría cuántica en escala de Planck.
+
+Capítulo diez. Geometría cuántica
+
+¿Cómo modifica la teoría de cuerdas la noción de geometría del espacio-tiempo en el límite de Planck?
+
+Riemann, Gauss y Einstein midieron curvatura por distancias. En cuerdas, un punto no existe. La geometría riemanniana falla bajo Planck. Surge la geometría cuántica (marco aún en construcción matemática).
+
+Las cuerdas pueden enrollarse (winding) alrededor de dimensiones circulares. Kikkawa y Yamasaki (1984) mostraron que radio R e 1/R son indistinguibles en energía total. Eso es la dualidad T (intercambio entre tamaño compacto y modo de enrollamiento). Un universo-jardín colapsando no llega a tamaño cero: rebota. Vibración y winding intercambian roles.
+
+La simetría espejo (mirror symmetry) relaciona pares de Calabi-Yau distintos con la misma física. Candelas et al. la usaron para contar esferas racionales. A macroescala, la relatividad general sigue siendo excelente aproximación.
+
+Idea clave: En escala de Planck, modos de enrollamiento y vibración de cuerdas reescriben la geometría: radios dualizados, colapsos evitados y Calabi-Yau espejo equivalentes.
+
+Si la geometría puede dualizarse, ¿puede también romperse y repararse?
+
+Capítulo 11. Desgarrando el tejido del espacio
+
+¿Puede el tejido del espacio romperse y recomponerse sin catástrofe física?
+
+La relatividad general prohíbe desgarros porque la geometría debe ser suave. Yau y Tian describieron transiciones flop. Una 2-esfera dentro de Calabi-Yau se pinza, el espacio se desgarra y se repara con topología distinta.
+
+Greene, Aspinwall y Morrison (1992, Institute for Advanced Study) calcularon masas de partículas antes y después del flop. Resultado: 9 = 9. Witten explicó que la hoja de mundo (world-sheet) de la cuerda envuelve la esfera y protege al universo de la catástrofe. La gravedad con partículas puntuales no puede hacerlo.
+
+Strominger mostró que 3-esferas pueden colapsar sin catástrofe si una 3-brana las envuelve. Las cuerdas 1D lazan 2-esferas, no 3-esferas. Las transiciones conifold (colapso controlado de ciclos) cambian agujeros de Calabi-Yau y conectan teorías duales.
+
+Idea clave: En cuerdas, el espacio Calabi-Yau puede desgarrarse y recomponerse topológicamente gracias a cuerdas y branas que estabilizan la geometría donde GR clásica fallaría.
+
+Las cinco teorías de cuerdas y sus branas piden un marco más amplio: M-teoría.
+
+Capítulo 12. Más allá de las cuerdas: en busca de la M-teoría
+
+¿Cómo se unifican las cinco teorías de cuerdas aparentemente distintas y qué es M-teoría?
+
+Cinco supercuerdas (1980s) parecían teorías separadas. Las ecuaciones exactas son desconocidas. Solo tenemos aproximaciones perturbativas. Cada teoría tiene acoplamiento de cuerdas g, y cuando g ≥ 1 la perturbación falla.
+
+En Strings '95 (USC), Witten anunció la segunda revolución. Las dualidades (T, S, U) muestran que las cinco teorías son ventanas a una sola estructura: M-teoría (Membrane/Mystery/Magic/Mother). Tiene 11 dimensiones (10 espacio + 1 tiempo), no 10.
+
+M-teoría incluye no solo cuerdas (1-branes) sino membranas 2D, 3-branes y más. Greene compara acoplamiento fuerte y débil con hielo y agua: lo fuerte en una teoría equivale a lo débil en otra. Muchas soluciones Calabi-Yau implican multiverso posible. La unicidad prometida queda para ecuaciones exactas futuras.
+
+Idea clave: Las cinco supercuerdas son dualidades de una sola M-teoría de once dimensiones con cuerdas, branes y simetrías ocultas por métodos perturbativos.
+
+M-teoría y branas permiten abordar agujeros negros y entropía Bekenstein-Hawking microscópicamente.
+
+Capítulo 13. Agujeros negros
+
+¿Qué dice la teoría de cuerdas sobre agujeros negros, su entropía y su relación con partículas?
+
+Wheeler resumió que los agujeros negros no tienen pelo: solo masa, carga y spin. Eso los hace parecidos a partículas elementales. En relatividad general, los agujeros negros tienen singularidad. En cuántica, el conflicto persiste.
+
+Jacob Bekenstein (1970) propuso que la entropía es proporcional al área del horizonte. Stephen Hawking (1974) mostró radiación de agujeros negros: son casi negros (~10⁻⁸ K para uno solar). Durante 25 años, nadie contó los estados microscópicos.
+
+Strominger y Vafa (1996) construyeron agujeros extremos con branas BPS y contaron estados. El acuerdo con Bekenstein-Hawking es exacto. En transiciones conifold, un agujero negro se derrite en partícula sin masa (fotón). Greene, Morrison y Strominger mostraron un cambio de fase, no catástrofe.
+
+Idea clave: Cuerdas/M-teoría calculan por primera vez la entropía de agujeros negros contando estados microscópicos de branas y conectan agujeros extremos con partículas elementales.
+
+Los mismos límites Planck y branas aplican al origen del universo.
+
+Capítulo 14. Reflexiones sobre cosmología
+
+¿Cómo modifica la teoría de cuerdas la cosmología, especialmente el instante inicial y la estructura del universo?
+
+El modelo estándar cosmológico sitúa el big bang hace ~15 mil millones de años. Incluye nucleosíntesis primordial y CMB ~2,7 K (Penzias-Wilson, 1965, y COBE). Antes de ~10⁻⁴³ s (tiempo de Planck), la relatividad general predice singularidad infinita. Ahí falla.
+
+Alan Guth (1979) propuso la inflación (expansión exponencial ~10⁻³⁶–10⁻³⁴ s, factor ≥10³⁰) para resolver el problema del horizonte. Simetrías rotas dejan la interacción electrodébil a ~10²⁸ K. Brandenberger y Vafa sugieren que el universo comienza como nugget de Planck. La dualidad T evita singularidad. Tres dimensiones se expanden porque cuerdas 1D chocan más en ≤3D.
+
+Gasperini y Veneziano proponen un escenario pre-big bang: universo frío e infinito antes del Planck. En M-teoría (Witten), las cuatro fuerzas pueden unificarse en el origen (Figura 14.2). La selección de Calabi-Yau y tres dimensiones grandes siguen conjeturales.
+
+Idea clave: String cosmology evita la singularidad clásica con nugget de Planck, dualidad de radios e inflación, pero las ecuaciones exactas del instante inicial aún faltan.
+
+Quedan preguntas abiertas sobre principio fundamental, pruebas y límites de la explicación.
+
+Capítulo 15. Perspectivas
+
+¿Qué queda por resolver para saber si la teoría de cuerdas es la descripción final de la naturaleza?
+
+Greene enumera cinco preguntas centrales. Primero, ¿hay un principio de inevitabilidad subyacente? Einstein tuvo equivalencia. La cuerda aún busca su análogo. Segundo, ¿qué son espacio y tiempo realmente? Gravitones serían estados coherentes de cuerdas. Podría haber origen sin espacio ni tiempo mediante zero-branes (objetos puntuales de dimensión cero) y geometría no conmutativa de Connes.
+
+Tercero, ¿hace falta reformular la mecánica cuántica? Vafa y Witten sostienen que QM debe nacer cuántica, no cuantizarse clásicamente. Cuarto, ¿habrá pruebas experimentales? SUSY en el LHC sería circunstancial pero dramática. Quinto, ¿hay límites a la explicación? ¿Parámetros por accidente o multiverso?
+
+Witten reflexiona en que Podría ser que la forma final caiga del cielo… pero más realistamente, bien entrado el siglo XXI, físicos más jóvenes decidirán. Bronowski recuerda que En cada época hay un punto de inflexión, una nueva forma de ver la coherencia del mundo.
+
+Idea clave: La cuerda/M-teoría es la candidata más prometedora a T.O.E., pero requiere principio organizador, origen del espacio-tiempo, QM reformulada y confirmación experimental aún pendientes.
+
+Conceptos clave
+
+Espacio-tiempo. De absoluto newtoniano a relativo (SR), dinámico y curvo (GR), espuma cuántica (QM), emergente de cuerdas/M-teoría.
+
+Unificación. Kaluza-Klein → modelo estándar → cuerdas → M-teoría; simetrías gauge y supersimetría.
+
+Cuerdas vibrantes. Partículas y fuerzas como modos resonantes; música cósmica a escala de Planck.
+
+Dimensiones extra. Compactas Calabi-Yau; geometría fija masas, cargas y familias de partículas.
+
+Dualidades. T (R ↔ 1/R), simetría espejo, S/U entre cinco cuerdas → M-teoría unificada.
+
+Escala de Planck. Longitud ~10⁻³³ cm, tiempo ~10⁻⁴³ s, energía/tensión donde GR y QM deben fusionarse.
+
+Perturbación vs. no perturbación. Métodos aproximados hasta revolución de 1995; acoplamiento fuerte invalida loops.
+
+Branes. 0-branes a 3-branes; envolturas que estabilizan geometría y construyen agujeros negros.
+
+Topología del espacio. Flop, conifold, cambio de agujeros Calabi-Yau sin catástrofe en cuerdas.
+
+Entropía de agujeros negros. Puente termodinámico (Bekenstein-Hawking) y conteo microscópico string (Strominger-Vafa).
+
+Cronología de los descubrimientos
+
+Año 1900. Planck: cuantización de la energía
+
+Año 1905. Einstein: relatividad especial y fotones
+
+Año 1907. Principio de equivalencia
+
+Año 1915. Relatividad general
+
+Año 1919. Eddington confirma curvatura de la luz; Kaluza propone 5D
+
+Año 1925. Spin (Uhlenbeck/Goudsmit); 1926: Klein compactifica extra
+
+Año 1968. Veneziano y función beta; cuerdas como modelo de hadrones
+
+Año 1974. Scherk/Schwarz: cuerdas incluyen gravedad; Hawking: radiación de agujeros negros
+
+Año 1984. Green/Schwarz: primera revolución supercuerda; Calabi-Yau (Candelas et al.)
+
+Año 1991. Transiciones flop; 1995: Witten anuncia M-teoría (Strings '95)
+
+Año 1995–96. Transiciones conifold; Strominger-Vafa: entropía de agujeros negros
+
+Año ~1990s. COBE confirma CMB; inflación ~10⁻³⁶ s ATB
+
+Año ~15 mil millones de años. Big bang; límite clásico ~10⁻⁴³ s ATB
+
+Figuras clave
+
+Albert Einstein, Búsqueda de unificación; relatividad especial y general
+
+Isaac Newton / James Clerk Maxwell, Gravedad clásica; electromagnetismo y velocidad de la luz
+
+Max Planck / Albert Einstein / Werner Heisenberg, Cuantización, fotones, incertidumbre
+
+Richard Feynman, Nadie entiende la mecánica cuántica; sum-over-paths
+
+Theodor Kaluza / Oskar Klein, Dimensiones extra para unificar fuerzas
+
+Gabriele Veneziano / John Schwarz / Michael Green, Origen y revolución de la teoría de cuerdas
+
+Edward Witten, M-teoría; segunda revolución supercuerda
+
+Philip Candelas / Andrew Strominger / Shing-Tung Yau, Calabi-Yau, simetría espejo, transiciones topológicas
+
+Jacob Bekenstein / Stephen Hawking, Entropía y radiación de agujeros negros
+
+Alan Guth / Alexander Friedmann / Edwin Hubble, Inflación y expansión cósmica
+
+Robert Brandenberger / Gabriele Veneziano, Cosmología string; pre-big bang
+
+Brian Greene, Autor-investigador; transiciones flop y conifold

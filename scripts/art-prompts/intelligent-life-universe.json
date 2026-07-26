@@ -1,0 +1,16 @@
+{
+  "slug": "intelligent-life-universe",
+  "style": "Cinematic 3D illustration style like a prestige animated feature (soft volumetric lighting, rounded forms, rich textures, gentle bloom and glow on celestial light). Deep midnight blues and indigos with warm gold moonlight and teal accents. Whimsical sense of wonder and scale, not photoreal, not flat vector. No text, no typography, no logos, no watermarks, no UI, no book covers. If any living beings appear, use stylized animated-feature character design (expressive, soft, non-photoreal) — never photoreal humans. No purple neon AI-glow cliché.",
+  "atmosphere": {
+    "size": "landscape",
+    "prompt": "Wide atmospheric hero backdrop for Intelligent Life in the Universe: quiet exoplanet shore under alien teal skies with distant golden suns, hint of habitability. Empty landscape of wonder. {style}"
+  },
+  "cover": {
+    "size": "portrait",
+    "prompt": "Vertical book-cover art for \"Intelligent Life in the Universe\". Central motif: a luminous habitable world with soft biosphere glow and a faint signal beam toward the stars; memorable, generous negative space. {style}"
+  },
+  "og": {
+    "size": "landscape",
+    "prompt": "Wide social share illustration for Intelligent Life in the Universe: panoramic search for life — exoplanets, soft biosignature glows across navy space; cinematic, no people, no text. {style}"
+  }
+}

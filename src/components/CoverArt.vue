@@ -1,7 +1,12 @@
 <script setup lang="ts">
 import { computed, ref, watch } from 'vue'
 import type { BookMeta } from '../types/book'
-import { coverImageUrl } from '../utils/coverImage'
+import { coverStyle } from '../composables/useCoverStyle'
+import {
+  coverEditorialUrl,
+  coverImageUrl,
+  type CoverStyle,
+} from '../utils/coverImage'
 import { coverThemeFromSlug, monogramFrom } from '../utils/coverSeed'
 import AudioIcon from './icons/AudioIcon.vue'
 
@@ -23,17 +28,34 @@ const monogram = computed(() =>
   monogramFrom(displayTitle.value, props.meta.author, props.meta.cover?.monogram),
 )
 
-const photoSrc = computed(
+const memorableSrc = computed(
   () => props.meta.cover?.image?.trim() || coverImageUrl(props.slug),
 )
+
+/** editorial → memorable → nebula */
+const activeVariant = ref<CoverStyle | 'fallback'>('memorable')
+
+const photoSrc = computed(() => {
+  if (activeVariant.value === 'editorial') return coverEditorialUrl(props.slug)
+  return memorableSrc.value
+})
 
 const photoOk = ref(false)
 const photoFailed = ref(false)
 
-watch(photoSrc, () => {
+function resetPhotoForStyle(style: CoverStyle) {
+  activeVariant.value = style
   photoOk.value = false
   photoFailed.value = false
-})
+}
+
+watch(
+  [() => props.slug, memorableSrc, coverStyle],
+  () => {
+    resetPhotoForStyle(coverStyle.value)
+  },
+  { immediate: true },
+)
 
 const usePhoto = computed(() => photoOk.value && !photoFailed.value)
 
@@ -52,6 +74,11 @@ function onPhotoLoad() {
 }
 
 function onPhotoError() {
+  if (activeVariant.value === 'editorial') {
+    activeVariant.value = 'memorable'
+    photoOk.value = false
+    return
+  }
   photoFailed.value = true
 }
 </script>

@@ -27,6 +27,8 @@ export interface ConceptItem {
   icon?: string
   title: string
   description: string
+  /** Ruta pública opcional (p. ej. /art/<slug>/concepts/<id>.jpg) */
+  image?: string
 }
 
 export interface BigNumberItem {

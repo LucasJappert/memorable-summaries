@@ -1,0 +1,16 @@
+{
+  "slug": "vital-question",
+  "style": "Cinematic 3D illustration style like a prestige animated feature (soft volumetric lighting, rounded forms, rich textures, gentle bloom and glow on celestial light). Deep midnight blues and indigos with warm gold moonlight and teal accents. Whimsical sense of wonder and scale, not photoreal, not flat vector. No text, no typography, no logos, no watermarks, no UI, no book covers. If any living beings appear, use stylized animated-feature character design (expressive, soft, non-photoreal) — never photoreal humans. No purple neon AI-glow cliché.",
+  "atmosphere": {
+    "size": "landscape",
+    "prompt": "Wide atmospheric hero backdrop for Nick Lane's The Vital Question: deep-sea alkaline vents glowing teal energy rising into warm golden cells, origin of complex life in dark navy ocean. Empty of people. {style}"
+  },
+  "cover": {
+    "size": "portrait",
+    "prompt": "Vertical book-cover art for \"The Vital Question\". Central motif: a luminous hydrothermal chimney feeding sparks of life and mitochondrial fire into nascent cells; memorable, generous negative space. {style}"
+  },
+  "og": {
+    "size": "landscape",
+    "prompt": "Wide social share illustration for The Vital Question: panoramic energy-to-life — glowing vents, proton gradients as light rivers, nascent cells in deep ocean navy; cinematic, no people, no text. {style}"
+  }
+}

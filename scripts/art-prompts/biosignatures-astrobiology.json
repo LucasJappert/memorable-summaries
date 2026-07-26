@@ -1,0 +1,16 @@
+{
+  "slug": "biosignatures-astrobiology",
+  "style": "Cinematic 3D illustration style like a prestige animated feature (soft volumetric lighting, rounded forms, rich textures, gentle bloom and glow on celestial light). Deep midnight blues and indigos with warm gold moonlight and teal accents. Whimsical sense of wonder and scale, not photoreal, not flat vector. No text, no typography, no logos, no watermarks, no UI, no book covers. If any living beings appear, use stylized animated-feature character design (expressive, soft, non-photoreal) — never photoreal humans. No purple neon AI-glow cliché.",
+  "atmosphere": {
+    "size": "landscape",
+    "prompt": "Wide atmospheric hero backdrop for From Fossils to Astrobiology: layered Earth fossils dissolving into spectral biosignature light on a distant world, teal and gold. Empty of people. {style}"
+  },
+  "cover": {
+    "size": "portrait",
+    "prompt": "Vertical book-cover art for astrobiology biosignatures. Central motif: a fossil leaf of light transforming into an alien atmospheric spectrum glow; memorable, generous negative space. {style}"
+  },
+  "og": {
+    "size": "landscape",
+    "prompt": "Wide social share illustration for biosignatures and astrobiology: panoramic fossils to exoplanet atmospheres with spectral ribbons of teal/gold; cinematic, no people, no text. {style}"
+  }
+}

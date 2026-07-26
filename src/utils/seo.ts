@@ -33,6 +33,11 @@ export function bookCoverPath(slug: string): string {
   return `/covers/${slug}.jpg`
 }
 
+/** Prefer generated OG art; callers may fall back to cover at runtime if missing. */
+export function bookOgArtPath(slug: string): string {
+  return `/art/${slug}/og.jpg`
+}
+
 export function bookCanonicalPath(slug: string): string {
   return `libro/${slug}`
 }

@@ -1,0 +1,16 @@
+{
+  "slug": "first-three-minutes",
+  "style": "Cinematic 3D illustration style like a prestige animated feature (soft volumetric lighting, rounded forms, rich textures, gentle bloom and glow on celestial light). Deep midnight blues and indigos with warm gold moonlight and teal accents. Whimsical sense of wonder and scale, not photoreal, not flat vector. No text, no typography, no logos, no watermarks, no UI, no book covers. If any living beings appear, use stylized animated-feature character design (expressive, soft, non-photoreal) — never photoreal humans. No purple neon AI-glow cliché.",
+  "atmosphere": {
+    "size": "landscape",
+    "prompt": "Wide atmospheric hero backdrop for The First Three Minutes by Steven Weinberg: the newborn cosmos as a blazing furnace of light cooling into soft cosmic dawn. Empty of photoreal people, soft UI background. {style}"
+  },
+  "cover": {
+    "size": "portrait",
+    "prompt": "Vertical book-cover art for \"The First Three Minutes\". Central motif: the first three minutes — primordial fireball becoming gentle expanding cosmos; memorable, generous negative space. {style}"
+  },
+  "og": {
+    "size": "landscape",
+    "prompt": "Wide social share illustration for The First Three Minutes: panoramic Big Bang furnace fading into navy twilight of early universe; cinematic, no people, no text. {style}"
+  }
+}

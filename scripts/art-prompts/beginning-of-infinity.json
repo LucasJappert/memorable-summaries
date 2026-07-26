@@ -1,0 +1,16 @@
+{
+  "slug": "beginning-of-infinity",
+  "style": "Cinematic 3D illustration style like a prestige animated feature (soft volumetric lighting, rounded forms, rich textures, gentle bloom and glow on celestial light). Deep midnight blues and indigos with warm gold moonlight and teal accents. Whimsical sense of wonder and scale, not photoreal, not flat vector. No text, no typography, no logos, no watermarks, no UI, no book covers. If any living beings appear, use stylized animated-feature character design (expressive, soft, non-photoreal) — never photoreal humans. No purple neon AI-glow cliché.",
+  "atmosphere": {
+    "size": "landscape",
+    "prompt": "Wide atmospheric hero backdrop for The Beginning of Infinity: Explanations that Transform the World by David Deutsch: an endless ascending staircase of explanatory light toward infinite progress. Empty of photoreal people, soft UI background. {style}"
+  },
+  "cover": {
+    "size": "portrait",
+    "prompt": "Vertical book-cover art for \"The Beginning of Infinity: Explanations that Transform the World\". Central motif: a luminous infinite staircase of knowledge reaching a golden horizon; memorable, generous negative space. {style}"
+  },
+  "og": {
+    "size": "landscape",
+    "prompt": "Wide social share illustration for The Beginning of Infinity: Explanations that Transform the World: panoramic beginning of infinity as rising light stairs; cinematic, no people, no text. {style}"
+  }
+}

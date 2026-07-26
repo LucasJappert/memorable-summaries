@@ -1,0 +1,16 @@
+{
+  "slug": "origins",
+  "style": "Cinematic 3D illustration style like a prestige animated feature (soft volumetric lighting, rounded forms, rich textures, gentle bloom and glow on celestial light). Deep midnight blues and indigos with warm gold moonlight and teal accents. Whimsical sense of wonder and scale, not photoreal, not flat vector. No text, no typography, no logos, no watermarks, no UI, no book covers. If any living beings appear, use stylized animated-feature character design (expressive, soft, non-photoreal) — never photoreal humans. No purple neon AI-glow cliché.",
+  "atmosphere": {
+    "size": "landscape",
+    "prompt": "Wide atmospheric hero backdrop for Origins by Neil deGrasse Tyson: cosmic evolution from Big Bang glow to star nurseries and a soft blue Earth forming in deep navy space. Empty of people, soft UI background. {style}"
+  },
+  "cover": {
+    "size": "portrait",
+    "prompt": "Vertical book-cover art for \"Origins\". Central motif: a luminous cosmic timeline spiral from golden Big Bang spark to Earth and life; memorable, generous negative space. {style}"
+  },
+  "og": {
+    "size": "landscape",
+    "prompt": "Wide social share illustration for Origins: panoramic 14-billion-year cosmic evolution — Big Bang light to galaxies to a glowing Earth; cinematic, no people, no text. {style}"
+  }
+}

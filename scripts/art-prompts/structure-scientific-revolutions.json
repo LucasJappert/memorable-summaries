@@ -1,0 +1,16 @@
+{
+  "slug": "structure-scientific-revolutions",
+  "style": "Cinematic 3D illustration style like a prestige animated feature (soft volumetric lighting, rounded forms, rich textures, gentle bloom and glow on celestial light). Deep midnight blues and indigos with warm gold moonlight and teal accents. Whimsical sense of wonder and scale, not photoreal, not flat vector. No text, no typography, no logos, no watermarks, no UI, no book covers. If any living beings appear, use stylized animated-feature character design (expressive, soft, non-photoreal) — never photoreal humans. No purple neon AI-glow cliché.",
+  "atmosphere": {
+    "size": "landscape",
+    "prompt": "Wide atmospheric hero backdrop for The Structure of Scientific Revolutions by Thomas S. Kuhn: a paradigm crystal shattering into a new scientific constellation of light. Empty of photoreal people, soft UI background. {style}"
+  },
+  "cover": {
+    "size": "portrait",
+    "prompt": "Vertical book-cover art for \"The Structure of Scientific Revolutions\". Central motif: scientific revolutions — old map of knowledge cracking into a luminous new paradigm; memorable, generous negative space. {style}"
+  },
+  "og": {
+    "size": "landscape",
+    "prompt": "Wide social share illustration for The Structure of Scientific Revolutions: panoramic paradigm shift as breaking and reforming cosmos of ideas; cinematic, no people, no text. {style}"
+  }
+}

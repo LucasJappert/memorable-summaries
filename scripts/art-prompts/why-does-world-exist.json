@@ -1,0 +1,16 @@
+{
+  "slug": "why-does-world-exist",
+  "style": "Cinematic 3D illustration style like a prestige animated feature (soft volumetric lighting, rounded forms, rich textures, gentle bloom and glow on celestial light). Deep midnight blues and indigos with warm gold moonlight and teal accents. Whimsical sense of wonder and scale, not photoreal, not flat vector. No text, no typography, no logos, no watermarks, no UI, no book covers. If any living beings appear, use stylized animated-feature character design (expressive, soft, non-photoreal) — never photoreal humans. No purple neon AI-glow cliché.",
+  "atmosphere": {
+    "size": "landscape",
+    "prompt": "Wide atmospheric hero backdrop for Jim Holt's Why Does the World Exist: a philosophical void becoming a question made visible — soft teal emptiness with a single warm golden spark of being at the center, faint concentric ripples of existence. Calm, contemplative, empty of people, soft UI background. {style}"
+  },
+  "cover": {
+    "size": "portrait",
+    "prompt": "Vertical book-cover art for \"Why Does the World Exist?\". Central motif: a dark detective-lantern of light illuminating a crack in absolute nothingness from which a miniature glowing cosmos spills; elegant, memorable, generous negative space. {style}"
+  },
+  "og": {
+    "size": "landscape",
+    "prompt": "Wide social share illustration for a summary of Why Does the World Exist: panoramic existential mystery — deep void and a luminous emerging world as a single golden answer-spark across navy space; cinematic, no people, no text. {style}"
+  }
+}

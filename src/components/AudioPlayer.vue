@@ -7,7 +7,8 @@ import {
   writeAudioPosition,
 } from '../reading/audio-storage'
 import { audioUrl, publicAssetUrl } from '../utils/audioUrl'
-import { coverImageUrl } from '../utils/coverImage'
+import { coverStyle } from '../composables/useCoverStyle'
+import { coverImageUrl, coverUrlForStyle } from '../utils/coverImage'
 
 const SKIP_SECONDS = 10
 const SAVE_INTERVAL_MS = 2000
@@ -92,13 +93,19 @@ const src = computed(() =>
   props.audioSrc ? publicAssetUrl(props.audioSrc) : audioUrl(props.slug),
 )
 
-const coverSrc = computed(() => coverImageUrl(props.slug))
 const coverFailed = ref(false)
+const coverFallbackMemorable = ref(false)
+const coverSrc = computed(() =>
+  coverFallbackMemorable.value
+    ? coverImageUrl(props.slug)
+    : coverUrlForStyle(props.slug, coverStyle.value),
+)
 
 watch(
-  () => props.slug,
+  [() => props.slug, coverStyle],
   () => {
     coverFailed.value = false
+    coverFallbackMemorable.value = false
   },
 )
 
@@ -666,6 +673,10 @@ function onVisibilityChange() {
 }
 
 function onCoverError() {
+  if (coverStyle.value === 'editorial' && !coverFallbackMemorable.value) {
+    coverFallbackMemorable.value = true
+    return
+  }
   coverFailed.value = true
 }
 

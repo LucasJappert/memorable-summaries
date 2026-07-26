@@ -17,7 +17,10 @@ Cuando el usuario pida generar el **html**, **resumen** o **vista** de un libro,
 6. Paso C (prosa): `docs/prompts/01c-correccion-minima.md` + `python3 scripts/lint-summary.py <slug>`
 7. Paso D: `python3 scripts/md-to-ts.py <slug>` → `src/data/<slug-corto>.ts` (preferir script sobre prompt 02)
 8. Integrar en `src/books/catalog.ts` si es libro nuevo
-9. `npm run build` (obligatorio)
+9. Portada editorial: `python3 scripts/extract-cover.py <slug>`
+10. Arte Memorable: `docs/prompts/04-arte-visual.md` → `scripts/art-prompts/<slug>.json` + `python3 scripts/generate-book-art.py <slug>`
+11. `npm run build` (obligatorio)
+12. Audio TTS si hay key (opcional pero recomendado)
 
 **«HTML» = app Vue por defecto.** HTML standalone en `legacy/` solo si lo pide explícitamente.
 

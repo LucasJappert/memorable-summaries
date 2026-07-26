@@ -14,9 +14,14 @@ const props = defineProps<{ book: BookCatalogEntry }>()
 const { addNext, moveToEnd, remove, items, statsFor, play } = useAudioQueue()
 const {
   cachedSlugs,
+  downloadProgress,
+  audioBytesBySlug,
   isOfflineAudioCached,
   isOfflineAudioDownloading,
   toggle: toggleOffline,
+  prefetchSize,
+  formatBytes,
+  getProgress,
 } = useOfflineAudio()
 
 const menuOpen = ref(false)
@@ -55,8 +60,21 @@ const offlineDownloading = computed(() => {
   return offlineBusy.value || isOfflineAudioDownloading(props.book.slug)
 })
 
+const offlineProgress = computed(() => {
+  downloadProgress.value
+  return getProgress(props.book.slug)
+})
+
+const offlineSizeLabel = computed(() => {
+  audioBytesBySlug.value
+  return formatBytes(audioBytesBySlug.value[props.book.slug])
+})
+
 const offlineMenuLabel = computed(() => {
-  if (offlineDownloading.value) return 'Descargando…'
+  if (offlineDownloading.value) {
+    const pct = offlineProgress.value
+    return pct > 0 ? `Descargando… ${pct}%` : 'Descargando…'
+  }
   if (offlineCached.value) return 'Quitar descarga'
   return 'Descargar'
 })
@@ -96,6 +114,9 @@ function onMenuToggle(event: Event) {
   event.preventDefault()
   event.stopPropagation()
   menuOpen.value = !menuOpen.value
+  if (menuOpen.value && hasAudio.value) {
+    void prefetchSize(props.book.slug)
+  }
 }
 
 function closeMenu() {
@@ -134,12 +155,14 @@ async function onToggleOffline(event: Event) {
   event.preventDefault()
   event.stopPropagation()
   if (offlineDownloading.value) return
-  closeMenu()
+  const removing = offlineCached.value
+  if (removing) closeMenu()
   offlineBusy.value = true
   try {
     await toggleOffline(props.book.slug)
   } finally {
     offlineBusy.value = false
+    if (!removing) closeMenu()
   }
 }
 
@@ -264,34 +287,56 @@ onBeforeUnmount(() => document.removeEventListener('pointerdown', onDocPointerDo
         </button>
         <button
           type="button"
-          class="book-tile__menu-item"
+          class="book-tile__menu-item book-tile__menu-item--offline"
           role="menuitem"
           :disabled="offlineDownloading"
           :aria-busy="offlineDownloading"
+          :aria-valuenow="offlineDownloading ? offlineProgress : undefined"
           @click="onToggleOffline"
         >
-          <svg
-            v-if="offlineCached"
-            class="book-tile__menu-icon"
-            viewBox="0 0 24 24"
-            aria-hidden="true"
-            focusable="false"
+          <span class="book-tile__menu-item-row">
+            <svg
+              v-if="offlineCached"
+              class="book-tile__menu-icon"
+              viewBox="0 0 24 24"
+              aria-hidden="true"
+              focusable="false"
+            >
+              <path
+                d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z"
+                fill="currentColor"
+              />
+            </svg>
+            <svg
+              v-else
+              class="book-tile__menu-icon"
+              viewBox="0 0 24 24"
+              aria-hidden="true"
+              focusable="false"
+            >
+              <path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z" fill="currentColor" />
+            </svg>
+            <span class="book-tile__menu-item-copy">
+              <span class="book-tile__menu-item-label">{{ offlineMenuLabel }}</span>
+              <span v-if="offlineSizeLabel" class="book-tile__menu-item-size">{{
+                offlineSizeLabel
+              }}</span>
+            </span>
+          </span>
+          <span
+            v-if="offlineDownloading"
+            class="book-tile__menu-progress"
+            role="progressbar"
+            :aria-valuemin="0"
+            :aria-valuemax="100"
+            :aria-valuenow="offlineProgress"
+            :aria-label="`Descarga ${offlineProgress}%`"
           >
-            <path
-              d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z"
-              fill="currentColor"
+            <span
+              class="book-tile__menu-progress-fill"
+              :style="{ width: `${offlineProgress}%` }"
             />
-          </svg>
-          <svg
-            v-else
-            class="book-tile__menu-icon"
-            viewBox="0 0 24 24"
-            aria-hidden="true"
-            focusable="false"
-          >
-            <path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z" fill="currentColor" />
-          </svg>
-          {{ offlineMenuLabel }}
+          </span>
         </button>
         <button
           type="button"

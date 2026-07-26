@@ -1,0 +1,16 @@
+{
+  "slug": "cosmos",
+  "style": "Cinematic 3D illustration style like a prestige animated feature (soft volumetric lighting, rounded forms, rich textures, gentle bloom and glow on celestial light). Deep midnight blues and indigos with warm gold moonlight and teal accents. Whimsical sense of wonder and scale, not photoreal, not flat vector. No text, no typography, no logos, no watermarks, no UI, no book covers. If any living beings appear, use stylized animated-feature character design (expressive, soft, non-photoreal) — never photoreal humans. No purple neon AI-glow cliché.",
+  "atmosphere": {
+    "size": "landscape",
+    "prompt": "Wide atmospheric hero backdrop for Carl Sagan's Cosmos: a quiet dark shoreline under a vast glowing night sky with a luminous spiral galaxy low on the horizon, soft star bloom, teal nebula wisps, calm water reflections. Empty of people — pure landscape of wonder. Designed as a soft background behind UI text. {style}"
+  },
+  "cover": {
+    "size": "portrait",
+    "prompt": "Vertical book-cover art for \"Cosmos\" by Carl Sagan. A small stylized animated-feature spaceship of the imagination gliding over a dark cosmic ocean toward a warm glowing spiral galaxy; cinematic depth, generous negative space, memorable single hero motif. {style}"
+  },
+  "og": {
+    "size": "landscape",
+    "prompt": "Wide social share illustration for a summary of Carl Sagan's Cosmos: panoramic cosmic ocean shore meeting a star-filled sky with galaxy glow and soft teal nebulae; cinematic awe, no people, no text, prestige documentary-animation feel. {style}"
+  }
+}
