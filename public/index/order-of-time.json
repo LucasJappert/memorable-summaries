@@ -1,0 +1,509 @@
+{
+  "slug": "order-of-time",
+  "title": "El orden del tiempo",
+  "concepts": [
+    {
+      "title": "Tiempo propio",
+      "description": "Duración medida por un reloj o trayectoria concreta; no hay tiempo universal unificador."
+    },
+    {
+      "title": "Entropía",
+      "description": "Desorden compatible con una descripción borrosa; única magnitud fundamental que distingue pasado y futuro (Δ S ≥ 0)."
+    },
+    {
+      "title": "Conos de luz",
+      "description": "Estructura temporal relativista: pasado y futuro locales, sin presente global ni orden total entre eventos distantes."
+    },
+    {
+      "title": "Campo gravitatorio",
+      "description": "En Einstein, idéntico al espacio-tiempo: geometría dinámica, curva y material."
+    },
+    {
+      "title": "Granularidad cuántica",
+      "description": "Tiempo y espacio tienen escala mínima (Planck); la continuidad es aproximación."
+    },
+    {
+      "title": "Acontecimientos vs. cosas",
+      "description": "Ontología del devenir: «cosas» estables son procesos temporales largos."
+    },
+    {
+      "title": "Tiempo térmico",
+      "description": "Variable temporal emergente de estados macroscópicos borrosos acoplada a la energía."
+    },
+    {
+      "title": "Perspectiva / borrosidad",
+      "description": "La flecha temporal y la baja entropía «inicial» pueden ser relativas al subsistema observador."
+    },
+    {
+      "title": "Memoria y trazas",
+      "description": "Registros físicos irreversibles que el cerebro integra como identidad y flujo subjetivo."
+    },
+    {
+      "title": "Emergencia en capas",
+      "description": "El tiempo experimentado es superposición de aproximaciones sucesivas, no propiedad elemental única."
+    }
+  ],
+  "highlight": "Lo que llamamos «tiempo» emerge de nuestra perspectiva borrosa, entrópica y humana",
+  "entries": [
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Quizá el tiempo sea el mayor misterio",
+      "text": "¿Qué escuchamos cuando escuchamos pasar el tiempo? Rovelli se detiene y siente el paso de los segundos, las horas, los años. Ese tiempo íntimo, uniforme y con pasado fijo y futuro abierto, parece la columna vertebral del universo."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Quizá el tiempo sea el mayor misterio",
+      "text": "La realidad suele ser distinta a lo que parece. La Tierra parece plana. El Sol parece girar en el cielo. Del mismo modo, el tiempo no fluye como creemos. En los libros de física que leyó de joven descubrió algo asombroso: el tiempo funciona de otra manera, y aún no sabemos del todo cómo."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Quizá el tiempo sea el mayor misterio",
+      "text": "El libro tiene tres partes desiguales. En la primera, el tiempo familiar se derrite como un copo de nieve entre los dedos. En la segunda, queda un paisaje casi despojado de temporalidad. En la tercera, el viaje de regreso: buscar al culpable que creó el tiempo que conocemos. En Edipo rey, el detective podría ser el propio culpable."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Quizá el tiempo sea el mayor misterio",
+      "text": "El tiempo cotidiano y el tiempo de la física no coinciden: investigarlo es entrar en uno de los misterios abiertos más profundos."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Quizá el tiempo sea el mayor misterio",
+      "text": "Si lo familiar resulta falso, el primer estrato que hay que retirar es la unidad del tiempo: ¿pasa igual en todas partes?"
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Pérdida de la unidad",
+      "text": "¿Por qué el tiempo pasa más rápido en la montaña que a nivel del mar? ¿Qué implica eso para la noción de un tiempo único? Un reloj en el suelo marca menos segundos que uno sobre la mesa. No es solo cuestión de relojes: allí abajo todo es más lento."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Pérdida de la unidad",
+      "text": "Albert Einstein comprendió esto un siglo antes de poder medirlo con precisión. La masa ralentiza el tiempo a su alrededor. Por eso las cosas caen. Se inclinan hacia donde el tiempo pasa más despacio, como cuando corremos hacia el mar y el agua nos hace tropezar."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Pérdida de la unidad",
+      "text": "En las ecuaciones de la relatividad general (la teoría que une gravedad y geometría del espacio-tiempo) no hay un solo tiempo t . Hay innumerables tiempos propios (la duración medida por cada reloj o trayectoria concreta). Preguntar cuál es el «verdadero» carece de sentido, como preguntar si el dólar o la libra es la moneda real."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Pérdida de la unidad",
+      "text": "Entonces el mundo no avanza al compás de un solo comandante. Es una red de acontecimientos con ritmos distintos. El cosmos no sería un único Shiva danzante del mito hindú, sino diez mil. Anaximandro , en un fragmento del siglo VI a.C., ya hablaba del orden del tiempo (κατὰ τὴν τοῦ χρόνου τάξιν)."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Pérdida de la unidad",
+      "text": "No existe un tiempo universal: cada lugar y cada trayectoria tienen su propio ritmo, modificado por la gravedad."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Pérdida de la unidad",
+      "text": "Aunque los relojes difieran, ¿no sigue fluyendo el tiempo del pasado al futuro? Esa es la siguiente capa."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Pérdida de la dirección",
+      "text": "¿Qué distingue el pasado del futuro en el mecanismo del mundo, si las ecuaciones fundamentales son simétricas en el tiempo? El vaso se hace añicos. Los fragmentos no vuelven a formar el vaso. Esa flecha parece esencial, pero no está en las leyes elementales."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Pérdida de la dirección",
+      "text": "Todo empezó, en cierto modo, con un regicidio. El 16 de enero de 1793 , la Convención Nacional condenó a muerte a Luis XVI . Entre quienes votaron estaba Lazare Carnot , amigo de Robespierre. Su hijo, Sadi Carnot , estudiaría las máquinas de vapor y el calor que pasa de lo caliente a lo frío."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Pérdida de la dirección",
+      "text": "Rudolf Clausius formuló el segundo principio: el calor no pasa espontáneamente de frío a caliente. Es la única ley básica que distingue pasado y futuro. A eso llamó entropía (del griego transformación ): una medida del desorden compatible con nuestra descripción borrosa del mundo."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Pérdida de la dirección",
+      "text": "Ludwig Boltzmann interpretó la entropía estadísticamente. A escala microscópica, las ecuaciones no distinguen direcciones. La flecha aparece donde hay calor y donde partimos de un estado inicial de baja entropía que aún no explicamos del todo. Por eso la ecuación Δ S ≥ 0 (la única ecuación del libro) está grabada en su tumba."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Pérdida de la dirección",
+      "text": "La diferencia entre pasado y futuro no está en la gramática profunda de la física, sino en la termodinámica y en nuestra visión borrosa del detalle microscópico."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Pérdida de la dirección",
+      "text": "Queda otro rasgo aún más familiar: el «ahora» compartido; ¿qué significa «ahora» lejos de nosotros?"
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "El fin del presente",
+      "text": "¿Qué ocurre «ahora» en un lugar lejano (por ejemplo, donde orbita Proxima b, a unos 4 años-luz )? ¿Cómo se organizan pasado y futuro sin un presente global? La única respuesta correcta es que la pregunta no tiene sentido."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "El fin del presente",
+      "text": "La velocidad también ralentiza el tiempo. Einstein lo dedujo de las ecuaciones de Maxwell antes de medirlo: un reloj en movimiento marca menos segundos que uno quieto. En la década de 1970 se midió en aviones con cronómetros de precisión."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "El fin del presente",
+      "text": "Nuestro «presente» es una burbuja local. Entre el pasado que podemos ver y el futuro que aún no alcanzamos hay un intervalo. Es el presente expandido (la franja temporal alcanzable desde aquí), que dura minutos en Marte y millones de años en Andrómeda. La estructura temporal son conos de luz (regiones del espacio-tiempo limitadas por la velocidad de la luz): un orden parcial, no una línea única."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "El fin del presente",
+      "text": "Rovelli llama a esto la conclusión más asombrosa de la física contemporánea. Kurt Gödel mostró que en relatividad general pueden existir curvas temporales cerradas. Los agujeros negros tienen un horizonte donde el presente se vuelve estructura local, no instante compartido."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "El fin del presente",
+      "text": "No existe un «presente del universo»: «ahora» solo tiene sentido en una burbuja cercana a nosotros."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "El fin del presente",
+      "text": "Si el tiempo no es uno ni tiene presente global, ¿es una entidad que fluye por sí sola, independiente de lo demás?"
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Pérdida de la independencia",
+      "text": "¿El tiempo pasa aunque nada cambie, como creía Newton, o solo existe como medida del cambio, como sostenía Aristóteles? La historia de los relojes (desde campanarios del siglo XIV hasta las zonas horarias de 1883 ) preparó el terreno para otra respuesta."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Pérdida de la independencia",
+      "text": "Aristóteles decía que el tiempo es la medida del cambio. Isaac Newton postuló un tiempo absoluto, verdadero y matemático, que fluye sin las cosas. Gottfried Leibniz replicó que el tiempo es el orden de las sucesiones, no un escenario autónomo."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Pérdida de la independencia",
+      "text": "Einstein, en la oficina de patentes suiza, unificó ambas intuiciones. El espacio-tiempo (la unión de espacio y tiempo en una sola geometría) no es un escenario fijo. Es el campo gravitatorio (la entidad física que la gravedad describe), dinámico, curvo y verificable. Pierde sentido preguntar si el tiempo existe sin el mundo."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Pérdida de la independencia",
+      "text": "Einstein advirtió en 1916 que la relatividad no puede ser la última palabra. Ese campo gravitatorio debe tener propiedades cuánticas. El cuarto estrato perdido es la independencia: tiempo y espacio ya no son el escenario absoluto de Newton."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Pérdida de la independencia",
+      "text": "El tiempo no es absoluto ni independiente de las cosas: espacio-tiempo y gravedad son un mismo campo físico."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Pérdida de la independencia",
+      "text": "Si el espacio-tiempo es un campo físico, ¿qué ocurre cuando entra la mecánica cuántica?"
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Cuantos de tiempo",
+      "text": "¿Qué le ocurre al tiempo cuando el campo gravitatorio tiene propiedades cuánticas? Tres pilares cuánticos desintegran lo poco que quedaba del andamiaje temporal clásico."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Cuantos de tiempo",
+      "text": "El primer pilar es la granularidad : tiempo y espacio tienen escala mínima. El tiempo de Planck (la escala mínima del tiempo) ronda los 10⁻⁴⁴ s . La longitud de Planck mide unos 10⁻³³ cm . Isidoro de Sevilla, Beda y Maimónides ya imaginaron átomos de tiempo. Hoy la continuidad parece aproximación matemática."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Cuantos de tiempo",
+      "text": "El segundo pilar es la indeterminación: pueden superponerse configuraciones espaciotemporales distintas. El tercero es la relatividad relacional: las duraciones concretas surgen al interactuar, no antes. En la gravedad cuántica de bucles (el enfoque en el que trabaja Rovelli) el espacio-tiempo pierde continuidad, presente único e independencia."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Cuantos de tiempo",
+      "text": "No hay teoría cuántica de la gravedad universalmente aceptada ni confirmada en laboratorio. El desmoronamiento de la Parte I queda completo: unidad, dirección, presente, independencia y continuidad caen uno tras otro. Eso abre la Parte II, un mundo sin variable temporal fundamental."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Cuantos de tiempo",
+      "text": "La cuantización destruye lo que restaba del tiempo clásico: granularidad, superposición e interactividad relacional desarman el andamiaje temporal."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Cuantos de tiempo",
+      "text": "Tras desmontar el tiempo como variable fundamental, ¿qué queda del mundo? Un tejido de eventos en cambio."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "El mundo está hecho de acontecimientos, no de cosas",
+      "text": "¿El mundo sin variable temporal queda congelado, o sigue habiendo cambio? Las ecuaciones sin tiempo describen cómo variables cambian entre sí. El cambio persiste, pero sin orden global en una línea temporal única."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "El mundo está hecho de acontecimientos, no de cosas",
+      "text": "Una piedra parece cosa permanente. En realidad es un proceso lento de interacciones atómicas. Un beso dura segundos. Una montaña, millones de años. Ambos son acontecimientos (procesos, interacciones), no sustancias eternas."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "El mundo está hecho de acontecimientos, no de cosas",
+      "text": "Platón buscó poliedros regulares perfectos. Kepler los insertó en las órbitas planetarias. Fue un error de buscar formas estáticas donde la física exitosa describe dinámicas. «Nápoles» y «Singapur» son convenciones útiles sobre procesos, no esencias fijas."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "El mundo está hecho de acontecimientos, no de cosas",
+      "text": "Por eso la ontología del libro se vuelca al devenir. Lo que sobrevive al fin del tiempo fundamental no es el estatismo sino la red de procesos. Las cosas duraderas son eventos monótonos antes de volver al polvo."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "El mundo está hecho de acontecimientos, no de cosas",
+      "text": "Lo que perdura en un mundo sin tiempo fundamental es el cambio: el mundo se comprende mejor como red de acontecimientos que como colección de cosas permanentes."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "El mundo está hecho de acontecimientos, no de cosas",
+      "text": "Si el cambio no sigue un orden global, ¿cómo hablar de realidad sin caer en presentismo ni en un universo-bloque estático?"
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "La insuficiencia de la gramática",
+      "text": "Si no hay presente global, ¿qué es «real» y existe el flujo del tiempo o es ilusión? Ni el presentismo (solo el presente es real) ni el eternismo (todo el espacio-tiempo existe sin flujo) capturan la estructura temporal real."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "La insuficiencia de la gramática",
+      "text": "Los diagramas de conos muestran relaciones temporales locales, no una estratificación pasado/presente/futuro válida en todo el cosmos. Rechazar el universo-bloque estático no implica negar el cambio: el cambio existe, pero no está ordenado globalmente."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "La insuficiencia de la gramática",
+      "text": "«Real» y «existe» son ambiguos, como preguntar si Pinocho es un niño de verdad. «Arriba» y «abajo» tuvieron sentido en una Tierra plana. En una esfera, son perspectivas locales. La gramática temporal heredada de nuestra experiencia limitada es igual de inadecuada."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "La insuficiencia de la gramática",
+      "text": "La famosa frase de Einstein sobre la ilusión del tiempo aparece en la carta a la familia de Michele Besso tras su muerte. La escribió poco antes de morir el 18 de abril de 1955 . No debe leerse como tesis física. Es consuelo existencial. El flujo no es ilusorio. Lo ilusorio es pensarlo universal y uniforme."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "La insuficiencia de la gramática",
+      "text": "Hay cambio y relaciones temporales locales, pero la gramática pasado/presente/futuro (heredada de la experiencia limitada) es inadecuada para describir la estructura real."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "La insuficiencia de la gramática",
+      "text": "Con la gramática corregida, ¿cómo se escriben ecuaciones del mundo sin variable tiempo?"
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "La dinámica como relación",
+      "text": "¿Cómo describir un mundo donde todo ocurre pero no hay tiempo común ni dirección privilegiada? La dinámica fundamental no necesita una variable t : describe relaciones probabilísticas entre cantidades observables."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "La dinámica como relación",
+      "text": "Longitud, temperatura y posición de manecillas son variables que cambian con regularidades respecto unas de otras. La ecuación de Wheeler-DeWitt (1967), de DeWitt y Wheeler, escribe esa dinámica sin tiempo."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "La dinámica como relación",
+      "text": "En gravedad cuántica de bucles aparecen redes de espín y espuma de espín: quanta de espacio que existen solo al interactuar. Rovelli no está seguro de que sea la descripción correcta, pero es la forma coherente que conoce de pensar espacio-tiempo cuántico. Predice fenómenos cualitativos, como una explosión cuántica de agujero negro."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "La dinámica como relación",
+      "text": "Wheeler y DeWitt son, para el autor, padres espirituales de este camino. El mundo no es estático: es un mundo de eventos cuya dinámica es relacional, no temporal en el sentido familiar."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "La dinámica como relación",
+      "text": "La dinámica fundamental describe relaciones probabilísticas entre variables observables, sin necesidad de una variable tiempo privilegiada."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "La dinámica como relación",
+      "text": "Si el tiempo no está en lo fundamental, ¿de dónde emerge lo que miden nuestros relojes?"
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "El tiempo es ignorancia",
+      "text": "¿Qué es el «tiempo» humano si en la dinámica elemental todas las variables están al mismo nivel? Surge de descripciones macroscópicas borrosas. No conocemos el detalle microscópico, y esa ignorancia crea una variable temporal."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "El tiempo es ignorancia",
+      "text": "Un gato, un equipo de fútbol o la superficie de las nubes son propiedades emergentes de algo más fundamental. Aquí la lógica se invierte: dado un estado macroscópico borroso, se define energía y de ahí el tiempo térmico (variable temporal emergente de estados macroscópicos)."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "El tiempo es ignorancia",
+      "text": "Roger Penrose y Alain Connes aportaron piezas del tiempo cuántico. Connes escribió una novela donde Charlotte pierde el sentido del tiempo al ver el mundo sin borrosidad. Las álgebras no conmutativas generan un flujo donde el orden de las interacciones importa."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "El tiempo es ignorancia",
+      "text": "El tiempo térmico aún no distingue pasado de futuro ni produce «flujo» por sí solo. Aun así, la Parte III queda abierta: las fuentes del tiempo que reconstruiremos desde la perspectiva. El título del capítulo lo resume: el tiempo es ignorancia."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "El tiempo es ignorancia",
+      "text": "El tiempo que medimos nace de descripciones borrosas del detalle microscópico (entropía e indeterminación cuántica), no de una variable fundamental."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "El tiempo es ignorancia",
+      "text": "Si el tiempo es ignorancia, ¿por qué la entropía del universo fue baja en el pasado y de ahí sale la flecha?"
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Perspectiva",
+      "text": "¿Por qué la entropía fue baja en el pasado, si la diferencia pasado/futuro depende solo de eso? Rovelli propone que la baja entropía inicial podría ser efecto de perspectiva, no propiedad global del cosmos."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Perspectiva",
+      "text": "El cielo parece girar. En realidad giramos nosotros. Del mismo modo, la entropía es relativa como la velocidad. En un juego de cartas rojas y negras, una configuración parece «especial» solo respecto a lo que registramos e ignoramos."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Perspectiva",
+      "text": "En un universo vasto, algún subsistema en estado particular es probable —como alguien gana la lotería. Nosotros somos ese subsistema que interactúa con pocas variables. La indexicalidad («aquí», «ahora», «yo») orienta lo que llamamos pasado y futuro."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Perspectiva",
+      "text": "Rovelli admite no estar seguro de que esta historia sea correcta. Pero no conoce una mejor. La alternativa es aceptar la baja entropía inicial como dato inexplicado. Hildegarda de Bingen ya intuía que la perspectiva moldea lo visible."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Perspectiva",
+      "text": "La baja entropía inicial (y con ella la flecha del tiempo) podría ser efecto de nuestra perspectiva parcial, no una propiedad global del cosmos."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Perspectiva",
+      "text": "Si la perspectiva orienta la flecha, ¿cómo la baja entropía impulsa el mundo y genera trazas, causas y memoria?"
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Lo que emerge de una particularidad",
+      "text": "¿De dónde viene la dirección del tiempo, las trazas del pasado y la noción de causa? Lo que mueve el mundo no es la energía (conservada) sino la baja entropía disponible."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Lo que emerge de una particularidad",
+      "text": "El Sol envía un fotón caliente. La Tierra emite unos diez fotones más fríos. Recibimos entropía baja y devolvemos entropía alta. La historia cósmica abrió puertas entrópicas escalonadas: madera ardiendo, nubes de hidrógeno, estrellas, gravedad."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Lo que emerge de una particularidad",
+      "text": "La vida es una red de procesos que consume baja entropía. Las trazas (huellas, registros) solo son posibles con procesos irreversibles donde interviene el calor. La causa, para Bertrand Russell , no es ley elemental sino herramienta estadística ligada a baja entropía pasada."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Lo que emerge de una particularidad",
+      "text": "A nivel fundamental solo hay regularidades simétricas en el tiempo. Causa, memoria y flecha son efectivos emergentes de esa particularidad entrópica. Δ S ≥ 0 vuelve aquí como motor del devenir concreto."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Lo que emerge de una particularidad",
+      "text": "La baja entropía disponible (alimentada por el Sol y un pasado aún más ordenado) produce trazas, causas, memoria y la asimetría pasado/futuro que experimentamos."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Lo que emerge de una particularidad",
+      "text": "Si trazas y entropía nos devuelven a nosotros mismos, ¿qué somos como seres temporales?"
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "El aroma de la magdalena",
+      "text": "¿Qué soy yo en un mundo de eventos, y por qué el tiempo vivido parece fluir dentro de nosotros? Somos procesos tejidos por memoria y anticipación, no entidades sustanciales en un tiempo objetivo global."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "El aroma de la magdalena",
+      "text": "En el diálogo de Nāgasena con el rey Milinda, el «carro» no es una pieza sino relaciones. La identidad integra tres ingredientes: punto de vista, segmentación del mundo en «cosas» y memoria. El cerebro predice, retiene e integra trazas entrópicas."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "El aroma de la magdalena",
+      "text": "Agustín , en las Confesiones XI, confiesa no saber qué es el tiempo mientras no lo mide. Husserl analizó la retención y la protención. Marcel Proust , con la madeleine, mostró que la realidad se forma por la memoria: «solo por la memoria»."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "El aroma de la magdalena",
+      "text": "La objeción de que primero existe un tiempo físico global pierde fuerza si la física desmonta ese tiempo. Antes que seres racionales, somos hambre, vínculo, vida. El flujo subjetivo emerge del rastro entrópico en el cerebro."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "El aroma de la magdalena",
+      "text": "La identidad personal y la experiencia del flujo emergen del rastro entrópico en el cerebro, no de una entidad sustancial ni de un tiempo objetivo global."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "El aroma de la magdalena",
+      "text": "¿Cómo sintetizar todo el viaje en una imagen coherente del tiempo multicapa?"
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "La fuente del tiempo",
+      "text": "¿Qué queda, al final del recorrido, del tiempo que conocemos? Una aproximación de aproximación de aproximación: capas independientes que, a nuestra escala, convergen en un tiempo uniforme y ordenado."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "La fuente del tiempo",
+      "text": "No hay presente universal. Pasado y futuro no están en las ecuaciones elementales. Hay muchos tiempos propios según masa y velocidad. Espacio-tiempo es campo gravitatorio. A nivel cuántico desaparecen espacio y tiempo como variables fundamentales. El regreso mostró tiempo térmico, perspectiva entrópica, trazas y memoria."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "La fuente del tiempo",
+      "text": "A nuestra escala no registramos fluctuaciones cuánticas ni diferencias entre relojes. Por eso hablamos de un solo tiempo de experiencia. Es la aproximación de una descripción hecha desde criaturas ancladas al crecimiento de la entropía. Eclesiastés lo resume: tiempo de nacer y tiempo de morir."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "La fuente del tiempo",
+      "text": "Partes del relato son sólidas (relatividad, entropía, ausencia de presente global). Otras son plausibles o conjeturales. Hans Reichenbach señaló que el miedo al tiempo alimentó filosofías de la eternidad. Rovelli concluye que quizá la dimensión emocional del tiempo no es velo sino esencia: somos tiempo, somos memoria."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "La fuente del tiempo",
+      "text": "El tiempo experimentado es superposición de aproximaciones sucesivas. La emoción temporal podría ser, en el fondo, lo que el tiempo es para nosotros."
+    },
+    {
+      "sectionId": "epilogo",
+      "sectionTitle": "La hermana del sueño",
+      "text": "¿Cómo habitar la finitud temporal sin las ilusiones que la ciencia desmontó? En el Mahābhārata, el espíritu Yaksa pregunta cuál es el mayor misterio. Yudhistira responde: cada día mueren innumerables personas, y quienes quedan viven como inmortales."
+    },
+    {
+      "sectionId": "epilogo",
+      "sectionTitle": "La hermana del sueño",
+      "text": "Rovelli, a los sesenta años, no teme la muerte como temió nunca del todo. La teme menos que el sufrimiento o la vejez sin amor. Bach, en la cantata BWV 56, llama a la muerte «hermana del sueño»: una hermana bondadosa que cierra los ojos."
+    },
+    {
+      "sectionId": "epilogo",
+      "sectionTitle": "La hermana del sueño",
+      "text": "El miedo a la muerte parece un error evolutivo. Nuestros lóbulos frontales hipertrofiados anticipan lo inevitable y disparan terror. La razón aclara ideas sin generar los motivos. Primero somos sed de vida, hambre, amor y pertenencia. Después, quizá, razonamos."
+    },
+    {
+      "sectionId": "epilogo",
+      "sectionTitle": "La hermana del sueño",
+      "text": "Agustín dijo que el canto es conciencia del tiempo. Lo evocan el himno de los Vedas, el Benedictus de Beethoven y el hilo de plata de Eclesiastés que se rompe. La vida breve es emoción, canto, tiempo vivido intensamente. Aceptar su fin es coherente con lo aprendido."
+    },
+    {
+      "sectionId": "epilogo",
+      "sectionTitle": "La hermana del sueño",
+      "text": "La muerte no debe alarmar como lo hace nuestro cerebro hiperpredictivo: la vida breve es emoción y tiempo vivido, y aceptar su fin es coherente con lo aprendido."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "El tiempo que habitamos —uniforme, con presente universal y flecha irreversible— es una aproximación en capas de un mundo de eventos sin variable temporal privilegiada."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La física desmonta el reloj cósmico pieza a pieza y lo reconstruye desde la memoria."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Al final del viaje, la emoción del tiempo podría ser precisamente lo que el tiempo es para nosotros."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Somos tiempo; somos memoria; somos el misterio que escuchamos al escuchar pasar el tiempo."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Lo que llamamos «tiempo» emerge de nuestra perspectiva borrosa, entrópica y humana"
+    }
+  ]
+}

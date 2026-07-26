@@ -142,6 +142,7 @@ COVER_META: dict[str, tuple[str, str]] = {
     "quantum-enigma": ("Quantum Enigma", "Bruce Rosenblum"),
     "something-deeply-hidden": ("Something Deeply Hidden", "Sean Carroll"),
     "why-we-die": ("Why We Die", "Venki Ramakrishnan"),
+    "order-of-time": ("The Order of Time", "Carlo Rovelli"),
 }
 
 # ISBN opcional para portadas de mayor resolución en Open Library (validados por título)

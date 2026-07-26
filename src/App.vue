@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, onMounted, onUnmounted, watch } from 'vue'
+import { onMounted, onUnmounted, watch } from 'vue'
 import { useRoute } from 'vue-router'
 import AppBottomBar from './components/AppBottomBar.vue'
 import AppNavDrawer from './components/AppNavDrawer.vue'
@@ -13,15 +13,8 @@ import {
   toggleGlobalSearch,
 } from './composables/useGlobalSearch'
 import { closeLibraryCatalogSearch } from './composables/useLibraryCatalogSearch'
-import { useAudioQueue } from './composables/useAudioQueue'
 
 const route = useRoute()
-const { playerVisible, playerExpanded, queueSheetOpen } = useAudioQueue()
-
-const shellClass = computed(() => ({
-  'app-shell--audio-dock':
-    playerVisible.value && !playerExpanded.value && !queueSheetOpen.value,
-}))
 
 function onGlobalKeydown(event: KeyboardEvent) {
   if ((event.metaKey || event.ctrlKey) && event.key.toLowerCase() === 'k') {
@@ -45,7 +38,7 @@ onUnmounted(() => window.removeEventListener('keydown', onGlobalKeydown))
 
 <template>
   <Starfield />
-  <div class="app-shell" :class="shellClass">
+  <div class="app-shell">
     <router-view />
   </div>
   <AppBottomBar />

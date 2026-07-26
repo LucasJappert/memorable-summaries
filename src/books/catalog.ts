@@ -48,6 +48,7 @@ import { death } from '../data/death'
 import { ageless } from '../data/ageless'
 import { lifespan } from '../data/lifespan'
 import { whyWeDie } from '../data/why-we-die'
+import { orderOfTime } from '../data/order-of-time'
 
 export interface BookCatalogEntry {
   slug: string
@@ -88,7 +89,7 @@ function buildCatalogEntry(book: BookSummary): BookCatalogEntry {
   }
 }
 
-/** Fases 1–9 (orden-de-lectura.md) — 47 libros */
+/** Fases 1–9 (orden-de-lectura.md) + batch 15 — 48+ libros */
 const ALL_BOOKS: BookSummary[] = [
   cosmos,
   universoNada,
@@ -138,6 +139,7 @@ const ALL_BOOKS: BookSummary[] = [
   ageless,
   lifespan,
   whyWeDie,
+  orderOfTime,
 ]
 
 export const bookCatalog: BookCatalogEntry[] = ALL_BOOKS.map(buildCatalogEntry)

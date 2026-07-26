@@ -1,7 +1,6 @@
 <script setup lang="ts">
 import { computed, nextTick, onUnmounted, ref, watch, watchEffect } from "vue";
 import { getBookBySlug } from "../books/catalog";
-import { bookHasAudio } from "../books/audio-catalog";
 import ReadingProgress from "../components/ReadingProgress.vue";
 import HeroSection from "../components/HeroSection.vue";
 import BookSection from "../components/BookSection.vue";
@@ -16,7 +15,6 @@ import { useMediaQuery } from "../composables/useMediaQuery";
 import { usePageMeta } from "../composables/usePageMeta";
 import { useReadingPosition } from "../composables/useReadingPosition";
 import { registerBookBottomBar, unregisterBookBottomBar } from "../composables/useAppBottomBar";
-import { useAudioQueue } from "../composables/useAudioQueue";
 import ReadCelebration from "../components/ReadCelebration.vue";
 import { absoluteUrl, bookOgImageUrl } from "../config/site";
 import { bookCanonicalPath, formatBookDescription, formatBookDisplayTitle, formatBookPageTitle } from "../utils/seo";
@@ -58,10 +56,7 @@ usePageMeta(
         };
     }),
 );
-const hasAudio = computed(() => bookHasAudio(props.slug));
-
 const menuOpen = ref(false);
-const { playerVisible, togglePlayer, ensureBookInQueueAndShow, play } = useAudioQueue();
 
 const chapterToc = computed(() => {
     if (!book.value) return [];
@@ -139,16 +134,6 @@ function closeMenu() {
     menuOpen.value = false;
 }
 
-function toggleAudio() {
-    if (!hasAudio.value) return;
-    if (playerVisible.value) {
-        togglePlayer();
-        return;
-    }
-    ensureBookInQueueAndShow(props.slug);
-    play(props.slug);
-}
-
 function scrollToCover() {
     window.scrollTo({ top: 0, behavior: "smooth" });
 }
@@ -157,16 +142,13 @@ watchEffect((onCleanup) => {
     const b = book.value;
     if (!b) return;
     registerBookBottomBar({
-        hasAudio: hasAudio.value,
         menuOpen: menuOpen.value,
-        audioOpen: playerVisible.value,
         slug: b.slug,
         title: b.meta.title,
         author: b.meta.author,
         handlers: {
             scrollToTop: scrollToCover,
             toggleMenu,
-            toggleAudio,
         },
     });
     onCleanup(() => unregisterBookBottomBar());

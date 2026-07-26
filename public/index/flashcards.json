@@ -4092,6 +4092,72 @@
     "back": "Terrícolas (lectores seguros) vs extraterrestres (probabilidad infinitesimal)."
   },
   {
+    "id": "order-of-time:highlight",
+    "slug": "order-of-time",
+    "front": "¿Cuál es la idea central del cierre?",
+    "back": "Lo que llamamos «tiempo» emerge de nuestra perspectiva borrosa, entrópica y humana"
+  },
+  {
+    "id": "order-of-time:concept:0",
+    "slug": "order-of-time",
+    "front": "Tiempo propio",
+    "back": "Duración medida por un reloj o trayectoria concreta; no hay tiempo universal unificador."
+  },
+  {
+    "id": "order-of-time:concept:1",
+    "slug": "order-of-time",
+    "front": "Entropía",
+    "back": "Desorden compatible con una descripción borrosa; única magnitud fundamental que distingue pasado y futuro (Δ S ≥ 0)."
+  },
+  {
+    "id": "order-of-time:concept:2",
+    "slug": "order-of-time",
+    "front": "Conos de luz",
+    "back": "Estructura temporal relativista: pasado y futuro locales, sin presente global ni orden total entre eventos distantes."
+  },
+  {
+    "id": "order-of-time:concept:3",
+    "slug": "order-of-time",
+    "front": "Campo gravitatorio",
+    "back": "En Einstein, idéntico al espacio-tiempo: geometría dinámica, curva y material."
+  },
+  {
+    "id": "order-of-time:concept:4",
+    "slug": "order-of-time",
+    "front": "Granularidad cuántica",
+    "back": "Tiempo y espacio tienen escala mínima (Planck); la continuidad es aproximación."
+  },
+  {
+    "id": "order-of-time:concept:5",
+    "slug": "order-of-time",
+    "front": "Acontecimientos vs. cosas",
+    "back": "Ontología del devenir: «cosas» estables son procesos temporales largos."
+  },
+  {
+    "id": "order-of-time:concept:6",
+    "slug": "order-of-time",
+    "front": "Tiempo térmico",
+    "back": "Variable temporal emergente de estados macroscópicos borrosos acoplada a la energía."
+  },
+  {
+    "id": "order-of-time:concept:7",
+    "slug": "order-of-time",
+    "front": "Perspectiva / borrosidad",
+    "back": "La flecha temporal y la baja entropía «inicial» pueden ser relativas al subsistema observador."
+  },
+  {
+    "id": "order-of-time:concept:8",
+    "slug": "order-of-time",
+    "front": "Memoria y trazas",
+    "back": "Registros físicos irreversibles que el cerebro integra como identidad y flujo subjetivo."
+  },
+  {
+    "id": "order-of-time:concept:9",
+    "slug": "order-of-time",
+    "front": "Emergencia en capas",
+    "back": "El tiempo experimentado es superposición de aproximaciones sucesivas, no propiedad elemental única."
+  },
+  {
     "id": "origins:highlight",
     "slug": "origins",
     "front": "¿Cuál es la idea central del cierre?",

@@ -16,7 +16,6 @@ import {
   closeLibraryCatalogSearch,
 } from '../composables/useLibraryCatalogSearch'
 import { useScrollProgress } from '../composables/useScrollProgress'
-import AudioIcon from './icons/AudioIcon.vue'
 
 const route = useRoute()
 const { bookBarState } = useAppBottomBarBook()
@@ -251,27 +250,6 @@ function onQueueClick() {
               fill="currentColor"
             />
           </svg>
-        </button>
-
-        <button
-          type="button"
-          class="app-bottom-bar__btn app-bottom-bar__btn--audio"
-          :class="{
-            'app-bottom-bar__btn--active': book.hasAudio && book.audioOpen,
-            'app-bottom-bar__btn--no-audio': !book.hasAudio,
-          }"
-          :disabled="!book.hasAudio"
-          :aria-pressed="book.hasAudio ? book.audioOpen : undefined"
-          :aria-label="
-            book.hasAudio
-              ? book.audioOpen
-                ? 'Ocultar reproductor'
-                : 'Mostrar reproductor'
-              : 'Audio no disponible para este libro'
-          "
-          @click="onNavAway(); book.hasAudio && book.handlers.toggleAudio()"
-        >
-          <AudioIcon />
         </button>
 
         <button

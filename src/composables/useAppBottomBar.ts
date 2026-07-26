@@ -3,13 +3,10 @@ import { ref } from 'vue'
 export interface BookBottomBarHandlers {
   scrollToTop: () => void
   toggleMenu: () => void
-  toggleAudio: () => void
 }
 
 export interface BookBottomBarState {
-  hasAudio: boolean
   menuOpen: boolean
-  audioOpen: boolean
   slug: string
   title: string
   author: string

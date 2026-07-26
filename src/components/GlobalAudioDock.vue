@@ -7,7 +7,6 @@ import AudioQueueSheet from './AudioQueueSheet.vue'
 
 const {
   currentSlug,
-  playerVisible,
   queueSheetOpen,
   autoplayPending,
   pausePending,
@@ -15,7 +14,6 @@ const {
   seekZeroPending,
   seekToPending,
   seekToToken,
-  playerExpanded,
   isPlaying,
   hidePlayer,
   openQueueSheet,
@@ -35,8 +33,6 @@ const {
   playPrevSmart,
   pause,
   resume,
-  expandPlayer,
-  collapsePlayer,
 } = useAudioQueue()
 
 const shouldAutoplay = ref(false)
@@ -130,7 +126,7 @@ function onSeekToConsumed() {
 }
 
 function onKeydown(event: KeyboardEvent) {
-  if (!playerVisible.value || !currentSlug.value) return
+  if (!currentSlug.value) return
   const target = event.target
   if (
     target instanceof HTMLElement &&
@@ -142,11 +138,6 @@ function onKeydown(event: KeyboardEvent) {
   }
 
   if (event.key === 'Escape') {
-    if (playerExpanded.value) {
-      event.preventDefault()
-      collapsePlayer()
-      return
-    }
     if (queueSheetOpen.value) {
       event.preventDefault()
       closeQueueSheet()
@@ -178,9 +169,10 @@ onBeforeUnmount(() => window.removeEventListener('keydown', onKeydown))
 
 <template>
   <Teleport to="body">
+    <!-- Motor de audio oculto: la UI vive en AudioQueueSheet -->
     <AudioPlayer
       v-if="currentSlug"
-      v-show="playerVisible && !queueSheetOpen"
+      class="global-audio-dock global-audio-dock--engine"
       :slug="currentSlug"
       :track-title="trackTitle"
       :track-subtitle="trackSubtitle"
@@ -194,9 +186,8 @@ onBeforeUnmount(() => window.removeEventListener('keydown', onKeydown))
       :skip-to-next="skipToNext"
       :skip-to-prev="skipToPrev"
       bar
-      :expanded="playerExpanded"
+      :expanded="false"
       show-transport
-      class="global-audio-dock"
       @close="onClose"
       @ended="reportPlaying(false)"
       @continuation-blocked="requestAutoplay"
@@ -205,8 +196,6 @@ onBeforeUnmount(() => window.removeEventListener('keydown', onKeydown))
       @open-queue="openQueueSheet"
       @prev="playPrevSmart"
       @next="playNext"
-      @expand="expandPlayer"
-      @collapse="collapsePlayer"
       @progress="onProgress"
       @pause-consumed="onPauseConsumed"
       @resume-consumed="onResumeConsumed"
@@ -216,3 +205,20 @@ onBeforeUnmount(() => window.removeEventListener('keydown', onKeydown))
   </Teleport>
   <AudioQueueSheet :open="queueSheetOpen" @close="closeQueueSheet" />
 </template>
+
+<style scoped>
+.global-audio-dock--engine {
+  position: fixed !important;
+  width: 1px !important;
+  height: 1px !important;
+  margin: -1px !important;
+  padding: 0 !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+  z-index: -1 !important;
+}
+</style>

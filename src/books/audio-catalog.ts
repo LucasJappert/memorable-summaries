@@ -35,6 +35,7 @@ export const BOOKS_WITH_AUDIO = new Set<string>([
   'lifespan',
   'livewired',
   'murmurs-of-earth',
+  'order-of-time',
   'origins',
   'our-mathematical-universe',
   'quantum-enigma',

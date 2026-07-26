@@ -2,6 +2,7 @@
 import { computed } from 'vue'
 import type { BookMeta } from '../types/book'
 import { bookHasAudio } from '../books/audio-catalog'
+import { useAudioQueue } from '../composables/useAudioQueue'
 import CoverArt from './CoverArt.vue'
 import EnvelopeIcon from './icons/EnvelopeIcon.vue'
 
@@ -19,7 +20,19 @@ const emit = defineEmits<{
   toggleRead: []
 }>()
 
+const { currentSlug, isPlaying, play, resume, openQueueSheet } = useAudioQueue()
+
 const hasAudio = computed(() => bookHasAudio(props.slug) && !props.hideAudio)
+
+function onListen() {
+  if (!hasAudio.value) return
+  if (currentSlug.value === props.slug) {
+    if (!isPlaying.value) resume()
+  } else {
+    play(props.slug)
+  }
+  openQueueSheet()
+}
 </script>
 
 <template>
@@ -62,6 +75,19 @@ const hasAudio = computed(() => bookHasAudio(props.slug) && !props.hideAudio)
         </div>
       </div>
     </div>
+
+    <button
+      v-if="hasAudio"
+      type="button"
+      class="hero__listen"
+      aria-label="Escuchar narración"
+      @click="onListen"
+    >
+      <svg class="hero__listen-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+        <path d="M8 5v14l11-7L8 5z" fill="currentColor" />
+      </svg>
+      <span>Escuchar</span>
+    </button>
   </header>
 </template>
 

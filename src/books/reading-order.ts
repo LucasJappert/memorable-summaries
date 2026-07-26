@@ -51,6 +51,7 @@ export const READING_ORDER_BY_SLUG: Record<string, number> = {
   'ageless': 46,
   'lifespan': 47,
   'why-we-die': 48,
+  'order-of-time': 49,
 }
 
 export function getReadingOrder(slug: string): number | undefined {

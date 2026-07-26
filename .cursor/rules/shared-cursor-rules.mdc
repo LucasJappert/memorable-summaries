@@ -1,0 +1,15 @@
+---
+description: Leer reglas compartidas multi-repo desde Downloads/.cursor-rules
+alwaysApply: true
+---
+
+# Reglas compartidas
+
+Antes de orquestar, lanzar subagentes (`Task`), o hacer commits, **leer** los `.mdc` en:
+
+`/home/ljappert/Downloads/.cursor-rules/`
+
+En especial:
+
+- `git-commit-messages.mdc` — estilo de mensajes de commit (lenguaje natural + `+N −M`)
+- `subagent-model-permission.mdc` — modelo default de subagentes y permiso para modelos altos

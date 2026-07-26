@@ -7,7 +7,7 @@ export interface ReadingPhase {
 }
 
 const PHASE_RANGES: Array<{ num: number; title: string; ranges: Array<[number, number]> }> = [
-  { num: 1, title: 'Cosmos y física', ranges: [[1, 5], [35, 39]] },
+  { num: 1, title: 'Cosmos y física', ranges: [[1, 5], [35, 39], [49, 49]] },
   { num: 2, title: 'Evolución', ranges: [[6, 10]] },
   { num: 3, title: 'Origen de la vida / SETI', ranges: [[11, 14]] },
   { num: 4, title: 'Cerebro', ranges: [[15, 18]] },

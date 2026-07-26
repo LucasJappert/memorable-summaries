@@ -15,8 +15,9 @@ const bodyLines = computed(() => {
   return props.closing.lines.filter((line) => normalize(line) !== highlight)
 })
 
-const beforeHighlight = computed(() => bodyLines.value.slice(0, 2))
-const afterHighlight = computed(() => bodyLines.value.slice(2))
+/** Últimas 3 líneas van después del highlight; el resto, antes. */
+const afterHighlight = computed(() => bodyLines.value.slice(-3))
+const beforeHighlight = computed(() => bodyLines.value.slice(0, -3))
 </script>
 
 <template>
