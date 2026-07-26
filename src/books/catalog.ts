@@ -49,6 +49,20 @@ import { ageless } from '../data/ageless'
 import { lifespan } from '../data/lifespan'
 import { whyWeDie } from '../data/why-we-die'
 import { orderOfTime } from '../data/order-of-time'
+import { realityNotWhatItSeems } from '../data/reality-not-what-it-seems'
+import { elegantUniverse } from '../data/elegant-universe'
+import { firstThreeMinutes } from '../data/first-three-minutes'
+import { whatIsLife } from '../data/what-is-life'
+import { darwinsDangerousIdea } from '../data/darwins-dangerous-idea'
+import { theGene } from '../data/the-gene'
+import { otherlands } from '../data/otherlands'
+import { eerieSilence } from '../data/eerie-silence'
+import { consciousnessExplained } from '../data/consciousness-explained'
+import { humanCompatible } from '../data/human-compatible'
+import { theInformation } from '../data/the-information'
+import { thinkingFastAndSlow } from '../data/thinking-fast-and-slow'
+import { gunsGermsAndSteel } from '../data/guns-germs-and-steel'
+import { structureScientificRevolutions } from '../data/structure-scientific-revolutions'
 
 export interface BookCatalogEntry {
   slug: string
@@ -140,6 +154,20 @@ const ALL_BOOKS: BookSummary[] = [
   lifespan,
   whyWeDie,
   orderOfTime,
+  realityNotWhatItSeems,
+  elegantUniverse,
+  firstThreeMinutes,
+  whatIsLife,
+  darwinsDangerousIdea,
+  theGene,
+  otherlands,
+  eerieSilence,
+  consciousnessExplained,
+  humanCompatible,
+  theInformation,
+  thinkingFastAndSlow,
+  gunsGermsAndSteel,
+  structureScientificRevolutions,
 ]
 
 export const bookCatalog: BookCatalogEntry[] = ALL_BOOKS.map(buildCatalogEntry)

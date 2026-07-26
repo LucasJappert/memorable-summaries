@@ -143,6 +143,26 @@ COVER_META: dict[str, tuple[str, str]] = {
     "something-deeply-hidden": ("Something Deeply Hidden", "Sean Carroll"),
     "why-we-die": ("Why We Die", "Venki Ramakrishnan"),
     "order-of-time": ("The Order of Time", "Carlo Rovelli"),
+    "reality-not-what-it-seems": (
+        "Reality Is Not What It Seems",
+        "Carlo Rovelli",
+    ),
+    "elegant-universe": ("The Elegant Universe", "Brian Greene"),
+    "first-three-minutes": ("The First Three Minutes", "Steven Weinberg"),
+    "what-is-life": ("What is Life?", "Erwin Schrodinger"),
+    "darwins-dangerous-idea": ("Darwin's Dangerous Idea", "Daniel Dennett"),
+    "the-gene": ("The Gene: An Intimate History", "Siddhartha Mukherjee"),
+    "otherlands": ("Otherlands", "Thomas Halliday"),
+    "eerie-silence": ("The Eerie Silence", "Paul Davies"),
+    "consciousness-explained": ("Consciousness Explained", "Daniel Dennett"),
+    "human-compatible": ("Human Compatible", "Stuart Russell"),
+    "the-information": ("The Information", "James Gleick"),
+    "thinking-fast-and-slow": ("Thinking, Fast and Slow", "Daniel Kahneman"),
+    "guns-germs-and-steel": ("Guns, Germs, and Steel", "Jared Diamond"),
+    "structure-scientific-revolutions": (
+        "The Structure of Scientific Revolutions",
+        "Thomas S. Kuhn",
+    ),
 }
 
 # ISBN opcional para portadas de mayor resolución en Open Library (validados por título)

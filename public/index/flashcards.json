@@ -1488,6 +1488,72 @@
     "back": "Información en volumen limitada por área de frontera — analogía de compresión perceptual."
   },
   {
+    "id": "consciousness-explained:highlight",
+    "slug": "consciousness-explained",
+    "front": "¿Cuál es la idea central del cierre?",
+    "back": "No hay teatro cartesiano: hay procesos paralelos que fijan contenido sin testigo central"
+  },
+  {
+    "id": "consciousness-explained:concept:0",
+    "slug": "consciousness-explained",
+    "front": "Borradores Múltiples",
+    "back": "Edición paralela de contenidos cerebrales sin borrador canónico ni observador central."
+  },
+  {
+    "id": "consciousness-explained:concept:1",
+    "slug": "consciousness-explained",
+    "front": "Teatro Cartesiano",
+    "back": "Metáfora del punto donde converge la experiencia para un yo interior."
+  },
+  {
+    "id": "consciousness-explained:concept:2",
+    "slug": "consciousness-explained",
+    "front": "Heterofenomenología",
+    "back": "Método que interpreta relatos subjetivos como datos científicos, no verdades incorregibles."
+  },
+  {
+    "id": "consciousness-explained:concept:3",
+    "slug": "consciousness-explained",
+    "front": "Materialismo cartesiano",
+    "back": "Finish line cerebral implícita aunque se rechace el alma separada."
+  },
+  {
+    "id": "consciousness-explained:concept:4",
+    "slug": "consciousness-explained",
+    "front": "Qualia",
+    "back": "Propiedades experienciales supuestas ineffables; Dennett las reduce a disposiciones."
+  },
+  {
+    "id": "consciousness-explained:concept:5",
+    "slug": "consciousness-explained",
+    "front": "Centro de Gravedad Narrativo",
+    "back": "Yo como abstracción estable de la autobiografía interpretada."
+  },
+  {
+    "id": "consciousness-explained:concept:6",
+    "slug": "consciousness-explained",
+    "front": "Máquina virtual Joyceana",
+    "back": "Serialidad consciente emergente de coaliciones de especialistas más lenguaje."
+  },
+  {
+    "id": "consciousness-explained:concept:7",
+    "slug": "consciousness-explained",
+    "front": "Fijación de contenido",
+    "back": "Procesos que fijan significado sin homúnculo intérprete central."
+  },
+  {
+    "id": "consciousness-explained:concept:8",
+    "slug": "consciousness-explained",
+    "front": "Memes",
+    "back": "Unidades culturales replicantes que estructuran la mente humana."
+  },
+  {
+    "id": "consciousness-explained:concept:9",
+    "slug": "consciousness-explained",
+    "front": "Revisiones Orwellianas/Stalinescas",
+    "back": "Metáforas de alterar memoria vs. percepción; colapsan en escala de milisegundos."
+  },
+  {
     "id": "cosmos:highlight",
     "slug": "cosmos",
     "front": "¿Cuál es la idea central del cierre?",
@@ -1606,6 +1672,72 @@
     "slug": "cosmos",
     "front": "Perspectiva cósmica",
     "back": "Ver la humanidad en escala de tiempo y espacio universal."
+  },
+  {
+    "id": "darwins-dangerous-idea:highlight",
+    "slug": "darwins-dangerous-idea",
+    "front": "¿Cuál es la idea central del cierre?",
+    "back": "No hace falta un Diseñador previo: las grúas apiladas bastan."
+  },
+  {
+    "id": "darwins-dangerous-idea:concept:0",
+    "slug": "darwins-dangerous-idea",
+    "front": "Ácido universal",
+    "back": "La selección natural como algoritmo que disuelve explicaciones Mind-first sin destruir todo lo valioso."
+  },
+  {
+    "id": "darwins-dangerous-idea:concept:1",
+    "slug": "darwins-dangerous-idea",
+    "front": "Skyhook vs. crane",
+    "back": "Explicación milagrosa vs. proceso algorítmico apilable que no pospone el problema."
+  },
+  {
+    "id": "darwins-dangerous-idea:concept:2",
+    "slug": "darwins-dangerous-idea",
+    "front": "Pirámide Cósmica",
+    "back": "Caos, Orden, Diseño, Mente, Dios; Darwin invierte la dirección causal del diseño."
+  },
+  {
+    "id": "darwins-dangerous-idea:concept:3",
+    "slug": "darwins-dangerous-idea",
+    "front": "Biblioteca de Mendel",
+    "back": "Espacio de genomas posibles; la viabilidad es accesibilidad histórica, no ley eterna."
+  },
+  {
+    "id": "darwins-dangerous-idea:concept:4",
+    "slug": "darwins-dangerous-idea",
+    "front": "Árbol de la Vida",
+    "back": "Mapa único de descendencia; especies son ramas retrospectivas, no esencias."
+  },
+  {
+    "id": "darwins-dangerous-idea:concept:5",
+    "slug": "darwins-dangerous-idea",
+    "front": "Algoritmo evolutivo",
+    "back": "Variación, selección, herencia; generate-and-test sin mirar al futuro."
+  },
+  {
+    "id": "darwins-dangerous-idea:concept:6",
+    "slug": "darwins-dangerous-idea",
+    "front": "Adaptacionismo",
+    "back": "Ingeniería inversa de la «intención» de la selección natural; núcleo del darwinismo."
+  },
+  {
+    "id": "darwins-dangerous-idea:concept:7",
+    "slug": "darwins-dangerous-idea",
+    "front": "Meme",
+    "back": "Unidad de replicación cultural que moldea mentes y valores más allá de genes."
+  },
+  {
+    "id": "darwins-dangerous-idea:concept:8",
+    "slug": "darwins-dangerous-idea",
+    "front": "Intencionalidad derivada",
+    "back": "Significado desde procesos ciegos; no requiere artífice consciente externo."
+  },
+  {
+    "id": "darwins-dangerous-idea:concept:9",
+    "slug": "darwins-dangerous-idea",
+    "front": "Satisficing moral",
+    "back": "Ética finita bajo presión temporal; heurísticas y topoi, no algoritmo perfecto."
   },
   {
     "id": "death:highlight",
@@ -1848,6 +1980,72 @@
     "back": "Genes, feto, infancia y cultura, todo fuera del control personal."
   },
   {
+    "id": "eerie-silence:highlight",
+    "slug": "eerie-silence",
+    "front": "¿Cuál es la idea central del cierre?",
+    "back": "Probablemente estamos solos en el universo observable — pero no lo sabemos, y por eso hay que seguir buscando."
+  },
+  {
+    "id": "eerie-silence:concept:0",
+    "slug": "eerie-silence",
+    "front": "Silencio inquietante",
+    "back": "Ausencia de contacto pese a expectativa de vida abundante."
+  },
+  {
+    "id": "eerie-silence:concept:1",
+    "slug": "eerie-silence",
+    "front": "Antropocentrismo SETI",
+    "back": "Proyectar radio, política y cuerpos humanos sobre ET."
+  },
+  {
+    "id": "eerie-silence:concept:2",
+    "slug": "eerie-silence",
+    "front": "Imperativo cósmico",
+    "back": "Vida casi inevitable en planetas habitables."
+  },
+  {
+    "id": "eerie-silence:concept:3",
+    "slug": "eerie-silence",
+    "front": "Biosfera sombra",
+    "back": "Segunda génesis de vida rara aún en la Tierra."
+  },
+  {
+    "id": "eerie-silence:concept:4",
+    "slug": "eerie-silence",
+    "front": "Gran Filtro",
+    "back": "Escalones improbables entre materia e inteligencia tecnológica."
+  },
+  {
+    "id": "eerie-silence:concept:5",
+    "slug": "eerie-silence",
+    "front": "Ecuación de Drake",
+    "back": "Producto de factores que estima civilizaciones detectables."
+  },
+  {
+    "id": "eerie-silence:concept:6",
+    "slug": "eerie-silence",
+    "front": "Paradoja de Fermi",
+    "back": "Si ET es común, ¿dónde están colonos y máquinas?"
+  },
+  {
+    "id": "eerie-silence:concept:7",
+    "slug": "eerie-silence",
+    "front": "Esfera de Dyson",
+    "back": "Enjaular una estrella para capturar su energía."
+  },
+  {
+    "id": "eerie-silence:concept:8",
+    "slug": "eerie-silence",
+    "front": "Inteligencia posbiológica",
+    "back": "Mentes máquina/ATS que reemplazan la biología."
+  },
+  {
+    "id": "eerie-silence:concept:9",
+    "slug": "eerie-silence",
+    "front": "Nuevo SETI",
+    "back": "Firmas de inteligencia en toda la ciencia, no solo radio."
+  },
+  {
     "id": "ego-tunnel:highlight",
     "slug": "ego-tunnel",
     "front": "¿Cuál es la idea central del cierre?",
@@ -2062,6 +2260,72 @@
     "slug": "el-gran-diseno",
     "front": "Leyes de la naturaleza",
     "back": "Regularidades matemáticas descubiertas por la ciencia, no decretos de un legislador divino."
+  },
+  {
+    "id": "elegant-universe:highlight",
+    "slug": "elegant-universe",
+    "front": "¿Cuál es la idea central del cierre?",
+    "back": "La promesa es elegante y profunda, pero la teoría aún carece de ecuaciones exactas, selección de vacío Calabi-Yau y prueba experimental definitiva"
+  },
+  {
+    "id": "elegant-universe:concept:0",
+    "slug": "elegant-universe",
+    "front": "Espacio-tiempo",
+    "back": "De absoluto newtoniano a relativo (SR), dinámico y curvo (GR), espuma cuántica (QM), emergente de cuerdas/M-teoría."
+  },
+  {
+    "id": "elegant-universe:concept:1",
+    "slug": "elegant-universe",
+    "front": "Unificación",
+    "back": "Kaluza-Klein → modelo estándar → cuerdas → M-teoría; simetrías gauge y supersimetría."
+  },
+  {
+    "id": "elegant-universe:concept:2",
+    "slug": "elegant-universe",
+    "front": "Cuerdas vibrantes",
+    "back": "Partículas y fuerzas como modos resonantes; «música» cósmica a escala de Planck."
+  },
+  {
+    "id": "elegant-universe:concept:3",
+    "slug": "elegant-universe",
+    "front": "Dimensiones extra",
+    "back": "Compactas Calabi-Yau; geometría fija masas, cargas y familias de partículas."
+  },
+  {
+    "id": "elegant-universe:concept:4",
+    "slug": "elegant-universe",
+    "front": "Dualidades",
+    "back": "T (R ↔ 1/R), simetría espejo, S/U entre cinco cuerdas → M-teoría unificada."
+  },
+  {
+    "id": "elegant-universe:concept:5",
+    "slug": "elegant-universe",
+    "front": "Escala de Planck",
+    "back": "Longitud ~10⁻³³ cm, tiempo ~10⁻⁴³ s, energía/tensión donde GR y QM deben fusionarse."
+  },
+  {
+    "id": "elegant-universe:concept:6",
+    "slug": "elegant-universe",
+    "front": "Perturbación vs. no perturbación",
+    "back": "Métodos aproximados hasta revolución de 1995; acoplamiento fuerte invalida loops."
+  },
+  {
+    "id": "elegant-universe:concept:7",
+    "slug": "elegant-universe",
+    "front": "Branes",
+    "back": "0-branes a 3-branes; envolturas que estabilizan geometría y construyen agujeros negros."
+  },
+  {
+    "id": "elegant-universe:concept:8",
+    "slug": "elegant-universe",
+    "front": "Topología del espacio",
+    "back": "Flop, conifold, cambio de agujeros Calabi-Yau sin catástrofe en cuerdas."
+  },
+  {
+    "id": "elegant-universe:concept:9",
+    "slug": "elegant-universe",
+    "front": "Entropía de agujeros negros",
+    "back": "Puente termodinámico (Bekenstein-Hawking) y conteo microscópico string (Strominger-Vafa)."
   },
   {
     "id": "emergent-multiverse:highlight",
@@ -2592,6 +2856,72 @@
     "back": "Integración de cuántica, epistemología, evolución y computación."
   },
   {
+    "id": "first-three-minutes:highlight",
+    "slug": "first-three-minutes",
+    "front": "¿Cuál es la idea central del cierre?",
+    "back": "El equilibrio térmico borra la memoria del instante inicial, pero deja predicciones testeables como el helio primordial y la radiación de 3 K"
+  },
+  {
+    "id": "first-three-minutes:concept:0",
+    "slug": "first-three-minutes",
+    "front": "Modelo estándar del universo temprano",
+    "back": "Big bang con receta específica de contenidos; distinto del término genérico «big bang»."
+  },
+  {
+    "id": "first-three-minutes:concept:1",
+    "slug": "first-three-minutes",
+    "front": "Principio cosmológico",
+    "back": "Homogeneidad e isotropía a escala de cúmulos; fundamenta la ley de Hubble."
+  },
+  {
+    "id": "first-three-minutes:concept:2",
+    "slug": "first-three-minutes",
+    "front": "Equilibrio térmico",
+    "back": "Colisiones fijan distribuciones de partículas; borra memoria de condiciones iniciales detalladas."
+  },
+  {
+    "id": "first-three-minutes:concept:3",
+    "slug": "first-three-minutes",
+    "front": "Radiación de cuerpo negro (Planck)",
+    "back": "Distribución universal de energía vs longitud de onda; clave para interpretar el CMB."
+  },
+  {
+    "id": "first-three-minutes:concept:4",
+    "slug": "first-three-minutes",
+    "front": "Ratio fotones / nucleones (~10⁹)",
+    "back": "Parámetro observacional crucial, medido vía CMB, que gobierna nucleosíntesis y abundancias."
+  },
+  {
+    "id": "first-three-minutes:concept:5",
+    "slug": "first-three-minutes",
+    "front": "Nucleosíntesis primordial",
+    "back": "Ensamblaje de H, He y trazas en los primeros minutos; helio ~22–28 % es predicción central."
+  },
+  {
+    "id": "first-three-minutes:concept:6",
+    "slug": "first-three-minutes",
+    "front": "Constante / ley de Hubble",
+    "back": "Velocidad de recesión proporcional a distancia; fija escala temporal del universo."
+  },
+  {
+    "id": "first-three-minutes:concept:7",
+    "slug": "first-three-minutes",
+    "front": "Cantidades conservadas",
+    "back": "Carga, bariones y leptones reducen la arbitrariedad de la receta cosmológica."
+  },
+  {
+    "id": "first-three-minutes:concept:8",
+    "slug": "first-three-minutes",
+    "front": "Corrimiento al rojo cosmológico",
+    "back": "Longitudes de onda estiradas proporcionalmente a la separación entre galaxias típicas."
+  },
+  {
+    "id": "first-three-minutes:concept:9",
+    "slug": "first-three-minutes",
+    "front": "Horizonte cósmico",
+    "back": "Límite causal que encoge hacia el pasado y permite inferir el universo temprano."
+  },
+  {
     "id": "free-will:highlight",
     "slug": "free-will",
     "front": "¿Cuál es la idea central del cierre?",
@@ -2962,6 +3292,66 @@
     "slug": "godel-escher-bach",
     "front": "Símbolo activo",
     "back": "Patrón cerebral que representa un concepto y puede disparar a otros."
+  },
+  {
+    "id": "guns-germs-and-steel:concept:0",
+    "slug": "guns-germs-and-steel",
+    "front": "Pregunta de Yali",
+    "back": "Por qué unos pueblos acumularon «cargo» y poder tecnológico."
+  },
+  {
+    "id": "guns-germs-and-steel:concept:1",
+    "slug": "guns-germs-and-steel",
+    "front": "Línea de salida",
+    "back": "~11.000 a.C.: todos cazadores-recolectores antes de divergir."
+  },
+  {
+    "id": "guns-germs-and-steel:concept:2",
+    "slug": "guns-germs-and-steel",
+    "front": "Producción de alimentos",
+    "back": "Agricultura y ganadería que generan surplus y densidad."
+  },
+  {
+    "id": "guns-germs-and-steel:concept:3",
+    "slug": "guns-germs-and-steel",
+    "front": "Creciente Fértil",
+    "back": "Primer gran centro de domesticación de cultivos y animales."
+  },
+  {
+    "id": "guns-germs-and-steel:concept:4",
+    "slug": "guns-germs-and-steel",
+    "front": "Eje este-oeste",
+    "back": "Orientación que facilita difusión de cultivos en Eurasia."
+  },
+  {
+    "id": "guns-germs-and-steel:concept:5",
+    "slug": "guns-germs-and-steel",
+    "front": "Domesticación",
+    "back": "Selección (a menudo inconsciente) sobre plantas y animales silvestres."
+  },
+  {
+    "id": "guns-germs-and-steel:concept:6",
+    "slug": "guns-germs-and-steel",
+    "front": "Gérmenes de multitudes",
+    "back": "Epidemias humanas derivadas del ganado en sociedades densas."
+  },
+  {
+    "id": "guns-germs-and-steel:concept:7",
+    "slug": "guns-germs-and-steel",
+    "front": "Agentes próximos",
+    "back": "Armas, gérmenes, acero, escritura, gobierno centralizado."
+  },
+  {
+    "id": "guns-germs-and-steel:concept:8",
+    "slug": "guns-germs-and-steel",
+    "front": "Kleptocracia",
+    "back": "Estado que extrae surplus con monopolio de fuerza y legitimación."
+  },
+  {
+    "id": "guns-germs-and-steel:concept:9",
+    "slug": "guns-germs-and-steel",
+    "front": "Ciencia histórica",
+    "back": "Historia inferida con métodos de geología o biología evolutiva."
   },
   {
     "id": "hidden-reality:highlight",
@@ -3346,6 +3736,72 @@
     "slug": "how-we-learn",
     "front": "Homo docens",
     "back": "Especie que se enseña mediante cultura y escuela."
+  },
+  {
+    "id": "human-compatible:highlight",
+    "slug": "human-compatible",
+    "front": "¿Cuál es la idea central del cierre?",
+    "back": "El éxito en superinteligencia puede ser el mayor evento de la historia — o el último — según diseñemos el objetivo antes de que sea tarde."
+  },
+  {
+    "id": "human-compatible:concept:0",
+    "slug": "human-compatible",
+    "front": "Modelo estándar",
+    "back": "IA como optimización de objetivo, recompensa o coste fijo dado externamente."
+  },
+  {
+    "id": "human-compatible:concept:1",
+    "slug": "human-compatible",
+    "front": "Máquinas beneficiosas",
+    "back": "Acciones esperadas logran nuestros objetivos, no los de la máquina."
+  },
+  {
+    "id": "human-compatible:concept:2",
+    "slug": "human-compatible",
+    "front": "Tres principios",
+    "back": "Maximizar preferencias humanas; incertidumbre inicial; aprender del comportamiento."
+  },
+  {
+    "id": "human-compatible:concept:3",
+    "slug": "human-compatible",
+    "front": "Problema del gorila",
+    "back": "Mantener supremacía y autonomía frente a superinteligencia."
+  },
+  {
+    "id": "human-compatible:concept:4",
+    "slug": "human-compatible",
+    "front": "Problema del rey Midas",
+    "back": "Lograr exactamente lo pedido destruye lo no especificado que valoramos."
+  },
+  {
+    "id": "human-compatible:concept:5",
+    "slug": "human-compatible",
+    "front": "Metas instrumentales",
+    "back": "Subobjetivos (supervivencia, recursos, dinero) derivados de casi cualquier meta."
+  },
+  {
+    "id": "human-compatible:concept:6",
+    "slug": "human-compatible",
+    "front": "Juegos de asistencia",
+    "back": "Modelo formal robot-humano con preferencias ocultas y señales estratégicas."
+  },
+  {
+    "id": "human-compatible:concept:7",
+    "slug": "human-compatible",
+    "front": "Explosión de inteligencia",
+    "back": "Mejora recursiva que supera ampliamente capacidad humana (I.J. Good, 1965)."
+  },
+  {
+    "id": "human-compatible:concept:8",
+    "slug": "human-compatible",
+    "front": "AWS",
+    "back": "Armas autónomas letales: seleccionan y eliminan humanos sin intervención humana."
+  },
+  {
+    "id": "human-compatible:concept:9",
+    "slug": "human-compatible",
+    "front": "Meta-preferencias",
+    "back": "Preferencias sobre qué procesos de cambio de preferencias son aceptables."
   },
   {
     "id": "incognito:highlight",
@@ -4290,6 +4746,60 @@
     "back": "Marco para estimar civilizaciones comunicativas en la galaxia."
   },
   {
+    "id": "otherlands:highlight",
+    "slug": "otherlands",
+    "front": "¿Cuál es la idea central del cierre?",
+    "back": "El registro fósil no predice un solo futuro, pero sí muestra qué tan rápido puede colapsar lo que parece eterno"
+  },
+  {
+    "id": "otherlands:concept:0",
+    "slug": "otherlands",
+    "front": "Otherlands",
+    "back": "Paisajes geológicos reconstruidos desde fósiles, legibles pero no visitables."
+  },
+  {
+    "id": "otherlands:concept:1",
+    "slug": "otherlands",
+    "front": "Nicho fundamental vs realizado",
+    "back": "Límites físicos de una especie frente a restricciones impuestas por otros organismos."
+  },
+  {
+    "id": "otherlands:concept:2",
+    "slug": "otherlands",
+    "front": "Taxa desastre",
+    "back": "Oportunistas que dominan justo tras extinciones masivas antes de la sucesión ecológica."
+  },
+  {
+    "id": "otherlands:concept:3",
+    "slug": "otherlands",
+    "front": "Contingencia evolutiva",
+    "back": "Experimentos triásicos u otros que no dejaron descendientes modernos."
+  },
+  {
+    "id": "otherlands:concept:4",
+    "slug": "otherlands",
+    "front": "Holobionte",
+    "back": "Individual funcional compuesto por organismos simbióticos inseparables, como gusanos de ventilas."
+  },
+  {
+    "id": "otherlands:concept:5",
+    "slug": "otherlands",
+    "front": "Analogía paleoclimática",
+    "back": "Uso del registro fósil para acotar futuros posibles, no deterministas."
+  },
+  {
+    "id": "otherlands:concept:6",
+    "slug": "otherlands",
+    "front": "Barrel-filling",
+    "back": "Modelo ecológico donde nichos ocupados impiden nuevos planos corporales."
+  },
+  {
+    "id": "otherlands:concept:7",
+    "slug": "otherlands",
+    "front": "Ingeniería ecosistémica",
+    "back": "Modificación de hábitats por humanos y otras especies a lo largo del tiempo profundo."
+  },
+  {
     "id": "our-mathematical-universe:highlight",
     "slug": "our-mathematical-universe",
     "front": "¿Cuál es la idea central del cierre?",
@@ -4552,6 +5062,72 @@
     "slug": "quantum-enigma",
     "front": "Principio antrópico",
     "back": "El cosmos parece afinado para la vida; explicación por selección u observación."
+  },
+  {
+    "id": "reality-not-what-it-seems:highlight",
+    "slug": "reality-not-what-it-seems",
+    "front": "¿Cuál es la idea central del cierre?",
+    "back": "La síntesis coherente de relatividad general y cuántica exige repensar el mundo desde la gravedad cuántica"
+  },
+  {
+    "id": "reality-not-what-it-seems:concept:0",
+    "slug": "reality-not-what-it-seems",
+    "front": "Grano / granularidad",
+    "back": "Desde átomos democriteos hasta quanta de espacio; límite a la divisibilidad (h, L<sub>P</sub>)."
+  },
+  {
+    "id": "reality-not-what-it-seems:concept:1",
+    "slug": "reality-not-what-it-seems",
+    "front": "Campo",
+    "back": "Entidad real que llena el espacio (Faraday-Maxwell); espacio = campo gravitatorio (Einstein)."
+  },
+  {
+    "id": "reality-not-what-it-seems:concept:2",
+    "slug": "reality-not-what-it-seems",
+    "front": "Espacio-tiempo",
+    "back": "Unificado en relatividad; dinámico, curvo y eventualmente emergente/discreto."
+  },
+  {
+    "id": "reality-not-what-it-seems:concept:3",
+    "slug": "reality-not-what-it-seems",
+    "front": "Evento / interacción",
+    "back": "Unidad ontológica en QM y LQG; propiedades existen al interactuar."
+  },
+  {
+    "id": "reality-not-what-it-seems:concept:4",
+    "slug": "reality-not-what-it-seems",
+    "front": "Red de espín / spinfoam",
+    "back": "Estado cuántico del espacio (nodos, enlaces) e historia de ese estado."
+  },
+  {
+    "id": "reality-not-what-it-seems:concept:5",
+    "slug": "reality-not-what-it-seems",
+    "front": "Longitud de Planck",
+    "back": "Escala ~10⁻³³ cm donde GR+QM implican espacio-tiempo cuántico."
+  },
+  {
+    "id": "reality-not-what-it-seems:concept:6",
+    "slug": "reality-not-what-it-seems",
+    "front": "Información",
+    "back": "Alternativas finitas (Shannon); entropía = información faltante (Boltzmann)."
+  },
+  {
+    "id": "reality-not-what-it-seems:concept:7",
+    "slug": "reality-not-what-it-seems",
+    "front": "Tiempo térmico",
+    "back": "Emergencia macroscópica del tiempo desde promedios e irreversibilidad."
+  },
+  {
+    "id": "reality-not-what-it-seems:concept:8",
+    "slug": "reality-not-what-it-seems",
+    "front": "Singularidad / divergencia",
+    "back": "Patologías del continuo clásico curadas por granularidad."
+  },
+  {
+    "id": "reality-not-what-it-seems:concept:9",
+    "slug": "reality-not-what-it-seems",
+    "front": "Interpretación relacional",
+    "back": "QM describe cómo sistemas se manifiestan unos a otros, no estados absolutos."
   },
   {
     "id": "sapiens:highlight",
@@ -5214,6 +5790,60 @@
     "back": "Información en superficies codifica el interior cuando la gravedad es fuerte."
   },
   {
+    "id": "structure-scientific-revolutions:concept:0",
+    "slug": "structure-scientific-revolutions",
+    "front": "Paradigma",
+    "back": "Logro científico compartido que modela problemas, métodos e instrumentos."
+  },
+  {
+    "id": "structure-scientific-revolutions:concept:1",
+    "slug": "structure-scientific-revolutions",
+    "front": "Ciencia normal",
+    "back": "Investigación puzzle-solving bajo un paradigma aceptado."
+  },
+  {
+    "id": "structure-scientific-revolutions:concept:2",
+    "slug": "structure-scientific-revolutions",
+    "front": "Anomalía",
+    "back": "Resultado que viola expectativas inducidas por el paradigma."
+  },
+  {
+    "id": "structure-scientific-revolutions:concept:3",
+    "slug": "structure-scientific-revolutions",
+    "front": "Crisis",
+    "back": "Fallo persistente del puzzle-solving; proliferación de versiones rivales."
+  },
+  {
+    "id": "structure-scientific-revolutions:concept:4",
+    "slug": "structure-scientific-revolutions",
+    "front": "Revolución científica",
+    "back": "Reemplazo de un paradigma incompatible y reorientación comunitaria."
+  },
+  {
+    "id": "structure-scientific-revolutions:concept:5",
+    "slug": "structure-scientific-revolutions",
+    "front": "Incommensurabilidad",
+    "back": "Comunicación parcial entre marcos; comparación sin neutralidad total."
+  },
+  {
+    "id": "structure-scientific-revolutions:concept:6",
+    "slug": "structure-scientific-revolutions",
+    "front": "Matriz disciplinar",
+    "back": "Compromisos compartidos de una especialidad (Postscript)."
+  },
+  {
+    "id": "structure-scientific-revolutions:concept:7",
+    "slug": "structure-scientific-revolutions",
+    "front": "Exemplar",
+    "back": "Solución concreta usada como modelo en formación y research."
+  },
+  {
+    "id": "structure-scientific-revolutions:concept:8",
+    "slug": "structure-scientific-revolutions",
+    "front": "Progreso «away from»",
+    "back": "Avance alejándose de esquemas fallidos, no hacia verdad única dada."
+  },
+  {
     "id": "superintelligence:highlight",
     "slug": "superintelligence",
     "front": "¿Cuál es la idea central del cierre?",
@@ -5490,6 +6120,198 @@
     "back": "Comprometer al yo futuro contra el sesgo del «ahora»."
   },
   {
+    "id": "the-gene:highlight",
+    "slug": "the-gene",
+    "front": "¿Cuál es la idea central del cierre?",
+    "back": "Pero también abrió la puerta a manipular cuerpos, identidades y destinos con un poder comparable al del átomo o del byte."
+  },
+  {
+    "id": "the-gene:concept:0",
+    "slug": "the-gene",
+    "front": "Gen",
+    "back": "Unidad irreducible de herencia: de abstracción (Johannsen) a ADN (Avery/Watson-Crick)."
+  },
+  {
+    "id": "the-gene:concept:1",
+    "slug": "the-gene",
+    "front": "Genotipo / fenotipo",
+    "back": "Información genética vs. manifestación corporal, modulada por ambiente y azar."
+  },
+  {
+    "id": "the-gene:concept:2",
+    "slug": "the-gene",
+    "front": "Dominancia / recesividad",
+    "back": "Patrón mendeliano que refuta mezcla y conserva variantes entre generaciones."
+  },
+  {
+    "id": "the-gene:concept:3",
+    "slug": "the-gene",
+    "front": "Dogma central",
+    "back": "Flujo ADN→ARN→proteína; base de regulación génica (Monod/Jacob)."
+  },
+  {
+    "id": "the-gene:concept:4",
+    "slug": "the-gene",
+    "front": "Eugenics / newgenics",
+    "back": "Selección humana por fenotipo vs. diagnóstico genético con retórica de elección."
+  },
+  {
+    "id": "the-gene:concept:5",
+    "slug": "the-gene",
+    "front": "Penetrancia / expresividad",
+    "back": "Grado en que un gen produce enfermedad o rasgo en distintos individuos."
+  },
+  {
+    "id": "the-gene:concept:6",
+    "slug": "the-gene",
+    "front": "Ligamiento / polimorfismos",
+    "back": "Marcadores para mapear genes de enfermedad en pedigrís (Botstein)."
+  },
+  {
+    "id": "the-gene:concept:7",
+    "slug": "the-gene",
+    "front": "Epigenética",
+    "back": "Marcas hereditables sobre el genoma que registran ambiente sin cambiar secuencia."
+  },
+  {
+    "id": "the-gene:concept:8",
+    "slug": "the-gene",
+    "front": "Previvor",
+    "back": "Persona sana diagnosticada genéticamente como de alto riesgo futuro."
+  },
+  {
+    "id": "the-gene:concept:9",
+    "slug": "the-gene",
+    "front": "Abhed / bhed",
+    "back": "Indivisibilidad identitaria vs. discernimiento analítico del genetista."
+  },
+  {
+    "id": "the-information:concept:0",
+    "slug": "the-information",
+    "front": "Bit",
+    "back": "Unidad de elección informacional; sí o no medible."
+  },
+  {
+    "id": "the-information:concept:1",
+    "slug": "the-information",
+    "front": "Redundancia",
+    "back": "Repetición que reduce ambigüedad ante ruido del canal."
+  },
+  {
+    "id": "the-information:concept:2",
+    "slug": "the-information",
+    "front": "Entropía informacional",
+    "back": "Incertidumbre o sorpresa promedio en un mensaje."
+  },
+  {
+    "id": "the-information:concept:3",
+    "slug": "the-information",
+    "front": "Canal",
+    "back": "Medio con capacidad limitada que exige codificación."
+  },
+  {
+    "id": "the-information:concept:4",
+    "slug": "the-information",
+    "front": "Algoritmo",
+    "back": "Procedimiento finito; base de computación y vida digital."
+  },
+  {
+    "id": "the-information:concept:5",
+    "slug": "the-information",
+    "front": "Código genético",
+    "back": "Mapa de tripletes de ADN a aminoácidos con tolerancia a error."
+  },
+  {
+    "id": "the-information:concept:6",
+    "slug": "the-information",
+    "front": "Meme",
+    "back": "Replicador cultural transmitido por imitación y medios."
+  },
+  {
+    "id": "the-information:concept:7",
+    "slug": "the-information",
+    "front": "Cibernética",
+    "back": "Estudio unificado de control y comunicación en máquinas y seres vivos."
+  },
+  {
+    "id": "the-information:concept:8",
+    "slug": "the-information",
+    "front": "Demonio de Maxwell",
+    "back": "Thought experiment que convierte información en orden local."
+  },
+  {
+    "id": "the-information:concept:9",
+    "slug": "the-information",
+    "front": "Glut informacional",
+    "back": "Exceso de datos que dificulta seleccionar significado."
+  },
+  {
+    "id": "thinking-fast-and-slow:highlight",
+    "slug": "thinking-fast-and-slow",
+    "front": "¿Cuál es la idea central del cierre?",
+    "back": "Pensar bien exige nombrar los errores del Sistema 1 y activar con parsimonia al Sistema 2."
+  },
+  {
+    "id": "thinking-fast-and-slow:concept:0",
+    "slug": "thinking-fast-and-slow",
+    "front": "Sistema 1 / Sistema 2",
+    "back": "Pensamiento rápido automático vs lento deliberado; el primero domina."
+  },
+  {
+    "id": "thinking-fast-and-slow:concept:1",
+    "slug": "thinking-fast-and-slow",
+    "front": "Heurística y sesgo",
+    "back": "Atajo mental útil que produce error sistemático predecible."
+  },
+  {
+    "id": "thinking-fast-and-slow:concept:2",
+    "slug": "thinking-fast-and-slow",
+    "front": "WYSIATI",
+    "back": "Concluir con lo visible ignorando lo ausente."
+  },
+  {
+    "id": "thinking-fast-and-slow:concept:3",
+    "slug": "thinking-fast-and-slow",
+    "front": "Sustitución",
+    "back": "Responder pregunta fácil en lugar de la difícil sin notarlo."
+  },
+  {
+    "id": "thinking-fast-and-slow:concept:4",
+    "slug": "thinking-fast-and-slow",
+    "front": "Disponibilidad",
+    "back": "Juzgar frecuencia por facilidad de evocar ejemplos."
+  },
+  {
+    "id": "thinking-fast-and-slow:concept:5",
+    "slug": "thinking-fast-and-slow",
+    "front": "Representatividad",
+    "back": "Juzgar probabilidad por parecido a estereotipo, no por base rate."
+  },
+  {
+    "id": "thinking-fast-and-slow:concept:6",
+    "slug": "thinking-fast-and-slow",
+    "front": "Regresión a la media",
+    "back": "Tras extremos, resultados tienden al promedio por azar."
+  },
+  {
+    "id": "thinking-fast-and-slow:concept:7",
+    "slug": "thinking-fast-and-slow",
+    "front": "Teoría de perspectivas",
+    "back": "Valor sobre ganancias/pérdidas con referencia y aversión a pérdida."
+  },
+  {
+    "id": "thinking-fast-and-slow:concept:8",
+    "slug": "thinking-fast-and-slow",
+    "front": "Visión externa",
+    "back": "Estimar proyectos con estadísticas de clase, no solo detalle interno."
+  },
+  {
+    "id": "thinking-fast-and-slow:concept:9",
+    "slug": "thinking-fast-and-slow",
+    "front": "Dos yoes",
+    "back": "Yo que experimenta vs yo que recuerda (pico-final, duración)."
+  },
+  {
     "id": "universo-de-la-nada:highlight",
     "slug": "universo-de-la-nada",
     "front": "¿Cuál es la idea central del cierre?",
@@ -5728,6 +6550,72 @@
     "slug": "vital-question",
     "front": "Coevolución mitocondrial",
     "back": "Dos genomas deben mantener precisión atómica en la cadena respiratoria."
+  },
+  {
+    "id": "what-is-life:highlight",
+    "slug": "what-is-life",
+    "front": "¿Cuál es la idea central del cierre?",
+    "back": "La unidad de la conciencia es la clave para entender permanencia del código, ética, evolución futura y límites de lo que la ciencia puede decir sobre lo religioso"
+  },
+  {
+    "id": "what-is-life:concept:0",
+    "slug": "what-is-life",
+    "front": "Cristal aperiódico",
+    "back": "Estructura molecular con orden complejo sin repetición periódica; portador del código genético."
+  },
+  {
+    "id": "what-is-life:concept:1",
+    "slug": "what-is-life",
+    "front": "Estructura estadística / regla √n",
+    "back": "Leyes macroscópicas emergen de millones de átomos; error relativo ~1/√n."
+  },
+  {
+    "id": "what-is-life:concept:2",
+    "slug": "what-is-life",
+    "front": "Gen / locus / alelo",
+    "back": "Unidad hereditaria en cromosoma; diferencia discreta entre variantes; base de mutación."
+  },
+  {
+    "id": "what-is-life:concept:3",
+    "slug": "what-is-life",
+    "front": "Mutación cuántica / isomerismo",
+    "back": "Cambio discontinuo por reordenamiento molecular con umbral W; analogía de Vries con saltos cuánticos."
+  },
+  {
+    "id": "what-is-life:concept:4",
+    "slug": "what-is-life",
+    "front": "W/kT y tiempo de expectativa",
+    "back": "Ratio fija estabilidad térmica del gen; τe^(W/kT) explica duración hereditaria y efecto temperatura/rayos X."
+  },
+  {
+    "id": "what-is-life:concept:5",
+    "slug": "what-is-life",
+    "front": "Entropía negativa",
+    "back": "Vida mantiene baja entropía importando orden (alimento, luz) y exportando entropía (calor)."
+  },
+  {
+    "id": "what-is-life:concept:6",
+    "slug": "what-is-life",
+    "front": "Orden desde orden vs. orden desde desorden",
+    "back": "Dos vías de regularidad; vida y cromosomas usan la primera; física térmica la segunda."
+  },
+  {
+    "id": "what-is-life:concept:7",
+    "slug": "what-is-life",
+    "front": "Objetivación",
+    "back": "Exclusión del sujeto del modelo científico; habilita predicción pero excluye mente, valor y qualia."
+  },
+  {
+    "id": "what-is-life:concept:8",
+    "slug": "what-is-life",
+    "front": "Mneme / novedad y conciencia",
+    "back": "Lo repetido se inconsciente; lo nuevo (aprendizaje, evolución) permanece consciente."
+  },
+  {
+    "id": "what-is-life:concept:9",
+    "slug": "what-is-life",
+    "front": "Unidad de la mente (Atman = Brahman)",
+    "back": "Resolución de paradoja aritmética de conciencias múltiples; compatible con epílogo y cap. 11."
   },
   {
     "id": "why-does-world-exist:highlight",

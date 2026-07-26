@@ -1,0 +1,490 @@
+{
+  "slug": "structure-scientific-revolutions",
+  "title": "La estructura de las revoluciones científicas",
+  "concepts": [
+    {
+      "title": "Paradigma",
+      "description": "Logro científico compartido que modela problemas, métodos e instrumentos."
+    },
+    {
+      "title": "Ciencia normal",
+      "description": "Investigación puzzle-solving bajo un paradigma aceptado."
+    },
+    {
+      "title": "Anomalía",
+      "description": "Resultado que viola expectativas inducidas por el paradigma."
+    },
+    {
+      "title": "Crisis",
+      "description": "Fallo persistente del puzzle-solving; proliferación de versiones rivales."
+    },
+    {
+      "title": "Revolución científica",
+      "description": "Reemplazo de un paradigma incompatible y reorientación comunitaria."
+    },
+    {
+      "title": "Incommensurabilidad",
+      "description": "Comunicación parcial entre marcos; comparación sin neutralidad total."
+    },
+    {
+      "title": "Matriz disciplinar",
+      "description": "Compromisos compartidos de una especialidad (Postscript)."
+    },
+    {
+      "title": "Exemplar",
+      "description": "Solución concreta usada como modelo en formación y research."
+    },
+    {
+      "title": "Progreso «away from»",
+      "description": "Avance alejándose de esquemas fallidos, no hacia verdad única dada."
+    }
+  ],
+  "highlight": "",
+  "entries": [
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Prefacio",
+      "text": "¿Cómo un físico teórico terminó escribiendo uno de los libros más influyentes sobre la ciencia del siglo XX?"
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Prefacio",
+      "text": "Thomas S. Kuhn era graduado en física teórica cuando un curso para no científicos, iniciado por James B. Conant en Harvard, lo expuso a teorías obsoletas. Ese contacto destruyó su imagen acumulativa de la ciencia. Las nociones de su formación física y filosófica no encajaban con la historia."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Prefacio",
+      "text": "Estudió con historiadores como Alexandre Koyré y leyó a Piaget y Fleck. En Berkeley conversó con colegas que matizaron sus ideas. Un año en el Center for Advanced Studies ( 1958–59 ) mostró que las ciencias naturales rara vez debaten fundamentos. En ciencias sociales eso es habitual. De ahí nació el paradigma , es decir, el logro compartido que orienta la investigación normal."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Prefacio",
+      "text": "El ensayo debía entrar en la Enciclopedia de Ciencia Unificada y quedó condensado. Kuhn advierte que trata sobre todo física y no desarrolla tecnología ni condiciones externas. Su distinción pre-paradigma/post-paradigma es esquemática. Aun así persigue cambiar la percepción de datos familiares."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Prefacio",
+      "text": "La historia de teorías descartadas reveló que la ciencia avanza por rupturas y reorientaciones, no solo por acumulación."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Prefacio",
+      "text": "El primer capítulo generaliza ese hallazgo personal en una crítica de la imagen de la ciencia extraída de los manuales."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Un papel para la historia",
+      "text": "¿Qué imagen de la ciencia emerge si la historia deja de servir al estereotipo acumulativo de los libros de texto?"
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Un papel para la historia",
+      "text": "Los manuales enseñan logros terminados con fines pedagógicos. Por eso sugieren que la ciencia es un stock creciente de hechos y leyes. El historiador solo debe registrar quién descubrió qué. Kuhn abre con una frase programática. La historia, leída en serio, puede transformar por completo esa imagen."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Un papel para la historia",
+      "text": "Los historiadores recientes tropiezan con preguntas mal planteadas. «¿Cuándo se descubrió el oxígeno?» no tiene respuesta única. Al estudiar dinámica aristotélica o química del flogisto descubren que esas visiones fueron ciencia en su tiempo. Eran incompatibles con las nuestras, pero no menos científicas. Entonces la acumulación lineal deja de ser convincente."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Un papel para la historia",
+      "text": "De ahí que Kuhn proponga dos polos complementarios. La ciencia normal , es decir investigación bajo un paradigma aceptado, concentra esfuerzos en rompecabezas definidos. Cuando anomalías persistentes subvierten ese marco, empiezan investigaciones extraordinarias. Son las revoluciones científicas , es decir rupturas que cambian problemas admisibles y estándares de solución."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Un papel para la historia",
+      "text": "La ciencia alterna ciencia normal y revoluciones, y la historia muestra un desarrollo menos acumulativo de lo que enseñan los manuales."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Un papel para la historia",
+      "text": "Si la investigación madura bajo paradigmas, hay que explicar cómo una comunidad llega a compartir uno."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "El camino hacia la ciencia normal",
+      "text": "¿Cómo pasa un campo de competencia entre escuelas a una tradición compartida de investigación?"
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "El camino hacia la ciencia normal",
+      "text": "Kuhn define ciencia normal como investigación basada en logros pasados que una comunidad reconoce como fundamento. Esos logros deben atraer adherentes lejos de modos rivales. También deben dejar problemas abiertos por resolver. A esos logros los llama paradigmas , es decir modelos compartidos de práctica científica."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "El camino hacia la ciencia normal",
+      "text": "En óptica física ilustra el patrón. Antes de Newton había escuelas corpuscular y ondulatoria. Cada una enfatizaba distintos fenómenos. Después de Newton la comunidad compartió un marco común. En electricidad del siglo XVIII hubo muchos «electricistas». La síntesis frankliniana ofreció un paradigma que orientó experimentos clave, como la jarra de Leyden."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "El camino hacia la ciencia normal",
+      "text": "Cuando un paradigma triunfa, las escuelas perdedoras desaparecen o quedan fuera del oficio. Surgen revistas especializadas y formación profesional. El científico ya no reconstruye el campo desde cero. Los manuales fijan vocabulario y problemas. La investigación avanzada se publica en artículos breves para colegas del mismo paradigma."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "El camino hacia la ciencia normal",
+      "text": "Un paradigma une a una comunidad, define problemas legítimos y convierte la investigación dispersa en ciencia normal eficiente."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "El camino hacia la ciencia normal",
+      "text": "Con paradigma establecido, conviene describir qué hace concretamente la mayoría de los científicos cada día."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "La naturaleza de la ciencia normal",
+      "text": "¿En qué consiste la investigación profesional una vez que un campo acepta un paradigma?"
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "La naturaleza de la ciencia normal",
+      "text": "El paradigma rara vez se replica como un molde gramatical. Funciona más como un precedente judicial que se articula bajo condiciones nuevas. Al inicio promete éxito en casos seleccionados. La ciencia normal actualiza esa promesa precisando hechos y acercando datos a la teoría."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "La naturaleza de la ciencia normal",
+      "text": "Kuhn distingue tres focos empíricos principales. Uno es medir hechos especialmente reveladores, como posiciones estelares o pesos combinantes. Otro es contrastar predicción y observación, como en el paralaje o la máquina de Atwood. Un tercero es articular la teoría mediante constantes, leyes cuantitativas o resolución de ambigüedades."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "La naturaleza de la ciencia normal",
+      "text": "En el plano teórico, buena parte del trabajo desarrolla las consecuencias matemáticas del paradigma. No busca inventar teorías nuevas. Después del Principia , generaciones europeas refinan la mecánica celeste. Esa visión estrecha concentra talento donde el paradigma asegura solución."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "La naturaleza de la ciencia normal",
+      "text": "La ciencia normal fuerza la naturaleza dentro de la caja del paradigma y profundiza donde ese marco promete resultados."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "La naturaleza de la ciencia normal",
+      "text": "Esa actividad encaja mejor si se la entiende como resolución de rompecabezas con reglas explícitas e implícitas."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Ciencia normal como rompecabezas",
+      "text": "¿Por qué los científicos dedican años a problemas cuyo resultado general suele estar previsto?"
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Ciencia normal como rompecabezas",
+      "text": "Lo llamativo de la investigación normal es cuán poco busca novedades conceptuales o fenomenológicas. Los problemas valiosos son rompecabezas , es decir retos con solución garantizada dentro del paradigma. Cuando el resultado cae fuera del rango esperable, la culpa recae en el investigador y no en el marco."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Ciencia normal como rompecabezas",
+      "text": "El entusiasmo viene de la dificultad técnica. El científico demuestra ingenio al lograr lo anticipado por vías nuevas. Diseña instrumentos, sortea imprecisiones teóricas y domina matemática. Maxwell, Euler o Gauss pasaron años en puzzles celestes sin cuestionar las leyes de Newton."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Ciencia normal como rompecabezas",
+      "text": "El paradigma también filtra qué problemas son científicos. Cuestiones demasiado abiertas o «metafísicas» quedan fuera. Por eso la ciencia normal progresa rápido: casi todos los esfuerzos admisibles deberían resolver algo. Las reglas pueden ser leyes explícitas, compromisos instrumentales o supuestos metafísicos compartidos (corpuscularismo en el siglo XVII)."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Ciencia normal como rompecabezas",
+      "text": "La ciencia normal es puzzle-solving regido: éxito técnico dentro de reglas, no búsqueda abierta de lo inesperado."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Ciencia normal como rompecabezas",
+      "text": "Si las reglas no agotan la práctica, hay que mostrar que el paradigma concreto precede a cualquier lista de reglas."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "La prioridad de los paradigmas",
+      "text": "¿Por qué una comunidad científica puede investigar sin acordar reglas generales formuladas?"
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "La prioridad de los paradigmas",
+      "text": "El historiador encuentra paradigmas en ejemplos recurrentes de libros, cursos y laboratorio, pero extraer reglas explícitas compartidas es frustrante. Científicos eminentes pueden coincidir en un logro paradigmático y discrepar sobre su interpretación abstracta. Aun así, la ciencia normal funciona."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "La prioridad de los paradigmas",
+      "text": "Según Wittgenstein , no hay rasgos necesarios y suficientes para «juego» o «silla». Hay parecidos de familia. Igual ocurre con problemas y técnicas de una tradición. Los científicos aprenden force o mass resolviendo problemas modelo. Por eso el paradigma concreto es anterior y más vinculante que las reglas."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "La prioridad de los paradigmas",
+      "text": "Cuando el paradigma está seguro, nadie discute reglas. En pre-paradigma o crisis, los debates sobre métodos reaparecen. Un químico y un físico pueden responder distinto si un átomo de helio es molécula. Cada uno ve la pregunta desde su formación. Revoluciones pequeñas en una subspecialidad no conmocionan a toda la física."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "La prioridad de los paradigmas",
+      "text": "Los paradigmas guían por modelado directo, y las reglas se derivan de esos ejemplos compartidos cuando existen."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "La prioridad de los paradigmas",
+      "text": "Paradigma rígido hace paradójico que surjan descubrimientos; hay que explicar anomalía y emergencia de lo nuevo."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Anomalía y descubrimientos científicos",
+      "text": "¿Cómo aparecen hechos nuevos si la ciencia normal no los busca?"
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Anomalía y descubrimientos científicos",
+      "text": "El descubrimiento empieza con anomalía , es decir una violación de las expectativas del paradigma. Luego sigue exploración prolongada hasta reencuadrar teoría y percepción. Priestley aisló un gas en 1774–75 pero lo interpretó como aire desflogisticado. Lavoisier tardó años en ver un elemento distinto. No hay fecha única porque reconocer qué es algo exige categorías preparadas."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Anomalía y descubrimientos científicos",
+      "text": "Los rayos X muestran la misma estructura. Roentgen notó en 1895 que una pantalla brillaba cuando no debía. Semanas de trabajo aislaron un agente distinto de los rayos catódicos. Otros habían visto el brillo sin descubrir nada. Después de asimilar el fenómeno cambiaron instrumentos y expectativas. Apareció blindaje con plomo y se releen experimentos previos."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Anomalía y descubrimientos científicos",
+      "text": "Bruner y Postman usaron naipes anómalos, como un seis rojo de picas. Primero los sujetos «normalizan» lo anómalo. Solo después reconfiguran categorías, a veces con angustia. En ciencia, resistencia y reencuadre van juntos."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Anomalía y descubrimientos científicos",
+      "text": "Descubrir es un proceso de anomalía y reajuste conceptual, no un acto instantáneo de ver."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Anomalía y descubrimientos científicos",
+      "text": "Cuando anomalías se acumulan y resisten, la comunidad entra en crisis y abre paso a teorías nuevas."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Crisis y nuevas teorías científicas",
+      "text": "¿Qué condiciones históricas preceden a una teoría revolucionaria?"
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Crisis y nuevas teorías científicas",
+      "text": "Las teorías nuevas surgen cuando falla el puzzle-solving normal. Entonces proliferan articulaciones rivales del paradigma. Antes de Copérnico, la astronomía ptolemaica acumulaba complejidad sin ganar precisión. Alfonso X dijo que habría aconsejado mejor a Dios al crear el cosmos. Copérnico describe un monstruo hecho de piezas excelentes pero incoherentes."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Crisis y nuevas teorías científicas",
+      "text": "En química de los 1770 , la química neumática multiplicó gases que el flogisto explicaba peor. Coexistían casi tantas versiones de la teoría como químicos. El peso al calcinar se volvió problema central. Lavoisier depositó una nota sellada en 1772 antes de articular la teoría del oxígeno."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Crisis y nuevas teorías científicas",
+      "text": "En física del siglo XIX, la teoría del éter chocó con experimentos de deriva nula. Proliferaron articulaciones de Lorentz y Fitzgerald. La relatividad especial de Einstein en 1905 cerró esa crisis. Anticipaciones como Aristarco no prosperaron sin crisis previa en la tradición dominante."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Crisis y nuevas teorías científicas",
+      "text": "Crisis prolongada y sensación de seguridad rota preceden casi siempre a teorías que reemplazan un paradigma agotado."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Crisis y nuevas teorías científicas",
+      "text": "En crisis, la comunidad no abandona el paradigma por una instancia negativa; hay que ver cómo responde."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "La respuesta a la crisis",
+      "text": "¿Cómo reaccionan los científicos cuando lo normal deja de funcionar?"
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "La respuesta a la crisis",
+      "text": "Nunca renuncian al paradigma solo porque una anomalía lo contradiga. Rechazar un paradigma sin sustituto es, para Kuhn, rechazar la ciencia misma. La decisión compara paradigmas con la naturaleza y entre sí. Popper veía refutación en la lógica del método. Kuhn insiste en que la historia no muestra falsación directa."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "La respuesta a la crisis",
+      "text": "Discrepancias hay siempre en ciencia normal, pero no todas provocan crisis. La crisis empieza cuando una anomalía importa y proliferan soluciones ad hoc. Entonces aparece investigación extraordinaria con ensayos aleatorios, especulación y descontento explícito. Pauli escribió en 1924 que la física estaba «terriblemente confusa». Meses después celebraba la mecánica de matrices."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "La respuesta a la crisis",
+      "text": "A menudo un nuevo paradigma germina antes de que la crisis sea reconocida. El cierre no es acumulativo. Es reconstrucción desde fundamentos nuevos, como ver un dibujo gestáltico distinto sin poder alternar a voluntad."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "La respuesta a la crisis",
+      "text": "La crisis afloja reglas e invita candidatos alternativos, pero el cambio exige sustituto y no mera negación."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "La respuesta a la crisis",
+      "text": "Cuando hay candidato, ocurre revolución; hay que definir su naturaleza y necesidad."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Naturaleza y necesidad de las revoluciones científicas",
+      "text": "¿Por qué llamar revolución al cambio de paradigma y por qué es casi inevitable?"
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Naturaleza y necesidad de las revoluciones científicas",
+      "text": "Una revolución científica reemplaza en todo o en parte un paradigma incompatible por otro. El paralelo político importa porque no hay tribunal neutral superior. Cada bando usa su paradigma para defenderse. La elección es circular, pero muestra cómo será practicar bajo el nuevo marco."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Naturaleza y necesidad de las revoluciones científicas",
+      "text": "La novedad genuina rara vez es acumulativa. La ciencia normal resuelve puzzles definidos por lo ya conocido. Lo inesperado surge cuando expectativas fallan. Casi toda asimilación de fenómenos nuevos exige destruir parte del logro anterior. Newton no fue mero añadido a Aristóteles. Lavoisier reorientó la química entera."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Naturaleza y necesidad de las revoluciones científicas",
+      "text": "Objetores dicen que Einstein no «refutó» a Newton porque ingenieros siguen usando mecánica clásica. Kuhn responde que salvar teorías restringiéndolas impide investigar donde fallan. El flogisto también «funcionaba» si se limitaba a fenómenos que explicaba."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Naturaleza y necesidad de las revoluciones científicas",
+      "text": "Las revoluciones son episodios no acumulativos necesarios para incorporar lo que el paradigma anterior no puede absorber."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Naturaleza y necesidad de las revoluciones científicas",
+      "text": "Cambiar paradigma implica ver la naturaleza de investigación de otro modo."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Cambios de visión del mundo",
+      "text": "¿En qué sentido una revolución cambia la visión del mundo del científico?"
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Cambios de visión del mundo",
+      "text": "Después de una revolución, los científicos usan instrumentos familiares pero ven cosas distintas. Kuhn sugiere, en modo exploratorio, que pueden «trabajar en un mundo diferente». No hay otro planeta. Cambia la red de relaciones entre datos, teoría y práctica. Es como el experimento gestáltico con patos y conejos."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Cambios de visión del mundo",
+      "text": "Herschel identificó Urano en 1781 porque notó tamaño anómalo. Otros habían registrado el objeto como estrella. Después de Copérnico, los cometas dejaron de ser fenómenos sublunares aislados. Lavoisier vio oxígeno donde Priestley vio aire desflogisticado. Galileo vio péndulo donde Aristóteles veía cuerpo que cae con dificultad."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Cambios de visión del mundo",
+      "text": "No se trata de que «cualquier cosa valga». La formación previa canaliza percepción. Por eso la comunicación entre escuelas rivales es parcial. Hablan palabras parecidas con significados distintos. Eso prepara el terreno para la resolución revolucionaria."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Cambios de visión del mundo",
+      "text": "La revolución re-educa percepción y práctica organizando los mismos objetos en otro gestalt profesional."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Cambios de visión del mundo",
+      "text": "Si el cambio es tan profundo, ¿por qué la historia oficial rara vez lo muestra?"
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "La invisibilidad de las revoluciones",
+      "text": "¿Por qué las revoluciones parecen invisibles en la imagen habitual de la ciencia?"
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "La invisibilidad de las revoluciones",
+      "text": "La autoridad formativa son manuales, divulgaciones y filosofía que analizan ciencia ya estabilizada. Presentan vocabulario y problemas del paradigma vigente. Ocultan cómo se llegó a él. Después de cada revolución reescriben la historia como línea recta hacia el presente."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "La invisibilidad de las revoluciones",
+      "text": "Los héroes quedan, pero obras y contextos se depuran. Newton atribuye a Galileo la ley de caída en términos newtonianos que Galileo no usaba. Dalton reescribió sus propias rutas hacia el atomismo. Boyle no «definió» elemento como enseña el manual. Parafraseó una noción antigua para negar que existan elementos químicos."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "La invisibilidad de las revoluciones",
+      "text": "Whitehead dijo que una ciencia que duda en olvidar a sus fundadores está perdida. Olvidar revoluciones agiliza la enseñanza. El científico pierde sensibilidad histórica y cree que siempre se buscó lo que hoy importa."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "La invisibilidad de las revoluciones",
+      "text": "Los manuales convierten revoluciones en aparente acumulación y hacen difícil ver la estructura real del desarrollo científico."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "La invisibilidad de las revoluciones",
+      "text": "Si están ocultas, conviene analizar cómo se cierran: competencia entre paradigmas y conversión comunitaria."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "La resolución de las revoluciones",
+      "text": "¿Cómo un nuevo paradigma reemplaza al anterior?"
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "La resolución de las revoluciones",
+      "text": "No hay prueba neutral previa al paradigma. El test ocurre en competencia entre candidatos cuando la crisis ya maduró. Comparar probabilidades de teorías imaginadas exige lenguaje no neutral. La elección es como selección natural entre alternativas históricas reales."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "La resolución de las revoluciones",
+      "text": "Proponentes rivales hablan parcialmente a través del otro. Eso es la incommensurabilidad , es decir comparación sin marco totalmente compartido. Discrepan sobre qué problemas debe resolver un paradigma. Cambiar de paradigma es conversión y no deducción paso a paso. Planck observó que la verdad triunfa cuando mueren oponentes y crece una generación nueva."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "La resolución de las revoluciones",
+      "text": "Aun así hay argumentos persuasivos. Resolver crisis aguda ayuda. Mayor precisión cuantitativa también, como las tablas de Kepler. Importa conservar capacidad de resolver puzzles del paradigma anterior. La resistencia de científicos mayores protege la eficacia de la ciencia normal hasta que la crisis lo justifica."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "La resolución de las revoluciones",
+      "text": "La resolución es persuasión comunitaria entre marcos incompatibles, no verificación lógica independiente."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "La resolución de las revoluciones",
+      "text": "Si hay cambios destructivos, ¿cómo hablar de progreso científico?"
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Progreso a través de revoluciones",
+      "text": "¿Por qué la ciencia progresa y en qué sentido lo hace si las revoluciones destruyen continuidad?"
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Progreso a través de revoluciones",
+      "text": "Llamamos «ciencia» a campos que progresan de modo visible. En pre-paradigma o en crisis, el avance es dudoso. En ciencia normal, el progreso parece obvio porque la comunidad comparte un marco y evalúa puzzles resueltos."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Progreso a través de revoluciones",
+      "text": "La eficiencia viene de aislamiento profesional, educación por manuales y consenso sobre reglas del juego. El científico elige problemas con herramientas disponibles. Cuando vence un paradigma, la comunidad reescribe historia como progreso y descarta libros del marco anterior. Hay pérdidas. Preguntas válidas bajo flogisto dejan de hacerse."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Progreso a través de revoluciones",
+      "text": "Kuhn pregunta si ayuda imaginar una sola descripción objetiva completa de la naturaleza como meta. Él duda. Progreso es alejarse de esquemas que fallaron y resolver más puzzles con precisión creciente. Autoridad para elegir paradigma pertenece a la comunidad especializada."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Progreso a través de revoluciones",
+      "text": "Progreso científico es real dentro de tradiciones, pero no garantía de convergencia hacia una verdad única prefijada."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Progreso a través de revoluciones",
+      "text": "El Postscript de 1969 aclara malentendidos sobre paradigma, comunidad e incommensurabilidad."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "Postscript (1969)",
+      "text": "¿Qué matizó Kuhn siete años después sobre paradigma, racionalidad y revolución?"
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "Postscript (1969)",
+      "text": "Reconoce circularidad inicial entre paradigma y comunidad. Propone empezar por estructura comunitaria, especialidades de unos cien miembros o menos. Luego hallar compromisos compartidos. Introduce matriz disciplinar , es decir la constelación de valores, técnicas y exemplars de una especialidad."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "Postscript (1969)",
+      "text": "Distingue paradigma-exemplar del sentido sociológico. Retracta parcialmente la idea de un periodo sin paradigma. Todas las escuelas tienen algo paradigmático. Cambia la naturaleza del paradigma al madurar el campo. Revoluciones pueden ser pequeñas en comunidades de unas veinticinco personas. Crisis no siempre es prerequisito absoluto."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "Postscript (1969)",
+      "text": "Kuhn defiende racionalidad. El conocimiento tácito en ejemplos es sistemático y corregible. Incommensurabilidad se parece a traducción entre comunidades lingüísticas. Niega relativismo total. Hay estándares de precisión, coherencia, amplitud y fructíferidad. Críticos confundieron tesis descriptivas con negación de verdad."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "Postscript (1969)",
+      "text": "Separar comunidad y exemplar disuelve vaguedades del «paradigma» sin abandonar la estructura revolucionaria central."
+    }
+  ]
+}

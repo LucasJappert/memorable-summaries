@@ -1,0 +1,419 @@
+{
+  "slug": "first-three-minutes",
+  "title": "Los tres primeros minutos",
+  "concepts": [
+    {
+      "title": "Modelo estándar del universo temprano",
+      "description": "Big bang con receta específica de contenidos; distinto del término genérico «big bang»."
+    },
+    {
+      "title": "Principio cosmológico",
+      "description": "Homogeneidad e isotropía a escala de cúmulos; fundamenta la ley de Hubble."
+    },
+    {
+      "title": "Equilibrio térmico",
+      "description": "Colisiones fijan distribuciones de partículas; borra memoria de condiciones iniciales detalladas."
+    },
+    {
+      "title": "Radiación de cuerpo negro (Planck)",
+      "description": "Distribución universal de energía vs longitud de onda; clave para interpretar el CMB."
+    },
+    {
+      "title": "Ratio fotones / nucleones (~10⁹)",
+      "description": "Parámetro observacional crucial, medido vía CMB, que gobierna nucleosíntesis y abundancias."
+    },
+    {
+      "title": "Nucleosíntesis primordial",
+      "description": "Ensamblaje de H, He y trazas en los primeros minutos; helio ~22–28 % es predicción central."
+    },
+    {
+      "title": "Constante / ley de Hubble",
+      "description": "Velocidad de recesión proporcional a distancia; fija escala temporal del universo."
+    },
+    {
+      "title": "Cantidades conservadas",
+      "description": "Carga, bariones y leptones reducen la arbitrariedad de la receta cosmológica."
+    },
+    {
+      "title": "Corrimiento al rojo cosmológico",
+      "description": "Longitudes de onda estiradas proporcionalmente a la separación entre galaxias típicas."
+    },
+    {
+      "title": "Horizonte cósmico",
+      "description": "Límite causal que encoge hacia el pasado y permite inferir el universo temprano."
+    }
+  ],
+  "highlight": "El equilibrio térmico borra la memoria del instante inicial, pero deja predicciones testeables como el helio primordial y la radiación de 3 K",
+  "entries": [
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Prefacio",
+      "text": "¿Por qué vale la pena escribir ahora un libro sobre el universo temprano?"
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Prefacio",
+      "text": "El libro nació de una charla en Harvard en noviembre de 1973 . Steven Weinberg , físico de partículas, dudó al principio porque la cosmología no era su hábitat habitual. Aun así, siguió pensando en el problema del Génesis. En el universo temprano, sobre todo en el primer centésimo de segundo, convergen la cosmología y la física de partículas."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Prefacio",
+      "text": "En la última década había surgido un «modelo estándar» ampliamente aceptado del universo temprano. Por primera vez se podía decir con alguna confianza qué temperatura tenía el cosmos al final del primer segundo. También se conocían su densidad y composición química al final del minuto o del año. Esa posibilidad de calcular numéricamente era lo que Weinberg quería transmitir."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Prefacio",
+      "text": "El libro va dirigido a un lector inteligente sin formación en física ni astronomía. Solo usa aritmética, define los términos y evita la notación científica en prosa. No es cosmología «clásica» completa ni historia definitiva de treinta años de investigación. El foco es el universo temprano tras el descubrimiento del fondo de radiación cósmica en 1965 ."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Prefacio",
+      "text": "Es el momento oportuno para contar el universo temprano porque existe un modelo estándar que permite calcular numéricamente sus condiciones desde el primer segundo en adelante."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Prefacio",
+      "text": "El prefacio delimita el alcance; el capítulo 1 presenta en síntesis ese modelo estándar cuyos fundamentos desarrollará el resto del libro."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Introducción: el gigante y la vaca",
+      "text": "¿Cómo llegamos al modelo estándar del universo temprano y por qué desplazó teorías filosóficamente más atractivas, como el estado estacionario?"
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Introducción: el gigante y la vaca",
+      "text": "La Edda menor (mitos nórdicos compilados ~1220 por Snorri Sturleson ) explica el origen con Ymer, la vaca Audhumla y la sal. Cada respuesta exige una nueva complicación. No podemos renunciar a la cosmogonía científica. Durante décadas, sin embargo, el estudio del universo temprano pareció indigno de un científico respetable porque faltaba base observacional y teórica."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Introducción: el gigante y la vaca",
+      "text": "En la última década todo cambió. Existe un «modelo estándar» del universo temprano, similar al big bang pero con una receta específica de contenidos. Lo aceptaron por presión de datos, no por modas filosóficas. Al inicio hubo una explosión simultánea en todo el espacio: cada partícula se alejó de las demás."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Introducción: el gigante y la vaca",
+      "text": "A ~ 10⁻² s y ~ 10¹¹ °C , la materia era una sopa de electrones, positrones, neutrinos y fotones en equilibrio dinámico. Había ~ 10⁹ fotones por partícula nuclear, dato tomado de la observación del CMB."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Introducción: el gigante y la vaca",
+      "text": "Al cabo de tres minutos quedaban ~ 73 % hidrógeno y ~ 27 % helio. El modelo deja vaguedad vergonzosa en el instante inicial y exige fijar condiciones iniciales, sobre todo el ratio fotones/nucleones. El estado estacionario (Bondi, Gold, Hoyle) evitaba el problema negando un universo temprano. Los capítulos 2 y 3 describirán las dos pistas observacionales que impusieron el modelo estándar: la recesión galáctica y la radiación estática universal."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Introducción: el gigante y la vaca",
+      "text": "La cosmogonía ganó respetabilidad porque un modelo estándar del universo temprano impuso consenso por datos empíricos, no por mandarines ni preferencias filosóficas."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Introducción: el gigante y la vaca",
+      "text": "El capítulo 1 resume el modelo; el capítulo 2 reconstruye la primera pila empírica: la expansión de las galaxias."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "La expansión del universo",
+      "text": "¿Qué nos dicen las observaciones sobre el movimiento de las galaxias y qué implica eso sobre el origen del universo?"
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "La expansión del universo",
+      "text": "El cielo nocturno parece inmutable, pero es ilusión. Las galaxias se alejan con velocidad proporcional a la distancia, así que el universo está en una explosión violenta. El efecto Doppler (cambio de longitud de onda según el movimiento fuente-observador) permite medir velocidades radiales con gran precisión en líneas espectrales."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "La expansión del universo",
+      "text": "Johann Christian Doppler lo propuso en 1842 . William Huggins lo aplicó a estrellas en 1868 ."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "La expansión del universo",
+      "text": "Edwin Hubble resolvió la nebulosa de Andrómeda (M31) en estrellas en 1923 , usando variables Cefeidas. Estaba a millones de años luz: una galaxia como la nuestra. Slipher había medido corrimientos al rojo. En 1929 , Hubble anunció que los corrimientos crecen con la distancia."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "La expansión del universo",
+      "text": "El principio cosmológico (homogeneidad e isotropía a escala de cúmulos) exige esa proporcionalidad: la ley de Hubble. Con H₀ ~ 15 km/s por millón de años luz , la edad característica es ~ 20.000 millones de años , menor si la gravedad frena la expansión."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "La expansión del universo",
+      "text": "Los modelos de Alexandre Friedmann describen dos destinos según la densidad. Si supera la crítica (~3 átomos de H por 1000 litros), el universo es cerrado y acabará contrayéndose. Si no, la expansión es eterna. El corrimiento al rojo también estira longitudes de onda con la expansión. Astrónomos como Halton Arp dudan de la interpretación Doppler, pero el horizonte cósmico (límite causal que encoge hacia el pasado) permite inferir el universo temprano."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "La expansión del universo",
+      "text": "La impresión de cielo fijo es falsa: las galaxias se apartan proporcionalmente a su distancia, lo que exige un pasado denso donde no existían galaxias, estrellas ni átomos."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "La expansión del universo",
+      "text": "Si el universo estuvo más caliente y denso, la luz dominante debió dejar un fondo detectable hoy: el capítulo 3 trata esa radiación."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "El fondo de radiación cósmica de microondas",
+      "text": "¿Qué es el «exceso de temperatura de antena» que Penzias y Wilson detectaron en 1964–1965?"
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "El fondo de radiación cósmica de microondas",
+      "text": "En Holmdel, Nueva Jersey, Arno Penzias y Robert Wilson midieron ruido de microondas isotrópico con una antena de Bell Labs. La señal equivalía a ~ 3,5 K a 7,35 cm. No variaba con dirección, hora ni estación, y no venía de la galaxia. Incluso expulsaron palomas que ensuciaban la antena. Describieron el ruido como «temperatura equivalente» de cuerpo opaco."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "El fondo de radiación cósmica de microondas",
+      "text": "Robert Dicke y Jim Peebles en Princeton habían predicho radiación residual del universo caliente. La estimaban en ~ 10 K . Alpher y Herman la habían calculado en ~ 5 K en 1948 . La radiación fósil sobrevivió la expansión porque su temperatura cae en proporción inversa al tamaño del universo."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "El fondo de radiación cósmica de microondas",
+      "text": "A los ~ 700.000 años de equilibrio térmico, a ~ 3000 K , el universo alcanzó la «recombinación». Entonces electrones y núcleos formaron átomos, y el universo se volvió transparente."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "El fondo de radiación cósmica de microondas",
+      "text": "Medidas en decenas de longitudes de onda confirman distribución de cuerpo negro (Planck) a ~ 3 K . La excitación rotacional del CN en Oph (~ 2,3 K , 1941) anticipó el resultado. Hay ~ 550.000 fotones/litro y entre 100 y 20.000 millones fotones por protón."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "El fondo de radiación cósmica de microondas",
+      "text": "Ese ratio, casi constante, gobernará la nucleosíntesis. La masa de Jeans impedía formar galaxias antes de átomos estables. La transición radiación/materia (~ 4000 K ) y la transparencia (~ 3000 K ) coinciden sin explicación clara."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "El fondo de radiación cósmica de microondas",
+      "text": "El ruido isotrópico de ~3 K es radiación fósil de un universo en equilibrio térmico y fija el ratio crucial de fotones a partículas nucleares (~10⁹)."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "El fondo de radiación cósmica de microondas",
+      "text": "Con expansión, CMB y equilibrio térmico, el capítulo 4 puede escribir la receta de ingredientes del universo caliente."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Receta para un universo caliente",
+      "text": "¿Qué ingredientes y qué parámetros conservados definen el universo caliente en equilibrio térmico?"
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Receta para un universo caliente",
+      "text": "Por encima de temperaturas umbral, colisiones de fotones crean pares partícula-antipartícula (E=mc²). La temperatura escala con el tamaño del universo. Por ejemplo, electrones y positrones aparecen en masa por encima de ~ 6×10⁹ K . En equilibrio térmico, la cantidad de cada especie queda fijada por creación y aniquilación mutuas."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Receta para un universo caliente",
+      "text": "Cuando materia y antimateria fueran exactamente iguales, solo quedaría radiación. Estamos aquí porque hubo un exceso minúsculo, una partícula extra por cada mil millones, sin explicación satisfactoria. La población de neutrinos se infiere, no se observa directamente. La era de radiación pura empieza tras los primeros minutos, no desde t=0."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Receta para un universo caliente",
+      "text": "En equilibrio térmico bastan tres cantidades conservadas más la temperatura. La carga eléctrica (debe ser cero) debe cancelarse en total. El número bariónico (protones y neutrones menos antipartículas) ronda ~ 10⁻⁹ por fotón. El número leptónico (electrones, muones, neutrinos) es pequeño, por analogía. Sus densidades por fotón quedan fijas de una vez."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Receta para un universo caliente",
+      "text": "En conjunto, la receta incluye carga cero, bariones ~10⁻⁹ por fotón y leptones inciertos pero pequeños. La temperatura escala como 3 K multiplicado por el cociente entre el tamaño actual y el entonces. Después basta dejar evolucionar el universo en expansión."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Receta para un universo caliente",
+      "text": "El contenido del universo temprano queda determinado por equilibrio térmico más tres cantidades conservadas cuyas densidades por fotón fijan la receta."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Receta para un universo caliente",
+      "text": "Con la receta en mano, el capítulo 5 reconstruye cuadro a cuadro los primeros tres minutos."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Los tres primeros minutos",
+      "text": "¿Qué ocurrió, paso a paso, en los primeros tres minutos del universo?"
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Los tres primeros minutos",
+      "text": "Weinberg reconstruye cuadro a cuadro desde ~ 10⁻² s y ~ 10¹¹ K , por debajo de los umbrales de mesones π. En el primer instante hay una sopa de electrones, positrones, neutrinos y fotones en equilibrio perfecto. Hay ~1 protón o neutrón por mil millones de fotones, y protones y neutrones están ~50-50."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Los tres primeros minutos",
+      "text": "A ~ 0,11 s y 3×10¹⁰ K, la proporción es 38 % neutrones y 62 % protones. A ~ 1 s , los neutrinos se desacoplan y siguen expandiéndose sin interactuar."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Los tres primeros minutos",
+      "text": "A ~ 14 s y 3×10⁹ K, la aniquilación e⁺e⁻ calienta los fotones. El «cuello de botella del deuterio» impide la nucleosíntesis porque el D se destruye al formarse. A ~ 3 min 2 s y 10⁹ K, casi no quedan e⁺e⁻."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Los tres primeros minutos",
+      "text": "Poco después, al ~ 0,9×10⁹ K , llega ~ 3 min 46 s . Entonces el deuterio se estabiliza y la cadena p+n → D → He ensambla ~ 26 % de helio primordial. La fracción final varía entre 22 y 28 % según la densidad. No hay núcleos estables con 5 u 8 partículas."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Los tres primeros minutos",
+      "text": "Peebles ( 1965 ) y Wagoner–Fowler–Hoyle calcularon el helio cosmológico, y la abundancia estelar (~20–30 % He) encaja. El deuterio (~ 20 ppm , Copernicus 1973) sugiere universo abierto, pero Weinberg duda inferir densidad solo del deuterio. El fondo de neutrinos (~ 2 K , 71,38 % de la temperatura fotónica) sería confirmación decisiva pero indetectable. El principio cosmológico no está probado antes del primer segundo, y los modelos «mixmaster» de Misner son especulativos."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Los tres primeros minutos",
+      "text": "Siguiendo expansión y enfriamiento cuadro a cuadro, equilibrio térmico y reacciones nucleares producen ~22–28 % de helio primordial, predicción verificable que consolida el modelo estándar."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Los tres primeros minutos",
+      "text": "Si la teoría ya permitía predecir el CMB, ¿por qué nadie lo buscó antes de 1965? El capítulo 6 explora esa omisión histórica."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Una digresión histórica",
+      "text": "¿Por qué el fondo de microondas no se buscó años antes de su descubrimiento fortuito?"
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Una digresión histórica",
+      "text": "Alpher y Herman predijeron ~ 5 K en 1948 . Recalcularon en 1953 . Dicke fijó límite menor que 20 K en 1946 . La tecnología viable existía desde mediados de los años cuarenta y cincuenta. Penzias y Wilson desconocían la predicción. En 1964 , Zeldovich, Hoyle, Tayler y Peebles redescubrieron la conexión mientras Penzias y Wilson ya observaban."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Una digresión histórica",
+      "text": "Tres razones explican la omisión. La primera es que la teoría de Gamow intentaba sintetizar todos los elementos en el big bang. Perdió credibilidad cuando Fermi y Turkevich mostraron que no hay núcleos estables con 5 u 8 partículas. La nucleosíntesis estelar (Salpeter, Burbidge, Fowler y Hoyle) monopolizó prestigio. La segunda fue fallas de comunicación entre teoría y experimento. Zeldovich malinterpretó «sky temperature» de Ohm como menor que 1 K. La tercera fue resistencia a tomar en serio el universo temprano como tema respetable."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Una digresión histórica",
+      "text": "Hoyle y Tayler calcularon ~ 36 % de helio cosmológico en 1964 sin inferir el CMB. Gamow citó ~ 7 K en 1953 con argumento matemático falaz. Weinberg concluye que el descubrimiento de 1965 «nos obligó a tomar en serio que hubo un universo temprano». El error habitual en física no es tomar las teorías demasiado en serio, sino no tomarlas lo bastante."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Una digresión histórica",
+      "text": "La detección del CMB en 1965 fue accidental porque, pese a predicciones teóricas, nadie emprendió una búsqueda sistemática: fallas de comunicación, prestigio de la nucleosíntesis estelar y resistencia al universo temprano."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Una digresión histórica",
+      "text": "Tras la historia reciente, el capítulo 7 retrocede más allá del primer fotograma del capítulo 5, hacia el centésimo de segundo."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "El primer centésimo de segundo",
+      "text": "¿Qué podemos saber sobre el primer centésimo de segundo y el «verdadero» comienzo, y qué queda fuera de alcance?"
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "El primer centésimo de segundo",
+      "text": "Por encima de ~ 10¹¹ K aparecen hadrones (mesones π, etc.). Dos escuelas rivalizan. Una defiende la «democracia nuclear» (Hagedorn, temperatura máxima ~ 2×10¹² K ) y la otra apuesta por quarks. En 1973 , Gross, Politzer y Wilczek demostraron libertad asintótica (fuerzas entre quarks se debilitan a distancias cortas). Eso implica quarks libres antes del centésimo de segundo."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "El primer centésimo de segundo",
+      "text": "La transición de fase electrodébil (~ 3×10¹⁵ K , Weinberg–Salam, Kirzhnits–Linde) unificó fuerzas débiles y electromagnéticas y luego se «congeló». La gravedad cuántica importa a ~ 10³² K (~ 10⁻⁴³ s ): ahí falla toda extrapolación. Posible universo sin singularidad (rebote), y el tiempo cero absoluto puede ser límite lógico. Quarks confinados no son observables libres, y radiación gravitacional de fondo ~ 1 K sería indetectable."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "El primer centésimo de segundo",
+      "text": "Aun así, el equilibrio térmico del primer segundo elimina la memoria de condiciones iniciales anteriores. Lo hace para todo lo observable hoy, como una cena hervida que borra los ingredientes originales. Nada de lo que medimos (helio, CMB, neutrinos) depende del pasado previo al primer segundo, salvo quizá el ratio fotones/nucleones."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "El primer centésimo de segundo",
+      "text": "Antes del centésimo de segundo un velo de física de partículas impide calcular con confianza, pero el equilibrio térmico del primer segundo borra la memoria de condiciones iniciales anteriores para todo lo observable hoy."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "El primer centésimo de segundo",
+      "text": "Si el pasado remoto es opaco, el capítulo 8 proyecta el futuro lejano: expansión eterna o colapso final."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Epílogo: el futuro",
+      "text": "¿Hacia dónde va el universo y qué sentido tiene la existencia humana frente a ese destino?"
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Epílogo: el futuro",
+      "text": "Si la densidad supera la crítica, el universo es finito y recontraerá. En el escenario de densidad igual al doble de la crítica y H₀ ~15 km/s/Mly, el universo tiene una edad de ~ 10.000 millones de años . Entonces expandiría ~ 50.000 millones más y luego colapsaría."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Epílogo: el futuro",
+      "text": "En recontracción el cielo dominaría radiación (~ 300 K al 1 % del tamaño actual). Galaxias, átomos y núcleos se desharían en calor creciente. Serían los primeros tres minutos a la inversa."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Epílogo: el futuro",
+      "text": "Incertidumbres del capítulo 7 (anisotropía, gravedad cuántica) invalidarían predicciones del «último centésimo de segundo». Algunos esperan un «rebote» cosmológico, con Ragnarök en la Edda como analogía, pero la entropía creciente por viscosidad bulk dificulta ciclos infinitos sin inicio. El modelo oscilante evita Génesis pero choca con el ratio fotones/nucleones finito."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Epílogo: el futuro",
+      "text": "Weinberg admite tentación de creer que la vida humana estaba «incorporada desde el principio». Volando sobre Wyoming, el paisaje parece acogedor, pero el cosmos es hostil. Evolucionó desde condiciones insospechadas hacia frío eterno o calor intolerable. Cuanto más comprensible parece el universo, más carente de propósito."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Epílogo: el futuro",
+      "text": "El destino del universo depende de si la densidad supera la crítica: expansión eterna hacia frío y vacío, o contracción que deshace galaxias, átomos y núcleos repitiendo a la inversa los primeros tres minutos."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Epílogo: el futuro",
+      "text": "El epílogo cierra el arco temporal; el postfacio resume qué cambió en cosmología desde 1976 sin derribar el esquema central."
+    },
+    {
+      "sectionId": "afterword",
+      "sectionTitle": "Postfacio: cosmología desde 1976",
+      "text": "¿Qué ha cambiado en cosmología desde la publicación original del libro?"
+    },
+    {
+      "sectionId": "afterword",
+      "sectionTitle": "Postfacio: cosmología desde 1976",
+      "text": "El esquema general sigue vigente desde 1976. Incluye expansión, CMB como cuerpo negro y nucleosíntesis a ~3 min. La anisotropía del CMB confirma movimiento de la galaxia ~ 400 km/s hacia Virgo. H₀ posiblemente ronda ~ 30 km/s/Mly , aunque no es universalmente aceptado. La densidad total equivale a ~⅓–½ de la crítica, y los bariones aportan solo pocos %. Aparece entonces una paradoja. ¿Dónde está la masa faltante?"
+    },
+    {
+      "sectionId": "afterword",
+      "sectionTitle": "Postfacio: cosmología desde 1976",
+      "text": "Entre los candidatos a masa oscura figuran neutrinos masivos (~ 10–40 eV , Novosibirsk) y «photinos». Vera Rubin mostró velocidades rotacionales altas en galaxias. Violación de bariones/leptones y generación cosmológica de bariones (Sakharov, Yoshimura) explicarían el ratio ~10⁻⁹ sin fijarlo ad hoc. Alan Guth propuso inflación (expansión ultrarrápida inicial) y superenfriamiento para homogeneidad, monopolos magnéticos y abundancia de materia."
+    },
+    {
+      "sectionId": "afterword",
+      "sectionTitle": "Postfacio: cosmología desde 1976",
+      "text": "La formación de galaxias sigue sin resolver: «la Vía Láctea y M31 siguen burlando nuestra ignorancia». Valores teóricos y experimentales del ratio bariones/fotones aún son demasiado inciertos para un test crítico. El progreso llena vacíos observacionales y empuja teoría hacia GUT e inflación, sin alterar el esquema central de 1977."
+    },
+    {
+      "sectionId": "afterword",
+      "sectionTitle": "Postfacio: cosmología desde 1976",
+      "text": "Desde 1976 el esquema general se mantiene. El progreso llena vacíos observacionales y empuja la teoría hacia el universo ultratemprano (GUT, inflación, origen de bariones, masa oscura)."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Podemos describir con confianza cuantitativa el universo desde el primer centésimo de segundo: temperatura, densidad y composición química."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "El «modelo estándar» del universo temprano descansa en datos empíricos —expansión galáctica y CMB— y en leyes conocidas de la física, no en preferencias filosóficas."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Antes del centésimo de segundo un velo de física de partículas limita lo calculable; después, la historia es numérica y verificable."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "El cosmos parece más comprensible cuanto más lejos miramos —y, para Weinberg, más carente de propósito trascendente."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Entender ese origen eleva la vida humana del absurdo hacia la tragedia."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "El equilibrio térmico borra la memoria del instante inicial, pero deja predicciones testeables como el helio primordial y la radiación de 3 K"
+    }
+  ]
+}

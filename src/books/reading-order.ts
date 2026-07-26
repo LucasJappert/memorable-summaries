@@ -52,6 +52,20 @@ export const READING_ORDER_BY_SLUG: Record<string, number> = {
   'lifespan': 47,
   'why-we-die': 48,
   'order-of-time': 49,
+  'reality-not-what-it-seems': 50,
+  'elegant-universe': 51,
+  'first-three-minutes': 52,
+  'what-is-life': 53,
+  'darwins-dangerous-idea': 54,
+  'the-gene': 55,
+  'otherlands': 56,
+  'eerie-silence': 57,
+  'consciousness-explained': 58,
+  'human-compatible': 59,
+  'the-information': 60,
+  'thinking-fast-and-slow': 61,
+  'guns-germs-and-steel': 62,
+  'structure-scientific-revolutions': 63,
 }
 
 export function getReadingOrder(slug: string): number | undefined {

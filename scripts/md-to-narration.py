@@ -506,6 +506,10 @@ def concat_wavs(paths: list[Path], out_path: Path) -> None:
                 out.writeframes(src.readframes(src.getnframes()))
 
 
+# Nivel tipo podcast (~YouTube/Spotify speech). No regenera TTS: solo WAV→MP3.
+LOUDNORM_AF = "loudnorm=I=-16:TP=-1.5:LRA=11"
+
+
 def export_mp3(wav_path: Path, slug: str) -> None:
     out_mp3 = AUDIO_DIR / f"{slug}.mp3"
     PUBLIC_AUDIO_DIR.mkdir(parents=True, exist_ok=True)
@@ -515,6 +519,8 @@ def export_mp3(wav_path: Path, slug: str) -> None:
         "-y",
         "-i",
         str(wav_path),
+        "-af",
+        LOUDNORM_AF,
         "-codec:a",
         "libmp3lame",
         "-qscale:a",
