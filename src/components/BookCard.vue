@@ -197,7 +197,6 @@ onBeforeUnmount(() => document.removeEventListener('pointerdown', onDocPointerDo
         <CoverArt
           :slug="book.slug"
           :meta="book.meta"
-          :has-audio="hasAudio"
         >
           <span
             v-if="status === 'reading' && progress > 0"
@@ -287,41 +286,40 @@ onBeforeUnmount(() => document.removeEventListener('pointerdown', onDocPointerDo
         </button>
         <button
           type="button"
-          class="book-tile__menu-item book-tile__menu-item--offline"
+          class="book-tile__menu-item"
+          :class="{ 'book-tile__menu-item--busy': offlineDownloading }"
           role="menuitem"
           :disabled="offlineDownloading"
           :aria-busy="offlineDownloading"
           :aria-valuenow="offlineDownloading ? offlineProgress : undefined"
           @click="onToggleOffline"
         >
-          <span class="book-tile__menu-item-row">
-            <svg
-              v-if="offlineCached"
-              class="book-tile__menu-icon"
-              viewBox="0 0 24 24"
-              aria-hidden="true"
-              focusable="false"
+          <svg
+            v-if="offlineCached"
+            class="book-tile__menu-icon"
+            viewBox="0 0 24 24"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <path
+              d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z"
+              fill="currentColor"
+            />
+          </svg>
+          <svg
+            v-else
+            class="book-tile__menu-icon"
+            viewBox="0 0 24 24"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z" fill="currentColor" />
+          </svg>
+          <span class="book-tile__menu-item-label">
+            {{ offlineMenuLabel }}
+            <span v-if="offlineSizeLabel" class="book-tile__menu-item-size"
+              >({{ offlineSizeLabel }})</span
             >
-              <path
-                d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z"
-                fill="currentColor"
-              />
-            </svg>
-            <svg
-              v-else
-              class="book-tile__menu-icon"
-              viewBox="0 0 24 24"
-              aria-hidden="true"
-              focusable="false"
-            >
-              <path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z" fill="currentColor" />
-            </svg>
-            <span class="book-tile__menu-item-copy">
-              <span class="book-tile__menu-item-label">{{ offlineMenuLabel }}</span>
-              <span v-if="offlineSizeLabel" class="book-tile__menu-item-size">{{
-                offlineSizeLabel
-              }}</span>
-            </span>
           </span>
           <span
             v-if="offlineDownloading"

@@ -58,7 +58,7 @@ function onListen() {
     />
 
     <div class="hero__cover" aria-hidden="true">
-      <CoverArt :slug="slug" :meta="meta" :done="done" :has-audio="hasAudio" />
+      <CoverArt :slug="slug" :meta="meta" :done="done" />
     </div>
 
     <div class="hero__body">

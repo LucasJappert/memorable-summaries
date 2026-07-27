@@ -8,13 +8,10 @@ import {
   type CoverStyle,
 } from '../utils/coverImage'
 import { coverThemeFromSlug, monogramFrom } from '../utils/coverSeed'
-import AudioIcon from './icons/AudioIcon.vue'
-
 const props = defineProps<{
   slug: string
   meta: BookMeta
   done?: boolean
-  hasAudio?: boolean
 }>()
 
 const theme = computed(() => coverThemeFromSlug(props.slug))
@@ -160,15 +157,6 @@ function onPhotoError() {
 
       <span class="cover-art__monogram">{{ monogram }}</span>
     </template>
-
-    <span
-      v-if="hasAudio"
-      class="cover-art__badge cover-art__badge--audio"
-      title="Narración en audio disponible"
-      aria-hidden="true"
-    >
-      <AudioIcon class="cover-art__audio-icon" />
-    </span>
 
     <span
       v-if="done"

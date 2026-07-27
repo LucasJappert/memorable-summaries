@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { computed, onBeforeUnmount, onMounted, ref, watch } from 'vue'
+import { useRouter } from 'vue-router'
 import { bookCatalog, getBookBySlug } from '../books/catalog'
 import { getReadingOrder } from '../books/reading-order'
 import { useAudioQueue } from '../composables/useAudioQueue'
@@ -11,6 +12,8 @@ import { atmosphereUrl } from '../utils/artImage'
 
 defineProps<{ open: boolean }>()
 const emit = defineEmits<{ close: [] }>()
+
+const router = useRouter()
 
 const {
   items,
@@ -288,6 +291,12 @@ function onRowActivate(index: number) {
   togglePlayAt(index)
 }
 
+function openBook(slug: string) {
+  openMenuIndex.value = null
+  emit('close')
+  void router.push(`/libro/${slug}`)
+}
+
 function onTransportPlay() {
   if (isPlaying.value) pause()
   else resume()
@@ -485,7 +494,14 @@ onBeforeUnmount(() => document.removeEventListener('pointerdown', onDocPointerDo
           <div class="audio-queue-sheet__now-body">
             <div class="audio-queue-sheet__now-text">
               <div class="audio-queue-sheet__item-title">
-                <span class="audio-queue-sheet__item-title-text">{{ currentRow.title }}</span>
+                <button
+                  type="button"
+                  class="audio-queue-sheet__item-title-text audio-queue-sheet__book-link"
+                  :aria-label="`Abrir resumen de ${currentRow.title}`"
+                  @click="openBook(currentRow.slug)"
+                >
+                  {{ currentRow.title }}
+                </button>
                 <span
                   v-if="currentRow.offline"
                   class="audio-queue-sheet__offline-badge"
@@ -500,6 +516,25 @@ onBeforeUnmount(() => document.removeEventListener('pointerdown', onDocPointerDo
                 >{{ currentRow.readingOrder }}</span>
                 <span>{{ currentRow.author }}</span>
                 <template v-if="currentRow.sizeLabel"> · {{ currentRow.sizeLabel }}</template>
+                <button
+                  type="button"
+                  class="audio-queue-sheet__now-open"
+                  :aria-label="`Abrir libro ${currentRow.title}`"
+                  @click="openBook(currentRow.slug)"
+                >
+                  <svg
+                    class="audio-queue-sheet__now-open-icon"
+                    viewBox="0 0 24 24"
+                    aria-hidden="true"
+                    focusable="false"
+                  >
+                    <path
+                      d="M18 2H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zM6 4h5v8l-2.5-1.5L6 12V4zm7 0h5v8l-2.5-1.5L13 12V4z"
+                      fill="currentColor"
+                    />
+                  </svg>
+                  Abrir libro
+                </button>
               </div>
               <div
                 ref="progressEl"
@@ -756,43 +791,58 @@ onBeforeUnmount(() => document.removeEventListener('pointerdown', onDocPointerDo
                   >
                     <button
                       type="button"
-                      class="audio-queue-sheet__menu-item audio-queue-sheet__menu-item--offline"
+                      class="audio-queue-sheet__menu-item"
+                      role="menuitem"
+                      @click="openBook(row.slug)"
+                    >
+                      <svg
+                        class="audio-queue-sheet__menu-icon"
+                        viewBox="0 0 24 24"
+                        aria-hidden="true"
+                        focusable="false"
+                      >
+                        <path
+                          d="M18 2H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zM6 4h5v8l-2.5-1.5L6 12V4zm7 0h5v8l-2.5-1.5L13 12V4z"
+                          fill="currentColor"
+                        />
+                      </svg>
+                      Abrir libro
+                    </button>
+                    <button
+                      type="button"
+                      class="audio-queue-sheet__menu-item"
+                      :class="{ 'audio-queue-sheet__menu-item--busy': row.offlineBusy }"
                       role="menuitem"
                       :disabled="row.offlineBusy"
                       :aria-busy="row.offlineBusy"
                       @click="onToggleOffline(row.slug)"
                     >
-                      <span class="audio-queue-sheet__menu-item-row">
-                        <svg
-                          v-if="row.offline"
-                          class="audio-queue-sheet__menu-icon"
-                          viewBox="0 0 24 24"
-                          aria-hidden="true"
-                          focusable="false"
+                      <svg
+                        v-if="row.offline"
+                        class="audio-queue-sheet__menu-icon"
+                        viewBox="0 0 24 24"
+                        aria-hidden="true"
+                        focusable="false"
+                      >
+                        <path
+                          d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z"
+                          fill="currentColor"
+                        />
+                      </svg>
+                      <svg
+                        v-else
+                        class="audio-queue-sheet__menu-icon"
+                        viewBox="0 0 24 24"
+                        aria-hidden="true"
+                        focusable="false"
+                      >
+                        <path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z" fill="currentColor" />
+                      </svg>
+                      <span class="audio-queue-sheet__menu-item-label">
+                        {{ row.offlineLabel }}
+                        <span v-if="row.sizeLabel" class="audio-queue-sheet__menu-item-size"
+                          >({{ row.sizeLabel }})</span
                         >
-                          <path
-                            d="M6 19c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V7H6v12zM19 4h-3.5l-1-1h-5l-1 1H5v2h14V4z"
-                            fill="currentColor"
-                          />
-                        </svg>
-                        <svg
-                          v-else
-                          class="audio-queue-sheet__menu-icon"
-                          viewBox="0 0 24 24"
-                          aria-hidden="true"
-                          focusable="false"
-                        >
-                          <path d="M19 9h-4V3H9v6H5l7 7 7-7zM5 18v2h14v-2H5z" fill="currentColor" />
-                        </svg>
-                        <span class="audio-queue-sheet__menu-item-copy">
-                          <span class="audio-queue-sheet__menu-item-label">{{
-                            row.offlineLabel
-                          }}</span>
-                          <span
-                            v-if="row.sizeLabel"
-                            class="audio-queue-sheet__menu-item-size"
-                          >{{ row.sizeLabel }}</span>
-                        </span>
                       </span>
                       <span
                         v-if="row.offlineBusy"
