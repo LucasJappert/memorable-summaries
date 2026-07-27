@@ -608,8 +608,19 @@
   border-bottom: 1px solid rgba(255, 255, 255, 0.04);
 }
 
+.audio-queue-sheet__item .audio-queue-sheet__row {
+  box-shadow:
+    inset 0 1px 0 rgba(0, 0, 0, 0.55),
+    inset 0 -1px 0 rgba(0, 0, 0, 0.72),
+    inset 0 0 18px rgba(0, 0, 0, 0.35);
+}
+
 .audio-queue-sheet__item--menu-open {
   z-index: 20;
+}
+
+.audio-queue-sheet__item--menu-open .audio-queue-sheet__row {
+  overflow: visible;
 }
 
 .audio-queue-sheet__row {
@@ -618,7 +629,84 @@
   align-items: center;
   gap: 0.25rem;
   padding: 0.45rem 0.5rem;
+  isolation: isolate;
   background: rgba(12, 16, 30, 0.92);
+}
+
+.audio-queue-sheet__row-bg-wrap {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+  overflow: hidden;
+  pointer-events: none;
+}
+
+.audio-queue-sheet__row-bg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 40%;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.22s ease;
+}
+
+.audio-queue-sheet__row--atmosphere {
+  background:
+    linear-gradient(
+      95deg,
+      rgba(8, 12, 22, 0.96) 0%,
+      rgba(8, 12, 22, 0.9) 52%,
+      rgba(8, 12, 22, 0.68) 78%,
+      rgba(8, 12, 22, 0.48) 100%
+    );
+}
+
+.audio-queue-sheet__row--atmosphere .audio-queue-sheet__row-bg {
+  opacity: 0.38;
+  mask-image: linear-gradient(
+    95deg,
+    transparent 0%,
+    transparent 42%,
+    rgba(0, 0, 0, 0.25) 62%,
+    #000 88%
+  );
+  -webkit-mask-image: linear-gradient(
+    95deg,
+    transparent 0%,
+    transparent 42%,
+    rgba(0, 0, 0, 0.25) 62%,
+    #000 88%
+  );
+}
+
+.audio-queue-sheet__row > :not(.audio-queue-sheet__row-bg-wrap) {
+  position: relative;
+  z-index: 1;
+}
+
+.audio-queue-sheet__row--atmosphere .audio-queue-sheet__item-title {
+  color: #fff;
+  text-shadow:
+    0 1px 2px rgba(0, 0, 0, 0.9),
+    0 2px 8px rgba(0, 0, 0, 0.65);
+}
+
+.audio-queue-sheet__row--atmosphere .audio-queue-sheet__item-meta {
+  color: rgba(236, 242, 255, 0.9);
+  text-shadow:
+    0 1px 2px rgba(0, 0, 0, 0.85),
+    0 2px 6px rgba(0, 0, 0, 0.55);
+}
+
+.audio-queue-sheet__row--atmosphere .audio-queue-sheet__move-btn,
+.audio-queue-sheet__row--atmosphere .audio-queue-sheet__action {
+  background: rgba(8, 12, 22, 0.55);
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
 }
 
 .audio-queue-sheet__move {

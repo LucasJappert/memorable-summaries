@@ -60,6 +60,9 @@ const isSeekDragging = ref(false)
 const offlineBusySlug = ref<string | null>(null)
 /** Slugs sin `.editorial.jpg` → caer a Memorable (como CoverArt). */
 const coverFallbackMemorable = ref(new Set<string>())
+/** Atmósferas 404 → no pintar fondo en la fila. */
+const atmosphereFailed = ref(new Set<string>())
+const atmosphereReady = ref(new Set<string>())
 let seekPointerId: number | null = null
 
 const SKIP_SECONDS = 10
@@ -75,6 +78,8 @@ const rows = computed(() => {
   audioBytesBySlug.value
   const style = coverStyle.value
   const fallbacks = coverFallbackMemorable.value
+  const atmFailed = atmosphereFailed.value
+  const atmReady = atmosphereReady.value
   return items.value.map((slug, index) => {
     const book = getBookBySlug(slug)
     const title = book?.meta.titleEs?.trim() || book?.meta.title || slug
@@ -94,6 +99,8 @@ const rows = computed(() => {
         style === 'editorial' && fallbacks.has(slug)
           ? coverImageUrl(slug)
           : coverUrlForStyle(slug, style),
+      atmosphere: atmFailed.has(slug) ? '' : atmosphereUrl(slug),
+      atmosphereOk: atmReady.has(slug) && !atmFailed.has(slug),
       isCurrent: index === currentIndex.value,
       completedCount: stats.completedCount,
       markedListened: stats.markedListened,
@@ -111,6 +118,25 @@ const rows = computed(() => {
     }
   })
 })
+
+function onRowAtmosphereLoad(slug: string) {
+  if (atmosphereFailed.value.has(slug) || atmosphereReady.value.has(slug)) return
+  const next = new Set(atmosphereReady.value)
+  next.add(slug)
+  atmosphereReady.value = next
+}
+
+function onRowAtmosphereError(slug: string) {
+  if (atmosphereFailed.value.has(slug)) return
+  const next = new Set(atmosphereFailed.value)
+  next.add(slug)
+  atmosphereFailed.value = next
+  if (atmosphereReady.value.has(slug)) {
+    const ready = new Set(atmosphereReady.value)
+    ready.delete(slug)
+    atmosphereReady.value = ready
+  }
+}
 
 const downloadedCount = computed(() => cachedSlugs.value.size)
 
@@ -695,7 +721,24 @@ onBeforeUnmount(() => document.removeEventListener('pointerdown', onDocPointerDo
               class="audio-queue-sheet__item"
               :class="{ 'audio-queue-sheet__item--menu-open': openMenuIndex === row.index }"
             >
-              <div class="audio-queue-sheet__row">
+              <div
+                class="audio-queue-sheet__row"
+                :class="{ 'audio-queue-sheet__row--atmosphere': row.atmosphereOk }"
+              >
+                <div
+                  v-if="row.atmosphere"
+                  class="audio-queue-sheet__row-bg-wrap"
+                  aria-hidden="true"
+                >
+                  <img
+                    class="audio-queue-sheet__row-bg"
+                    :src="row.atmosphere"
+                    alt=""
+                    loading="lazy"
+                    @load="onRowAtmosphereLoad(row.slug)"
+                    @error="onRowAtmosphereError(row.slug)"
+                  />
+                </div>
                 <div class="audio-queue-sheet__move">
                   <button
                     type="button"
