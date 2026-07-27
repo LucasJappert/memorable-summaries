@@ -106,6 +106,20 @@ export default defineConfig(({ mode }) => {
                 },
               },
             },
+            {
+              // Portadas, atmósfera hero, OG — on-demand (URLs fijas, no precache).
+              urlPattern: ({ url }) =>
+                /\/(covers|art)\/.+\.(jpe?g|png|webp)$/i.test(url.pathname),
+              handler: 'CacheFirst',
+              options: {
+                cacheName: 'book-images',
+                cacheableResponse: { statuses: [0, 200] },
+                expiration: {
+                  maxEntries: 200,
+                  maxAgeSeconds: 60 * 60 * 24 * 30,
+                },
+              },
+            },
           ],
         },
       }),
