@@ -43,7 +43,15 @@ export default defineConfig(({ mode }) => {
       versionJsonPlugin(version),
       VitePWA({
         registerType: 'autoUpdate',
-        includeAssets: ['favicon.svg', 'pwa-icon-192.png', 'pwa-icon-512.png', 'apple-touch-icon.png'],
+        includeAssets: [
+          'favicon.svg',
+          'favicon.png',
+          'favicon-32.png',
+          'pwa-icon-192.png',
+          'pwa-icon-512.png',
+          'pwa-icon-512-maskable.png',
+          'apple-touch-icon.png',
+        ],
         manifest: {
           name: 'Memorable Summaries',
           short_name: 'Summaries',

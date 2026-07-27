@@ -125,7 +125,8 @@ export function escapeHtml(value: string): string {
 export function renderAppHeadTags(): string {
 	const base = escapeHtml(getBuildBasePath());
 
-	return `    <link rel="icon" type="image/svg+xml" href="${base}favicon.svg" />
+	return `    <link rel="icon" type="image/png" sizes="48x48" href="${base}favicon.png" />
+    <link rel="icon" type="image/svg+xml" href="${base}favicon.svg" />
     <meta name="theme-color" content="#0a0e1a" />
     <meta name="mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
