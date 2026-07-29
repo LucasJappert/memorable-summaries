@@ -115,16 +115,19 @@ export default defineConfig(({ mode }) => {
               },
             },
             {
-              // Portadas, atmósfera hero, OG — on-demand (URLs fijas, no precache).
+              // Portadas / atmósfera / OG art / og-home — CacheFirst permanente.
+              // Invalidar: subir book-images-vN (el cache viejo queda huérfano y el
+              // SW deja de usarlo; cleanupOutdatedCaches no borra runtime caches).
               urlPattern: ({ url }) =>
-                /\/(covers|art)\/.+\.(jpe?g|png|webp)$/i.test(url.pathname),
+                /\/(covers|art)\/.+\.(jpe?g|png|webp)$/i.test(url.pathname) ||
+                /\/og-home\.jpe?g$/i.test(url.pathname),
               handler: 'CacheFirst',
               options: {
-                cacheName: 'book-images',
+                cacheName: 'book-images-v1',
                 cacheableResponse: { statuses: [0, 200] },
                 expiration: {
-                  maxEntries: 200,
-                  maxAgeSeconds: 60 * 60 * 24 * 30,
+                  // Sin maxAge: no caducan por tiempo. Tope LRU por si el catálogo crece.
+                  maxEntries: 400,
                 },
               },
             },
