@@ -30,8 +30,9 @@ export default defineConfig(({ mode }) => {
   // VITE_BASE_PATH: subruta del hosting (p. ej. /memorable-summaries/ en GitHub Pages).
   const base = process.env.VITE_BASE_PATH || '/'
   const version = buildVersion()
-  const navigateFallback =
-    base === '/' ? '/index.html' : `${base.replace(/\/$/, '')}/index.html`
+  // Debe coincidir con la entry del precache (`index.html`), no con la URL pública
+  // (`/memorable-summaries/index.html`) — si no, Workbox tira non-precached-url.
+  const navigateFallback = 'index.html'
 
   return {
     base,
@@ -83,8 +84,10 @@ export default defineConfig(({ mode }) => {
           ],
         },
         workbox: {
-          // HTML fuera del precache: siempre intenta red primero
-          globPatterns: ['**/*.{js,css,svg,png,woff,woff2}'],
+          // App shell en precache (exigido por navigateFallback / createHandlerBoundToURL).
+          // Solo index.html raíz — no precachear dist/libro/** (SEO).
+          // Navigations online: NetworkFirst abajo actualiza html-pages.
+          globPatterns: ['**/*.{js,css,svg,png,woff,woff2}', 'index.html'],
           navigateFallback,
           navigateFallbackDenylist: [/^\/_/, /\/[^/?]+\.[^/]+$/],
           runtimeCaching: [
