@@ -1,7 +1,8 @@
 <script setup lang="ts">
-import { computed, ref, watch } from 'vue'
+import { computed, nextTick, ref, watch } from 'vue'
 import type { BookMeta } from '../types/book'
 import { coverStyle } from '../composables/useCoverStyle'
+import { rememberBookImage } from '../utils/bookImageCache'
 import {
   coverEditorialUrl,
   coverImageUrl,
@@ -37,6 +38,7 @@ const photoSrc = computed(() => {
   return memorableSrc.value
 })
 
+const photoRef = ref<HTMLImageElement | null>(null)
 const photoOk = ref(false)
 const photoFailed = ref(false)
 
@@ -46,10 +48,17 @@ function resetPhotoForStyle(style: CoverStyle) {
   photoFailed.value = false
 }
 
+function syncPhotoFromElement() {
+  const el = photoRef.value
+  if (el?.complete && el.naturalWidth > 0) onPhotoLoad()
+}
+
 watch(
   [() => props.slug, memorableSrc, coverStyle],
-  () => {
+  async () => {
     resetPhotoForStyle(coverStyle.value)
+    await nextTick()
+    syncPhotoFromElement()
   },
   { immediate: true },
 )
@@ -68,6 +77,7 @@ const orbitStyle = computed(() => ({
 
 function onPhotoLoad() {
   photoOk.value = true
+  rememberBookImage(photoSrc.value)
 }
 
 function onPhotoError() {
@@ -88,6 +98,7 @@ function onPhotoError() {
     aria-hidden="true"
   >
     <img
+      ref="photoRef"
       class="cover-art__photo"
       :src="photoSrc"
       alt=""

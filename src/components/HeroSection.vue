@@ -4,6 +4,7 @@ import type { BookMeta } from '../types/book'
 import { bookHasAudio } from '../books/audio-catalog'
 import { useAudioQueue } from '../composables/useAudioQueue'
 import { atmosphereUrl } from '../utils/artImage'
+import { rememberBookImage } from '../utils/bookImageCache'
 import CoverArt from './CoverArt.vue'
 import CheckIcon from './icons/CheckIcon.vue'
 
@@ -28,12 +29,14 @@ const hasAudio = computed(() => bookHasAudio(props.slug) && !props.hideAudio)
 const atmosphereSrc = computed(() => atmosphereUrl(props.slug))
 const atmosphereOk = ref(false)
 
-watch(
-  atmosphereSrc,
-  () => {
-    atmosphereOk.value = false
-  },
-)
+watch(atmosphereSrc, () => {
+  atmosphereOk.value = false
+})
+
+function onAtmosphereLoad() {
+  atmosphereOk.value = true
+  rememberBookImage(atmosphereSrc.value)
+}
 
 function onListen() {
   if (!hasAudio.value) return
@@ -53,7 +56,7 @@ function onListen() {
       :src="atmosphereSrc"
       alt=""
       aria-hidden="true"
-      @load="atmosphereOk = true"
+      @load="onAtmosphereLoad"
       @error="atmosphereOk = false"
     />
 

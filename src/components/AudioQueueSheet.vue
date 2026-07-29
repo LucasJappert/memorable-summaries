@@ -9,6 +9,7 @@ import { readingRevision } from '../reading/revision'
 import { coverStyle } from '../composables/useCoverStyle'
 import { coverImageUrl, coverUrlForStyle } from '../utils/coverImage'
 import { atmosphereUrl } from '../utils/artImage'
+import { rememberBookImage } from '../utils/bookImageCache'
 
 defineProps<{ open: boolean }>()
 const emit = defineEmits<{ close: [] }>()
@@ -124,6 +125,7 @@ function onRowAtmosphereLoad(slug: string) {
   const next = new Set(atmosphereReady.value)
   next.add(slug)
   atmosphereReady.value = next
+  rememberBookImage(atmosphereUrl(slug))
 }
 
 function onRowAtmosphereError(slug: string) {
@@ -196,6 +198,7 @@ watch(
 
 function onNowBgLoad() {
   if (nowUseAtmosphere.value) nowAtmosphereOk.value = true
+  if (nowBgSrc.value) rememberBookImage(nowBgSrc.value)
 }
 
 function onNowBgError() {
@@ -776,6 +779,7 @@ onBeforeUnmount(() => document.removeEventListener('pointerdown', onDocPointerDo
                       :src="row.cover"
                       alt=""
                       loading="lazy"
+                      @load="rememberBookImage(row.cover)"
                       @error="onCoverError(row.slug)"
                     />
                     <span class="audio-queue-sheet__play-icon" aria-hidden="true">▶</span>

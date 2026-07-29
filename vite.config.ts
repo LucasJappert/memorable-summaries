@@ -119,8 +119,8 @@ export default defineConfig(({ mode }) => {
             },
             {
               // Portadas / atmósfera / OG art / og-home — CacheFirst permanente.
-              // Invalidar: subir book-images-vN (el cache viejo queda huérfano y el
-              // SW deja de usarlo; cleanupOutdatedCaches no borra runtime caches).
+              // Invalidar: subir book-images-vN acá y en src/utils/bookImageCache.ts.
+              // El cache viejo queda huérfano; cleanupOutdatedCaches no borra runtime caches.
               urlPattern: ({ url }) =>
                 /\/(covers|art)\/.+\.(jpe?g|png|webp)$/i.test(url.pathname) ||
                 /\/og-home\.jpe?g$/i.test(url.pathname),

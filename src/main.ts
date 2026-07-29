@@ -18,14 +18,23 @@ import { initPressRipple } from './utils/pressRipple'
 preventPinchZoom()
 initPressRipple()
 
-if (import.meta.env.PROD) {
-  registerSW({
-    immediate: true,
-    onRegisteredSW(_swUrl, registration) {
-      setServiceWorkerRegistration(registration)
-    },
-  })
-  initAppUpdates()
+async function start(): Promise<void> {
+  if (import.meta.env.PROD && 'serviceWorker' in navigator) {
+    registerSW({
+      immediate: true,
+      onRegisteredSW(_swUrl, registration) {
+        setServiceWorkerRegistration(registration)
+      },
+    })
+    initAppUpdates()
+    // Evita que el primer paint de portadas pase sin SW (no entrarían a Cache Storage).
+    await Promise.race([
+      navigator.serviceWorker.ready,
+      new Promise<void>((resolve) => setTimeout(resolve, 1200)),
+    ])
+  }
+
+  createApp(App).use(router).mount('#app')
 }
 
-createApp(App).use(router).mount('#app')
+void start()
