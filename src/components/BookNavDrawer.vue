@@ -13,6 +13,8 @@ const emit = defineEmits<{
   close: []
 }>()
 
+const appVersion = __APP_VERSION__
+
 function close() {
   emit('close')
 }
@@ -38,7 +40,12 @@ onUnmounted(() => window.removeEventListener('keydown', onKeydown))
 
         <nav id="nav-drawer" class="nav-drawer__panel" aria-label="Menú">
           <div class="nav-drawer__header">
-            <h2 class="nav-drawer__title">Menú</h2>
+            <div class="nav-drawer__heading">
+              <h2 class="nav-drawer__title">Menú</h2>
+              <span class="nav-drawer__version" :title="`Versión ${appVersion}`">{{
+                appVersion
+              }}</span>
+            </div>
             <button type="button" class="nav-drawer__close" aria-label="Cerrar menú" @click="close">
               ✕
             </button>

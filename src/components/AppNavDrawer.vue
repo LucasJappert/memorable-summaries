@@ -7,6 +7,8 @@ defineProps<{
   open: boolean
 }>()
 
+const appVersion = __APP_VERSION__
+
 function close() {
   closeAppNavMenu()
 }
@@ -32,7 +34,12 @@ onUnmounted(() => window.removeEventListener('keydown', onKeydown))
 
         <nav id="app-nav-drawer" class="nav-drawer__panel" aria-label="Menú de navegación">
           <div class="nav-drawer__header">
-            <h2 class="nav-drawer__title">Menú</h2>
+            <div class="nav-drawer__heading">
+              <h2 class="nav-drawer__title">Menú</h2>
+              <span class="nav-drawer__version" :title="`Versión ${appVersion}`">{{
+                appVersion
+              }}</span>
+            </div>
             <button type="button" class="nav-drawer__close" aria-label="Cerrar menú" @click="close">
               ✕
             </button>
