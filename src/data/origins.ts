@@ -21,7 +21,7 @@ export const origins: BookSummary = {
   {
     "id": "prefacio",
     "num": "00",
-    "label": "Introducción"
+    "label": "Meditación sobre los orígenes de la ciencia y la ciencia de los orígenes"
   },
   {
     "id": "cap1",
@@ -106,7 +106,7 @@ export const origins: BookSummary = {
   {
     "id": "coda",
     "num": "—",
-    "label": "Coda"
+    "label": "La búsqueda de nosotros mismos en el cosmos"
   },
   {
     "id": "conceptos",
@@ -116,7 +116,7 @@ export const origins: BookSummary = {
   {
     "id": "cronologia",
     "num": "◈",
-    "label": "Cronología"
+    "label": "Cronología de los descubrimientos"
   },
   {
     "id": "figuras",
@@ -141,7 +141,7 @@ export const origins: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Los humanos fascinan los orígenes por razones lógicas y emocionales. Cada avance revela que habitamos un <span class=\"term\">grano de polvo cósmico</span> (un planeta diminuto) en los suburbios de una galaxia común. Entre al menos <span class=\"num\">100.000 millones de galaxias</span>, no somos el centro. Los mitos de creación suelen pasar rápido del universo a la historia humana.",
+          html: "A los humanos les fascinan los orígenes por razones lógicas y emocionales. Cada avance revela que habitamos un <span class=\"term\">grano de polvo cósmico</span> (un planeta diminuto) en los suburbios de una galaxia común. Entre al menos <span class=\"num\">100.000 millones de galaxias</span>, no somos el centro. Los mitos de creación suelen pasar rápido del universo a la historia humana.",
         },
         {
           type: 'paragraph',
@@ -165,7 +165,7 @@ export const origins: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La física clásica (pre-1900) funciona en laboratorios cotidianos. La <span class=\"term\">física moderna</span> (relatividad y cuántica) describe regímenes extremos de temperatura, densidad y presión. Ahí mandan reglas donde la intuición falla, como en los primeros momentos del universo.",
+          html: "La física clásica (pre-1900) funciona en laboratorios cotidianos, pero el cosmos temprano exige otra cosa. Por eso, la <span class=\"term\">física moderna</span> (relatividad y cuántica) describe regímenes extremos de temperatura, densidad y presión. Ahí mandan reglas donde la intuición falla, como en los primeros momentos del universo.",
         },
         {
           type: 'paragraph',
@@ -238,7 +238,7 @@ export const origins: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Los fotones gamma de alta energía pueden crear pares electrón-positrón (E = mc² al revés). El universo primordial produjo partículas y antipartículas en igual cantidad. Una asimetría minúscima dejó materia suficiente: <span class=\"num\">un billón y uno frente a un billón</span>.",
+          html: "Por eso, los fotones gamma de alta energía pueden crear pares electrón-positrón (E = mc² al revés). El universo primordial produjo partículas y antipartículas en igual cantidad. Una asimetría minúscima dejó materia suficiente: <span class=\"num\">un billón y uno frente a un billón</span>.",
         },
         {
           type: 'quote',
@@ -312,7 +312,7 @@ export const origins: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El astrónomo <span class=\"person\">Fritz Zwicky</span> analizó en los <span class=\"num\">1930</span> el cúmulo de Coma. Está a <span class=\"num\">325 millones de años luz</span>. Las galaxias se mueven demasiado rápido para la masa visible. El cúmulo debería desintegrarse en cientos de millones de años, pero tiene más de <span class=\"num\">10.000 millones de años</span>.",
+          html: "El astrónomo <span class=\"person\">Fritz Zwicky</span> analizó en la década de <span class=\"num\">1930</span> el cúmulo de Coma. Está a <span class=\"num\">325 millones de años luz</span>. Las galaxias se mueven demasiado rápido para la masa visible. El cúmulo debería desintegrarse en cientos de millones de años, pero tiene más de <span class=\"num\">10.000 millones de años</span>.",
         },
         {
           type: 'paragraph',
@@ -409,7 +409,7 @@ export const origins: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Antes del telescopio Hubble, los valores de H₀ divergían por factor 2 (50 frente a 100). Que hoy la discordancia sea solo ~10% es progreso. Una tensión persistente podría abrir nueva física más allá del modelo estándar.",
+          html: "Sin embargo, antes del telescopio Hubble, los valores de H₀ divergían por factor 2 (50 frente a 100). Que hoy la discordancia sea solo ~10% es progreso. Una tensión persistente podría abrir nueva física más allá del modelo estándar.",
         },
         {
           type: 'timeline',
@@ -502,7 +502,7 @@ export const origins: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Hubble midió la relación distancia-velocidad de recesión: cuanto más lejos una galaxia, más rápido se aleja. El universo se expande. La lección es dejar de clasificar por apariencia y preguntar qué <em>es</em> cada objeto y a qué distancia.",
+          html: "Por eso, Hubble midió la relación distancia-velocidad de recesión: cuanto más lejos una galaxia, más rápido se aleja. El universo se expande. La lección es dejar de clasificar por apariencia y preguntar qué <em>es</em> cada objeto y a qué distancia.",
         },
         {
           type: 'timeline',
@@ -575,11 +575,11 @@ export const origins: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Las nubes gigantes (~<span class=\"num\">100 K</span> o menos) colapsan bajo gravedad pese a rotación, turbulencia, presión y campos magnéticos.",
+          html: "Por eso, las nubes gigantes (~<span class=\"num\">100 K</span> o menos) colapsan bajo gravedad pese a rotación, turbulencia, presión y campos magnéticos.",
         },
         {
           type: 'paragraph',
-          html: "Las estrellas en fase de <span class=\"term\">gigante roja</span> (fase tardía de evolución estelar) expulsan granos de polvo al espacio. En regiones como la nebulosa de Orión, miles de estrellas nacen de nubes de ~un millón de masas solares. El polvo y el gas son indispensables para una segunda generación estelar y para los elementos pesados que forman planetas y vida.",
+          html: "Además, las estrellas en fase de <span class=\"term\">gigante roja</span> (fase tardía de evolución estelar) expulsan granos de polvo al espacio. En regiones como la nebulosa de Orión, miles de estrellas nacen de nubes de ~un millón de masas solares. El polvo y el gas son indispensables para una segunda generación estelar y para los elementos pesados que forman planetas y vida.",
         },
         {
           type: 'key',
@@ -599,7 +599,7 @@ export const origins: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "¿Cómo se formaron los planetas si los «siglos oscuros» cósmicos dejaron pocos datos? Esos siglos dejaron pocos datos observables sobre cómo la materia se organizó en estrellas y galaxias. Los planetas son aún más misteriosos: sabemos poco de cómo <em>empezaron</em> a formarse.",
+          html: "¿Cómo se formaron los planetas si los «siglos oscuros» cósmicos dejaron pocos datos observables sobre cómo la materia se organizó en estrellas y galaxias? Los planetas son aún más misteriosos: sabemos poco de cómo <em>empezaron</em> a formarse.",
         },
         {
           type: 'paragraph',
@@ -635,7 +635,7 @@ export const origins: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Los métodos de detección incluyen la velocidad radial (wobble estelar), los tránsitos (atenuación de luz), las microlentes gravitacionales y la imagen directa. Los exoplanetas son laboratorio cósmico para preguntar cuándo y cómo surge la vida más allá del Sistema Solar.",
+          html: "Además, los métodos de detección incluyen la velocidad radial (wobble estelar), los tránsitos (atenuación de luz), las microlentes gravitacionales y la imagen directa. Los exoplanetas son laboratorio cósmico para preguntar cuándo y cómo surge la vida más allá del Sistema Solar.",
         },
         {
           type: 'key',
@@ -944,7 +944,7 @@ export const origins: BookSummary = {
     lines: [
   "El cosmos tiene una historia continua de catorce mil millones de años.",
   "Desde física extrema y antimateria hasta luz, oscuridad y estructura.",
-  "La ciencia une astrofísica, química y biología para contar esa historia.",
+  "Por eso, la ciencia une astrofísica, química y biología para contar esa historia.",
   "Cada nuevo instrumento amplía sentidos que la evolución no nos dio.",
   "Explorar el universo es buscarnos a nosotros mismos en el cosmos."
 ],

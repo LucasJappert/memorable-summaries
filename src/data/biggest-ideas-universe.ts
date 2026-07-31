@@ -16,7 +16,7 @@ export const biggestIdeasUniverse: BookSummary = {
   {
     "id": "prefacio",
     "num": "00",
-    "label": "Introducción"
+    "label": "Entender ecuaciones, no solo metáforas"
   },
   {
     "id": "cap1",
@@ -71,7 +71,7 @@ export const biggestIdeasUniverse: BookSummary = {
   {
     "id": "cronologia",
     "num": "◈",
-    "label": "Cronología"
+    "label": "Cronología de hitos"
   },
   {
     "id": "figuras",
@@ -173,11 +173,11 @@ export const biggestIdeasUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El <span class=\"term\">paradigma laplaciano</span> (la idea de que el estado inicial fija toda la evolución) sostiene una tesis fuerte. Dado el estado inicial, las leyes determinan toda la trayectoria pasada y futura. <span class=\"person\">Isaac Newton</span> publicó los <em>Principia</em> en <span class=\"num\">1687</span>, presionado por el astrónomo Edmond Halley. Allí aparecen F = ma y la gravitación universal F ∝ 1/r². Newton derivó las leyes de Johannes Kepler desde fuerzas locales en cada instante, no desde descripciones globales de órbitas elípticas.",
+          html: "El <span class=\"term\">paradigma laplaciano</span> (la idea de que el estado inicial fija toda la evolución) sostiene una tesis fuerte. Por eso, dado el estado inicial, las leyes determinan toda la trayectoria pasada y futura. <span class=\"person\">Isaac Newton</span> publicó los <em>Principia</em> en <span class=\"num\">1687</span>, presionado por el astrónomo Edmond Halley. Allí aparecen F = ma y la gravitación universal F ∝ 1/r². Newton derivó las leyes de Johannes Kepler desde fuerzas locales en cada instante, no desde descripciones globales de órbitas elípticas.",
         },
         {
           type: 'paragraph',
-          html: "La gravedad es <span class=\"term\">universal</span> (la misma ley rige en la Tierra y en el cielo). Explica manzanas cayendo y planetas orbitando. Integrar aceleración reconstruye velocidad y posición. Derivar posición da velocidad. Son operadores inversos entre sí, aunque integrar suele ser más difícil que derivar.",
+          html: "Además, la gravedad es <span class=\"term\">universal</span> (la misma ley rige en la Tierra y en el cielo). Explica manzanas cayendo y planetas orbitando. Integrar aceleración reconstruye velocidad y posición. Derivar posición da velocidad. Son operadores inversos entre sí, aunque integrar suele ser más difícil que derivar.",
         },
         {
           type: 'list',
@@ -209,11 +209,11 @@ export const biggestIdeasUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Energía cinética K = ½mv² más potencial V(x) suman un total conservado. En un valle parabólico aparece el <span class=\"term\">oscilador armónico simple</span> (movimiento sinusoidal alrededor de un equilibrio). Es exactamente soluble y omnipresente: muelles, átomos, campos. Cerca de cualquier equilibrio, casi todo sistema se comporta como parábola.",
+          html: "Por eso, energía cinética K = ½mv² más potencial V(x) suman un total conservado. En un valle parabólico aparece el <span class=\"term\">oscilador armónico simple</span> (movimiento sinusoidal alrededor de un equilibrio). Es exactamente soluble y omnipresente: muelles, átomos, campos. Cerca de cualquier equilibrio, casi todo sistema se comporta como parábola.",
         },
         {
           type: 'paragraph',
-          html: "El <span class=\"term\">espacio de fases</span> (el par {posición, momento}) fija la evolución. Alternativamente, el <span class=\"term\">principio de mínima acción</span> (formulación de Lagrange) postula que la trayectoria real extremiza la acción S = ∫(K − V)dt. Es equivalente a Newton, aunque el físico <span class=\"person\">Richard Feynman</span> advirtió que formulaciones matemáticamente equivalentes no son psicológicamente idénticas al explorar lo desconocido.",
+          html: "De ahí que el <span class=\"term\">espacio de fases</span> (el par {posición, momento}) fije la evolución. Alternativamente, el <span class=\"term\">principio de mínima acción</span> (formulación de Lagrange) postula que la trayectoria real extremiza la acción S = ∫(K − V)dt. Es equivalente a Newton, aunque el físico <span class=\"person\">Richard Feynman</span> advirtió que formulaciones matemáticamente equivalentes no son psicológicamente idénticas al explorar lo desconocido.",
         },
         {
           type: 'concept-grid',
@@ -321,7 +321,7 @@ export const biggestIdeasUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "La flecha del tiempo no está en las ecuaciones fundamentales: emerge del universo de baja entropía cerca del Big Bang.",
+          html: "La flecha macroscópica exige un pasado cósmico especial: un Big Bang denso y de baja entropía, no violaciones de simetría en partículas.",
         },
         {
           type: 'paragraph',
@@ -341,11 +341,11 @@ export const biggestIdeasUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Hay dos nociones de tiempo. Una es la coordenada t (etiqueta convencional). La otra es el <span class=\"term\">tiempo propio τ</span> (lo que marca un reloj viajero). En espacio, la recta es el camino más corto. En espaciotiempo, la trayectoria inercial maximiza el tiempo propio. El <span class=\"term\">intervalo de Minkowski</span> (medida de separación en 4D) se define como τ² = Δt² − Δx² con c = 1.",
+          html: "Por eso hay dos nociones de tiempo. Una es la coordenada t (etiqueta convencional). La otra es el <span class=\"term\">tiempo propio τ</span> (lo que marca un reloj viajero). En espacio, la recta es el camino más corto. En espaciotiempo, la trayectoria inercial maximiza el tiempo propio. El <span class=\"term\">intervalo de Minkowski</span> (medida de separación en 4D) se define como τ² = Δt² − Δx² con c = 1.",
         },
         {
           type: 'paragraph',
-          html: "Más movimiento espacial implica menos tiempo propio. El experimento de los gemelos no es paradoja: caminos distintos, duraciones distintas. La velocidad c convierte unidades espacio↔tiempo y fija conos de luz que sustituyen la simultaneidad absoluta. E = mc² unifica energía y momento como componente temporal del cuadrimomento.",
+          html: "De ahí que más movimiento espacial implique menos tiempo propio. El experimento de los gemelos no es paradoja: caminos distintos, duraciones distintas. La velocidad c convierte unidades espacio↔tiempo y fija conos de luz que sustituyen la simultaneidad absoluta. E = mc² unifica energía y momento como componente temporal del cuadrimomento.",
         },
         {
           type: 'big-numbers',
@@ -386,7 +386,7 @@ export const biggestIdeasUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Los matemáticos <span class=\"person\">Carl Friedrich Gauss</span> y <span class=\"person\">Bernhard Riemann</span> desarrollaron geometría intrínseca, medible desde dentro sin embedding en espacio mayor. Una <span class=\"term\">variedad</span> (manifold, conjunto de puntos con dimensión definida) es el objeto básico. Al hacer zoom infinitesimal, parece plano euclídeo. Un cilindro es plano intrínsecamente aunque parezca curvo desde fuera.",
+          html: "Por eso, los matemáticos <span class=\"person\">Carl Friedrich Gauss</span> y <span class=\"person\">Bernhard Riemann</span> desarrollaron geometría intrínseca, medible desde dentro sin embedding en espacio mayor. Una <span class=\"term\">variedad</span> (manifold, conjunto de puntos con dimensión definida) es el objeto básico. Al hacer zoom infinitesimal, parece plano euclídeo. Un cilindro es plano intrínsecamente aunque parezca curvo desde fuera.",
         },
         {
           type: 'paragraph',
@@ -625,7 +625,7 @@ export const biggestIdeasUniverse: BookSummary = {
   closing: {
     title: "La idea central",
     lines: [
-  "La física moderna cabe en ecuaciones comprensibles.",
+  "En suma, la física moderna cabe en ecuaciones comprensibles.",
   "No hace falta resolverlas todas; basta entender qué dicen.",
   "Espacio, tiempo y movimiento forman un solo escenario curvable.",
   "Desde conservación hasta agujeros negros, un hilo continuo.",

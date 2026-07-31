@@ -2,7 +2,7 @@
 
 Pasada de claridad estilo *Wonderful Life*: audiencia general, glosas en 1.ª aparición, preguntas-guía, puentes, oraciones cortas, menos listitis.
 
-**Criterio de “listo”:** `python3 scripts/lint-summary.py <slug>` → OK · `md-to-ts` · build OK · backup `summaries/<slug>.backup-2026-07-23.md` (u otra fecha).
+**Criterio de “listo”:** `python3 scripts/lint-summary.py <slug> --strict` → OK · `md-to-ts` · build OK · backup `summaries/<slug>.backup-2026-07-23.md` (u otra fecha). Ver `docs/ESTANDAR-EDITORIAL-MIGRACION.md`.
 
 ## Progreso
 

@@ -16,7 +16,7 @@ export const freeWill: BookSummary = {
   {
     "id": "prefacio",
     "num": "00",
-    "label": "Prólogo"
+    "label": "La ilusión que sostiene la moral"
   },
   {
     "id": "cap1",
@@ -92,7 +92,7 @@ export const freeWill: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La pregunta del <span class=\"term\">libre albedrío</span> (la creencia de poder elegir libremente) toca casi todo lo que nos importa. Afecta la moral, la ley y la culpa personal. Los criminales serían como relojes mal calibrados si no existiera el libre albedrío. La justicia retributiva perdería sentido.",
+          html: "La pregunta del <span class=\"term\">libre albedrío</span> (la creencia de poder elegir libremente) toca casi todo lo que nos importa. Por eso afecta la moral, la ley y la culpa personal. Sin libre albedrío, los criminales serían como relojes mal calibrados y la justicia retributiva perdería sentido.",
         },
         {
           type: 'paragraph',
@@ -355,7 +355,7 @@ export const freeWill: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Cinco casos graduales muestran cómo el contexto modula la indignación aunque el cerebro sea siempre la causa. Un niño de <span class=\"num\">4 años</span>, un abusado de <span class=\"num\">12</span>, un adulto abusado, un psicópata y un psicópata con tumor en corteza prefrontal medial.",
+          html: "Cinco casos graduales muestran cómo el contexto modula la indignación aunque el cerebro sea siempre la causa. Un niño de <span class=\"num\">4 años</span> provoca menos furia que un adulto. Un abusado de <span class=\"num\">12</span> o un adulto con historial de abuso despiertan más compasión. Un psicópata sin tumor genera otra reacción, pero un psicópata con tumor en corteza prefrontal medial casi «absuelve» porque la lesión parece adventicia.",
         },
         {
           type: 'paragraph',
@@ -403,7 +403,7 @@ export const freeWill: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Incluso la disciplina para esforzarse es condición neurológica, no mérito. La pereza y la diligencia son estados del cerebro. Aun así, exigir esfuerzo y disuadir free riders sigue siendo útil socialmente.",
+          html: "Incluso la disciplina para esforzarse es condición neurológica, no mérito. La pereza y la diligencia son estados del cerebro. Aun así, exigir esfuerzo y disuadir a quienes se aprovechan del sistema sin contribuir sigue siendo útil socialmente.",
         },
         {
           type: 'paragraph',
@@ -435,11 +435,11 @@ export const freeWill: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Podría cambiar «conejo» por «elefante», pero tampoco explicaría por qué. Ni la ley de la naturaleza ni el azar parecen libertad. ¿Es libre de sentir que «elefante» es mejor palabra si no lo siente así? No: solo la palabra puede cambiarlo a él.",
+          html: "Podría cambiar «conejo» por «elefante», pero tampoco explicaría por qué. Ni la ley de la naturaleza ni el azar parecen libertad. ¿Es libre de sentir que «elefante» es mejor palabra si no lo siente así? No: la palabra solo puede cambiarlo a él, no al revés.",
         },
         {
           type: 'paragraph',
-          html: "La ilusión de libre albedrío es, en sí misma, otra ilusión. No sentimos tanta libertad como creemos cuando prestamos atención. Los pensamientos simplemente surgen. ¿Qué más podrían hacer?",
+          html: "La ilusión de libre albedrío es, en sí misma, otra ilusión. No sentimos tanta libertad como creemos cuando prestamos atención. Los pensamientos simplemente surgen. De ahí que la introspección cierre el debate más rápido que cualquier argumento abstracto.",
         },
         {
           type: 'quote',
@@ -552,9 +552,9 @@ export const freeWill: BookSummary = {
     lines: [
   "Las intenciones aparecen en conciencia como si brotaran del vacío.",
   "En realidad vienen de causas ocultas que no elegimos ni controlamos.",
-  "Podemos reformar justicia y compasión sin el fantasma del autor inmortal.",
+  "Por eso podemos reformar justicia y compasión sin el fantasma del autor inmortal.",
   "Reconocerlo no anula elecciones ni esfuerzos: cambia cómo los juzgamos.",
-  "Perder la ilusión puede aumentar la libertad vivida y la compasión."
+  "Perder la ilusión puede, paradójicamente, aumentar la libertad vivida y la compasión."
 ],
     highlight: "La ilusión de libre albedrío es, a su vez, una ilusión",
   },

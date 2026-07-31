@@ -14,15 +14,15 @@ lang: es
 
 | id | num | label |
 |----|-----|-------|
-| prefacio | 00 | Prefacio |
+| prefacio | 00 | Moldear la experiencia |
 | cap1 | 01 | Abrir la máquina de predicción |
-| cap2 | 02 | Psiquiatría y neurología |
+| cap2 | 02 | Psiquiatría y neurología: cerrar la brecha |
 | cap3 | 03 | Acción como profecía autocumplida |
 | cap4 | 04 | Predecir el cuerpo |
-| cap5 | 05 | El problema difícil |
+| cap5 | 05 | El problema difícil: ¿predecir a los predictores? |
 | cap6 | 06 | Esperar mejor |
 | cap7 | 07 | Más allá del cerebro desnudo |
-| cap8 | 08 | Hackear la máquina |
+| cap8 | 08 | Hackear la máquina de predicción |
 | conceptos | ✦ | Conceptos clave |
 | cronologia | ◈ | Cronología |
 | figuras | ✦ | Figuras clave |
@@ -35,8 +35,8 @@ lang: es
 ## title: La idea central
 
 <!-- closing -->
-No percibimos el mundo como una ventana transparente.
-Lo construimos en cada instante mezclando predicciones del cerebro con señales sensoriales corregidas por error.
+En suma, no percibimos el mundo como una ventana transparente.
+Por eso lo construimos en cada instante mezclando predicciones del cerebro con señales sensoriales corregidas por error.
 <!-- highlight -->Somos océanos de predicción orquestados por cerebro, cuerpo y mundo<!-- /highlight -->
 Percepción, acción, emoción y dolor comparten la misma moneda.
 Esa moneda es minimizar error de predicción ponderado.
@@ -85,7 +85,7 @@ Si la experiencia se construye así, conviene abrir el mecanismo: cómo el cereb
 La alarma no suena y no hay pájaros reales tras el doble vidrio. Esas alucinaciones breves se corrigen cuando llega evidencia de silencio. Surgen señales de <span class="term">error de predicción</span>, o sea, la diferencia entre lo esperado y lo que llega por los sentidos. Cuando las expectativas son fuertes o la evidencia es sutil, la predicción puede sobreescribir la señal real.
 
 <!-- paragraph -->
-El cerebro no espera pasivamente. Intenta alucinar el mundo y deja que los sentidos empuen el pincel cuando falla. Durante décadas dominó el modelo de la <span class="term">cámara inteligente</span>, la visión clásica de que la información visual sube capa a capa desde la retina. David Marr y Descartes (<span class="num">1664</span>) pensaron así.
+Así que el cerebro no espera pasivamente. Intenta alucinar el mundo y deja que los sentidos empuen el pincel cuando falla. Durante décadas dominó el modelo de la <span class="term">cámara inteligente</span>, la visión clásica de que la información visual sube capa a capa desde la retina. David Marr y Descartes (<span class="num">1664</span>) pensaron así.
 
 <!-- paragraph -->
 El procesamiento predictivo invierte el flujo. Las predicciones profundas bajan hasta la piel y los ojos, y solo sube lo inesperado. Esa lógica recuerda la codificación predictiva lineal de <span class="person">Claude Shannon</span> (<span class="num">1948</span>) o formatos como JPEG y MP3. En una cuadrícula ambigua, ver «13» o «B» cambia la experiencia del mismo trazo central. Escuchar «White Christmas» distorsionado muestra cómo el conocimiento previo transforma lo auditivo.
@@ -177,7 +177,7 @@ La <span class="term">homeostasis</span>, o sea, mantener rangos vitales estable
 El sistema interoceptivo informa vísceras, glucosa y temperatura. El exteroceptivo mira afuera. El proprioceptivo guía postura. La valencia, lo atractivo frente a lo repulsivo, refleja si vamos mejor o peor de lo esperado al reducir error. La curiosidad explora cuando el error es manejable y prometedor.
 
 <!-- paragraph -->
-Las emociones integran señales corporales con predicciones de causa. Un corazón acelerado en el gimnasio frente a un posible infarto produce sentimientos distintos. No hay «sentimiento crudo» previo al reencuadre. El córtex insular anterior integra interocepción, acción y percepción externa en bucles cortico-subcorticales. No opera como jerarquía donde la razón reprime emoción primitiva.
+Por eso las emociones integran señales corporales con predicciones de causa. Un corazón acelerado en el gimnasio frente a un posible infarto produce sentimientos distintos. No hay «sentimiento crudo» previo al reencuadre. El córtex insular anterior integra interocepción, acción y percepción externa en bucles cortico-subcorticales. No opera como jerarquía donde la razón reprime emoción primitiva.
 
 <!-- concept-grid -->
 | icon | title | description |

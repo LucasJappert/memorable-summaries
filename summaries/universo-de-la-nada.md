@@ -15,7 +15,7 @@ lang: es
 | id | num | label |
 |----|-----|-------|
 | cierre | ★ | La idea central |
-| prefacio | 00 | Prefacio |
+| prefacio | 00 | La pregunta fundamental |
 | cap1 | 01 | Un relato de misterio cósmico: el principio |
 | cap2 | 02 | Pesar el universo |
 | cap3 | 03 | Luz del principio de los tiempos |
@@ -29,7 +29,7 @@ lang: es
 | cap11 | 11 | Mundos felices |
 | epilogo | ✎ | Epílogo y postfacio |
 | conceptos | ✦ | Conceptos clave |
-| cronologia | ◈ | Cronología |
+| cronologia | ◈ | Cronología de los descubrimientos |
 | figuras | ✦ | Figuras clave |
 
 ---
@@ -42,7 +42,7 @@ lang: es
 La nada no es la nada tranquila que imaginábamos: es inestable.
 Un universo puede surgir de ella sin espacio, sin tiempo y sin un creador.
 <!-- highlight -->el universo no solo pudo surgir de la nada: probablemente debía hacerlo<!-- /highlight -->
-La energía total del cosmos puede ser exactamente cero.
+Por eso, la energía total del cosmos puede ser exactamente cero.
 Todo lo que existe sería una fluctuación sobre ese cero.
 Somos la parte de la nada que, por un instante, aprendió a preguntarse por sí misma.
 
@@ -83,7 +83,7 @@ Para responderla con datos, primero hay que saber si el cosmos tuvo un comienzo.
 ¿El universo siempre existió o tuvo un principio? En <span class="num">1916</span>, el físico <span class="person">Albert Einstein</span> completó la relatividad general. Fue la primera teoría capaz de describir no solo cómo se mueven los objetos, sino cómo evoluciona el propio universo. Había un problema: la gravedad es solo atractiva. Un conjunto de masas en reposo terminaría colapsando, en contra del universo estático que todos daban por supuesto.
 
 <!-- paragraph -->
-El sacerdote y físico <span class="person">Georges Lemaître</span> resolvió las ecuaciones y dedujo que el universo se expande. Einstein rechazó la idea de plano. La prueba llegó de la observación. Usando las <span class="term">cefeidas</span> (estrellas cuyo brillo revela su distancia), calibradas por Henrietta Leavitt, el astrónomo <span class="person">Edwin Hubble</span> demostró primero que existen otras galaxias. Luego, en <span class="num">1929</span>, mostró que se alejan más rápido cuanto más lejos están. El universo se expande. En el pasado estuvo comprimido: hubo un principio.
+El sacerdote y físico <span class="person">Georges Lemaître</span> resolvió las ecuaciones y dedujo que el universo se expande. Pero Einstein rechazó la idea al principio. La prueba llegó de la observación. Usando las <span class="term">cefeidas</span> (estrellas cuyo brillo revela su distancia), calibradas por Henrietta Leavitt, el astrónomo <span class="person">Edwin Hubble</span> demostró primero que existen otras galaxias. Luego, en <span class="num">1929</span>, mostró que se alejan más rápido cuanto más lejos están. El universo se expande. En el pasado estuvo comprimido: hubo un principio.
 
 <!-- paragraph -->
 Que el universo tuviera un comienzo confirmado por datos no lo vuelve una prueba de la creación. El propio Lemaître negó que su teoría tuviera consecuencias religiosas. La cosmología se volvió medible. La abundancia de elementos ligeros y las supernovas de tipo Ia fijaron la edad del universo en unos <span class="num">13,7 mil millones</span> de años.
@@ -230,7 +230,7 @@ Pero vivir en un universo dominado por la energía del vacío tiene una cara som
 ¿Qué futuro le espera a un universo acelerado por la energía del vacío? Krauss lo presenta como el peor de los universos posibles para la vida. La aceleración no se detendrá, y con el tiempo veremos cada vez menos.
 
 <!-- paragraph -->
-Dentro de unos <span class="num">2 billones</span> de años, todas las galaxias fuera de nuestro grupo local se habrán alejado más allá del horizonte. Su luz estirada hasta hacerse invisible. Los cosmólogos de ese futuro verán una sola galaxia en un vacío estático. No habrá fondo de microondas ni expansión observable. Reconstruirán, con datos honestos, la imagen equivocada que teníamos en 1915.
+Dentro de unos <span class="num">2 billones</span> de años, todas las galaxias fuera de nuestro grupo local se habrán alejado más allá del horizonte. Su luz quedará estirada hasta hacerse invisible. Los cosmólogos de ese futuro verán una sola galaxia en un vacío estático. No habrá fondo de microondas ni expansión observable. Reconstruirán, con datos honestos, la imagen equivocada que teníamos en 1915.
 
 <!-- paragraph -->
 Krauss presenta esto como «el futuro tal como podría ser», al modo del fantasma de Dickens. Un cambio en la energía oscura alteraría el destino. La lección inquieta más de lo que consuela. Se puede usar la mejor ciencia posible y aun así llegar a una imagen falsa del universo. Vivimos en el único instante en que toda la evidencia todavía es visible.

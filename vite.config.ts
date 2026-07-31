@@ -87,6 +87,7 @@ export default defineConfig(({ mode }) => {
           // App shell en precache (exigido por navigateFallback / createHandlerBoundToURL).
           // Solo index.html raíz — no precachear dist/libro/** (SEO).
           // Navigations online: NetworkFirst abajo actualiza html-pages.
+          maximumFileSizeToCacheInBytes: 3 * 1024 * 1024,
           globPatterns: ['**/*.{js,css,svg,png,woff,woff2}', 'index.html'],
           navigateFallback,
           navigateFallbackDenylist: [/^\/_/, /\/[^/?]+\.[^/]+$/],

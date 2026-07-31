@@ -16,7 +16,7 @@ lang: es
 | id | num | label |
 |----|-----|-------|
 | cierre | ★ | La idea central |
-| prefacio | 00 | Prólogo |
+| prefacio | 00 | Prólogo: el triplete del cisne negro |
 | cap1 | 01 | El aprendizaje de un escéptico empírico |
 | cap2 | 02 | El cisne negro de Yevgenia |
 | cap3 | 03 | El especulador y la prostituta |
@@ -24,21 +24,21 @@ lang: es
 | cap5 | 05 | Confirmación shmonfirmation |
 | cap6 | 06 | La falacia narrativa |
 | cap7 | 07 | Viviendo en la antesala de la esperanza |
-| cap8 | 08 | La suerte infalible de Casanova |
+| cap8 | 08 | La suerte infalible de Casanova y la evidencia silenciosa |
 | cap9 | 09 | La falacia lúdica |
 | cap10 | 10 | El escándalo de la predicción |
 | cap11 | 11 | Cómo buscar excremento de pájaro |
 | cap12 | 12 | Epistemocracia, un sueño |
-| cap13 | 13 | Apeles el pintor |
-| cap14 | 14 | De Mediocristán a Extremistán |
-| cap15 | 15 | La curva de campana, ese gran fraude |
+| cap13 | 13 | Apeles el pintor, o qué hacer si no se puede predecir |
+| cap14 | 14 | De Mediocristán a Extremistán, y de vuelta |
+| cap15 | 15 | La curva de campana, ese gran fraude intelectual |
 | cap16 | 16 | La estética del azar |
-| cap17 | 17 | Los locos de Locke |
+| cap17 | 17 | Los locos de Locke, o campanas en lugares equivocados |
 | cap18 | 18 | La incertidumbre del farsante |
-| cap19 | 19 | Mitad y mitad |
+| cap19 | 19 | Mitad y mitad, o cómo vengarse del cisne negro |
 | cap20 | 20 | Epílogo: los cisnes blancos de Yevgenia |
 | conceptos | ✦ | Conceptos clave |
-| cronologia | ◈ | Cronología |
+| cronologia | ◈ | Cronología de hitos del libro |
 | figuras | ✦ | Figuras clave |
 
 ---
@@ -66,7 +66,7 @@ Aceptar la opacidad del mundo es, para Taleb, la forma superior de inteligencia 
 ¿Por qué un solo avistamiento puede tumbar milenios de certeza? Antes del descubrimiento de Australia, el Viejo Mundo creía que todos los cisnes eran blancos. Milenios de avistamientos confirmatorios no bastaban. Un solo cisne negro invalida la generalización. <span class="person">Nassim Nicholas Taleb</span> (trader y ensayista sobre el azar) lleva esa lección al terreno empírico. Un <span class="term">cisne negro</span> (evento raro, de gran impacto y explicado solo después) reúne tres rasgos. Son rareza, impacto extremo y la sensación de que «siempre fue inevitable».
 
 <!-- paragraph -->
-La tesis no es ornitológica sino epistemológica. Pocos cisnes negros explican casi todo lo significativo. Ideas, religiones, guerras, mercados y vidas personales dependen de saltos discontinuos. Imaginar el mundo la víspera de <span class="num">1914</span> demuestra cuán inútil es la retrospectiva para predecir. Lo mismo ocurre con el ascenso de Hitler o con Internet.
+La tesis no es ornitológica sino epistemológica. Pocos cisnes negros explican casi todo lo significativo. Por eso ideas, religiones, guerras, mercados y vidas personales dependen de saltos discontinuos. Imaginar el mundo la víspera de <span class="num">1914</span> demuestra cuán inútil es la retrospectiva para predecir. Lo mismo ocurre con el ascenso de Hitler o con Internet.
 
 <!-- paragraph -->
 Taleb insiste en una asimetría crucial. Lo que no sabemos pesa más que lo que sabemos. Muchos cisnes negros se agravan por ser inesperados. El <span class="num">11-S</span> no habría ocurrido si hubiera sido «razonablemente concebible» el día anterior. Leer el periódico puede reducir el conocimiento del mundo al enfocarse en lo rutinario.
@@ -88,7 +88,7 @@ Para ver cómo se aprende esa ceguera, Taleb parte de su propia biografía y de 
 ¿Enseña la experiencia a pensar bien sobre el azar? Taleb entrelaza autobiografía e historia para mostrar que no siempre. El Líbano de su juventud parecía un paraíso de convivencia. En pocos meses, la guerra civil lo transformó en infierno. Esa ruptura le enseñó que la «estabilidad histórica» es narrativa, no garantía.
 
 <!-- paragraph -->
-Taleb introduce el <span class="term">triplete de opacidad</span> (tres ilusiones que nos engañan). Creemos que entendemos el mundo, distorsionamos el pasado y sobrevaloramos datos frente a lo desconocido. La historia no arrastra. Salta. El crash de <span class="num">1987</span> y la guerra lebanesa le parecieron el mismo fenómeno psicológico.
+Taleb introduce el <span class="term">triplete de opacidad</span> (tres ilusiones que nos engañan). Creemos que entendemos el mundo, distorsionamos el pasado y sobrevaloramos datos frente a lo desconocido. Por eso la historia no arrastra: salta. El crash de <span class="num">1987</span> y la guerra lebanesa le parecieron el mismo fenómeno psicológico.
 
 <!-- paragraph -->
 Su carrera como trader le permitió acumular capital suficiente para no prostituir el pensamiento. Ese margen le permitió dedicar años a construir un sistema entero alrededor del cisne negro. El problema no estaba en la naturaleza de los eventos, sino en cómo los percibimos.
@@ -110,7 +110,7 @@ Esa lógica del salto imprevisible aparece con claridad en una carrera literaria
 ¿Puede un solo éxito derribar años de certidumbre editorial? <span class="person">Yevgenia Krasnova</span> (personaje narrativo del libro) encarna la lógica del cisne negro en una carrera literaria. Rechazada por editores que «sabían» qué vendía, publica por su cuenta. Su novela se convierte en fenómeno global.
 
 <!-- paragraph -->
-Taleb usa la anécdota para mostrar la asimetría entre expectativa y resultado. Las creencias generalizadas se construyen sobre muestras incompletas hasta que una observación las invalida. Lo que después parece inevitable («claro que ese libro triunfaría») era imprevisible antes.
+Taleb usa la anécdota para mostrar la asimetría entre expectativa y resultado. Las creencias generalizadas se construyen sobre muestras incompletas hasta que una observación las invalida. De ahí que lo que después parece inevitable («claro que ese libro triunfaría») era imprevisible antes.
 
 <!-- paragraph -->
 El capítulo anticipa el epílogo, donde el éxito narrativo no garantiza el siguiente libro. La misma lógica aplica a carreras, negocios y ciencia. Un cisne positivo redefine toda una trayectoria.
@@ -183,7 +183,7 @@ Si la inducción engaña, hay que revisar cómo buscamos pruebas a favor de nues
 ¿Por qué la mente ama las pruebas que confirman lo que ya cree? La mente practica <span class="term">empirismo ingenuo</span> (buscar solo ejemplos que validen la hipótesis). Diplomáticos muestran logros, no fracasos. Matemáticos citan aplicaciones útiles, no despilfarros. Si se busca con suficiente ingenio, casi cualquier idea parece validarse.
 
 <!-- paragraph -->
-Taleb propone <span class="term">empirismo negativo</span> (avanzar por refutación, al estilo de Popper). Ver cisnes blancos no prueba que no existan negros. Ver uno negro sí prueba que no todos son blancos. En medicina, confundir «no hay evidencia de enfermedad» con «hay evidencia de que no hay enfermedad» ha costado vidas.
+Taleb propone <span class="term">empirismo negativo</span> (avanzar por refutación, al estilo de Popper). Ver cisnes blancos no prueba que no existan negros. Pero ver uno negro sí prueba que no todos son blancos. En medicina, confundir «no hay evidencia de enfermedad» con «hay evidencia de que no hay enfermedad» ha costado vidas.
 
 <!-- paragraph -->
 No hace falta escepticismo total. Basta semiescepticismo asimétrico según el costo del error. Un día puede probarte equivocado. Mil días no pueden probarte derecho.
@@ -205,10 +205,7 @@ Esa búsqueda de coherencia explica por qué convertimos el azar en historias de
 ¿Por qué necesitamos historias aunque distorsionen la realidad? La mente humana simplifica cadenas causales y rellena huecos con relatos plausibles. Taleb llama <span class="term">falacia narrativa</span> (compulsión de comprimir el azar en guiones con sentido) a ese hábito. Produce ceguera al cisne negro porque privilegia lo vívido, lo reciente y lo ordenado.
 
 <!-- paragraph -->
-Los experimentos de Gazzaniga muestran que el hemisferio izquierdo «intérprete» inventa causas incluso cuando no las hay. La dopamina aumenta la búsqueda de patrones y reduce el escepticismo. La narrativa es útil para la memoria pero peligrosa si se confunde con verdad o predicción.
-
-<!-- paragraph -->
-Lo que Taleb llama después «antifragilidad» frente al azar empieza aquí. Reconocer que nuestros relatos nos hacen frágiles es el primer paso. Resistir la compulsión de explicar todo evita ser víctima sistemática de lo imprevisto.
+Los experimentos de Gazzaniga muestran que el hemisferio izquierdo «intérprete» inventa causas incluso cuando no las hay. La dopamina aumenta la búsqueda de patrones y reduce el escepticismo. Por eso la narrativa es útil para la memoria pero peligrosa si se confunde con verdad o predicción.
 
 <!-- key -->
 La <span class="key-term">claridad narrativa</span> no es evidencia de verdad: muchas veces es compresión psicológica que oculta la incertidumbre radical.
@@ -315,7 +312,7 @@ Si no podemos predecir descubrimientos, conviene cambiar la estrategia de búsqu
 ¿Por qué no podemos predecir descubrimientos futuros? Incorporar el futuro en el presente sería ya haberlo inventado. Taleb formula una regla incómoda según la cual entender el futuro exige elementos del futuro mismo.
 
 <!-- paragraph -->
-La serendipia supera la planificación. Hallazgos inadvertidos como el láser, la Viagra o la espuma de Apeles lo demuestran. <span class="person">Henri Poincaré</span> (matemático francés) mostró con el problema de los tres cuerpos que sistemas deterministas pueden ser impredecibles en la práctica.
+La serendipia supera la planificación. Por eso hallazgos inadvertidos como el láser, la Viagra o la espuma de Apeles lo demuestran. <span class="person">Henri Poincaré</span> (matemático francés) mostró con el problema de los tres cuerpos que sistemas deterministas pueden ser impredecibles en la práctica.
 
 <!-- paragraph -->
 La historia sirve para el placer narrativo, no para teorizar ni predecir. Buscar «caca de pájaro» es mantener opciones abiertas y bajo costo de error. No adivinar el próximo hallazgo.
@@ -337,7 +334,7 @@ Esa humildad ante lo desconocido apunta a un ideal político e intelectual.
 ¿Cómo gobernaría una sociedad que admite no saber? Taleb sueña con una <span class="term">epistemocracia</span> (orden que premia la humildad epistemológica y penaliza la sobreconfianza experta). <span class="person">Michel de Montaigne</span> (ensayista escéptico del Renacimiento) es el modelo del epistemócrata: sabe que no sabe.
 
 <!-- paragraph -->
-La opacidad (información incompleta) es la forma práctica del azar. En la vida real no importa si el azar es «verdadero» o caos determinista disfrazado. La historia es un espejo para construir identidad, no una mina de leyes generales.
+La opacidad (información incompleta) es la forma práctica del azar. En la vida real no importa si el azar es «verdadero» o caos determinista disfrazado. Por eso la historia es un espejo para construir identidad, no una mina de leyes generales.
 
 <!-- paragraph -->
 Predicción y felicidad son enemigos. Anticipar mal el futuro no nos hace más felices. La información incompleta no es un defecto del método, sino la condición de la acción bajo incertidumbre.
@@ -381,7 +378,7 @@ Para aplicar esa asimetría hay que saber en qué mundo estadístico estamos.
 ¿Cómo saber si el promedio describe la realidad? Taleb formaliza los dos mundos introducidos antes. En Mediocristán, ninguna observación individual altera demasiado el agregado. Alturas, calorías y pesos son ejemplos típicos.
 
 <!-- paragraph -->
-En Extremistán, unos pocos dominan riqueza, fama, ventas o citas. El promedio deja de describir la realidad. El efecto Mateo («al que tiene, se le dará») concentra riqueza y fama. La <span class="term">long tail</span> (cola larga de pocos gigantes) explica por qué la globalización ingenua exporta desigualdad extrema.
+En Extremistán, unos pocos dominan riqueza, fama, ventas o citas. El promedio deja de describir la realidad. Por eso el efecto Mateo («al que tiene, se le dará») concentra riqueza y fama. La <span class="term">long tail</span> (cola larga de pocos gigantes) explica por qué la globalización ingenua exporta desigualdad extrema.
 
 <!-- paragraph -->
 Confundir ambos mundos es la fuente principal de error analítico y político. La primera decisión metodológica correcta es identificar en cuál de los dos estamos antes de elegir herramientas estadísticas.
@@ -403,7 +400,7 @@ El error más costoso es aplicar la campana de Gauss donde mandan colas gruesas.
 ¿Por qué la campana gaussiana engaña en mercados y guerras? Taleb ataca el uso indiscriminado de la <span class="term">distribución gaussiana</span> (curva de campana simétrica) en fenómenos de Extremistán. Subestima eventos raros y extremos, precisamente los que más importan.
 
 <!-- paragraph -->
-<span class="person">Benoit Mandelbrot</span> (matemático de colas gruesas) y las leyes de potencia describen mejor desigualdades observadas. <span class="person">Adolphe Quételet</span> (pionero de la estadística social) ilustró el error de buscar la normalidad donde no existe. La regla <span class="num">80/20</span> es síntoma de Extremistán, no excepción.
+<span class="person">Benoit Mandelbrot</span> (matemático de colas gruesas) y las leyes de potencia describen mejor desigualdades observadas. <span class="person">Adolphe Quételet</span> (pionero de la estadística social) ilustró el error de buscar la normalidad donde no existe. Por eso la regla <span class="num">80/20</span> es síntoma de Extremistán, no excepción.
 
 <!-- paragraph -->
 El argumento no es abandonar las matemáticas, sino usar las adecuadas al dominio. Aplicar Gauss donde mandan colas gruesas es fragilidad institucional sistemática.
@@ -478,7 +475,7 @@ La defensa contra el falso experto es exigir exposición real a las consecuencia
 En incertidumbre extrema, la mejor defensa contra el farsante es exigir skin in the game y humildad epistémica.
 
 <!-- bridge -->
-Taleb cierra la primera parte del libro con una ética operativa frente al azar extremo.
+Tras desenmascarar al farsante, Taleb sintetiza la respuesta práctica frente al azar extremo.
 
 ---
 
@@ -491,7 +488,7 @@ Taleb cierra la primera parte del libro con una ética operativa frente al azar 
 ¿Cómo vivir cuando el azar manda más que los promedios? Taleb sintetiza una ética operativa en pares de «mitad y mitad». Es semiescepticismo donde otros confían y agresividad donde otros temen. Odia los cisnes negros negativos y ama los positivos.
 
 <!-- paragraph -->
-La regla es simple. Hay que ser agresivo cuando un error del modelo puede beneficiarte y paranoico cuando puede destruirte. En finanzas, la gente hace lo contrario con teorías endebles para gestionar riesgos.
+La regla es simple. Hay que ser agresivo cuando un error del modelo puede beneficiarte y paranoico cuando puede destruirte. Por eso en finanzas la gente hace lo contrario con teorías endebles para gestionar riesgos.
 
 <!-- paragraph -->
 «No corro por los trenes» resume la actitud. Perder un tren solo duele si corres tras él. La venganza contra el cisne negro no es dominarlo. Es dejar de ser su víctima mediante asimetría y opcionalidad.

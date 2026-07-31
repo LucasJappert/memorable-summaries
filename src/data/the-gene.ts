@@ -16,182 +16,182 @@ export const theGene: BookSummary = {
   {
     "id": "prefacio",
     "num": "00",
-    "label": "Prologue: Families"
+    "label": "Familias"
   },
   {
     "id": "cap1",
     "num": "01",
-    "label": "The Walled Garden"
+    "label": "El jardín amurallado"
   },
   {
     "id": "cap2",
     "num": "02",
-    "label": "The Mystery of Mysteries"
+    "label": "El misterio de los misterios"
   },
   {
     "id": "cap3",
     "num": "03",
-    "label": "The Very Wide Blank"
+    "label": "El gran vacío"
   },
   {
     "id": "cap4",
     "num": "04",
-    "label": "Flowers He Loved"
+    "label": "Las flores que amaba"
   },
   {
     "id": "cap5",
     "num": "05",
-    "label": "A Certain Mendel"
+    "label": "Un tal Mendel"
   },
   {
     "id": "cap6",
     "num": "06",
-    "label": "Eugenics"
+    "label": "Eugenismo"
   },
   {
     "id": "cap7",
     "num": "07",
-    "label": "Three Generations of Imbeciles Is Enough"
+    "label": "Tres generaciones de imbéciles bastan"
   },
   {
     "id": "cap8",
     "num": "08",
-    "label": "Abhed"
+    "label": "Abhed (lo indivisible)"
   },
   {
     "id": "cap9",
     "num": "09",
-    "label": "Truths and Reconciliations"
+    "label": "Verdades y reconciliaciones"
   },
   {
     "id": "cap10",
     "num": "10",
-    "label": "Transformation"
+    "label": "Transformación"
   },
   {
     "id": "cap11",
     "num": "11",
-    "label": "Lebensunwertes Leben"
+    "label": "Vidas indignas de ser vividas"
   },
   {
     "id": "cap12",
     "num": "12",
-    "label": "That Stupid Molecule"
+    "label": "Esa molécula estúpida"
   },
   {
     "id": "cap13",
     "num": "13",
-    "label": "Important Biological Objects Come in Pairs"
+    "label": "Importante: vienen de a pares"
   },
   {
     "id": "cap14",
     "num": "14",
-    "label": "That Damned, Elusive Pimpernel"
+    "label": "Esa maldita pimpinela esquiva"
   },
   {
     "id": "cap15",
     "num": "15",
-    "label": "Regulation, Replication, Recombination"
+    "label": "Regulación, replicación, recombinación"
   },
   {
     "id": "cap16",
     "num": "16",
-    "label": "From Genes to Genesis"
+    "label": "De los genes al Génesis"
   },
   {
     "id": "cap17",
     "num": "17",
-    "label": "Crossing Over"
+    "label": "Entrecruzamiento"
   },
   {
     "id": "cap18",
     "num": "18",
-    "label": "The New Music"
+    "label": "La nueva música"
   },
   {
     "id": "cap19",
     "num": "19",
-    "label": "Einsteins on the Beach"
+    "label": "Einsteins en la playa"
   },
   {
     "id": "cap20",
     "num": "20",
-    "label": "Clone or Die"
+    "label": "Clonar o morir"
   },
   {
     "id": "cap21",
     "num": "21",
-    "label": "The Miseries of My Father"
+    "label": "Las miserias de mi padre"
   },
   {
     "id": "cap22",
     "num": "22",
-    "label": "The Birth of a Clinic"
+    "label": "El nacimiento de una clínica"
   },
   {
     "id": "cap23",
     "num": "23",
-    "label": "Interfere, Interfere, Interfere"
+    "label": "Interferir, interferir, interferir"
   },
   {
     "id": "cap24",
     "num": "24",
-    "label": "A Village of Dancers, an Atlas of Moles"
+    "label": "Un pueblo de bailarines, un atlas de lunares"
   },
   {
     "id": "cap25",
     "num": "25",
-    "label": "To Get the Genome"
+    "label": "Hacia el genoma"
   },
   {
     "id": "cap26",
     "num": "26",
-    "label": "The Geographers"
+    "label": "Los geógrafos"
   },
   {
     "id": "cap27",
     "num": "27",
-    "label": "The Book of Man (in Twenty-Three Volumes)"
+    "label": "El libro del hombre (en veintitrés volúmenes)"
   },
   {
     "id": "cap28",
     "num": "28",
-    "label": "So, We's the Same"
+    "label": "Entonces, somos iguales"
   },
   {
     "id": "cap29",
     "num": "29",
-    "label": "The First Derivative of Identity"
+    "label": "La primera derivada de la identidad"
   },
   {
     "id": "cap30",
     "num": "30",
-    "label": "The Last Mile"
+    "label": "La última milla"
   },
   {
     "id": "cap31",
     "num": "31",
-    "label": "The Hunger Winter"
+    "label": "El invierno del hambre"
   },
   {
     "id": "cap32",
     "num": "32",
-    "label": "The Future of the Future"
+    "label": "El futuro del futuro"
   },
   {
     "id": "cap33",
     "num": "33",
-    "label": "Genetic Diagnosis: Previvors"
+    "label": "Diagnóstico genético: previvientes"
   },
   {
     "id": "cap34",
     "num": "34",
-    "label": "Genetic Therapies: Post-Human"
+    "label": "Terapias genéticas: poshumano"
   },
   {
     "id": "epilogo",
     "num": "✎",
-    "label": "Epilogue: Bheda, Abheda"
+    "label": "Bheda y Abheda"
   },
   {
     "id": "conceptos",
@@ -218,7 +218,7 @@ export const theGene: BookSummary = {
     {
       id: "prefacio",
       num: "Prefacio",
-      title: "Prologue: Families",
+      title: "Familias",
       blocks: [
         {
           type: 'paragraph',
@@ -227,7 +227,7 @@ export const theGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Siddhartha Mukherjee</span> abre con Moni, su primo esquizofrénico institucionalizado desde <span class=\"num\">2004</span>, y con Rajesh y Jagu, tíos afectados por manía y esquizofrenia. La Partición, el trauma y los genes se entrelazan: la herencia no es abstracta sino íntima. Estudios suecos (<span class=\"num\">2009–2012</span>) vinculan bipolaridad y esquizofrenia en familias entrecruzadas, como la suya.",
+          html: "<span class=\"person\">Siddhartha Mukherjee</span> abre con Moni, su primo esquizofrénico institucionalizado desde <span class=\"num\">2004</span>, y con Rajesh y Jagu, tíos afectados por manía y esquizofrenia. La Partición, el trauma y los genes se entrelazan: por eso la herencia no es abstracta sino íntima. Estudios suecos (<span class=\"num\">2009–2012</span>) vinculan bipolaridad y esquizofrenia en familias entrecruzadas, como la suya.",
         },
         {
           type: 'paragraph',
@@ -246,7 +246,7 @@ export const theGene: BookSummary = {
     {
       id: "cap1",
       num: "01",
-      title: "The Walled Garden",
+      title: "El jardín amurallado",
       blocks: [
         {
           type: 'paragraph',
@@ -274,7 +274,7 @@ export const theGene: BookSummary = {
     {
       id: "cap2",
       num: "02",
-      title: "The Mystery of Mysteries",
+      title: "El misterio de los misterios",
       blocks: [
         {
           type: 'paragraph',
@@ -302,7 +302,7 @@ export const theGene: BookSummary = {
     {
       id: "cap3",
       num: "03",
-      title: "The Very Wide Blank",
+      title: "El gran vacío",
       blocks: [
         {
           type: 'paragraph',
@@ -311,7 +311,7 @@ export const theGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La <span class=\"term\">pangenesis</span> (gemulas que se mezclan) de Darwin no puede sostener la selección natural. <span class=\"person\">Fleeming Jenkin</span> demuestra matemáticamente en <span class=\"num\">1867</span> que toda variación se diluye en pocas generaciones. Hacen falta partículas indivisibles y estables. Darwin publica Variation en <span class=\"num\">1868</span> sin resolver el vacío.",
+          html: "La <span class=\"term\">pangenesis</span> (gémulas que se mezclan) de Darwin no puede sostener la selección natural. <span class=\"person\">Fleeming Jenkin</span> demuestra matemáticamente en <span class=\"num\">1867</span> que toda variación se diluye en pocas generaciones. Hacen falta partículas indivisibles y estables. Darwin publica <em>Variation</em> en <span class=\"num\">1868</span> sin resolver el vacío.",
         },
         {
           type: 'paragraph',
@@ -319,7 +319,7 @@ export const theGene: BookSummary = {
         },
         {
           type: 'key',
-          html: "La pangenesis fallida deja un «blank» que solo unidades discretas e indivisibles pueden llenar, exactamente lo que Mendel encontrará.",
+          html: "La pangenesis fallida deja un vacío que solo unidades discretas e indivisibles pueden llenar, exactamente lo que Mendel encontrará.",
         },
         {
           type: 'paragraph',
@@ -330,7 +330,7 @@ export const theGene: BookSummary = {
     {
       id: "cap4",
       num: "04",
-      title: "Flowers He Loved",
+      title: "Las flores que amaba",
       blocks: [
         {
           type: 'paragraph',
@@ -339,15 +339,15 @@ export const theGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Mendel cruza guisantes ocho años, unas <span class=\"num\">28.000</span> plantas. Presenta en Brno ratios mendelianos y publica «Experiments in Plant Hybridization» en <span class=\"num\">1866</span>. Siete caracteres confirman unidades discretas con dominancia y recesividad, sin mezcla.",
+          html: "Mendel cruza guisantes durante ocho años: unas <span class=\"num\">28.000</span> plantas. Presenta en Brno las proporciones que hoy llamamos mendelianas y publica «Experiments in Plant Hybridization» en <span class=\"num\">1866</span>. Siete caracteres confirman unidades discretas, con dominancia y recesividad, sin mezcla.",
         },
         {
           type: 'paragraph',
-          html: "El silencio casi total sigue al paper. <span class=\"person\">Nägeli</span> lo desvía hacia hawkweed y el fracaso. Mendel muere en <span class=\"num\">1884</span> sin ver el renacimiento de sus leyes. Resuelve el vacío de Darwin con partículas estables.",
+          html: "Pero el silencio casi total sigue al artículo. <span class=\"person\">Nägeli</span> lo desvía hacia el <span class=\"term\">hawkweed</span> (hierba cana), un sistema donde el método fracasa. Mendel muere en <span class=\"num\">1884</span> sin ver el renacimiento de sus leyes. Aun así, ya había resuelto el vacío de Darwin con partículas estables.",
         },
         {
           type: 'key',
-          html: "Mendel demuestra experimentalmente herencia discreta. El olvido de cuatro décadas no invalida la solución al problema darwiniano.",
+          html: "Mendel demuestra herencia discreta en el jardín. El olvido de cuatro décadas no invalida la solución al problema darwiniano.",
         },
         {
           type: 'paragraph',
@@ -358,7 +358,7 @@ export const theGene: BookSummary = {
     {
       id: "cap5",
       num: "05",
-      title: "A Certain Mendel",
+      title: "Un tal Mendel",
       blocks: [
         {
           type: 'paragraph',
@@ -367,26 +367,26 @@ export const theGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "En <span class=\"num\">1900</span>, de Vries, Correns y Tschermak publican casi simultáneamente las leyes de Mendel. <span class=\"person\">Weismann</span> separa línea germinal de somática. Bateson acuña «genetics» en <span class=\"num\">1905</span>, en un tren a Londres.",
+          html: "En <span class=\"num\">1900</span>, de Vries, Correns y Tschermak publican casi simultáneamente las leyes de Mendel. <span class=\"person\">Weismann</span> separa línea germinal de somática. Bateson acuña «genetics» (genética) en <span class=\"num\">1905</span>, en un tren a Londres.",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Johannsen</span> nombra el «gen» en <span class=\"num\">1909</span>. Mutantes de Oenothera ilustran variación, aunque de Vries omita a Mendel y sus «mutantes» quizá fueran backcrosses.",
+          html: "<span class=\"person\">Johannsen</span> nombra el «gen» en <span class=\"num\">1909</span>. Mutantes de Oenothera ilustran variación. Sin embargo, de Vries omite a Mendel y sus «mutantes» quizá fueron <span class=\"term\">retrocruzamientos</span> (cruces de vuelta con el parental).",
         },
         {
           type: 'key',
-          html: "La redescubrimiento de <span class=\"num\">1900</span> fusiona herencia discreta, mutación y selección en genética moderna, cerrando el arco Mendel–Darwin.",
+          html: "El redescubrimiento de <span class=\"num\">1900</span> fusiona herencia discreta, mutación y selección en genética moderna, cerrando el arco Mendel–Darwin.",
         },
         {
           type: 'paragraph',
-          html: "La genética aplicada a humanos desembocará pronto en eugenics.",
+          html: "La genética aplicada a humanos desembocará pronto en el eugenismo.",
         },
       ],
     },
     {
       id: "cap6",
       num: "06",
-      title: "Eugenics",
+      title: "Eugenismo",
       blocks: [
         {
           type: 'paragraph',
@@ -395,11 +395,11 @@ export const theGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Francis Galton</span> acuña «eugenics» en <span class=\"num\">1883</span> con Hereditary Genius: mejorar la raza mediante selección humana. Confunde correlación social con herencia. Bateson refuta su ley ancestral (<span class=\"num\">1902–1905</span>) con genética mendeliana y gana la disputa biométrica.",
+          html: "<span class=\"person\">Francis Galton</span> acuña «eugenics» (eugenismo) en <span class=\"num\">1883</span> con <em>Hereditary Genius</em>: mejorar la raza mediante selección humana. Confunde correlación social con herencia. Bateson refuta su ley ancestral (<span class=\"num\">1902–1905</span>) con genética mendeliana y gana la disputa biométrica.",
         },
         {
           type: 'paragraph',
-          html: "El movimiento eugenésico cruza el Atlántico con esterilización y retórica de «aptitud». Galton pierde ante la ciencia que él mismo inspiró. Primer desvío político del concepto de gen.",
+          html: "El movimiento eugenésico cruza el Atlántico con esterilización y retórica de «aptitud». Galton pierde ante la ciencia que él mismo inspiró. Por eso este episodio marca el primer desvío político del concepto de gen.",
         },
         {
           type: 'key',
@@ -414,7 +414,7 @@ export const theGene: BookSummary = {
     {
       id: "cap7",
       num: "07",
-      title: "Three Generations of Imbeciles Is Enough",
+      title: "Tres generaciones de imbéciles bastan",
       blocks: [
         {
           type: 'paragraph',
@@ -423,11 +423,15 @@ export const theGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "En <span class=\"term\">Buck v. Bell</span> (<span class=\"num\">1927</span>), Carrie Buck fue esterilizada forzosamente. Un testigo evalúa a Vivian de ocho meses. <span class=\"person\">Holmes</span> sentencia «Three generations of imbeciles is enough». Entre <span class=\"num\">60.000</span> y <span class=\"num\">70.000</span> personas fueron esterilizadas en EE.UU. Carrie no era «imbécil» y el juicio fue teatro eugenésico en la colonia de Lynchburg.",
+          html: "En <span class=\"term\">Buck v. Bell</span> (<span class=\"num\">1927</span>), Carrie Buck es esterilizada por orden del Estado. Un testigo evalúa a su bebé Vivian, de ocho meses, para «demostrar» tres generaciones afectadas. <span class=\"person\">Oliver Wendell Holmes</span> escribe la frase que cierra el caso: «Three generations of imbeciles is enough».",
+        },
+        {
+          type: 'paragraph',
+          html: "Entre <span class=\"num\">60.000</span> y <span class=\"num\">70.000</span> personas fueron esterilizadas en Estados Unidos bajo leyes parecidas. Pero Carrie no era «imbécil»: el juicio fue teatro eugenésico en la colonia de Lynchburg. La genética se convierte en pretexto legal y racial.",
         },
         {
           type: 'key',
-          html: "Buck v. Bell legitima esterilización eugenésica usando genética como pretexto legal y racial.",
+          html: "Buck v. Bell legitima la esterilización eugenésica forzada y muestra cómo una teoría biológica se vuelve violencia de Estado.",
         },
         {
           type: 'paragraph',
@@ -438,7 +442,7 @@ export const theGene: BookSummary = {
     {
       id: "cap8",
       num: "08",
-      title: "Abhed",
+      title: "Abhed (lo indivisible)",
       blocks: [
         {
           type: 'paragraph',
@@ -451,7 +455,7 @@ export const theGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Genes predisponen, no determinan. Ambiente y azar modulan la expresión. La biografía familiar reencuadra el relato histórico. La herencia es íntima antes que estadística.",
+          html: "Los genes predisponen, no determinan. Ambiente y azar modulan la expresión. Así la biografía familiar reencuadra el relato histórico: la herencia es íntima antes que estadística.",
         },
         {
           type: 'key',
@@ -466,7 +470,7 @@ export const theGene: BookSummary = {
     {
       id: "cap9",
       num: "09",
-      title: "Truths and Reconciliations",
+      title: "Verdades y reconciliaciones",
       blocks: [
         {
           type: 'paragraph',
@@ -475,7 +479,7 @@ export const theGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Fisher</span> muestra en <span class=\"num\">1918</span> que múltiples genes influyen en rasgos continuos. <span class=\"person\">Dobzhansky</span> estudia «razas» cromosómicas en Drosophila en <span class=\"num\">1943</span>. Genotipo más ambiente igual fenotipo.",
+          html: "<span class=\"person\">Fisher</span> muestra en <span class=\"num\">1918</span> que múltiples genes influyen en rasgos continuos. <span class=\"person\">Dobzhansky</span> estudia «razas» cromosómicas en Drosophila en <span class=\"num\">1943</span>. En fórmula breve, genotipo más ambiente igual fenotipo.",
         },
         {
           type: 'paragraph',
@@ -498,7 +502,7 @@ export const theGene: BookSummary = {
     {
       id: "cap10",
       num: "10",
-      title: "Transformation",
+      title: "Transformación",
       blocks: [
         {
           type: 'paragraph',
@@ -507,11 +511,15 @@ export const theGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Griffith</span> demuestra transformación bacteriana con neumococo en <span class=\"num\">1928</span>. Genes transferibles entre células. Muller induce mutaciones con rayos X en Drosophila en <span class=\"num\">1926</span> y gana el Nobel en <span class=\"num\">1946</span>. Muller critica eugenismo sin igualdad social y sufre persecución política.",
+          html: "En <span class=\"num\">1928</span>, <span class=\"person\">Frederick Griffith</span> muestra que un extracto de neumococos virulentos puede «transformar» bacterias inocuas y volverlas letales. El gen, entonces, no es solo una abstracción: viaja como materia química entre células.",
+        },
+        {
+          type: 'paragraph',
+          html: "<span class=\"person\">Hermann Muller</span> empuja la misma idea desde otro ángulo. En <span class=\"num\">1926</span> induce mutaciones en Drosophila con rayos X y más tarde gana el Nobel (<span class=\"num\">1946</span>). Además, critica el eugenismo que pretende «mejorar» poblaciones sin igualdad social, y paga un costo político alto por esa postura.",
         },
         {
           type: 'key',
-          html: "Griffith y Muller prueban que los genes son materia química modificable, abriendo la vía molecular tras la síntesis evolutiva.",
+          html: "Griffith y Muller prueban que los genes son materia modificable. Así se abre la vía molecular después de la síntesis evolutiva.",
         },
         {
           type: 'paragraph',
@@ -522,7 +530,7 @@ export const theGene: BookSummary = {
     {
       id: "cap11",
       num: "11",
-      title: "Lebensunwertes Leben",
+      title: "Vidas indignas de ser vividas",
       blocks: [
         {
           type: 'paragraph',
@@ -531,11 +539,15 @@ export const theGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El nazismo convierte genética en «biología aplicada». Ley de esterilización en <span class=\"num\">1933</span>. <span class=\"term\">Lebensunwertes Leben</span> (vidas indignas de vivir) justifica Aktion T4, con unas <span class=\"num\">250.000</span> eutanasiados. Unos <span class=\"num\">400.000</span> fueron esterilizados. Mengele en Auschwitz. «Genocide» comparte raíz con «gene» por abuso ideológico, no por la ciencia en sí.",
+          html: "El nazismo convierte la genética en «biología aplicada». La ley de esterilización de <span class=\"num\">1933</span> abre la puerta. Bajo el lema <span class=\"term\">Lebensunwertes Leben</span> (vidas indignas de vivir), Aktion T4 asesina a unas <span class=\"num\">250.000</span> personas. Unos <span class=\"num\">400.000</span> son esterilizados. Mengele usa Auschwitz como laboratorio.",
+        },
+        {
+          type: 'paragraph',
+          html: "Por eso «genocide» comparte raíz con «gene» por abuso ideológico, no porque la genética exija el exterminio. El capítulo marca el abismo ético que redefine la genética después de la guerra.",
         },
         {
           type: 'key',
-          html: "El nazismo transforma la genética en limpieza racial y exterminio, marcando el abismo ético que redefine la genética posguerra.",
+          html: "El nazismo transforma la genética en limpieza racial. Ese abismo obliga a reconstruir la disciplina bajo otra ética.",
         },
         {
           type: 'paragraph',
@@ -546,7 +558,7 @@ export const theGene: BookSummary = {
     {
       id: "cap12",
       num: "12",
-      title: "That Stupid Molecule",
+      title: "Esa molécula estúpida",
       blocks: [
         {
           type: 'paragraph',
@@ -555,7 +567,7 @@ export const theGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Avery</span>, MacLeod y McCarty demuestran en <span class=\"num\">1944</span> que el ADN, no la proteína, transmite la información en transformación bacteriana. Levene lo llamó molécula «estúpida». La liberación de Auschwitz el <span class=\"num\">27 de enero de 1945</span> cierra el capítulo moral. Avery nunca gana el Nobel y muchos resisten creer en el ADN.",
+          html: "<span class=\"person\">Avery</span>, MacLeod y McCarty demuestran en <span class=\"num\">1944</span> que el ADN, no la proteína, transmite la información en transformación bacteriana. Levene lo llamó molécula «estúpida». La liberación de Auschwitz el <span class=\"num\">27 de enero de 1945</span> cierra el capítulo moral. Sin embargo, Avery nunca gana el Nobel y muchos resisten creer en el ADN.",
         },
         {
           type: 'key',
@@ -570,7 +582,7 @@ export const theGene: BookSummary = {
     {
       id: "cap13",
       num: "13",
-      title: "Important Biological Objects Come in Pairs",
+      title: "Importante: vienen de a pares",
       blocks: [
         {
           type: 'paragraph',
@@ -579,11 +591,15 @@ export const theGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Franklin</span> produce la fotografía 51. Watson y Crick publican la doble hélice en Nature en <span class=\"num\">abril de 1953</span>. Complementariedad de bases explica replicación y codificación. Conflicto Wilkins–Franklin en King's College. Sexismo y crédito disputado marcan la ciencia.",
+          html: "<span class=\"person\">Rosalind Franklin</span> obtiene la fotografía 51, la imagen de difracción que revela una hélice. Con ese dato, Watson y Crick publican en Nature, en <span class=\"num\">abril de 1953</span>, el modelo de doble hélice. Son dos cadenas unidas por bases complementarias.",
+        },
+        {
+          type: 'paragraph',
+          html: "Esa arquitectura explica a la vez la copia fiel del genoma y el almacenamiento de información. Pero el crédito queda disputado. El conflicto Wilkins–Franklin en King's College y el sexismo de la época marcan quién aparece en la historia pública.",
         },
         {
           type: 'key',
-          html: "La doble hélice convierte el gen de abstracción funcional en arquitectura física con mecanismo de copia.",
+          html: "La doble hélice convierte el gen de abstracción funcional en arquitectura física con un mecanismo claro de copia.",
         },
         {
           type: 'paragraph',
@@ -594,7 +610,7 @@ export const theGene: BookSummary = {
     {
       id: "cap14",
       num: "14",
-      title: "That Damned, Elusive Pimpernel",
+      title: "Esa maldita pimpinela esquiva",
       blocks: [
         {
           type: 'paragraph',
@@ -603,7 +619,7 @@ export const theGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Beadle y Tatum demuestran un gen, una enzima en Neurospora y ganan el Nobel en <span class=\"num\">1958</span>. <span class=\"person\">Nirenberg</span> descifra el código de tripletes. Brenner, Jacob y Meselson atrapan en <span class=\"num\">1960</span> el ARN mensajero, el «Pimpernel» elusivo entre ADN y proteína. El RNA Tie Club de Gamow anima la carrera.",
+          html: "Beadle y Tatum demuestran un gen, una enzima en Neurospora y ganan el Nobel en <span class=\"num\">1958</span>. <span class=\"person\">Nirenberg</span> descifra el código de tripletes. Entonces Brenner, Jacob y Meselson atrapan en <span class=\"num\">1960</span> el ARN mensajero, esa «pimpinela» elusiva entre ADN y proteína. El RNA Tie Club de Gamow anima esa carrera.",
         },
         {
           type: 'key',
@@ -618,7 +634,7 @@ export const theGene: BookSummary = {
     {
       id: "cap15",
       num: "15",
-      title: "Regulation, Replication, Recombination",
+      title: "Regulación, replicación, recombinación",
       blocks: [
         {
           type: 'paragraph',
@@ -627,22 +643,26 @@ export const theGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Monod</span> y <span class=\"person\">Jacob</span> descubren el operón lac en E. coli. Diauxie y el paper Pa-Ja-Mo datan de <span class=\"num\">1959</span>. Replicación semiconservativa, recombinación y crossing-over completan el cuadro. El <span class=\"term\">dogma central</span> (ADN→ARN→proteína) fija el pensamiento genético aunque se refinará.",
-        },
-        {
-          type: 'key',
-          html: "Monod y Jacob muestran que genes se regulan y el flujo de información explica la complejidad celular.",
+          html: "<span class=\"person\">Jacques Monod</span> y <span class=\"person\">François Jacob</span> estudian cómo <em>E. coli</em> enciende y apaga genes según el azúcar disponible. Descubren el <span class=\"term\">operón lac</span>, un interruptor genético. La diauxie (doble curva de crecimiento) y el artículo Pa-Ja-Mo, de <span class=\"num\">1959</span>, muestran que la herencia no es solo secuencia. También es control temporal.",
         },
         {
           type: 'paragraph',
-          html: "Queda explicar cómo genes construyen organismos enteros.",
+          html: "A eso se suman la replicación semiconservativa, la recombinación y el <span class=\"term\">entrecruzamiento</span> (intercambio de tramos entre cromosomas). El dogma central (ADN→ARN→proteína) fija el pensamiento genético. Sin embargo, después se refinará cuando aparezcan excepciones y capas de regulación.",
+        },
+        {
+          type: 'key',
+          html: "Monod y Jacob muestran que los genes se regulan. El flujo de información explica por qué el mismo genoma produce conductas celulares distintas.",
+        },
+        {
+          type: 'paragraph',
+          html: "Queda explicar cómo los genes construyen organismos enteros.",
         },
       ],
     },
     {
       id: "cap16",
       num: "16",
-      title: "From Genes to Genesis",
+      title: "De los genes al Génesis",
       blocks: [
         {
           type: 'paragraph',
@@ -651,7 +671,7 @@ export const theGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Genes homeóticos en moscas muestran cómo un genoma único genera un cuerpo complejo. Lewis trabaja en Caltech. Nüsslein-Volhard y Wieschaus ganan el Nobel por mutantes como bicoid. Gradientes maternos activan cascadas que construyen segmentos, órganos y ejes corporales. El desarrollo humano se infiere mucho de modelos como la mosca y el ratón.",
+          html: "Genes homeóticos en moscas muestran cómo un genoma único genera un cuerpo complejo. Lewis trabaja en Caltech. Nüsslein-Volhard y Wieschaus ganan el Nobel por mutantes como bicoid. Gradientes maternos activan cascadas que construyen segmentos, órganos y ejes corporales. Por eso el desarrollo humano se infiere mucho de modelos como la mosca y el ratón.",
         },
         {
           type: 'key',
@@ -666,7 +686,7 @@ export const theGene: BookSummary = {
     {
       id: "cap17",
       num: "17",
-      title: "Crossing Over",
+      title: "Entrecruzamiento",
       blocks: [
         {
           type: 'paragraph',
@@ -675,7 +695,7 @@ export const theGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Paul Berg crea ADN recombinante entre <span class=\"num\">1970</span> y <span class=\"num\">1972</span>. Usa enzimas de restricción, ligasa y una quimera SV40–λ–E. coli. Mertz invierte el experimento por seguridad. Moratoria de Asilomar I en <span class=\"num\">1973</span> y carta de Berg en <span class=\"num\">1974</span>. Los científicos reconocen peligros antes que salvaguardas completas.",
+          html: "Paul Berg crea ADN recombinante entre <span class=\"num\">1970</span> y <span class=\"num\">1972</span>. Usa enzimas de restricción, ligasa y una quimera SV40–λ–E. coli. Mertz invierte el experimento por seguridad. Moratoria de Asilomar I en <span class=\"num\">1973</span> y carta de Berg en <span class=\"num\">1974</span>. De ahí que los científicos reconozcan peligros antes que salvaguardas completas.",
         },
         {
           type: 'key',
@@ -690,7 +710,7 @@ export const theGene: BookSummary = {
     {
       id: "cap18",
       num: "18",
-      title: "The New Music",
+      title: "La nueva música",
       blocks: [
         {
           type: 'paragraph',
@@ -699,11 +719,15 @@ export const theGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Sanger</span> inventa secuenciación de ADN en <span class=\"num\">1977</span> y secuencia el virus ΦX174 en febrero. Roberts y Sharp descubren intrones y exones. Gilbert acuña los términos. Genes eucariotas discontinuos requieren empalme de ARN. Intrones parecen «basura» pero habilitan diversidad combinatoria.",
+          html: "En <span class=\"num\">1977</span>, <span class=\"person\">Frederick Sanger</span> inventa un método para leer ADN base a base y secuencia el virus ΦX174. Por primera vez, un genoma completo cabe en una partitura legible.",
+        },
+        {
+          type: 'paragraph',
+          html: "Casi al mismo tiempo, Roberts y Sharp descubren que los genes eucariotas vienen en piezas. Los <span class=\"term\">exones</span> (tramos que se traducen) se conservan. Los <span class=\"term\">intrones</span> (tramos que se recortan) salen del ARN. Gilbert acuña los nombres. Los intrones parecen «basura», pero habilitan diversidad combinatoria al empalmar ARN de distintas maneras.",
         },
         {
           type: 'key',
-          html: "Sanger añade «lectura» del genoma a la «escritura» del clonaje, revelando arquitectura modular con intrones y exones.",
+          html: "Sanger añade la «lectura» del genoma a la «escritura» del clonaje y revela una arquitectura modular, no una cinta continua.",
         },
         {
           type: 'paragraph',
@@ -714,7 +738,7 @@ export const theGene: BookSummary = {
     {
       id: "cap19",
       num: "19",
-      title: "Einsteins on the Beach",
+      title: "Einsteins en la playa",
       blocks: [
         {
           type: 'paragraph',
@@ -723,11 +747,15 @@ export const theGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Conferencia de Erice en <span class=\"num\">1972</span>. Moratoria NIH y Asilomar II en <span class=\"num\">1975</span>. Europa teme eugenesia y EE.UU. teme patógenos. La autoregulación científica es imperfecta. La genética arriesga no solo biosseguridad sino identidad, sociedad y eugenesia futura.",
+          html: "En Erice (<span class=\"num\">1972</span>) ya se discute el poder de reescribir genes. La moratoria del NIH y Asilomar II (<span class=\"num\">1975</span>) intentan que los propios científicos se autorregulen. Europa teme sobre todo una nueva eugenesia. Estados Unidos teme, primero, patógenos artificiales.",
+        },
+        {
+          type: 'paragraph',
+          html: "Sin embargo, esa autorregulación es imperfecta y parcial. Asilomar pone límites de bioseguridad, pero deja abiertas las preguntas sobre identidad, sociedad y eugenesia futura. La genética ya no cabe solo en el laboratorio.",
         },
         {
           type: 'key',
-          html: "Asilomar reconoce que la genética desborda el laboratorio hacia identidad, sociedad y límites políticos.",
+          html: "Asilomar reconoce que la genética desborda el tubo de ensayo: también redefine límites políticos y morales.",
         },
         {
           type: 'paragraph',
@@ -738,7 +766,7 @@ export const theGene: BookSummary = {
     {
       id: "cap20",
       num: "20",
-      title: "Clone or Die",
+      title: "Clonar o morir",
       blocks: [
         {
           type: 'paragraph',
@@ -747,11 +775,15 @@ export const theGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Patente Cohen–Boyer. Swanson y Boyer fundan Genentech en <span class=\"num\">1976</span>. Insulina humana recombinante obtiene aprobación. Boyer rechaza HerBob. Berg y Kornberg critican patentes sobre técnica pública. La biología se transforma en negocio patentado.",
+          html: "La patente Cohen–Boyer convierte el ADN recombinante en propiedad intelectual. En <span class=\"num\">1976</span>, Swanson y Boyer fundan Genentech. Pronto producen insulina humana recombinante y demuestran que clonar un gen puede fabricar una medicina real.",
+        },
+        {
+          type: 'paragraph',
+          html: "Boyer rechaza proyectos como HerBob que empujan el límite de lo publicable. Berg y Kornberg critican patentar técnicas nacidas de ciencia pública. Por eso la biología se transforma, también, en negocio: la promesa terapéutica llega empaquetada en capital y exclusividad.",
         },
         {
           type: 'key',
-          html: "Genentech demuestra que clonar genes produce medicinas reales y convierte biología en industria.",
+          html: "Genentech demuestra que clonar genes produce medicinas reales y convierte la biología molecular en industria.",
         },
         {
           type: 'paragraph',
@@ -762,7 +794,7 @@ export const theGene: BookSummary = {
     {
       id: "cap21",
       num: "21",
-      title: "The Miseries of My Father",
+      title: "Las miserias de mi padre",
       blocks: [
         {
           type: 'paragraph',
@@ -771,22 +803,26 @@ export const theGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Caída de su padre en <span class=\"num\">2014</span>. Diagnóstico de hidrocefalia normotensiva, la <span class=\"term\">NPH</span> (presión normal con síntomas clásicos), con triada de marcha, incontinencia y demencia. Múltiples genes de acueductos ventriculares más edad actúan como desencadenante. No hay mapeo uno-a-uno gen–enfermedad. Ambiente y azar son constitutivos. Metáfora del «Delphic boat».",
-        },
-        {
-          type: 'key',
-          html: "La NPH del padre ilustra enfermedad poligénica con penetrancia incompleta: genes crean propensión, no destino fijo.",
+          html: "En <span class=\"num\">2014</span>, el padre de Mukherjee cae. Reciben el diagnóstico de hidrocefalia normotensiva, la <span class=\"term\">NPH</span> (normal pressure hydrocephalus). La presión del líquido parece «normal», pero aparecen marcha inestable, incontinencia y demencia.",
         },
         {
           type: 'paragraph',
-          html: "La medicina sistematiza enfermedades genéticas humanas en clínicas especializadas.",
+          html: "Varios genes ligados a los acueductos ventriculares crean propensión. La edad actúa como desencadenante. No hay mapeo uno-a-uno gen–enfermedad. Por eso ambiente y azar son constitutivos. Mukherjee usa la metáfora del «barco délfico». Muchas piezas hacen flotar el conjunto, y ninguna sola basta para explicar el naufragio.",
+        },
+        {
+          type: 'key',
+          html: "La NPH del padre ilustra una enfermedad poligénica de penetrancia incompleta: los genes crean propensión, no un destino fijo.",
+        },
+        {
+          type: 'paragraph',
+          html: "La medicina sistematiza las enfermedades genéticas humanas en clínicas especializadas.",
         },
       ],
     },
     {
       id: "cap22",
       num: "22",
-      title: "The Birth of a Clinic",
+      title: "El nacimiento de una clínica",
       blocks: [
         {
           type: 'paragraph',
@@ -795,35 +831,43 @@ export const theGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Garrod vincula alcaptonuria con herencia en <span class=\"num\">1899</span>. McKusick abre Moore Clinic en <span class=\"num\">1957</span>. El catálogo OMIM alcanza unas <span class=\"num\">12.000</span> variantes en <span class=\"num\">1998</span>. Enfermedades monogénicas, cromosómicas como Down y poligénicas conviven en clínica. No hay gen para hipertensión aunque sea enfermedad genética. Mutación es variación estadística y enfermedad es desajuste gen–ambiente.",
-        },
-        {
-          type: 'key',
-          html: "McKusick cataloga enfermedades genéticas humanas y muestra que enfermedad no es maldad del gen sino desajuste con el ambiente.",
+          html: "Ya en <span class=\"num\">1899</span>, Garrod vincula la alcaptonuria con la herencia. En <span class=\"num\">1957</span>, <span class=\"person\">Victor McKusick</span> abre la Moore Clinic y empieza a catalogar enfermedades genéticas humanas. Hacia <span class=\"num\">1998</span>, el OMIM reúne unas <span class=\"num\">12.000</span> variantes.",
         },
         {
           type: 'paragraph',
-          html: "Prenatal testing y selección fetal reavivan eugenesia «blanda».",
+          html: "En la clínica conviven enfermedades monogénicas, cromosómicas como el síndrome de Down y rasgos poligénicos. No hay «el gen» de la hipertensión, aunque la hipertensión sea genética en parte. Por eso mutación significa variación estadística, y enfermedad significa desajuste entre gen y ambiente, no una maldad intrínseca del ADN.",
+        },
+        {
+          type: 'key',
+          html: "McKusick muestra que catalogar genes no basta: la enfermedad es un desajuste con el ambiente, no una etiqueta moral del genotipo.",
+        },
+        {
+          type: 'paragraph',
+          html: "El diagnóstico prenatal y la selección fetal reavivan una eugenesia «blanda».",
         },
       ],
     },
     {
       id: "cap23",
       num: "23",
-      title: "Interfere, Interfere, Interfere",
+      title: "Interferir, interferir, interferir",
       blocks: [
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "¿En qué se diferencia el newgenics del eugenismo clásico?",
+          html: "¿En qué se diferencia la neoeugenesia del eugenismo clásico?",
         },
         {
           type: 'paragraph',
-          html: "Neo-eugenesia combina diagnóstico genético prenatal, aborto selectivo y retórica de elección. Banco de esperma de Graham. Crick defiende pruebas genéticas al nacer. McKusick advierte sobre determinismo y el «genetic-commercial complex». Seleccionar genes no equivale a seleccionar fenotipos complejos como inteligencia o esquizofrenia.",
+          html: "La neoeugenesia ya no habla de esterilizar «deficientes» por decreto. Combina diagnóstico prenatal, aborto selectivo y retórica de elección individual. Aparecen bancos de esperma «de élite», como el de Graham, y propuestas como las de Crick a favor de pruebas genéticas al nacer.",
+        },
+        {
+          type: 'paragraph',
+          html: "<span class=\"person\">Victor McKusick</span> advierte el riesgo del determinismo genético y de un «complejo genético-comercial». Seleccionar un gen de enfermedad monogénica no equivale a seleccionar inteligencia o esquizofrenia, rasgos poligénicos y opacos. La elección individual no borra la sombra eugenésica. La reformula.",
         },
         {
           type: 'key',
-          html: "El newgenics usa diagnóstico y elección individual, pero McKusick advierte que no elimina determinismo ni complejo gen-comercial.",
+          html: "La neoeugenesia usa diagnóstico y elección, pero no elimina determinismo ni el mercado que vende certeza genética donde no la hay.",
         },
         {
           type: 'paragraph',
@@ -834,7 +878,7 @@ export const theGene: BookSummary = {
     {
       id: "cap24",
       num: "24",
-      title: "A Village of Dancers, an Atlas of Moles",
+      title: "Un pueblo de bailarines, un atlas de lunares",
       blocks: [
         {
           type: 'paragraph',
@@ -843,7 +887,7 @@ export const theGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Botstein</span> propone en <span class=\"num\">1980</span> mapear genes con polimorfismos de ADN y pedigrís extensos. <span class=\"person\">Nancy Wexler</span> y el pueblo de Lake Maracaibo: corea de Huntington ligada al cromosoma 4. <span class=\"person\">George Huntington</span> la describió en los <span class=\"num\">1870</span>s. Requiere familias enormes y marcadores distribuidos por todo el genoma.",
+          html: "<span class=\"person\">Botstein</span> propone en <span class=\"num\">1980</span> mapear genes con polimorfismos de ADN y pedigrís extensos. <span class=\"person\">Nancy Wexler</span> y el pueblo de Lake Maracaibo: corea de Huntington ligada al cromosoma 4. <span class=\"person\">George Huntington</span> la describió en los <span class=\"num\">1870</span>s. Por eso requiere familias enormes y marcadores distribuidos por todo el genoma.",
         },
         {
           type: 'key',
@@ -858,31 +902,35 @@ export const theGene: BookSummary = {
     {
       id: "cap25",
       num: "25",
-      title: "To Get the Genome",
+      title: "Hacia el genoma",
       blocks: [
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "¿Por qué secuenciar el genoma entero y no gene a gene?",
+          html: "¿Por qué secuenciar el genoma entero y no gen a gen?",
         },
         {
           type: 'paragraph',
-          html: "Lentitud en BRCA1 y Huntington impulsa escala mayor. Cáncer aparece como acumulación de mutaciones según Vogelstein. Plantilla «normal» frente a mutante. Enfoque monogénico agotado para diabetes, cáncer e hipertensión. Watson impulsa el Proyecto Genoma Humano y Sulston aporta experiencia con el gusano C. elegans.",
+          html: "Mapear BRCA1 o Huntington gen a gen resulta demasiado lento. Vogelstein muestra el cáncer como acumulación de mutaciones. Hace falta una plantilla «normal» contra la cual comparar lo mutante.",
+        },
+        {
+          type: 'paragraph',
+          html: "El enfoque monogénico no alcanza para diabetes, cáncer e hipertensión. Por eso Watson impulsa el Proyecto Genoma Humano y Sulston aporta la experiencia del gusano <em>C. elegans</em>: primero el mapa completo, después las enfermedades comunes.",
         },
         {
           type: 'key',
-          html: "El PGH se justifica porque enfermedades comunes y cáncer son problemas genómicos, no de un solo gen.",
+          html: "El PGH se justifica porque las enfermedades comunes y el cáncer son problemas genómicos, no de un solo gen.",
         },
         {
           type: 'paragraph',
-          html: "Carrera pública vs. privada define la fase final.",
+          html: "La carrera pública frente a la privada define la fase final.",
         },
       ],
     },
     {
       id: "cap26",
       num: "26",
-      title: "The Geographers",
+      title: "Los geógrafos",
       blocks: [
         {
           type: 'paragraph',
@@ -891,11 +939,15 @@ export const theGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Venter deja NIH en <span class=\"num\">1992</span>. Funda TIGR, patenta ESTs y aplica secuenciación shotgun a Haemophilus. Empate declarado en <span class=\"num\">2000</span> con Clinton y Blair. Borrador en <span class=\"num\">2001</span>. Celera frente al consorcio público expone fragmentos patentados que amenazan «balkanizar» el genoma. Calidad y velocidad chocan.",
+          html: "En <span class=\"num\">1992</span>, Venter deja el NIH, funda TIGR y patenta fragmentos llamados ESTs. Aplica secuenciación <span class=\"term\">shotgun</span> (al azar, fragmentada) a Haemophilus y demuestra velocidad. El consorcio público responde con otra estrategia, más lenta y más controlada.",
+        },
+        {
+          type: 'paragraph',
+          html: "En <span class=\"num\">2000</span>, Clinton y Blair declaran un empate simbólico. El borrador llega en <span class=\"num\">2001</span>. Celera frente al consorcio público expone el riesgo de «balkanizar» el genoma con patentes. Calidad y velocidad chocan, pero la carrera acelera el mapa.",
         },
         {
           type: 'key',
-          html: "La carrera Celera vs. público aceleró el PGH pero expuso patentes, estrategia shotgun y política científica.",
+          html: "La carrera Celera frente al público aceleró el PGH. También expuso patentes, estrategia shotgun y política científica.",
         },
         {
           type: 'paragraph',
@@ -906,7 +958,7 @@ export const theGene: BookSummary = {
     {
       id: "cap27",
       num: "27",
-      title: "The Book of Man (in Twenty-Three Volumes)",
+      title: "El libro del hombre (en veintitrés volúmenes)",
       blocks: [
         {
           type: 'paragraph',
@@ -915,22 +967,26 @@ export const theGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El genoma humano tiene unos <span class=\"num\">3.088</span> Gb y unos <span class=\"num\">20.687</span> genes. El <span class=\"num\">98%</span> no codifica proteínas. Familias Hox y olfato incluyen <span class=\"num\">155</span> genes en cromosoma 11. Pseudogenes y cromosoma 2 fusionado documentan historia evolutiva. Compartimos <span class=\"num\">96%</span> de identidad con chimpancés. Código genético conocido no equivale a código genómico comprendido, con regulación 3D aún en estudio.",
-        },
-        {
-          type: 'key',
-          html: "El genoma humano es compacto en genes pero sofisticado en regulación, empalme, repetición e historia evolutiva incrustada.",
+          html: "El genoma humano tiene unos <span class=\"num\">3.088</span> Gb y unos <span class=\"num\">20.687</span> genes. El <span class=\"num\">98%</span> no codifica proteínas. Familias como Hox y los genes del olfato (<span class=\"num\">155</span> solo en el cromosoma 11) muestran repetición y especialización.",
         },
         {
           type: 'paragraph',
-          html: "La genética invierte el espejo: de patología a normalidad, raza y origen.",
+          html: "Los pseudogenes y el cromosoma 2 fusionado documentan historia evolutiva incrustada. Compartimos cerca del <span class=\"num\">96%</span> de identidad con los chimpancés. Conocer el código genético no equivale a comprender el código genómico: la regulación en tres dimensiones sigue abierta.",
+        },
+        {
+          type: 'key',
+          html: "El genoma humano es compacto en genes, pero sofisticado en regulación, empalme, repetición e historia evolutiva.",
+        },
+        {
+          type: 'paragraph',
+          html: "La genética invierte el espejo: de la patología a la normalidad, la raza y el origen.",
         },
       ],
     },
     {
       id: "cap28",
       num: "28",
-      title: "So, We's the Same",
+      title: "Entonces, somos iguales",
       blocks: [
         {
           type: 'paragraph',
@@ -939,22 +995,26 @@ export const theGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Agassiz enfrenta a Darwin sobre poligenismo racial. Fósil de Neanderthal en <span class=\"num\">1856</span>. La <span class=\"term\">Eve mitocondrial</span> (ancestro común materno) refuerza origen africano hace unos <span class=\"num\">200.000</span> años. Genomas comparados refutan poligenismo racial. Flujo genético con neandertales y variación mínima entre humanos coexisten. Similitud genética no elimina construcciones sociales de raza ni racismo.",
-        },
-        {
-          type: 'key',
-          html: "La genética refuta el poligenismo racial y muestra origen africano común con variación mínima entre humanos.",
+          html: "Agassiz enfrenta a Darwin sobre el poligenismo racial. El fósil de Neanderthal, en <span class=\"num\">1856</span>, abre otra historia. La <span class=\"term\">Eve mitocondrial</span> (ancestro común materno) refuerza un origen africano hace unos <span class=\"num\">200.000</span> años.",
         },
         {
           type: 'paragraph',
-          html: "Los genes también moldean identidad individual en gemelos, sexo y orientación.",
+          html: "Los genomas comparados refutan el poligenismo racial. Hay flujo genético con neandertales y, a la vez, variación mínima entre humanos vivos. Pero la similitud genética no elimina las construcciones sociales de raza ni el racismo.",
+        },
+        {
+          type: 'key',
+          html: "La genética muestra origen africano común y poca diferencia entre humanos. No borra, por sí sola, el racismo como construcción social.",
+        },
+        {
+          type: 'paragraph',
+          html: "Los genes también moldean la identidad individual en gemelos, sexo y orientación.",
         },
       ],
     },
     {
       id: "cap29",
       num: "29",
-      title: "The First Derivative of Identity",
+      title: "La primera derivada de la identidad",
       blocks: [
         {
           type: 'paragraph',
@@ -963,22 +1023,26 @@ export const theGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Gemelos Tulu y Bulu muestran en <span class=\"num\">1942</span> que genes fijan tendencias. Mukherjee llama a eso «primera derivada de identidad». Ambiente modula temperamento y destino. El gen <span class=\"term\">SRY</span> (determinante del sexo en Y) guía diferenciación sexual. Historia desde Galeno hasta descubrimiento cromosómico del sexo. Identidad no es esencia fija.",
-        },
-        {
-          type: 'key',
-          html: "Gemelos idénticos muestran que genes fijan tendencias pero ambiente y azar bifurcan trayectorias idénticas al nacimiento.",
+          html: "Los gemelos Tulu y Bulu, observados desde <span class=\"num\">1942</span>, muestran que los genes fijan tendencias de temperamento. Mukherjee llama a eso la «primera derivada de la identidad»: una pendiente inicial, no un destino escrito.",
         },
         {
           type: 'paragraph',
-          html: "La orientación sexual entra al debate gen–elección.",
+          html: "El ambiente modula esa pendiente. El gen <span class=\"term\">SRY</span> (en el cromosoma Y) guía la diferenciación sexual, pero la identidad no se reduce a un interruptor. Desde Galeno hasta el descubrimiento cromosómico del sexo, la historia recuerda lo mismo. La biología condiciona. No agota quiénes somos.",
+        },
+        {
+          type: 'key',
+          html: "Gemelos idénticos muestran que los genes fijan tendencias. Pero el ambiente y el azar bifurcan trayectorias que nacieron iguales.",
+        },
+        {
+          type: 'paragraph',
+          html: "La orientación sexual entra al debate entre gen y elección.",
         },
       ],
     },
     {
       id: "cap30",
       num: "30",
-      title: "The Last Mile",
+      title: "La última milla",
       blocks: [
         {
           type: 'paragraph',
@@ -987,7 +1051,7 @@ export const theGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Bailey reporta <span class=\"num\">52%</span> de concordancia en gemelos monozigóticos frente al <span class=\"num\">22%</span> en dizigóticos. Hamer publica en <span class=\"num\">julio de 1993</span> una región Xq28 con respuesta cultural invertida. Lewontin niega base genética y señala que ambiente explica discordancia gemelar. Componente hereditario desplaza «elección» sin determinismo simple.",
+          html: "Bailey reporta <span class=\"num\">52%</span> de concordancia en gemelos monozigóticos frente al <span class=\"num\">22%</span> en dizigóticos. Hamer publica en <span class=\"num\">julio de 1993</span> una región Xq28 con respuesta cultural invertida. Lewontin niega base genética y señala que el ambiente explica la discordancia gemelar. Aun así, el componente hereditario desplaza «elección» sin determinismo simple.",
         },
         {
           type: 'key',
@@ -1002,7 +1066,7 @@ export const theGene: BookSummary = {
     {
       id: "cap31",
       num: "31",
-      title: "The Hunger Winter",
+      title: "El invierno del hambre",
       blocks: [
         {
           type: 'paragraph',
@@ -1011,7 +1075,7 @@ export const theGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Waddington describe el paisaje epigenético y acuña «epigenetics». El <span class=\"term\">Hongerwinter</span> (invierno del hambre de <span class=\"num\">1944–45</span>) deja obesidad y cardiopatía en hijos y nietos de víctimas. Metilación del ADN registra ambiente. Gurdon demuestra clonación. Lamarckismo popular no equivale a epigenética rigurosa y efectos multigeneracionales siguen debatidos.",
+          html: "Waddington describe el paisaje epigenético y acuña «epigenetics» (epigenética). El <span class=\"term\">Hongerwinter</span> (invierno del hambre de <span class=\"num\">1944–45</span>) deja obesidad y cardiopatía en hijos y nietos de víctimas. Metilación del ADN registra ambiente. Gurdon demuestra clonación. Sin embargo, el lamarckismo popular no equivale a epigenética rigurosa y los efectos multigeneracionales siguen debatidos.",
         },
         {
           type: 'key',
@@ -1026,7 +1090,7 @@ export const theGene: BookSummary = {
     {
       id: "cap32",
       num: "32",
-      title: "The Future of the Future",
+      title: "El futuro del futuro",
       blocks: [
         {
           type: 'paragraph',
@@ -1035,22 +1099,26 @@ export const theGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Quimera viral en ratones. Evans aísla células madre embrionarias. Ratones transgénicos avanzan terapia génica. Fracaso temprano por silenciamiento epigenético viral. Células madre humanas difieren de las de ratón en manipulabilidad. Terapia germinal sigue lejana en los <span class=\"num\">90</span>. Retoma «futuro del futuro» de Erice en clave terapéutica.",
-        },
-        {
-          type: 'key',
-          html: "Terapia génica avanza con células madre y transgénesis, pero choca con silenciamiento epigenético y barreras éticas.",
+          html: "La terapia génica experimental avanza con quimeras virales en ratones y con las células madre embrionarias aisladas por Evans. Los ratones transgénicos demuestran que se puede insertar material genético nuevo. Sin embargo, los primeros intentos tropiezan: el silenciamiento epigenético apaga muchos virus terapéuticos.",
         },
         {
           type: 'paragraph',
-          html: "Mientras terapia tropieza, diagnóstico predictivo florece.",
+          html: "Las células madre humanas no se manipulan como las de ratón. En los <span class=\"num\">90</span>, la terapia germinal (alterar la línea que se hereda) sigue lejana. El «futuro del futuro» anunciado en Erice vuelve ahora en clave terapéutica y con límites duros.",
+        },
+        {
+          type: 'key',
+          html: "La terapia génica avanza con células madre y transgénesis, pero choca con el silenciamiento epigenético y con barreras éticas.",
+        },
+        {
+          type: 'paragraph',
+          html: "Mientras la terapia tropieza, el diagnóstico predictivo florece.",
         },
       ],
     },
     {
       id: "cap33",
       num: "33",
-      title: "Genetic Diagnosis: Previvors",
+      title: "Diagnóstico genético: previvientes",
       blocks: [
         {
           type: 'paragraph',
@@ -1059,11 +1127,11 @@ export const theGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "King mapea BRCA1 a 17q21 y lo clona en <span class=\"num\">1994</span>. Myriad patenta test en <span class=\"num\">1998</span>. Jane Sterling y Lynch syndrome ilustran casos clínicos. Angelina Jolie hace público el dilema. <span class=\"term\">Previvors</span> (personas sanas diagnosticadas de alto riesgo) enfrentan futuro incierto. PGP de Church abre datos personales. Penetrancia incompleta obliga a elegir entre mastectomía profiláctica y vigilancia.",
+          html: "King mapea BRCA1 a 17q21 y lo clona en <span class=\"num\">1994</span>. Myriad patenta test en <span class=\"num\">1998</span>. Jane Sterling y el síndrome de Lynch ilustran casos clínicos. Angelina Jolie hace público el dilema. Los <span class=\"term\">previvientes</span> (personas sanas con alto riesgo genético) enfrentan un futuro clínico incierto. PGP de Church abre datos personales. Penetrancia incompleta obliga a elegir entre mastectomía profiláctica y vigilancia.",
         },
         {
           type: 'key',
-          html: "Diagnóstico genético predictivo empodera pero crea «previvors» atrapados entre riesgo genético y futuro clínico incierto.",
+          html: "Diagnóstico genético predictivo empodera pero crea «previvientes» atrapados entre riesgo genético y futuro clínico incierto.",
         },
         {
           type: 'paragraph',
@@ -1074,7 +1142,7 @@ export const theGene: BookSummary = {
     {
       id: "cap34",
       num: "34",
-      title: "Genetic Therapies: Post-Human",
+      title: "Terapias genéticas: poshumano",
       blocks: [
         {
           type: 'paragraph',
@@ -1083,15 +1151,15 @@ export const theGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Muerte de Jesse Gelsinger en <span class=\"num\">septiembre de 1999</span> frena terapia génica. Renacimiento con hemofilia B y AAV en NEJM de <span class=\"num\">2014</span>. CRISPR/Cas9 entre <span class=\"num\">2012</span> y <span class=\"num\">2016</span> abre edición precisa. Watson pide «make ourselves a little better». Triángulo terapéutico exige alta penetrancia, sufrimiento y consentimiento. Ingeniería germinal reabre eugenesia positiva.",
+          html: "La muerte de Jesse Gelsinger, en <span class=\"num\">septiembre de 1999</span>, frena la terapia génica. El renacimiento llega con hemofilia B y vectores AAV, publicados en el NEJM de <span class=\"num\">2014</span>. Entre <span class=\"num\">2012</span> y <span class=\"num\">2016</span>, CRISPR/Cas9 abre una edición más precisa.",
         },
         {
           type: 'paragraph',
-          html: "Restaurar <span class=\"num\">5%</span> de factor IX devuelve <span class=\"num\">90%</span> de función. Eficiencia no elimina trivialidad ética. Germinal permanente es irreversible socialmente.",
+          html: "Watson pide «make ourselves a little better» («mejorarnos un poco»). El triángulo terapéutico exige alta penetrancia, sufrimiento real y consentimiento. Restaurar un <span class=\"num\">5%</span> de factor IX puede devolver un <span class=\"num\">90%</span> de función. Pero la eficiencia no elimina la trivialidad ética. La ingeniería germinal permanente es irreversible en lo social.",
         },
         {
           type: 'key',
-          html: "Terapia génica renace con CRISPR y reabre eugenesia positiva bajo nuevo rostro: eficiencia no elimina dilemas éticos.",
+          html: "La terapia génica renace con CRISPR y reabre la eugenesia positiva bajo otro rostro. La eficiencia no disuelve el dilema.",
         },
         {
           type: 'paragraph',
@@ -1102,7 +1170,7 @@ export const theGene: BookSummary = {
     {
       id: "epilogo",
       num: "Epílogo",
-      title: "Epilogue: Bheda, Abheda",
+      title: "Bheda y Abheda",
       blocks: [
         {
           type: 'paragraph',
@@ -1111,7 +1179,7 @@ export const theGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"term\">ENCODE</span> (2013) anota el genoma funcional. Turkheimer recuerda la complejidad gen–conducta. Tres proyectos pendientes cubren lo funcional, fisiológico y clínico. Berg advierte sobre cambio de autopercepción. Discernir <span class=\"term\">bhed</span> (diferencia analítica) sin olvidar lo indivisible (<span class=\"term\">abhed</span>) cierra el círculo filosófico. «Show me that you can divide the notes of a song».",
+          html: "<span class=\"term\">ENCODE</span> (2013) anota el genoma funcional. Turkheimer recuerda la complejidad gen–conducta. Tres proyectos pendientes cubren lo funcional, fisiológico y clínico. Berg advierte sobre cambio de autopercepción. Por eso discernir <span class=\"term\">bhed</span> (diferencia analítica) sin olvidar lo indivisible (<span class=\"term\">abhed</span>) cierra el círculo filosófico. «Show me that you can divide the notes of a song» («demostrame que podés dividir las notas de una canción»).",
         },
         {
           type: 'key',
@@ -1139,7 +1207,7 @@ export const theGene: BookSummary = {
   },
   {
     "title": "⚠️",
-    "description": "Eugenics / newgenics"
+    "description": "Eugenismo / neoeugenismo"
   },
   {
     "title": "📊",
@@ -1169,7 +1237,7 @@ export const theGene: BookSummary = {
   },
   {
     "year": "1859",
-    "text": "Darwin publica Origin; selección natural sin mecanismo hereditario."
+    "text": "Darwin publica <em>Origin</em>; selección natural sin mecanismo hereditario."
   },
   {
     "year": "1865–66",
@@ -1181,7 +1249,7 @@ export const theGene: BookSummary = {
   },
   {
     "year": "1883",
-    "text": "Galton acuña «eugenics»."
+    "text": "Galton acuña el término eugenismo."
   },
   {
     "year": "1900",
@@ -1251,7 +1319,7 @@ export const theGene: BookSummary = {
   },
   {
     "name": "Francis Galton",
-    "role": "Acuña eugenics; pierde debate con Bateson"
+    "role": "Acuña el eugenismo; pierde el debate con Bateson"
   },
   {
     "name": "Carrie Buck / Holmes",
@@ -1303,7 +1371,7 @@ export const theGene: BookSummary = {
     lines: [
   "El gen es la unidad irreducible de herencia y de información biológica.",
   "Comprenderlo reorganizó la biología entera, del jardín de Mendel al Proyecto Genoma.",
-  "Genes predisponen; ambiente, azar y epigenética modulan.",
+  "Genes predisponen; pero ambiente, azar y epigenética modulan.",
   "Discernir (bhed) sin olvidar lo indivisible (abhed) es la tarea ética que queda.",
   "La historia íntima de Moni y Rajesh recuerda que el gen nunca es solo ciencia."
 ],

@@ -147,7 +147,7 @@ export const cosmos: BookSummary = {
         },
         {
           type: 'key',
-          html: "Somos polvo de estrellas que ha aprendido a preguntarse por sí mismo. El viaje de regreso a casa apenas comienza.",
+          html: "Somos una parte ínfima pero consciente del Cosmos, y la Tierra es la orilla desde la que apenas empezamos a explorarlo.",
         },
         {
           type: 'paragraph',
@@ -167,7 +167,7 @@ export const cosmos: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Sagan ilustra la <span class=\"term\">selección artificial</span> (cuando los humanos eligen qué organismos se reproducen) con los cangrejos Heike del mar interior de Japón. Los pescadores devolvían al mar los ejemplares cuyo caparazón parecía rostro samurái. Eso favoreció esa forma generación tras generación. Los humanos transformaron plantas y animales en milenios. La <span class=\"term\">selección natural</span> (el ambiente favorece variantes hereditarias) operó miles de millones de años. Esa comparación explica toda la diversidad biológica.",
+          html: "Sagan ilustra la <span class=\"term\">selección artificial</span> (cuando los humanos eligen qué organismos se reproducen) con los cangrejos Heike del mar interior de Japón. Los pescadores devolvían al mar los ejemplares cuyo caparazón parecía rostro samurái. Eso favoreció esa forma generación tras generación. Los humanos transformaron plantas y animales en milenios. La <span class=\"term\">selección natural</span> (el ambiente favorece variantes hereditarias) operó, en cambio, miles de millones de años. Por eso esa comparación explica toda la diversidad biológica.",
         },
         {
           type: 'paragraph',
@@ -219,7 +219,7 @@ export const cosmos: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El astrónomo <span class=\"person\">Ptolomeo</span> modeló un cosmos geocéntrico con epiciclos. <span class=\"person\">Johannes Kepler</span> encontró que los planetas siguen elípses. El Sol ocupa un foco. El cuadrado de los periodos es proporcional al cubo de las distancias. <span class=\"person\">Isaac Newton</span> unificó cielo y tierra con la gravitación universal. Las leyes celestes rigen también en la Tierra.",
+          html: "El astrónomo <span class=\"person\">Ptolomeo</span> modeló un cosmos geocéntrico con epiciclos. <span class=\"person\">Johannes Kepler</span> heredó las observaciones de <span class=\"person\">Tycho Brahe</span> y renunció a sus figuras geométricas favoritas cuando los datos lo obligaron. Encontró que los planetas siguen elípses con el Sol en un foco. El cuadrado de los periodos es proporcional al cubo de las distancias. <span class=\"person\">Isaac Newton</span> unificó cielo y tierra con la gravitación universal. Por tanto, las leyes celestes rigen también en la Tierra.",
         },
         {
           type: 'quote',
@@ -517,7 +517,7 @@ export const cosmos: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Las civilizaciones avanzadas deben preservar su memoria colectiva contra catástrofes naturales y autoinfligidas. La información es supervivencia cultural, y sin memoria colectiva cada generación recomienza desde cero.",
+          html: "Las civilizaciones avanzadas deben preservar su memoria colectiva contra catástrofes naturales y autoinfligidas. Por eso la información es supervivencia cultural: sin memoria colectiva, cada generación recomienza desde cero.",
         },
         {
           type: 'key',
@@ -581,7 +581,7 @@ export const cosmos: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La serie y el libro son un experimento optimista: confiar en la inteligencia pública, en que las preguntas profundas excitan a millones. Sobrevivir y florecer exige entender el Cosmos y nuestra responsabilidad dentro de él. Alguien debe hablar por la Tierra, y ese alguien somos nosotros.",
+          html: "La serie y el libro son un experimento optimista: confiar en la inteligencia pública, en que las preguntas profundas excitan a millones. Por eso sobrevivir y florecer exige entender el Cosmos y nuestra responsabilidad dentro de él. Alguien debe hablar por la Tierra, y ese alguien somos nosotros.",
         },
         {
           type: 'quote',
@@ -709,8 +709,8 @@ export const cosmos: BookSummary = {
     title: "La idea central",
     lines: [
   "Somos polvo de estrellas que ha aprendido a conocerse.",
-  "La ciencia nos reconecta con el Cosmos del que nacimos.",
-  "Explorar el espacio es un viaje de regreso a casa.",
+  "Por eso la ciencia nos reconecta con el Cosmos del que nacimos.",
+  "Explorar el espacio es, entonces, un viaje de regreso a casa.",
   "Entender la ciencia es condición de supervivencia y deleite.",
   "Debemos hablar por la Tierra con humildad cósmica."
 ],

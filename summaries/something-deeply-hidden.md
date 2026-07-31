@@ -27,10 +27,10 @@ lang: es
 | cap10 | 10 | El lado humano |
 | cap11 | 11 | ¿Por qué hay espacio? |
 | cap12 | 12 | Teoría cuántica de campos |
-| cap13 | 13 | Gravedad dentro de la cuántica |
+| cap13 | 13 | Gravedad dentro de la mecánica cuántica |
 | cap14 | 14 | Más allá del espacio y el tiempo |
 | conceptos | ✦ | Conceptos clave |
-| cronologia | ◈ | Cronología |
+| cronologia | ◈ | Cronología de hitos |
 | figuras | ✦ | Figuras clave |
 | cierre | — | La idea central |
 
@@ -96,7 +96,7 @@ Carroll propone eliminar ese quiebre tomando la función de onda en serio desde 
 ¿Qué pasa si la función de onda es la realidad completa y nunca colapsa? En la conferencia de Solvay de <span class="num">1927</span>, el físico <span class="person">Niels Bohr</span> defendió usar la cuántica solo para probabilidades de medición. <span class="person">Albert Einstein</span> exigía una descripción completa de la realidad. Carroll reconstruye el camino hacia la <span class="term">mecánica cuántica austera</span> (AQM: solo función de onda y ecuación de Schrödinger, sin colapsos).
 
 <!-- paragraph -->
-Si la función de onda es la realidad y no hay colapsos, medir es una interacción física ordinaria. Un electrón en superposición se entrelaza con el aparato y con el observador. Todos quedan en superposición correlacionada. La salida aparente es que el observador nunca «siente» estar en superposición. Eso llevó a inventar reglas de colapso.
+Si la función de onda es la realidad y no hay colapsos, entonces medir es una interacción física ordinaria. Un electrón en superposición se entrelaza con el aparato y con el observador. Todos quedan en superposición correlacionada. La salida aparente es que el observador nunca «siente» estar en superposición. Eso llevó a inventar reglas de colapso.
 
 <!-- paragraph -->
 La reinterpretación valiente es la de <span class="person">Hugh Everett</span> en <span class="num">1957</span>. Tras la interacción no hay un observador dividido en estados mentales contradictorios. Hay <span class="term">múltiples ramas</span> (copias separadas del universo) del estado universal. Cada rama tiene un observador que vio un resultado definido. No se añadieron mundos al formalismo. Ya estaban implícitos en la superposición desde el principio.
@@ -154,7 +154,7 @@ El principio de incertidumbre muestra por qué esa pregunta no es un detalle té
 ¿Por qué posición y momento no pueden definirse a la vez? El principio de incertidumbre no dice que «todo es incierto». Dice que <span class="term">posición</span> (dónde está un objeto) y <span class="term">momento</span> (masa por velocidad) no pueden definirse a la vez en un mismo estado. No es ignorancia medible. Son cantidades que no existen a la vez en la ontología cuántica.
 
 <!-- paragraph -->
-En la doble rendija, electrones individuales dibujan un patrón de interferencia como ondas. Impactan como partículas. Cuando detectamos por qué rendija pasan, la interferencia desaparece. El entrelazamiento con el detector destruye la superposición espacial. El experimento refuta la idea de que Ψ solo codifica ignorancia sobre una trayectoria clásica oculta.
+Por eso, en la doble rendija, electrones individuales dibujan un patrón de interferencia como ondas. Impactan como partículas. Cuando detectamos por qué rendija pasan, la interferencia desaparece. El entrelazamiento con el detector destruye la superposición espacial. El experimento refuta la idea de que Ψ solo codifica ignorancia sobre una trayectoria clásica oculta.
 
 <!-- paragraph -->
 El espín ofrece el modelo más simple. Es una propiedad interna con solo dos valores según el eje elegido. La función de onda es un vector en un espacio abstracto de resultados. La regla de Born equivale a Pitágoras: las amplitudes al cuadrado suman 1. Bohr llamó complementariedad al hecho de que descripciones igualmente válidas no pueden aplicarse a la vez.
@@ -212,7 +212,7 @@ Everett usó ese entrelazamiento universal para explicar por qué parece colapsa
 ¿Por qué un aparato macroscópico nunca parece estar en superposición? <span class="person">Hugh Everett</span> propuso en <span class="num">1957</span> que el universo entero tiene una sola función de onda, sin región clásica externa. La medición es entrelazamiento entre sistema, aparato y entorno. Everett aún no conocía la <span class="term">decoherencia</span> (la pérdida de interferencia entre ramas por entrelazamiento con el entorno). La introdujo <span class="person">Hans Dieter Zeh</span> en <span class="num">1970</span>.
 
 <!-- paragraph -->
-Un aparato macroscópico en superposición interactúa con aire, fotones y calor. El entorno se entrelaza de forma distinta con cada rama. Eso impide la <span class="term">interferencia</span> (la superposición visible de ondas que se refuerzan o cancelan) entre ellas. Así se definen mundos separados. Ramas decoherentes no pueden afectarse mutuamente. La medición no es mística ni requiere conciencia. Basta un grano de polvo entrelazado con el ambiente.
+Por eso, un aparato macroscópico en superposición interactúa con aire, fotones y calor. El entorno se entrelaza de forma distinta con cada rama. Eso impide la <span class="term">interferencia</span> (la superposición visible de ondas que se refuerzan o cancelan) entre ellas. Así se definen mundos separados. Ramas decoherentes no pueden afectarse mutuamente. La medición no es mística ni requiere conciencia. Basta un grano de polvo entrelazado con el ambiente.
 
 <!-- paragraph -->
 La historia humana del descubrimiento es dramática. <span class="person">John Wheeler</span> suavizó la tesis para no herir a Bohr. Everett dejó la academia y murió joven en <span class="num">1982</span>. <span class="person">Bryce DeWitt</span> popularizó la etiqueta «Many-Worlds» en los años 70. Carroll estima ramificaciones astronómicas por decaimientos radiactivos en el cuerpo. El peso de cada rama (amplitud al cuadrado) mantiene la economía total.
@@ -291,7 +291,7 @@ Carroll concede virtudes a cada vía. Apuesta por Everett porque solo asume Ψ y
 | 🧠 | QBism | Ψ como creencia del agente; sin realidad objetiva compartida. |
 
 <!-- key -->
-Las alternativas eliminan mundos añadiendo dinámica, variables o negando la ontología de Ψ, pero pagan complejidad y rigidez frente a la plug-and-play everettiana.
+Las alternativas eliminan mundos añadiendo dinámica, variables o negando la ontología de Ψ, pero pagan complejidad y rigidez frente a la formulación everettiana modular.
 
 <!-- bridge -->
 Con la apuesta por Everett hecha, Carroll pregunta cómo emerge el espacio clásico desde la función de onda.
@@ -370,7 +370,7 @@ Carroll invierte el enfoque habitual: en lugar de cuantizar la gravedad, extrae 
 ## title: Gravedad dentro de la mecánica cuántica
 
 <!-- paragraph lead -->
-¿Por qué cuantizar la relatividad general choca con infinitos y con la falta de un espacio de fondo fijo? Carroll invierte el problema. Parte de Ψ abstracta y extrae geometría. En <span class="num">1995</span>, el físico <span class="person">Ted Jacobson</span> mostró un resultado clave. Si la entropía de entrelazamiento de una región es proporcional al área de su frontera, se puede derivar la ecuación de Einstein.
+¿Por qué cuantizar la relatividad general choca con infinitos y con la falta de un espacio de fondo fijo? Por eso, Carroll invierte el problema: parte de Ψ abstracta y extrae geometría. En <span class="num">1995</span>, el físico <span class="person">Ted Jacobson</span> mostró un resultado clave. Si la entropía de entrelazamiento de una región es proporcional al área de su frontera, se puede derivar la ecuación de Einstein.
 
 <!-- paragraph -->
 La estrategia «It from Qubit» descompone el Hamiltoniano en grados de libertad que interactúan solo con vecinos. Eso define una red y, vía entropía de subregiones, una <span class="term">métrica</span> (la descripción matemática de distancias y curvatura del espacio). Trabajos recientes de Cao, Carroll y Michalakis especifican condiciones bajo las cuales la geometría obedece relatividad general a bajas energías.

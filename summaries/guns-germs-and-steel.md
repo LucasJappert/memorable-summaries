@@ -118,10 +118,10 @@ Polinesia ofrece un experimento natural más pequeño para ver cómo el ambiente
 En diciembre de <span class="num">1835</span>, unos 900 guerreros maoríes desembarcaron en las islas Chatham. Los moriori locales, descendientes de maoríes que habían colonizado ese archipiélago frío hacia el año 1000, vivían como cazadores-recolectores pacíficos. Los maoríes los masacraron y esclavizaron. Ambos grupos compartían ancestros polinesios recientes.
 
 <!-- paragraph -->
-La diferencia era ambiental. En Nueva Zelanda templada, los maoríes cultivaban, almacenaban surplus y sostenían guerras crónicas. En los Chathams subantárticos, los cultivos tropicales no crecían. Los moriori volvieron a cazar focas y renunciaron a la guerra. Como no había surplus, tampoco hubo artesanos permanentes ni ejércitos.
+Pero la diferencia era ambiental. En Nueva Zelanda templada, los maoríes cultivaban, almacenaban excedente y sostenían guerras crónicas. En los Chathams subantárticos, los cultivos tropicales no crecían. Los moriori volvieron a cazar focas y renunciaron a la guerra. Como no había excedente, tampoco hubo artesanos permanentes ni ejércitos.
 
 <!-- paragraph -->
-Polinesia entera repitió el experimento a mayor escala. Entre <span class="num">1200 a.C.</span> y <span class="num">1000 d.C.</span>, colonos con la misma cultura base poblaron islas que van desde atolones desiertos hasta Nueva Zelanda. El clima, el área, el aislamiento y los recursos marinos explicaron la diversidad: desde bandas igualitarias hasta proto-imperios con arquitectura monumental.
+Por eso Polinesia entera repitió el experimento a mayor escala. Entre <span class="num">1200 a.C.</span> y <span class="num">1000 d.C.</span>, colonos con la misma cultura base poblaron islas que van desde atolones desiertos hasta Nueva Zelanda. El clima, el área, el aislamiento y los recursos marinos explicaron la diversidad: desde bandas igualitarias hasta proto-imperios con arquitectura monumental.
 
 <!-- key -->
 Moriori y maorí demuestran que el ambiente puede invertir el destino de pueblos hermanos en menos de un milenio.
@@ -357,10 +357,10 @@ Una vez sedentarios con ganado, los europeos incubaron epidemias que completaron
 La agricultura sedentaria concentra humanos junto a su propio estiércol y roedores. Ciudades antiguas necesitaban inmigrantes rurales para reponer muertos por enfermedad hasta el siglo XX. El comercio romano propagó viruela y peste bubónica a lo largo de Eurasia.
 
 <!-- paragraph -->
-Muchas epidemias humanas provienen de patógenos animales. El sarampión es pariente del virus de la peste bovina. La viruela lo es de la viruela vacuna. Convivir con ganado durante miles de años permitió a los europeos cierta inmunidad colectiva. Los nativos americanos, australianos y polinesios no tuvieron ese ensayo evolutivo.
+Muchas epidemias humanas provienen de patógenos animales. El sarampión es pariente del virus de la peste bovina. La viruela lo es de la viruela vacuna. Por eso convivir con ganado durante miles de años permitió a los europeos cierta inmunidad colectiva. Los nativos americanos, australianos y polinesios no tuvieron ese ensayo evolutivo.
 
 <!-- paragraph -->
-La viruela llegó a México en <span class="num">1520</span>, antes que Cortés consolidara la conquista. Para 1618, la población mexica había caído de unos 20 millones a 1,6 millones. Pizarro encontró un imperio ya debilitado por enfermedad y guerra civil. Más indígenas murieron en cama que en batalla.
+Así, la viruela llegó a México en <span class="num">1520</span>, antes que Cortés consolidara la conquista. Para 1618, la población mexica había caído de unos 20 millones a 1,6 millones. Pizarro encontró un imperio ya debilitado por enfermedad y guerra civil. Más indígenas murieron en cama que en batalla.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -517,10 +517,10 @@ Tres de cuatro subfamilias austronesias viven solo en Taiwán, a 90 millas de la
 La arqueología y la lingüística coinciden: la expansión malayo-polinesia avanzó en oleadas con taro, coco y plátano tropical. Llegó a Polinesia, Nueva Zelanda y, hacia el año <span class="num">800 d.C.</span>, Madagascar. Reemplazó cazadores de Filipinas y Indonesia con mayor densidad, mejor navegación y enfermedades.
 
 <!-- paragraph -->
-No colonizaron Australia interior ni la alta Papúa: ecología distinta. Sí transformaron Nueva Guinea costera e Indonesia. Diamond ve en Austronesia el mismo patrón que en Europa en América: agricultores con paquete tecnológico desplazan cazadores.
+Sin embargo, no colonizaron Australia interior ni la alta Papúa: la ecología era distinta. Sí transformaron Nueva Guinea costera e Indonesia. Diamond ve en Austronesia el mismo patrón que en Europa en América: agricultores con paquete tecnológico desplazan cazadores.
 
 <!-- key -->
-La canoa de balancín fue el «speedboat» que convirtió a campesinos taiwaneses en colonos del océano más vasto.
+La canoa de balancín fue la lancha rápida que convirtió a campesinos taiwaneses en colonos del océano más vasto.
 
 <!-- bridge -->
 Mientras tanto, Eurasia y América siguieron trayectorias separadas hasta chocar en 1492.
@@ -564,10 +564,10 @@ La conquista americana no fue accidente del Siglo de Oro. Fue la culminación de
 África no siempre fue «negra» en el sentido demográfico actual. Pigmeos ocupaban bosques ecuatoriales. Pueblos khoisan, es decir, cazadores-recolectores del sur con lenguas de clicks, dominaban zonas áridas. Agricultores bantúes del oeste africano, con ñames y bosque húmedo, se expandieron desde hacia 3000 a.C.
 
 <!-- paragraph -->
-Hacia <span class="num">1000 a.C.</span> incorporaron mijo, sorgo, ganado e hierro. La metalurgia del hierro africano pudo ser independiente del Sahel. Avanzaron por África oriental y meridional más rápido que los europeos colonizaran el trópico, detenidos por malaria y tse-tse.
+Hacia <span class="num">1000 a.C.</span> incorporaron mijo, sorgo, ganado e hierro. La metalurgia del hierro africano pudo ser independiente del Sahel. Por eso avanzaron por África oriental y meridional más rápido que los europeos colonizaran el trópico, detenidos por malaria y tse-tse.
 
 <!-- paragraph -->
-Madagascar fue colonizada por austronesios hacia el año 800 d.C. Fue un cruce oceánico asombroso. Los bantúes absorbieron khoisan por desplazamiento, enfermedad y matrimonio. Los clicks en lenguas bantúes son fósiles lingüísticos. Europa solo dominó el sur mediterráneo africano con cultivos importados.
+Además, Madagascar fue colonizada por austronesios hacia el año 800 d.C. Fue un cruce oceánico asombroso. Los bantúes absorbieron khoisan por desplazamiento, enfermedad y matrimonio. Los clicks en lenguas bantúes son fósiles lingüísticos. Europa solo dominó el sur mediterráneo africano con cultivos importados.
 
 <!-- key -->
 África negra es resultado de expansiones agrícolas bantú y austronesia, no de un destino racial fijo del continente.
@@ -598,7 +598,7 @@ Madagascar fue colonizada por austronesios hacia el año 800 d.C. Fue un cruce o
 # cronologia
 
 ## num: ◈
-## title: Cronología de Guns, Germs, and Steel
+## title: Cronología
 
 <!-- timeline -->
 | year | text |

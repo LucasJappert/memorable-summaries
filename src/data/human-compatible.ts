@@ -21,7 +21,7 @@ export const humanCompatible: BookSummary = {
   {
     "id": "prefacio",
     "num": "00",
-    "label": "Prefacio"
+    "label": "¿Por qué este libro y por qué ahora?"
   },
   {
     "id": "cap1",
@@ -81,7 +81,7 @@ export const humanCompatible: BookSummary = {
   {
     "id": "cronologia",
     "num": "◈",
-    "label": "Cronología"
+    "label": "Cronología de la IA y del libro"
   },
   {
     "id": "figuras",
@@ -367,7 +367,7 @@ export const humanCompatible: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Russell clasifica objeciones en negación, desvío y soluciones instantáneas. Ejemplos lamentables comparan superinteligencia con calculadoras aritméticas. Otros la comparan con fuerza de caballos. Esas analogías fallan porque la inteligencia habilita control del mundo.",
+          html: "Russell clasifica objeciones en negación, desvío y soluciones instantáneas. Ejemplos lamentables comparan superinteligencia con calculadoras aritméticas. Otros la comparan con fuerza de caballos. Esas analogías fallan porque la inteligencia habilita control del mundo, no solo cálculo aislado.",
         },
         {
           type: 'paragraph',
@@ -407,7 +407,7 @@ export const humanCompatible: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Propone tres principios para investigadores, no leyes literales del robot. Primero, la única meta es maximizar <span class=\"term\">preferencias humanas</span>, es decir, lo que cada persona valoraría entre futuros posibles. Segundo, la máquina es inicialmente incierta sobre cuáles son. Tercero, aprende del <span class=\"term\">comportamiento humano</span>, es decir, de las elecciones que revelan esas preferencias.",
+          html: "Por eso propone tres principios para investigadores, no leyes literales del robot. Primero, la única meta es maximizar <span class=\"term\">preferencias humanas</span>, es decir, lo que cada persona valoraría entre futuros posibles. Segundo, la máquina es inicialmente incierta sobre cuáles son. Tercero, aprende del <span class=\"term\">comportamiento humano</span>, es decir, de las elecciones que revelan esas preferencias.",
         },
         {
           type: 'paragraph',
@@ -487,7 +487,7 @@ export const humanCompatible: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La psicología complica más. <span class=\"person\">Daniel Kahneman</span> distingue yo experiencial versus yo recordador. Usa la regla pico-fin. Las preferencias evolucionan históricamente. Fijarlas sería imitar Roma del siglo II. Hay que separar actualización de cambio de preferencias. Las máquinas siempre alteran experiencias, como algoritmos de redes sociales.",
+          html: "La psicología complica más. <span class=\"person\">Daniel Kahneman</span> distingue yo experiencial versus yo recordador. Usa la regla pico-fin. Las preferencias evolucionan históricamente. Fijarlas sería imitar Roma del siglo II. Por eso hay que separar actualización de cambio de preferencias. Las máquinas siempre alteran experiencias, como algoritmos de redes sociales.",
         },
         {
           type: 'paragraph',
@@ -669,8 +669,8 @@ export const humanCompatible: BookSummary = {
   closing: {
     title: "La idea central",
     lines: [
-  "La IA dominó el siglo XX bajo el modelo estándar: máquinas inteligentes optimizan un objetivo fijo.",
-  "Russell propone invertir la definición: máquinas beneficiosas persiguen nuestras preferencias, inciertas al inicio y aprendidas del comportamiento humano.",
+  "En suma, la IA dominó el siglo XX bajo el modelo estándar: máquinas inteligentes optimizan un objetivo fijo.",
+  "Por eso Russell propone invertir la definición: máquinas beneficiosas persiguen nuestras preferencias, inciertas al inicio y aprendidas del comportamiento humano.",
   "Los juegos de asistencia muestran que la incertidumbre sobre preferencias genera deferencia, preguntas y apagado voluntario.",
   "Quedan abusos deliberados, armas autónomas, plasticidad moral y el riesgo de atrofiarnos delegando todo.",
   "La tarea no es detener la investigación sino reconstruir sus cimientos."

@@ -47,22 +47,22 @@
   "entries": [
     {
       "sectionId": "prefacio",
-      "sectionTitle": "Agradecimientos y propósito",
-      "text": "¿Puede un libro de cosmología ser también una autobiografía intelectual? Tegmark agradece a familia, colegas y revisores. Entre ellos figuran el físico teórico Edward Witten . También los cosmólogos David Deutsch y Andrei Linde."
+      "sectionTitle": "Prefacio",
+      "text": "¿Puede un libro de cosmología ser también una autobiografía intelectual? Tegmark agradece a familia, colegas y revisores. Entre ellos figuran el físico teórico Edward Witten , el cosmólogo David Deutsch y Andrei Linde."
     },
     {
       "sectionId": "prefacio",
-      "sectionTitle": "Agradecimientos y propósito",
+      "sectionTitle": "Prefacio",
       "text": "Su esposa Meia es su musa principal. El libro no pretende ser un texto de consenso comunitario. Es la búsqueda personal del autor sobre la naturaleza última de la realidad."
     },
     {
       "sectionId": "prefacio",
-      "sectionTitle": "Agradecimientos y propósito",
+      "sectionTitle": "Prefacio",
       "text": "Esa búsqueda va desde la cosmología hasta la mecánica cuántica. Su corazón es la hipótesis de que el universo físico podría ser un objeto matemático, no solo describible con ecuaciones."
     },
     {
       "sectionId": "prefacio",
-      "sectionTitle": "Agradecimientos y propósito",
+      "sectionTitle": "Prefacio",
       "text": "Tegmark invita a un viaje detective: la realidad externa podría ser puramente matemática, no solo describible con ecuaciones."
     },
     {
@@ -78,7 +78,7 @@
     {
       "sectionId": "cap1",
       "sectionTitle": "¿Qué es la realidad?",
-      "text": "La física revela que la realidad es mucho más extraña de lo que parece. El acero es casi vacío. Las partículas pueden estar en varios lugares a la vez. El tiempo se dilata a alta velocidad."
+      "text": "Pero la física revela que la realidad es mucho más extraña de lo que parece. El acero es casi vacío. Las partículas pueden estar en varios lugares a la vez. El tiempo se dilata a alta velocidad."
     },
     {
       "sectionId": "cap1",
@@ -233,7 +233,7 @@
     {
       "sectionId": "cap5",
       "sectionTitle": "Nuestros orígenes cósmicos",
-      "text": "Las fluctuaciones cuánticas del inflatón se estiran hasta tamaños galácticos (Q ≈ 0,002% , espectro casi scale-invariant con n ≈ 0,96 )."
+      "text": "Además, las fluctuaciones cuánticas del inflatón se estiran hasta tamaños galácticos. Su amplitud es Q ≈ 0,002% , con un espectro casi invariante de escala (n ≈ 0,96 )."
     },
     {
       "sectionId": "cap5",
@@ -303,7 +303,7 @@
     {
       "sectionId": "cap7",
       "sectionTitle": "Legos cósmicos",
-      "text": "Colisiones pueden crear partículas más pesadas vía E=mc² conservando energía, momento y cargas. La teoría de cuerdas sugiere vibraciones fundamentales a energías ~ 10¹³ veces mayores que las actuales."
+      "text": "Por eso las colisiones pueden crear partículas más pesadas vía E=mc² conservando energía, momento y cargas. La teoría de cuerdas sugiere vibraciones fundamentales a energías ~ 10¹³ veces mayores que las actuales."
     },
     {
       "sectionId": "cap7",
@@ -333,7 +333,7 @@
     {
       "sectionId": "cap8",
       "sectionTitle": "El multiverso de nivel III",
-      "text": "El azar cuántico sería ilusión por ignorancia de en qué copia estás. Tu cerebro decoherencia constantemente, y la «conciencia cuántica» queda desmentida. El multiverso cuántico (nivel III) se unifica con el espacial (nivel I): la función de onda describe copias infinitas en el espacio."
+      "text": "Entonces el azar cuántico sería ilusión por ignorancia de en qué copia estás. Tu cerebro decoherencia constantemente, y la «conciencia cuántica» queda desmentida. El multiverso cuántico (nivel III) se unifica con el espacial (nivel I): la función de onda describe copias infinitas en el espacio."
     },
     {
       "sectionId": "cap8",
@@ -343,7 +343,7 @@
     {
       "sectionId": "cap8",
       "sectionTitle": "El multiverso de nivel III",
-      "text": "«When you come to a fork in the road, take it.»"
+      "text": "«Cuando llegues a una bifurcación, tomala.» [When you come to a fork in the road, take it.]"
     },
     {
       "sectionId": "cap8",
@@ -393,7 +393,7 @@
     {
       "sectionId": "cap10",
       "sectionTitle": "Realidad física y realidad matemática",
-      "text": "Si aceptas realidad externa independiente de humanos, debes aceptar que la realidad física es estructura matemática. Nada más tiene descripción sin equipaje. El árbol de teorías (relatividad → mecánica clásica → química → biología) muestra derivaciones parciales, y la ToE estaría en la raíz."
+      "text": "Por tanto, si aceptas realidad externa independiente de humanos, debes aceptar que la realidad física es estructura matemática. Nada más tiene descripción sin equipaje. El árbol de teorías (relatividad → mecánica clásica → química → biología) muestra derivaciones parciales, y la ToE estaría en la raíz."
     },
     {
       "sectionId": "cap10",
@@ -413,7 +413,7 @@
     {
       "sectionId": "cap11",
       "sectionTitle": "¿Es el tiempo una ilusión?",
-      "text": "Tegmark compara la historia cósmica con una película grabada en un DVD completo. La estructura matemática sería ese disco entero. El flujo temporal, el cambio, la creación y la destrucción serían ilusiones. Tú eres una subestructura autoconsciente. En relatividad general, un «trenzado» complejo en el espaciotiempo. En cuántica, un patrón que ramifica."
+      "text": "Entonces Tegmark compara la historia cósmica con una película grabada en un DVD completo. La estructura matemática sería ese disco entero. El flujo temporal, el cambio, la creación y la destrucción serían ilusiones. Tú eres una subestructura autoconsciente. En relatividad general, un «trenzado» complejo en el espaciotiempo. En cuántica, un patrón que ramifica."
     },
     {
       "sectionId": "cap11",
@@ -423,7 +423,7 @@
     {
       "sectionId": "cap11",
       "sectionTitle": "¿Es el tiempo una ilusión?",
-      "text": "«The distinction between past, present, and future is only a stubbornly persistent illusion.»"
+      "text": "«La distinción entre pasado, presente y futuro es solo una ilusión persistente y obstinada.» [The distinction between past, present, and future is only a stubbornly persistent illusion.]"
     },
     {
       "sectionId": "cap11",
@@ -438,12 +438,12 @@
     {
       "sectionId": "cap12",
       "sectionTitle": "El multiverso de nivel IV",
-      "text": "¿Existen otros universos con matemáticas distintas a la nuestra? La MUH implica que existencia matemática = existencia física: todo lo que existe matemáticamente existe físicamente. Esto forma el multiverso de nivel IV (otras estructuras matemáticas distintas a la nuestra)."
+      "text": "¿Existen otros universos con matemáticas distintas a la nuestra? Por eso la MUH implica que existencia matemática = existencia física: todo lo que existe matemáticamente existe físicamente. Esto forma el multiverso de nivel IV (otras estructuras matemáticas distintas a la nuestra)."
     },
     {
       "sectionId": "cap12",
       "sectionTitle": "El multiverso de nivel IV",
-      "text": "El multiverso forma una jerarquía de cuatro niveles. El nivel I agrupa regiones lejanas del espacio. El nivel II incluye regiones post-inflacionarias. El nivel III contiene ramas cuánticas en espacio de Hilbert. El nivel IV abarca otras estructuras matemáticas. Explorar el nivel IV requiere computadoras e ideas, no cohetes."
+      "text": "Así, el multiverso forma una jerarquía de cuatro niveles. El nivel I agrupa regiones lejanas del espacio. El nivel II incluye regiones post-inflacionarias. El nivel III contiene ramas cuánticas en espacio de Hilbert. El nivel IV abarca otras estructuras matemáticas. Explorar el nivel IV requiere computadoras e ideas, no cohetes."
     },
     {
       "sectionId": "cap12",
@@ -488,7 +488,7 @@
     {
       "sectionId": "cap13",
       "sectionTitle": "Vida, nuestro universo y todo lo demás",
-      "text": "El futuro del universo puede seguir varios escenarios. Big Chill (expansión acelerada). Big Crunch. Big Rip. Big Snap o burbujas de muerte. No hay evidencia de vida tan avanzada como la humana en todo el universo observable. El potencial futuro de la vida supera con creces lo visto hasta ahora."
+      "text": "Pero el futuro del universo puede seguir varios escenarios: gran congelamiento (expansión acelerada), gran colapso, gran desgarro, gran quiebre o burbujas de muerte. No hay evidencia de vida tan avanzada como la humana en todo el universo observable. El potencial futuro de la vida supera con creces lo visto hasta ahora."
     },
     {
       "sectionId": "cap13",
@@ -508,7 +508,7 @@
     {
       "sectionId": "cierre",
       "sectionTitle": "Cierre",
-      "text": "El multiverso tiene cuatro niveles (espacial, inflacionario, cuántico y matemático), y desde la vista de pájaro el tiempo, el cambio y el azar cuántico serían ilusiones."
+      "text": "Por eso el multiverso tiene cuatro niveles (espacial, inflacionario, cuántico y matemático), y desde la vista de pájaro el tiempo, el cambio y el azar cuántico serían ilusiones."
     },
     {
       "sectionId": "cierre",

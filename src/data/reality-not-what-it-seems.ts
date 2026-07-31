@@ -36,7 +36,7 @@ export const realityNotWhatItSeems: BookSummary = {
   {
     "id": "cap4",
     "num": "04",
-    "label": "Quanta"
+    "label": "Cuantos"
   },
   {
     "id": "cap5",
@@ -46,7 +46,7 @@ export const realityNotWhatItSeems: BookSummary = {
   {
     "id": "cap6",
     "num": "06",
-    "label": "Quanta de espacio"
+    "label": "Cuantos de espacio"
   },
   {
     "id": "cap7",
@@ -236,7 +236,7 @@ export const realityNotWhatItSeems: BookSummary = {
     {
       id: "cap4",
       num: "04",
-      title: "Quanta",
+      title: "Cuantos",
       blocks: [
         {
           type: 'paragraph',
@@ -253,15 +253,15 @@ export const realityNotWhatItSeems: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Dirac unificó partículas y campos, de modo que los fotones son cuantos del electromagnetismo y los electrones, cuantos de sus campos. El <span class=\"term\">modelo estándar</span> (~15 campos, Higgs confirmado en 2013) describe casi todo salvo gravedad. La mecánica cuántica enseña tres lecciones: granularidad (h), indeterminación y relationalidad. Feynman sumó sobre todas las trayectorias posibles.",
+          html: "Dirac unificó partículas y campos, de modo que los fotones son cuantos del electromagnetismo y los electrones, cuantos de sus campos. El <span class=\"term\">modelo estándar</span> (~15 campos, Higgs confirmado en 2013) describe casi todo salvo gravedad. La mecánica cuántica enseña tres lecciones: granularidad (h), indeterminación y <span class=\"term\">relacionalidad</span> (las propiedades existen solo en la interacción). Feynman sumó sobre todas las trayectorias posibles.",
         },
         {
           type: 'paragraph',
-          html: "Einstein aceptó la coherencia pero rechazó la relationalidad, porque quería realidad objetiva independiente. Bohr debatió con él la «caja de luz» hasta el final. Feynman confesó que «Nadie entiende realmente la mecánica cuántica.» Rovelli defiende la interpretación relacional (van Fraassen, Bitbol, Dorato).",
+          html: "Einstein aceptó la coherencia pero rechazó la relacionalidad, porque quería realidad objetiva independiente. Bohr debatió con él la «caja de luz» hasta el final. Feynman confesó que «Nadie entiende realmente la mecánica cuántica.» Rovelli defiende la interpretación relacional (van Fraassen, Bitbol, Dorato).",
         },
         {
           type: 'key',
-          html: "La mecánica cuántica revela granularidad, indeterminación y relationalidad: las «cosas» no tienen propiedades definidas sino que existen en interacciones.",
+          html: "La mecánica cuántica revela granularidad, indeterminación y relacionalidad: las «cosas» no tienen propiedades definidas sino que existen en interacciones.",
         },
         {
           type: 'paragraph',
@@ -281,7 +281,7 @@ export const realityNotWhatItSeems: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Por la mañana el estudiante aprende espacio-tiempo curvo y continuo. Por la tarde, espacio plano con quanta discretos. Ambas teorías funcionan, pero no pueden ser exactas a la vez en su forma actual. En agujeros negros y en el Big Bang necesitamos una teoría que una ambas.",
+          html: "Por la mañana el estudiante aprende espacio-tiempo curvo y continuo. Por la tarde, espacio plano con cuantos discretos. Ambas teorías funcionan, pero no pueden ser exactas a la vez en su forma actual. En agujeros negros y en el Big Bang necesitamos una teoría que una ambas.",
         },
         {
           type: 'paragraph',
@@ -297,14 +297,14 @@ export const realityNotWhatItSeems: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Si el espacio es un campo cuántico, sus quanta deben tener estructura concreta: redes de espín y átomos de espacio.",
+          html: "Si el espacio es un campo cuántico, sus cuantos deben tener estructura concreta: redes de espín y átomos de espacio.",
         },
       ],
     },
     {
       id: "cap6",
       num: "06",
-      title: "Quanta de espacio",
+      title: "Cuantos de espacio",
       blocks: [
         {
           type: 'paragraph',
@@ -313,19 +313,19 @@ export const realityNotWhatItSeems: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Las soluciones de lazos de la ecuación Wheeler-DeWitt son líneas cerradas del campo gravitatorio cuántico: Faraday cuantizado. Los nodos tienen volumen. Los enlaces tienen área. Los espectros de volumen y área son discretos (mediados 1990): A = 8π L<sub>P</sub>² √(j(j+1)).",
+          html: "Las soluciones de lazos de la ecuación Wheeler-DeWitt son líneas cerradas del campo gravitatorio cuántico: Faraday cuantizado. Los nodos tienen volumen. Los enlaces tienen área. Por eso los espectros de volumen y área son discretos (mediados 1990): A = 8π L<sub>P</sub>² √(j(j+1)).",
         },
         {
           type: 'paragraph',
-          html: "Una <span class=\"term\">red de espín</span> (spin network: grafo con volumen v<sub>n</sub> en nodos y spin j en enlaces) representa un estado cuántico del espacio. Medir el volumen de una habitación equivale a contar granos (~10² dígitos). En una página hay ~10⁷⁰ quanta de área.",
+          html: "Una <span class=\"term\">red de espín</span> (spin network: grafo con volumen v<sub>n</sub> en nodos y spin j en enlaces) representa un estado cuántico del espacio. Medir el volumen de una habitación equivale a contar granos (~10² dígitos). En una página hay ~10⁷⁰ cuantos de área.",
         },
         {
           type: 'paragraph',
-          html: "Los fotones existen <em>en</em> el espacio, mientras que los quanta de gravedad <em>constituyen</em> el espacio. Solo saben con qué otros granos son adyacentes. La curvatura se mide transportando flechas en lazos cerrados. El espacio es una nube probabilística de redes, no una red fija.",
+          html: "Los fotones existen <em>en</em> el espacio, mientras que los cuantos de gravedad <em>constituyen</em> el espacio. Solo saben con qué otros granos son adyacentes. La curvatura se mide transportando flechas en lazos cerrados. El espacio es una nube probabilística de redes, no una red fija.",
         },
         {
           type: 'key',
-          html: "En LQG el espacio físico es una red granular de quanta de volumen y área: no está en el espacio, es la red de adyacencia entre granos de gravedad.",
+          html: "En la gravedad de bucles el espacio físico es una red granular de cuantos de volumen y área. No está en el espacio: es la red de adyacencia entre granos de gravedad.",
         },
         {
           type: 'paragraph',
@@ -361,7 +361,7 @@ export const realityNotWhatItSeems: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Con marco teórico en mano, Part Four explora consecuencias cosmológicas: ¿qué hubo antes del Big Bang?",
+          html: "Con marco teórico en mano, la cuarta parte explora consecuencias cosmológicas: ¿qué hubo antes del Big Bang?",
         },
       ],
     },
@@ -381,11 +381,11 @@ export const realityNotWhatItSeems: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Hoy el modelo cosmológico estándar está confirmado (Planck, CMB de Penzias y Wilson en 1964). A escala de Planck, las ecuaciones de Einstein dejan de valer. Como un electrón que no cae al núcleo por repulsión cuántica, un universo en contracción puede rebotar. Ese rebote es el <span class=\"term\">Big Bounce</span> (rebote cuántico del cosmos contraído).",
+          html: "Hoy el modelo cosmológico estándar está confirmado (Planck, fondo cósmico de microondas de Penzias y Wilson en 1964). A escala de Planck, las ecuaciones de Einstein dejan de valer. Como un electrón que no cae al núcleo por repulsión cuántica, un universo en contracción puede rebotar. Ese rebote es el <span class=\"term\">Big Bounce</span> (rebote cuántico del cosmos contraído).",
         },
         {
           type: 'paragraph',
-          html: "En el rebote, espacio-tiempo se disuelve en nube probabilística (cálculos con spinfoams, <span class=\"person\">Francesca Vidotto</span>). «Universo» es ambiguo: todo lo que hay versus nuestro continuum observable. Puede haber otro régimen pre-Big-Bang, no un «antes» clásico.",
+          html: "En el rebote, entonces, el espacio-tiempo se disuelve en nube probabilística (cálculos con spinfoams, <span class=\"person\">Francesca Vidotto</span>). «Universo» es ambiguo: todo lo que hay versus nuestro continuum observable. Puede haber otro régimen pre-Big-Bang, no un «antes» clásico.",
         },
         {
           type: 'key',
@@ -409,7 +409,7 @@ export const realityNotWhatItSeems: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La ciencia avanza con predicciones verificables: Lemaître tenía razón y Einstein reconoció su error. También avanza sin datos nuevos, cuando Copérnico, Newton y Einstein sintetizaron teorías previas. Los «datos experimentales» de LQG son GR más QM.",
+          html: "La ciencia avanza con predicciones verificables: Lemaître tenía razón y Einstein reconoció su error. También avanza sin datos nuevos, cuando Copérnico, Newton y Einstein sintetizaron teorías previas. Los «datos experimentales» de la gravedad de bucles son relatividad general más mecánica cuántica.",
         },
         {
           type: 'paragraph',
@@ -417,11 +417,11 @@ export const realityNotWhatItSeems: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Ashtekar</span>, Agullo y Nelson (2013) calcularon que el bounce podría modificar fluctuaciones CMB a gran angular, aunque el resultado sigue inconcluso. Futuro LISA podría detectar fondo gravitacional primordial. Hay que distinguir pistas de evidencia fuerte.",
+          html: "<span class=\"person\">Ashtekar</span>, Agullo y Nelson (2013) calcularon que el rebote podría modificar fluctuaciones del fondo cósmico de microondas a gran angular, aunque el resultado sigue inconcluso. Futuro LISA podría detectar fondo gravitacional primordial. Hay que distinguir pistas de evidencia fuerte.",
         },
         {
           type: 'key',
-          html: "La gravedad cuántica aún no pasó exámenes decisivos, pero Higgs, Planck, LIGO y la ausencia de supersimetría en el LHC favorecen combinar GR, QM y modelo estándar.",
+          html: "La gravedad cuántica aún no pasó exámenes decisivos, pero Higgs, Planck, LIGO y la ausencia de supersimetría en el LHC favorecen combinar relatividad, cuántica y modelo estándar.",
         },
         {
           type: 'paragraph',
@@ -445,15 +445,15 @@ export const realityNotWhatItSeems: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "LQG explica el calor: los quanta de área en la superficie vibran. <span class=\"person\">Eugenio Bianchi</span> derivó la fórmula de Hawking desde las ecuaciones de bucles. El interior clásico tiene singularidad infinita. Con cuántica, hay rebote por presión de Planck.",
+          html: "La gravedad de bucles explica el calor: los cuantos de área en la superficie vibran. <span class=\"person\">Eugenio Bianchi</span> derivó la fórmula de Hawking desde las ecuaciones de bucles. El interior clásico tiene singularidad infinita. Con cuántica, hay rebote por presión de Planck.",
         },
         {
           type: 'paragraph',
-          html: "Visto desde fuera, el bounce puede tardar mil millones de años: el agujero negro es un atajo al futuro lejano y podría explotar. Los FRB (Fast Radio Bursts) son señal especulativa. Un agujero galáctico tiene ~<span class=\"num\">10⁶</span> masas solares.",
+          html: "Visto desde fuera, el rebote puede tardar mil millones de años: el agujero negro es un atajo al futuro lejano y podría explotar. Las ráfagas de radio rápidas (FRB, Fast Radio Bursts) son señal especulativa. Un agujero galáctico tiene ~<span class=\"num\">10⁶</span> masas solares.",
         },
         {
           type: 'key',
-          html: "Los agujeros negros confirman GR a escala macroscópica, pero su calor y su interior exigen cuántica: LQG reemplaza la singularidad por un rebote posiblemente observable.",
+          html: "Los agujeros negros confirman la relatividad general a escala macroscópica, pero su calor y su interior exigen cuántica: la gravedad de bucles reemplaza la singularidad por un rebote posiblemente observable.",
         },
         {
           type: 'paragraph',
@@ -473,15 +473,15 @@ export const realityNotWhatItSeems: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "GR sin QM predice singularidades. QFT sin gravedad produce divergencias al sumar sobre puntos infinitos del continuo. La granularidad cura ambos. La teoría fija tres límites naturales. c marca la velocidad máxima (SR). ℏ fija la información mínima (QM). L<sub>P</sub> marca la longitud mínima (QG).",
+          html: "Sin mecánica cuántica, la relatividad general predice singularidades. Sin gravedad, la teoría cuántica de campos produce divergencias al sumar sobre puntos infinitos del continuo. La granularidad cura ambos. La teoría fija tres límites naturales. c marca la velocidad máxima (relatividad especial). ℏ fija la información mínima (cuántica). L<sub>P</sub> marca la longitud mínima (gravedad cuántica).",
         },
         {
           type: 'paragraph',
-          html: "El cosmos medido es > ~<span class=\"num\">100 mil millones</span> de años luz, pero finito (3-esfera). Entre L<sub>P</sub> y la escala cosmológica hay ~<span class=\"num\">60</span> órdenes de magnitud de complejidad. Arquimedes, en el <em>Psammites</em>, contó granos de arena del universo para mostrar que son finitos, no infinitos.",
+          html: "El cosmos medido es > ~<span class=\"num\">100 mil millones</span> de años luz, pero finito (3-esfera). Entre L<sub>P</sub> y la escala cosmológica hay ~<span class=\"num\">60</span> órdenes de magnitud de complejidad. Arquímedes, en el <em>Psammites</em>, contó granos de arena del universo para mostrar que son finitos, no infinitos.",
         },
         {
           type: 'paragraph',
-          html: "Según el Eclesiástico, «¿Quién puede numerar la arena del mar?» Arquimedes respondió con rebeldía racional. Lo infinito invocado como misterio opaco no es necesario. «Lo único verdaderamente infinito es nuestra ignorancia.»",
+          html: "Según el Eclesiástico, «¿Quién puede numerar la arena del mar?» Arquímedes respondió con rebeldía racional. Lo infinito invocado como misterio opaco no es necesario. «Lo único verdaderamente infinito es nuestra ignorancia.»",
         },
         {
           type: 'big-numbers',
@@ -502,7 +502,7 @@ export const realityNotWhatItSeems: BookSummary = {
         },
         {
           type: 'key',
-          html: "La gravedad cuántica pone límites fundamentales a lo infinito: singularidades de Einstein y divergencias de QFT desaparecen porque el espacio no es infinitamente divisible.",
+          html: "La gravedad cuántica pone límites fundamentales a lo infinito: singularidades y divergencias desaparecen porque el espacio no es infinitamente divisible.",
         },
         {
           type: 'paragraph',
@@ -526,15 +526,15 @@ export const realityNotWhatItSeems: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Ludwig Boltzmann</span> formuló que la entropía S = k log W mide información faltante. No crece gratis, porque el té no se recalienta solo. Se suicidó en Duino, y su tumba lleva la fórmula. Wheeler dijo «It from bit». Bekenstein ligó entropía de agujeros negros al área. Al evaporar, queda el problema de la información perdida.",
+          html: "<span class=\"person\">Ludwig Boltzmann</span> formuló que la entropía S = k log W mide información faltante. No crece gratis, porque el té no se recalienta solo. Se suicidó en Duino, y su tumba lleva la fórmula. Wheeler dijo «It from bit» («todo nace del bit»). Bekenstein ligó entropía de agujeros negros al área. Al evaporar, queda el problema de la información perdida.",
         },
         {
           type: 'paragraph',
-          html: "El <span class=\"term\">tiempo térmico</span> propone que la flecha del tiempo surge de promedios sobre muchos grados de libertad. «Time is our ignorance.» La realidad es red de correlaciones, no objetos discretos. Demócrito decía que «El hombre es lo que todos conocemos»: una red social de interacciones (Luria).",
+          html: "El <span class=\"term\">tiempo térmico</span> propone que la flecha del tiempo surge de promedios sobre muchos grados de libertad. «El tiempo es nuestra ignorancia.» La realidad es red de correlaciones, no objetos discretos. Demócrito decía que «El hombre es lo que todos conocemos»: una red social de interacciones (Luria).",
         },
         {
           type: 'key',
-          html: "Comprender el mundo exige tratar la información como ingrediente ontológico junto con GR y QM: entropía, finitud cuántica y tiempo macroscópico emergen del manejo incompleto de información microscópica.",
+          html: "Comprender el mundo exige tratar la información como ingrediente ontológico junto con relatividad y cuántica: entropía, finitud y tiempo macroscópico emergen de información incompleta.",
         },
       ],
     },
@@ -570,7 +570,7 @@ export const realityNotWhatItSeems: BookSummary = {
   keyConcepts: [
   {
     "title": "Grano / granularidad",
-    "description": "Desde átomos democriteos hasta quanta de espacio; límite a la divisibilidad (h, L<sub>P</sub>)."
+    "description": "Desde átomos democriteos hasta cuantos de espacio; límite a la divisibilidad (h, L<sub>P</sub>)."
   },
   {
     "title": "Campo",
@@ -582,7 +582,7 @@ export const realityNotWhatItSeems: BookSummary = {
   },
   {
     "title": "Evento / interacción",
-    "description": "Unidad ontológica en QM y LQG; propiedades existen al interactuar."
+    "description": "Unidad ontológica en cuántica y gravedad de bucles; propiedades existen al interactuar."
   },
   {
     "title": "Red de espín / spinfoam",
@@ -590,7 +590,7 @@ export const realityNotWhatItSeems: BookSummary = {
   },
   {
     "title": "Longitud de Planck",
-    "description": "Escala ~10⁻³³ cm donde GR+QM implican espacio-tiempo cuántico."
+    "description": "Escala ~10⁻³³ cm donde relatividad y cuántica implican espacio-tiempo cuántico."
   },
   {
     "title": "Información",
@@ -606,7 +606,7 @@ export const realityNotWhatItSeems: BookSummary = {
   },
   {
     "title": "Interpretación relacional",
-    "description": "QM describe cómo sistemas se manifiestan unos a otros, no estados absolutos."
+    "description": "La cuántica describe cómo sistemas se manifiestan unos a otros, no estados absolutos."
   }
 ],
   chronology: [
@@ -648,7 +648,7 @@ export const realityNotWhatItSeems: BookSummary = {
   },
   {
     "year": "1964",
-    "text": "CMB (Penzias & Wilson); 1966: ecuación Wheeler-DeWitt"
+    "text": "Fondo cósmico (Penzias & Wilson); 1966: ecuación Wheeler-DeWitt"
   },
   {
     "year": "2012",
@@ -694,7 +694,7 @@ export const realityNotWhatItSeems: BookSummary = {
   },
   {
     "name": "Planck / Bohr / Heisenberg / Dirac",
-    "role": "Mecánica cuántica: quanta, saltos, matrices, probabilidad"
+    "role": "Mecánica cuántica: cuantos, saltos, matrices, probabilidad"
   },
   {
     "name": "Matvei Bronštejn",
@@ -710,7 +710,7 @@ export const realityNotWhatItSeems: BookSummary = {
   },
   {
     "name": "Stephen Hawking / Eugenio Bianchi",
-    "role": "Radiación de agujeros negros; derivación desde LQG"
+    "role": "Radiación de agujeros negros; derivación desde la gravedad de bucles"
   },
   {
     "name": "Claude Shannon / Ludwig Boltzmann",
@@ -726,7 +726,7 @@ export const realityNotWhatItSeems: BookSummary = {
     lines: [
   "La realidad no es el continuo espacio-tiempo de la intuición clásica sino una red de eventos granulares generada por campos cuánticos.",
   "Espacio, tiempo, materia e información emergen de interacciones probabilísticas, no de un escenario fijo.",
-  "Mileto, Demócrito, Einstein y Bohr convergen: lo divisible tiene límites y lo conocido siempre deja margen al misterio.",
+  "Por eso Mileto, Demócrito, Einstein y Bohr convergen: lo divisible tiene límites y lo conocido siempre deja margen al misterio.",
   "La ciencia no promete certezas eternas; promete las mejores respuestas abiertas a corrección.",
   "El panorama es extraño, hermoso y aún incompleto: la aventura continúa más allá del horizonte."
 ],

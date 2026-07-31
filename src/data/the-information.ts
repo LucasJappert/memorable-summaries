@@ -111,7 +111,7 @@ export const theInformation: BookSummary = {
   {
     "id": "cronologia",
     "num": "◈",
-    "label": "Cronología"
+    "label": "Cronología de hitos informacionales"
   },
   {
     "id": "figuras",
@@ -164,7 +164,7 @@ export const theInformation: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Al perder consonantes y vocales, cada golpe ambiguo exige <span class=\"term\">redundancia</span>, es decir, frases fijas que despejan el sentido («la luna mira a la tierra»). Por eso los mensajes drum son unas ocho veces más largos que el habla. <span class=\"person\">Ralph Hartley</span> en Bell Labs formuló H = n log s: cuantos menos símbolos, más hay que enviar.",
+          html: "Al perder consonantes y vocales, cada golpe ambiguo exige <span class=\"term\">redundancia</span>, es decir, frases fijas que despejan el sentido («la luna mira a la tierra»). Por eso los mensajes de tambor son unas ocho veces más largos que el habla. <span class=\"person\">Ralph Hartley</span> en Bell Labs formuló H = n log s: cuantos menos símbolos, más hay que enviar.",
         },
         {
           type: 'concept-grid',
@@ -208,7 +208,7 @@ export const theInformation: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Walter J. Ong</span> invitaba a imaginar una cultura sin «buscar» nada. En la <span class=\"term\">oralidad primaria</span>, las palabras no tienen presencia visual. Escribir las fijó en arcilla, papiro o papel. De ahí surgieron historia, ley y abstracción. <span class=\"person\">Platón</span>, por boca de Sócrates, temió que la escritura debilitara la memoria viva.",
+          html: "<span class=\"person\">Walter J. Ong</span> invitaba a imaginar una cultura sin «buscar» nada. En la <span class=\"term\">oralidad primaria</span>, las palabras no tienen presencia visual. Escribir las fijó en arcilla, papiro o papel. De ahí que surgieran historia, ley y abstracción. <span class=\"person\">Platón</span>, por boca de Sócrates, temió que la escritura debilitara la memoria viva.",
         },
         {
           type: 'paragraph',
@@ -240,7 +240,7 @@ export const theInformation: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Samuel Johnson</span>, casi dos siglos después, completó el gran diccionario inglés con citas literarias y norma social. <span class=\"person\">Gottfried Leibniz</span> distinguió orden alfabético (de palabra a cosa) y orden natural (de cosa a palabra). El alfabeto habilitó catálogos, índices y la búsqueda binaria antes de las computadoras.",
+          html: "<span class=\"person\">Samuel Johnson</span>, casi dos siglos después, completó el gran diccionario inglés con citas literarias y norma social. <span class=\"person\">Gottfried Leibniz</span> distinguió orden alfabético (de palabra a cosa) y orden natural (de cosa a palabra). Por eso el alfabeto habilitó catálogos, índices y la búsqueda binaria antes de las computadoras.",
         },
         {
           type: 'key',
@@ -264,11 +264,11 @@ export const theInformation: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Charles Babbage</span> fue un genio errático de la era del vapor. Diseñó el Difference Engine y el Analytical Engine. Miles de engranajes imprimirían tablas sin error humano. El Estado británico financió y luego canceló el proyecto tras veinte años. Sus tablas de logaritmos y seguros anticiparon economía del cálculo precomputado.",
+          html: "<span class=\"person\">Charles Babbage</span> fue un genio errático de la era del vapor. Diseñó el Difference Engine y el Analytical Engine. Miles de engranajes imprimirían tablas sin error humano. Por eso el Estado británico financió el proyecto, aunque luego lo canceló tras veinte años. Sus tablas de logaritmos y seguros anticiparon economía del cálculo precomputado.",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Ada Lovelace</span> vio más allá del número: la máquina analítica manipularía símbolos y podría componer música si se le dieran reglas. Separó datos e instrucciones antes de que existiera software. Babbage preguntó irónicamente si meter «figuras equivocadas» produciría respuestas correctas — confusión que persiste hoy.",
+          html: "Por eso <span class=\"person\">Ada Lovelace</span> vio más allá del número: la máquina analítica manipularía símbolos y podría componer música si se le dieran reglas. Separó datos e instrucciones antes de que existiera software. Babbage preguntó irónicamente si meter «figuras equivocadas» produciría respuestas correctas — confusión que persiste hoy.",
         },
         {
           type: 'key',
@@ -296,7 +296,7 @@ export const theInformation: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Antes, los hermanos <span class=\"person\">Chappe</span> en Francia usaron brazos mecánicos visibles. Su código binario de posiciones precedió al eléctrico. El telégrafo nuevo exigió traducir lenguaje a impulsos. Metáforas biológicas de Hawthorne y Scientific American resultaron proféticas. Cables como nervios, nación como cuerpo.",
+          html: "Antes, los hermanos <span class=\"person\">Chappe</span> en Francia usaron brazos mecánicos visibles. Su código binario de posiciones precedió al eléctrico. Por eso el telégrafo nuevo exigió traducir lenguaje a impulsos. Metáforas biológicas de Hawthorne y Scientific American resultaron proféticas. Cables como nervios, nación como cuerpo.",
         },
         {
           type: 'key',
@@ -324,7 +324,7 @@ export const theInformation: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Cooperativas rurales convirtieron cercas en líneas telefónicas. Telégrafo, teléfono y radio reconfiguraron la topología social. Shannon leyó códigos en Poe y criptogramas. La lógica simbólica se cruzó con relés y ruido de circuito. Este capítulo une física, ingeniería y juego intelectual antes de la guerra.",
+          html: "Cooperativas rurales convirtieron cercas en líneas telefónicas. Telégrafo, teléfono y radio reconfiguraron la topología social. Shannon leyó códigos en Poe y criptogramas. Así que la lógica simbólica se cruzó con relés y ruido de circuito. Este capítulo une física, ingeniería y juego intelectual antes de la guerra.",
         },
         {
           type: 'key',
@@ -348,11 +348,15 @@ export const theInformation: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Shannon analizó el sistema X que cifraba la voz Roosevelt-Churchill y probó su seguridad. <span class=\"person\">Alan Turing</span> mostró su paper de <span class=\"num\">1936</span> sobre números computables y la máquina universal U que simula cualquier computadora. Turing demostró que la mayoría de números son incalculables y que el Entscheidungsproblem de Hilbert tiene respuesta negativa.",
+          html: "Shannon analizó el sistema X que cifraba la voz Roosevelt-Churchill y probó su seguridad. <span class=\"person\">Alan Turing</span> mostró su paper de <span class=\"num\">1936</span> sobre números computables y la máquina universal U que simula cualquier computadora. Entonces demostró que la mayoría de números son incalculables y que el Entscheidungsproblem de Hilbert tiene respuesta negativa.",
         },
         {
           type: 'paragraph',
-          html: "Shannon definió información como elección entre mensajes posibles. El significado es «irrelevante al problema de ingeniería». Estimó ~50% de redundancia en inglés. De ahí el cartel «if u cn rd ths». Introdujo entropía H, capacidad de canal y teorema de codificación. En paralelo, el Bombe de Turing quebró Enigma. Procesaba interceptos a escala industrial.",
+          html: "Shannon definió información como elección entre mensajes posibles. El significado es «irrelevante al problema de ingeniería». Estimó ~50% de redundancia en inglés. De ahí el cartel «if u cn rd ths». Introdujo entropía H, capacidad de canal y teorema de codificación.",
+        },
+        {
+          type: 'paragraph',
+          html: "En paralelo, el Bombe de Turing quebró Enigma y procesaba interceptos a escala industrial.",
         },
         {
           type: 'concept-grid',
@@ -396,7 +400,7 @@ export const theInformation: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Norbert Wiener</span> acuñó <span class=\"term\">cibernética</span>, es decir el estudio del control y la comunicación, del griego timonel, en 1948. Unifica control y comunicación en animales y máquinas. Su libro fue bestseller. Su libro fue bestseller. Time lo retrató como profeta de ENIAC y Mark I. Wiener vio retroalimentación negativa estabilizando sistemas. Aplicaba desde cañones antiaéreos hasta neuronas, como el regulador de Maxwell.",
+          html: "<span class=\"person\">Norbert Wiener</span> acuñó <span class=\"term\">cibernética</span>, es decir el estudio del control y la comunicación, del griego timonel, en 1948. Unifica control y comunicación en animales y máquinas. Su libro fue un éxito de ventas. Time lo retrató como profeta de ENIAC y Mark I. Wiener vio retroalimentación negativa estabilizando sistemas. Aplicaba desde cañones antiaéreos hasta neuronas, como el regulador de Maxwell.",
         },
         {
           type: 'paragraph',
@@ -424,11 +428,11 @@ export const theInformation: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Rudolf Clausius</span> acuñó entropía en <span class=\"num\">1865</span> como energía unavailable para trabajo. <span class=\"person\">Lord Kelvin</span> anunció la muerte térmica del universo. <span class=\"person\">James Clerk Maxwell</span> imaginó un «ser finito» que ordena moléculas en una caja de gas. Ese <span class=\"term\">demonio de Maxwell</span> (ente imaginario) convierte azar en propósito usando información.",
+          html: "<span class=\"person\">Rudolf Clausius</span> acuñó entropía en <span class=\"num\">1865</span> como energía no disponible para trabajo. <span class=\"person\">Lord Kelvin</span> anunció la muerte térmica del universo. <span class=\"person\">James Clerk Maxwell</span> imaginó un «ser finito» que ordena moléculas en una caja de gas. Ese <span class=\"term\">demonio de Maxwell</span> (ente imaginario) convierte azar en propósito usando información. Por eso medir y borrar memoria tiene un coste termodinámico.",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Leó Szilárd</span> mostró que medir y borrar memoria cuesta k log 2 por bit. La información no es gratuita. La mezcla irreversible de gas es probabilística. Hay vastly más microestados desordenados. Shannon reinventó la matemática sin leer a Szilárd, pero el puente estaba listo.",
+          html: "<span class=\"person\">Leó Szilárd</span> mostró que medir y borrar memoria cuesta k log 2 por bit. La información no es gratuita. La mezcla irreversible de gas es probabilística: hay muchísimos más microestados desordenados. Shannon reinventó la matemática sin leer a Szilárd, pero el puente estaba listo.",
         },
         {
           type: 'key',
@@ -452,11 +456,11 @@ export const theInformation: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Wilhelm Johannsen</span> inventó «gene» en 1910 para separar potencial hereditario de rasgos personales. <span class=\"person\">Erwin Schrödinger</span> comparó genes con código Morse en «What Is Life?». En 1953, Watson y Crick publicaron la doble hélice. Las secuencias A, C, G, T son complementarias y replicables.",
+          html: "<span class=\"person\">Wilhelm Johannsen</span> inventó «gene» en 1910 para separar potencial hereditario de rasgos personales. <span class=\"person\">Erwin Schrödinger</span> comparó genes con código Morse en «What Is Life?». Por eso en <span class=\"num\">1953</span> Watson y Crick publicaron la doble hélice: las secuencias A, C, G, T son complementarias y replicables.",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">George Gamow</span> fundó el RNA Tie Club para descifrar tripletes codón-aminoácido. La solución llegó en los 60 con redundancia genética tolerante a errores. Crick formuló el Dogma Central. ADN produce ARN y luego proteína. La biología molecular adoptó bits, ruido y canal sin dejar de ser química.",
+          html: "<span class=\"person\">George Gamow</span> fundó el RNA Tie Club para descifrar tripletes codón-aminoácido. La solución llegó en los 60 con redundancia genética tolerante a errores. Crick formuló entonces el Dogma Central. ADN produce ARN y luego proteína. Así la biología molecular adoptó bits, ruido y canal sin dejar de ser química.",
         },
         {
           type: 'key',
@@ -480,11 +484,11 @@ export const theInformation: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Jacques Monod</span> situó una «reino abstracto» de ideas sobre la biosfera. <span class=\"person\">Richard Dawkins</span> propuso el <span class=\"term\">meme</span>, es decir una unidad cultural replicable, al cerrar «The Selfish Gene» en 1976. Salta de cerebro a cerebro por imitación. Melodías, frases («Read my lips») y creencias compiten por atención limitada.",
+          html: "<span class=\"person\">Jacques Monod</span> situó un «reino abstracto» de ideas sobre la biosfera. <span class=\"person\">Richard Dawkins</span> propuso el <span class=\"term\">meme</span>, es decir una unidad cultural replicable, al cerrar «The Selfish Gene» en 1976. Salta de cerebro a cerebro por imitación. Melodías, frases («Read my lips») y creencias compiten por atención limitada.",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Daniel Dennett</span> comparó cerebros con composteras de larvas ajenas. <span class=\"person\">Douglas Hofstadter</span> popularizó «viral text». Los memes no son verdaderos por definición y pueden ser perjudiciales. Dawkins actualizó el «soup» primordial de memes. Pasó de cerebros humanos a discos, redes y virus informáticos.",
+          html: "<span class=\"person\">Daniel Dennett</span> comparó cerebros con composteras de larvas ajenas. <span class=\"person\">Douglas Hofstadter</span> popularizó el «texto viral». Así que los memes no son verdaderos por definición y pueden ser perjudiciales. Dawkins actualizó el «soup» primordial de memes. Pasó de cerebros humanos a discos, redes y virus informáticos.",
         },
         {
           type: 'key',
@@ -508,7 +512,7 @@ export const theInformation: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Gregory Chaitin</span>, adolescente, leyó «Gödel's Proof». Conectó incompletitud, incertidumbre cuántica y entropía de Shannon. <span class=\"person\">Kurt Gödel</span> demostró que toda matemática formal genera enunciados indemostrables. Turing mostró números incalculables. Chaitin definió aleatoriedad algorítmica. Lo comprimible no es aleatorio.",
+          html: "<span class=\"person\">Gregory Chaitin</span>, adolescente, leyó «Gödel's Proof». De este modo conectó incompletitud, incertidumbre cuántica y entropía de Shannon. <span class=\"person\">Kurt Gödel</span> demostró que toda matemática formal genera enunciados indemostrables. Turing mostró números incalculables. Por eso Chaitin definió aleatoriedad algorítmica: lo comprimible no es aleatorio.",
         },
         {
           type: 'paragraph',
@@ -540,7 +544,7 @@ export const theInformation: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Seth Lloyd</span> estima operaciones y bits cósmicos. Los agujeros negros devoran información y desafían termodinámica. Computación cuántica trata leyes físicas como algoritmos. Gleick cierra el arco del tambor tonal al bit fundamental de la existencia.",
+          html: "<span class=\"person\">Seth Lloyd</span> estima operaciones y bits cósmicos. Los agujeros negros devoran información y desafían termodinámica. Computación cuántica trata leyes físicas como algoritmos. Por eso Gleick cierra el arco del tambor tonal al bit fundamental de la existencia.",
         },
         {
           type: 'key',
@@ -548,7 +552,7 @@ export const theInformation: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Tener bits everywhere no garantiza saber: llega el diluvio.",
+          html: "Tener bits por doquier no garantiza saber: llega el diluvio.",
         },
       ],
     },
@@ -564,11 +568,11 @@ export const theInformation: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Jorge Luis Borges</span> imaginó la Biblioteca de Babel. Contiene todos los libros posibles y ninguna verdad seleccionable. Wikipedia genera páginas de desambiguación sin fin. Babel, Torre de Babel, isla australiana, planeta Star Trek.",
+          html: "<span class=\"person\">Jorge Luis Borges</span> imaginó la Biblioteca de Babel: contiene todos los libros posibles y ninguna verdad seleccionable. Wikipedia genera páginas de desambiguación sin fin, como si cada nombre propio exigiera su propia enciclopedia.",
         },
         {
           type: 'paragraph',
-          html: "Tlön de Borges mezcla ficción y hecho en ciclopedia falsa. Tener catálogo completo no es conocimiento. Es parálisis. Gleick conecta glut contemporáneo con ansiedad antigua. Acentúa volumen y persistencia digital sin precedente.",
+          html: "Tlön de Borges mezcla ficción y hecho en ciclopedia falsa. Tener catálogo completo no es conocimiento: es parálisis. Por eso Gleick conecta el glut contemporáneo con ansiedad antigua y acentúa volumen y persistencia digital sin precedente.",
         },
         {
           type: 'key',
@@ -592,11 +596,11 @@ export const theInformation: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Carl Bridenbaugh, presidente de la Asociación Histórica Americana en 1962, lamentó amnesia histórica. Temió Kodak y radios de transistor. <span class=\"person\">Elizabeth Eisenstein</span> trabajó quince años. En «The Printing Press as an Agent of Change» (1979) demostró que Gutenberg catalizó Reforma, ciencia moderna y alfabetización masiva.",
+          html: "Carl Bridenbaugh, presidente de la Asociación Histórica Americana en 1962, lamentó amnesia histórica. Temió Kodak y radios de transistor. <span class=\"person\">Elizabeth Eisenstein</span> trabajó quince años en «The Printing Press as an Agent of Change» (1979). Demostró que Gutenberg catalizó Reforma, ciencia moderna y alfabetización masiva.",
         },
         {
           type: 'paragraph',
-          html: "Cada gran tecnología inspiró euforia y queja de exceso. La prensa, el telégrafo, el teléfono, la TV e Internet repiten el patrón. Eisenstein situó la imprenta en el centro histórico. McLuhan comparó era eléctrica con era tipográfica elisabetiana. Vivimos dos formas de experiencia a la vez.",
+          html: "Por eso cada gran tecnología inspiró euforia y queja de exceso. La prensa, el telégrafo, el teléfono, la TV e Internet repiten el patrón. Eisenstein situó la imprenta en el centro histórico. McLuhan comparó era eléctrica con era tipográfica elisabetiana. Vivimos dos formas de experiencia a la vez.",
         },
         {
           type: 'key',
@@ -668,7 +672,7 @@ export const theInformation: BookSummary = {
   },
   {
     "title": "Demonio de Maxwell",
-    "description": "Thought experiment que convierte información en orden local."
+    "description": "Experimento mental que convierte información en orden local."
   },
   {
     "title": "Glut informacional",

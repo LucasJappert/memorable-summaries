@@ -58,7 +58,7 @@
     {
       "sectionId": "prefacio",
       "sectionTitle": "Meditación sobre los orígenes de la ciencia y la ciencia de los orígenes",
-      "text": "Los humanos fascinan los orígenes por razones lógicas y emocionales. Cada avance revela que habitamos un grano de polvo cósmico (un planeta diminuto) en los suburbios de una galaxia común. Entre al menos 100.000 millones de galaxias , no somos el centro. Los mitos de creación suelen pasar rápido del universo a la historia humana."
+      "text": "A los humanos les fascinan los orígenes por razones lógicas y emocionales. Cada avance revela que habitamos un grano de polvo cósmico (un planeta diminuto) en los suburbios de una galaxia común. Entre al menos 100.000 millones de galaxias , no somos el centro. Los mitos de creación suelen pasar rápido del universo a la historia humana."
     },
     {
       "sectionId": "prefacio",
@@ -78,7 +78,7 @@
     {
       "sectionId": "cap1",
       "sectionTitle": "Al principio",
-      "text": "La física clásica (pre-1900) funciona en laboratorios cotidianos. La física moderna (relatividad y cuántica) describe regímenes extremos de temperatura, densidad y presión. Ahí mandan reglas donde la intuición falla, como en los primeros momentos del universo."
+      "text": "La física clásica (pre-1900) funciona en laboratorios cotidianos, pero el cosmos temprano exige otra cosa. Por eso, la física moderna (relatividad y cuántica) describe regímenes extremos de temperatura, densidad y presión. Ahí mandan reglas donde la intuición falla, como en los primeros momentos del universo."
     },
     {
       "sectionId": "cap1",
@@ -113,7 +113,7 @@
     {
       "sectionId": "cap2",
       "sectionTitle": "La antimateria importa",
-      "text": "Los fotones gamma de alta energía pueden crear pares electrón-positrón (E = mc² al revés). El universo primordial produjo partículas y antipartículas en igual cantidad. Una asimetría minúscima dejó materia suficiente: un billón y uno frente a un billón ."
+      "text": "Por eso, los fotones gamma de alta energía pueden crear pares electrón-positrón (E = mc² al revés). El universo primordial produjo partículas y antipartículas en igual cantidad. Una asimetría minúscima dejó materia suficiente: un billón y uno frente a un billón ."
     },
     {
       "sectionId": "cap2",
@@ -163,7 +163,7 @@
     {
       "sectionId": "cap4",
       "sectionTitle": "Que haya oscuridad",
-      "text": "El astrónomo Fritz Zwicky analizó en los 1930 el cúmulo de Coma. Está a 325 millones de años luz . Las galaxias se mueven demasiado rápido para la masa visible. El cúmulo debería desintegrarse en cientos de millones de años, pero tiene más de 10.000 millones de años ."
+      "text": "El astrónomo Fritz Zwicky analizó en la década de 1930 el cúmulo de Coma. Está a 325 millones de años luz . Las galaxias se mueven demasiado rápido para la masa visible. El cúmulo debería desintegrarse en cientos de millones de años, pero tiene más de 10.000 millones de años ."
     },
     {
       "sectionId": "cap4",
@@ -218,7 +218,7 @@
     {
       "sectionId": "cap6",
       "sectionTitle": "¡Tensión en el cosmos!",
-      "text": "Antes del telescopio Hubble, los valores de H₀ divergían por factor 2 (50 frente a 100). Que hoy la discordancia sea solo ~10% es progreso. Una tensión persistente podría abrir nueva física más allá del modelo estándar."
+      "text": "Sin embargo, antes del telescopio Hubble, los valores de H₀ divergían por factor 2 (50 frente a 100). Que hoy la discordancia sea solo ~10% es progreso. Una tensión persistente podría abrir nueva física más allá del modelo estándar."
     },
     {
       "sectionId": "cap6",
@@ -268,7 +268,7 @@
     {
       "sectionId": "cap8",
       "sectionTitle": "Descubriendo las galaxias",
-      "text": "Hubble midió la relación distancia-velocidad de recesión: cuanto más lejos una galaxia, más rápido se aleja. El universo se expande. La lección es dejar de clasificar por apariencia y preguntar qué es cada objeto y a qué distancia."
+      "text": "Por eso, Hubble midió la relación distancia-velocidad de recesión: cuanto más lejos una galaxia, más rápido se aleja. El universo se expande. La lección es dejar de clasificar por apariencia y preguntar qué es cada objeto y a qué distancia."
     },
     {
       "sectionId": "cap8",
@@ -318,12 +318,12 @@
     {
       "sectionId": "cap10",
       "sectionTitle": "Polvo al polvo",
-      "text": "Las nubes gigantes (~ 100 K o menos) colapsan bajo gravedad pese a rotación, turbulencia, presión y campos magnéticos."
+      "text": "Por eso, las nubes gigantes (~ 100 K o menos) colapsan bajo gravedad pese a rotación, turbulencia, presión y campos magnéticos."
     },
     {
       "sectionId": "cap10",
       "sectionTitle": "Polvo al polvo",
-      "text": "Las estrellas en fase de gigante roja (fase tardía de evolución estelar) expulsan granos de polvo al espacio. En regiones como la nebulosa de Orión, miles de estrellas nacen de nubes de ~un millón de masas solares. El polvo y el gas son indispensables para una segunda generación estelar y para los elementos pesados que forman planetas y vida."
+      "text": "Además, las estrellas en fase de gigante roja (fase tardía de evolución estelar) expulsan granos de polvo al espacio. En regiones como la nebulosa de Orión, miles de estrellas nacen de nubes de ~un millón de masas solares. El polvo y el gas son indispensables para una segunda generación estelar y para los elementos pesados que forman planetas y vida."
     },
     {
       "sectionId": "cap10",
@@ -338,7 +338,7 @@
     {
       "sectionId": "cap11",
       "sectionTitle": "Cuando los mundos eran jóvenes",
-      "text": "¿Cómo se formaron los planetas si los «siglos oscuros» cósmicos dejaron pocos datos? Esos siglos dejaron pocos datos observables sobre cómo la materia se organizó en estrellas y galaxias. Los planetas son aún más misteriosos: sabemos poco de cómo empezaron a formarse."
+      "text": "¿Cómo se formaron los planetas si los «siglos oscuros» cósmicos dejaron pocos datos observables sobre cómo la materia se organizó en estrellas y galaxias? Los planetas son aún más misteriosos: sabemos poco de cómo empezaron a formarse."
     },
     {
       "sectionId": "cap11",
@@ -373,7 +373,7 @@
     {
       "sectionId": "cap12",
       "sectionTitle": "Planetas más allá del Sistema Solar",
-      "text": "Los métodos de detección incluyen la velocidad radial (wobble estelar), los tránsitos (atenuación de luz), las microlentes gravitacionales y la imagen directa. Los exoplanetas son laboratorio cósmico para preguntar cuándo y cómo surge la vida más allá del Sistema Solar."
+      "text": "Además, los métodos de detección incluyen la velocidad radial (wobble estelar), los tránsitos (atenuación de luz), las microlentes gravitacionales y la imagen directa. Los exoplanetas son laboratorio cósmico para preguntar cuándo y cómo surge la vida más allá del Sistema Solar."
     },
     {
       "sectionId": "cap12",
@@ -528,7 +528,7 @@
     {
       "sectionId": "cierre",
       "sectionTitle": "Cierre",
-      "text": "La ciencia une astrofísica, química y biología para contar esa historia."
+      "text": "Por eso, la ciencia une astrofísica, química y biología para contar esa historia."
     },
     {
       "sectionId": "cierre",

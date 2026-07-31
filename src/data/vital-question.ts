@@ -26,7 +26,7 @@ export const vitalQuestion: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La vida apareció hacia los <span class=\"num\">4 000 millones</span> de años. Permaneció atrapada en la simplicidad bacteriana más de <span class=\"num\">2 000 millones</span>. Plantas, animales, hongos y protistas (organismos eucariotas diversos) descienden de un único ancestro hace <span class=\"num\">1 500–2 000 millones</span> de años. No hay eslabones perdidos entre bacterias simples y todo lo demás. Gastamos miles de millones en biomedicina sin entender cómo evolucionaron las piezas de la célula.",
+          html: "La vida apareció hacia los <span class=\"num\">4 000 millones</span> de años. Permaneció atrapada en la simplicidad bacteriana más de <span class=\"num\">2 000 millones</span>. Plantas, animales, hongos y protistas (organismos eucariotas diversos) descienden de un único ancestro hace <span class=\"num\">1 500–2 000 millones</span> de años. No hay eslabones perdidos entre bacterias simples y todo lo demás. Por eso gastamos miles de millones en biomedicina sin entender cómo evolucionaron las piezas de la célula.",
         },
         {
           type: 'paragraph',
@@ -58,7 +58,7 @@ export const vitalQuestion: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El físico <span class=\"person\">Erwin Schrödinger</span> publicó <em>What is Life?</em> en <span class=\"num\">1944</span>. Propuso que la vida elude localmente la entropía mediante los genes como «cristal aperiódico» portador de código. La era del ADN comenzó en <span class=\"num\">1953</span> con la estructura de la doble hélice. Eso convirtió la biología en ciencia de la información. Los genomas varían enormemente. Sin límites estructurales impuestos por la información, la biología no puede predecir la vida en otros planetas.",
+          html: "El físico <span class=\"person\">Erwin Schrödinger</span> publicó <em>¿Qué es la vida?</em> en <span class=\"num\">1944</span>. Propuso que la vida elude localmente la entropía mediante los genes como «cristal aperiódico» portador de código. La era del ADN comenzó en <span class=\"num\">1953</span> con la estructura de la doble hélice. Eso convirtió la biología en ciencia de la información. Los genomas varían enormemente. Sin límites estructurales impuestos por la información, la biología no puede predecir la vida en otros planetas.",
         },
         {
           type: 'paragraph',
@@ -66,7 +66,7 @@ export const vitalQuestion: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La versión textbook dice que el oxígeno liberó restricciones y permitió células complejas por endosimbiosis gradual. Lane la considera incorrecta. El oxígeno no parece haber sido la clave. De serlo, veríamos muchos orígenes independientes de algas, hongos o fagocitos. La evidencia apunta a una <span class=\"term\">radiación monofilética</span> (un solo origen eucariota con estasis prolongada). Los «archezoa» (como <span class=\"person\">Giardia</span>) no son eslabones perdidos: perdieron mitocondrias por evolución reductiva.",
+          html: "La versión de manual dice que el oxígeno liberó restricciones y permitió células complejas por endosimbiosis gradual. Lane la considera incorrecta. El oxígeno no parece haber sido la clave. De serlo, veríamos muchos orígenes independientes de algas, hongos o fagocitos. La evidencia apunta a una <span class=\"term\">radiación monofilética</span> (un solo origen eucariota con estasis prolongada). Los «archezoa» (como <span class=\"person\">Giardia</span>) no son eslabones perdidos: perdieron mitocondrias por evolución reductiva.",
         },
         {
           type: 'concept-grid',
@@ -246,7 +246,7 @@ export const vitalQuestion: BookSummary = {
             },
             {
               "title": "LUCA",
-              "description": "Último ancestor común de bacterias y arqueas; vivió de gradientes en respiraderos.",
+              "description": "Último ancestro común de bacterias y arqueas; vivió de gradientes en respiraderos.",
               "icon": "🦠"
             },
             {
@@ -491,7 +491,7 @@ export const vitalQuestion: BookSummary = {
   },
   {
     "year": "1944",
-    "text": "Schrödinger publica <em>What is Life?</em>"
+    "text": "Schrödinger publica <em>¿Qué es la vida?</em>"
   },
   {
     "year": "1953",
@@ -553,7 +553,7 @@ export const vitalQuestion: BookSummary = {
   },
   {
     "name": "Erwin Schrödinger",
-    "role": "<em>What is Life?</em> (1944); genes y entropía."
+    "role": "<em>¿Qué es la vida?</em> (1944); genes y entropía."
   }
 ],
   closing: {

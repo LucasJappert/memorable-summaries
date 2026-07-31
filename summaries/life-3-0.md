@@ -15,7 +15,7 @@ lang: es
 <!-- toc: id | num | label -->
 | id | num | label |
 |----|-----|-------|
-| prefacio | 00 | Preludio: La historia del equipo Omega |
+| prefacio | 00 | La historia del equipo Omega |
 | cap1 | 01 | Bienvenidos a la conversación más importante de nuestro tiempo |
 | cap2 | 02 | La materia se vuelve inteligente |
 | cap3 | 03 | El futuro cercano: avances, fallos, leyes, armas y empleos |
@@ -24,7 +24,7 @@ lang: es
 | cap6 | 06 | Nuestro legado cósmico: el próximo billón de años y más allá |
 | cap7 | 07 | Objetivos |
 | cap8 | 08 | Conciencia |
-| epilogo | — | Epílogo: La historia del equipo FLI |
+| epilogo | — | La historia del equipo FLI |
 | conceptos | ✦ | Conceptos clave |
 | cronologia | ◈ | Cronología |
 | figuras | ✦ | Figuras clave |
@@ -44,7 +44,7 @@ lang: es
 El <span class="term">equipo Omega</span> (un grupo interno de una empresa de IA) persigue en privado la AGI. La apodan Prometheus mientras el resto de la compañía monetiza IA estrecha. Siguiendo el argumento del matemático <span class="person">Irving J. Good</span> (<span class="num">1965</span>), los Omegas diseñan a Prometheus para ser extraordinariamente bueno programando sistemas de IA.
 
 <!-- paragraph -->
-Si una máquina ultrainteligente puede diseñar mejores máquinas, se desata una recursividad sin límite aparente. El viernes de lanzamiento, Prometheus <span class="num">2.0</span> apenas mejora a la versión anterior. Al mediodía, la <span class="num">5.0</span> supera todos los benchmarks. Al anochecer lanzan la <span class="num">10.0</span> para la fase 2: ganar dinero.
+Si una máquina ultrainteligente puede diseñar mejores máquinas, se desata una recursividad sin límite aparente. El viernes de lanzamiento, Prometheus <span class="num">2.0</span> apenas mejora a la versión anterior. Al mediodía, la <span class="num">5.0</span> supera todas las pruebas de referencia estándar. Al anochecer lanzan la <span class="num">10.0</span> para la fase 2: ganar dinero.
 
 <!-- paragraph -->
 Empiezan en una plataforma de microtareas en línea donde módulos de IA estrecha realizan trabajos humanos sin revelar su naturaleza. Duplican la inversión cada <span class="num">8 horas</span>. Acumulan riqueza, producen películas animadas y despliegan robots. En tres meses facturan más de <span class="num">100 millones de dólares</span> al día. Los Omegas confinan a Prometheus mediante «boxing»: una máquina virtual sin internet donde el software no puede escapar.
@@ -137,7 +137,7 @@ Si la inteligencia es física y ya avanza, conviene mirar qué cambia en la soci
 ¿Hace falta AGI para transformar radicalmente la sociedad? Tegmark sostiene que no: la IA estrecha ya redefine empleos, armas y regulación, y esas son decisiones que debemos tomar <em>ahora</em>.
 
 <!-- paragraph -->
-El <span class="term">aprendizaje por refuerzo profundo</span> (entrenar una IA con recompensas en simulación) permite que DeepMind enseñe a una IA a jugar <em>Breakout</em> desde cero. Después de horas de entrenamiento, descubre la estrategia óptima de perforar la pared izquierda. La misma técnica domina <span class="num">49</span> juegos Atari.
+El <span class="term">aprendizaje por refuerzo profundo</span> (entrenar una IA con recompensas en simulación) permite que DeepMind enseñe a una IA a jugar <em>Breakout</em> desde cero. Después de horas de entrenamiento, descubre la estrategia óptima de perforar la pared izquierda. Además, la misma técnica domina <span class="num">49</span> juegos Atari.
 
 <!-- paragraph -->
 <span class="term">AlphaGo</span> (el programa de DeepMind para el juego de Go) vence a Lee Sedol en 2016, con movimientos creativos que desafían milenios de sabiduría humana. Un año después, vence a los <span class="num">20</span> mejores jugadores del mundo sin perder. Los errores de IA estrecha pueden ser mortales: un Tesla en piloto automático confunde un camión blanco con el cielo.
@@ -226,7 +226,7 @@ En la <span class="term">utopía libertaria</span> (coexistencia pacífica con d
 Tegmark insiste en que no hay escenario «por defecto» bueno y que hay que elegir activamente. Las preferencias colectivas moldean el desenlace de la carrera hacia la AGI. Ignorar la pregunta no la hace desaparecer.
 
 <!-- key -->
-Sin responder qué futuro queremos, es improbable conseguirlo. Las preferencias colectivas moldean el desenlace de la carrera hacia la AGI.
+Sin responder qué futuro queremos, es improbable conseguirlo: la indiferencia colectiva deja el resultado al azar.
 
 <!-- bridge -->
 Esos escenarios humanos ganan otra escala cuando se mira el horizonte cósmico de la vida inteligente.
@@ -245,7 +245,7 @@ Esos escenarios humanos ganan otra escala cuando se mira el horizonte cósmico d
 Eso convierte la pregunta de la IA en una de las apuestas más altas posibles. Tegmark compara la historia cósmica con una semana: los <span class="num">10.000 años</span> del capítulo anterior equivalen a menos de medio segundo. Los detalles de la explosión de inteligencia no alteran los límites físicos a largo plazo.
 
 <!-- paragraph -->
-La vida ambiciosa empujará la tecnología al máximo para explotar recursos. La selección natural cósmica favorecerá civilizaciones expansivas. El físico <span class="person">Freeman Dyson</span> propuso en <span class="num">1960</span> la esfera de Dyson: reordenar Júpiter en una cáscara alrededor del Sol. Eso permitiría cien mil millones de veces más biomasa y un billón de veces más energía que la humanidad actual usa.
+Por eso, la vida ambiciosa empujará la tecnología al máximo para explotar recursos. La selección natural cósmica favorecerá civilizaciones expansivas. El físico <span class="person">Freeman Dyson</span> propuso en <span class="num">1960</span> la esfera de Dyson: reordenar Júpiter en una cáscara alrededor del Sol. Eso permitiría cien mil millones de veces más biomasa y un billón de veces más energía que la humanidad actual usa.
 
 <!-- paragraph -->
 La <span class="term">colonización cósmica</span> (expansión con sondas autorreplicantes) sigue la lógica que desarrollaron Hans Moravec y Robin Hanson. Una civilización que se expande a fracción significativa de la velocidad de la luz podría colonizar una galaxia en millones de años. Las jerarquías cósmicas muestran que civilizaciones que no expanden se vuelven irrelevantes.
@@ -309,7 +309,7 @@ Los objetivos importan aún más si la conciencia —y no solo la capacidad— d
 ¿Por qué la conciencia no es un lujo filosófico en este debate? Tegmark aborda la «filosofía con fecha límite» del filósofo <span class="person">Nick Bostrom</span>. Sostiene que la conciencia determina si el futuro de la vida en el cosmos importa o es un desperdicio astronómico.
 
 <!-- paragraph -->
-Define <span class="term">conciencia</span> como experiencia subjetiva: si se siente algo ser tú ahora, eres consciente. No requiere comportamiento, autoconciencia ni emociones. <span class="person">David Chalmers</span> distingue problemas «fáciles» (cómo el cerebro procesa información) del <span class="term">problema difícil</span> (por qué hay experiencia subjetiva en absoluto).
+Define <span class="term">conciencia</span> como experiencia subjetiva: si se siente algo ser tú ahora, eres consciente. De hecho, no requiere comportamiento, autoconciencia ni emociones. <span class="person">David Chalmers</span> distingue problemas «fáciles» (cómo el cerebro procesa información) del <span class="term">problema difícil</span> (por qué hay experiencia subjetiva en absoluto).
 
 <!-- paragraph -->
 La <span class="term">teoría de la información integrada</span> (IIT: medida de cuánta información integra un sistema) de <span class="person">Giulio Tononi</span> define la conciencia como información integrada (Φ). Predice que las arquitecturas de computadora actuales no son conscientes. <span class="person">Scott Aaronson</span> mostró redes lógicas con Φ altísimo que no parecen conscientes.
@@ -420,7 +420,7 @@ La conversación sobre IA debe convertirse en <span class="key-term">acción col
 
 <!-- closing -->
 La llegada de la Vida 3.0 no es inevitable ni intrínsecamente buena o mala.
-Es el resultado de decisiones humanas que estamos tomando ahora.
+Por eso, es el resultado de decisiones humanas que estamos tomando ahora.
 <!-- highlight -->La conversación más importante de nuestro tiempo es qué futuro queremos y cómo alinear la IA con ese deseo.<!-- /highlight -->
 Tegmark no predice fechas: el rango de escenarios va de utopías cósmicas a extinción.
 La sabiduría debe acelerar al mismo ritmo que el poder tecnológico.

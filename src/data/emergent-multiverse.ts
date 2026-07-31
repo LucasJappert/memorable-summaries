@@ -175,7 +175,7 @@ export const emergentMultiverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Ningún experimento separa «QM operacional» de «QM literal». Tampoco separa «hubo dinosaurios» de «solo hay fósiles como si hubiera habido dinosaurios». En cuanto a la <span class=\"term\">navaja de Ockham</span> (principio de no multiplicar supuestos innecesarios), penaliza postulados, no cantidad de entidades. La cosmología no descarta teorías por predecir muchas galaxias. Criticar Everett por postular muchos universos inventa un principio nuevo sin motivación independiente.",
+          html: "Pero ningún experimento separa «QM operacional» de «QM literal». Tampoco separa «hubo dinosaurios» de «solo hay fósiles como si hubiera habido dinosaurios». En cuanto a la <span class=\"term\">navaja de Ockham</span> (principio de no multiplicar supuestos innecesarios), penaliza postulados, no cantidad de entidades. La cosmología no descarta teorías por predecir muchas galaxias. Criticar Everett por postular muchos universos inventa un principio nuevo sin motivación independiente.",
         },
         {
           type: 'paragraph',
@@ -235,7 +235,7 @@ export const emergentMultiverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El argumento separa el problema práctico del epistémico. El práctico pregunta por qué el peso de rama guía decisiones. El epistémico pregunta por qué guía inferencia y frecuencias. El núcleo matemático no es decisionista sino de simetría. Preferencias entre apuestas sobre resultados de medición, bajo axiomas de riqueza física y racionalidad, fijan una medida de probabilidad única sobre macroestados decoherentes.",
+          html: "Por eso el argumento separa el problema práctico del epistémico. El práctico pregunta por qué el peso de rama guía decisiones. El epistémico pregunta por qué guía inferencia y frecuencias. El núcleo matemático no es decisionista sino de simetría. Preferencias entre apuestas sobre resultados de medición, bajo axiomas de riqueza física y racionalidad, fijan una medida de probabilidad única sobre macroestados decoherentes.",
         },
         {
           type: 'paragraph',
@@ -371,7 +371,7 @@ export const emergentMultiverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "Everettian QM es <span class=\"key-term\">no separable</span> ontológicamente pero local en dinámica, compatible con el espíritu de la relatividad especial.",
+          html: "La mecánica cuántica everettiana es <span class=\"key-term\">no separable</span> ontológicamente pero local en dinámica, compatible con el espíritu de la relatividad especial.",
         },
         {
           type: 'paragraph',
@@ -423,7 +423,7 @@ export const emergentMultiverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "En casos de probabilidad exótica, el <span class=\"term\">razonamiento antrópico</span> (inferir nuestra existencia a partir de condiciones que permiten observadores) es más disciplinado en el multiverso everettiano. Tiene teoría precisa y predicciones testeables. Lo es más que en multiversos ad hoc de inflación o cuerdas. El <span class=\"term\">suicidio cuántico</span> (apostar la vida a un resultado cuántico) no otorga certeza subjetiva de supervivencia.",
+          html: "Por eso el multiverso everettiano disciplina mejor el <span class=\"term\">razonamiento antrópico</span> (inferencia sobre observadores posibles). En casos de probabilidad exótica, tiene teoría precisa y predicciones testeables. Lo es más que en multiversos ad hoc de inflación o cuerdas. El <span class=\"term\">suicidio cuántico</span> (apostar la vida a un resultado cuántico) no otorga certeza subjetiva de supervivencia.",
         },
         {
           type: 'paragraph',
@@ -487,7 +487,7 @@ export const emergentMultiverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El escéptico no se convence. El autor evita la capitulación ficticia y deja la última palabra a <span class=\"person\">Galileo</span>. Simplicio pregunta para qué sirve el vasto vacío entre Saturno y las estrellas fijas. Salviati responde que la naturaleza no crea en vano. Ese espacio contiene innumerables estrellas no visibles a simple vista.",
+          html: "Pero el escéptico no se convence. El autor evita la capitulación ficticia y deja la última palabra a <span class=\"person\">Galileo</span>. Simplicio pregunta para qué sirve el vasto vacío entre Saturno y las estrellas fijas. Salviati responde que la naturaleza no crea en vano. Ese espacio contiene innumerables estrellas no visibles a simple vista.",
         },
         {
           type: 'paragraph',
@@ -530,7 +530,7 @@ export const emergentMultiverse: BookSummary = {
     "description": "Regla que extrae predicciones empíricas de grados de libertad macroscópicos (POVMs)."
   },
   {
-    "title": "Spacetime state realism",
+    "title": "Realismo del estado en el espaciotiempo",
     "description": "Ontología que asigna operadores de densidad a regiones del espaciotiempo."
   },
   {
@@ -609,9 +609,9 @@ export const emergentMultiverse: BookSummary = {
   closing: {
     title: "La idea central",
     lines: [
-  "No hay problema de la medición en la mecánica cuántica unitaria.",
+  "En suma, no hay problema de la medición en la mecánica cuántica unitaria.",
   "El conflicto aparente nace de tratar «observación» y «colapso» como postulados primitivos en lugar de leer la teoría literalmente.",
-  "La decoherencia explica por qué vemos un mundo cuasi-clásico.",
+  "Por eso la decoherencia explica por qué vemos un mundo cuasi-clásico.",
   "La regla de Born emerge de simetrías y racionalidad, no de un colapso mágico.",
   "La mecánica cuántica everettiana es simplemente la mecánica cuántica misma."
 ],

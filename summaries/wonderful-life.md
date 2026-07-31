@@ -15,10 +15,10 @@ lang: es
 | id | num | label |
 |----|-----|-------|
 | cierre | ★ | La idea central |
-| prefacio | 00 | Prefacio |
+| prefacio | 00 | Prefacio y agradecimientos |
 | cap1 | 01 | Iconografía de una expectativa |
 | cap2 | 02 | Antecedentes del Burgess Shale |
-| cap3 | 03 | Reconstrucción del Burgess Shale |
+| cap3 | 03 | Reconstrucción del Burgess Shale: hacia una nueva visión de la vida |
 | cap4 | 04 | La visión de Walcott y la naturaleza de la historia |
 | cap5 | 05 | Mundos posibles: el poder del «puro historial» |
 | conceptos | ✦ | Conceptos clave |
@@ -116,7 +116,7 @@ Hallar el yacimiento fue solo el comienzo: la visión nueva nació al reinterpre
 <span class="person">Whittington</span> empezó con animales que ya no encajaban cómodos en grupos modernos. Luego llegó <span class="term">Opabinia</span>, un organismo con cinco ojos y una trompa prensil que rompió expectativas. El equipo amplió el catálogo con depredadores gigantes y anatomías tan raras que al principio se dibujaron al revés. Muchos no caben en los filos actuales: son <span class="term">diseños corporales</span> (planes anatómicos distintos) que se extinguieron.
 
 <!-- paragraph -->
-La conclusión es clara. El Cámbrico temprano tuvo máxima disparidad. Una <span class="term">decimación</span> posterior (eliminación masiva de linajes) borró la mayoría de planes corporales. Los «ganadores» de hoy no fueron necesariamente superiores por diseño: sobrevivieron un sorteo histórico. Gould narra ese trabajo como un drama en cinco actos, respetando la cronología de la investigación.
+Por eso la conclusión es clara: el Cámbrico temprano tuvo máxima disparidad. Una <span class="term">decimación</span> posterior (eliminación masiva de linajes) borró la mayoría de planes corporales. Los «ganadores» de hoy no fueron necesariamente superiores por diseño: sobrevivieron un sorteo histórico. Gould narra ese trabajo como un drama en cinco actos, respetando la cronología de la investigación.
 
 <!-- list -->
 - **Marrella** — Artrópodo que inició las dudas de Whittington.
@@ -170,7 +170,7 @@ Queda demostrar con ejemplos que otros desenlaces eran razonables: mundos posibl
 Propone <span class="term">siete mundos posibles</span>: umbrales donde un cambio pequeño pudo desviar la historia, desde la célula con núcleo hasta <em>Homo sapiens</em>. En cada paso, la contingencia importa. Las extinciones masivas no son accidentes menores: reconfiguran el tablero evolutivo y abren o cierran caminos.
 
 <!-- paragraph -->
-El patrón Burgess (proliferación inicial y luego poda) se repite a otras escalas. La inteligencia humana no era un destino escrito: fue el final de una cadena improbable. Reconocerlo no menosprecia a nuestra especie. Amplía la comprensión de la vida. Un animal temprano con notocorda (un cordón flexible que precede a la columna) como <em>Pikaia</em> ilustra esa fragilidad. Era un posible antepasado de los vertebrados.
+Por eso el patrón Burgess (proliferación inicial y luego poda) se repite a otras escalas. La inteligencia humana no era un destino escrito: fue el final de una cadena improbable. Reconocerlo no menosprecia a nuestra especie. Amplía la comprensión de la vida. Un animal temprano con notocorda (un cordón flexible que precede a la columna) como <em>Pikaia</em> ilustra esa fragilidad. Era un posible antepasado de los vertebrados.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -249,7 +249,7 @@ El patrón Burgess (proliferación inicial y luego poda) se repite a otras escal
 
 <!-- closing -->
 La vida no subió una escalera hacia el hombre.
-El Cámbrico fue un festival de formas extrañas, luego decimadas.
+Por eso el Cámbrico fue un festival de formas extrañas, luego decimadas.
 <!-- highlight -->Rebobinar la cinta no garantiza nuestra existencia<!-- /highlight -->
 La Burgess Shale lo demuestra mejor que cualquier otro fósil.
 Somos un resultado posible, no un destino cósmico.

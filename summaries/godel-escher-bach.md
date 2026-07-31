@@ -38,7 +38,7 @@ lang: es
 | cap20 | XIX | Inteligencia artificial: perspectivas |
 | cap21 | XX | Bucles extraños o jerarquías enredadas |
 | conceptos | ✦ | Conceptos clave |
-| cronologia | ◈ | Cronología |
+| cronologia | ◈ | Cronología de hitos citados |
 | figuras | ✦ | Figuras clave |
 
 ---
@@ -55,7 +55,7 @@ lang: es
 Su apuesta es que la respuesta ya está insinuada en un patrón común a tres genios. Bach juega con niveles en sus fugas. Escher dibuja jerarquías que se muerden la cola. Gödel demuestra que la aritmética puede hablar de sí misma. Los diálogos entre <span class="person">Tortuga</span> y <span class="person">Aquiles</span>, con el Cangrejo y el Hormiguero, no son adorno. Cada diálogo imita una forma musical y encarna en su estructura la idea del capítulo siguiente.
 
 <!-- paragraph -->
-Hofstadter prepara al lector recorriendo la historia de la lógica y las paradojas de autorreferencia. Llega al debate sobre si una máquina podría pensar. Ese recorrido muestra el mismo truco en la música, el arte y las demostraciones matemáticas.
+Por eso Hofstadter prepara al lector recorriendo la historia de la lógica y las paradojas de autorreferencia. Llega al debate sobre si una máquina podría pensar, y ese recorrido muestra el mismo truco en la música, el arte y las demostraciones matemáticas.
 
 <!-- key -->
 Bach, Escher y Gödel comparten un mismo truco de <span class="key-term">autorreferencia</span> entre niveles, y ahí se esconde cómo puede surgir la mente.
@@ -74,7 +74,7 @@ El primer ejemplo concreto es un juego de letras tan simple que parece un acerti
 ¿Se puede obtener la cadena MU aplicando reglas mecánicas? Hofstadter presenta el <span class="term">sistema MIU</span> (un juego formal con las letras M, I y U). Se parte del axioma MI y se aplican reglas de producción que alargan o acortan cadenas. El reto es sencillo de enunciar y difícil de cerrar.
 
 <!-- paragraph -->
-La trampa es que, por más reglas que uno aplique desde dentro, MU no aparece nunca. La razón solo se ve al salir del juego y observar una propiedad invariante que ninguna regla altera. Esa distinción entre trabajar ciegamente dentro del sistema y comprenderlo desde fuera es la lección central.
+Sin embargo, por más reglas que uno aplique desde dentro, MU no aparece nunca. La razón solo se ve al salir del juego y observar una propiedad invariante que ninguna regla altera. Por eso la distinción entre trabajar ciegamente dentro del sistema y comprenderlo desde fuera es la lección central.
 
 <!-- paragraph -->
 A partir de este ejemplo mínimo, el autor introduce el vocabulario que usará todo el libro. Aparecen cadenas, axiomas, reglas de inferencia, derivaciones y teoremas. Una máquina puede generar teoremas sin entenderlos. La inteligencia detecta el patrón que los gobierna.
@@ -191,7 +191,7 @@ Antes de llegar a la aritmética, Hofstadter muestra que la lógica más simple 
 ¿Pueden palabras lógicas como «y», «o» y «no» gobernarse con reglas puramente tipográficas? Hofstadter construye un pequeño sistema cuyos teoremas coinciden con las verdades de la lógica proposicional. Otra vez el significado aparece de forma automática por isomorfismo.
 
 <!-- paragraph -->
-El autor toma sus ejemplos de los koans zen y los llama «Zentences», medio en broma. La elección es deliberadamente irónica. Los koans buscan burlar la lógica mientras el sistema los trata como fórmulas. El contraste anticipa que la lógica formal todavía es demasiado débil para la aritmética.
+El autor toma sus ejemplos de los koans zen y los llama «Zentences», medio en broma. La elección es deliberadamente irónica: los koans buscan burlar la lógica mientras el sistema los trata como fórmulas. Por eso el contraste anticipa que la lógica formal todavía es demasiado débil para la aritmética.
 
 <!-- key -->
 Reglas puramente formales bastan para reproducir la lógica, aunque todavía no alcanzan para los números.
@@ -210,7 +210,7 @@ El siguiente paso es extender ese formalismo hasta cubrir toda la aritmética el
 ¿Se puede tratar la aritmética como manipulación mecánica de signos? La <span class="term">TNT</span> (Teoría Tipográfica de Números) extiende el cálculo proposicional para tratar toda la aritmética elemental. Añade cuantificadores y símbolos numéricos. Enunciados como la conmutatividad de la suma se escriben y derivan como cadenas de signos.
 
 <!-- paragraph -->
-El objetivo de Hofstadter es doble. Primero demuestra que la aritmética puede formalizarse sin apelar a intuición sobre qué «son» los números. Después contrasta ese proceso rígido con el pensamiento humano, que salta, ve patrones y no procede paso a paso como el sistema.
+El objetivo de Hofstadter es doble. Primero demuestra que la aritmética puede formalizarse sin apelar a intuición sobre qué «son» los números. Después contrasta ese proceso rígido con el pensamiento humano, que salta, ve patrones y no procede paso a paso como el sistema. Por eso TNT prepara el terreno para Gödel.
 
 <!-- key -->
 TNT convierte la aritmética en tipografía, y así prepara el sistema sobre el que caerá el teorema de Gödel.
@@ -229,7 +229,7 @@ Antes del golpe lógico definitivo, Hofstadter hace un rodeo por el zen y la num
 ¿Qué tienen que ver los koans zen con los límites de la matemática? Hofstadter da un rodeo por el zen. Los koans del monje <span class="person">Mumon</span> intentan cortocircuitar el pensamiento dualista y mostrar los límites del lenguaje para atrapar la verdad. Esa actitud rima, de forma metafórica, con la filosofía de la matemática.
 
 <!-- paragraph -->
-Sobre ese fondo introduce la idea decisiva de Gödel. La <span class="term">numeración de Gödel</span> (codificar cada cadena y cada demostración como un número único) permite que la aritmética hable de sí misma. Con esa herramienta el autor hace un primer recorrido por el teorema de incompletitud.
+Sobre ese fondo introduce la idea decisiva de Gödel. La <span class="term">numeración de Gödel</span> (codificar cada cadena y cada demostración como un número único) permite que la aritmética hable de sí misma. Con esa herramienta el autor hace un primer recorrido por el teorema de incompletitud, y de ahí que este capítulo sea la bisagra del libro.
 
 <!-- key -->
 Codificar enunciados como números permite que la aritmética se refiera a sí misma, la puerta de entrada a Gödel.
@@ -248,7 +248,7 @@ Esas ideas sobre niveles y totalidades preparan el debate entre reduccionismo y 
 ¿Se oye una fuga como suma de voces separadas o como un todo indivisible? El diálogo del Preludio y la Fuga de la hormiga plantea esa pregunta. Abre el debate entre <span class="term">reduccionismo</span> (explicar un fenómeno descomponiéndolo en partes) y <span class="term">holismo</span> (entenderlo como un todo irreducible).
 
 <!-- paragraph -->
-La respuesta llega con <span class="person">Aunt Hillary</span>, una colonia de hormigas que conversa como si fuera una mente. Ninguna hormiga individual piensa. Su «pensamiento» vive en el nivel de la colonia y se apoya en niveles intermedios, desde la hormiga suelta hasta los equipos y las señales. Entender ese sistema exige combinar la mirada de las partes con la del todo.
+La respuesta llega con <span class="person">Aunt Hillary</span>, una colonia de hormigas que conversa como si fuera una mente. Ninguna hormiga individual piensa. Su «pensamiento» vive en el nivel de la colonia y se apoya en niveles intermedios, desde la hormiga suelta hasta los equipos y las señales. Por eso entender ese sistema exige combinar la mirada de las partes con la del todo.
 
 <!-- key -->
 Una mente puede emerger de piezas que, por separado, no piensan, si se leen en el nivel adecuado.
@@ -267,7 +267,7 @@ Esa idea de niveles se generaliza después a computadoras, imágenes y el propio
 ¿Existe un solo nivel «verdadero» para describir la realidad? Hofstadter defiende que una misma realidad se describe en muchos niveles simultáneos, cada uno con su vocabulario. En una computadora conviven el lenguaje de máquina, el ensamblador, el compilador y el sistema operativo.
 
 <!-- paragraph -->
-Cada capa habla de lo mismo con distinto grado de detalle. La idea se generaliza a imágenes, tableros de ajedrez, equipos deportivos, átomos y el clima. Su respuesta es que ningún nivel tiene el monopolio. Los niveles altos pueden ser causalmente reales aunque se apoyen en los bajos.
+Cada capa habla de lo mismo con distinto grado de detalle. La idea se generaliza a imágenes, tableros de ajedrez, equipos deportivos, átomos y el clima. Por eso ningún nivel tiene el monopolio: los niveles altos pueden ser causalmente reales aunque se apoyen en los bajos.
 
 <!-- key -->
 Cada nivel describe la misma realidad con un lenguaje propio, y ninguno es el único legítimo.
@@ -384,7 +384,7 @@ La autorreferencia formal se conecta después con la autorreproducción biológi
 ¿Son la autorreferencia y la autorreproducción el mismo fenómeno visto desde ángulos distintos? Hofstadter conecta ambas y las presenta como dos caras de un mismo bucle. Un programa que imprime su propio código, un virus que se autoensambla y una molécula de ADN que se copia comparten la misma lógica. Todos se codifican a sí mismos y necesitan una maquinaria externa para replicarse.
 
 <!-- paragraph -->
-El punto sutil es que la frontera entre el sistema que se reproduce y el entorno que lo ayuda resulta difusa. La información viaja de un nivel a otro. Decidir dónde termina el «yo» que se copia es en parte una convención. Ese bucle une el juego formal de Gödel con el bucle biológico de la vida.
+El punto sutil es que la frontera entre el sistema que se reproduce y el entorno que lo ayuda resulta difusa. Por eso la información viaja de un nivel a otro, y decidir dónde termina el «yo» que se copia es en parte una convención. Ese bucle une el juego formal de Gödel con el bucle biológico de la vida.
 
 <!-- key -->
 Referirse a sí mismo y reproducirse a sí mismo son el mismo bucle, visto en lo formal y en lo vivo.
@@ -403,7 +403,7 @@ Los teóricos que fijaron los límites de lo mecánico completan el mapa antes d
 ¿Qué significa que algo sea computable o decidible? El capítulo reúne a los teóricos que fijaron los límites de lo mecánico. La <span class="term">tesis de Church-Turing</span> (la hipótesis de que todo cálculo efectivo puede simularse con una máquina de Turing) propone qué significa que algo sea computable. Hofstadter la presenta en varias versiones, de las más débiles a las más fuertes.
 
 <!-- paragraph -->
-Dos resultados afilan esos límites. El <span class="term">problema de la parada</span> (decidir si un cálculo cualquiera terminará) de <span class="person">Alan Turing</span> muestra que no existe un procedimiento general que lo resuelva. El teorema de <span class="person">Alfred Tarski</span> muestra que la verdad aritmética no puede definirse dentro del propio sistema que la enuncia.
+Dos resultados afilan esos límites. El <span class="term">problema de la parada</span> (decidir si un cálculo cualquiera terminará) de <span class="person">Alan Turing</span> muestra que no existe un procedimiento general que lo resuelva. El teorema de <span class="person">Alfred Tarski</span> muestra, además, que la verdad aritmética no puede definirse dentro del propio sistema que la enuncia.
 
 <!-- key -->
 Church, Turing y Tarski trazan juntos la frontera de lo computable, lo decidible y lo definible.
@@ -441,7 +441,7 @@ Mirando hacia adelante, Hofstadter apuesta por marcos flexibles y analogía, no 
 ¿Cómo podría una máquina ser creativa sin un catálogo fijo de reglas? Mirando hacia adelante, Hofstadter sostiene que el conocimiento se organiza en capas de contexto llamadas <span class="term">frames</span> (marcos mentales con expectativas por defecto). Un frame trae supuestos que se ajustan según la situación. Lo ilustra con puzzles visuales que se resuelven encajando y corrigiendo esos marcos.
 
 <!-- paragraph -->
-Su apuesta más fuerte es sobre la creatividad. La inteligencia no nace de reglas rígidas. Nace del deslizamiento y la mezcla de conceptos, es decir, de la <span class="term">analogía</span> (transferir estructura de un dominio a otro). El capítulo termina con preguntas y especulaciones personales, sin cerrar si la máquina alcanzará esa maleabilidad.
+Su apuesta más fuerte es sobre la creatividad. La inteligencia no nace de reglas rígidas. Nace del deslizamiento y la mezcla de conceptos, es decir, de la <span class="term">analogía</span> (transferir estructura de un dominio a otro). Por eso el capítulo termina con preguntas y especulaciones personales, sin cerrar si la máquina alcanzará esa maleabilidad.
 
 <!-- key -->
 La inteligencia pide marcos flexibles y analogía, no un catálogo fijo de reglas de manipulación.
@@ -463,7 +463,7 @@ Todas las hebras convergen en el capítulo final sobre bucles extraños y el «y
 Hofstadter lo encuentra en sistemas que se vuelven sobre sí mismos. La ciencia estudia la ciencia. El gobierno se investiga a sí mismo. El arte rompe las reglas del arte. El cerebro piensa sobre el cerebro. En cada caso surge una <span class="term">jerarquía enredada</span> (niveles que se cruzan y se refieren entre sí).
 
 <!-- paragraph -->
-Su hipótesis es que el «yo» y la conciencia son precisamente eso. El «yo» sería un símbolo que representa al sistema entero dentro del propio sistema, un bucle que se observa observándose. Esa imagen ata de nuevo a Gödel, Escher y Bach. El libro cierra donde empezó, en la ofrenda que se refiere a sí misma.
+Su hipótesis es que el «yo» y la conciencia son precisamente eso. El «yo» sería un símbolo que representa al sistema entero dentro del propio sistema, un bucle que se observa observándose. Por eso esa imagen ata de nuevo a Gödel, Escher y Bach. El libro cierra donde empezó, en la ofrenda que se refiere a sí misma.
 
 <!-- key -->
 El «yo» es un <span class="key-term">bucle extraño</span>: un símbolo que representa al sistema entero dentro de ese sistema.
@@ -535,7 +535,7 @@ El «yo» es un <span class="key-term">bucle extraño</span>: un símbolo que re
 
 <!-- closing -->
 Mente y máquina comparten un mismo patrón que sube de nivel y vuelve al origen.
-La incompletitud no es un defecto, sino la señal de un sistema lo bastante rico para hablar de sí mismo.
+Por eso la incompletitud no es un defecto, sino la señal de un sistema lo bastante rico para hablar de sí mismo.
 <!-- highlight -->El «yo» emerge de bucles extraños que nos observan observándonos<!-- /highlight -->
 Bach, Escher y Gödel son tres caras del mismo bucle dorado.
 Comprender pide danzar entre las partes y el todo, entre la forma y el significado.

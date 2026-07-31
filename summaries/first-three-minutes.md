@@ -25,7 +25,7 @@ lang: es
 | cap8 | 08 | Epílogo: el futuro |
 | afterword | 09 | Postfacio: cosmología desde 1976 |
 | conceptos | ✦ | Conceptos clave |
-| cronologia | ◈ | Cronología |
+| cronologia | ◈ | Cronología de los descubrimientos |
 | figuras | ✦ | Figuras clave |
 | cierre | ★ | La idea central |
 
@@ -71,7 +71,7 @@ La <span class="term">Edda menor</span> (mitos nórdicos compilados ~1220 por <s
 En la última década todo cambió. Existe un «modelo estándar» del universo temprano, similar al big bang pero con una receta específica de contenidos. Lo aceptaron por presión de datos, no por modas filosóficas. Al inicio hubo una explosión simultánea en todo el espacio: cada partícula se alejó de las demás.
 
 <!-- paragraph -->
-A ~<span class="num">10⁻² s</span> y ~<span class="num">10¹¹ °C</span>, la materia era una sopa de electrones, positrones, neutrinos y fotones en equilibrio dinámico. Había ~<span class="num">10⁹</span> fotones por partícula nuclear, dato tomado de la observación del CMB.
+A ~<span class="num">10⁻² s</span> y ~<span class="num">10¹¹ °C</span>, la materia era una sopa de electrones, positrones, neutrinos y fotones en equilibrio dinámico. Había ~<span class="num">10⁹</span> fotones por partícula nuclear, dato tomado de la observación del <span class="term">fondo de radiación cósmica de microondas</span> (CMB).
 
 <!-- paragraph -->
 Al cabo de tres minutos quedaban ~<span class="num">73 %</span> hidrógeno y ~<span class="num">27 %</span> helio. El modelo deja vaguedad vergonzosa en el instante inicial y exige fijar condiciones iniciales, sobre todo el ratio fotones/nucleones. El estado estacionario (Bondi, Gold, Hoyle) evitaba el problema negando un universo temprano. Los capítulos 2 y 3 describirán las dos pistas observacionales que impusieron el modelo estándar: la recesión galáctica y la radiación estática universal.
@@ -96,10 +96,13 @@ El capítulo 1 resume el modelo; el capítulo 2 reconstruye la primera pila emp�
 El cielo nocturno parece inmutable, pero es ilusión. Las galaxias se alejan con velocidad proporcional a la distancia, así que el universo está en una explosión violenta. El <span class="term">efecto Doppler</span> (cambio de longitud de onda según el movimiento fuente-observador) permite medir velocidades radiales con gran precisión en líneas espectrales.
 
 <!-- paragraph -->
-<span class="person">Johann Christian Doppler</span> lo propuso en <span class="num">1842</span>. <span class="person">William Huggins</span> lo aplicó a estrellas en <span class="num">1868</span>.
+<span class="person">Johann Christian Doppler</span> lo propuso en 1842. <span class="person">William Huggins</span> lo aplicó a estrellas en 1868.
 
 <!-- paragraph -->
-<span class="person">Edwin Hubble</span> resolvió la nebulosa de Andrómeda (M31) en estrellas en <span class="num">1923</span>, usando variables Cefeidas. Estaba a millones de años luz: una galaxia como la nuestra. Slipher había medido corrimientos al rojo. En <span class="num">1929</span>, Hubble anunció que los corrimientos crecen con la distancia.
+<span class="person">Edwin Hubble</span> resolvió la nebulosa de Andrómeda (M31) en estrellas en 1923, usando variables Cefeidas: estrellas pulsantes cuya luminosidad revela la distancia. Estaba a millones de años luz: una galaxia como la nuestra.
+
+<!-- paragraph -->
+<span class="person">Vesto Slipher</span> ya había medido corrimientos al rojo. En 1929, Hubble anunció que esos corrimientos crecen con la distancia.
 
 <!-- paragraph -->
 El <span class="term">principio cosmológico</span> (homogeneidad e isotropía a escala de cúmulos) exige esa proporcionalidad: la ley de Hubble. Con H₀ ~<span class="num">15 km/s por millón de años luz</span>, la edad característica es ~<span class="num">20.000 millones de años</span>, menor si la gravedad frena la expansión.
@@ -133,7 +136,7 @@ En Holmdel, Nueva Jersey, <span class="person">Arno Penzias</span> y <span class
 A los ~<span class="num">700.000 años</span> de equilibrio térmico, a ~<span class="num">3000 K</span>, el universo alcanzó la «recombinación». Entonces electrones y núcleos formaron átomos, y el universo se volvió transparente.
 
 <!-- paragraph -->
-Medidas en decenas de longitudes de onda confirman distribución de <span class="term">cuerpo negro</span> (Planck) a ~<span class="num">3 K</span>. La excitación rotacional del CN en Oph (~<span class="num">2,3 K</span>, 1941) anticipó el resultado. Hay ~<span class="num">550.000 fotones/litro</span> y entre <span class="num">100 y 20.000 millones</span> fotones por protón.
+Medidas en decenas de longitudes de onda confirman distribución de <span class="term">cuerpo negro</span> (Planck) a ~<span class="num">3 K</span>. La excitación rotacional del cianuro (CN) en la nebulosa de Ofiuco (~<span class="num">2,3 K</span>, 1941) anticipó el resultado. Hay ~<span class="num">550.000 fotones/litro</span> y entre <span class="num">100 y 20.000 millones</span> fotones por protón.
 
 <!-- paragraph -->
 Ese ratio, casi constante, gobernará la nucleosíntesis. La masa de Jeans impedía formar galaxias antes de átomos estables. La transición radiación/materia (~<span class="num">4000 K</span>) y la transparencia (~<span class="num">3000 K</span>) coinciden sin explicación clara.
@@ -202,7 +205,10 @@ A ~<span class="num">14 s</span> y 3×10⁹ K, la aniquilación e⁺e⁻ calient
 Poco después, al ~<span class="num">0,9×10⁹ K</span>, llega ~<span class="num">3 min 46 s</span>. Entonces el deuterio se estabiliza y la cadena p+n → D → He ensambla ~<span class="num">26 %</span> de helio primordial. La fracción final varía entre 22 y 28 % según la densidad. No hay núcleos estables con 5 u 8 partículas.
 
 <!-- paragraph -->
-Peebles (<span class="num">1965</span>) y Wagoner–Fowler–Hoyle calcularon el helio cosmológico, y la abundancia estelar (~20–30 % He) encaja. El deuterio (~<span class="num">20 ppm</span>, Copernicus 1973) sugiere universo abierto, pero Weinberg duda inferir densidad solo del deuterio. El fondo de neutrinos (~<span class="num">2 K</span>, 71,38 % de la temperatura fotónica) sería confirmación decisiva pero indetectable. El principio cosmológico no está probado antes del primer segundo, y los modelos «mixmaster» de Misner son especulativos.
+Peebles (<span class="num">1965</span>) y Wagoner–Fowler–Hoyle calcularon el helio cosmológico, y la abundancia estelar (~20–30 % He) encaja con la predicción.
+
+<!-- paragraph -->
+El deuterio (~<span class="num">20 ppm</span>, satélite Copernicus, 1973) sugiere un universo abierto, pero Weinberg duda de inferir la densidad solo a partir del deuterio. El fondo de neutrinos (~<span class="num">2 K</span>, 71,38 % de la temperatura fotónica) sería una confirmación decisiva, aunque indetectable con la tecnología de entonces. Además, el principio cosmológico no está probado antes del primer segundo, y los modelos <span class="term">mixmaster</span> de Misner (universo caótico con expansiones desiguales) siguen siendo especulativos.
 
 <!-- big-numbers -->
 | value | label |
@@ -231,7 +237,7 @@ Si la teoría ya permitía predecir el CMB, ¿por qué nadie lo buscó antes de 
 Alpher y Herman predijeron ~<span class="num">5 K</span> en <span class="num">1948</span>. Recalcularon en <span class="num">1953</span>. Dicke fijó límite menor que 20 K en <span class="num">1946</span>. La tecnología viable existía desde mediados de los años cuarenta y cincuenta. Penzias y Wilson desconocían la predicción. En <span class="num">1964</span>, Zeldovich, Hoyle, Tayler y Peebles redescubrieron la conexión mientras Penzias y Wilson ya observaban.
 
 <!-- paragraph -->
-Tres razones explican la omisión. La primera es que la teoría de Gamow intentaba sintetizar todos los elementos en el big bang. Perdió credibilidad cuando Fermi y Turkevich mostraron que no hay núcleos estables con 5 u 8 partículas. La nucleosíntesis estelar (Salpeter, Burbidge, Fowler y Hoyle) monopolizó prestigio. La segunda fue fallas de comunicación entre teoría y experimento. Zeldovich malinterpretó «sky temperature» de Ohm como menor que 1 K. La tercera fue resistencia a tomar en serio el universo temprano como tema respetable.
+Tres razones explican la omisión. La primera es que la teoría de Gamow intentaba sintetizar todos los elementos en el big bang. Perdió credibilidad cuando Fermi y Turkevich mostraron que no hay núcleos estables con 5 u 8 partículas. La nucleosíntesis estelar (Salpeter, Burbidge, Fowler y Hoyle) monopolizó prestigio. La segunda fue fallas de comunicación entre teoría y experimento. Zeldovich malinterpretó la «temperatura del cielo» medida por Ohm como menor que 1 K. La tercera fue resistencia a tomar en serio el universo temprano como tema respetable.
 
 <!-- paragraph -->
 Hoyle y Tayler calcularon ~<span class="num">36 %</span> de helio cosmológico en <span class="num">1964</span> sin inferir el CMB. Gamow citó ~<span class="num">7 K</span> en <span class="num">1953</span> con argumento matemático falaz. Weinberg concluye que el descubrimiento de <span class="num">1965</span> «nos obligó a tomar en serio que hubo un universo temprano». El error habitual en física no es tomar las teorías demasiado en serio, sino no tomarlas lo bastante.
@@ -313,7 +319,13 @@ El epílogo cierra el arco temporal; el postfacio resume qué cambió en cosmolo
 El esquema general sigue vigente desde 1976. Incluye expansión, CMB como cuerpo negro y nucleosíntesis a ~3 min. La anisotropía del CMB confirma movimiento de la galaxia ~<span class="num">400 km/s</span> hacia Virgo. H₀ posiblemente ronda ~<span class="num">30 km/s/Mly</span>, aunque no es universalmente aceptado. La densidad total equivale a ~⅓–½ de la crítica, y los bariones aportan solo pocos %. Aparece entonces una paradoja. ¿Dónde está la masa faltante?
 
 <!-- paragraph -->
-Entre los candidatos a <span class="term">masa oscura</span> figuran neutrinos masivos (~<span class="num">10–40 eV</span>, Novosibirsk) y «photinos». <span class="person">Vera Rubin</span> mostró velocidades rotacionales altas en galaxias. Violación de bariones/leptones y generación cosmológica de bariones (Sakharov, Yoshimura) explicarían el ratio ~10⁻⁹ sin fijarlo ad hoc. <span class="person">Alan Guth</span> propuso <span class="term">inflación</span> (expansión ultrarrápida inicial) y superenfriamiento para homogeneidad, monopolos magnéticos y abundancia de materia.
+Entre los candidatos a <span class="term">masa oscura</span> figuran neutrinos masivos (10–40 eV, según experimentos en Novosibirsk) y photinos, partículas supersimétricas hipotéticas.
+
+<!-- paragraph -->
+<span class="person">Vera Rubin</span> mostró velocidades rotacionales altas en galaxias. La violación de bariones/leptones y la generación cosmológica de bariones (Sakharov, Yoshimura) explicarían el ratio ~10⁻⁹ sin fijarlo ad hoc.
+
+<!-- paragraph -->
+<span class="person">Alan Guth</span> propuso <span class="term">inflación</span> (expansión ultrarrápida inicial) y superenfriamiento para homogeneidad, monopolos magnéticos y abundancia de materia.
 
 <!-- paragraph -->
 La formación de galaxias sigue sin resolver: «la Vía Láctea y M31 siguen burlando nuestra ignorancia». Valores teóricos y experimentales del ratio bariones/fotones aún son demasiado inciertos para un test crítico. El progreso llena vacíos observacionales y empuja teoría hacia GUT e inflación, sin alterar el esquema central de 1977.
@@ -398,7 +410,7 @@ Podemos describir con confianza cuantitativa el universo desde el primer centés
 El «modelo estándar» del universo temprano descansa en datos empíricos —expansión galáctica y CMB— y en leyes conocidas de la física, no en preferencias filosóficas.
 <!-- highlight -->El equilibrio térmico borra la memoria del instante inicial, pero deja predicciones testeables como el helio primordial y la radiación de 3 K<!-- /highlight -->
 Antes del centésimo de segundo un velo de física de partículas limita lo calculable; después, la historia es numérica y verificable.
-El cosmos parece más comprensible cuanto más lejos miramos —y, para Weinberg, más carente de propósito trascendente.
+Por eso el cosmos parece más comprensible cuanto más lejos miramos —y, para Weinberg, más carente de propósito trascendente.
 Entender ese origen eleva la vida humana del absurdo hacia la tragedia.
 
 ---

@@ -726,7 +726,7 @@ export const thinkingFastAndSlow: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "En la demostración con monedas al blanco, quien acertó mucho la primera vez suele empeorar la segunda sin intervención. La retroalimentación de la vida es perversa. Somos amables cuando otros nos complacen y duros cuando fallan, confundiendo regresión con efecto propio.",
+          html: "Por eso, en la demostración con monedas al blanco, quien acertó mucho la primera vez suele empeorar la segunda sin intervención. La retroalimentación de la vida es perversa. Somos amables cuando otros nos complacen y duros cuando fallan, confundiendo regresión con efecto propio.",
         },
         {
           type: 'key',
@@ -754,7 +754,7 @@ export const thinkingFastAndSlow: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Paul Meehl</span> mostró que reglas estadísticas vencen a clínicos. Kahneman propone corrección explícita que combina impresión subjetiva con promedio poblacional. Extremos solo se justifican con evidencia muy fuerte. Cierra Parte II con remedio parcial contra heurísticas.",
+          html: "<span class=\"person\">Paul Meehl</span> mostró que reglas estadísticas vencen a clínicos. Entonces Kahneman propone corrección explícita que combina impresión subjetiva con promedio poblacional. Extremos solo se justifican con evidencia muy fuerte. Cierra Parte II con remedio parcial contra heurísticas.",
         },
         {
           type: 'key',
@@ -866,11 +866,11 @@ export const thinkingFastAndSlow: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El CIO que compró Ford porque le gustaron autos en feria muestra intuición inválida. El mercado accionario es irregular y el feedback ruidoso. Confianza subjetiva no garantiza acierto. Validar intuición exige preguntar si el entorno permite aprender regularidades.",
+          html: "El CIO que compró Ford porque le gustaron autos en feria muestra intuición inválida. El mercado accionario es irregular y la retroalimentación es ruidosa. Confianza subjetiva no garantiza acierto. Validar intuición exige preguntar si el entorno permite aprender regularidades.",
         },
         {
           type: 'key',
-          html: "Intuición fiable es reconocimiento entrenado, y sin entorno regular y feedback la confianza subjetiva engaña.",
+          html: "Intuición fiable es reconocimiento entrenado, y sin entorno regular ni retroalimentación clara la confianza subjetiva engaña.",
         },
         {
           type: 'paragraph',
@@ -894,7 +894,7 @@ export const thinkingFastAndSlow: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El <span class=\"term\">premortem</span>, es decir imaginar fracaso antes de empezar, pide listar causas antes de arrancar. Mitiga sobreconfianza grupal. Combinar visión externa y premortem mejora pronósticos organizacionales sin negar ambición.",
+          html: "El <span class=\"term\">premortem</span>, es decir imaginar fracaso antes de empezar, pide listar causas antes de arrancar. Mitiga sobreconfianza grupal. Por eso combinar visión externa y premortem mejora pronósticos organizacionales sin negar ambición.",
         },
         {
           type: 'key',
@@ -974,7 +974,7 @@ export const thinkingFastAndSlow: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La <span class=\"term\">teoría de perspectivas</span>, es decir modelo de elección con referencia, define valor sobre ganancias y pérdidas respecto a referencia. En ganancias preferimos certeza sobre apuesta arriesgada. En pérdidas preferimos apuesta arriesgada sobre pérdida segura.",
+          html: "La <span class=\"term\">teoría de perspectivas</span>, es decir modelo de elección con referencia, define valor sobre ganancias y pérdidas respecto a referencia. Por eso, en ganancias preferimos certeza sobre apuesta arriesgada, y en pérdidas preferimos apuesta arriesgada sobre pérdida segura.",
         },
         {
           type: 'paragraph',
@@ -1006,7 +1006,7 @@ export const thinkingFastAndSlow: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Comerciantes aprenden a pensar como traders, moviendo referencia. Endowment explica inercia legal y negociación porque renunciar a lo actual duele más que obtener equivalente. No es universal pero es robusto.",
+          html: "Comerciantes aprenden a pensar como negociadores, moviendo referencia. El efecto dotación explica inercia legal y negociación porque renunciar a lo actual duele más que obtener equivalente. No es universal pero es robusto.",
         },
         {
           type: 'key',
@@ -1254,7 +1254,7 @@ export const thinkingFastAndSlow: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "En el caso Jen, años felices más años tristes mejoran evaluación total si se agregan años felices al final. Eso ocurre aunque aumente sufrimiento experimentado. Colonoscopia extendida con final menos doloroso hace recuerdo mejor y aumenta probabilidad de repetir.",
+          html: "Por eso, en el caso Jen, años felices más años tristes mejoran evaluación total si se agregan años felices al final. Eso ocurre aunque aumente sufrimiento experimentado. Colonoscopia extendida con final menos doloroso hace recuerdo mejor y aumenta probabilidad de repetir.",
         },
         {
           type: 'paragraph',
@@ -1376,11 +1376,11 @@ export const thinkingFastAndSlow: BookSummary = {
   },
   {
     "year": "1974",
-    "text": "«Judgment Under Uncertainty: Heuristics and Biases» en Science."
+    "text": "«Juicio bajo incertidumbre: heurísticas y sesgos» en Science."
   },
   {
     "year": "1979",
-    "text": "«Prospect Theory: An Analysis of Decision Under Risk»."
+    "text": "«Teoría de perspectivas: un análisis de la decisión bajo riesgo»."
   },
   {
     "year": "1996",
@@ -1392,7 +1392,7 @@ export const thinkingFastAndSlow: BookSummary = {
   },
   {
     "year": "2011",
-    "text": "Publicación de Thinking, Fast and Slow."
+    "text": "Publicación de «Pensar rápido, pensar despacio»."
   }
 ],
   figures: [
@@ -1429,10 +1429,10 @@ export const thinkingFastAndSlow: BookSummary = {
     title: "La idea central",
     lines: [
   "La mente no es una calculadora racional sino un escenario donde un pensamiento rápido e intuitivo domina al deliberado.",
-  "Reconocer sesgos, usar la visión externa, fórmulas simples y mejores marcos puede mejorar juicios sin negar nuestra inteligencia cotidiana.",
-  "Tres distinciones recapitulan el libro: dos yoes, econs frente a humanos, dos sistemas.",
+  "Por eso reconocer sesgos, usar la visión externa, fórmulas simples y mejores marcos puede mejorar juicios sin negar nuestra inteligencia cotidiana.",
+  "De ahí que tres distinciones recapitulen el libro: dos yoes, econs frente a humanos, dos sistemas.",
   "Las organizaciones pueden educar el «chisme informado» en lugar de confiar ciegamente en intuición o narrativas.",
-  "La humildad ante el azar es tan importante como cualquier técnica."
+  "Por eso la humildad ante el azar es tan importante como cualquier técnica."
 ],
     highlight: "Pensar bien exige nombrar los errores del Sistema 1 y activar con parsimonia al Sistema 2.",
   },

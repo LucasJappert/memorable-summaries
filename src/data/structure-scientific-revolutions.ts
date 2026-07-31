@@ -51,12 +51,12 @@ export const structureScientificRevolutions: BookSummary = {
   {
     "id": "cap6",
     "num": "06",
-    "label": "Anomalía y descubrimientos"
+    "label": "Anomalía y descubrimientos científicos"
   },
   {
     "id": "cap7",
     "num": "07",
-    "label": "Crisis y nuevas teorías"
+    "label": "Crisis y nuevas teorías científicas"
   },
   {
     "id": "cap8",
@@ -66,7 +66,7 @@ export const structureScientificRevolutions: BookSummary = {
   {
     "id": "cap9",
     "num": "09",
-    "label": "Naturaleza de las revoluciones"
+    "label": "Naturaleza y necesidad de las revoluciones científicas"
   },
   {
     "id": "cap10",
@@ -242,7 +242,7 @@ export const structureScientificRevolutions: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Kuhn distingue tres focos empíricos principales. Uno es medir hechos especialmente reveladores, como posiciones estelares o pesos combinantes. Otro es contrastar predicción y observación, como en el paralaje o la máquina de Atwood. Un tercero es articular la teoría mediante constantes, leyes cuantitativas o resolución de ambigüedades.",
+          html: "Por eso Kuhn distingue tres focos empíricos principales. Uno es medir hechos especialmente reveladores, como posiciones estelares o pesos combinantes. Otro es contrastar predicción y observación, como en el paralaje o la máquina de Atwood. Un tercero es articular la teoría mediante constantes, leyes cuantitativas o resolución de ambigüedades.",
         },
         {
           type: 'paragraph',
@@ -306,7 +306,7 @@ export const structureScientificRevolutions: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Según <span class=\"person\">Wittgenstein</span>, no hay rasgos necesarios y suficientes para «juego» o «silla». Hay parecidos de familia. Igual ocurre con problemas y técnicas de una tradición. Los científicos aprenden force o mass resolviendo problemas modelo. Por eso el paradigma concreto es anterior y más vinculante que las reglas.",
+          html: "Según <span class=\"person\">Wittgenstein</span>, no hay rasgos necesarios y suficientes para «juego» o «silla». Hay parecidos de familia. Igual ocurre con problemas y técnicas de una tradición. Los científicos aprenden qué es la fuerza o la masa resolviendo problemas modelo. Por eso el paradigma concreto es anterior y más vinculante que las reglas.",
         },
         {
           type: 'paragraph',
@@ -590,7 +590,7 @@ export const structureScientificRevolutions: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Reconoce circularidad inicial entre paradigma y comunidad. Propone empezar por estructura comunitaria, especialidades de unos cien miembros o menos. Luego hallar compromisos compartidos. Introduce <span class=\"term\">matriz disciplinar</span>, es decir la constelación de valores, técnicas y exemplars de una especialidad.",
+          html: "Kuhn reconoce la circularidad inicial entre paradigma y comunidad. Por eso propone empezar por la estructura comunitaria, especialidades de unos cien miembros o menos, y luego hallar compromisos compartidos. Introduce la <span class=\"term\">matriz disciplinar</span>, es decir la constelación de valores, técnicas y exemplars de una especialidad.",
         },
         {
           type: 'paragraph',

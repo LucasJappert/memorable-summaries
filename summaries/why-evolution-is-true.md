@@ -14,7 +14,7 @@ lang: es
 
 | id         | num | label                                         |
 | ---------- | --- | --------------------------------------------- |
-| prefacio   | 00  | Prefacio e introducción                       |
+| prefacio   | 00  | Dover, encuestas y por qué importa la evidencia |
 | cap1       | 01  | ¿Qué es la evolución?                         |
 | cap2       | 02  | Escrito en las rocas                          |
 | cap3       | 03  | Vestigios: remanentes, embriones y mal diseño |
@@ -25,7 +25,7 @@ lang: es
 | cap8       | 08  | ¿Qué hay de nosotros?                         |
 | cap9       | 09  | Evolución revisitada                          |
 | conceptos  | ✦   | Conceptos clave                               |
-| cronologia | ◈   | Cronología                                    |
+| cronologia | ◈   | Cronología de descubrimientos                 |
 | figuras    | ✦   | Figuras clave                                 |
 | cierre     | —   | La idea central                               |
 
@@ -136,7 +136,7 @@ El registro confirma predicciones evolutivas. Las formas simples preceden a las 
 
 <!-- paragraph -->
 
-Otros fósiles confirman la misma lógica. El Archaeopteryx y los dinosaurios emplumados de China enlazan reptiles y aves. Las ballenas derivan de Indohyus y Pakicetus en unos diez millones de años. J. B. S. Haldane dijo que un conejo fósil en el Precámbrico refutaría la evolución. Nunca apareció.
+Otros fósiles confirman la misma lógica. El Archaeopteryx y los dinosaurios emplumados de China enlazan reptiles y aves. Las ballenas derivan de Indohyus y Pakicetus en unos diez millones de años. El biólogo <span class="person">J. B. S. Haldane</span> dijo que un conejo fósil en el Precámbrico refutaría la evolución. Nunca apareció.
 
 <!-- big-numbers -->
 
@@ -210,7 +210,7 @@ Si los cuerpos actuales guardan huellas del pasado, la distribución geográfica
 
 <!-- paragraph -->
 
-La <span class="term">biogeografía</span> (el estudio de dónde viven las especies y por qué) fue crucial para Darwin en el _Beagle_. Ocupa dos capítulos del _Origen_. Los creacionistas no han refutado seriamente esta evidencia. Simplemente la ignoran.
+La <span class="term">biogeografía</span> (el estudio de dónde viven las especies y por qué) fue crucial para Darwin en el _Beagle_. Ocupa dos capítulos del _Origen_. Pero los creacionistas no han refutado seriamente esta evidencia: simplemente la ignoran.
 
 <!-- paragraph -->
 
@@ -222,7 +222,7 @@ Australia muestra otro patrón. Los marsupiales de Australia imitan roedores, to
 
 <!-- paragraph -->
 
-Las islas oceánicas carecen de mamíferos, anfibios y peces de agua dulce nativos. Abundan aves, insectos y plantas que pueden dispersarse. Sus especies se parecen a las del continente más cercano. Galápagos recuerda a Sudamérica. Hawai recuerda el Indo-Pacífico. Radiaciones adaptativas como los pinzones de Darwin y los honeycreepers hawaianos llenan nichos vacíos.
+Las islas oceánicas carecen de mamíferos, anfibios y peces de agua dulce nativos. Abundan aves, insectos y plantas que pueden dispersarse. Sus especies se parecen a las del continente más cercano. Galápagos recuerda a Sudamérica. Hawai recuerda el Indo-Pacífico. Radiaciones adaptativas como los pinzones de Darwin y los mieleros hawaianos llenan nichos vacíos.
 
 <!-- concept-grid -->
 
@@ -492,13 +492,13 @@ La evolución no está en crisis. Es el <span class="key-term">marco unificador<
 <!-- closing -->
 
 La evolución no es una creencia opcional: es hecho científico.
-Fósiles, genes, geografía y desarrollo convergen en la misma historia.
+Por eso fósiles, genes, geografía y desarrollo convergen en la misma historia.
 
 <!-- highlight -->La evolución es verdad tan cierta como la gravedad<!-- /highlight -->
 
 La selección natural explica la complejidad sin diseñador.
 Entenderla no empobrece la vida humana: revela nuestro parentesco con todo lo vivo.
-La resistencia viene de la religión y el miedo, no de lagunas en la evidencia.
+Pero la resistencia viene de la religión y el miedo, no de lagunas en la evidencia.
 
 ---
 

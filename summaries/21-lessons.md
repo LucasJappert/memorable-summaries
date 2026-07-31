@@ -46,7 +46,7 @@ lang: es
 # prefacio
 
 ## num: Prefacio
-## title: Claridad en un mundo inundado de información
+## title: Introducción
 
 <!-- paragraph lead -->
 ¿Cómo orientarse cuando la información sobra y la relevancia falta? Harari abre con una tesis simple: la <span class="term">claridad</span>, o sea, saber qué importa y por qué, es poder en el siglo XXI. Miles de millones no pueden investigar el futuro de la humanidad porque deben trabajar, criar hijos o cuidar ancianos. Aun así, la historia no concede descuentos. Cuando el futuro se decide en su ausencia, ellos y sus hijos pagan las consecuencias.
@@ -72,13 +72,13 @@ La primera lección pregunta qué ocurre cuando ese relato liberal deja de conve
 # cap1
 
 ## num: 01
-## title: Desilusión — Se pospuso el fin de la historia
+## title: Desilusión
 
 <!-- paragraph lead -->
 ¿Por qué tantas sociedades perdieron la fe en el futuro tras <span class="num">1989</span>? Los humanos pensamos en <span class="term">historias</span>, o sea, relatos que dan sentido a los hechos, no en datos aislados. En el siglo XX, las élites globales ofrecieron tres grandes relatos: fascismo, comunismo y liberalismo. Tras <span class="num">1945</span> quedaron dos. Tras <span class="num">1989</span>, uno solo.
 
 <!-- paragraph -->
-El relato liberal celebra la libertad: democracia, derechos humanos, mercados libres y bienestar estatal. Parecía destinado a conquistar el mundo. La crisis financiera de 2008 cambió el clima. Crecieron muros, resistencia a la inmigración y autoritarismos. Brexit y Donald Trump, en 2016, marcaron cuando la ola llegó al núcleo liberal occidental. En 1938 había tres historias. En 1968, dos. En 1998, una. En 2018, cero.
+El relato liberal celebra la libertad: democracia, derechos humanos, mercados libres y bienestar estatal. Parecía destinado a conquistar el mundo. Pero la crisis financiera de 2008 cambió el clima. Crecieron muros, resistencia a la inmigración y autoritarismos. Brexit y Donald Trump, en 2016, marcaron cuando la ola llegó al núcleo liberal occidental. En 1938 había tres historias. En 1968, dos. En 1998, una. En 2018, cero.
 
 <!-- paragraph -->
 La disrupción tecnológica agrava la desorientación. Internet, IA y blockchain transforman finanzas y política. Los votantes temen la <span class="term">irrelevancia</span>, es decir, volverse prescindibles, más que la explotación. Trump y Brexit fueron apoyados por quienes aún tenían poder político. Temían perder valor económico. Es una trayectoria opuesta a las revoluciones del siglo XX.
@@ -101,7 +101,7 @@ Si el relato se desmorona, el empleo es el primer terreno donde la tecnología p
 # cap2
 
 ## num: 02
-## title: Trabajo — Cuando crezcas quizá no tengas trabajo
+## title: Trabajo
 
 <!-- paragraph lead -->
 ¿Qué trabajos existirán en <span class="num">2050</span>? Nadie lo sabe con certeza. El <span class="term">aprendizaje automático</span>, o sea, programas que mejoran solos con datos, y la robótica cambiarán casi toda línea de trabajo. Unos prevén desempleo masivo. Otros creen que seguirán creándose empleos. A diferencia de revoluciones anteriores, la IA ya supera a humanos en tareas cognitivas.
@@ -130,7 +130,7 @@ El mismo avance tecnológico que amenaza el trabajo también cuestiona la idea l
 # cap3
 
 ## num: 03
-## title: Libertad — El Big Data te vigila
+## title: Libertad
 
 <!-- paragraph lead -->
 ¿Sigue teniendo sentido la <span class="term">libre voluntad</span>, es decir, la creencia de que elegimos por nosotros mismos? El liberalismo sitúa la autoridad en el individuo: el votante sabe, el cliente tiene razón, sigue tu corazón. Pero las elecciones son sobre sentimientos, no racionalidad. Pronto los algoritmos podrían entender y manipular esos sentimientos mejor que nosotros.
@@ -156,13 +156,13 @@ Si los algoritmos leen emociones, también concentran riqueza y poder de un modo
 # cap4
 
 ## num: 04
-## title: Igualdad — Quienes poseen los datos poseen el futuro
+## title: Igualdad
 
 <!-- paragraph lead -->
 ¿La globalización redujo la desigualdad como prometió? El siglo XXI podría crear las sociedades más desiguales de la historia. El <span class="num">1%</span> más rico posee la mitad de la riqueza mundial. Las cien personas más ricas tienen más que los cuatro mil millones más pobres.
 
 <!-- paragraph -->
-La IA podría eliminar el valor económico de la mayoría. La biotecnología traduciría desigualdad económica en <span class="term">desigualdad biológica</span>, o sea, ventajas corporales y cognitivas heredables. Superhumanos ricos frente a una clase inútil de <em>Homo sapiens</em>. Hacia <span class="num">2100</span>, los ricos podrían ser genuinamente más talentosos, no solo más privilegiados legalmente. Eso abriría una brecha casi imposible de cerrar.
+La IA podría eliminar el valor económico de la mayoría. Por eso, la biotecnología traduciría desigualdad económica en <span class="term">desigualdad biológica</span>, o sea, ventajas corporales y cognitivas heredables. Superhumanos ricos frente a una clase inútil de <em>Homo sapiens</em>. Hacia <span class="num">2100</span>, los ricos podrían ser genuinamente más talentosos, no solo más privilegiados legalmente. Eso abriría una brecha casi imposible de cerrar.
 
 <!-- paragraph -->
 En el siglo XXI los <span class="term">datos</span>, es decir, registros digitales de comportamiento y biología, eclipsan tierra y maquinaria como activo clave. Google, Facebook, Baidu y Tencent acumulan atención y datos. El modelo futuro transfiere autoridad de humanos a algoritmos que eligen y compran por nosotros. La pregunta política más urgente del siglo es quién posee esos datos.
@@ -183,7 +183,7 @@ La desigualdad digital choca con el anhelo humano de pertenecer a una comunidad 
 # cap5
 
 ## num: 05
-## title: Comunidad — Los humanos tienen cuerpos
+## title: Comunidad
 
 <!-- paragraph lead -->
 ¿Puede una red social sustituir la vecindad? Tras las elecciones de 2016, <span class="person">Mark Zuckerberg</span> prometió construir una <span class="term">comunidad global</span>, es decir, vínculos significativos entre extraños. El CEO de Facebook quería que la IA sugiera grupos a mil millones de personas. El escándalo Cambridge Analytica socavó esa promesa. La tensión central permanece.
@@ -192,7 +192,7 @@ La desigualdad digital choca con el anhelo humano de pertenecer a una comunidad 
 Somos animales de la Edad de Piedra adaptados a bandas de unas <span class="num">150</span> personas. Ese límite se conoce como la regla de Dunbar. Las comunidades íntimas se desintegraron. Las «familias» nacionales o partidarias no sustituyen el calor de un hermano real. Facebook gana vendiendo atención a anunciantes. Es difícil construir comunidad auténtica con ese modelo.
 
 <!-- paragraph -->
-Las comunidades online carecen de profundidad física. Nadie te trae sopa por WiFi. La tecnología nos aleja del cuerpo. Miramos smartphones en lugar de la pareja en el desayuno. Zuckerberg quiere que compartamos experiencias. Quizá necesitamos herramientas para conectar con nuestras propias sensaciones. El puente online-offline es la prueba decisiva de Facebook.
+Las comunidades online carecen de profundidad física. Por eso, nadie te trae sopa por WiFi. La tecnología nos aleja del cuerpo. Miramos smartphones en lugar de la pareja en el desayuno. Zuckerberg quiere que compartamos experiencias. Quizá necesitamos herramientas para conectar con nuestras propias sensaciones. El puente online-offline es la prueba decisiva de Facebook.
 
 <!-- key -->
 Un paso crucial hacia unir la humanidad es recordar que los humanos tienen cuerpos. La comunidad real exige presencia física, no solo algoritmos.
@@ -205,7 +205,7 @@ Esa humanidad encarnada comparte, a su vez, más de lo que sugieren los relatos 
 # cap6
 
 ## num: 06
-## title: Civilización — Solo hay una civilización en el mundo
+## title: Civilización
 
 <!-- paragraph lead -->
 ¿Existen civilizaciones separadas e irreconciliables? La tesis del «choque de civilizaciones», Occidente contra Islam, domina el debate tras Siria, ISIS y Brexit. Harari la rechaza. El fundamentalismo islámico desafía una <span class="term">civilización global</span>, o sea, un mismo tejido de ciencia, salud y derecho. No es una occidental exclusiva. El ISIS une a Irán y EE.UU. en su contra.
@@ -214,7 +214,7 @@ Esa humanidad encarnada comparte, a su vez, más de lo que sugieren los relatos 
 La analogía biológica es falsa. Las especies animales tienen identidades genéticas estables. Las civilizaciones humanas cambian radicalmente. Alemania pasó por seis sistemas en menos de un siglo. No hay esencia alemana inmutable desde <span class="person">Guillermo II</span> hasta <span class="person">Angela Merkel</span>.
 
 <!-- paragraph -->
-Salud, riqueza y ciencia son estándares globales. Las diferencias culturales son «condimentos» sobre el mismo plato. Cuando algo funciona de verdad, todo el mundo lo adopta. Antibióticos, electricidad y constituciones son ejemplos. Hablar de civilizaciones separadas e irreconciliables es mala historia y peor política.
+Salud, riqueza y ciencia son estándares globales. De hecho, las diferencias culturales son «condimentos» sobre el mismo plato. Cuando algo funciona de verdad, todo el mundo lo adopta. Antibióticos, electricidad y constituciones son ejemplos. Hablar de civilizaciones separadas e irreconciliables es mala historia y peor política.
 
 <!-- key -->
 Hay una sola civilización planetaria en formación. Los conflictos actuales son disputas internas, no guerras entre especies culturales distintas.
@@ -227,7 +227,7 @@ Dentro de esa civilización única, el nacionalismo vuelve a encender fronteras 
 # cap7
 
 ## num: 07
-## title: Nacionalismo — Los problemas globales requieren respuestas globales
+## title: Nacionalismo
 
 <!-- paragraph lead -->
 ¿Por qué resurge el <span class="term">nacionalismo</span>, es decir, la lealtad extrema a un Estado, si la humanidad es una civilización única? No es eterno ni biológico. La lealtad a millones de desconocidos requiere inmensa construcción social. Las presas del Nilo unieron tribus en nación.
@@ -236,7 +236,10 @@ Dentro de esa civilización única, el nacionalismo vuelve a encender fronteras 
 El patriotismo moderado puede ser benévolo. El ultra-nacionalismo exige lealtad total y alimenta guerras. Después de 1945 y Hiroshima, la amenaza nuclear empujó cooperación internacional. El anuncio Daisy de <span class="person">Lyndon Johnson</span> (<span class="num">1964</span>) vinculó supervivencia con amor mutuo. Hoy esa lección parece olvidada. Regresa la carrera nuclear y el Brexit ignora la paz europea que costó décadas construir.
 
 <!-- paragraph -->
-Tres desafíos exigen respuestas globales, no muros. La <span class="term">guerra nuclear</span>, o sea, el riesgo de aniquilación masiva, puede destruir civilizaciones enteras. El <span class="term">colapso ecológico</span>, o sea, el calentamiento y la pérdida de biodiversidad, ya es realidad presente. La disrupción tecnológica atraviesa fronteras sin pedir permiso. Reducir emisiones en veinte años es urgente. Gritar «¡nuestro país primero!» sin cooperación robusta no protege ni al país ni al planeta.
+Tres desafíos exigen respuestas globales, no muros. Por eso, la <span class="term">guerra nuclear</span> (aniquilación masiva) amenaza civilizaciones enteras. El calentamiento global y la pérdida de biodiversidad ya son realidad presente.
+
+<!-- paragraph -->
+Además, la disrupción tecnológica atraviesa fronteras sin pedir permiso. Reducir emisiones en veinte años es urgente. Gritar «¡nuestro país primero!» sin cooperación robusta no protege ni al país ni al planeta.
 
 <!-- timeline -->
 | year | text |
@@ -256,7 +259,7 @@ En ese clima político, las religiones vuelven a ofrecer identidad aunque no res
 # cap8
 
 ## num: 08
-## title: Religión — Dios ahora sirve a la nación
+## title: Religión
 
 <!-- paragraph lead -->
 ¿Pueden las religiones tradicionales guiarnos en la era de la IA y el calentamiento global? Harari distingue tres tipos de problemas. Los <span class="term">técnicos</span>, o sea, los que piden saber cómo regar con sequía. Los de <span class="term">política</span>, o sea, cómo prevenir el calentamiento. Los de <span class="term">identidad</span>, o sea, si me importan agricultores lejanos.
@@ -278,7 +281,7 @@ Una de las fronteras donde esa identidad estalla con más fuerza es la inmigraci
 # cap9
 
 ## num: 09
-## title: Inmigración — Algunas culturas pueden ser mejor que otras
+## title: Inmigración
 
 <!-- paragraph lead -->
 ¿Por qué la inmigración fractura democracias que supuestamente trascendieron diferencias? Europa prometió superar la frontera entre franceses y alemanes. Podría fracturarse ante diferencias con migrantes de África y Oriente Medio. Los sirios prefieren Alemania a Arabia Saudita por su historial de acogida.
@@ -287,7 +290,7 @@ Una de las fronteras donde esa identidad estalla con más fuerza es la inmigraci
 Harari modela la inmigración como un trato de tres términos. Primero, el país anfitrión deja entrar. Segundo, los inmigrantes adoptan normas centrales del anfitrión. Tercero, tras asimilación, se convierten en ciudadanos de pleno derecho. Cuatro debates separados se mezclan en gritos cruzados: obligación versus favor, grado de asimilación, plazo para la igualdad y cumplimiento real.
 
 <!-- paragraph -->
-Pro-inmigración ve derecho moral a buscar mejor vida. Anti-inmigración ve privilegio del anfitrión de elegir. La asimilación plantea otra pregunta. ¿Basta la tolerancia liberal o se exige adoptar una identidad nacional específica? Las escalas chocan. Para el Estado, cuarenta años es poco. Para un joven nacido en Francia, es toda la vida.
+Pro-inmigración ve derecho moral a buscar mejor vida. Anti-inmigración ve privilegio del anfitrión de elegir. En cambio, la asimilación plantea otra pregunta. ¿Basta la tolerancia liberal o se exige adoptar una identidad nacional específica? Las escalas chocan. Para el Estado, cuarenta años es poco. Para un joven nacido en Francia, es toda la vida.
 
 <!-- key -->
 Sin acuerdo sobre los tres términos del trato, el debate de inmigración seguirá siendo un campo de batalla cultural sin salida clara.
@@ -300,13 +303,13 @@ Otro miedo que alimenta el cierre de fronteras es el terrorismo, aunque sus núm
 # cap10
 
 ## num: 10
-## title: Terrorismo — No entres en pánico
+## title: Terrorismo
 
 <!-- paragraph lead -->
 ¿Por qué un puñado de ataques paraliza continentes enteros? Los terroristas son maestros del <span class="term">control mental</span>, es decir, de convertir pocas muertes en miedo masivo. En la UE, desde 2001, mueren unos 50 personas al año por terrorismo. En accidentes de tráfico europeos mueren unos 80.000. El azúcar y la contaminación matan muchos más que las bombas.
 
 <!-- paragraph -->
-El terrorismo es estrategia de actores débiles. Busca cambiar la política mediante el miedo, no el daño material. Como la mosca que no puede romper la vajilla, entra en el oído del toro. Después del 11-S, Estados Unidos destruyó la tienda en Oriente Medio. El enemigo conserva todas sus opciones militares. El estado pierde los nervios y sobre-reacciona.
+El terrorismo es estrategia de actores débiles. Por eso, busca cambiar la política mediante el miedo, no el daño material. Como la mosca que no puede romper la vajilla, entra en el oído del toro. Después del 11-S, Estados Unidos destruyó la tienda en Oriente Medio. El enemigo conserva todas sus opciones militares. El estado pierde los nervios y sobre-reacciona.
 
 <!-- paragraph -->
 La legitimidad moderna exige un espacio público libre de violencia política. Un acto raro resuena como moneda en un frasco vacío. Matar a decenas en Bélgica impacta más que matar a cientos en Nigeria. La respuesta eficaz consiste en un teatro de seguridad mesurado. Invasiones y persecuciones masivas alimentan el ciclo.
@@ -329,7 +332,7 @@ El terrorismo es raro, pero la guerra convencional sigue siendo un riesgo que no
 # cap11
 
 ## num: 11
-## title: Guerra — Nunca subestimes la estupidez humana
+## title: Guerra
 
 <!-- paragraph lead -->
 ¿Vivimos en paz o en la antesala de nuevos conflictos? Hoy la violencia causa ~<span class="num">1%</span> de muertes humanas frente a ~<span class="num">15%</span> en sociedades agrarias tempranas. Es la era más pacífica de la historia. El belicismo regresa desde 2008, no obstante, y el gasto militar crece.
@@ -351,7 +354,7 @@ Antes de imponer nuestras certezas al mundo, Harari pide humildad histórica.
 # cap12
 
 ## num: 12
-## title: Humildad — No eres el centro del mundo
+## title: Humildad
 
 <!-- paragraph lead -->
 ¿Por qué cada cultura cree ser el eje de la historia? Griegos con Platón, chinos con el Emperador Amarillo, hindúes con aviones védicos, musulmanes con la ummah. Todas esas afirmaciones combinan ignorancia histórica con racismo encubierto.
@@ -373,7 +376,7 @@ Esa humildad también aplica a cómo invocamos a Dios en debates públicos.
 # cap13
 
 ## num: 13
-## title: Dios — No tomes el nombre de Dios en vano
+## title: Dios
 
 <!-- paragraph lead -->
 ¿Existe Dios? Depende de cuál. El <span class="term">misterio cósmico</span>, o sea, el enigma de por qué hay algo y qué es la conciencia, es el Dios de los filósofos. Sobre él no podemos decir nada concreto. El <span class="term">legislador mundano</span>, es decir, un Dios que dicta leyes sobre faldas y votos, es el de cruzados y yihadistas. Sobre él supuestamente sabemos demasiado.
@@ -395,7 +398,7 @@ Una alternativa a esas reglas divinas es el secularismo, entendido como código 
 # cap14
 
 ## num: 14
-## title: Secularismo — Reconoce tu sombra
+## title: Secularismo
 
 <!-- paragraph lead -->
 ¿El <span class="term">secularismo</span>, es decir, la orientación hacia valores independientes de revelación, es solo negación de religión? Harari lo define como código positivo basado en verdad y <span class="term">compasión</span>, o sea, preocupación por el sufrimiento ajeno. También incluye igualdad, libertad, coraje y responsabilidad. Millones de musulmanes, cristianos e hindúes comparten estos valores.
@@ -417,7 +420,7 @@ Ese humanismo parte de admitir cuánto ignoramos, no de presumir saberlo todo.
 # cap15
 
 ## num: 15
-## title: Ignorancia — Sabes menos de lo que crees
+## title: Ignorancia
 
 <!-- paragraph lead -->
 ¿Cuánto sabemos realmente de lo que opinamos? Nadie puede procesar todo lo descrito en este libro, y eso es correcto. El mito del individuo racional sustenta democracia, mercado y educación liberal. Pero la mayoría de decisiones son emocionales y heurísticas. Son inadecuadas para la era del silicio.
@@ -439,7 +442,7 @@ Reconocer ignorancia no basta por sí solo. La justicia exige marcos que nuestra
 # cap16
 
 ## num: 16
-## title: Justicia — Nuestro sentido de la justicia puede estar desfasado
+## title: Justicia
 
 <!-- paragraph lead -->
 ¿Por qué los dilemas morales del siglo XXI nos desbordan? La justicia evolucionó en bandas de cazadores-recolectores. Allí importaba si compartías la caza o si podías arrebatar hongos al más fuerte. Los dilemas actuales parecen versiones ampliadas. El punto clave es que el <span class="term">tamaño importa</span>, o sea, que no estamos adaptados a escala planetaria.
@@ -461,7 +464,7 @@ Esa imaginación choca con una especie que siempre vivió entre hechos y ficcion
 # cap17
 
 ## num: 17
-## title: Posverdad — Algunas fake news duran para siempre
+## title: Posverdad
 
 <!-- paragraph lead -->
 ¿Vivimos en una era de mentiras sin precedentes? Se dice que estamos en «posverdad». <span class="person">Vladimir Putin</span> negó tropas rusas en Crimea mientras mentía deliberadamente. Pero ¿cuándo fue la edad de oro de la verdad? La propaganda y naciones ficticias tienen larga historia.
@@ -483,7 +486,7 @@ Una de esas ficciones más influyentes sobre el futuro llega disfrazada de entre
 # cap18
 
 ## num: 18
-## title: Ciencia ficción — El futuro no es lo que ves en el cine
+## title: Ciencia ficción
 
 <!-- paragraph lead -->
 ¿Qué películas moldean nuestra idea del futuro? La ciencia ficción influye en cómo entendemos IA y biotecnología más que los papers científicos. <em>Matrix</em>, <em>Her</em>, <em>Westworld</em> y <em>Black Mirror</em> son el currículo popular del futuro. Tienen responsabilidad enorme.
@@ -505,7 +508,7 @@ Para afrontar ese futuro, la escuela debe enseñar algo distinto de lo que ense�
 # cap19
 
 ## num: 19
-## title: Educación — El cambio es la única constante
+## title: Educación
 
 <!-- paragraph lead -->
 ¿Qué enseñar a un bebé que tendrá treinta y pico en <span class="num">2050</span>? Podría vivir hasta el siglo XXII. En <span class="num">1018</span> sabían que en <span class="num">1050</span> seguirían siendo agricultores. Hoy no sabemos qué trabajos existirán ni qué significará «ser humano».
@@ -514,7 +517,7 @@ Para afrontar ese futuro, la escuela debe enseñar algo distinto de lo que ense�
 Las escuelas acumulan información cuando sobra y falta sentido. En el siglo XXI el desafío es discernir lo importante, construir panorama global y resistir distracciones. Los «cuatro C» son pensamiento crítico, comunicación, colaboración y creatividad. Harari suma la <span class="term">reinvención personal</span>, o sea, volver a aprender y reorientarse a lo largo de la vida.
 
 <!-- paragraph -->
-El modelo vida de aprendizaje más vida de trabajo se rompe. La longevidad y el cambio acelerado obligan a reinventarse a los 25, 35 y 45. La resiliencia emocional ante lo desconocido importa más que saber C++ o chino. Quizá obsoletos antes de los treinta.
+El modelo vida de aprendizaje más vida de trabajo se rompe. Por eso, la longevidad y el cambio acelerado obligan a reinventarse a los 25, 35 y 45. La resiliencia emocional ante lo desconocido importa más que saber C++ o chino. Quizá obsoletos antes de los treinta.
 
 <!-- key -->
 Enseñar a aprender, a adaptarse y a mantener equilibrio mental: las únicas certezas en un mundo donde hasta el cuerpo y la mente serán ingeniería.
@@ -527,7 +530,7 @@ Aprender a adaptarse no responde, sin embargo, la pregunta más íntima: para qu
 # cap20
 
 ## num: 20
-## title: Significado — La vida no es una historia
+## title: Significado
 
 <!-- paragraph lead -->
 ¿Para qué vivir si no hay un guion cósmico? Casi siempre la búsqueda de sentido adopta la forma de una <span class="term">historia</span>, o sea, un relato con papel asignado. El círculo eterno del <em>Bhagavad Gita</em> y <em>El rey león</em> son ejemplos. También la línea temporal del Islam o el sionismo, o la lucha de clases marxista. Cada relato asigna un papel cósmico que da sentido a lo cotidiano.
@@ -549,7 +552,7 @@ Harari cierra el libro con la práctica personal que él usa para mirar la mente
 # cap21
 
 ## num: 21
-## title: Meditación — Solo observa
+## title: Meditación
 
 <!-- paragraph lead -->
 ¿Qué hace un historiador escéptico cuando deja de confiar en las grandes historias? Harari explica su propia práctica: <span class="term">Vipassana</span>, o sea, meditación de introspección, aprendida con <span class="person">S. N. Goenka</span> en <span class="num">2000</span>. No es misticismo New Age. Consiste en observar la respiración en las fosas nasales, sin controlar ni juzgar.
@@ -595,7 +598,7 @@ La práctica de observar sin historia fue la herramienta personal que Harari des
 # cronologia
 
 ## num: ◈
-## title: Cronología de contexto
+## title: Cronología
 
 <!-- timeline -->
 | year | text |

@@ -81,7 +81,7 @@ export const somethingDeeplyHidden: BookSummary = {
   {
     "id": "cap13",
     "num": "13",
-    "label": "Gravedad dentro de la cuántica"
+    "label": "Gravedad dentro de la mecánica cuántica"
   },
   {
     "id": "cap14",
@@ -96,7 +96,7 @@ export const somethingDeeplyHidden: BookSummary = {
   {
     "id": "cronologia",
     "num": "◈",
-    "label": "Cronología"
+    "label": "Cronología de hitos"
   },
   {
     "id": "figuras",
@@ -193,7 +193,7 @@ export const somethingDeeplyHidden: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Si la función de onda es la realidad y no hay colapsos, medir es una interacción física ordinaria. Un electrón en superposición se entrelaza con el aparato y con el observador. Todos quedan en superposición correlacionada. La salida aparente es que el observador nunca «siente» estar en superposición. Eso llevó a inventar reglas de colapso.",
+          html: "Si la función de onda es la realidad y no hay colapsos, entonces medir es una interacción física ordinaria. Un electrón en superposición se entrelaza con el aparato y con el observador. Todos quedan en superposición correlacionada. La salida aparente es que el observador nunca «siente» estar en superposición. Eso llevó a inventar reglas de colapso.",
         },
         {
           type: 'paragraph',
@@ -282,7 +282,7 @@ export const somethingDeeplyHidden: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "En la doble rendija, electrones individuales dibujan un patrón de interferencia como ondas. Impactan como partículas. Cuando detectamos por qué rendija pasan, la interferencia desaparece. El entrelazamiento con el detector destruye la superposición espacial. El experimento refuta la idea de que Ψ solo codifica ignorancia sobre una trayectoria clásica oculta.",
+          html: "Por eso, en la doble rendija, electrones individuales dibujan un patrón de interferencia como ondas. Impactan como partículas. Cuando detectamos por qué rendija pasan, la interferencia desaparece. El entrelazamiento con el detector destruye la superposición espacial. El experimento refuta la idea de que Ψ solo codifica ignorancia sobre una trayectoria clásica oculta.",
         },
         {
           type: 'paragraph',
@@ -375,7 +375,7 @@ export const somethingDeeplyHidden: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Un aparato macroscópico en superposición interactúa con aire, fotones y calor. El entorno se entrelaza de forma distinta con cada rama. Eso impide la <span class=\"term\">interferencia</span> (la superposición visible de ondas que se refuerzan o cancelan) entre ellas. Así se definen mundos separados. Ramas decoherentes no pueden afectarse mutuamente. La medición no es mística ni requiere conciencia. Basta un grano de polvo entrelazado con el ambiente.",
+          html: "Por eso, un aparato macroscópico en superposición interactúa con aire, fotones y calor. El entorno se entrelaza de forma distinta con cada rama. Eso impide la <span class=\"term\">interferencia</span> (la superposición visible de ondas que se refuerzan o cancelan) entre ellas. Así se definen mundos separados. Ramas decoherentes no pueden afectarse mutuamente. La medición no es mística ni requiere conciencia. Basta un grano de polvo entrelazado con el ambiente.",
         },
         {
           type: 'paragraph',
@@ -487,7 +487,7 @@ export const somethingDeeplyHidden: BookSummary = {
         },
         {
           type: 'key',
-          html: "Las alternativas eliminan mundos añadiendo dinámica, variables o negando la ontología de Ψ, pero pagan complejidad y rigidez frente a la plug-and-play everettiana.",
+          html: "Las alternativas eliminan mundos añadiendo dinámica, variables o negando la ontología de Ψ, pero pagan complejidad y rigidez frente a la formulación everettiana modular.",
         },
         {
           type: 'paragraph',
@@ -587,7 +587,7 @@ export const somethingDeeplyHidden: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "¿Por qué cuantizar la relatividad general choca con infinitos y con la falta de un espacio de fondo fijo? Carroll invierte el problema. Parte de Ψ abstracta y extrae geometría. En <span class=\"num\">1995</span>, el físico <span class=\"person\">Ted Jacobson</span> mostró un resultado clave. Si la entropía de entrelazamiento de una región es proporcional al área de su frontera, se puede derivar la ecuación de Einstein.",
+          html: "¿Por qué cuantizar la relatividad general choca con infinitos y con la falta de un espacio de fondo fijo? Por eso, Carroll invierte el problema: parte de Ψ abstracta y extrae geometría. En <span class=\"num\">1995</span>, el físico <span class=\"person\">Ted Jacobson</span> mostró un resultado clave. Si la entropía de entrelazamiento de una región es proporcional al área de su frontera, se puede derivar la ecuación de Einstein.",
         },
         {
           type: 'paragraph',

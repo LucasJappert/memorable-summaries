@@ -16,17 +16,17 @@ export const sevenBriefLessons: BookSummary = {
   {
     "id": "prefacio",
     "num": "00",
-    "label": "Prefacio"
+    "label": "Siete lecciones para quien no sabe nada"
   },
   {
     "id": "cap1",
     "num": "01",
-    "label": "La teoría más bella"
+    "label": "La teoría más bella (relatividad general)"
   },
   {
     "id": "cap2",
     "num": "02",
-    "label": "Quanta"
+    "label": "Quanta (mecánica cuántica)"
   },
   {
     "id": "cap3",
@@ -36,12 +36,12 @@ export const sevenBriefLessons: BookSummary = {
   {
     "id": "cap4",
     "num": "04",
-    "label": "Partículas"
+    "label": "Partículas (Modelo Estándar)"
   },
   {
     "id": "cap5",
     "num": "05",
-    "label": "Granos de espacio"
+    "label": "Granos de espacio (gravedad cuántica)"
   },
   {
     "id": "cap6",
@@ -51,7 +51,7 @@ export const sevenBriefLessons: BookSummary = {
   {
     "id": "cap7",
     "num": "07",
-    "label": "Nosotros"
+    "label": "Nosotros (cierre reflexivo)"
   },
   {
     "id": "conceptos",
@@ -61,7 +61,7 @@ export const sevenBriefLessons: BookSummary = {
   {
     "id": "cronologia",
     "num": "◈",
-    "label": "Cronología"
+    "label": "Cronología de hitos"
   },
   {
     "id": "figuras",
@@ -144,7 +144,7 @@ export const sevenBriefLessons: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Einstein (<span class=\"num\">1905</span>) mostró que esos paquetes de luz son reales: los <span class=\"term\">fotones</span> (partículas de luz). En Copenhague, <span class=\"person\">Niels Bohr</span> comprendió que los electrones solo ocupan ciertos niveles de energía. <span class=\"person\">Werner Heisenberg</span> fue más radical: el electrón no «está» siempre ahí, sino que aparece al interactuar. De esa idea sale toda la química.",
+          html: "Einstein (<span class=\"num\">1905</span>) mostró que esos paquetes de luz son reales: los <span class=\"term\">fotones</span> (partículas de luz). En Copenhague, <span class=\"person\">Niels Bohr</span> comprendió que los electrones solo ocupan ciertos niveles de energía. <span class=\"person\">Werner Heisenberg</span> fue más radical: el electrón no «está» siempre ahí, sino que aparece al interactuar. De ahí sale toda la química.",
         },
         {
           type: 'paragraph',
@@ -200,7 +200,7 @@ export const sevenBriefLessons: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Esas partículas no son piedras eternas. Son excitaciones efímeras de campos cuánticos: un vacío que nunca está del todo vacío. El <span class=\"term\">Modelo Estándar</span> (años 1970) predice con precisión extraordinaria lo medido en el laboratorio. Aun así parece «parcheado», y algunos trucos matemáticos dejan mal sabor.",
+          html: "Esas partículas no son piedras eternas. Son excitaciones efímeras de campos cuánticos en un vacío que nunca está del todo vacío. El <span class=\"term\">Modelo Estándar</span> (años 1970) predice con precisión extraordinaria lo medido en el laboratorio. Aun así parece «parcheado», y algunos trucos matemáticos dejan mal sabor.",
         },
         {
           type: 'paragraph',
@@ -284,11 +284,11 @@ export const sevenBriefLessons: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Schelling creía que el hombre era la cumbre de la naturaleza. Hoy sabemos que somos un rincón remoto, parientes de mariposas y álamos. Kant pensaba categorías universales, pero esas categorías evolucionan con nuestra especie. La ciencia no es ficción de campamento: sigue rastros, dispuesta a corregir el rumbo si aparece una pista mejor.",
+          html: "El filósofo Schelling creía que el hombre era la cumbre de la naturaleza. Hoy sabemos que somos un rincón remoto, parientes de mariposas y álamos. Kant suponía categorías del entendimiento universales, pero esas categorías evolucionan con nuestra especie. Por eso la ciencia no es ficción de campamento: sigue rastros y corrige el rumbo si aparece una pista mejor.",
         },
         {
           type: 'paragraph',
-          html: "La libertad no viola las leyes naturales: actuar según procesos neuronales internos. Para Spinoza, el «yo» es ese complejo neuronal. La consciencia sigue abierta. Valores, lágrimas y música son reales precisamente por ser naturaleza. Somos una especie curiosa, quizá breve, pero en casa.",
+          html: "La libertad no viola las leyes naturales: consiste en actuar según procesos neuronales internos. Para Spinoza, el «yo» es ese complejo neuronal. La consciencia, en cambio, sigue siendo un frente abierto. Valores, lágrimas y música son reales precisamente por ser naturaleza. Somos una especie curiosa, quizá breve, pero en casa.",
         },
         {
           type: 'quote',

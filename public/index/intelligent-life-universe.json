@@ -43,7 +43,7 @@
       "description": "Teoría del origen de la vida en chimeneas hidrotermales sobre superficies de pirita (FeS₂)."
     }
   ],
-  "highlight": "Si las leyes de la naturaleza son universales, la inteligencia debería ser frecuente; si no la vemos, el cuello de botella es la supervivencia de las civilizaciones tecnológicas, no el origen de la vida.",
+  "highlight": "Si las leyes de la naturaleza son universales, la inteligencia debería ser frecuente; pero si no la vemos, el cuello de botella es la supervivencia de las civilizaciones tecnológicas, no el origen de la vida.",
   "entries": [
     {
       "sectionId": "cierre",
@@ -58,7 +58,7 @@
     {
       "sectionId": "cierre",
       "sectionTitle": "Cierre",
-      "text": "La paradoja de Fermi no prueba nuestra singularidad."
+      "text": "Por eso la paradoja de Fermi no prueba nuestra singularidad."
     },
     {
       "sectionId": "cierre",
@@ -73,7 +73,7 @@
     {
       "sectionId": "cierre",
       "sectionTitle": "Cierre",
-      "text": "Si las leyes de la naturaleza son universales, la inteligencia debería ser frecuente; si no la vemos, el cuello de botella es la supervivencia de las civilizaciones tecnológicas, no el origen de la vida."
+      "text": "Si las leyes de la naturaleza son universales, la inteligencia debería ser frecuente; pero si no la vemos, el cuello de botella es la supervivencia de las civilizaciones tecnológicas, no el origen de la vida."
     },
     {
       "sectionId": "prefacio",
@@ -113,7 +113,7 @@
     {
       "sectionId": "cap1",
       "sectionTitle": "Estrellas, galaxias y origen de los elementos químicos",
-      "text": "Hace unos 14 mil millones de años el universo apareció en el Big Bang (origen caliente y denso del espacio, el tiempo y la materia). La ley de Hubble confirma ese origen expansivo. El astrónomo Edwin Hubble la formuló en 1924 . La radiación cósmica de fondo de 3 K apunta en la misma dirección."
+      "text": "Hace unos 14 mil millones de años el universo apareció en el Big Bang (origen caliente y denso del espacio, el tiempo y la materia). La ley de Hubble confirma ese origen expansivo. El astrónomo Edwin Hubble la formuló en 1924 . Además, la radiación cósmica de fondo de 3 K apunta en la misma dirección."
     },
     {
       "sectionId": "cap1",
@@ -143,7 +143,7 @@
     {
       "sectionId": "cap2",
       "sectionTitle": "Formación de planetas",
-      "text": "En el disco solar (el anillo de gas y polvo que rodea una estrella joven), la fricción desacelera la rotación. La materia migra hacia la estrella. La temperatura decrece con la distancia. Cerca del Sol, a menos de 3 AU , se acumulan silicatos y hierro. Más allá de la línea de hielo (donde el agua se congela, ~150 K) dominan los granos helados."
+      "text": "En el disco solar (el anillo de gas y polvo que rodea una estrella joven), la fricción desacelera la rotación. La materia migra hacia la estrella y, por eso, la temperatura decrece con la distancia. Cerca del Sol, a menos de 3 AU , se acumulan silicatos y hierro. Más allá de la línea de hielo (donde el agua se congela, ~150 K) dominan los granos helados."
     },
     {
       "sectionId": "cap2",
@@ -173,7 +173,7 @@
     {
       "sectionId": "cap3",
       "sectionTitle": "La Tierra",
-      "text": "La acumulación por planetesimales terminó unos 30–40 Ma después del inicio del sistema solar ( 4.567 Ga ). El bombardeo intenso duró unos 600 Ma más. Impactos del tamaño de Ceres o Marte vaporizaban océanos enteros."
+      "text": "La acumulación por planetesimales terminó unos 30–40 Ma después del inicio del sistema solar ( 4.567 Ga ). Pero el bombardeo intenso duró unos 600 Ma más. Impactos del tamaño de Ceres o Marte vaporizaban océanos enteros."
     },
     {
       "sectionId": "cap3",
@@ -203,7 +203,7 @@
     {
       "sectionId": "cap4",
       "sectionTitle": "Búsqueda de exoplanetas",
-      "text": "Un tercio de los exoplanetas detectados supera dos masas jovianas. El más pequeño (Gliese 876 d) tiene 7,3 masas terrestres. Curiosamente, la mitad orbita dentro de 0,5 AU , mucho más cerca que Mercurio. Esto contradice la teoría clásica de formación joviana más allá de 3 AU."
+      "text": "Un tercio de los exoplanetas detectados supera dos masas jovianas. El más pequeño (Gliese 876 d) tiene 7,3 masas terrestres. Curiosamente, la mitad orbita dentro de 0,5 AU , mucho más cerca que Mercurio. Por eso contradice la teoría clásica de formación joviana más allá de 3 AU."
     },
     {
       "sectionId": "cap4",
@@ -268,7 +268,7 @@
     {
       "sectionId": "cap6",
       "sectionTitle": "Vida y su origen en la Tierra",
-      "text": "¿Qué es la vida y cómo pudo surgir de la química? Al secuenciar organismos primitivos, incluidas micoplasmas con unos trescientos genes, la definición precisa está al alcance. Fenomenológicamente implica metabolismo y crecimiento. También uso de energía, individualidad, reproducción y mutación en ambiente abiótico. Los virus no califican."
+      "text": "¿Qué es la vida y cómo pudo surgir de la química? Al secuenciar genomas de organismos primitivos, incluidas micoplasmas con unos trescientos genes, la definición precisa está al alcance. Fenomenológicamente implica metabolismo y crecimiento. También uso de energía, individualidad, reproducción y mutación en ambiente abiótico. Los virus no califican."
     },
     {
       "sectionId": "cap6",
@@ -308,7 +308,7 @@
     {
       "sectionId": "cap7",
       "sectionTitle": "Evolución",
-      "text": "Entre los hitos figuran la endosimbiosis hacia eucariotas y el oxígeno como catástrofe ambiental (~ 2,4 Ga ). También la multicelularidad y los genes reguladores del desarrollo (~630–542 Ma). Más tarde, plantas y animales conquistaron la tierra (~ 470 Ma ). El evento K/T ( 65 Ma ) extinguió dinosaurios no aviares y abrió camino a mamíferos."
+      "text": "Entre los hitos figura la endosimbiosis hacia eucariotas, seguida del oxígeno como catástrofe ambiental (~ 2,4 Ga ). Más tarde llegaron la multicelularidad y los genes reguladores del desarrollo (~630–542 Ma). Por último, plantas y animales conquistaron la tierra (~ 470 Ma ). El evento K/T ( 65 Ma ) extinguió dinosaurios no aviares y abrió camino a mamíferos."
     },
     {
       "sectionId": "cap7",
@@ -343,7 +343,7 @@
     {
       "sectionId": "cap8",
       "sectionTitle": "Búsqueda de vida extraterrestre",
-      "text": "James Lovelock ( 1965 ) señaló que la vida produce compuestos inesperados. El metano terrestre es diez elevado a catorce veces más abundante de lo esperado. Miles de avistamientos de objetos voladores no identificados se reportaron desde 1947 . El informe Condon ( 1969 ) concluyó que veintiún años de estudio no añadieron conocimiento científico."
+      "text": "James Lovelock ( 1965 ) señaló que la vida produce compuestos inesperados. El metano terrestre es un billón de veces más abundante de lo esperado en equilibrio químico. Miles de avistamientos de objetos voladores no identificados se reportaron desde 1947 . El informe Condon ( 1969 ) concluyó que veintiún años de estudio no añadieron conocimiento científico."
     },
     {
       "sectionId": "cap8",
@@ -388,7 +388,7 @@
     {
       "sectionId": "cap9",
       "sectionTitle": "Futuro de la humanidad",
-      "text": "Los peligros internos son los formidables: daño ambiental, invenciones incontrolables, guerra y terrorismo. Ulmschneider propone distribuir la humanidad en colonias espaciales, controlar armas de destrucción masiva y educar la responsabilidad social. El factor L de Drake (duración media de una civilización tecnológica comunicante) es el más incierto de la ecuación de Drake."
+      "text": "Los peligros internos, sin embargo, son los formidables. Entre ellos figuran el daño ambiental, las invenciones incontrolables, la guerra y el terrorismo. Ulmschneider propone distribuir la humanidad en colonias espaciales, controlar armas de destrucción masiva y educar la responsabilidad social. El factor L de Drake (duración media de una civilización tecnológica comunicante) es el más incierto de la ecuación de Drake."
     },
     {
       "sectionId": "cap9",

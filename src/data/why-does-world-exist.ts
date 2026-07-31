@@ -16,7 +16,7 @@ export const whyDoesWorldExist: BookSummary = {
   {
     "id": "prefacio",
     "num": "00",
-    "label": "Prólogo"
+    "label": "Prueba rápida para gente ocupada"
   },
   {
     "id": "cap1",
@@ -156,7 +156,7 @@ export const whyDoesWorldExist: BookSummary = {
   {
     "id": "cronologia",
     "num": "◈",
-    "label": "Cronología"
+    "label": "Cronología de ideas y hallazgos"
   },
   {
     "id": "figuras",
@@ -239,7 +239,7 @@ export const whyDoesWorldExist: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El universo hijo se curvaría sobre sí mismo, invisible desde fuera. Un creador no podría enviar mensajes legibles: la inflación los estiraría exponencialmente. Solo las constantes físicas del «huevo» cósmico podrían codificar una señal para físicos futuros.",
+          html: "Por eso el universo hijo se curvaría sobre sí mismo, invisible desde fuera. Un creador no podría enviar mensajes legibles: la inflación los estiraría exponencialmente. Solo las constantes físicas del «huevo» cósmico podrían codificar una señal para físicos futuros.",
         },
         {
           type: 'paragraph',
@@ -267,7 +267,7 @@ export const whyDoesWorldExist: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La creación <span class=\"term\">ex nihilo</span> (de la nada, sin materia previa) cristiana hizo concebible la nada absoluta. <span class=\"person\">Gottfried Leibniz</span> formuló explícitamente la pregunta en <span class=\"num\">1714</span>. Respondió con Dios como ser necesario. <span class=\"person\">David Hume</span> y <span class=\"person\">Immanuel Kant</span> (filósofos de la Ilustración) atacaron la noción de ser necesario. Nada existe por pura lógica, ni siquiera Dios.",
+          html: "De ahí que la creación <span class=\"term\">ex nihilo</span> (de la nada, sin materia previa) cristiana hizo concebible la nada absoluta. <span class=\"person\">Gottfried Leibniz</span> formuló explícitamente la pregunta en <span class=\"num\">1714</span>. Respondió con Dios como ser necesario. <span class=\"person\">David Hume</span> y <span class=\"person\">Immanuel Kant</span> (filósofos de la Ilustración) atacaron la noción de ser necesario. Nada existe por pura lógica, ni siquiera Dios.",
         },
         {
           type: 'paragraph',
@@ -379,7 +379,7 @@ export const whyDoesWorldExist: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Un cosmos eterno parecería más seguro ontológicamente. La cosmología moderna combinó principio temporal con contingencia. El universo podría no haber existido, o haber sido de otro modo.",
+          html: "Un cosmos eterno parecería más seguro ontológicamente. Pero la cosmología moderna combinó principio temporal con contingencia. El universo podría no haber existido, o haber sido de otro modo.",
         },
         {
           type: 'paragraph',
@@ -463,7 +463,7 @@ export const whyDoesWorldExist: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Holt examina si «necesario» es truco ontológico o insight profundo. La nada, paradójicamente, parece más simple que un Dios repleto de perfecciones infinitas.",
+          html: "Holt examina si «necesario» es truco ontológico o comprensión profunda. La nada, paradójicamente, parece más simple que un Dios repleto de perfecciones infinitas.",
         },
         {
           type: 'key',
@@ -487,7 +487,7 @@ export const whyDoesWorldExist: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Deutsch sostiene que la física no termina en hecho bruto. Las explicaciones buenas son difíciles de variar. El universo que observamos es una rama entre infinitas en la interpretación de muchos mundos.",
+          html: "Deutsch sostiene que la física no termina en hecho bruto. Por eso las explicaciones buenas son difíciles de variar. El universo que observamos es una rama entre infinitas en la interpretación de muchos mundos.",
         },
         {
           type: 'paragraph',
@@ -543,7 +543,7 @@ export const whyDoesWorldExist: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La frontera entre cosmología y metafísica se desdibuja. Los físicos ofrecen historias causales. Los filósofos piden por qué hay leyes que permiten el salto.",
+          html: "Por tanto, la frontera entre cosmología y metafísica se desdibuja. Los físicos ofrecen historias causales. Los filósofos piden por qué hay leyes que permiten el salto.",
         },
         {
           type: 'key',
@@ -567,7 +567,7 @@ export const whyDoesWorldExist: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La experiencia existencial de Sartre muestra que el ser no tiene razón. Eso contrasta con la búsqueda de Holt por una razón lógica. A veces el misterio se siente en el estómago, no en ecuaciones.",
+          html: "La experiencia existencial de Sartre muestra que el ser no tiene razón. Eso contrasta con la búsqueda de Holt por una razón lógica. Por eso a veces el misterio se siente en el estómago, no en ecuaciones.",
         },
         {
           type: 'key',
@@ -647,7 +647,7 @@ export const whyDoesWorldExist: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El platonismo explica abundancia de formas, no por qué hay instanciación física. Pope burló el vuelo de misterio a matemáticas: «en vano miran, se marean, deliran y mueren».",
+          html: "El platonismo explica abundancia de formas, pero no por qué hay instanciación física. Pope burló el vuelo de misterio a matemáticas: «en vano miran, se marean, deliran y mueren».",
         },
         {
           type: 'key',
@@ -803,7 +803,7 @@ export const whyDoesWorldExist: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Updike, de tinte barthiano, desconfía de demostrar a Dios con ciencia. Cruzar el abismo entre nada y algo parece tan exigente como aceptar la inflación cósmica «con una sonrisa y un lustre de zapatos». Dios creó el mundo «in play», en juego, no por acedia divina.",
+          html: "Updike, de tinte barthiano, desconfía de demostrar a Dios con ciencia. Por eso cruzar el abismo entre nada y algo parece tan exigente como aceptar la inflación cósmica «con una sonrisa y un lustre de zapatos». Dios creó el mundo «in play», en juego, no por acedia divina.",
         },
         {
           type: 'paragraph',
@@ -887,7 +887,7 @@ export const whyDoesWorldExist: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Entre Place Maubert y el río, la ciudad continúa, como el universo, sin garantía de sentido último. La investigación termina sin cierre policial: el detective existencial sigue con la pregunta abierta.",
+          html: "Entre Place Maubert y el río, la ciudad continúa, como el universo, sin garantía de sentido último. Por eso la investigación termina sin cierre policial: el detective existencial sigue con la pregunta abierta.",
         },
         {
           type: 'paragraph',

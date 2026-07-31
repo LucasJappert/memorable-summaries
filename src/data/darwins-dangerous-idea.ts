@@ -36,17 +36,17 @@ export const darwinsDangerousIdea: BookSummary = {
   {
     "id": "cap4",
     "num": "04",
-    "label": "The Tree of Life"
+    "label": "El árbol de la vida"
   },
   {
     "id": "cap5",
     "num": "05",
-    "label": "The Possible and the Actual"
+    "label": "Lo posible y lo actual"
   },
   {
     "id": "cap6",
     "num": "06",
-    "label": "Threads of Actuality in Design Space"
+    "label": "Hilos de actualidad en el espacio del diseño"
   },
   {
     "id": "cap7",
@@ -76,7 +76,7 @@ export const darwinsDangerousIdea: BookSummary = {
   {
     "id": "cap12",
     "num": "12",
-    "label": "The Cranes of Culture"
+    "label": "Las grúas de la cultura"
   },
   {
     "id": "cap13",
@@ -86,17 +86,17 @@ export const darwinsDangerousIdea: BookSummary = {
   {
     "id": "cap14",
     "num": "14",
-    "label": "The Evolution of Meanings"
+    "label": "La evolución de los significados"
   },
   {
     "id": "cap15",
     "num": "15",
-    "label": "The Emperor's New Mind and Other Fables"
+    "label": "La nueva mente del emperador y otras fábulas"
   },
   {
     "id": "cap16",
     "num": "16",
-    "label": "On the Origin of Morality"
+    "label": "Sobre el origen de la moral"
   },
   {
     "id": "cap17",
@@ -277,7 +277,7 @@ export const darwinsDangerousIdea: BookSummary = {
     {
       id: "cap4",
       num: "04",
-      title: "The Tree of Life",
+      title: "El árbol de la vida",
       blocks: [
         {
           type: 'paragraph',
@@ -290,7 +290,7 @@ export const darwinsDangerousIdea: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Colorear una especie en el árbol (el experimento de Lulu) muestra que no hay cortes naturales obvios. La especie es una región conectada por descendencia. Los límites son retrospectivos, como la corona de <span class=\"term\">Eva mitocondrial</span> (ancestra materna común reciente, no la primera mujer). La especiación no se detecta en el momento. Solo después, al ver ramas separadas.",
+          html: "Por eso, colorear una especie en el árbol (el experimento de Lulu) muestra que no hay cortes naturales obvios. La especie es una región conectada por descendencia. Los límites son retrospectivos, como la corona de <span class=\"term\">Eva mitocondrial</span> (ancestra materna común reciente, no la primera mujer). La especiación no se detecta en el momento. Solo después, al ver ramas separadas.",
         },
         {
           type: 'paragraph',
@@ -309,7 +309,7 @@ export const darwinsDangerousIdea: BookSummary = {
     {
       id: "cap5",
       num: "05",
-      title: "The Possible and the Actual",
+      title: "Lo posible y lo actual",
       blocks: [
         {
           type: 'paragraph',
@@ -341,7 +341,7 @@ export const darwinsDangerousIdea: BookSummary = {
     {
       id: "cap6",
       num: "06",
-      title: "Threads of Actuality in Design Space",
+      title: "Hilos de actualidad en el espacio del diseño",
       blocks: [
         {
           type: 'paragraph',
@@ -354,11 +354,11 @@ export const darwinsDangerousIdea: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Los <span class=\"term\">movimientos forzados</span> (soluciones únicas impuestas por física o lógica) explican convergencias: metabolismo autónomo, límites corporales, visión en medios transparentes. Los movimientos libres dependen de historia (QWERTY, sistema decimal vs. romano). La homología filogenética se distingue de la convergencia por inferencia histórica, como plagio vs. diseño independiente.",
+          html: "Además, los <span class=\"term\">movimientos forzados</span> (soluciones únicas impuestas por física o lógica) explican convergencias: metabolismo autónomo, límites corporales, visión en medios transparentes. Los movimientos libres dependen de historia (QWERTY, sistema decimal vs. romano). La homología filogenética se distingue de la convergencia por inferencia histórica, como plagio vs. diseño independiente.",
         },
         {
           type: 'paragraph',
-          html: "Richard Dawkins introdujo el <span class=\"term\">meme</span> (unidad de replicación cultural) en 1976.",
+          html: "En 1976, <span class=\"person\">Richard Dawkins</span> introdujo el <span class=\"term\">meme</span> (unidad de replicación cultural) como candidato para la evolución cultural.",
         },
         {
           type: 'paragraph',
@@ -398,7 +398,7 @@ export const darwinsDangerousIdea: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La especulación cosmológica no está demostrada y no implica nihilismo obligatorio. Completa el descenso por la Pirámide iniciado en el capítulo 3.",
+          html: "Por eso, la especulación cosmológica no está demostrada y no implica nihilismo obligatorio. Completa el descenso por la Pirámide iniciado en el capítulo 3.",
         },
         {
           type: 'key',
@@ -422,7 +422,7 @@ export const darwinsDangerousIdea: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Desde Darwin, biología e ingeniería son inseparables: la evolución es un ascensor automático en el Espacio del Diseño. Dennett defiende la perspectiva ingenieril como organizador obligatorio del pensamiento darwiniano, no como reduccionismo vulgar. Aristóteles ya ligó teleología y organismos. Darwin la naturalizó.",
+          html: "Desde Darwin, biología e ingeniería son inseparables: la evolución es un ascensor automático en el Espacio del Diseño. Por eso Dennett defiende la perspectiva ingenieril como organizador obligatorio del pensamiento darwiniano, no como reduccionismo vulgar. Aristóteles ya ligó teleología y organismos. Darwin la naturalizó.",
         },
         {
           type: 'paragraph',
@@ -522,7 +522,7 @@ export const darwinsDangerousIdea: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Herejías fatales sí existen. <span class=\"person\">Pierre Teilhard de Chardin</span> postuló un Omega teleológico: traición al insight darwiniano. El <span class=\"term\">lamarckismo</span> puro (herencia de caracteres adquiridos) presupone lo que pretende explicar. La mutación dirigida sin grúa cae igual. <span class=\"person\">August Weismann</span> separó línea germinal y somática.",
+          html: "Herejías fatales sí existen. <span class=\"person\">Pierre Teilhard de Chardin</span> postuló un Omega teleológico: traición a la comprensión darwiniana. El <span class=\"term\">lamarckismo</span> puro (herencia de caracteres adquiridos) presupone lo que pretende explicar. La mutación dirigida sin grúa cae igual. <span class=\"person\">August Weismann</span> separó línea germinal y somática.",
         },
         {
           type: 'paragraph',
@@ -541,7 +541,7 @@ export const darwinsDangerousIdea: BookSummary = {
     {
       id: "cap12",
       num: "12",
-      title: "The Cranes of Culture",
+      title: "Las grúas de la cultura",
       blocks: [
         {
           type: 'paragraph',
@@ -605,7 +605,7 @@ export const darwinsDangerousIdea: BookSummary = {
     {
       id: "cap14",
       num: "14",
-      title: "The Evolution of Meanings",
+      title: "La evolución de los significados",
       blocks: [
         {
           type: 'paragraph',
@@ -614,7 +614,7 @@ export const darwinsDangerousIdea: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El significado genuino emerge de procesos originalmente carentes de sentido. Dennett usa cajas A/B con ASCII y un robot criogénico con autonomía para mostrar que la intencionalidad no exige artífice humano externo ni skyhook.",
+          html: "Por eso, el significado genuino emerge de procesos originalmente carentes de sentido. Dennett usa cajas A/B con ASCII y un robot criogénico con autonomía para mostrar que la intencionalidad no exige artífice humano externo ni skyhook.",
         },
         {
           type: 'paragraph',
@@ -637,7 +637,7 @@ export const darwinsDangerousIdea: BookSummary = {
     {
       id: "cap15",
       num: "15",
-      title: "The Emperor's New Mind and Other Fables",
+      title: "La nueva mente del emperador y otras fábulas",
       blocks: [
         {
           type: 'paragraph',
@@ -646,7 +646,7 @@ export const darwinsDangerousIdea: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Roger Penrose</span> sostiene en <span class=\"num\">1989</span> que el teorema de Gödel prueba mente no algorítmica. Dennett replica que algoritmo ≠ implementación. La comunidad matemática es grúa social que valida pruebas. La «intuición» matemática es heurística, no acceso a lo incomputable.",
+          html: "<span class=\"person\">Roger Penrose</span> sostiene en <span class=\"num\">1989</span> que el teorema de Gödel prueba mente no algorítmica. Pero Dennett replica que algoritmo ≠ implementación. La comunidad matemática es grúa social que valida pruebas. La «intuición» matemática es heurística, no acceso a lo incomputable.",
         },
         {
           type: 'paragraph',
@@ -669,7 +669,7 @@ export const darwinsDangerousIdea: BookSummary = {
     {
       id: "cap16",
       num: "16",
-      title: "On the Origin of Morality",
+      title: "Sobre el origen de la moral",
       blocks: [
         {
           type: 'paragraph',
@@ -710,7 +710,7 @@ export const darwinsDangerousIdea: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La ética real es <span class=\"term\">satisficing</span> (buscar lo bastante bueno, no lo óptimo) bajo presión temporal. <span class=\"person\">John Stuart Mill</span> comparó utilitarismo con el Nautical Almanac: nadie calcula en el mar. Usamos tablas precalculadas. Mill replicó a quienes pedían cálculo instantáneo de felicidad general.",
+          html: "Por eso, la ética real es <span class=\"term\">satisficing</span> (buscar lo bastante bueno, no lo óptimo) bajo presión temporal. <span class=\"person\">John Stuart Mill</span> comparó utilitarismo con el Nautical Almanac: nadie calcula en el mar. Usamos tablas precalculadas. Mill replicó a quienes pedían cálculo instantáneo de felicidad general.",
         },
         {
           type: 'paragraph',

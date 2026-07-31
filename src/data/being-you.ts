@@ -16,7 +16,7 @@ export const beingYou: BookSummary = {
   {
     "id": "prefacio",
     "num": "00",
-    "label": "Prólogo"
+    "label": "Tres veces dejé de existir"
   },
   {
     "id": "cap1",
@@ -91,7 +91,7 @@ export const beingYou: BookSummary = {
   {
     "id": "cronologia",
     "num": "◈",
-    "label": "Cronología"
+    "label": "Cronología de la ciencia de la conciencia"
   },
   {
     "id": "figuras",
@@ -391,7 +391,7 @@ export const beingYou: BookSummary = {
     {
       id: "cap7",
       num: "07",
-      title: "Delirium",
+      title: "Delirio",
       blocks: [
         {
           type: 'paragraph',
@@ -400,7 +400,7 @@ export const beingYou: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El delirio no es aleatorio. Encaja con su rol de neurocientífico hijo que lee notas clínicas en la cama. Factores como fiebre, sedación o lugar extraño rompen el modelo predictivo del self. Las palabras se separan y la identidad fluctúa. El yo puede fragmentarse y recomponerse.",
+          html: "Por eso el delirio no es aleatorio: encaja con su rol de neurocientífico hijo que lee notas clínicas en la cama. Factores como fiebre, sedación o lugar extraño rompen el modelo predictivo del self. Las palabras se separan y la identidad fluctúa. El yo puede fragmentarse y recomponerse.",
         },
         {
           type: 'paragraph',
@@ -456,7 +456,7 @@ export const beingYou: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Según James-Lange, la emoción es percepción de cambio corporal: «lloramos, luego estamos tristes». La <span class=\"term\">inferencia interoceptiva</span> (predicciones sobre el estado interno del cuerpo) unifica emoción sin dualismo cognitivo/corporal. El miedo es predicción sobre estado visceral ante un oso. Ashby sostuvo que todo buen regulador debe ser modelo del sistema. Las emociones regulan variables esenciales como temperatura o glucosa.",
+          html: "A partir de ahí, la emoción es percepción de cambio corporal (James-Lange): «lloramos, luego estamos tristes». La <span class=\"term\">inferencia interoceptiva</span> (predicciones sobre el estado interno del cuerpo) unifica emoción sin dualismo cognitivo/corporal. El miedo es predicción sobre estado visceral ante un oso. Ashby sostuvo que todo buen regulador debe ser modelo del sistema. Las emociones regulan variables esenciales como temperatura o glucosa.",
         },
         {
           type: 'paragraph',
@@ -651,7 +651,7 @@ export const beingYou: BookSummary = {
   },
   {
     "year": "1974",
-    "text": "Nagel: «What is it like to be a bat?»"
+    "text": "Nagel: «¿Qué se siente al ser un murciélago?»"
   },
   {
     "year": "1990",
@@ -719,7 +719,7 @@ export const beingYou: BookSummary = {
   closing: {
     title: "La idea central",
     lines: [
-  "La conciencia no es un misterio único que exija un alma o un eureka cuántico.",
+  "En suma, la conciencia no es un misterio único que exija un alma o un eureka cuántico.",
   "Es un conjunto de propiedades explicables en términos de cerebro encarnado que predice para seguir vivo.",
   "Percibimos mundo y yo de adentro hacia afuera, no como ventanas transparentes al real.",
   "Cuando la ciencia explica cada propiedad fenomenológica, el problema difícil se disuelve en lugar de exigir magia.",

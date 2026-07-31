@@ -75,7 +75,7 @@
     {
       "sectionId": "cap2",
       "sectionTitle": "Los tres minutos finales de una película",
-      "text": "Aquí Sapolsky hace una concesión clave. Los compatibilistas objetan que las tareas son artificiales. Sostienen que la predicción real ronda el 60 % y que existe un «free won't», un veto de última hora. Puede que tengan razón y que Libet no mate el libre albedrío. Da igual, porque la pregunta decisiva es anterior: ¿de dónde salió la intención? Podemos hacer lo que queremos, pero no elegimos qué queremos."
+      "text": "Aquí Sapolsky hace una concesión clave. Los compatibilistas objetan que las tareas son artificiales. Sostienen que la predicción real ronda el 60 % y que existe un «veto consciente» (el «free won't» de Libet), un freno de última hora. Puede que tengan razón y que Libet no mate el libre albedrío. Da igual, porque la pregunta decisiva es anterior: ¿de dónde salió la intención? Podemos hacer lo que queremos, pero no elegimos qué queremos."
     },
     {
       "sectionId": "cap2",
@@ -114,27 +114,27 @@
     },
     {
       "sectionId": "cap4",
-      "sectionTitle": "Voluntad de hierro: mito del grit",
+      "sectionTitle": "Voluntad de hierro: el mito del grit",
       "text": "¿Puede el pasado ser la rendija donde se cuela el libre albedrío? Los compatibilistas más finos aceptan la cadena causal, pero apelan al tiempo. Sostienen que «tuviste tiempo de convertirte en otra persona», postura que resume el filósofo Neil Levy. Sapolsky responde que ese pasado también fue alguna vez un presente igual de determinado. Trasladar la libertad atrás no la crea: solo la esconde."
     },
     {
       "sectionId": "cap4",
-      "sectionTitle": "Voluntad de hierro: mito del grit",
+      "sectionTitle": "Voluntad de hierro: el mito del grit",
       "text": "El mito más querido es el del grit (perseverancia y fuerza de voluntad como mérito personal). Separa «lo que te dieron» de «lo que hiciste con ello». El caso del entrenador Jerry Sandusky lo tensiona. James Cantor admite que nadie elige ser pedófilo aunque sí podría «elegir no abusar». Sapolsky lo llama dualismo encubierto, porque ambas columnas de la tabla son biología."
     },
     {
       "sectionId": "cap4",
-      "sectionTitle": "Voluntad de hierro: mito del grit",
+      "sectionTitle": "Voluntad de hierro: el mito del grit",
       "text": "La razón es concreta. La fuerza de voluntad vive en la corteza prefrontal (región cerebral que regula impulsos y reglas sociales). No termina de madurar hasta mediados de los veinte. Esa corteza se construye con genes, hormonas fetales, infancia y cultura, todo ajeno a nuestra elección. Quien resiste una tentación lo hace con un cerebro que le fue dado."
     },
     {
       "sectionId": "cap4",
-      "sectionTitle": "Voluntad de hierro: mito del grit",
+      "sectionTitle": "Voluntad de hierro: el mito del grit",
       "text": "La fuerza de voluntad no es polvo mágico rociado sobre las neuronas, sino una corteza prefrontal esculpida por genes y experiencia."
     },
     {
       "sectionId": "cap4",
-      "sectionTitle": "Voluntad de hierro: mito del grit",
+      "sectionTitle": "Voluntad de hierro: el mito del grit",
       "text": "Antes de refutar las escapatorias científicas, Sapolsky necesita explicarlas, y la primera es el caos."
     },
     {
@@ -265,7 +265,7 @@
     {
       "sectionId": "cap10",
       "sectionTitle": "¿Tu libre albedrío es aleatorio?",
-      "text": "¿Rescata el azar cuántico la libertad o solo la vuelve impredecible y absurda? Sapolsky cierra la puerta cuántica con tres golpes. Primero, esos efectos no «burbujean» hasta la conducta. El cerebro es cálido, húmedo y ruidoso, y la decoherencia los borra mucho antes de que un pensamiento se forme. Max Tegmark refutó por esta vía la teoría de los microtúbulos de Penrose y Hameroff."
+      "text": "¿Rescata el azar cuántico la libertad o solo la vuelve impredecible y absurda? Sapolsky cierra la puerta cuántica con tres golpes. Primero, esos efectos no «burbujean» hasta la conducta. Por eso el cerebro cálido, húmedo y ruidoso borra el azar cuántico con la decoherencia mucho antes de que un pensamiento se forme. Max Tegmark refutó por esta vía la teoría de los microtúbulos de Penrose y Hameroff."
     },
     {
       "sectionId": "cap10",
@@ -395,7 +395,7 @@
     {
       "sectionId": "cap14",
       "sectionTitle": "El placer del castigo",
-      "text": "La alternativa coherente es el modelo de cuarentena (contener el peligro como se aísla una enfermedad, sin castigo merecido). Lo impulsan Derk Pereboom y Gregg Caruso. Contiene el peligro con la mínima restricción necesaria y ataca los determinantes sociales del delito. Contra la objeción de que sin castigo nada disuade, Noruega ofrece la prueba. Tiene una fracción de los homicidios, del encarcelamiento y de la reincidencia de Estados Unidos."
+      "text": "La alternativa coherente es el modelo de cuarentena (contener el peligro como se aísla una enfermedad, sin castigo merecido). Lo impulsan Derk Pereboom y Gregg Caruso. Contiene el peligro con la mínima restricción necesaria y ataca los determinantes sociales del delito. Contra la objeción de que sin castigo nada disuade, Noruega ofrece la prueba. Tiene una octava parte de los homicidios, una undécima parte del encarcelamiento y una cuarta parte de la reincidencia de Estados Unidos."
     },
     {
       "sectionId": "cap14",
@@ -420,7 +420,7 @@
     {
       "sectionId": "cap15",
       "sectionTitle": "Si mueres pobre",
-      "text": "Vuelve entonces la imagen del graduado y el basurero. El graduado y el basurero, con genes e infancias intercambiados, intercambiarían destinos. El fenómeno del John Henryism muestra algo más. Creer que solo el esfuerzo vence a un sistema injusto llega a enfermar el cuerpo. Quien encuentre liberadora esta conclusión en lugar de amenazante probablemente fue de los afortunados."
+      "text": "Vuelve entonces la imagen del graduado y el basurero: con genes e infancias intercambiados, intercambiarían destinos. El fenómeno del John Henryism muestra algo más. Creer que solo el esfuerzo vence a un sistema injusto llega a enfermar el cuerpo. Quien encuentre liberadora esta conclusión en lugar de amenazante probablemente fue de los afortunados."
     },
     {
       "sectionId": "cap15",

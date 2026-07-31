@@ -76,7 +76,7 @@ export const elegantUniverse: BookSummary = {
   {
     "id": "cap12",
     "num": "12",
-    "label": "Más allá de las cuerdas"
+    "label": "Más allá de las cuerdas: en busca de la M-teoría"
   },
   {
     "id": "cap13",
@@ -101,7 +101,7 @@ export const elegantUniverse: BookSummary = {
   {
     "id": "cronologia",
     "num": "◈",
-    "label": "Cronología"
+    "label": "Cronología de los descubrimientos"
   },
   {
     "id": "figuras",
@@ -131,7 +131,7 @@ export const elegantUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Medio siglo después de su muerte, muchos físicos creen haber encontrado ese marco. Es la <span class=\"term\">teoría de supercuerdas</span> (cuerdas unidimensionales que aspiran a unificar todas las fuerzas). Greene elige como eje narrativo nuestra evolución en el entendimiento del <span class=\"term\">espacio-tiempo</span> (fusión de espacio y tiempo en un solo continuo). Einstein lo revolucionó. La cuerda lo revoluciona de nuevo con dimensiones ocultas enroscadas en el cosmos.",
+          html: "Medio siglo después de su muerte, muchos físicos creen haber encontrado ese marco. Es la <span class=\"term\">teoría de supercuerdas</span> (cuerdas unidimensionales que aspiran a unificar todas las fuerzas). Por eso Greene elige como eje narrativo nuestra evolución en el entendimiento del <span class=\"term\">espacio-tiempo</span> (fusión de espacio y tiempo en un solo continuo). Einstein lo revolucionó, y la cuerda lo revoluciona de nuevo con dimensiones ocultas enroscadas en el cosmos.",
         },
         {
           type: 'paragraph',
@@ -195,11 +195,15 @@ export const elegantUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El principio de relatividad (Galileo y Einstein) declara que las leyes físicas son idénticas en todo marco de movimiento uniforme. Como c es constante, observadores en movimiento relativo miden distancias y tiempos distintos. La simultaneidad deja de ser universal. El experimento del foco en el tren lo muestra sin ecuaciones.",
+          html: "El principio de relatividad (Galileo y Einstein) declara que las leyes físicas son idénticas en todo marco de movimiento uniforme. Pero como c es constante, observadores en movimiento relativo miden distancias y tiempos distintos. De ahí que la simultaneidad deje de ser universal. El experimento del foco en el tren lo muestra sin ecuaciones.",
         },
         {
           type: 'paragraph',
-          html: "Un reloj de luz imaginario demuestra la <span class=\"term\">dilatación temporal</span> (los relojes en movimiento marcan más despacio). La <span class=\"term\">contracción de Lorentz</span> (acortamiento de longitudes en la dirección del movimiento) explica por qué los objetos en movimiento parecen comprimidos. Los muones a ~99,5% de c viven ~10 veces más desde el laboratorio. Minkowski unificó espacio y tiempo. Según su visión, todos los objetos se mueven a velocidad fija c a través del espacio-tiempo. De ahí sale E = mc²: más energía implica más masa, y nada supera c.",
+          html: "Un reloj de luz imaginario demuestra la <span class=\"term\">dilatación temporal</span> (los relojes en movimiento marcan más despacio). La <span class=\"term\">contracción de Lorentz</span> (acortamiento de longitudes en la dirección del movimiento) explica por qué los objetos en movimiento parecen comprimidos. Los muones a ~99,5% de c viven ~10 veces más desde el laboratorio.",
+        },
+        {
+          type: 'paragraph',
+          html: "Minkowski unificó espacio y tiempo. Según su visión, todos los objetos se mueven a velocidad fija c a través del espacio-tiempo. De ahí que E = mc²: más energía implica más masa, y nada supera c.",
         },
         {
           type: 'key',
@@ -383,7 +387,7 @@ export const elegantUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Greene ilustra las dimensiones extra con la manguera: vista de lejos, parece 1D. De cerca, tiene grosor circular. <span class=\"person\">Theodor Kaluza</span> (1919) unificó gravedad y electromagnetismo en 5D. <span class=\"person\">Oskar Klein</span> enroscó la extra a escala de Planck. Einstein dudó, luego elogió la idea.",
+          html: "Greene ilustra las dimensiones extra con la manguera: vista de lejos, parece 1D, y de cerca tiene grosor circular. Así lo había imaginado <span class=\"person\">Theodor Kaluza</span> (1919), quien unificó gravedad y electromagnetismo en 5D. <span class=\"person\">Oskar Klein</span> enroscó la extra a escala de Planck. Einstein dudó, pero luego elogió la idea.",
         },
         {
           type: 'paragraph',
@@ -447,7 +451,7 @@ export const elegantUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Riemann, Gauss y Einstein midieron curvatura por distancias. En cuerdas, un punto no existe. La geometría riemanniana falla bajo Planck. Surge la <span class=\"term\">geometría cuántica</span> (marco aún en construcción matemática).",
+          html: "Riemann, Gauss y Einstein midieron curvatura por distancias. En cuerdas, sin embargo, un punto no existe. Por eso la geometría riemanniana falla bajo Planck y surge la <span class=\"term\">geometría cuántica</span> (marco aún en construcción matemática).",
         },
         {
           type: 'paragraph',
@@ -511,11 +515,11 @@ export const elegantUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Cinco supercuerdas (1980s) parecían teorías separadas. Las ecuaciones exactas son desconocidas. Solo tenemos aproximaciones perturbativas. Cada teoría tiene acoplamiento de cuerdas g, y cuando g ≥ 1 la perturbación falla.",
+          html: "Cinco supercuerdas (1980s) parecían teorías separadas. Las ecuaciones exactas son desconocidas, y solo tenemos aproximaciones perturbativas. Cada teoría tiene acoplamiento de cuerdas g, y cuando g ≥ 1 la perturbación falla.",
         },
         {
           type: 'paragraph',
-          html: "En Strings '95 (USC), Witten anunció la segunda revolución. Las dualidades (T, S, U) muestran que las cinco teorías son ventanas a una sola estructura: M-teoría (Membrane/Mystery/Magic/Mother). Tiene 11 dimensiones (10 espacio + 1 tiempo), no 10.",
+          html: "En Strings '95 (USC), Witten anunció entonces la segunda revolución. Las dualidades (T, S, U) muestran que las cinco teorías son ventanas a una sola estructura: M-teoría (Membrane/Mystery/Magic/Mother). Tiene 11 dimensiones (10 espacio + 1 tiempo), no 10.",
         },
         {
           type: 'paragraph',
@@ -543,7 +547,7 @@ export const elegantUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Wheeler resumió que «los agujeros negros no tienen pelo»: solo masa, carga y spin. Eso los hace parecidos a partículas elementales. En relatividad general, los agujeros negros tienen singularidad. En cuántica, el conflicto persiste.",
+          html: "Wheeler resumió que «los agujeros negros no tienen pelo»: solo masa, carga y spin. Por eso los hace parecidos a partículas elementales. En relatividad general, los agujeros negros tienen singularidad, y en cuántica el conflicto persiste.",
         },
         {
           type: 'paragraph',
@@ -587,7 +591,7 @@ export const elegantUniverse: BookSummary = {
         },
         {
           type: 'key',
-          html: "String cosmology evita la singularidad clásica con nugget de Planck, dualidad de radios e inflación, pero las ecuaciones exactas del instante inicial aún faltan.",
+          html: "La cosmología de cuerdas evita la singularidad clásica con nugget de Planck, dualidad de radios e inflación, pero las ecuaciones exactas del instante inicial aún faltan.",
         },
         {
           type: 'paragraph',
@@ -777,7 +781,7 @@ export const elegantUniverse: BookSummary = {
   "Greene reconstruye tres conflictos del siglo XX — luz, gravedad, cuántica — y muestra cómo la cuerda los reconcilia con dimensiones ocultas, supersimetría y geometría cuántica.",
   "Einstein buscó leyes simples y bellas; la supercuerda continúa esa búsqueda con espuma cuántica, dualidades y un cosmos que puede desgarrarse y recomponerse.",
   "La confirmación vendrá indirectamente — SUSY, cosmología, entropía de agujeros negros — mientras la escala de Planck permanece fuera del alcance directo.",
-  "El relato del espacio-tiempo no ha terminado: es la aventura más ambiciosa de la física teórica contemporánea."
+  "En suma, el relato del espacio-tiempo no ha terminado: es la aventura más ambiciosa de la física teórica contemporánea."
 ],
     highlight: "La promesa es elegante y profunda, pero la teoría aún carece de ecuaciones exactas, selección de vacío Calabi-Yau y prueba experimental definitiva",
   },

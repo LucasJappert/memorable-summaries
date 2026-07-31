@@ -58,7 +58,7 @@
     {
       "sectionId": "prefacio",
       "sectionTitle": "La historia del equipo Omega",
-      "text": "Si una máquina ultrainteligente puede diseñar mejores máquinas, se desata una recursividad sin límite aparente. El viernes de lanzamiento, Prometheus 2.0 apenas mejora a la versión anterior. Al mediodía, la 5.0 supera todos los benchmarks. Al anochecer lanzan la 10.0 para la fase 2: ganar dinero."
+      "text": "Si una máquina ultrainteligente puede diseñar mejores máquinas, se desata una recursividad sin límite aparente. El viernes de lanzamiento, Prometheus 2.0 apenas mejora a la versión anterior. Al mediodía, la 5.0 supera todas las pruebas de referencia estándar. Al anochecer lanzan la 10.0 para la fase 2: ganar dinero."
     },
     {
       "sectionId": "prefacio",
@@ -153,7 +153,7 @@
     {
       "sectionId": "cap3",
       "sectionTitle": "El futuro cercano: avances, fallos, leyes, armas y empleos",
-      "text": "El aprendizaje por refuerzo profundo (entrenar una IA con recompensas en simulación) permite que DeepMind enseñe a una IA a jugar Breakout desde cero. Después de horas de entrenamiento, descubre la estrategia óptima de perforar la pared izquierda. La misma técnica domina 49 juegos Atari."
+      "text": "El aprendizaje por refuerzo profundo (entrenar una IA con recompensas en simulación) permite que DeepMind enseñe a una IA a jugar Breakout desde cero. Después de horas de entrenamiento, descubre la estrategia óptima de perforar la pared izquierda. Además, la misma técnica domina 49 juegos Atari."
     },
     {
       "sectionId": "cap3",
@@ -263,7 +263,7 @@
     {
       "sectionId": "cap5",
       "sectionTitle": "Consecuencias: los próximos 10.000 años",
-      "text": "Sin responder qué futuro queremos, es improbable conseguirlo. Las preferencias colectivas moldean el desenlace de la carrera hacia la AGI."
+      "text": "Sin responder qué futuro queremos, es improbable conseguirlo: la indiferencia colectiva deja el resultado al azar."
     },
     {
       "sectionId": "cap5",
@@ -283,7 +283,7 @@
     {
       "sectionId": "cap6",
       "sectionTitle": "Nuestro legado cósmico: el próximo billón de años y más allá",
-      "text": "La vida ambiciosa empujará la tecnología al máximo para explotar recursos. La selección natural cósmica favorecerá civilizaciones expansivas. El físico Freeman Dyson propuso en 1960 la esfera de Dyson: reordenar Júpiter en una cáscara alrededor del Sol. Eso permitiría cien mil millones de veces más biomasa y un billón de veces más energía que la humanidad actual usa."
+      "text": "Por eso, la vida ambiciosa empujará la tecnología al máximo para explotar recursos. La selección natural cósmica favorecerá civilizaciones expansivas. El físico Freeman Dyson propuso en 1960 la esfera de Dyson: reordenar Júpiter en una cáscara alrededor del Sol. Eso permitiría cien mil millones de veces más biomasa y un billón de veces más energía que la humanidad actual usa."
     },
     {
       "sectionId": "cap6",
@@ -343,7 +343,7 @@
     {
       "sectionId": "cap8",
       "sectionTitle": "Conciencia",
-      "text": "Define conciencia como experiencia subjetiva: si se siente algo ser tú ahora, eres consciente. No requiere comportamiento, autoconciencia ni emociones. David Chalmers distingue problemas «fáciles» (cómo el cerebro procesa información) del problema difícil (por qué hay experiencia subjetiva en absoluto)."
+      "text": "Define conciencia como experiencia subjetiva: si se siente algo ser tú ahora, eres consciente. De hecho, no requiere comportamiento, autoconciencia ni emociones. David Chalmers distingue problemas «fáciles» (cómo el cerebro procesa información) del problema difícil (por qué hay experiencia subjetiva en absoluto)."
     },
     {
       "sectionId": "cap8",
@@ -403,7 +403,7 @@
     {
       "sectionId": "cierre",
       "sectionTitle": "Cierre",
-      "text": "Es el resultado de decisiones humanas que estamos tomando ahora."
+      "text": "Por eso, es el resultado de decisiones humanas que estamos tomando ahora."
     },
     {
       "sectionId": "cierre",

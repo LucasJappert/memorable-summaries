@@ -17,7 +17,7 @@ lang: es
 | cap1 | 01 | Tortugas hasta el fondo |
 | cap2 | 02 | Los tres minutos finales de una película |
 | cap3 | 03 | ¿De dónde viene la intención? |
-| cap4 | 04 | Voluntad de hierro: mito del grit |
+| cap4 | 04 | Voluntad de hierro: el mito del grit |
 | cap5 | 05 | Introducción al caos |
 | cap6 | 06 | ¿Tu libre albedrío es caótico? |
 | cap7 | 07 | Introducción a la complejidad emergente |
@@ -78,7 +78,7 @@ Si la tesis exige causas en cadena, el siguiente paso es mostrar por qué mirar 
 Ese instante es lo que estudian los experimentos <span class="term">libetianos</span> (inspirados en el neurocientífico Benjamin Libet). En <span class="num">1983</span>, Libet midió un potencial de preparación unos <span class="num">300 ms</span> antes de que el sujeto sintiera decidir. Haynes usó resonancia magnética para anticipar la elección hasta <span class="num">10 s</span> antes. Itzhak Fried, registrando neuronas sueltas, acertó cerca del <span class="num">80 %</span> de las veces. La conciencia llega tarde a su propia fiesta.
 
 <!-- paragraph -->
-Aquí Sapolsky hace una concesión clave. Los compatibilistas objetan que las tareas son artificiales. Sostienen que la predicción real ronda el <span class="num">60 %</span> y que existe un «free won't», un veto de última hora. Puede que tengan razón y que Libet no mate el libre albedrío. Da igual, porque la pregunta decisiva es anterior: ¿de dónde salió la intención? Podemos hacer lo que queremos, pero no elegimos qué queremos.
+Aquí Sapolsky hace una concesión clave. Los compatibilistas objetan que las tareas son artificiales. Sostienen que la predicción real ronda el <span class="num">60 %</span> y que existe un «veto consciente» (el «free won't» de Libet), un freno de última hora. Puede que tengan razón y que Libet no mate el libre albedrío. Da igual, porque la pregunta decisiva es anterior: ¿de dónde salió la intención? Podemos hacer lo que queremos, pero no elegimos qué queremos.
 
 <!-- key -->
 Discutir los milisegundos previos al acto es pelear por el desenlace ignorando toda la <span class="key-term">película</span> que lo volvió inevitable.
@@ -113,7 +113,7 @@ Los compatibilistas intentan rescatar la libertad en el pasado o en la fuerza de
 # cap4
 
 ## num: 04
-## title: Voluntad de hierro: mito del grit
+## title: Voluntad de hierro: el mito del grit
 
 <!-- paragraph lead -->
 ¿Puede el pasado ser la rendija donde se cuela el libre albedrío? Los compatibilistas más finos aceptan la cadena causal, pero apelan al tiempo. Sostienen que «tuviste tiempo de convertirte en otra persona», postura que resume el filósofo Neil Levy. Sapolsky responde que ese pasado también fue alguna vez un presente igual de determinado. Trasladar la libertad atrás no la crea: solo la esconde.
@@ -248,7 +248,7 @@ Si el azar cuántico llegara a la conducta, ¿salvaría la agencia o solo la vol
 ## title: ¿Tu libre albedrío es aleatorio?
 
 <!-- paragraph lead -->
-¿Rescata el azar cuántico la libertad o solo la vuelve impredecible y absurda? Sapolsky cierra la puerta cuántica con tres golpes. Primero, esos efectos no «burbujean» hasta la conducta. El cerebro es cálido, húmedo y ruidoso, y la decoherencia los borra mucho antes de que un pensamiento se forme. Max Tegmark refutó por esta vía la teoría de los microtúbulos de Penrose y Hameroff.
+¿Rescata el azar cuántico la libertad o solo la vuelve impredecible y absurda? Sapolsky cierra la puerta cuántica con tres golpes. Primero, esos efectos no «burbujean» hasta la conducta. Por eso el cerebro cálido, húmedo y ruidoso borra el azar cuántico con la decoherencia mucho antes de que un pensamiento se forme. Max Tegmark refutó por esta vía la teoría de los microtúbulos de Penrose y Hameroff.
 
 <!-- paragraph -->
 Segundo, aunque el azar cuántico llegara a las neuronas, solo daría aleatoriedad, no agencia. Searle pregunta cómo se pasaría del ruido puro a la racionalidad. Lo que valoramos moralmente es la consistencia del carácter de una persona. Una conducta lanzada al azar no sería más libre. Sería errática e imputable a un dado.
@@ -361,7 +361,7 @@ Si tenemos precedentes y argumentos, ¿por qué cuesta tanto soltar la justicia 
 El castigo del tramposo sostiene la cooperación. Por eso activa el circuito dopaminérgico de recompensa. Los niños y los chimpancés pagan un costo con tal de ver castigado a quien se portó mal. Esa raíz antigua explica el largo desfile histórico de crueldad celebrada. Va desde el descuartizamiento de Damiens (<span class="num">1757</span>) hasta el último ahorcamiento público de Rainey Bethea (<span class="num">1936</span>).
 
 <!-- paragraph -->
-La alternativa coherente es el modelo de <span class="term">cuarentena</span> (contener el peligro como se aísla una enfermedad, sin castigo merecido). Lo impulsan Derk Pereboom y Gregg Caruso. Contiene el peligro con la mínima restricción necesaria y ataca los determinantes sociales del delito. Contra la objeción de que sin castigo nada disuade, Noruega ofrece la prueba. Tiene una fracción de los homicidios, del encarcelamiento y de la reincidencia de Estados Unidos.
+La alternativa coherente es el modelo de <span class="term">cuarentena</span> (contener el peligro como se aísla una enfermedad, sin castigo merecido). Lo impulsan Derk Pereboom y Gregg Caruso. Contiene el peligro con la mínima restricción necesaria y ataca los determinantes sociales del delito. Contra la objeción de que sin castigo nada disuade, Noruega ofrece la prueba. Tiene una octava parte de los homicidios, una undécima parte del encarcelamiento y una cuarta parte de la reincidencia de Estados Unidos.
 
 <!-- key -->
 La retribución sobrevive porque satisface una vieja sed de venganza, mientras que la <span class="key-term">cuarentena</span> protege a la sociedad sin necesitar que nadie merezca sufrir.
@@ -383,7 +383,7 @@ El cierre del libro es a la vez filosófico y consolador: sin mérito cósmico, 
 La evidencia es delicada. Las personas deprimidas estiman su grado de control con más exactitud que las demás. Son más tristes pero más lúcidas. Saber esto puede estresar según el momento. Aun así, entender la biología frena el auto-castigo. Aplica a la obesidad ligada a la leptina, al TDAH o a la orientación sexual. Deja de haber un yo culpable al que fustigar.
 
 <!-- paragraph -->
-Vuelve entonces la imagen del graduado y el basurero. El graduado y el basurero, con genes e infancias intercambiados, intercambiarían destinos. El fenómeno del John Henryism muestra algo más. Creer que solo el esfuerzo vence a un sistema injusto llega a enfermar el cuerpo. Quien encuentre liberadora esta conclusión en lugar de amenazante probablemente fue de los afortunados.
+Vuelve entonces la imagen del graduado y el basurero: con genes e infancias intercambiados, intercambiarían destinos. El fenómeno del John Henryism muestra algo más. Creer que solo el esfuerzo vence a un sistema injusto llega a enfermar el cuerpo. Quien encuentre liberadora esta conclusión en lugar de amenazante probablemente fue de los afortunados.
 
 <!-- key -->
 Sin libre albedrío nadie merece de veras su fortuna ni su miseria, y asumirlo abre la puerta a menos estigma y más compasión.

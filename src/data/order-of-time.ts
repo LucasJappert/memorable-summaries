@@ -96,7 +96,7 @@ export const orderOfTime: BookSummary = {
   {
     "id": "cronologia",
     "num": "◈",
-    "label": "Cronología"
+    "label": "Cronología de hitos"
   },
   {
     "id": "figuras",
@@ -122,7 +122,7 @@ export const orderOfTime: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La realidad suele ser distinta a lo que parece. La Tierra parece plana. El Sol parece girar en el cielo. Del mismo modo, el tiempo no fluye como creemos. En los libros de física que leyó de joven descubrió algo asombroso: el tiempo funciona de otra manera, y aún no sabemos del todo cómo.",
+          html: "La realidad suele ser distinta a lo que parece. La Tierra parece plana. El Sol parece girar en el cielo. Del mismo modo, el tiempo no fluye como creemos. Por eso, en los libros de física que leyó de joven, descubrió algo asombroso. El tiempo funciona de otra manera, y aún no sabemos del todo cómo.",
         },
         {
           type: 'paragraph',
@@ -201,7 +201,7 @@ export const orderOfTime: BookSummary = {
             },
             {
               "value": "1824",
-              "label": "Sadi Carnot publica «Reflexions on the Motive Power of Fire»"
+              "label": "Sadi Carnot publica «Reflexiones sobre la fuerza motriz del fuego»"
             }
           ],
         },
@@ -263,7 +263,7 @@ export const orderOfTime: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Einstein, en la oficina de patentes suiza, unificó ambas intuiciones. El <span class=\"term\">espacio-tiempo</span> (la unión de espacio y tiempo en una sola geometría) no es un escenario fijo. Es el <span class=\"term\">campo gravitatorio</span> (la entidad física que la gravedad describe), dinámico, curvo y verificable. Pierde sentido preguntar si el tiempo existe sin el mundo.",
+          html: "Einstein, en la oficina de patentes suiza, unificó ambas intuiciones. Entonces el <span class=\"term\">espacio-tiempo</span> (la unión de espacio y tiempo en una sola geometría) deja de ser un escenario fijo. Es el <span class=\"term\">campo gravitatorio</span> (la entidad física que la gravedad describe), dinámico, curvo y verificable. Por eso pierde sentido preguntar si el tiempo existe sin el mundo.",
         },
         {
           type: 'paragraph',
@@ -319,7 +319,7 @@ export const orderOfTime: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "No hay teoría cuántica de la gravedad universalmente aceptada ni confirmada en laboratorio. El desmoronamiento de la Parte I queda completo: unidad, dirección, presente, independencia y continuidad caen uno tras otro. Eso abre la Parte II, un mundo sin variable temporal fundamental.",
+          html: "No hay teoría cuántica de la gravedad universalmente aceptada ni confirmada en laboratorio. Aun así, el desmoronamiento de la Parte I queda completo. Caen uno tras otro la unidad, la dirección, el presente, la independencia y la continuidad. Por eso se abre la Parte II, un mundo sin variable temporal fundamental.",
         },
         {
           type: 'key',
@@ -511,7 +511,7 @@ export const orderOfTime: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "A nivel fundamental solo hay regularidades simétricas en el tiempo. Causa, memoria y flecha son efectivos emergentes de esa particularidad entrópica. Δ S ≥ 0 vuelve aquí como motor del devenir concreto.",
+          html: "A nivel fundamental solo hay regularidades simétricas en el tiempo. Por eso causa, memoria y flecha son efectivos emergentes de esa particularidad entrópica. De ahí que Δ S ≥ 0 vuelva aquí como motor del devenir concreto.",
         },
         {
           type: 'concept-grid',
@@ -563,7 +563,7 @@ export const orderOfTime: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La objeción de que primero existe un tiempo físico global pierde fuerza si la física desmonta ese tiempo. Antes que seres racionales, somos hambre, vínculo, vida. El flujo subjetivo emerge del rastro entrópico en el cerebro.",
+          html: "La objeción de que primero existe un tiempo físico global pierde fuerza si la física desmonta ese tiempo. Antes que seres racionales, somos hambre, vínculo, vida. Por eso el flujo subjetivo emerge del rastro entrópico en el cerebro.",
         },
         {
           type: 'key',
@@ -615,7 +615,7 @@ export const orderOfTime: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Rovelli, a los sesenta años, no teme la muerte como temió nunca del todo. La teme menos que el sufrimiento o la vejez sin amor. Bach, en la cantata BWV 56, llama a la muerte «hermana del sueño»: una hermana bondadosa que cierra los ojos.",
+          html: "Rovelli, a los sesenta años, no teme la muerte como temió nunca del todo. La teme menos que el sufrimiento o la vejez sin amor. Entonces Bach, en la cantata BWV 56, llama a la muerte «hermana del sueño»: una hermana bondadosa que cierra los ojos.",
         },
         {
           type: 'paragraph',
@@ -689,7 +689,7 @@ export const orderOfTime: BookSummary = {
   },
   {
     "year": "1824",
-    "text": "Sadi Carnot: «Reflexions on the Motive Power of Fire»."
+    "text": "Sadi Carnot: «Reflexiones sobre la fuerza motriz del fuego»."
   },
   {
     "year": "1883",
@@ -767,7 +767,7 @@ export const orderOfTime: BookSummary = {
   },
   {
     "name": "Hans Reichenbach",
-    "role": "The Direction of Time · miedo al tiempo"
+    "role": "La dirección del tiempo · miedo al tiempo"
   },
   {
     "name": "Carlo Rovelli",
@@ -781,8 +781,9 @@ export const orderOfTime: BookSummary = {
   closing: {
     title: "La idea central",
     lines: [
-  "El tiempo que habitamos —uniforme, con presente universal y flecha irreversible— es una aproximación en capas de un mundo de eventos sin variable temporal privilegiada.",
-  "La física desmonta el reloj cósmico pieza a pieza y lo reconstruye desde la memoria.",
+  "El tiempo que habitamos —uniforme, con presente universal y flecha irreversible— no es una propiedad elemental del cosmos.",
+  "Es una aproximación en capas de un mundo de eventos sin variable temporal privilegiada.",
+  "Por eso la física desmonta el reloj cósmico pieza a pieza y lo reconstruye desde la memoria.",
   "Al final del viaje, la emoción del tiempo podría ser precisamente lo que el tiempo es para nosotros.",
   "Somos tiempo; somos memoria; somos el misterio que escuchamos al escuchar pasar el tiempo."
 ],

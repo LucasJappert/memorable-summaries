@@ -14,7 +14,7 @@ lang: es
 
 | id | num | label |
 |----|-----|-------|
-| prefacio | 00 | Prefacio |
+| prefacio | 00 | Tres lectores imaginarios y la perspectiva del gen |
 | cap1 | 01 | ¿Por qué existen las personas? |
 | cap2 | 02 | Los replicadores |
 | cap3 | 03 | Espirales inmortales |
@@ -29,7 +29,7 @@ lang: es
 | cap12 | 12 | Los buenos terminan primero |
 | cap13 | 13 | El largo alcance del gen |
 | conceptos | ✦ | Conceptos clave |
-| cronologia | ◈ | Cronología |
+| cronologia | ◈ | Cronología de ideas y ediciones |
 | figuras | ✦ | Figuras clave |
 | cierre | ★ | La idea central |
 
@@ -66,7 +66,7 @@ Antes de aplicar esa perspectiva al comportamiento, el libro plantea la pregunta
 ¿Para qué existimos? La vida inteligente «llega a la mayoría de edad» cuando descubre la razón de su propia existencia. <span class="person">Charles Darwin</span> (naturalista británico) fue quien primero articuló una explicación coherente. Antes de <span class="num">1859</span>, todas las respuestas a «¿para qué somos?» son, según el paleontólogo <span class="person">G. G. Simpson</span>, inútiles.
 
 <!-- paragraph -->
-Este libro no defiende el darwinismo en general. Explora sus consecuencias para el egoísmo y el altruismo biológico. Toca temas de profunda importancia humana: amor, odio, cooperación, codicia y generosidad. Autores como el etólogo <span class="person">Konrad Lorenz</span> se equivocaron al suponer que la evolución actúa «para el bien de la especie» o del grupo. Lo mismo hicieron <span class="person">Robert Ardrey</span> y <span class="person">Irenäus Eibl-Eibesfeldt</span>.
+En cambio, este libro no defiende el darwinismo en general. Explora sus consecuencias para el egoísmo y el altruismo biológico. Toca temas de profunda importancia humana: amor, odio, cooperación, codicia y generosidad. Autores como el etólogo <span class="person">Konrad Lorenz</span> se equivocaron al suponer que la evolución actúa «para el bien de la especie» o del grupo. Lo mismo hicieron <span class="person">Robert Ardrey</span> y <span class="person">Irenäus Eibl-Eibesfeldt</span>.
 
 <!-- paragraph -->
 La tesis central sostiene que somos máquinas de supervivencia creadas por nuestros genes. Un gen exitoso tiende al <span class="term">egoísmo despiadado</span> (maximizar su propia copia sin considerar al resto). En circunstancias especiales puede favorecer un altruismo limitado. El amor universal y el bien de la especie no tienen sentido evolutivo. Dawkins advierte que esto no prescribe moral: podemos enseñar generosidad y frustrar los diseños de nuestros genes.
@@ -99,10 +99,10 @@ Para entender por qué los genes se comportan así, hace falta volver al origen 
 ¿Cómo empezó la evolución darwiniana? En el principio hubo simplicidad. El universo está poblado de cosas <span class="term">estables</span> (patrones de átomos que perduran). La selección natural es un caso especial de «supervivencia de lo estable».
 
 <!-- paragraph -->
-Antes de la vida, moléculas orgánicas se formaron en el «caldo primordial». Era agua con CO₂, metano y amoniaco bajo energía ultravioleta o chispas eléctricas. De ahí salieron aminoácidos y bases de ADN. En algún momento surgió por accidente el <span class="term">Replicador</span> (una molécula capaz de copiarse a sí misma). Se propagó hasta agotar los bloques constructores.
+A partir de ahí, antes de la vida, moléculas orgánicas se formaron en el «caldo primordial». Era agua con CO₂, metano y amoniaco bajo energía ultravioleta o chispas eléctricas. De ahí salieron aminoácidos y bases de ADN. En algún momento surgió por accidente el <span class="term">Replicador</span> (una molécula capaz de copiarse a sí misma). Se propagó hasta agotar los bloques constructores.
 
 <!-- paragraph -->
-Los replicadores competían por materiales. Los más estables, longevos y fieles en copiarse prevalecían. Surgieron «proteínas» protectoras y, eventualmente, vehículos cada vez más elaborados: las <span class="term">máquinas de supervivencia</span> (cuerpos que protegen y transportan genes). Los errores de copia, las mutaciones, eran la materia prima de la evolución.
+Por eso, los replicadores competían por materiales. Los más estables, longevos y fieles en copiarse prevalecían. Surgieron «proteínas» protectoras y, eventualmente, vehículos cada vez más elaborados: las <span class="term">máquinas de supervivencia</span> (cuerpos que protegen y transportan genes). Los errores de copia, las mutaciones, eran la materia prima de la evolución.
 
 <!-- big-numbers -->
 | value | label |
@@ -127,7 +127,7 @@ El replicador moderno no es una molécula abstracta: es el ADN en espiral que en
 ¿Qué son los genes y por qué los cuerpos son solo vehículos? Somos máquinas de supervivencia para los genes. Estos son moléculas de <span class="term">ADN</span> (ácido desoxirribonucleico: la molécula que guarda la información hereditaria). Forman una espiral doble con cuatro letras (A, T, C, G). Cada célula humana contiene un juego completo de <span class="num">46</span> cromosomas. Es como tener planos del arquitecto en cada habitación del edificio.
 
 <!-- paragraph -->
-El ADN replica y supervisa la fabricación de <span class="term">proteínas</span> (moléculas que ejecutan casi todo el trabajo celular). Un cuerpo es la forma del gen de preservarse sin alteración. Las características adquiridas no se heredan. La selección favorece genes que construyen buenas máquinas de supervivencia.
+Por eso, el ADN replica y supervisa la fabricación de <span class="term">proteínas</span> (moléculas que ejecutan casi todo el trabajo celular). Un cuerpo es la forma del gen de preservarse sin alteración. Las características adquiridas no se heredan. La selección favorece genes que construyen buenas máquinas de supervivencia.
 
 <!-- paragraph -->
 Los genes son gregarios: una máquina contiene miles. El <span class="term">cruzamiento</span> (mezcla de material genético materno y paterno en la meiosis) hace que cada espermatozoide sea único. Un gen, en la definición del biólogo <span class="person">G. C. Williams</span>, es cualquier porción cromosómica que dura suficientes generaciones como para ser unidad de selección.
@@ -237,7 +237,7 @@ El parentesco explica ayudar a familiares; no explica cuántos hijos tener ni cu
 ¿Por qué los animales no tienen todos los hijos posibles? La planificación familiar humana es decisional. En animales es programación instintiva sobre cuántos hijos tener y cuándo. Los genes «programan» tamaño de camada, intervalos reproductivos e inversión por cría según el entorno.
 
 <!-- paragraph -->
-La estrategia <span class="term">r-seleccionada</span> (muchos hijos poco cuidados) se contrasta con la <span class="term">K-seleccionada</span> (pocos hijos muy cuidados). Un animal ajusta su fecundidad al número de crías que puede criar de verdad. No lo hace por bien de la especie sino por maximización génica.
+Por eso, la estrategia <span class="term">r-seleccionada</span> (muchos hijos poco cuidados) se contrasta con la <span class="term">K-seleccionada</span> (pocos hijos muy cuidados). Un animal ajusta su fecundidad al número de crías que puede criar de verdad. No lo hace por bien de la especie sino por maximización génica.
 
 <!-- paragraph -->
 El infanticidio, el abandono de crías y la competencia entre hermanos por recursos maternos son fenómenos explicables desde la perspectiva del gen. Cada individuo compite por la inversión parental que maximice su propia supervivencia reproductiva.
@@ -259,7 +259,7 @@ Una vez nacidos, padres e hijos comparten genes pero compiten por la misma inver
 ¿Por qué padres e hijos pelean por recursos si comparten sangre? Hay conflicto de intereses entre padres e hijos. Ambos comparten el <span class="num">50 %</span> de genes, aunque cada hijo compite además con sus hermanos. Cada uno presiona a los padres por más inversión de la «justa».
 
 <!-- paragraph -->
-Un gen en el cuerpo del hijo puede favorecer extraer más recursos de la madre de lo que a ella le conviene dar. El weaning conflict, la rivalidad entre hermanos y el infanticidio ilustran esta tensión. Cada lado evoluciona contramedidas.
+Un gen en el cuerpo del hijo puede favorecer extraer más recursos de la madre de lo que a ella le conviene dar. El <span class="term">conflicto de destete</span> (weaning conflict), la rivalidad entre hermanos y el infanticidio ilustran esta tensión. Cada lado evoluciona contramedidas.
 
 <!-- paragraph -->
 Desde la perspectiva del gen materno, todos los hijos son igualmente valiosos (salvo diferencias de parentesco). El gen del hijo, en cambio, favorece que él reciba más que sus hermanos. Esa asimetría explica gran parte del conflicto familiar en animales.
@@ -281,7 +281,7 @@ Si hay conflicto entre padres e hijos, el conflicto entre compañeros sexuales n
 ¿Por qué machos y hembras pelean por quién cuida a la cría? Si hay conflicto entre padres e hijos, ¿cuánto más entre compañeros sexuales no emparentados? Solo comparten el <span class="num">50 %</span> de genes en los hijos comunes. Cada uno intenta explotar al otro para invertir menos en la cría.
 
 <!-- paragraph -->
-La asimetría fundamental es el tamaño del gameto (célula reproductiva). Los masculinos (esperma) son pequeños y numerosos. Los femeninos (óvulos) son grandes y escasos. De la isogamia evolucionaron estrategias «honesta» (óvulo, gran inversión) y «explotadora» (esperma, móvil y barato). Los machos tienden a copular ampliamente. Las hembras son el factor limitante.
+De ahí que la asimetría fundamental sea el tamaño del gameto (célula reproductiva). Los masculinos (esperma) son pequeños y numerosos. Los femeninos (óvulos) son grandes y escasos. De la isogamia evolucionaron estrategias «honesta» (óvulo, gran inversión) y «explotadora» (esperma, móvil y barato). Los machos tienden a copular ampliamente. Las hembras son el factor limitante.
 
 <!-- paragraph -->
 <span class="person">Robert Trivers</span> (biólogo evolutivo) enfatizó la desconfianza mutua. El cortejo, la guardia de pareja, el celo y el cuidado parental son campos de negociación y engaño. Lo que parecía cooperación sexual era, en parte, explotación disfrazada.
@@ -364,7 +364,7 @@ La reciprocidad entre extraños se formaliza en juegos matemáticos: los «bueno
 <span class="person">Robert Axelrod</span> organizó torneos de estrategias computacionales. La ganadora fue <span class="term">Tit-for-Tat</span> (cooperar primero, luego copiar la jugada del rival). Es «nice» (nunca traiciona primero), «forgiving» (no guarda rencor prolongado) y «clear» (fácil de leer). En juegos repetidos, la cooperación puede ser ESS.
 
 <!-- paragraph -->
-El capítulo conecta juegos matemáticos con comportamiento animal y humano. Avícolas Grudger, simbiosis e instituciones que favorecen interacciones iteradas y reputación entran en el mismo marco. Hay esperanza para la cooperación humana si diseñamos reglas que premien la reciprocidad.
+Así que el capítulo conecta juegos matemáticos con comportamiento animal y humano. Avícolas Grudger, simbiosis e instituciones que favorecen interacciones iteradas y reputación entran en el mismo marco. Hay esperanza para la cooperación humana si diseñamos reglas que premien la reciprocidad.
 
 <!-- concept-grid -->
 | icon | title | description |

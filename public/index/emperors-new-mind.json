@@ -58,7 +58,7 @@
     {
       "sectionId": "prefacio",
       "sectionTitle": "Diez años después (edición 1999)",
-      "text": "Penrose ilustra el primer hilo con el teorema de Goodstein (una proposición aritmética verdadera que la inducción sola no demuestra). Comprender su verdad exige algo más que seguir reglas mecánicas. Ese «algo», la comprensión, parece ligado a la conciencia y esencialmente no computacional."
+      "text": "Por eso, Penrose ilustra el primer hilo con el teorema de Goodstein (una proposición aritmética verdadera que la inducción sola no demuestra). Comprender su verdad exige algo más que seguir reglas mecánicas. Ese «algo», la comprensión, parece ligado a la conciencia y esencialmente no computacional."
     },
     {
       "sectionId": "prefacio",
@@ -78,7 +78,7 @@
     {
       "sectionId": "prologo",
       "sectionTitle": "La inauguración de Ultronic",
-      "text": "El niño Adam, criado casi por máquinas, se atreve a hacer la primera pregunta. La escena anticipa el conflicto del libro. Cuando una máquina supera al cerebro en capacidad, ¿debemos atribuirle mente, sentimientos y responsabilidad moral?"
+      "text": "El niño Adam, criado casi por máquinas, se atreve a hacer la primera pregunta. Entonces la escena anticipa el conflicto del libro: cuando una máquina supera al cerebro en capacidad, ¿debemos atribuirle mente, sentimientos y responsabilidad moral?"
     },
     {
       "sectionId": "prologo",
@@ -183,7 +183,7 @@
     {
       "sectionId": "cap3",
       "sectionTitle": "Matemáticas y realidad",
-      "text": "Penrose defiende una forma de realismo platónico (la idea de que las verdades matemáticas existen independientemente de nosotros). Los conceptos habitan un mundo ideal accesible por la inteligencia, no inventado arbitrariamente. La pregunta «¿es recursivo el Mandelbrot?» conecta geometría fractal con límites de la computación."
+      "text": "Penrose defiende una forma de realismo platónico (la idea de que las verdades matemáticas existen independientemente de nosotros). Los conceptos habitan un mundo ideal accesible por la inteligencia, no inventado arbitrariamente. Por eso, la pregunta «¿es recursivo el Mandelbrot?» conecta geometría fractal con límites de la computación."
     },
     {
       "sectionId": "cap3",
@@ -348,7 +348,7 @@
     {
       "sectionId": "cap9",
       "sectionTitle": "Cerebros reales y cerebros modelo",
-      "text": "La IA fuerte ve el cerebro como máquina de Turing. Penrose lo disputa. ¿Dónde está el «asiento» de la conciencia? Candidatos: corteza cerebral, tálamo, formación reticular, hipocampo. Penrose es escéptico de atribuir conciencia solo al lenguaje o solo a estructuras «primitivas»."
+      "text": "Sin embargo, la IA fuerte ve el cerebro como máquina de Turing, y Penrose lo disputa. ¿Dónde está el «asiento» de la conciencia? Candidatos: corteza cerebral, tálamo, formación reticular, hipocampo. Penrose es escéptico de atribuir conciencia solo al lenguaje o solo a estructuras «primitivas»."
     },
     {
       "sectionId": "cap9",
@@ -388,7 +388,7 @@
     {
       "sectionId": "cap10",
       "sectionTitle": "¿Dónde reside la física de la mente?",
-      "text": "La selección natural actúa sobre el comportamiento observable, no sobre las ideas subyacentes a un algoritmo. No puede «evolucionar» procedimientos que validen otros procedimientos. Eso exige insight (comprensión directa), no mutación ciega. El matemático usa la conciencia para decidir si un algoritmo es el adecuado."
+      "text": "Por eso, la selección natural actúa sobre el comportamiento observable, no sobre las ideas subyacentes a un algoritmo. No puede «evolucionar» procedimientos que validen otros procedimientos. Eso exige comprensión directa, no mutación ciega. El matemático usa la conciencia para decidir si un algoritmo es el adecuado."
     },
     {
       "sectionId": "cap10",
@@ -438,12 +438,12 @@
     {
       "sectionId": "cierre",
       "sectionTitle": "Cierre",
-      "text": "La mente consciente no es un algoritmo ejecutándose en hardware biológico."
+      "text": "En suma, la mente consciente no es un algoritmo ejecutándose en hardware biológico."
     },
     {
       "sectionId": "cierre",
       "sectionTitle": "Cierre",
-      "text": "Gödel y Turing demuestran límites absolutos de la computación. La física actual, con su parche cuántico R, tampoco basta."
+      "text": "Gödel y Turing demuestran límites absolutos de la computación; la física actual, con su parche cuántico R, tampoco basta."
     },
     {
       "sectionId": "cierre",

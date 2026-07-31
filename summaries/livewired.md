@@ -14,7 +14,7 @@ lang: es
 
 | id | num | label |
 |----|-----|-------|
-| prefacio | 00 | Epígrafe |
+| prefacio | 00 | Nacer como muchos, morir como uno |
 | cap1 | 01 | El tejido eléctrico viviente |
 | cap2 | 02 | Solo añade mundo |
 | cap3 | 03 | El interior refleja el exterior |
@@ -28,7 +28,7 @@ lang: es
 | cap11 | 11 | El lobo y el rover marciano |
 | cap12 | 12 | Encontrar el amor perdido de Ötzi |
 | conceptos | ✦ | Conceptos clave |
-| cronologia | ◈ | Cronología |
+| cronologia | ◈ | Cronología de hitos citados |
 | figuras | ✦ | Figuras clave |
 | cierre | — | La idea central |
 
@@ -208,7 +208,7 @@ Las entradas sensoriales son flexibles; la salida motora también puede esculpir
 
 <!-- paragraph -->
 
-<span class="person">Matt Stutzman</span>, sin brazos, es el mejor arquero del mundo usando los pies. <span class="person">Faith</span>, la perra sin patas delanteras, camina bípeda. Sus cerebros caninos no evolucionaron con ruedas ni olas. El <span class="term">motor babbling</span> (exploración motora aleatoria que compara movimiento y feedback) esculpe mapas nuevos en esos casos. Sir Blake patina y Sugar surfea con el mismo principio.
+<span class="person">Matt Stutzman</span>, sin brazos, es el mejor arquero del mundo usando los pies. <span class="person">Faith</span>, la perra sin patas delanteras, camina bípeda. Sus cerebros caninos no evolucionaron con ruedas ni olas. El <span class="term">motor babbling</span> (exploración motora aleatoria que compara movimiento y retroalimentación) esculpe mapas nuevos en esos casos. Sir Blake patina y Sugar surfea con el mismo principio.
 
 <!-- paragraph -->
 
@@ -409,7 +409,7 @@ Eagleman cierra el libro volviendo a la identidad: quién fuimos queda escrito e
 
 <!-- paragraph -->
 
-Somos «cambiapieles». El yo de hace años puede parecer un extraño leyendo su diario. La identidad es trayectoria de reconfiguraciones, no esencia grabada en genes. Eagleman resume siete principios que recorren el libro. El cerebro refleja el mundo. Envuelve entradas nuevas. Conduce cualquier maquinaria. Retiene lo relevante. Fija lo estable. Compite o muere. Se mueve hacia los datos.
+Por eso somos «cambiapieles»: el yo de hace años puede parecer un extraño leyendo su diario. La identidad es trayectoria de reconfiguraciones, no esencia grabada en genes. Eagleman resume siete principios que recorren el libro. El cerebro refleja el mundo. Envuelve entradas nuevas. Conduce cualquier maquinaria. Retiene lo relevante. Fija lo estable. Compite o muere. Se mueve hacia los datos.
 
 <!-- paragraph -->
 
@@ -489,8 +489,8 @@ La identidad es verbo livewired, no sustantivo fijo. Es un diario escrito en con
 
 <!-- closing -->
 
-La naturaleza no escribió firmware cerrado.
-Escribió reglas para que el cerebro se reescriba con la experiencia.
+Así, la naturaleza no escribió firmware cerrado.
+Por eso escribió reglas para que el cerebro se reescriba con la experiencia.
 <!-- highlight -->No eres quien eras al empezar el capítulo: eres liveware en proceso<!-- /highlight -->
 Sustituir sentidos o perder medio cerebro no agota el mundo interior.
 Las máquinas del futuro deberían livewirearse, no solo ejecutar código.

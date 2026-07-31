@@ -21,7 +21,7 @@ export const intelligentLifeUniverse: BookSummary = {
   {
     "id": "prefacio",
     "num": "00",
-    "label": "Prefacio"
+    "label": "¿Estamos solos?"
   },
   {
     "id": "cap1",
@@ -81,7 +81,7 @@ export const intelligentLifeUniverse: BookSummary = {
   {
     "id": "cronologia",
     "num": "◈",
-    "label": "Cronología"
+    "label": "Cronología de hitos astrobiológicos"
   },
   {
     "id": "figuras",
@@ -135,7 +135,7 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Hace unos <span class=\"num\">14 mil millones de años</span> el universo apareció en el <span class=\"term\">Big Bang</span> (origen caliente y denso del espacio, el tiempo y la materia). La ley de Hubble confirma ese origen expansivo. El astrónomo <span class=\"person\">Edwin Hubble</span> la formuló en <span class=\"num\">1924</span>. La radiación cósmica de fondo de <span class=\"num\">3 K</span> apunta en la misma dirección.",
+          html: "Hace unos <span class=\"num\">14 mil millones de años</span> el universo apareció en el <span class=\"term\">Big Bang</span> (origen caliente y denso del espacio, el tiempo y la materia). La ley de Hubble confirma ese origen expansivo. El astrónomo <span class=\"person\">Edwin Hubble</span> la formuló en <span class=\"num\">1924</span>. Además, la radiación cósmica de fondo de <span class=\"num\">3 K</span> apunta en la misma dirección.",
         },
         {
           type: 'paragraph',
@@ -192,7 +192,7 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "En el <span class=\"term\">disco solar</span> (el anillo de gas y polvo que rodea una estrella joven), la fricción desacelera la rotación. La materia migra hacia la estrella. La temperatura decrece con la distancia. Cerca del Sol, a menos de <span class=\"num\">3 AU</span>, se acumulan silicatos y hierro. Más allá de la <span class=\"term\">línea de hielo</span> (donde el agua se congela, ~150 K) dominan los granos helados.",
+          html: "En el <span class=\"term\">disco solar</span> (el anillo de gas y polvo que rodea una estrella joven), la fricción desacelera la rotación. La materia migra hacia la estrella y, por eso, la temperatura decrece con la distancia. Cerca del Sol, a menos de <span class=\"num\">3 AU</span>, se acumulan silicatos y hierro. Más allá de la <span class=\"term\">línea de hielo</span> (donde el agua se congela, ~150 K) dominan los granos helados.",
         },
         {
           type: 'paragraph',
@@ -249,7 +249,7 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La acumulación por planetesimales terminó unos <span class=\"num\">30–40 Ma</span> después del inicio del sistema solar (<span class=\"num\">4.567 Ga</span>). El bombardeo intenso duró unos <span class=\"num\">600 Ma</span> más. Impactos del tamaño de Ceres o Marte vaporizaban océanos enteros.",
+          html: "La acumulación por planetesimales terminó unos <span class=\"num\">30–40 Ma</span> después del inicio del sistema solar (<span class=\"num\">4.567 Ga</span>). Pero el bombardeo intenso duró unos <span class=\"num\">600 Ma</span> más. Impactos del tamaño de Ceres o Marte vaporizaban océanos enteros.",
         },
         {
           type: 'paragraph',
@@ -306,7 +306,7 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Un tercio de los exoplanetas detectados supera dos masas jovianas. El más pequeño (Gliese 876 d) tiene 7,3 masas terrestres. Curiosamente, la mitad orbita dentro de <span class=\"num\">0,5 AU</span>, mucho más cerca que Mercurio. Esto contradice la teoría clásica de formación joviana más allá de 3 AU.",
+          html: "Un tercio de los exoplanetas detectados supera dos masas jovianas. El más pequeño (Gliese 876 d) tiene 7,3 masas terrestres. Curiosamente, la mitad orbita dentro de <span class=\"num\">0,5 AU</span>, mucho más cerca que Mercurio. Por eso contradice la teoría clásica de formación joviana más allá de 3 AU.",
         },
         {
           type: 'paragraph',
@@ -354,7 +354,7 @@ export const intelligentLifeUniverse: BookSummary = {
           items: [
             {
               "title": "Efecto invernadero",
-              "description": "CO₂ atrapa calor; descontrol → runaway (Venus) o glaciation (Marte).",
+              "description": "CO₂ atrapa calor; descontrol → runaway (Venus) o glaciación irreversible (Marte).",
               "icon": "🌡️"
             },
             {
@@ -392,7 +392,7 @@ export const intelligentLifeUniverse: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "¿Qué es la vida y cómo pudo surgir de la química? Al secuenciar organismos primitivos, incluidas micoplasmas con unos trescientos genes, la definición precisa está al alcance. Fenomenológicamente implica metabolismo y crecimiento. También uso de energía, individualidad, reproducción y mutación en ambiente abiótico. Los virus no califican.",
+          html: "¿Qué es la vida y cómo pudo surgir de la química? Al secuenciar genomas de organismos primitivos, incluidas micoplasmas con unos trescientos genes, la definición precisa está al alcance. Fenomenológicamente implica metabolismo y crecimiento. También uso de energía, individualidad, reproducción y mutación en ambiente abiótico. Los virus no califican.",
         },
         {
           type: 'paragraph',
@@ -416,7 +416,7 @@ export const intelligentLifeUniverse: BookSummary = {
             },
             {
               "title": "ARN",
-              "description": "Blueprint para síntesis proteica; ribozimas pueden catalizar reacciones.",
+              "description": "Plantilla para síntesis proteica; ribozimas pueden catalizar reacciones.",
               "icon": "📋"
             },
             {
@@ -457,7 +457,7 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Entre los hitos figuran la endosimbiosis hacia eucariotas y el oxígeno como catástrofe ambiental (~<span class=\"num\">2,4 Ga</span>). También la multicelularidad y los genes reguladores del desarrollo (~630–542 Ma). Más tarde, plantas y animales conquistaron la tierra (~<span class=\"num\">470 Ma</span>). El evento K/T (<span class=\"num\">65 Ma</span>) extinguió dinosaurios no aviares y abrió camino a mamíferos.",
+          html: "Entre los hitos figura la endosimbiosis hacia eucariotas, seguida del oxígeno como catástrofe ambiental (~<span class=\"num\">2,4 Ga</span>). Más tarde llegaron la multicelularidad y los genes reguladores del desarrollo (~630–542 Ma). Por último, plantas y animales conquistaron la tierra (~<span class=\"num\">470 Ma</span>). El evento K/T (<span class=\"num\">65 Ma</span>) extinguió dinosaurios no aviares y abrió camino a mamíferos.",
         },
         {
           type: 'paragraph',
@@ -522,7 +522,7 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">James Lovelock</span> (<span class=\"num\">1965</span>) señaló que la vida produce compuestos inesperados. El metano terrestre es diez elevado a catorce veces más abundante de lo esperado. Miles de avistamientos de objetos voladores no identificados se reportaron desde <span class=\"num\">1947</span>. El informe Condon (<span class=\"num\">1969</span>) concluyó que veintiún años de estudio no añadieron conocimiento científico.",
+          html: "<span class=\"person\">James Lovelock</span> (<span class=\"num\">1965</span>) señaló que la vida produce compuestos inesperados. El metano terrestre es un billón de veces más abundante de lo esperado en equilibrio químico. Miles de avistamientos de objetos voladores no identificados se reportaron desde <span class=\"num\">1947</span>. El informe Condon (<span class=\"num\">1969</span>) concluyó que veintiún años de estudio no añadieron conocimiento científico.",
         },
         {
           type: 'list',
@@ -562,7 +562,7 @@ export const intelligentLifeUniverse: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Los peligros internos son los formidables: daño ambiental, invenciones incontrolables, guerra y terrorismo. Ulmschneider propone distribuir la humanidad en colonias espaciales, controlar armas de destrucción masiva y educar la responsabilidad social. El factor <span class=\"term\">L de Drake</span> (duración media de una civilización tecnológica comunicante) es el más incierto de la ecuación de Drake.",
+          html: "Los peligros internos, sin embargo, son los formidables. Entre ellos figuran el daño ambiental, las invenciones incontrolables, la guerra y el terrorismo. Ulmschneider propone distribuir la humanidad en colonias espaciales, controlar armas de destrucción masiva y educar la responsabilidad social. El factor <span class=\"term\">L de Drake</span> (duración media de una civilización tecnológica comunicante) es el más incierto de la ecuación de Drake.",
         },
         {
           type: 'concept-grid',
@@ -706,7 +706,7 @@ export const intelligentLifeUniverse: BookSummary = {
   },
   {
     "year": "~2,4 Ga",
-    "text": "Evento de Great Oxidation; atmósfera rica en oxígeno."
+    "text": "Gran oxidación; atmósfera rica en O₂."
   },
   {
     "year": "1953",
@@ -772,11 +772,11 @@ export const intelligentLifeUniverse: BookSummary = {
     lines: [
   "La vida inteligente no es un accidente cósmico aislado.",
   "Requiere estrellas que forjen carbono, planetas estables en la zona habitable y millones de años de evolución en tierra firme.",
-  "La paradoja de Fermi no prueba nuestra singularidad.",
+  "Por eso la paradoja de Fermi no prueba nuestra singularidad.",
   "Prueba que el conocimiento sin responsabilidad es letal.",
   "Buscar por radio, espectroscopía o geología planetaria sigue siendo la única forma de saberlo."
 ],
-    highlight: "Si las leyes de la naturaleza son universales, la inteligencia debería ser frecuente; si no la vemos, el cuello de botella es la supervivencia de las civilizaciones tecnológicas, no el origen de la vida.",
+    highlight: "Si las leyes de la naturaleza son universales, la inteligencia debería ser frecuente; pero si no la vemos, el cuello de botella es la supervivencia de las civilizaciones tecnológicas, no el origen de la vida.",
   },
   footer: {
     line1: "Resumen generado a partir de la obra de Peter Ulmschneider",

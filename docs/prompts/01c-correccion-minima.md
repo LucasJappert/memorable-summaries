@@ -1,8 +1,11 @@
 # Prompt 01c — Corrección mínima por sección
 
-Usá este prompt **después** del Paso A (`01-resumen-desde-libro.md`) y **antes** de `md-to-ts.py`.  
+Usá este prompt **después** del Paso A (`01-resumen-desde-libro.md`) y **antes** de `01d-revision-editorial.md` / `md-to-ts.py`.
 **Entrada:** una sección de `summaries/<slug>.md` (`# prefacio`, `# capN`, o `# cierre`).  
 **Salida:** la misma sección corregida, sin cambiar estructura ni agregar contenido.
+
+> **Alcance.** Este paso es **corrección seccional de prosa**, no reescritura factual ni revisión global de idioma.
+> La coherencia de TOC/títulos en español y el tono uniforme del documento van en `01d-revision-editorial.md`.
 
 ---
 
@@ -35,7 +38,7 @@ Sos un corrector de estilo **conservador** y, al mismo tiempo, un **lector crít
 - No cambiar el orden de bloques (`paragraph`, `quote`, `key`, tablas).
 - No tocar marcadores HTML (`<!-- ... -->`, `<span class="term">`, etc.) salvo moverlos con el texto.
 - No reescribir por estilo si la oración ya es clara.
-- No editar `# conceptos`, `# cronologia`, `# figuras` salvo error ortográfico obvio.
+- No editar `# conceptos`, `# cronologia`, `# figuras` salvo error ortográfico obvio (la revisión global de esas secciones va en `01d`).
 
 ## Claridad (sin perder densidad mnemotécnica)
 

@@ -14,7 +14,7 @@ lang: es
 
 | id | num | label |
 |----|-----|-------|
-| prefacio | 00 | Prólogo |
+| prefacio | 00 | Tres veces dejé de existir |
 | cap1 | 01 | El problema real |
 | cap2 | 02 | Medir la conciencia |
 | cap3 | 03 | Phi |
@@ -29,7 +29,7 @@ lang: es
 | cap12 | 12 | Más allá de lo humano |
 | cap13 | 13 | Mentes artificiales |
 | conceptos | ✦ | Conceptos clave |
-| cronologia | ◈ | Cronología |
+| cronologia | ◈ | Cronología de la ciencia de la conciencia |
 | figuras | ✦ | Figuras clave |
 | cierre | ★ | La idea central |
 
@@ -40,7 +40,7 @@ lang: es
 ## title: La idea central
 
 <!-- closing -->
-La conciencia no es un misterio único que exija un alma o un eureka cuántico.
+En suma, la conciencia no es un misterio único que exija un alma o un eureka cuántico.
 Es un conjunto de propiedades explicables en términos de cerebro encarnado que predice para seguir vivo.
 <!-- highlight -->Ser tú es una alucinación controlada al servicio de la vida<!-- /highlight -->
 Percibimos mundo y yo de adentro hacia afuera, no como ventanas transparentes al real.
@@ -244,13 +244,13 @@ Si la percepción del mundo es inferencia frágil, el yo que percibe también pu
 # cap7
 
 ## num: 07
-## title: Delirium
+## title: Delirio
 
 <!-- paragraph lead -->
 ¿Qué le ocurre al «yo» cuando el cerebro pierde el control narrativo? En <span class="num">2014</span> la madre de Seth entró en estado vegetativo por encefalopatía. En <span class="num">2018</span> sufrió <span class="term">delirium</span>, un trastorno agudo de atención y cognición con alucinaciones y paranoia. Creyó que él experimentaba con ella y huyó del ward. Padecen delirium hasta un tercio de ancianos en cuidados agudos, con secuelas cognitivas.
 
 <!-- paragraph -->
-El delirio no es aleatorio. Encaja con su rol de neurocientífico hijo que lee notas clínicas en la cama. Factores como fiebre, sedación o lugar extraño rompen el modelo predictivo del self. Las palabras se separan y la identidad fluctúa. El yo puede fragmentarse y recomponerse.
+Por eso el delirio no es aleatorio: encaja con su rol de neurocientífico hijo que lee notas clínicas en la cama. Factores como fiebre, sedación o lugar extraño rompen el modelo predictivo del self. Las palabras se separan y la identidad fluctúa. El yo puede fragmentarse y recomponerse.
 
 <!-- paragraph -->
 El capítulo pregunta qué es un «self» al que se puede salir y volver. Esa pregunta abre la Parte III: el yo tampoco es lo que parece.
@@ -294,7 +294,7 @@ Esas percepciones del yo se anclan en algo más profundo que la narrativa: el cu
 ¿La conciencia depende más de estar vivo que de ser inteligente? Descartes llamó a los animales bête-machine sin alma racional. <span class="person">La Mettrie</span> extendió la máquina al hombre. Seth invierte la idea: la conciencia liga más a estar vivo que a ser inteligente. Bajo capas narrativas y perspectivales hay afecto e interocepción.
 
 <!-- paragraph -->
-Según James-Lange, la emoción es percepción de cambio corporal: «lloramos, luego estamos tristes». La <span class="term">inferencia interoceptiva</span> (predicciones sobre el estado interno del cuerpo) unifica emoción sin dualismo cognitivo/corporal. El miedo es predicción sobre estado visceral ante un oso. Ashby sostuvo que todo buen regulador debe ser modelo del sistema. Las emociones regulan variables esenciales como temperatura o glucosa.
+A partir de ahí, la emoción es percepción de cambio corporal (James-Lange): «lloramos, luego estamos tristes». La <span class="term">inferencia interoceptiva</span> (predicciones sobre el estado interno del cuerpo) unifica emoción sin dualismo cognitivo/corporal. El miedo es predicción sobre estado visceral ante un oso. Ashby sostuvo que todo buen regulador debe ser modelo del sistema. Las emociones regulan variables esenciales como temperatura o glucosa.
 
 <!-- paragraph -->
 La percepción epistémica trata objetos y la instrumental busca control. Esa distinción explica la fenomenología: la taza tiene «dorso», la ansiedad no. La sensación basal de «simplemente estar vivo» es predicción interoceptiva profunda. Priors precisos de supervivencia explican estabilidad del yo y autoengaño fisiológico.
@@ -432,7 +432,7 @@ Máquinas pueden ser <span class="key-term">inteligentes sin sentir</span>. La c
 | year | text |
 |------|------|
 | 1884 | William James (y Lange): emoción como percepción corporal. |
-| 1974 | Nagel: «What is it like to be a bat?» |
+| 1974 | Nagel: «¿Qué se siente al ser un murciélago?» |
 | 1990 | Crick & Koch proponen buscar NCC. |
 | 1995 | Chalmers formula el problema difícil. |
 | 1998 | Tononi & Edelman: conciencia informática e integrada. |

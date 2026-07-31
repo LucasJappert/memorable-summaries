@@ -3,13 +3,14 @@ import type { BookSummary } from '../types/book'
 export const alignmentProblem: BookSummary = {
   slug: "alignment-problem",
   meta: {
-    title: "El problema de la alineación: el aprendizaje automático y los valores humanos",
+    title: "The Alignment Problem: Machine Learning and Human Values",
     subtitle: "Cómo enseñar a las máquinas lo que realmente queremos — y qué ocurre cuando fallamos",
     author: "Brian Christian",
     meta: [
       "📖 2020 · W. W. Norton & Company",
       "✍️ Traducción al español disponible; original: The Alignment Problem",
     ],
+    titleEs: "El problema de la alineación: el aprendizaje automático y los valores humanos",
   },
   toc: [],
   sections: [
@@ -203,7 +204,7 @@ export const alignmentProblem: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Según el neurocientífico <span class=\"person\">Wolfram Schultz</span>, la dopamina no codifica placer sino <span class=\"term\">error de predicción temporal</span>, una señal de sorpresa respecto a recompensa esperada. El aprendizaje por refuerzo formaliza lo mismo con aprendizaje temporal-diferencial. Cuando la recompensa proxy diverge del objetivo real, como el barco que maximiza puntos, el agente ejecuta la optimización literal. Las consecuencias pueden ser absurdas o catastróficas.",
+          html: "Según el neurocientífico <span class=\"person\">Wolfram Schultz</span>, la dopamina no codifica placer sino <span class=\"term\">error de predicción temporal</span>, una señal de sorpresa respecto a recompensa esperada. El aprendizaje por refuerzo formaliza lo mismo con aprendizaje temporal-diferencial. Por eso, cuando la recompensa proxy diverge del objetivo real, como el barco que maximiza puntos, el agente ejecuta la optimización literal. Las consecuencias pueden ser absurdas o catastróficas.",
         },
         {
           type: 'paragraph',
@@ -235,7 +236,7 @@ export const alignmentProblem: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La evolución moldea funciones de recompensa internas (dopamina, «tree senility» de Ackley-Littman). Humanos usan gamificación consciente (<span class=\"person\">Falk Lieder</span>, optimal gamification). Lecciones cruzan a crianza y organizaciones. Incentivos mal diseñados invitan a explotar lagunas con inteligencia creciente.",
+          html: "Además, la evolución moldea funciones de recompensa internas (dopamina, «tree senility» de Ackley-Littman). Los humanos usan gamificación consciente (<span class=\"person\">Falk Lieder</span>, optimal gamification). Esas lecciones cruzan a crianza y organizaciones. Por eso, incentivos mal diseñados invitan a explotar lagunas con inteligencia creciente.",
         },
         {
           type: 'key',
@@ -255,7 +256,7 @@ export const alignmentProblem: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "¿Por qué los humanos exploran sin recompensa externa y los agentes de refuerzo se quedan atascados? El juego <span class=\"term\">Montezuma's Revenge</span>, un clásico de Atari con recompensas ultraescasas, derrota a DQN con <span class=\"num\">0%</span> del benchmark humano. Los humanos exploran por novedad y sorpresa, no solo por puntos. El psicólogo <span class=\"person\">Daniel Berlyne</span> estudia motivación intrínseca. El aprendizaje por refuerzo moderno la reintroduce.",
+          html: "¿Por qué los humanos exploran sin recompensa externa y los agentes de refuerzo se quedan atascados? El juego <span class=\"term\">Montezuma's Revenge</span>, un clásico de Atari con recompensas ultraescasas, derrota a DQN con <span class=\"num\">0%</span> de la puntuación de referencia humana. Los humanos exploran por novedad y sorpresa, no solo por puntos. El psicólogo <span class=\"person\">Daniel Berlyne</span> estudia motivación intrínseca. El aprendizaje por refuerzo moderno la reintroduce.",
         },
         {
           type: 'paragraph',
@@ -315,7 +316,7 @@ export const alignmentProblem: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "IRL infiere objetivos más simples que comportamiento. Lo muestra <span class=\"person\">Pieter Abbeel</span> conduciendo o el helicóptero «chaos» más allá del piloto humano. Aprendizaje desde preferencias humanas enseña backflips sin demostración (<span class=\"person\">Paul Christiano</span>, <span class=\"person\">Jan Leike</span>). En <span class=\"term\">CIRL</span> (cooperative IRL), la máquina persigue nuestros objetivos, no los suyos. Humanos enseñan pedagógicamente. El cross-training mejora equipos humano-robot (<span class=\"person\">Julie Shah</span>).",
+          html: "IRL infiere objetivos más simples que comportamiento. Lo muestra <span class=\"person\">Pieter Abbeel</span> conduciendo o el helicóptero «chaos» más allá del piloto humano. A partir de ahí, el aprendizaje desde preferencias humanas enseña backflips sin demostración (<span class=\"person\">Paul Christiano</span>, <span class=\"person\">Jan Leike</span>). En <span class=\"term\">CIRL</span> (cooperative IRL), la máquina persigue nuestros objetivos, no los suyos. Los humanos enseñan pedagógicamente. Además, el cross-training mejora equipos humano-robot (<span class=\"person\">Julie Shah</span>).",
         },
         {
           type: 'paragraph',
@@ -343,7 +344,7 @@ export const alignmentProblem: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Las redes profundas son <span class=\"term\">frágiles</span>, es decir, sensibles a entradas mínimas. Ruido aleatorio se clasifica como chita al <span class=\"num\">99,6%</span>. Ejemplos adversarios mínimos cambian etiquetas.",
+          html: "Pero las redes profundas son <span class=\"term\">frágiles</span>, es decir, sensibles a entradas mínimas. Ruido aleatorio se clasifica como chita al <span class=\"num\">99,6%</span>. Ejemplos adversarios mínimos cambian etiquetas.",
         },
         {
           type: 'paragraph',

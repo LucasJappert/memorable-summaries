@@ -16,7 +16,7 @@ export const caseAgainstReality: BookSummary = {
   {
     "id": "prefacio",
     "num": "00",
-    "label": "Prefacio"
+    "label": "La píldora roja"
   },
   {
     "id": "cap1",
@@ -71,7 +71,7 @@ export const caseAgainstReality: BookSummary = {
   {
     "id": "cap11",
     "num": "11",
-    "label": "Con precisión"
+    "label": "Con precisión (Apéndice)"
   },
   {
     "id": "conceptos",
@@ -200,7 +200,7 @@ export const caseAgainstReality: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Escarabajos macho en Australia confundieron botellas cerveza «stubbie» con hembras. El brillo, las hendiduras y el marrón casi llevaron la especie a la extinción. Alces aparecen apareándose con estatuas. La belleza es computación inconsciente sobre señales evolutivas, no capricho.",
+          html: "Por eso escarabajos macho en Australia confundieron botellas cerveza «stubbie» con hembras. El brillo, las hendiduras y el marrón casi llevaron la especie a la extinción. Alces aparecen apareándose con estatuas. La belleza es computación inconsciente sobre señales evolutivas, no capricho.",
         },
         {
           type: 'paragraph',
@@ -208,7 +208,7 @@ export const caseAgainstReality: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Los genes pueden mentir con maquillaje, orquídeas martillo engañando avispas, o luciérnagas Photuris devorando machos Photinus. Las mujeres enfrentan un trade-off evolutivo entre rostros más masculinos (testosterona) y mayor probabilidad de infidelidad. La preferencia varía con el ciclo menstrual. La belleza codifica aptitud personal e inclusiva (<span class=\"person\">William Hamilton</span>), no verdades sobre «cosas en sí».",
+          html: "La naturaleza también engaña con señales falsas. Orquídeas martillo imitan avispas hembras para atraer polinizadores, y luciérnagas Photuris devoran machos Photinus atraídos por señales falsas. Las mujeres enfrentan un dilema evolutivo entre rostros más masculinos (testosterona) y mayor probabilidad de infidelidad. La preferencia varía con el ciclo menstrual. Por eso la belleza codifica aptitud personal e inclusiva (<span class=\"person\">William Hamilton</span>), no verdades sobre «cosas en sí».",
         },
         {
           type: 'big-numbers',
@@ -454,7 +454,7 @@ export const caseAgainstReality: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Ilusiones acuarela y cuadrado neón muestran corrección de borrados en tiempo real. Las <span class=\"term\">cromaturas</span> (color más textura) superan al color plano en precisión emocional y guía de acción. Brócoli vs. carne verde vs. fresa lo ilustran. Plantas con <span class=\"num\">11</span> o <span class=\"num\">27</span> tipos de fotorreceptores explotan códigos cromáticos evolutivos distintos al nuestro.",
+          html: "Por eso ilusiones acuarela y cuadrado neón muestran corrección de borrados en tiempo real. Las <span class=\"term\">cromaturas</span> (color más textura) superan al color plano en precisión emocional y guía de acción. Brócoli frente a carne verde o fresa lo ilustran. Plantas con <span class=\"num\">11</span> o <span class=\"num\">27</span> tipos de fotorreceptores explotan códigos cromáticos evolutivos distintos al nuestro.",
         },
         {
           type: 'paragraph',
@@ -733,7 +733,7 @@ export const caseAgainstReality: BookSummary = {
   closing: {
     title: "La idea central",
     lines: [
-  "La evolución no esculpió sentidos para revelar la verdad objetiva.",
+  "Por eso la evolución no esculpió sentidos para revelar la verdad objetiva.",
   "Nos dotó de una interfaz de iconos en espacio-tiempo que codifica aptitud y guía acción útil.",
   "El teorema Fitness-Beats-Truth y la física cuántica convergen en esa conclusión contra la intuición.",
   "Tomar los sentidos en serio no obliga a tomarlos literalmente.",

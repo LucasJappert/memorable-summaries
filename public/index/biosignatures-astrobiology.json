@@ -43,7 +43,7 @@
       "description": "Meteorito marciano cretáceo cuya microestructura reavivó el debate sobre vida fossilizada en Marte."
     }
   ],
-  "highlight": "La Tierra es el único ground truth; extrapolar exige humildad proporcional a la distancia en tiempo y espacio.",
+  "highlight": "La Tierra es la única referencia confirmada; extrapolar exige humildad proporcional a la distancia en tiempo y espacio.",
   "entries": [
     {
       "sectionId": "prefacio",
@@ -53,7 +53,7 @@
     {
       "sectionId": "prefacio",
       "sectionTitle": "Registros terrestres, búsqueda extraterrestre",
-      "text": "La astrobiología (ciencia que estudia el origen y la distribución de la vida) integra astronomía, química y ciencias planetarias. Este libro reúne a 30 contribuyentes de 16 países. Cubre geología, biología y ciencias espaciales en tres bloques. Cierra con capítulos sobre Marte y perspectivas generales."
+      "text": "La astrobiología (ciencia que estudia el origen y la distribución de la vida) integra astronomía, química y ciencias planetarias. Además, este libro reúne a 30 contribuyentes de 16 países. Cubre geología, biología y ciencias espaciales en tres bloques. Cierra con capítulos sobre Marte y perspectivas generales."
     },
     {
       "sectionId": "prefacio",
@@ -133,7 +133,7 @@
     {
       "sectionId": "cap3",
       "sectionTitle": "Barberton: desenredar el registro fósil microbiano",
-      "text": "Con biomarcadores químicos cada vez más sensibles, discriminar actividad sindeposicional de procesos posteriores es crítico para astrobiología."
+      "text": "Por eso, con biomarcadores químicos cada vez más sensibles, discriminar actividad sindeposicional de procesos posteriores es crítico para astrobiología."
     },
     {
       "sectionId": "cap3",
@@ -208,7 +208,7 @@
     {
       "sectionId": "cap6",
       "sectionTitle": "Fosfatización de microfósiles e implicaciones astrobiológicas",
-      "text": "Hay que priorizar ventanas fosfáticas análogas si hubo organismos extraterrestres microscópicos."
+      "text": "Por tanto, hay que priorizar ventanas fosfáticas análogas si hubo organismos extraterrestres microscópicos."
     },
     {
       "sectionId": "cap6",
@@ -258,7 +258,7 @@
     {
       "sectionId": "cap8",
       "sectionTitle": "Comunidades microbianas de estromatolitos",
-      "text": "Perfilado lipídico y diversidad microbiana en mantos modernos vinculan firmas químicas estables con componentes bióticos. Eso une geología y microbiología."
+      "text": "Además, el perfilado lipídico y diversidad microbiana en mantos modernos vinculan firmas químicas estables con componentes bióticos. Eso une geología y microbiología."
     },
     {
       "sectionId": "cap8",
@@ -308,7 +308,7 @@
     {
       "sectionId": "cap10",
       "sectionTitle": "Rasgos de mantos cianobacterianos en siliciclásticos",
-      "text": "Esos rasgos sedimentarios complementan el registro carbonático de estromatolitos. Amplían el catálogo de biosignaturas para Marte."
+      "text": "Además, esos rasgos sedimentarios complementan el registro carbonático de estromatolitos. Amplían el catálogo de biosignaturas para Marte."
     },
     {
       "sectionId": "cap10",
@@ -353,12 +353,12 @@
     {
       "sectionId": "cap12",
       "sectionTitle": "Microorganismos en el subsuelo antiguo — ¿y en el espacio?",
-      "text": "Las superficies de planetas sin atmósfera protectora, como Marte, están esterilizadas por rayos UV. El subsuelo promete refugio. Preguntas abiertas: ¿son los microbios tan antiguos como la roca? ¿Existen formas dormantes distintas de endosporas?"
+      "text": "Las superficies de planetas sin atmósfera protectora, como Marte, están esterilizadas por rayos UV. Por eso, el subsuelo promete refugio. Preguntas abiertas: ¿son los microbios tan antiguos como la roca? ¿Existen formas dormantes distintas de endosporas?"
     },
     {
       "sectionId": "cap12",
       "sectionTitle": "Microorganismos en el subsuelo antiguo — ¿y en el espacio?",
-      "text": "Investigación aplicada en residuos radiactivos y acuíferos contaminados informa instrumentos y estrategias. Ayuda a buscar organics y vida en profundidad extraterrestre."
+      "text": "Investigación aplicada en residuos radiactivos y acuíferos contaminados informa instrumentos y estrategias. También ayuda a buscar materia orgánica y vida en profundidad extraterrestre."
     },
     {
       "sectionId": "cap12",
@@ -433,7 +433,7 @@
     {
       "sectionId": "cap15",
       "sectionTitle": "Microorganismos fósiles en filtraciones de metano",
-      "text": "Los carbonatos authigénicos derivados de metano precipitan con comunidades microbianas que fijan la base trófica. Arqueas metanotróficas y consorcios simbióticos con metazoos participan en el proceso. El interés se extiende a Europa, Titán y Marte."
+      "text": "Además, los carbonatos authigénicos derivados de metano precipitan con comunidades microbianas que fijan la base trófica. Arqueas metanotróficas y consorcios simbióticos con metazoos participan en el proceso. El interés se extiende a Europa, Titán y Marte."
     },
     {
       "sectionId": "cap15",
@@ -463,7 +463,7 @@
     {
       "sectionId": "cap16",
       "sectionTitle": "Endolitos en ambientes áridos terrestres",
-      "text": "La detección de sulfatos (sales de azufre) en Marte impulsa el interés en evaporitas continentales. Podrían haber albergado endolitos en el pasado o aún hoy."
+      "text": "Por eso, la detección de sulfatos (sales de azufre) en Marte impulsa el interés en evaporitas continentales. Podrían haber albergado endolitos en el pasado o aún hoy."
     },
     {
       "sectionId": "cap16",
@@ -483,7 +483,7 @@
     {
       "sectionId": "cap17",
       "sectionTitle": "Bacterias magnetotácticas y terraformación",
-      "text": "Proponen su potencial en terraformación de Marte por respiración con nitratos o hierro, fijación de CO₂ en oscuridad y uso de nitrógeno molecular. Complementarían fototróficos y extremófilos ya considerados candidatos."
+      "text": "Además, proponen su potencial en terraformación de Marte por respiración con nitratos o hierro, fijación de CO₂ en oscuridad y uso de nitrógeno molecular. Complementarían fototróficos y extremófilos ya considerados candidatos."
     },
     {
       "sectionId": "cap17",
@@ -538,7 +538,7 @@
     {
       "sectionId": "cap19",
       "sectionTitle": "Formas de vida cósmicas",
-      "text": "Es una posición minoritaria y altamente especulativa dentro del volumen. Ilustra el espectro filosófico de la astrobiología más allá del empirismo geológico."
+      "text": "Sin embargo, es una posición minoritaria y altamente especulativa dentro del volumen. Ilustra el espectro filosófico de la astrobiología más allá del empirismo geológico."
     },
     {
       "sectionId": "cap19",
@@ -558,7 +558,7 @@
     {
       "sectionId": "cap20",
       "sectionTitle": "Huellas astronómicas y astrobiológicas en el registro fósil",
-      "text": "Meteoritos, lunares y cometas conservan implantes iónicos y radionúcleidos de rayos cósmicos. Archivos terrestres como sedimentos marinos, corales y nódulos de manganeso registran proxies climáticos detallados."
+      "text": "Además, meteoritos, lunares y cometas conservan implantes iónicos y radionúcleidos de rayos cósmicos. Archivos terrestres como sedimentos marinos, corales y nódulos de manganeso registran proxies climáticos detallados."
     },
     {
       "sectionId": "cap20",
@@ -583,7 +583,7 @@
     {
       "sectionId": "cap21",
       "sectionTitle": "¿Los impactos causan la mayoría de extinciones masivas?",
-      "text": "Horizontes propuestos en otras grandes extinciones resultaron de edad o tamaño incorrectos. Muchos impactos del Eoceno tardío no causaron extinción. Las erupciones de basalto de inundación tampoco explican todos los eventos."
+      "text": "Sin embargo, horizontes propuestos en otras grandes extinciones resultaron de edad o tamaño incorrectos. Muchos impactos del Eoceno tardío no causaron extinción. Las erupciones de basalto de inundación tampoco explican todos los eventos."
     },
     {
       "sectionId": "cap21",
@@ -608,7 +608,7 @@
     {
       "sectionId": "cap22",
       "sectionTitle": "Irradiación de analogos cometarios y origen de la vida",
-      "text": "Los cometas, casi coetáneos con el sistema solar, pueden haber aportado materia orgánica a la Tierra primitiva. La hipótesis se remonta a J. Oró en 1961 . Los impactos son paradójicos: entregan organics y gases nobles pero también pueden extinguir vida."
+      "text": "Los cometas, casi coetáneos con el sistema solar, pueden haber aportado materia orgánica a la Tierra primitiva. La hipótesis se remonta a J. Oró en 1961 . Los impactos son paradójicos: entregan materia orgánica y gases nobles pero también pueden extinguir vida."
     },
     {
       "sectionId": "cap22",
@@ -618,7 +618,7 @@
     {
       "sectionId": "cap22",
       "sectionTitle": "Irradiación de analogos cometarios y origen de la vida",
-      "text": "Cometa significa química prebiótica en hielo y posible entrega de organics, pero también agente de destrucción masiva."
+      "text": "Cometa significa química prebiótica en hielo y posible entrega de materia orgánica, pero también agente de destrucción masiva."
     },
     {
       "sectionId": "cap22",
@@ -633,7 +633,7 @@
     {
       "sectionId": "cap23",
       "sectionTitle": "El Big Bang en el tiempo cero",
-      "text": "Los premios Nobel de 1965 y 2006 consolidaron un universo con inicio hace ~ 14 mil millones de años. Reconocieron la detección y el detalle de la radiación cósmica de fondo frente a la teoría del estado estacionario."
+      "text": "Además, los premios Nobel de 1965 y 2006 consolidaron un universo con inicio hace ~ 14 mil millones de años. Reconocieron la detección y el detalle de la radiación cósmica de fondo frente a la teoría del estado estacionario."
     },
     {
       "sectionId": "cap23",
@@ -663,7 +663,7 @@
     {
       "sectionId": "cap24",
       "sectionTitle": "Improntas moleculares: ¿vivas o no vivas?",
-      "text": "Las improntas moleculares, lejos de ser solo obstáculo, pueden identificar unidades materiales capaces de buscar contextos donde encajar. Es marco para el origen de la vida en contexto cosmológico."
+      "text": "Por eso, las improntas moleculares, lejos de ser solo obstáculo, pueden identificar unidades materiales capaces de buscar contextos donde encajar. Es marco para el origen de la vida en contexto cosmológico."
     },
     {
       "sectionId": "cap24",
@@ -713,7 +713,7 @@
     {
       "sectionId": "cap26",
       "sectionTitle": "Ventanas de preservación paleobiológica en Marte",
-      "text": "Integrar geomorfología, mineralogía y geoquímica define dónde buscar texturas organosedimentarias, quimiofósiles o moléculas orgánicas preservables."
+      "text": "Por eso, integrar geomorfología, mineralogía y geoquímica define dónde buscar texturas organosedimentarias, quimiofósiles o moléculas orgánicas preservables."
     },
     {
       "sectionId": "cap26",
@@ -753,17 +753,17 @@
     {
       "sectionId": "cierre",
       "sectionTitle": "Cierre",
-      "text": "Cada capítulo aporta un tipo de biosignatura: morfológica, química, sedimentaria o isotópica."
+      "text": "Por eso, cada capítulo aporta un tipo de biosignatura: morfológica, química, sedimentaria o isotópica."
     },
     {
       "sectionId": "cierre",
       "sectionTitle": "Cierre",
-      "text": "Estromatolitos, seeps de metano, endolitos y ventanas martianas son piezas de un mismo mapa."
+      "text": "Estromatolitos, filtraciones de metano, endolitos y ventanas marcianas son piezas de un mismo mapa."
     },
     {
       "sectionId": "cierre",
       "sectionTitle": "Cierre",
-      "text": "ALH84001 y NanoSIMS recuerdan que la evidencia rara vez es inequívoca al primer aviso."
+      "text": "Además, ALH84001 y NanoSIMS recuerdan que la evidencia rara vez es inequívoca al primer aviso."
     },
     {
       "sectionId": "cierre",
@@ -773,7 +773,7 @@
     {
       "sectionId": "cierre",
       "sectionTitle": "Cierre",
-      "text": "La Tierra es el único ground truth; extrapolar exige humildad proporcional a la distancia en tiempo y espacio."
+      "text": "La Tierra es la única referencia confirmada; extrapolar exige humildad proporcional a la distancia en tiempo y espacio."
     }
   ]
 }

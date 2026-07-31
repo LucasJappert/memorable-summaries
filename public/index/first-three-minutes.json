@@ -93,7 +93,7 @@
     {
       "sectionId": "cap1",
       "sectionTitle": "Introducción: el gigante y la vaca",
-      "text": "A ~ 10⁻² s y ~ 10¹¹ °C , la materia era una sopa de electrones, positrones, neutrinos y fotones en equilibrio dinámico. Había ~ 10⁹ fotones por partícula nuclear, dato tomado de la observación del CMB."
+      "text": "A ~ 10⁻² s y ~ 10¹¹ °C , la materia era una sopa de electrones, positrones, neutrinos y fotones en equilibrio dinámico. Había ~ 10⁹ fotones por partícula nuclear, dato tomado de la observación del fondo de radiación cósmica de microondas (CMB)."
     },
     {
       "sectionId": "cap1",
@@ -123,12 +123,17 @@
     {
       "sectionId": "cap2",
       "sectionTitle": "La expansión del universo",
-      "text": "Johann Christian Doppler lo propuso en 1842 . William Huggins lo aplicó a estrellas en 1868 ."
+      "text": "Johann Christian Doppler lo propuso en 1842. William Huggins lo aplicó a estrellas en 1868."
     },
     {
       "sectionId": "cap2",
       "sectionTitle": "La expansión del universo",
-      "text": "Edwin Hubble resolvió la nebulosa de Andrómeda (M31) en estrellas en 1923 , usando variables Cefeidas. Estaba a millones de años luz: una galaxia como la nuestra. Slipher había medido corrimientos al rojo. En 1929 , Hubble anunció que los corrimientos crecen con la distancia."
+      "text": "Edwin Hubble resolvió la nebulosa de Andrómeda (M31) en estrellas en 1923, usando variables Cefeidas: estrellas pulsantes cuya luminosidad revela la distancia. Estaba a millones de años luz: una galaxia como la nuestra."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "La expansión del universo",
+      "text": "Vesto Slipher ya había medido corrimientos al rojo. En 1929, Hubble anunció que esos corrimientos crecen con la distancia."
     },
     {
       "sectionId": "cap2",
@@ -173,7 +178,7 @@
     {
       "sectionId": "cap3",
       "sectionTitle": "El fondo de radiación cósmica de microondas",
-      "text": "Medidas en decenas de longitudes de onda confirman distribución de cuerpo negro (Planck) a ~ 3 K . La excitación rotacional del CN en Oph (~ 2,3 K , 1941) anticipó el resultado. Hay ~ 550.000 fotones/litro y entre 100 y 20.000 millones fotones por protón."
+      "text": "Medidas en decenas de longitudes de onda confirman distribución de cuerpo negro (Planck) a ~ 3 K . La excitación rotacional del cianuro (CN) en la nebulosa de Ofiuco (~ 2,3 K , 1941) anticipó el resultado. Hay ~ 550.000 fotones/litro y entre 100 y 20.000 millones fotones por protón."
     },
     {
       "sectionId": "cap3",
@@ -253,7 +258,12 @@
     {
       "sectionId": "cap5",
       "sectionTitle": "Los tres primeros minutos",
-      "text": "Peebles ( 1965 ) y Wagoner–Fowler–Hoyle calcularon el helio cosmológico, y la abundancia estelar (~20–30 % He) encaja. El deuterio (~ 20 ppm , Copernicus 1973) sugiere universo abierto, pero Weinberg duda inferir densidad solo del deuterio. El fondo de neutrinos (~ 2 K , 71,38 % de la temperatura fotónica) sería confirmación decisiva pero indetectable. El principio cosmológico no está probado antes del primer segundo, y los modelos «mixmaster» de Misner son especulativos."
+      "text": "Peebles ( 1965 ) y Wagoner–Fowler–Hoyle calcularon el helio cosmológico, y la abundancia estelar (~20–30 % He) encaja con la predicción."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Los tres primeros minutos",
+      "text": "El deuterio (~ 20 ppm , satélite Copernicus, 1973) sugiere un universo abierto, pero Weinberg duda de inferir la densidad solo a partir del deuterio. El fondo de neutrinos (~ 2 K , 71,38 % de la temperatura fotónica) sería una confirmación decisiva, aunque indetectable con la tecnología de entonces. Además, el principio cosmológico no está probado antes del primer segundo, y los modelos mixmaster de Misner (universo caótico con expansiones desiguales) siguen siendo especulativos."
     },
     {
       "sectionId": "cap5",
@@ -278,7 +288,7 @@
     {
       "sectionId": "cap6",
       "sectionTitle": "Una digresión histórica",
-      "text": "Tres razones explican la omisión. La primera es que la teoría de Gamow intentaba sintetizar todos los elementos en el big bang. Perdió credibilidad cuando Fermi y Turkevich mostraron que no hay núcleos estables con 5 u 8 partículas. La nucleosíntesis estelar (Salpeter, Burbidge, Fowler y Hoyle) monopolizó prestigio. La segunda fue fallas de comunicación entre teoría y experimento. Zeldovich malinterpretó «sky temperature» de Ohm como menor que 1 K. La tercera fue resistencia a tomar en serio el universo temprano como tema respetable."
+      "text": "Tres razones explican la omisión. La primera es que la teoría de Gamow intentaba sintetizar todos los elementos en el big bang. Perdió credibilidad cuando Fermi y Turkevich mostraron que no hay núcleos estables con 5 u 8 partículas. La nucleosíntesis estelar (Salpeter, Burbidge, Fowler y Hoyle) monopolizó prestigio. La segunda fue fallas de comunicación entre teoría y experimento. Zeldovich malinterpretó la «temperatura del cielo» medida por Ohm como menor que 1 K. La tercera fue resistencia a tomar en serio el universo temprano como tema respetable."
     },
     {
       "sectionId": "cap6",
@@ -373,7 +383,17 @@
     {
       "sectionId": "afterword",
       "sectionTitle": "Postfacio: cosmología desde 1976",
-      "text": "Entre los candidatos a masa oscura figuran neutrinos masivos (~ 10–40 eV , Novosibirsk) y «photinos». Vera Rubin mostró velocidades rotacionales altas en galaxias. Violación de bariones/leptones y generación cosmológica de bariones (Sakharov, Yoshimura) explicarían el ratio ~10⁻⁹ sin fijarlo ad hoc. Alan Guth propuso inflación (expansión ultrarrápida inicial) y superenfriamiento para homogeneidad, monopolos magnéticos y abundancia de materia."
+      "text": "Entre los candidatos a masa oscura figuran neutrinos masivos (10–40 eV, según experimentos en Novosibirsk) y photinos, partículas supersimétricas hipotéticas."
+    },
+    {
+      "sectionId": "afterword",
+      "sectionTitle": "Postfacio: cosmología desde 1976",
+      "text": "Vera Rubin mostró velocidades rotacionales altas en galaxias. La violación de bariones/leptones y la generación cosmológica de bariones (Sakharov, Yoshimura) explicarían el ratio ~10⁻⁹ sin fijarlo ad hoc."
+    },
+    {
+      "sectionId": "afterword",
+      "sectionTitle": "Postfacio: cosmología desde 1976",
+      "text": "Alan Guth propuso inflación (expansión ultrarrápida inicial) y superenfriamiento para homogeneidad, monopolos magnéticos y abundancia de materia."
     },
     {
       "sectionId": "afterword",
@@ -403,7 +423,7 @@
     {
       "sectionId": "cierre",
       "sectionTitle": "Cierre",
-      "text": "El cosmos parece más comprensible cuanto más lejos miramos —y, para Weinberg, más carente de propósito trascendente."
+      "text": "Por eso el cosmos parece más comprensible cuanto más lejos miramos —y, para Weinberg, más carente de propósito trascendente."
     },
     {
       "sectionId": "cierre",

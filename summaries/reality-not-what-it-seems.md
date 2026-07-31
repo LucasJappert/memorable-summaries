@@ -18,9 +18,9 @@ lang: es
 | cap1 | 01 | Granos |
 | cap2 | 02 | Los clásicos |
 | cap3 | 03 | Albert |
-| cap4 | 04 | Quanta |
+| cap4 | 04 | Cuantos |
 | cap5 | 05 | El espacio-tiempo es cuántico |
-| cap6 | 06 | Quanta de espacio |
+| cap6 | 06 | Cuantos de espacio |
 | cap7 | 07 | El tiempo no existe |
 | cap8 | 08 | Más allá del Big Bang |
 | cap9 | 09 | ¿Confirmaciones empíricas? |
@@ -53,7 +53,7 @@ Lo aprendido en el siglo XX apunta a algo distinto de la escuela. La realidad es
 Rovelli usa la caverna de Platón: sombras versus luz del Sol. La ciencia no da certezas absolutas en la frontera de la gravedad cuántica. Es aventura hacia lo desconocido, pero la física establecida del siglo XX es mayormente consensuada.
 
 <!-- quote -->
-> «Reality is a network of granular events.»
+> «La realidad es una red de eventos granulares.»
 > — Carlo Rovelli
 
 <!-- key -->
@@ -132,7 +132,7 @@ En <span class="num">1915</span>, la <span class="term">relatividad general</spa
 Einstein propuso un universo finito sin frontera: una <span class="term">3-esfera</span> (espacio tridimensional que, como la superficie terrestre, es finito pero sin borde). Dante, en el <em>Paradiso</em>, describió esferas que se encierran mutuamente. Einstein añadió Λ por error buscando un cosmos estático. Lemaître mostró después que la expansión era real.
 
 <!-- quote -->
-> «The most beautiful of theories.»
+> «La más bella de las teorías.»
 > — Lev Landau (sobre la relatividad general)
 
 <!-- key -->
@@ -146,7 +146,7 @@ La mecánica cuántica es el otro pilar del siglo XX: igualmente exitosa, pero c
 # cap4
 
 ## num: 04
-## title: Quanta
+## title: Cuantos
 
 <!-- paragraph lead -->
 ¿Qué nos dice la mecánica cuántica sobre la estructura del mundo más allá de sus ecuaciones?
@@ -158,13 +158,13 @@ En 1900, <span class="person">Max Planck</span> repartió la energía en cuantos
 <span class="person">Niels Bohr</span> propuso saltos cuánticos en átomos. <span class="person">Werner Heisenberg</span>, en 1925, fue más radical: el electrón existe al interactuar, no entre colisiones. <span class="person">Paul Dirac</span> formalizó espectros y probabilidades. La tabla periódica de Mendeleev sale de una sola ecuación.
 
 <!-- paragraph -->
-Dirac unificó partículas y campos, de modo que los fotones son cuantos del electromagnetismo y los electrones, cuantos de sus campos. El <span class="term">modelo estándar</span> (~15 campos, Higgs confirmado en 2013) describe casi todo salvo gravedad. La mecánica cuántica enseña tres lecciones: granularidad (h), indeterminación y relationalidad. Feynman sumó sobre todas las trayectorias posibles.
+Dirac unificó partículas y campos, de modo que los fotones son cuantos del electromagnetismo y los electrones, cuantos de sus campos. El <span class="term">modelo estándar</span> (~15 campos, Higgs confirmado en 2013) describe casi todo salvo gravedad. La mecánica cuántica enseña tres lecciones: granularidad (h), indeterminación y <span class="term">relacionalidad</span> (las propiedades existen solo en la interacción). Feynman sumó sobre todas las trayectorias posibles.
 
 <!-- paragraph -->
-Einstein aceptó la coherencia pero rechazó la relationalidad, porque quería realidad objetiva independiente. Bohr debatió con él la «caja de luz» hasta el final. Feynman confesó que «Nadie entiende realmente la mecánica cuántica.» Rovelli defiende la interpretación relacional (van Fraassen, Bitbol, Dorato).
+Einstein aceptó la coherencia pero rechazó la relacionalidad, porque quería realidad objetiva independiente. Bohr debatió con él la «caja de luz» hasta el final. Feynman confesó que «Nadie entiende realmente la mecánica cuántica.» Rovelli defiende la interpretación relacional (van Fraassen, Bitbol, Dorato).
 
 <!-- key -->
-La mecánica cuántica revela granularidad, indeterminación y relationalidad: las «cosas» no tienen propiedades definidas sino que existen en interacciones.
+La mecánica cuántica revela granularidad, indeterminación y relacionalidad: las «cosas» no tienen propiedades definidas sino que existen en interacciones.
 
 <!-- bridge -->
 Relatividad general y cuántica funcionan por separado pero se contradicen cuando espacio y curvatura deben ser granulares.
@@ -180,7 +180,7 @@ Relatividad general y cuántica funcionan por separado pero se contradicen cuand
 ¿Por qué necesitamos gravedad cuántica y qué nos dice sobre los límites del espacio y el tiempo?
 
 <!-- paragraph -->
-Por la mañana el estudiante aprende espacio-tiempo curvo y continuo. Por la tarde, espacio plano con quanta discretos. Ambas teorías funcionan, pero no pueden ser exactas a la vez en su forma actual. En agujeros negros y en el Big Bang necesitamos una teoría que una ambas.
+Por la mañana el estudiante aprende espacio-tiempo curvo y continuo. Por la tarde, espacio plano con cuantos discretos. Ambas teorías funcionan, pero no pueden ser exactas a la vez en su forma actual. En agujeros negros y en el Big Bang necesitamos una teoría que una ambas.
 
 <!-- paragraph -->
 <span class="person">Matvei Bronštejn</span> (~1930) mostró que localizar una partícula en región microscópica concentra energía, curva el espacio y crea un mini agujero negro. No podemos medir regiones arbitrariamente pequeñas. La <span class="term">longitud de Planck</span> (escala mínima ~10⁻³³ cm) combina G, c y h en L<sub>P</sub>. Bronštejn fue ejecutado el 18 feb. 1938.
@@ -192,29 +192,29 @@ Por la mañana el estudiante aprende espacio-tiempo curvo y continuo. Por la tar
 Gravedad cuántica es necesaria porque juntas, relatividad general y cuántica implican una longitud mínima más allá de la cual el continuo clásico colapsa.
 
 <!-- bridge -->
-Si el espacio es un campo cuántico, sus quanta deben tener estructura concreta: redes de espín y átomos de espacio.
+Si el espacio es un campo cuántico, sus cuantos deben tener estructura concreta: redes de espín y átomos de espacio.
 
 ---
 
 # cap6
 
 ## num: 06
-## title: Quanta de espacio
+## title: Cuantos de espacio
 
 <!-- paragraph lead -->
 ¿Cómo se ve el espacio a escala de Planck y qué significan los «átomos de espacio»?
 
 <!-- paragraph -->
-Las soluciones de lazos de la ecuación Wheeler-DeWitt son líneas cerradas del campo gravitatorio cuántico: Faraday cuantizado. Los nodos tienen volumen. Los enlaces tienen área. Los espectros de volumen y área son discretos (mediados 1990): A = 8π L<sub>P</sub>² √(j(j+1)).
+Las soluciones de lazos de la ecuación Wheeler-DeWitt son líneas cerradas del campo gravitatorio cuántico: Faraday cuantizado. Los nodos tienen volumen. Los enlaces tienen área. Por eso los espectros de volumen y área son discretos (mediados 1990): A = 8π L<sub>P</sub>² √(j(j+1)).
 
 <!-- paragraph -->
-Una <span class="term">red de espín</span> (spin network: grafo con volumen v<sub>n</sub> en nodos y spin j en enlaces) representa un estado cuántico del espacio. Medir el volumen de una habitación equivale a contar granos (~10² dígitos). En una página hay ~10⁷⁰ quanta de área.
+Una <span class="term">red de espín</span> (spin network: grafo con volumen v<sub>n</sub> en nodos y spin j en enlaces) representa un estado cuántico del espacio. Medir el volumen de una habitación equivale a contar granos (~10² dígitos). En una página hay ~10⁷⁰ cuantos de área.
 
 <!-- paragraph -->
-Los fotones existen <em>en</em> el espacio, mientras que los quanta de gravedad <em>constituyen</em> el espacio. Solo saben con qué otros granos son adyacentes. La curvatura se mide transportando flechas en lazos cerrados. El espacio es una nube probabilística de redes, no una red fija.
+Los fotones existen <em>en</em> el espacio, mientras que los cuantos de gravedad <em>constituyen</em> el espacio. Solo saben con qué otros granos son adyacentes. La curvatura se mide transportando flechas en lazos cerrados. El espacio es una nube probabilística de redes, no una red fija.
 
 <!-- key -->
-En LQG el espacio físico es una red granular de quanta de volumen y área: no está en el espacio, es la red de adyacencia entre granos de gravedad.
+En la gravedad de bucles el espacio físico es una red granular de cuantos de volumen y área. No está en el espacio: es la red de adyacencia entre granos de gravedad.
 
 <!-- bridge -->
 Si el espacio es relacional y granular, el tiempo también debe repensarse — y puede no existir a nivel fundamental.
@@ -242,7 +242,7 @@ Al calcular procesos, incluimos un trozo de espacio-tiempo en el propio proceso,
 A escala fundamental no hay variable temporal ni espacio contenedor: el tiempo emerge de relaciones entre procesos y, macroscópicamente, de promedios térmicos.
 
 <!-- bridge -->
-Con marco teórico en mano, Part Four explora consecuencias cosmológicas: ¿qué hubo antes del Big Bang?
+Con marco teórico en mano, la cuarta parte explora consecuencias cosmológicas: ¿qué hubo antes del Big Bang?
 
 ---
 
@@ -258,10 +258,10 @@ Con marco teórico en mano, Part Four explora consecuencias cosmológicas: ¿qu�
 <span class="person">Georges Lemaître</span>, en 1927, predijo la expansión antes que Hubble. Einstein desestimó la idea con «Cálculos correctos, física abominable». Lemaître disuadió al Papa Pio XII (22 nov. 1951) de identificar Big Bang con Génesis: ciencia y religión no deben mezclarse.
 
 <!-- paragraph -->
-Hoy el modelo cosmológico estándar está confirmado (Planck, CMB de Penzias y Wilson en 1964). A escala de Planck, las ecuaciones de Einstein dejan de valer. Como un electrón que no cae al núcleo por repulsión cuántica, un universo en contracción puede rebotar. Ese rebote es el <span class="term">Big Bounce</span> (rebote cuántico del cosmos contraído).
+Hoy el modelo cosmológico estándar está confirmado (Planck, fondo cósmico de microondas de Penzias y Wilson en 1964). A escala de Planck, las ecuaciones de Einstein dejan de valer. Como un electrón que no cae al núcleo por repulsión cuántica, un universo en contracción puede rebotar. Ese rebote es el <span class="term">Big Bounce</span> (rebote cuántico del cosmos contraído).
 
 <!-- paragraph -->
-En el rebote, espacio-tiempo se disuelve en nube probabilística (cálculos con spinfoams, <span class="person">Francesca Vidotto</span>). «Universo» es ambiguo: todo lo que hay versus nuestro continuum observable. Puede haber otro régimen pre-Big-Bang, no un «antes» clásico.
+En el rebote, entonces, el espacio-tiempo se disuelve en nube probabilística (cálculos con spinfoams, <span class="person">Francesca Vidotto</span>). «Universo» es ambiguo: todo lo que hay versus nuestro continuum observable. Puede haber otro régimen pre-Big-Bang, no un «antes» clásico.
 
 <!-- key -->
 El Big Bang clásico (singularidad infinita) cede ante un Big Bounce cuántico: el pasado pre-Big-Bang puede ser otro régimen espacio-temporal, no un «antes» clásico.
@@ -280,16 +280,16 @@ El Big Bang clásico (singularidad infinita) cede ante un Big Bounce cuántico: 
 ¿Cómo se prueba (o se desmiente) la gravedad cuántica y qué nos dicen los experimentos recientes?
 
 <!-- paragraph -->
-La ciencia avanza con predicciones verificables: Lemaître tenía razón y Einstein reconoció su error. También avanza sin datos nuevos, cuando Copérnico, Newton y Einstein sintetizaron teorías previas. Los «datos experimentales» de LQG son GR más QM.
+La ciencia avanza con predicciones verificables: Lemaître tenía razón y Einstein reconoció su error. También avanza sin datos nuevos, cuando Copérnico, Newton y Einstein sintetizaron teorías previas. Los «datos experimentales» de la gravedad de bucles son relatividad general más mecánica cuántica.
 
 <!-- paragraph -->
 De 2013 a 2016 llegaron tres resultados sin sorpresas: Higgs (CERN), Planck y ondas gravitacionales (LIGO). Confirmaron modelo estándar y cosmología Λ, pero no la supersimetría esperada por cuerdas. Rovelli critica teorizar «imaginemos que…» sin anclaje empírico.
 
 <!-- paragraph -->
-<span class="person">Ashtekar</span>, Agullo y Nelson (2013) calcularon que el bounce podría modificar fluctuaciones CMB a gran angular, aunque el resultado sigue inconcluso. Futuro LISA podría detectar fondo gravitacional primordial. Hay que distinguir pistas de evidencia fuerte.
+<span class="person">Ashtekar</span>, Agullo y Nelson (2013) calcularon que el rebote podría modificar fluctuaciones del fondo cósmico de microondas a gran angular, aunque el resultado sigue inconcluso. Futuro LISA podría detectar fondo gravitacional primordial. Hay que distinguir pistas de evidencia fuerte.
 
 <!-- key -->
-La gravedad cuántica aún no pasó exámenes decisivos, pero Higgs, Planck, LIGO y la ausencia de supersimetría en el LHC favorecen combinar GR, QM y modelo estándar.
+La gravedad cuántica aún no pasó exámenes decisivos, pero Higgs, Planck, LIGO y la ausencia de supersimetría en el LHC favorecen combinar relatividad, cuántica y modelo estándar.
 
 <!-- bridge -->
 Otro laboratorio natural de gravedad cuántica: los agujeros negros y su termodinámica.
@@ -308,13 +308,13 @@ Otro laboratorio natural de gravedad cuántica: los agujeros negros y su termodi
 Los agujeros negros presentan un horizonte, una frontera temporal unidireccional. Cerca del horizonte el tiempo se ralentiza extremadamente. En él, se detiene. <span class="person">Stephen Hawking</span>, en los años 1970, predijo que emiten calor y evaporan.
 
 <!-- paragraph -->
-LQG explica el calor: los quanta de área en la superficie vibran. <span class="person">Eugenio Bianchi</span> derivó la fórmula de Hawking desde las ecuaciones de bucles. El interior clásico tiene singularidad infinita. Con cuántica, hay rebote por presión de Planck.
+La gravedad de bucles explica el calor: los cuantos de área en la superficie vibran. <span class="person">Eugenio Bianchi</span> derivó la fórmula de Hawking desde las ecuaciones de bucles. El interior clásico tiene singularidad infinita. Con cuántica, hay rebote por presión de Planck.
 
 <!-- paragraph -->
-Visto desde fuera, el bounce puede tardar mil millones de años: el agujero negro es un atajo al futuro lejano y podría explotar. Los FRB (Fast Radio Bursts) son señal especulativa. Un agujero galáctico tiene ~<span class="num">10⁶</span> masas solares.
+Visto desde fuera, el rebote puede tardar mil millones de años: el agujero negro es un atajo al futuro lejano y podría explotar. Las ráfagas de radio rápidas (FRB, Fast Radio Bursts) son señal especulativa. Un agujero galáctico tiene ~<span class="num">10⁶</span> masas solares.
 
 <!-- key -->
-Los agujeros negros confirman GR a escala macroscópica, pero su calor y su interior exigen cuántica: LQG reemplaza la singularidad por un rebote posiblemente observable.
+Los agujeros negros confirman la relatividad general a escala macroscópica, pero su calor y su interior exigen cuántica: la gravedad de bucles reemplaza la singularidad por un rebote posiblemente observable.
 
 <!-- bridge -->
 El mismo mecanismo que elimina singularidades cosmológicas y en agujeros negros elimina los infinitos patológicos de la física teórica.
@@ -330,13 +330,13 @@ El mismo mecanismo que elimina singularidades cosmológicas y en agujeros negros
 ¿Por qué desaparecen los infinitos de la física y qué límites naturales fija la teoría?
 
 <!-- paragraph -->
-GR sin QM predice singularidades. QFT sin gravedad produce divergencias al sumar sobre puntos infinitos del continuo. La granularidad cura ambos. La teoría fija tres límites naturales. c marca la velocidad máxima (SR). ℏ fija la información mínima (QM). L<sub>P</sub> marca la longitud mínima (QG).
+Sin mecánica cuántica, la relatividad general predice singularidades. Sin gravedad, la teoría cuántica de campos produce divergencias al sumar sobre puntos infinitos del continuo. La granularidad cura ambos. La teoría fija tres límites naturales. c marca la velocidad máxima (relatividad especial). ℏ fija la información mínima (cuántica). L<sub>P</sub> marca la longitud mínima (gravedad cuántica).
 
 <!-- paragraph -->
-El cosmos medido es > ~<span class="num">100 mil millones</span> de años luz, pero finito (3-esfera). Entre L<sub>P</sub> y la escala cosmológica hay ~<span class="num">60</span> órdenes de magnitud de complejidad. Arquimedes, en el <em>Psammites</em>, contó granos de arena del universo para mostrar que son finitos, no infinitos.
+El cosmos medido es > ~<span class="num">100 mil millones</span> de años luz, pero finito (3-esfera). Entre L<sub>P</sub> y la escala cosmológica hay ~<span class="num">60</span> órdenes de magnitud de complejidad. Arquímedes, en el <em>Psammites</em>, contó granos de arena del universo para mostrar que son finitos, no infinitos.
 
 <!-- paragraph -->
-Según el Eclesiástico, «¿Quién puede numerar la arena del mar?» Arquimedes respondió con rebeldía racional. Lo infinito invocado como misterio opaco no es necesario. «Lo único verdaderamente infinito es nuestra ignorancia.»
+Según el Eclesiástico, «¿Quién puede numerar la arena del mar?» Arquímedes respondió con rebeldía racional. Lo infinito invocado como misterio opaco no es necesario. «Lo único verdaderamente infinito es nuestra ignorancia.»
 
 <!-- big-numbers -->
 | value | label |
@@ -346,7 +346,7 @@ Según el Eclesiástico, «¿Quién puede numerar la arena del mar?» Arquimedes
 | L<sub>P</sub> | Longitud mínima (gravedad cuántica) |
 
 <!-- key -->
-La gravedad cuántica pone límites fundamentales a lo infinito: singularidades de Einstein y divergencias de QFT desaparecen porque el espacio no es infinitamente divisible.
+La gravedad cuántica pone límites fundamentales a lo infinito: singularidades y divergencias desaparecen porque el espacio no es infinitamente divisible.
 
 <!-- bridge -->
 Si información está acotada y el tiempo no es fundamental, ¿cómo encaja la termodinámica en el cuadro?
@@ -365,13 +365,13 @@ Si información está acotada y el tiempo no es fundamental, ¿cómo encaja la t
 <span class="person">Claude Shannon</span>, en 1948, definió información como log₂ de alternativas (bit). Las correlaciones físicas incluyen bolas blanco/negro enlazadas o un teléfono. Demócrito ya sabía que importa el orden de los átomos, no solo los átomos.
 
 <!-- paragraph -->
-<span class="person">Ludwig Boltzmann</span> formuló que la entropía S = k log W mide información faltante. No crece gratis, porque el té no se recalienta solo. Se suicidó en Duino, y su tumba lleva la fórmula. Wheeler dijo «It from bit». Bekenstein ligó entropía de agujeros negros al área. Al evaporar, queda el problema de la información perdida.
+<span class="person">Ludwig Boltzmann</span> formuló que la entropía S = k log W mide información faltante. No crece gratis, porque el té no se recalienta solo. Se suicidó en Duino, y su tumba lleva la fórmula. Wheeler dijo «It from bit» («todo nace del bit»). Bekenstein ligó entropía de agujeros negros al área. Al evaporar, queda el problema de la información perdida.
 
 <!-- paragraph -->
-El <span class="term">tiempo térmico</span> propone que la flecha del tiempo surge de promedios sobre muchos grados de libertad. «Time is our ignorance.» La realidad es red de correlaciones, no objetos discretos. Demócrito decía que «El hombre es lo que todos conocemos»: una red social de interacciones (Luria).
+El <span class="term">tiempo térmico</span> propone que la flecha del tiempo surge de promedios sobre muchos grados de libertad. «El tiempo es nuestra ignorancia.» La realidad es red de correlaciones, no objetos discretos. Demócrito decía que «El hombre es lo que todos conocemos»: una red social de interacciones (Luria).
 
 <!-- key -->
-Comprender el mundo exige tratar la información como ingrediente ontológico junto con GR y QM: entropía, finitud cuántica y tiempo macroscópico emergen del manejo incompleto de información microscópica.
+Comprender el mundo exige tratar la información como ingrediente ontológico junto con relatividad y cuántica: entropía, finitud y tiempo macroscópico emergen de información incompleta.
 
 ---
 
@@ -393,7 +393,7 @@ La ciencia desconfía de quien posee «La Verdad», y por eso choca a veces con 
 Rovelli cierra con Pavese: mundo de campos cuánticos interactuando, sin infinito, sin espacio-tiempo absoluto, describible con ecuaciones «quizá por corregir». Invita a jóvenes lectores a explorar más allá del horizonte.
 
 <!-- quote -->
-> «The truth is in the depths.»
+> «La verdad está en las profundidades.»
 > — Demócrito
 
 <!-- key -->
@@ -409,23 +409,23 @@ La ciencia no da certezas absolutas. La conciencia de la ignorancia, no la fe en
 <!-- concept-grid -->
 | title | description |
 |-------|-------------|
-| Grano / granularidad | Desde átomos democriteos hasta quanta de espacio; límite a la divisibilidad (h, L<sub>P</sub>). |
+| Grano / granularidad | Desde átomos democriteos hasta cuantos de espacio; límite a la divisibilidad (h, L<sub>P</sub>). |
 | Campo | Entidad real que llena el espacio (Faraday-Maxwell); espacio = campo gravitatorio (Einstein). |
 | Espacio-tiempo | Unificado en relatividad; dinámico, curvo y eventualmente emergente/discreto. |
-| Evento / interacción | Unidad ontológica en QM y LQG; propiedades existen al interactuar. |
+| Evento / interacción | Unidad ontológica en cuántica y gravedad de bucles; propiedades existen al interactuar. |
 | Red de espín / spinfoam | Estado cuántico del espacio (nodos, enlaces) e historia de ese estado. |
-| Longitud de Planck | Escala ~10⁻³³ cm donde GR+QM implican espacio-tiempo cuántico. |
+| Longitud de Planck | Escala ~10⁻³³ cm donde relatividad y cuántica implican espacio-tiempo cuántico. |
 | Información | Alternativas finitas (Shannon); entropía = información faltante (Boltzmann). |
 | Tiempo térmico | Emergencia macroscópica del tiempo desde promedios e irreversibilidad. |
 | Singularidad / divergencia | Patologías del continuo clásico curadas por granularidad. |
-| Interpretación relacional | QM describe cómo sistemas se manifiestan unos a otros, no estados absolutos. |
+| Interpretación relacional | La cuántica describe cómo sistemas se manifiestan unos a otros, no estados absolutos. |
 
 ---
 
 # cronologia
 
 ## num: ◈
-## title: Cronología de los descubrimientos
+## title: Cronología
 
 <!-- timeline -->
 | year | text |
@@ -439,7 +439,7 @@ La ciencia no da certezas absolutas. La conciencia de la ignorancia, no la fe en
 | 1919 | Eclipse confirma curvatura de la luz |
 | 1925–1927 | Heisenberg, Dirac; Lemaître predice expansión |
 | 1930s | Bronštejn y longitud mínima; 18 feb. 1938: ejecución de Bronštejn |
-| 1964 | CMB (Penzias & Wilson); 1966: ecuación Wheeler-DeWitt |
+| 1964 | Fondo cósmico (Penzias & Wilson); 1966: ecuación Wheeler-DeWitt |
 | 2012 | Rovelli concibe estructura del libro en viaje Italia-Francia |
 | 2013 | Higgs; datos Planck; centenario modelo de Bohr |
 | 2015–2016 | Ondas gravitacionales (LIGO) |
@@ -461,11 +461,11 @@ La ciencia no da certezas absolutas. La conciencia de la ignorancia, no la fe en
 | Galileo / Newton | Ley de caída; gravedad universal unifica cielo y tierra |
 | Faraday / Maxwell | Campo electromagnético; la luz es onda del campo |
 | Albert Einstein | Relatividad; espacio = campo gravitatorio; E = mc² |
-| Planck / Bohr / Heisenberg / Dirac | Mecánica cuántica: quanta, saltos, matrices, probabilidad |
+| Planck / Bohr / Heisenberg / Dirac | Mecánica cuántica: cuantos, saltos, matrices, probabilidad |
 | Matvei Bronštejn | Primero en ver longitud mínima; ejecutado en 1938 |
 | John Wheeler / Bryce DeWitt | Espuma cuántica; ecuación sin tiempo |
 | Georges Lemaître | Big Bang; disuade al Papa de mezclar ciencia y fe |
-| Stephen Hawking / Eugenio Bianchi | Radiación de agujeros negros; derivación desde LQG |
+| Stephen Hawking / Eugenio Bianchi | Radiación de agujeros negros; derivación desde la gravedad de bucles |
 | Claude Shannon / Ludwig Boltzmann | Información y entropía como claves unificadoras |
 | Carlo Rovelli | Gravedad cuántica de bucles; interpretación relacional |
 
@@ -479,7 +479,7 @@ La ciencia no da certezas absolutas. La conciencia de la ignorancia, no la fe en
 La realidad no es el continuo espacio-tiempo de la intuición clásica sino una red de eventos granulares generada por campos cuánticos.
 Espacio, tiempo, materia e información emergen de interacciones probabilísticas, no de un escenario fijo.
 <!-- highlight -->La síntesis coherente de relatividad general y cuántica exige repensar el mundo desde la gravedad cuántica<!-- /highlight -->
-Mileto, Demócrito, Einstein y Bohr convergen: lo divisible tiene límites y lo conocido siempre deja margen al misterio.
+Por eso Mileto, Demócrito, Einstein y Bohr convergen: lo divisible tiene límites y lo conocido siempre deja margen al misterio.
 La ciencia no promete certezas eternas; promete las mejores respuestas abiertas a corrección.
 El panorama es extraño, hermoso y aún incompleto: la aventura continúa más allá del horizonte.
 

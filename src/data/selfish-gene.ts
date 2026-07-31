@@ -16,7 +16,7 @@ export const selfishGene: BookSummary = {
   {
     "id": "prefacio",
     "num": "00",
-    "label": "Prefacio"
+    "label": "Tres lectores imaginarios y la perspectiva del gen"
   },
   {
     "id": "cap1",
@@ -91,7 +91,7 @@ export const selfishGene: BookSummary = {
   {
     "id": "cronologia",
     "num": "◈",
-    "label": "Cronología"
+    "label": "Cronología de ideas y ediciones"
   },
   {
     "id": "figuras",
@@ -145,7 +145,7 @@ export const selfishGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Este libro no defiende el darwinismo en general. Explora sus consecuencias para el egoísmo y el altruismo biológico. Toca temas de profunda importancia humana: amor, odio, cooperación, codicia y generosidad. Autores como el etólogo <span class=\"person\">Konrad Lorenz</span> se equivocaron al suponer que la evolución actúa «para el bien de la especie» o del grupo. Lo mismo hicieron <span class=\"person\">Robert Ardrey</span> y <span class=\"person\">Irenäus Eibl-Eibesfeldt</span>.",
+          html: "En cambio, este libro no defiende el darwinismo en general. Explora sus consecuencias para el egoísmo y el altruismo biológico. Toca temas de profunda importancia humana: amor, odio, cooperación, codicia y generosidad. Autores como el etólogo <span class=\"person\">Konrad Lorenz</span> se equivocaron al suponer que la evolución actúa «para el bien de la especie» o del grupo. Lo mismo hicieron <span class=\"person\">Robert Ardrey</span> y <span class=\"person\">Irenäus Eibl-Eibesfeldt</span>.",
         },
         {
           type: 'paragraph',
@@ -198,11 +198,11 @@ export const selfishGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Antes de la vida, moléculas orgánicas se formaron en el «caldo primordial». Era agua con CO₂, metano y amoniaco bajo energía ultravioleta o chispas eléctricas. De ahí salieron aminoácidos y bases de ADN. En algún momento surgió por accidente el <span class=\"term\">Replicador</span> (una molécula capaz de copiarse a sí misma). Se propagó hasta agotar los bloques constructores.",
+          html: "A partir de ahí, antes de la vida, moléculas orgánicas se formaron en el «caldo primordial». Era agua con CO₂, metano y amoniaco bajo energía ultravioleta o chispas eléctricas. De ahí salieron aminoácidos y bases de ADN. En algún momento surgió por accidente el <span class=\"term\">Replicador</span> (una molécula capaz de copiarse a sí misma). Se propagó hasta agotar los bloques constructores.",
         },
         {
           type: 'paragraph',
-          html: "Los replicadores competían por materiales. Los más estables, longevos y fieles en copiarse prevalecían. Surgieron «proteínas» protectoras y, eventualmente, vehículos cada vez más elaborados: las <span class=\"term\">máquinas de supervivencia</span> (cuerpos que protegen y transportan genes). Los errores de copia, las mutaciones, eran la materia prima de la evolución.",
+          html: "Por eso, los replicadores competían por materiales. Los más estables, longevos y fieles en copiarse prevalecían. Surgieron «proteínas» protectoras y, eventualmente, vehículos cada vez más elaborados: las <span class=\"term\">máquinas de supervivencia</span> (cuerpos que protegen y transportan genes). Los errores de copia, las mutaciones, eran la materia prima de la evolución.",
         },
         {
           type: 'big-numbers',
@@ -239,7 +239,7 @@ export const selfishGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El ADN replica y supervisa la fabricación de <span class=\"term\">proteínas</span> (moléculas que ejecutan casi todo el trabajo celular). Un cuerpo es la forma del gen de preservarse sin alteración. Las características adquiridas no se heredan. La selección favorece genes que construyen buenas máquinas de supervivencia.",
+          html: "Por eso, el ADN replica y supervisa la fabricación de <span class=\"term\">proteínas</span> (moléculas que ejecutan casi todo el trabajo celular). Un cuerpo es la forma del gen de preservarse sin alteración. Las características adquiridas no se heredan. La selección favorece genes que construyen buenas máquinas de supervivencia.",
         },
         {
           type: 'paragraph',
@@ -403,7 +403,7 @@ export const selfishGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La estrategia <span class=\"term\">r-seleccionada</span> (muchos hijos poco cuidados) se contrasta con la <span class=\"term\">K-seleccionada</span> (pocos hijos muy cuidados). Un animal ajusta su fecundidad al número de crías que puede criar de verdad. No lo hace por bien de la especie sino por maximización génica.",
+          html: "Por eso, la estrategia <span class=\"term\">r-seleccionada</span> (muchos hijos poco cuidados) se contrasta con la <span class=\"term\">K-seleccionada</span> (pocos hijos muy cuidados). Un animal ajusta su fecundidad al número de crías que puede criar de verdad. No lo hace por bien de la especie sino por maximización génica.",
         },
         {
           type: 'paragraph',
@@ -431,7 +431,7 @@ export const selfishGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Un gen en el cuerpo del hijo puede favorecer extraer más recursos de la madre de lo que a ella le conviene dar. El weaning conflict, la rivalidad entre hermanos y el infanticidio ilustran esta tensión. Cada lado evoluciona contramedidas.",
+          html: "Un gen en el cuerpo del hijo puede favorecer extraer más recursos de la madre de lo que a ella le conviene dar. El <span class=\"term\">conflicto de destete</span> (weaning conflict), la rivalidad entre hermanos y el infanticidio ilustran esta tensión. Cada lado evoluciona contramedidas.",
         },
         {
           type: 'paragraph',
@@ -459,7 +459,7 @@ export const selfishGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La asimetría fundamental es el tamaño del gameto (célula reproductiva). Los masculinos (esperma) son pequeños y numerosos. Los femeninos (óvulos) son grandes y escasos. De la isogamia evolucionaron estrategias «honesta» (óvulo, gran inversión) y «explotadora» (esperma, móvil y barato). Los machos tienden a copular ampliamente. Las hembras son el factor limitante.",
+          html: "De ahí que la asimetría fundamental sea el tamaño del gameto (célula reproductiva). Los masculinos (esperma) son pequeños y numerosos. Los femeninos (óvulos) son grandes y escasos. De la isogamia evolucionaron estrategias «honesta» (óvulo, gran inversión) y «explotadora» (esperma, móvil y barato). Los machos tienden a copular ampliamente. Las hembras son el factor limitante.",
         },
         {
           type: 'paragraph',
@@ -576,7 +576,7 @@ export const selfishGene: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El capítulo conecta juegos matemáticos con comportamiento animal y humano. Avícolas Grudger, simbiosis e instituciones que favorecen interacciones iteradas y reputación entran en el mismo marco. Hay esperanza para la cooperación humana si diseñamos reglas que premien la reciprocidad.",
+          html: "Así que el capítulo conecta juegos matemáticos con comportamiento animal y humano. Avícolas Grudger, simbiosis e instituciones que favorecen interacciones iteradas y reputación entran en el mismo marco. Hay esperanza para la cooperación humana si diseñamos reglas que premien la reciprocidad.",
         },
         {
           type: 'concept-grid',

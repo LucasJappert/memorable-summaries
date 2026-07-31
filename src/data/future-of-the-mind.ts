@@ -96,7 +96,7 @@ export const futureOfTheMind: BookSummary = {
   {
     "id": "apendice",
     "num": "16",
-    "label": "Apéndice: conciencia cuántica"
+    "label": "Conciencia cuántica"
   },
   {
     "id": "conceptos",
@@ -106,7 +106,7 @@ export const futureOfTheMind: BookSummary = {
   {
     "id": "cronologia",
     "num": "◈",
-    "label": "Cronología"
+    "label": "Cronología de los descubrimientos"
   },
   {
     "id": "figuras",
@@ -319,7 +319,7 @@ export const futureOfTheMind: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "En paralelo, el neurocientífico <span class=\"person\">Miguel Nicolelis</span> conectó cerebros y máquinas en tiempo real. Exploró redes «cerebro-a-cerebro». El horizonte incluye <span class=\"term\">exoesqueletos</span> (estructuras externas que amplifican o reemplazan movimiento) y prótesis con retroalimentación sensorial.",
+          html: "A partir de ahí, el neurocientífico <span class=\"person\">Miguel Nicolelis</span> conectó cerebros y máquinas en tiempo real. Exploró redes «cerebro-a-cerebro». El horizonte incluye <span class=\"term\">exoesqueletos</span> (estructuras externas que amplifican o reemplazan movimiento) y prótesis con retroalimentación sensorial.",
         },
         {
           type: 'paragraph',
@@ -1033,7 +1033,7 @@ export const futureOfTheMind: BookSummary = {
   },
   {
     "year": "2013",
-    "text": "Se anuncian BRAIN Initiative (EE. UU.) y Human Brain Project (UE) como programas a gran escala."
+    "text": "EE. UU. y la UE lanzan megaproyectos de cartografía cerebral: la Iniciativa BRAIN y el Proyecto Cerebro Humano."
   },
   {
     "year": "2014",
@@ -1095,7 +1095,7 @@ export const futureOfTheMind: BookSummary = {
     lines: [
   "La mente es un proceso físico extraordinario, no una excepción al universo.",
   "Leer y modular circuitos cerebrales ya no pertenece a la ficción, sino al laboratorio.",
-  "Sin ética, la neurotecnología puede vigilar y manipular; con ética, puede curar y liberar.",
+  "Por eso, sin ética, la neurotecnología puede vigilar y manipular; con ética, puede curar y liberar.",
   "La próxima revolución científica medirá menos kilómetros y más conexiones sinápticas.",
   "El futuro de la mente define, en última instancia, el futuro de la civilización."
 ],

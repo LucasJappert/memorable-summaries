@@ -31,6 +31,7 @@ Para cada dimensión, marcá `ok`, `flojo` o `falla` y justificá en 1 oración.
 7. **Fidelidad factual** — ¿Hay citas, cifras o fechas que **no** están en el libro? (verificar contra `.extracted`) Marcá cualquier dato sospechoso de invención.
 8. **Balance ancla/argumento** — ¿Algún capítulo argumentativo quedó reducido a `big-numbers`/`timeline`/`concept-grid` sin su tesis?
 9. **Key vs. párrafo anterior** — ¿El `<!-- key -->` repite casi literalmente el último párrafo? Debe condensar la consecuencia, no repetir la idea.
+10. **Idioma y títulos públicos** — ¿TOC labels y `## title:` están en español? ¿Coinciden entre sí? ¿El `subtitle` está en español? ¿Solo `title` (YAML) conserva el original?
 
 ## Salida
 
@@ -49,7 +50,8 @@ Devolvé un diagnóstico con esta forma (podés usar JSON o lista markdown):
         "tesis_cierre": "…",
         "fidelidad_factual": "…",
         "balance": "…",
-        "key_no_repetido": "…"
+        "key_no_repetido": "…",
+        "idioma_titulos": "ok|flojo|falla — TOC/## title en inglés, subtitle en inglés, o incoherencia original vs público"
     },
     "capitulos_faltantes": ["cap7", "cap11"],
     "secciones_a_reescribir": [
@@ -81,5 +83,5 @@ Devolvé un diagnóstico con esta forma (podés usar JSON o lista markdown):
 reescribir secciones marcadas (con 01a + 01) ──► 01b otra vez
       │ sí
       ▼
-01c (pulido de prosa) ──► lint-summary.py ──► md-to-ts.py
+01c (pulido de prosa, por sección) ──► 01d (revisión editorial global) ──► lint-summary.py ──► md-to-ts.py
 ```

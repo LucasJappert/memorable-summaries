@@ -38,15 +38,26 @@ ese orden de prioridad.
 7. **Tabla de contenidos** completa con ids en kebab-case (`cap1`, `cap2`, …)
 8. **Idioma:** todo el contenido en **español**. Excepción: `title` en idioma original; si no es español, agregar `title_es` con la traducción
 
+### Estándar editorial (audiencia general)
+
+1. **Término común primero**, tecnicismo después: «cambio genético heredado» → `<span class="term">mutación</span>`.
+2. **Escena o pregunta → causa → consecuencia** en cada `# capN`.
+3. **Conectores naturales** en cada sección: _por eso_, _de ahí que_, _entonces_, _pero_, _sin embargo_, _porque_, _a partir de ahí_.
+4. **Puentes conceptuales** con `<!-- bridge -->` (del esqueleto: `puente al siguiente`).
+5. **1.ª mención** de figuras, eras geológicas y yacimientos: rol o contexto breve.
+
+Tras redactar, pasar por `01c` (prosa seccional) y **`01d-revision-editorial.md`** (revisión global de idioma y títulos).
+
 ### Reglas de idioma
 
 | Campo / bloque                                                 | Regla                                                                          |
 | -------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| `title`                                                        | Idioma original del libro                                                      |
-| `title_es`                                                     | Traducción al español del título; **omitir** si el original ya está en español |
-| `subtitle`, capítulos, párrafos, conceptos, cronología, cierre | **Siempre español**                                                            |
+| `title` (YAML)                                                 | **Idioma original** del libro — no traducir                                    |
+| `title_es` (YAML)                                              | **Título público en español**; omitir si el original ya está en español        |
+| TOC `label` y `## title:`                                      | **Siempre español** (usar títulos del esqueleto, no el original en inglés)     |
+| `subtitle`, párrafos, keys, conceptos, cronología, cierre      | **Siempre español**                                                            |
 | Citas                                                          | Español (traducir si hace falta; no inventar, basarse en edición ES si existe) |
-| Nombres propios (autores, personajes)                          | Forma original o la más usada en español                                       |
+| Nombres propios, taxones, siglas                               | Forma original; glosar la 1.ª vez si no es obvio para audiencia general        |
 
 ### Bloques disponibles (usar comentarios HTML como marcadores)
 
@@ -142,7 +153,7 @@ La misma información, pero en pasos con sujeto + verbo, una idea por oración, 
 - Cada **concept-grid** debe tener 2–4 ítems (nunca 1 solo)
 - Repetí conceptos importantes en `# conceptos` aunque ya aparezcan en capítulos
 - Preferí **cifras redondas** y **fechas** como anclas
-- Tras generar el `.md`, corré `01b-revision-fidelidad.md` (fidelidad/cobertura) y después `01c-correccion-minima.md` (prosa)
+- Tras generar el `.md`: `01b` (fidelidad) → `01c` (prosa seccional) → `01d` (revisión editorial global) → `lint-summary.py`
 - Usá emojis solo en iconos de concept-grid (opcional, máx. 1 por tarjeta)
 - Preferí **marcadores semánticos** (`term`, `person`, `key-term`, `num`) sobre negrita indiscriminada
 

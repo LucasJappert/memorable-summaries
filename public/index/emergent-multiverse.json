@@ -31,7 +31,7 @@
       "description": "Regla que extrae predicciones empíricas de grados de libertad macroscópicos (POVMs)."
     },
     {
-      "title": "Spacetime state realism",
+      "title": "Realismo del estado en el espaciotiempo",
       "description": "Ontología que asigna operadores de densidad a regiones del espaciotiempo."
     },
     {
@@ -48,7 +48,7 @@
     {
       "sectionId": "cierre",
       "sectionTitle": "Cierre",
-      "text": "No hay problema de la medición en la mecánica cuántica unitaria."
+      "text": "En suma, no hay problema de la medición en la mecánica cuántica unitaria."
     },
     {
       "sectionId": "cierre",
@@ -58,7 +58,7 @@
     {
       "sectionId": "cierre",
       "sectionTitle": "Cierre",
-      "text": "La decoherencia explica por qué vemos un mundo cuasi-clásico."
+      "text": "Por eso la decoherencia explica por qué vemos un mundo cuasi-clásico."
     },
     {
       "sectionId": "cierre",
@@ -203,7 +203,7 @@
     {
       "sectionId": "interludio1",
       "sectionTitle": "Primer interludio",
-      "text": "Ningún experimento separa «QM operacional» de «QM literal». Tampoco separa «hubo dinosaurios» de «solo hay fósiles como si hubiera habido dinosaurios». En cuanto a la navaja de Ockham (principio de no multiplicar supuestos innecesarios), penaliza postulados, no cantidad de entidades. La cosmología no descarta teorías por predecir muchas galaxias. Criticar Everett por postular muchos universos inventa un principio nuevo sin motivación independiente."
+      "text": "Pero ningún experimento separa «QM operacional» de «QM literal». Tampoco separa «hubo dinosaurios» de «solo hay fósiles como si hubiera habido dinosaurios». En cuanto a la navaja de Ockham (principio de no multiplicar supuestos innecesarios), penaliza postulados, no cantidad de entidades. La cosmología no descarta teorías por predecir muchas galaxias. Criticar Everett por postular muchos universos inventa un principio nuevo sin motivación independiente."
     },
     {
       "sectionId": "interludio1",
@@ -258,7 +258,7 @@
     {
       "sectionId": "cap5",
       "sectionTitle": "Simetría, racionalidad y la regla de Born",
-      "text": "El argumento separa el problema práctico del epistémico. El práctico pregunta por qué el peso de rama guía decisiones. El epistémico pregunta por qué guía inferencia y frecuencias. El núcleo matemático no es decisionista sino de simetría. Preferencias entre apuestas sobre resultados de medición, bajo axiomas de riqueza física y racionalidad, fijan una medida de probabilidad única sobre macroestados decoherentes."
+      "text": "Por eso el argumento separa el problema práctico del epistémico. El práctico pregunta por qué el peso de rama guía decisiones. El epistémico pregunta por qué guía inferencia y frecuencias. El núcleo matemático no es decisionista sino de simetría. Preferencias entre apuestas sobre resultados de medición, bajo axiomas de riqueza física y racionalidad, fijan una medida de probabilidad única sobre macroestados decoherentes."
     },
     {
       "sectionId": "cap5",
@@ -388,7 +388,7 @@
     {
       "sectionId": "cap8",
       "sectionTitle": "Espaciotiempo y el estado cuántico",
-      "text": "Everettian QM es no separable ontológicamente pero local en dinámica, compatible con el espíritu de la relatividad especial."
+      "text": "La mecánica cuántica everettiana es no separable ontológicamente pero local en dinámica, compatible con el espíritu de la relatividad especial."
     },
     {
       "sectionId": "cap8",
@@ -433,7 +433,7 @@
     {
       "sectionId": "cap10",
       "sectionTitle": "Consecuencias everettianas variadas",
-      "text": "En casos de probabilidad exótica, el razonamiento antrópico (inferir nuestra existencia a partir de condiciones que permiten observadores) es más disciplinado en el multiverso everettiano. Tiene teoría precisa y predicciones testeables. Lo es más que en multiversos ad hoc de inflación o cuerdas. El suicidio cuántico (apostar la vida a un resultado cuántico) no otorga certeza subjetiva de supervivencia."
+      "text": "Por eso el multiverso everettiano disciplina mejor el razonamiento antrópico (inferencia sobre observadores posibles). En casos de probabilidad exótica, tiene teoría precisa y predicciones testeables. Lo es más que en multiversos ad hoc de inflación o cuerdas. El suicidio cuántico (apostar la vida a un resultado cuántico) no otorga certeza subjetiva de supervivencia."
     },
     {
       "sectionId": "cap10",
@@ -493,7 +493,7 @@
     {
       "sectionId": "epilogo",
       "sectionTitle": "Epílogo",
-      "text": "El escéptico no se convence. El autor evita la capitulación ficticia y deja la última palabra a Galileo . Simplicio pregunta para qué sirve el vasto vacío entre Saturno y las estrellas fijas. Salviati responde que la naturaleza no crea en vano. Ese espacio contiene innumerables estrellas no visibles a simple vista."
+      "text": "Pero el escéptico no se convence. El autor evita la capitulación ficticia y deja la última palabra a Galileo . Simplicio pregunta para qué sirve el vasto vacío entre Saturno y las estrellas fijas. Salviati responde que la naturaleza no crea en vano. Ese espacio contiene innumerables estrellas no visibles a simple vista."
     },
     {
       "sectionId": "epilogo",

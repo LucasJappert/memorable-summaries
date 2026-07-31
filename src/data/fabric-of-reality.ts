@@ -183,7 +183,7 @@ export const fabricOfReality: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La razón es la máquina universal de Turing, un único objeto capaz de imitar a cualquier otro. Esa universalidad es lo que hace comprensible la realidad. Una parte del mundo puede modelar a todas las demás. Por otro lado, un <span class=\"term\">argumento diagonal</span> (razonamiento al estilo de Cantor y Turing) muestra un límite. La inmensa mayoría de entornos lógicamente posibles nunca podrán renderizarse. Deutsch los llama entornos Cantgotu. La universalidad es enorme, aunque no abarca todo lo imaginable.",
+          html: "Por eso, la razón es la máquina universal de Turing, un único objeto capaz de imitar a cualquier otro. Esa universalidad es lo que hace comprensible la realidad: una parte del mundo puede modelar a todas las demás. Por otro lado, un <span class=\"term\">argumento diagonal</span> (razonamiento al estilo de Cantor y Turing) muestra un límite. La inmensa mayoría de entornos lógicamente posibles nunca podrán renderizarse. Deutsch los llama entornos Cantgotu. La universalidad es enorme, aunque no abarca todo lo imaginable.",
         },
         {
           type: 'key',
@@ -477,7 +477,7 @@ export const fabricOfReality: BookSummary = {
   },
   {
     "year": "1997",
-    "text": "Se publica *The Fabric of Reality*."
+    "text": "Deutsch publica *El tejido de la realidad*."
   }
 ],
   figures: [

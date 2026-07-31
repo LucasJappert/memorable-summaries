@@ -25,7 +25,7 @@ lang: es
 | cap7 | 07 | El milagro aparente |
 | cap8 | 08 | El gran diseño |
 | conceptos | ✦ | Conceptos clave |
-| cronologia | ◈ | Cronología |
+| cronologia | ◈ | Cronología de los descubrimientos |
 | figuras | ✦ | Figuras clave |
 
 ---
@@ -35,8 +35,8 @@ lang: es
 ## title: La idea central
 
 <!-- closing -->
-Las grandes preguntas sobre el origen ya no pertenecen a la filosofía ni a la teología.
-La física moderna muestra que los universos surgen solos de la nada, guiados por leyes naturales.
+Por eso, las grandes preguntas sobre el origen ya no pertenecen a la filosofía ni a la teología.
+Así, la física moderna muestra que los universos surgen solos de la nada, guiados por leyes naturales.
 <!-- highlight -->no hace falta invocar a Dios para explicar por qué hay algo en lugar de nada<!-- /highlight -->
 La teoría M y el multiverso completan la imagen que Historia del tiempo dejó abierta.
 Nuestra existencia selecciona, entre innumerables cosmos, el que puede albergar vida.
@@ -56,7 +56,7 @@ La ciencia lleva la antorcha del descubrimiento en la búsqueda del Gran Diseño
 La <span class="term">teoría M</span> (marco unificador de la física con once dimensiones) y los satélites de la NASA permiten enfrentar por fin la cuestión última. La tesis central es audaz: nuestro universo y muchos otros surgieron de la nada sin intervención divina. La creación obedece a <span class="term">leyes físicas</span> (regularidades naturales descubiertas por la ciencia), no a decretos sobrenaturales.
 
 <!-- paragraph -->
-Cuando la teoría M se confirme con la observación, completaremos una búsqueda de más de tres mil años. El libro ofrece una imagen del cosmos muy distinta de la tradicional. No es un tratado técnico. Es un mapa accesible de ideas que hacen posible esa respuesta.
+Por eso, cuando la teoría M se confirme con la observación, completaremos una búsqueda de más de tres mil años. El libro ofrece una imagen del cosmos muy distinta de la tradicional. No es un tratado técnico. Es un mapa accesible de ideas que hacen posible esa respuesta.
 
 <!-- key -->
 El libro plantea responder, con la física del siglo <span class="key-term">XXI</span>, las preguntas cosmológicas que la filosofía ya no puede abordar.
@@ -164,7 +164,7 @@ Si no hay una sola historia del cosmos, la cuántica obliga a pensar en historia
 <span class="person">Werner Heisenberg</span> formuló el principio de incertidumbre: cuanto más precisa es la posición de una partícula, menos precisa es su velocidad. No es un fallo del instrumento sino una propiedad del mundo. <span class="person">Richard Feynman</span> reformuló la teoría con la <span class="term">suma de historias</span> (cada partícula recorre todos los caminos posibles a la vez).
 
 <!-- paragraph -->
-La observación es decisiva. Mientras nadie mide, el sistema explora historias superpuestas. Al medir, una de ellas se actualiza. Eso no significa que la conciencia cree la realidad. La interacción física selecciona un resultado entre posibilidades cuánticas.
+Por eso la observación es decisiva. Mientras nadie mide, el sistema explora historias superpuestas. Al medir, una de ellas se actualiza. Eso no significa que la conciencia cree la realidad. La interacción física selecciona un resultado entre posibilidades cuánticas.
 
 <!-- paragraph -->
 Si las partículas tienen historias múltiples, el universo entero puede tenerlas. La <span class="term">cosmología cuántica</span> (aplicación de la cuántica al origen del cosmos) aplica la suma de historias al espacio-tiempo mismo. El cosmos no tiene un único pasado sino muchos, ponderados por probabilidad.
@@ -193,7 +193,7 @@ Esas historias múltiples exigen un marco que una todas las fuerzas de la natura
 En la década de <span class="num">1960</span>, la teoría electrodébil unió electromagnetismo y fuerza nuclear débil. La <span class="term">teoría de cuerdas</span> (modelo donde las partículas son vibraciones minúsculas en objetos unidimensionales) propone dimensiones extra enrolladas de forma compacta. Surgieron cinco versiones distintas, aparentemente incompatibles.
 
 <!-- paragraph -->
-La teoría M las reconcilió en un marco con <span class="num">11</span> dimensiones. No es una sola teoría sino una familia de modelos, como un atlas de mapas. Cada versión describe bien las observaciones solo en un dominio limitado. Donde los dominios se solapan predicen lo mismo.
+Entonces, la teoría M las reconcilió en un marco con <span class="num">11</span> dimensiones. No es una sola teoría sino una familia de modelos, como un atlas de mapas. Cada versión describe bien las observaciones solo en un dominio limitado. Donde los dominios se solapan predicen lo mismo.
 
 <!-- paragraph -->
 El paisaje de la teoría M admite del orden de <span class="num">10⁵⁰⁰</span> configuraciones distintas de leyes y constantes. Ese número vertiginoso no es un defecto. Será la base del argumento multiverso en el capítulo siguiente.
@@ -282,7 +282,7 @@ Con el multiverso resuelto, queda la pregunta filosófica final: ¿hace falta un
 ¿Hace falta un Dios para explicar el origen del universo? El libro contrapone dos enfoques. El <span class="term">enfoque tradicional</span> (Dios crea el universo e interviene con milagros) asume un agente por encima de las leyes naturales. El <span class="term">enfoque científico</span> (leyes inviolables, creación espontánea y multiverso) explica los mismos fenómenos sin postular un agente externo.
 
 <!-- paragraph -->
-El enfoque tradicional falla donde la cuántica y la cosmología moderna avanzan. Los universos pueden crearse solos y las leyes surgen del paisaje de la teoría M. Invocar a Dios para «encender la mecha» del cosmos resulta innecesario. En el famoso debate con Newton ya se afirmó que no hace falta invocar a Dios para poner en marcha el universo.
+El enfoque tradicional falla donde la cuántica y la cosmología moderna avanzan. Los universos pueden crearse solos y las leyes surgen del paisaje de la teoría M. Por eso invocar a Dios para «encender la mecha» del cosmos resulta innecesario. Newton creyó que hacía falta la intervención divina. Laplace le respondió después a Napoleón que no necesitaba esa hipótesis.
 
 <!-- paragraph -->
 La creación espontánea responde a la pregunta de por qué hay algo en lugar de nada. La nada cuántica no es un vacío absoluto sin leyes: es inestable y produce universos. La ciencia no demuestra que Dios no exista. Muestra que no es necesario para explicar el cosmos.

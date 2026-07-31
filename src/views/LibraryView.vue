@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { computed, nextTick, onMounted, ref, watch } from 'vue'
+import { computed, onMounted, ref, watch } from 'vue'
 import { RouterLink } from 'vue-router'
 import { bookCatalog } from '../books/catalog'
 import { bookHasAudio } from '../books/audio-catalog'
@@ -9,10 +9,9 @@ import BookCard from '../components/BookCard.vue'
 import ReviewNudge from '../components/ReviewNudge.vue'
 import SectionPageHero from '../components/SectionPageHero.vue'
 import {
-  closeLibraryCatalogSearch,
+  bookMatchesCatalogQuery,
   libraryCatalogMatchCount,
   libraryCatalogQuery,
-  libraryCatalogSearchOpen,
 } from '../composables/useLibraryCatalogSearch'
 import { useNextInRoute, bookDisplayTitle, isContinueAction } from '../composables/useNextInRoute'
 import { usePageMeta } from '../composables/usePageMeta'
@@ -34,19 +33,12 @@ import {
 type StatusFilter = 'all' | 'reading' | 'new' | 'done' | 'audio' | 'downloaded'
 
 const statusFilter = ref<StatusFilter>('all')
-const searchInputEl = ref<HTMLInputElement | null>(null)
 const { cachedSlugs } = useOfflineAudio()
 
 const { continueBook, continueSource, continueStatus } = useNextInRoute()
 
 onMounted(() => {
   window.scrollTo(0, 0)
-})
-
-watch(libraryCatalogSearchOpen, async (open) => {
-  if (!open) return
-  await nextTick()
-  searchInputEl.value?.focus()
 })
 
 const sortedCatalog = computed(() => {
@@ -97,17 +89,9 @@ const continueTitle = computed(() => {
   return bookDisplayTitle(book)
 })
 
-const normalize = (value: string) =>
-  value
-    .toLowerCase()
-    .normalize('NFD')
-    .replace(/[\u0300-\u036f]/g, '')
-
 const filteredCatalog = computed(() => {
   readingRevision.value
   cachedSlugs.value
-
-  const terms = normalize(libraryCatalogQuery.value.trim()).split(/\s+/).filter(Boolean)
 
   return sortedCatalog.value.filter((book) => {
     const matchesStatus =
@@ -120,18 +104,7 @@ const filteredCatalog = computed(() => {
             : getBookReadingStatus(book.slug) === statusFilter.value
 
     if (!matchesStatus) return false
-    if (terms.length === 0) return true
-
-    const haystack = normalize(
-      [
-        book.meta.title,
-        book.meta.titleEs ?? '',
-        book.meta.author ?? '',
-        book.meta.subtitle ?? '',
-      ].join(' '),
-    )
-
-    return terms.every((term) => haystack.includes(term))
+    return bookMatchesCatalogQuery(book, libraryCatalogQuery.value)
   })
 })
 
@@ -236,50 +209,6 @@ usePageMeta(
 
       <AppVersionFooter />
     </main>
-
-    <Teleport to="body">
-      <div
-        v-if="libraryCatalogSearchOpen"
-        class="library-catalog-search"
-        role="dialog"
-        aria-modal="true"
-        aria-label="Buscar libros"
-        @click.self="closeLibraryCatalogSearch()"
-      >
-        <div class="library-catalog-search__panel" @click.stop>
-          <label class="library-catalog-search__field">
-            <span class="sr-only">Buscar libros</span>
-            <svg
-              class="library-catalog-search__icon"
-              viewBox="0 0 20 20"
-              aria-hidden="true"
-            >
-              <path
-                d="M8.5 3a5.5 5.5 0 0 1 4.23 9.02l3.62 3.63a.9.9 0 0 1-1.27 1.27l-3.63-3.62A5.5 5.5 0 1 1 8.5 3Zm0 1.8a3.7 3.7 0 1 0 0 7.4 3.7 3.7 0 0 0 0-7.4Z"
-                fill="currentColor"
-              />
-            </svg>
-            <input
-              ref="searchInputEl"
-              v-model="libraryCatalogQuery"
-              type="search"
-              class="library-catalog-search__input"
-              placeholder="Título, autor…"
-              aria-label="Buscar libros"
-              @keydown.escape="closeLibraryCatalogSearch()"
-            />
-          </label>
-          <button
-            type="button"
-            class="library-catalog-search__close"
-            aria-label="Cerrar búsqueda"
-            @click="closeLibraryCatalogSearch()"
-          >
-            Listo
-          </button>
-        </div>
-      </div>
-    </Teleport>
   </div>
 </template>
 

@@ -16,7 +16,7 @@ export const egoTunnel: BookSummary = {
   {
     "id": "prefacio",
     "num": "00",
-    "label": "Introducción"
+    "label": "No hay tal cosa como un yo"
   },
   {
     "id": "cap1",
@@ -272,7 +272,7 @@ export const egoTunnel: BookSummary = {
     {
       id: "cap4",
       num: "04",
-      title: "Del cuerpo a la mente: imagen corporal, ECE y yo virtual",
+      title: "Del cuerpo a la mente",
       blocks: [
         {
           type: 'paragraph',
@@ -356,7 +356,7 @@ export const egoTunnel: BookSummary = {
     {
       id: "cap6",
       num: "06",
-      title: "Psiconautas filosóficos: sueños lúcidos",
+      title: "Psiconautas filosóficos",
       blocks: [
         {
           type: 'paragraph',
@@ -365,11 +365,11 @@ export const egoTunnel: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Metzinger relata su propia ECE de <span class=\"num\">1986</span>, seguida de un falso despertar que destruyó la certeza de estar «en contacto con la realidad». Practica y estudia técnicas de inducción. El yo lúcido no es metafísico sino reconfiguración del PSM en sueño REM.",
+          html: "Metzinger relata su propia ECE del <span class=\"num\">6 de mayo de 1986</span>. Después vino un falso despertar que destruyó la certeza de estar «en contacto con la realidad». Practica y estudia técnicas de inducción. El yo lúcido no es metafísico sino reconfiguración del PSM en sueño REM.",
         },
         {
           type: 'paragraph',
-          html: "La pregunta es qué aprendemos sobre la transparencia del ego cuando podemos percibir que el mundo onírico es simulación. El riesgo ético es real: los estados lúcidos prolongados pueden erosionar la frontera vigilia-sueño. Aun así, son evidencia de que el ego es proceso, no sustancia.",
+          html: "La pregunta es qué aprendemos sobre la transparencia del ego cuando podemos percibir que el mundo onírico es simulación. No está claro si toda ECE es sueño lúcido, pero en ambos casos la vividez no garantiza contacto con la realidad. Por eso el riesgo ético es real: los estados lúcidos prolongados pueden erosionar la frontera vigilia-sueño. Aun así, son evidencia de que el ego es proceso, no sustancia.",
         },
         {
           type: 'key',
@@ -393,7 +393,7 @@ export const egoTunnel: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El psiquiatra <span class=\"person\">Allan Hobson</span> sostiene que soñar es conciencia subjetiva de la activación cerebral durante el sueño. Su modelo <span class=\"term\">AIM</span> (activación, gating entrada-salida, modulación química) mapea estados de vigilia, sueño y sueño. La correlación REM-soñar es cuantitativa, no cualitativa.",
+          html: "Por eso el psiquiatra <span class=\"person\">Allan Hobson</span> sostiene que soñar es conciencia subjetiva de la activación cerebral durante el sueño. Su modelo <span class=\"term\">AIM</span> (activación, gating entrada-salida, modulación química) mapea estados de vigilia, sueño y sueño. La correlación REM-soñar es cuantitativa, no cualitativa.",
         },
         {
           type: 'paragraph',
@@ -497,7 +497,7 @@ export const egoTunnel: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Un robot con modelo corporal podría experimentar ilusión de mano de goma, ECE o sueños lúcidos. Existen híbridos biorobóticos (hardware biológico con software artificial) y redes de unas <span class=\"num\">300.000</span> neuronas de rata controlando robots. La distinción natural/artificial no es exhaustiva.",
+          html: "En consecuencia, un robot con modelo corporal podría experimentar ilusión de mano de goma, ECE o sueños lúcidos. Existen híbridos biorobóticos (hardware biológico con software artificial) y redes de unas <span class=\"num\">300.000</span> neuronas de rata controlando robots. La distinción natural/artificial no es exhaustiva.",
         },
         {
           type: 'paragraph',
@@ -516,7 +516,7 @@ export const egoTunnel: BookSummary = {
     {
       id: "cap11",
       num: "11",
-      title: "Tecnologías de la conciencia y la imagen de la humanidad",
+      title: "Tecnologías de la conciencia",
       blocks: [
         {
           type: 'paragraph',
@@ -553,7 +553,7 @@ export const egoTunnel: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Surge una <span class=\"term\">ética de la conciencia</span>, un marco para evaluar qué estados subjetivos promover o prohibir. El neurocientífico <span class=\"person\">Michael Persinger</span> indujo experiencias religiosas por estimulación electromagnética. Una encuesta de <span class=\"term\">Nature</span> (revista científica) mostró que <span class=\"num\">1 de cada 5</span> científicos usa mejoradores cognitivos sin prescripción.",
+          html: "Por eso surge una <span class=\"term\">ética de la conciencia</span>, un marco para evaluar qué estados subjetivos promover o prohibir. El neurocientífico <span class=\"person\">Michael Persinger</span> indujo experiencias religiosas por estimulación electromagnética. Una encuesta de <span class=\"term\">Nature</span> (revista científica) mostró que <span class=\"num\">1 de cada 5</span> científicos usa mejoradores cognitivos sin prescripción.",
         },
         {
           type: 'paragraph',
@@ -691,7 +691,7 @@ export const egoTunnel: BookSummary = {
   closing: {
     title: "La idea central",
     lines: [
-  "No hay yo en el cerebro ni fuera de él: hay un modelo transparente que parece serlo.",
+  "En suma, no hay yo en el cerebro ni fuera de él: hay un modelo transparente que parece serlo.",
   "El túnel del ego es el mundo que tu cerebro presenta como realidad inmediata.",
   "Empatía, sueños y máquinas confirman que el centro de la experiencia es representación, no sustancia.",
   "La revolución de la conciencia obliga a una ética de los estados subjetivos.",

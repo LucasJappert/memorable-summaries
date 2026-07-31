@@ -18,19 +18,19 @@ lang: es
 | cap1 | 01 | Tell Me Why |
 | cap2 | 02 | An Idea is Born |
 | cap3 | 03 | Universal Acid |
-| cap4 | 04 | The Tree of Life |
-| cap5 | 05 | The Possible and the Actual |
-| cap6 | 06 | Threads of Actuality in Design Space |
+| cap4 | 04 | El árbol de la vida |
+| cap5 | 05 | Lo posible y lo actual |
+| cap6 | 06 | Hilos de actualidad en el espacio del diseño |
 | cap7 | 07 | Priming Darwin's Pump |
 | cap8 | 08 | Biology is Engineering |
 | cap9 | 09 | Searching for Quality |
 | cap10 | 10 | Bully for Brontosaurus |
 | cap11 | 11 | Controversies Contained |
-| cap12 | 12 | The Cranes of Culture |
+| cap12 | 12 | Las grúas de la cultura |
 | cap13 | 13 | Losing Our Minds to Darwin |
-| cap14 | 14 | The Evolution of Meanings |
-| cap15 | 15 | The Emperor's New Mind and Other Fables |
-| cap16 | 16 | On the Origin of Morality |
+| cap14 | 14 | La evolución de los significados |
+| cap15 | 15 | La nueva mente del emperador y otras fábulas |
+| cap16 | 16 | Sobre el origen de la moral |
 | cap17 | 17 | Redesigning Morality |
 | cap18 | 18 | The Future of an Idea |
 | conceptos | ✦ | Conceptos clave |
@@ -155,7 +155,7 @@ Para visualizar ese proceso acumulativo hace falta el Árbol de la Vida concreto
 # cap4
 
 ## num: 04
-## title: The Tree of Life
+## title: El árbol de la vida
 
 <!-- paragraph lead -->
 ¿Cómo se ve una especie o un origen en el árbol completo?
@@ -164,7 +164,7 @@ Para visualizar ese proceso acumulativo hace falta el Árbol de la Vida concreto
 La vida forma un único árbol genealógico de unos <span class="num">3,5</span> mil millones de años. Las procariotas dominaron dos mil millones. La revolución eucariota (~<span class="num">1,4</span> Ga, <span class="person">Lynn Margulis</span>) unió bacterias en células con núcleo y organelos. La multicelularidad explotó hace ~<span class="num">700</span> millones de años.
 
 <!-- paragraph -->
-Colorear una especie en el árbol (el experimento de Lulu) muestra que no hay cortes naturales obvios. La especie es una región conectada por descendencia. Los límites son retrospectivos, como la corona de <span class="term">Eva mitocondrial</span> (ancestra materna común reciente, no la primera mujer). La especiación no se detecta en el momento. Solo después, al ver ramas separadas.
+Por eso, colorear una especie en el árbol (el experimento de Lulu) muestra que no hay cortes naturales obvios. La especie es una región conectada por descendencia. Los límites son retrospectivos, como la corona de <span class="term">Eva mitocondrial</span> (ancestra materna común reciente, no la primera mujer). La especiación no se detecta en el momento. Solo después, al ver ramas separadas.
 
 <!-- paragraph -->
 Preguntar «¿cuándo exactamente nació la especie?» es como preguntar quién inventó un chiste: los autores están dispersos. Darwin comparó variedad y especie con península e isla: límites convencionales, no esencias. Simplificar el árbol es legítimo para ver patrones grandes. Los vacíos entre ramas interesan tanto como las ramas.
@@ -180,7 +180,7 @@ Explicar patrones exige contrastar lo actual con lo posible en el espacio de gen
 # cap5
 
 ## num: 05
-## title: The Possible and the Actual
+## title: Lo posible y lo actual
 
 <!-- paragraph lead -->
 ¿Qué podría existir biológicamente y desde dónde?
@@ -205,7 +205,7 @@ Desde genomas concretos se pasa al Espacio del Diseño unificado.
 # cap6
 
 ## num: 06
-## title: Threads of Actuality in Design Space
+## title: Hilos de actualidad en el espacio del diseño
 
 <!-- paragraph lead -->
 ¿Cómo inferimos descenso y cuánto trabajo de diseño hubo?
@@ -214,10 +214,10 @@ Desde genomas concretos se pasa al Espacio del Diseño unificado.
 Existe un único <span class="term">Espacio del Diseño</span> (mapa de todas las formas posibles) donde biología, cultura y arte comparten métodos de búsqueda. Los organismos reales son un subconjunto minúsculo de lo posible. La deriva genética mueve lateralmente. La selección «eleva» en diseño. Cuando falta selección, la deriva tiende a degradar textos como typos en Moby Dick.
 
 <!-- paragraph -->
-Los <span class="term">movimientos forzados</span> (soluciones únicas impuestas por física o lógica) explican convergencias: metabolismo autónomo, límites corporales, visión en medios transparentes. Los movimientos libres dependen de historia (QWERTY, sistema decimal vs. romano). La homología filogenética se distingue de la convergencia por inferencia histórica, como plagio vs. diseño independiente.
+Además, los <span class="term">movimientos forzados</span> (soluciones únicas impuestas por física o lógica) explican convergencias: metabolismo autónomo, límites corporales, visión en medios transparentes. Los movimientos libres dependen de historia (QWERTY, sistema decimal vs. romano). La homología filogenética se distingue de la convergencia por inferencia histórica, como plagio vs. diseño independiente.
 
 <!-- paragraph -->
-Richard Dawkins introdujo el <span class="term">meme</span> (unidad de replicación cultural) en 1976.
+En 1976, <span class="person">Richard Dawkins</span> introdujo el <span class="term">meme</span> (unidad de replicación cultural) como candidato para la evolución cultural.
 
 <!-- paragraph -->
 <span class="person">Alan Turing</span> mostró patrones en morfogénesis en <span class="num">1952</span>. Dennett cierra la Parte I: el algoritmo evolutivo une variación, selección, herencia y generate-and-test.
@@ -248,7 +248,7 @@ La vida pudo bootstrapearse con grúas darwinianas. <span class="person">Graham 
 <span class="person">Michael Denton</span> calculó probabilidades vanishingly small para una célula de un golpe. El argumento confunde improbabilidad absoluta con accesibilidad gradual. Dennett invita a bajar la red del juicio racional: la fe «más allá de la razón» no puede entrar solo cuando conviene.
 
 <!-- paragraph -->
-La especulación cosmológica no está demostrada y no implica nihilismo obligatorio. Completa el descenso por la Pirámide iniciado en el capítulo 3.
+Por eso, la especulación cosmológica no está demostrada y no implica nihilismo obligatorio. Completa el descenso por la Pirámide iniciado en el capítulo 3.
 
 <!-- key -->
 La vida pudo bootstrapearse con grúas darwinianas. En cosmología, caos más eternidad pueden producir leyes físicas sin Legislador.
@@ -267,7 +267,7 @@ Con vida asegurada, la biología se lee como ingeniería inversa.
 ¿Cómo puede lo «para-algo» surgir sin un para-qué consciente?
 
 <!-- paragraph -->
-Desde Darwin, biología e ingeniería son inseparables: la evolución es un ascensor automático en el Espacio del Diseño. Dennett defiende la perspectiva ingenieril como organizador obligatorio del pensamiento darwiniano, no como reduccionismo vulgar. Aristóteles ya ligó teleología y organismos. Darwin la naturalizó.
+Desde Darwin, biología e ingeniería son inseparables: la evolución es un ascensor automático en el Espacio del Diseño. Por eso Dennett defiende la perspectiva ingenieril como organizador obligatorio del pensamiento darwiniano, no como reduccionismo vulgar. Aristóteles ya ligó teleología y organismos. Darwin la naturalizó.
 
 <!-- paragraph -->
 <span class="person">Arthur Samuel</span> enseñó damas a una computadora. El <span class="term">GOFAI</span> (inteligencia artificial simbólica clásica) buscó razonamiento explícito. La consciencia puede ser grúa, no skyhook. <span class="person">John Searle</span> niega intencionalidad derivada. <span class="person">Stuart Kauffman</span> ve orden en el borde del caos como meta-ingeniería compatible con Darwin, no sustituto.
@@ -345,7 +345,7 @@ Con Gould evaluado, conviene separar herejías benignas de las fatales.
 Muchas controversias no amenazan Darwinismo. La <span class="term">panspermia</span> (vida llegada desde el espacio) de <span class="person">Fred Hoyle</span> solo cambia el lugar del bootstrapping. No evita el problema de origen. Crick y Orgel exploraron variantes similares. Imposible distinguir en principio selección natural de diseño alienígena: no hay marca segura de lo artificial vs. natural.
 
 <!-- paragraph -->
-Herejías fatales sí existen. <span class="person">Pierre Teilhard de Chardin</span> postuló un Omega teleológico: traición al insight darwiniano. El <span class="term">lamarckismo</span> puro (herencia de caracteres adquiridos) presupone lo que pretende explicar. La mutación dirigida sin grúa cae igual. <span class="person">August Weismann</span> separó línea germinal y somática.
+Herejías fatales sí existen. <span class="person">Pierre Teilhard de Chardin</span> postuló un Omega teleológico: traición a la comprensión darwiniana. El <span class="term">lamarckismo</span> puro (herencia de caracteres adquiridos) presupone lo que pretende explicar. La mutación dirigida sin grúa cae igual. <span class="person">August Weismann</span> separó línea germinal y somática.
 
 <!-- paragraph -->
 El debate sobre <span class="term">unidades de selección</span> (genes, organismos, grupos) importa contablemente (Williams, Dawkins) pero no implica determinismo moral. Los humanos difieren en un punto clave: memes y autonomía parcial respecto a genes. La síntesis moderna sigue dura donde debe y flexible donde puede.
@@ -361,7 +361,7 @@ La diferencia humana clave es evolución cultural con memes.
 # cap12
 
 ## num: 12
-## title: The Cranes of Culture
+## title: Las grúas de la cultura
 
 <!-- paragraph lead -->
 ¿Cómo evoluciona lo humano más allá de los genes?
@@ -411,13 +411,13 @@ Si mentes son grúas, el significado genuino puede ser emergente.
 # cap14
 
 ## num: 14
-## title: The Evolution of Meanings
+## title: La evolución de los significados
 
 <!-- paragraph lead -->
 ¿Puede un robot o autómata tener significado «real»?
 
 <!-- paragraph -->
-El significado genuino emerge de procesos originalmente carentes de sentido. Dennett usa cajas A/B con ASCII y un robot criogénico con autonomía para mostrar que la intencionalidad no exige artífice humano externo ni skyhook.
+Por eso, el significado genuino emerge de procesos originalmente carentes de sentido. Dennett usa cajas A/B con ASCII y un robot criogénico con autonomía para mostrar que la intencionalidad no exige artífice humano externo ni skyhook.
 
 <!-- paragraph -->
 La <span class="term">intencionalidad derivada</span> (significado desde funciones designadas por procesos más básicos) basta para explicar contenido. Reducir a genes como fuente original no impide trascendencia cultural. El «client centrism» extremo lleva a que tampoco nosotros tendríamos intencionalidad «original». Dennett acepta ese reductio.
@@ -436,13 +436,13 @@ Gödel no salva el skyhook matemático contra la mente algorítmica.
 # cap15
 
 ## num: 15
-## title: The Emperor's New Mind and Other Fables
+## title: La nueva mente del emperador y otras fábulas
 
 <!-- paragraph lead -->
 ¿Hay prueba matemática contra la IA fuerte?
 
 <!-- paragraph -->
-<span class="person">Roger Penrose</span> sostiene en <span class="num">1989</span> que el teorema de Gödel prueba mente no algorítmica. Dennett replica que algoritmo ≠ implementación. La comunidad matemática es grúa social que valida pruebas. La «intuición» matemática es heurística, no acceso a lo incomputable.
+<span class="person">Roger Penrose</span> sostiene en <span class="num">1989</span> que el teorema de Gödel prueba mente no algorítmica. Pero Dennett replica que algoritmo ≠ implementación. La comunidad matemática es grúa social que valida pruebas. La «intuición» matemática es heurística, no acceso a lo incomputable.
 
 <!-- paragraph -->
 Penrose apela a gravedad cuántica en microtúbulos (<span class="person">Stuart Hameroff</span>, Abisko <span class="num">1993</span>): especulación sin evidencia. El espacio Vast de programas incluye funciones inaccesibles. Eso no privilegia al cerebro biológico. <span class="person">Alan Turing</span> ya separó lo computable de lo místico en <span class="num">1946</span>.
@@ -461,7 +461,7 @@ Con mente asegurada como grúa, toca moral y sociobiología.
 # cap16
 
 ## num: 16
-## title: On the Origin of Morality
+## title: Sobre el origen de la moral
 
 <!-- paragraph lead -->
 ¿De dónde vienen el bien, el mal y la cooperación?
@@ -492,7 +492,7 @@ Solo un análisis evolutivo puede explicar normas éticas. La falacia naturalist
 ¿Cómo decidir bien siendo finitos y heurísticos?
 
 <!-- paragraph -->
-La ética real es <span class="term">satisficing</span> (buscar lo bastante bueno, no lo óptimo) bajo presión temporal. <span class="person">John Stuart Mill</span> comparó utilitarismo con el Nautical Almanac: nadie calcula en el mar. Usamos tablas precalculadas. Mill replicó a quienes pedían cálculo instantáneo de felicidad general.
+Por eso, la ética real es <span class="term">satisficing</span> (buscar lo bastante bueno, no lo óptimo) bajo presión temporal. <span class="person">John Stuart Mill</span> comparó utilitarismo con el Nautical Almanac: nadie calcula en el mar. Usamos tablas precalculadas. Mill replicó a quienes pedían cálculo instantáneo de felicidad general.
 
 <!-- paragraph -->
 Dennett propone un <span class="term">Manual de Primeros Auxilios Morales</span> (heurísticas bajo presión) y «topos» conversacionales: derechos, promesas, tabúes como grúas, no algoritmo moral perfecto. <span class="person">Herbert Simon</span> sobre racionalidad acotada. Utilitarismo vs. Kant oscilan como extremos inalcanzables en tiempo real.

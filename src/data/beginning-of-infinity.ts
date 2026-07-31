@@ -144,7 +144,7 @@ export const beginningOfInfinity: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Desde la perspectiva menos provincial disponible, las personas son las entidades más significativas. <span class=\"term\">Crean conocimiento</span>, es decir, generan explicaciones que se sostienen a sí mismas. El problema cosmológico no es que el universo nos hospede, sino cómo los sistemas complejos sobreviven. Los humanos, con el conocimiento de la Ilustración, no dependen pasivamente del entorno: lo transforman.",
+          html: "Pero desde la perspectiva menos provincial disponible, las personas son las entidades más significativas. <span class=\"term\">Crean conocimiento</span>, es decir, generan explicaciones que se sostienen a sí mismas. El problema cosmológico no es que el universo nos hospede, sino cómo los sistemas complejos sobreviven. Los humanos, con el conocimiento de la Ilustración, no dependen pasivamente del entorno: lo transforman.",
         },
         {
           type: 'paragraph',
@@ -204,7 +204,7 @@ export const beginningOfInfinity: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Esto importa para física, mente y moral. No hay que «reducir» todo a partículas para tener conocimiento fundamental. Las explicaciones de alto nivel capturan regularidades que el microfísico solo no revela.",
+          html: "Por eso importa para física, mente y moral. No hay que «reducir» todo a partículas para tener conocimiento fundamental. Las explicaciones de alto nivel capturan regularidades que el microfísico solo no revela.",
         },
         {
           type: 'key',
@@ -228,7 +228,7 @@ export const beginningOfInfinity: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Deutsch cita escritura, cómputo, el código genético y el método científico. Antes de la Ilustración, los innovadores rara vez buscaban la universalidad a propósito. Después, las explicaciones universales se valoran por sí mismas y por su utilidad. La corrección de errores es esencial en procesos potencialmente infinitos.",
+          html: "Por eso Deutsch cita escritura, cómputo, el código genético y el método científico. Antes de la Ilustración, los innovadores rara vez buscaban la universalidad a propósito. Después, las explicaciones universales se valoran por sí mismas y por su utilidad. La corrección de errores es esencial en procesos potencialmente infinitos.",
         },
         {
           type: 'paragraph',
@@ -288,7 +288,7 @@ export const beginningOfInfinity: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Esa paradoja desarma profecías de completitud. Quien predice que el saber está casi agotado confunde ignorancia infinita con proximidad a un techo.",
+          html: "Por eso esa paradoja desarma profecías de completitud. Quien predice que el saber está casi agotado confunde ignorancia infinita con proximidad a un techo.",
         },
         {
           type: 'key',
@@ -340,7 +340,7 @@ export const beginningOfInfinity: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La <span class=\"term\">creencia verdadera justificada</span> (la definición clásica de «conocimiento») es una quimera. La justificación infinita o la autoridad no producen conocimiento objetivo. Quien busca certeza rechaza como «conocimiento» lo que ya comprende hasta que un dios lo confirme. El conocimiento objetivo es falible y mejorable, mientras que la certeza es innecesaria y dañina.",
+          html: "La <span class=\"term\">creencia verdadera justificada</span> (la definición clásica de «conocimiento») es una quimera. La justificación infinita o la autoridad no producen conocimiento objetivo. Por eso quien busca certeza rechaza como «conocimiento» lo que ya comprende hasta que un dios lo confirme. El conocimiento objetivo es falible y mejorable, mientras que la certeza es innecesaria y dañina.",
         },
         {
           type: 'paragraph',
@@ -372,7 +372,7 @@ export const beginningOfInfinity: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Contar «copias» de observadores sin teoría de medida produce paradojas antrópicas. La ontología ampliada no es adorno: resuelve problemas concretos de probabilidad y estructura.",
+          html: "Por eso contar «copias» de observadores sin teoría de medida produce paradojas antrópicas. La ontología ampliada no es adorno: resuelve problemas concretos de probabilidad y estructura.",
         },
         {
           type: 'key',
@@ -428,7 +428,7 @@ export const beginningOfInfinity: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Decidir racionalmente replica el método científico: conjeturar alternativas, criticarlas y mejorar instituciones. La democracia falla cuando se congela en fórmulas supuestamente definitivas.",
+          html: "Por eso decidir racionalmente replica el método científico: conjeturar alternativas, criticarlas y mejorar instituciones. La democracia falla cuando se congela en fórmulas supuestamente definitivas.",
         },
         {
           type: 'key',
@@ -484,7 +484,7 @@ export const beginningOfInfinity: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Deutsch distingue culturas <span class=\"term\">dinámicas</span> (que toleran corrección) y <span class=\"term\">estáticas</span> (que priorizan preservación sobre verdad). El destino de una sociedad depende de cuál predominio.",
+          html: "Por eso Deutsch distingue culturas <span class=\"term\">dinámicas</span> (que toleran corrección) y <span class=\"term\">estáticas</span> (que priorizan preservación sobre verdad). El destino de una sociedad depende de cuál predominio.",
         },
         {
           type: 'key',
@@ -651,11 +651,11 @@ export const beginningOfInfinity: BookSummary = {
   },
   {
     "year": "1945",
-    "text": "<span class=\"person\">Karl Popper</span> publica *The Open Society and Its Enemies*."
+    "text": "<span class=\"person\">Karl Popper</span> publica *La sociedad abierta y sus enemigos* (*The Open Society and Its Enemies*)."
   },
   {
     "year": "1955",
-    "text": "<span class=\"person\">Isaac Asimov</span> publica *The End of Eternity*."
+    "text": "<span class=\"person\">Isaac Asimov</span> publica *El fin de la eternidad* (*The End of Eternity*)."
   },
   {
     "year": "1963",
@@ -671,11 +671,11 @@ export const beginningOfInfinity: BookSummary = {
   },
   {
     "year": "1996",
-    "text": "<span class=\"person\">John Horgan</span> publica *The End of Science*."
+    "text": "<span class=\"person\">John Horgan</span> publica *El fin de la ciencia* (*The End of Science*)."
   },
   {
     "year": "2011",
-    "text": "Publicación de *The Beginning of Infinity*."
+    "text": "Publicación de *El inicio del infinito* (*The Beginning of Infinity*)."
   }
 ],
   figures: [

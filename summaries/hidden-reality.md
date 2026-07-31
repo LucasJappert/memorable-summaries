@@ -20,14 +20,14 @@ lang: es
 | cap3 | 03 | Eternidad e infinito |
 | cap4 | 04 | Unificar las leyes de la naturaleza |
 | cap5 | 05 | Universos flotantes en dimensiones cercanas |
-| cap6 | 06 | Nueva luz sobre una vieja constante |
+| cap6 | 06 | Nuevo pensamiento sobre una vieja constante |
 | cap7 | 07 | Ciencia y el multiverso |
-| cap8 | 08 | Los muchos mundos cuánticos |
+| cap8 | 08 | Los muchos mundos de la medición cuántica |
 | cap9 | 09 | Agujeros negros y hologramas |
-| cap10 | 10 | Universos, computadoras y matemática |
+| cap10 | 10 | Universos, computadoras y realidad matemática |
 | cap11 | 11 | Los límites de la indagación |
 | conceptos | ✦ | Conceptos clave |
-| cronologia | ◈ | Cronología |
+| cronologia | ◈ | Cronología de hitos |
 | figuras | ✦ | Figuras clave |
 | cierre | ★ | La idea central |
 
@@ -50,7 +50,7 @@ Al final, explorar lo extremo nos recuerda que la experiencia cotidiana no es ju
 # prefacio
 
 ## num: Prefacio
-## title: Más allá de la apariencia cotidiana
+## title: Prefacio
 
 <!-- paragraph lead -->
 ¿Puede la experiencia cotidiana ocultar la naturaleza profunda de la realidad? Para finales del siglo XX, la física ya había mostrado que sí. <span class="person">Brian Greene</span>, físico de cuerdas y divulgador, abre *The Hidden Reality* con esa lección. Anuncia un recorrido accesible hacia una posibilidad que antes parecía ciencia ficción: que nuestro universo no sea el único.
@@ -110,7 +110,7 @@ La primera ruta concreta pregunta qué pasa si el espacio no tiene fin: entonces
 ¿Puede un espacio infinito obligarnos a existir otra vez, muy lejos? Si el cosmos no tiene fin, más allá de nuestro <span class="term">horizonte cósmico</span> (el límite de la luz que alcanzamos) deben existir parches iguales al nuestro.
 
 <!-- paragraph -->
-Entonces habría copias tuyas leyendo este resumen, y variantes casi iguales o radicalmente distintas.
+Por eso, en un cosmos infinito deben existir copias tuyas leyendo este resumen, junto con variantes casi iguales o radicalmente distintas.
 
 <!-- paragraph -->
 Greene repasa cosmología básica. Lemaître mostró con la relatividad general de Einstein que el universo puede expandirse. Friedmann lo formalizó matemáticamente. Hubble lo confirmó observacionalmente en <span class="num">1929</span>. El <span class="term">principio cosmológico</span> (la suposición de que el cosmos es homogéneo a gran escala) simplifica el análisis.
@@ -219,7 +219,7 @@ Los campos flux multiplican las formas posibles del vacío. Eso abre unas ~<span
 <!-- concept-grid -->
 | icon | title | description |
 |------|-------|-------------|
-| 🍞 | Braneworld | Universo = rebanada en dimensiones extra; luz confinada, gravedad libre. |
+| 🍞 | Mundo-rebanada | Universo = rebanada en dimensiones extra; luz confinada, gravedad libre. |
 | 🔄 | Multiverso cíclico | Branas colisionan, rebotan y reinician eras; paralelos en el tiempo. |
 | 🧲 | Flux | Campos que visten Calabi-Yau y multiplican vacíos posibles. |
 
@@ -234,7 +234,7 @@ Si hay millones de formas posibles del vacío, la pregunta urgente pasa a ser po
 # cap6
 
 ## num: 06
-## title: Nueva luz sobre una vieja constante
+## title: Nuevo pensamiento sobre una vieja constante
 
 <!-- paragraph lead -->
 ¿Por qué la expansión del universo acelera con una fuerza tan débil? En <span class="num">1998</span>, supernovas tipo Ia lejanas mostraron aceleración desde hace ~<span class="num">7 mil millones</span> de años. La <span class="term">energía oscura</span> (energía del vacío repulsiva) domina el universo. La constante cosmológica Λ mide ~<span class="num">10^-123</span> en unidades de Planck.
@@ -291,7 +291,7 @@ Una ruta histórica distinta al multiverso viene de la cuántica misma: si Schr�
 # cap8
 
 ## num: 08
-## title: Los muchos mundos cuánticos
+## title: Los muchos mundos de la medición cuántica
 
 <!-- paragraph lead -->
 ¿Por qué la cuántica predice probabilidades pero nos muestra un solo resultado? El experimento de doble rendija muestra interferencia: cada electrón «siente» ambas rendijas. <span class="person">Max Born</span> interpretó la onda como probabilidad, y la medición parece colapsar la onda a un resultado.
@@ -345,13 +345,13 @@ Si la información basta para describir un cosmos, la pregunta final es si civil
 # cap10
 
 ## num: 10
-## title: Universos, computadoras y matemática
+## title: Universos, computadoras y realidad matemática
 
 <!-- paragraph lead -->
 ¿Podrían civilizaciones avanzadas crear universos enteros? La inflación sugiere una semilla de ~<span class="num">10 gramos</span> de inflatón en ~<span class="num">10^-26 cm</span>. Guth y Farhi encontraron que haría falta un <span class="term">agujero blanco</span> (el reverso temporal de un agujero negro) para arrancar la expansión. Ese obstáculo parece prácticamente insuperable.
 
 <!-- paragraph -->
-Crear burbujas inflacionarias aisladas dejaría solo un agujero negro aparente en el laboratorio. Eso haría imposible verificar el hijo cósmico. Es más plausible considerar <span class="term">universos simulados</span> (realidades generadas por cómputo con suficiente potencia). El functionalismo sostiene que la mente es procesamiento de información y que no importa si el sustrato es carbono o silicio.
+Crear burbujas inflacionarias aisladas dejaría solo un agujero negro aparente en el laboratorio, así que sería imposible verificar el hijo cósmico. Por eso, es más plausible considerar <span class="term">universos simulados</span> (realidades generadas por cómputo con suficiente potencia). El <span class="term">functionalismo</span> (la idea de que la mente es procesamiento de información) sostiene que no importa si ese procesamiento ocurre en carbono o en silicio.
 
 <!-- paragraph -->
 El filósofo <span class="person">Nick Bostrom</span> argumenta que, si las simulaciones conscientes son baratas, la mayoría de seres sintientes serían simulados. Eso sugiere estadísticamente que podríamos estar en uno. Detectarlo sería casi imposible salvo fallos de malla.
@@ -411,7 +411,7 @@ Ningún multiverso está probado, pero seguir las matemáticas de la física mod
 |-------|-------------|
 | Multiverso acolchado | Repeticiones por espacio infinito y configuraciones finitas por horizonte. |
 | Multiverso inflacionario | Burbujas eternas separadas más rápido que la luz; interiores posiblemente infinitos. |
-| Braneworld | Universo en una brana; gravedad se filtra por dimensiones extra. |
+| Mundo-rebanada | Universo en una brana; gravedad se filtra por dimensiones extra. |
 | Multiverso paisaje | ~10^500 vacíos de cuerdas + inflación + túnel cuántico. |
 | Many Worlds | Schrödinger lineal sin colapso → ramas cuánticas paralelas. |
 | Principio holográfico | Información de volumen codificada en superficie boundary. |

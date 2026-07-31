@@ -15,7 +15,7 @@ lang: es
 | id | num | label |
 |----|-----|-------|
 | cierre | ★ | La idea central |
-| prefacio | 00 | Prefacio |
+| prefacio | 00 | ¿Estamos solos? |
 | cap1 | 01 | Estrellas, galaxias y origen de los elementos químicos |
 | cap2 | 02 | Formación de planetas |
 | cap3 | 03 | La Tierra |
@@ -27,7 +27,7 @@ lang: es
 | cap9 | 09 | Futuro de la humanidad |
 | cap10 | 10 | Vida inteligente extraterrestre |
 | conceptos | ✦ | Conceptos clave |
-| cronologia | ◈ | Cronología |
+| cronologia | ◈ | Cronología de hitos astrobiológicos |
 | figuras | ✦ | Figuras clave |
 
 ---
@@ -39,8 +39,8 @@ lang: es
 <!-- closing -->
 La vida inteligente no es un accidente cósmico aislado.
 Requiere estrellas que forjen carbono, planetas estables en la zona habitable y millones de años de evolución en tierra firme.
-<!-- highlight -->Si las leyes de la naturaleza son universales, la inteligencia debería ser frecuente; si no la vemos, el cuello de botella es la supervivencia de las civilizaciones tecnológicas, no el origen de la vida.<!-- /highlight -->
-La paradoja de Fermi no prueba nuestra singularidad.
+<!-- highlight -->Si las leyes de la naturaleza son universales, la inteligencia debería ser frecuente; pero si no la vemos, el cuello de botella es la supervivencia de las civilizaciones tecnológicas, no el origen de la vida.<!-- /highlight -->
+Por eso la paradoja de Fermi no prueba nuestra singularidad.
 Prueba que el conocimiento sin responsabilidad es letal.
 Buscar por radio, espectroscopía o geología planetaria sigue siendo la única forma de saberlo.
 
@@ -81,7 +81,7 @@ Para saber si esos requisitos pueden repetirse en otros mundos, hay que entender
 ¿De dónde salen los átomos que forman planetas y seres vivos? La vida, aquí y probablemente en otros mundos, surge en estrecha asociación con planetas, estrellas y galaxias. Comprender esa historia química es el primer paso de la astrobiología.
 
 <!-- paragraph -->
-Hace unos <span class="num">14 mil millones de años</span> el universo apareció en el <span class="term">Big Bang</span> (origen caliente y denso del espacio, el tiempo y la materia). La ley de Hubble confirma ese origen expansivo. El astrónomo <span class="person">Edwin Hubble</span> la formuló en <span class="num">1924</span>. La radiación cósmica de fondo de <span class="num">3 K</span> apunta en la misma dirección.
+Hace unos <span class="num">14 mil millones de años</span> el universo apareció en el <span class="term">Big Bang</span> (origen caliente y denso del espacio, el tiempo y la materia). La ley de Hubble confirma ese origen expansivo. El astrónomo <span class="person">Edwin Hubble</span> la formuló en <span class="num">1924</span>. Además, la radiación cósmica de fondo de <span class="num">3 K</span> apunta en la misma dirección.
 
 <!-- paragraph -->
 Al terminar una «edad oscura» de unos mil millones de años aparecieron las primeras estrellas, la <span class="term">población III</span> (formadas solo de hidrógeno y helio). Eran muy masivas y de vida corta. Fusionaron elementos hasta el hierro y los expulsaron en supernovas. Generaciones sucesivas enriquecieron el medio interestelar hasta formar estrellas ricas en metales como el Sol.
@@ -114,7 +114,7 @@ Si los átomos pesados existen, el siguiente paso es ver cómo se agrupan en dis
 ¿Cómo nacen los planetas a partir de polvo interestelar? No se forman solos. Son subproducto del colapso gravitacional de gas y polvo, que produce discos de acreción alimentando la protostrella y dando origen a planetesimales.
 
 <!-- paragraph -->
-En el <span class="term">disco solar</span> (el anillo de gas y polvo que rodea una estrella joven), la fricción desacelera la rotación. La materia migra hacia la estrella. La temperatura decrece con la distancia. Cerca del Sol, a menos de <span class="num">3 AU</span>, se acumulan silicatos y hierro. Más allá de la <span class="term">línea de hielo</span> (donde el agua se congela, ~150 K) dominan los granos helados.
+En el <span class="term">disco solar</span> (el anillo de gas y polvo que rodea una estrella joven), la fricción desacelera la rotación. La materia migra hacia la estrella y, por eso, la temperatura decrece con la distancia. Cerca del Sol, a menos de <span class="num">3 AU</span>, se acumulan silicatos y hierro. Más allá de la <span class="term">línea de hielo</span> (donde el agua se congela, ~150 K) dominan los granos helados.
 
 <!-- paragraph -->
 El polvo sedimenta en el plano ecuatorial. Las fuerzas eléctricas aglutinan granos hasta planetesimales de unos <span class="num">10 km</span> en unos <span class="num">100 000 años</span>. Simulaciones de <span class="person">George Wetherill</span> muestran que de unos quinientos planetesimales entre 0,4 y 2 AU quedan pocos protoplanetas en decenas de millones de años.
@@ -147,7 +147,7 @@ Una vez formado un planeta rocoso, importa saber qué lo hace estable y distinto
 ¿Qué hace de la Tierra un escenario plausible para la inteligencia tecnológica? La vida está ligada a planetas terrestres. Ulmschneider destaca tres propiedades esenciales. La <span class="term">tectónica de placas</span> (convección del manto que crea continentes) divide tierra y mar. Una Luna estabiliza el eje de rotación. Las condiciones primitivas permitieron el origen de la vida.
 
 <!-- paragraph -->
-La acumulación por planetesimales terminó unos <span class="num">30–40 Ma</span> después del inicio del sistema solar (<span class="num">4.567 Ga</span>). El bombardeo intenso duró unos <span class="num">600 Ma</span> más. Impactos del tamaño de Ceres o Marte vaporizaban océanos enteros.
+La acumulación por planetesimales terminó unos <span class="num">30–40 Ma</span> después del inicio del sistema solar (<span class="num">4.567 Ga</span>). Pero el bombardeo intenso duró unos <span class="num">600 Ma</span> más. Impactos del tamaño de Ceres o Marte vaporizaban océanos enteros.
 
 <!-- paragraph -->
 La Luna se formó por impacto de un planetesimal del tamaño de Marte hace <span class="num">4.527 Ga</span>. Las mareas frenaron la rotación de unas cinco horas a veinticuatro horas y alejaron la Luna hasta unos sesenta y tres radios terrestres. La sismología revela núcleo de hierro-níquel, manto silicatado y corteza.
@@ -181,7 +181,7 @@ Si la Tierra cumple requisitos tan exigentes, conviene preguntar cuántos mundos
 ¿Cuántos planetas orbitan otras estrellas? Antes de <span class="num">1995</span> los exoplanetas eran solo teóricos. En octubre de <span class="num">2005</span> ya se habían detectado más de <span class="num">165</span>. Orbitaban estrellas de secuencia principal. Casi todos eran tipo Júpiter e inhóspitos para la vida.
 
 <!-- paragraph -->
-Un tercio de los exoplanetas detectados supera dos masas jovianas. El más pequeño (Gliese 876 d) tiene 7,3 masas terrestres. Curiosamente, la mitad orbita dentro de <span class="num">0,5 AU</span>, mucho más cerca que Mercurio. Esto contradice la teoría clásica de formación joviana más allá de 3 AU.
+Un tercio de los exoplanetas detectados supera dos masas jovianas. El más pequeño (Gliese 876 d) tiene 7,3 masas terrestres. Curiosamente, la mitad orbita dentro de <span class="num">0,5 AU</span>, mucho más cerca que Mercurio. Por eso contradice la teoría clásica de formación joviana más allá de 3 AU.
 
 <!-- paragraph -->
 Ulmschneider interpreta los «Júpiteres calientes» como evidencia de migración y sesgo observacional, no como la distribución real de planetas en la galaxia. Los métodos incluyen <span class="term">velocidad radial</span> (variaciones Doppler en la luz estelar) y tránsitos (atenuación periódica del brillo al pasar el planeta). Misiones como Gaia, Kepler, Darwin y TPF apuntan a planetas terrestres y atmósferas con agua u ozono.
@@ -217,7 +217,7 @@ Solo estrellas G de población I, sin bloqueo mareal, cumplen los requisitos. El
 <!-- concept-grid -->
 | icon | title | description |
 |------|-------|-------------|
-| 🌡️ | Efecto invernadero | CO₂ atrapa calor; descontrol → runaway (Venus) o glaciation (Marte). |
+| 🌡️ | Efecto invernadero | CO₂ atrapa calor; descontrol → runaway (Venus) o glaciación irreversible (Marte). |
 | 🔄 | Ciclo carbonato-silicato | Termostato geológico: CO₂ liberado por volcanismo, secuestrado por meteorización. |
 | 🌊 | Masa planetaria | Gravedad debe retener atmósfera y océanos; lunas pequeñas los pierden. |
 | 📡 | Fórmula de Drake (parte astronómica) | N_HP = N_S × f_P × n_E estima planetas habitables en la galaxia. |
@@ -236,7 +236,7 @@ Tener el escenario correcto no basta: hay que explicar cómo la química abióti
 ## title: Vida y su origen en la Tierra
 
 <!-- paragraph lead -->
-¿Qué es la vida y cómo pudo surgir de la química? Al secuenciar organismos primitivos, incluidas micoplasmas con unos trescientos genes, la definición precisa está al alcance. Fenomenológicamente implica metabolismo y crecimiento. También uso de energía, individualidad, reproducción y mutación en ambiente abiótico. Los virus no califican.
+¿Qué es la vida y cómo pudo surgir de la química? Al secuenciar genomas de organismos primitivos, incluidas micoplasmas con unos trescientos genes, la definición precisa está al alcance. Fenomenológicamente implica metabolismo y crecimiento. También uso de energía, individualidad, reproducción y mutación en ambiente abiótico. Los virus no califican.
 
 <!-- paragraph -->
 La bioquímica terrestre se basa en cuatro clases de compuestos: proteínas, carbohidratos, lípidos y ácidos nucleicos. El código genético traduce tripletes en aminoácidos. El ATP es la moneda energética. El experimento <span class="person">Urey-Miller</span> (<span class="num">1953</span>) sintetizó aminoácidos abióticos en atmósfera reductora simulada.
@@ -251,7 +251,7 @@ La búsqueda del ancestro común de toda la vida sugiere un mínimo de unos <spa
 | icon | title | description |
 |------|-------|-------------|
 | 🧬 | ADN | Archivo maestro de doble hélice; A-T y G-C emparejados. |
-| 📋 | ARN | Blueprint para síntesis proteica; ribozimas pueden catalizar reacciones. |
+| 📋 | ARN | Plantilla para síntesis proteica; ribozimas pueden catalizar reacciones. |
 | 🔬 | Células | Unidad básica; eucariotas con núcleo y orgánulos (endosimbiosis). |
 | 🧪 | Experimento Urey-Miller | Aminoácidos abióticos en atmósfera reductora simulada (1953). |
 
@@ -275,7 +275,7 @@ Si la vida puede empezar, la pregunta siguiente es cuánto tarda en producir cer
 <span class="person">Charles Darwin</span> argumentó que mutaciones aleatorias del ADN producen variantes y la selección favorece las más eficientes. Ulmschneider sostiene que la <span class="term">convergencia evolutiva</span> (aparición independiente de rasgos similares bajo presiones parecidas) demuestra que la selección también gobierna la evolución a largo plazo. La inteligencia comparable en cuervos y monos es un ejemplo.
 
 <!-- paragraph -->
-Entre los hitos figuran la endosimbiosis hacia eucariotas y el oxígeno como catástrofe ambiental (~<span class="num">2,4 Ga</span>). También la multicelularidad y los genes reguladores del desarrollo (~630–542 Ma). Más tarde, plantas y animales conquistaron la tierra (~<span class="num">470 Ma</span>). El evento K/T (<span class="num">65 Ma</span>) extinguió dinosaurios no aviares y abrió camino a mamíferos.
+Entre los hitos figura la endosimbiosis hacia eucariotas, seguida del oxígeno como catástrofe ambiental (~<span class="num">2,4 Ga</span>). Más tarde llegaron la multicelularidad y los genes reguladores del desarrollo (~630–542 Ma). Por último, plantas y animales conquistaron la tierra (~<span class="num">470 Ma</span>). El evento K/T (<span class="num">65 Ma</span>) extinguió dinosaurios no aviares y abrió camino a mamíferos.
 
 <!-- paragraph -->
 La inteligencia humana requiere visión estereoscópica, bipedestación con manos libres, vida social, lenguaje y cultura de herramientas. El volumen cerebral se triplicó desde Australopithecus.
@@ -313,7 +313,7 @@ En el Sistema Solar, el satélite <span class="term">Europa</span> (luna helada 
 Las misiones Viking (<span class="num">1976</span>) no detectaron vida en Marte. Los meteoritos marcianos (ALH84001) suscitaron debate sobre fósiles microscópicos. Fuera del Sistema Solar conviene detectar agua y ozono como <span class="term">biosignaturas</span> (compuestos atmosféricos fuera del equilibrio termodinámico que sugieren vida).
 
 <!-- paragraph -->
-<span class="person">James Lovelock</span> (<span class="num">1965</span>) señaló que la vida produce compuestos inesperados. El metano terrestre es diez elevado a catorce veces más abundante de lo esperado. Miles de avistamientos de objetos voladores no identificados se reportaron desde <span class="num">1947</span>. El informe Condon (<span class="num">1969</span>) concluyó que veintiún años de estudio no añadieron conocimiento científico.
+<span class="person">James Lovelock</span> (<span class="num">1965</span>) señaló que la vida produce compuestos inesperados. El metano terrestre es un billón de veces más abundante de lo esperado en equilibrio químico. Miles de avistamientos de objetos voladores no identificados se reportaron desde <span class="num">1947</span>. El informe Condon (<span class="num">1969</span>) concluyó que veintiún años de estudio no añadieron conocimiento científico.
 
 <!-- list -->
 - **Viking** — Tres experimentos bioquímicos en Marte; resultados ambiguos, interpretados como abióticos.
@@ -343,7 +343,7 @@ La colonización del Sistema Solar incluye estaciones espaciales, bases lunares 
 El dominio biológico avanza con la secuenciación del genoma humano (<span class="num">2001–2003</span>, unos treinta mil genes) y la creación de vida mínima en laboratorio. Los peligros externos (supernovas, rayos gamma, impactos) son poco probables como extinción total.
 
 <!-- paragraph -->
-Los peligros internos son los formidables: daño ambiental, invenciones incontrolables, guerra y terrorismo. Ulmschneider propone distribuir la humanidad en colonias espaciales, controlar armas de destrucción masiva y educar la responsabilidad social. El factor <span class="term">L de Drake</span> (duración media de una civilización tecnológica comunicante) es el más incierto de la ecuación de Drake.
+Los peligros internos, sin embargo, son los formidables. Entre ellos figuran el daño ambiental, las invenciones incontrolables, la guerra y el terrorismo. Ulmschneider propone distribuir la humanidad en colonias espaciales, controlar armas de destrucción masiva y educar la responsabilidad social. El factor <span class="term">L de Drake</span> (duración media de una civilización tecnológica comunicante) es el más incierto de la ecuación de Drake.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -427,7 +427,7 @@ La vida inteligente probablemente es común, pero la comunicación detectable es
 | 4,567 Ga | Formación del Sistema Solar y la Tierra. |
 | 4,527 Ga | Impacto gigante que forma la Luna. |
 | ~3,8 Ga | Primeras evidencias geoquímicas de vida. |
-| ~2,4 Ga | Evento de Great Oxidation; atmósfera rica en oxígeno. |
+| ~2,4 Ga | Gran oxidación; atmósfera rica en O₂. |
 | 1953 | Experimento Urey-Miller: síntesis abiótica de aminoácidos. |
 | 1959 | Cocconi y Morrison proponen búsqueda radio SETI. |
 | 1960 | Proyecto Ozma de Frank Drake; fórmula de Drake (1961). |

@@ -14,7 +14,7 @@ lang: es
 
 | id | num | label |
 |----|-----|-------|
-| prefacio | 00 | Introducción |
+| prefacio | 00 | El material que te hace ser tú |
 | cap1 | 01 | ¿Quién soy yo? |
 | cap2 | 02 | ¿Qué es la realidad? |
 | cap3 | 03 | ¿Quién manda? |
@@ -22,7 +22,7 @@ lang: es
 | cap5 | 05 | ¿Te necesito? |
 | cap6 | 06 | ¿Quiénes seremos? |
 | conceptos | ✦ | Conceptos clave |
-| cronologia | ◈ | Cronología |
+| cronologia | ◈ | Cronología de hitos citados |
 | figuras | ✦ | Figuras clave |
 | cierre | — | La idea central |
 
@@ -59,7 +59,7 @@ Para empezar, Eagleman pregunta quién eres si el cerebro se reescribe con cada 
 ¿Quién eres si cada conversación y cada cultura que te rodea deja huella microscópica en el cerebro? Neuronalmente, quién eres depende de dónde has estado. El cerebro es un <span class="term">livewire</span> (cableado vivo que reescribe su propia circuitería). La identidad es un blanco en movimiento que nunca alcanza un punto final.
 
 <!-- paragraph -->
-Un cerebro adulto pesa unas <span class="num">1,4 kg</span>, con consistencia de gelatina firme. Pensamientos, sueños y recuerdos surgen de pulsos electroquímicos. Cuando esa actividad cesa, tú cesas. A diferencia de otros órganos, dañar un fragmento pequeño puede cambiar radicalmente quién eres.
+Un cerebro adulto pesa unas <span class="num">1,4 kg</span>, con consistencia de gelatina firme. Pensamientos, sueños y recuerdos surgen de pulsos electroquímicos. Por eso, cuando esa actividad cesa, tú cesas. A diferencia de otros órganos, dañar un fragmento pequeño puede cambiar radicalmente quién eres.
 
 <!-- paragraph -->
 Los humanos nacen incompletos y dependen años de cuidadores mientras el cerebro se moldea por experiencia. A los dos años hay más de <span class="num">100 billones</span> de sinapsis, el doble que en la adultez. Luego la <span class="term">poda sináptica</span> (eliminación de conexiones no usadas) esculpe la identidad. Te conviertes en quien eres no por lo que crece, sino por lo que se elimina.
@@ -243,7 +243,7 @@ Entender el cerebro social abre la pregunta final: qué pasa cuando la biología
 En <span class="num">2007</span>, Cameron Mott se sometió a una <span class="term">hemisferectomía</span> (extirpación de un hemisferio cerebral) y recuperó lenguaje y escuela con medio cerebro. El tejido restante reasignó funciones. Implantes cocleares y retinianos demuestran que el cerebro aprende a interpretar señales artificiales como un idioma nuevo.
 
 <!-- paragraph -->
-La <span class="term">sustitución sensorial</span> (traducir datos por cualquier canal periférico) prueba que no importa el canal: importa el patrón de datos. Bach-y-Rita mostró «ver» con cámara traducida a presión en la espalda. El chaleco VEST lleva el mismo principio al oído y al tacto.
+La <span class="term">sustitución sensorial</span> (traducir datos por cualquier canal periférico) prueba que no importa el canal: importa el patrón de datos. Por eso, Bach-y-Rita mostró «ver» con cámara traducida a presión en la espalda. El chaleco VEST lleva el mismo principio al oído y al tacto.
 
 <!-- paragraph -->
 <span class="person">Jan Scheuermann</span> controla un brazo robótico con electrodos en la corteza motora: «es como andar en bicicleta». Interfaces cerebro-máquina podrían extender el cuerpo a distancia, con fuerza hidráulica o tareas en la Luna mientras comes un sándwich en la Tierra.
@@ -293,7 +293,7 @@ El <span class="key-term">futuro</span> no es solo más tecnología: es redefini
 | 1987 | Ken Parks: homicidio en sonambulismo; absuelto por trastorno del sueño. |
 | 1994 | Inicia el Religious Orders Study sobre envejecimiento cerebral. |
 | 2007 | Hemisferectomía de Cameron Mott; recuperación sorprendente. |
-| 2015 | Eagleman publica «The Brain: The Story of You». |
+| 2015 | Eagleman publica «El cerebro: La historia de ti». |
 
 ---
 
@@ -323,7 +323,7 @@ El <span class="key-term">futuro</span> no es solo más tecnología: es redefini
 
 <!-- closing -->
 Eres el producto de un órgano que nunca deja de reescribirse.
-Cada experiencia deja huella en el cableado que define quién eres.
+Por eso, cada experiencia deja huella en el cableado que define quién eres.
 <!-- highlight -->No percibes el mundo: tu cerebro lo construye, lo retrasa y lo edita para ti.<!-- /highlight -->
 Lo que llamas «tú» suele llegar cuando el trabajo neural ya está avanzado.
 Entender esto no nos quita agencia: nos obliga a diseñar mejor educación, justicia y futuro tecnológico.

@@ -6,6 +6,7 @@ import AppNavDrawer from './components/AppNavDrawer.vue'
 import GlobalAudioDock from './components/GlobalAudioDock.vue'
 import Starfield from './components/Starfield.vue'
 import GlobalSearchSheet from './components/GlobalSearchSheet.vue'
+import LibraryCatalogSearch from './components/LibraryCatalogSearch.vue'
 import { appNavMenuOpen, closeAppNavMenu } from './composables/useAppNavMenu'
 import {
   closeGlobalSearch,
@@ -44,5 +45,6 @@ onUnmounted(() => window.removeEventListener('keydown', onGlobalKeydown))
   <AppBottomBar />
   <AppNavDrawer :open="appNavMenuOpen" />
   <GlobalSearchSheet v-model:open="globalSearchOpen" />
+  <LibraryCatalogSearch />
   <GlobalAudioDock />
 </template>

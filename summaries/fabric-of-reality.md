@@ -31,7 +31,7 @@ lang: es
 | cap12 | 12 | Los cuatro hilos |
 | cap13 | 13 | Los fines del universo |
 | conceptos | ✦ | Conceptos clave |
-| cronologia | ◈ | Cronología |
+| cronologia | ◈ | Cronología de ideas y referentes |
 | figuras | ✦ | Figuras clave |
 
 ---
@@ -157,7 +157,7 @@ La pregunta siguiente es hasta dónde llega esa simulación y dónde se detiene 
 ¿Hasta dónde llega la realidad virtual? Deutsch da una respuesta doble, con un techo altísimo y un límite tajante. Por un lado formula el <span class="term">principio de Turing</span> (la tesis de que es físicamente posible simular cualquier entorno posible). Ese generador universal podría reproducir cualquier entorno físicamente posible.
 
 <!-- paragraph -->
-La razón es la máquina universal de Turing, un único objeto capaz de imitar a cualquier otro. Esa universalidad es lo que hace comprensible la realidad. Una parte del mundo puede modelar a todas las demás. Por otro lado, un <span class="term">argumento diagonal</span> (razonamiento al estilo de Cantor y Turing) muestra un límite. La inmensa mayoría de entornos lógicamente posibles nunca podrán renderizarse. Deutsch los llama entornos Cantgotu. La universalidad es enorme, aunque no abarca todo lo imaginable.
+Por eso, la razón es la máquina universal de Turing, un único objeto capaz de imitar a cualquier otro. Esa universalidad es lo que hace comprensible la realidad: una parte del mundo puede modelar a todas las demás. Por otro lado, un <span class="term">argumento diagonal</span> (razonamiento al estilo de Cantor y Turing) muestra un límite. La inmensa mayoría de entornos lógicamente posibles nunca podrán renderizarse. Deutsch los llama entornos Cantgotu. La universalidad es enorme, aunque no abarca todo lo imaginable.
 
 <!-- key -->
 La computación puede ser universal dentro de lo físicamente posible, aunque casi todo lo lógicamente posible quede para siempre fuera de su alcance.
@@ -369,7 +369,7 @@ Si el principio de Turing es cierto, el conocimiento y la inteligencia deben per
 | 1936 | Turing, Church y Post formalizan la computación universal. |
 | 1957 | Everett presenta la interpretación de muchos mundos. |
 | 1985 | Deutsch publica un artículo fundacional de computación cuántica universal. |
-| 1997 | Se publica *The Fabric of Reality*. |
+| 1997 | Deutsch publica *El tejido de la realidad*. |
 
 ---
 

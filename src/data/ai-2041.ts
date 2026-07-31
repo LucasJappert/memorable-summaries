@@ -119,7 +119,7 @@ export const ai2041: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Lee explica la <span class=\"term\">visión por computadora</span>, es decir software que interpreta imágenes mediante filtros jerárquicos. Esos filtros detectan rasgos desde líneas hasta objetos completos. Los GAN entrenan un falsificador contra un detective hasta equilibrio. Hoy muchos deepfakes son detectables. En 2041, la carrera dependerá del cómputo disponible, como ventanas antibalas frente a granadas.",
+          html: "Lee explica la <span class=\"term\">visión por computadora</span>, es decir software que interpreta imágenes mediante filtros jerárquicos. Esos filtros detectan rasgos desde líneas hasta objetos completos. Los GAN entrenan un falsificador contra un detective hasta equilibrio. Sin embargo, hoy muchos deepfakes son detectables. En 2041, la carrera dependerá del cómputo disponible, como ventanas antibalas frente a granadas.",
         },
         {
           type: 'concept-grid',
@@ -223,7 +223,7 @@ export const ai2041: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "AlphaFold 2 (<span class=\"num\">2020</span>) resolvió el plegamiento proteico, un desafío de cincuenta años, y aceleró fármacos y vacunas. La IA superará radiólogos y patólogos antes que médicos generales. Las cirugías robóticas pasaron del 1,8 % al 15,1 % entre 2012 y 2018. IBM Watson fracasó al entrenarse con datos «didácticos» pequeños en lugar de resultados clínicos reales.",
+          html: "AlphaFold 2 (<span class=\"num\">2020</span>) resolvió el plegamiento proteico, un desafío de cincuenta años, y aceleró fármacos y vacunas. La IA superará radiólogos y patólogos antes que médicos generales. Entre 2012 y 2018, las cirugías robóticas pasaron del 1,8 % al 15,1 %. Pero IBM Watson fracasó al entrenarse con datos «didácticos» pequeños en lugar de resultados clínicos reales.",
         },
         {
           type: 'big-numbers',
@@ -336,7 +336,7 @@ export const ai2041: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Chamal descubre que humanos y IA cometen errores distintos. La IA carece de sentido común contextual. El humano carece de consistencia y de memoria colectiva de billones de kilómetros. Lee aboga por debate público sobre trade-offs antes de prohibir conducción humana en autopistas.",
+          html: "Chamal descubre que humanos y IA cometen errores distintos. La IA carece de sentido común contextual. El humano carece de consistencia y de memoria colectiva de billones de kilómetros. Por eso, Lee aboga por debate público sobre trade-offs antes de prohibir conducción humana en autopistas.",
         },
         {
           type: 'key',
@@ -423,7 +423,7 @@ export const ai2041: BookSummary = {
           items: [
             {
               "title": "3R",
-              "description": "Relearn, recalibrate, renaissance: reaprender, simbiosis, florecer cultural.",
+              "description": "Reaprender, recalibrar, renacer: simbiosis humano-IA y florecer cultural.",
               "icon": "🔄"
             },
             {
@@ -480,12 +480,12 @@ export const ai2041: BookSummary = {
             },
             {
               "title": "GDPR",
-              "description": "Devuelve datos al individuo pero dificulta entrenar IA centralizada.",
+              "description": "Devuelve datos al individuo, pero dificulta entrenar IA centralizada.",
               "icon": "🔒"
             },
             {
               "title": "Privacidad computacional",
-              "description": "Aprendizaje federado, TEE, cifrado homomórfico en desarrollo.",
+              "description": "Aprendizaje federado, entornos de ejecución confiables (TEE) y cifrado homomórfico en desarrollo.",
               "icon": "🛡️"
             }
           ],
@@ -581,15 +581,15 @@ export const ai2041: BookSummary = {
   },
   {
     "title": "3R",
-    "description": "Relearn, recalibrate, renaissance: estrategia ante desplazamiento laboral."
+    "description": "Reaprender, recalibrar, renacer: estrategia ante desplazamiento laboral."
   },
   {
-    "title": "Plenitude",
+    "title": "Plenitud",
     "description": "Post-escasez tecnológica con necesidades cubiertas y trabajo opcional."
   },
   {
     "title": "Privacidad computacional",
-    "description": "Federated learning, TEE y cifrado para entrenar IA sin centralizar datos sensibles."
+    "description": "Aprendizaje federado, entornos de ejecución confiables (TEE) y cifrado para entrenar IA sin centralizar datos sensibles."
   }
 ],
   chronology: [

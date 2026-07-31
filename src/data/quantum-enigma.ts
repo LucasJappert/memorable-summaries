@@ -240,7 +240,11 @@ export const quantumEnigma: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "¿Cómo la luz preparó el terreno para la cuántica? Antes de ella, el siglo XIX consolidó una imagen del mundo en términos de <span class=\"term\">campos</span> (influencias que llenan el espacio, como un imán). También usó <span class=\"term\">ondas</span> (perturbaciones que se propagan) y <span class=\"term\">energía</span> (capacidad de producir cambio o movimiento). La historia de la luz es central. Thomas Young demostró interferencia y naturaleza ondulatoria. James Clerk Maxwell unificó electricidad y magnetismo en ondas electromagnéticas.",
+          html: "¿Cómo la luz preparó el terreno para la cuántica? Antes de ella, el siglo XIX describió el mundo con <span class=\"term\">campos</span> (influencias que llenan el espacio, como un imán).",
+        },
+        {
+          type: 'paragraph',
+          html: "También usó <span class=\"term\">ondas</span> (perturbaciones que se propagan) y la <span class=\"term\">energía</span> (capacidad de producir cambio o movimiento) como magnitudes centrales. La historia de la luz es el caso más decisivo. <span class=\"person\">Thomas Young</span> demostró interferencia y naturaleza ondulatoria. <span class=\"person\">James Clerk Maxwell</span> unificó electricidad y magnetismo en ondas electromagnéticas.",
         },
         {
           type: 'paragraph',
@@ -357,7 +361,7 @@ export const quantumEnigma: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La <span class=\"term\">resonancia magnética</span> (imagen médica por campos magnéticos, la MRI) pone núcleos de hidrógeno en superposición de estados magnéticos y lee la radiación de retorno. La precisión del cálculo del momento magnético del electrón alcanza una parte en un billón. Los ingenieros cultivan una «esquizofrenia benigna»: onda o partícula según el problema, sin enfrentar el enigma.",
+          html: "La <span class=\"term\">resonancia magnética</span> (imagen médica por campos magnéticos, la MRI) pone núcleos de hidrógeno en superposición de estados magnéticos y lee la radiación de retorno. La precisión del cálculo del momento magnético del electrón alcanza una parte en un billón. Por eso también apunta la computación cuántica, que explota superposición para resolver problemas intratables. Los ingenieros cultivan una «esquizofrenia benigna»: onda o partícula según el problema, sin enfrentar el enigma.",
         },
         {
           type: 'big-numbers',
@@ -486,7 +490,7 @@ export const quantumEnigma: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Bell advirtió contra la trampa FAPP («for all practical purposes»): aceptar soluciones pragmáticas que evaden el fondo del problema. Su teorema es quizá el descubrimiento más profundo de la segunda mitad del siglo XX en ciencia. Confirmó que la negación einsteniana de la cuántica completa no puede salvarse con variables ocultas locales.",
+          html: "Por eso Bell advirtió contra la trampa FAPP («for all practical purposes»): aceptar soluciones pragmáticas que evaden el fondo del problema. Su teorema es quizá el descubrimiento más profundo de la segunda mitad del siglo XX en ciencia. Confirmó que la negación einsteiniana de la cuántica completa no puede salvarse con variables ocultas locales.",
         },
         {
           type: 'key',
@@ -562,7 +566,7 @@ export const quantumEnigma: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Desde el filósofo <span class=\"person\">George Berkeley</span> (esse est percipi) hasta el behaviorismo y el test de Turing, la mente fue ignorada o reducida. Hoy la neuroimagen (fMRI, PET) correlaciona actividad cerebral con reportes de experiencia, pero no explica el qualia. El problema difícil de la conciencia parece paralelo al problema difícil de la observación cuántica.",
+          html: "Desde el filósofo <span class=\"person\">George Berkeley</span> (esse est percipi) hasta el behaviorismo y el test de Turing, la mente fue ignorada o reducida. Hoy la neuroimagen (fMRI, PET) correlaciona actividad cerebral con reportes de experiencia, pero no explica el <span class=\"term\">qualia</span> (la cualidad subjetiva de lo que se siente). Los experimentos de <span class=\"person\">Benjamin Libet</span> sobre el potencial de readiness sugieren que el cerebro inicia la acción antes del reporte consciente de decidir. Aun así, el resultado es ambiguo como prueba contra el libre albedrío. El problema difícil de la conciencia parece paralelo al problema difícil de la observación cuántica.",
         },
         {
           type: 'key',

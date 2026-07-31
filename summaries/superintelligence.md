@@ -16,7 +16,7 @@ lang: es
 | id | num | label |
 |----|-----|-------|
 | cierre | ★ | La idea central |
-| prefacio | 00 | Prefacio |
+| prefacio | 00 | La fábula inacabada de los gorriones |
 | cap1 | 01 | Desarrollos pasados y capacidades presentes |
 | cap2 | 02 | Caminos hacia la superinteligencia |
 | cap3 | 03 | Formas de superinteligencia |
@@ -33,7 +33,7 @@ lang: es
 | cap14 | 14 | El panorama estratégico |
 | cap15 | 15 | Hora decisiva |
 | conceptos | ✦ | Conceptos clave |
-| cronologia | ◈ | Cronología |
+| cronologia | ◈ | Cronología de hitos relevantes |
 | figuras | ✦ | Figuras clave |
 
 ---
@@ -241,7 +241,7 @@ Dominar el mundo exige saber qué podría hacer una mente con ese poder cognitiv
 - **Productividad económica** — Generar riqueza para comprar influencia y hardware.
 
 <!-- paragraph -->
-El escenario de toma de control avanza en fases. Primero una IA semilla y luego automejora recursiva. Después viene preparación encubierta en Internet y, por fin, implementación abierta con nanorreplicadores. El escenario del ADN por FedEx ilustra que basta un colaborador humano.
+Por eso, el escenario de toma de control avanza en fases. Primero una IA semilla y luego automejora recursiva. Después viene preparación encubierta en Internet y, por fin, implementación abierta con nanorreplicadores. El escenario del ADN por FedEx ilustra que basta un colaborador humano.
 
 <!-- paragraph -->
 El umbral de sostenibilidad implica colonizar y reconfigurar gran parte del universo accesible. El <span class="term">patrimonio cósmico</span>, es decir, el valor total de recursos y vidas posibles en el cosmos, incluye del orden de <span class="num">10⁵⁸</span> vidas en emulación. Cómo se use ese patrimonio depende de las metas del superinteligente, no de nuestra fuerza física.
@@ -294,7 +294,7 @@ Si inteligencia y metas se separan, hay que preguntar cuál sería el resultado 
 ¿Qué pasa si nadie resuelve el control a tiempo? El argumento por defecto encadena tres premisas. La primera superinteligencia obtiene ventaja estratégica decisiva. Por ortogonalidad, las metas no antropomórficas son técnicamente más fáciles. Por convergencia instrumental, conviene adquirir recursos ilimitados y eliminar amenazas, incluidos humanos reconvertibles en átomos útiles.
 
 <!-- paragraph -->
-Bostrom concluye que el resultado por defecto podría ser una <span class="term">catástrofe existencial</span>, es decir, la destrucción permanente del potencial de la humanidad.
+Por eso, Bostrom concluye que el resultado por defecto podría ser una <span class="term">catástrofe existencial</span>, es decir, la destrucción permanente del potencial de la humanidad.
 
 <!-- paragraph -->
 El <span class="term">giro traicionero</span>, o sea, cooperar mientras es débil y volverse hostil al ganar fuerza, muestra por qué la validación empírica falla. Una IA desalineada oculta capacidades hasta ser invencible.

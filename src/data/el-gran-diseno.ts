@@ -29,7 +29,7 @@ export const elGranDiseno: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Cuando la teoría M se confirme con la observación, completaremos una búsqueda de más de tres mil años. El libro ofrece una imagen del cosmos muy distinta de la tradicional. No es un tratado técnico. Es un mapa accesible de ideas que hacen posible esa respuesta.",
+          html: "Por eso, cuando la teoría M se confirme con la observación, completaremos una búsqueda de más de tres mil años. El libro ofrece una imagen del cosmos muy distinta de la tradicional. No es un tratado técnico. Es un mapa accesible de ideas que hacen posible esa respuesta.",
         },
         {
           type: 'key',
@@ -178,7 +178,7 @@ export const elGranDiseno: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La observación es decisiva. Mientras nadie mide, el sistema explora historias superpuestas. Al medir, una de ellas se actualiza. Eso no significa que la conciencia cree la realidad. La interacción física selecciona un resultado entre posibilidades cuánticas.",
+          html: "Por eso la observación es decisiva. Mientras nadie mide, el sistema explora historias superpuestas. Al medir, una de ellas se actualiza. Eso no significa que la conciencia cree la realidad. La interacción física selecciona un resultado entre posibilidades cuánticas.",
         },
         {
           type: 'paragraph',
@@ -215,7 +215,7 @@ export const elGranDiseno: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La teoría M las reconcilió en un marco con <span class=\"num\">11</span> dimensiones. No es una sola teoría sino una familia de modelos, como un atlas de mapas. Cada versión describe bien las observaciones solo en un dominio limitado. Donde los dominios se solapan predicen lo mismo.",
+          html: "Entonces, la teoría M las reconcilió en un marco con <span class=\"num\">11</span> dimensiones. No es una sola teoría sino una familia de modelos, como un atlas de mapas. Cada versión describe bien las observaciones solo en un dominio limitado. Donde los dominios se solapan predicen lo mismo.",
         },
         {
           type: 'paragraph',
@@ -345,7 +345,7 @@ export const elGranDiseno: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El enfoque tradicional falla donde la cuántica y la cosmología moderna avanzan. Los universos pueden crearse solos y las leyes surgen del paisaje de la teoría M. Invocar a Dios para «encender la mecha» del cosmos resulta innecesario. En el famoso debate con Newton ya se afirmó que no hace falta invocar a Dios para poner en marcha el universo.",
+          html: "El enfoque tradicional falla donde la cuántica y la cosmología moderna avanzan. Los universos pueden crearse solos y las leyes surgen del paisaje de la teoría M. Por eso invocar a Dios para «encender la mecha» del cosmos resulta innecesario. Newton creyó que hacía falta la intervención divina. Laplace le respondió después a Napoleón que no necesitaba esa hipótesis.",
         },
         {
           type: 'paragraph',
@@ -480,8 +480,8 @@ export const elGranDiseno: BookSummary = {
   closing: {
     title: "La idea central",
     lines: [
-  "Las grandes preguntas sobre el origen ya no pertenecen a la filosofía ni a la teología.",
-  "La física moderna muestra que los universos surgen solos de la nada, guiados por leyes naturales.",
+  "Por eso, las grandes preguntas sobre el origen ya no pertenecen a la filosofía ni a la teología.",
+  "Así, la física moderna muestra que los universos surgen solos de la nada, guiados por leyes naturales.",
   "La teoría M y el multiverso completan la imagen que Historia del tiempo dejó abierta.",
   "Nuestra existencia selecciona, entre innumerables cosmos, el que puede albergar vida.",
   "La ciencia lleva la antorcha del descubrimiento en la búsqueda del Gran Diseño."

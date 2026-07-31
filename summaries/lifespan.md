@@ -71,7 +71,7 @@ Los niños entienden la irreversibilidad entre los <span class="num">5</span> y 
 Sinclair se pregunta si pudiéramos ser jóvenes más tiempo. No solo años, sino décadas, sin que el final se parezca al declive que ya conocemos.
 
 <!-- quote -->
-> «No one tells you what it is like to die. Why doesn't anyone tell you?»
+> «Nadie te cuenta cómo es morir. ¿Por qué nadie lo dice?»
 — David Sinclair
 
 <!-- key -->
@@ -285,7 +285,7 @@ El pionero <span class="person">Mark Boguski</span> acuñó la <span class="term
 La secuenciación cayó de miles de millones de dólares a menos de <span class="num">100</span> dólares en un dispositivo del tamaño de una barra de chocolate. Pronto dirá qué comer, qué microbioma cultivar y qué fármaco evitar. Por ejemplo, la deficiencia de G6PD en <span class="num">300 millones</span> de personas, donde antipalúdicos comunes provocan hemólisis.
 
 <!-- paragraph -->
-Terapias como CAR-T y checkpoint inhibitors (usados en el melanoma cerebral de <span class="person">Jimmy Carter</span>) muestran remisiones superiores al <span class="num">80 %</span> en algunos cánceres. Wearables detectarán arritmias. Analizadores de aliento, infecciones. El <span class="term">reloj epigenético</span> (medida de edad biológica por metilación del ADN) anticipará el declive antes de que sea irreversible.
+Terapias como CAR-T e inhibidores de puntos de control inmunitario muestran remisiones superiores al <span class="num">80 %</span> en algunos cánceres. Uno de esos casos fue el melanoma cerebral de <span class="person">Jimmy Carter</span>. Además, los dispositivos portátiles detectarán arritmias y los analizadores de aliento, infecciones. El <span class="term">reloj epigenético</span> (medida de edad biológica por metilación del ADN) anticipará el declive antes de que sea irreversible.
 
 <!-- key -->
 La <span class="key-term">medicina de precisión</span> permitirá diagnosticar y tratar antes de que el declive sea irreversible.
@@ -364,16 +364,16 @@ La inversión y la equidad dependen de laboratorios que ya convierten la promesa
 ¿Qué laboratorios ya mueven la promesa de la longevidad? El de Sinclair en Harvard, en el noveno piso del New Research Building, reúne a entre <span class="num">30</span> y <span class="num">40</span> científicos de todo el mundo.
 
 <!-- paragraph -->
-<span class="person">Jae-Hyun Yang</span> aceleró el reloj epigenético en ratones ICE. <span class="person">Yuancheng Lu</span> reprogramó animales viejos con virus modificado. <span class="person">Michael Bonkowski</span> tiene el récord de ratón longevo: <span class="num">5</span> años.
+Entre ellos, <span class="person">Jae-Hyun Yang</span> aceleró el reloj epigenético en ratones ICE y <span class="person">Yuancheng Lu</span> reprogramó animales viejos con virus modificado. <span class="person">Michael Bonkowski</span> tiene el récord de ratón longevo: <span class="num">5</span> años.
 
 <!-- paragraph -->
-<span class="person">João Amorim</span> prueba si resveratrol activa SIRT1 directamente. <span class="person">Lindsay Wu</span> restauró fertilidad con NMN.
+También <span class="person">João Amorim</span> prueba si el resveratrol activa SIRT1 directamente, mientras que <span class="person">Lindsay Wu</span> restauró fertilidad con NMN.
 
 <!-- paragraph -->
-No es un laboratorio aislado. El Glenn Center en Harvard y MIT, el Buck Institute en California y centros en cada universidad importante forman un campo global. Industria privada busca fármacos con IA. La financiación pública para «envejecimiento» sigue siendo gota frente a cáncer o Alzheimer. Hace una década casi nadie trabajaba esto. Hoy es campo global.
+Pero no es un laboratorio aislado. El Glenn Center en Harvard y MIT, el Buck Institute en California y centros en cada universidad importante forman un campo global. Además, la industria privada busca fármacos con IA. La financiación pública para «envejecimiento» sigue siendo gota frente a cáncer o Alzheimer. Hace una década casi nadie trabajaba esto. Hoy es campo global.
 
 <!-- paragraph -->
-<span class="person">Susan DeStefano</span>, cristiana devota que cree que curar enfermos es obra de Dios, gestiona el caos administrativo. La diversidad de creencias y orígenes no impide la convicción compartida. La vitalidad prolongada viene en camino. La pregunta ya no es si, sino cuándo y para quién.
+<span class="person">Susan DeStefano</span>, cristiana devota que cree que curar enfermos es obra de Dios, gestiona el caos administrativo. La diversidad de creencias y orígenes no impide la convicción compartida. Por eso la vitalidad prolongada viene en camino: la pregunta ya no es si, sino cuándo y para quién.
 
 <!-- key -->
 Cientos de laboratorios en el mundo ya hacen inevitable una humanidad con <span class="key-term">vitalidad prolongada</span>.
@@ -395,7 +395,7 @@ Cientos de laboratorios en el mundo ya hacen inevitable una humanidad con <span 
 | Células senescentes | Dejan de dividirse pero secretan inflamación; objetivo de senolíticos. |
 | Reloj epigenético | Metilación del ADN que mide edad biológica vs cronológica. |
 | Medicina de precisión | Diagnóstico y tratamiento según genoma y datos individuales. |
-| Healthspan | Años de vida activa y sana, no solo conteo total. |
+| Vida saludable (healthspan) | Años de vida activa y sana, no solo conteo total. |
 | Inflammaging | Inflamación crónica de bajo grado impulsada por senescencia. |
 | Envejecimiento como enfermedad | Marco que unifica patologías del declive bajo una causa tratable. |
 

@@ -14,7 +14,7 @@ lang: es
 
 | id | num | label |
 |----|-----|-------|
-| prefacio | 00 | Introducción |
+| prefacio | 00 | Homo docens |
 | cap1 | 01 | Siete definiciones de aprendizaje |
 | cap2 | 02 | Por qué el cerebro aprende mejor que las máquinas |
 | cap3 | 03 | Conocimiento invisible de los bebés |
@@ -222,7 +222,7 @@ Esa plasticidad permite que la cultura reconvierta circuitos ancestrales hacia f
 ¿Cómo encaja la lectura o las matemáticas en un cerebro evolutivo? Los adultos analfabetos difieren en memoria verbal, reconocimiento de formas y espejos. Leer <em>mejora</em> la memoria, no la arruina: <span class="person">Platón</span> se equivocaba. La escolarización transforma el sentido numérico. La recta numérica exacta y «n+1» son logros culturales, no innatos.
 
 <!-- paragraph -->
-La <span class="term">hipótesis del reciclaje neuronal</span> (cada invención cultural busca un nicho en circuitos ya existentes) explica cómo el alfabeto reconvierte áreas evolutivas. Lo mismo ocurre con las cifras. Esos circuitos deben ser lo bastante similares y flexibles. Leer recicla áreas visuales hacia el <span class="term">área de forma visual de palabras</span> (región que reconoce letras y palabras escritas). Calcular recicla circuitos de cantidad.
+Por eso, la <span class="term">hipótesis del reciclaje neuronal</span> (cada invención cultural busca un nicho en circuitos ya existentes) explica cómo el alfabeto reconvierte áreas evolutivas. Lo mismo ocurre con las cifras. Esos circuitos deben ser lo bastante similares y flexibles. Leer recicla áreas visuales hacia el <span class="term">área de forma visual de palabras</span> (región que reconoce letras y palabras escritas). Calcular recicla circuitos de cantidad.
 
 <!-- paragraph -->
 A diferencia de la exaptación evolutiva (adaptación genética lenta), el reciclaje ocurre en días o años dentro de un individuo. No cualquier circuito sirve para cualquier cultura. El escritor <span class="person">Vladimir Nabokov</span> subrayaba lo milagroso de que signos escritos contengan mundos enteros.
@@ -247,7 +247,7 @@ Para que ese reciclaje funcione, el cerebro necesita cuatro pilares que modulan 
 En <span class="num">2014</span>, Yoshua Bengio y Kyunghyun Cho integraron atención en traducción automática. La IA «ilumina» píxeles o palabras relevantes. En humanos, la atención consciente amplifica disparos hasta la corteza prefrontal. Eso favorece potenciación a largo plazo.
 
 <!-- paragraph -->
-Lo no atendido queda confinado a áreas sensoriales tempranas. Los sistemas de alerta químicos pueden reabrir plasticidad, como mostraron los experimentos de <span class="person">Michael Merzenich</span> en ratones. Una pasión temprana puede invadir mapas corticales vecinos. El docente debe capturar y guiar la atención, eliminando distracciones innecesarias.
+Pero lo no atendido queda confinado a áreas sensoriales tempranas. Por eso, los sistemas de alerta químicos pueden reabrir plasticidad, como mostraron los experimentos de <span class="person">Michael Merzenich</span> en ratones. Una pasión temprana puede invadir mapas corticales vecinos. El docente debe capturar y guiar la atención, eliminando distracciones innecesarias.
 
 <!-- key -->
 Sin <span class="key-term">atención</span> correcta no hay aprendizaje profundo: la información debe amplificarse antes de consolidarse.
@@ -279,13 +279,13 @@ En el experimento de <span class="term">profundidad de procesamiento</span> (cu�
 | ~75 % | Recuerdo si juzgan si es animal |
 
 <!-- paragraph -->
-<span class="person">Henry Roediger</span> mostró que la dificultad deseable mejora la retención. La pasividad deja huellas mínimas, pero hace falta currículo estructurado que guíe la exploración.
+Además, <span class="person">Henry Roediger</span> mostró que la dificultad deseable mejora la retención. Por eso, la pasividad deja huellas mínimas, pero hace falta currículo estructurado que guíe la exploración.
 
 <!-- key -->
 El cerebro aprende formulando modelos y sometiéndolos a prueba activa, no acumulando datos pasivamente.
 
 <!-- bridge -->
-Las predicciones activas solo sirven si el error las corrige con feedback adecuado.
+Las predicciones activas solo sirven si el error las corrige con retroalimentación adecuada.
 
 ---
 
@@ -301,14 +301,14 @@ Las predicciones activas solo sirven si el error las corrige con feedback adecua
 En <span class="num">1972</span>, Robert Rescorla y Allan Wagner mostraron que el cerebro aprende solo si hay <span class="term">error de predicción</span> (sorpresa ante un resultado inesperado). Los organismos condicionan cuando los eventos violan expectativas. La sorpresa impulsa el condicionamiento pavloviano y las reglas delta del aprendizaje automático.
 
 <!-- paragraph -->
-Los cuatro pilares se entrelazan en un ciclo. La atención selecciona, el compromiso activo genera predicciones y el error las corrige. Castigar errores con notas o estigma destruye plasticidad emocional. El feedback debe ser correctivo, no punitivo.
+Por eso, los cuatro pilares se entrelazan en un ciclo. La atención selecciona, el compromiso activo genera predicciones y el error las corrige. Pero castigar errores con notas o estigma destruye plasticidad emocional: la retroalimentación debe ser correctiva, no punitiva.
 
 <!-- quote -->
 > Pensar es pasar de un error al siguiente.
 — Alain, Propos sur l'éducation (1932)
 
 <!-- key -->
-La calidad del feedback correctivo, no la humillación, determina la velocidad de aprendizaje.
+La calidad de la retroalimentación correctiva, no la humillación, determina la velocidad de aprendizaje.
 
 <!-- bridge -->
 Corregido el modelo, falta consolidarlo, es decir automatizar lo aprendido y dejarlo fijo con el tiempo.
@@ -330,7 +330,7 @@ Lo consciente y lento se automatiza. Los lectores expertos liberan corteza parie
 Los experimentos de Jenkins y Dallenbach (<span class="num">1924</span>) muestran que el <span class="term">sueño</span> (estado en el que el cerebro repasa lo aprendido) consolida memoria. Distribuir el estudio y dormir multiplica la retención. De noche el cerebro repasa modelos en bucle.
 
 <!-- paragraph -->
-Según Dehaene, la mejora nocturna puede alcanzar un factor de <span class="num">10 a 100</span>. Consolidar no es trivializar: libera corteza para razonamiento superior.
+Según Dehaene, la mejora nocturna puede alcanzar un factor de <span class="num">10 a 100</span>. Por eso, consolidar no es trivializar: libera corteza para razonamiento superior.
 
 <!-- big-numbers -->
 | value | label |
@@ -430,8 +430,8 @@ Educar bien exige aplicar neurociencia con humildad: mismos algoritmos cerebrale
 
 <!-- closing -->
 Aprender es ajustar modelos internos jerárquicos minimizando error, sobre un cerebro ya estructurado al nacer.
-La escuela recicla circuitos evolutivos hacia cultura simbólica; las máquinas aún no igualan nuestra abstracción ni eficiencia.
-<!-- highlight -->Atención, compromiso activo, feedback correctivo y consolidación —incluido el sueño— son los cuatro pilares de toda enseñanza eficaz.<!-- /highlight -->
+Por eso, la escuela recicla circuitos evolutivos hacia cultura simbólica; las máquinas aún no igualan nuestra abstracción ni eficiencia.
+<!-- highlight -->Atención, compromiso activo, retroalimentación correctiva y consolidación —incluido el sueño— son los cuatro pilares de toda enseñanza eficaz.<!-- /highlight -->
 Negar la ciencia del aprendizaje perjudica a millones de niños.
 Educar bien es aplicar neurociencia con humildad y rigor.
 Homo docens puede seguir mejorando mientras entienda su propio algoritmo.

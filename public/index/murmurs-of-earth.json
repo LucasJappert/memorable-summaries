@@ -35,7 +35,7 @@
       "description": "Terrícolas (lectores seguros) vs extraterrestres (probabilidad infinitesimal)."
     }
   ],
-  "highlight": "Es mensaje a las estrellas —y, sobre todo, un espejo de lo que elegimos conservar de nosotros mismos.",
+  "highlight": "Es un mensaje a las estrellas —y, sobre todo, un espejo de lo que elegimos conservar de nosotros mismos.",
   "entries": [
     {
       "sectionId": "cierre",
@@ -65,7 +65,7 @@
     {
       "sectionId": "cierre",
       "sectionTitle": "Cierre",
-      "text": "Es mensaje a las estrellas —y, sobre todo, un espejo de lo que elegimos conservar de nosotros mismos."
+      "text": "Es un mensaje a las estrellas —y, sobre todo, un espejo de lo que elegimos conservar de nosotros mismos."
     },
     {
       "sectionId": "prefacio",
@@ -155,7 +155,7 @@
     {
       "sectionId": "cap2",
       "sectionTitle": "Los cimientos del Disco Voyager",
-      "text": "Antes del Disco físico, Arecibo demostró que podemos hablar al cosmos en el lenguaje de la matemática y la física."
+      "text": "Por eso, antes del Disco físico, Arecibo demostró que podemos hablar al cosmos en el lenguaje de la matemática y la física."
     },
     {
       "sectionId": "cap2",
@@ -245,7 +245,7 @@
     {
       "sectionId": "cap5",
       "sectionTitle": "Los sonidos de la Tierra",
-      "text": "La selección comenzó con una lluvia de onomatopeyas en la mesa de los Sagan. Luego el equipo recorrió bibliotecas de sonido, universidades y grabaciones de campo. Roger Payne aportó el saludo de ballena grabado en Bermuda en 1970 . Alan Botto proporcionó el despegue del Saturno V con la voz «Fly, bird» en Mission Control. Algunos colaboradores rechazaron participar por desconfianza hacia el gobierno. Otros exigieron dinero que el proyecto no tenía."
+      "text": "La selección comenzó con una lluvia de onomatopeyas en la mesa de los Sagan. Después el equipo recorrió bibliotecas de sonido, universidades y grabaciones de campo. Roger Payne aportó el saludo de ballena grabado en Bermuda en 1970 . Alan Botto proporcionó el despegue del Saturno V con la voz «Fly, bird» en Mission Control. Algunos colaboradores rechazaron participar por desconfianza hacia el gobierno. Otros exigieron dinero que el proyecto no tenía."
     },
     {
       "sectionId": "cap5",
@@ -290,7 +290,12 @@
     {
       "sectionId": "cap6",
       "sectionTitle": "La música de Voyager",
-      "text": "La secuencia abre con el Brandenburg Concerto No. 2 (segundo concierto de Bach) de Bach y cierra con la Cavatina (movimiento lírico de Beethoven) de Beethoven. Los dos primeros compases del disco son precisamente esa Cavatina. El repertorio incluye gamelán javanés, canto de iniciación pigmea y raga indio. También lleva ch'in chino «Flowing Streams», Louis Armstrong, Chuck Berry («Johnny B. Goode»), Stravinsky y Mozart. Cierra «Dark Was the Night» de Blind Willie Johnson. En el espacio entre surcos finales se grabó la dedicatoria «To the makers of music—all worlds, all times»."
+      "text": "La secuencia abre con el Brandenburg Concerto No. 2 (segundo concierto de Bach) y cierra con la Cavatina (movimiento lírico de Beethoven). Los dos primeros compases del disco son precisamente esa Cavatina."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "La música de Voyager",
+      "text": "Además, el repertorio abarca gamelán javanés, canto de iniciación pigmea, raga indio y ch'in chino «Flowing Streams». Incluye también a Louis Armstrong, Chuck Berry («Johnny B. Goode»), Stravinsky y Mozart. Cierra «Dark Was the Night» de Blind Willie Johnson. En el espacio entre surcos finales se grabó la dedicatoria «To the makers of music—all worlds, all times»."
     },
     {
       "sectionId": "cap6",
@@ -320,7 +325,7 @@
     {
       "sectionId": "cap7",
       "sectionTitle": "La misión Voyager al sistema solar exterior",
-      "text": "Las Voyager llevan 11 experimentos científicos, cada uno con un equipo que trabajó casi una década. Las trayectorias asistidas por gravedad de Júpiter y Saturno aceleran las naves hacia escape interestelar. Ese accidente de mecánica celeste hizo posible el Disco. Los compromisos entre objetivos científicos son dolorosos: volar cerca de Ío, ocultar Saturno tras sus anillos o alcanzar Urano excluyen otras mediciones igualmente valiosas."
+      "text": "Las Voyager llevan 11 experimentos científicos, cada uno con un equipo que trabajó casi una década. Las trayectorias asistidas por gravedad de Júpiter y Saturno aceleran las naves hacia escape interestelar. Por eso, ese accidente de mecánica celeste hizo posible el Disco. Los compromisos entre objetivos científicos son dolorosos: volar cerca de Ío, ocultar Saturno tras sus anillos o alcanzar Urano excluyen otras mediciones igualmente valiosas."
     },
     {
       "sectionId": "cap7",
@@ -355,7 +360,7 @@
     {
       "sectionId": "cap8",
       "sectionTitle": "Epílogo",
-      "text": "Quien encuentre el Disco sabrá que enviar tal mensaje solo tiene sentido con pasión por el futuro. Revelará una especie con esperanza, perseverancia, inteligencia modesta, generosidad y deseo genuino de contacto con el cosmos."
+      "text": "Por eso, quien encuentre el Disco sabrá que enviar tal mensaje solo tiene sentido con pasión por el futuro. Revelará una especie con esperanza, perseverancia, inteligencia modesta, generosidad y deseo genuino de contacto con el cosmos."
     },
     {
       "sectionId": "cap8",

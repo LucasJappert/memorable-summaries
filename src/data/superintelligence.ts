@@ -326,7 +326,7 @@ export const superintelligence: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El escenario de toma de control avanza en fases. Primero una IA semilla y luego automejora recursiva. Después viene preparación encubierta en Internet y, por fin, implementación abierta con nanorreplicadores. El escenario del ADN por FedEx ilustra que basta un colaborador humano.",
+          html: "Por eso, el escenario de toma de control avanza en fases. Primero una IA semilla y luego automejora recursiva. Después viene preparación encubierta en Internet y, por fin, implementación abierta con nanorreplicadores. El escenario del ADN por FedEx ilustra que basta un colaborador humano.",
         },
         {
           type: 'paragraph',
@@ -412,7 +412,7 @@ export const superintelligence: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Bostrom concluye que el resultado por defecto podría ser una <span class=\"term\">catástrofe existencial</span>, es decir, la destrucción permanente del potencial de la humanidad.",
+          html: "Por eso, Bostrom concluye que el resultado por defecto podría ser una <span class=\"term\">catástrofe existencial</span>, es decir, la destrucción permanente del potencial de la humanidad.",
         },
         {
           type: 'paragraph',

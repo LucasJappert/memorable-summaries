@@ -48,12 +48,12 @@
     {
       "sectionId": "cierre",
       "sectionTitle": "Cierre",
-      "text": "La IA dominó el siglo XX bajo el modelo estándar: máquinas inteligentes optimizan un objetivo fijo."
+      "text": "En suma, la IA dominó el siglo XX bajo el modelo estándar: máquinas inteligentes optimizan un objetivo fijo."
     },
     {
       "sectionId": "cierre",
       "sectionTitle": "Cierre",
-      "text": "Russell propone invertir la definición: máquinas beneficiosas persiguen nuestras preferencias, inciertas al inicio y aprendidas del comportamiento humano."
+      "text": "Por eso Russell propone invertir la definición: máquinas beneficiosas persiguen nuestras preferencias, inciertas al inicio y aprendidas del comportamiento humano."
     },
     {
       "sectionId": "cierre",
@@ -283,7 +283,7 @@
     {
       "sectionId": "cap6",
       "sectionTitle": "El no tan gran debate",
-      "text": "Russell clasifica objeciones en negación, desvío y soluciones instantáneas. Ejemplos lamentables comparan superinteligencia con calculadoras aritméticas. Otros la comparan con fuerza de caballos. Esas analogías fallan porque la inteligencia habilita control del mundo."
+      "text": "Russell clasifica objeciones en negación, desvío y soluciones instantáneas. Ejemplos lamentables comparan superinteligencia con calculadoras aritméticas. Otros la comparan con fuerza de caballos. Esas analogías fallan porque la inteligencia habilita control del mundo, no solo cálculo aislado."
     },
     {
       "sectionId": "cap6",
@@ -323,7 +323,7 @@
     {
       "sectionId": "cap7",
       "sectionTitle": "Otro enfoque de la IA",
-      "text": "Propone tres principios para investigadores, no leyes literales del robot. Primero, la única meta es maximizar preferencias humanas , es decir, lo que cada persona valoraría entre futuros posibles. Segundo, la máquina es inicialmente incierta sobre cuáles son. Tercero, aprende del comportamiento humano , es decir, de las elecciones que revelan esas preferencias."
+      "text": "Por eso propone tres principios para investigadores, no leyes literales del robot. Primero, la única meta es maximizar preferencias humanas , es decir, lo que cada persona valoraría entre futuros posibles. Segundo, la máquina es inicialmente incierta sobre cuáles son. Tercero, aprende del comportamiento humano , es decir, de las elecciones que revelan esas preferencias."
     },
     {
       "sectionId": "cap7",
@@ -408,7 +408,7 @@
     {
       "sectionId": "cap9",
       "sectionTitle": "Complicaciones: nosotros",
-      "text": "La psicología complica más. Daniel Kahneman distingue yo experiencial versus yo recordador. Usa la regla pico-fin. Las preferencias evolucionan históricamente. Fijarlas sería imitar Roma del siglo II. Hay que separar actualización de cambio de preferencias. Las máquinas siempre alteran experiencias, como algoritmos de redes sociales."
+      "text": "La psicología complica más. Daniel Kahneman distingue yo experiencial versus yo recordador. Usa la regla pico-fin. Las preferencias evolucionan históricamente. Fijarlas sería imitar Roma del siglo II. Por eso hay que separar actualización de cambio de preferencias. Las máquinas siempre alteran experiencias, como algoritmos de redes sociales."
     },
     {
       "sectionId": "cap9",

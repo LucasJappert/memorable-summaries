@@ -46,7 +46,7 @@ export const lifespan: BookSummary = {
         },
         {
           type: 'quote',
-          text: "«No one tells you what it is like to die. Why doesn't anyone tell you?»",
+          text: "«Nadie te cuenta cómo es morir. ¿Por qué nadie lo dice?»",
           attribution: "David Sinclair",
         },
         {
@@ -352,7 +352,7 @@ export const lifespan: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Terapias como CAR-T y checkpoint inhibitors (usados en el melanoma cerebral de <span class=\"person\">Jimmy Carter</span>) muestran remisiones superiores al <span class=\"num\">80 %</span> en algunos cánceres. Wearables detectarán arritmias. Analizadores de aliento, infecciones. El <span class=\"term\">reloj epigenético</span> (medida de edad biológica por metilación del ADN) anticipará el declive antes de que sea irreversible.",
+          html: "Terapias como CAR-T e inhibidores de puntos de control inmunitario muestran remisiones superiores al <span class=\"num\">80 %</span> en algunos cánceres. Uno de esos casos fue el melanoma cerebral de <span class=\"person\">Jimmy Carter</span>. Además, los dispositivos portátiles detectarán arritmias y los analizadores de aliento, infecciones. El <span class=\"term\">reloj epigenético</span> (medida de edad biológica por metilación del ADN) anticipará el declive antes de que sea irreversible.",
         },
         {
           type: 'key',
@@ -461,19 +461,19 @@ export const lifespan: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Jae-Hyun Yang</span> aceleró el reloj epigenético en ratones ICE. <span class=\"person\">Yuancheng Lu</span> reprogramó animales viejos con virus modificado. <span class=\"person\">Michael Bonkowski</span> tiene el récord de ratón longevo: <span class=\"num\">5</span> años.",
+          html: "Entre ellos, <span class=\"person\">Jae-Hyun Yang</span> aceleró el reloj epigenético en ratones ICE y <span class=\"person\">Yuancheng Lu</span> reprogramó animales viejos con virus modificado. <span class=\"person\">Michael Bonkowski</span> tiene el récord de ratón longevo: <span class=\"num\">5</span> años.",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">João Amorim</span> prueba si resveratrol activa SIRT1 directamente. <span class=\"person\">Lindsay Wu</span> restauró fertilidad con NMN.",
+          html: "También <span class=\"person\">João Amorim</span> prueba si el resveratrol activa SIRT1 directamente, mientras que <span class=\"person\">Lindsay Wu</span> restauró fertilidad con NMN.",
         },
         {
           type: 'paragraph',
-          html: "No es un laboratorio aislado. El Glenn Center en Harvard y MIT, el Buck Institute en California y centros en cada universidad importante forman un campo global. Industria privada busca fármacos con IA. La financiación pública para «envejecimiento» sigue siendo gota frente a cáncer o Alzheimer. Hace una década casi nadie trabajaba esto. Hoy es campo global.",
+          html: "Pero no es un laboratorio aislado. El Glenn Center en Harvard y MIT, el Buck Institute en California y centros en cada universidad importante forman un campo global. Además, la industria privada busca fármacos con IA. La financiación pública para «envejecimiento» sigue siendo gota frente a cáncer o Alzheimer. Hace una década casi nadie trabajaba esto. Hoy es campo global.",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Susan DeStefano</span>, cristiana devota que cree que curar enfermos es obra de Dios, gestiona el caos administrativo. La diversidad de creencias y orígenes no impide la convicción compartida. La vitalidad prolongada viene en camino. La pregunta ya no es si, sino cuándo y para quién.",
+          html: "<span class=\"person\">Susan DeStefano</span>, cristiana devota que cree que curar enfermos es obra de Dios, gestiona el caos administrativo. La diversidad de creencias y orígenes no impide la convicción compartida. Por eso la vitalidad prolongada viene en camino: la pregunta ya no es si, sino cuándo y para quién.",
         },
         {
           type: 'key',
@@ -512,7 +512,7 @@ export const lifespan: BookSummary = {
     "description": "Diagnóstico y tratamiento según genoma y datos individuales."
   },
   {
-    "title": "Healthspan",
+    "title": "Vida saludable (healthspan)",
     "description": "Años de vida activa y sana, no solo conteo total."
   },
   {

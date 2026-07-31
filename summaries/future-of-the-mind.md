@@ -30,9 +30,9 @@ lang: es
 | cap13 | 13 | La mente como energía pura |
 | cap14 | 14 | La mente alienígena |
 | cap15 | 15 | Observaciones finales |
-| apendice | 16 | Apéndice: conciencia cuántica |
+| apendice | 16 | Conciencia cuántica |
 | conceptos | ✦ | Conceptos clave |
-| cronologia | ◈ | Cronología |
+| cronologia | ◈ | Cronología de los descubrimientos |
 | figuras | ✦ | Figuras clave |
 
 ---
@@ -170,7 +170,7 @@ Leer pensamientos es un paso; el siguiente es traducir la intención en movimien
 El caso de <span class="person">Cathy Hutchinson</span> usó <span class="term">BrainGate</span> (interfaz invasiva que traduce intención motora en señales robóticas). Una persona tetrapléjica pudo guiar un brazo robótico y beber por sí misma.
 
 <!-- paragraph -->
-En paralelo, el neurocientífico <span class="person">Miguel Nicolelis</span> conectó cerebros y máquinas en tiempo real. Exploró redes «cerebro-a-cerebro». El horizonte incluye <span class="term">exoesqueletos</span> (estructuras externas que amplifican o reemplazan movimiento) y prótesis con retroalimentación sensorial.
+A partir de ahí, el neurocientífico <span class="person">Miguel Nicolelis</span> conectó cerebros y máquinas en tiempo real. Exploró redes «cerebro-a-cerebro». El horizonte incluye <span class="term">exoesqueletos</span> (estructuras externas que amplifican o reemplazan movimiento) y prótesis con retroalimentación sensorial.
 
 <!-- paragraph -->
 Kaku extiende la idea a la <span class="term">materia programable</span> (materiales que cambian forma bajo control computacional). La intención mental podría gobernar entornos adaptativos, desde rehabilitación hasta exploración peligrosa.
@@ -599,7 +599,7 @@ Los experimentos de <span class="person">Benjamin Libet</span> muestran que señ
 | 1990s-2000s | fMRI y PET consolidan la neuroimagen funcional de alta resolución en investigación cognitiva. |
 | 2010-2013 | Experimentos de Gallant y otros grupos reconstruyen imágenes y videos rudimentarios desde actividad cerebral. |
 | 2012 | BrainGate populariza casos clínicos de control robótico por pacientes con parálisis severa. |
-| 2013 | Se anuncian BRAIN Initiative (EE. UU.) y Human Brain Project (UE) como programas a gran escala. |
+| 2013 | EE. UU. y la UE lanzan megaproyectos de cartografía cerebral: la Iniciativa BRAIN y el Proyecto Cerebro Humano. |
 | 2014 | Publicación de *The Future of the Mind* y síntesis pública del nuevo paradigma neurotecnológico. |
 
 ---
@@ -635,7 +635,7 @@ Los experimentos de <span class="person">Benjamin Libet</span> muestran que señ
 La mente es un proceso físico extraordinario, no una excepción al universo.
 Leer y modular circuitos cerebrales ya no pertenece a la ficción, sino al laboratorio.
 <!-- highlight -->Comprender la conciencia puede ser el proyecto más transformador y más delicado de nuestra especie.<!-- /highlight -->
-Sin ética, la neurotecnología puede vigilar y manipular; con ética, puede curar y liberar.
+Por eso, sin ética, la neurotecnología puede vigilar y manipular; con ética, puede curar y liberar.
 La próxima revolución científica medirá menos kilómetros y más conexiones sinápticas.
 El futuro de la mente define, en última instancia, el futuro de la civilización.
 

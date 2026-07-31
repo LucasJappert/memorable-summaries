@@ -196,7 +196,7 @@ export const blindWatchmaker: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "¿Pudo el ojo humano surgir de la nada en un paso? No: las probabilidades son astronómicas. ¿De algo ligeramente distinto, X? Sí, si X es suficientemente parecido. Repitiendo la pregunta con pasos cada vez menores, se traza una cadena de Xs desde «sin ojo» hasta el ojo moderno.",
+          html: "¿Pudo el ojo humano surgir de la nada en un paso? No: las probabilidades son astronómicas. ¿De algo ligeramente distinto, X? Sí, si X es suficientemente parecido. Por eso, repitiendo la pregunta con pasos cada vez menores, se traza una cadena de Xs desde «sin ojo» hasta el ojo moderno.",
         },
         {
           type: 'paragraph',
@@ -232,7 +232,7 @@ export const blindWatchmaker: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La vieja noción de <span class=\"term\">protoplasma</span> (sustancia viva misteriosa e indivisible) está muerta como el flogisto. Lo especial de la vida no es la sustancia, sino la información: instrucciones digitales en un medio de almacenamiento con muchas posiciones discretas. Los genes son tecnología de la información.",
+          html: "La vieja noción de <span class=\"term\">protoplasma</span> (sustancia viva misteriosa e indivisible) está muerta como el flogisto. De ahí que lo especial de la vida no sea la sustancia, sino la información. Son instrucciones digitales en un medio de almacenamiento con muchas posiciones discretas. Los genes son tecnología de la información.",
         },
         {
           type: 'paragraph',
@@ -265,7 +265,7 @@ export const blindWatchmaker: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La selección acumulativa necesitó arrancar con un primer paso de azar puro. Ahí está la paradoja del origen de la vida: la replicación exige maquinaria compleja (ADN, proteínas, RNA). Y la única vía conocida hacia tal complejidad es la selección acumulativa.",
+          html: "La selección acumulativa necesitó arrancar con un primer paso de azar puro. Ahí está la paradoja del origen de la vida: la replicación exige maquinaria compleja (ADN, proteínas, RNA). Pero la única vía conocida hacia tal complejidad es la selección acumulativa.",
         },
         {
           type: 'paragraph',
@@ -317,7 +317,7 @@ export const blindWatchmaker: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Un gen solo tiene efecto sobre una estructura ya existente. Desde el punto de vista de cada gen, el ambiente más importante son los otros genes de la población. Genes que colaboran en vías bioquímicas o en equipos evolucionan juntos. Un equipo dominante resiste ser desplazado por alternativas equivalentes.",
+          html: "Un gen solo tiene efecto sobre una estructura ya existente. Por eso, desde el punto de vista de cada gen, el ambiente más importante son los otros genes de la población. Genes que colaboran en vías bioquímicas o en equipos evolucionan juntos. Un equipo dominante resiste ser desplazado por alternativas equivalentes.",
         },
         {
           type: 'paragraph',
@@ -397,7 +397,7 @@ export const blindWatchmaker: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Los punctuationistas, muchos paleontólogos, enfatizan <span class=\"term\">estasis</span> (periodos largos sin cambio visible en el registro fósil) y cambios rápidos en eventos de especiación. Los «gradualistas» de paja avanzarían a ritmo constante generación tras generación. En realidad, casi todos los darwinianos son gradualistas en el sentido de que no hay saltos macromutacionales milagrosos.",
+          html: "Los punctuationistas, muchos paleontólogos, enfatizan <span class=\"term\">estasis</span> (periodos largos sin cambio visible en el registro fósil) y cambios rápidos en eventos de especiación. Los «gradualistas» de paja avanzarían a ritmo constante generación tras generación. En cambio, casi todos los darwinianos son gradualistas en el sentido de que no hay saltos macromutacionales milagrosos.",
         },
         {
           type: 'paragraph',

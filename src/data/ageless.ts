@@ -67,7 +67,7 @@ export const ageless: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El modelo educación-trabajo-jubilación quedó obsoleto. La edad de pensión de <span class=\"num\">65</span> años en el Reino Unido no cambió casi un siglo. Mientras tanto, la esperanza de vida subió <span class=\"num\">23 años</span>. Un adulto mayor de <span class=\"num\">80</span> cuesta al sistema sanitario unas cinco veces más que uno de <span class=\"num\">30</span>. Aun así, la discapacidad grave en muy ancianos ha bajado.",
+          html: "El modelo educación-trabajo-jubilación quedó obsoleto. La edad de pensión de <span class=\"num\">65</span> años en el Reino Unido no cambió casi un siglo. Mientras tanto, la esperanza de vida subió <span class=\"num\">23 años</span>. Un adulto mayor de <span class=\"num\">80</span> cuesta al sistema sanitario unas cinco veces más que uno de <span class=\"num\">30</span>. Aun así, la discapacidad grave en muy ancianos ha bajado, aunque la leve (artritis u otras molestias) parece aumentar.",
         },
         {
           type: 'paragraph',
@@ -191,7 +191,7 @@ export const ageless: BookSummary = {
             },
             {
               "title": "Inflammaging",
-              "description": "Inflamación crónica de bajo grado que aumenta con la edad y acelera enfermedades.",
+              "description": "Inflamación crónica de bajo grado (inflammaging) que aumenta con la edad y acelera enfermedades.",
               "icon": "🔥"
             },
             {
@@ -281,7 +281,7 @@ export const ageless: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "¿Qué pasa cuando eliminar no basta y hay que reponer? A veces hay que regenerar tejidos. Las <span class=\"term\">células madre</span> (células capaces de diferenciarse en tipos especializados) y los trasplantes de médula ósea ya salvan vidas. <span class=\"person\">Shinya Yamanaka</span> (<span class=\"num\">2006</span>) permitió revertir células adultas a estado pluripotente (iPSC) sin rechazo inmune si provienen del propio paciente.",
+          html: "¿Qué pasa cuando eliminar no basta y hay que reponer? Por eso, a veces hay que regenerar tejidos. Las <span class=\"term\">células madre</span> (células capaces de diferenciarse en tipos especializados) y los trasplantes de médula ósea ya salvan vidas. <span class=\"person\">Shinya Yamanaka</span> (<span class=\"num\">2006</span>) permitió revertir células adultas a estado pluripotente (iPSC) sin rechazo inmune si provienen del propio paciente.",
         },
         {
           type: 'paragraph',
@@ -317,7 +317,7 @@ export const ageless: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Elizabeth Blackburn</span> y Carol Greider descubrieron la <span class=\"term\">telomerasa</span> (enzima que alarga telómeros) en 1984. Ganaron el Nobel en 2009. El cáncer explota esa enzima en el 90 % de tumores.",
+          html: "<span class=\"person\">Elizabeth Blackburn</span> y Carol Greider descubrieron la telomerasa en 1984. Ganaron el Nobel en 2009. El cáncer explota esa enzima en el 90 % de tumores.",
         },
         {
           type: 'paragraph',
@@ -420,10 +420,14 @@ export const ageless: BookSummary = {
           items: [
             "**No fumar** — Resta ~10 años; acelera casi todas las marcas (ADN, telómeros, senescencia, AGEs). Dejarlo recupera riesgo en años.",
             "**Peso saludable** — La grasa visceral secreta inflamación; el IMC alto resta años y empeora diabetes.",
+            "**Alcohol con moderación** — Beber en exceso acorta la vida; la moderación forma parte del perfil de bajo riesgo.",
             "**Ejercicio** — Incluso 30 minutos diarios reducen mortalidad; fortalece músculo, mitocondrias, telómeros y recambia colágeno.",
-            "**Sueño (7–8 h)** — El cerebro elimina amiloide al dormir; cataratas alteran ritmos circadianos.",
-            "**Vacunas e higiene** — Menos infecciones significa menos inflamación crónica de por vida."
+            "**Alimentación saludable** — Una dieta equilibrada limita lo que la restricción calórica extrema intenta lograr sin ayunar."
           ],
+        },
+        {
+          type: 'paragraph',
+          html: "Además, dormir <span class=\"num\">7–8 horas</span> ayuda al cerebro a eliminar amiloide, y vacunarse reduce la inflamación crónica que acelera el envejecimiento.",
         },
         {
           type: 'paragraph',
@@ -451,7 +455,7 @@ export const ageless: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "¿Qué falta para que la biogerontología llegue a la clínica? La disciplina necesita visibilidad y dinero. El <span class=\"term\">NIA</span> (Instituto Nacional sobre el Envejecimiento de EE. UU.) recibe unos <span class=\"num\">6 %</span> del presupuesto del NIH. El envejecimiento causa unos <span class=\"num\">85 %</span> de muertes.",
+          html: "¿Qué falta para que la biogerontología llegue a la clínica? Por eso, la disciplina necesita visibilidad y dinero. El <span class=\"term\">NIA</span> (Instituto Nacional sobre el Envejecimiento de EE. UU.) recibe unos <span class=\"num\">6 %</span> del presupuesto del NIH. El envejecimiento causa unos <span class=\"num\">85 %</span> de muertes.",
         },
         {
           type: 'paragraph',
@@ -602,9 +606,9 @@ export const ageless: BookSummary = {
     title: "La idea central",
     lines: [
   "El envejecimiento no es un reloj misterioso ni un castigo inevitable.",
-  "Es un conjunto de procesos biológicos que la ciencia ya puede ralentizar en el laboratorio.",
+  "De hecho, es un conjunto de procesos biológicos que la ciencia ya puede ralentizar en el laboratorio.",
   "La cura no llegará en una píldora milagrosa, sino como un rompecabezas de terapias que se renuevan con cada generación.",
-  "Mientras tanto, estilo de vida y política pública pueden comprarnos años para llegar a esas medicinas.",
+  "Por eso, mientras tanto, estilo de vida y política pública pueden comprarnos años para llegar a esas medicinas.",
   "El objetivo final es la senescencia negligible: envejecer sin perder salud solo por haber cumplido años."
 ],
     highlight: "curar el envejecimiento sería la mayor revolución médica desde los antibióticos",

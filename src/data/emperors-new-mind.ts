@@ -16,12 +16,12 @@ export const emperorsNewMind: BookSummary = {
   {
     "id": "prefacio",
     "num": "00",
-    "label": "Prefacio (ed. 1999)"
+    "label": "Diez años después (edición 1999)"
   },
   {
     "id": "prologo",
     "num": "—",
-    "label": "Prólogo"
+    "label": "La inauguración de Ultronic"
   },
   {
     "id": "cap1",
@@ -76,7 +76,7 @@ export const emperorsNewMind: BookSummary = {
   {
     "id": "epilogo",
     "num": "—",
-    "label": "Epílogo"
+    "label": "La risa en el auditorio"
   },
   {
     "id": "conceptos",
@@ -86,7 +86,7 @@ export const emperorsNewMind: BookSummary = {
   {
     "id": "cronologia",
     "num": "◈",
-    "label": "Cronología"
+    "label": "Cronología de hitos del libro"
   }
 ],
   sections: [
@@ -106,7 +106,7 @@ export const emperorsNewMind: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Penrose ilustra el primer hilo con el <span class=\"term\">teorema de Goodstein</span> (una proposición aritmética verdadera que la inducción sola no demuestra). Comprender su verdad exige algo más que seguir reglas mecánicas. Ese «algo», la comprensión, parece ligado a la conciencia y esencialmente no computacional.",
+          html: "Por eso, Penrose ilustra el primer hilo con el <span class=\"term\">teorema de Goodstein</span> (una proposición aritmética verdadera que la inducción sola no demuestra). Comprender su verdad exige algo más que seguir reglas mecánicas. Ese «algo», la comprensión, parece ligado a la conciencia y esencialmente no computacional.",
         },
         {
           type: 'key',
@@ -130,7 +130,7 @@ export const emperorsNewMind: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El niño Adam, criado casi por máquinas, se atreve a hacer la primera pregunta. La escena anticipa el conflicto del libro. Cuando una máquina supera al cerebro en capacidad, ¿debemos atribuirle mente, sentimientos y responsabilidad moral?",
+          html: "El niño Adam, criado casi por máquinas, se atreve a hacer la primera pregunta. Entonces la escena anticipa el conflicto del libro: cuando una máquina supera al cerebro en capacidad, ¿debemos atribuirle mente, sentimientos y responsabilidad moral?",
         },
         {
           type: 'paragraph',
@@ -269,7 +269,7 @@ export const emperorsNewMind: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Penrose defiende una forma de <span class=\"term\">realismo platónico</span> (la idea de que las verdades matemáticas existen independientemente de nosotros). Los conceptos habitan un mundo ideal accesible por la inteligencia, no inventado arbitrariamente. La pregunta «¿es recursivo el Mandelbrot?» conecta geometría fractal con límites de la computación.",
+          html: "Penrose defiende una forma de <span class=\"term\">realismo platónico</span> (la idea de que las verdades matemáticas existen independientemente de nosotros). Los conceptos habitan un mundo ideal accesible por la inteligencia, no inventado arbitrariamente. Por eso, la pregunta «¿es recursivo el Mandelbrot?» conecta geometría fractal con límites de la computación.",
         },
         {
           type: 'concept-grid',
@@ -542,7 +542,7 @@ export const emperorsNewMind: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La IA fuerte ve el cerebro como máquina de Turing. Penrose lo disputa. ¿Dónde está el «asiento» de la conciencia? Candidatos: corteza cerebral, tálamo, formación reticular, hipocampo. Penrose es escéptico de atribuir conciencia solo al lenguaje o solo a estructuras «primitivas».",
+          html: "Sin embargo, la IA fuerte ve el cerebro como máquina de Turing, y Penrose lo disputa. ¿Dónde está el «asiento» de la conciencia? Candidatos: corteza cerebral, tálamo, formación reticular, hipocampo. Penrose es escéptico de atribuir conciencia solo al lenguaje o solo a estructuras «primitivas».",
         },
         {
           type: 'paragraph',
@@ -578,7 +578,7 @@ export const emperorsNewMind: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La selección natural actúa sobre el comportamiento observable, no sobre las ideas subyacentes a un algoritmo. No puede «evolucionar» procedimientos que validen otros procedimientos. Eso exige <span class=\"term\">insight</span> (comprensión directa), no mutación ciega. El matemático usa la conciencia para decidir si un algoritmo es el adecuado.",
+          html: "Por eso, la selección natural actúa sobre el comportamiento observable, no sobre las ideas subyacentes a un algoritmo. No puede «evolucionar» procedimientos que validen otros procedimientos. Eso exige comprensión directa, no mutación ciega. El matemático usa la conciencia para decidir si un algoritmo es el adecuado.",
         },
         {
           type: 'paragraph',
@@ -753,8 +753,8 @@ export const emperorsNewMind: BookSummary = {
   closing: {
     title: "La idea central",
     lines: [
-  "La mente consciente no es un algoritmo ejecutándose en hardware biológico.",
-  "Gödel y Turing demuestran límites absolutos de la computación. La física actual, con su parche cuántico R, tampoco basta.",
+  "En suma, la mente consciente no es un algoritmo ejecutándose en hardware biológico.",
+  "Gödel y Turing demuestran límites absolutos de la computación; la física actual, con su parche cuántico R, tampoco basta.",
   "Comprender la mente exige nueva física, no solo más velocidad de procesador.",
   "La pregunta «¿cómo se siente?» no admite respuesta algorítmica.",
   "Hace falta gravedad cuántica asimétrica en el tiempo, con no computabilidad."

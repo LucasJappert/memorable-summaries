@@ -15,7 +15,7 @@ lang: es
 <!-- toc: id | num | label -->
 | id | num | label |
 |----|-----|-------|
-| prefacio | 00 | Prefacio |
+| prefacio | 00 | De Sapiens a Homo Deus |
 | cap1 | 01 | La nueva agenda humana |
 | cap2 | 02 | El Antropoceno |
 | cap3 | 03 | La chispa humana |
@@ -28,7 +28,7 @@ lang: es
 | cap10 | 10 | El océano de la conciencia |
 | cap11 | 11 | La religión de los datos |
 | conceptos | ✦ | Conceptos clave |
-| cronologia | ◈ | Cronología |
+| cronologia | ◈ | Cronología de hitos del libro |
 | figuras | ✦ | Figuras clave |
 
 ---
@@ -64,7 +64,7 @@ Antes de imaginar dioses tecnológicos, Harari muestra que los viejos azotes ya 
 ¿Qué ocurre cuando hambre, peste y guerra dejan de mandar? Al amanecer del tercer milenio, la humanidad descubre algo asombroso. Esos tres problemas milenarios dejaron de ser fuerzas incontrolables de la naturaleza. Pasaron a ser retos gestionables.
 
 <!-- paragraph -->
-Harari no dice que esos males desaparecieron. Dice que cambió su estatus. Ya no rezamos para que un dios nos libre de ellos: sabemos qué hacer y solemos lograrlo. Por primera vez mueren más personas por comer demasiado que por comer poco. Mueren más por vejez que por epidemias. Mueren más por suicidio que por soldados, terroristas y criminales juntos. El hambre moderno es casi siempre político, no natural.
+Harari no dice que esos males desaparecieron, pero sí que cambió su estatus. Ya no rezamos para que un dios nos libre de ellos: sabemos qué hacer y solemos lograrlo. Por primera vez mueren más personas por comer demasiado que por comer poco. Mueren más por vejez que por epidemias. Mueren más por suicidio que por soldados, terroristas y criminales juntos. El hambre moderno es casi siempre político, no natural.
 
 <!-- big-numbers -->
 | value | label |
@@ -104,7 +104,7 @@ Para entender esa ambición nueva, hay que ver primero cómo el sapiens se convi
 | ~50% | Grandes mamíferos terrestres extintos antes de la agricultura |
 
 <!-- paragraph -->
-La idea central es que el <span class="term">Antropoceno</span> (la era en que el humano transforma la biosfera) no empezó con las fábricas. Empezó con la expansión del sapiens hace unos <span class="num">70.000</span> años. Alteró la ecología como antes solo lo hacían glaciaciones o asteroides. Los cazadores-recolectores animistas trataban a los animales como interlocutores. La revolución agrícola, legitimada por dioses, y luego el humanismo industrial degradaron al ganado a mera mercancía optimizada.
+Por eso, la idea central es que el <span class="term">Antropoceno</span> (la era en que el humano transforma la biosfera) no empezó con las fábricas. Empezó con la expansión del sapiens hace unos <span class="num">70.000</span> años. Alteró la ecología como antes solo lo hacían glaciaciones o asteroides. Los cazadores-recolectores animistas trataban a los animales como interlocutores. La revolución agrícola, legitimada por dioses, y luego el humanismo industrial degradaron al ganado a mera mercancía optimizada.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -352,7 +352,7 @@ Si el tecno-humanismo fracasa, el dataísmo ofrece una ideología más audaz.
 Desde esa óptica, la economía es un sistema de procesamiento de información. El mercado libre «ganó» la Guerra Fría no por superioridad moral. Ganó por eficiencia informacional frente a la planificación centralizada de Moscú. La nueva divinidad ya no es la libertad de opinión. Es la <span class="term">libertad de información</span> (el flujo abierto de datos), cuyo mártir simbólico fue el activista Aaron Swartz en <span class="num">2013</span>.
 
 <!-- paragraph -->
-El dataísmo invierte la pirámide del conocimiento. Los humanos dejan de destilar datos en sabiduría y ceden esa tarea a los grandes algoritmos. «Conócete a ti mismo» pasa de la introspección a la monitorización biométrica permanente. Harari advierte un paralelo inquietante. El dataísmo puede hacerle al sapiens lo que el sapiens hizo a los demás animales. Puede volverlo irrelevante en cuanto pierda su función.
+El dataísmo invierte la pirámide del conocimiento. Por eso, los humanos dejan de destilar datos en sabiduría y ceden esa tarea a los grandes algoritmos. «Conócete a ti mismo» pasa de la introspección a la monitorización biométrica permanente. Harari advierte un paralelo inquietante. El dataísmo puede hacerle al sapiens lo que el sapiens hizo a los demás animales. Puede volverlo irrelevante en cuanto pierda su función.
 
 <!-- paragraph -->
 El libro no cierra con una profecía sino con un horizonte abierto. Tres procesos convergen a la vez. La vida se entiende como algoritmos. La inteligencia se separa de la conciencia. Los algoritmos empiezan a conocernos mejor que nosotros mismos. Harari deja tres preguntas. ¿Somos solo algoritmos? ¿Qué vale más, inteligencia o conciencia? ¿Qué será de nosotros cuando máquinas sin conciencia nos conozcan por dentro?
@@ -430,7 +430,7 @@ El dataísmo es la primera ideología con un valor nuevo desde 1789, la libertad
 
 <!-- closing -->
 Harari parte de una conquista histórica: hambre, enfermedad y guerra dejaron de ser destinos y se volvieron problemas técnicos.
-La nueva agenda —inmortalidad, felicidad y divinidad— nace del humanismo victorioso y de su pacto con la ciencia.
+Por eso, la nueva agenda —inmortalidad, felicidad y divinidad— nace del humanismo victorioso y de su pacto con la ciencia.
 <!-- highlight -->Las mismas herramientas que prometen cumplir el sueño humanista pueden vaciar al humano libre que lo soñó.<!-- /highlight -->
 Organismos como algoritmos, inteligencia sin conciencia y datos que nos conocen mejor que nosotros: tres oleadas convergentes.
 El liberalismo no caería por un argumento filosófico, sino por la obsolescencia práctica de votantes, consumidores y trabajadores.

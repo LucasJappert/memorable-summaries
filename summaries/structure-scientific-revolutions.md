@@ -21,10 +21,10 @@ lang: es
 | cap3 | 03 | La naturaleza de la ciencia normal |
 | cap4 | 04 | Ciencia normal como rompecabezas |
 | cap5 | 05 | La prioridad de los paradigmas |
-| cap6 | 06 | Anomalía y descubrimientos |
-| cap7 | 07 | Crisis y nuevas teorías |
+| cap6 | 06 | Anomalía y descubrimientos científicos |
+| cap7 | 07 | Crisis y nuevas teorías científicas |
 | cap8 | 08 | La respuesta a la crisis |
-| cap9 | 09 | Naturaleza de las revoluciones |
+| cap9 | 09 | Naturaleza y necesidad de las revoluciones científicas |
 | cap10 | 10 | Cambios de visión del mundo |
 | cap11 | 11 | La invisibilidad de las revoluciones |
 | cap12 | 12 | La resolución de las revoluciones |
@@ -145,7 +145,7 @@ Con paradigma establecido, conviene describir qué hace concretamente la mayorí
 El paradigma rara vez se replica como un molde gramatical. Funciona más como un precedente judicial que se articula bajo condiciones nuevas. Al inicio promete éxito en casos seleccionados. La ciencia normal actualiza esa promesa precisando hechos y acercando datos a la teoría.
 
 <!-- paragraph -->
-Kuhn distingue tres focos empíricos principales. Uno es medir hechos especialmente reveladores, como posiciones estelares o pesos combinantes. Otro es contrastar predicción y observación, como en el paralaje o la máquina de Atwood. Un tercero es articular la teoría mediante constantes, leyes cuantitativas o resolución de ambigüedades.
+Por eso Kuhn distingue tres focos empíricos principales. Uno es medir hechos especialmente reveladores, como posiciones estelares o pesos combinantes. Otro es contrastar predicción y observación, como en el paralaje o la máquina de Atwood. Un tercero es articular la teoría mediante constantes, leyes cuantitativas o resolución de ambigüedades.
 
 <!-- paragraph -->
 En el plano teórico, buena parte del trabajo desarrolla las consecuencias matemáticas del paradigma. No busca inventar teorías nuevas. Después del <span class="person">Principia</span>, generaciones europeas refinan la mecánica celeste. Esa visión estrecha concentra talento donde el paradigma asegura solución.
@@ -195,7 +195,7 @@ Si las reglas no agotan la práctica, hay que mostrar que el paradigma concreto 
 El historiador encuentra paradigmas en ejemplos recurrentes de libros, cursos y laboratorio, pero extraer reglas explícitas compartidas es frustrante. Científicos eminentes pueden coincidir en un logro paradigmático y discrepar sobre su interpretación abstracta. Aun así, la ciencia normal funciona.
 
 <!-- paragraph -->
-Según <span class="person">Wittgenstein</span>, no hay rasgos necesarios y suficientes para «juego» o «silla». Hay parecidos de familia. Igual ocurre con problemas y técnicas de una tradición. Los científicos aprenden force o mass resolviendo problemas modelo. Por eso el paradigma concreto es anterior y más vinculante que las reglas.
+Según <span class="person">Wittgenstein</span>, no hay rasgos necesarios y suficientes para «juego» o «silla». Hay parecidos de familia. Igual ocurre con problemas y técnicas de una tradición. Los científicos aprenden qué es la fuerza o la masa resolviendo problemas modelo. Por eso el paradigma concreto es anterior y más vinculante que las reglas.
 
 <!-- paragraph -->
 Cuando el paradigma está seguro, nadie discute reglas. En pre-paradigma o crisis, los debates sobre métodos reaparecen. Un químico y un físico pueden responder distinto si un átomo de helio es molécula. Cada uno ve la pregunta desde su formación. Revoluciones pequeñas en una subspecialidad no conmocionan a toda la física.
@@ -417,7 +417,7 @@ El Postscript de 1969 aclara malentendidos sobre paradigma, comunidad e incommen
 ¿Qué matizó Kuhn siete años después sobre paradigma, racionalidad y revolución?
 
 <!-- paragraph -->
-Reconoce circularidad inicial entre paradigma y comunidad. Propone empezar por estructura comunitaria, especialidades de unos cien miembros o menos. Luego hallar compromisos compartidos. Introduce <span class="term">matriz disciplinar</span>, es decir la constelación de valores, técnicas y exemplars de una especialidad.
+Kuhn reconoce la circularidad inicial entre paradigma y comunidad. Por eso propone empezar por la estructura comunitaria, especialidades de unos cien miembros o menos, y luego hallar compromisos compartidos. Introduce la <span class="term">matriz disciplinar</span>, es decir la constelación de valores, técnicas y exemplars de una especialidad.
 
 <!-- paragraph -->
 Distingue paradigma-exemplar del sentido sociológico. Retracta parcialmente la idea de un periodo sin paradigma. Todas las escuelas tienen algo paradigmático. Cambia la naturaleza del paradigma al madurar el campo. Revoluciones pueden ser pequeñas en comunidades de unas veinticinco personas. Crisis no siempre es prerequisito absoluto.

@@ -1,6 +1,6 @@
 ---
-title: "Título del libro (idioma original)"
-title_es: "Traducción al español del título"
+title: "Título del libro (idioma original — no traducir)"
+title_es: "Traducción al español del título (título público en la app)"
 subtitle: "Subtítulo o pregunta guía (siempre en español)"
 author: "Autor Apellido"
 meta:
@@ -13,6 +13,15 @@ lang: es
 <!-- title_es: omitir si el libro ya está en español. Ejemplo inglés:
      title: "Sapiens: A Brief History of Humankind"
      title_es: "Sapiens: De animales a dioses"
+     El hero muestra: Original — Traducción
+-->
+
+<!-- Estándar editorial:
+     - title (YAML) = idioma original
+     - title_es, subtitle, TOC label, ## title:, prosa, keys, conceptos, cronología, cierre = español
+     - TOC label debe coincidir con ## title: de cada sección
+     - Término común primero; tecnicismo con glosa en 1.ª aparición
+     - Escena/pregunta → causa → consecuencia; conectores por sección
 -->
 
 # Contenido
@@ -25,7 +34,8 @@ lang: es
 | prefacio | 00  | Prefacio              |
 | cap1     | 01  | Título del capítulo 1 |
 
-<!-- Nota: el cierre puede ubicarse al final del flujo de lectura. La TOC sigue listándolo porque el id es necesario. -->
+<!-- Nota: labels de TOC en español, iguales a ## title: de cada sección.
+     El cierre puede ubicarse al final del flujo de lectura. La TOC sigue listándolo porque el id es necesario. -->
 
 ---
 
@@ -53,14 +63,14 @@ Sexta línea poética o memorable.
 ## title: Título de la sección
 
 <!-- paragraph lead -->
-<!-- Plantear la pregunta o premisa del capítulo en el primer párrafo. Máximo 25 palabras por oración. -->
+<!-- Plantear la pregunta o premisa del capítulo. Máximo 25 palabras por oración. -->
 
 ¿Qué pregunta responde este capítulo? Usar <span class="term">términos</span>, <span class="person">personas</span> y <span class="num">1945</span>.
 
 <!-- paragraph -->
-<!-- Un ejemplo principal por párrafo. Desarrollarlo con sujeto + verbo. Evitar listas de ejemplos. -->
+<!-- Un ejemplo principal por párrafo. Desarrollarlo con sujeto + verbo. Conector de progresión obligatorio. -->
 
-Segundo párrafo si hace falta. Máximo 3–4 párrafos por sección.
+Segundo párrafo si hace falta. Por eso el argumento avanza con sujeto + verbo. Máximo 3–4 párrafos por sección.
 
 <!-- quote -->
 

@@ -179,7 +179,7 @@ export const gunsGermsAndSteel: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Hasta el fin de la última glaciación, alrededor de 11.000 a.C., todos éramos cazadores-recolectores sin excepción continental. Hace unos <span class=\"num\">50.000</span> años ocurrió el <span class=\"term\">Gran Salto Adelante</span>, es decir, el surgimiento de arte, herramientas especializadas y lenguaje moderno. Poco después, gente anatómicamente moderna colonizó Australia y Nueva Guinea cruzando canales marinos. Más tarde llegó a Siberia y a las Américas.",
+          html: "La última glaciación terminó hacia 11.000 a.C. Entonces todos los humanos eran cazadores-recolectores en todos los continentes habitados. Hace unos <span class=\"num\">50.000</span> años ocurrió el <span class=\"term\">Gran Salto Adelante</span>, es decir, el surgimiento de arte, herramientas especializadas y lenguaje moderno. Poco después, gente anatómicamente moderna colonizó Australia y Nueva Guinea cruzando canales marinos. Más tarde llegó a Siberia y a las Américas.",
         },
         {
           type: 'paragraph',
@@ -215,11 +215,11 @@ export const gunsGermsAndSteel: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La diferencia era ambiental. En Nueva Zelanda templada, los maoríes cultivaban, almacenaban surplus y sostenían guerras crónicas. En los Chathams subantárticos, los cultivos tropicales no crecían. Los moriori volvieron a cazar focas y renunciaron a la guerra. Como no había surplus, tampoco hubo artesanos permanentes ni ejércitos.",
+          html: "Pero la diferencia era ambiental. En Nueva Zelanda templada, los maoríes cultivaban, almacenaban excedente y sostenían guerras crónicas. En los Chathams subantárticos, los cultivos tropicales no crecían. Los moriori volvieron a cazar focas y renunciaron a la guerra. Como no había excedente, tampoco hubo artesanos permanentes ni ejércitos.",
         },
         {
           type: 'paragraph',
-          html: "Polinesia entera repitió el experimento a mayor escala. Entre <span class=\"num\">1200 a.C.</span> y <span class=\"num\">1000 d.C.</span>, colonos con la misma cultura base poblaron islas que van desde atolones desiertos hasta Nueva Zelanda. El clima, el área, el aislamiento y los recursos marinos explicaron la diversidad: desde bandas igualitarias hasta proto-imperios con arquitectura monumental.",
+          html: "Por eso Polinesia entera repitió el experimento a mayor escala. Entre <span class=\"num\">1200 a.C.</span> y <span class=\"num\">1000 d.C.</span>, colonos con la misma cultura base poblaron islas que van desde atolones desiertos hasta Nueva Zelanda. El clima, el área, el aislamiento y los recursos marinos explicaron la diversidad: desde bandas igualitarias hasta proto-imperios con arquitectura monumental.",
         },
         {
           type: 'key',
@@ -540,11 +540,11 @@ export const gunsGermsAndSteel: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Muchas epidemias humanas provienen de patógenos animales. El sarampión es pariente del virus de la peste bovina. La viruela lo es de la viruela vacuna. Convivir con ganado durante miles de años permitió a los europeos cierta inmunidad colectiva. Los nativos americanos, australianos y polinesios no tuvieron ese ensayo evolutivo.",
+          html: "Muchas epidemias humanas provienen de patógenos animales. El sarampión es pariente del virus de la peste bovina. La viruela lo es de la viruela vacuna. Por eso convivir con ganado durante miles de años permitió a los europeos cierta inmunidad colectiva. Los nativos americanos, australianos y polinesios no tuvieron ese ensayo evolutivo.",
         },
         {
           type: 'paragraph',
-          html: "La viruela llegó a México en <span class=\"num\">1520</span>, antes que Cortés consolidara la conquista. Para 1618, la población mexica había caído de unos 20 millones a 1,6 millones. Pizarro encontró un imperio ya debilitado por enfermedad y guerra civil. Más indígenas murieron en cama que en batalla.",
+          html: "Así, la viruela llegó a México en <span class=\"num\">1520</span>, antes que Cortés consolidara la conquista. Para 1618, la población mexica había caído de unos 20 millones a 1,6 millones. Pizarro encontró un imperio ya debilitado por enfermedad y guerra civil. Más indígenas murieron en cama que en batalla.",
         },
         {
           type: 'concept-grid',
@@ -756,11 +756,11 @@ export const gunsGermsAndSteel: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "No colonizaron Australia interior ni la alta Papúa: ecología distinta. Sí transformaron Nueva Guinea costera e Indonesia. Diamond ve en Austronesia el mismo patrón que en Europa en América: agricultores con paquete tecnológico desplazan cazadores.",
+          html: "Sin embargo, no colonizaron Australia interior ni la alta Papúa: la ecología era distinta. Sí transformaron Nueva Guinea costera e Indonesia. Diamond ve en Austronesia el mismo patrón que en Europa en América: agricultores con paquete tecnológico desplazan cazadores.",
         },
         {
           type: 'key',
-          html: "La canoa de balancín fue el «speedboat» que convirtió a campesinos taiwaneses en colonos del océano más vasto.",
+          html: "La canoa de balancín fue la lancha rápida que convirtió a campesinos taiwaneses en colonos del océano más vasto.",
         },
         {
           type: 'paragraph',
@@ -816,11 +816,11 @@ export const gunsGermsAndSteel: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Hacia <span class=\"num\">1000 a.C.</span> incorporaron mijo, sorgo, ganado e hierro. La metalurgia del hierro africano pudo ser independiente del Sahel. Avanzaron por África oriental y meridional más rápido que los europeos colonizaran el trópico, detenidos por malaria y tse-tse.",
+          html: "Hacia <span class=\"num\">1000 a.C.</span> incorporaron mijo, sorgo, ganado e hierro. La metalurgia del hierro africano pudo ser independiente del Sahel. Por eso avanzaron por África oriental y meridional más rápido que los europeos colonizaran el trópico, detenidos por malaria y tse-tse.",
         },
         {
           type: 'paragraph',
-          html: "Madagascar fue colonizada por austronesios hacia el año 800 d.C. Fue un cruce oceánico asombroso. Los bantúes absorbieron khoisan por desplazamiento, enfermedad y matrimonio. Los clicks en lenguas bantúes son fósiles lingüísticos. Europa solo dominó el sur mediterráneo africano con cultivos importados.",
+          html: "Además, Madagascar fue colonizada por austronesios hacia el año 800 d.C. Fue un cruce oceánico asombroso. Los bantúes absorbieron khoisan por desplazamiento, enfermedad y matrimonio. Los clicks en lenguas bantúes son fósiles lingüísticos. Europa solo dominó el sur mediterráneo africano con cultivos importados.",
         },
         {
           type: 'key',

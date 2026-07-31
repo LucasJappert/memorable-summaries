@@ -199,7 +199,7 @@ export const sapiens: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Harari invierte la metáfora. El <span class=\"term\">trigo</span> (planta domesticada que exigió trabajo constante) domesticó a Sapiens, no al revés. Exigió despejar campos, regar y luchar contra plagas. Esqueletos agrícolas muestran hernias, artritis y dientes cariados. En Jericó, unos 100 nómadas saludables (~13.000 a.C.) se convirtieron en unos 1.000 aldeanos enfermizos (~8.500 a.C.).",
+          html: "Por eso Harari invierte la metáfora. El <span class=\"term\">trigo</span> (planta domesticada que exigió trabajo constante) domesticó a Sapiens, no al revés. Exigió despejar campos, regar y luchar contra plagas. Esqueletos agrícolas muestran hernias, artritis y dientes cariados. En Jericó, unos 100 nómadas saludables (~13.000 a.C.) se convirtieron en unos 1.000 aldeanos enfermizos (~8.500 a.C.).",
         },
         {
           type: 'paragraph',
@@ -451,7 +451,7 @@ export const sapiens: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La <span class=\"term\">revolución científica</span> comenzó al admitir ignorancia y buscar métodos para llenarla. Antes, tradiciones afirmaban que todo lo esencial ya estaba revelado. <span class=\"person\">Benjamin Franklin</span>, científico y político estadounidense, demostró que el rayo es electricidad. La pobreza dejó de verse como destino divino.",
+          html: "Entonces la <span class=\"term\">revolución científica</span> comenzó al admitir ignorancia y buscar métodos para llenarla. Antes, tradiciones afirmaban que todo lo esencial ya estaba revelado. <span class=\"person\">Benjamin Franklin</span>, científico y político estadounidense, demostró que el rayo es electricidad. La pobreza dejó de verse como destino divino.",
         },
         {
           type: 'paragraph',
@@ -507,7 +507,7 @@ export const sapiens: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El capitalismo reinvirtió ganancias en producción. Cuando faltó mano de obra barata, recurrió a la esclavitud atlántica. Unos <span class=\"num\">10 millones</span> de africanos cruzaron el océano. Sus cuerpos se negociaron en Ámsterdam y Londres con rendimientos del ~<span class=\"num\">6 %</span> anual. Leopoldo II en el Congo mató a millones persiguiendo caucho sin control estatal.",
+          html: "El capitalismo reinvirtió ganancias en producción. Por eso, cuando faltó mano de obra barata, recurrió a la esclavitud atlántica. Unos <span class=\"num\">10 millones</span> de africanos cruzaron el océano. Sus cuerpos se negociaron en Ámsterdam y Londres con rendimientos del ~<span class=\"num\">6 %</span> anual. Leopoldo II en el Congo mató a millones persiguiendo caucho sin control estatal.",
         },
         {
           type: 'paragraph',
@@ -623,7 +623,7 @@ export const sapiens: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Harari cierra donde empezó. Éramos un animal sin importancia. Podemos convertirnos en dioses o en una especie distinta. La historia como la conocemos podría ser solo el aprendizaje previo a algo radicalmente otro.",
+          html: "Por eso Harari cierra donde empezó. Éramos un animal sin importancia. Podemos convertirnos en dioses o en una especie distinta. La historia como la conocemos podría ser solo el aprendizaje previo a algo radicalmente otro.",
         },
         {
           type: 'key',
@@ -770,7 +770,7 @@ export const sapiens: BookSummary = {
     title: "La idea central",
     lines: [
   "Somos un animal que triunfó cooperando en masa gracias a ficciones compartidas.",
-  "Cada revolución cognitiva, agrícola y científica nos dio poder y nos cobró un precio enorme.",
+  "Por eso cada revolución cognitiva, agrícola y científica nos dio poder y nos cobró un precio enorme.",
   "El trigo, el dinero y el algoritmo nos domesticaron tanto como nosotros a ellos.",
   "La pregunta ya no es de dónde venimos, sino hacia qué nos convertimos.",
   "Cada capítulo de esta obra fue, en el fondo, una pregunta sobre ese destino."

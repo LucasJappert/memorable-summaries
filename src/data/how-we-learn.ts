@@ -16,7 +16,7 @@ export const howWeLearn: BookSummary = {
   {
     "id": "prefacio",
     "num": "00",
-    "label": "Introducción"
+    "label": "Homo docens"
   },
   {
     "id": "cap1",
@@ -370,7 +370,7 @@ export const howWeLearn: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La <span class=\"term\">hipótesis del reciclaje neuronal</span> (cada invención cultural busca un nicho en circuitos ya existentes) explica cómo el alfabeto reconvierte áreas evolutivas. Lo mismo ocurre con las cifras. Esos circuitos deben ser lo bastante similares y flexibles. Leer recicla áreas visuales hacia el <span class=\"term\">área de forma visual de palabras</span> (región que reconoce letras y palabras escritas). Calcular recicla circuitos de cantidad.",
+          html: "Por eso, la <span class=\"term\">hipótesis del reciclaje neuronal</span> (cada invención cultural busca un nicho en circuitos ya existentes) explica cómo el alfabeto reconvierte áreas evolutivas. Lo mismo ocurre con las cifras. Esos circuitos deben ser lo bastante similares y flexibles. Leer recicla áreas visuales hacia el <span class=\"term\">área de forma visual de palabras</span> (región que reconoce letras y palabras escritas). Calcular recicla circuitos de cantidad.",
         },
         {
           type: 'paragraph',
@@ -402,7 +402,7 @@ export const howWeLearn: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Lo no atendido queda confinado a áreas sensoriales tempranas. Los sistemas de alerta químicos pueden reabrir plasticidad, como mostraron los experimentos de <span class=\"person\">Michael Merzenich</span> en ratones. Una pasión temprana puede invadir mapas corticales vecinos. El docente debe capturar y guiar la atención, eliminando distracciones innecesarias.",
+          html: "Pero lo no atendido queda confinado a áreas sensoriales tempranas. Por eso, los sistemas de alerta químicos pueden reabrir plasticidad, como mostraron los experimentos de <span class=\"person\">Michael Merzenich</span> en ratones. Una pasión temprana puede invadir mapas corticales vecinos. El docente debe capturar y guiar la atención, eliminando distracciones innecesarias.",
         },
         {
           type: 'key',
@@ -451,7 +451,7 @@ export const howWeLearn: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Henry Roediger</span> mostró que la dificultad deseable mejora la retención. La pasividad deja huellas mínimas, pero hace falta currículo estructurado que guíe la exploración.",
+          html: "Además, <span class=\"person\">Henry Roediger</span> mostró que la dificultad deseable mejora la retención. Por eso, la pasividad deja huellas mínimas, pero hace falta currículo estructurado que guíe la exploración.",
         },
         {
           type: 'key',
@@ -459,7 +459,7 @@ export const howWeLearn: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Las predicciones activas solo sirven si el error las corrige con feedback adecuado.",
+          html: "Las predicciones activas solo sirven si el error las corrige con retroalimentación adecuada.",
         },
       ],
     },
@@ -479,7 +479,7 @@ export const howWeLearn: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Los cuatro pilares se entrelazan en un ciclo. La atención selecciona, el compromiso activo genera predicciones y el error las corrige. Castigar errores con notas o estigma destruye plasticidad emocional. El feedback debe ser correctivo, no punitivo.",
+          html: "Por eso, los cuatro pilares se entrelazan en un ciclo. La atención selecciona, el compromiso activo genera predicciones y el error las corrige. Pero castigar errores con notas o estigma destruye plasticidad emocional: la retroalimentación debe ser correctiva, no punitiva.",
         },
         {
           type: 'quote',
@@ -488,7 +488,7 @@ export const howWeLearn: BookSummary = {
         },
         {
           type: 'key',
-          html: "La calidad del feedback correctivo, no la humillación, determina la velocidad de aprendizaje.",
+          html: "La calidad de la retroalimentación correctiva, no la humillación, determina la velocidad de aprendizaje.",
         },
         {
           type: 'paragraph',
@@ -516,7 +516,7 @@ export const howWeLearn: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Según Dehaene, la mejora nocturna puede alcanzar un factor de <span class=\"num\">10 a 100</span>. Consolidar no es trivializar: libera corteza para razonamiento superior.",
+          html: "Según Dehaene, la mejora nocturna puede alcanzar un factor de <span class=\"num\">10 a 100</span>. Por eso, consolidar no es trivializar: libera corteza para razonamiento superior.",
         },
         {
           type: 'big-numbers',
@@ -672,12 +672,12 @@ export const howWeLearn: BookSummary = {
     title: "La idea central",
     lines: [
   "Aprender es ajustar modelos internos jerárquicos minimizando error, sobre un cerebro ya estructurado al nacer.",
-  "La escuela recicla circuitos evolutivos hacia cultura simbólica; las máquinas aún no igualan nuestra abstracción ni eficiencia.",
+  "Por eso, la escuela recicla circuitos evolutivos hacia cultura simbólica; las máquinas aún no igualan nuestra abstracción ni eficiencia.",
   "Negar la ciencia del aprendizaje perjudica a millones de niños.",
   "Educar bien es aplicar neurociencia con humildad y rigor.",
   "Homo docens puede seguir mejorando mientras entienda su propio algoritmo."
 ],
-    highlight: "Atención, compromiso activo, feedback correctivo y consolidación —incluido el sueño— son los cuatro pilares de toda enseñanza eficaz.",
+    highlight: "Atención, compromiso activo, retroalimentación correctiva y consolidación —incluido el sueño— son los cuatro pilares de toda enseñanza eficaz.",
   },
   footer: {
     line1: "Resumen generado a partir de la obra de Stanislas Dehaene",

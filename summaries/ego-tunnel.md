@@ -14,7 +14,7 @@ lang: es
 
 | id | num | label |
 |----|-----|-------|
-| prefacio | 00 | Introducción |
+| prefacio | 00 | No hay tal cosa como un yo |
 | cap1 | 01 | La aparición de un mundo |
 | cap2 | 02 | Un recorrido por el túnel |
 | cap3 | 03 | La unidad de la conciencia |
@@ -152,7 +152,7 @@ Ese mundo vivido empieza por sentir un cuerpo como propio, no como dato abstract
 # cap4
 
 ## num: 04
-## title: Del cuerpo a la mente: imagen corporal, ECE y yo virtual
+## title: Del cuerpo a la mente
 
 <!-- paragraph lead -->
 ¿Por qué «poseer» el cuerpo parece tan fundamental para sentirse alguien? Los esquiadores extienden la imagen corporal a las puntas de los esquís. Los pilotos, al perímetro del coche. El <span class="term">sentido de propiedad</span>, es decir, la experiencia de que algo es tuyo, integra contenido consciente en el yo.
@@ -209,16 +209,16 @@ Si el yo es modelo, los estados extremos pueden volver visible esa construcción
 # cap6
 
 ## num: 06
-## title: Psiconautas filosóficos: sueños lúcidos
+## title: Psiconautas filosóficos
 
 <!-- paragraph lead -->
 ¿Qué enseñan los estados alterados sobre la frontera entre realidad y simulación? Metzinger los trata como laboratorio fenomenológico. El <span class="term">sueño lúcido</span>, es decir, saber que sueñas mientras sueñas, permite manipular el modelo del yo dentro del túnel onírico.
 
 <!-- paragraph -->
-Metzinger relata su propia ECE de <span class="num">1986</span>, seguida de un falso despertar que destruyó la certeza de estar «en contacto con la realidad». Practica y estudia técnicas de inducción. El yo lúcido no es metafísico sino reconfiguración del PSM en sueño REM.
+Metzinger relata su propia ECE del <span class="num">6 de mayo de 1986</span>. Después vino un falso despertar que destruyó la certeza de estar «en contacto con la realidad». Practica y estudia técnicas de inducción. El yo lúcido no es metafísico sino reconfiguración del PSM en sueño REM.
 
 <!-- paragraph -->
-La pregunta es qué aprendemos sobre la transparencia del ego cuando podemos percibir que el mundo onírico es simulación. El riesgo ético es real: los estados lúcidos prolongados pueden erosionar la frontera vigilia-sueño. Aun así, son evidencia de que el ego es proceso, no sustancia.
+La pregunta es qué aprendemos sobre la transparencia del ego cuando podemos percibir que el mundo onírico es simulación. No está claro si toda ECE es sueño lúcido, pero en ambos casos la vividez no garantiza contacto con la realidad. Por eso el riesgo ético es real: los estados lúcidos prolongados pueden erosionar la frontera vigilia-sueño. Aun así, son evidencia de que el ego es proceso, no sustancia.
 
 <!-- key -->
 Los sueños lúcidos muestran que el túnel puede volverse <span class="key-term">opaco</span> parcialmente: percibes que el mundo es modelo.
@@ -237,7 +237,7 @@ El sueño ordinario confirma lo mismo sin lucidez: el túnel sigue activo aunque
 ¿Por qué soñamos mundos enteros mientras el cuerpo yace inmóvil? En sueño REM el túnel sigue activo. Aparece un mundo sin estímulos externos correspondientes. El sistema opera bajo <span class="term">sueño cifrado</span>, es decir, señales internas interpretadas como percepción.
 
 <!-- paragraph -->
-El psiquiatra <span class="person">Allan Hobson</span> sostiene que soñar es conciencia subjetiva de la activación cerebral durante el sueño. Su modelo <span class="term">AIM</span> (activación, gating entrada-salida, modulación química) mapea estados de vigilia, sueño y sueño. La correlación REM-soñar es cuantitativa, no cualitativa.
+Por eso el psiquiatra <span class="person">Allan Hobson</span> sostiene que soñar es conciencia subjetiva de la activación cerebral durante el sueño. Su modelo <span class="term">AIM</span> (activación, gating entrada-salida, modulación química) mapea estados de vigilia, sueño y sueño. La correlación REM-soñar es cuantitativa, no cualitativa.
 
 <!-- paragraph -->
 Hobson describe el sueño como el estado consciente más autocreativo y más parecido a una psicosis dentro de la normalidad. Pesadillas, parálisis del sueño y falsos despertares muestran lo frágil que es la distinción entre simulación y realidad cuando el modelo es transparente.
@@ -310,7 +310,7 @@ Si el yo es un modelo biológico, la pregunta natural es si una máquina podría
 ¿Puede una máquina tener alguien adentro que sienta? Metzinger llama <span class="term">Ego Machine</span> (máquina de ego) a cualquier sistema capaz de generar un self consciente. Distingue inteligencia, auto-modelado y fenomenología. La pregunta no es solo si pensará, sino si habrá experiencia subjetiva.
 
 <!-- paragraph -->
-Un robot con modelo corporal podría experimentar ilusión de mano de goma, ECE o sueños lúcidos. Existen híbridos biorobóticos (hardware biológico con software artificial) y redes de unas <span class="num">300.000</span> neuronas de rata controlando robots. La distinción natural/artificial no es exhaustiva.
+En consecuencia, un robot con modelo corporal podría experimentar ilusión de mano de goma, ECE o sueños lúcidos. Existen híbridos biorobóticos (hardware biológico con software artificial) y redes de unas <span class="num">300.000</span> neuronas de rata controlando robots. La distinción natural/artificial no es exhaustiva.
 
 <!-- paragraph -->
 Un sistema que se modela a sí mismo no necesariamente siente. Hace falta correlato neural global con la misma dinámica de transparencia. Existe el riesgo de crear sufrimiento sintético sin saberlo. Tenemos obligación epistémica de no dañar sistemas que puedan tener PSM.
@@ -326,7 +326,7 @@ Esas posibilidades ya chocan con tecnologías que alteran el túnel humano hoy.
 # cap11
 
 ## num: 11
-## title: Tecnologías de la conciencia y la imagen de la humanidad
+## title: Tecnologías de la conciencia
 
 <!-- paragraph lead -->
 ¿Qué pasa cuando podemos retocar la conciencia como editamos un archivo? Somos Ego Machines naturales, pero no tenemos selves. Las neurotecnologías (fármacos, estimulación, interfaces, realidad virtual) permiten alterar contenidos del túnel.
@@ -354,7 +354,7 @@ Esa revolución técnica obliga a decidir qué estados subjetivos queremos promo
 ¿Qué estados mentales queremos para nosotros, nuestros hijos y las máquinas del futuro? La <span class="term">revolución de la conciencia</span>, el avance de neurociencias y neurotecnologías, crea conocimiento y riesgos. Podemos alterar con precisión propiedades funcionales del cerebro y fenomenales de la experiencia.
 
 <!-- paragraph -->
-Surge una <span class="term">ética de la conciencia</span>, un marco para evaluar qué estados subjetivos promover o prohibir. El neurocientífico <span class="person">Michael Persinger</span> indujo experiencias religiosas por estimulación electromagnética. Una encuesta de <span class="term">Nature</span> (revista científica) mostró que <span class="num">1 de cada 5</span> científicos usa mejoradores cognitivos sin prescripción.
+Por eso surge una <span class="term">ética de la conciencia</span>, un marco para evaluar qué estados subjetivos promover o prohibir. El neurocientífico <span class="person">Michael Persinger</span> indujo experiencias religiosas por estimulación electromagnética. Una encuesta de <span class="term">Nature</span> (revista científica) mostró que <span class="num">1 de cada 5</span> científicos usa mejoradores cognitivos sin prescripción.
 
 <!-- paragraph -->
 Entre ellos, <span class="num">62%</span> usó metilfenidato (Ritalin). La psicofarmacología cosmética, o sea, usar fármacos no para curar sino para mejorar, ya está aquí. Metzinger plantea preguntas concretas. ¿Qué conciencia queremos para nuestros hijos? ¿Es legítimo inducir euforia permanente o suprimir duelo?
@@ -389,7 +389,7 @@ Sin homúnculo, la responsabilidad es distribuida: la ética debe guiar qué <sp
 # cronologia
 
 ## num: ◈
-## title: Cronología de hitos citados
+## title: Cronología
 
 <!-- timeline -->
 | year | text |
@@ -433,7 +433,7 @@ Sin homúnculo, la responsabilidad es distribuida: la ética debe guiar qué <sp
 ## title: La idea central
 
 <!-- closing -->
-No hay yo en el cerebro ni fuera de él: hay un modelo transparente que parece serlo.
+En suma, no hay yo en el cerebro ni fuera de él: hay un modelo transparente que parece serlo.
 El túnel del ego es el mundo que tu cerebro presenta como realidad inmediata.
 <!-- highlight -->La conciencia es un túnel sin habitante: solo contenido que se experiencia como «yo»<!-- /highlight -->
 Empatía, sueños y máquinas confirman que el centro de la experiencia es representación, no sustancia.

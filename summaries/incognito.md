@@ -14,16 +14,16 @@ lang: es
 
 | id | num | label |
 |----|-----|-------|
-| prefacio | 00 | Prólogo |
+| prefacio | 00 | El yo no está al volante |
 | cap1 | 01 | Hay alguien en mi cabeza, pero no soy yo |
-| cap2 | 02 | El testimonio de los sentidos |
+| cap2 | 02 | El testimonio de los sentidos: ¿cómo es realmente la experiencia? |
 | cap3 | 03 | Mente: la brecha |
 | cap4 | 04 | Las clases de pensamientos pensables |
 | cap5 | 05 | El cerebro es un equipo de rivales |
 | cap6 | 06 | Por qué la culpabilidad es la pregunta equivocada |
 | cap7 | 07 | Vida después de la monarquía |
 | conceptos | ✦ | Conceptos clave |
-| cronologia | ◈ | Cronología |
+| cronologia | ◈ | Cronología de hitos citados |
 | figuras | ✦ | Figuras clave |
 | cierre | — | La idea central |
 
@@ -61,7 +61,7 @@ Para entender ese abismo invisible, Eagleman empieza midiendo cuán pequeña es 
 ¿Quién conduce el barco si casi todo ocurre sin que lo notes? El cerebro pesa unos <span class="num">1,4 kg</span> y contiene cientos de miles de millones de neuronas. Cada una es tan compleja como una ciudad. Una célula típica hace unas <span class="num">10 000</span> conexiones.
 
 <!-- paragraph -->
-En <span class="num">1949</span>, <span class="person">Arthur Alberts</span> grabó música en África occidental. Un nativo acusó al magnetófono de «robarle la lengua». Igual que la voz es física aunque parezca etérea, los pensamientos dependen de sustancia cerebral. El sueño profundo los elimina. El alcohol o el café los modulan. Una lesión del tamaño de un meñique puede cambiar la música, el color o el riesgo que percibes.
+En <span class="num">1949</span>, <span class="person">Arthur Alberts</span> grabó música en África occidental. Por eso, un habitante local acusó al magnetófono de «robarle la lengua». Igual que la voz es física aunque parezca etérea, los pensamientos dependen de sustancia cerebral. El sueño profundo los elimina. El alcohol o el café los modulan. Una lesión del tamaño de un meñique puede cambiar la música, el color o el riesgo que percibes.
 
 <!-- paragraph -->
 Un experimento reciente mostró que hombres califican fotos de mujeres. Las pupilas dilatadas (señal de excitación sexual) las eligen como más atractivas. Ninguno puede explicar por qué. Algo en el cerebro «sabía» lo que la conciencia ignoraba. La conciencia es como un periódico ligero (<em>USA Today</em>): resume lo ya decidido en coaliciones neuronales, y llegas tarde a la información.
@@ -73,7 +73,7 @@ Un experimento reciente mostró que hombres califican fotos de mujeres. Las pupi
 | icon | title | description |
 |------|-------|-------------|
 | 🧠 | Conciencia mínima | El «yo» consciente es la parte más pequeña de la actividad cerebral; la mayoría opera sin permiso de acceso. |
-| 🎙️ | Tremendous magic | Alberts: capturar voz parecía magia; capturar pensamiento es igual de contraintuitivo. |
+| 🎙️ | Magia tremenda | Alberts: capturar voz parecía magia; capturar pensamiento es igual de contraintuitivo. |
 | 🌙 | Analogía Galileo | Como los satélites de Júpiter destrozaron la Tierra en el centro del cosmos, la neurociencia nos saca del centro del yo. |
 
 <!-- quote -->
@@ -145,7 +145,7 @@ Antoine Bechara mostró que la conductancia cutánea advierte de mazos malos ~<s
 |------|-------|-------------|
 | 🚗 | Brecha conocimiento-acceso | Lo que el cerebro sabe ≠ lo que la mente puede verbalizar. |
 | 🎯 | Intuición corporal | Damasio: estados físicos guían decisiones antes que el razonamiento explícito. |
-| 🎾 | CEO vs. robot | La conciencia fija metas; el resto aprende a cumplirlas sin acceso consciente. |
+| 🎾 | Directivo vs. robot | La conciencia fija metas; el resto aprende a cumplirlas sin acceso consciente. |
 
 <!-- quote -->
 > «No puedo abarcar todo lo que soy.»
@@ -178,7 +178,7 @@ En belleza, la proporción cintura-cadera ~<span class="num">0,67–0,8</span> a
 
 <!-- list -->
 - **Instinto vs. automatización** — Instintos vienen en el ADN; automatizar (bicicleta, tenis) ocurre en la vida; ambos quedan fuera del acceso consciente.
-- **Instinct blindness** — Cosmides/Tooby: no vemos los programas que más nos gobiernan porque funcionan demasiado bien.
+- **Ceguera instintiva** — Cosmides/Tooby: no vemos los programas que más nos gobiernan porque funcionan demasiado bien.
 - **James** — Hacer «extraño lo natural»: preguntar por qué sonreímos, por qué palpita el corazón ante multitudes.
 
 <!-- key -->
@@ -209,7 +209,7 @@ En el cerebro dividido (<span class="person">Roger Sperry</span>, Nobel), los he
 <!-- concept-grid -->
 | icon | title | description |
 |------|-------|-------------|
-| ⚖️ | Team of rivals | Partidos neuronales compiten; Lincoln aplicó lo mismo a su gabinete. |
+| ⚖️ | Equipo de rivales | Partidos neuronales compiten; Lincoln aplicó lo mismo a su gabinete. |
 | ⏳ | Ulises | El yo presente negocia con el yo futuro antes de pasar las Sirenas. |
 | 🧩 | Reinventión | La biología no cierra un subroutine: memoria duplicada (hipocampo + amígdala), múltiples detectores de movimiento. |
 
@@ -239,7 +239,7 @@ El «gen peligroso» que multiplica por <span class="num">8–44</span> la viole
 <span class="person">Benjamin Libet</span> registró un potencial de readiness ~<span class="num">1 s</span> antes del «impulso» consciente de mover el dedo. El veto de Libet no salva el libre albedrío con evidencia. El <span class="term">automatismo suficiente</span> (margen mínimo de libre albedrío sobre maquinaria automática) sostiene que la política legal puede prescindir de él, aunque existiera libre albedrío.
 
 <!-- paragraph -->
-Eagleman propone sustituir la <span class="term">culpabilidad</span> (castigo por merecer) por la <span class="term">modificabilidad</span> (¿puede cambiar el cerebro y reincidir?). Sentencia prospectiva con tablas actuariales para delitos sexuales (mejor que psiquiatras). El prefrontal workout usa neurofeedback para fortalecer control de impulsos frente a lobotomía. En todo caso, <em>explicar ≠ exculpar</em>: aún hay que apartar a los peligrosos.
+Eagleman propone sustituir la culpabilidad (castigo por merecer) por la <span class="term">modificabilidad</span> (¿puede cambiar el cerebro y reincidir?). Sentencia prospectiva con tablas actuariales para delitos sexuales (mejor que psiquiatras). El entrenamiento prefrontal usa <span class="term">neurofeedback</span> (retroalimentación cerebral en tiempo real) para fortalecer el control de impulsos frente a la lobotomía. En todo caso, <em>explicar ≠ exculpar</em>: aún hay que apartar a los peligrosos.
 
 <!-- timeline -->
 | year | text |
@@ -291,11 +291,11 @@ Caer del trono consciente no empobrece: revela un cosmos interior tan prodigioso
 | Umwelt | Mundo subjetivo que cada especie (o cerebro) puede captar; fracción del Umgebung. |
 | Memoria implícita | Saber hacer sin poder declarar cómo (cambiar de carril, Tetris en amnésicos). |
 | Inferencia inconsciente | El cerebro completa datos sensoriales con suposiciones previas (Helmholtz). |
-| Team of rivals | Subpoblaciones neuronales compiten por el control del comportamiento. |
+| Equipo de rivales | Subpoblaciones neuronales compiten por el control del comportamiento. |
 | Contrato de Ulises | El yo presente ata al futuro contra tentaciones (club navideño, depósito). |
 | Automatismo suficiente | El libre albedrío, si existe, es marginal; la política legal puede prescindir de él. |
 | Modificabilidad | Criterio prospectivo para castigo/rehabilitación: ¿puede cambiar el cerebro? |
-| Instinct blindness | Invisibilidad de programas evolutivos que funcionan demasiado bien. |
+| Ceguera instintiva | Invisibilidad de programas evolutivos que funcionan demasiado bien. |
 | Emergencia | Mente no reducible a piezas; propiedades nuevas del sistema completo. |
 
 ---
@@ -311,14 +311,14 @@ Caer del trono consciente no empobrece: revela un cosmos interior tan prodigioso
 | 1225–74 | Aquino: acciones sin deliberación → categoría aparte (semilla de lo inconsciente) |
 | 1610 | Galileo observa lunas de Júpiter; caída del geocentrismo |
 | 1646–1716 | Leibniz: percepciones «petites», apetencias inconscientes |
-| 1765 | Publicación póstuma de Leibniz, New Essays |
-| 1895 | Freud y Breuer: Studies on Hysteria; iceberg mental |
-| 1900 | Freud: The Interpretation of Dreams |
-| 1949 | Alberts graba música en África; metáfora «tremendous magic» |
+| 1765 | Publicación póstuma de Leibniz, <em>Nuevos ensayos</em> |
+| 1895 | Freud y Breuer: <em>Estudios sobre la histeria</em>; metáfora del iceberg mental |
+| 1900 | Freud: <em>La interpretación de los sueños</em> |
+| 1949 | Alberts graba música en África; metáfora de la «magia tremenda» |
 | 1960s | Libet: actividad cerebral antes del impulso consciente |
 | 1961 | Primera cirugía de cerebro dividido en humanos (epilepsia) |
 | 1966 | Masacre de la torre de Texas (Whitman) |
-| 1981 | Gazzaniga/LeDoux: narrador post hoc en split-brain |
+| 1981 | Gazzaniga/LeDoux: narrador <em>post hoc</em> en cerebro dividido |
 | 2004 | Jones: egotismo implícito en matrimonios por inicial |
 | 2011 | Publicación de Incognito (Pantheon/Canongate) |
 

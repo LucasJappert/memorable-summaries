@@ -16,7 +16,7 @@ export const incognito: BookSummary = {
   {
     "id": "prefacio",
     "num": "00",
-    "label": "Prólogo"
+    "label": "El yo no está al volante"
   },
   {
     "id": "cap1",
@@ -26,7 +26,7 @@ export const incognito: BookSummary = {
   {
     "id": "cap2",
     "num": "02",
-    "label": "El testimonio de los sentidos"
+    "label": "El testimonio de los sentidos: ¿cómo es realmente la experiencia?"
   },
   {
     "id": "cap3",
@@ -61,7 +61,7 @@ export const incognito: BookSummary = {
   {
     "id": "cronologia",
     "num": "◈",
-    "label": "Cronología"
+    "label": "Cronología de hitos citados"
   },
   {
     "id": "figuras",
@@ -116,7 +116,7 @@ export const incognito: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "En <span class=\"num\">1949</span>, <span class=\"person\">Arthur Alberts</span> grabó música en África occidental. Un nativo acusó al magnetófono de «robarle la lengua». Igual que la voz es física aunque parezca etérea, los pensamientos dependen de sustancia cerebral. El sueño profundo los elimina. El alcohol o el café los modulan. Una lesión del tamaño de un meñique puede cambiar la música, el color o el riesgo que percibes.",
+          html: "En <span class=\"num\">1949</span>, <span class=\"person\">Arthur Alberts</span> grabó música en África occidental. Por eso, un habitante local acusó al magnetófono de «robarle la lengua». Igual que la voz es física aunque parezca etérea, los pensamientos dependen de sustancia cerebral. El sueño profundo los elimina. El alcohol o el café los modulan. Una lesión del tamaño de un meñique puede cambiar la música, el color o el riesgo que percibes.",
         },
         {
           type: 'paragraph',
@@ -135,7 +135,7 @@ export const incognito: BookSummary = {
               "icon": "🧠"
             },
             {
-              "title": "Tremendous magic",
+              "title": "Magia tremenda",
               "description": "Alberts: capturar voz parecía magia; capturar pensamiento es igual de contraintuitivo.",
               "icon": "🎙️"
             },
@@ -250,7 +250,7 @@ export const incognito: BookSummary = {
               "icon": "🎯"
             },
             {
-              "title": "CEO vs. robot",
+              "title": "Directivo vs. robot",
               "description": "La conciencia fija metas; el resto aprende a cumplirlas sin acceso consciente.",
               "icon": "🎾"
             }
@@ -297,7 +297,7 @@ export const incognito: BookSummary = {
           type: 'list',
           items: [
             "**Instinto vs. automatización** — Instintos vienen en el ADN; automatizar (bicicleta, tenis) ocurre en la vida; ambos quedan fuera del acceso consciente.",
-            "**Instinct blindness** — Cosmides/Tooby: no vemos los programas que más nos gobiernan porque funcionan demasiado bien.",
+            "**Ceguera instintiva** — Cosmides/Tooby: no vemos los programas que más nos gobiernan porque funcionan demasiado bien.",
             "**James** — Hacer «extraño lo natural»: preguntar por qué sonreímos, por qué palpita el corazón ante multitudes."
           ],
         },
@@ -337,7 +337,7 @@ export const incognito: BookSummary = {
           type: 'concept-grid',
           items: [
             {
-              "title": "Team of rivals",
+              "title": "Equipo de rivales",
               "description": "Partidos neuronales compiten; Lincoln aplicó lo mismo a su gabinete.",
               "icon": "⚖️"
             },
@@ -387,7 +387,7 @@ export const incognito: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Eagleman propone sustituir la <span class=\"term\">culpabilidad</span> (castigo por merecer) por la <span class=\"term\">modificabilidad</span> (¿puede cambiar el cerebro y reincidir?). Sentencia prospectiva con tablas actuariales para delitos sexuales (mejor que psiquiatras). El prefrontal workout usa neurofeedback para fortalecer control de impulsos frente a lobotomía. En todo caso, <em>explicar ≠ exculpar</em>: aún hay que apartar a los peligrosos.",
+          html: "Eagleman propone sustituir la culpabilidad (castigo por merecer) por la <span class=\"term\">modificabilidad</span> (¿puede cambiar el cerebro y reincidir?). Sentencia prospectiva con tablas actuariales para delitos sexuales (mejor que psiquiatras). El entrenamiento prefrontal usa <span class=\"term\">neurofeedback</span> (retroalimentación cerebral en tiempo real) para fortalecer el control de impulsos frente a la lobotomía. En todo caso, <em>explicar ≠ exculpar</em>: aún hay que apartar a los peligrosos.",
         },
         {
           type: 'timeline',
@@ -467,7 +467,7 @@ export const incognito: BookSummary = {
     "description": "El cerebro completa datos sensoriales con suposiciones previas (Helmholtz)."
   },
   {
-    "title": "Team of rivals",
+    "title": "Equipo de rivales",
     "description": "Subpoblaciones neuronales compiten por el control del comportamiento."
   },
   {
@@ -483,7 +483,7 @@ export const incognito: BookSummary = {
     "description": "Criterio prospectivo para castigo/rehabilitación: ¿puede cambiar el cerebro?"
   },
   {
-    "title": "Instinct blindness",
+    "title": "Ceguera instintiva",
     "description": "Invisibilidad de programas evolutivos que funcionan demasiado bien."
   },
   {
@@ -506,19 +506,19 @@ export const incognito: BookSummary = {
   },
   {
     "year": "1765",
-    "text": "Publicación póstuma de Leibniz, New Essays"
+    "text": "Publicación póstuma de Leibniz, <em>Nuevos ensayos</em>"
   },
   {
     "year": "1895",
-    "text": "Freud y Breuer: Studies on Hysteria; iceberg mental"
+    "text": "Freud y Breuer: <em>Estudios sobre la histeria</em>; metáfora del iceberg mental"
   },
   {
     "year": "1900",
-    "text": "Freud: The Interpretation of Dreams"
+    "text": "Freud: <em>La interpretación de los sueños</em>"
   },
   {
     "year": "1949",
-    "text": "Alberts graba música en África; metáfora «tremendous magic»"
+    "text": "Alberts graba música en África; metáfora de la «magia tremenda»"
   },
   {
     "year": "1960s",
@@ -534,7 +534,7 @@ export const incognito: BookSummary = {
   },
   {
     "year": "1981",
-    "text": "Gazzaniga/LeDoux: narrador post hoc en split-brain"
+    "text": "Gazzaniga/LeDoux: narrador <em>post hoc</em> en cerebro dividido"
   },
   {
     "year": "2004",

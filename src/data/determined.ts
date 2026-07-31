@@ -31,7 +31,7 @@ export const determined: BookSummary = {
   {
     "id": "cap4",
     "num": "04",
-    "label": "Voluntad de hierro: mito del grit"
+    "label": "Voluntad de hierro: el mito del grit"
   },
   {
     "id": "cap5",
@@ -179,7 +179,7 @@ export const determined: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Aquí Sapolsky hace una concesión clave. Los compatibilistas objetan que las tareas son artificiales. Sostienen que la predicción real ronda el <span class=\"num\">60 %</span> y que existe un «free won't», un veto de última hora. Puede que tengan razón y que Libet no mate el libre albedrío. Da igual, porque la pregunta decisiva es anterior: ¿de dónde salió la intención? Podemos hacer lo que queremos, pero no elegimos qué queremos.",
+          html: "Aquí Sapolsky hace una concesión clave. Los compatibilistas objetan que las tareas son artificiales. Sostienen que la predicción real ronda el <span class=\"num\">60 %</span> y que existe un «veto consciente» (el «free won't» de Libet), un freno de última hora. Puede que tengan razón y que Libet no mate el libre albedrío. Da igual, porque la pregunta decisiva es anterior: ¿de dónde salió la intención? Podemos hacer lo que queremos, pero no elegimos qué queremos.",
         },
         {
           type: 'key',
@@ -222,7 +222,7 @@ export const determined: BookSummary = {
     {
       id: "cap4",
       num: "04",
-      title: "Voluntad de hierro: mito del grit",
+      title: "Voluntad de hierro: el mito del grit",
       blocks: [
         {
           type: 'paragraph',
@@ -395,7 +395,7 @@ export const determined: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "¿Rescata el azar cuántico la libertad o solo la vuelve impredecible y absurda? Sapolsky cierra la puerta cuántica con tres golpes. Primero, esos efectos no «burbujean» hasta la conducta. El cerebro es cálido, húmedo y ruidoso, y la decoherencia los borra mucho antes de que un pensamiento se forme. Max Tegmark refutó por esta vía la teoría de los microtúbulos de Penrose y Hameroff.",
+          html: "¿Rescata el azar cuántico la libertad o solo la vuelve impredecible y absurda? Sapolsky cierra la puerta cuántica con tres golpes. Primero, esos efectos no «burbujean» hasta la conducta. Por eso el cerebro cálido, húmedo y ruidoso borra el azar cuántico con la decoherencia mucho antes de que un pensamiento se forme. Max Tegmark refutó por esta vía la teoría de los microtúbulos de Penrose y Hameroff.",
         },
         {
           type: 'paragraph',
@@ -539,7 +539,7 @@ export const determined: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La alternativa coherente es el modelo de <span class=\"term\">cuarentena</span> (contener el peligro como se aísla una enfermedad, sin castigo merecido). Lo impulsan Derk Pereboom y Gregg Caruso. Contiene el peligro con la mínima restricción necesaria y ataca los determinantes sociales del delito. Contra la objeción de que sin castigo nada disuade, Noruega ofrece la prueba. Tiene una fracción de los homicidios, del encarcelamiento y de la reincidencia de Estados Unidos.",
+          html: "La alternativa coherente es el modelo de <span class=\"term\">cuarentena</span> (contener el peligro como se aísla una enfermedad, sin castigo merecido). Lo impulsan Derk Pereboom y Gregg Caruso. Contiene el peligro con la mínima restricción necesaria y ataca los determinantes sociales del delito. Contra la objeción de que sin castigo nada disuade, Noruega ofrece la prueba. Tiene una octava parte de los homicidios, una undécima parte del encarcelamiento y una cuarta parte de la reincidencia de Estados Unidos.",
         },
         {
           type: 'key',
@@ -567,7 +567,7 @@ export const determined: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Vuelve entonces la imagen del graduado y el basurero. El graduado y el basurero, con genes e infancias intercambiados, intercambiarían destinos. El fenómeno del John Henryism muestra algo más. Creer que solo el esfuerzo vence a un sistema injusto llega a enfermar el cuerpo. Quien encuentre liberadora esta conclusión en lugar de amenazante probablemente fue de los afortunados.",
+          html: "Vuelve entonces la imagen del graduado y el basurero: con genes e infancias intercambiados, intercambiarían destinos. El fenómeno del John Henryism muestra algo más. Creer que solo el esfuerzo vence a un sistema injusto llega a enfermar el cuerpo. Quien encuentre liberadora esta conclusión en lugar de amenazante probablemente fue de los afortunados.",
         },
         {
           type: 'key',

@@ -16,7 +16,7 @@ export const theBrain: BookSummary = {
   {
     "id": "prefacio",
     "num": "00",
-    "label": "Introducción"
+    "label": "El material que te hace ser tú"
   },
   {
     "id": "cap1",
@@ -56,7 +56,7 @@ export const theBrain: BookSummary = {
   {
     "id": "cronologia",
     "num": "◈",
-    "label": "Cronología"
+    "label": "Cronología de hitos citados"
   },
   {
     "id": "figuras",
@@ -110,7 +110,7 @@ export const theBrain: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Un cerebro adulto pesa unas <span class=\"num\">1,4 kg</span>, con consistencia de gelatina firme. Pensamientos, sueños y recuerdos surgen de pulsos electroquímicos. Cuando esa actividad cesa, tú cesas. A diferencia de otros órganos, dañar un fragmento pequeño puede cambiar radicalmente quién eres.",
+          html: "Un cerebro adulto pesa unas <span class=\"num\">1,4 kg</span>, con consistencia de gelatina firme. Pensamientos, sueños y recuerdos surgen de pulsos electroquímicos. Por eso, cuando esa actividad cesa, tú cesas. A diferencia de otros órganos, dañar un fragmento pequeño puede cambiar radicalmente quién eres.",
         },
         {
           type: 'paragraph',
@@ -396,7 +396,7 @@ export const theBrain: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La <span class=\"term\">sustitución sensorial</span> (traducir datos por cualquier canal periférico) prueba que no importa el canal: importa el patrón de datos. Bach-y-Rita mostró «ver» con cámara traducida a presión en la espalda. El chaleco VEST lleva el mismo principio al oído y al tacto.",
+          html: "La <span class=\"term\">sustitución sensorial</span> (traducir datos por cualquier canal periférico) prueba que no importa el canal: importa el patrón de datos. Por eso, Bach-y-Rita mostró «ver» con cámara traducida a presión en la espalda. El chaleco VEST lleva el mismo principio al oído y al tacto.",
         },
         {
           type: 'paragraph',
@@ -482,7 +482,7 @@ export const theBrain: BookSummary = {
   },
   {
     "year": "2015",
-    "text": "Eagleman publica «The Brain: The Story of You»."
+    "text": "Eagleman publica «El cerebro: La historia de ti»."
   }
 ],
   figures: [
@@ -527,7 +527,7 @@ export const theBrain: BookSummary = {
     title: "La idea central",
     lines: [
   "Eres el producto de un órgano que nunca deja de reescribirse.",
-  "Cada experiencia deja huella en el cableado que define quién eres.",
+  "Por eso, cada experiencia deja huella en el cableado que define quién eres.",
   "Lo que llamas «tú» suele llegar cuando el trabajo neural ya está avanzado.",
   "Entender esto no nos quita agencia: nos obliga a diseñar mejor educación, justicia y futuro tecnológico.",
   "Somos obras en progreso, de la cuna a la prótesis."

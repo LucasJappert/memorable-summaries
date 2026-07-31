@@ -21,7 +21,7 @@ export const biosignaturesAstrobiology: BookSummary = {
   {
     "id": "prefacio",
     "num": "00",
-    "label": "Prólogo"
+    "label": "Registros terrestres, búsqueda extraterrestre"
   },
   {
     "id": "cap1",
@@ -31,67 +31,67 @@ export const biosignaturesAstrobiology: BookSummary = {
   {
     "id": "cap2",
     "num": "02",
-    "label": "NanoSIMS y materia orgánica"
+    "label": "NanoSIMS y materia orgánica en muestras terrestres y extraterrestres"
   },
   {
     "id": "cap3",
     "num": "03",
-    "label": "Barberton: una advertencia"
+    "label": "Barberton: desenredar el registro fósil microbiano"
   },
   {
     "id": "cap4",
     "num": "04",
-    "label": "Ventanas al origen de la vida"
+    "label": "Ventanas al origen de la vida en la Tierra y Marte"
   },
   {
     "id": "cap5",
     "num": "05",
-    "label": "Fósiles silicatos de orgánicos"
+    "label": "Modelos de fósiles silicatos de materiales orgánicos"
   },
   {
     "id": "cap6",
     "num": "06",
-    "label": "Fosfatización de microfósiles"
+    "label": "Fosfatización de microfósiles e implicaciones astrobiológicas"
   },
   {
     "id": "cap7",
     "num": "07",
-    "label": "Fósiles proterozoicos de la India"
+    "label": "Fósiles unicelulares y multicelulares proterozoicos de la India"
   },
   {
     "id": "cap8",
     "num": "08",
-    "label": "Comunidades microbianas en estromatolitos"
+    "label": "Comunidades microbianas de estromatolitos"
   },
   {
     "id": "cap9",
     "num": "09",
-    "label": "Biofábricas de sinter en fuentes termales"
+    "label": "Biofábricas de sinter en fuentes termales (Uzon, Kamchatka)"
   },
   {
     "id": "cap10",
     "num": "10",
-    "label": "Mantos cianobacterianos en siliciclásticos"
+    "label": "Rasgos de mantos cianobacterianos en siliciclásticos"
   },
   {
     "id": "cap11",
     "num": "11",
-    "label": "Origen de la vida y de los animales"
+    "label": "Descifrar el origen de la vida y de los animales"
   },
   {
     "id": "cap12",
     "num": "12",
-    "label": "Microbios en el subsuelo terrestre"
+    "label": "Microorganismos en el subsuelo antiguo — ¿y en el espacio?"
   },
   {
     "id": "cap13",
     "num": "13",
-    "label": "Vida microbiana en estructuras de impacto"
+    "label": "Vida microbiana antigua en estructuras de impacto"
   },
   {
     "id": "cap14",
     "num": "14",
-    "label": "Datación filogenómica de metabolismos"
+    "label": "Datación filogenómica y ancestria de metabolismos procariotas"
   },
   {
     "id": "cap15",
@@ -101,7 +101,7 @@ export const biosignaturesAstrobiology: BookSummary = {
   {
     "id": "cap16",
     "num": "16",
-    "label": "Endolitos en ambientes áridos"
+    "label": "Endolitos en ambientes áridos terrestres"
   },
   {
     "id": "cap17",
@@ -111,7 +111,7 @@ export const biosignaturesAstrobiology: BookSummary = {
   {
     "id": "cap18",
     "num": "18",
-    "label": "Inteligencia humana y convergencia evolutiva"
+    "label": "Inteligencia humana no es rasgo convergente"
   },
   {
     "id": "cap19",
@@ -121,17 +121,17 @@ export const biosignaturesAstrobiology: BookSummary = {
   {
     "id": "cap20",
     "num": "20",
-    "label": "Huellas astronómicas en el registro fósil"
+    "label": "Huellas astronómicas y astrobiológicas en el registro fósil"
   },
   {
     "id": "cap21",
     "num": "21",
-    "label": "¿Impactos y extinciones masivas?"
+    "label": "¿Los impactos causan la mayoría de extinciones masivas?"
   },
   {
     "id": "cap22",
     "num": "22",
-    "label": "Irradiación de analogos cometarios"
+    "label": "Irradiación de analogos cometarios y origen de la vida"
   },
   {
     "id": "cap23",
@@ -141,22 +141,22 @@ export const biosignaturesAstrobiology: BookSummary = {
   {
     "id": "cap24",
     "num": "24",
-    "label": "Improntas moleculares de redes de reacción"
+    "label": "Improntas moleculares: ¿vivas o no vivas?"
   },
   {
     "id": "cap25",
     "num": "25",
-    "label": "El caso ALH84001 en Marte"
+    "label": "El caso ALH84001 por vida en Marte"
   },
   {
     "id": "cap26",
     "num": "26",
-    "label": "Ventanas de preservación en Marte"
+    "label": "Ventanas de preservación paleobiológica en Marte"
   },
   {
     "id": "cap27",
     "num": "27",
-    "label": "Síntesis y conclusiones"
+    "label": "Síntesis, comentarios finales y conclusiones"
   },
   {
     "id": "conceptos",
@@ -166,7 +166,7 @@ export const biosignaturesAstrobiology: BookSummary = {
   {
     "id": "cronologia",
     "num": "◈",
-    "label": "Cronología"
+    "label": "Cronología de hitos citados en el volumen"
   },
   {
     "id": "figuras",
@@ -187,7 +187,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La <span class=\"term\">astrobiología</span> (ciencia que estudia el origen y la distribución de la vida) integra astronomía, química y ciencias planetarias. Este libro reúne a <span class=\"num\">30</span> contribuyentes de <span class=\"num\">16</span> países. Cubre geología, biología y ciencias espaciales en tres bloques. Cierra con capítulos sobre Marte y perspectivas generales.",
+          html: "La <span class=\"term\">astrobiología</span> (ciencia que estudia el origen y la distribución de la vida) integra astronomía, química y ciencias planetarias. Además, este libro reúne a <span class=\"num\">30</span> contribuyentes de <span class=\"num\">16</span> países. Cubre geología, biología y ciencias espaciales en tres bloques. Cierra con capítulos sobre Marte y perspectivas generales.",
         },
         {
           type: 'key',
@@ -276,7 +276,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Con biomarcadores químicos cada vez más sensibles, discriminar actividad sindeposicional de procesos posteriores es crítico para astrobiología.",
+          html: "Por eso, con biomarcadores químicos cada vez más sensibles, discriminar actividad sindeposicional de procesos posteriores es crítico para astrobiología.",
         },
         {
           type: 'key',
@@ -380,7 +380,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Hay que priorizar ventanas fosfáticas análogas si hubo organismos extraterrestres microscópicos.",
+          html: "Por tanto, hay que priorizar ventanas fosfáticas análogas si hubo organismos extraterrestres microscópicos.",
         },
         {
           type: 'key',
@@ -436,7 +436,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Perfilado lipídico y diversidad microbiana en mantos modernos vinculan firmas químicas estables con componentes bióticos. Eso une geología y microbiología.",
+          html: "Además, el perfilado lipídico y diversidad microbiana en mantos modernos vinculan firmas químicas estables con componentes bióticos. Eso une geología y microbiología.",
         },
         {
           type: 'key',
@@ -492,7 +492,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Esos rasgos sedimentarios complementan el registro carbonático de estromatolitos. Amplían el catálogo de biosignaturas para Marte.",
+          html: "Además, esos rasgos sedimentarios complementan el registro carbonático de estromatolitos. Amplían el catálogo de biosignaturas para Marte.",
         },
         {
           type: 'key',
@@ -544,11 +544,11 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Las superficies de planetas sin atmósfera protectora, como Marte, están esterilizadas por rayos UV. El subsuelo promete refugio. Preguntas abiertas: ¿son los microbios tan antiguos como la roca? ¿Existen formas dormantes distintas de endosporas?",
+          html: "Las superficies de planetas sin atmósfera protectora, como Marte, están esterilizadas por rayos UV. Por eso, el subsuelo promete refugio. Preguntas abiertas: ¿son los microbios tan antiguos como la roca? ¿Existen formas dormantes distintas de endosporas?",
         },
         {
           type: 'paragraph',
-          html: "Investigación aplicada en residuos radiactivos y acuíferos contaminados informa instrumentos y estrategias. Ayuda a buscar organics y vida en profundidad extraterrestre.",
+          html: "Investigación aplicada en residuos radiactivos y acuíferos contaminados informa instrumentos y estrategias. También ayuda a buscar materia orgánica y vida en profundidad extraterrestre.",
         },
         {
           type: 'key',
@@ -652,7 +652,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Los carbonatos authigénicos derivados de metano precipitan con comunidades microbianas que fijan la base trófica. Arqueas metanotróficas y consorcios simbióticos con metazoos participan en el proceso. El interés se extiende a Europa, Titán y Marte.",
+          html: "Además, los carbonatos authigénicos derivados de metano precipitan con comunidades microbianas que fijan la base trófica. Arqueas metanotróficas y consorcios simbióticos con metazoos participan en el proceso. El interés se extiende a Europa, Titán y Marte.",
         },
         {
           type: 'paragraph',
@@ -704,7 +704,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La detección de <span class=\"term\">sulfatos</span> (sales de azufre) en Marte impulsa el interés en evaporitas continentales. Podrían haber albergado endolitos en el pasado o aún hoy.",
+          html: "Por eso, la detección de <span class=\"term\">sulfatos</span> (sales de azufre) en Marte impulsa el interés en evaporitas continentales. Podrían haber albergado endolitos en el pasado o aún hoy.",
         },
         {
           type: 'key',
@@ -728,7 +728,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Proponen su potencial en terraformación de Marte por respiración con nitratos o hierro, fijación de CO₂ en oscuridad y uso de nitrógeno molecular. Complementarían fototróficos y extremófilos ya considerados candidatos.",
+          html: "Además, proponen su potencial en terraformación de Marte por respiración con nitratos o hierro, fijación de CO₂ en oscuridad y uso de nitrógeno molecular. Complementarían fototróficos y extremófilos ya considerados candidatos.",
         },
         {
           type: 'paragraph',
@@ -788,7 +788,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Es una posición minoritaria y altamente especulativa dentro del volumen. Ilustra el espectro filosófico de la astrobiología más allá del empirismo geológico.",
+          html: "Sin embargo, es una posición minoritaria y altamente especulativa dentro del volumen. Ilustra el espectro filosófico de la astrobiología más allá del empirismo geológico.",
         },
         {
           type: 'key',
@@ -812,7 +812,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Meteoritos, lunares y cometas conservan implantes iónicos y radionúcleidos de rayos cósmicos. Archivos terrestres como sedimentos marinos, corales y nódulos de manganeso registran proxies climáticos detallados.",
+          html: "Además, meteoritos, lunares y cometas conservan implantes iónicos y radionúcleidos de rayos cósmicos. Archivos terrestres como sedimentos marinos, corales y nódulos de manganeso registran proxies climáticos detallados.",
         },
         {
           type: 'paragraph',
@@ -830,7 +830,7 @@ export const biosignaturesAstrobiology: BookSummary = {
     },
     {
       id: "cap21",
-      num: "20",
+      num: "21",
       title: "¿Los impactos causan la mayoría de extinciones masivas?",
       blocks: [
         {
@@ -840,7 +840,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Horizontes propuestos en otras grandes extinciones resultaron de edad o tamaño incorrectos. Muchos impactos del Eoceno tardío no causaron extinción. Las erupciones de basalto de inundación tampoco explican todos los eventos.",
+          html: "Sin embargo, horizontes propuestos en otras grandes extinciones resultaron de edad o tamaño incorrectos. Muchos impactos del Eoceno tardío no causaron extinción. Las erupciones de basalto de inundación tampoco explican todos los eventos.",
         },
         {
           type: 'paragraph',
@@ -858,7 +858,7 @@ export const biosignaturesAstrobiology: BookSummary = {
     },
     {
       id: "cap22",
-      num: "21",
+      num: "22",
       title: "Irradiación de analogos cometarios y origen de la vida",
       blocks: [
         {
@@ -868,7 +868,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Los cometas, casi coetáneos con el sistema solar, pueden haber aportado materia orgánica a la Tierra primitiva. La hipótesis se remonta a <span class=\"person\">J. Oró</span> en <span class=\"num\">1961</span>. Los impactos son paradójicos: entregan organics y gases nobles pero también pueden extinguir vida.",
+          html: "Los cometas, casi coetáneos con el sistema solar, pueden haber aportado materia orgánica a la Tierra primitiva. La hipótesis se remonta a <span class=\"person\">J. Oró</span> en <span class=\"num\">1961</span>. Los impactos son paradójicos: entregan materia orgánica y gases nobles pero también pueden extinguir vida.",
         },
         {
           type: 'paragraph',
@@ -876,7 +876,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'key',
-          html: "Cometa significa química prebiótica en hielo y posible entrega de organics, pero también agente de destrucción masiva.",
+          html: "Cometa significa química prebiótica en hielo y posible entrega de materia orgánica, pero también agente de destrucción masiva.",
         },
         {
           type: 'paragraph',
@@ -886,7 +886,7 @@ export const biosignaturesAstrobiology: BookSummary = {
     },
     {
       id: "cap23",
-      num: "22",
+      num: "23",
       title: "El Big Bang en el tiempo cero",
       blocks: [
         {
@@ -896,7 +896,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Los premios Nobel de 1965 y 2006 consolidaron un universo con inicio hace ~<span class=\"num\">14 mil millones</span> de años. Reconocieron la detección y el detalle de la radiación cósmica de fondo frente a la teoría del estado estacionario.",
+          html: "Además, los premios Nobel de 1965 y 2006 consolidaron un universo con inicio hace ~<span class=\"num\">14 mil millones</span> de años. Reconocieron la detección y el detalle de la radiación cósmica de fondo frente a la teoría del estado estacionario.",
         },
         {
           type: 'paragraph',
@@ -914,7 +914,7 @@ export const biosignaturesAstrobiology: BookSummary = {
     },
     {
       id: "cap24",
-      num: "23",
+      num: "24",
       title: "Improntas moleculares: ¿vivas o no vivas?",
       blocks: [
         {
@@ -928,7 +928,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Las improntas moleculares, lejos de ser solo obstáculo, pueden identificar unidades materiales capaces de buscar contextos donde encajar. Es marco para el origen de la vida en contexto cosmológico.",
+          html: "Por eso, las improntas moleculares, lejos de ser solo obstáculo, pueden identificar unidades materiales capaces de buscar contextos donde encajar. Es marco para el origen de la vida en contexto cosmológico.",
         },
         {
           type: 'key',
@@ -942,7 +942,7 @@ export const biosignaturesAstrobiology: BookSummary = {
     },
     {
       id: "cap25",
-      num: "24",
+      num: "25",
       title: "El caso ALH84001 por vida en Marte",
       blocks: [
         {
@@ -970,7 +970,7 @@ export const biosignaturesAstrobiology: BookSummary = {
     },
     {
       id: "cap26",
-      num: "25",
+      num: "26",
       title: "Ventanas de preservación paleobiológica en Marte",
       blocks: [
         {
@@ -984,7 +984,7 @@ export const biosignaturesAstrobiology: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Integrar geomorfología, mineralogía y geoquímica define dónde buscar texturas organosedimentarias, quimiofósiles o moléculas orgánicas preservables.",
+          html: "Por eso, integrar geomorfología, mineralogía y geoquímica define dónde buscar texturas organosedimentarias, quimiofósiles o moléculas orgánicas preservables.",
         },
         {
           type: 'key',
@@ -1102,7 +1102,7 @@ export const biosignaturesAstrobiology: BookSummary = {
   },
   {
     "year": "2004–2005",
-    "text": "Detección de metano en atmósfera marciana; impulso a analogos de cold seeps."
+    "text": "Detección de metano en atmósfera marciana; impulso a análogos de filtraciones de metano."
   },
   {
     "year": "2009",
@@ -1151,12 +1151,12 @@ export const biosignaturesAstrobiology: BookSummary = {
     title: "La idea central",
     lines: [
   "La astrobiología no empieza en el telescopio: empieza en el registro fósil terrestre.",
-  "Cada capítulo aporta un tipo de biosignatura: morfológica, química, sedimentaria o isotópica.",
-  "Estromatolitos, seeps de metano, endolitos y ventanas martianas son piezas de un mismo mapa.",
-  "ALH84001 y NanoSIMS recuerdan que la evidencia rara vez es inequívoca al primer aviso.",
+  "Por eso, cada capítulo aporta un tipo de biosignatura: morfológica, química, sedimentaria o isotópica.",
+  "Estromatolitos, filtraciones de metano, endolitos y ventanas marcianas son piezas de un mismo mapa.",
+  "Además, ALH84001 y NanoSIMS recuerdan que la evidencia rara vez es inequívoca al primer aviso.",
   "Buscar vida más allá de la Tierra es, ante todo, aprender a leer la vida que ya dejó huella aquí."
 ],
-    highlight: "La Tierra es el único ground truth; extrapolar exige humildad proporcional a la distancia en tiempo y espacio.",
+    highlight: "La Tierra es la única referencia confirmada; extrapolar exige humildad proporcional a la distancia en tiempo y espacio.",
   },
   footer: {
     line1: "Resumen generado a partir de la obra editada por Joseph Seckbach y Maud M. Walsh",

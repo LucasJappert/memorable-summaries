@@ -62,7 +62,7 @@ export const selfAssemblingBrain: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Hay información de desarrollo ya incorporada antes del aprendizaje. El autor estructura el libro en diez seminarios ficticios. Participan un neurocientífico, una genetista del desarrollo, un ingeniero de robots y un investigador de IA.",
+          html: "Por eso, hay información de desarrollo ya incorporada antes del aprendizaje. El autor estructura el libro en diez seminarios ficticios. Participan un neurocientífico, una genetista del desarrollo, un ingeniero de robots y un investigador de IA.",
         },
         {
           type: 'paragraph',
@@ -190,7 +190,7 @@ export const selfAssemblingBrain: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La «información relevante» no es absoluta. Depende del nivel donde se evalúa el fenotipo.",
+          html: "De ahí que la «información relevante» no sea absoluta: depende del nivel donde se evalúa el fenotipo.",
         },
         {
           type: 'key',
@@ -278,11 +278,7 @@ export const selfAssemblingBrain: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La evolución selecciona la salida fenotípica y no predice la trayectoria interna. <span class=\"person\">Stephen Wolfram</span>, investigador de sistemas complejos, subestimó esto al concluir que la evolución no puede «reprogramar» sistemas tan complejos como rule 110. La selección no necesita predecir.",
-        },
-        {
-          type: 'paragraph',
-          html: "Solo evalúa el resultado tras el crecimiento completo.",
+          html: "La evolución selecciona la salida fenotípica y no predice la trayectoria interna. <span class=\"person\">Stephen Wolfram</span>, investigador de sistemas complejos, subestimó esto al concluir que la evolución no puede «reprogramar» sistemas tan complejos como rule 110. Por eso, la selección no necesita predecir el camino interno. Solo evalúa el resultado tras el crecimiento completo.",
         },
         {
           type: 'key',
@@ -402,7 +398,7 @@ export const selfAssemblingBrain: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El cerebro biológico nunca arranca de ese modo. El número de neuronas, los tipos celulares y las conexiones cambian mientras aprende. Una red de clasificación de imágenes con <span class=\"num\">650.000</span> neuronas supera a una mosca en visión.",
+          html: "Por el contrario, el cerebro biológico nunca arranca de ese modo: el número de neuronas, los tipos celulares y las conexiones cambian mientras aprende. Una red de clasificación de imágenes con <span class=\"num\">650.000</span> neuronas supera a una mosca en visión.",
         },
         {
           type: 'paragraph',
@@ -442,7 +438,7 @@ export const selfAssemblingBrain: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Las interfaces corticales actuales estimulan regiones, no células específicas. La integración requiere coaprendizaje en el tiempo, no solo hardware. «Crecer juntos» (desarrollo) y «aprender juntos» (función) son procesos distintos que no se pueden acortar arbitrariamente.",
+          html: "Por eso, las interfaces corticales actuales estimulan regiones, no células específicas. La integración requiere coaprendizaje en el tiempo, no solo hardware. «Crecer juntos» (desarrollo) y «aprender juntos» (función) son procesos distintos que no se pueden acortar arbitrariamente.",
         },
         {
           type: 'paragraph',

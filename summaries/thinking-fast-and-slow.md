@@ -67,13 +67,13 @@ lang: es
 <!-- closing -->
 
 La mente no es una calculadora racional sino un escenario donde un pensamiento rápido e intuitivo domina al deliberado.
-Reconocer sesgos, usar la visión externa, fórmulas simples y mejores marcos puede mejorar juicios sin negar nuestra inteligencia cotidiana.
+Por eso reconocer sesgos, usar la visión externa, fórmulas simples y mejores marcos puede mejorar juicios sin negar nuestra inteligencia cotidiana.
 
 <!-- highlight -->Pensar bien exige nombrar los errores del Sistema 1 y activar con parsimonia al Sistema 2.<!-- /highlight -->
 
-Tres distinciones recapitulan el libro: dos yoes, econs frente a humanos, dos sistemas.
+De ahí que tres distinciones recapitulen el libro: dos yoes, econs frente a humanos, dos sistemas.
 Las organizaciones pueden educar el «chisme informado» en lugar de confiar ciegamente en intuición o narrativas.
-La humildad ante el azar es tan importante como cualquier técnica.
+Por eso la humildad ante el azar es tan importante como cualquier técnica.
 
 ---
 
@@ -466,7 +466,7 @@ Un patrón estadístico malinterpretado en evaluación es la regresión a la med
 Un instructor de vuelo israelí notó que tras elogiar maniobras buenas venía una peor. Cuando gritaba por errores venía mejora, y concluyó que castigo funciona. Kahneman vio <span class="term">regresión a la media</span>, es decir tendencia al promedio tras extremos. Después de desempeño extremo, el siguiente resultado suele acercarse al promedio por azar.
 
 <!-- paragraph -->
-En la demostración con monedas al blanco, quien acertó mucho la primera vez suele empeorar la segunda sin intervención. La retroalimentación de la vida es perversa. Somos amables cuando otros nos complacen y duros cuando fallan, confundiendo regresión con efecto propio.
+Por eso, en la demostración con monedas al blanco, quien acertó mucho la primera vez suele empeorar la segunda sin intervención. La retroalimentación de la vida es perversa. Somos amables cuando otros nos complacen y duros cuando fallan, confundiendo regresión con efecto propio.
 
 <!-- key -->
 Tras extremos el azar empuja al promedio, y confundimos regresión con efecto de elogio o castigo.
@@ -488,7 +488,7 @@ Las predicciones intuitivas ignoran regresión y se mantienen demasiado extremas
 Predicciones intuitivas son <span class="term">no regresivas</span>, es decir sin corregir hacia el promedio. Entrevistas generan confianza extrema en GPA futuro aunque correlación sea modesta. Deberíamos mover predicciones hacia la media del grupo con peso según validez del dato.
 
 <!-- paragraph -->
-<span class="person">Paul Meehl</span> mostró que reglas estadísticas vencen a clínicos. Kahneman propone corrección explícita que combina impresión subjetiva con promedio poblacional. Extremos solo se justifican con evidencia muy fuerte. Cierra Parte II con remedio parcial contra heurísticas.
+<span class="person">Paul Meehl</span> mostró que reglas estadísticas vencen a clínicos. Entonces Kahneman propone corrección explícita que combina impresión subjetiva con promedio poblacional. Extremos solo se justifican con evidencia muy fuerte. Cierra Parte II con remedio parcial contra heurísticas.
 
 <!-- key -->
 Intuición predice sin regresar, y mezclar señal débil con promedio poblacional vence entrevistas confiadas.
@@ -576,10 +576,10 @@ Hay contextos donde la intuición experta sí es reconocimiento válido.
 <span class="person">Herbert Simon</span> definió que la intuición es reconocimiento tras miles de horas. Bomberos, maestros de ajedrez y médicos en casos repetitivos leen señales almacenadas. Requiere <span class="term">entorno regular</span>, es decir contexto con patrones repetibles, y práctica con <span class="term">feedback</span>, es decir retroalimentación clara y rápida.
 
 <!-- paragraph -->
-El CIO que compró Ford porque le gustaron autos en feria muestra intuición inválida. El mercado accionario es irregular y el feedback ruidoso. Confianza subjetiva no garantiza acierto. Validar intuición exige preguntar si el entorno permite aprender regularidades.
+El CIO que compró Ford porque le gustaron autos en feria muestra intuición inválida. El mercado accionario es irregular y la retroalimentación es ruidosa. Confianza subjetiva no garantiza acierto. Validar intuición exige preguntar si el entorno permite aprender regularidades.
 
 <!-- key -->
-Intuición fiable es reconocimiento entrenado, y sin entorno regular y feedback la confianza subjetiva engaña.
+Intuición fiable es reconocimiento entrenado, y sin entorno regular ni retroalimentación clara la confianza subjetiva engaña.
 
 <!-- bridge -->
 Los planes ignoran estadísticas de proyectos similares porque caen en visión interna.
@@ -598,7 +598,7 @@ Los planes ignoran estadísticas de proyectos similares porque caen en visión i
 La <span class="term">falacia de planificación</span>, es decir subestimar plazos y costos, usa visión interna. El caso único, las mejores intenciones y los obstáculos subestimados dominan. Kahneman diseñó currículo en Israel con estimaciones irreales. La <span class="term">visión externa</span>, es decir estimar con estadísticas de casos similares, pregunta cuánto tomaron proyectos similares.
 
 <!-- paragraph -->
-El <span class="term">premortem</span>, es decir imaginar fracaso antes de empezar, pide listar causas antes de arrancar. Mitiga sobreconfianza grupal. Combinar visión externa y premortem mejora pronósticos organizacionales sin negar ambición.
+El <span class="term">premortem</span>, es decir imaginar fracaso antes de empezar, pide listar causas antes de arrancar. Mitiga sobreconfianza grupal. Por eso combinar visión externa y premortem mejora pronósticos organizacionales sin negar ambición.
 
 <!-- key -->
 Planificar mirando solo este caso sesga, y estadísticas de proyectos similares corrigen optimismo.
@@ -661,7 +661,7 @@ La teoría de perspectivas formaliza esas asimetrías.
 ¿Cómo elegimos realmente entre riesgos y certezas?
 
 <!-- paragraph -->
-La <span class="term">teoría de perspectivas</span>, es decir modelo de elección con referencia, define valor sobre ganancias y pérdidas respecto a referencia. En ganancias preferimos certeza sobre apuesta arriesgada. En pérdidas preferimos apuesta arriesgada sobre pérdida segura.
+La <span class="term">teoría de perspectivas</span>, es decir modelo de elección con referencia, define valor sobre ganancias y pérdidas respecto a referencia. Por eso, en ganancias preferimos certeza sobre apuesta arriesgada, y en pérdidas preferimos apuesta arriesgada sobre pérdida segura.
 
 <!-- paragraph -->
 Problemas idénticos en riqueza final para Bernoulli producen respuestas distintas. El marco de ganancia versus pérdida cambia preferencia. La curva de valor en S es cóncava en ganancias y convexa en pérdidas. Las pérdidas duelen más que las ganancias equivalentes.
@@ -686,7 +686,7 @@ Poseer algo ancla referencia y aumenta valor subjetivo.
 En el <span class="term">efecto dotación</span>, es decir que poseer aumenta valor subjetivo, tener un bien lo hace valer más que para quien no lo tiene. Punto de referencia se ancla en status quo. Vender implica pérdida relativa, no intercambio simétrico.
 
 <!-- paragraph -->
-Comerciantes aprenden a pensar como traders, moviendo referencia. Endowment explica inercia legal y negociación porque renunciar a lo actual duele más que obtener equivalente. No es universal pero es robusto.
+Comerciantes aprenden a pensar como negociadores, moviendo referencia. El efecto dotación explica inercia legal y negociación porque renunciar a lo actual duele más que obtener equivalente. No es universal pero es robusto.
 
 <!-- key -->
 Poseer cambia referencia y valor, y renunciar pesa como pérdida aunque el intercambio sea neutro en dinero.
@@ -881,7 +881,7 @@ Evaluamos vidas enteras como historias, no como suma de momentos.
 ¿Por qué un final feliz redime una biografía en nuestra mente?
 
 <!-- paragraph -->
-En el caso Jen, años felices más años tristes mejoran evaluación total si se agregan años felices al final. Eso ocurre aunque aumente sufrimiento experimentado. Colonoscopia extendida con final menos doloroso hace recuerdo mejor y aumenta probabilidad de repetir.
+Por eso, en el caso Jen, años felices más años tristes mejoran evaluación total si se agregan años felices al final. Eso ocurre aunque aumente sufrimiento experimentado. Colonoscopia extendida con final menos doloroso hace recuerdo mejor y aumenta probabilidad de repetir.
 
 <!-- paragraph -->
 Vacaciones amnésicas importan poco al yo recordador aunque fueron placenteras. Evaluamos óperas y vidas por momentos salientes. Políticas que solo miran satisfacción recordada ignoran sufrimiento real.
@@ -968,11 +968,11 @@ Al focalizar un factor inflamos su peso, y pensar sobre la vida es inevitable pe
 | ---- | ---- |
 | 1738 | Bernoulli formula utilidad esperada sobre riqueza. |
 | 1969 | Kahneman invita a Tversky; nace colaboración en Jerusalén. |
-| 1974 | «Judgment Under Uncertainty: Heuristics and Biases» en Science. |
-| 1979 | «Prospect Theory: An Analysis of Decision Under Risk». |
+| 1974 | «Juicio bajo incertidumbre: heurísticas y sesgos» en Science. |
+| 1979 | «Teoría de perspectivas: un análisis de la decisión bajo riesgo». |
 | 1996 | Muere Amos Tversky, 59 años. |
 | 2002 | Nobel de Economía a Kahneman. |
-| 2011 | Publicación de Thinking, Fast and Slow. |
+| 2011 | Publicación de «Pensar rápido, pensar despacio». |
 
 ---
 

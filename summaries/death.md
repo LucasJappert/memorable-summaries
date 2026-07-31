@@ -44,11 +44,11 @@ lang: es
 
 <!-- closing -->
 La muerte no es un enigma metafísico que exija alma, miedo o desesperación.
-Somos cuerpos que piensan y sienten; morir es dejar de funcionar así.
+De hecho, somos cuerpos que piensan y sienten; morir es dejar de funcionar así.
 <!-- highlight -->Pensar la muerte con rigor secular cambia cómo vivimos, qué tememos y cuándo tiene sentido elegir morir.<!-- /highlight -->
-La inmortalidad no salvaría el problema: una vida sin fin podría volverse insoportable.
+Además, la inmortalidad no salvaría el problema: una vida sin fin podría volverse insoportable.
 El suicidio no es siempre locura ni crimen; a veces es la respuesta racional de quien ha pensado sus razones.
-Lo esencial es examinar las propias creencias, no solo heredarlas.
+Por eso lo esencial es examinar las propias creencias, no solo heredarlas.
 
 ---
 
@@ -133,7 +133,7 @@ Si la disputa importa, hace falta ver si hay buenas razones para creer en un alm
 ¿Qué pruebas ofrece la experiencia y la razón a favor del alma? Después de presentar dualismo y fisicalismo, Kagan pregunta si hay buenas razones para creer en el alma. Ambas posturas aceptan cuerpos y divergen en si hace falta añadir una sustancia inmaterial. Los argumentos que examina apelan a experiencias, explicación y coherencia metafísica.
 
 <!-- paragraph -->
-Las <span class="term">experiencias cercanas a la muerte</span> (relatos de luz, túneles o sensación de salir del cuerpo bajo riesgo vital) no demuestran alma. Pueden interpretarse como fenómenos cerebrales bajo estrés extremo. El <span class="term">problema de la interacción</span> (la dificultad de explicar cómo lo inmaterial mueve lo material) tampoco prueba dualismo. Solo señala una dificultad de la postura dualista sin validarla.
+Las <span class="term">experiencias cercanas a la muerte</span> (relatos de luz, túneles o sensación de salir del cuerpo bajo riesgo vital) no demuestran alma. Sin embargo, pueden interpretarse como fenómenos cerebrales bajo estrés extremo. El <span class="term">problema de la interacción</span> (la dificultad de explicar cómo lo inmaterial mueve lo material) tampoco prueba dualismo. Solo señala una dificultad de la postura dualista sin validarla.
 
 <!-- paragraph -->
 El argumento más prometedor es la <span class="term">inferencia a la mejor explicación</span> (razonar que la hipótesis más plausible es la correcta). Quizá el alma explica conciencia, libre albedrío o unidad de la experiencia mejor que el fisicalismo. Kagan concluye que, hoy, el dualismo no ofrece explicación real en los casos difíciles. Postula lo inmaterial como etiqueta, y eso no basta.
@@ -427,13 +427,13 @@ Una decisión extrema ante el sufrimiento y la finitud es elegir cuándo termina
 ## title: Suicidio
 
 <!-- paragraph lead -->
-¿Cuándo puede tener sentido elegir morir? Podemos controlar, en parte, cuándo termina nuestra vida. La cultura suele ver el suicidio como siempre irracional e inmoral. Kagan pregunta bajo qué condiciones podría tener sentido. Recurre a gráficos de bienestar para mostrar que hay momentos en que estar muerto sería mejor que seguir vivo.
+¿Cuándo puede tener sentido elegir morir? Podemos controlar, en parte, cuándo termina nuestra vida. Pero la cultura suele ver el suicidio como siempre irracional e inmoral. Kagan pregunta bajo qué condiciones podría tener sentido. Recurre a gráficos de bienestar para mostrar que hay momentos en que estar muerto sería mejor que seguir vivo.
 
 <!-- paragraph -->
 El caso real de <span class="person">Donald «Dax» Cowart</span>, quemado gravemente y obligado a tratamientos que no deseaba, ilustra tensiones entre autonomía y paternalismo. <span class="person">David Hume</span> (filósofo ilustrado escocés) defiende en «On Suicide» la racionalidad de quitarse la vida cuando el balance de bienes es negativo.
 
 <!-- paragraph -->
-Kagan formula un <span class="term">principio de consentimiento</span> (criterio moral: suicidio permisible si hay información, competencia, voluntariedad y buenas razones). El suicidio es permisible si la persona está informada, competente, actúa voluntariamente y tiene buenas razones. Los intentos exigen presunción de cautela: hay que preguntarse si la persona piensa con claridad. Esa cautela no equivale a prohibición absoluta.
+Kagan formula un <span class="term">principio de consentimiento</span> (criterio moral: suicidio permisible si hay información, competencia, voluntariedad y buenas razones). Por eso los intentos exigen presunción de cautela: hay que preguntarse si la persona piensa con claridad. Esa cautela no equivale a prohibición absoluta.
 
 <!-- paragraph -->
 <span class="person">Philippa Foot</span> y la doctrina del doble efecto aparecen en casos límite de ayudar a morir. Si se cumplen las condiciones, puede ser legítimo dejar morir a quien ha decidido con razón.

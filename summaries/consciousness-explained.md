@@ -15,7 +15,7 @@ lang: es
 | id | num | label |
 |----|-----|-------|
 | cierre | ★ | La idea central |
-| prefacio | 00 | Preludio: ¿cómo son posibles las alucinaciones? |
+| prefacio | 00 | ¿Cómo son posibles las alucinaciones? |
 | cap1 | 01 | Explicar la conciencia |
 | cap2 | 02 | Visita al jardín fenomenológico |
 | cap3 | 03 | Un método para la fenomenología |
@@ -43,9 +43,9 @@ lang: es
 La conciencia no es un espectáculo proyectado para un yo interior inmaterial.
 Es edición distribuida de borradores cerebrales, moldeada por evolución, lenguaje y cultura.
 <!-- highlight -->No hay teatro cartesiano: hay procesos paralelos que fijan contenido sin testigo central<!-- /highlight -->
-Demistificar no empobrece la experiencia; reemplaza misterio vacío por mecanismos investigables.
+Por eso demistificar no empobrece la experiencia; reemplaza misterio vacío por mecanismos investigables.
 El yo y los qualia sobreviven como abstracciones útiles, no como sustancias ocultas en el cráneo.
-Entender esto cambia cómo pensamos animales, máquinas y sufrimiento — sin volver al dualismo.
+Entender esto cambia, además, cómo pensamos animales, máquinas y sufrimiento — sin volver al dualismo.
 
 ---
 
@@ -102,7 +102,7 @@ Antes de proponer teoría, hay que recorrer con cuidado qué fenómenos hay que 
 ¿Qué hay realmente en la experiencia consciente antes de cualquier teoría sobre el cerebro?
 
 <!-- paragraph -->
-Dennett recorre el «fenom». Hay experiencias del mundo externo, del interno y de los afectos. Muestra que lo «directo» está mediado. Saboreamos con la nariz. El tacto con una varilla se siente en la punta. La vista periférica es borrosa aunque parezca uniforme.
+Dennett recorre la fenomenología cotidiana. Hay experiencias del mundo externo, del interno y de los afectos. Pero lo «directo» está mediado. Saboreamos con la nariz y el tacto con una varilla se siente en la punta. La vista periférica, además, es borrosa aunque parezca uniforme.
 
 <!-- paragraph -->
 La metáfora de «cuadros en la cabeza» es un error de categoría. Cuadros requieren ojos internos y caen en regresión infinita. La fenomenología visual no es pintura ni película. El campo visual mezcla detalle central y movimiento en la periferia. Lo que entra al cerebro es información, no qualia empaquetados.
@@ -168,7 +168,7 @@ Ese modelo debe explicar también cómo el cerebro representa tiempo y secuencia
 ¿Cómo puede el cerebro ordenar la experiencia temporal sin un reloj central ni nervios de igual longitud?
 
 <!-- paragraph -->
-En el <span class="term">conejo cutáneo</span>, o sea ilusión táctil de Geldard, toques en muñeca y brazo se sienten como un animal saltando equidistantemente. Físicamente están agrupados. La intuición teatral diría que el cerebro espera todos los toques antes de proyectar. El modelo de borradores dice que la interpretación se consolida después y borra borradores parciales.
+En el <span class="term">conejo cutáneo</span>, o sea ilusión táctil de Geldard, toques en muñeca y brazo se sienten como un animal saltando equidistantemente. Físicamente, sin embargo, están agrupados. La intuición teatral diría que el cerebro espera todos los toques antes de proyectar. El modelo de borradores, en cambio, dice que la interpretación se consolida después y borra borradores parciales.
 
 <!-- paragraph -->
 Dennett distingue <span class="term">tiempo representado</span>, el contenido «A antes que B», del tiempo de representar, cuándo ocurre el evento neural. Cartas fechadas del Imperio británico llegaban fuera de orden. Lo que importa es el contenido temporal embebido. Metacontraste y phi muestran que no hay fotograma definitivo en el teatro.
@@ -190,10 +190,10 @@ Esos mecanismos no aparecieron de golpe: hay que mirar su origen evolutivo.
 ¿Cómo pudo surgir la conciencia humana desde procesos que antes no eran conscientes?
 
 <!-- paragraph -->
-Dennett invierte la estrategia. Reconstruye desde abajo con <span class="person">Valentino Braitenberg</span> y sus Vehicles, máquinas simples cuya conducta se entiende mejor sintetizando que analizando. La ley «análisis cuesta arriba, síntesis cuesta abajo» aplica a mentes.
+Dennett invierte la estrategia y reconstruye desde abajo con <span class="person">Valentino Braitenberg</span> y sus Vehicles, máquinas simples cuya conducta se entiende mejor sintetizando que analizando. La ley «análisis cuesta arriba, síntesis cuesta abajo» aplica también a las mentes.
 
 <!-- paragraph -->
-No hubo «primer mamífero» ni salto absoluto a conciencia plena. Hubo transiciones graduales y coaliciones de control. La cultura y los <span class="term">memes</span>, o sea unidades culturales replicantes, amplían lo biológico. Evitar esencialismo prepara ver el lenguaje como transformador clave.
+Por eso no hubo «primer mamífero» ni salto absoluto a conciencia plena. Hubo transiciones graduales y coaliciones de control. Además, la cultura y los <span class="term">memes</span>, o sea unidades culturales replicantes, amplían lo biológico. Evitar esencialismo prepara ver el lenguaje como transformador clave.
 
 <!-- key -->
 La conciencia humana es <span class="key-term">producto evolutivo gradual</span> de mecanismos de control, no salto de sustancia nueva.
@@ -212,7 +212,7 @@ Entre esos transformadores culturales, el lenguaje ocupa un lugar central.
 ¿Las palabras expresan pensamientos ya formados o participan en crear el contenido consciente?
 
 <!-- paragraph -->
-<span class="person">Helen Keller</span> describió que antes del lenguaje no sabía que existía un «yo». La conciencia humana madura bajo presión comunicativa. El modelo burocrático de Levelt esconde un homúnculo con contenido ya determinado.
+<span class="person">Helen Keller</span> describió que antes del lenguaje no sabía que existía un «yo». Por eso la conciencia humana madura bajo presión comunicativa. El modelo burocrático de Levelt, en cambio, esconde un homúnculo con contenido ya determinado.
 
 <!-- paragraph -->
 La alternativa es un <span class="term">pandemonio</span>, o sea competición paralela de demonios léxicos sin jefe central. El contenido emerge de satisfacción de restricciones, como en el juego de Psicoanálisis. Hablar no revela un Meaner central. Co-construye significado en serialidad emergente.
@@ -234,10 +234,10 @@ Integrar lenguaje, especialistas y memes exige un mapa de arquitectura global.
 ¿Cuál es el esbozo completo de la teoría antes de enfrentar las objeciones filosóficas?
 
 <!-- paragraph -->
-Dennett resume la arquitectura. No hay flujo único sino canales paralelos de especialistas que forman borradores. Una <span class="term">máquina virtual joyceana</span>, o sea serialidad emergente tipo von Neumann, surge de coaliciones. Miles de memes habitan el cerebro individual.
+Dennett resume la arquitectura: no hay flujo único sino canales paralelos de especialistas que forman borradores. De ahí surge una <span class="term">máquina virtual joyceana</span>, o sea serialidad emergente tipo von Neumann, a partir de coaliciones. Miles de memes habitan el cerebro individual.
 
 <!-- paragraph -->
-Especialistas animales se reclutan para tareas humanas como leer. La serialidad consciente es efecto de coalición, no de jefe único. Este esbozo cierra la Parte II y prepara objeciones sobre imagen mental, blindsight, qualia y robots.
+Además, especialistas animales se reclutan para tareas humanas como leer. La serialidad consciente es efecto de coalición, no de jefe único. Este esbozo cierra la Parte II y prepara objeciones sobre imagen mental, blindsight, qualia y robots.
 
 <!-- key -->
 La mente humana combina <span class="key-term">especialistas paralelos, coaliciones y memes</span> sin director central en el cerebro.
@@ -256,10 +256,10 @@ Los críticos suelen apelar a la imaginería mental como prueba del teatro inter
 ¿Los experimentos de rotación mental rehabilitan un escenario interno donde «ocurre» la experiencia?
 
 <!-- paragraph -->
-<span class="person">Roger Shepard</span> mostró que rotar figuras 3D en la mente lleva tiempo proporcional al ángulo — como si hubiera un escenario. Dennett argumenta que eso muestra procesos distribuidos accesibles indirectamente, no un observador cartesiano mirando pantallas internas.
+<span class="person">Roger Shepard</span> mostró que rotar figuras 3D en la mente lleva tiempo proporcional al ángulo — como si hubiera un escenario. Dennett argumenta, sin embargo, que eso muestra procesos distribuidos accesibles indirectamente, no un observador cartesiano mirando pantallas internas.
 
 <!-- paragraph -->
-La Parte III responde objeciones que conservan hábitos teatrales. Invocan comprensión en un sitio único, testigo que valida y qualia como datos crudos.
+Por eso la Parte III responde objeciones que conservan hábitos teatrales: invocan comprensión en un sitio único, testigo que valida y qualia como datos crudos.
 
 <!-- key -->
 La imaginería mental evidencia <span class="key-term">procesos distribuidos temporizados</span>, no un teatro privado de proyección.
@@ -300,10 +300,10 @@ El último bastión intuitivo son los qualia — propiedades «puras» de la exp
 ¿Existen propiedades experienciales intrínsecas e ineffables (qualia) más allá de disposiciones cerebrales?
 
 <!-- paragraph -->
-Dennett propone abandonar el enredo filosófico de qualia. Otto insiste en su rosa ocurrencial pura. La respuesta es que eso es su complejo de <span class="term">disposiciones reactivas</span>, o sea tendencias del sistema nervioso, no propiedad separada.
+Dennett propone abandonar el enredo filosófico de qualia. Otto insiste en su rosa ocurrencial pura. Sin embargo, eso no es una propiedad separada: es su complejo de <span class="term">disposiciones reactivas</span>, o sea tendencias del sistema nervioso.
 
 <!-- paragraph -->
-El espectro invertido no es verificable sin cambiar todas las disposiciones. Disfrutar vino o Bach no es recibir qualia. Es ser informado por asociaciones evolutivas y meméticas. Invocar qualia como causa del goce es <span class="term">virtus dormitiva</span>, o sea nombrar el misterio sin explicarlo.
+Además, el espectro invertido no es verificable sin cambiar todas las disposiciones. Disfrutar vino o Bach no es recibir qualia: es ser informado por asociaciones evolutivas y meméticas. Invocar qualia como causa del goce es <span class="term">virtus dormitiva</span>, o sea nombrar el misterio sin explicarlo.
 
 <!-- key -->
 Los qualia son <span class="key-term">ficción teórica teatral</span>. Lo real son manifolds de disposiciones que explican goce y sufrimiento.
@@ -322,10 +322,10 @@ Sin qualia ni testigo, queda preguntar qué es el yo que parece unificar la expe
 ¿Existe un yo real en el cerebro o es construcción narrativa?
 
 <!-- paragraph -->
-<span class="person">Hume</span> no encontró yo al introspectarse. <span class="person">Leibniz</span> no vio percepción en el molino ampliado. Dennett define el yo como <span class="term">Centro de Gravedad Narrativo</span>, o sea abstracción estable como centro de gravedad en física. El trastorno de personalidad múltiple muestra selves fragmentarios bajo abuso extremo.
+<span class="person">Hume</span> no encontró yo al introspectarse y <span class="person">Leibniz</span> no vio percepción en el molino ampliado. Por eso Dennett define el yo como <span class="term">Centro de Gravedad Narrativo</span>, o sea abstracción estable como centro de gravedad en física. El trastorno de personalidad múltiple muestra, además, selves fragmentarios bajo abuso extremo.
 
 <!-- paragraph -->
-<span class="person">Derek Parfit</span> compara personas con clubes que pueden disolverse y reconstituirse. Las gemelas Chaplin coordinan tan estrechamente que hablar de un «ellos» tiene sentido. No hay número mágico de selves por cuerpo.
+<span class="person">Derek Parfit</span> compara personas con clubes que pueden disolverse y reconstituirse. Las gemelas Chaplin coordinan tan estrechamente que hablar de un «ellos» tiene sentido. No hay, entonces, número mágico de selves por cuerpo.
 
 <!-- key -->
 El yo es <span class="key-term">abstracción narrativa social</span>, no perla observadora dentro del cráneo.
@@ -344,7 +344,7 @@ Si el yo es patrón funcional, una máquina equivalente podría ser consciente e
 ¿Puede un robot con arquitectura funcional equivalente ser consciente, y qué implica para la ética?
 
 <!-- paragraph -->
-Negar robots conscientes confunde imaginar R2D2 con imaginar mecanismos. Silicio programado como cerebro humano tendría self como Centro de Gravedad Narrativo. Para murciélagos, la heterofenomenología sin texto es difícil pero posible. Estudia Umwelt y discriminaciones sin exigir teatro interior.
+Negar robots conscientes confunde imaginar R2D2 con imaginar mecanismos. Silicio programado como cerebro humano tendría self como Centro de Gravedad Narrativo. Para murciélagos, la heterofenomenología sin texto es difícil pero posible. Estudia el <span class="term">Umwelt</span>, o sea el mundo percibido del animal, y sus discriminaciones sin exigir teatro interior.
 
 <!-- paragraph -->
 La conciencia no es todo-o-nada. Un murciélago carece de arrepentimientos o narrativa rica. <span class="person">Marian Dawkins</span> muestra que sufrimiento animal se investiga con preferencias reales, como gallinas y cama. Tratar conciencia mecánicamente no anula la moral. Cambia qué evidencias cuentan.

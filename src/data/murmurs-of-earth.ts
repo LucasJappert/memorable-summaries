@@ -21,7 +21,7 @@ export const murmursOfEarth: BookSummary = {
   {
     "id": "prefacio",
     "num": "00",
-    "label": "Prefacio"
+    "label": "Emisarios hacia las estrellas"
   },
   {
     "id": "cap1",
@@ -71,7 +71,7 @@ export const murmursOfEarth: BookSummary = {
   {
     "id": "cronologia",
     "num": "◈",
-    "label": "Cronología"
+    "label": "Cronología del Disco y la misión"
   },
   {
     "id": "figuras",
@@ -213,7 +213,7 @@ export const murmursOfEarth: BookSummary = {
         },
         {
           type: 'key',
-          html: "Antes del Disco físico, Arecibo demostró que podemos hablar al cosmos en el lenguaje de la matemática y la física.",
+          html: "Por eso, antes del Disco físico, Arecibo demostró que podemos hablar al cosmos en el lenguaje de la matemática y la física.",
         },
         {
           type: 'paragraph',
@@ -322,7 +322,7 @@ export const murmursOfEarth: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La selección comenzó con una lluvia de onomatopeyas en la mesa de los Sagan. Luego el equipo recorrió bibliotecas de sonido, universidades y grabaciones de campo. <span class=\"person\">Roger Payne</span> aportó el saludo de ballena grabado en Bermuda en <span class=\"num\">1970</span>. <span class=\"person\">Alan Botto</span> proporcionó el despegue del Saturno V con la voz «Fly, bird» en Mission Control. Algunos colaboradores rechazaron participar por desconfianza hacia el gobierno. Otros exigieron dinero que el proyecto no tenía.",
+          html: "La selección comenzó con una lluvia de onomatopeyas en la mesa de los Sagan. Después el equipo recorrió bibliotecas de sonido, universidades y grabaciones de campo. <span class=\"person\">Roger Payne</span> aportó el saludo de ballena grabado en Bermuda en <span class=\"num\">1970</span>. <span class=\"person\">Alan Botto</span> proporcionó el despegue del Saturno V con la voz «Fly, bird» en Mission Control. Algunos colaboradores rechazaron participar por desconfianza hacia el gobierno. Otros exigieron dinero que el proyecto no tenía.",
         },
         {
           type: 'paragraph',
@@ -362,7 +362,11 @@ export const murmursOfEarth: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La secuencia abre con el <span class=\"term\">Brandenburg Concerto No. 2</span> (segundo concierto de Bach) de Bach y cierra con la <span class=\"term\">Cavatina</span> (movimiento lírico de Beethoven) de Beethoven. Los dos primeros compases del disco son precisamente esa Cavatina. El repertorio incluye gamelán javanés, canto de iniciación pigmea y raga indio. También lleva ch'in chino «Flowing Streams», Louis Armstrong, Chuck Berry («Johnny B. Goode»), Stravinsky y Mozart. Cierra «Dark Was the Night» de Blind Willie Johnson. En el espacio entre surcos finales se grabó la dedicatoria «To the makers of music—all worlds, all times».",
+          html: "La secuencia abre con el <span class=\"term\">Brandenburg Concerto No. 2</span> (segundo concierto de Bach) y cierra con la <span class=\"term\">Cavatina</span> (movimiento lírico de Beethoven). Los dos primeros compases del disco son precisamente esa Cavatina.",
+        },
+        {
+          type: 'paragraph',
+          html: "Además, el repertorio abarca gamelán javanés, canto de iniciación pigmea, raga indio y ch'in chino «Flowing Streams». Incluye también a Louis Armstrong, Chuck Berry («Johnny B. Goode»), Stravinsky y Mozart. Cierra «Dark Was the Night» de Blind Willie Johnson. En el espacio entre surcos finales se grabó la dedicatoria «To the makers of music—all worlds, all times».",
         },
         {
           type: 'quote',
@@ -395,7 +399,7 @@ export const murmursOfEarth: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Las Voyager llevan <span class=\"num\">11</span> experimentos científicos, cada uno con un equipo que trabajó casi una década. Las trayectorias asistidas por gravedad de Júpiter y Saturno aceleran las naves hacia escape interestelar. Ese accidente de mecánica celeste hizo posible el Disco. Los compromisos entre objetivos científicos son dolorosos: volar cerca de Ío, ocultar Saturno tras sus anillos o alcanzar Urano excluyen otras mediciones igualmente valiosas.",
+          html: "Las Voyager llevan <span class=\"num\">11</span> experimentos científicos, cada uno con un equipo que trabajó casi una década. Las trayectorias asistidas por gravedad de Júpiter y Saturno aceleran las naves hacia escape interestelar. Por eso, ese accidente de mecánica celeste hizo posible el Disco. Los compromisos entre objetivos científicos son dolorosos: volar cerca de Ío, ocultar Saturno tras sus anillos o alcanzar Urano excluyen otras mediciones igualmente valiosas.",
         },
         {
           type: 'concept-grid',
@@ -451,7 +455,7 @@ export const murmursOfEarth: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Quien encuentre el Disco sabrá que enviar tal mensaje solo tiene sentido con pasión por el futuro. Revelará una especie con esperanza, perseverancia, inteligencia modesta, generosidad y deseo genuino de contacto con el cosmos.",
+          html: "Por eso, quien encuentre el Disco sabrá que enviar tal mensaje solo tiene sentido con pasión por el futuro. Revelará una especie con esperanza, perseverancia, inteligencia modesta, generosidad y deseo genuino de contacto con el cosmos.",
         },
         {
           type: 'key',
@@ -571,7 +575,7 @@ export const murmursOfEarth: BookSummary = {
   "Voyager parte lenta pero irrevocablemente hacia el vacío entre las estrellas.",
   "Enviar tal mensaje solo tiene sentido si se cree en un futuro."
 ],
-    highlight: "Es mensaje a las estrellas —y, sobre todo, un espejo de lo que elegimos conservar de nosotros mismos.",
+    highlight: "Es un mensaje a las estrellas —y, sobre todo, un espejo de lo que elegimos conservar de nosotros mismos.",
   },
   footer: {
     line1: "Resumen generado a partir de la obra de Carl Sagan y colaboradores",

@@ -73,7 +73,7 @@ Hay unas <span class="num">100 mil millones</span> de galaxias. Cada una tiene u
 En el <span class="num">siglo III a.C.</span>, el matemático <span class="person">Eratóstenes</span> midió la circunferencia terrestre en Alejandría. Comparó sombras en Asuán y Alejandría el mismo día. Obtuvo unos <span class="num">40.000 km</span>, con error mínimo. La Biblioteca de Alejandría reunió el saber de la Antigüedad antes de su destrucción. Sagan lamentará esa pérdida más adelante.
 
 <!-- key -->
-Somos polvo de estrellas que ha aprendido a preguntarse por sí mismo. El viaje de regreso a casa apenas comienza.
+Somos una parte ínfima pero consciente del Cosmos, y la Tierra es la orilla desde la que apenas empezamos a explorarlo.
 
 <!-- bridge -->
 Si somos tan pequeños en escala cósmica, la pregunta siguiente es cómo surgió la vida en este rincón privilegiado.
@@ -89,7 +89,7 @@ Si somos tan pequeños en escala cósmica, la pregunta siguiente es cómo surgi�
 ¿Cómo surgió la vida en la Tierra? Las moléculas orgánicas se detectan en nubes interestelares. El «material de la vida» parece estar en todas partes. Toda la vida terrestre comparte química orgánica y herencia evolutiva común. Los biólogos estudian una sola voz en la música de la vida. ¿Hay una <span class="term">fuga cósmica</span> (muchas melodías biológicas independientes) con miles de millones de voces?
 
 <!-- paragraph -->
-Sagan ilustra la <span class="term">selección artificial</span> (cuando los humanos eligen qué organismos se reproducen) con los cangrejos Heike del mar interior de Japón. Los pescadores devolvían al mar los ejemplares cuyo caparazón parecía rostro samurái. Eso favoreció esa forma generación tras generación. Los humanos transformaron plantas y animales en milenios. La <span class="term">selección natural</span> (el ambiente favorece variantes hereditarias) operó miles de millones de años. Esa comparación explica toda la diversidad biológica.
+Sagan ilustra la <span class="term">selección artificial</span> (cuando los humanos eligen qué organismos se reproducen) con los cangrejos Heike del mar interior de Japón. Los pescadores devolvían al mar los ejemplares cuyo caparazón parecía rostro samurái. Eso favoreció esa forma generación tras generación. Los humanos transformaron plantas y animales en milenios. La <span class="term">selección natural</span> (el ambiente favorece variantes hereditarias) operó, en cambio, miles de millones de años. Por eso esa comparación explica toda la diversidad biológica.
 
 <!-- paragraph -->
 El naturalista <span class="person">Charles Darwin</span> y el biólogo <span class="person">Alfred Russel Wallace</span> propusieron que el ambiente selecciona variaciones hereditarias. Las mutaciones aportan materia prima. El registro fósil muestra que muchas más especies se extinguieron que las que existen hoy. La evolución es hecho, no mera teoría. El mecanismo principal es la selección natural.
@@ -121,7 +121,7 @@ La vida obedece leyes naturales, y el cielo nocturno fue el primer laboratorio d
 Los planetas «vagabundos» inspiraron astrología: creencia de que configuran destinos personales e imperios. Sagan demuestra su vaciedad. Columnas rivales dan consejos contradictorios. Gemelos idénticos bajo el mismo horóscopo tienen destinos opuestos. La astrología moderna ignora precesión, descubrimientos desde Ptolomeo y se confunde con la astronomía.
 
 <!-- paragraph -->
-El astrónomo <span class="person">Ptolomeo</span> modeló un cosmos geocéntrico con epiciclos. <span class="person">Johannes Kepler</span> encontró que los planetas siguen elípses. El Sol ocupa un foco. El cuadrado de los periodos es proporcional al cubo de las distancias. <span class="person">Isaac Newton</span> unificó cielo y tierra con la gravitación universal. Las leyes celestes rigen también en la Tierra.
+El astrónomo <span class="person">Ptolomeo</span> modeló un cosmos geocéntrico con epiciclos. <span class="person">Johannes Kepler</span> heredó las observaciones de <span class="person">Tycho Brahe</span> y renunció a sus figuras geométricas favoritas cuando los datos lo obligaron. Encontró que los planetas siguen elípses con el Sol en un foco. El cuadrado de los periodos es proporcional al cubo de las distancias. <span class="person">Isaac Newton</span> unificó cielo y tierra con la gravitación universal. Por tanto, las leyes celestes rigen también en la Tierra.
 
 <!-- quote -->
 > «No preguntemos para qué cantan los pájaros: cantan porque nacieron para cantar. Así la mente humana se afana por penetrar los secretos de los cielos.»
@@ -334,7 +334,7 @@ Si el cosmos tiene historia, también importa cómo las civilizaciones guardan y
 El <span class="term">ADN</span> (código químico de instrucciones heredadas) es la memoria biológica por excelencia. El cerebro humano almacena recuerdos en conexiones sinápticas. La evolución produjo órganos cada vez más capaces de registrar y transmitir experiencia. La destrucción de la Biblioteca de Alejandría (cientos de miles de volúmenes perdidos) ilustra lo frágil que es el conocimiento acumulado.
 
 <!-- paragraph -->
-Las civilizaciones avanzadas deben preservar su memoria colectiva contra catástrofes naturales y autoinfligidas. La información es supervivencia cultural, y sin memoria colectiva cada generación recomienza desde cero.
+Las civilizaciones avanzadas deben preservar su memoria colectiva contra catástrofes naturales y autoinfligidas. Por eso la información es supervivencia cultural: sin memoria colectiva, cada generación recomienza desde cero.
 
 <!-- key -->
 Conocer y recordar es sobrevivir a escala civilizatoria. La memoria es el contrapeso a la fragilidad humana.
@@ -383,7 +383,7 @@ Toda esa perspectiva cósmica converge en una pregunta política: quién habla p
 El astrónomo <span class="person">Ptolomeo</span> y los cosmonautas marcan dos extremos de nuestra historia. Entre ambos, la perspectiva cósmica reduce la vanidad de reyes y naciones. «Somos polvo de estrellas contemplándose a sí mismo.» Esa comprensión debería fomentar humildad y cooperación, no rivalidad suicida. La humanidad es joven. Aún puede elegir su camino.
 
 <!-- paragraph -->
-La serie y el libro son un experimento optimista: confiar en la inteligencia pública, en que las preguntas profundas excitan a millones. Sobrevivir y florecer exige entender el Cosmos y nuestra responsabilidad dentro de él. Alguien debe hablar por la Tierra, y ese alguien somos nosotros.
+La serie y el libro son un experimento optimista: confiar en la inteligencia pública, en que las preguntas profundas excitan a millones. Por eso sobrevivir y florecer exige entender el Cosmos y nuestra responsabilidad dentro de él. Alguien debe hablar por la Tierra, y ese alguien somos nosotros.
 
 <!-- quote -->
 > «La exploración del Cosmos es un viaje de autodescubrimiento.»
@@ -459,9 +459,9 @@ La serie y el libro son un experimento optimista: confiar en la inteligencia pú
 
 <!-- closing -->
 Somos polvo de estrellas que ha aprendido a conocerse.
-La ciencia nos reconecta con el Cosmos del que nacimos.
+Por eso la ciencia nos reconecta con el Cosmos del que nacimos.
 <!-- highlight -->El universo no es remoto: somos parte de él<!-- /highlight -->
-Explorar el espacio es un viaje de regreso a casa.
+Explorar el espacio es, entonces, un viaje de regreso a casa.
 Entender la ciencia es condición de supervivencia y deleite.
 Debemos hablar por la Tierra con humildad cósmica.
 

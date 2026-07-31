@@ -30,7 +30,7 @@ export const whyWeDie: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El Ilustracionismo desplazó la fe hacia la ciencia, pero el legado no basta porque los hijos son otros seres conscientes. Plan A, que consiste en evitar accidentes y enfermedades, sigue vigente. En <span class=\"num\">150</span> años duplicamos la esperanza de vida reduciendo mortalidad infantil. Pero alargar el máximo (~<span class=\"num\">120</span> años) es otro reto. La revolución genética plantea si podemos frenar el envejecimiento. Más de <span class=\"num\">300 000</span> artículos y <span class=\"num\">700</span> startups surgieron en una década. El químico <span class=\"person\">Venki Ramakrishnan</span> se pregunta si no es arrogancia pretender vencer la muerte. Un virus como el COVID-19 recuerda que la evolución no nos debe nada.",
+          html: "La Ilustración desplazó la fe hacia la ciencia, pero el legado no basta porque los hijos son otros seres conscientes. Plan A, que consiste en evitar accidentes y enfermedades, sigue vigente. En <span class=\"num\">150</span> años duplicamos la esperanza de vida reduciendo mortalidad infantil. Pero alargar el máximo (~<span class=\"num\">120</span> años) es otro reto. La revolución genética plantea si podemos frenar el envejecimiento. Más de <span class=\"num\">300 000</span> artículos y <span class=\"num\">700</span> startups surgieron en una década. El químico <span class=\"person\">Venki Ramakrishnan</span> se pregunta si no es arrogancia pretender vencer la muerte. Un virus como el COVID-19 recuerda que la evolución no nos debe nada.",
         },
         {
           type: 'key',
@@ -106,7 +106,7 @@ export const whyWeDie: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Hasta <span class=\"num\">1953</span>, el ADN era misterio. Los biólogos <span class=\"person\">James Watson</span> y <span class=\"person\">Francis Crick</span> dedujeron la doble hélice: A-T, C-G, cada hebra copia a la otra. El mensaje se transcribe y los ribosomas ensamblan <span class=\"term\">proteínas</span> (moléculas que ejecutan casi todas las funciones vitales). Estas se pliegan solas en formas funcionales —milagro que Ramakrishnan estudió toda su carrera.",
+          html: "Hasta <span class=\"num\">1953</span>, el ADN era misterio. Los biólogos <span class=\"person\">James Watson</span> y <span class=\"person\">Francis Crick</span> dedujeron la doble hélice: A-T, C-G, cada hebra copia a la otra. El mensaje se transcribe y los ribosomas ensamblan <span class=\"term\">proteínas</span> (moléculas que ejecutan casi todas las funciones vitales). Estas se pliegan solas en formas funcionales. Es un milagro que Ramakrishnan estudió toda su carrera.",
         },
         {
           type: 'paragraph',
@@ -162,7 +162,7 @@ export const whyWeDie: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Gemelos idénticos muestran que el genoma no es destino: pueden diferir en esquizofrenia pese a mismos genes. La <span class=\"term\">epigenética</span> (capa de control «sobre» los genes) explica por qué una célula piel no vuelve a ser neurona. El biólogo <span class=\"person\">Conrad Waddington</span> (<span class=\"num\">1942</span>) imaginó una bola rodando por valles del desarrollo. Es difícil subir de nuevo.",
+          html: "Por eso, gemelos idénticos muestran que el genoma no es destino: pueden diferir en esquizofrenia pese a mismos genes. La <span class=\"term\">epigenética</span> (capa de control «sobre» los genes) explica por qué una célula piel no vuelve a ser neurona. El biólogo <span class=\"person\">Conrad Waddington</span> (<span class=\"num\">1942</span>) imaginó una bola rodando por valles del desarrollo. Es difícil subir de nuevo.",
         },
         {
           type: 'paragraph',
@@ -278,7 +278,7 @@ export const whyWeDie: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Perdieron la mayoría de genes al núcleo host. El minúsculo ADN mitocondrial muta y causa enfermedades. Se heredan solo de madre. Reino Unido legalizó bebés de «tres padres». Mitocondrias fusionan y dividen. Sus defectos se segregan. Por eso su desgaste impulsa envejecimiento.",
+          html: "Las mitocondrias perdieron la mayoría de genes al núcleo anfitrión. Su minúsculo ADN mitocondrial muta y causa enfermedades. Se heredan solo de madre. Reino Unido legalizó bebés de «tres padres». Mitocondrias fusionan y dividen. Sus defectos se segregan. Por eso su desgaste impulsa envejecimiento.",
         },
         {
           type: 'key',
@@ -366,7 +366,7 @@ export const whyWeDie: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Un obrero de sesenta y cinco años no desea otros cincuenta de faena física. En dos mil veintitrés, en Francia marcharon <span class=\"num\">1,2 millones</span> contra subir la jubilación de sesenta y dos a sesenta y cuatro años.",
+          html: "Un obrero de sesenta y cinco años no desea otros cincuenta de faena física. En <span class=\"num\">2023</span>, en Francia marcharon <span class=\"num\">1,2 millones</span> contra subir la jubilación de sesenta y dos a sesenta y cuatro años.",
         },
         {
           type: 'key',

@@ -23,9 +23,12 @@ HTML standalone en `legacy/` solo si lo pide **explícitamente** («html standal
 
 | Elemento | Idioma |
 |----------|--------|
-| **Todo el contenido** (resumen, capítulos, citas traducidas, conceptos, cronología, HTML/Vue) | **Español** |
+| **Todo el contenido** (resumen, TOC labels, `## title:`, subtítulo, citas traducidas, conceptos, cronología, cierre) | **Español** |
 | **Título del libro** (`meta.title`) | **Idioma original** del libro |
 | **Traducción del título** (`meta.titleEs`) | Español, **solo si** el original no está en español |
+
+Desde A0 separar **título original** (`title`) vs **título público en español** (`title_es`, TOC, `## title:`).
+Referencia: `docs/ESTANDAR-EDITORIAL-MIGRACION.md`.
 
 ### Formato del título en pantalla
 
@@ -68,9 +71,13 @@ Usuario: "Generame el html del libro Sapiens"
     │   python3 scripts/check-coverage.py <slug>  ← sin fallas duras (exit 0)
         │
         ▼
-[6] PASO C — corrección mínima de prosa (obligatorio antes de md-to-ts)
+[6] PASO C — corrección mínima de prosa por sección (obligatorio)
     │   docs/prompts/01c-correccion-minima.md
-    │   python3 scripts/lint-summary.py <slug>   ← debe salir OK (exit 0)
+        │
+        ▼
+[6b] PASO C2 — revisión editorial global (idioma, TOC, tono uniforme)
+    │   docs/prompts/01d-revision-editorial.md
+    │   python3 scripts/lint-summary.py <slug> --strict   ← debe salir OK (exit 0)
         │
         ▼
 [7] PASO D (MD → src/data/<slug-corto>.ts) — preferir script:
@@ -202,9 +209,20 @@ capítulos no demasiado finos, y cobertura aproximada vs. la fuente.
 
 Corregir redundancias, telegráfico y gramática en `# prefacio`, `# capN` y `# cierre`. No cambiar ideas ni citas.
 
+---
+
+## Paso C2 — Revisión editorial global (obligatorio)
+
+**Leer:** `docs/prompts/01d-revision-editorial.md`
+
+Revisión del `.md` completo: TOC/`## title:` en español, coherencia entre título original y público, secciones auxiliares localizadas y tono uniforme. **No** reescritura factual.
+
 ```bash
-python3 scripts/lint-summary.py <slug>   # debe terminar OK (exit 0)
+python3 scripts/lint-summary.py <slug> --strict   # debe terminar OK (exit 0)
 ```
+
+- **Gate por libro:** `lint-summary.py <slug> --strict` (errores + avisos bloquean). Toda la biblioteca ya está en umbral **pulido**.
+- **Diagnóstico masivo:** `lint-summary.py --all --strict` sirve como chequeo local; **no** activarlo como gate de CI/deploy por defecto (ver `docs/ESTANDAR-EDITORIAL-MIGRACION.md`).
 
 Si hay avisos, corregir el `.md` y repetir. Luego `python3 scripts/md-to-ts.py <slug>` y `npm run build`.
 
@@ -286,6 +304,7 @@ Referencia de estilos y estructura:
 | Qué | Dónde |
 |-----|-------|
 | Overview del pipeline | `docs/PIPELINE.md` |
+| Estándar editorial + migración | `docs/ESTANDAR-EDITORIAL-MIGRACION.md` |
 | Prompt paso 1 | `docs/prompts/01-resumen-desde-libro.md` |
 | Prompt TTS | `docs/prompts/03-audio-desde-resumen.md` |
 | Arte visual | `docs/prompts/04-arte-visual.md` + `scripts/generate-book-art.py` |

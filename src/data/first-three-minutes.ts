@@ -71,7 +71,7 @@ export const firstThreeMinutes: BookSummary = {
   {
     "id": "cronologia",
     "num": "◈",
-    "label": "Cronología"
+    "label": "Cronología de los descubrimientos"
   },
   {
     "id": "figuras",
@@ -137,7 +137,7 @@ export const firstThreeMinutes: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "A ~<span class=\"num\">10⁻² s</span> y ~<span class=\"num\">10¹¹ °C</span>, la materia era una sopa de electrones, positrones, neutrinos y fotones en equilibrio dinámico. Había ~<span class=\"num\">10⁹</span> fotones por partícula nuclear, dato tomado de la observación del CMB.",
+          html: "A ~<span class=\"num\">10⁻² s</span> y ~<span class=\"num\">10¹¹ °C</span>, la materia era una sopa de electrones, positrones, neutrinos y fotones en equilibrio dinámico. Había ~<span class=\"num\">10⁹</span> fotones por partícula nuclear, dato tomado de la observación del <span class=\"term\">fondo de radiación cósmica de microondas</span> (CMB).",
         },
         {
           type: 'paragraph',
@@ -169,11 +169,15 @@ export const firstThreeMinutes: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Johann Christian Doppler</span> lo propuso en <span class=\"num\">1842</span>. <span class=\"person\">William Huggins</span> lo aplicó a estrellas en <span class=\"num\">1868</span>.",
+          html: "<span class=\"person\">Johann Christian Doppler</span> lo propuso en 1842. <span class=\"person\">William Huggins</span> lo aplicó a estrellas en 1868.",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Edwin Hubble</span> resolvió la nebulosa de Andrómeda (M31) en estrellas en <span class=\"num\">1923</span>, usando variables Cefeidas. Estaba a millones de años luz: una galaxia como la nuestra. Slipher había medido corrimientos al rojo. En <span class=\"num\">1929</span>, Hubble anunció que los corrimientos crecen con la distancia.",
+          html: "<span class=\"person\">Edwin Hubble</span> resolvió la nebulosa de Andrómeda (M31) en estrellas en 1923, usando variables Cefeidas: estrellas pulsantes cuya luminosidad revela la distancia. Estaba a millones de años luz: una galaxia como la nuestra.",
+        },
+        {
+          type: 'paragraph',
+          html: "<span class=\"person\">Vesto Slipher</span> ya había medido corrimientos al rojo. En 1929, Hubble anunció que esos corrimientos crecen con la distancia.",
         },
         {
           type: 'paragraph',
@@ -217,7 +221,7 @@ export const firstThreeMinutes: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Medidas en decenas de longitudes de onda confirman distribución de <span class=\"term\">cuerpo negro</span> (Planck) a ~<span class=\"num\">3 K</span>. La excitación rotacional del CN en Oph (~<span class=\"num\">2,3 K</span>, 1941) anticipó el resultado. Hay ~<span class=\"num\">550.000 fotones/litro</span> y entre <span class=\"num\">100 y 20.000 millones</span> fotones por protón.",
+          html: "Medidas en decenas de longitudes de onda confirman distribución de <span class=\"term\">cuerpo negro</span> (Planck) a ~<span class=\"num\">3 K</span>. La excitación rotacional del cianuro (CN) en la nebulosa de Ofiuco (~<span class=\"num\">2,3 K</span>, 1941) anticipó el resultado. Hay ~<span class=\"num\">550.000 fotones/litro</span> y entre <span class=\"num\">100 y 20.000 millones</span> fotones por protón.",
         },
         {
           type: 'paragraph',
@@ -317,7 +321,11 @@ export const firstThreeMinutes: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Peebles (<span class=\"num\">1965</span>) y Wagoner–Fowler–Hoyle calcularon el helio cosmológico, y la abundancia estelar (~20–30 % He) encaja. El deuterio (~<span class=\"num\">20 ppm</span>, Copernicus 1973) sugiere universo abierto, pero Weinberg duda inferir densidad solo del deuterio. El fondo de neutrinos (~<span class=\"num\">2 K</span>, 71,38 % de la temperatura fotónica) sería confirmación decisiva pero indetectable. El principio cosmológico no está probado antes del primer segundo, y los modelos «mixmaster» de Misner son especulativos.",
+          html: "Peebles (<span class=\"num\">1965</span>) y Wagoner–Fowler–Hoyle calcularon el helio cosmológico, y la abundancia estelar (~20–30 % He) encaja con la predicción.",
+        },
+        {
+          type: 'paragraph',
+          html: "El deuterio (~<span class=\"num\">20 ppm</span>, satélite Copernicus, 1973) sugiere un universo abierto, pero Weinberg duda de inferir la densidad solo a partir del deuterio. El fondo de neutrinos (~<span class=\"num\">2 K</span>, 71,38 % de la temperatura fotónica) sería una confirmación decisiva, aunque indetectable con la tecnología de entonces. Además, el principio cosmológico no está probado antes del primer segundo, y los modelos <span class=\"term\">mixmaster</span> de Misner (universo caótico con expansiones desiguales) siguen siendo especulativos.",
         },
         {
           type: 'big-numbers',
@@ -362,7 +370,7 @@ export const firstThreeMinutes: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Tres razones explican la omisión. La primera es que la teoría de Gamow intentaba sintetizar todos los elementos en el big bang. Perdió credibilidad cuando Fermi y Turkevich mostraron que no hay núcleos estables con 5 u 8 partículas. La nucleosíntesis estelar (Salpeter, Burbidge, Fowler y Hoyle) monopolizó prestigio. La segunda fue fallas de comunicación entre teoría y experimento. Zeldovich malinterpretó «sky temperature» de Ohm como menor que 1 K. La tercera fue resistencia a tomar en serio el universo temprano como tema respetable.",
+          html: "Tres razones explican la omisión. La primera es que la teoría de Gamow intentaba sintetizar todos los elementos en el big bang. Perdió credibilidad cuando Fermi y Turkevich mostraron que no hay núcleos estables con 5 u 8 partículas. La nucleosíntesis estelar (Salpeter, Burbidge, Fowler y Hoyle) monopolizó prestigio. La segunda fue fallas de comunicación entre teoría y experimento. Zeldovich malinterpretó la «temperatura del cielo» medida por Ohm como menor que 1 K. La tercera fue resistencia a tomar en serio el universo temprano como tema respetable.",
         },
         {
           type: 'paragraph',
@@ -462,7 +470,15 @@ export const firstThreeMinutes: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Entre los candidatos a <span class=\"term\">masa oscura</span> figuran neutrinos masivos (~<span class=\"num\">10–40 eV</span>, Novosibirsk) y «photinos». <span class=\"person\">Vera Rubin</span> mostró velocidades rotacionales altas en galaxias. Violación de bariones/leptones y generación cosmológica de bariones (Sakharov, Yoshimura) explicarían el ratio ~10⁻⁹ sin fijarlo ad hoc. <span class=\"person\">Alan Guth</span> propuso <span class=\"term\">inflación</span> (expansión ultrarrápida inicial) y superenfriamiento para homogeneidad, monopolos magnéticos y abundancia de materia.",
+          html: "Entre los candidatos a <span class=\"term\">masa oscura</span> figuran neutrinos masivos (10–40 eV, según experimentos en Novosibirsk) y photinos, partículas supersimétricas hipotéticas.",
+        },
+        {
+          type: 'paragraph',
+          html: "<span class=\"person\">Vera Rubin</span> mostró velocidades rotacionales altas en galaxias. La violación de bariones/leptones y la generación cosmológica de bariones (Sakharov, Yoshimura) explicarían el ratio ~10⁻⁹ sin fijarlo ad hoc.",
+        },
+        {
+          type: 'paragraph',
+          html: "<span class=\"person\">Alan Guth</span> propuso <span class=\"term\">inflación</span> (expansión ultrarrápida inicial) y superenfriamiento para homogeneidad, monopolos magnéticos y abundancia de materia.",
         },
         {
           type: 'paragraph',
@@ -619,7 +635,7 @@ export const firstThreeMinutes: BookSummary = {
   "Podemos describir con confianza cuantitativa el universo desde el primer centésimo de segundo: temperatura, densidad y composición química.",
   "El «modelo estándar» del universo temprano descansa en datos empíricos —expansión galáctica y CMB— y en leyes conocidas de la física, no en preferencias filosóficas.",
   "Antes del centésimo de segundo un velo de física de partículas limita lo calculable; después, la historia es numérica y verificable.",
-  "El cosmos parece más comprensible cuanto más lejos miramos —y, para Weinberg, más carente de propósito trascendente.",
+  "Por eso el cosmos parece más comprensible cuanto más lejos miramos —y, para Weinberg, más carente de propósito trascendente.",
   "Entender ese origen eleva la vida humana del absurdo hacia la tragedia."
 ],
     highlight: "El equilibrio térmico borra la memoria del instante inicial, pero deja predicciones testeables como el helio primordial y la radiación de 3 K",

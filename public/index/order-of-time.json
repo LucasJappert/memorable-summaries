@@ -53,7 +53,7 @@
     {
       "sectionId": "prefacio",
       "sectionTitle": "Quizá el tiempo sea el mayor misterio",
-      "text": "La realidad suele ser distinta a lo que parece. La Tierra parece plana. El Sol parece girar en el cielo. Del mismo modo, el tiempo no fluye como creemos. En los libros de física que leyó de joven descubrió algo asombroso: el tiempo funciona de otra manera, y aún no sabemos del todo cómo."
+      "text": "La realidad suele ser distinta a lo que parece. La Tierra parece plana. El Sol parece girar en el cielo. Del mismo modo, el tiempo no fluye como creemos. Por eso, en los libros de física que leyó de joven, descubrió algo asombroso. El tiempo funciona de otra manera, y aún no sabemos del todo cómo."
     },
     {
       "sectionId": "prefacio",
@@ -173,7 +173,7 @@
     {
       "sectionId": "cap4",
       "sectionTitle": "Pérdida de la independencia",
-      "text": "Einstein, en la oficina de patentes suiza, unificó ambas intuiciones. El espacio-tiempo (la unión de espacio y tiempo en una sola geometría) no es un escenario fijo. Es el campo gravitatorio (la entidad física que la gravedad describe), dinámico, curvo y verificable. Pierde sentido preguntar si el tiempo existe sin el mundo."
+      "text": "Einstein, en la oficina de patentes suiza, unificó ambas intuiciones. Entonces el espacio-tiempo (la unión de espacio y tiempo en una sola geometría) deja de ser un escenario fijo. Es el campo gravitatorio (la entidad física que la gravedad describe), dinámico, curvo y verificable. Por eso pierde sentido preguntar si el tiempo existe sin el mundo."
     },
     {
       "sectionId": "cap4",
@@ -208,7 +208,7 @@
     {
       "sectionId": "cap5",
       "sectionTitle": "Cuantos de tiempo",
-      "text": "No hay teoría cuántica de la gravedad universalmente aceptada ni confirmada en laboratorio. El desmoronamiento de la Parte I queda completo: unidad, dirección, presente, independencia y continuidad caen uno tras otro. Eso abre la Parte II, un mundo sin variable temporal fundamental."
+      "text": "No hay teoría cuántica de la gravedad universalmente aceptada ni confirmada en laboratorio. Aun así, el desmoronamiento de la Parte I queda completo. Caen uno tras otro la unidad, la dirección, el presente, la independencia y la continuidad. Por eso se abre la Parte II, un mundo sin variable temporal fundamental."
     },
     {
       "sectionId": "cap5",
@@ -388,7 +388,7 @@
     {
       "sectionId": "cap11",
       "sectionTitle": "Lo que emerge de una particularidad",
-      "text": "A nivel fundamental solo hay regularidades simétricas en el tiempo. Causa, memoria y flecha son efectivos emergentes de esa particularidad entrópica. Δ S ≥ 0 vuelve aquí como motor del devenir concreto."
+      "text": "A nivel fundamental solo hay regularidades simétricas en el tiempo. Por eso causa, memoria y flecha son efectivos emergentes de esa particularidad entrópica. De ahí que Δ S ≥ 0 vuelva aquí como motor del devenir concreto."
     },
     {
       "sectionId": "cap11",
@@ -418,7 +418,7 @@
     {
       "sectionId": "cap12",
       "sectionTitle": "El aroma de la magdalena",
-      "text": "La objeción de que primero existe un tiempo físico global pierde fuerza si la física desmonta ese tiempo. Antes que seres racionales, somos hambre, vínculo, vida. El flujo subjetivo emerge del rastro entrópico en el cerebro."
+      "text": "La objeción de que primero existe un tiempo físico global pierde fuerza si la física desmonta ese tiempo. Antes que seres racionales, somos hambre, vínculo, vida. Por eso el flujo subjetivo emerge del rastro entrópico en el cerebro."
     },
     {
       "sectionId": "cap12",
@@ -463,7 +463,7 @@
     {
       "sectionId": "epilogo",
       "sectionTitle": "La hermana del sueño",
-      "text": "Rovelli, a los sesenta años, no teme la muerte como temió nunca del todo. La teme menos que el sufrimiento o la vejez sin amor. Bach, en la cantata BWV 56, llama a la muerte «hermana del sueño»: una hermana bondadosa que cierra los ojos."
+      "text": "Rovelli, a los sesenta años, no teme la muerte como temió nunca del todo. La teme menos que el sufrimiento o la vejez sin amor. Entonces Bach, en la cantata BWV 56, llama a la muerte «hermana del sueño»: una hermana bondadosa que cierra los ojos."
     },
     {
       "sectionId": "epilogo",
@@ -483,12 +483,17 @@
     {
       "sectionId": "cierre",
       "sectionTitle": "Cierre",
-      "text": "El tiempo que habitamos —uniforme, con presente universal y flecha irreversible— es una aproximación en capas de un mundo de eventos sin variable temporal privilegiada."
+      "text": "El tiempo que habitamos —uniforme, con presente universal y flecha irreversible— no es una propiedad elemental del cosmos."
     },
     {
       "sectionId": "cierre",
       "sectionTitle": "Cierre",
-      "text": "La física desmonta el reloj cósmico pieza a pieza y lo reconstruye desde la memoria."
+      "text": "Es una aproximación en capas de un mundo de eventos sin variable temporal privilegiada."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Por eso la física desmonta el reloj cósmico pieza a pieza y lo reconstruye desde la memoria."
     },
     {
       "sectionId": "cierre",

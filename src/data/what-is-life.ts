@@ -96,7 +96,7 @@ export const whatIsLife: BookSummary = {
   {
     "id": "cronologia",
     "num": "◈",
-    "label": "Cronología"
+    "label": "Cronología de los descubrimientos"
   },
   {
     "id": "figuras",
@@ -270,7 +270,7 @@ export const whatIsLife: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El labio Habsburgo se transmitió siglos a ~<span class=\"num\">37 °C</span>. Un físico del siglo XIX no tenía respuesta sin química cuántica. La teoría cuántica de Planck (<span class=\"num\">1900</span>) funda la herencia. Los sistemas pequeños poseen niveles discretos. Las transiciones son <span class=\"term\">saltos cuánticos</span> (cambios discretos de energía, no graduales).",
+          html: "El labio Habsburgo se transmitió siglos a ~<span class=\"num\">37 °C</span>. Un físico del siglo XIX no tenía respuesta sin química cuántica. Por eso, la teoría cuántica de Planck (<span class=\"num\">1900</span>) funda la herencia. Los sistemas pequeños poseen niveles discretos. Las transiciones son <span class=\"term\">saltos cuánticos</span> (cambios discretos de energía, no graduales).",
         },
         {
           type: 'paragraph',
@@ -302,7 +302,7 @@ export const whatIsLife: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El gen es una molécula gigante con cambios discretos por reordenamiento isomérico. Los umbrales altos hacen raras las mutaciones espontáneas. No hay alternativa molecular para la permanencia del código. Schrödinger resume que molécula equivale a sólido y cristal, mientras gas equivale a líquido amorfo.",
+          html: "El gen es una molécula gigante con cambios discretos por reordenamiento isomérico. Los umbrales altos hacen raras las mutaciones espontáneas, y no hay alternativa molecular para la permanencia del código. Por eso, Schrödinger resume que molécula equivale a sólido y cristal, mientras gas equivale a líquido amorfo.",
         },
         {
           type: 'paragraph',
@@ -602,7 +602,7 @@ export const whatIsLife: BookSummary = {
         },
         {
           type: 'key',
-          html: "Todo conocimiento científico parte de la percepción sensorial, pero el modelo físico excluye qualia. Las teorías facilitan memoria de hechos medidos y nunca explican las cualidades sensibles.",
+          html: "Todo conocimiento científico parte de la percepción sensorial, pero el modelo físico excluye las cualidades sensibles desde el primer paso. Las teorías facilitan memoria de hechos medidos y nunca explican color, sabor ni sonido vividos.",
         },
       ],
     },
@@ -638,7 +638,7 @@ export const whatIsLife: BookSummary = {
   },
   {
     "title": "Objetivación",
-    "description": "Exclusión del sujeto del modelo científico; habilita predicción pero excluye mente, valor y qualia."
+    "description": "Exclusión del sujeto del modelo científico; habilita predicción pero excluye mente, valor y cualidades sensibles."
   },
   {
     "title": "Mneme / novedad y conciencia",
@@ -696,7 +696,7 @@ export const whatIsLife: BookSummary = {
   },
   {
     "year": "1954",
-    "text": "Schrödinger: *Nature and the Greeks*"
+    "text": "Schrödinger publica *La naturaleza y los griegos*"
   },
   {
     "year": "1958",
@@ -759,7 +759,7 @@ export const whatIsLife: BookSummary = {
   "Vida, herencia, metabolismo y conciencia no contradicen la física, pero exigen dos principios de orden distintos.",
   "El código genético es un sólido aperiódico cuántico; la vida se alimenta de entropía negativa; la mente construye el mundo excluyéndose a sí misma.",
   "Schrödinger une física cuántica, genética y filosofía sin postular fuerzas vitales ni abandonar rigor.",
-  "El observador no puede entrar en su propio cuadro sin paradojas: qualia, libre albedrío y sentido quedan fuera del modelo, no fuera de la experiencia.",
+  "El observador no puede entrar en su propio cuadro sin paradojas: las cualidades sensibles, el libre albedrío y el sentido quedan fuera del modelo, no fuera de la experiencia.",
   "Meditar sobre la vida —no sobre la muerte— sigue siendo el mandato spinozista que abre y cierra la obra."
 ],
     highlight: "La unidad de la conciencia es la clave para entender permanencia del código, ética, evolución futura y límites de lo que la ciencia puede decir sobre lo religioso",

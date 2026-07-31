@@ -21,7 +21,7 @@ export const wonderfulLife: BookSummary = {
   {
     "id": "prefacio",
     "num": "00",
-    "label": "Prefacio"
+    "label": "Prefacio y agradecimientos"
   },
   {
     "id": "cap1",
@@ -36,7 +36,7 @@ export const wonderfulLife: BookSummary = {
   {
     "id": "cap3",
     "num": "03",
-    "label": "Reconstrucción del Burgess Shale"
+    "label": "Reconstrucción del Burgess Shale: hacia una nueva visión de la vida"
   },
   {
     "id": "cap4",
@@ -198,7 +198,7 @@ export const wonderfulLife: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La conclusión es clara. El Cámbrico temprano tuvo máxima disparidad. Una <span class=\"term\">decimación</span> posterior (eliminación masiva de linajes) borró la mayoría de planes corporales. Los «ganadores» de hoy no fueron necesariamente superiores por diseño: sobrevivieron un sorteo histórico. Gould narra ese trabajo como un drama en cinco actos, respetando la cronología de la investigación.",
+          html: "Por eso la conclusión es clara: el Cámbrico temprano tuvo máxima disparidad. Una <span class=\"term\">decimación</span> posterior (eliminación masiva de linajes) borró la mayoría de planes corporales. Los «ganadores» de hoy no fueron necesariamente superiores por diseño: sobrevivieron un sorteo histórico. Gould narra ese trabajo como un drama en cinco actos, respetando la cronología de la investigación.",
         },
         {
           type: 'list',
@@ -268,7 +268,7 @@ export const wonderfulLife: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El patrón Burgess (proliferación inicial y luego poda) se repite a otras escalas. La inteligencia humana no era un destino escrito: fue el final de una cadena improbable. Reconocerlo no menosprecia a nuestra especie. Amplía la comprensión de la vida. Un animal temprano con notocorda (un cordón flexible que precede a la columna) como <em>Pikaia</em> ilustra esa fragilidad. Era un posible antepasado de los vertebrados.",
+          html: "Por eso el patrón Burgess (proliferación inicial y luego poda) se repite a otras escalas. La inteligencia humana no era un destino escrito: fue el final de una cadena improbable. Reconocerlo no menosprecia a nuestra especie. Amplía la comprensión de la vida. Un animal temprano con notocorda (un cordón flexible que precede a la columna) como <em>Pikaia</em> ilustra esa fragilidad. Era un posible antepasado de los vertebrados.",
         },
         {
           type: 'concept-grid',
@@ -411,7 +411,7 @@ export const wonderfulLife: BookSummary = {
     title: "La idea central",
     lines: [
   "La vida no subió una escalera hacia el hombre.",
-  "El Cámbrico fue un festival de formas extrañas, luego decimadas.",
+  "Por eso el Cámbrico fue un festival de formas extrañas, luego decimadas.",
   "La Burgess Shale lo demuestra mejor que cualquier otro fósil.",
   "Somos un resultado posible, no un destino cósmico.",
   "La historia evolutiva es contingente: explicable en retrospectiva e impredecible hacia adelante."

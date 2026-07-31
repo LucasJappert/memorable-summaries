@@ -15,7 +15,7 @@ lang: es
 | id | num | label |
 |----|-----|-------|
 | cierre | ★ | La idea central |
-| prefacio | 00 | Prefacio |
+| prefacio | 00 | ¿Por qué este libro y por qué ahora? |
 | cap1 | 01 | Si tenemos éxito |
 | cap2 | 02 | Inteligencia en humanos y máquinas |
 | cap3 | 03 | ¿Cómo avanzará la IA? |
@@ -27,7 +27,7 @@ lang: es
 | cap9 | 09 | Complicaciones: nosotros |
 | cap10 | 10 | ¿Problema resuelto? |
 | conceptos | ✦ | Conceptos clave |
-| cronologia | ◈ | Cronología |
+| cronologia | ◈ | Cronología de la IA y del libro |
 | figuras | ✦ | Figuras clave |
 
 ---
@@ -38,8 +38,8 @@ lang: es
 
 <!-- closing -->
 
-La IA dominó el siglo XX bajo el modelo estándar: máquinas inteligentes optimizan un objetivo fijo.
-Russell propone invertir la definición: máquinas beneficiosas persiguen nuestras preferencias, inciertas al inicio y aprendidas del comportamiento humano.
+En suma, la IA dominó el siglo XX bajo el modelo estándar: máquinas inteligentes optimizan un objetivo fijo.
+Por eso Russell propone invertir la definición: máquinas beneficiosas persiguen nuestras preferencias, inciertas al inicio y aprendidas del comportamiento humano.
 
 <!-- highlight -->El éxito en superinteligencia puede ser el mayor evento de la historia — o el último — según diseñemos el objetivo antes de que sea tarde.<!-- /highlight -->
 
@@ -245,7 +245,7 @@ Antes de rediseñar la IA, hay que superar un debate público lleno de negación
 ¿Por qué el debate sobre riesgo existencial de IA es tan pobre pese a lo que está en juego?
 
 <!-- paragraph -->
-Russell clasifica objeciones en negación, desvío y soluciones instantáneas. Ejemplos lamentables comparan superinteligencia con calculadoras aritméticas. Otros la comparan con fuerza de caballos. Esas analogías fallan porque la inteligencia habilita control del mundo.
+Russell clasifica objeciones en negación, desvío y soluciones instantáneas. Ejemplos lamentables comparan superinteligencia con calculadoras aritméticas. Otros la comparan con fuerza de caballos. Esas analogías fallan porque la inteligencia habilita control del mundo, no solo cálculo aislado.
 
 <!-- paragraph -->
 <span class="person">Kevin Kelly</span> sostiene que «más inteligente que humanos» carece de sentido. Argumenta que la inteligencia es multidimensional. Russell responde con chimpancés. Memoria a corto plazo superior no impide que humanos decidan su destino. El informe AI100 (<span class="num">2016</span>) declaró superinteligencia «probablemente imposible» sin argumentos. Eso huele a tribalismo ante un «ataque» al campo.
@@ -276,7 +276,7 @@ Esas pistas se convierten en tres principios para diseñar máquinas beneficiosa
 Russell subraya que la tarea es diseñar inteligencia alta que nunca nos haga profundamente infelices. No basta domar un sistema opaco ya creado. Emular cerebros enteros o evolucionar programas opacos son malas ideas por la misma razón.
 
 <!-- paragraph -->
-Propone tres principios para investigadores, no leyes literales del robot. Primero, la única meta es maximizar <span class="term">preferencias humanas</span>, es decir, lo que cada persona valoraría entre futuros posibles. Segundo, la máquina es inicialmente incierta sobre cuáles son. Tercero, aprende del <span class="term">comportamiento humano</span>, es decir, de las elecciones que revelan esas preferencias.
+Por eso propone tres principios para investigadores, no leyes literales del robot. Primero, la única meta es maximizar <span class="term">preferencias humanas</span>, es decir, lo que cada persona valoraría entre futuros posibles. Segundo, la máquina es inicialmente incierta sobre cuáles son. Tercero, aprende del <span class="term">comportamiento humano</span>, es decir, de las elecciones que revelan esas preferencias.
 
 <!-- paragraph -->
 La incertidumbre sobre el objetivo genera humildad. La máquina pregunta, actúa con cautela y permite apagarse. El humano solo apagaría si algo va mal respecto a preferencias reales. Esto invierte el modelo estándar, donde un objetivo perfectamente conocido desacopla máquina y humano. Russell aclara malentendidos frecuentes. No impone valores occidentales del diseñador. No busca resolver solo dilemas del tranvía. Aprender preferencias no convierte a criminólogos en criminales.
@@ -337,7 +337,7 @@ Varias personas imponen comercios entre preferencias. La IA «leal» solo al due
 Russell defiende IA consecuencialista para máquinas. Propone maximizar suma de utilidades con peso igual, en la línea de Bentham, Mill y Mozi. Las reglas morales sirven como atajos prácticos. En humanos entran derechos que limitan sacrificio personal. En robots se exige sacrificio para salvar vidas.
 
 <!-- paragraph -->
-La psicología complica más. <span class="person">Daniel Kahneman</span> distingue yo experiencial versus yo recordador. Usa la regla pico-fin. Las preferencias evolucionan históricamente. Fijarlas sería imitar Roma del siglo II. Hay que separar actualización de cambio de preferencias. Las máquinas siempre alteran experiencias, como algoritmos de redes sociales.
+La psicología complica más. <span class="person">Daniel Kahneman</span> distingue yo experiencial versus yo recordador. Usa la regla pico-fin. Las preferencias evolucionan históricamente. Fijarlas sería imitar Roma del siglo II. Por eso hay que separar actualización de cambio de preferencias. Las máquinas siempre alteran experiencias, como algoritmos de redes sociales.
 
 <!-- paragraph -->
 Russell propone <span class="term">meta-preferencias</span>, es decir, preferencias sobre procesos aceptables de cambio. Viajar, debatir o introspeccionar pueden ser procesos neutros. Los nudges de Thaler y Sunstein orientan cambios. Ingeniería moral global para aumentar altruismo es tentadora. Aristóteles quiso formar carácter ciudadano. Pero es riesgosa.

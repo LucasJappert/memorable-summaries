@@ -16,7 +16,7 @@ lang: es
 | id | num | label |
 |----|-----|-------|
 | cierre | ★ | La idea central |
-| prefacio | 00 | Prefacio |
+| prefacio | 00 | Un misterio resuelto |
 | cap1 | 01 | Explicar lo muy improbable |
 | cap2 | 02 | Buen diseño |
 | cap3 | 03 | Acumulando pequeños cambios |
@@ -29,7 +29,7 @@ lang: es
 | cap10 | 10 | El único árbol verdadero de la vida |
 | cap11 | 11 | Rivales condenados |
 | conceptos | ✦ | Conceptos clave |
-| cronologia | ◈ | Cronología |
+| cronologia | ◈ | Cronología de los descubrimientos |
 | figuras | ✦ | Figuras clave |
 
 ---
@@ -173,7 +173,7 @@ Si el mecanismo funciona, debe poder explicar el órgano más citado como «impo
 ¿Puede un ojo complejo surgir por pasos graduales? Muchos dudan de ello. Dawkins reformula el problema con una serie de preguntas sobre el <span class="term">espacio animal</span> (el espacio de todas las formas posibles de cuerpos).
 
 <!-- paragraph -->
-¿Pudo el ojo humano surgir de la nada en un paso? No: las probabilidades son astronómicas. ¿De algo ligeramente distinto, X? Sí, si X es suficientemente parecido. Repitiendo la pregunta con pasos cada vez menores, se traza una cadena de Xs desde «sin ojo» hasta el ojo moderno.
+¿Pudo el ojo humano surgir de la nada en un paso? No: las probabilidades son astronómicas. ¿De algo ligeramente distinto, X? Sí, si X es suficientemente parecido. Por eso, repitiendo la pregunta con pasos cada vez menores, se traza una cadena de Xs desde «sin ojo» hasta el ojo moderno.
 
 <!-- paragraph -->
 Con suficientes generaciones, medidas en miles de millones, la transición es plausible. Cada mutación modifica un proceso embriológico existente. Cuanto menor el cambio, más plausible embriológicamente. Y cada intermediario debe funcionar lo bastante bien como para ayudar a sobrevivir y reproducirse.
@@ -200,7 +200,7 @@ Explicar la forma del cuerpo exige bajar al nivel de las instrucciones que la co
 ¿Qué hay realmente en el corazón de un ser vivo? Llueve ADN en el jardín del autor: semillas de sauce flotan por el canal de Oxford. Lo que importa no es la celulosa del paracaídas, sino las instrucciones digitales para construir sauces que las esparcen.
 
 <!-- paragraph -->
-La vieja noción de <span class="term">protoplasma</span> (sustancia viva misteriosa e indivisible) está muerta como el flogisto. Lo especial de la vida no es la sustancia, sino la información: instrucciones digitales en un medio de almacenamiento con muchas posiciones discretas. Los genes son tecnología de la información.
+La vieja noción de <span class="term">protoplasma</span> (sustancia viva misteriosa e indivisible) está muerta como el flogisto. De ahí que lo especial de la vida no sea la sustancia, sino la información. Son instrucciones digitales en un medio de almacenamiento con muchas posiciones discretas. Los genes son tecnología de la información.
 
 <!-- paragraph -->
 <span class="person">Gregor Mendel</span>, el monje botánico, descubrió la herencia digital: no mezclamos rasgos de padres, los recibimos en partículas discretas. <span class="person">Fleeming Jenkin</span> argumentó en <span class="num">1867</span> que la herencia mezcladora, creída en tiempos de Darwin, casi descartaba la selección natural. La genética particulada salvó el darwinismo moderno.
@@ -226,7 +226,7 @@ Si la vida es información replicada, queda el límite más difícil: cómo empe
 ¿Cuánta suerte puede postularse en el origen de la vida? Los «milagros» son sucesos naturales en el extremo improbable del espectro. Cuánto azar podemos postular depende del tiempo y las oportunidades disponibles. La selección acumulativa convierte sucesos aceptablemente afortunados en un producto final que parece imposiblemente milagroso.
 
 <!-- paragraph -->
-La selección acumulativa necesitó arrancar con un primer paso de azar puro. Ahí está la paradoja del origen de la vida: la replicación exige maquinaria compleja (ADN, proteínas, RNA). Y la única vía conocida hacia tal complejidad es la selección acumulativa.
+La selección acumulativa necesitó arrancar con un primer paso de azar puro. Ahí está la paradoja del origen de la vida: la replicación exige maquinaria compleja (ADN, proteínas, RNA). Pero la única vía conocida hacia tal complejidad es la selección acumulativa.
 
 <!-- paragraph -->
 Invocar un diseñador sobrenatural no explica nada: un Dios capaz de diseñar esa maquinaria sería al menos tan complejo como ella. Cuánta suerte máxima podemos permitirnos en un solo paso es una pregunta legítima. El mono que escribe «Methinks it is like a weasel» de un golpe (~<span class="num">10<sup>40</sup></span>) es demasiado.
@@ -258,7 +258,7 @@ Una vez iniciada la replicación, la evolución no solo elimina lo defectuoso: t
 ¿La selección natural solo elimina lo defectuoso? Algunos ven la selección natural solo como fuerza negativa, comparable al escultor que quita mármol. La <span class="term">mutación</span> (cambio aleatorio en el ADN) introduce variación nueva. Juntas pueden construir complejidad en dos vías.
 
 <!-- paragraph -->
-Un gen solo tiene efecto sobre una estructura ya existente. Desde el punto de vista de cada gen, el ambiente más importante son los otros genes de la población. Genes que colaboran en vías bioquímicas o en equipos evolucionan juntos. Un equipo dominante resiste ser desplazado por alternativas equivalentes.
+Un gen solo tiene efecto sobre una estructura ya existente. Por eso, desde el punto de vista de cada gen, el ambiente más importante son los otros genes de la población. Genes que colaboran en vías bioquímicas o en equipos evolucionan juntos. Un equipo dominante resiste ser desplazado por alternativas equivalentes.
 
 <!-- paragraph -->
 Los <span class="term">genotipos coadaptados</span> (conjuntos de genes que funcionan bien juntos) explican por qué dientes de carnívoro van con intestino carnívoro. Las <span class="term">carreras armamentísticas</span> (escalada evolutiva entre rivales) escalan la complejidad como una espiral. Cada mejora de un bando selecciona contramedidas en el otro.
@@ -312,7 +312,7 @@ Entre los malentendidos contemporáneos que más ruido hacen está el punctuatio
 ¿Es el punctuationismo un rival del darwinismo? Dawkins parodia a historiadores «punctuationistas» bíblicos que acusan a los «gradualistas» de creer que los israelitas avanzaban <span class="num">24 yardas</span> al día sin parar. La parábola satiriza el punctuationismo evolutivo: no es tan revolucionario ni tan opuesto a Darwin como su publicidad sugiere.
 
 <!-- paragraph -->
-Los punctuationistas, muchos paleontólogos, enfatizan <span class="term">estasis</span> (periodos largos sin cambio visible en el registro fósil) y cambios rápidos en eventos de especiación. Los «gradualistas» de paja avanzarían a ritmo constante generación tras generación. En realidad, casi todos los darwinianos son gradualistas en el sentido de que no hay saltos macromutacionales milagrosos.
+Los punctuationistas, muchos paleontólogos, enfatizan <span class="term">estasis</span> (periodos largos sin cambio visible en el registro fósil) y cambios rápidos en eventos de especiación. Los «gradualistas» de paja avanzarían a ritmo constante generación tras generación. En cambio, casi todos los darwinianos son gradualistas en el sentido de que no hay saltos macromutacionales milagrosos.
 
 <!-- paragraph -->
 El registro fósil es incompleto por naturaleza. La datación radiométrica (carbono-<span class="num">14</span>, potasio-argón, uranio-plomo) permite pruebas temporales. Un fósil humano auténtico en rocas de <span class="num">500 millones</span> de años destruiría la evolución: prueba de que la teoría es falsable. La controversia real es menor de lo que venden las revistas.

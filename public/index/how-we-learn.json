@@ -35,7 +35,7 @@
       "description": "Especie que se enseña mediante cultura y escuela."
     }
   ],
-  "highlight": "Atención, compromiso activo, feedback correctivo y consolidación —incluido el sueño— son los cuatro pilares de toda enseñanza eficaz.",
+  "highlight": "Atención, compromiso activo, retroalimentación correctiva y consolidación —incluido el sueño— son los cuatro pilares de toda enseñanza eficaz.",
   "entries": [
     {
       "sectionId": "prefacio",
@@ -245,7 +245,7 @@
     {
       "sectionId": "cap6",
       "sectionTitle": "Recicla tu cerebro",
-      "text": "La hipótesis del reciclaje neuronal (cada invención cultural busca un nicho en circuitos ya existentes) explica cómo el alfabeto reconvierte áreas evolutivas. Lo mismo ocurre con las cifras. Esos circuitos deben ser lo bastante similares y flexibles. Leer recicla áreas visuales hacia el área de forma visual de palabras (región que reconoce letras y palabras escritas). Calcular recicla circuitos de cantidad."
+      "text": "Por eso, la hipótesis del reciclaje neuronal (cada invención cultural busca un nicho en circuitos ya existentes) explica cómo el alfabeto reconvierte áreas evolutivas. Lo mismo ocurre con las cifras. Esos circuitos deben ser lo bastante similares y flexibles. Leer recicla áreas visuales hacia el área de forma visual de palabras (región que reconoce letras y palabras escritas). Calcular recicla circuitos de cantidad."
     },
     {
       "sectionId": "cap6",
@@ -275,7 +275,7 @@
     {
       "sectionId": "cap7",
       "sectionTitle": "Atención",
-      "text": "Lo no atendido queda confinado a áreas sensoriales tempranas. Los sistemas de alerta químicos pueden reabrir plasticidad, como mostraron los experimentos de Michael Merzenich en ratones. Una pasión temprana puede invadir mapas corticales vecinos. El docente debe capturar y guiar la atención, eliminando distracciones innecesarias."
+      "text": "Pero lo no atendido queda confinado a áreas sensoriales tempranas. Por eso, los sistemas de alerta químicos pueden reabrir plasticidad, como mostraron los experimentos de Michael Merzenich en ratones. Una pasión temprana puede invadir mapas corticales vecinos. El docente debe capturar y guiar la atención, eliminando distracciones innecesarias."
     },
     {
       "sectionId": "cap7",
@@ -305,7 +305,7 @@
     {
       "sectionId": "cap8",
       "sectionTitle": "Compromiso activo",
-      "text": "Henry Roediger mostró que la dificultad deseable mejora la retención. La pasividad deja huellas mínimas, pero hace falta currículo estructurado que guíe la exploración."
+      "text": "Además, Henry Roediger mostró que la dificultad deseable mejora la retención. Por eso, la pasividad deja huellas mínimas, pero hace falta currículo estructurado que guíe la exploración."
     },
     {
       "sectionId": "cap8",
@@ -315,7 +315,7 @@
     {
       "sectionId": "cap8",
       "sectionTitle": "Compromiso activo",
-      "text": "Las predicciones activas solo sirven si el error las corrige con feedback adecuado."
+      "text": "Las predicciones activas solo sirven si el error las corrige con retroalimentación adecuada."
     },
     {
       "sectionId": "cap9",
@@ -330,7 +330,7 @@
     {
       "sectionId": "cap9",
       "sectionTitle": "Retroalimentación del error",
-      "text": "Los cuatro pilares se entrelazan en un ciclo. La atención selecciona, el compromiso activo genera predicciones y el error las corrige. Castigar errores con notas o estigma destruye plasticidad emocional. El feedback debe ser correctivo, no punitivo."
+      "text": "Por eso, los cuatro pilares se entrelazan en un ciclo. La atención selecciona, el compromiso activo genera predicciones y el error las corrige. Pero castigar errores con notas o estigma destruye plasticidad emocional: la retroalimentación debe ser correctiva, no punitiva."
     },
     {
       "sectionId": "cap9",
@@ -340,7 +340,7 @@
     {
       "sectionId": "cap9",
       "sectionTitle": "Retroalimentación del error",
-      "text": "La calidad del feedback correctivo, no la humillación, determina la velocidad de aprendizaje."
+      "text": "La calidad de la retroalimentación correctiva, no la humillación, determina la velocidad de aprendizaje."
     },
     {
       "sectionId": "cap9",
@@ -365,7 +365,7 @@
     {
       "sectionId": "cap10",
       "sectionTitle": "Consolidación",
-      "text": "Según Dehaene, la mejora nocturna puede alcanzar un factor de 10 a 100 . Consolidar no es trivializar: libera corteza para razonamiento superior."
+      "text": "Según Dehaene, la mejora nocturna puede alcanzar un factor de 10 a 100 . Por eso, consolidar no es trivializar: libera corteza para razonamiento superior."
     },
     {
       "sectionId": "cap10",
@@ -410,7 +410,7 @@
     {
       "sectionId": "cierre",
       "sectionTitle": "Cierre",
-      "text": "La escuela recicla circuitos evolutivos hacia cultura simbólica; las máquinas aún no igualan nuestra abstracción ni eficiencia."
+      "text": "Por eso, la escuela recicla circuitos evolutivos hacia cultura simbólica; las máquinas aún no igualan nuestra abstracción ni eficiencia."
     },
     {
       "sectionId": "cierre",
@@ -430,7 +430,7 @@
     {
       "sectionId": "cierre",
       "sectionTitle": "Cierre",
-      "text": "Atención, compromiso activo, feedback correctivo y consolidación —incluido el sueño— son los cuatro pilares de toda enseñanza eficaz."
+      "text": "Atención, compromiso activo, retroalimentación correctiva y consolidación —incluido el sueño— son los cuatro pilares de toda enseñanza eficaz."
     }
   ]
 }

@@ -14,7 +14,7 @@ lang: es
 
 | id | num | label |
 |----|-----|-------|
-| prefacio | 00 | Prefacio |
+| prefacio | 00 | La píldora roja |
 | cap1 | 01 | El misterio del bisturí |
 | cap2 | 02 | Las sirenas del gen |
 | cap3 | 03 | Las peripecias del sol invisible |
@@ -25,7 +25,7 @@ lang: es
 | cap8 | 08 | Mutaciones de una interfaz |
 | cap9 | 09 | Obtienes lo que necesitas |
 | cap10 | 10 | La red de agentes conscientes |
-| cap11 | 11 | Con precisión |
+| cap11 | 11 | Con precisión (Apéndice) |
 | conceptos | ✦ | Conceptos clave |
 | cronologia | ◈ | Cronología |
 | figuras | ✦ | Figuras clave |
@@ -38,7 +38,7 @@ lang: es
 ## title: La idea central
 
 <!-- closing -->
-La evolución no esculpió sentidos para revelar la verdad objetiva.
+Por eso la evolución no esculpió sentidos para revelar la verdad objetiva.
 Nos dotó de una interfaz de iconos en espacio-tiempo que codifica aptitud y guía acción útil.
 <!-- highlight -->Espacio, tiempo y objetos son tu realidad virtual, no el escenario fundamental del universo<!-- /highlight -->
 El teorema Fitness-Beats-Truth y la física cuántica convergen en esa conclusión contra la intuición.
@@ -120,13 +120,13 @@ Si la percepción no reporta la realidad tal cual, un caso cotidiano lo ilustra:
 ¿Por qué un escarabajo confunde una botella de cerveza con una pareja? Para <span class="person">David Hume</span>, la belleza está en el ojo del observador. Darwin explica por qué ese ojo juzga. La belleza resume, en una fracción de segundo, una estimación de <span class="term">potencial reproductivo</span> (probabilidad de dejar descendencia).
 
 <!-- paragraph -->
-Escarabajos macho en Australia confundieron botellas cerveza «stubbie» con hembras. El brillo, las hendiduras y el marrón casi llevaron la especie a la extinción. Alces aparecen apareándose con estatuas. La belleza es computación inconsciente sobre señales evolutivas, no capricho.
+Por eso escarabajos macho en Australia confundieron botellas cerveza «stubbie» con hembras. El brillo, las hendiduras y el marrón casi llevaron la especie a la extinción. Alces aparecen apareándose con estatuas. La belleza es computación inconsciente sobre señales evolutivas, no capricho.
 
 <!-- paragraph -->
 Experimentos del laboratorio de Hoffman identificaron pistas en el ojo humano. Un <span class="term">anillo limbar</span> (el borde oscuro del iris) prominente señala juventud y salud corneal. Los hombres prefieren iris relativamente grandes en mujeres menores de cincuenta. La esclerótica ligeramente azulada y los brillos «catch light» aumentan el atractivo.
 
 <!-- paragraph -->
-Los genes pueden mentir con maquillaje, orquídeas martillo engañando avispas, o luciérnagas Photuris devorando machos Photinus. Las mujeres enfrentan un trade-off evolutivo entre rostros más masculinos (testosterona) y mayor probabilidad de infidelidad. La preferencia varía con el ciclo menstrual. La belleza codifica aptitud personal e inclusiva (<span class="person">William Hamilton</span>), no verdades sobre «cosas en sí».
+La naturaleza también engaña con señales falsas. Orquídeas martillo imitan avispas hembras para atraer polinizadores, y luciérnagas Photuris devoran machos Photinus atraídos por señales falsas. Las mujeres enfrentan un dilema evolutivo entre rostros más masculinos (testosterona) y mayor probabilidad de infidelidad. La preferencia varía con el ciclo menstrual. Por eso la belleza codifica aptitud personal e inclusiva (<span class="person">William Hamilton</span>), no verdades sobre «cosas en sí».
 
 <!-- big-numbers -->
 | value | label |
@@ -297,7 +297,7 @@ Un canal sensorial concreto muestra esa compresión en acción: el color.
 ¿Por qué vemos millones de colores con solo cuatro tipos de fotorreceptores? El color comprime longitudes de onda (<span class="num">400–700 nm</span>) en cuatro números por punto. Son conos L, M, S y bastones. Es borrado masivo de datos sobre aptitud fuera de esa ventana.
 
 <!-- paragraph -->
-Ilusiones acuarela y cuadrado neón muestran corrección de borrados en tiempo real. Las <span class="term">cromaturas</span> (color más textura) superan al color plano en precisión emocional y guía de acción. Brócoli vs. carne verde vs. fresa lo ilustran. Plantas con <span class="num">11</span> o <span class="num">27</span> tipos de fotorreceptores explotan códigos cromáticos evolutivos distintos al nuestro.
+Por eso ilusiones acuarela y cuadrado neón muestran corrección de borrados en tiempo real. Las <span class="term">cromaturas</span> (color más textura) superan al color plano en precisión emocional y guía de acción. Brócoli frente a carne verde o fresa lo ilustran. Plantas con <span class="num">11</span> o <span class="num">27</span> tipos de fotorreceptores explotan códigos cromáticos evolutivos distintos al nuestro.
 
 <!-- paragraph -->
 Marcas defienden colores como propiedad intelectual (T-Mobile magenta vs. Aio plum, <span class="num">2014</span>). La psicología del color enlaza matices con emociones y contexto. El mismo marrón «opaque couché» cambia de feo a aceptable según sombreado del sombrero de Joseph.

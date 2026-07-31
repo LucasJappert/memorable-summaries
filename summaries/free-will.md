@@ -14,7 +14,7 @@ lang: es
 
 | id | num | label |
 |----|-----|-------|
-| prefacio | 00 | Prólogo |
+| prefacio | 00 | La ilusión que sostiene la moral |
 | cap1 | 01 | Orígenes inconscientes de la voluntad |
 | cap2 | 02 | Cambiar de tema |
 | cap3 | 03 | Causa y efecto |
@@ -39,7 +39,7 @@ lang: es
 ¿Somos autores de nuestros pensamientos o testigos de una ilusión? El filósofo y neurocientífico <span class="person">Sam Harris</span> abre con un caso extremo: el crimen de Cheshire (<span class="num">2007</span>).
 
 <!-- paragraph -->
-La pregunta del <span class="term">libre albedrío</span> (la creencia de poder elegir libremente) toca casi todo lo que nos importa. Afecta la moral, la ley y la culpa personal. Los criminales serían como relojes mal calibrados si no existiera el libre albedrío. La justicia retributiva perdería sentido.
+La pregunta del <span class="term">libre albedrío</span> (la creencia de poder elegir libremente) toca casi todo lo que nos importa. Por eso afecta la moral, la ley y la culpa personal. Sin libre albedrío, los criminales serían como relojes mal calibrados y la justicia retributiva perdería sentido.
 
 <!-- paragraph -->
 <span class="person">Steven Hayes</span> y <span class="person">Joshua Komisarjevsky</span> asesinaron a Jennifer Petit y a sus hijas tras una noche de violencia. Ante semejante horror, casi todos sentimos que los culpables deben responder moralmente.
@@ -235,7 +235,7 @@ Esa compasión no elimina la necesidad de juzgar conductas: la pregunta es cómo
 Harris propone responsabilidad sin ilusión. Ser responsable es que la conducta refleje la mente global (creencias, deseos, historial). No que exista un agente inmune a la causalidad.
 
 <!-- paragraph -->
-Cinco casos graduales muestran cómo el contexto modula la indignación aunque el cerebro sea siempre la causa. Un niño de <span class="num">4 años</span>, un abusado de <span class="num">12</span>, un adulto abusado, un psicópata y un psicópata con tumor en corteza prefrontal medial.
+Cinco casos graduales muestran cómo el contexto modula la indignación aunque el cerebro sea siempre la causa. Un niño de <span class="num">4 años</span> provoca menos furia que un adulto. Un abusado de <span class="num">12</span> o un adulto con historial de abuso despiertan más compasión. Un psicópata sin tumor genera otra reacción, pero un psicópata con tumor en corteza prefrontal medial casi «absuelve» porque la lesión parece adventicia.
 
 <!-- paragraph -->
 El tumor «absuelve» porque parece adventicio. Entender más causas difumina la línea entre psicópata y paciente con tumor. Encarcelar peligrosos protege a otros sin necesidad de odiar al agente.
@@ -271,7 +271,7 @@ La misma lógica se extiende a la política: el mérito absoluto del éxito y de
 Los conservadores a menudo fetichizan el individualismo sin ver cuánta fortuna requiere «trabajar duro». Hace falta inteligencia, salud y no quebrar por enfermedad de un cónyuge. Nadie eligió su genoma, país, salud ni economía familiar.
 
 <!-- paragraph -->
-Incluso la disciplina para esforzarse es condición neurológica, no mérito. La pereza y la diligencia son estados del cerebro. Aun así, exigir esfuerzo y disuadir free riders sigue siendo útil socialmente.
+Incluso la disciplina para esforzarse es condición neurológica, no mérito. La pereza y la diligencia son estados del cerebro. Aun así, exigir esfuerzo y disuadir a quienes se aprovechan del sistema sin contribuir sigue siendo útil socialmente.
 
 <!-- paragraph -->
 Podemos tratar a personas como responsables en la medida en que eso cambie comportamientos, sin creer en el libre albedrío. Mejorar la sociedad es trabajar con la naturaleza, porque no hay otra cosa con qué trabajar, no contra ella.
@@ -296,10 +296,10 @@ Harris cierra volviendo a la experiencia íntima: observar de cerca cómo surgen
 Harris «elige» escribir lo que quiera en el resto del libro. Al prestar atención a su flujo de conciencia pregunta: ¿de dónde salió «conejo» y no «elefante»? No sabe la causa de ninguna elección.
 
 <!-- paragraph -->
-Podría cambiar «conejo» por «elefante», pero tampoco explicaría por qué. Ni la ley de la naturaleza ni el azar parecen libertad. ¿Es libre de sentir que «elefante» es mejor palabra si no lo siente así? No: solo la palabra puede cambiarlo a él.
+Podría cambiar «conejo» por «elefante», pero tampoco explicaría por qué. Ni la ley de la naturaleza ni el azar parecen libertad. ¿Es libre de sentir que «elefante» es mejor palabra si no lo siente así? No: la palabra solo puede cambiarlo a él, no al revés.
 
 <!-- paragraph -->
-La ilusión de libre albedrío es, en sí misma, otra ilusión. No sentimos tanta libertad como creemos cuando prestamos atención. Los pensamientos simplemente surgen. ¿Qué más podrían hacer?
+La ilusión de libre albedrío es, en sí misma, otra ilusión. No sentimos tanta libertad como creemos cuando prestamos atención. Los pensamientos simplemente surgen. De ahí que la introspección cierre el debate más rápido que cualquier argumento abstracto.
 
 <!-- quote -->
 > ¿Conejo o elefante? No soy libre de sentir que «elefante» es mejor palabra si no lo siente así.
@@ -373,9 +373,9 @@ La verdad sobre nosotros es más extraña: somos <span class="key-term">tormenta
 Las intenciones aparecen en conciencia como si brotaran del vacío.
 En realidad vienen de causas ocultas que no elegimos ni controlamos.
 <!-- highlight -->La ilusión de libre albedrío es, a su vez, una ilusión<!-- /highlight -->
-Podemos reformar justicia y compasión sin el fantasma del autor inmortal.
+Por eso podemos reformar justicia y compasión sin el fantasma del autor inmortal.
 Reconocerlo no anula elecciones ni esfuerzos: cambia cómo los juzgamos.
-Perder la ilusión puede aumentar la libertad vivida y la compasión.
+Perder la ilusión puede, paradójicamente, aumentar la libertad vivida y la compasión.
 
 ---
 

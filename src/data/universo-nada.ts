@@ -58,7 +58,7 @@ export const universoNada: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El sacerdote y físico <span class=\"person\">Georges Lemaître</span> resolvió las ecuaciones y dedujo que el universo se expande. Einstein rechazó la idea de plano. La prueba llegó de la observación. Usando las <span class=\"term\">cefeidas</span> (estrellas cuyo brillo revela su distancia), calibradas por Henrietta Leavitt, el astrónomo <span class=\"person\">Edwin Hubble</span> demostró primero que existen otras galaxias. Luego, en <span class=\"num\">1929</span>, mostró que se alejan más rápido cuanto más lejos están. El universo se expande. En el pasado estuvo comprimido: hubo un principio.",
+          html: "El sacerdote y físico <span class=\"person\">Georges Lemaître</span> resolvió las ecuaciones y dedujo que el universo se expande. Pero Einstein rechazó la idea al principio. La prueba llegó de la observación. Usando las <span class=\"term\">cefeidas</span> (estrellas cuyo brillo revela su distancia), calibradas por Henrietta Leavitt, el astrónomo <span class=\"person\">Edwin Hubble</span> demostró primero que existen otras galaxias. Luego, en <span class=\"num\">1929</span>, mostró que se alejan más rápido cuanto más lejos están. El universo se expande. En el pasado estuvo comprimido: hubo un principio.",
         },
         {
           type: 'paragraph',
@@ -253,7 +253,7 @@ export const universoNada: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Dentro de unos <span class=\"num\">2 billones</span> de años, todas las galaxias fuera de nuestro grupo local se habrán alejado más allá del horizonte. Su luz estirada hasta hacerse invisible. Los cosmólogos de ese futuro verán una sola galaxia en un vacío estático. No habrá fondo de microondas ni expansión observable. Reconstruirán, con datos honestos, la imagen equivocada que teníamos en 1915.",
+          html: "Dentro de unos <span class=\"num\">2 billones</span> de años, todas las galaxias fuera de nuestro grupo local se habrán alejado más allá del horizonte. Su luz quedará estirada hasta hacerse invisible. Los cosmólogos de ese futuro verán una sola galaxia en un vacío estático. No habrá fondo de microondas ni expansión observable. Reconstruirán, con datos honestos, la imagen equivocada que teníamos en 1915.",
         },
         {
           type: 'paragraph',
@@ -537,7 +537,7 @@ export const universoNada: BookSummary = {
     lines: [
   "La nada no es la nada tranquila que imaginábamos: es inestable.",
   "Un universo puede surgir de ella sin espacio, sin tiempo y sin un creador.",
-  "La energía total del cosmos puede ser exactamente cero.",
+  "Por eso, la energía total del cosmos puede ser exactamente cero.",
   "Todo lo que existe sería una fluctuación sobre ese cero.",
   "Somos la parte de la nada que, por un instante, aprendió a preguntarse por sí misma."
 ],

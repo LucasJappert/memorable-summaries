@@ -14,13 +14,14 @@ Cuando el usuario pida generar el **html**, **resumen** o **vista** de un libro,
 3. **Paso A0 (esqueleto):** `docs/prompts/01a-esqueleto-argumental.md` → `summaries/<slug>.skeleton.md`
 4. Si no existe `summaries/<slug>.md` → paso A con `docs/prompts/01-resumen-desde-libro.md` + plantilla + esqueleto
 5. **Paso B-fid (contenido):** `docs/prompts/01b-revision-fidelidad.md` + `python3 scripts/check-coverage.py <slug>` (sin fallas duras)
-6. Paso C (prosa): `docs/prompts/01c-correccion-minima.md` + `python3 scripts/lint-summary.py <slug>`
-7. Paso D: `python3 scripts/md-to-ts.py <slug>` → `src/data/<slug-corto>.ts` (preferir script sobre prompt 02)
-8. Integrar en `src/books/catalog.ts` si es libro nuevo
-9. Portada editorial: `python3 scripts/extract-cover.py <slug>`
-10. Arte Memorable: `docs/prompts/04-arte-visual.md` → `scripts/art-prompts/<slug>.json` + `python3 scripts/generate-book-art.py <slug>`
-11. `npm run build` (obligatorio)
-12. Audio TTS si hay key (opcional pero recomendado)
+6. Paso C (prosa seccional): `docs/prompts/01c-correccion-minima.md`
+7. Paso C2 (editorial global): `docs/prompts/01d-revision-editorial.md` + `python3 scripts/lint-summary.py <slug> --strict`
+8. Paso D: `python3 scripts/md-to-ts.py <slug>` → `src/data/<slug-corto>.ts` (preferir script sobre prompt 02)
+9. Integrar en `src/books/catalog.ts` si es libro nuevo
+10. Portada editorial: `python3 scripts/extract-cover.py <slug>`
+11. Arte Memorable: `docs/prompts/04-arte-visual.md` → `scripts/art-prompts/<slug>.json` + `python3 scripts/generate-book-art.py <slug>`
+12. `npm run build` (obligatorio)
+13. Audio TTS si hay key (opcional pero recomendado)
 
 **«HTML» = app Vue por defecto.** HTML standalone en `legacy/` solo si lo pide explícitamente.
 

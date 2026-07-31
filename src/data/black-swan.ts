@@ -26,7 +26,7 @@ export const blackSwan: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La tesis no es ornitológica sino epistemológica. Pocos cisnes negros explican casi todo lo significativo. Ideas, religiones, guerras, mercados y vidas personales dependen de saltos discontinuos. Imaginar el mundo la víspera de <span class=\"num\">1914</span> demuestra cuán inútil es la retrospectiva para predecir. Lo mismo ocurre con el ascenso de Hitler o con Internet.",
+          html: "La tesis no es ornitológica sino epistemológica. Pocos cisnes negros explican casi todo lo significativo. Por eso ideas, religiones, guerras, mercados y vidas personales dependen de saltos discontinuos. Imaginar el mundo la víspera de <span class=\"num\">1914</span> demuestra cuán inútil es la retrospectiva para predecir. Lo mismo ocurre con el ascenso de Hitler o con Internet.",
         },
         {
           type: 'paragraph',
@@ -54,7 +54,7 @@ export const blackSwan: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Taleb introduce el <span class=\"term\">triplete de opacidad</span> (tres ilusiones que nos engañan). Creemos que entendemos el mundo, distorsionamos el pasado y sobrevaloramos datos frente a lo desconocido. La historia no arrastra. Salta. El crash de <span class=\"num\">1987</span> y la guerra lebanesa le parecieron el mismo fenómeno psicológico.",
+          html: "Taleb introduce el <span class=\"term\">triplete de opacidad</span> (tres ilusiones que nos engañan). Creemos que entendemos el mundo, distorsionamos el pasado y sobrevaloramos datos frente a lo desconocido. Por eso la historia no arrastra: salta. El crash de <span class=\"num\">1987</span> y la guerra lebanesa le parecieron el mismo fenómeno psicológico.",
         },
         {
           type: 'paragraph',
@@ -82,7 +82,7 @@ export const blackSwan: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Taleb usa la anécdota para mostrar la asimetría entre expectativa y resultado. Las creencias generalizadas se construyen sobre muestras incompletas hasta que una observación las invalida. Lo que después parece inevitable («claro que ese libro triunfaría») era imprevisible antes.",
+          html: "Taleb usa la anécdota para mostrar la asimetría entre expectativa y resultado. Las creencias generalizadas se construyen sobre muestras incompletas hasta que una observación las invalida. De ahí que lo que después parece inevitable («claro que ese libro triunfaría») era imprevisible antes.",
         },
         {
           type: 'paragraph',
@@ -186,7 +186,7 @@ export const blackSwan: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Taleb propone <span class=\"term\">empirismo negativo</span> (avanzar por refutación, al estilo de Popper). Ver cisnes blancos no prueba que no existan negros. Ver uno negro sí prueba que no todos son blancos. En medicina, confundir «no hay evidencia de enfermedad» con «hay evidencia de que no hay enfermedad» ha costado vidas.",
+          html: "Taleb propone <span class=\"term\">empirismo negativo</span> (avanzar por refutación, al estilo de Popper). Ver cisnes blancos no prueba que no existan negros. Pero ver uno negro sí prueba que no todos son blancos. En medicina, confundir «no hay evidencia de enfermedad» con «hay evidencia de que no hay enfermedad» ha costado vidas.",
         },
         {
           type: 'paragraph',
@@ -214,11 +214,7 @@ export const blackSwan: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Los experimentos de Gazzaniga muestran que el hemisferio izquierdo «intérprete» inventa causas incluso cuando no las hay. La dopamina aumenta la búsqueda de patrones y reduce el escepticismo. La narrativa es útil para la memoria pero peligrosa si se confunde con verdad o predicción.",
-        },
-        {
-          type: 'paragraph',
-          html: "Lo que Taleb llama después «antifragilidad» frente al azar empieza aquí. Reconocer que nuestros relatos nos hacen frágiles es el primer paso. Resistir la compulsión de explicar todo evita ser víctima sistemática de lo imprevisto.",
+          html: "Los experimentos de Gazzaniga muestran que el hemisferio izquierdo «intérprete» inventa causas incluso cuando no las hay. La dopamina aumenta la búsqueda de patrones y reduce el escepticismo. Por eso la narrativa es útil para la memoria pero peligrosa si se confunde con verdad o predicción.",
         },
         {
           type: 'key',
@@ -354,7 +350,7 @@ export const blackSwan: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La serendipia supera la planificación. Hallazgos inadvertidos como el láser, la Viagra o la espuma de Apeles lo demuestran. <span class=\"person\">Henri Poincaré</span> (matemático francés) mostró con el problema de los tres cuerpos que sistemas deterministas pueden ser impredecibles en la práctica.",
+          html: "La serendipia supera la planificación. Por eso hallazgos inadvertidos como el láser, la Viagra o la espuma de Apeles lo demuestran. <span class=\"person\">Henri Poincaré</span> (matemático francés) mostró con el problema de los tres cuerpos que sistemas deterministas pueden ser impredecibles en la práctica.",
         },
         {
           type: 'paragraph',
@@ -382,7 +378,7 @@ export const blackSwan: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La opacidad (información incompleta) es la forma práctica del azar. En la vida real no importa si el azar es «verdadero» o caos determinista disfrazado. La historia es un espejo para construir identidad, no una mina de leyes generales.",
+          html: "La opacidad (información incompleta) es la forma práctica del azar. En la vida real no importa si el azar es «verdadero» o caos determinista disfrazado. Por eso la historia es un espejo para construir identidad, no una mina de leyes generales.",
         },
         {
           type: 'paragraph',
@@ -438,7 +434,7 @@ export const blackSwan: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "En Extremistán, unos pocos dominan riqueza, fama, ventas o citas. El promedio deja de describir la realidad. El efecto Mateo («al que tiene, se le dará») concentra riqueza y fama. La <span class=\"term\">long tail</span> (cola larga de pocos gigantes) explica por qué la globalización ingenua exporta desigualdad extrema.",
+          html: "En Extremistán, unos pocos dominan riqueza, fama, ventas o citas. El promedio deja de describir la realidad. Por eso el efecto Mateo («al que tiene, se le dará») concentra riqueza y fama. La <span class=\"term\">long tail</span> (cola larga de pocos gigantes) explica por qué la globalización ingenua exporta desigualdad extrema.",
         },
         {
           type: 'paragraph',
@@ -466,7 +462,7 @@ export const blackSwan: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Benoit Mandelbrot</span> (matemático de colas gruesas) y las leyes de potencia describen mejor desigualdades observadas. <span class=\"person\">Adolphe Quételet</span> (pionero de la estadística social) ilustró el error de buscar la normalidad donde no existe. La regla <span class=\"num\">80/20</span> es síntoma de Extremistán, no excepción.",
+          html: "<span class=\"person\">Benoit Mandelbrot</span> (matemático de colas gruesas) y las leyes de potencia describen mejor desigualdades observadas. <span class=\"person\">Adolphe Quételet</span> (pionero de la estadística social) ilustró el error de buscar la normalidad donde no existe. Por eso la regla <span class=\"num\">80/20</span> es síntoma de Extremistán, no excepción.",
         },
         {
           type: 'paragraph',
@@ -562,7 +558,7 @@ export const blackSwan: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Taleb cierra la primera parte del libro con una ética operativa frente al azar extremo.",
+          html: "Tras desenmascarar al farsante, Taleb sintetiza la respuesta práctica frente al azar extremo.",
         },
       ],
     },
@@ -578,7 +574,7 @@ export const blackSwan: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La regla es simple. Hay que ser agresivo cuando un error del modelo puede beneficiarte y paranoico cuando puede destruirte. En finanzas, la gente hace lo contrario con teorías endebles para gestionar riesgos.",
+          html: "La regla es simple. Hay que ser agresivo cuando un error del modelo puede beneficiarte y paranoico cuando puede destruirte. Por eso en finanzas la gente hace lo contrario con teorías endebles para gestionar riesgos.",
         },
         {
           type: 'paragraph',

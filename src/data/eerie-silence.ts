@@ -81,7 +81,7 @@ export const eerieSilence: BookSummary = {
   {
     "id": "cronologia",
     "num": "◈",
-    "label": "Cronología"
+    "label": "Cronología del SETI y del libro"
   },
   {
     "id": "figuras",
@@ -106,7 +106,7 @@ export const eerieSilence: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El SETI es más especulativo que la ciencia convencional, así que Davies separa hechos, extrapolaciones razonables y fantasía inspirada en la ciencia ficción. El taller «The Sound of Silence» en Arizona State University (<span class=\"num\">2008</span>) alimentó las ideas de «nuevo SETI» que desarrolla el libro. Davies preside el SETI Post-Detection Taskgroup y también piensa en qué haríamos si la señal llegara mañana.",
+          html: "El SETI es más especulativo que la ciencia convencional, así que Davies separa hechos, extrapolaciones razonables y fantasía inspirada en la ciencia ficción. El taller «El sonido del silencio» en la Universidad Estatal de Arizona (<span class=\"num\">2008</span>) alimentó las ideas de «nuevo SETI» que desarrolla el libro. Davies preside el SETI Post-Detection Taskgroup y también piensa en qué haríamos si la señal llegara mañana.",
         },
         {
           type: 'key',
@@ -210,7 +210,7 @@ export const eerieSilence: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Una estrategia es buscar en nichos extremos donde la vida estándar no llega. <span class=\"person\">Felisa Wolfe-Simon</span> busca arsenicófilos en Mono Lake. Otros prueban vida espejo con quiralidad opuesta o aminoácidos no usados por nosotros. Diferenciar un cuarto «arbusto» evolutivo de un segundo árbol exige química fina. Un segundo origen en la Tierra sería el hallazgo biológico más sensacional y confirmaría el imperativo cósmico.",
+          html: "Por eso, una estrategia es buscar en nichos extremos donde la vida estándar no llega. <span class=\"person\">Felisa Wolfe-Simon</span> busca arsenicófilos en Mono Lake. Otros prueban vida espejo con quiralidad opuesta o aminoácidos no usados por nosotros. Diferenciar un cuarto «arbusto» evolutivo de un segundo árbol exige química fina. Un segundo origen en la Tierra sería el hallazgo biológico más sensacional y confirmaría el imperativo cósmico.",
         },
         {
           type: 'key',
@@ -415,7 +415,7 @@ export const eerieSilence: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El METI (mensajes activos) divide a la comunidad. <span class=\"person\">David Brin</span> pide prudencia internacional. Davies considera el riesgo mínimo porque nuestras señales son débiles y ET ya podría ver oxígeno y agua. Las placas Pioneer/Voyager muestran figuras humanas parroquiales. Mejor enviar ecuaciones de Maxwell, Einstein y Dirac como benchmark científico.",
+          html: "El METI (mensajes activos) divide a la comunidad. <span class=\"person\">David Brin</span> pide prudencia internacional. Davies considera el riesgo mínimo porque nuestras señales son débiles y ET ya podría ver oxígeno y agua. Las placas Pioneer/Voyager muestran figuras humanas parroquiales. Mejor enviar ecuaciones de Maxwell, Einstein y Dirac como referencia científica universal.",
         },
         {
           type: 'paragraph',
@@ -501,7 +501,7 @@ export const eerieSilence: BookSummary = {
   },
   {
     "year": "2008",
-    "text": "Taller «The Sound of Silence», ASU."
+    "text": "Taller «El sonido del silencio», Universidad Estatal de Arizona."
   },
   {
     "year": "2010",
@@ -553,7 +553,7 @@ export const eerieSilence: BookSummary = {
   closing: {
     title: "La idea central",
     lines: [
-  "El silencio de cincuenta años no cierra la pregunta: puede significar que miramos mal, que somos raros o que la inteligencia se apaga pronto.",
+  "Por eso, el silencio de cincuenta años no cierra la pregunta: puede significar que miramos mal, que somos raros o que la inteligencia se apaga pronto.",
   "Davies pide un SETI más amplio y menos humano, y reconoce tres futuros distintos según lo que encontremos fuera de la Tierra.",
   "La biosfera sombra o vida en Marte cambiarían las probabilidades de un modo radical.",
   "Si solo hay microbios, el Gran Filtro podría estar delante de nosotros.",

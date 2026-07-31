@@ -15,7 +15,7 @@ lang: es
 | id | num | label |
 |----|-----|-------|
 | cierre | ★ | La idea central |
-| prefacio | 00 | Prefacio |
+| prefacio | 00 | Emisarios hacia las estrellas |
 | cap1 | 01 | Para tiempos y seres futuros |
 | cap2 | 02 | Los cimientos del Disco Voyager |
 | cap3 | 03 | Imágenes de la Tierra |
@@ -25,7 +25,7 @@ lang: es
 | cap7 | 07 | La misión Voyager al sistema solar exterior |
 | cap8 | 08 | Epílogo |
 | conceptos | ✦ | Conceptos clave |
-| cronologia | ◈ | Cronología |
+| cronologia | ◈ | Cronología del Disco y la misión |
 | figuras | ✦ | Figuras clave |
 
 ---
@@ -37,7 +37,7 @@ lang: es
 <!-- closing -->
 La humanidad fabricó un artefacto que puede sobrevivir eones en el vacío interestelar.
 El Disco Voyager codifica ciencia, imagen, sonido, música y saludo en un solo objeto físico.
-<!-- highlight -->Es mensaje a las estrellas —y, sobre todo, un espejo de lo que elegimos conservar de nosotros mismos.<!-- /highlight -->
+<!-- highlight -->Es un mensaje a las estrellas —y, sobre todo, un espejo de lo que elegimos conservar de nosotros mismos.<!-- /highlight -->
 Casi ningún extraterrestre lo verá; billones de terrícolas sí, y eso basta para justificar el gesto.
 Voyager parte lenta pero irrevocablemente hacia el vacío entre las estrellas.
 Enviar tal mensaje solo tiene sentido si se cree en un futuro.
@@ -130,7 +130,7 @@ En noviembre de <span class="num">1974</span>, en la rededicación del radiotele
 | 1974 | Mensaje de Arecibo: 1679 bits hacia Messier 13. |
 
 <!-- key -->
-Antes del Disco físico, Arecibo demostró que podemos hablar al cosmos en el lenguaje de la matemática y la física.
+Por eso, antes del Disco físico, Arecibo demostró que podemos hablar al cosmos en el lenguaje de la matemática y la física.
 
 <!-- bridge -->
 Si el cosmos puede leer matemáticas, el disco debe enseñar quiénes somos sin suponer contexto terrestre.
@@ -208,7 +208,7 @@ Después de las palabras humanas, el disco narra la Tierra con sonidos evolutivo
 ¿Qué suena un planeta entero en doce minutos? <span class="person">Ann Druyan</span> produjo «The Sounds of Earth», un ensayo sonoro de <span class="num">12</span> minutos concebido para dos audiencias: humanos que reconocen y extraterrestres que intuyen. Recuerda las palabras de Shakespeare en <em>The Tempest</em>: la isla está llena de ruidos, sonidos y aires dulces.
 
 <!-- paragraph -->
-La selección comenzó con una lluvia de onomatopeyas en la mesa de los Sagan. Luego el equipo recorrió bibliotecas de sonido, universidades y grabaciones de campo. <span class="person">Roger Payne</span> aportó el saludo de ballena grabado en Bermuda en <span class="num">1970</span>. <span class="person">Alan Botto</span> proporcionó el despegue del Saturno V con la voz «Fly, bird» en Mission Control. Algunos colaboradores rechazaron participar por desconfianza hacia el gobierno. Otros exigieron dinero que el proyecto no tenía.
+La selección comenzó con una lluvia de onomatopeyas en la mesa de los Sagan. Después el equipo recorrió bibliotecas de sonido, universidades y grabaciones de campo. <span class="person">Roger Payne</span> aportó el saludo de ballena grabado en Bermuda en <span class="num">1970</span>. <span class="person">Alan Botto</span> proporcionó el despegue del Saturno V con la voz «Fly, bird» en Mission Control. Algunos colaboradores rechazaron participar por desconfianza hacia el gobierno. Otros exigieron dinero que el proyecto no tenía.
 
 <!-- paragraph -->
 En la Biblioteca del Congreso, Druyan y <span class="person">Timothy Ferris</span> oyeron una grabación de campo de la Primera Guerra Mundial y debatieron si incluir violencia. <span class="person">Murry Sidlin</span> insistió en enviar «lo mejor de nosotros», pero esa noche no hubo conclusión. El montaje sigue una estructura evolutiva amplia, de lo geológico a lo biológico y luego a lo tecnológico. La escala temporal real dejaría casi todo el disco en olas y viento.
@@ -238,7 +238,10 @@ Si los sonidos cuentan la evolución, la música debe expresar lo que la ciencia
 El corte a <span class="num">16⅔</span> rpm triplicó el tiempo disponible, pero todo debía elegirse en menos de dos meses. La mitad del disco es música no occidental gracias a <span class="person">Alan Lomax</span>, Brown y otros asesores. Debates maratonianos enfrentaron jazz, rock, ópera y música folklórica. Se descartó «Here Comes the Sun» de los Beatles por problemas de copyright. Horas antes del corte del disco maestro, Carol Kulig localizó el coro georgiano «Tchakrulo», que reemplazó una pieza soviética más derivativa.
 
 <!-- paragraph -->
-La secuencia abre con el <span class="term">Brandenburg Concerto No. 2</span> (segundo concierto de Bach) de Bach y cierra con la <span class="term">Cavatina</span> (movimiento lírico de Beethoven) de Beethoven. Los dos primeros compases del disco son precisamente esa Cavatina. El repertorio incluye gamelán javanés, canto de iniciación pigmea y raga indio. También lleva ch'in chino «Flowing Streams», Louis Armstrong, Chuck Berry («Johnny B. Goode»), Stravinsky y Mozart. Cierra «Dark Was the Night» de Blind Willie Johnson. En el espacio entre surcos finales se grabó la dedicatoria «To the makers of music—all worlds, all times».
+La secuencia abre con el <span class="term">Brandenburg Concerto No. 2</span> (segundo concierto de Bach) y cierra con la <span class="term">Cavatina</span> (movimiento lírico de Beethoven). Los dos primeros compases del disco son precisamente esa Cavatina.
+
+<!-- paragraph -->
+Además, el repertorio abarca gamelán javanés, canto de iniciación pigmea, raga indio y ch'in chino «Flowing Streams». Incluye también a Louis Armstrong, Chuck Berry («Johnny B. Goode»), Stravinsky y Mozart. Cierra «Dark Was the Night» de Blind Willie Johnson. En el espacio entre surcos finales se grabó la dedicatoria «To the makers of music—all worlds, all times».
 
 <!-- quote -->
 > «Para los creadores de la música —todos los mundos, todos los tiempos.»
@@ -264,7 +267,7 @@ Ese mensaje viaja gracias a una misión científica que primero debe explorar el
 Júpiter tiene <span class="num">317</span> veces la masa terrestre y emite más energía de la que recibe del Sol. Sus nubes de colores pueden contener moléculas orgánicas formadas por rayos ultravioleta y descargas eléctricas, incluidos aminoácidos. Titán, luna de Saturno, tiene atmósfera densa de metano. Sus mares podrían albergar materia orgánica acumulada durante eones. En <span class="num">1976</span> se descubrieron anillos alrededor de Urano, lo que alivió la pregunta de por qué solo Saturno los tenía.
 
 <!-- paragraph -->
-Las Voyager llevan <span class="num">11</span> experimentos científicos, cada uno con un equipo que trabajó casi una década. Las trayectorias asistidas por gravedad de Júpiter y Saturno aceleran las naves hacia escape interestelar. Ese accidente de mecánica celeste hizo posible el Disco. Los compromisos entre objetivos científicos son dolorosos: volar cerca de Ío, ocultar Saturno tras sus anillos o alcanzar Urano excluyen otras mediciones igualmente valiosas.
+Las Voyager llevan <span class="num">11</span> experimentos científicos, cada uno con un equipo que trabajó casi una década. Las trayectorias asistidas por gravedad de Júpiter y Saturno aceleran las naves hacia escape interestelar. Por eso, ese accidente de mecánica celeste hizo posible el Disco. Los compromisos entre objetivos científicos son dolorosos: volar cerca de Ío, ocultar Saturno tras sus anillos o alcanzar Urano excluyen otras mediciones igualmente valiosas.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -299,7 +302,7 @@ A unos <span class="num">15 km/s</span>, sin cubierta de aluminio, el disco acum
 En unos <span class="num">40.000</span> años, la enana roja AC+79 3888 estará a solo <span class="num">3</span> años-luz del Sol. Voyager 1 pasará a <span class="num">1,7</span> años-luz de ella. Si esa estrella tiene planetas, una maniobra final podría dirigir la nave hacia su sistema en unos <span class="num">60.000</span> años.
 
 <!-- paragraph -->
-Quien encuentre el Disco sabrá que enviar tal mensaje solo tiene sentido con pasión por el futuro. Revelará una especie con esperanza, perseverancia, inteligencia modesta, generosidad y deseo genuino de contacto con el cosmos.
+Por eso, quien encuentre el Disco sabrá que enviar tal mensaje solo tiene sentido con pasión por el futuro. Revelará una especie con esperanza, perseverancia, inteligencia modesta, generosidad y deseo genuino de contacto con el cosmos.
 
 <!-- key -->
 El mensaje es frágil y eterno a la vez: un susurro de cobre y oro atravesando el vacío interestelar.

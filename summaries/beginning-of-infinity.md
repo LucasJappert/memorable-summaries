@@ -36,7 +36,7 @@ lang: es
 | cap17 | 17 | Insostenible |
 | cap18 | 18 | El comienzo |
 | conceptos | ✦ | Conceptos clave |
-| cronologia | ◈ | Cronología |
+| cronologia | ◈ | Cronología de referencias del libro |
 | figuras | ✦ | Figuras clave |
 
 ---
@@ -145,7 +145,7 @@ Corregir teorías sobre el cosmos lleva a preguntarse qué papel tienen los huma
 ¿Somos insignificantes frente al cosmos o centralmente importantes? El <span class="term">principio de mediocridad</span> (la idea de que la Tierra no ocupa un lugar especial) intenta humillar al ser humano. Lo mismo hace la metáfora de la <span class="term">Nave Tierra</span> (tratar el planeta como nave cerrada). Deutsch sostiene que ambas son tan parroquiales como el geocentrismo.
 
 <!-- paragraph -->
-Desde la perspectiva menos provincial disponible, las personas son las entidades más significativas. <span class="term">Crean conocimiento</span>, es decir, generan explicaciones que se sostienen a sí mismas. El problema cosmológico no es que el universo nos hospede, sino cómo los sistemas complejos sobreviven. Los humanos, con el conocimiento de la Ilustración, no dependen pasivamente del entorno: lo transforman.
+Pero desde la perspectiva menos provincial disponible, las personas son las entidades más significativas. <span class="term">Crean conocimiento</span>, es decir, generan explicaciones que se sostienen a sí mismas. El problema cosmológico no es que el universo nos hospede, sino cómo los sistemas complejos sobreviven. Los humanos, con el conocimiento de la Ilustración, no dependen pasivamente del entorno: lo transforman.
 
 <!-- paragraph -->
 Solo la evolución biológica y las personas crean conocimiento. El oro en cualquier parte del cosmos implica una supernova previa o un ser inteligente con la explicación adecuada. Toda explicación encontrada implica un ser capaz de conjeturar y criticar. La «chispa» no es privilegio místico sino capacidad de generar conocimiento de alcance universal.
@@ -192,7 +192,7 @@ Genes e ideas se replican y seleccionan, pero solo las ideas humanas pueden expl
 Si una entidad abstracta es indispensable en la mejor explicación disponible, es real en sentido causal-explicativo. La <span class="term">causalidad</span>, o sea, la relación de causa y efecto, es una abstracción real y no un epifenómeno del lenguaje. Negarlo obliga a empobrecer teorías que funcionan.
 
 <!-- paragraph -->
-Esto importa para física, mente y moral. No hay que «reducir» todo a partículas para tener conocimiento fundamental. Las explicaciones de alto nivel capturan regularidades que el microfísico solo no revela.
+Por eso importa para física, mente y moral. No hay que «reducir» todo a partículas para tener conocimiento fundamental. Las explicaciones de alto nivel capturan regularidades que el microfísico solo no revela.
 
 <!-- key -->
 Lo abstracto es real cuando participa causalmente en la mejor explicación y no puede eliminarse sin arruinarla.
@@ -211,7 +211,7 @@ Si las abstracciones pueden volverse universales, hay que entender qué signific
 ¿Qué convierte una mejora local en plataforma de progreso sin fin? Muchos sistemas mejoran incrementalmente hasta un punto de inflexión. Se vuelven <span class="term">universales</span>, es decir, capaces de representar o ejecutar cualquier caso relevante en un dominio. El problema previo era la parcialidad. La solución abre un régimen de alcance ilimitado en ese ámbito.
 
 <!-- paragraph -->
-Deutsch cita escritura, cómputo, el código genético y el método científico. Antes de la Ilustración, los innovadores rara vez buscaban la universalidad a propósito. Después, las explicaciones universales se valoran por sí mismas y por su utilidad. La corrección de errores es esencial en procesos potencialmente infinitos.
+Por eso Deutsch cita escritura, cómputo, el código genético y el método científico. Antes de la Ilustración, los innovadores rara vez buscaban la universalidad a propósito. Después, las explicaciones universales se valoran por sí mismas y por su utilidad. La corrección de errores es esencial en procesos potencialmente infinitos.
 
 <!-- paragraph -->
 En física, las funciones que aparecen suelen ser <span class="term">analíticas</span> (funciones suaves con propiedades matemáticas restrictivas). Eso conecta matemática y realidad y será relevante para cosmología y antropicidad. Un sistema universal sin crítica acumula fallos.
@@ -258,7 +258,7 @@ Si el progreso puede ser ilimitado, hay que comprender qué significa el infinit
 El <span class="term">hotel de Hilbert</span> (un hotel con infinitas habitaciones siempre lleno) muestra una paradoja. Aún puede alojar más huéspedes. El infinito no se comporta como lo finito. <span class="person">Georg Cantor</span>, matemático alemán, demostró con el argumento diagonal que hay infinitos de distinto tamaño. Si el progreso es ilimitado, siempre estamos casi al comienzo, nunca «casi al final».
 
 <!-- paragraph -->
-Esa paradoja desarma profecías de completitud. Quien predice que el saber está casi agotado confunde ignorancia infinita con proximidad a un techo.
+Por eso esa paradoja desarma profecías de completitud. Quien predice que el saber está casi agotado confunde ignorancia infinita con proximidad a un techo.
 
 <!-- key -->
 Comprender el infinito amplía qué problemas consideramos solubles y nos sitúa siempre en un comienzo del progreso.
@@ -299,7 +299,7 @@ Esa actitud falibilista tiene raíces antiguas: Deutsch la dramatiza en un diál
 ¿Qué significa «conocer» si no hay certeza infalible? En un diálogo onírico, <span class="person">Hermes</span> (Apolo) enseña a <span class="person">Sócrates</span>, filósofo griego, epistemología. El problema del oráculo («nadie es más sabio que Sócrates») introduce la distinción entre saber y creer justificado.
 
 <!-- paragraph -->
-La <span class="term">creencia verdadera justificada</span> (la definición clásica de «conocimiento») es una quimera. La justificación infinita o la autoridad no producen conocimiento objetivo. Quien busca certeza rechaza como «conocimiento» lo que ya comprende hasta que un dios lo confirme. El conocimiento objetivo es falible y mejorable, mientras que la certeza es innecesaria y dañina.
+La <span class="term">creencia verdadera justificada</span> (la definición clásica de «conocimiento») es una quimera. La justificación infinita o la autoridad no producen conocimiento objetivo. Por eso quien busca certeza rechaza como «conocimiento» lo que ya comprende hasta que un dios lo confirme. El conocimiento objetivo es falible y mejorable, mientras que la certeza es innecesaria y dañina.
 
 <!-- paragraph -->
 Según Hermes, nada es «fácil de ver». Lo que parece obvio requiere teorías para interpretarse. El diálogo dramatiza el mensaje popperiano del capítulo 1 para quien prefiera el mito al tratado.
@@ -324,7 +324,7 @@ El falibilismo tiene consecuencias en física: Deutsch las desarrolla con la int
 La <span class="term">interferencia cuántica</span> (patrones de ondas que revelan superposición de estados) evidencia otras historias. Negarlas obliga a postular colapsos ad hoc. Deutsch defiende nubes de instancias fungibles de partículas con atributos discretos. El problema de la gravedad cuántica muestra que nuestras mejores teorías aún fallan.
 
 <!-- paragraph -->
-Contar «copias» de observadores sin teoría de medida produce paradojas antrópicas. La ontología ampliada no es adorno: resuelve problemas concretos de probabilidad y estructura.
+Por eso contar «copias» de observadores sin teoría de medida produce paradojas antrópicas. La ontología ampliada no es adorno: resuelve problemas concretos de probabilidad y estructura.
 
 <!-- key -->
 Tomar en serio la cuántica implica un multiverso de historias múltiples, no solo predicciones instrumentales.
@@ -368,7 +368,7 @@ Ese bloqueo también afecta cómo pensamos las decisiones colectivas y las insti
 Las buenas políticas, como las buenas explicaciones, son difíciles de variar. Mezclar arbitrariamente principios incompatibles produce malas soluciones. Los gobiernos de coalición no son un ideal electoral: son síntoma de marcos que no permiten crítica clara.
 
 <!-- paragraph -->
-Decidir racionalmente replica el método científico: conjeturar alternativas, criticarlas y mejorar instituciones. La democracia falla cuando se congela en fórmulas supuestamente definitivas.
+Por eso decidir racionalmente replica el método científico: conjeturar alternativas, criticarlas y mejorar instituciones. La democracia falla cuando se congela en fórmulas supuestamente definitivas.
 
 <!-- key -->
 Elegir bien exige creatividad institucional y revisión continua, no obediencia a algoritmos de agregación fijos.
@@ -412,7 +412,7 @@ El arte y la cultura se transmiten por memes: ideas que compiten por replicarse 
 A diferencia de los genes, cada meme incluye su mecanismo de réplica. Se selecciona de dos maneras distintas. Una es la capacidad de producir conducta. La otra es que esa conducta contagie el meme. Los portadores rara vez saben por qué un meme funciona.
 
 <!-- paragraph -->
-Deutsch distingue culturas <span class="term">dinámicas</span> (que toleran corrección) y <span class="term">estáticas</span> (que priorizan preservación sobre verdad). El destino de una sociedad depende de cuál predominio.
+Por eso Deutsch distingue culturas <span class="term">dinámicas</span> (que toleran corrección) y <span class="term">estáticas</span> (que priorizan preservación sobre verdad). El destino de una sociedad depende de cuál predominio.
 
 <!-- key -->
 La evolución cultural decide si una sociedad corrige errores o queda atrapada en memes anti-críticos.
@@ -526,13 +526,13 @@ Rechazar que el conocimiento está casi completo es condición para el progreso 
 | 1689 | <span class="person">John Locke</span> formula el empirismo del «papel en blanco». |
 | 1901 | <span class="person">Soddy</span> y <span class="person">Rutherford</span> demuestran transmutación radiactiva. |
 | 1936 | <span class="person">Alan Turing</span> funda la teoría de la computación universal. |
-| 1945 | <span class="person">Karl Popper</span> publica *The Open Society and Its Enemies*. |
-| 1955 | <span class="person">Isaac Asimov</span> publica *The End of Eternity*. |
+| 1945 | <span class="person">Karl Popper</span> publica *La sociedad abierta y sus enemigos* (*The Open Society and Its Enemies*). |
+| 1955 | <span class="person">Isaac Asimov</span> publica *El fin de la eternidad* (*The End of Eternity*). |
 | 1963 | Popper: «en nuestra ignorancia infinita somos todos iguales». |
 | 1965 | <span class="person">Feynman</span> profetiza mil años sin novedad en física. |
 | 1993 | <span class="person">Vernor Vinge</span> escribe sobre la «singularidad tecnológica». |
-| 1996 | <span class="person">John Horgan</span> publica *The End of Science*. |
-| 2011 | Publicación de *The Beginning of Infinity*. |
+| 1996 | <span class="person">John Horgan</span> publica *El fin de la ciencia* (*The End of Science*). |
+| 2011 | Publicación de *El inicio del infinito* (*The Beginning of Infinity*). |
 
 ---
 

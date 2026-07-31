@@ -227,7 +227,8 @@ def narrate_table(rows: list[list[str]], kind: str) -> list[str]:
     return out
 
 
-def md_to_narration(md_path: Path) -> str:
+def md_to_narration(md_path: Path, section: str | None = None) -> str:
+    """Si `section` (id `#` o título parcial, ej. cap1 / Deshielo), solo esa sección."""
     raw = md_path.read_text(encoding="utf-8")
     meta, body = parse_frontmatter(raw)
 
@@ -235,10 +236,12 @@ def md_to_narration(md_path: Path) -> str:
     author = meta.get("author", "")
     intro = f"{title}, de {author}." if author else f"{title}."
 
-    chapter_paragraphs: list[str] = []
+    section_filter = section.strip().lower() if section else None
+    section_buckets: dict[str, list[str]] = {}
+    chapter_order: list[str] = []
     closing_paragraphs: list[str] = []
     extra_paragraphs: list[str] = []
-    target = chapter_paragraphs
+    target = closing_paragraphs
     lines = body.splitlines()
     i = 0
     skip_toc = False
@@ -246,6 +249,7 @@ def md_to_narration(md_path: Path) -> str:
     section_title = ""
     pending_comment = ""
     current_section = ""
+    include_current = section_filter is None
 
     while i < len(lines):
         line = lines[i]
@@ -268,12 +272,22 @@ def md_to_narration(md_path: Path) -> str:
                 break
             if current_section == "cierre":
                 target = closing_paragraphs
+                include_current = section_filter is None or section_filter in {
+                    "cierre",
+                    "closing",
+                }
             elif current_section in {"conceptos", "cronologia", "figuras"}:
                 target = extra_paragraphs
+                include_current = section_filter is None or section_filter == current_section
             else:
-                target = chapter_paragraphs
+                if current_section not in section_buckets:
+                    section_buckets[current_section] = []
+                    chapter_order.append(current_section)
+                target = section_buckets[current_section]
+                include_current = section_filter is None or section_filter == current_section
             section_num = ""
             section_title = ""
+            pending_comment = ""
             i += 1
             continue
 
@@ -283,9 +297,20 @@ def md_to_narration(md_path: Path) -> str:
             continue
         if stripped.startswith("## title:"):
             section_title = stripped.split(":", 1)[1].strip()
+            if section_filter and current_section not in {"cierre", "conceptos", "cronologia", "figuras"}:
+                include_current = section_filter in {
+                    current_section,
+                    section_title.strip().lower(),
+                    section_num.strip().lower(),
+                    section_num.lstrip("0") or "0",
+                }
             heading = section_heading(section_num, section_title)
-            if heading:
+            if heading and include_current:
                 target.append(heading)
+            i += 1
+            continue
+
+        if not include_current:
             i += 1
             continue
 
@@ -369,7 +394,19 @@ def md_to_narration(md_path: Path) -> str:
         pending_comment = ""
         i += 1
 
-    paragraphs = [intro, *closing_paragraphs, *chapter_paragraphs, *extra_paragraphs]
+    chapter_paragraphs: list[str] = []
+    for sid in chapter_order:
+        chapter_paragraphs.extend(section_buckets.get(sid, []))
+
+    if section_filter:
+        paragraphs = [*closing_paragraphs, *chapter_paragraphs, *extra_paragraphs]
+        if not paragraphs:
+            raise SystemExit(
+                f"No se encontró la sección {section!r}. "
+                f"Ids: {', '.join(chapter_order) or '(ninguno)'}"
+            )
+    else:
+        paragraphs = [intro, *closing_paragraphs, *chapter_paragraphs, *extra_paragraphs]
     text = "\n\n".join(p for p in paragraphs if p.strip())
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text
@@ -550,10 +587,14 @@ def api_key() -> str:
     return key
 
 
-def synthesize_omnivoice(text: str, out_path: Path, bearer: str) -> None:
+def synthesize_omnivoice(
+    text: str, out_path: Path, bearer: str, voice: str | None = None
+) -> None:
     url = f"{api_base_url()}/api/ai/tts"
     headers = {"Authorization": f"Bearer {bearer}"}
-    payload = {"model": OMNI_MODEL, "input": text}
+    payload: dict[str, str] = {"model": OMNI_MODEL, "input": text}
+    if voice:
+        payload["voice"] = voice
     last_err = ""
     for attempt in range(1, TTS_RETRIES + 1):
         try:
@@ -582,14 +623,21 @@ def synthesize_omnivoice(text: str, out_path: Path, bearer: str) -> None:
     raise SystemExit(f"TTS falló tras {TTS_RETRIES} intentos ({out_path.name}): {last_err}")
 
 
-def run_tts_omnivoice(slug: str, text: str, do_mp3: bool, force: bool = False) -> None:
+def run_tts_omnivoice(
+    slug: str,
+    text: str,
+    do_mp3: bool,
+    force: bool = False,
+    voice: str | None = None,
+) -> None:
     chunks = split_chunks_short(text)
     chunk_dir = AUDIO_DIR / slug / "chunks"
     if force and chunk_dir.exists():
         shutil.rmtree(chunk_dir)
     chunk_dir.mkdir(parents=True, exist_ok=True)
 
-    print(f"OmniVoice via lucas-ai-api ({api_base_url()})")
+    voice_label = voice or "(default API)"
+    print(f"OmniVoice via lucas-ai-api ({api_base_url()}) voice={voice_label}")
     print(f"Clips: {len(chunks)} (máx {OMNI_CHUNK_MAX} chars)")
     bearer = api_key()
 
@@ -601,7 +649,7 @@ def run_tts_omnivoice(slug: str, text: str, do_mp3: bool, force: bool = False) -
             print(f"  chunk {idx}/{len(chunks)} — ya existe, omitiendo")
             continue
         print(f"  chunk {idx}/{len(chunks)} — sintetizando ({len(chunk)} chars)")
-        synthesize_omnivoice(chunk, wav_path, bearer)
+        synthesize_omnivoice(chunk, wav_path, bearer, voice=voice)
 
     # Validar duración de clips (aviso si alguno supera 15s)
     over = []
@@ -678,17 +726,37 @@ def main() -> None:
     parser.add_argument("--mp3", action="store_true", help="Exportar MP3 y copiar a public/audio/")
     parser.add_argument("--text-only", action="store_true", help="Solo generar audio/<slug>.txt")
     parser.add_argument("--force", action="store_true", help="Regenerar chunks TTS aunque ya existan")
+    parser.add_argument(
+        "--voice",
+        default=None,
+        help="Voz OmniVoice (Orus, Lucas, Narrador). Si se omite, usa el default de la API",
+    )
+    parser.add_argument(
+        "--section",
+        default=None,
+        help="Solo una sección: id (#cap1), número (01) o título (Deshielo)",
+    )
+    parser.add_argument(
+        "--out-slug",
+        default=None,
+        help="Slug de salida distinto (ej. otherlands-deshielo-narrador) para no pisar el MP3 completo",
+    )
     args = parser.parse_args()
 
     slug = resolve_slug(args.book)
     md_path = SUMMARIES_DIR / f"{slug}.md"
     AUDIO_DIR.mkdir(parents=True, exist_ok=True)
+    out_slug = args.out_slug or slug
 
     print(f"Libro: {slug}")
     print(f"Fuente: {md_path}")
+    if args.section:
+        print(f"Sección: {args.section}")
+    if out_slug != slug:
+        print(f"Salida: {out_slug}")
 
-    narration = md_to_narration(md_path)
-    txt_path = AUDIO_DIR / f"{slug}.txt"
+    narration = md_to_narration(md_path, section=args.section)
+    txt_path = AUDIO_DIR / f"{out_slug}.txt"
     txt_path.write_text(narration, encoding="utf-8")
     print(f"Texto: {len(narration)} chars → {txt_path}")
 
@@ -699,14 +767,20 @@ def main() -> None:
         raise SystemExit("Usá --tts o --tts-hermes, no ambos")
 
     if args.tts:
-        run_tts_omnivoice(slug, narration, do_mp3=args.mp3, force=args.force)
+        run_tts_omnivoice(
+            out_slug,
+            narration,
+            do_mp3=args.mp3,
+            force=args.force,
+            voice=args.voice,
+        )
     elif args.tts_hermes:
-        run_tts_hermes(slug, narration, do_mp3=args.mp3, force=args.force)
+        run_tts_hermes(out_slug, narration, do_mp3=args.mp3, force=args.force)
     elif args.mp3:
-        wav_path = AUDIO_DIR / f"{slug}.wav"
+        wav_path = AUDIO_DIR / f"{out_slug}.wav"
         if not wav_path.exists():
             raise SystemExit(f"No existe {wav_path}; corré con --tts primero")
-        export_mp3(wav_path, slug)
+        export_mp3(wav_path, out_slug)
 
 
 if __name__ == "__main__":

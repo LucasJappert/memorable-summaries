@@ -405,19 +405,19 @@
     "id": "ai-2041:concept:7",
     "slug": "ai-2041",
     "front": "3R",
-    "back": "Relearn, recalibrate, renaissance: estrategia ante desplazamiento laboral."
+    "back": "Reaprender, recalibrar, renacer: estrategia ante desplazamiento laboral."
   },
   {
     "id": "ai-2041:concept:8",
     "slug": "ai-2041",
-    "front": "Plenitude",
+    "front": "Plenitud",
     "back": "Post-escasez tecnológica con necesidades cubiertas y trabajo opcional."
   },
   {
     "id": "ai-2041:concept:9",
     "slug": "ai-2041",
     "front": "Privacidad computacional",
-    "back": "Federated learning, TEE y cifrado para entrenar IA sin centralizar datos sensibles."
+    "back": "Aprendizaje federado, entornos de ejecución confiables (TEE) y cifrado para entrenar IA sin centralizar datos sensibles."
   },
   {
     "id": "alignment-problem:highlight",
@@ -993,7 +993,7 @@
     "id": "biosignatures-astrobiology:highlight",
     "slug": "biosignatures-astrobiology",
     "front": "¿Cuál es la idea central del cierre?",
-    "back": "La Tierra es el único ground truth; extrapolar exige humildad proporcional a la distancia en tiempo y espacio."
+    "back": "La Tierra es la única referencia confirmada; extrapolar exige humildad proporcional a la distancia en tiempo y espacio."
   },
   {
     "id": "biosignatures-astrobiology:concept:0",
@@ -2444,7 +2444,7 @@
   {
     "id": "emergent-multiverse:concept:7",
     "slug": "emergent-multiverse",
-    "front": "Spacetime state realism",
+    "front": "Realismo del estado en el espaciotiempo",
     "back": "Ontología que asigna operadores de densidad a regiones del espaciotiempo."
   },
   {
@@ -3440,7 +3440,7 @@
   {
     "id": "hidden-reality:concept:2",
     "slug": "hidden-reality",
-    "front": "Braneworld",
+    "front": "Mundo-rebanada",
     "back": "Universo en una brana; gravedad se filtra por dimensiones extra."
   },
   {
@@ -3687,7 +3687,7 @@
     "id": "how-we-learn:highlight",
     "slug": "how-we-learn",
     "front": "¿Cuál es la idea central del cierre?",
-    "back": "Atención, compromiso activo, feedback correctivo y consolidación —incluido el sueño— son los cuatro pilares de toda enseñanza eficaz."
+    "back": "Atención, compromiso activo, retroalimentación correctiva y consolidación —incluido el sueño— son los cuatro pilares de toda enseñanza eficaz."
   },
   {
     "id": "how-we-learn:concept:0",
@@ -3902,7 +3902,7 @@
   {
     "id": "incognito:concept:4",
     "slug": "incognito",
-    "front": "Team of rivals",
+    "front": "Equipo de rivales",
     "back": "Subpoblaciones neuronales compiten por el control del comportamiento."
   },
   {
@@ -3926,7 +3926,7 @@
   {
     "id": "incognito:concept:8",
     "slug": "incognito",
-    "front": "Instinct blindness",
+    "front": "Ceguera instintiva",
     "back": "Invisibilidad de programas evolutivos que funcionan demasiado bien."
   },
   {
@@ -4005,7 +4005,7 @@
     "id": "intelligent-life-universe:highlight",
     "slug": "intelligent-life-universe",
     "front": "¿Cuál es la idea central del cierre?",
-    "back": "Si las leyes de la naturaleza son universales, la inteligencia debería ser frecuente; si no la vemos, el cuello de botella es la supervivencia de las civilizaciones tecnológicas, no el origen de la vida."
+    "back": "Si las leyes de la naturaleza son universales, la inteligencia debería ser frecuente; pero si no la vemos, el cuello de botella es la supervivencia de las civilizaciones tecnológicas, no el origen de la vida."
   },
   {
     "id": "intelligent-life-universe:concept:0",
@@ -4316,7 +4316,7 @@
   {
     "id": "lifespan:concept:7",
     "slug": "lifespan",
-    "front": "Healthspan",
+    "front": "Vida saludable (healthspan)",
     "back": "Años de vida activa y sana, no solo conteo total."
   },
   {
@@ -4497,7 +4497,7 @@
     "id": "murmurs-of-earth:highlight",
     "slug": "murmurs-of-earth",
     "front": "¿Cuál es la idea central del cierre?",
-    "back": "Es mensaje a las estrellas —y, sobre todo, un espejo de lo que elegimos conservar de nosotros mismos."
+    "back": "Es un mensaje a las estrellas —y, sobre todo, un espejo de lo que elegimos conservar de nosotros mismos."
   },
   {
     "id": "murmurs-of-earth:concept:0",
@@ -4754,32 +4754,32 @@
   {
     "id": "otherlands:concept:0",
     "slug": "otherlands",
-    "front": "Otherlands",
-    "back": "Paisajes geológicos reconstruidos desde fósiles, legibles pero no visitables."
+    "front": "Paisajes extintos",
+    "back": "Ecosistemas del pasado reconstruidos mediante fósiles, rocas y reglas ecológicas."
   },
   {
     "id": "otherlands:concept:1",
     "slug": "otherlands",
-    "front": "Nicho fundamental vs realizado",
-    "back": "Límites físicos de una especie frente a restricciones impuestas por otros organismos."
+    "front": "Nicho posible y nicho real",
+    "back": "Condiciones que una especie podría tolerar frente a las que encuentra al competir con otras."
   },
   {
     "id": "otherlands:concept:2",
     "slug": "otherlands",
-    "front": "Taxa desastre",
-    "back": "Oportunistas que dominan justo tras extinciones masivas antes de la sucesión ecológica."
+    "front": "Organismos oportunistas",
+    "back": "Especies versátiles que se expanden después de una extinción, antes de que se reconstruya la red ecológica."
   },
   {
     "id": "otherlands:concept:3",
     "slug": "otherlands",
     "front": "Contingencia evolutiva",
-    "back": "Experimentos triásicos u otros que no dejaron descendientes modernos."
+    "back": "Formas que aparecieron en la evolución, como varios reptiles triásicos, pero no dejaron descendientes actuales."
   },
   {
     "id": "otherlands:concept:4",
     "slug": "otherlands",
-    "front": "Holobionte",
-    "back": "Individual funcional compuesto por organismos simbióticos inseparables, como gusanos de ventilas."
+    "front": "Organismo compuesto",
+    "back": "Ser vivo que depende de microbios asociados para funcionar, como los gusanos de chimeneas submarinas."
   },
   {
     "id": "otherlands:concept:5",
@@ -4790,14 +4790,14 @@
   {
     "id": "otherlands:concept:6",
     "slug": "otherlands",
-    "front": "Barrel-filling",
-    "back": "Modelo ecológico donde nichos ocupados impiden nuevos planos corporales."
+    "front": "Ocupación de los nichos",
+    "back": "Cuando cada fuente de alimento y refugio ya tiene competidores, resulta más difícil que prospere un tipo de cuerpo totalmente nuevo."
   },
   {
     "id": "otherlands:concept:7",
     "slug": "otherlands",
-    "front": "Ingeniería ecosistémica",
-    "back": "Modificación de hábitats por humanos y otras especies a lo largo del tiempo profundo."
+    "front": "Ingeniería de ecosistemas",
+    "back": "Modificación del entorno por seres vivos, como los humanos que queman bosques o los castores que construyen diques."
   },
   {
     "id": "our-mathematical-universe:highlight",
@@ -5073,7 +5073,7 @@
     "id": "reality-not-what-it-seems:concept:0",
     "slug": "reality-not-what-it-seems",
     "front": "Grano / granularidad",
-    "back": "Desde átomos democriteos hasta quanta de espacio; límite a la divisibilidad (h, L<sub>P</sub>)."
+    "back": "Desde átomos democriteos hasta cuantos de espacio; límite a la divisibilidad (h, L<sub>P</sub>)."
   },
   {
     "id": "reality-not-what-it-seems:concept:1",
@@ -5091,7 +5091,7 @@
     "id": "reality-not-what-it-seems:concept:3",
     "slug": "reality-not-what-it-seems",
     "front": "Evento / interacción",
-    "back": "Unidad ontológica en QM y LQG; propiedades existen al interactuar."
+    "back": "Unidad ontológica en cuántica y gravedad de bucles; propiedades existen al interactuar."
   },
   {
     "id": "reality-not-what-it-seems:concept:4",
@@ -5103,7 +5103,7 @@
     "id": "reality-not-what-it-seems:concept:5",
     "slug": "reality-not-what-it-seems",
     "front": "Longitud de Planck",
-    "back": "Escala ~10⁻³³ cm donde GR+QM implican espacio-tiempo cuántico."
+    "back": "Escala ~10⁻³³ cm donde relatividad y cuántica implican espacio-tiempo cuántico."
   },
   {
     "id": "reality-not-what-it-seems:concept:6",
@@ -5127,7 +5127,7 @@
     "id": "reality-not-what-it-seems:concept:9",
     "slug": "reality-not-what-it-seems",
     "front": "Interpretación relacional",
-    "back": "QM describe cómo sistemas se manifiestan unos a otros, no estados absolutos."
+    "back": "La cuántica describe cómo sistemas se manifiestan unos a otros, no estados absolutos."
   },
   {
     "id": "sapiens:highlight",
@@ -6152,7 +6152,7 @@
   {
     "id": "the-gene:concept:4",
     "slug": "the-gene",
-    "front": "Eugenics / newgenics",
+    "front": "Eugenismo / neoeugenismo",
     "back": "Selección humana por fenotipo vs. diagnóstico genético con retórica de elección."
   },
   {
@@ -6237,7 +6237,7 @@
     "id": "the-information:concept:8",
     "slug": "the-information",
     "front": "Demonio de Maxwell",
-    "back": "Thought experiment que convierte información en orden local."
+    "back": "Experimento mental que convierte información en orden local."
   },
   {
     "id": "the-information:concept:9",
@@ -6603,7 +6603,7 @@
     "id": "what-is-life:concept:7",
     "slug": "what-is-life",
     "front": "Objetivación",
-    "back": "Exclusión del sujeto del modelo científico; habilita predicción pero excluye mente, valor y qualia."
+    "back": "Exclusión del sujeto del modelo científico; habilita predicción pero excluye mente, valor y cualidades sensibles."
   },
   {
     "id": "what-is-life:concept:8",

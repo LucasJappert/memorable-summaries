@@ -16,7 +16,7 @@ export const experienceMachine: BookSummary = {
   {
     "id": "prefacio",
     "num": "00",
-    "label": "Prefacio"
+    "label": "Moldear la experiencia"
   },
   {
     "id": "cap1",
@@ -26,7 +26,7 @@ export const experienceMachine: BookSummary = {
   {
     "id": "cap2",
     "num": "02",
-    "label": "Psiquiatría y neurología"
+    "label": "Psiquiatría y neurología: cerrar la brecha"
   },
   {
     "id": "cap3",
@@ -41,7 +41,7 @@ export const experienceMachine: BookSummary = {
   {
     "id": "cap5",
     "num": "05",
-    "label": "El problema difícil"
+    "label": "El problema difícil: ¿predecir a los predictores?"
   },
   {
     "id": "cap6",
@@ -56,7 +56,7 @@ export const experienceMachine: BookSummary = {
   {
     "id": "cap8",
     "num": "08",
-    "label": "Hackear la máquina"
+    "label": "Hackear la máquina de predicción"
   },
   {
     "id": "conceptos",
@@ -133,7 +133,7 @@ export const experienceMachine: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El cerebro no espera pasivamente. Intenta alucinar el mundo y deja que los sentidos empuen el pincel cuando falla. Durante décadas dominó el modelo de la <span class=\"term\">cámara inteligente</span>, la visión clásica de que la información visual sube capa a capa desde la retina. David Marr y Descartes (<span class=\"num\">1664</span>) pensaron así.",
+          html: "Así que el cerebro no espera pasivamente. Intenta alucinar el mundo y deja que los sentidos empuen el pincel cuando falla. Durante décadas dominó el modelo de la <span class=\"term\">cámara inteligente</span>, la visión clásica de que la información visual sube capa a capa desde la retina. David Marr y Descartes (<span class=\"num\">1664</span>) pensaron así.",
         },
         {
           type: 'paragraph',
@@ -273,7 +273,7 @@ export const experienceMachine: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Las emociones integran señales corporales con predicciones de causa. Un corazón acelerado en el gimnasio frente a un posible infarto produce sentimientos distintos. No hay «sentimiento crudo» previo al reencuadre. El córtex insular anterior integra interocepción, acción y percepción externa en bucles cortico-subcorticales. No opera como jerarquía donde la razón reprime emoción primitiva.",
+          html: "Por eso las emociones integran señales corporales con predicciones de causa. Un corazón acelerado en el gimnasio frente a un posible infarto produce sentimientos distintos. No hay «sentimiento crudo» previo al reencuadre. El córtex insular anterior integra interocepción, acción y percepción externa en bucles cortico-subcorticales. No opera como jerarquía donde la razón reprime emoción primitiva.",
         },
         {
           type: 'concept-grid',
@@ -584,8 +584,8 @@ export const experienceMachine: BookSummary = {
   closing: {
     title: "La idea central",
     lines: [
-  "No percibimos el mundo como una ventana transparente.",
-  "Lo construimos en cada instante mezclando predicciones del cerebro con señales sensoriales corregidas por error.",
+  "En suma, no percibimos el mundo como una ventana transparente.",
+  "Por eso lo construimos en cada instante mezclando predicciones del cerebro con señales sensoriales corregidas por error.",
   "Percepción, acción, emoción y dolor comparten la misma moneda.",
   "Esa moneda es minimizar error de predicción ponderado.",
   "Al entenderlo ganamos margen clínico y asumimos responsabilidad por los mundos que entrenan nuestras expectativas."

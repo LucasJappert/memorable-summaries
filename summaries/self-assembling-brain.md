@@ -16,7 +16,7 @@ lang: es
 | id | num | label |
 |----|-----|-------|
 | cierre | ★ | La idea central |
-| prefacio | 00 | Prólogo |
+| prefacio | 00 | La semilla, el alien y la información que se despliega |
 | cap1 | 01 | Introducción |
 | cap2 | 02 | Crecimiento algorítmico |
 | cap3 | 03 | Ruido e información relevante |
@@ -28,7 +28,7 @@ lang: es
 | cap9 | 09 | Fronteras finales |
 | cap10 | 10 | Epílogo |
 | conceptos | ✦ | Conceptos clave |
-| cronologia | ◈ | Cronología |
+| cronologia | ◈ | Cronología de referencias y hitos |
 | figuras | ✦ | Figuras clave |
 
 ---
@@ -84,7 +84,7 @@ Para ver por qué esa metáfora importa, hay que enfrentar dos tradiciones que p
 El ejemplo de la mariposa monarca resume la dificultad. Migra hasta <span class="num">3.000 millas</span> hacia zonas de invernada precisas. El ciclo completo puede tomar <span class="num">3–5 generaciones</span>. La ruta no puede explicarse solo por aprendizaje individual.
 
 <!-- paragraph -->
-Hay información de desarrollo ya incorporada antes del aprendizaje. El autor estructura el libro en diez seminarios ficticios. Participan un neurocientífico, una genetista del desarrollo, un ingeniero de robots y un investigador de IA.
+Por eso, hay información de desarrollo ya incorporada antes del aprendizaje. El autor estructura el libro en diez seminarios ficticios. Participan un neurocientífico, una genetista del desarrollo, un ingeniero de robots y un investigador de IA.
 
 <!-- paragraph -->
 Un seminario histórico recorre las dicotomías que enmarcan el debate. Aparecen el procesamiento simbólico frente al conexionismo. <span class="person">Roger Sperry</span>, neurocientífico pionero, reclamó cableado específico frente a redes aleatorias aprendidas.
@@ -166,7 +166,7 @@ Mecanismos como la señalización Notch permiten romper simetrías mediante inhi
 Esto se conecta con el concepto de <span class="term">penetrancia</span> (grado en que una mutación se expresa en el fenotipo). Una mutación puede no manifestarse igual en todos los individuos por dependencia de contexto, umbrales y procesos estocásticos.
 
 <!-- paragraph -->
-La «información relevante» no es absoluta. Depende del nivel donde se evalúa el fenotipo.
+De ahí que la «información relevante» no sea absoluta: depende del nivel donde se evalúa el fenotipo.
 
 <!-- key -->
 La precisión biológica suele surgir de ruido más selección, no de control perfecto sin variación.
@@ -226,10 +226,7 @@ Esa lógica de agentes y selección también explica un enigma clásico de la ne
 Aparecen dos clases de mutaciones. Casos como period y timeless (genes del reloj circadiano molecular) enlazan mecanismo y conducta directamente. Otros, como mutaciones en enzimas metabólicas o en el factor fruitless, alteran conducta a través de cascadas de crecimiento impredecibles.
 
 <!-- paragraph -->
-La evolución selecciona la salida fenotípica y no predice la trayectoria interna. <span class="person">Stephen Wolfram</span>, investigador de sistemas complejos, subestimó esto al concluir que la evolución no puede «reprogramar» sistemas tan complejos como rule 110. La selección no necesita predecir.
-
-<!-- paragraph -->
-Solo evalúa el resultado tras el crecimiento completo.
+La evolución selecciona la salida fenotípica y no predice la trayectoria interna. <span class="person">Stephen Wolfram</span>, investigador de sistemas complejos, subestimó esto al concluir que la evolución no puede «reprogramar» sistemas tan complejos como rule 110. Por eso, la selección no necesita predecir el camino interno. Solo evalúa el resultado tras el crecimiento completo.
 
 <!-- key -->
 Una mutación puede reprogramar conducta sin que su función molecular «explique» linealmente esa conducta.
@@ -314,7 +311,7 @@ Esa continuidad entre desarrollo y función obliga a contrastar el cerebro biol�
 La IA dominante usa la primera. El cerebro biológico combina crecimiento, poda, actividad y aprendizaje. Las ANN tienen topología prefijada desde el perceptrón de <span class="person">Frank Rosenblatt</span> (<span class="num">1958</span>) hasta las redes convolucionales actuales. Sus conexiones iniciales suelen ser aleatorias.
 
 <!-- paragraph -->
-El cerebro biológico nunca arranca de ese modo. El número de neuronas, los tipos celulares y las conexiones cambian mientras aprende. Una red de clasificación de imágenes con <span class="num">650.000</span> neuronas supera a una mosca en visión.
+Por el contrario, el cerebro biológico nunca arranca de ese modo: el número de neuronas, los tipos celulares y las conexiones cambian mientras aprende. Una red de clasificación de imágenes con <span class="num">650.000</span> neuronas supera a una mosca en visión.
 
 <!-- paragraph -->
 El cerebro de Drosophila tiene ~<span class="num">100.000</span> neuronas e integra vuelo, cortejo, metabolismo y más. La brecha entre IA de tarea única e inteligencia de insecto es mayor que entre mosca y humano.
@@ -345,7 +342,7 @@ Esas diferencias marcan los límites de las fronteras finales entre cerebro e IA
 Sobre <span class="term">whole brain emulation</span> (copia computacional del cerebro entero), Hiesinger advierte que cualquier simulación depende de atajos de nivel. Cuanto más se recorta detalle dinámico, más se restringe qué clase de inteligencia puede emerger o preservarse.
 
 <!-- paragraph -->
-Las interfaces corticales actuales estimulan regiones, no células específicas. La integración requiere coaprendizaje en el tiempo, no solo hardware. «Crecer juntos» (desarrollo) y «aprender juntos» (función) son procesos distintos que no se pueden acortar arbitrariamente.
+Por eso, las interfaces corticales actuales estimulan regiones, no células específicas. La integración requiere coaprendizaje en el tiempo, no solo hardware. «Crecer juntos» (desarrollo) y «aprender juntos» (función) son procesos distintos que no se pueden acortar arbitrariamente.
 
 <!-- paragraph -->
 Hiesinger explora el <span class="term">sesgo cognitivo</span> (distorsión sistemática del juicio por la historia de aprendizaje). Los sesgos no son solo fallas. Son resultado natural de un sistema que aprende secuencialmente y prioriza coherencia con su historia.

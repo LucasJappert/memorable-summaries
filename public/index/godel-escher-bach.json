@@ -58,7 +58,7 @@
     {
       "sectionId": "prefacio",
       "sectionTitle": "Introducción: una ofrenda músico-lógica",
-      "text": "Hofstadter prepara al lector recorriendo la historia de la lógica y las paradojas de autorreferencia. Llega al debate sobre si una máquina podría pensar. Ese recorrido muestra el mismo truco en la música, el arte y las demostraciones matemáticas."
+      "text": "Por eso Hofstadter prepara al lector recorriendo la historia de la lógica y las paradojas de autorreferencia. Llega al debate sobre si una máquina podría pensar, y ese recorrido muestra el mismo truco en la música, el arte y las demostraciones matemáticas."
     },
     {
       "sectionId": "prefacio",
@@ -78,7 +78,7 @@
     {
       "sectionId": "cap1",
       "sectionTitle": "El acertijo MU",
-      "text": "La trampa es que, por más reglas que uno aplique desde dentro, MU no aparece nunca. La razón solo se ve al salir del juego y observar una propiedad invariante que ninguna regla altera. Esa distinción entre trabajar ciegamente dentro del sistema y comprenderlo desde fuera es la lección central."
+      "text": "Sin embargo, por más reglas que uno aplique desde dentro, MU no aparece nunca. La razón solo se ve al salir del juego y observar una propiedad invariante que ninguna regla altera. Por eso la distinción entre trabajar ciegamente dentro del sistema y comprenderlo desde fuera es la lección central."
     },
     {
       "sectionId": "cap1",
@@ -203,7 +203,7 @@
     {
       "sectionId": "cap7",
       "sectionTitle": "El cálculo proposicional",
-      "text": "El autor toma sus ejemplos de los koans zen y los llama «Zentences», medio en broma. La elección es deliberadamente irónica. Los koans buscan burlar la lógica mientras el sistema los trata como fórmulas. El contraste anticipa que la lógica formal todavía es demasiado débil para la aritmética."
+      "text": "El autor toma sus ejemplos de los koans zen y los llama «Zentences», medio en broma. La elección es deliberadamente irónica: los koans buscan burlar la lógica mientras el sistema los trata como fórmulas. Por eso el contraste anticipa que la lógica formal todavía es demasiado débil para la aritmética."
     },
     {
       "sectionId": "cap7",
@@ -223,7 +223,7 @@
     {
       "sectionId": "cap8",
       "sectionTitle": "Teoría tipográfica de números (TNT)",
-      "text": "El objetivo de Hofstadter es doble. Primero demuestra que la aritmética puede formalizarse sin apelar a intuición sobre qué «son» los números. Después contrasta ese proceso rígido con el pensamiento humano, que salta, ve patrones y no procede paso a paso como el sistema."
+      "text": "El objetivo de Hofstadter es doble. Primero demuestra que la aritmética puede formalizarse sin apelar a intuición sobre qué «son» los números. Después contrasta ese proceso rígido con el pensamiento humano, que salta, ve patrones y no procede paso a paso como el sistema. Por eso TNT prepara el terreno para Gödel."
     },
     {
       "sectionId": "cap8",
@@ -243,7 +243,7 @@
     {
       "sectionId": "cap9",
       "sectionTitle": "Mumon y Gödel",
-      "text": "Sobre ese fondo introduce la idea decisiva de Gödel. La numeración de Gödel (codificar cada cadena y cada demostración como un número único) permite que la aritmética hable de sí misma. Con esa herramienta el autor hace un primer recorrido por el teorema de incompletitud."
+      "text": "Sobre ese fondo introduce la idea decisiva de Gödel. La numeración de Gödel (codificar cada cadena y cada demostración como un número único) permite que la aritmética hable de sí misma. Con esa herramienta el autor hace un primer recorrido por el teorema de incompletitud, y de ahí que este capítulo sea la bisagra del libro."
     },
     {
       "sectionId": "cap9",
@@ -263,7 +263,7 @@
     {
       "sectionId": "cap10",
       "sectionTitle": "Holismo, reduccionismo y la hormiga",
-      "text": "La respuesta llega con Aunt Hillary , una colonia de hormigas que conversa como si fuera una mente. Ninguna hormiga individual piensa. Su «pensamiento» vive en el nivel de la colonia y se apoya en niveles intermedios, desde la hormiga suelta hasta los equipos y las señales. Entender ese sistema exige combinar la mirada de las partes con la del todo."
+      "text": "La respuesta llega con Aunt Hillary , una colonia de hormigas que conversa como si fuera una mente. Ninguna hormiga individual piensa. Su «pensamiento» vive en el nivel de la colonia y se apoya en niveles intermedios, desde la hormiga suelta hasta los equipos y las señales. Por eso entender ese sistema exige combinar la mirada de las partes con la del todo."
     },
     {
       "sectionId": "cap10",
@@ -283,7 +283,7 @@
     {
       "sectionId": "cap11",
       "sectionTitle": "Niveles de descripción y sistemas informáticos",
-      "text": "Cada capa habla de lo mismo con distinto grado de detalle. La idea se generaliza a imágenes, tableros de ajedrez, equipos deportivos, átomos y el clima. Su respuesta es que ningún nivel tiene el monopolio. Los niveles altos pueden ser causalmente reales aunque se apoyen en los bajos."
+      "text": "Cada capa habla de lo mismo con distinto grado de detalle. La idea se generaliza a imágenes, tableros de ajedrez, equipos deportivos, átomos y el clima. Por eso ningún nivel tiene el monopolio: los niveles altos pueden ser causalmente reales aunque se apoyen en los bajos."
     },
     {
       "sectionId": "cap11",
@@ -408,7 +408,7 @@
     {
       "sectionId": "cap17",
       "sectionTitle": "Autoref y autorrep",
-      "text": "El punto sutil es que la frontera entre el sistema que se reproduce y el entorno que lo ayuda resulta difusa. La información viaja de un nivel a otro. Decidir dónde termina el «yo» que se copia es en parte una convención. Ese bucle une el juego formal de Gödel con el bucle biológico de la vida."
+      "text": "El punto sutil es que la frontera entre el sistema que se reproduce y el entorno que lo ayuda resulta difusa. Por eso la información viaja de un nivel a otro, y decidir dónde termina el «yo» que se copia es en parte una convención. Ese bucle une el juego formal de Gödel con el bucle biológico de la vida."
     },
     {
       "sectionId": "cap17",
@@ -428,7 +428,7 @@
     {
       "sectionId": "cap18",
       "sectionTitle": "Church, Turing, Tarski y otros",
-      "text": "Dos resultados afilan esos límites. El problema de la parada (decidir si un cálculo cualquiera terminará) de Alan Turing muestra que no existe un procedimiento general que lo resuelva. El teorema de Alfred Tarski muestra que la verdad aritmética no puede definirse dentro del propio sistema que la enuncia."
+      "text": "Dos resultados afilan esos límites. El problema de la parada (decidir si un cálculo cualquiera terminará) de Alan Turing muestra que no existe un procedimiento general que lo resuelva. El teorema de Alfred Tarski muestra, además, que la verdad aritmética no puede definirse dentro del propio sistema que la enuncia."
     },
     {
       "sectionId": "cap18",
@@ -468,7 +468,7 @@
     {
       "sectionId": "cap20",
       "sectionTitle": "Inteligencia artificial: perspectivas",
-      "text": "Su apuesta más fuerte es sobre la creatividad. La inteligencia no nace de reglas rígidas. Nace del deslizamiento y la mezcla de conceptos, es decir, de la analogía (transferir estructura de un dominio a otro). El capítulo termina con preguntas y especulaciones personales, sin cerrar si la máquina alcanzará esa maleabilidad."
+      "text": "Su apuesta más fuerte es sobre la creatividad. La inteligencia no nace de reglas rígidas. Nace del deslizamiento y la mezcla de conceptos, es decir, de la analogía (transferir estructura de un dominio a otro). Por eso el capítulo termina con preguntas y especulaciones personales, sin cerrar si la máquina alcanzará esa maleabilidad."
     },
     {
       "sectionId": "cap20",
@@ -493,7 +493,7 @@
     {
       "sectionId": "cap21",
       "sectionTitle": "Bucles extraños o jerarquías enredadas",
-      "text": "Su hipótesis es que el «yo» y la conciencia son precisamente eso. El «yo» sería un símbolo que representa al sistema entero dentro del propio sistema, un bucle que se observa observándose. Esa imagen ata de nuevo a Gödel, Escher y Bach. El libro cierra donde empezó, en la ofrenda que se refiere a sí misma."
+      "text": "Su hipótesis es que el «yo» y la conciencia son precisamente eso. El «yo» sería un símbolo que representa al sistema entero dentro del propio sistema, un bucle que se observa observándose. Por eso esa imagen ata de nuevo a Gödel, Escher y Bach. El libro cierra donde empezó, en la ofrenda que se refiere a sí misma."
     },
     {
       "sectionId": "cap21",
@@ -508,7 +508,7 @@
     {
       "sectionId": "cierre",
       "sectionTitle": "Cierre",
-      "text": "La incompletitud no es un defecto, sino la señal de un sistema lo bastante rico para hablar de sí mismo."
+      "text": "Por eso la incompletitud no es un defecto, sino la señal de un sistema lo bastante rico para hablar de sí mismo."
     },
     {
       "sectionId": "cierre",

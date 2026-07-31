@@ -15,7 +15,7 @@ lang: es
 | id | num | label |
 |----|-----|-------|
 | cierre | ★ | La idea central |
-| prefacio | 00 | Introducción |
+| prefacio | 00 | Meditación sobre los orígenes de la ciencia y la ciencia de los orígenes |
 | cap1 | 01 | Al principio |
 | cap2 | 02 | La antimateria importa |
 | cap3 | 03 | Que brille la luz |
@@ -32,9 +32,9 @@ lang: es
 | cap14 | 14 | El origen de la vida en la Tierra |
 | cap15 | 15 | Buscando vida en el Sistema Solar |
 | cap16 | 16 | Buscando vida en la Vía Láctea |
-| coda | — | Coda |
+| coda | — | La búsqueda de nosotros mismos en el cosmos |
 | conceptos | ✦ | Conceptos clave |
-| cronologia | ◈ | Cronología |
+| cronologia | ◈ | Cronología de los descubrimientos |
 | figuras | ✦ | Figuras clave |
 
 ---
@@ -51,7 +51,7 @@ lang: es
 Esta segunda edición incorpora descubrimientos recientes. Hay unos <span class="num">5.000 exoplanetas</span> detectados y ondas gravitacionales registradas por primera vez en <span class="num">2017</span>. Cinco cuerpos del Sistema Solar son candidatos para buscar vida. También persiste una discrepancia entre métodos para medir la expansión cósmica: la «crisis en cosmología».
 
 <!-- paragraph -->
-Los humanos fascinan los orígenes por razones lógicas y emocionales. Cada avance revela que habitamos un <span class="term">grano de polvo cósmico</span> (un planeta diminuto) en los suburbios de una galaxia común. Entre al menos <span class="num">100.000 millones de galaxias</span>, no somos el centro. Los mitos de creación suelen pasar rápido del universo a la historia humana.
+A los humanos les fascinan los orígenes por razones lógicas y emocionales. Cada avance revela que habitamos un <span class="term">grano de polvo cósmico</span> (un planeta diminuto) en los suburbios de una galaxia común. Entre al menos <span class="num">100.000 millones de galaxias</span>, no somos el centro. Los mitos de creación suelen pasar rápido del universo a la historia humana.
 
 <!-- paragraph -->
 La ciencia moderna nació del <span class="term">escepticismo organizado</span> (observación cuidadosa y prueba pública). Cuatro reacciones ante su éxito son posibles: abrazarlo, ignorarlo, combatirlo o aceptarlo manteniendo creencias trascendentes.
@@ -70,7 +70,7 @@ El libro invita a leer el cosmos como detectives: deducir la historia de cómo p
 ¿Qué reglas gobiernan el universo desde el primer instante? Al principio hubo física. Materia, energía, espacio y tiempo subyacen a toda química y biología. Aplicada al cielo, esa física es <span class="term">astrofísica</span> (el estudio de fenómenos celestes con leyes físicas).
 
 <!-- paragraph -->
-La física clásica (pre-1900) funciona en laboratorios cotidianos. La <span class="term">física moderna</span> (relatividad y cuántica) describe regímenes extremos de temperatura, densidad y presión. Ahí mandan reglas donde la intuición falla, como en los primeros momentos del universo.
+La física clásica (pre-1900) funciona en laboratorios cotidianos, pero el cosmos temprano exige otra cosa. Por eso, la <span class="term">física moderna</span> (relatividad y cuántica) describe regímenes extremos de temperatura, densidad y presión. Ahí mandan reglas donde la intuición falla, como en los primeros momentos del universo.
 
 <!-- paragraph -->
 El físico <span class="person">Albert Einstein</span> publicó en 1905 la ecuación <span class="term">E = mc²</span> (equivalencia masa-energía). Permite rastrear el cosmos desde hoy hasta fracciones infinitesimales de segundo tras el nacimiento. En el Sol, <span class="num">4,4 millones de toneladas</span> de materia se convierten en energía cada segundo.
@@ -112,7 +112,7 @@ En <span class="num">1932</span>, el físico <span class="person">Carl Anderson<
 En <span class="num">1996</span>, el equipo de <span class="person">Walter Oelert</span> en el CERN creó átomos de antihidrógeno. Nueve sobrevivieron menos de <span class="num">40 nanosegundos</span> antes de aniquilarse.
 
 <!-- paragraph -->
-Los fotones gamma de alta energía pueden crear pares electrón-positrón (E = mc² al revés). El universo primordial produjo partículas y antipartículas en igual cantidad. Una asimetría minúscima dejó materia suficiente: <span class="num">un billón y uno frente a un billón</span>.
+Por eso, los fotones gamma de alta energía pueden crear pares electrón-positrón (E = mc² al revés). El universo primordial produjo partículas y antipartículas en igual cantidad. Una asimetría minúscima dejó materia suficiente: <span class="num">un billón y uno frente a un billón</span>.
 
 <!-- quote -->
 > Sin ese desequilibrio, toda la masa (salvo la materia oscura) se habría aniquilado antes del primer segundo, dejando un cosmos de fotones y nada más.
@@ -164,7 +164,7 @@ Pero la luz visible no basta para explicar toda la gravedad que medimos en el co
 ¿Por qué la gravedad pide más masa de la que brilla? La gravedad newtoniana y la de Einstein explican la materia visible. La mayor parte de la gravedad medida proviene de algo invisible: la <span class="term">materia oscura</span> (masa que no emite luz).
 
 <!-- paragraph -->
-El astrónomo <span class="person">Fritz Zwicky</span> analizó en los <span class="num">1930</span> el cúmulo de Coma. Está a <span class="num">325 millones de años luz</span>. Las galaxias se mueven demasiado rápido para la masa visible. El cúmulo debería desintegrarse en cientos de millones de años, pero tiene más de <span class="num">10.000 millones de años</span>.
+El astrónomo <span class="person">Fritz Zwicky</span> analizó en la década de <span class="num">1930</span> el cúmulo de Coma. Está a <span class="num">325 millones de años luz</span>. Las galaxias se mueven demasiado rápido para la masa visible. El cúmulo debería desintegrarse en cientos de millones de años, pero tiene más de <span class="num">10.000 millones de años</span>.
 
 <!-- paragraph -->
 La astrónoma <span class="person">Vera Rubin</span> confirmó el patrón en galaxias espirales. Las estrellas en los bordes orbitan más rápido de lo que permite la materia luminosa. La materia oscura no emite luz ni interactúa electromagnéticamente. Solo se detecta por gravedad y constituye la mayor parte de la masa del universo.
@@ -225,7 +225,7 @@ Medir esa expansión con precisión reveló una discordancia que hoy inquieta a 
 El método de «velas estándar» usa supernovas tipo Ia en galaxias lejanas. El de «regla estándar» explota el tamaño del universo al desacoplamiento como regla cósmica expandida. Ese tamaño en la CBR es ~<span class="num">420.000 años luz</span>.
 
 <!-- paragraph -->
-Antes del telescopio Hubble, los valores de H₀ divergían por factor 2 (50 frente a 100). Que hoy la discordancia sea solo ~10% es progreso. Una tensión persistente podría abrir nueva física más allá del modelo estándar.
+Sin embargo, antes del telescopio Hubble, los valores de H₀ divergían por factor 2 (50 frente a 100). Que hoy la discordancia sea solo ~10% es progreso. Una tensión persistente podría abrir nueva física más allá del modelo estándar.
 
 <!-- timeline -->
 | year | text |
@@ -283,7 +283,7 @@ Antes de especular sobre universos múltiples, hace falta entender cómo descubr
 El espectroscopio reveló que las nebulosas espirales fuera del plano galáctico se alejan a velocidades enormes. En <span class="num">1923</span>, el astrónomo <span class="person">Edwin Hubble</span> encontró una variable Cefeida en Andrómeda. Estaba tan lejos que no podía pertenecer a nuestra galaxia. Andrómeda <em>es</em> otra galaxia, a millones de años luz.
 
 <!-- paragraph -->
-Hubble midió la relación distancia-velocidad de recesión: cuanto más lejos una galaxia, más rápido se aleja. El universo se expande. La lección es dejar de clasificar por apariencia y preguntar qué <em>es</em> cada objeto y a qué distancia.
+Por eso, Hubble midió la relación distancia-velocidad de recesión: cuanto más lejos una galaxia, más rápido se aleja. El universo se expande. La lección es dejar de clasificar por apariencia y preguntar qué <em>es</em> cada objeto y a qué distancia.
 
 <!-- timeline -->
 | year | text |
@@ -334,10 +334,10 @@ Esa estructura estelar no sería posible sin el gas y el polvo que ocultan y ali
 El astrónomo <span class="person">Jacobus Kapteyn</span> identificó en 1909 el <span class="term">medio interestelar</span> (gas y polvo entre las estrellas). El polvo absorbe más la luz violeta que la roja. Ese enrojecimiento interestelar engaña las distancias.
 
 <!-- paragraph -->
-Las nubes gigantes (~<span class="num">100 K</span> o menos) colapsan bajo gravedad pese a rotación, turbulencia, presión y campos magnéticos.
+Por eso, las nubes gigantes (~<span class="num">100 K</span> o menos) colapsan bajo gravedad pese a rotación, turbulencia, presión y campos magnéticos.
 
 <!-- paragraph -->
-Las estrellas en fase de <span class="term">gigante roja</span> (fase tardía de evolución estelar) expulsan granos de polvo al espacio. En regiones como la nebulosa de Orión, miles de estrellas nacen de nubes de ~un millón de masas solares. El polvo y el gas son indispensables para una segunda generación estelar y para los elementos pesados que forman planetas y vida.
+Además, las estrellas en fase de <span class="term">gigante roja</span> (fase tardía de evolución estelar) expulsan granos de polvo al espacio. En regiones como la nebulosa de Orión, miles de estrellas nacen de nubes de ~un millón de masas solares. El polvo y el gas son indispensables para una segunda generación estelar y para los elementos pesados que forman planetas y vida.
 
 <!-- key -->
 Del polvo interestelar, literalmente, nacen las estrellas que iluminan el cosmos.
@@ -353,7 +353,7 @@ De esas estrellas jóvenes y sus discos de material surge la pregunta sobre cóm
 ## title: Cuando los mundos eran jóvenes
 
 <!-- paragraph lead -->
-¿Cómo se formaron los planetas si los «siglos oscuros» cósmicos dejaron pocos datos? Esos siglos dejaron pocos datos observables sobre cómo la materia se organizó en estrellas y galaxias. Los planetas son aún más misteriosos: sabemos poco de cómo <em>empezaron</em> a formarse.
+¿Cómo se formaron los planetas si los «siglos oscuros» cósmicos dejaron pocos datos observables sobre cómo la materia se organizó en estrellas y galaxias? Los planetas son aún más misteriosos: sabemos poco de cómo <em>empezaron</em> a formarse.
 
 <!-- paragraph -->
 El filósofo <span class="person">Immanuel Kant</span> propuso la hipótesis nebular. Un disco de gas y polvo alrededor de la estrella en formación condensa en planetas. Es superior a la de <span class="person">James Jeans</span>, que postulaba encuentros estelares rarísimos. Los exoplanetas confirman que muchas estrellas tienen planetas, pero sus órbitas extrañas complican la teoría.
@@ -381,7 +381,7 @@ Confirmar planetas alrededor de otras estrellas convirtió la especulación en u
 En <span class="num">1995</span> se confirmó el primer <span class="term">exoplaneta</span> (planeta orbitando otra estrella). Luego llegaron los descubrimientos en avalancha. Hoy hay más de <span class="num">5.000</span> mundos conocidos con órbitas, tamaños y composiciones diversos. Algunos están en la <span class="term">zona habitable</span> (distancia donde el agua líquida es posible).
 
 <!-- paragraph -->
-Los métodos de detección incluyen la velocidad radial (wobble estelar), los tránsitos (atenuación de luz), las microlentes gravitacionales y la imagen directa. Los exoplanetas son laboratorio cósmico para preguntar cuándo y cómo surge la vida más allá del Sistema Solar.
+Además, los métodos de detección incluyen la velocidad radial (wobble estelar), los tránsitos (atenuación de luz), las microlentes gravitacionales y la imagen directa. Los exoplanetas son laboratorio cósmico para preguntar cuándo y cómo surge la vida más allá del Sistema Solar.
 
 <!-- key -->
 De la especulación pasamos a un catálogo de miles de mundos. La pregunta ya no es «¿hay planetas?» sino «¿cuántos son habitables?».
@@ -580,7 +580,7 @@ Cada nuevo detector es una ventana cósmica. La búsqueda de nuestro lugar en el
 El cosmos tiene una historia continua de catorce mil millones de años.
 Desde física extrema y antimateria hasta luz, oscuridad y estructura.
 <!-- highlight -->Somos polvo de estrellas que aprendió a preguntarse de dónde vino.<!-- /highlight -->
-La ciencia une astrofísica, química y biología para contar esa historia.
+Por eso, la ciencia une astrofísica, química y biología para contar esa historia.
 Cada nuevo instrumento amplía sentidos que la evolución no nos dio.
 Explorar el universo es buscarnos a nosotros mismos en el cosmos.
 

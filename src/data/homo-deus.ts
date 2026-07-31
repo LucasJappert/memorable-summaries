@@ -54,7 +54,7 @@ export const homoDeus: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Harari no dice que esos males desaparecieron. Dice que cambió su estatus. Ya no rezamos para que un dios nos libre de ellos: sabemos qué hacer y solemos lograrlo. Por primera vez mueren más personas por comer demasiado que por comer poco. Mueren más por vejez que por epidemias. Mueren más por suicidio que por soldados, terroristas y criminales juntos. El hambre moderno es casi siempre político, no natural.",
+          html: "Harari no dice que esos males desaparecieron, pero sí que cambió su estatus. Ya no rezamos para que un dios nos libre de ellos: sabemos qué hacer y solemos lograrlo. Por primera vez mueren más personas por comer demasiado que por comer poco. Mueren más por vejez que por epidemias. Mueren más por suicidio que por soldados, terroristas y criminales juntos. El hambre moderno es casi siempre político, no natural.",
         },
         {
           type: 'big-numbers',
@@ -124,7 +124,7 @@ export const homoDeus: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La idea central es que el <span class=\"term\">Antropoceno</span> (la era en que el humano transforma la biosfera) no empezó con las fábricas. Empezó con la expansión del sapiens hace unos <span class=\"num\">70.000</span> años. Alteró la ecología como antes solo lo hacían glaciaciones o asteroides. Los cazadores-recolectores animistas trataban a los animales como interlocutores. La revolución agrícola, legitimada por dioses, y luego el humanismo industrial degradaron al ganado a mera mercancía optimizada.",
+          html: "Por eso, la idea central es que el <span class=\"term\">Antropoceno</span> (la era en que el humano transforma la biosfera) no empezó con las fábricas. Empezó con la expansión del sapiens hace unos <span class=\"num\">70.000</span> años. Alteró la ecología como antes solo lo hacían glaciaciones o asteroides. Los cazadores-recolectores animistas trataban a los animales como interlocutores. La revolución agrícola, legitimada por dioses, y luego el humanismo industrial degradaron al ganado a mera mercancía optimizada.",
         },
         {
           type: 'concept-grid',
@@ -494,7 +494,7 @@ export const homoDeus: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El dataísmo invierte la pirámide del conocimiento. Los humanos dejan de destilar datos en sabiduría y ceden esa tarea a los grandes algoritmos. «Conócete a ti mismo» pasa de la introspección a la monitorización biométrica permanente. Harari advierte un paralelo inquietante. El dataísmo puede hacerle al sapiens lo que el sapiens hizo a los demás animales. Puede volverlo irrelevante en cuanto pierda su función.",
+          html: "El dataísmo invierte la pirámide del conocimiento. Por eso, los humanos dejan de destilar datos en sabiduría y ceden esa tarea a los grandes algoritmos. «Conócete a ti mismo» pasa de la introspección a la monitorización biométrica permanente. Harari advierte un paralelo inquietante. El dataísmo puede hacerle al sapiens lo que el sapiens hizo a los demás animales. Puede volverlo irrelevante en cuanto pierda su función.",
         },
         {
           type: 'paragraph',
@@ -633,7 +633,7 @@ export const homoDeus: BookSummary = {
     title: "La idea central",
     lines: [
   "Harari parte de una conquista histórica: hambre, enfermedad y guerra dejaron de ser destinos y se volvieron problemas técnicos.",
-  "La nueva agenda —inmortalidad, felicidad y divinidad— nace del humanismo victorioso y de su pacto con la ciencia.",
+  "Por eso, la nueva agenda —inmortalidad, felicidad y divinidad— nace del humanismo victorioso y de su pacto con la ciencia.",
   "Organismos como algoritmos, inteligencia sin conciencia y datos que nos conocen mejor que nosotros: tres oleadas convergentes.",
   "El liberalismo no caería por un argumento filosófico, sino por la obsolescencia práctica de votantes, consumidores y trabajadores.",
   "La religión del mañana podría venerar el flujo de información más que la experiencia humana, y quien controle ese flujo tendrá el poder que antes tuvo quien controlaba la verdad."

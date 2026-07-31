@@ -61,7 +61,7 @@ La pregunta final no es solo «¿podemos?» sino «¿cómo repartimos el benefic
 Toda cultura niega la finalidad de la muerte. El filósofo <span class="person">Stephen Cave</span> describe cuatro planes para afrontarla. Vivir lo más posible, renacer en otro cuerpo, conservar un alma inmortal o dejar legado biológico y cultural. La conciencia de la propia muerte requirió cerebro autorreflexivo y lenguaje. Vivimos en negación mediante eufemismos, hospitales alejados y distracciones.
 
 <!-- paragraph -->
-El Ilustracionismo desplazó la fe hacia la ciencia, pero el legado no basta porque los hijos son otros seres conscientes. Plan A, que consiste en evitar accidentes y enfermedades, sigue vigente. En <span class="num">150</span> años duplicamos la esperanza de vida reduciendo mortalidad infantil. Pero alargar el máximo (~<span class="num">120</span> años) es otro reto. La revolución genética plantea si podemos frenar el envejecimiento. Más de <span class="num">300 000</span> artículos y <span class="num">700</span> startups surgieron en una década. El químico <span class="person">Venki Ramakrishnan</span> se pregunta si no es arrogancia pretender vencer la muerte. Un virus como el COVID-19 recuerda que la evolución no nos debe nada.
+La Ilustración desplazó la fe hacia la ciencia, pero el legado no basta porque los hijos son otros seres conscientes. Plan A, que consiste en evitar accidentes y enfermedades, sigue vigente. En <span class="num">150</span> años duplicamos la esperanza de vida reduciendo mortalidad infantil. Pero alargar el máximo (~<span class="num">120</span> años) es otro reto. La revolución genética plantea si podemos frenar el envejecimiento. Más de <span class="num">300 000</span> artículos y <span class="num">700</span> startups surgieron en una década. El químico <span class="person">Venki Ramakrishnan</span> se pregunta si no es arrogancia pretender vencer la muerte. Un virus como el COVID-19 recuerda que la evolución no nos debe nada.
 
 <!-- key -->
 Por primera vez la biología ofrece palancas reales sobre el <span class="key-term">envejecimiento</span>, pero la sociedad no está preparada para sus consecuencias.
@@ -121,7 +121,7 @@ Esas presiones actúan sobre el programa que mantiene cada célula funcionando: 
 ¿Qué ocurre cuando una célula pierde el control central de su programa? <span class="person">Hampi</span>, gran ciudad del sur de India, colapsó cuando perdió gobierno, como una célula sin regulación. Los <span class="term">genes</span> (unidades de información heredada) no solo transmiten rasgos, sino que dan instrucciones para construir y mantener un organismo.
 
 <!-- paragraph -->
-Hasta <span class="num">1953</span>, el ADN era misterio. Los biólogos <span class="person">James Watson</span> y <span class="person">Francis Crick</span> dedujeron la doble hélice: A-T, C-G, cada hebra copia a la otra. El mensaje se transcribe y los ribosomas ensamblan <span class="term">proteínas</span> (moléculas que ejecutan casi todas las funciones vitales). Estas se pliegan solas en formas funcionales —milagro que Ramakrishnan estudió toda su carrera.
+Hasta <span class="num">1953</span>, el ADN era misterio. Los biólogos <span class="person">James Watson</span> y <span class="person">Francis Crick</span> dedujeron la doble hélice: A-T, C-G, cada hebra copia a la otra. El mensaje se transcribe y los ribosomas ensamblan <span class="term">proteínas</span> (moléculas que ejecutan casi todas las funciones vitales). Estas se pliegan solas en formas funcionales. Es un milagro que Ramakrishnan estudió toda su carrera.
 
 <!-- paragraph -->
 El genoma no dicta como un plano rígido, sino que forma una red que responde al entorno. El ADN se deteriora con el tiempo, y las mutaciones son errores de letras que alteran el significado. Por eso el programa no puede correr eternamente sin fallos.
@@ -165,7 +165,7 @@ Si los telómeros marcan un reloj celular, la pregunta es si ese reloj se puede 
 ¿El genoma humano es un destino escrito o un programa que se puede reprogramar? En junio de <span class="num">2000</span>, Clinton y Blair anunciaron el borrador del genoma humano. El ADN no es libro legible: flujo sin puntuación, <span class="num">2 %</span> codifica proteínas, resto «basura» aún enigma.
 
 <!-- paragraph -->
-Gemelos idénticos muestran que el genoma no es destino: pueden diferir en esquizofrenia pese a mismos genes. La <span class="term">epigenética</span> (capa de control «sobre» los genes) explica por qué una célula piel no vuelve a ser neurona. El biólogo <span class="person">Conrad Waddington</span> (<span class="num">1942</span>) imaginó una bola rodando por valles del desarrollo. Es difícil subir de nuevo.
+Por eso, gemelos idénticos muestran que el genoma no es destino: pueden diferir en esquizofrenia pese a mismos genes. La <span class="term">epigenética</span> (capa de control «sobre» los genes) explica por qué una célula piel no vuelve a ser neurona. El biólogo <span class="person">Conrad Waddington</span> (<span class="num">1942</span>) imaginó una bola rodando por valles del desarrollo. Es difícil subir de nuevo.
 
 <!-- paragraph -->
 La clonación (<span class="num">1952</span>, rana) y los factores Yamanaka demostraron que el núcleo de célula especializada puede reprogramarse a estado pluripotente. No es Lamarckismo: son cambios reversibles en control génico, no en secuencia. La pregunta es hasta dónde se puede «rebobinar» sin tumores.
@@ -256,7 +256,7 @@ Esa vía hormonal depende de la energía celular, producida por organelas que al
 Las mitocondrias convierten carbohidratos en <span class="term">ATP</span> (moneda energética universal de la célula). El cuerpo genera aproximadamente su peso en ATP al día. El cerebro consume una quinta parte. La producción usa un gradiente de protones y una turbina molecular llamada ATP sintasa.
 
 <!-- paragraph -->
-Perdieron la mayoría de genes al núcleo host. El minúsculo ADN mitocondrial muta y causa enfermedades. Se heredan solo de madre. Reino Unido legalizó bebés de «tres padres». Mitocondrias fusionan y dividen. Sus defectos se segregan. Por eso su desgaste impulsa envejecimiento.
+Las mitocondrias perdieron la mayoría de genes al núcleo anfitrión. Su minúsculo ADN mitocondrial muta y causa enfermedades. Se heredan solo de madre. Reino Unido legalizó bebés de «tres padres». Mitocondrias fusionan y dividen. Sus defectos se segregan. Por eso su desgaste impulsa envejecimiento.
 
 <!-- key -->
 Las <span class="key-term">mitocondrias</span> nos dan energía, pero su daño acumulado contribuye al declive.
@@ -325,7 +325,7 @@ Extender vida sin <span class="term">comprimir morbilidad</span> (acortar años 
 Sobre la sobrepoblación, Japón vive más pero su población cae desde <span class="num">2010</span>. Carreras más largas son la salida si jubilación a los <span class="num">65</span> es insostenible.
 
 <!-- paragraph -->
-Un obrero de sesenta y cinco años no desea otros cincuenta de faena física. En dos mil veintitrés, en Francia marcharon <span class="num">1,2 millones</span> contra subir la jubilación de sesenta y dos a sesenta y cuatro años.
+Un obrero de sesenta y cinco años no desea otros cincuenta de faena física. En <span class="num">2023</span>, en Francia marcharon <span class="num">1,2 millones</span> contra subir la jubilación de sesenta y dos a sesenta y cuatro años.
 
 <!-- key -->
 Podemos ralentizar el envejecimiento, pero la sociedad debe decidir <span class="key-term">conscientemente</span> cómo repartir años extra sin agravar desigualdad.

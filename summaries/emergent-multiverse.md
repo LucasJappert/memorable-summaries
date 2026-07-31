@@ -42,10 +42,10 @@ lang: es
 ## title: La idea central
 
 <!-- closing -->
-No hay problema de la medición en la mecánica cuántica unitaria.
+En suma, no hay problema de la medición en la mecánica cuántica unitaria.
 El conflicto aparente nace de tratar «observación» y «colapso» como postulados primitivos en lugar de leer la teoría literalmente.
 <!-- highlight -->los mundos ramificados son reales, emergentes y compatibles con nuestros datos<!-- /highlight -->
-La decoherencia explica por qué vemos un mundo cuasi-clásico.
+Por eso la decoherencia explica por qué vemos un mundo cuasi-clásico.
 La regla de Born emerge de simetrías y racionalidad, no de un colapso mágico.
 La mecánica cuántica everettiana es simplemente la mecánica cuántica misma.
 
@@ -168,7 +168,7 @@ Antes de abordar la probabilidad sobre esas ramas, conviene responder objeciones
 ¿Puede una teoría con tantos mundos ser científica y parsimoniosa? Un diálogo entre Escéptico y Autor responde objeciones frecuentes que no encajaron en el hilo principal. Respecto a la <span class="term">falsabilidad</span> (capacidad de ser refutada por experimentos), la mecánica cuántica unitaria es testeable. La interferencia con buckyballs y los tests de teorías de colapso lo confirman.
 
 <!-- paragraph -->
-Ningún experimento separa «QM operacional» de «QM literal». Tampoco separa «hubo dinosaurios» de «solo hay fósiles como si hubiera habido dinosaurios». En cuanto a la <span class="term">navaja de Ockham</span> (principio de no multiplicar supuestos innecesarios), penaliza postulados, no cantidad de entidades. La cosmología no descarta teorías por predecir muchas galaxias. Criticar Everett por postular muchos universos inventa un principio nuevo sin motivación independiente.
+Pero ningún experimento separa «QM operacional» de «QM literal». Tampoco separa «hubo dinosaurios» de «solo hay fósiles como si hubiera habido dinosaurios». En cuanto a la <span class="term">navaja de Ockham</span> (principio de no multiplicar supuestos innecesarios), penaliza postulados, no cantidad de entidades. La cosmología no descarta teorías por predecir muchas galaxias. Criticar Everett por postular muchos universos inventa un principio nuevo sin motivación independiente.
 
 <!-- paragraph -->
 Sobre la <span class="term">unicidad</span> (la idea de que solo hay una interpretación legítima), las alternativas realistas modifican el formalismo. Las lecturas operacionalistas no toman la teoría literalmente. Lo que Wallace llama everettiano no añade nada al formalismo y es unitaria pura. Galileo ya enfrentó la queja de los «vacíos inútiles» vastos entre Saturno y las estrellas fijas.
@@ -215,7 +215,7 @@ Para justificar esa medida sobre ramas, Wallace construye un argumento desde sim
 ¿Por qué un agente racional debe usar las probabilidades de la regla de Born? Wallace construye una teoría positiva desde la <span class="term">teoría de la decisión</span> (marco para elegir acciones bajo incertidumbre). Un agente racional conoce el estado cuántico de su rama. Debe actuar como si los resultados futuros tuvieran probabilidades dadas por la regla de Born.
 
 <!-- paragraph -->
-El argumento separa el problema práctico del epistémico. El práctico pregunta por qué el peso de rama guía decisiones. El epistémico pregunta por qué guía inferencia y frecuencias. El núcleo matemático no es decisionista sino de simetría. Preferencias entre apuestas sobre resultados de medición, bajo axiomas de riqueza física y racionalidad, fijan una medida de probabilidad única sobre macroestados decoherentes.
+Por eso el argumento separa el problema práctico del epistémico. El práctico pregunta por qué el peso de rama guía decisiones. El epistémico pregunta por qué guía inferencia y frecuencias. El núcleo matemático no es decisionista sino de simetría. Preferencias entre apuestas sobre resultados de medición, bajo axiomas de riqueza física y racionalidad, fijan una medida de probabilidad única sobre macroestados decoherentes.
 
 <!-- paragraph -->
 La preparación, medición y pago se representan como una transformación unitaria. La decoherencia impone una descomposición en macroestados. El agente se preocupa por sus múltiples yo futuros como un clásico se preocupa por su único yo futuro. El teorema de representación cuántico dice que la medida debe ser la de Born, no cualquier otra.
@@ -321,7 +321,7 @@ La mecánica cuántica everettiana es no separable, como el electromagnetismo cl
 Wallace también revisa alternativas como el realismo de la función de onda en espacio de configuración de alta dimensión. El capítulo muestra que tratar el estado como descripción completa facilita discusiones conceptuales. Antes, el vocabulario de «medición» las obstruía.
 
 <!-- key -->
-Everettian QM es <span class="key-term">no separable</span> ontológicamente pero local en dinámica, compatible con el espíritu de la relatividad especial.
+La mecánica cuántica everettiana es <span class="key-term">no separable</span> ontológicamente pero local en dinámica, compatible con el espíritu de la relatividad especial.
 
 <!-- bridge -->
 La ontología del estado cuántico conecta con otra asimetría: por qué las ramas divergen hacia el futuro y no hacia el pasado.
@@ -362,7 +362,7 @@ Con el marco ontológico y temporal en su lugar, el libro explora aplicaciones y
 ¿Qué implica Everett para el caos, la cosmología y los experimentos límite? Este capítulo misceláneo explora consecuencias tentativas. Respecto al caos y el indeterminismo, globalmente el futuro es determinista mediante ramificación con pesos conocidos. Para el observador en una rama es impredecible en principio, como en la mecánica cuántica estándar.
 
 <!-- paragraph -->
-En casos de probabilidad exótica, el <span class="term">razonamiento antrópico</span> (inferir nuestra existencia a partir de condiciones que permiten observadores) es más disciplinado en el multiverso everettiano. Tiene teoría precisa y predicciones testeables. Lo es más que en multiversos ad hoc de inflación o cuerdas. El <span class="term">suicidio cuántico</span> (apostar la vida a un resultado cuántico) no otorga certeza subjetiva de supervivencia.
+Por eso el multiverso everettiano disciplina mejor el <span class="term">razonamiento antrópico</span> (inferencia sobre observadores posibles). En casos de probabilidad exótica, tiene teoría precisa y predicciones testeables. Lo es más que en multiversos ad hoc de inflación o cuerdas. El <span class="term">suicidio cuántico</span> (apostar la vida a un resultado cuántico) no otorga certeza subjetiva de supervivencia.
 
 <!-- paragraph -->
 <span class="person">David Deutsch</span> (pionero de la computación cuántica) sostuvo que interferencia y computación cuántica permiten «observar» el multiverso. Wallace analiza interferometría, el algoritmo de Shor y el efecto Zeno. Los <span class="term">estados mixtos</span> (descripciones estadísticas de subsistemas entrelazados) no son ignorancia cuántica primitiva. El universo total puede permanecer en estado puro.
@@ -412,7 +412,7 @@ El epílogo cierra el libro con un diálogo que no fuerza la reconciliación, si
 ¿Por qué la resistencia a Everett persiste si el formalismo no cambia? Un diálogo final entre el autor y el escéptico cierra el libro sin reconciliación forzada. Wallace cita a <span class="person">Hugh Everett III</span>. Everett sostuvo que es posible una teoría causal completa de la mecánica cuántica. Los aspectos probabilísticos quedarían en el nivel subjetivo, sin postulados nuevos.
 
 <!-- paragraph -->
-El escéptico no se convence. El autor evita la capitulación ficticia y deja la última palabra a <span class="person">Galileo</span>. Simplicio pregunta para qué sirve el vasto vacío entre Saturno y las estrellas fijas. Salviati responde que la naturaleza no crea en vano. Ese espacio contiene innumerables estrellas no visibles a simple vista.
+Pero el escéptico no se convence. El autor evita la capitulación ficticia y deja la última palabra a <span class="person">Galileo</span>. Simplicio pregunta para qué sirve el vasto vacío entre Saturno y las estrellas fijas. Salviati responde que la naturaleza no crea en vano. Ese espacio contiene innumerables estrellas no visibles a simple vista.
 
 <!-- paragraph -->
 El paralelo con la objeción everettiana es explícito. Lo que parece «vacío» o «extravagancia» puede estar poblado de estructura real. Nuestra intuición pre-copernicana o pre-cuántica no lo anticipó. La discusión termina con humor. Quizá Eddington dijo la cita famosa en otro mundo, si no la dijo en este.
@@ -437,7 +437,7 @@ Everett ofreció desde <span class="num">1957</span> una teoría completa y caus
 | Peso de rama | Magnitud derivada de amplitudes que estructura la medida sobre historias. |
 | Regla de Born | Probabilidad de un resultado = módulo al cuadrado de su amplitud. |
 | Algoritmo cuántico | Regla que extrae predicciones empíricas de grados de libertad macroscópicos (POVMs). |
-| Spacetime state realism | Ontología que asigna operadores de densidad a regiones del espaciotiempo. |
+| Realismo del estado en el espaciotiempo | Ontología que asigna operadores de densidad a regiones del espaciotiempo. |
 | Hipótesis del pasado | Condición de baja entropía inicial que explica flechas de tiempo emergentes. |
 | Historias decoherentes | Marco que define ramas consistentes con registros y sin interferencia medible. |
 

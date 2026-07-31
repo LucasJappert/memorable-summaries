@@ -14,8 +14,8 @@ lang: es
 
 | id | num | label |
 |----|-----|-------|
-| prefacio | 00 | Prefacio (ed. 1999) |
-| prologo | — | Prólogo |
+| prefacio | 00 | Diez años después (edición 1999) |
+| prologo | — | La inauguración de Ultronic |
 | cap1 | 01 | ¿Puede una computadora tener mente? |
 | cap2 | 02 | Algoritmos y máquinas de Turing |
 | cap3 | 03 | Matemáticas y realidad |
@@ -26,9 +26,9 @@ lang: es
 | cap8 | 08 | En busca de la gravedad cuántica |
 | cap9 | 09 | Cerebros reales y cerebros modelo |
 | cap10 | 10 | ¿Dónde reside la física de la mente? |
-| epilogo | — | Epílogo |
+| epilogo | — | La risa en el auditorio |
 | conceptos | ✦ | Conceptos clave |
-| cronologia | ◈ | Cronología |
+| cronologia | ◈ | Cronología de hitos del libro |
 
 ---
 
@@ -44,7 +44,7 @@ lang: es
 El argumento tiene dos hilos. Primero, los teoremas de Gödel y Turing muestran límites de cualquier modelo puramente computacional. El pensamiento matemático, y por extensión el consciente, los traspasa. Segundo, falta física entre la escala cuántica y la macroscópica. Ahí debería residir la ley que explique la mente.
 
 <!-- paragraph -->
-Penrose ilustra el primer hilo con el <span class="term">teorema de Goodstein</span> (una proposición aritmética verdadera que la inducción sola no demuestra). Comprender su verdad exige algo más que seguir reglas mecánicas. Ese «algo», la comprensión, parece ligado a la conciencia y esencialmente no computacional.
+Por eso, Penrose ilustra el primer hilo con el <span class="term">teorema de Goodstein</span> (una proposición aritmética verdadera que la inducción sola no demuestra). Comprender su verdad exige algo más que seguir reglas mecánicas. Ese «algo», la comprensión, parece ligado a la conciencia y esencialmente no computacional.
 
 <!-- key -->
 La comprensión matemática trasciende cualquier conjunto fijo de reglas. La conciencia exige física nueva en el puente entre lo cuántico y lo clásico.
@@ -63,7 +63,7 @@ Antes de los teoremas, Penrose plantea la pregunta en una fábula: ¿qué pasar�
 ¿Qué ocurre cuando una supercomputadora parece más capaz que cualquier cerebro? Una fábula abre el libro. El presidente Pollo inaugura Ultronic, una supercomputadora ficticia con más de <span class="num">10¹⁷</span> unidades lógicas. Su padre, activista de la «Gran Junta de Conciencia Psíquica», intentó volarla.
 
 <!-- paragraph -->
-El niño Adam, criado casi por máquinas, se atreve a hacer la primera pregunta. La escena anticipa el conflicto del libro. Cuando una máquina supera al cerebro en capacidad, ¿debemos atribuirle mente, sentimientos y responsabilidad moral?
+El niño Adam, criado casi por máquinas, se atreve a hacer la primera pregunta. Entonces la escena anticipa el conflicto del libro: cuando una máquina supera al cerebro en capacidad, ¿debemos atribuirle mente, sentimientos y responsabilidad moral?
 
 <!-- paragraph -->
 El título alude al cuento de Andersen. Creer en la «mente» de la máquina sería como admirar el traje invisible del emperador.
@@ -156,7 +156,7 @@ Esos límites cobran sentido cuando Penrose pregunta si la matemática describe 
 Los <span class="term">números reales</span> (decimales que incluyen irracionales como √2 o π) extienden a racionales e irracionales. Cantor demostró con el argumento diagonal que hay «más» reales que naturales. Los reales no son contables.
 
 <!-- paragraph -->
-Penrose defiende una forma de <span class="term">realismo platónico</span> (la idea de que las verdades matemáticas existen independientemente de nosotros). Los conceptos habitan un mundo ideal accesible por la inteligencia, no inventado arbitrariamente. La pregunta «¿es recursivo el Mandelbrot?» conecta geometría fractal con límites de la computación.
+Penrose defiende una forma de <span class="term">realismo platónico</span> (la idea de que las verdades matemáticas existen independientemente de nosotros). Los conceptos habitan un mundo ideal accesible por la inteligencia, no inventado arbitrariamente. Por eso, la pregunta «¿es recursivo el Mandelbrot?» conecta geometría fractal con límites de la computación.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -332,7 +332,7 @@ Si la física futura puede ser no computable, hay que mirar cómo funciona el ce
 Los experimentos de <span class="term">cerebro dividido</span> (corte del cuerpo calloso entre hemisferios) muestran dos mitades que pueden comportarse casi como individuos separados. El cerebelo ejecuta movimientos aprendidos sin conciencia. El hipocampo fija memorias a largo plazo.
 
 <!-- paragraph -->
-La IA fuerte ve el cerebro como máquina de Turing. Penrose lo disputa. ¿Dónde está el «asiento» de la conciencia? Candidatos: corteza cerebral, tálamo, formación reticular, hipocampo. Penrose es escéptico de atribuir conciencia solo al lenguaje o solo a estructuras «primitivas».
+Sin embargo, la IA fuerte ve el cerebro como máquina de Turing, y Penrose lo disputa. ¿Dónde está el «asiento» de la conciencia? Candidatos: corteza cerebral, tálamo, formación reticular, hipocampo. Penrose es escéptico de atribuir conciencia solo al lenguaje o solo a estructuras «primitivas».
 
 <!-- paragraph -->
 Los microtúbulos neuronales, sugeridos después con Stuart Hameroff, podrían albergar coherencia cuántica a gran escala. Penrose lo explora más adelante.
@@ -359,7 +359,7 @@ Con el mapa cerebral en mano, Penrose pregunta dónde encaja la física de la co
 ¿Qué hace la conciencia que un autómata no puede hacer? Penrose distingue procesos <span class="term">algorítmicos</span> (inconscientes, como en el cerebelo) de juicios <span class="term">no algorítmicos</span> (conscientes: formar juicios nuevos sin reglas prefijadas).
 
 <!-- paragraph -->
-La selección natural actúa sobre el comportamiento observable, no sobre las ideas subyacentes a un algoritmo. No puede «evolucionar» procedimientos que validen otros procedimientos. Eso exige <span class="term">insight</span> (comprensión directa), no mutación ciega. El matemático usa la conciencia para decidir si un algoritmo es el adecuado.
+Por eso, la selección natural actúa sobre el comportamiento observable, no sobre las ideas subyacentes a un algoritmo. No puede «evolucionar» procedimientos que validen otros procedimientos. Eso exige comprensión directa, no mutación ciega. El matemático usa la conciencia para decidir si un algoritmo es el adecuado.
 
 <!-- paragraph -->
 Penrose distingue dos niveles. Procesos inconscientes (cerebelo, reflejos) pueden ser algorítmicos. Juicios conscientes surgen al formar decisiones nuevas sin reglas prefijadas. Un programa que contiene un modelo de otro programa no adquiere comprensión. Una cámara frente a un espejo no se vuelve autoconsciente.
@@ -465,8 +465,8 @@ Ultronic calcula pero no comprende «cómo se siente» —la diferencia que la I
 ## title: La idea central
 
 <!-- closing -->
-La mente consciente no es un algoritmo ejecutándose en hardware biológico.
-Gödel y Turing demuestran límites absolutos de la computación. La física actual, con su parche cuántico R, tampoco basta.
+En suma, la mente consciente no es un algoritmo ejecutándose en hardware biológico.
+Gödel y Turing demuestran límites absolutos de la computación; la física actual, con su parche cuántico R, tampoco basta.
 <!-- highlight -->La conciencia es el emperador desnudo de la IA fuerte: impresionante la pantomima, pero la ropa no existe<!-- /highlight -->
 Comprender la mente exige nueva física, no solo más velocidad de procesador.
 La pregunta «¿cómo se siente?» no admite respuesta algorítmica.

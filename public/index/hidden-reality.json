@@ -11,7 +11,7 @@
       "description": "Burbujas eternas separadas más rápido que la luz; interiores posiblemente infinitos."
     },
     {
-      "title": "Braneworld",
+      "title": "Mundo-rebanada",
       "description": "Universo en una brana; gravedad se filtra por dimensiones extra."
     },
     {
@@ -77,27 +77,27 @@
     },
     {
       "sectionId": "prefacio",
-      "sectionTitle": "Más allá de la apariencia cotidiana",
+      "sectionTitle": "Prefacio",
       "text": "¿Puede la experiencia cotidiana ocultar la naturaleza profunda de la realidad? Para finales del siglo XX, la física ya había mostrado que sí. Brian Greene , físico de cuerdas y divulgador, abre *The Hidden Reality* con esa lección. Anuncia un recorrido accesible hacia una posibilidad que antes parecía ciencia ficción: que nuestro universo no sea el único."
     },
     {
       "sectionId": "prefacio",
-      "sectionTitle": "Más allá de la apariencia cotidiana",
+      "sectionTitle": "Prefacio",
       "text": "El libro no asume dominio previo de relatividad o cuántica e introduce lo necesario sobre la marcha. Tampoco pretende convencer de que vivimos en un multiverso, porque ningún experimento lo ha establecido. Su objetivo es trazar con claridad la cadena de razonamientos que lleva a considerar nueve variedades de realidades paralelas."
     },
     {
       "sectionId": "prefacio",
-      "sectionTitle": "Más allá de la apariencia cotidiana",
+      "sectionTitle": "Prefacio",
       "text": "Greene advierte que algunos tramos finales de capítulos son más técnicos, pero el lector puede saltarlos sin perder continuidad. Las notas al final profundizan para quien tenga formación matemática. El tono es de exploración honesta: especulación informada, no fantasía descontrolada."
     },
     {
       "sectionId": "prefacio",
-      "sectionTitle": "Más allá de la apariencia cotidiana",
+      "sectionTitle": "Prefacio",
       "text": "La física moderna empuja hacia universos paralelos, y el libro mapea ese camino sin afirmar que ya hayamos llegado a la prueba definitiva."
     },
     {
       "sectionId": "prefacio",
-      "sectionTitle": "Más allá de la apariencia cotidiana",
+      "sectionTitle": "Prefacio",
       "text": "Antes de recorrer cada ruta, Greene aclara qué significa hoy la palabra «universo» y por qué nueve caminos distintos convergen en lo paralelo."
     },
     {
@@ -138,7 +138,7 @@
     {
       "sectionId": "cap2",
       "sectionTitle": "Gemelos sin fin",
-      "text": "Entonces habría copias tuyas leyendo este resumen, y variantes casi iguales o radicalmente distintas."
+      "text": "Por eso, en un cosmos infinito deben existir copias tuyas leyendo este resumen, junto con variantes casi iguales o radicalmente distintas."
     },
     {
       "sectionId": "cap2",
@@ -272,32 +272,32 @@
     },
     {
       "sectionId": "cap6",
-      "sectionTitle": "Nueva luz sobre una vieja constante",
+      "sectionTitle": "Nuevo pensamiento sobre una vieja constante",
       "text": "¿Por qué la expansión del universo acelera con una fuerza tan débil? En 1998 , supernovas tipo Ia lejanas mostraron aceleración desde hace ~ 7 mil millones de años. La energía oscura (energía del vacío repulsiva) domina el universo. La constante cosmológica Λ mide ~ 10^-123 en unidades de Planck."
     },
     {
       "sectionId": "cap6",
-      "sectionTitle": "Nueva luz sobre una vieja constante",
+      "sectionTitle": "Nuevo pensamiento sobre una vieja constante",
       "text": "Einstein introdujo Λ en 1917 para un cosmos estático, pero Hubble lo hizo prescindible. La cuántica predice energía del vacío enorme, unas 10^120 veces mayor. Simetrías como la supersimetría intentaban cancelarla a cero. Steven Weinberg sugirió en 1987 un valor pequeño vía razonamiento antrópico: en un multiverso, solo burbujas con Λ baja forman galaxias y vida."
     },
     {
       "sectionId": "cap6",
-      "sectionTitle": "Nueva luz sobre una vieja constante",
+      "sectionTitle": "Nuevo pensamiento sobre una vieja constante",
       "text": "El paisaje de cuerdas (el conjunto de ~10^500 vacíos posibles) combinado con inflación eterna llena el cosmos de burbujas anidadas. Eso define el multiverso paisaje. El «model building» busca vacíos parecidos al nuestro, aunque aún no hay réplica exacta."
     },
     {
       "sectionId": "cap6",
-      "sectionTitle": "Nueva luz sobre una vieja constante",
+      "sectionTitle": "Nuevo pensamiento sobre una vieja constante",
       "text": "Greene pregunta si esto es ciencia. Explica Λ donde la física de vacío falla, pero invoca entidades inaccesibles. Comparar infinitos de universos es difícil. El capítulo siguiente analiza criterios de legitimidad."
     },
     {
       "sectionId": "cap6",
-      "sectionTitle": "Nueva luz sobre una vieja constante",
+      "sectionTitle": "Nuevo pensamiento sobre una vieja constante",
       "text": "Un Λ minúsculo pero no nulo encaja con selección antrópica en un paisaje de ~10^500 vacíos generados por inflación eterna y cuerdas."
     },
     {
       "sectionId": "cap6",
-      "sectionTitle": "Nueva luz sobre una vieja constante",
+      "sectionTitle": "Nuevo pensamiento sobre una vieja constante",
       "text": "Antes de cerrar con cuántica e información, Greene evalúa si invocar multiversos puede seguir siendo ciencia rigurosa."
     },
     {
@@ -332,37 +332,37 @@
     },
     {
       "sectionId": "cap8",
-      "sectionTitle": "Los muchos mundos cuánticos",
+      "sectionTitle": "Los muchos mundos de la medición cuántica",
       "text": "¿Por qué la cuántica predice probabilidades pero nos muestra un solo resultado? El experimento de doble rendija muestra interferencia: cada electrón «siente» ambas rendijas. Max Born interpretó la onda como probabilidad, y la medición parece colapsar la onda a un resultado."
     },
     {
       "sectionId": "cap8",
-      "sectionTitle": "Los muchos mundos cuánticos",
+      "sectionTitle": "Los muchos mundos de la medición cuántica",
       "text": "La interpretación de Copenhague (la lectura estándar que suspende Schrödinger al medir) lo hace de forma ad hoc y mal definida. En 1957 , Hugh Everett propuso en cambio que la ecuación es lineal y universal. Aparato, observador y sistema entran en superposición. Cuando se miden posiciones en superposición, no hay colapso: las ramas coexisten, cada una con un resultado distinto. Eso forma el Multiverso Cuántico (el conjunto de ramas paralelas incoherentes entre sí)."
     },
     {
       "sectionId": "cap8",
-      "sectionTitle": "Los muchos mundos cuánticos",
+      "sectionTitle": "Los muchos mundos de la medición cuántica",
       "text": "Bryce DeWitt popularizó la idea en los 1970 . Aún persisten problemas sobre el origen de probabilidades en Many Worlds. La decoherencia suprime interferencia entre ramas, pero no elige una por sí sola. Para objetos macroscópicos las ondas son ultra-estrechas y recuperan Newton. En lo micro la indeterminación domina."
     },
     {
       "sectionId": "cap8",
-      "sectionTitle": "Los muchos mundos cuánticos",
+      "sectionTitle": "Los muchos mundos de la medición cuántica",
       "text": "Everett pagó el precio académico cuando su tesis fue recortada por John Wheeler tras crítica de Niels Bohr . La interpretación sigue viva entre quienes «toman en serio la ecuación» como Einstein pidió con Maxwell y Schrödinger."
     },
     {
       "sectionId": "cap8",
-      "sectionTitle": "Los muchos mundos cuánticos",
+      "sectionTitle": "Los muchos mundos de la medición cuántica",
       "text": "Seguir la matemática cuántica sin colapso ad hoc implica que cada resultado posible persiste en una rama paralela del multiverso."
     },
     {
       "sectionId": "cap8",
-      "sectionTitle": "Los muchos mundos cuánticos",
+      "sectionTitle": "Los muchos mundos de la medición cuántica",
       "text": "Si Schrödinger gobierna también a observadores, cada medición divide la realidad en ramas paralelas que no se comunican: Many Worlds."
     },
     {
       "sectionId": "cap8",
-      "sectionTitle": "Los muchos mundos cuánticos",
+      "sectionTitle": "Los muchos mundos de la medición cuántica",
       "text": "Otra consecuencia de unir cuántica y gravedad aparece en los agujeros negros: su entropía escala con el área, no con el volumen."
     },
     {
@@ -397,47 +397,47 @@
     },
     {
       "sectionId": "cap10",
-      "sectionTitle": "Universos, computadoras y matemática",
+      "sectionTitle": "Universos, computadoras y realidad matemática",
       "text": "¿Podrían civilizaciones avanzadas crear universos enteros? La inflación sugiere una semilla de ~ 10 gramos de inflatón en ~ 10^-26 cm . Guth y Farhi encontraron que haría falta un agujero blanco (el reverso temporal de un agujero negro) para arrancar la expansión. Ese obstáculo parece prácticamente insuperable."
     },
     {
       "sectionId": "cap10",
-      "sectionTitle": "Universos, computadoras y matemática",
-      "text": "Crear burbujas inflacionarias aisladas dejaría solo un agujero negro aparente en el laboratorio. Eso haría imposible verificar el hijo cósmico. Es más plausible considerar universos simulados (realidades generadas por cómputo con suficiente potencia). El functionalismo sostiene que la mente es procesamiento de información y que no importa si el sustrato es carbono o silicio."
+      "sectionTitle": "Universos, computadoras y realidad matemática",
+      "text": "Crear burbujas inflacionarias aisladas dejaría solo un agujero negro aparente en el laboratorio, así que sería imposible verificar el hijo cósmico. Por eso, es más plausible considerar universos simulados (realidades generadas por cómputo con suficiente potencia). El functionalismo (la idea de que la mente es procesamiento de información) sostiene que no importa si ese procesamiento ocurre en carbono o en silicio."
     },
     {
       "sectionId": "cap10",
-      "sectionTitle": "Universos, computadoras y matemática",
+      "sectionTitle": "Universos, computadoras y realidad matemática",
       "text": "El filósofo Nick Bostrom argumenta que, si las simulaciones conscientes son baratas, la mayoría de seres sintientes serían simulados. Eso sugiere estadísticamente que podríamos estar en uno. Detectarlo sería casi imposible salvo fallos de malla."
     },
     {
       "sectionId": "cap10",
-      "sectionTitle": "Universos, computadoras y matemática",
+      "sectionTitle": "Universos, computadoras y realidad matemática",
       "text": "El físico Max Tegmark lleva al extremo la fe en matemáticas. Postula que toda estructura matemática consistente existe físicamente. En la Biblioteca de Babel o en el experimento mental de Nozick, la realidad sería matemática realizada."
     },
     {
       "sectionId": "cap10",
-      "sectionTitle": "Universos, computadoras y matemática",
+      "sectionTitle": "Universos, computadoras y realidad matemática",
       "text": "**Semilla inflacionaria** — ~10 g, densidad extrema; gravedad repulsiva alimenta energía de materia."
     },
     {
       "sectionId": "cap10",
-      "sectionTitle": "Universos, computadoras y matemática",
+      "sectionTitle": "Universos, computadoras y realidad matemática",
       "text": "**Argumento de Bostrom** — Muchas simulaciones ⇒ probabilidad alta de ser simulado."
     },
     {
       "sectionId": "cap10",
-      "sectionTitle": "Universos, computadoras y matemática",
+      "sectionTitle": "Universos, computadoras y realidad matemática",
       "text": "**Ultimate multiverso** — Cada ecuación consistente = un cosmos."
     },
     {
       "sectionId": "cap10",
-      "sectionTitle": "Universos, computadoras y matemática",
+      "sectionTitle": "Universos, computadoras y realidad matemática",
       "text": "Crear universos «reales» parece bloqueado. Simularlos o postular todos los mundos matemáticos posibles extiende el multiverso al software y a la física platónica."
     },
     {
       "sectionId": "cap10",
-      "sectionTitle": "Universos, computadoras y matemática",
+      "sectionTitle": "Universos, computadoras y realidad matemática",
       "text": "Greene cierra el recorrido preguntando qué nos enseña la historia de la física sobre confiar en las matemáticas hasta el final."
     },
     {

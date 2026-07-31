@@ -224,7 +224,7 @@ export const death: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Las <span class=\"term\">experiencias cercanas a la muerte</span> (relatos de luz, túneles o sensación de salir del cuerpo bajo riesgo vital) no demuestran alma. Pueden interpretarse como fenómenos cerebrales bajo estrés extremo. El <span class=\"term\">problema de la interacción</span> (la dificultad de explicar cómo lo inmaterial mueve lo material) tampoco prueba dualismo. Solo señala una dificultad de la postura dualista sin validarla.",
+          html: "Las <span class=\"term\">experiencias cercanas a la muerte</span> (relatos de luz, túneles o sensación de salir del cuerpo bajo riesgo vital) no demuestran alma. Sin embargo, pueden interpretarse como fenómenos cerebrales bajo estrés extremo. El <span class=\"term\">problema de la interacción</span> (la dificultad de explicar cómo lo inmaterial mueve lo material) tampoco prueba dualismo. Solo señala una dificultad de la postura dualista sin validarla.",
         },
         {
           type: 'paragraph',
@@ -600,7 +600,7 @@ export const death: BookSummary = {
         {
           type: 'paragraph',
           variant: 'lead',
-          html: "¿Cuándo puede tener sentido elegir morir? Podemos controlar, en parte, cuándo termina nuestra vida. La cultura suele ver el suicidio como siempre irracional e inmoral. Kagan pregunta bajo qué condiciones podría tener sentido. Recurre a gráficos de bienestar para mostrar que hay momentos en que estar muerto sería mejor que seguir vivo.",
+          html: "¿Cuándo puede tener sentido elegir morir? Podemos controlar, en parte, cuándo termina nuestra vida. Pero la cultura suele ver el suicidio como siempre irracional e inmoral. Kagan pregunta bajo qué condiciones podría tener sentido. Recurre a gráficos de bienestar para mostrar que hay momentos en que estar muerto sería mejor que seguir vivo.",
         },
         {
           type: 'paragraph',
@@ -608,7 +608,7 @@ export const death: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Kagan formula un <span class=\"term\">principio de consentimiento</span> (criterio moral: suicidio permisible si hay información, competencia, voluntariedad y buenas razones). El suicidio es permisible si la persona está informada, competente, actúa voluntariamente y tiene buenas razones. Los intentos exigen presunción de cautela: hay que preguntarse si la persona piensa con claridad. Esa cautela no equivale a prohibición absoluta.",
+          html: "Kagan formula un <span class=\"term\">principio de consentimiento</span> (criterio moral: suicidio permisible si hay información, competencia, voluntariedad y buenas razones). Por eso los intentos exigen presunción de cautela: hay que preguntarse si la persona piensa con claridad. Esa cautela no equivale a prohibición absoluta.",
         },
         {
           type: 'paragraph',
@@ -771,10 +771,10 @@ export const death: BookSummary = {
     title: "La idea central",
     lines: [
   "La muerte no es un enigma metafísico que exija alma, miedo o desesperación.",
-  "Somos cuerpos que piensan y sienten; morir es dejar de funcionar así.",
-  "La inmortalidad no salvaría el problema: una vida sin fin podría volverse insoportable.",
+  "De hecho, somos cuerpos que piensan y sienten; morir es dejar de funcionar así.",
+  "Además, la inmortalidad no salvaría el problema: una vida sin fin podría volverse insoportable.",
   "El suicidio no es siempre locura ni crimen; a veces es la respuesta racional de quien ha pensado sus razones.",
-  "Lo esencial es examinar las propias creencias, no solo heredarlas."
+  "Por eso lo esencial es examinar las propias creencias, no solo heredarlas."
 ],
     highlight: "Pensar la muerte con rigor secular cambia cómo vivimos, qué tememos y cuándo tiene sentido elegir morir.",
   },

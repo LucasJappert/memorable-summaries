@@ -14,7 +14,7 @@ lang: es
 
 | id | num | label |
 |----|-----|-------|
-| prefacio | 00 | Prólogo |
+| prefacio | 00 | Prueba rápida para gente ocupada |
 | cap1 | 01 | Enfrentar el misterio |
 | cap2 | 02 | Interludio: ¿Un hacker creó nuestro mundo? |
 | cap3 | 03 | Panorama filosófico |
@@ -42,7 +42,7 @@ lang: es
 | cap25 | 25 | Retorno a la nada |
 | cap26 | 26 | Epílogo: Sobre el Sena |
 | conceptos | ✦ | Conceptos clave |
-| cronologia | ◈ | Cronología |
+| cronologia | ◈ | Cronología de ideas y hallazgos |
 | figuras | ✦ | Figuras clave |
 | cierre | — | La idea central |
 
@@ -102,7 +102,7 @@ La primera pista científica desmitifica al Creador tradicional: crear un univer
 ¿Podría un físico de laboratorio fabricar un universo entero? <span class="person">Andrei Linde</span> (cosmólogo, padre de la inflación caótica) explica que bastaría una fracción minúscula de materia para inflar un universo. La gravedad negativa «crea» toda la materia. En principio, una civilización avanzada podría fabricar un universo en laboratorio.
 
 <!-- paragraph -->
-El universo hijo se curvaría sobre sí mismo, invisible desde fuera. Un creador no podría enviar mensajes legibles: la inflación los estiraría exponencialmente. Solo las constantes físicas del «huevo» cósmico podrían codificar una señal para físicos futuros.
+Por eso el universo hijo se curvaría sobre sí mismo, invisible desde fuera. Un creador no podría enviar mensajes legibles: la inflación los estiraría exponencialmente. Solo las constantes físicas del «huevo» cósmico podrían codificar una señal para físicos futuros.
 
 <!-- paragraph -->
 Linde, con humor sombrío, sugiere que nuestro cosmos podría haber sido creado por un físico hacker incompetente. No sería un dios omnisciente. La moraleja que extrae es no asumir que un creador sería divino en el sentido tradicional.
@@ -124,7 +124,7 @@ Antes de entrevistar a los sospechosos, conviene situar la pregunta en la histor
 ¿Es la pregunta «¿por qué hay algo?» tan antigua como parece? <span class="person">William James</span> (filósofo pragmatista) la llamó «la más oscura de la filosofía». <span class="person">Ludwig Wittgenstein</span> (filósofo austriaco) declaró que el enigma no existe (<em>Tractatus</em> 6.5). <span class="person">Martin Heidegger</span> la llamó la más fundamental. Los griegos no preguntaron por la nada absoluta: siempre hubo materia primordial caótica.
 
 <!-- paragraph -->
-La creación <span class="term">ex nihilo</span> (de la nada, sin materia previa) cristiana hizo concebible la nada absoluta. <span class="person">Gottfried Leibniz</span> formuló explícitamente la pregunta en <span class="num">1714</span>. Respondió con Dios como ser necesario. <span class="person">David Hume</span> y <span class="person">Immanuel Kant</span> (filósofos de la Ilustración) atacaron la noción de ser necesario. Nada existe por pura lógica, ni siquiera Dios.
+De ahí que la creación <span class="term">ex nihilo</span> (de la nada, sin materia previa) cristiana hizo concebible la nada absoluta. <span class="person">Gottfried Leibniz</span> formuló explícitamente la pregunta en <span class="num">1714</span>. Respondió con Dios como ser necesario. <span class="person">David Hume</span> y <span class="person">Immanuel Kant</span> (filósofos de la Ilustración) atacaron la noción de ser necesario. Nada existe por pura lógica, ni siquiera Dios.
 
 <!-- paragraph -->
 <span class="person">Henri Bergson</span> (filósofo francés) consideró la pregunta un pseudo-problema. <span class="person">A. J. Ayer</span> (filósofo lógico) la desestimó en el debate con el jesuita <span class="person">Frederick Copleston</span>. <span class="person">Bertrand Russell</span> sostuvo que «el universo simplemente está ahí».
@@ -212,7 +212,7 @@ Aunque alguien disuelva la pregunta, la edad y el destino del cosmos siguen alim
 ¿Hace la finitud del universo la existencia más misteriosa? Nuestro cosmos tiene unos <span class="num">14 mil millones</span> de años. Es un recién llegado frente al cosmos eterno de los antiguos. Puede terminar en Big Crunch o enfríamiento eterno. Esa finitud temporal hace la existencia más contingente, no menos.
 
 <!-- paragraph -->
-Un cosmos eterno parecería más seguro ontológicamente. La cosmología moderna combinó principio temporal con contingencia. El universo podría no haber existido, o haber sido de otro modo.
+Un cosmos eterno parecería más seguro ontológicamente. Pero la cosmología moderna combinó principio temporal con contingencia. El universo podría no haber existido, o haber sido de otro modo.
 
 <!-- paragraph -->
 La tensión entre universo finito y multiverso eterno alimenta el resto del libro. ¿La explicación está en el origen o en la abundancia de mundos?
@@ -278,7 +278,7 @@ Pero explicar el universo con Dios puede desplazar el misterio un nivel arriba.
 La tradición teológica responde con <span class="term">causa sui</span> (causa de sí mismo) y ser necesario. Dios contendría en su esencia la razón de su existencia. <span class="person">Tomás de Aquino</span> y <span class="person">Anselmo de Canterbury</span> ofrecen vías distintas hacia lo necesario.
 
 <!-- paragraph -->
-Holt examina si «necesario» es truco ontológico o insight profundo. La nada, paradójicamente, parece más simple que un Dios repleto de perfecciones infinitas.
+Holt examina si «necesario» es truco ontológico o comprensión profunda. La nada, paradójicamente, parece más simple que un Dios repleto de perfecciones infinitas.
 
 <!-- key -->
 Explicar el universo con Dios puede solo desplazar el misterio un nivel arriba.
@@ -297,7 +297,7 @@ Otra respuesta científico-filosófica multiplica el ser en lugar de explicarlo 
 ¿Puede la física eliminar la contingencia del universo? <span class="person">David Deutsch</span> (pionero de la computación cuántica) cree que la realidad es en principio totalmente comprensible. Su multiverso cuántico elimina la contingencia: todo lo posible sucede.
 
 <!-- paragraph -->
-Deutsch sostiene que la física no termina en hecho bruto. Las explicaciones buenas son difíciles de variar. El universo que observamos es una rama entre infinitas en la interpretación de muchos mundos.
+Deutsch sostiene que la física no termina en hecho bruto. Por eso las explicaciones buenas son difíciles de variar. El universo que observamos es una rama entre infinitas en la interpretación de muchos mundos.
 
 <!-- paragraph -->
 Holt pregunta si el multiverso explica por qué hay algo o solo postula «mucho más algo». Deutsch responde que la pregunta mal formulada asume que la nada era opción coherente.
@@ -341,7 +341,7 @@ Los físicos prometen responder el porqué con cosmología, no solo con metafís
 Holt cuestiona si el vacío cuántico es verdaderamente «nada» o un estado físico con leyes ya dadas. Crear un universo «gratis» requiere asumir mecánica cuántica, gravedad y energía oscura. No es partir de cero absoluto.
 
 <!-- paragraph -->
-La frontera entre cosmología y metafísica se desdibuja. Los físicos ofrecen historias causales. Los filósofos piden por qué hay leyes que permiten el salto.
+Por tanto, la frontera entre cosmología y metafísica se desdibuja. Los físicos ofrecen historias causales. Los filósofos piden por qué hay leyes que permiten el salto.
 
 <!-- key -->
 El «universo de la nada» física no es la nada filosófica que Leibniz tenía en mente.
@@ -360,7 +360,7 @@ En Texas, Holt siente el misterio en el estómago, no solo en las ecuaciones.
 ¿Puede el absurdo del ser sentirse antes que demostrarse? Holt llega a Austin, Texas, en calor húmedo. La ciudad bulle con música. Recuerda a <span class="person">Jean-Paul Sartre</span> y la <em>Náusea</em>: la existencia gratuita, el roble que sangra, el absurdo del de más.
 
 <!-- paragraph -->
-La experiencia existencial de Sartre muestra que el ser no tiene razón. Eso contrasta con la búsqueda de Holt por una razón lógica. A veces el misterio se siente en el estómago, no en ecuaciones.
+La experiencia existencial de Sartre muestra que el ser no tiene razón. Eso contrasta con la búsqueda de Holt por una razón lógica. Por eso a veces el misterio se siente en el estómago, no en ecuaciones.
 
 <!-- key -->
 Sartre personifica la intuición de que el ser es contingente y nauseabundo, no necesario.
@@ -423,7 +423,7 @@ Otra vía no teísta ni materialista busca la respuesta en las matemáticas.
 Holt explora si las estructuras matemáticas podrían explicar la existencia sin Dios. Si el universo es modelo matemático consistente, ¿por qué este y no otros?
 
 <!-- paragraph -->
-El platonismo explica abundancia de formas, no por qué hay instanciación física. Pope burló el vuelo de misterio a matemáticas: «en vano miran, se marean, deliran y mueren».
+El platonismo explica abundancia de formas, pero no por qué hay instanciación física. Pope burló el vuelo de misterio a matemáticas: «en vano miran, se marean, deliran y mueren».
 
 <!-- key -->
 Las matemáticas describen posibilidades. El salto a existencia concreta sigue sin resolver.
@@ -546,7 +546,7 @@ John Updike responde con asombro poético, no con lógica.
 ¿Basta el asombro como respuesta vital? <span class="person">John Updike</span> (novelista estadounidense) responde con una postal densa. La existencia es, para él, «un poco de verso ligero» en el vacío. El novelista ve el cosmos con asombro lúdico, no con ansiedad lógica.
 
 <!-- paragraph -->
-Updike, de tinte barthiano, desconfía de demostrar a Dios con ciencia. Cruzar el abismo entre nada y algo parece tan exigente como aceptar la inflación cósmica «con una sonrisa y un lustre de zapatos». Dios creó el mundo «in play», en juego, no por acedia divina.
+Updike, de tinte barthiano, desconfía de demostrar a Dios con ciencia. Por eso cruzar el abismo entre nada y algo parece tan exigente como aceptar la inflación cósmica «con una sonrisa y un lustre de zapatos». Dios creó el mundo «in play», en juego, no por acedia divina.
 
 <!-- paragraph -->
 Holt contrasta la prosa del físico con la metáfora del poeta. Updike admite que la pregunta puede ser permanente, más allá de las capacidades del «cerebro reptiliano» humano. El asombro basta como respuesta vital.
@@ -612,7 +612,7 @@ El epílogo devuelve a Holt a París, donde la ciudad continúa sin garantía de
 ¿Cómo cierra un detective existencial un caso sin resolver? París, fin de milenio. Fiesta por el nonagésimo cumpleaños de <span class="person">Claude Lévi-Strauss</span> (antropólogo francés) en el Collège de France. Holt sube por la Rue Saint-Jacques hacia el Sena.
 
 <!-- paragraph -->
-Entre Place Maubert y el río, la ciudad continúa, como el universo, sin garantía de sentido último. La investigación termina sin cierre policial: el detective existencial sigue con la pregunta abierta.
+Entre Place Maubert y el río, la ciudad continúa, como el universo, sin garantía de sentido último. Por eso la investigación termina sin cierre policial: el detective existencial sigue con la pregunta abierta.
 
 <!-- paragraph -->
 Lévi-Strauss, antropólogo del mito y la estructura, representa otra forma de honrar el misterio: narrarlo, no liquidarlo.

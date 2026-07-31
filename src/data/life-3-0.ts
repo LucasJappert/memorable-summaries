@@ -30,7 +30,7 @@ export const life30: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Si una máquina ultrainteligente puede diseñar mejores máquinas, se desata una recursividad sin límite aparente. El viernes de lanzamiento, Prometheus <span class=\"num\">2.0</span> apenas mejora a la versión anterior. Al mediodía, la <span class=\"num\">5.0</span> supera todos los benchmarks. Al anochecer lanzan la <span class=\"num\">10.0</span> para la fase 2: ganar dinero.",
+          html: "Si una máquina ultrainteligente puede diseñar mejores máquinas, se desata una recursividad sin límite aparente. El viernes de lanzamiento, Prometheus <span class=\"num\">2.0</span> apenas mejora a la versión anterior. Al mediodía, la <span class=\"num\">5.0</span> supera todas las pruebas de referencia estándar. Al anochecer lanzan la <span class=\"num\">10.0</span> para la fase 2: ganar dinero.",
         },
         {
           type: 'paragraph',
@@ -171,7 +171,7 @@ export const life30: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El <span class=\"term\">aprendizaje por refuerzo profundo</span> (entrenar una IA con recompensas en simulación) permite que DeepMind enseñe a una IA a jugar <em>Breakout</em> desde cero. Después de horas de entrenamiento, descubre la estrategia óptima de perforar la pared izquierda. La misma técnica domina <span class=\"num\">49</span> juegos Atari.",
+          html: "El <span class=\"term\">aprendizaje por refuerzo profundo</span> (entrenar una IA con recompensas en simulación) permite que DeepMind enseñe a una IA a jugar <em>Breakout</em> desde cero. Después de horas de entrenamiento, descubre la estrategia óptima de perforar la pared izquierda. Además, la misma técnica domina <span class=\"num\">49</span> juegos Atari.",
         },
         {
           type: 'paragraph',
@@ -306,7 +306,7 @@ export const life30: BookSummary = {
         },
         {
           type: 'key',
-          html: "Sin responder qué futuro queremos, es improbable conseguirlo. Las preferencias colectivas moldean el desenlace de la carrera hacia la AGI.",
+          html: "Sin responder qué futuro queremos, es improbable conseguirlo: la indiferencia colectiva deja el resultado al azar.",
         },
         {
           type: 'paragraph',
@@ -330,7 +330,7 @@ export const life30: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La vida ambiciosa empujará la tecnología al máximo para explotar recursos. La selección natural cósmica favorecerá civilizaciones expansivas. El físico <span class=\"person\">Freeman Dyson</span> propuso en <span class=\"num\">1960</span> la esfera de Dyson: reordenar Júpiter en una cáscara alrededor del Sol. Eso permitiría cien mil millones de veces más biomasa y un billón de veces más energía que la humanidad actual usa.",
+          html: "Por eso, la vida ambiciosa empujará la tecnología al máximo para explotar recursos. La selección natural cósmica favorecerá civilizaciones expansivas. El físico <span class=\"person\">Freeman Dyson</span> propuso en <span class=\"num\">1960</span> la esfera de Dyson: reordenar Júpiter en una cáscara alrededor del Sol. Eso permitiría cien mil millones de veces más biomasa y un billón de veces más energía que la humanidad actual usa.",
         },
         {
           type: 'paragraph',
@@ -431,7 +431,7 @@ export const life30: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Define <span class=\"term\">conciencia</span> como experiencia subjetiva: si se siente algo ser tú ahora, eres consciente. No requiere comportamiento, autoconciencia ni emociones. <span class=\"person\">David Chalmers</span> distingue problemas «fáciles» (cómo el cerebro procesa información) del <span class=\"term\">problema difícil</span> (por qué hay experiencia subjetiva en absoluto).",
+          html: "Define <span class=\"term\">conciencia</span> como experiencia subjetiva: si se siente algo ser tú ahora, eres consciente. De hecho, no requiere comportamiento, autoconciencia ni emociones. <span class=\"person\">David Chalmers</span> distingue problemas «fáciles» (cómo el cerebro procesa información) del <span class=\"term\">problema difícil</span> (por qué hay experiencia subjetiva en absoluto).",
         },
         {
           type: 'paragraph',
@@ -612,7 +612,7 @@ export const life30: BookSummary = {
     title: "La idea central",
     lines: [
   "La llegada de la Vida 3.0 no es inevitable ni intrínsecamente buena o mala.",
-  "Es el resultado de decisiones humanas que estamos tomando ahora.",
+  "Por eso, es el resultado de decisiones humanas que estamos tomando ahora.",
   "Tegmark no predice fechas: el rango de escenarios va de utopías cósmicas a extinción.",
   "La sabiduría debe acelerar al mismo ritmo que el poder tecnológico.",
   "El destino de la vida en el universo podría depender de lo que hagamos en nuestra generación."

@@ -21,7 +21,7 @@ export const consciousnessExplained: BookSummary = {
   {
     "id": "prefacio",
     "num": "00",
-    "label": "Preludio: ¿cómo son posibles las alucinaciones?"
+    "label": "¿Cómo son posibles las alucinaciones?"
   },
   {
     "id": "cap1",
@@ -173,7 +173,7 @@ export const consciousnessExplained: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Dennett recorre el «fenom». Hay experiencias del mundo externo, del interno y de los afectos. Muestra que lo «directo» está mediado. Saboreamos con la nariz. El tacto con una varilla se siente en la punta. La vista periférica es borrosa aunque parezca uniforme.",
+          html: "Dennett recorre la fenomenología cotidiana. Hay experiencias del mundo externo, del interno y de los afectos. Pero lo «directo» está mediado. Saboreamos con la nariz y el tacto con una varilla se siente en la punta. La vista periférica, además, es borrosa aunque parezca uniforme.",
         },
         {
           type: 'paragraph',
@@ -257,7 +257,7 @@ export const consciousnessExplained: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "En el <span class=\"term\">conejo cutáneo</span>, o sea ilusión táctil de Geldard, toques en muñeca y brazo se sienten como un animal saltando equidistantemente. Físicamente están agrupados. La intuición teatral diría que el cerebro espera todos los toques antes de proyectar. El modelo de borradores dice que la interpretación se consolida después y borra borradores parciales.",
+          html: "En el <span class=\"term\">conejo cutáneo</span>, o sea ilusión táctil de Geldard, toques en muñeca y brazo se sienten como un animal saltando equidistantemente. Físicamente, sin embargo, están agrupados. La intuición teatral diría que el cerebro espera todos los toques antes de proyectar. El modelo de borradores, en cambio, dice que la interpretación se consolida después y borra borradores parciales.",
         },
         {
           type: 'paragraph',
@@ -285,11 +285,11 @@ export const consciousnessExplained: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Dennett invierte la estrategia. Reconstruye desde abajo con <span class=\"person\">Valentino Braitenberg</span> y sus Vehicles, máquinas simples cuya conducta se entiende mejor sintetizando que analizando. La ley «análisis cuesta arriba, síntesis cuesta abajo» aplica a mentes.",
+          html: "Dennett invierte la estrategia y reconstruye desde abajo con <span class=\"person\">Valentino Braitenberg</span> y sus Vehicles, máquinas simples cuya conducta se entiende mejor sintetizando que analizando. La ley «análisis cuesta arriba, síntesis cuesta abajo» aplica también a las mentes.",
         },
         {
           type: 'paragraph',
-          html: "No hubo «primer mamífero» ni salto absoluto a conciencia plena. Hubo transiciones graduales y coaliciones de control. La cultura y los <span class=\"term\">memes</span>, o sea unidades culturales replicantes, amplían lo biológico. Evitar esencialismo prepara ver el lenguaje como transformador clave.",
+          html: "Por eso no hubo «primer mamífero» ni salto absoluto a conciencia plena. Hubo transiciones graduales y coaliciones de control. Además, la cultura y los <span class=\"term\">memes</span>, o sea unidades culturales replicantes, amplían lo biológico. Evitar esencialismo prepara ver el lenguaje como transformador clave.",
         },
         {
           type: 'key',
@@ -313,7 +313,7 @@ export const consciousnessExplained: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Helen Keller</span> describió que antes del lenguaje no sabía que existía un «yo». La conciencia humana madura bajo presión comunicativa. El modelo burocrático de Levelt esconde un homúnculo con contenido ya determinado.",
+          html: "<span class=\"person\">Helen Keller</span> describió que antes del lenguaje no sabía que existía un «yo». Por eso la conciencia humana madura bajo presión comunicativa. El modelo burocrático de Levelt, en cambio, esconde un homúnculo con contenido ya determinado.",
         },
         {
           type: 'paragraph',
@@ -341,11 +341,11 @@ export const consciousnessExplained: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Dennett resume la arquitectura. No hay flujo único sino canales paralelos de especialistas que forman borradores. Una <span class=\"term\">máquina virtual joyceana</span>, o sea serialidad emergente tipo von Neumann, surge de coaliciones. Miles de memes habitan el cerebro individual.",
+          html: "Dennett resume la arquitectura: no hay flujo único sino canales paralelos de especialistas que forman borradores. De ahí surge una <span class=\"term\">máquina virtual joyceana</span>, o sea serialidad emergente tipo von Neumann, a partir de coaliciones. Miles de memes habitan el cerebro individual.",
         },
         {
           type: 'paragraph',
-          html: "Especialistas animales se reclutan para tareas humanas como leer. La serialidad consciente es efecto de coalición, no de jefe único. Este esbozo cierra la Parte II y prepara objeciones sobre imagen mental, blindsight, qualia y robots.",
+          html: "Además, especialistas animales se reclutan para tareas humanas como leer. La serialidad consciente es efecto de coalición, no de jefe único. Este esbozo cierra la Parte II y prepara objeciones sobre imagen mental, blindsight, qualia y robots.",
         },
         {
           type: 'key',
@@ -369,11 +369,11 @@ export const consciousnessExplained: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Roger Shepard</span> mostró que rotar figuras 3D en la mente lleva tiempo proporcional al ángulo — como si hubiera un escenario. Dennett argumenta que eso muestra procesos distribuidos accesibles indirectamente, no un observador cartesiano mirando pantallas internas.",
+          html: "<span class=\"person\">Roger Shepard</span> mostró que rotar figuras 3D en la mente lleva tiempo proporcional al ángulo — como si hubiera un escenario. Dennett argumenta, sin embargo, que eso muestra procesos distribuidos accesibles indirectamente, no un observador cartesiano mirando pantallas internas.",
         },
         {
           type: 'paragraph',
-          html: "La Parte III responde objeciones que conservan hábitos teatrales. Invocan comprensión en un sitio único, testigo que valida y qualia como datos crudos.",
+          html: "Por eso la Parte III responde objeciones que conservan hábitos teatrales: invocan comprensión en un sitio único, testigo que valida y qualia como datos crudos.",
         },
         {
           type: 'key',
@@ -425,11 +425,11 @@ export const consciousnessExplained: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Dennett propone abandonar el enredo filosófico de qualia. Otto insiste en su rosa ocurrencial pura. La respuesta es que eso es su complejo de <span class=\"term\">disposiciones reactivas</span>, o sea tendencias del sistema nervioso, no propiedad separada.",
+          html: "Dennett propone abandonar el enredo filosófico de qualia. Otto insiste en su rosa ocurrencial pura. Sin embargo, eso no es una propiedad separada: es su complejo de <span class=\"term\">disposiciones reactivas</span>, o sea tendencias del sistema nervioso.",
         },
         {
           type: 'paragraph',
-          html: "El espectro invertido no es verificable sin cambiar todas las disposiciones. Disfrutar vino o Bach no es recibir qualia. Es ser informado por asociaciones evolutivas y meméticas. Invocar qualia como causa del goce es <span class=\"term\">virtus dormitiva</span>, o sea nombrar el misterio sin explicarlo.",
+          html: "Además, el espectro invertido no es verificable sin cambiar todas las disposiciones. Disfrutar vino o Bach no es recibir qualia: es ser informado por asociaciones evolutivas y meméticas. Invocar qualia como causa del goce es <span class=\"term\">virtus dormitiva</span>, o sea nombrar el misterio sin explicarlo.",
         },
         {
           type: 'key',
@@ -453,11 +453,11 @@ export const consciousnessExplained: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Hume</span> no encontró yo al introspectarse. <span class=\"person\">Leibniz</span> no vio percepción en el molino ampliado. Dennett define el yo como <span class=\"term\">Centro de Gravedad Narrativo</span>, o sea abstracción estable como centro de gravedad en física. El trastorno de personalidad múltiple muestra selves fragmentarios bajo abuso extremo.",
+          html: "<span class=\"person\">Hume</span> no encontró yo al introspectarse y <span class=\"person\">Leibniz</span> no vio percepción en el molino ampliado. Por eso Dennett define el yo como <span class=\"term\">Centro de Gravedad Narrativo</span>, o sea abstracción estable como centro de gravedad en física. El trastorno de personalidad múltiple muestra, además, selves fragmentarios bajo abuso extremo.",
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Derek Parfit</span> compara personas con clubes que pueden disolverse y reconstituirse. Las gemelas Chaplin coordinan tan estrechamente que hablar de un «ellos» tiene sentido. No hay número mágico de selves por cuerpo.",
+          html: "<span class=\"person\">Derek Parfit</span> compara personas con clubes que pueden disolverse y reconstituirse. Las gemelas Chaplin coordinan tan estrechamente que hablar de un «ellos» tiene sentido. No hay, entonces, número mágico de selves por cuerpo.",
         },
         {
           type: 'key',
@@ -481,7 +481,7 @@ export const consciousnessExplained: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Negar robots conscientes confunde imaginar R2D2 con imaginar mecanismos. Silicio programado como cerebro humano tendría self como Centro de Gravedad Narrativo. Para murciélagos, la heterofenomenología sin texto es difícil pero posible. Estudia Umwelt y discriminaciones sin exigir teatro interior.",
+          html: "Negar robots conscientes confunde imaginar R2D2 con imaginar mecanismos. Silicio programado como cerebro humano tendría self como Centro de Gravedad Narrativo. Para murciélagos, la heterofenomenología sin texto es difícil pero posible. Estudia el <span class=\"term\">Umwelt</span>, o sea el mundo percibido del animal, y sus discriminaciones sin exigir teatro interior.",
         },
         {
           type: 'paragraph',
@@ -625,9 +625,9 @@ export const consciousnessExplained: BookSummary = {
     lines: [
   "La conciencia no es un espectáculo proyectado para un yo interior inmaterial.",
   "Es edición distribuida de borradores cerebrales, moldeada por evolución, lenguaje y cultura.",
-  "Demistificar no empobrece la experiencia; reemplaza misterio vacío por mecanismos investigables.",
+  "Por eso demistificar no empobrece la experiencia; reemplaza misterio vacío por mecanismos investigables.",
   "El yo y los qualia sobreviven como abstracciones útiles, no como sustancias ocultas en el cráneo.",
-  "Entender esto cambia cómo pensamos animales, máquinas y sufrimiento — sin volver al dualismo."
+  "Entender esto cambia, además, cómo pensamos animales, máquinas y sufrimiento — sin volver al dualismo."
 ],
     highlight: "No hay teatro cartesiano: hay procesos paralelos que fijan contenido sin testigo central",
   },

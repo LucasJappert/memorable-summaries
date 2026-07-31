@@ -16,7 +16,7 @@ export const livewired: BookSummary = {
   {
     "id": "prefacio",
     "num": "00",
-    "label": "Epígrafe"
+    "label": "Nacer como muchos, morir como uno"
   },
   {
     "id": "cap1",
@@ -86,7 +86,7 @@ export const livewired: BookSummary = {
   {
     "id": "cronologia",
     "num": "◈",
-    "label": "Cronología"
+    "label": "Cronología de hitos citados"
   },
   {
     "id": "figuras",
@@ -304,7 +304,7 @@ export const livewired: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "<span class=\"person\">Matt Stutzman</span>, sin brazos, es el mejor arquero del mundo usando los pies. <span class=\"person\">Faith</span>, la perra sin patas delanteras, camina bípeda. Sus cerebros caninos no evolucionaron con ruedas ni olas. El <span class=\"term\">motor babbling</span> (exploración motora aleatoria que compara movimiento y feedback) esculpe mapas nuevos en esos casos. Sir Blake patina y Sugar surfea con el mismo principio.",
+          html: "<span class=\"person\">Matt Stutzman</span>, sin brazos, es el mejor arquero del mundo usando los pies. <span class=\"person\">Faith</span>, la perra sin patas delanteras, camina bípeda. Sus cerebros caninos no evolucionaron con ruedas ni olas. El <span class=\"term\">motor babbling</span> (exploración motora aleatoria que compara movimiento y retroalimentación) esculpe mapas nuevos en esos casos. Sir Blake patina y Sugar surfea con el mismo principio.",
         },
         {
           type: 'paragraph',
@@ -512,7 +512,7 @@ export const livewired: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Somos «cambiapieles». El yo de hace años puede parecer un extraño leyendo su diario. La identidad es trayectoria de reconfiguraciones, no esencia grabada en genes. Eagleman resume siete principios que recorren el libro. El cerebro refleja el mundo. Envuelve entradas nuevas. Conduce cualquier maquinaria. Retiene lo relevante. Fija lo estable. Compite o muere. Se mueve hacia los datos.",
+          html: "Por eso somos «cambiapieles»: el yo de hace años puede parecer un extraño leyendo su diario. La identidad es trayectoria de reconfiguraciones, no esencia grabada en genes. Eagleman resume siete principios que recorren el libro. El cerebro refleja el mundo. Envuelve entradas nuevas. Conduce cualquier maquinaria. Retiene lo relevante. Fija lo estable. Compite o muere. Se mueve hacia los datos.",
         },
         {
           type: 'paragraph',
@@ -638,8 +638,8 @@ export const livewired: BookSummary = {
   closing: {
     title: "La idea central",
     lines: [
-  "La naturaleza no escribió firmware cerrado.",
-  "Escribió reglas para que el cerebro se reescriba con la experiencia.",
+  "Así, la naturaleza no escribió firmware cerrado.",
+  "Por eso escribió reglas para que el cerebro se reescriba con la experiencia.",
   "Sustituir sentidos o perder medio cerebro no agota el mundo interior.",
   "Las máquinas del futuro deberían livewirearse, no solo ejecutar código.",
   "Leer estas líneas ya te cambió. Ese es el punto del libro."

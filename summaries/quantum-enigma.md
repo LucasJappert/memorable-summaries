@@ -135,7 +135,10 @@ El siglo XIX amplió ese marco con luz y campos, y allí apareció la primera gr
 ## title: El resto de la física clásica
 
 <!-- paragraph lead -->
-¿Cómo la luz preparó el terreno para la cuántica? Antes de ella, el siglo XIX consolidó una imagen del mundo en términos de <span class="term">campos</span> (influencias que llenan el espacio, como un imán). También usó <span class="term">ondas</span> (perturbaciones que se propagan) y <span class="term">energía</span> (capacidad de producir cambio o movimiento). La historia de la luz es central. Thomas Young demostró interferencia y naturaleza ondulatoria. James Clerk Maxwell unificó electricidad y magnetismo en ondas electromagnéticas.
+¿Cómo la luz preparó el terreno para la cuántica? Antes de ella, el siglo XIX describió el mundo con <span class="term">campos</span> (influencias que llenan el espacio, como un imán).
+
+<!-- paragraph -->
+También usó <span class="term">ondas</span> (perturbaciones que se propagan) y la <span class="term">energía</span> (capacidad de producir cambio o movimiento) como magnitudes centrales. La historia de la luz es el caso más decisivo. <span class="person">Thomas Young</span> demostró interferencia y naturaleza ondulatoria. <span class="person">James Clerk Maxwell</span> unificó electricidad y magnetismo en ondas electromagnéticas.
 
 <!-- paragraph -->
 La radiación del cuerpo negro exhibía la catástrofe ultravioleta: la física clásica predecía energía infinita en frecuencias altas. La luz parecía onda, pero también corpúsculo. Esa dualidad no quedó confinada a la luz. El físico <span class="person">Louis de Broglie</span> propuso que toda materia tiene longitud de onda λ = h/p.
@@ -218,7 +221,7 @@ Antes de abrir el armario filosófico, los autores muestran por qué la cuántic
 El <span class="term">láser</span> (un haz de luz amplificado por emisión estimulada) mezcla fotones compactos y ondas extendidas. Sus espejos deben espaciarse en múltiplos de media longitud de onda. El <span class="term">transistor</span> (el interruptor electrónico que hizo posibles los chips) revolucionó la electrónica. Los electrones de valencia se extienden por todo el cristal de silicio como ondas, aunque los ingenieros los traten también como partículas localizadas según convenga.
 
 <!-- paragraph -->
-La <span class="term">resonancia magnética</span> (imagen médica por campos magnéticos, la MRI) pone núcleos de hidrógeno en superposición de estados magnéticos y lee la radiación de retorno. La precisión del cálculo del momento magnético del electrón alcanza una parte en un billón. Los ingenieros cultivan una «esquizofrenia benigna»: onda o partícula según el problema, sin enfrentar el enigma.
+La <span class="term">resonancia magnética</span> (imagen médica por campos magnéticos, la MRI) pone núcleos de hidrógeno en superposición de estados magnéticos y lee la radiación de retorno. La precisión del cálculo del momento magnético del electrón alcanza una parte en un billón. Por eso también apunta la computación cuántica, que explota superposición para resolver problemas intratables. Los ingenieros cultivan una «esquizofrenia benigna»: onda o partícula según el problema, sin enfrentar el enigma.
 
 <!-- big-numbers -->
 | value | label |
@@ -313,7 +316,7 @@ John Bell convirtió esa disputa filosófica en una predicción que se puede pro
 Los experimentos con fotones gemelos de <span class="person">Alain Aspect</span> y otros violaron la desigualdad. Nuestro mundo no puede tener simultáneamente realidad local y separabilidad. Las «interacciones fantasmales» de Einstein existen: objetos que interactuaron siguen influyéndose instantáneamente, aunque no permiten enviar información más rápida que la luz.
 
 <!-- paragraph -->
-Bell advirtió contra la trampa FAPP («for all practical purposes»): aceptar soluciones pragmáticas que evaden el fondo del problema. Su teorema es quizá el descubrimiento más profundo de la segunda mitad del siglo XX en ciencia. Confirmó que la negación einsteniana de la cuántica completa no puede salvarse con variables ocultas locales.
+Por eso Bell advirtió contra la trampa FAPP («for all practical purposes»): aceptar soluciones pragmáticas que evaden el fondo del problema. Su teorema es quizá el descubrimiento más profundo de la segunda mitad del siglo XX en ciencia. Confirmó que la negación einsteiniana de la cuántica completa no puede salvarse con variables ocultas locales.
 
 <!-- key -->
 Bell convirtió el <span class="key-term">realismo local</span> en predicción experimental, y la naturaleza violó su desigualdad.
@@ -364,7 +367,7 @@ Para unir ambos misterios, hay que preguntar qué es la conciencia en primer lug
 La física newtoniana es determinista. Un ojo que todo lo ve podría predecir el futuro sin dejar lugar al libre albedrío. La cuántica introduce azar, pero el azar no es elección libre. El filósofo <span class="person">David Chalmers</span> formuló el <span class="term">problema difícil</span> (por qué hay experiencia subjetiva además de procesos cerebrales). <span class="person">Francis Crick</span> redujo la conciencia a actividad neuronal, y Chalmers niega que los correlatos neurales basten.
 
 <!-- paragraph -->
-Desde el filósofo <span class="person">George Berkeley</span> (esse est percipi) hasta el behaviorismo y el test de Turing, la mente fue ignorada o reducida. Hoy la neuroimagen (fMRI, PET) correlaciona actividad cerebral con reportes de experiencia, pero no explica el qualia. El problema difícil de la conciencia parece paralelo al problema difícil de la observación cuántica.
+Desde el filósofo <span class="person">George Berkeley</span> (esse est percipi) hasta el behaviorismo y el test de Turing, la mente fue ignorada o reducida. Hoy la neuroimagen (fMRI, PET) correlaciona actividad cerebral con reportes de experiencia, pero no explica el <span class="term">qualia</span> (la cualidad subjetiva de lo que se siente). Los experimentos de <span class="person">Benjamin Libet</span> sobre el potencial de readiness sugieren que el cerebro inicia la acción antes del reporte consciente de decidir. Aun así, el resultado es ambiguo como prueba contra el libre albedrío. El problema difícil de la conciencia parece paralelo al problema difícil de la observación cuántica.
 
 <!-- key -->
 El <span class="key-term">problema difícil</span> de la conciencia y el libre albedrío son paralelos al enigma cuántico de la observación.

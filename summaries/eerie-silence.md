@@ -27,7 +27,7 @@ lang: es
 | cap9 | 09 | Primer contacto |
 | cap10 | 10 | ¿Quién habla por la Tierra? |
 | conceptos | ✦ | Conceptos clave |
-| cronologia | ◈ | Cronología |
+| cronologia | ◈ | Cronología del SETI y del libro |
 | figuras | ✦ | Figuras clave |
 
 ---
@@ -38,7 +38,7 @@ lang: es
 
 <!-- closing -->
 
-El silencio de cincuenta años no cierra la pregunta: puede significar que miramos mal, que somos raros o que la inteligencia se apaga pronto.
+Por eso, el silencio de cincuenta años no cierra la pregunta: puede significar que miramos mal, que somos raros o que la inteligencia se apaga pronto.
 Davies pide un SETI más amplio y menos humano, y reconoce tres futuros distintos según lo que encontremos fuera de la Tierra.
 
 <!-- highlight -->Probablemente estamos solos en el universo observable — pero no lo sabemos, y por eso hay que seguir buscando.<!-- /highlight -->
@@ -61,7 +61,7 @@ Si somos únicos con inteligencia, cargamos una responsabilidad cósmica.
 La radioastronomía nació casi por accidente. En 1931, <span class="person">Karl Jansky</span> detectó un fondo que seguía las estrellas. Décadas después, <span class="person">Giuseppe Cocconi</span> y <span class="person">Philip Morrison</span> propusieron buscar señales alienígenas. <span class="person">Frank Drake</span> inició el SETI con el Proyecto Ozma en 1960. El autor admira a esos pioneros, pero no quiere un libro complaciente.
 
 <!-- paragraph -->
-El SETI es más especulativo que la ciencia convencional, así que Davies separa hechos, extrapolaciones razonables y fantasía inspirada en la ciencia ficción. El taller «The Sound of Silence» en Arizona State University (<span class="num">2008</span>) alimentó las ideas de «nuevo SETI» que desarrolla el libro. Davies preside el SETI Post-Detection Taskgroup y también piensa en qué haríamos si la señal llegara mañana.
+El SETI es más especulativo que la ciencia convencional, así que Davies separa hechos, extrapolaciones razonables y fantasía inspirada en la ciencia ficción. El taller «El sonido del silencio» en la Universidad Estatal de Arizona (<span class="num">2008</span>) alimentó las ideas de «nuevo SETI» que desarrolla el libro. Davies preside el SETI Post-Detection Taskgroup y también piensa en qué haríamos si la señal llegara mañana.
 
 <!-- key -->
 Cincuenta años de silencio son una invitación a revisar supuestos, no a rendirse ni a autoplagiarse.
@@ -134,7 +134,7 @@ La prueba más cercana de ese imperativo podría estar oculta en nuestra propia 
 Varios orígenes de vida en la Tierra implicarían un universo casi seguro rebosante de biología. Toda la biología conocida comparte ADN, ribosomas y el mismo código genético triplete. Forman un solo <span class="term">árbol de la vida</span>, el mapa de parentesco entre especies. La mayoría de microbios no se cultivan en laboratorio. Nuestras técnicas detectan solo «vida como la conocemos». Podría existir una <span class="term">biosfera sombra</span>, es decir, formas de «vida rara» de origen independiente aún en la Tierra.
 
 <!-- paragraph -->
-Una estrategia es buscar en nichos extremos donde la vida estándar no llega. <span class="person">Felisa Wolfe-Simon</span> busca arsenicófilos en Mono Lake. Otros prueban vida espejo con quiralidad opuesta o aminoácidos no usados por nosotros. Diferenciar un cuarto «arbusto» evolutivo de un segundo árbol exige química fina. Un segundo origen en la Tierra sería el hallazgo biológico más sensacional y confirmaría el imperativo cósmico.
+Por eso, una estrategia es buscar en nichos extremos donde la vida estándar no llega. <span class="person">Felisa Wolfe-Simon</span> busca arsenicófilos en Mono Lake. Otros prueban vida espejo con quiralidad opuesta o aminoácidos no usados por nosotros. Diferenciar un cuarto «arbusto» evolutivo de un segundo árbol exige química fina. Un segundo origen en la Tierra sería el hallazgo biológico más sensacional y confirmaría el imperativo cósmico.
 
 <!-- key -->
 Buscar vida rara en casa es la vía más barata para saber si el universo está lleno de biología o si somos una excepción.
@@ -291,7 +291,7 @@ Incluso sin señal entrante, algunos quieren transmitir (METI): ¿debemos gritar
 ¿Debemos responder si ET llama — y qué mensaje representa a la humanidad?
 
 <!-- paragraph -->
-El METI (mensajes activos) divide a la comunidad. <span class="person">David Brin</span> pide prudencia internacional. Davies considera el riesgo mínimo porque nuestras señales son débiles y ET ya podría ver oxígeno y agua. Las placas Pioneer/Voyager muestran figuras humanas parroquiales. Mejor enviar ecuaciones de Maxwell, Einstein y Dirac como benchmark científico.
+El METI (mensajes activos) divide a la comunidad. <span class="person">David Brin</span> pide prudencia internacional. Davies considera el riesgo mínimo porque nuestras señales son débiles y ET ya podría ver oxígeno y agua. Las placas Pioneer/Voyager muestran figuras humanas parroquiales. Mejor enviar ecuaciones de Maxwell, Einstein y Dirac como referencia científica universal.
 
 <!-- paragraph -->
 Davies cierra con tres escenarios. Un universo lleno de inteligencia sería esperanzador. Una Tierra única con vida e inteligencia implicaría responsabilidad cósmica de esparcir la chispa. Vida común pero inteligencia siempre extinguida sería alarmante. Responde con «tres sombreros». Como científico, probablemente solos. Como filósofo, inquieto. Como soñador, desea compañía. SETI sigue valiendo por las grandes preguntas aunque sea un tiro lejano.
@@ -337,7 +337,7 @@ El silencio puede ser dorado o siniestro según lo que encontremos. Seguir busca
 | 1974 | Mensaje de Arecibo; Bracewell y el Club Galáctico. |
 | 1977 | Señal «Wow!» en Ohio. |
 | 1993 | Congreso de EE.UU. retira fondos NASA al SETI. |
-| 2008 | Taller «The Sound of Silence», ASU. |
+| 2008 | Taller «El sonido del silencio», Universidad Estatal de Arizona. |
 | 2010 | Publicación de *The Eerie Silence*; 50 años de SETI. |
 
 ---

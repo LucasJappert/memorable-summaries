@@ -29,6 +29,15 @@ solo _qué_ datos menciona.
 ## Formato de salida (`summaries/<slug>.skeleton.md`)
 
 ```markdown
+# Metadatos del libro
+
+- **título original (`title`):** "<Título en idioma original del libro>"
+- **título público en español (`title_es`):** "<Traducción para el lector hispanohablante; omitir si el original ya está en español>"
+- **subtítulo en español (`subtitle`):** "<Pregunta o premisa guía, siempre en español>"
+
+> **Separar siempre original vs público.** `title` conserva la forma editorial del libro fuente.
+> `title_es`, el subtítulo, los labels de TOC y los `## title:` del resumen final van **en español**.
+
 # Tesis del libro
 
 <Una frase: qué afirma el autor en toda la obra. La respuesta a «¿de qué te quiere convencer?».>
@@ -40,7 +49,7 @@ la va respondiendo. Este es el mapa que evita que el resumen sea una lista incon
 
 # Capítulos
 
-## prefacio — <título real>
+## prefacio — título original: "<título en idioma del libro>" / título en español: "<label TOC + ## title>"
 
 - **idea principal:** <la afirmación central del capítulo en 1 frase (no un dato: una tesis)>
 - **pregunta que responde:** <la pregunta que plantea el capítulo o el resumen; el lead del capítulo final debe formularla explícitamente>
@@ -50,7 +59,7 @@ la va respondiendo. Este es el mapa que evita que el resumen sea una lista incon
 - **puente al siguiente:** <1 oración: por qué el próximo capítulo es el paso lógico que sigue. Si no hay siguiente, «—»>
 - **anclas:** <cifras, fechas o citas textuales memorables presentes en el texto; vacío si no hay>
 
-## cap1 — <título real>
+## cap1 — título original: "<título EN/IT/etc.>" / título en español: "<traducción editorial>"
 
 - **idea principal:** …
 - **pregunta que responde:** …
@@ -76,6 +85,7 @@ Son candidatos para la sección `# conceptos` del resumen.>
 
 - **La `idea principal` es una tesis, no un tema.** Mal: «el capítulo habla de la evolución». Bien:
   «la selección natural no necesita un diseñador porque acumula pequeñas ventajas al azar».
+- **Título original ≠ título público.** Registrar ambos por capítulo. El resumen usa solo el título en español en TOC y `## title:`.
 - **La `pregunta que responde` orienta el lead.** El prompt 01 debe usar esta pregunta literalmente en el `<!-- paragraph lead -->` del capítulo.
 - **El `puente al siguiente` mantiene el hilo conductor.** Si el lector no entiende por qué el próximo capítulo sigue, el resumen se siente como una lista. Cada puente debe nombrar un concepto o problema que queda pendiente y que el siguiente capítulo resuelve.
 - **Cubrí TODOS los capítulos** del índice real. Si el libro tiene 19 capítulos, tiene que haber 19 fichas.

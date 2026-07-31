@@ -58,7 +58,7 @@
     {
       "sectionId": "prefacio",
       "sectionTitle": "Prefacio",
-      "text": "Medio siglo después de su muerte, muchos físicos creen haber encontrado ese marco. Es la teoría de supercuerdas (cuerdas unidimensionales que aspiran a unificar todas las fuerzas). Greene elige como eje narrativo nuestra evolución en el entendimiento del espacio-tiempo (fusión de espacio y tiempo en un solo continuo). Einstein lo revolucionó. La cuerda lo revoluciona de nuevo con dimensiones ocultas enroscadas en el cosmos."
+      "text": "Medio siglo después de su muerte, muchos físicos creen haber encontrado ese marco. Es la teoría de supercuerdas (cuerdas unidimensionales que aspiran a unificar todas las fuerzas). Por eso Greene elige como eje narrativo nuestra evolución en el entendimiento del espacio-tiempo (fusión de espacio y tiempo en un solo continuo). Einstein lo revolucionó, y la cuerda lo revoluciona de nuevo con dimensiones ocultas enroscadas en el cosmos."
     },
     {
       "sectionId": "prefacio",
@@ -118,12 +118,17 @@
     {
       "sectionId": "cap2",
       "sectionTitle": "Espacio, tiempo y el ojo del observador",
-      "text": "El principio de relatividad (Galileo y Einstein) declara que las leyes físicas son idénticas en todo marco de movimiento uniforme. Como c es constante, observadores en movimiento relativo miden distancias y tiempos distintos. La simultaneidad deja de ser universal. El experimento del foco en el tren lo muestra sin ecuaciones."
+      "text": "El principio de relatividad (Galileo y Einstein) declara que las leyes físicas son idénticas en todo marco de movimiento uniforme. Pero como c es constante, observadores en movimiento relativo miden distancias y tiempos distintos. De ahí que la simultaneidad deje de ser universal. El experimento del foco en el tren lo muestra sin ecuaciones."
     },
     {
       "sectionId": "cap2",
       "sectionTitle": "Espacio, tiempo y el ojo del observador",
-      "text": "Un reloj de luz imaginario demuestra la dilatación temporal (los relojes en movimiento marcan más despacio). La contracción de Lorentz (acortamiento de longitudes en la dirección del movimiento) explica por qué los objetos en movimiento parecen comprimidos. Los muones a ~99,5% de c viven ~10 veces más desde el laboratorio. Minkowski unificó espacio y tiempo. Según su visión, todos los objetos se mueven a velocidad fija c a través del espacio-tiempo. De ahí sale E = mc²: más energía implica más masa, y nada supera c."
+      "text": "Un reloj de luz imaginario demuestra la dilatación temporal (los relojes en movimiento marcan más despacio). La contracción de Lorentz (acortamiento de longitudes en la dirección del movimiento) explica por qué los objetos en movimiento parecen comprimidos. Los muones a ~99,5% de c viven ~10 veces más desde el laboratorio."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Espacio, tiempo y el ojo del observador",
+      "text": "Minkowski unificó espacio y tiempo. Según su visión, todos los objetos se mueven a velocidad fija c a través del espacio-tiempo. De ahí que E = mc²: más energía implica más masa, y nada supera c."
     },
     {
       "sectionId": "cap2",
@@ -293,7 +298,7 @@
     {
       "sectionId": "cap8",
       "sectionTitle": "Más dimensiones de las que aparentan",
-      "text": "Greene ilustra las dimensiones extra con la manguera: vista de lejos, parece 1D. De cerca, tiene grosor circular. Theodor Kaluza (1919) unificó gravedad y electromagnetismo en 5D. Oskar Klein enroscó la extra a escala de Planck. Einstein dudó, luego elogió la idea."
+      "text": "Greene ilustra las dimensiones extra con la manguera: vista de lejos, parece 1D, y de cerca tiene grosor circular. Así lo había imaginado Theodor Kaluza (1919), quien unificó gravedad y electromagnetismo en 5D. Oskar Klein enroscó la extra a escala de Planck. Einstein dudó, pero luego elogió la idea."
     },
     {
       "sectionId": "cap8",
@@ -353,7 +358,7 @@
     {
       "sectionId": "cap10",
       "sectionTitle": "Geometría cuántica",
-      "text": "Riemann, Gauss y Einstein midieron curvatura por distancias. En cuerdas, un punto no existe. La geometría riemanniana falla bajo Planck. Surge la geometría cuántica (marco aún en construcción matemática)."
+      "text": "Riemann, Gauss y Einstein midieron curvatura por distancias. En cuerdas, sin embargo, un punto no existe. Por eso la geometría riemanniana falla bajo Planck y surge la geometría cuántica (marco aún en construcción matemática)."
     },
     {
       "sectionId": "cap10",
@@ -413,12 +418,12 @@
     {
       "sectionId": "cap12",
       "sectionTitle": "Más allá de las cuerdas: en busca de la M-teoría",
-      "text": "Cinco supercuerdas (1980s) parecían teorías separadas. Las ecuaciones exactas son desconocidas. Solo tenemos aproximaciones perturbativas. Cada teoría tiene acoplamiento de cuerdas g, y cuando g ≥ 1 la perturbación falla."
+      "text": "Cinco supercuerdas (1980s) parecían teorías separadas. Las ecuaciones exactas son desconocidas, y solo tenemos aproximaciones perturbativas. Cada teoría tiene acoplamiento de cuerdas g, y cuando g ≥ 1 la perturbación falla."
     },
     {
       "sectionId": "cap12",
       "sectionTitle": "Más allá de las cuerdas: en busca de la M-teoría",
-      "text": "En Strings '95 (USC), Witten anunció la segunda revolución. Las dualidades (T, S, U) muestran que las cinco teorías son ventanas a una sola estructura: M-teoría (Membrane/Mystery/Magic/Mother). Tiene 11 dimensiones (10 espacio + 1 tiempo), no 10."
+      "text": "En Strings '95 (USC), Witten anunció entonces la segunda revolución. Las dualidades (T, S, U) muestran que las cinco teorías son ventanas a una sola estructura: M-teoría (Membrane/Mystery/Magic/Mother). Tiene 11 dimensiones (10 espacio + 1 tiempo), no 10."
     },
     {
       "sectionId": "cap12",
@@ -443,7 +448,7 @@
     {
       "sectionId": "cap13",
       "sectionTitle": "Agujeros negros",
-      "text": "Wheeler resumió que «los agujeros negros no tienen pelo»: solo masa, carga y spin. Eso los hace parecidos a partículas elementales. En relatividad general, los agujeros negros tienen singularidad. En cuántica, el conflicto persiste."
+      "text": "Wheeler resumió que «los agujeros negros no tienen pelo»: solo masa, carga y spin. Por eso los hace parecidos a partículas elementales. En relatividad general, los agujeros negros tienen singularidad, y en cuántica el conflicto persiste."
     },
     {
       "sectionId": "cap13",
@@ -488,7 +493,7 @@
     {
       "sectionId": "cap14",
       "sectionTitle": "Reflexiones sobre cosmología",
-      "text": "String cosmology evita la singularidad clásica con nugget de Planck, dualidad de radios e inflación, pero las ecuaciones exactas del instante inicial aún faltan."
+      "text": "La cosmología de cuerdas evita la singularidad clásica con nugget de Planck, dualidad de radios e inflación, pero las ecuaciones exactas del instante inicial aún faltan."
     },
     {
       "sectionId": "cap14",
@@ -543,7 +548,7 @@
     {
       "sectionId": "cierre",
       "sectionTitle": "Cierre",
-      "text": "El relato del espacio-tiempo no ha terminado: es la aventura más ambiciosa de la física teórica contemporánea."
+      "text": "En suma, el relato del espacio-tiempo no ha terminado: es la aventura más ambiciosa de la física teórica contemporánea."
     },
     {
       "sectionId": "cierre",

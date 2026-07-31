@@ -14,7 +14,7 @@ lang: es
 
 | id | num | label |
 |----|-----|-------|
-| prefacio | 00 | Introducción |
+| prefacio | 00 | Entender ecuaciones, no solo metáforas |
 | cap1 | 01 | Conservación |
 | cap2 | 02 | Cambio |
 | cap3 | 03 | Dinámica |
@@ -25,7 +25,7 @@ lang: es
 | cap8 | 08 | Gravedad |
 | cap9 | 09 | Agujeros negros |
 | conceptos | ✦ | Conceptos clave |
-| cronologia | ◈ | Cronología |
+| cronologia | ◈ | Cronología de hitos |
 | figuras | ✦ | Figuras clave |
 | cierre | — | La idea central |
 
@@ -91,10 +91,10 @@ Si las leyes fijan qué se conserva, el siguiente paso es describir cómo cambia
 ¿Cómo pasa la física de «saber ahora» a «predecir siempre»? El cambio en física exige <span class="term">cálculo</span> (derivadas e integrales). La posición x(t) de un auto permite calcular velocidad v = dx/dt y aceleración a = dv/dt.
 
 <!-- paragraph -->
-El <span class="term">paradigma laplaciano</span> (la idea de que el estado inicial fija toda la evolución) sostiene una tesis fuerte. Dado el estado inicial, las leyes determinan toda la trayectoria pasada y futura. <span class="person">Isaac Newton</span> publicó los <em>Principia</em> en <span class="num">1687</span>, presionado por el astrónomo Edmond Halley. Allí aparecen F = ma y la gravitación universal F ∝ 1/r². Newton derivó las leyes de Johannes Kepler desde fuerzas locales en cada instante, no desde descripciones globales de órbitas elípticas.
+El <span class="term">paradigma laplaciano</span> (la idea de que el estado inicial fija toda la evolución) sostiene una tesis fuerte. Por eso, dado el estado inicial, las leyes determinan toda la trayectoria pasada y futura. <span class="person">Isaac Newton</span> publicó los <em>Principia</em> en <span class="num">1687</span>, presionado por el astrónomo Edmond Halley. Allí aparecen F = ma y la gravitación universal F ∝ 1/r². Newton derivó las leyes de Johannes Kepler desde fuerzas locales en cada instante, no desde descripciones globales de órbitas elípticas.
 
 <!-- paragraph -->
-La gravedad es <span class="term">universal</span> (la misma ley rige en la Tierra y en el cielo). Explica manzanas cayendo y planetas orbitando. Integrar aceleración reconstruye velocidad y posición. Derivar posición da velocidad. Son operadores inversos entre sí, aunque integrar suele ser más difícil que derivar.
+Además, la gravedad es <span class="term">universal</span> (la misma ley rige en la Tierra y en el cielo). Explica manzanas cayendo y planetas orbitando. Integrar aceleración reconstruye velocidad y posición. Derivar posición da velocidad. Son operadores inversos entre sí, aunque integrar suele ser más difícil que derivar.
 
 <!-- list -->
 - **Función** — mapa de un argumento a un valor (p. ej. posición en función del tiempo).
@@ -118,10 +118,10 @@ Con las herramientas del cambio ya se puede estudiar cómo evolucionan los siste
 ¿Por qué una misma física admite descripciones tan distintas? La dinámica estudia cambios que obedecen ecuaciones físicas. El modelo «bola en colina», una partícula sin fricción en un paisaje de energía potencial V(x), reaparece hasta en campos cuánticos y el Modelo Estándar.
 
 <!-- paragraph -->
-Energía cinética K = ½mv² más potencial V(x) suman un total conservado. En un valle parabólico aparece el <span class="term">oscilador armónico simple</span> (movimiento sinusoidal alrededor de un equilibrio). Es exactamente soluble y omnipresente: muelles, átomos, campos. Cerca de cualquier equilibrio, casi todo sistema se comporta como parábola.
+Por eso, energía cinética K = ½mv² más potencial V(x) suman un total conservado. En un valle parabólico aparece el <span class="term">oscilador armónico simple</span> (movimiento sinusoidal alrededor de un equilibrio). Es exactamente soluble y omnipresente: muelles, átomos, campos. Cerca de cualquier equilibrio, casi todo sistema se comporta como parábola.
 
 <!-- paragraph -->
-El <span class="term">espacio de fases</span> (el par {posición, momento}) fija la evolución. Alternativamente, el <span class="term">principio de mínima acción</span> (formulación de Lagrange) postula que la trayectoria real extremiza la acción S = ∫(K − V)dt. Es equivalente a Newton, aunque el físico <span class="person">Richard Feynman</span> advirtió que formulaciones matemáticamente equivalentes no son psicológicamente idénticas al explorar lo desconocido.
+De ahí que el <span class="term">espacio de fases</span> (el par {posición, momento}) fije la evolución. Alternativamente, el <span class="term">principio de mínima acción</span> (formulación de Lagrange) postula que la trayectoria real extremiza la acción S = ∫(K − V)dt. Es equivalente a Newton, aunque el físico <span class="person">Richard Feynman</span> advirtió que formulaciones matemáticamente equivalentes no son psicológicamente idénticas al explorar lo desconocido.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -187,7 +187,7 @@ La flecha no está en las ecuaciones fundamentales. Emerge de la <span class="te
 | 🌅 | Presentismo vs. eternalismo | ¿Solo el «ahora» es real, o todo el bloque espaciotemporal? |
 
 <!-- key -->
-La flecha del tiempo no está en las ecuaciones fundamentales: emerge del universo de baja entropía cerca del Big Bang.
+La flecha macroscópica exige un pasado cósmico especial: un Big Bang denso y de baja entropía, no violaciones de simetría en partículas.
 
 <!-- bridge -->
 Einstein unificó espacio y tiempo cuando mostró que ninguno es absoluto por separado.
@@ -203,10 +203,10 @@ Einstein unificó espacio y tiempo cuando mostró que ninguno es absoluto por se
 ¿Qué queda cuando espacio y tiempo dejan de ser independientes? La relatividad especial (<span class="num">1905</span>) unifica ambos en un continuo 4D. El matemático <span class="person">Hermann Minkowski</span> formalizó ese espaciotiempo en <span class="num">1907</span>. No hay tiempo absoluto: cada observador divide espaciotiempo de forma distinta.
 
 <!-- paragraph -->
-Hay dos nociones de tiempo. Una es la coordenada t (etiqueta convencional). La otra es el <span class="term">tiempo propio τ</span> (lo que marca un reloj viajero). En espacio, la recta es el camino más corto. En espaciotiempo, la trayectoria inercial maximiza el tiempo propio. El <span class="term">intervalo de Minkowski</span> (medida de separación en 4D) se define como τ² = Δt² − Δx² con c = 1.
+Por eso hay dos nociones de tiempo. Una es la coordenada t (etiqueta convencional). La otra es el <span class="term">tiempo propio τ</span> (lo que marca un reloj viajero). En espacio, la recta es el camino más corto. En espaciotiempo, la trayectoria inercial maximiza el tiempo propio. El <span class="term">intervalo de Minkowski</span> (medida de separación en 4D) se define como τ² = Δt² − Δx² con c = 1.
 
 <!-- paragraph -->
-Más movimiento espacial implica menos tiempo propio. El experimento de los gemelos no es paradoja: caminos distintos, duraciones distintas. La velocidad c convierte unidades espacio↔tiempo y fija conos de luz que sustituyen la simultaneidad absoluta. E = mc² unifica energía y momento como componente temporal del cuadrimomento.
+De ahí que más movimiento espacial implique menos tiempo propio. El experimento de los gemelos no es paradoja: caminos distintos, duraciones distintas. La velocidad c convierte unidades espacio↔tiempo y fija conos de luz que sustituyen la simultaneidad absoluta. E = mc² unifica energía y momento como componente temporal del cuadrimomento.
 
 <!-- big-numbers -->
 | value | label |
@@ -232,7 +232,7 @@ Para curvar ese espaciotiempo hace falta una geometría distinta de la euclídea
 ¿Cómo se mide la curvatura sin imaginar un espacio mayor? Einstein necesitó <span class="term">geometría riemanniana</span> (geometría de superficies y espacios curvos) para curvar el espaciotiempo. Euclides axiomatizó el plano. El quinto postulado (paralelas) puede reemplazarse y surgen geometrías esférica (curvatura +) e hiperbólica (−).
 
 <!-- paragraph -->
-Los matemáticos <span class="person">Carl Friedrich Gauss</span> y <span class="person">Bernhard Riemann</span> desarrollaron geometría intrínseca, medible desde dentro sin embedding en espacio mayor. Una <span class="term">variedad</span> (manifold, conjunto de puntos con dimensión definida) es el objeto básico. Al hacer zoom infinitesimal, parece plano euclídeo. Un cilindro es plano intrínsecamente aunque parezca curvo desde fuera.
+Por eso, los matemáticos <span class="person">Carl Friedrich Gauss</span> y <span class="person">Bernhard Riemann</span> desarrollaron geometría intrínseca, medible desde dentro sin embedding en espacio mayor. Una <span class="term">variedad</span> (manifold, conjunto de puntos con dimensión definida) es el objeto básico. Al hacer zoom infinitesimal, parece plano euclídeo. Un cilindro es plano intrínsecamente aunque parezca curvo desde fuera.
 
 <!-- paragraph -->
 El <span class="term">tensor métrico</span> (objeto que define distancias locales) g_ij codifica toda la geometría vía elemento de línea ds² = g_ij dx^i dx^j. Los tensores generalizan funciones y vectores. El tensor de curvatura de Riemann se construye a partir de derivadas del métrico. Einstein aprendió esto con <span class="person">Marcel Grossmann</span> antes de formular la relatividad general.
@@ -372,7 +372,7 @@ Los agujeros negros pasaron de curiosidad teórica a protagonistas observacional
 ## title: La idea central
 
 <!-- closing -->
-La física moderna cabe en ecuaciones comprensibles.
+En suma, la física moderna cabe en ecuaciones comprensibles.
 No hace falta resolverlas todas; basta entender qué dicen.
 <!-- highlight -->Entender las ecuaciones es la forma auténtica de conocer el universo<!-- /highlight -->
 Espacio, tiempo y movimiento forman un solo escenario curvable.

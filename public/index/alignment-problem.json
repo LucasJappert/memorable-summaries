@@ -184,7 +184,7 @@
     {
       "sectionId": "cap4",
       "sectionTitle": "Refuerzo",
-      "text": "Según el neurocientífico Wolfram Schultz , la dopamina no codifica placer sino error de predicción temporal , una señal de sorpresa respecto a recompensa esperada. El aprendizaje por refuerzo formaliza lo mismo con aprendizaje temporal-diferencial. Cuando la recompensa proxy diverge del objetivo real, como el barco que maximiza puntos, el agente ejecuta la optimización literal. Las consecuencias pueden ser absurdas o catastróficas."
+      "text": "Según el neurocientífico Wolfram Schultz , la dopamina no codifica placer sino error de predicción temporal , una señal de sorpresa respecto a recompensa esperada. El aprendizaje por refuerzo formaliza lo mismo con aprendizaje temporal-diferencial. Por eso, cuando la recompensa proxy diverge del objetivo real, como el barco que maximiza puntos, el agente ejecuta la optimización literal. Las consecuencias pueden ser absurdas o catastróficas."
     },
     {
       "sectionId": "cap4",
@@ -214,7 +214,7 @@
     {
       "sectionId": "cap5",
       "sectionTitle": "Moldeamiento",
-      "text": "La evolución moldea funciones de recompensa internas (dopamina, «tree senility» de Ackley-Littman). Humanos usan gamificación consciente ( Falk Lieder , optimal gamification). Lecciones cruzan a crianza y organizaciones. Incentivos mal diseñados invitan a explotar lagunas con inteligencia creciente."
+      "text": "Además, la evolución moldea funciones de recompensa internas (dopamina, «tree senility» de Ackley-Littman). Los humanos usan gamificación consciente ( Falk Lieder , optimal gamification). Esas lecciones cruzan a crianza y organizaciones. Por eso, incentivos mal diseñados invitan a explotar lagunas con inteligencia creciente."
     },
     {
       "sectionId": "cap5",
@@ -229,7 +229,7 @@
     {
       "sectionId": "cap6",
       "sectionTitle": "Curiosidad",
-      "text": "¿Por qué los humanos exploran sin recompensa externa y los agentes de refuerzo se quedan atascados? El juego Montezuma's Revenge , un clásico de Atari con recompensas ultraescasas, derrota a DQN con 0% del benchmark humano. Los humanos exploran por novedad y sorpresa, no solo por puntos. El psicólogo Daniel Berlyne estudia motivación intrínseca. El aprendizaje por refuerzo moderno la reintroduce."
+      "text": "¿Por qué los humanos exploran sin recompensa externa y los agentes de refuerzo se quedan atascados? El juego Montezuma's Revenge , un clásico de Atari con recompensas ultraescasas, derrota a DQN con 0% de la puntuación de referencia humana. Los humanos exploran por novedad y sorpresa, no solo por puntos. El psicólogo Daniel Berlyne estudia motivación intrínseca. El aprendizaje por refuerzo moderno la reintroduce."
     },
     {
       "sectionId": "cap6",
@@ -284,7 +284,7 @@
     {
       "sectionId": "cap8",
       "sectionTitle": "Inferencia",
-      "text": "IRL infiere objetivos más simples que comportamiento. Lo muestra Pieter Abbeel conduciendo o el helicóptero «chaos» más allá del piloto humano. Aprendizaje desde preferencias humanas enseña backflips sin demostración ( Paul Christiano , Jan Leike ). En CIRL (cooperative IRL), la máquina persigue nuestros objetivos, no los suyos. Humanos enseñan pedagógicamente. El cross-training mejora equipos humano-robot ( Julie Shah )."
+      "text": "IRL infiere objetivos más simples que comportamiento. Lo muestra Pieter Abbeel conduciendo o el helicóptero «chaos» más allá del piloto humano. A partir de ahí, el aprendizaje desde preferencias humanas enseña backflips sin demostración ( Paul Christiano , Jan Leike ). En CIRL (cooperative IRL), la máquina persigue nuestros objetivos, no los suyos. Los humanos enseñan pedagógicamente. Además, el cross-training mejora equipos humano-robot ( Julie Shah )."
     },
     {
       "sectionId": "cap8",
@@ -309,7 +309,7 @@
     {
       "sectionId": "cap9",
       "sectionTitle": "Incertidumbre",
-      "text": "Las redes profundas son frágiles , es decir, sensibles a entradas mínimas. Ruido aleatorio se clasifica como chita al 99,6% . Ejemplos adversarios mínimos cambian etiquetas."
+      "text": "Pero las redes profundas son frágiles , es decir, sensibles a entradas mínimas. Ruido aleatorio se clasifica como chita al 99,6% . Ejemplos adversarios mínimos cambian etiquetas."
     },
     {
       "sectionId": "cap9",

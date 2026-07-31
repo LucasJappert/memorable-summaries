@@ -16,7 +16,7 @@ lang: es
 | id | num | label |
 |----|-----|-------|
 | cierre | ★ | La idea central |
-| prefacio | 00 | Tres revoluciones |
+| prefacio | 00 | Tres revoluciones que marcaron la historia |
 | cap1 | 01 | Un animal sin importancia |
 | cap2 | 02 | El árbol del conocimiento |
 | cap3 | 03 | Un día en la vida de Adán y Eva |
@@ -49,7 +49,7 @@ lang: es
 
 <!-- closing -->
 Somos un animal que triunfó cooperando en masa gracias a ficciones compartidas.
-Cada revolución cognitiva, agrícola y científica nos dio poder y nos cobró un precio enorme.
+Por eso cada revolución cognitiva, agrícola y científica nos dio poder y nos cobró un precio enorme.
 <!-- highlight -->la historia no nos hizo más felices, y por primera vez podemos dejar de ser Homo sapiens<!-- /highlight -->
 El trigo, el dinero y el algoritmo nos domesticaron tanto como nosotros a ellos.
 La pregunta ya no es de dónde venimos, sino hacia qué nos convertimos.
@@ -187,7 +187,7 @@ Tras diez milenios de foragers, una nueva revolución cambió la relación con l
 ¿Fue la agricultura un progreso para quien la adoptó? Durante <span class="num">2,5 millones</span> de años los humanos recolectaron y cazaron sin domesticar. Hace unos <span class="num">12.000</span> años, en el Cercano Oriente, empezaron a sembrar trigo y criar cabras. Eso fue la revolución agrícola. No fue un progreso obvio para el individuo, sino una trampa.
 
 <!-- paragraph -->
-Harari invierte la metáfora. El <span class="term">trigo</span> (planta domesticada que exigió trabajo constante) domesticó a Sapiens, no al revés. Exigió despejar campos, regar y luchar contra plagas. Esqueletos agrícolas muestran hernias, artritis y dientes cariados. En Jericó, unos 100 nómadas saludables (~13.000 a.C.) se convirtieron en unos 1.000 aldeanos enfermizos (~8.500 a.C.).
+Por eso Harari invierte la metáfora. El <span class="term">trigo</span> (planta domesticada que exigió trabajo constante) domesticó a Sapiens, no al revés. Exigió despejar campos, regar y luchar contra plagas. Esqueletos agrícolas muestran hernias, artritis y dientes cariados. En Jericó, unos 100 nómadas saludables (~13.000 a.C.) se convirtieron en unos 1.000 aldeanos enfermizos (~8.500 a.C.).
 
 <!-- paragraph -->
 La moneda de la evolución son copias de ADN, no felicidad. Más personas en peores condiciones pueden ser «éxito» biológico. El campesino aceptó cada mejora sin ver el resultado acumulado. Más trabajo, más hijos, más epidemias. Hoy más del 90 % de las calorías humanas provienen de un puñado de cultivos domesticados entre 9.500 y 3.500 a.C.
@@ -385,7 +385,7 @@ La revolución científica cambió las reglas: admitió lo que no se sabía.
 ¿Qué cambió en los últimos 500 años para multiplicar el poder humano? En el año 1500 había unos 500 millones de humanos. Hoy somos unos 7.000 millones. La producción global pasó de unos 250.000 millones de dólares actuales a unos 60 billones. Un campesino del siglo XVI reconocería el mundo de 1800. Un marinero de Colón quedaría extraviado ante un iPhone.
 
 <!-- paragraph -->
-La <span class="term">revolución científica</span> comenzó al admitir ignorancia y buscar métodos para llenarla. Antes, tradiciones afirmaban que todo lo esencial ya estaba revelado. <span class="person">Benjamin Franklin</span>, científico y político estadounidense, demostró que el rayo es electricidad. La pobreza dejó de verse como destino divino.
+Entonces la <span class="term">revolución científica</span> comenzó al admitir ignorancia y buscar métodos para llenarla. Antes, tradiciones afirmaban que todo lo esencial ya estaba revelado. <span class="person">Benjamin Franklin</span>, científico y político estadounidense, demostró que el rayo es electricidad. La pobreza dejó de verse como destino divino.
 
 <!-- paragraph -->
 La ciencia no elige sola sus prioridades. Reyes, capitalistas e imperios financian lo útil para el poder. El Proyecto Gilgamesh (vencer la muerte) es el sueño científico moderno. La esperanza de vida global ronda los 67 años. Harari advierte que quien paga decide la agenda.
@@ -429,7 +429,7 @@ Un tercer motor financió ese poder: el capitalismo y su fe en el crecimiento.
 ¿De dónde sale el crecimiento económico moderno? La palabra clave es <span class="term">crecimiento</span> (aumento perpetuo de producción y consumo). El PIB per cápita pasó de unos 550 dólares en 1500 a unos 8.800 hoy. Ese salto depende del <span class="term">crédito</span> (dinero creado hoy contra ganancias futuras esperadas). Hasta el 90 % del dinero en cuentas no tiene respaldo en efectivo.
 
 <!-- paragraph -->
-El capitalismo reinvirtió ganancias en producción. Cuando faltó mano de obra barata, recurrió a la esclavitud atlántica. Unos <span class="num">10 millones</span> de africanos cruzaron el océano. Sus cuerpos se negociaron en Ámsterdam y Londres con rendimientos del ~<span class="num">6 %</span> anual. Leopoldo II en el Congo mató a millones persiguiendo caucho sin control estatal.
+El capitalismo reinvirtió ganancias en producción. Por eso, cuando faltó mano de obra barata, recurrió a la esclavitud atlántica. Unos <span class="num">10 millones</span> de africanos cruzaron el océano. Sus cuerpos se negociaron en Ámsterdam y Londres con rendimientos del ~<span class="num">6 %</span> anual. Leopoldo II en el Congo mató a millones persiguiendo caucho sin control estatal.
 
 <!-- paragraph -->
 El capitalismo responde que no hay alternativa viable. Sostiene que el crecimiento eventualmente elevará a todos. Harari advierte que puede ser otro fraude a escala planetaria. Ese crecimiento exigió más energía de la que el sol regalaba directamente a los músculos.
@@ -520,7 +520,7 @@ Si la felicidad no justifica la historia, queda la pregunta biológica final: ¿
 El conejo Alba fluorescente, el ratón con oreja de cartílago cultivada y la posibilidad de revivir neandertales muestran que ya cruzamos umbrales. Prótesis biónicas, insectos cyborg militares y cerebros conectados a redes apuntan a seres que no serían Homo sapiens. <span class="person">Eduardo Kac</span>, artista brasileño, creó el conejo Alba como símbolo de ese cruce.
 
 <!-- paragraph -->
-Harari cierra donde empezó. Éramos un animal sin importancia. Podemos convertirnos en dioses o en una especie distinta. La historia como la conocemos podría ser solo el aprendizaje previo a algo radicalmente otro.
+Por eso Harari cierra donde empezó. Éramos un animal sin importancia. Podemos convertirnos en dioses o en una especie distinta. La historia como la conocemos podría ser solo el aprendizaje previo a algo radicalmente otro.
 
 <!-- key -->
 Por primera vez podemos alterar las reglas de la vida y dejar de ser <span class="key-term">Homo sapiens</span>.

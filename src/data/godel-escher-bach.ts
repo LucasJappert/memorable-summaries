@@ -136,7 +136,7 @@ export const godelEscherBach: BookSummary = {
   {
     "id": "cronologia",
     "num": "◈",
-    "label": "Cronología"
+    "label": "Cronología de hitos citados"
   },
   {
     "id": "figuras",
@@ -161,7 +161,7 @@ export const godelEscherBach: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Hofstadter prepara al lector recorriendo la historia de la lógica y las paradojas de autorreferencia. Llega al debate sobre si una máquina podría pensar. Ese recorrido muestra el mismo truco en la música, el arte y las demostraciones matemáticas.",
+          html: "Por eso Hofstadter prepara al lector recorriendo la historia de la lógica y las paradojas de autorreferencia. Llega al debate sobre si una máquina podría pensar, y ese recorrido muestra el mismo truco en la música, el arte y las demostraciones matemáticas.",
         },
         {
           type: 'key',
@@ -185,7 +185,7 @@ export const godelEscherBach: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La trampa es que, por más reglas que uno aplique desde dentro, MU no aparece nunca. La razón solo se ve al salir del juego y observar una propiedad invariante que ninguna regla altera. Esa distinción entre trabajar ciegamente dentro del sistema y comprenderlo desde fuera es la lección central.",
+          html: "Sin embargo, por más reglas que uno aplique desde dentro, MU no aparece nunca. La razón solo se ve al salir del juego y observar una propiedad invariante que ninguna regla altera. Por eso la distinción entre trabajar ciegamente dentro del sistema y comprenderlo desde fuera es la lección central.",
         },
         {
           type: 'paragraph',
@@ -333,7 +333,7 @@ export const godelEscherBach: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El autor toma sus ejemplos de los koans zen y los llama «Zentences», medio en broma. La elección es deliberadamente irónica. Los koans buscan burlar la lógica mientras el sistema los trata como fórmulas. El contraste anticipa que la lógica formal todavía es demasiado débil para la aritmética.",
+          html: "El autor toma sus ejemplos de los koans zen y los llama «Zentences», medio en broma. La elección es deliberadamente irónica: los koans buscan burlar la lógica mientras el sistema los trata como fórmulas. Por eso el contraste anticipa que la lógica formal todavía es demasiado débil para la aritmética.",
         },
         {
           type: 'key',
@@ -357,7 +357,7 @@ export const godelEscherBach: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El objetivo de Hofstadter es doble. Primero demuestra que la aritmética puede formalizarse sin apelar a intuición sobre qué «son» los números. Después contrasta ese proceso rígido con el pensamiento humano, que salta, ve patrones y no procede paso a paso como el sistema.",
+          html: "El objetivo de Hofstadter es doble. Primero demuestra que la aritmética puede formalizarse sin apelar a intuición sobre qué «son» los números. Después contrasta ese proceso rígido con el pensamiento humano, que salta, ve patrones y no procede paso a paso como el sistema. Por eso TNT prepara el terreno para Gödel.",
         },
         {
           type: 'key',
@@ -381,7 +381,7 @@ export const godelEscherBach: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Sobre ese fondo introduce la idea decisiva de Gödel. La <span class=\"term\">numeración de Gödel</span> (codificar cada cadena y cada demostración como un número único) permite que la aritmética hable de sí misma. Con esa herramienta el autor hace un primer recorrido por el teorema de incompletitud.",
+          html: "Sobre ese fondo introduce la idea decisiva de Gödel. La <span class=\"term\">numeración de Gödel</span> (codificar cada cadena y cada demostración como un número único) permite que la aritmética hable de sí misma. Con esa herramienta el autor hace un primer recorrido por el teorema de incompletitud, y de ahí que este capítulo sea la bisagra del libro.",
         },
         {
           type: 'key',
@@ -405,7 +405,7 @@ export const godelEscherBach: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La respuesta llega con <span class=\"person\">Aunt Hillary</span>, una colonia de hormigas que conversa como si fuera una mente. Ninguna hormiga individual piensa. Su «pensamiento» vive en el nivel de la colonia y se apoya en niveles intermedios, desde la hormiga suelta hasta los equipos y las señales. Entender ese sistema exige combinar la mirada de las partes con la del todo.",
+          html: "La respuesta llega con <span class=\"person\">Aunt Hillary</span>, una colonia de hormigas que conversa como si fuera una mente. Ninguna hormiga individual piensa. Su «pensamiento» vive en el nivel de la colonia y se apoya en niveles intermedios, desde la hormiga suelta hasta los equipos y las señales. Por eso entender ese sistema exige combinar la mirada de las partes con la del todo.",
         },
         {
           type: 'key',
@@ -429,7 +429,7 @@ export const godelEscherBach: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Cada capa habla de lo mismo con distinto grado de detalle. La idea se generaliza a imágenes, tableros de ajedrez, equipos deportivos, átomos y el clima. Su respuesta es que ningún nivel tiene el monopolio. Los niveles altos pueden ser causalmente reales aunque se apoyen en los bajos.",
+          html: "Cada capa habla de lo mismo con distinto grado de detalle. La idea se generaliza a imágenes, tableros de ajedrez, equipos deportivos, átomos y el clima. Por eso ningún nivel tiene el monopolio: los niveles altos pueden ser causalmente reales aunque se apoyen en los bajos.",
         },
         {
           type: 'key',
@@ -577,7 +577,7 @@ export const godelEscherBach: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El punto sutil es que la frontera entre el sistema que se reproduce y el entorno que lo ayuda resulta difusa. La información viaja de un nivel a otro. Decidir dónde termina el «yo» que se copia es en parte una convención. Ese bucle une el juego formal de Gödel con el bucle biológico de la vida.",
+          html: "El punto sutil es que la frontera entre el sistema que se reproduce y el entorno que lo ayuda resulta difusa. Por eso la información viaja de un nivel a otro, y decidir dónde termina el «yo» que se copia es en parte una convención. Ese bucle une el juego formal de Gödel con el bucle biológico de la vida.",
         },
         {
           type: 'key',
@@ -601,7 +601,7 @@ export const godelEscherBach: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Dos resultados afilan esos límites. El <span class=\"term\">problema de la parada</span> (decidir si un cálculo cualquiera terminará) de <span class=\"person\">Alan Turing</span> muestra que no existe un procedimiento general que lo resuelva. El teorema de <span class=\"person\">Alfred Tarski</span> muestra que la verdad aritmética no puede definirse dentro del propio sistema que la enuncia.",
+          html: "Dos resultados afilan esos límites. El <span class=\"term\">problema de la parada</span> (decidir si un cálculo cualquiera terminará) de <span class=\"person\">Alan Turing</span> muestra que no existe un procedimiento general que lo resuelva. El teorema de <span class=\"person\">Alfred Tarski</span> muestra, además, que la verdad aritmética no puede definirse dentro del propio sistema que la enuncia.",
         },
         {
           type: 'key',
@@ -649,7 +649,7 @@ export const godelEscherBach: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Su apuesta más fuerte es sobre la creatividad. La inteligencia no nace de reglas rígidas. Nace del deslizamiento y la mezcla de conceptos, es decir, de la <span class=\"term\">analogía</span> (transferir estructura de un dominio a otro). El capítulo termina con preguntas y especulaciones personales, sin cerrar si la máquina alcanzará esa maleabilidad.",
+          html: "Su apuesta más fuerte es sobre la creatividad. La inteligencia no nace de reglas rígidas. Nace del deslizamiento y la mezcla de conceptos, es decir, de la <span class=\"term\">analogía</span> (transferir estructura de un dominio a otro). Por eso el capítulo termina con preguntas y especulaciones personales, sin cerrar si la máquina alcanzará esa maleabilidad.",
         },
         {
           type: 'key',
@@ -677,7 +677,7 @@ export const godelEscherBach: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Su hipótesis es que el «yo» y la conciencia son precisamente eso. El «yo» sería un símbolo que representa al sistema entero dentro del propio sistema, un bucle que se observa observándose. Esa imagen ata de nuevo a Gödel, Escher y Bach. El libro cierra donde empezó, en la ofrenda que se refiere a sí misma.",
+          html: "Su hipótesis es que el «yo» y la conciencia son precisamente eso. El «yo» sería un símbolo que representa al sistema entero dentro del propio sistema, un bucle que se observa observándose. Por eso esa imagen ata de nuevo a Gödel, Escher y Bach. El libro cierra donde empezó, en la ofrenda que se refiere a sí misma.",
         },
         {
           type: 'key',
@@ -800,7 +800,7 @@ export const godelEscherBach: BookSummary = {
     title: "La idea central",
     lines: [
   "Mente y máquina comparten un mismo patrón que sube de nivel y vuelve al origen.",
-  "La incompletitud no es un defecto, sino la señal de un sistema lo bastante rico para hablar de sí mismo.",
+  "Por eso la incompletitud no es un defecto, sino la señal de un sistema lo bastante rico para hablar de sí mismo.",
   "Bach, Escher y Gödel son tres caras del mismo bucle dorado.",
   "Comprender pide danzar entre las partes y el todo, entre la forma y el significado.",
   "El libro cierra como empezó, en una ofrenda que se refiere a sí misma."

@@ -38,10 +38,10 @@ lang: es
 # prefacio
 
 ## num: Prefacio
-## title: Agradecimientos y propósito
+## title: Prefacio
 
 <!-- paragraph lead -->
-¿Puede un libro de cosmología ser también una autobiografía intelectual? Tegmark agradece a familia, colegas y revisores. Entre ellos figuran el físico teórico <span class="person">Edward Witten</span>. También los cosmólogos David Deutsch y Andrei Linde.
+¿Puede un libro de cosmología ser también una autobiografía intelectual? Tegmark agradece a familia, colegas y revisores. Entre ellos figuran el físico teórico <span class="person">Edward Witten</span>, el cosmólogo David Deutsch y Andrei Linde.
 
 <!-- paragraph -->
 Su esposa <span class="person">Meia</span> es su musa principal. El libro no pretende ser un texto de consenso comunitario. Es la búsqueda personal del autor sobre la naturaleza última de la realidad.
@@ -66,7 +66,7 @@ Tegmark invita a un viaje detective: la <span class="key-term">realidad externa<
 La decisión dependió de si un átomo de calcio entraba o no en una sinapsis. Eso plantea el enigma cuántico de si existen universos paralelos donde murió.
 
 <!-- paragraph -->
-La física revela que la realidad es mucho más extraña de lo que parece. El acero es casi vacío. Las partículas pueden estar en varios lugares a la vez. El tiempo se dilata a alta velocidad.
+Pero la física revela que la realidad es mucho más extraña de lo que parece. El acero es casi vacío. Las partículas pueden estar en varios lugares a la vez. El tiempo se dilata a alta velocidad.
 
 <!-- paragraph -->
 La inflación cósmica sugiere copias infinitas de nosotros en el espacio. La evolución explica por qué nuestra intuición falla fuera de la escala humana.
@@ -219,7 +219,7 @@ En <span class="num">~1980</span>, el cosmólogo <span class="person">Alan Guth<
 La inflación resuelve los tres problemas. Convierte una mota subatómica en un universo observable en ~<span class="num">10⁻³⁵ s</span>. Estira el espacio hasta planitud (predicción Ω=1 confirmada al <span class="num">1%</span>).
 
 <!-- paragraph -->
-Las fluctuaciones cuánticas del inflatón se estiran hasta tamaños galácticos (Q ≈ <span class="num">0,002%</span>, espectro casi scale-invariant con n ≈ <span class="num">0,96</span>).
+Además, las fluctuaciones cuánticas del inflatón se estiran hasta tamaños galácticos. Su amplitud es Q ≈ <span class="num">0,002%</span>, con un espectro casi invariante de escala (n ≈ <span class="num">0,96</span>).
 
 <!-- paragraph -->
 <span class="person">Andrei Linde</span> desarrolló la inflación eterna. La inflación no termina en todas partes a la vez y genera burbujas con distintas propiedades. La energía oscura actual es una «segunda inflación» lenta (doble de tamaño cada ~<span class="num">8 mil millones</span> de años). Ondas gravitacionales en la polarización del CMB serían evidencia definitiva.
@@ -280,7 +280,7 @@ Protones y neutrones se componen de <span class="term">quarks</span> (partícula
 Colisiones en el LHC producen bosones W, Z, Higgs. Los neutrinos atraviesan la Tierra sin interactuar. Cada partícula elemental se describe con números cuánticos: carga, spin, masa. No tiene propiedades más allá de lo matemático.
 
 <!-- paragraph -->
-Colisiones pueden crear partículas más pesadas vía E=mc² conservando energía, momento y cargas. La teoría de cuerdas sugiere vibraciones fundamentales a energías ~<span class="num">10¹³</span> veces mayores que las actuales.
+Por eso las colisiones pueden crear partículas más pesadas vía E=mc² conservando energía, momento y cargas. La teoría de cuerdas sugiere vibraciones fundamentales a energías ~<span class="num">10¹³</span> veces mayores que las actuales.
 
 <!-- paragraph -->
 La luz son fotones. El arcoíris y las líneas espectrales de Fraunhofer se explican con cuántica. Los átomos no colapsan gracias al principio de incertidumbre de Heisenberg. Tegmark relata su confusión inicial con la mecánica cuántica en Estocolmo y su posterior trabajo en Berkeley.
@@ -312,13 +312,13 @@ Si las partículas obedecen ecuaciones cuánticas, la interpretación más simpl
 Las partículas pueden estar en superposición. La «observación» no está definida en las ecuaciones. El físico <span class="person">Hugh Everett</span> propuso en <span class="num">1957</span> que cada medición cuántica bifurca el universo. No hay colapso aleatorio, sino <span class="term">decoherencia</span> (proceso que oculta ramas paralelas de la función de onda).
 
 <!-- paragraph -->
-El azar cuántico sería ilusión por ignorancia de en qué copia estás. Tu cerebro decoherencia constantemente, y la «conciencia cuántica» queda desmentida. El multiverso cuántico (nivel III) se unifica con el espacial (nivel I): la función de onda describe copias infinitas en el espacio.
+Entonces el azar cuántico sería ilusión por ignorancia de en qué copia estás. Tu cerebro decoherencia constantemente, y la «conciencia cuántica» queda desmentida. El multiverso cuántico (nivel III) se unifica con el espacial (nivel I): la función de onda describe copias infinitas en el espacio.
 
 <!-- paragraph -->
 Si el espacio es infinito y uniforme, colapsar la función de onda no cambia el resultado observable. Tegmark es escéptico sobre la «inmortalidad cuántica» subjetiva (lo retoma en cap. <span class="num">11</span>).
 
 <!-- quote -->
-> «When you come to a fork in the road, take it.»
+> «Cuando llegues a una bifurcación, tomala.» [When you come to a fork in the road, take it.]
 — Yogi Berra (epígrafe del capítulo)
 
 <!-- key -->
@@ -363,7 +363,7 @@ Si la externa es independiente de humanos, ¿por qué las matemáticas la descri
 La Hipótesis de Realidad Externa postula un mundo independiente de humanos. Una teoría del todo sin «equipaje» humano debe ser puramente matemática. Una estructura matemática es un conjunto de entidades abstractas con relaciones entre ellas (enteros, sólidos platónicos, etc.).
 
 <!-- paragraph -->
-Si aceptas realidad externa independiente de humanos, debes aceptar que la realidad física es estructura matemática. Nada más tiene descripción sin equipaje. El árbol de teorías (relatividad → mecánica clásica → química → biología) muestra derivaciones parciales, y la ToE estaría en la raíz.
+Por tanto, si aceptas realidad externa independiente de humanos, debes aceptar que la realidad física es estructura matemática. Nada más tiene descripción sin equipaje. El árbol de teorías (relatividad → mecánica clásica → química → biología) muestra derivaciones parciales, y la ToE estaría en la raíz.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -389,13 +389,13 @@ Si el universo es un objeto matemático eterno, el tiempo que sentimos podría s
 ¿Existe el «ahora» o solo lo inventamos? <span class="person">Einstein</span> afirmó que el pasado, presente y futuro son «ilusión persistente». Bajo la MUH, las estructuras matemáticas son eternas e inmutables: el espacio y el tiempo existen <em>en</em> ellas, no al revés.
 
 <!-- paragraph -->
-Tegmark compara la historia cósmica con una película grabada en un DVD completo. La estructura matemática sería ese disco entero. El flujo temporal, el cambio, la creación y la destrucción serían ilusiones. Tú eres una subestructura autoconsciente. En relatividad general, un «trenzado» complejo en el espaciotiempo. En cuántica, un patrón que ramifica.
+Entonces Tegmark compara la historia cósmica con una película grabada en un DVD completo. La estructura matemática sería ese disco entero. El flujo temporal, el cambio, la creación y la destrucción serían ilusiones. Tú eres una subestructura autoconsciente. En relatividad general, un «trenzado» complejo en el espaciotiempo. En cuántica, un patrón que ramifica.
 
 <!-- paragraph -->
 La realidad subjetiva cinematográfica existe solo en tu modelo cerebral, con recuerdos editados que simulan pasado. Los qualia («yo», «rojo», «dulce») son parte del modelo interno, no de la realidad externa matemática. La percepción de un punto de vista subjetivo es qualia igual que el color.
 
 <!-- quote -->
-> «The distinction between past, present, and future is only a stubbornly persistent illusion.»
+> «La distinción entre pasado, presente y futuro es solo una ilusión persistente y obstinada.» [The distinction between past, present, and future is only a stubbornly persistent illusion.]
 — Albert Einstein, 1955
 
 <!-- key -->
@@ -412,10 +412,10 @@ Si la matemática es lo fundamental, ¿cuántas estructuras matemáticas existen
 ## title: El multiverso de nivel IV
 
 <!-- paragraph lead -->
-¿Existen otros universos con matemáticas distintas a la nuestra? La MUH implica que existencia matemática = existencia física: todo lo que existe matemáticamente existe físicamente. Esto forma el <span class="term">multiverso de nivel IV</span> (otras estructuras matemáticas distintas a la nuestra).
+¿Existen otros universos con matemáticas distintas a la nuestra? Por eso la MUH implica que existencia matemática = existencia física: todo lo que existe matemáticamente existe físicamente. Esto forma el <span class="term">multiverso de nivel IV</span> (otras estructuras matemáticas distintas a la nuestra).
 
 <!-- paragraph -->
-El multiverso forma una jerarquía de cuatro niveles. El nivel I agrupa regiones lejanas del espacio. El nivel II incluye regiones post-inflacionarias. El nivel III contiene ramas cuánticas en espacio de Hilbert. El nivel IV abarca otras estructuras matemáticas. Explorar el nivel IV requiere computadoras e ideas, no cohetes.
+Así, el multiverso forma una jerarquía de cuatro niveles. El nivel I agrupa regiones lejanas del espacio. El nivel II incluye regiones post-inflacionarias. El nivel III contiene ramas cuánticas en espacio de Hilbert. El nivel IV abarca otras estructuras matemáticas. Explorar el nivel IV requiere computadoras e ideas, no cohetes.
 
 <!-- paragraph -->
 Estructuras simples pueden listarse como un «directorio telefónico» matemático. ¿Vivimos en una simulación? Tegmark argumenta que una simulación perfecta <em>es</em> otra estructura matemática y no refuta la MUH. La vida inteligente parece rara, y la mayoría de niveles I, II y IV serían inhabitables. El universo matemático más simple compatible con observaciones podría ser el nuestro.
@@ -443,7 +443,7 @@ Macro y micro convergen en matemáticas: falta preguntar qué significa eso para
 ¿Qué futuro le espera a la vida consciente en un universo matemático? Las expediciones hacia lo grande y lo pequeño convergen en estructuras matemáticas. En escalas humanas la tela matemática es fácil de ignorar. En las extremas, resulta evidente. Si la realidad es matemática, todo es en principio comprensible, limitados solo por la imaginación.
 
 <!-- paragraph -->
-El futuro del universo puede seguir varios escenarios. Big Chill (expansión acelerada). Big Crunch. Big Rip. Big Snap o burbujas de muerte. No hay evidencia de vida tan avanzada como la humana en todo el universo observable. El potencial futuro de la vida supera con creces lo visto hasta ahora.
+Pero el futuro del universo puede seguir varios escenarios: gran congelamiento (expansión acelerada), gran colapso, gran desgarro, gran quiebre o burbujas de muerte. No hay evidencia de vida tan avanzada como la humana en todo el universo observable. El potencial futuro de la vida supera con creces lo visto hasta ahora.
 
 <!-- paragraph -->
 Tegmark advierte sobre riesgos existenciales poco atendidos: guerra nuclear accidental e inteligencia artificial hostil. La perspectiva cósmica encoge los problemas cotidianos, como multas o desamores. La responsabilidad de preservar la vida consciente en el universo es enorme.
@@ -484,7 +484,7 @@ Macro y micro convergen en estructuras matemáticas. El futuro de la vida consci
 # cronologia
 
 ## num: ◈
-## title: Cronología de los descubrimientos
+## title: Cronología
 
 <!-- timeline -->
 | year | text |
@@ -533,7 +533,7 @@ Macro y micro convergen en estructuras matemáticas. El futuro de la vida consci
 
 <!-- closing -->
 La realidad física no solo se describe con matemáticas: bajo la Hipótesis del Universo Matemático, es una estructura matemática.
-El multiverso tiene cuatro niveles (espacial, inflacionario, cuántico y matemático), y desde la vista de pájaro el tiempo, el cambio y el azar cuántico serían ilusiones.
+Por eso el multiverso tiene cuatro niveles (espacial, inflacionario, cuántico y matemático), y desde la vista de pájaro el tiempo, el cambio y el azar cuántico serían ilusiones.
 <!-- highlight -->Nuestro universo no está hecho de matemáticas: nuestro universo es matemáticas<!-- /highlight -->
 Las expediciones al macro y al micro convergen en la misma conclusión.
 Somos subestructuras autoconscientes dentro de un objeto matemático colosal.

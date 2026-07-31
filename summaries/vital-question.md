@@ -16,7 +16,7 @@ lang: es
 | id | num | label |
 |----|-----|-------|
 | cierre | ★ | La idea central |
-| prefacio | 00 | Introducción |
+| prefacio | 00 | ¿Por qué es la vida como es? |
 | cap1 | 01 | ¿Qué es la vida? |
 | cap2 | 02 | ¿Qué es lo viviente? |
 | cap3 | 03 | Energía en el origen de la vida |
@@ -53,7 +53,7 @@ El océano profundo aún puede estar escribiendo el siguiente capítulo.
 ¿Por qué toda la vida compleja en la Tierra desciende de un solo ancestro ya sofisticado? Lane abre con un <span class="term">agujero negro</span> (un vacío sin explicación) en el corazón de la biología. Árboles, abejas y hongos comparten una célula ancestral que surgió una sola vez hace unos <span class="num">4 000 millones</span> de años.
 
 <!-- paragraph -->
-La vida apareció hacia los <span class="num">4 000 millones</span> de años. Permaneció atrapada en la simplicidad bacteriana más de <span class="num">2 000 millones</span>. Plantas, animales, hongos y protistas (organismos eucariotas diversos) descienden de un único ancestro hace <span class="num">1 500–2 000 millones</span> de años. No hay eslabones perdidos entre bacterias simples y todo lo demás. Gastamos miles de millones en biomedicina sin entender cómo evolucionaron las piezas de la célula.
+La vida apareció hacia los <span class="num">4 000 millones</span> de años. Permaneció atrapada en la simplicidad bacteriana más de <span class="num">2 000 millones</span>. Plantas, animales, hongos y protistas (organismos eucariotas diversos) descienden de un único ancestro hace <span class="num">1 500–2 000 millones</span> de años. No hay eslabones perdidos entre bacterias simples y todo lo demás. Por eso gastamos miles de millones en biomedicina sin entender cómo evolucionaron las piezas de la célula.
 
 <!-- paragraph -->
 Tres revoluciones moldearon el panorama. En <span class="num">1967</span>, Lynn Margulis propuso la <span class="term">endosimbiosis</span> (la incorporación de una célula dentro de otra). Carl Woese dividió la vida en tres dominios. La genómica moderna confirmó la predicción de Bill Martin en <span class="num">1998</span>. El huésped era un arquea simple que incorporó la bacteria ancestro de las mitocondrias.
@@ -78,13 +78,13 @@ Para saber si esa respuesta es general, hay que preguntar primero qué entendemo
 ¿Por qué la biología evolutiva predice tan poco sobre la vida en otros planetas? Los telescopios de <span class="term">SETI</span> (búsqueda de señales extraterrestres) en California escuchan el cosmos. Sus preguntas rebotan sobre la biología terrestre. La biología conoce la historia molecular, pero no distingue bien azar de ley física.
 
 <!-- paragraph -->
-El físico <span class="person">Erwin Schrödinger</span> publicó <em>What is Life?</em> en <span class="num">1944</span>. Propuso que la vida elude localmente la entropía mediante los genes como «cristal aperiódico» portador de código. La era del ADN comenzó en <span class="num">1953</span> con la estructura de la doble hélice. Eso convirtió la biología en ciencia de la información. Los genomas varían enormemente. Sin límites estructurales impuestos por la información, la biología no puede predecir la vida en otros planetas.
+El físico <span class="person">Erwin Schrödinger</span> publicó <em>¿Qué es la vida?</em> en <span class="num">1944</span>. Propuso que la vida elude localmente la entropía mediante los genes como «cristal aperiódico» portador de código. La era del ADN comenzó en <span class="num">1953</span> con la estructura de la doble hélice. Eso convirtió la biología en ciencia de la información. Los genomas varían enormemente. Sin límites estructurales impuestos por la información, la biología no puede predecir la vida en otros planetas.
 
 <!-- paragraph -->
 La historia temprana de la Tierra (~<span class="num">4 500 millones</span> de años) muestra océanos desde los cristales de circón más antiguos. La vida aparece hacia los <span class="num">3 800–3 500 millones</span> de años. Hacia los <span class="num">3 200 millones</span>, las bacterias ya dominaban casi todas las vías metabólicas. La fotosíntesis oxigénica desencadenó el <span class="term">Gran Evento de Oxidación</span> (la subida de oxígeno atmosférico hace ~<span class="num">2 400 millones</span> de años). Ese oxígeno transformó el planeta.
 
 <!-- paragraph -->
-La versión textbook dice que el oxígeno liberó restricciones y permitió células complejas por endosimbiosis gradual. Lane la considera incorrecta. El oxígeno no parece haber sido la clave. De serlo, veríamos muchos orígenes independientes de algas, hongos o fagocitos. La evidencia apunta a una <span class="term">radiación monofilética</span> (un solo origen eucariota con estasis prolongada). Los «archezoa» (como <span class="person">Giardia</span>) no son eslabones perdidos: perdieron mitocondrias por evolución reductiva.
+La versión de manual dice que el oxígeno liberó restricciones y permitió células complejas por endosimbiosis gradual. Lane la considera incorrecta. El oxígeno no parece haber sido la clave. De serlo, veríamos muchos orígenes independientes de algas, hongos o fagocitos. La evidencia apunta a una <span class="term">radiación monofilética</span> (un solo origen eucariota con estasis prolongada). Los «archezoa» (como <span class="person">Giardia</span>) no son eslabones perdidos: perdieron mitocondrias por evolución reductiva.
 
 <!-- concept-grid -->
 | icon | title | description |
@@ -189,7 +189,7 @@ La dirección del flujo de protones a través de la proteína Ech dividió bacte
 |------|-------|-------------|
 | 🌳 | Árbol desapareciente | 48 genes universales: misma raíz, ramas internas discordantes. |
 | ⚡ | Bifurcación electrónica | Truco energético de Thauer para reducir CO₂ con H₂. |
-| 🦠 | LUCA | Último ancestor común de bacterias y arqueas; vivió de gradientes en respiraderos. |
+| 🦠 | LUCA | Último ancestro común de bacterias y arqueas; vivió de gradientes en respiraderos. |
 | 🔄 | Ech | Proteína cuya dirección de flujo de protones explica la divergencia bacterias/arqueas. |
 
 <!-- key -->
@@ -329,7 +329,7 @@ La coevolución <span class="key-term">nuclear-mitocondrial</span> explica enfer
 | ~3 200 Ma | Bacterias con casi todas las vías metabólicas actuales. |
 | ~2 400 Ma | Gran Evento de Oxidación; oxígeno atmosférico. |
 | ~2 000 Ma | Fin de la estasis bacteriana morfológica; inicio eucariotas. |
-| 1944 | Schrödinger publica <em>What is Life?</em> |
+| 1944 | Schrödinger publica <em>¿Qué es la vida?</em> |
 | 1953 | Miller-Urey y estructura del ADN (Watson y Crick). |
 | 1967 | Margulis propone endosimbiosis. |
 | 1990 | Woese publica árbol de tres dominios. |
@@ -355,7 +355,7 @@ La coevolución <span class="key-term">nuclear-mitocondrial</span> explica enfer
 | Martin y Koonin | Hipótesis intrones-invasión y origen del núcleo. |
 | Ursula Mittwoch | Sexo determinado por tasa metabólica y crecimiento. |
 | J. B. S. Haldane | Regla de Haldane (1922) en híbridos. |
-| Erwin Schrödinger | <em>What is Life?</em> (1944); genes y entropía. |
+| Erwin Schrödinger | <em>¿Qué es la vida?</em> (1944); genes y entropía. |
 
 ---
 

@@ -29,7 +29,7 @@ lang: es
 | cap10 | 10 | Vivir lo suficiente para vivir más |
 | cap11 | 11 | De la ciencia a la medicina |
 | conceptos | ✦ | Conceptos clave |
-| cronologia | ◈ | Cronología |
+| cronologia | ◈ | Cronología de hitos |
 | figuras | ✦ | Figuras clave |
 
 ---
@@ -40,10 +40,10 @@ lang: es
 
 <!-- closing -->
 El envejecimiento no es un reloj misterioso ni un castigo inevitable.
-Es un conjunto de procesos biológicos que la ciencia ya puede ralentizar en el laboratorio.
+De hecho, es un conjunto de procesos biológicos que la ciencia ya puede ralentizar en el laboratorio.
 <!-- highlight -->curar el envejecimiento sería la mayor revolución médica desde los antibióticos<!-- /highlight -->
 La cura no llegará en una píldora milagrosa, sino como un rompecabezas de terapias que se renuevan con cada generación.
-Mientras tanto, estilo de vida y política pública pueden comprarnos años para llegar a esas medicinas.
+Por eso, mientras tanto, estilo de vida y política pública pueden comprarnos años para llegar a esas medicinas.
 El objetivo final es la senescencia negligible: envejecer sin perder salud solo por haber cumplido años.
 
 ---
@@ -89,7 +89,7 @@ La victoria sobre infecciosas, vacunas, nutrición y el declive del tabaco dupli
 En <span class="num">1960</span> había <span class="num">150 millones</span> de personas mayores de 65. En 2020 eran 700 millones.
 
 <!-- paragraph -->
-El modelo educación-trabajo-jubilación quedó obsoleto. La edad de pensión de <span class="num">65</span> años en el Reino Unido no cambió casi un siglo. Mientras tanto, la esperanza de vida subió <span class="num">23 años</span>. Un adulto mayor de <span class="num">80</span> cuesta al sistema sanitario unas cinco veces más que uno de <span class="num">30</span>. Aun así, la discapacidad grave en muy ancianos ha bajado.
+El modelo educación-trabajo-jubilación quedó obsoleto. La edad de pensión de <span class="num">65</span> años en el Reino Unido no cambió casi un siglo. Mientras tanto, la esperanza de vida subió <span class="num">23 años</span>. Un adulto mayor de <span class="num">80</span> cuesta al sistema sanitario unas cinco veces más que uno de <span class="num">30</span>. Aun así, la discapacidad grave en muy ancianos ha bajado, aunque la leve (artritis u otras molestias) parece aumentar.
 
 <!-- paragraph -->
 Nunca hubo fármacos aprobados específicamente contra el envejecimiento. Los reguladores solo autorizan tratamientos para enfermedades concretas. En <span class="num">2018</span> la OMS añadió el código <span class="term">XT9T</span> (clasificación internacional para condiciones relacionadas con la edad). Extrapolar la tendencia actual sugiere que muchos nacidos este siglo podrían llegar al siglo XXII en países ricos.
@@ -174,7 +174,7 @@ Steele agrupa daño al ADN, acortamiento de telómeros y problemas de proteínas
 | icon | title | description |
 |------|-------|-------------|
 | 🧟 | Células senescentes | Células que dejan de dividirse pero secretan inflamación (SASP) que daña tejidos vecinos. |
-| 🔥 | Inflammaging | Inflamación crónica de bajo grado que aumenta con la edad y acelera enfermedades. |
+| 🔥 | Inflammaging | Inflamación crónica de bajo grado (inflammaging) que aumenta con la edad y acelera enfermedades. |
 | 🦠 | Microbioma | Comunidad intestinal que envejece con nosotros; menos diversidad, más inflamación. |
 | 🛡️ | Inmunosenescencia | Declive del sistema inmune: involución tímica, CMV persistente, aterosclerosis. |
 
@@ -230,7 +230,7 @@ Donde la limpieza no basta, hay que reponer lo que el cuerpo ya no produce con l
 ## title: Dentro lo nuevo
 
 <!-- paragraph lead -->
-¿Qué pasa cuando eliminar no basta y hay que reponer? A veces hay que regenerar tejidos. Las <span class="term">células madre</span> (células capaces de diferenciarse en tipos especializados) y los trasplantes de médula ósea ya salvan vidas. <span class="person">Shinya Yamanaka</span> (<span class="num">2006</span>) permitió revertir células adultas a estado pluripotente (iPSC) sin rechazo inmune si provienen del propio paciente.
+¿Qué pasa cuando eliminar no basta y hay que reponer? Por eso, a veces hay que regenerar tejidos. Las <span class="term">células madre</span> (células capaces de diferenciarse en tipos especializados) y los trasplantes de médula ósea ya salvan vidas. <span class="person">Shinya Yamanaka</span> (<span class="num">2006</span>) permitió revertir células adultas a estado pluripotente (iPSC) sin rechazo inmune si provienen del propio paciente.
 
 <!-- paragraph -->
 Ensayos con células RPE derivadas de madre embrionaria mejoraron la visión en degeneración macular. Parkinson avanza con neuronas dopaminérgicas desde iPSC. La involutión del <span class="term">timo</span> (glándula que madura linfocitos T) explica por qué las vacunas fallan en ancianos. Hormonas, el gen FOXN1 o un timo cultivado en laboratorio podrían rejuvenecer la inmunidad.
@@ -258,7 +258,7 @@ Muchos daños, sin embargo, deben repararse in situ sin reemplazar tejidos enter
 ¿Se pueden reparar los daños sin reemplazar todo el tejido? Los telómeros (capas protectoras en los extremos de los cromosomas) se acortan en cada división. Eventualmente provocan senescencia o muerte celular.
 
 <!-- paragraph -->
-<span class="person">Elizabeth Blackburn</span> y Carol Greider descubrieron la <span class="term">telomerasa</span> (enzima que alarga telómeros) en 1984. Ganaron el Nobel en 2009. El cáncer explota esa enzima en el 90 % de tumores.
+<span class="person">Elizabeth Blackburn</span> y Carol Greider descubrieron la telomerasa en 1984. Ganaron el Nobel en 2009. El cáncer explota esa enzima en el 90 % de tumores.
 
 <!-- paragraph -->
 <span class="person">María Blasco</span> mostró que telomerasa más genes protectores extendió la vida de ratones un <span class="num">40 %</span> sin más cáncer. La <span class="term">parabiosis heterocrónica</span> (suturar ratones jóvenes y viejos) rejuveneció músculo, hígado y cerebro. Lo logró al cambiar señales sanguíneas, no al trasplantar células jóvenes. El plasma joven solo no basta: la sangre vieja también envenena.
@@ -338,9 +338,12 @@ Mientras esas terapias maduran, cada persona puede ganar años con decisiones co
 <!-- list -->
 - **No fumar** — Resta ~10 años; acelera casi todas las marcas (ADN, telómeros, senescencia, AGEs). Dejarlo recupera riesgo en años.
 - **Peso saludable** — La grasa visceral secreta inflamación; el IMC alto resta años y empeora diabetes.
+- **Alcohol con moderación** — Beber en exceso acorta la vida; la moderación forma parte del perfil de bajo riesgo.
 - **Ejercicio** — Incluso 30 minutos diarios reducen mortalidad; fortalece músculo, mitocondrias, telómeros y recambia colágeno.
-- **Sueño (7–8 h)** — El cerebro elimina amiloide al dormir; cataratas alteran ritmos circadianos.
-- **Vacunas e higiene** — Menos infecciones significa menos inflamación crónica de por vida.
+- **Alimentación saludable** — Una dieta equilibrada limita lo que la restricción calórica extrema intenta lograr sin ayunar.
+
+<!-- paragraph -->
+Además, dormir <span class="num">7–8 horas</span> ayuda al cerebro a eliminar amiloide, y vacunarse reduce la inflamación crónica que acelera el envejecimiento.
 
 <!-- paragraph -->
 La restricción calórica extrema en humanos sigue sin prueba de longevidad. Los macacos NIA frente a Wisconsin muestran que una dieta ya sana limita ganancias extra. El ayuno intermitente puede ayudar a algunos, con riesgos inmunes y óseos. Los suplementos antioxidantes generales no funcionan e incluso dañan (vitamina E, beta-caroteno).
@@ -362,7 +365,7 @@ Los hábitos individuales no bastan sin convertir la ciencia en medicina regulad
 ## title: De la ciencia a la medicina
 
 <!-- paragraph lead -->
-¿Qué falta para que la biogerontología llegue a la clínica? La disciplina necesita visibilidad y dinero. El <span class="term">NIA</span> (Instituto Nacional sobre el Envejecimiento de EE. UU.) recibe unos <span class="num">6 %</span> del presupuesto del NIH. El envejecimiento causa unos <span class="num">85 %</span> de muertes.
+¿Qué falta para que la biogerontología llegue a la clínica? Por eso, la disciplina necesita visibilidad y dinero. El <span class="term">NIA</span> (Instituto Nacional sobre el Envejecimiento de EE. UU.) recibe unos <span class="num">6 %</span> del presupuesto del NIH. El envejecimiento causa unos <span class="num">85 %</span> de muertes.
 
 <!-- paragraph -->
 Los reguladores no aprueban fármacos «contra el envejecimiento». El ensayo <span class="term">TAME</span> (Targeting Aging with Metformin) testará metformina en 3.000 adultos de 65–80 años. Lo lidera el geriatra <span class="person">Nir Barzilai</span>. Medirá aparición tardía de cáncer, cardiovascular y demencia. Busca establecer precedente con la FDA aunque el efecto sea modesto.

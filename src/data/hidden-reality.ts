@@ -46,7 +46,7 @@ export const hiddenReality: BookSummary = {
   {
     "id": "cap6",
     "num": "06",
-    "label": "Nueva luz sobre una vieja constante"
+    "label": "Nuevo pensamiento sobre una vieja constante"
   },
   {
     "id": "cap7",
@@ -56,7 +56,7 @@ export const hiddenReality: BookSummary = {
   {
     "id": "cap8",
     "num": "08",
-    "label": "Los muchos mundos cuánticos"
+    "label": "Los muchos mundos de la medición cuántica"
   },
   {
     "id": "cap9",
@@ -66,7 +66,7 @@ export const hiddenReality: BookSummary = {
   {
     "id": "cap10",
     "num": "10",
-    "label": "Universos, computadoras y matemática"
+    "label": "Universos, computadoras y realidad matemática"
   },
   {
     "id": "cap11",
@@ -81,7 +81,7 @@ export const hiddenReality: BookSummary = {
   {
     "id": "cronologia",
     "num": "◈",
-    "label": "Cronología"
+    "label": "Cronología de hitos"
   },
   {
     "id": "figuras",
@@ -98,7 +98,7 @@ export const hiddenReality: BookSummary = {
     {
       id: "prefacio",
       num: "Prefacio",
-      title: "Más allá de la apariencia cotidiana",
+      title: "Prefacio",
       blocks: [
         {
           type: 'paragraph',
@@ -187,7 +187,7 @@ export const hiddenReality: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Entonces habría copias tuyas leyendo este resumen, y variantes casi iguales o radicalmente distintas.",
+          html: "Por eso, en un cosmos infinito deben existir copias tuyas leyendo este resumen, junto con variantes casi iguales o radicalmente distintas.",
         },
         {
           type: 'paragraph',
@@ -347,7 +347,7 @@ export const hiddenReality: BookSummary = {
           type: 'concept-grid',
           items: [
             {
-              "title": "Braneworld",
+              "title": "Mundo-rebanada",
               "description": "Universo = rebanada en dimensiones extra; luz confinada, gravedad libre.",
               "icon": "🍞"
             },
@@ -376,7 +376,7 @@ export const hiddenReality: BookSummary = {
     {
       id: "cap6",
       num: "06",
-      title: "Nueva luz sobre una vieja constante",
+      title: "Nuevo pensamiento sobre una vieja constante",
       blocks: [
         {
           type: 'paragraph',
@@ -457,7 +457,7 @@ export const hiddenReality: BookSummary = {
     {
       id: "cap8",
       num: "08",
-      title: "Los muchos mundos cuánticos",
+      title: "Los muchos mundos de la medición cuántica",
       blocks: [
         {
           type: 'paragraph',
@@ -526,7 +526,7 @@ export const hiddenReality: BookSummary = {
     {
       id: "cap10",
       num: "10",
-      title: "Universos, computadoras y matemática",
+      title: "Universos, computadoras y realidad matemática",
       blocks: [
         {
           type: 'paragraph',
@@ -535,7 +535,7 @@ export const hiddenReality: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Crear burbujas inflacionarias aisladas dejaría solo un agujero negro aparente en el laboratorio. Eso haría imposible verificar el hijo cósmico. Es más plausible considerar <span class=\"term\">universos simulados</span> (realidades generadas por cómputo con suficiente potencia). El functionalismo sostiene que la mente es procesamiento de información y que no importa si el sustrato es carbono o silicio.",
+          html: "Crear burbujas inflacionarias aisladas dejaría solo un agujero negro aparente en el laboratorio, así que sería imposible verificar el hijo cósmico. Por eso, es más plausible considerar <span class=\"term\">universos simulados</span> (realidades generadas por cómputo con suficiente potencia). El <span class=\"term\">functionalismo</span> (la idea de que la mente es procesamiento de información) sostiene que no importa si ese procesamiento ocurre en carbono o en silicio.",
         },
         {
           type: 'paragraph',
@@ -622,7 +622,7 @@ export const hiddenReality: BookSummary = {
     "description": "Burbujas eternas separadas más rápido que la luz; interiores posiblemente infinitos."
   },
   {
-    "title": "Braneworld",
+    "title": "Mundo-rebanada",
     "description": "Universo en una brana; gravedad se filtra por dimensiones extra."
   },
   {

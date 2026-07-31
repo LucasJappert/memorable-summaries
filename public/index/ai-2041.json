@@ -32,15 +32,15 @@
     },
     {
       "title": "3R",
-      "description": "Relearn, recalibrate, renaissance: estrategia ante desplazamiento laboral."
+      "description": "Reaprender, recalibrar, renacer: estrategia ante desplazamiento laboral."
     },
     {
-      "title": "Plenitude",
+      "title": "Plenitud",
       "description": "Post-escasez tecnológica con necesidades cubiertas y trabajo opcional."
     },
     {
       "title": "Privacidad computacional",
-      "description": "Federated learning, TEE y cifrado para entrenar IA sin centralizar datos sensibles."
+      "description": "Aprendizaje federado, entornos de ejecución confiables (TEE) y cifrado para entrenar IA sin centralizar datos sensibles."
     }
   ],
   "highlight": "El futuro no está escrito, pero sí exige decisiones colectivas ahora",
@@ -123,7 +123,7 @@
     {
       "sectionId": "cap2",
       "sectionTitle": "Dioses tras las máscaras",
-      "text": "Lee explica la visión por computadora , es decir software que interpreta imágenes mediante filtros jerárquicos. Esos filtros detectan rasgos desde líneas hasta objetos completos. Los GAN entrenan un falsificador contra un detective hasta equilibrio. Hoy muchos deepfakes son detectables. En 2041, la carrera dependerá del cómputo disponible, como ventanas antibalas frente a granadas."
+      "text": "Lee explica la visión por computadora , es decir software que interpreta imágenes mediante filtros jerárquicos. Esos filtros detectan rasgos desde líneas hasta objetos completos. Los GAN entrenan un falsificador contra un detective hasta equilibrio. Sin embargo, hoy muchos deepfakes son detectables. En 2041, la carrera dependerá del cómputo disponible, como ventanas antibalas frente a granadas."
     },
     {
       "sectionId": "cap2",
@@ -183,7 +183,7 @@
     {
       "sectionId": "cap4",
       "sectionTitle": "Amor sin contacto",
-      "text": "AlphaFold 2 ( 2020 ) resolvió el plegamiento proteico, un desafío de cincuenta años, y aceleró fármacos y vacunas. La IA superará radiólogos y patólogos antes que médicos generales. Las cirugías robóticas pasaron del 1,8 % al 15,1 % entre 2012 y 2018. IBM Watson fracasó al entrenarse con datos «didácticos» pequeños en lugar de resultados clínicos reales."
+      "text": "AlphaFold 2 ( 2020 ) resolvió el plegamiento proteico, un desafío de cincuenta años, y aceleró fármacos y vacunas. La IA superará radiólogos y patólogos antes que médicos generales. Entre 2012 y 2018, las cirugías robóticas pasaron del 1,8 % al 15,1 %. Pero IBM Watson fracasó al entrenarse con datos «didácticos» pequeños en lugar de resultados clínicos reales."
     },
     {
       "sectionId": "cap4",
@@ -263,7 +263,7 @@
     {
       "sectionId": "cap6",
       "sectionTitle": "El conductor sagrado",
-      "text": "Chamal descubre que humanos y IA cometen errores distintos. La IA carece de sentido común contextual. El humano carece de consistencia y de memoria colectiva de billones de kilómetros. Lee aboga por debate público sobre trade-offs antes de prohibir conducción humana en autopistas."
+      "text": "Chamal descubre que humanos y IA cometen errores distintos. La IA carece de sentido común contextual. El humano carece de consistencia y de memoria colectiva de billones de kilómetros. Por eso, Lee aboga por debate público sobre trade-offs antes de prohibir conducción humana en autopistas."
     },
     {
       "sectionId": "cap6",

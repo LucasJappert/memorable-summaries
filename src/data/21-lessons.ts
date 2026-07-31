@@ -148,7 +148,7 @@ export const twentyOneLessons: BookSummary = {
     {
       id: "prefacio",
       num: "Prefacio",
-      title: "Claridad en un mundo inundado de información",
+      title: "Introducción",
       blocks: [
         {
           type: 'paragraph',
@@ -181,7 +181,7 @@ export const twentyOneLessons: BookSummary = {
     {
       id: "cap1",
       num: "01",
-      title: "Desilusión — Se pospuso el fin de la historia",
+      title: "Desilusión",
       blocks: [
         {
           type: 'paragraph',
@@ -190,7 +190,7 @@ export const twentyOneLessons: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El relato liberal celebra la libertad: democracia, derechos humanos, mercados libres y bienestar estatal. Parecía destinado a conquistar el mundo. La crisis financiera de 2008 cambió el clima. Crecieron muros, resistencia a la inmigración y autoritarismos. Brexit y Donald Trump, en 2016, marcaron cuando la ola llegó al núcleo liberal occidental. En 1938 había tres historias. En 1968, dos. En 1998, una. En 2018, cero.",
+          html: "El relato liberal celebra la libertad: democracia, derechos humanos, mercados libres y bienestar estatal. Parecía destinado a conquistar el mundo. Pero la crisis financiera de 2008 cambió el clima. Crecieron muros, resistencia a la inmigración y autoritarismos. Brexit y Donald Trump, en 2016, marcaron cuando la ola llegó al núcleo liberal occidental. En 1938 había tres historias. En 1968, dos. En 1998, una. En 2018, cero.",
         },
         {
           type: 'paragraph',
@@ -229,7 +229,7 @@ export const twentyOneLessons: BookSummary = {
     {
       id: "cap2",
       num: "02",
-      title: "Trabajo — Cuando crezcas quizá no tengas trabajo",
+      title: "Trabajo",
       blocks: [
         {
           type: 'paragraph',
@@ -274,7 +274,7 @@ export const twentyOneLessons: BookSummary = {
     {
       id: "cap3",
       num: "03",
-      title: "Libertad — El Big Data te vigila",
+      title: "Libertad",
       blocks: [
         {
           type: 'paragraph',
@@ -307,7 +307,7 @@ export const twentyOneLessons: BookSummary = {
     {
       id: "cap4",
       num: "04",
-      title: "Igualdad — Quienes poseen los datos poseen el futuro",
+      title: "Igualdad",
       blocks: [
         {
           type: 'paragraph',
@@ -316,7 +316,7 @@ export const twentyOneLessons: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "La IA podría eliminar el valor económico de la mayoría. La biotecnología traduciría desigualdad económica en <span class=\"term\">desigualdad biológica</span>, o sea, ventajas corporales y cognitivas heredables. Superhumanos ricos frente a una clase inútil de <em>Homo sapiens</em>. Hacia <span class=\"num\">2100</span>, los ricos podrían ser genuinamente más talentosos, no solo más privilegiados legalmente. Eso abriría una brecha casi imposible de cerrar.",
+          html: "La IA podría eliminar el valor económico de la mayoría. Por eso, la biotecnología traduciría desigualdad económica en <span class=\"term\">desigualdad biológica</span>, o sea, ventajas corporales y cognitivas heredables. Superhumanos ricos frente a una clase inútil de <em>Homo sapiens</em>. Hacia <span class=\"num\">2100</span>, los ricos podrían ser genuinamente más talentosos, no solo más privilegiados legalmente. Eso abriría una brecha casi imposible de cerrar.",
         },
         {
           type: 'paragraph',
@@ -343,7 +343,7 @@ export const twentyOneLessons: BookSummary = {
     {
       id: "cap5",
       num: "05",
-      title: "Comunidad — Los humanos tienen cuerpos",
+      title: "Comunidad",
       blocks: [
         {
           type: 'paragraph',
@@ -356,7 +356,7 @@ export const twentyOneLessons: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Las comunidades online carecen de profundidad física. Nadie te trae sopa por WiFi. La tecnología nos aleja del cuerpo. Miramos smartphones en lugar de la pareja en el desayuno. Zuckerberg quiere que compartamos experiencias. Quizá necesitamos herramientas para conectar con nuestras propias sensaciones. El puente online-offline es la prueba decisiva de Facebook.",
+          html: "Las comunidades online carecen de profundidad física. Por eso, nadie te trae sopa por WiFi. La tecnología nos aleja del cuerpo. Miramos smartphones en lugar de la pareja en el desayuno. Zuckerberg quiere que compartamos experiencias. Quizá necesitamos herramientas para conectar con nuestras propias sensaciones. El puente online-offline es la prueba decisiva de Facebook.",
         },
         {
           type: 'key',
@@ -371,7 +371,7 @@ export const twentyOneLessons: BookSummary = {
     {
       id: "cap6",
       num: "06",
-      title: "Civilización — Solo hay una civilización en el mundo",
+      title: "Civilización",
       blocks: [
         {
           type: 'paragraph',
@@ -384,7 +384,7 @@ export const twentyOneLessons: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Salud, riqueza y ciencia son estándares globales. Las diferencias culturales son «condimentos» sobre el mismo plato. Cuando algo funciona de verdad, todo el mundo lo adopta. Antibióticos, electricidad y constituciones son ejemplos. Hablar de civilizaciones separadas e irreconciliables es mala historia y peor política.",
+          html: "Salud, riqueza y ciencia son estándares globales. De hecho, las diferencias culturales son «condimentos» sobre el mismo plato. Cuando algo funciona de verdad, todo el mundo lo adopta. Antibióticos, electricidad y constituciones son ejemplos. Hablar de civilizaciones separadas e irreconciliables es mala historia y peor política.",
         },
         {
           type: 'key',
@@ -399,7 +399,7 @@ export const twentyOneLessons: BookSummary = {
     {
       id: "cap7",
       num: "07",
-      title: "Nacionalismo — Los problemas globales requieren respuestas globales",
+      title: "Nacionalismo",
       blocks: [
         {
           type: 'paragraph',
@@ -412,7 +412,11 @@ export const twentyOneLessons: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Tres desafíos exigen respuestas globales, no muros. La <span class=\"term\">guerra nuclear</span>, o sea, el riesgo de aniquilación masiva, puede destruir civilizaciones enteras. El <span class=\"term\">colapso ecológico</span>, o sea, el calentamiento y la pérdida de biodiversidad, ya es realidad presente. La disrupción tecnológica atraviesa fronteras sin pedir permiso. Reducir emisiones en veinte años es urgente. Gritar «¡nuestro país primero!» sin cooperación robusta no protege ni al país ni al planeta.",
+          html: "Tres desafíos exigen respuestas globales, no muros. Por eso, la <span class=\"term\">guerra nuclear</span> (aniquilación masiva) amenaza civilizaciones enteras. El calentamiento global y la pérdida de biodiversidad ya son realidad presente.",
+        },
+        {
+          type: 'paragraph',
+          html: "Además, la disrupción tecnológica atraviesa fronteras sin pedir permiso. Reducir emisiones en veinte años es urgente. Gritar «¡nuestro país primero!» sin cooperación robusta no protege ni al país ni al planeta.",
         },
         {
           type: 'timeline',
@@ -444,7 +448,7 @@ export const twentyOneLessons: BookSummary = {
     {
       id: "cap8",
       num: "08",
-      title: "Religión — Dios ahora sirve a la nación",
+      title: "Religión",
       blocks: [
         {
           type: 'paragraph',
@@ -472,7 +476,7 @@ export const twentyOneLessons: BookSummary = {
     {
       id: "cap9",
       num: "09",
-      title: "Inmigración — Algunas culturas pueden ser mejor que otras",
+      title: "Inmigración",
       blocks: [
         {
           type: 'paragraph',
@@ -485,7 +489,7 @@ export const twentyOneLessons: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "Pro-inmigración ve derecho moral a buscar mejor vida. Anti-inmigración ve privilegio del anfitrión de elegir. La asimilación plantea otra pregunta. ¿Basta la tolerancia liberal o se exige adoptar una identidad nacional específica? Las escalas chocan. Para el Estado, cuarenta años es poco. Para un joven nacido en Francia, es toda la vida.",
+          html: "Pro-inmigración ve derecho moral a buscar mejor vida. Anti-inmigración ve privilegio del anfitrión de elegir. En cambio, la asimilación plantea otra pregunta. ¿Basta la tolerancia liberal o se exige adoptar una identidad nacional específica? Las escalas chocan. Para el Estado, cuarenta años es poco. Para un joven nacido en Francia, es toda la vida.",
         },
         {
           type: 'key',
@@ -500,7 +504,7 @@ export const twentyOneLessons: BookSummary = {
     {
       id: "cap10",
       num: "10",
-      title: "Terrorismo — No entres en pánico",
+      title: "Terrorismo",
       blocks: [
         {
           type: 'paragraph',
@@ -509,7 +513,7 @@ export const twentyOneLessons: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El terrorismo es estrategia de actores débiles. Busca cambiar la política mediante el miedo, no el daño material. Como la mosca que no puede romper la vajilla, entra en el oído del toro. Después del 11-S, Estados Unidos destruyó la tienda en Oriente Medio. El enemigo conserva todas sus opciones militares. El estado pierde los nervios y sobre-reacciona.",
+          html: "El terrorismo es estrategia de actores débiles. Por eso, busca cambiar la política mediante el miedo, no el daño material. Como la mosca que no puede romper la vajilla, entra en el oído del toro. Después del 11-S, Estados Unidos destruyó la tienda en Oriente Medio. El enemigo conserva todas sus opciones militares. El estado pierde los nervios y sobre-reacciona.",
         },
         {
           type: 'paragraph',
@@ -545,7 +549,7 @@ export const twentyOneLessons: BookSummary = {
     {
       id: "cap11",
       num: "11",
-      title: "Guerra — Nunca subestimes la estupidez humana",
+      title: "Guerra",
       blocks: [
         {
           type: 'paragraph',
@@ -573,7 +577,7 @@ export const twentyOneLessons: BookSummary = {
     {
       id: "cap12",
       num: "12",
-      title: "Humildad — No eres el centro del mundo",
+      title: "Humildad",
       blocks: [
         {
           type: 'paragraph',
@@ -601,7 +605,7 @@ export const twentyOneLessons: BookSummary = {
     {
       id: "cap13",
       num: "13",
-      title: "Dios — No tomes el nombre de Dios en vano",
+      title: "Dios",
       blocks: [
         {
           type: 'paragraph',
@@ -629,7 +633,7 @@ export const twentyOneLessons: BookSummary = {
     {
       id: "cap14",
       num: "14",
-      title: "Secularismo — Reconoce tu sombra",
+      title: "Secularismo",
       blocks: [
         {
           type: 'paragraph',
@@ -657,7 +661,7 @@ export const twentyOneLessons: BookSummary = {
     {
       id: "cap15",
       num: "15",
-      title: "Ignorancia — Sabes menos de lo que crees",
+      title: "Ignorancia",
       blocks: [
         {
           type: 'paragraph',
@@ -685,7 +689,7 @@ export const twentyOneLessons: BookSummary = {
     {
       id: "cap16",
       num: "16",
-      title: "Justicia — Nuestro sentido de la justicia puede estar desfasado",
+      title: "Justicia",
       blocks: [
         {
           type: 'paragraph',
@@ -713,7 +717,7 @@ export const twentyOneLessons: BookSummary = {
     {
       id: "cap17",
       num: "17",
-      title: "Posverdad — Algunas fake news duran para siempre",
+      title: "Posverdad",
       blocks: [
         {
           type: 'paragraph',
@@ -741,7 +745,7 @@ export const twentyOneLessons: BookSummary = {
     {
       id: "cap18",
       num: "18",
-      title: "Ciencia ficción — El futuro no es lo que ves en el cine",
+      title: "Ciencia ficción",
       blocks: [
         {
           type: 'paragraph',
@@ -769,7 +773,7 @@ export const twentyOneLessons: BookSummary = {
     {
       id: "cap19",
       num: "19",
-      title: "Educación — El cambio es la única constante",
+      title: "Educación",
       blocks: [
         {
           type: 'paragraph',
@@ -782,7 +786,7 @@ export const twentyOneLessons: BookSummary = {
         },
         {
           type: 'paragraph',
-          html: "El modelo vida de aprendizaje más vida de trabajo se rompe. La longevidad y el cambio acelerado obligan a reinventarse a los 25, 35 y 45. La resiliencia emocional ante lo desconocido importa más que saber C++ o chino. Quizá obsoletos antes de los treinta.",
+          html: "El modelo vida de aprendizaje más vida de trabajo se rompe. Por eso, la longevidad y el cambio acelerado obligan a reinventarse a los 25, 35 y 45. La resiliencia emocional ante lo desconocido importa más que saber C++ o chino. Quizá obsoletos antes de los treinta.",
         },
         {
           type: 'key',
@@ -797,7 +801,7 @@ export const twentyOneLessons: BookSummary = {
     {
       id: "cap20",
       num: "20",
-      title: "Significado — La vida no es una historia",
+      title: "Significado",
       blocks: [
         {
           type: 'paragraph',
@@ -825,7 +829,7 @@ export const twentyOneLessons: BookSummary = {
     {
       id: "cap21",
       num: "21",
-      title: "Meditación — Solo observa",
+      title: "Meditación",
       blocks: [
         {
           type: 'paragraph',

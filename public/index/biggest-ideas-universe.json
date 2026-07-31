@@ -103,12 +103,12 @@
     {
       "sectionId": "cap2",
       "sectionTitle": "Cambio",
-      "text": "El paradigma laplaciano (la idea de que el estado inicial fija toda la evolución) sostiene una tesis fuerte. Dado el estado inicial, las leyes determinan toda la trayectoria pasada y futura. Isaac Newton publicó los Principia en 1687 , presionado por el astrónomo Edmond Halley. Allí aparecen F = ma y la gravitación universal F ∝ 1/r². Newton derivó las leyes de Johannes Kepler desde fuerzas locales en cada instante, no desde descripciones globales de órbitas elípticas."
+      "text": "El paradigma laplaciano (la idea de que el estado inicial fija toda la evolución) sostiene una tesis fuerte. Por eso, dado el estado inicial, las leyes determinan toda la trayectoria pasada y futura. Isaac Newton publicó los Principia en 1687 , presionado por el astrónomo Edmond Halley. Allí aparecen F = ma y la gravitación universal F ∝ 1/r². Newton derivó las leyes de Johannes Kepler desde fuerzas locales en cada instante, no desde descripciones globales de órbitas elípticas."
     },
     {
       "sectionId": "cap2",
       "sectionTitle": "Cambio",
-      "text": "La gravedad es universal (la misma ley rige en la Tierra y en el cielo). Explica manzanas cayendo y planetas orbitando. Integrar aceleración reconstruye velocidad y posición. Derivar posición da velocidad. Son operadores inversos entre sí, aunque integrar suele ser más difícil que derivar."
+      "text": "Además, la gravedad es universal (la misma ley rige en la Tierra y en el cielo). Explica manzanas cayendo y planetas orbitando. Integrar aceleración reconstruye velocidad y posición. Derivar posición da velocidad. Son operadores inversos entre sí, aunque integrar suele ser más difícil que derivar."
     },
     {
       "sectionId": "cap2",
@@ -143,12 +143,12 @@
     {
       "sectionId": "cap3",
       "sectionTitle": "Dinámica",
-      "text": "Energía cinética K = ½mv² más potencial V(x) suman un total conservado. En un valle parabólico aparece el oscilador armónico simple (movimiento sinusoidal alrededor de un equilibrio). Es exactamente soluble y omnipresente: muelles, átomos, campos. Cerca de cualquier equilibrio, casi todo sistema se comporta como parábola."
+      "text": "Por eso, energía cinética K = ½mv² más potencial V(x) suman un total conservado. En un valle parabólico aparece el oscilador armónico simple (movimiento sinusoidal alrededor de un equilibrio). Es exactamente soluble y omnipresente: muelles, átomos, campos. Cerca de cualquier equilibrio, casi todo sistema se comporta como parábola."
     },
     {
       "sectionId": "cap3",
       "sectionTitle": "Dinámica",
-      "text": "El espacio de fases (el par {posición, momento}) fija la evolución. Alternativamente, el principio de mínima acción (formulación de Lagrange) postula que la trayectoria real extremiza la acción S = ∫(K − V)dt. Es equivalente a Newton, aunque el físico Richard Feynman advirtió que formulaciones matemáticamente equivalentes no son psicológicamente idénticas al explorar lo desconocido."
+      "text": "De ahí que el espacio de fases (el par {posición, momento}) fije la evolución. Alternativamente, el principio de mínima acción (formulación de Lagrange) postula que la trayectoria real extremiza la acción S = ∫(K − V)dt. Es equivalente a Newton, aunque el físico Richard Feynman advirtió que formulaciones matemáticamente equivalentes no son psicológicamente idénticas al explorar lo desconocido."
     },
     {
       "sectionId": "cap3",
@@ -218,7 +218,7 @@
     {
       "sectionId": "cap5",
       "sectionTitle": "Tiempo",
-      "text": "La flecha del tiempo no está en las ecuaciones fundamentales: emerge del universo de baja entropía cerca del Big Bang."
+      "text": "La flecha macroscópica exige un pasado cósmico especial: un Big Bang denso y de baja entropía, no violaciones de simetría en partículas."
     },
     {
       "sectionId": "cap5",
@@ -233,12 +233,12 @@
     {
       "sectionId": "cap6",
       "sectionTitle": "Espaciotiempo",
-      "text": "Hay dos nociones de tiempo. Una es la coordenada t (etiqueta convencional). La otra es el tiempo propio τ (lo que marca un reloj viajero). En espacio, la recta es el camino más corto. En espaciotiempo, la trayectoria inercial maximiza el tiempo propio. El intervalo de Minkowski (medida de separación en 4D) se define como τ² = Δt² − Δx² con c = 1."
+      "text": "Por eso hay dos nociones de tiempo. Una es la coordenada t (etiqueta convencional). La otra es el tiempo propio τ (lo que marca un reloj viajero). En espacio, la recta es el camino más corto. En espaciotiempo, la trayectoria inercial maximiza el tiempo propio. El intervalo de Minkowski (medida de separación en 4D) se define como τ² = Δt² − Δx² con c = 1."
     },
     {
       "sectionId": "cap6",
       "sectionTitle": "Espaciotiempo",
-      "text": "Más movimiento espacial implica menos tiempo propio. El experimento de los gemelos no es paradoja: caminos distintos, duraciones distintas. La velocidad c convierte unidades espacio↔tiempo y fija conos de luz que sustituyen la simultaneidad absoluta. E = mc² unifica energía y momento como componente temporal del cuadrimomento."
+      "text": "De ahí que más movimiento espacial implique menos tiempo propio. El experimento de los gemelos no es paradoja: caminos distintos, duraciones distintas. La velocidad c convierte unidades espacio↔tiempo y fija conos de luz que sustituyen la simultaneidad absoluta. E = mc² unifica energía y momento como componente temporal del cuadrimomento."
     },
     {
       "sectionId": "cap6",
@@ -258,7 +258,7 @@
     {
       "sectionId": "cap7",
       "sectionTitle": "Geometría",
-      "text": "Los matemáticos Carl Friedrich Gauss y Bernhard Riemann desarrollaron geometría intrínseca, medible desde dentro sin embedding en espacio mayor. Una variedad (manifold, conjunto de puntos con dimensión definida) es el objeto básico. Al hacer zoom infinitesimal, parece plano euclídeo. Un cilindro es plano intrínsecamente aunque parezca curvo desde fuera."
+      "text": "Por eso, los matemáticos Carl Friedrich Gauss y Bernhard Riemann desarrollaron geometría intrínseca, medible desde dentro sin embedding en espacio mayor. Una variedad (manifold, conjunto de puntos con dimensión definida) es el objeto básico. Al hacer zoom infinitesimal, parece plano euclídeo. Un cilindro es plano intrínsecamente aunque parezca curvo desde fuera."
     },
     {
       "sectionId": "cap7",
@@ -343,7 +343,7 @@
     {
       "sectionId": "cierre",
       "sectionTitle": "Cierre",
-      "text": "La física moderna cabe en ecuaciones comprensibles."
+      "text": "En suma, la física moderna cabe en ecuaciones comprensibles."
     },
     {
       "sectionId": "cierre",

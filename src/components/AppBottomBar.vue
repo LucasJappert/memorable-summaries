@@ -13,6 +13,7 @@ import {
   libraryCatalogQuery,
   libraryCatalogSearchOpen,
   libraryCatalogMatchCount,
+  libraryCatalogSuggestions,
   toggleLibraryCatalogSearch,
   closeLibraryCatalogSearch,
 } from '../composables/useLibraryCatalogSearch'
@@ -34,24 +35,29 @@ const book = computed(() => bookBarState.value)
 const showShareToast = ref(false)
 const shareUrl = ref('')
 
+const usesCatalogSearch = computed(() => isLibrary.value || isBook.value)
+
 const searchActive = computed(() =>
-  isLibrary.value ? libraryCatalogSearchOpen.value : globalSearchOpen.value,
+  usesCatalogSearch.value ? libraryCatalogSearchOpen.value : globalSearchOpen.value,
 )
 
-const searchHasQuery = computed(
-  () => isLibrary.value && libraryCatalogQuery.value.trim().length > 0,
-)
+const searchHasQuery = computed(() => libraryCatalogQuery.value.trim().length > 0)
 
 const searchMatchBadge = computed(() => {
-  if (!searchHasQuery.value) return null
-  const n = libraryCatalogMatchCount.value
+  if (!usesCatalogSearch.value || !searchHasQuery.value) return null
+  const n = isLibrary.value
+    ? libraryCatalogMatchCount.value
+    : libraryCatalogSuggestions.value.length
   return n > 99 ? '99+' : String(n)
 })
 
 const searchAriaLabel = computed(() => {
-  if (!isLibrary.value) return 'Buscar en libros leídos'
+  if (!usesCatalogSearch.value) return 'Buscar en libros leídos'
   if (searchHasQuery.value) {
-    return `Buscar libros, ${libraryCatalogMatchCount.value} coincidencias`
+    const n = isLibrary.value
+      ? libraryCatalogMatchCount.value
+      : libraryCatalogSuggestions.value.length
+    return `Buscar libros, ${n} coincidencias`
   }
   return 'Buscar libros'
 })
@@ -84,7 +90,7 @@ function closeShareToast() {
 
 function onSearchClick() {
   closeAppNavMenu()
-  if (isLibrary.value) {
+  if (usesCatalogSearch.value) {
     closeGlobalSearch()
     toggleLibraryCatalogSearch()
     return
@@ -251,6 +257,27 @@ function onQueueClick() {
               fill="currentColor"
             />
           </svg>
+        </button>
+
+        <button
+          type="button"
+          class="app-bottom-bar__btn"
+          :class="{ 'app-bottom-bar__btn--active': searchActive }"
+          :aria-pressed="searchActive"
+          :aria-label="searchAriaLabel"
+          @click="onSearchClick"
+        >
+          <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+            <path
+              d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+              fill="currentColor"
+            />
+          </svg>
+          <span
+            v-if="searchMatchBadge"
+            class="app-bottom-bar__badge"
+            aria-hidden="true"
+          >{{ searchMatchBadge }}</span>
         </button>
 
         <button

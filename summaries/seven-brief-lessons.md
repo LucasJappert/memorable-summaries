@@ -14,16 +14,16 @@ lang: es
 
 | id | num | label |
 |----|-----|-------|
-| prefacio | 00 | Prefacio |
-| cap1 | 01 | La teoría más bella |
-| cap2 | 02 | Quanta |
+| prefacio | 00 | Siete lecciones para quien no sabe nada |
+| cap1 | 01 | La teoría más bella (relatividad general) |
+| cap2 | 02 | Quanta (mecánica cuántica) |
 | cap3 | 03 | Arquitectura del cosmos |
-| cap4 | 04 | Partículas |
-| cap5 | 05 | Granos de espacio |
+| cap4 | 04 | Partículas (Modelo Estándar) |
+| cap5 | 05 | Granos de espacio (gravedad cuántica) |
 | cap6 | 06 | Probabilidad, tiempo y calor de agujeros negros |
-| cap7 | 07 | Nosotros |
+| cap7 | 07 | Nosotros (cierre reflexivo) |
 | conceptos | ✦ | Conceptos clave |
-| cronologia | ◈ | Cronología |
+| cronologia | ◈ | Cronología de hitos |
 | figuras | ✦ | Figuras clave |
 | cierre | — | La idea central |
 
@@ -83,7 +83,7 @@ Si el espacio puede curvarse, ¿qué ocurre cuando miramos la materia en lo más
 ¿Por qué la mecánica cuántica funciona tan bien y aún nos deja confusos? La relatividad general es una gema de una sola mente. La cuántica, en cambio, es un éxito experimental enorme envuelto en misterio. Nació en <span class="num">1900</span>, cuando <span class="person">Max Planck</span> repartió la energía en «cuantos» (paquetes discretos) para explicar la luz de un cuerpo caliente.
 
 <!-- paragraph -->
-Einstein (<span class="num">1905</span>) mostró que esos paquetes de luz son reales: los <span class="term">fotones</span> (partículas de luz). En Copenhague, <span class="person">Niels Bohr</span> comprendió que los electrones solo ocupan ciertos niveles de energía. <span class="person">Werner Heisenberg</span> fue más radical: el electrón no «está» siempre ahí, sino que aparece al interactuar. De esa idea sale toda la química.
+Einstein (<span class="num">1905</span>) mostró que esos paquetes de luz son reales: los <span class="term">fotones</span> (partículas de luz). En Copenhague, <span class="person">Niels Bohr</span> comprendió que los electrones solo ocupan ciertos niveles de energía. <span class="person">Werner Heisenberg</span> fue más radical: el electrón no «está» siempre ahí, sino que aparece al interactuar. De ahí sale toda la química.
 
 <!-- paragraph -->
 La probabilidad quedó en el corazón de la física. Einstein nominó a Heisenberg al Nobel, pero rechazó la interpretación: «Dios no juega a los dados». Bohr defendió que la realidad es relacional. Un siglo después seguimos sin acuerdo: ¿realidad indescribible, teoría incompleta o interacción como esencia?
@@ -127,7 +127,7 @@ Si el cosmos es inmenso, ¿de qué ladrillos está hecha la materia ordinaria?
 ¿Cuántos tipos de ladrillos hacen falta para construir lo tangible? Todo lo que tocamos está hecho de electrones y <span class="term">quarks</span> (piezas que forman protones y neutrones). Los gluones «pegan» esos quarks. Junto con fotones, neutrinos y el bosón de Higgs (detectado en <span class="num">2013</span> en el CERN), hay menos de diez tipos de piezas elementales.
 
 <!-- paragraph -->
-Esas partículas no son piedras eternas. Son excitaciones efímeras de campos cuánticos: un vacío que nunca está del todo vacío. El <span class="term">Modelo Estándar</span> (años 1970) predice con precisión extraordinaria lo medido en el laboratorio. Aun así parece «parcheado», y algunos trucos matemáticos dejan mal sabor.
+Esas partículas no son piedras eternas. Son excitaciones efímeras de campos cuánticos en un vacío que nunca está del todo vacío. El <span class="term">Modelo Estándar</span> (años 1970) predice con precisión extraordinaria lo medido en el laboratorio. Aun así parece «parcheado», y algunos trucos matemáticos dejan mal sabor.
 
 <!-- paragraph -->
 Su gran límite es la <span class="term">materia oscura</span>: masa que atrae gravitatoriamente alrededor de las galaxias pero no encaja en las partículas conocidas. Teorías elegantes fallaron en experimentos clave. Por eso el mapa de la materia sigue incompleto.
@@ -193,10 +193,10 @@ Con ese mapa del cosmos, ¿dónde quedamos nosotros?
 ¿Qué somos en un cosmos de cuantos y campos? Observadores que construyen una «fotografía» de la realidad. Nodos en una red de intercambio de información. Parte integral del mundo, no espectadores externos.
 
 <!-- paragraph -->
-Schelling creía que el hombre era la cumbre de la naturaleza. Hoy sabemos que somos un rincón remoto, parientes de mariposas y álamos. Kant pensaba categorías universales, pero esas categorías evolucionan con nuestra especie. La ciencia no es ficción de campamento: sigue rastros, dispuesta a corregir el rumbo si aparece una pista mejor.
+El filósofo Schelling creía que el hombre era la cumbre de la naturaleza. Hoy sabemos que somos un rincón remoto, parientes de mariposas y álamos. Kant suponía categorías del entendimiento universales, pero esas categorías evolucionan con nuestra especie. Por eso la ciencia no es ficción de campamento: sigue rastros y corrige el rumbo si aparece una pista mejor.
 
 <!-- paragraph -->
-La libertad no viola las leyes naturales: actuar según procesos neuronales internos. Para Spinoza, el «yo» es ese complejo neuronal. La consciencia sigue abierta. Valores, lágrimas y música son reales precisamente por ser naturaleza. Somos una especie curiosa, quizá breve, pero en casa.
+La libertad no viola las leyes naturales: consiste en actuar según procesos neuronales internos. Para Spinoza, el «yo» es ese complejo neuronal. La consciencia, en cambio, sigue siendo un frente abierto. Valores, lágrimas y música son reales precisamente por ser naturaleza. Somos una especie curiosa, quizá breve, pero en casa.
 
 <!-- quote -->
 > «No estamos hechos de algo distinto a la naturaleza; somos naturaleza, en una de sus infinitas variaciones.»
