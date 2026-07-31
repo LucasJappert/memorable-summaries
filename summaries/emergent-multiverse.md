@@ -44,7 +44,7 @@ lang: es
 <!-- closing -->
 En suma, no hay problema de la medición en la mecánica cuántica unitaria.
 El conflicto aparente nace de tratar «observación» y «colapso» como postulados primitivos en lugar de leer la teoría literalmente.
-<!-- highlight -->los mundos ramificados son reales, emergentes y compatibles con nuestros datos<!-- /highlight -->
+<!-- highlight -->Los mundos ramificados son reales, emergentes y compatibles con nuestros datos<!-- /highlight -->
 Por eso la decoherencia explica por qué vemos un mundo cuasi-clásico.
 La regla de Born emerge de simetrías y racionalidad, no de un colapso mágico.
 La mecánica cuántica everettiana es simplemente la mecánica cuántica misma.

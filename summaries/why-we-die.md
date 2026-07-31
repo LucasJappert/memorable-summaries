@@ -42,7 +42,7 @@ lang: es
 <!-- closing -->
 Morimos porque el cuerpo acumula daño y la evolución diseñó cuerpos desechables, no genes eternos.
 La biología molecular ya identifica telómeros, epigenética, mitocondrias y senescencia como palancas del declive.
-<!-- highlight -->podemos ralentizar el envejecimiento, pero extender la vida sin pensar la sociedad sería peligroso<!-- /highlight -->
+<!-- highlight -->Podemos ralentizar el envejecimiento, pero extender la vida sin pensar la sociedad sería peligroso<!-- /highlight -->
 La criogenia promete sin evidencia; la ciencia seria exige ensayos, no profetas.
 Si comprimimos la morbilidad, ganamos años sanos; si no, empeoramos desigualdad y pensiones.
 La pregunta final no es solo «¿podemos?» sino «¿cómo repartimos el beneficio?».

@@ -37,7 +37,7 @@ lang: es
 <!-- closing -->
 Por eso, las grandes preguntas sobre el origen ya no pertenecen a la filosofía ni a la teología.
 Así, la física moderna muestra que los universos surgen solos de la nada, guiados por leyes naturales.
-<!-- highlight -->no hace falta invocar a Dios para explicar por qué hay algo en lugar de nada<!-- /highlight -->
+<!-- highlight -->No hace falta invocar a Dios para explicar por qué hay algo en lugar de nada<!-- /highlight -->
 La teoría M y el multiverso completan la imagen que Historia del tiempo dejó abierta.
 Nuestra existencia selecciona, entre innumerables cosmos, el que puede albergar vida.
 La ciencia lleva la antorcha del descubrimiento en la búsqueda del Gran Diseño.

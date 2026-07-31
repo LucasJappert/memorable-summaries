@@ -756,7 +756,7 @@ export const selfishGene: BookSummary = {
   "Entender la lógica evolutiva no nos obliga a obedecerla: abre la puerta a desafiar a nuestros diseñadores.",
   "Genes y memes nos moldean, pero solo nosotros podemos rebelarnos contra ambos replicadores."
 ],
-    highlight: "pero podemos rebelarnos contra ellos",
+    highlight: "Pero podemos rebelarnos contra ellos",
   },
   footer: {
     line1: "Resumen generado a partir de la obra de Richard Dawkins",

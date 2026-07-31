@@ -41,7 +41,7 @@ lang: es
 <!-- closing -->
 El envejecimiento no es un reloj misterioso ni un castigo inevitable.
 De hecho, es un conjunto de procesos biológicos que la ciencia ya puede ralentizar en el laboratorio.
-<!-- highlight -->curar el envejecimiento sería la mayor revolución médica desde los antibióticos<!-- /highlight -->
+<!-- highlight -->Curar el envejecimiento sería la mayor revolución médica desde los antibióticos<!-- /highlight -->
 La cura no llegará en una píldora milagrosa, sino como un rompecabezas de terapias que se renuevan con cada generación.
 Por eso, mientras tanto, estilo de vida y política pública pueden comprarnos años para llegar a esas medicinas.
 El objetivo final es la senescencia negligible: envejecer sin perder salud solo por haber cumplido años.

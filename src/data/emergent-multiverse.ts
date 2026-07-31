@@ -615,7 +615,7 @@ export const emergentMultiverse: BookSummary = {
   "La regla de Born emerge de simetrías y racionalidad, no de un colapso mágico.",
   "La mecánica cuántica everettiana es simplemente la mecánica cuántica misma."
 ],
-    highlight: "los mundos ramificados son reales, emergentes y compatibles con nuestros datos",
+    highlight: "Los mundos ramificados son reales, emergentes y compatibles con nuestros datos",
   },
   footer: {
     line1: "Resumen generado a partir de la obra de David Wallace",

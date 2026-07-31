@@ -611,7 +611,7 @@ export const ageless: BookSummary = {
   "Por eso, mientras tanto, estilo de vida y política pública pueden comprarnos años para llegar a esas medicinas.",
   "El objetivo final es la senescencia negligible: envejecer sin perder salud solo por haber cumplido años."
 ],
-    highlight: "curar el envejecimiento sería la mayor revolución médica desde los antibióticos",
+    highlight: "Curar el envejecimiento sería la mayor revolución médica desde los antibióticos",
   },
   footer: {
     line1: "Resumen generado a partir de la obra de Andrew Steele",

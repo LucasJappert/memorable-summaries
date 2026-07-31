@@ -55,7 +55,7 @@ Todo en español: prosa, `<!-- key -->`, labels de TOC, `## title:`, subtítulo,
 3. Verificar que `# conceptos`, `# cronologia`, `# figuras` y `# cierre` también estén en español claro.
 4. Glosar extranjerismos evidentes sin traducción (`feedback`, `stakeholder`, etc.).
 5. Suavizar saltos de tono entre capítulos (sin reescribir tesis).
-6. Verificar que `# cierre` refleje la tesis global del esqueleto.
+6. Verificar que `# cierre` refleje la tesis global del esqueleto y que el `<!-- highlight -->` sea una oración completa con mayúscula inicial.
 
 ### 5. Qué NO hacer
 

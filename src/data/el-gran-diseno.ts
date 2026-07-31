@@ -486,7 +486,7 @@ export const elGranDiseno: BookSummary = {
   "Nuestra existencia selecciona, entre innumerables cosmos, el que puede albergar vida.",
   "La ciencia lleva la antorcha del descubrimiento en la búsqueda del Gran Diseño."
 ],
-    highlight: "no hace falta invocar a Dios para explicar por qué hay algo en lugar de nada",
+    highlight: "No hace falta invocar a Dios para explicar por qué hay algo en lugar de nada",
   },
   footer: {
     line1: "Resumen generado a partir de la obra de Stephen Hawking y Leonard Mlodinow",

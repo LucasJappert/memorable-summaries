@@ -43,7 +43,7 @@
       "description": "Marco que unifica patologías del declive bajo una causa tratable."
     }
   ],
-  "highlight": "envejecer es una enfermedad, y las enfermedades se tratan",
+  "highlight": "Envejecer es una enfermedad, y las enfermedades se tratan",
   "entries": [
     {
       "sectionId": "cierre",
@@ -73,7 +73,7 @@
     {
       "sectionId": "cierre",
       "sectionTitle": "Cierre",
-      "text": "envejecer es una enfermedad, y las enfermedades se tratan"
+      "text": "Envejecer es una enfermedad, y las enfermedades se tratan"
     },
     {
       "sectionId": "prefacio",

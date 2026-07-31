@@ -73,7 +73,7 @@ Tras redactar, pasar por `01c` (prosa seccional) y **`01d-revision-editorial.md`
 | `<!-- list -->`           | Viñetas con **término** — definición                                                                                                                                                                                           |
 | `<!-- figures -->`        | Tabla name\|role — personajes históricos                                                                                                                                                                                       |
 | `<!-- bridge -->`         | **Una oración** al final de `# capN` (excepto el último) que explique por qué el siguiente capítulo sigue lógicamente. Mantiene el hilo conductor.                                                                             |
-| `<!-- closing -->`        | **2 líneas** + `<!-- highlight -->` + **3 líneas**; el texto del highlight **no** se repite en las líneas. Refleja la tesis final del libro.                                                                                   |
+| `<!-- closing -->`        | **2 líneas** + `<!-- highlight -->` + **3 líneas**; el texto del highlight **no** se repite en las líneas. Refleja la tesis final del libro. El highlight es una **oración completa** y empieza con **mayúscula**. |
 
 ### Marcadores semánticos (en párrafos y listas)
 

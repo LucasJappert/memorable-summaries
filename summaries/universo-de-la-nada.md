@@ -41,7 +41,7 @@ lang: es
 <!-- closing -->
 La nada no es la nada tranquila que imaginábamos: es inestable.
 Un universo puede surgir de ella sin espacio, sin tiempo y sin un creador.
-<!-- highlight -->el universo no solo pudo surgir de la nada: probablemente debía hacerlo<!-- /highlight -->
+<!-- highlight -->El universo no solo pudo surgir de la nada: probablemente debía hacerlo<!-- /highlight -->
 Por eso, la energía total del cosmos puede ser exactamente cero.
 Todo lo que existe sería una fluctuación sobre ese cero.
 Somos la parte de la nada que, por un instante, aprendió a preguntarse por sí misma.

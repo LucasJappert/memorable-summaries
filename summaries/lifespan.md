@@ -40,7 +40,7 @@ lang: es
 <!-- closing -->
 El envejecimiento no es el precio inevitable de vivir.
 Es una pérdida tratable de información que las células olvidan leer.
-<!-- highlight -->envejecer es una enfermedad, y las enfermedades se tratan<!-- /highlight -->
+<!-- highlight -->Envejecer es una enfermedad, y las enfermedades se tratan<!-- /highlight -->
 Podemos activar circuitos ancestrales con estilo de vida, fármacos y reprogramación celular.
 Pero hace falta inversión pública y equidad para que el futuro no sea solo para quienes puedan pagarlo.
 La ciencia ya avanza; la sociedad debe decidir qué mundo quiere cuando la juventud dure mucho más.

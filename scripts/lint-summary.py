@@ -685,6 +685,13 @@ def lint_file(path: Path) -> list[LintIssue]:
                             f"[cierre] se esperan 5 líneas (2+highlight+3), hay {before}"
                         )
                     )
+                plain_hl = re.sub(r"<[^>]+>", "", highlight).strip().lstrip("«\"'“”")
+                if plain_hl and plain_hl[0].islower():
+                    issues.append(
+                        LintIssue(
+                            f"[cierre] highlight debe empezar con mayúscula: «{highlight[:60]}»"
+                        )
+                    )
             check_connectors(sid, section, [], issues)
             continue
 

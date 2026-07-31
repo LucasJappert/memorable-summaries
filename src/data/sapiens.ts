@@ -775,7 +775,7 @@ export const sapiens: BookSummary = {
   "La pregunta ya no es de dónde venimos, sino hacia qué nos convertimos.",
   "Cada capítulo de esta obra fue, en el fondo, una pregunta sobre ese destino."
 ],
-    highlight: "la historia no nos hizo más felices, y por primera vez podemos dejar de ser Homo sapiens",
+    highlight: "La historia no nos hizo más felices, y por primera vez podemos dejar de ser Homo sapiens",
   },
   footer: {
     line1: "Resumen generado a partir de la obra de Yuval Noah Harari",

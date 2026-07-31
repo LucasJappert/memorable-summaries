@@ -510,7 +510,7 @@ export const whyWeDie: BookSummary = {
   "Si comprimimos la morbilidad, ganamos años sanos; si no, empeoramos desigualdad y pensiones.",
   "La pregunta final no es solo «¿podemos?» sino «¿cómo repartimos el beneficio?»."
 ],
-    highlight: "podemos ralentizar el envejecimiento, pero extender la vida sin pensar la sociedad sería peligroso",
+    highlight: "Podemos ralentizar el envejecimiento, pero extender la vida sin pensar la sociedad sería peligroso",
   },
   footer: {
     line1: "Resumen generado a partir de la obra de Venki Ramakrishnan",

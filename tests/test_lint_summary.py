@@ -111,7 +111,7 @@ La cooperación masiva supera la fuerza individual.
 <!-- closing -->
 La historia humana es cooperación masiva.
 Por eso los mitos compartidos unen millones de extraños.
-<!-- highlight -->cooperar a escala es nuestro superpoder<!-- /highlight -->
+<!-- highlight -->Cooperar a escala es nuestro superpoder<!-- /highlight -->
 Los imperios nacen de historias comunes.
 El futuro depende de qué mitos elijamos.
 La ciencia es un mito que funciona.
@@ -160,7 +160,7 @@ El deshielo transformó la estepa.
 <!-- closing -->
 El pasado profundo avisa sobre el futuro.
 Por eso reconstruir ecosistemas importa.
-<!-- highlight -->el registro fósil es laboratorio<!-- /highlight -->
+<!-- highlight -->El registro fósil es laboratorio<!-- /highlight -->
 Los climas cambian con o sin humanos.
 La extinción deja huellas en la roca.
 Mirar atrás orienta decisiones presentes.

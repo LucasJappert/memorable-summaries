@@ -541,7 +541,7 @@ export const universoNada: BookSummary = {
   "Todo lo que existe sería una fluctuación sobre ese cero.",
   "Somos la parte de la nada que, por un instante, aprendió a preguntarse por sí misma."
 ],
-    highlight: "el universo no solo pudo surgir de la nada: probablemente debía hacerlo",
+    highlight: "El universo no solo pudo surgir de la nada: probablemente debía hacerlo",
   },
   footer: {
     line1: "Resumen generado a partir de la obra de Lawrence M. Krauss",

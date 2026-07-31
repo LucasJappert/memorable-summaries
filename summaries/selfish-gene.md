@@ -469,7 +469,7 @@ El gen ejerce un <span class="key-term">largo alcance</span>: su fenotipo incluy
 <!-- closing -->
 Somos máquinas de supervivencia construidas por genes replicadores egoístas.
 La unidad de selección no es la especie ni el individuo, sino el gen que persiste.
-<!-- highlight -->pero podemos rebelarnos contra ellos<!-- /highlight -->
+<!-- highlight -->Pero podemos rebelarnos contra ellos<!-- /highlight -->
 El altruismo por parentesco o reciprocidad es egoísmo génico disfrazado, no bondad abstracta.
 Entender la lógica evolutiva no nos obliga a obedecerla: abre la puerta a desafiar a nuestros diseñadores.
 Genes y memes nos moldean, pero solo nosotros podemos rebelarnos contra ambos replicadores.

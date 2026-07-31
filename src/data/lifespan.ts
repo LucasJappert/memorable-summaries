@@ -613,7 +613,7 @@ export const lifespan: BookSummary = {
   "Pero hace falta inversión pública y equidad para que el futuro no sea solo para quienes puedan pagarlo.",
   "La ciencia ya avanza; la sociedad debe decidir qué mundo quiere cuando la juventud dure mucho más."
 ],
-    highlight: "envejecer es una enfermedad, y las enfermedades se tratan",
+    highlight: "Envejecer es una enfermedad, y las enfermedades se tratan",
   },
   footer: {
     line1: "Resumen generado a partir de la obra de David A. Sinclair y Matthew D. LaPlante",

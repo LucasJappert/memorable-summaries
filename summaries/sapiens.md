@@ -50,7 +50,7 @@ lang: es
 <!-- closing -->
 Somos un animal que triunfó cooperando en masa gracias a ficciones compartidas.
 Por eso cada revolución cognitiva, agrícola y científica nos dio poder y nos cobró un precio enorme.
-<!-- highlight -->la historia no nos hizo más felices, y por primera vez podemos dejar de ser Homo sapiens<!-- /highlight -->
+<!-- highlight -->La historia no nos hizo más felices, y por primera vez podemos dejar de ser Homo sapiens<!-- /highlight -->
 El trigo, el dinero y el algoritmo nos domesticaron tanto como nosotros a ellos.
 La pregunta ya no es de dónde venimos, sino hacia qué nos convertimos.
 Cada capítulo de esta obra fue, en el fondo, una pregunta sobre ese destino.

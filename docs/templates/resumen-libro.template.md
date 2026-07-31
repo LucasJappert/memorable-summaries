@@ -48,7 +48,7 @@ lang: es
 Primera línea de la tesis.
 Segunda línea que desarrolla.
 
-<!-- highlight -->frase más importante<!-- /highlight -->
+<!-- highlight -->Frase más importante<!-- /highlight -->
 
 Cuarta línea.
 Quinta línea.
