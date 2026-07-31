@@ -5,8 +5,11 @@ import { defineConfig, type Plugin } from 'vite'
 import { VitePWA } from 'vite-plugin-pwa'
 
 function buildVersion(): string {
+  // Preferir el commit: un redeploy del mismo commit no debe contar como versión nueva.
+  // COMMIT_REF = Netlify; GITHUB_SHA = GitHub Actions.
   return (
     process.env.GITHUB_SHA?.slice(0, 12) ??
+    process.env.COMMIT_REF?.slice(0, 12) ??
     process.env.GIT_COMMIT?.slice(0, 12) ??
     `local-${Date.now().toString(36)}`
   )
@@ -14,11 +17,14 @@ function buildVersion(): string {
 
 function versionJsonPlugin(version: string): Plugin {
   return {
-    name: 'emit-version-json',
+    name: 'emit-app-version-json',
     apply: 'build',
     closeBundle() {
+      // Nombre distinto de `version.json`: los clientes con el bucle de reload
+      // siguen pidiendo ese path; al 404ar, su `checkForAppUpdate` sale sin
+      // recargar y el SW nuevo puede instalarse. Ver useAppUpdate.ts.
       writeFileSync(
-        resolve('dist/version.json'),
+        resolve('dist/app-version.json'),
         JSON.stringify({ version, builtAt: new Date().toISOString() }, null, 2),
       )
     },
@@ -32,7 +38,7 @@ export default defineConfig(({ mode }) => {
   const version = buildVersion()
   // Debe coincidir con la entry del precache (`index.html`), no con la URL pública
   // (`/memorable-summaries/index.html`) — si no, Workbox tira non-precached-url.
-  const navigateFallback = 'index.html'
+  const offlineNavigationFallback = 'index.html'
 
   return {
     base,
@@ -84,25 +90,28 @@ export default defineConfig(({ mode }) => {
           ],
         },
         workbox: {
-          // App shell en precache (exigido por navigateFallback / createHandlerBoundToURL).
-          // Solo index.html raíz — no precachear dist/libro/** (SEO).
-          // Navigations online: NetworkFirst abajo actualiza html-pages.
+          // App shell en precache: solo index.html raíz — no precachear dist/libro/** (SEO).
           maximumFileSizeToCacheInBytes: 3 * 1024 * 1024,
           globPatterns: ['**/*.{js,css,svg,png,woff,woff2}', 'index.html'],
-          navigateFallback,
-          navigateFallbackDenylist: [/^\/_/, /\/[^/?]+\.[^/]+$/],
+          // `navigateFallback: undefined` anula el default del plugin (`index.html`):
+          // generaba una NavigationRoute contra el precache registrada ANTES de
+          // runtimeCaching, así que tras un deploy toda navegación seguía sirviendo el
+          // HTML viejo → mismatch de versión permanente → bucle de recarga.
+          // El fallback offline ahora vive en el `precacheFallback` de abajo.
+          navigateFallback: undefined,
           runtimeCaching: [
             {
+              // El HTML nunca sale de cache: así un deploy entrega los assets nuevos
+              // en la primera navegación. Offline cae al index.html del precache,
+              // que siempre es coherente con los assets precacheados.
               urlPattern: ({ request }) => request.mode === 'navigate',
-              handler: 'NetworkFirst',
+              handler: 'NetworkOnly',
               options: {
-                cacheName: 'html-pages',
-                networkTimeoutSeconds: 3,
-                expiration: { maxEntries: 1 },
+                precacheFallback: { fallbackURL: offlineNavigationFallback },
               },
             },
             {
-              urlPattern: /\/version\.json$/,
+              urlPattern: /\/app-version\.json$/,
               handler: 'NetworkOnly',
             },
             {
