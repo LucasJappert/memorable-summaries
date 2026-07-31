@@ -1,0 +1,436 @@
+{
+  "slug": "how-we-learn",
+  "title": "Cómo aprendemos: Por qué el cerebro aprende mejor que cualquier máquina hoy",
+  "concepts": [
+    {
+      "title": "Cuatro pilares",
+      "description": "Atención, compromiso activo, error, consolidación (incl. sueño)."
+    },
+    {
+      "title": "Conocimiento núcleo",
+      "description": "Intuiciones innatas de objetos, número, probabilidad, personas."
+    },
+    {
+      "title": "Reciclaje neuronal",
+      "description": "Reorientar circuitos evolutivos hacia lectura, matemáticas, etc."
+    },
+    {
+      "title": "Error de predicción",
+      "description": "Señal de sorpresa que ajusta modelos internos."
+    },
+    {
+      "title": "Plasticidad sináptica",
+      "description": "Cambio hebbiano de conexiones según experiencia."
+    },
+    {
+      "title": "Explosión combinatoria",
+      "description": "Combinar parámetros genera espacio vasto de hipótesis."
+    },
+    {
+      "title": "Lenguaje del pensamiento",
+      "description": "Símbolos recursivos para abstracción y reglas generales."
+    },
+    {
+      "title": "Homo docens",
+      "description": "Especie que se enseña mediante cultura y escuela."
+    }
+  ],
+  "highlight": "Atención, compromiso activo, retroalimentación correctiva y consolidación —incluido el sueño— son los cuatro pilares de toda enseñanza eficaz.",
+  "entries": [
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Homo docens",
+      "text": "¿Qué reglas gobiernan el aprendizaje cuando el cerebro se recupera de traumas enormes y falla de formas selectivas? En 2009 , Felipe , un niño brasileño tetrapléjico y ciego por un disparo, escribía novelas trilingües desde su cama en el hospital Sarah de Brasilia. Casos como el suyo muestran la extraordinaria plasticidad (capacidad del cerebro de reorganizarse tras una lesión)."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Homo docens",
+      "text": "Helen Keller confirma ese poder. También el matemático ciego Emmanuel Giroux y el pintor Nico con medio cerebro. Pero la plasticidad es caprichosa. La alexia pura (pérdida de la lectura con el resto del lenguaje intacto) puede dejar a lectores brillantes incapaces de leer «perro» tras un microictus. Otros niños superan lesiones enormes."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Homo docens",
+      "text": "El neurocientífico Stanislas Dehaene pregunta qué reglas gobiernan el aprendizaje. También pregunta si entenderlas ayudaría a enseñar mejor y a construir máquinas más eficientes. El genoma humano (~ 750 MB ) no puede pre-cablear las ~ 10¹⁵ conexiones sinápticas posibles: aprender complementa los genes."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Homo docens",
+      "text": "Incluso el nematodo C. elegans (un gusano microscópico con solo 302 neuronas) aprende por habituación y asociación. Adaptarse al entorno concreto es más rápido que esperar mutaciones. Dehaene llama a nuestra especie Homo docens (la que se enseña a sí misma). La escuela amplifica esa capacidad si respeta los cuatro pilares cerebrales."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Homo docens",
+      "text": "Si no supiéramos cómo aprendemos, ¿cómo sabríamos enseñar?"
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Homo docens",
+      "text": "Aprender es la mayor ventaja evolutiva humana. La escuela la multiplica, pero solo si se apoyan en los algoritmos reales del cerebro."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Homo docens",
+      "text": "Para entender esos algoritmos, Dehaene empieza traduciendo el aprendizaje en definiciones precisas que también usan las máquinas."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Siete definiciones de aprendizaje",
+      "text": "¿Qué significa «aprender» en términos concretos? Dehaene propone siete definiciones que también guían a las redes neuronales artificiales. La primera dice que aprender es formar un modelo interno del mundo exterior (mapas mentales del barrio, del cuerpo, del lenguaje o de otras mentes). Incluso soñar es simular con esos modelos."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Siete definiciones de aprendizaje",
+      "text": "Los datos sensoriales carecen de sentido cuando faltan esos modelos internos. La segunda definición es ajustar parámetros — calibrar variables del modelo, como prismas que desplazan la visión. La tercera aprovecha la explosión combinatoria (combinar pocos parámetros genera un espacio enorme de hipótesis)."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Siete definiciones de aprendizaje",
+      "text": "Unos ~ 50 parámetros binarios de gramática generan millones de lenguas posibles en una jerarquía de modelos anidados. La cuarta minimiza errores, como hace LeNet de Yann LeCun para códigos postales. Cada error indica cómo corregir conexiones mediante descenso de gradiente."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Siete definiciones de aprendizaje",
+      "text": "La quinta explora el espacio de posibilidades con aleatoriedad y curiosidad. La sexta optimiza una función de recompensa (actor-crítico, AlphaGo). La séptima restringe la búsqueda e impone hipótesis a priori. Las redes convolucionales asumen que lo aprendido en un punto sirve en todo el campo visual, como el genoma fija hiperparámetros cerebrales."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Siete definiciones de aprendizaje",
+      "text": "Las siete definiciones convergen: aprender es ajustar un modelo jerárquico minimizando sorpresa sobre restricciones innatas."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Siete definiciones de aprendizaje",
+      "text": "Con ese marco algorítmico, Dehaene compara cerebro y máquina para ver dónde sigue ganando la biología."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Por qué el cerebro aprende mejor que las máquinas",
+      "text": "¿Por qué el cerebro humano sigue aprendiendo mejor que las mejores máquinas? Las redes profundas imitan el procesamiento visual inconsciente de los primeros 200 ms , pero el cerebro humano tiene razonamiento lento, simbólico y explícito. El investigador Yoshua Bengio advierte que muchas redes aprenden regularidades superficiales, no conceptos abstractos."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Por qué el cerebro aprende mejor que las máquinas",
+      "text": "Un banano con un sticker puede clasificarse como tostadora. El cerebro conserva ventajas claras. La abstracción (captar la esencia de «A» en cualquier fuente) supera a los píxeles. La eficiencia de datos (aprender mucho de pocos ejemplos) hace que niños Tsimane aprendan con ~ 60 h /año de habla. Los sistemas artificiales necesitan miles de horas."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Por qué el cerebro aprende mejor que las máquinas",
+      "text": "También destacan el aprendizaje social y el aprendizaje en un solo ensayo. La sistematicidad (aplicar reglas generales como «cada número tiene sucesor») y la composición de habilidades aprendidas completan la ventaja. El filósofo Jerry Fodor postuló un lenguaje del pensamiento recursivo. Descartes ya sospechaba que las máquinas no compondrían significados como los humanos."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Por qué el cerebro aprende mejor que las máquinas",
+      "text": "AlphaGo no generaliza a variantes del tablero. El cerebro actúa además como estadístico bayesiano: rastrea probabilidades de forma óptima desde el nacimiento. Eso complementa, no sustituye, el reconocimiento rápido tipo red profunda."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Por qué el cerebro aprende mejor que las máquinas",
+      "text": "**Conceptos abstractos** — Esencia de objetos, no píxeles superficiales."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Por qué el cerebro aprende mejor que las máquinas",
+      "text": "**Datos eficientes** — Aprender mucho de pocos ejemplos."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Por qué el cerebro aprende mejor que las máquinas",
+      "text": "**Gramática de dominio** — Inferir leyes generales, no solo patrones."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Por qué el cerebro aprende mejor que las máquinas",
+      "text": "Homo sapiens combina reconocimiento rápido y razonamiento simbólico consciente que las máquinas aún no igualan."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Por qué el cerebro aprende mejor que las máquinas",
+      "text": "Esas ventajas empiezan muy pronto, porque los bebés ya traen hipótesis innatas que la conducta aún no revela."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Conocimiento invisible de los bebés",
+      "text": "¿Los bebés son pizarras vacías? John Locke y Jean-Jacques Rousseau popularizaron esa metáfora. Pero el recién nacido ya tiene conocimiento núcleo (intuiciones innatas sobre objetos, número y personas). Ese saber es invisible porque aún no se manifiesta en conducta madura."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Conocimiento invisible de los bebés",
+      "text": "En el concepto de objeto, los bebés se sorprenden si un sólido desaparece, atravesa paredes o se parte en dos varillas. En el sentido numérico (capacidad innata de discriminar cantidades), discriminan cardinalidades. Incluso reaccionan a «1+1=2» y a «5+5≠5». Según Dehaene, Jean Piaget subestimó lo innato."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Conocimiento invisible de los bebés",
+      "text": "Objetos y números se refinan con experiencia, no se inventan de cero. En probabilidad bayesiana, los bebés miran más tiempo resultados improbables en urnas de bolas. También hacen inferencia inversa. La psicóloga Fei Xu y colegas muestran deducción lógica antes del lenguaje articulado."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Conocimiento invisible de los bebés",
+      "text": "Los bebés infieren intenciones ajenas y actúan como científicos estadísticos. Simulan, predicen y se sorprenden ante violaciones de sus expectativas."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Conocimiento invisible de los bebés",
+      "text": "Los bebés proyectan hipótesis innatas sobre el mundo y las ponen a prueba estadísticamente desde el primer año de vida."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Conocimiento invisible de los bebés",
+      "text": "Ese conocimiento temprano descansa sobre un cerebro que ya nace preorganizado, no vacío."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Nacimiento de un cerebro",
+      "text": "¿Nace el cerebro vacío o ya estructurado? Según el filósofo Gaston Bachelard , el niño nace con cerebro inacabado , no vacío. La resonancia magnética funcional de Ghislaine Dehaene-Lambertz mostró que bebés de 2 meses activan la misma jerarquía lingüística que adultos."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Nacimiento de un cerebro",
+      "text": "El sonido llega al auditivo, luego al temporal y finalmente al área de Broca (región clave del lenguaje articulado). El fascículo arcuato (autopista de fibras que conecta áreas de lenguaje) ya existe al nacer. Las autopistas principales están en su lugar. Durante el tercer trimestre, los axones siguen gradientes químicos genéticos."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Nacimiento de un cerebro",
+      "text": "A las 35 semanas los surcos principales y la asimetría temporal ya existen. El ADN no detalla cada sinapsis, pero sí el andamiaje regional. Áreas de cara, lugar, número y lenguaje emergen por autoorganización. La experiencia refina los últimos milímetros de conexión."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Nacimiento de un cerebro",
+      "text": "Dislexia y discalculia muestran vulnerabilidades de conectividad, no ausencia total de plasticidad. No es tabula rasa. La naturaleza provee el mapa y la experiencia ajusta conexiones locales."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Nacimiento de un cerebro",
+      "text": "La naturaleza provee el mapa cortical especializado. La experiencia ajusta conexiones locales sobre ese esqueleto genético."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Nacimiento de un cerebro",
+      "text": "Sobre ese esqueleto, la experiencia modifica sinapsis concretas bajo reglas precisas."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Parte del entorno",
+      "text": "¿Dónde se almacena lo aprendido en el cerebro? El histólogo Santiago Ramón y Cajal descubrió neuronas, dendritas, axones y sinapsis (puntos de contacto entre neuronas donde se guarda lo aprendido). Aprender modifica la fuerza sináptica con la regla hebbiana «neuronas que disparan juntas, se conectan juntas», formulada por Donald Hebb en 1949 ."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Parte del entorno",
+      "text": "Los moduladores químicos marcan qué episodios merecen memoria. La dopamina (neuromodulador del refuerzo y la motivación) y la acetilcolina, junto con la serotonina, etiquetan lo relevante. La amígdala y el hipocampo consolidan lo emocionalmente significativo. La plasticidad presenta ventanas sensibles (periodos en los que el cerebro aprende con especial facilidad)."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Parte del entorno",
+      "text": "Esas ventanas cubren fonemas no nativos, visión binocular y segunda lengua. El declive marcado llega hacia los 17 años. Hay sobreproducción y poda sináptica masiva en la infancia. El proyecto de Bucarest muestra que la adopción temprana puede rescatar desarrollo tras privación extrema."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Parte del entorno",
+      "text": "Pero las trazas de la primera lengua pueden persistir dormidas. Plasticidad no significa reescribir todo el cableado: refina conexiones locales, no borra el mapa entero."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Parte del entorno",
+      "text": "Aprender es cambiar sinapsis bajo reglas hebbianas moduladas por emoción, atención y ventanas sensibles del desarrollo."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Parte del entorno",
+      "text": "Esa plasticidad permite que la cultura reconvierta circuitos ancestrales hacia funciones nuevas."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Recicla tu cerebro",
+      "text": "¿Cómo encaja la lectura o las matemáticas en un cerebro evolutivo? Los adultos analfabetos difieren en memoria verbal, reconocimiento de formas y espejos. Leer mejora la memoria, no la arruina: Platón se equivocaba. La escolarización transforma el sentido numérico. La recta numérica exacta y «n+1» son logros culturales, no innatos."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Recicla tu cerebro",
+      "text": "Por eso, la hipótesis del reciclaje neuronal (cada invención cultural busca un nicho en circuitos ya existentes) explica cómo el alfabeto reconvierte áreas evolutivas. Lo mismo ocurre con las cifras. Esos circuitos deben ser lo bastante similares y flexibles. Leer recicla áreas visuales hacia el área de forma visual de palabras (región que reconoce letras y palabras escritas). Calcular recicla circuitos de cantidad."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Recicla tu cerebro",
+      "text": "A diferencia de la exaptación evolutiva (adaptación genética lenta), el reciclaje ocurre en días o años dentro de un individuo. No cualquier circuito sirve para cualquier cultura. El escritor Vladimir Nabokov subrayaba lo milagroso de que signos escritos contengan mundos enteros."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Recicla tu cerebro",
+      "text": "Educar es reconverter circuitos ancestrales hacia funciones culturales nuevas sobre un sustrato cerebral ya especializado."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Recicla tu cerebro",
+      "text": "Para que ese reciclaje funcione, el cerebro necesita cuatro pilares que modulan la plasticidad sináptica."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Atención",
+      "text": "¿Por qué la atención es el primer pilar del aprendizaje? La atención (filtro que selecciona información bajo saturación sensorial) elige qué entra en memoria. El psicólogo Michael Posner distingue alerta, orientación y control ejecutivo. Sin atención, aprender es buscar una aguja en un pajar."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Atención",
+      "text": "En 2014 , Yoshua Bengio y Kyunghyun Cho integraron atención en traducción automática. La IA «ilumina» píxeles o palabras relevantes. En humanos, la atención consciente amplifica disparos hasta la corteza prefrontal. Eso favorece potenciación a largo plazo."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Atención",
+      "text": "Pero lo no atendido queda confinado a áreas sensoriales tempranas. Por eso, los sistemas de alerta químicos pueden reabrir plasticidad, como mostraron los experimentos de Michael Merzenich en ratones. Una pasión temprana puede invadir mapas corticales vecinos. El docente debe capturar y guiar la atención, eliminando distracciones innecesarias."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Atención",
+      "text": "Sin atención correcta no hay aprendizaje profundo: la información debe amplificarse antes de consolidarse."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Atención",
+      "text": "Pero seleccionar información no basta, porque hace falta compromiso activo con lo seleccionado."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Compromiso activo",
+      "text": "¿Por qué la pasividad deja tan poca huella? El segundo pilar es el compromiso activo (generar hipótesis y probarlas, no solo recibir datos). En el experimento de carrusel de 1963 , Richard Held y Alan Hein mostraron algo decisivo en gatitos."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Compromiso activo",
+      "text": "Un gatito que explora por sí solo desarrolla visión normal. El que se mueve igual pero sin controlar su desplazamiento queda ciego en la práctica. Ser activo no es moverse sin parar en clase. El cerebro aprende cuando genera hipótesis y las pone a prueba."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Compromiso activo",
+      "text": "En el experimento de profundidad de procesamiento (cuán hondo se analiza el significado), tres grupos reciben la misma lista con tareas distintas. Procesar el significado deja memoria explícita. Lo superficial casi no deja huella."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Compromiso activo",
+      "text": "Además, Henry Roediger mostró que la dificultad deseable mejora la retención. Por eso, la pasividad deja huellas mínimas, pero hace falta currículo estructurado que guíe la exploración."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Compromiso activo",
+      "text": "El cerebro aprende formulando modelos y sometiéndolos a prueba activa, no acumulando datos pasivamente."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Compromiso activo",
+      "text": "Las predicciones activas solo sirven si el error las corrige con retroalimentación adecuada."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Retroalimentación del error",
+      "text": "¿Por qué el error es indispensable para aprender? El tercer pilar es la retroalimentación del error (señal que corrige predicciones fallidas). El matemático Alexander Grothendieck creyó π=3 por trazar círculos: su «error» fue descubrimiento genuino. Sin error no hay progreso."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Retroalimentación del error",
+      "text": "En 1972 , Robert Rescorla y Allan Wagner mostraron que el cerebro aprende solo si hay error de predicción (sorpresa ante un resultado inesperado). Los organismos condicionan cuando los eventos violan expectativas. La sorpresa impulsa el condicionamiento pavloviano y las reglas delta del aprendizaje automático."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Retroalimentación del error",
+      "text": "Por eso, los cuatro pilares se entrelazan en un ciclo. La atención selecciona, el compromiso activo genera predicciones y el error las corrige. Pero castigar errores con notas o estigma destruye plasticidad emocional: la retroalimentación debe ser correctiva, no punitiva."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Retroalimentación del error",
+      "text": "Pensar es pasar de un error al siguiente."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Retroalimentación del error",
+      "text": "La calidad de la retroalimentación correctiva, no la humillación, determina la velocidad de aprendizaje."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Retroalimentación del error",
+      "text": "Corregido el modelo, falta consolidarlo, es decir automatizar lo aprendido y dejarlo fijo con el tiempo."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Consolidación",
+      "text": "¿Cómo pasa lo consciente y lento a automático y rápido? El cuarto pilar es la consolidación (proceso que fija y automatiza lo aprendido). Un lector principiante tarda ~ 0,2 s por letra. Después de ~ 3 años lee palabras de 3–8 letras en paralelo."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Consolidación",
+      "text": "Lo consciente y lento se automatiza. Los lectores expertos liberan corteza parietal y prefrontal. La lectura migra a circuitos especializados. Lo mismo ocurre con mecanografía, música o cálculo. El control pasa a los ganglios basales. Automatizar libera recursos ejecutivos para tareas superiores."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Consolidación",
+      "text": "Los experimentos de Jenkins y Dallenbach ( 1924 ) muestran que el sueño (estado en el que el cerebro repasa lo aprendido) consolida memoria. Distribuir el estudio y dormir multiplica la retención. De noche el cerebro repasa modelos en bucle."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Consolidación",
+      "text": "Según Dehaene, la mejora nocturna puede alcanzar un factor de 10 a 100 . Por eso, consolidar no es trivializar: libera corteza para razonamiento superior."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Consolidación",
+      "text": "Consolidar automatiza habilidades y el sueño es parte esencial del algoritmo de aprendizaje humano."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Consolidación",
+      "text": "Con los cuatro pilares claros, Dehaene vuelve a la escuela para desmontar mitos y traducir neurociencia en práctica."
+    },
+    {
+      "sectionId": "conclusion",
+      "sectionTitle": "Reconciliar educación y neurociencia",
+      "text": "¿Qué mitos educativos conviene desechar y qué hacer en su lugar? Dehaene sostiene que la pedagogía es un arte basado en ciencia precisa del cerebro, como la medicina. Los bebés no son esponjas pasivas. La plasticidad no es ilimitada. Los errores son necesarios. El sueño no es descanso vacío."
+    },
+    {
+      "sectionId": "conclusion",
+      "sectionTitle": "Reconciliar educación y neurociencia",
+      "text": "Las máquinas tampoco superan a un recién nacido en eficiencia global. Dehaene traduce la neurociencia en mensajes prácticos concretos. No hay que subestimar a los niños. Conviene aprovechar ventanas sensibles del lenguaje y enriquecer el entorno. Los estilos de aprendizaje distintos son un mito."
+    },
+    {
+      "sectionId": "conclusion",
+      "sectionTitle": "Reconciliar educación y neurociencia",
+      "text": "Hay que enseñar con los cuatro pilares, valorar sueño y espaciado, tolerar errores sin castigo y formar docentes en ciencia del aprendizaje. Las comparaciones TIMSS son alarmantes. Francia cayó al último lugar europeo en matemáticas entre 2003 y 2015 , mientras Asia avanza."
+    },
+    {
+      "sectionId": "conclusion",
+      "sectionTitle": "Reconciliar educación y neurociencia",
+      "text": "La ciencia del aprendizaje puede invertir la tendencia si se aplica en el aula y en la política educativa. No culpa solo a docentes, porque las causas son multifactoriales. Pero la ciencia puede orientar decisiones con humildad y rigor."
+    },
+    {
+      "sectionId": "conclusion",
+      "sectionTitle": "Reconciliar educación y neurociencia",
+      "text": "Educar bien exige aplicar neurociencia con humildad: mismos algoritmos cerebrales en todos, pilares compartidos, condiciones ambientales decisivas."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Aprender es ajustar modelos internos jerárquicos minimizando error, sobre un cerebro ya estructurado al nacer."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Por eso, la escuela recicla circuitos evolutivos hacia cultura simbólica; las máquinas aún no igualan nuestra abstracción ni eficiencia."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Negar la ciencia del aprendizaje perjudica a millones de niños."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Educar bien es aplicar neurociencia con humildad y rigor."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Homo docens puede seguir mejorando mientras entienda su propio algoritmo."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Atención, compromiso activo, retroalimentación correctiva y consolidación —incluido el sueño— son los cuatro pilares de toda enseñanza eficaz."
+    }
+  ]
+}

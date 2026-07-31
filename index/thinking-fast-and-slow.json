@@ -1,0 +1,1054 @@
+{
+  "slug": "thinking-fast-and-slow",
+  "title": "Pensar rápido, pensar despacio",
+  "concepts": [
+    {
+      "title": "Sistema 1 / Sistema 2",
+      "description": "Pensamiento rápido automático vs lento deliberado; el primero domina."
+    },
+    {
+      "title": "Heurística y sesgo",
+      "description": "Atajo mental útil que produce error sistemático predecible."
+    },
+    {
+      "title": "WYSIATI",
+      "description": "Concluir con lo visible ignorando lo ausente."
+    },
+    {
+      "title": "Sustitución",
+      "description": "Responder pregunta fácil en lugar de la difícil sin notarlo."
+    },
+    {
+      "title": "Disponibilidad",
+      "description": "Juzgar frecuencia por facilidad de evocar ejemplos."
+    },
+    {
+      "title": "Representatividad",
+      "description": "Juzgar probabilidad por parecido a estereotipo, no por base rate."
+    },
+    {
+      "title": "Regresión a la media",
+      "description": "Tras extremos, resultados tienden al promedio por azar."
+    },
+    {
+      "title": "Teoría de perspectivas",
+      "description": "Valor sobre ganancias/pérdidas con referencia y aversión a pérdida."
+    },
+    {
+      "title": "Visión externa",
+      "description": "Estimar proyectos con estadísticas de clase, no solo detalle interno."
+    },
+    {
+      "title": "Dos yoes",
+      "description": "Yo que experimenta vs yo que recuerda (pico-final, duración)."
+    }
+  ],
+  "highlight": "Pensar bien exige nombrar los errores del Sistema 1 y activar con parsimonia al Sistema 2.",
+  "entries": [
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La mente no es una calculadora racional sino un escenario donde un pensamiento rápido e intuitivo domina al deliberado."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Por eso reconocer sesgos, usar la visión externa, fórmulas simples y mejores marcos puede mejorar juicios sin negar nuestra inteligencia cotidiana."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "De ahí que tres distinciones recapitulen el libro: dos yoes, econs frente a humanos, dos sistemas."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Las organizaciones pueden educar el «chisme informado» en lugar de confiar ciegamente en intuición o narrativas."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Por eso la humildad ante el azar es tan importante como cualquier técnica."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Pensar bien exige nombrar los errores del Sistema 1 y activar con parsimonia al Sistema 2."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Introducción",
+      "text": "¿Para qué sirve un vocabulario más preciso sobre errores de juicio en la charla cotidiana?"
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Introducción",
+      "text": "Kahneman imagina la charla junto a la fuente del agua de la oficina. Es más fácil detectar errores ajenos que los propios. Un lenguaje compartido permite diagnosticar sesgos con la misma claridad que un médico nombra enfermedades. Los sesgos , es decir errores sistemáticos y predecibles, aparecen en contextos concretos. Cuando un orador carismático sube al escenario, el público lo juzga mejor de lo merecido. Eso ilustra el efecto halo , la extensión de una impresión favorable a rasgos no observados."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Introducción",
+      "text": "La mayoría de impresiones surgen sin que sepamos cómo. Creemos conocer nuestra mente, pero gran parte del trabajo es silencioso. Kahneman no menosprecia la inteligencia porque la mayoría de juicios son acertados. A menudo estamos seguros estando equivocados. El libro nace de décadas con Amos Tversky . En 1969 descubrieron que expertos en estadística exageraban la replicabilidad de muestras pequeñas."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Introducción",
+      "text": "Hoy la imagen es más rica sobre la intuición experta. El bombero que gritó «¡Salgan!» antes del colapso actuó por reconocimiento entrenado, no por heurísticas defectuosas. Cuando no hay expertise, respondemos preguntas más fáciles sin notarlo. El libro se divide en cinco partes sobre dos sistemas, heurísticas, sobreconfianza, elecciones y dos yoes."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Introducción",
+      "text": "Un vocabulario de sesgos convierte charlas vagas en autocrítica posible, sin negar que la intuición acierta a menudo."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Introducción",
+      "text": "Antes de nombrar sesgos hay que presentar a los dos «personajes» mentales que los producen."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Los protagonistas de la historia",
+      "text": "¿Qué son el Sistema 1 y el Sistema 2, y cuál manda en la vida diaria?"
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Los protagonistas de la historia",
+      "text": "Kahneman adopta términos de Keith Stanovich y Richard West . El Sistema 1 , el modo rápido e intuitivo, opera sin esfuerzo voluntario. Completa «pan y…», detecta hostilidad en una voz y conduce en ruta vacía. El Sistema 2 , el modo lento y deliberado, asigna atención a lo difícil. Multiplica 17 × 24 , aparca en hueco estrecho y vigila modales sociales. Nos identificamos con el segundo, pero el primero origina impresiones que el segundo convierte en creencias."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Los protagonistas de la historia",
+      "text": "Ambos comparten un presupuesto limitado de atención, y «pagar atención» es literal. No podés calcular 17 × 24 mientras girás en tráfico denso. Los pasajeros callan cuando el conductor adelanta un camión porque saben que distraen. El experimento del gorila invisible muestra que contar pases de baloncesto deja ciego ante una figura inesperada. La mitad no la ve y se resisten a creerlo."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Los protagonistas de la historia",
+      "text": "El Sistema 1 es el protagonista silencioso y el Sistema 2 delega en automáticos porque la atención escasea."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Los protagonistas de la historia",
+      "text": "Si la atención es finita, conviene medir cuándo el esfuerzo mental se dispara de verdad."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Atención y esfuerzo",
+      "text": "¿Cómo sabemos que el Sistema 2 está trabajando en serio?"
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Atención y esfuerzo",
+      "text": "El esfuerzo mental tiene huellas corporales. En tareas como retener dígitos o multiplicar en la cabeza, la pupila se dilata y el pulso sube. La pupila es un indicador sensible porque crece con la carga y se contrae al rendirse o acertar. Esto confirma que «pagar atención» agota un recurso finito compartido por tareas cognitivas."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Atención y esfuerzo",
+      "text": "Mihaly Csikszentmihalyi describió el flow , es decir concentración placentera sin forcejeo de autocontrol. En ese estado, mantener foco no consume el mismo presupuesto que forzar atención contra la distracción. Por eso caminar despacio permite pensar, pero acelerar destruye la coherencia del pensamiento."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Atención y esfuerzo",
+      "text": "La pupila y la carga cardiovascular muestran esfuerzo real del Sistema 2, y el flow es la excepción placentera."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Atención y esfuerzo",
+      "text": "El presupuesto limitado explica por qué el Sistema 2 evita trabajar más de lo necesario."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "El controlador perezoso",
+      "text": "¿Por qué pensamos menos y peor de lo que creemos?"
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "El controlador perezoso",
+      "text": "Kahneman distingue velocidad de paseo y de carrera mental. Pedir a un amigo que calcule 23 × 78 mientras camina lo detiene en seco. Las tareas pesadas para memoria de trabajo compiten con el movimiento. Acelerar el paso roba recursos al pensamiento coherente. Mirar el correo al escribir revela escape hacia lo fácil."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "El controlador perezoso",
+      "text": "La ley del mínimo esfuerzo , es decir la tendencia a evitar esfuerzo mental, gobierna la vida mental. Evitamos tareas que exigen Sistema 2 salvo necesidad. Cuando Sistema 2 está ocupado o depletado, cedemos más a impulsos. Sistema 2 perezoso valida respuestas heurísticas sin escrutinio. Solo cuando la respuesta falla o choca con creencias se activa revisión."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "El controlador perezoso",
+      "text": "El Sistema 2 es perezoso y comparte presupuesto con autocontrol, por eso aceptamos atajos sin detectarlos."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "El controlador perezoso",
+      "text": "Debajo del esfuerzo consciente opera una maquinaria asociativa que construye sentido al instante."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "La máquina asociativa",
+      "text": "¿Cómo la mente construye historias coherentes en segundos a partir de estímulos mínimos?"
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "La máquina asociativa",
+      "text": "Leé «Bananas Vómito» y en un segundo sentís disgusto, alejás el libro y acelera el pulso. Sistema 1 asumió causalidad entre plátanos y enfermedad. Activó memoria de «vómito», «amarillo» y «fruta», y preparó respuestas futuras. Eso es activación asociativa , es decir ideas encadenadas en cascada con coherencia emocional y corporal."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "La máquina asociativa",
+      "text": "David Hume redujo asociación a semejanza, contigüidad y causalidad. Hoy vemos la memoria como red de nodos. Una idea activada dispara muchas otras, casi todas fuera de conciencia. Sistema 1 trató la yuxtaposición de palabras como si fuera realidad. Por eso sabemos menos de nosotros mismos de lo que sentimos."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "La máquina asociativa",
+      "text": "Sistema 1 teje historias causales automáticas desde fragmentos, y la coherencia emocional no garantiza verdad."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "La máquina asociativa",
+      "text": "La fluidez con que procesamos información genera sensaciones de verdad, familiaridad y comodidad."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Facilidad cognitiva",
+      "text": "¿Por qué lo fácil de leer o recordar se siente verdadero y agradable?"
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Facilidad cognitiva",
+      "text": "La facilidad cognitiva , es decir la sensación de procesamiento fácil, es un estado donde Sistema 2 está relajado. Texto en fuente clara, rimas y frases repetidas producen ilusión de verdad y familiaridad. Mensajes persuasivos deben maximizar legibilidad y minimizar esfuerzo. La tensión cognitiva activa Sistema 2 y vigilancia."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Facilidad cognitiva",
+      "text": "Estado de ánimo y facilidad se mezclan porque buen humor aumenta confianza intuitiva. Mala tipografía o complejidad generan sospecha. Priming sutil puede ralentizar caminar sin que lo notes. Lo cómodo no siempre es correcto, pero Sistema 1 lo trata como señal de verdad."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Facilidad cognitiva",
+      "text": "Lo fácil de procesar se confunde con lo verdadero y lo familiar, mientras la tensión activa la duda."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Facilidad cognitiva",
+      "text": "Las expectativas de normalidad organizan qué nos sorprende y qué atribuimos a causas."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Normas, sorpresas y causas",
+      "text": "¿Cómo detectamos lo anormal y por qué vemos causas e intenciones en el azar?"
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Normas, sorpresas y causas",
+      "text": "Sistema 1 compara cada instante con modelos de normalidad almacenados. Lo que rompe expectativas capta atención y exige explicación. Buscamos causas e intenciones aunque los datos sean ruido. La mente prefiere un relato causal a «fue casual». Evaluar si algo es normal es rápido, pero pensar estadísticamente no lo es."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Normas, sorpresas y causas",
+      "text": "Atribuir intención a eventos aleatorios satisface pero engaña en mercados, deportes y política. La causalidad psicológica domina tasas base. Esto prepara el terreno para conclusiones apresuradas con evidencia escasa."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Normas, sorpresas y causas",
+      "text": "Sistema 1 detecta sorpresas y fabrica causas coherentes, aunque la estadística diga otra cosa."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Normas, sorpresas y causas",
+      "text": "Con poca evidencia, la mente salta a conclusiones firmes y suprime la duda."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Una máquina para saltar a conclusiones",
+      "text": "¿Por qué creemos historias incompletas con tanta confianza?"
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Una máquina para saltar a conclusiones",
+      "text": "Sistema 1 es una máquina de inferencias rápidas. El sesgo de confirmación busca evidencia compatible y descarta la ambigua. El efecto halo , la extensión de una impresión favorable a rasgos no observados, distorsiona evaluaciones. WYSIATI , es decir «what you see is all there is», significa que tratamos la información disponible como si fuera toda."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Una máquina para saltar a conclusiones",
+      "text": "Suprimimos duda cuando la coherencia interna basta. En condiciones favorables esto es eficiente, pero en juicios complejos produce sobreconfianza. La regla WYSIATI explica ilusiones de entender el pasado y predecir el futuro."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Una máquina para saltar a conclusiones",
+      "text": "Sistema 1 concluye con lo visible, confirma lo que encaja y extiende halos donde no hay datos."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Una máquina para saltar a conclusiones",
+      "text": "Antes de sustituir preguntas, conviene ver cómo se combinan evaluaciones básicas en juicios."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Cómo ocurren los juicios",
+      "text": "¿De dónde salen juicios complejos sin que los pidamos explícitamente?"
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Cómo ocurren los juicios",
+      "text": "Sistema 1 dispara evaluaciones básicas de intensidad, calidad, sorpresa y prototipos. El emparejamiento de intensidades , es decir traducir sentimientos a otras escalas, mantiene intensidad relativa. Conjuntos y prototipos guían impresiones de frecuencia y típicidad."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Cómo ocurren los juicios",
+      "text": "La escopeta mental , es decir respuestas automáticas extra, responde a una pregunta disparando evaluaciones no solicitadas. Por eso una sola pregunta activa muchas respuestas listas para mapearse. Este mecanismo alimenta la sustitución de preguntas difíciles por fáciles."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Cómo ocurren los juicios",
+      "text": "Juicios complejos surgen de evaluaciones básicas automáticas y emparejamientos de intensidad, no de cálculo consciente."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Cómo ocurren los juicios",
+      "text": "A menudo no respondemos la pregunta difícil sino otra más fácil que viene a la mente."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Responder una pregunta más fácil",
+      "text": "¿Cómo formamos opiniones intuitivas sobre temas imposibles de resolver al instante?"
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Responder una pregunta más fácil",
+      "text": "Ante una pregunta objetivo difícil, Sistema 1 busca una heurística , es decir un atajo mental simplificado, y responde esa. ¿Cuánto donarías para salvar delfines? Se sustituye por qué emoción siento al pensar delfines muriendo. ¿Qué tan feliz soy con mi vida? Se sustituye por cuál es mi ánimo ahora. La sustitución , es decir responder otra pregunta en lugar de la difícil, ocurre sin aviso."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Responder una pregunta más fácil",
+      "text": "La heurística afectiva , es decir basada en sensaciones de agrado o rechazo, guía juicios y elecciones. Un directivo invierte millones en Ford porque le gustaron los autos en una feria. Sistema 2 perezoso valida la respuesta sustituida. Polya aconseja buscar problemas más fáciles, pero aquí la sustitución es automática."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Responder una pregunta más fácil",
+      "text": "Ante preguntas duras respondemos otra más fácil y creemos haber contestado bien."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Responder una pregunta más fácil",
+      "text": "Una forma de confiar demasiado en muestras pequeñas abre la Parte II sobre heurísticas."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "La ley de los números pequeños",
+      "text": "¿Por qué inferimos demasiado de pocos casos?"
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "La ley de los números pequeños",
+      "text": "Creemos que las leyes de los pequeños números imitan a las grandes. Un estudio con 40 participantes parece revelador. Kahneman y Tversky mostraron que psicólogos expertos exageraban la probabilidad de replicar resultados con muestras chicas. También aconsejaban tamaños muestrales absurdamente bajos."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "La ley de los números pequeños",
+      "text": "La ley de los números pequeños , es decir creer que pocas muestras representan al todo, explica confianza en estudios preliminares. También explica anécdotas médicas y encuestas locales. Sistema 1 busca patrones y los encuentra en ruido. Sistema 2 debería corregir pero a menudo no interviene."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "La ley de los números pequeños",
+      "text": "Tratamos muestras pequeñas como representativas del universo, y hasta expertos caen en el error."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "La ley de los números pequeños",
+      "text": "Otra distorsión numérica poderosa es el anclaje, donde un número irrelevante mueve estimaciones."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Anclas",
+      "text": "¿Por qué un número aleatorio sesga negociaciones y estimaciones?"
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Anclas",
+      "text": "El anclaje , es decir la influencia de un número previo, ocurre cuando una cifra previa infla o reduce juicios posteriores. En experimentos, girar una rueda de la fortuna con números absurdos antes de estimar edad de Gandhi mueve respuestas. Anclas pueden ser estratégicas en negociación porque quien fija el primer número arrastra el acuerdo."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Anclas",
+      "text": "Sistema 2 debería ajustar desde el ancla hacia lo correcto, pero el ajuste suele ser insuficiente. Incluso anclas obviamente irrelevantes dejan huella. Conocer el mecanismo no lo elimina del todo."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Anclas",
+      "text": "El primer número en mesa ancla estimaciones, y el ajuste consciente rara vez corrige lo bastante."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Anclas",
+      "text": "Otra heurística mide frecuencia por lo fácil que traemos ejemplos a la mente."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "La ciencia de la disponibilidad",
+      "text": "¿Cómo estimamos riesgos y frecuencias sin contar datos?"
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "La ciencia de la disponibilidad",
+      "text": "La heurística de disponibilidad , es decir juzgar por facilidad de evocar ejemplos, distorsiona frecuencia. ¿Letra K al inicio o en tercera posición? Respondemos inicio porque es más fácil listar palabras por primera letra. K es más frecuente en tercera posición. ¿Divorcios de profesores o médicos? Exageramos políticos infieles porque los escándalos son noticia."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "La ciencia de la disponibilidad",
+      "text": "Lo disponible en memoria puede reflejar frecuencia real o visibilidad mediática. Cobertura repetida hace temas parecer urgentes aunque estadísticamente sean marginales. Autoritarismos presionan medios porque disponibilidad moldea agenda pública."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "La ciencia de la disponibilidad",
+      "text": "Confundimos «fácil de recordar» con «frecuente», y los medios amplifican lo dramático, no lo importante."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "La ciencia de la disponibilidad",
+      "text": "Cuando la emoción entra, la disponibilidad distorsiona aún más el riesgo percibido."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Disponibilidad, emoción y riesgo",
+      "text": "¿Por qué tememos lo espectacular y subestimamos amenazas silenciosas?"
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Disponibilidad, emoción y riesgo",
+      "text": "Eventos vívidos y emotivos dominan memoria y parecen probables. Accidentes aéreos y terrorismo ilustran el patrón. Expertos y público usan disponibilidad distinta porque especialistas pueden tener ejemplos más representativos. Las cascadas de disponibilidad , es decir refuerzo mediático mutuo, ocurren cuando medios y público se refuerzan."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Disponibilidad, emoción y riesgo",
+      "text": "Regulación y miedo comparten raíz en lo disponible. Riesgo objetivo y riesgo percibido divergen sistemáticamente. Políticas basadas solo en pánico ignoran tasas base."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Disponibilidad, emoción y riesgo",
+      "text": "Lo emotivo y mediático infla riesgo percibido, y las cascadas de disponibilidad distorsionan prioridades colectivas."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "Disponibilidad, emoción y riesgo",
+      "text": "Otra heurística central juzga probabilidad por parecido a un estereotipo, no por frecuencia real."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "La especialidad de Tom W",
+      "text": "¿Por qué una descripción vívida vence a las estadísticas de base?"
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "La especialidad de Tom W",
+      "text": "Tom W es un estudiante de humanidades descrito como nerd, desordenado y apasionado por la ciencia ficción. ¿Es más probable que sea bibliotecario o vendedor? Casi todos eligen especialidad de informática por representatividad. Ignoran que hay muchísimos más humanistas que informáticos. La frecuencia base , es decir la tasa real en la población, debería moderar el juicio."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "La especialidad de Tom W",
+      "text": "Cuando se dan tasas explícitas, mejoramos pero no desaparece el sesgo. Sistema 1 responde qué tan similar es. Sistema 2 debe integrar qué tan común es la categoría. Sin esfuerzo, gana la historia."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "La especialidad de Tom W",
+      "text": "La representatividad domina la frecuencia base, así que lo típico parece más probable aunque sea raro en el mundo."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "La especialidad de Tom W",
+      "text": "El problema Linda lleva esa lógica a una violación formal de probabilidad."
+    },
+    {
+      "sectionId": "cap15",
+      "sectionTitle": "Linda: menos es más",
+      "text": "¿Por qué una historia más detallada parece más probable que una general?"
+    },
+    {
+      "sectionId": "cap15",
+      "sectionTitle": "Linda: menos es más",
+      "text": "Linda es activista feminista y graduada en filosofía. ¿Es más probable que sea cajera o cajera y activista feminista? La mayoría elige la conjunción, imposible lógicamente. Toda conjunción es menos probable que cada parte. Lo representativo , es decir la coherencia narrativa, vence a la lógica."
+    },
+    {
+      "sectionId": "cap15",
+      "sectionTitle": "Linda: menos es más",
+      "text": "En evaluación conjunta a veces corregimos, pero en evaluación separada el efecto «menos es más» persiste. Demuestra que intuición de probabilidad obedece a historia, no a axiomas."
+    },
+    {
+      "sectionId": "cap15",
+      "sectionTitle": "Linda: menos es más",
+      "text": "Historias coherentes hacen conjunciones parecer más probables que sus partes, y violamos lógica sin dudar."
+    },
+    {
+      "sectionId": "cap15",
+      "sectionTitle": "Linda: menos es más",
+      "text": "Preferimos causas individuales y estereotipos a tasas estadísticas frías."
+    },
+    {
+      "sectionId": "cap16",
+      "sectionTitle": "Las causas vencen a las estadísticas",
+      "text": "¿Por qué un caso concreto anula datos agregados?"
+    },
+    {
+      "sectionId": "cap16",
+      "sectionTitle": "Las causas vencen a las estadísticas",
+      "text": "En el experimento del autobús de cuidadores, estadísticas sobre violencia en instituciones psiquiátricas no tranquilizan tanto como conocer que el conductor es buena persona. Los estereotipos causales , es decir relatos de cómo actúa alguien, pesan más que tasas base."
+    },
+    {
+      "sectionId": "cap16",
+      "sectionTitle": "Las causas vencen a las estadísticas",
+      "text": "Pensar estadísticamente exige Sistema 2 y considerar muchas cosas a la vez. Sistema 1 piensa asociativo y causal. Por eso enseñar probabilidad en escuela rinde poco si no cambia hábitos intuitivos. Las causas «vencen» en juicio moral y político cotidiano."
+    },
+    {
+      "sectionId": "cap16",
+      "sectionTitle": "Las causas vencen a las estadísticas",
+      "text": "Relatos causales concretos eclipsan estadísticas válidas, y pensar en tasas exige esfuerzo que evitamos."
+    },
+    {
+      "sectionId": "cap16",
+      "sectionTitle": "Las causas vencen a las estadísticas",
+      "text": "Un patrón estadístico malinterpretado en evaluación es la regresión a la media."
+    },
+    {
+      "sectionId": "cap17",
+      "sectionTitle": "Regresión a la media",
+      "text": "¿Por qué elogiar parece empeorar y castigar parece mejorar?"
+    },
+    {
+      "sectionId": "cap17",
+      "sectionTitle": "Regresión a la media",
+      "text": "Un instructor de vuelo israelí notó que tras elogiar maniobras buenas venía una peor. Cuando gritaba por errores venía mejora, y concluyó que castigo funciona. Kahneman vio regresión a la media , es decir tendencia al promedio tras extremos. Después de desempeño extremo, el siguiente resultado suele acercarse al promedio por azar."
+    },
+    {
+      "sectionId": "cap17",
+      "sectionTitle": "Regresión a la media",
+      "text": "Por eso, en la demostración con monedas al blanco, quien acertó mucho la primera vez suele empeorar la segunda sin intervención. La retroalimentación de la vida es perversa. Somos amables cuando otros nos complacen y duros cuando fallan, confundiendo regresión con efecto propio."
+    },
+    {
+      "sectionId": "cap17",
+      "sectionTitle": "Regresión a la media",
+      "text": "Tras extremos el azar empuja al promedio, y confundimos regresión con efecto de elogio o castigo."
+    },
+    {
+      "sectionId": "cap17",
+      "sectionTitle": "Regresión a la media",
+      "text": "Las predicciones intuitivas ignoran regresión y se mantienen demasiado extremas."
+    },
+    {
+      "sectionId": "cap18",
+      "sectionTitle": "Domar las predicciones intuitivas",
+      "text": "¿Cómo corregir pronósticos que no regresan hacia la media?"
+    },
+    {
+      "sectionId": "cap18",
+      "sectionTitle": "Domar las predicciones intuitivas",
+      "text": "Predicciones intuitivas son no regresivas , es decir sin corregir hacia el promedio. Entrevistas generan confianza extrema en GPA futuro aunque correlación sea modesta. Deberíamos mover predicciones hacia la media del grupo con peso según validez del dato."
+    },
+    {
+      "sectionId": "cap18",
+      "sectionTitle": "Domar las predicciones intuitivas",
+      "text": "Paul Meehl mostró que reglas estadísticas vencen a clínicos. Entonces Kahneman propone corrección explícita que combina impresión subjetiva con promedio poblacional. Extremos solo se justifican con evidencia muy fuerte. Cierra Parte II con remedio parcial contra heurísticas."
+    },
+    {
+      "sectionId": "cap18",
+      "sectionTitle": "Domar las predicciones intuitivas",
+      "text": "Intuición predice sin regresar, y mezclar señal débil con promedio poblacional vence entrevistas confiadas."
+    },
+    {
+      "sectionId": "cap18",
+      "sectionTitle": "Domar las predicciones intuitivas",
+      "text": "Parte III pregunta por qué creemos entender el pasado más de lo que realmente entendemos."
+    },
+    {
+      "sectionId": "cap19",
+      "sectionTitle": "La ilusión de entender",
+      "text": "¿Por qué el pasado parece inevitable una vez que ocurrió?"
+    },
+    {
+      "sectionId": "cap19",
+      "sectionTitle": "La ilusión de entender",
+      "text": "Nassim Taleb llamó falacia narrativa , es decir historias simples del pasado, a relatos que moldean expectativas. Google parece un relato de genios acertando cada paso. Omitimos suerte y competidores ciegos. Mencionar un golpe de suerte hace la historia más creíble, no menos."
+    },
+    {
+      "sectionId": "cap19",
+      "sectionTitle": "La ilusión de entender",
+      "text": "La regla WYSIATI impide incluir eventos que no ocurrieron. Tras la crisis de 2008 , muchos «sabían» que era inevitable. «Saber» exige verdad demostrable entonces, no retrospectiva. Limpiar lenguaje ayuda a pensar el futuro sin ilusión de certeza."
+    },
+    {
+      "sectionId": "cap19",
+      "sectionTitle": "La ilusión de entender",
+      "text": "Narrativas coherentes del pasado crean falsa sensación de predictibilidad, y la suerte pesa más de lo que admiten las historias."
+    },
+    {
+      "sectionId": "cap19",
+      "sectionTitle": "La ilusión de entender",
+      "text": "La coherencia interna alimenta creer que nuestras evaluaciones actuales son válidas."
+    },
+    {
+      "sectionId": "cap20",
+      "sectionTitle": "La ilusión de validez",
+      "text": "¿Por qué confiamos en evaluaciones que no predicen resultados?"
+    },
+    {
+      "sectionId": "cap20",
+      "sectionTitle": "La ilusión de validez",
+      "text": "La ilusión de validez , es decir confundir coherencia con poder predictivo, engaña en entrevistas. Generan confianza extrema pero correlacionan poco con desempeño futuro. Gestores de fondos muestran skill aparente en datos ruidosos. El azar explica casi todo en mercados eficientes."
+    },
+    {
+      "sectionId": "cap20",
+      "sectionTitle": "La ilusión de validez",
+      "text": "El mundo es difícil porque señal baja y ruido alto. Expertos pundits construyen narrativas convincentes sin track record verificable. Conocer límites de validez no elimina sensación de certeza porque WYSIATI opera otra vez."
+    },
+    {
+      "sectionId": "cap20",
+      "sectionTitle": "La ilusión de validez",
+      "text": "Coherencia de información no implica validez predictiva, y entrevistas ilustran confianza sin poder."
+    },
+    {
+      "sectionId": "cap20",
+      "sectionTitle": "La ilusión de validez",
+      "text": "¿Cuándo conviene confiar en reglas simples en lugar de expertos?"
+    },
+    {
+      "sectionId": "cap21",
+      "sectionTitle": "Intuición frente a fórmulas",
+      "text": "¿Las fórmulas simples superan a expertos con décadas de experiencia?"
+    },
+    {
+      "sectionId": "cap21",
+      "sectionTitle": "Intuición frente a fórmulas",
+      "text": "Paul Meehl revisó decenas de estudios sobre predicción clínica versus estadística. Las reglas, incluso lineales simples, ganan o empatan sistemáticamente. Hay hostilidad emocional hacia algoritmos porque preferimos caras humanas aunque sean peores."
+    },
+    {
+      "sectionId": "cap21",
+      "sectionTitle": "Intuición frente a fórmulas",
+      "text": "La excepción «pierna rota», cuando hay dato decisivo fuera del modelo, no justifica rechazar fórmulas en masa. En dominios de baja validez, confiar en intuición es arrogancia. Combinar modelo y juicio humano rara vez mejora si el humano anula la regla."
+    },
+    {
+      "sectionId": "cap21",
+      "sectionTitle": "Intuición frente a fórmulas",
+      "text": "Fórmulas simples suelen vencer intuición experta, y resistimos algoritmos por preferencia emocional, no por evidencia."
+    },
+    {
+      "sectionId": "cap21",
+      "sectionTitle": "Intuición frente a fórmulas",
+      "text": "Hay contextos donde la intuición experta sí es reconocimiento válido."
+    },
+    {
+      "sectionId": "cap22",
+      "sectionTitle": "Intuición experta: ¿cuándo confiar?",
+      "text": "¿Cuándo la intuición profesional es reconocimiento fiable y no sesgo?"
+    },
+    {
+      "sectionId": "cap22",
+      "sectionTitle": "Intuición experta: ¿cuándo confiar?",
+      "text": "Herbert Simon definió que la intuición es reconocimiento tras miles de horas. Bomberos, maestros de ajedrez y médicos en casos repetitivos leen señales almacenadas. Requiere entorno regular , es decir contexto con patrones repetibles, y práctica con feedback , es decir retroalimentación clara y rápida."
+    },
+    {
+      "sectionId": "cap22",
+      "sectionTitle": "Intuición experta: ¿cuándo confiar?",
+      "text": "El CIO que compró Ford porque le gustaron autos en feria muestra intuición inválida. El mercado accionario es irregular y la retroalimentación es ruidosa. Confianza subjetiva no garantiza acierto. Validar intuición exige preguntar si el entorno permite aprender regularidades."
+    },
+    {
+      "sectionId": "cap22",
+      "sectionTitle": "Intuición experta: ¿cuándo confiar?",
+      "text": "Intuición fiable es reconocimiento entrenado, y sin entorno regular ni retroalimentación clara la confianza subjetiva engaña."
+    },
+    {
+      "sectionId": "cap22",
+      "sectionTitle": "Intuición experta: ¿cuándo confiar?",
+      "text": "Los planes ignoran estadísticas de proyectos similares porque caen en visión interna."
+    },
+    {
+      "sectionId": "cap23",
+      "sectionTitle": "La visión externa",
+      "text": "¿Por qué proyectos siempre cuestan más y tardan más de lo previsto?"
+    },
+    {
+      "sectionId": "cap23",
+      "sectionTitle": "La visión externa",
+      "text": "La falacia de planificación , es decir subestimar plazos y costos, usa visión interna. El caso único, las mejores intenciones y los obstáculos subestimados dominan. Kahneman diseñó currículo en Israel con estimaciones irreales. La visión externa , es decir estimar con estadísticas de casos similares, pregunta cuánto tomaron proyectos similares."
+    },
+    {
+      "sectionId": "cap23",
+      "sectionTitle": "La visión externa",
+      "text": "El premortem , es decir imaginar fracaso antes de empezar, pide listar causas antes de arrancar. Mitiga sobreconfianza grupal. Por eso combinar visión externa y premortem mejora pronósticos organizacionales sin negar ambición."
+    },
+    {
+      "sectionId": "cap23",
+      "sectionTitle": "La visión externa",
+      "text": "Planificar mirando solo este caso sesga, y estadísticas de proyectos similares corrigen optimismo."
+    },
+    {
+      "sectionId": "cap23",
+      "sectionTitle": "La visión externa",
+      "text": "El optimismo excesivo de emprendedores alimenta el motor del capitalismo."
+    },
+    {
+      "sectionId": "cap24",
+      "sectionTitle": "El motor del capitalismo",
+      "text": "¿Por qué tantos emprendedores apuestan contra probabilidades objetivas?"
+    },
+    {
+      "sectionId": "cap24",
+      "sectionTitle": "El motor del capitalismo",
+      "text": "Encuestas muestran que emprendedores califican su éxito como muy probable aunque la mayoría fracasa. Negligencia de competencia , es decir ignorar rivales, ilusión de control y sesgo optimista explican la apuesta. Sobrevivencia selectiva hace visibles solo ganadores, y los perdedores desaparecen del relato."
+    },
+    {
+      "sectionId": "cap24",
+      "sectionTitle": "El motor del capitalismo",
+      "text": "La sociedad se beneficia porque innovación requiere optimistas dispuestos a arriesgar. Los individuos confunden supervivencia con talento. Reconocer rol del azar no destruye emprendimiento informado."
+    },
+    {
+      "sectionId": "cap24",
+      "sectionTitle": "El motor del capitalismo",
+      "text": "Optimismo excesivo impulsa capitalismo y fracasos masivos, y confundimos supervivencia selectiva con talento puro."
+    },
+    {
+      "sectionId": "cap24",
+      "sectionTitle": "El motor del capitalismo",
+      "text": "Parte IV abre cuestionando cómo economía clásica modela elecciones bajo riesgo."
+    },
+    {
+      "sectionId": "cap25",
+      "sectionTitle": "Los errores de Bernoulli",
+      "text": "¿Qué falló en la utilidad esperada clásica de Bernoulli?"
+    },
+    {
+      "sectionId": "cap25",
+      "sectionTitle": "Los errores de Bernoulli",
+      "text": "Bernoulli en 1738 midió utilidad de riqueza final. Experimentos con centavos asumían que pequeños cambios reflejaban psicología de riqueza. Kahneman señaló que no evaluamos patrimonio con precisión de miles. Harry Markowitz propuso utilidad sobre cambios, no estados."
+    },
+    {
+      "sectionId": "cap25",
+      "sectionTitle": "Los errores de Bernoulli",
+      "text": "La ceguera inducida por teoría , es decir no ver lo obvio por el modelo, impidió ver asimetría ganancias y pérdidas durante siglos. Cambiar referencia a ganancias y pérdidas abrió prospect theory. Buen avance teórico es cuando lo obvio anterior parece absurdo."
+    },
+    {
+      "sectionId": "cap25",
+      "sectionTitle": "Los errores de Bernoulli",
+      "text": "Medir utilidad de riqueza total falla porque importan cambios respecto a referencia y asimetría pérdida y ganancia."
+    },
+    {
+      "sectionId": "cap25",
+      "sectionTitle": "Los errores de Bernoulli",
+      "text": "La teoría de perspectivas formaliza esas asimetrías."
+    },
+    {
+      "sectionId": "cap26",
+      "sectionTitle": "Teoría de las perspectivas",
+      "text": "¿Cómo elegimos realmente entre riesgos y certezas?"
+    },
+    {
+      "sectionId": "cap26",
+      "sectionTitle": "Teoría de las perspectivas",
+      "text": "La teoría de perspectivas , es decir modelo de elección con referencia, define valor sobre ganancias y pérdidas respecto a referencia. Por eso, en ganancias preferimos certeza sobre apuesta arriesgada, y en pérdidas preferimos apuesta arriesgada sobre pérdida segura."
+    },
+    {
+      "sectionId": "cap26",
+      "sectionTitle": "Teoría de las perspectivas",
+      "text": "Problemas idénticos en riqueza final para Bernoulli producen respuestas distintas. El marco de ganancia versus pérdida cambia preferencia. La curva de valor en S es cóncava en ganancias y convexa en pérdidas. Las pérdidas duelen más que las ganancias equivalentes."
+    },
+    {
+      "sectionId": "cap26",
+      "sectionTitle": "Teoría de las perspectivas",
+      "text": "Valor depende de referencia y signo, y odiamos perder más de lo que nos gusta ganar."
+    },
+    {
+      "sectionId": "cap26",
+      "sectionTitle": "Teoría de las perspectivas",
+      "text": "Poseer algo ancla referencia y aumenta valor subjetivo."
+    },
+    {
+      "sectionId": "cap27",
+      "sectionTitle": "El efecto dotación",
+      "text": "¿Por qué no vendemos lo que tenemos al precio que pagaríamos por ello?"
+    },
+    {
+      "sectionId": "cap27",
+      "sectionTitle": "El efecto dotación",
+      "text": "En el efecto dotación , es decir que poseer aumenta valor subjetivo, tener un bien lo hace valer más que para quien no lo tiene. Punto de referencia se ancla en status quo. Vender implica pérdida relativa, no intercambio simétrico."
+    },
+    {
+      "sectionId": "cap27",
+      "sectionTitle": "El efecto dotación",
+      "text": "Comerciantes aprenden a pensar como negociadores, moviendo referencia. El efecto dotación explica inercia legal y negociación porque renunciar a lo actual duele más que obtener equivalente. No es universal pero es robusto."
+    },
+    {
+      "sectionId": "cap27",
+      "sectionTitle": "El efecto dotación",
+      "text": "Poseer cambia referencia y valor, y renunciar pesa como pérdida aunque el intercambio sea neutro en dinero."
+    },
+    {
+      "sectionId": "cap27",
+      "sectionTitle": "El efecto dotación",
+      "text": "Los malos eventos dominan psicológicamente a los buenos simétricos."
+    },
+    {
+      "sectionId": "cap28",
+      "sectionTitle": "Malos eventos",
+      "text": "¿Por qué reaccionamos más fuerte a lo malo que a lo bueno equivalente?"
+    },
+    {
+      "sectionId": "cap28",
+      "sectionTitle": "Malos eventos",
+      "text": "La dominancia de lo negativo , es decir que lo malo pesa más, implica que amenazas captan atención con más fuerza. Críticas y pérdidas dominan memoria más que elogios o ganancias similares. Objetivos actúan como puntos de referencia. Quedar debajo duele más que quedar arriba alegra."
+    },
+    {
+      "sectionId": "cap28",
+      "sectionTitle": "Malos eventos",
+      "text": "Defendemos status quo porque cambiar implica riesgo de pérdida. Ley y negociación explotan aversión a pérdida con concesiones enmarcadas como evitar perder. Evolutivamente adaptativo, pero distorsiona reformas necesarias."
+    },
+    {
+      "sectionId": "cap28",
+      "sectionTitle": "Malos eventos",
+      "text": "Lo malo pesa más que lo bueno simétrico, y referencias y status quo se defienden por miedo a perder."
+    },
+    {
+      "sectionId": "cap28",
+      "sectionTitle": "Malos eventos",
+      "text": "Combinar probabilidad y signo produce el patrón cuádruple de elecciones."
+    },
+    {
+      "sectionId": "cap29",
+      "sectionTitle": "El patrón cuádruple",
+      "text": "¿Cómo cambian preferencias en las cuatro celdas ganancia/pérdida × probable/improbable?"
+    },
+    {
+      "sectionId": "cap29",
+      "sectionTitle": "El patrón cuádruple",
+      "text": "Cuatro combinaciones muestran aversión o búsqueda de riesgo distintos. La paradoja de Allais , es decir violación de axiomas de utilidad, viola utilidad esperada. Preferimos certeza en ganancias pequeñas y apostamos para evitar pérdida segura."
+    },
+    {
+      "sectionId": "cap29",
+      "sectionTitle": "El patrón cuádruple",
+      "text": "Pesos decisionales no son lineales en probabilidad porque sobreponderamos certeza y eventos muy improbables. El patrón cuádruple organiza seguros, loterías, litigios y refugios fiscales. Economía normativa no predice estas violaciones sistemáticas."
+    },
+    {
+      "sectionId": "cap29",
+      "sectionTitle": "El patrón cuádruple",
+      "text": "Probabilidad y signo interactúan, y certeza y eventos raros reciben peso emocional desproporcionado."
+    },
+    {
+      "sectionId": "cap29",
+      "sectionTitle": "El patrón cuádruple",
+      "text": "Eventos raros vívidos distorsionan aún más juicio y elección."
+    },
+    {
+      "sectionId": "cap30",
+      "sectionTitle": "Eventos raros",
+      "text": "¿Por qué sobreestimamos lo improbable cuando es emocionante?"
+    },
+    {
+      "sectionId": "cap30",
+      "sectionTitle": "Eventos raros",
+      "text": "Combinamos sobreestimación de probabilidad pequeña con sobreponderación emocional. Seguros, terrorismo y lotería comparten mecanismo porque outcomes vívidos dominan cálculo frío. Decisiones desde impresión global ignoran detalle probabilístico."
+    },
+    {
+      "sectionId": "cap30",
+      "sectionTitle": "Eventos raros",
+      "text": "Políticas de riesgo pueden segregar o agregar mentalmente apuestas. Encuadre estrecho amplifica miedo a pérdidas repetidas. Raro no es imposible, pero tampoco tan frecuente como sentimos."
+    },
+    {
+      "sectionId": "cap30",
+      "sectionTitle": "Eventos raros",
+      "text": "Eventos raros vívidos se sobreponderan, e impresión global reemplaza probabilidad fina."
+    },
+    {
+      "sectionId": "cap30",
+      "sectionTitle": "Eventos raros",
+      "text": "Cómo agregamos riesgos en el tiempo importa para aceptar apuestas favorables."
+    },
+    {
+      "sectionId": "cap31",
+      "sectionTitle": "Políticas de riesgo",
+      "text": "¿Por qué rechazamos muchas apuestas pequeñas favorables juntas?"
+    },
+    {
+      "sectionId": "cap31",
+      "sectionTitle": "Políticas de riesgo",
+      "text": "En el problema de Paul Samuelson , rechazamos apuesta 50/50 de ganar doscientos o perder cien. Pero ¿rechazaríamos cien repeticiones? Encuadre estrecho evalúa cada ronda aislada. Encuadre amplio ve portfolio favorable."
+    },
+    {
+      "sectionId": "cap31",
+      "sectionTitle": "Políticas de riesgo",
+      "text": "Inversores miran cuentas frecuentemente y sufren aversión miópica a pérdidas , es decir miedo a bajas temporales. Venden acciones por miedo a bajas temporales. Política de riesgo consciente corrige parcialmente."
+    },
+    {
+      "sectionId": "cap31",
+      "sectionTitle": "Políticas de riesgo",
+      "text": "Encuadre estrecho rechaza apuestas buenas repetidas, y agregar ganancias guía preferencias."
+    },
+    {
+      "sectionId": "cap31",
+      "sectionTitle": "Políticas de riesgo",
+      "text": "Llevamos score emocional en cuentas mentales separadas."
+    },
+    {
+      "sectionId": "cap32",
+      "sectionTitle": "Llevar la cuenta",
+      "text": "¿Por qué tratamos el mismo dinero distinto según la cuenta mental?"
+    },
+    {
+      "sectionId": "cap32",
+      "sectionTitle": "Llevar la cuenta",
+      "text": "Cuentas mentales , es decir categorías separadas de dinero, tienen reglas propias. Gastar de «bonificación» es más fácil que de salario. El arrepentimiento , es decir dolor por la opción no elegida, depende de qué tan cerca estuviste de la alternativa ganadora."
+    },
+    {
+      "sectionId": "cap32",
+      "sectionTitle": "Llevar la cuenta",
+      "text": "Responsabilidad y «blame» moldean elecciones médicas y financieras. Economía estándar asume fungibilidad del dinero, pero humanos no. A veces cuentas ayudan autocontrol, a veces distorsionan."
+    },
+    {
+      "sectionId": "cap32",
+      "sectionTitle": "Llevar la cuenta",
+      "text": "Dividimos dinero en cuentas con reglas emocionales, y arrepentimiento viola fungibilidad racional."
+    },
+    {
+      "sectionId": "cap32",
+      "sectionTitle": "Llevar la cuenta",
+      "text": "Preferencias revierten al comparar opciones en distinto orden o encuadre."
+    },
+    {
+      "sectionId": "cap33",
+      "sectionTitle": "Reversiones",
+      "text": "¿Por qué cambiamos de preferencia al evaluar opciones juntas?"
+    },
+    {
+      "sectionId": "cap33",
+      "sectionTitle": "Reversiones",
+      "text": "Reversiones de preferencia desafían axiomas de utilidad. En la versión enfermo-tiempo libre elegimos enfermedad corta intensa versus moderada larga según si comparamos finales o duraciones. Evaluación conjunta versus separada altera ranking."
+    },
+    {
+      "sectionId": "cap33",
+      "sectionTitle": "Reversiones",
+      "text": "Categorías y contexto de comparación mueven elecciones «irracionales» para economía clásica pero predecibles psicológicamente. No hay lista estable de preferencias en la cabeza."
+    },
+    {
+      "sectionId": "cap33",
+      "sectionTitle": "Reversiones",
+      "text": "Preferencias no son fijas, y encuadre y modo de comparación producen reversiones sistemáticas."
+    },
+    {
+      "sectionId": "cap33",
+      "sectionTitle": "Reversiones",
+      "text": "Pequeños cambios de formulación alteran decisiones sin cambiar hechos."
+    },
+    {
+      "sectionId": "cap34",
+      "sectionTitle": "Marcos y realidad",
+      "text": "¿Las decisiones dependen de cómo se formula la pregunta?"
+    },
+    {
+      "sectionId": "cap34",
+      "sectionTitle": "Marcos y realidad",
+      "text": "El encuadre , es decir formulación que moldea la elección, es inevitable porque no hay formulación neutra. En el problema de enfermedad asiática, salvar doscientos de seiscientos versus perder cuatrocientos produce distinta elección. Donación de órganos cambia con opt-in versus opt-out."
+    },
+    {
+      "sectionId": "cap34",
+      "sectionTitle": "Marcos y realidad",
+      "text": "Encuadre emocional en medicina, derecho y finanzas mueve decisiones irrelevantes para axiomas. Libertad paternalista , es decir marcos que empujan sin prohibir, propone marcos que empujan hacia decisiones mejores. Sistema 1 responde a redacción, y Sistema 2 rara vez recalcula."
+    },
+    {
+      "sectionId": "cap34",
+      "sectionTitle": "Marcos y realidad",
+      "text": "Redacción altera preferencias sin alterar hechos, y diseñar buenos marcos es política legítima y necesaria."
+    },
+    {
+      "sectionId": "cap34",
+      "sectionTitle": "Marcos y realidad",
+      "text": "Parte V separa al yo que vive del yo que recuerda."
+    },
+    {
+      "sectionId": "cap35",
+      "sectionTitle": "Dos yoes",
+      "text": "¿Quién decide cuando el yo que vive y el yo que recuerda quieren cosas distintas?"
+    },
+    {
+      "sectionId": "cap35",
+      "sectionTitle": "Dos yoes",
+      "text": "El yo que experimenta , es decir quien vive el momento, vive momentos. El yo que recuerda , es decir quien guarda la historia, guarda historia. En el experimento mano fría, exponerse más tiempo al frío puede ser preferido si el final es menos doloroso."
+    },
+    {
+      "sectionId": "cap35",
+      "sectionTitle": "Dos yoes",
+      "text": "Recordar ignora tiempo finito y favorece picos intensos y finales sobre periodos moderados largos. Consecuencias absurdas en elecciones médicas si solo cuenta memoria. Ambos yoes importan, pero no coinciden."
+    },
+    {
+      "sectionId": "cap35",
+      "sectionTitle": "Dos yoes",
+      "text": "Memoria obedece pico y final, no duración, y elegimos sufrimientos mal distribuidos si la historia queda mejor."
+    },
+    {
+      "sectionId": "cap35",
+      "sectionTitle": "Dos yoes",
+      "text": "Evaluamos vidas enteras como historias, no como suma de momentos."
+    },
+    {
+      "sectionId": "cap36",
+      "sectionTitle": "La vida como historia",
+      "text": "¿Por qué un final feliz redime una biografía en nuestra mente?"
+    },
+    {
+      "sectionId": "cap36",
+      "sectionTitle": "La vida como historia",
+      "text": "Por eso, en el caso Jen, años felices más años tristes mejoran evaluación total si se agregan años felices al final. Eso ocurre aunque aumente sufrimiento experimentado. Colonoscopia extendida con final menos doloroso hace recuerdo mejor y aumenta probabilidad de repetir."
+    },
+    {
+      "sectionId": "cap36",
+      "sectionTitle": "La vida como historia",
+      "text": "Vacaciones amnésicas importan poco al yo recordador aunque fueron placenteras. Evaluamos óperas y vidas por momentos salientes. Políticas que solo miran satisfacción recordada ignoran sufrimiento real."
+    },
+    {
+      "sectionId": "cap36",
+      "sectionTitle": "La vida como historia",
+      "text": "Juzgamos vidas por desenlaces y picos, no por tiempo vivido, y finales felices reescriben evaluación global."
+    },
+    {
+      "sectionId": "cap36",
+      "sectionTitle": "La vida como historia",
+      "text": "Medir bienestar momentáneo requiere métodos distintos del recuerdo."
+    },
+    {
+      "sectionId": "cap37",
+      "sectionTitle": "Bienestar experimentado",
+      "text": "¿Cómo medir felicidad real en el momento, no recordada?"
+    },
+    {
+      "sectionId": "cap37",
+      "sectionTitle": "Bienestar experimentado",
+      "text": "El Day Reconstruction Method , es decir reconstrucción hora a hora del día, reconstruye día hora a hora con emociones. El U-index , es decir proporción de tiempo en sufrimiento, mide tiempo en sufrimiento. Datos muestran diferencias entre actividades, países y grupos distintas a encuestas de satisfacción vital."
+    },
+    {
+      "sectionId": "cap37",
+      "sectionTitle": "Bienestar experimentado",
+      "text": "Políticas públicas deben decidir qué yo optimizar entre experiencia momentánea o satisfacción recordada. Ceguera, diálisis y colonoscopia tienen rankings distintos según métrica. No hay solución fácil pero ignorar dualidad es error."
+    },
+    {
+      "sectionId": "cap37",
+      "sectionTitle": "Bienestar experimentado",
+      "text": "Bienestar experimentado se mide momento a momento, y difiere de satisfacción recordada y cambia prioridades."
+    },
+    {
+      "sectionId": "cap37",
+      "sectionTitle": "Bienestar experimentado",
+      "text": "Al pensar la vida sobreestimamos impacto de eventos aislados."
+    },
+    {
+      "sectionId": "cap38",
+      "sectionTitle": "Pensar sobre la vida",
+      "text": "¿Qué pesa al elegir carrera, pareja o lugar de vida?"
+    },
+    {
+      "sectionId": "cap38",
+      "sectionTitle": "Pensar sobre la vida",
+      "text": "La ilusión focalizadora , es decir sobreestimar impacto de un factor, sobreestima efecto de un factor en felicidad total. «Nada en la vida importa tanto como piensas mientras lo estás pensando.» Atención limitada hace que lo presente domine juicio."
+    },
+    {
+      "sectionId": "cap38",
+      "sectionTitle": "Pensar sobre la vida",
+      "text": "Pensar sobre vida es necesario pero sesgado. Ninguna métrica única captura bienestar entre experiencia, memoria y satisfacción. Humildad metodológica antes de grandes elecciones."
+    },
+    {
+      "sectionId": "cap38",
+      "sectionTitle": "Pensar sobre la vida",
+      "text": "Al focalizar un factor inflamos su peso, y pensar sobre la vida es inevitable pero sistemáticamente sesgado."
+    }
+  ]
+}

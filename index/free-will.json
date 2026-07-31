@@ -1,0 +1,421 @@
+{
+  "slug": "free-will",
+  "title": "Libre albedrío",
+  "concepts": [
+    {
+      "title": "Libre albedrío",
+      "description": "Creencia en ser fuente consciente de pensamientos y actos; Harris la considera incoherente objetiva y subjetivamente."
+    },
+    {
+      "title": "Compatibilismo",
+      "description": "Libertad como actuar según deseos sin coacción; compatible con determinismo pero ajeno a la experiencia sentida."
+    },
+    {
+      "title": "Potencial de preparación",
+      "description": "Señal cerebral (Libet) que precede ~300 ms a la sensación de decidir moverse."
+    },
+    {
+      "title": "Suerte constitutiva",
+      "description": "Genes, infancia y entorno que no elegimos pero moldean cada elección y el carácter."
+    },
+    {
+      "title": "Responsabilidad pragmática",
+      "description": "Ajuste entre conducta y carácter mental; sin agente inmortal ni retribución pura."
+    },
+    {
+      "title": "Fatalismo vs determinismo",
+      "description": "El determinismo no implica inacción: cada omisión también tiene causas y consecuencias."
+    },
+    {
+      "title": "Voluntad biológica",
+      "description": "Capacidad de esfuerzo fija en cada momento; no se elige qué se quiere ni por qué un deseo vence."
+    },
+    {
+      "title": "Ilusión de la ilusión",
+      "description": "Creemos sentir más libertad de la que la introspección revela al prestar atención."
+    }
+  ],
+  "highlight": "La ilusión de libre albedrío es, a su vez, una ilusión",
+  "entries": [
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "La ilusión que sostiene la moral",
+      "text": "¿Somos autores de nuestros pensamientos o testigos de una ilusión? El filósofo y neurocientífico Sam Harris abre con un caso extremo: el crimen de Cheshire ( 2007 )."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "La ilusión que sostiene la moral",
+      "text": "La pregunta del libre albedrío (la creencia de poder elegir libremente) toca casi todo lo que nos importa. Por eso afecta la moral, la ley y la culpa personal. Sin libre albedrío, los criminales serían como relojes mal calibrados y la justicia retributiva perdería sentido."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "La ilusión que sostiene la moral",
+      "text": "Steven Hayes y Joshua Komisarjevsky asesinaron a Jennifer Petit y a sus hijas tras una noche de violencia. Ante semejante horror, casi todos sentimos que los culpables deben responder moralmente."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "La ilusión que sostiene la moral",
+      "text": "Intercambiados átomo por átomo con Komisarjevsky, actuaríamos igual que él. La suerte (genes, infancia y cerebro que no elegimos) parece decisiva. Un tumor cerebral que explique la violencia desplazaría nuestra culpa. La neurofisiología ordinaria haría lo mismo: ambos son eventos físicos que producen pensamientos y actos."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "La ilusión que sostiene la moral",
+      "text": "Harris sostiene que el libre albedrío no solo es una ilusión. Tampoco puede hacerse conceptualmente coherente. O nuestras voluntades están determinadas por causas previas y no somos responsables de ellas, o son producto del azar y tampoco lo somos. Las dos suposiciones populares son falsas: que podríamos haber actuado distinto y que somos la fuente consciente de nuestros actos."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "La ilusión que sostiene la moral",
+      "text": "El libre albedrío es una ilusión. Nuestras voluntades no son de nuestra propia creación."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "La ilusión que sostiene la moral",
+      "text": "No somos los autores conscientes de nuestros pensamientos: las intenciones surgen de causas de las que no somos testigos ni dueños."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "La ilusión que sostiene la moral",
+      "text": "Para ver por qué esa tesis no es solo abstracta, Harris recurre a lo que el cerebro hace antes de que sintamos decidir."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Orígenes inconscientes de la voluntad",
+      "text": "¿Por qué elegimos café y no té sin saber el motivo? Procesamos solo una fracción minúscula de lo que el cerebro calcula en cada instante. Esta mañana Harris tomó café, no té, y no sabe por qué."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Orígenes inconscientes de la voluntad",
+      "text": "La «elección» apareció en conciencia, pero no se originó allí. El deseo surgió en la mente sin que él pudiera inspeccionarlo ni influirlo. Somos testigos tardíos de impulsos, no su fuente última."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Orígenes inconscientes de la voluntad",
+      "text": "En 1983 , el neurocientífico Benjamin Libet detectó actividad motora unos 300 ms antes de que la persona sintiera haber decidido moverse. Mediante resonancia magnética, John-Dylan Haynes predijo la elección varios segundos antes."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Orígenes inconscientes de la voluntad",
+      "text": "Registros directos de 256 neuronas alcanzaron cerca del 80 % de precisión. Lo hicieron unos 700 ms antes de la sensación de decidir. Antes de que parezcamos libres, el cerebro ya decidió. La conciencia llega tarde a decisiones ya iniciadas."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Orígenes inconscientes de la voluntad",
+      "text": "Incluso si el alma fuera inmaterial, no ayudaría. Quien no sabe qué hará su alma no controla nada. La distinción voluntario/involuntario existe y dice mucho sobre el carácter futuro de una persona, pero no salva el libre albedrío."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Orígenes inconscientes de la voluntad",
+      "text": "Habría que controlar todas las influencias que moldean cada pensamiento para tenerlo de verdad. Entonces surge la pregunta de qué influiría en esas influencias. No controlamos la tormenta. Somos la tormenta."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Orígenes inconscientes de la voluntad",
+      "text": "Las intenciones aparecen en conciencia como si brotaran del vacío, pero el cerebro ya las había determinado antes de que sintiéramos decidir."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Orígenes inconscientes de la voluntad",
+      "text": "La evidencia experimental choca con cómo la filosofía y el sentido común suelen definir la libertad."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Cambiar de tema",
+      "text": "¿Por qué la gente cree tener libre albedrío aunque el cerebro decida antes? El libre albedrío nace de una experiencia sentida (la sensación de ser autor de lo que hacemos), no de un argumento abstracto."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Cambiar de tema",
+      "text": "En filosofía conviven el determinismo (la idea de que todo tiene causa previa), el libertarianismo y el compatibilismo (libertad compatible con causas previas). Hoy solo el compatibilismo es respetable, porque el determinismo relevante para el comportamiento humano es cierto."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Cambiar de tema",
+      "text": "Los compatibilistas, como el filósofo Daniel Dennett , dicen que actuar según tus deseos sin coacción externa es libertad. Eso no coincide con lo que la gente siente. La gente cree poder haber actuado de otro modo con el universo idéntico."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Cambiar de tema",
+      "text": "Si las causas cerebrales son totalmente eficaces, la responsabilidad personal convencional pierde anclaje. Dennett afirma que «somos» también la neurofisiología inconsciente. Es como decir que todos vivimos de luz porque la cadena alimentaria depende de la fotosíntesis. Eso no es la capacidad que la gente cree tener."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Cambiar de tema",
+      "text": "Harris responde que somos polvo de estrellas, pero no nos sentimos estrellas. Esa identidad no guía la intuición moral ni el sistema penal. Cerca del 90 % de las células de nuestro cuerpo son microbios: ¿nos sentimos idénticos a ellos?"
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Cambiar de tema",
+      "text": "El psicólogo Daniel Wegner mostró que atribuimos agencia donde no la hay. El compatibilismo ignora la fuente del problema: la sensación de autoría consciente que hizo surgir la idea de libre albedrío."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Cambiar de tema",
+      "text": "Un títere es libre mientras ame sus cuerdas."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Cambiar de tema",
+      "text": "El compatibilismo sustituye la experiencia psicológica de agencia por una definición técnica de «persona» que no explica por qué nos importa el libre albedrío."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Cambiar de tema",
+      "text": "Si ni la conciencia tardía ni las definiciones filosóficas salvan la libertad, queda preguntar qué papel juegan la causalidad y el azar."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Causa y efecto",
+      "text": "¿Puede el azar cuántico abrir espacio al libre albedrío? Toda acción humana puede reducirse a eventos impersonales: genes transcritos, neurotransmisores, fibras musculares."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Causa y efecto",
+      "text": "Nuestra moralidad cotidiana parece exigir que las acciones no sean meramente productos de biología o condicionamiento. Algunos esperan que el azar cuántico o la aleatoriedad sináptica (como la que observa Martin Heisenberg en canales iónicos) abra ese espacio."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Causa y efecto",
+      "text": "Pero un neurotransmisor liberado al azar no es «yo» decidiendo: es suerte, no responsabilidad. Cada acto genuinamente aleatorio haría imposible una mente coherente y el razonamiento con otros."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Causa y efecto",
+      "text": "La indeterminación cuántica (eventos subatómicos sin causa local previa) opera en la evolución. Los rayos cósmicos mutan ADN. Pero eso no hace inteligible el concepto de libre albedrío en la vida diaria."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Causa y efecto",
+      "text": "Si el determinismo es cierto, el futuro, incluidos nuestros estados mentales, ya está fijado. Si hay azar genuino, tampoco merecemos crédito y diríamos «no sé qué me pasó». No hay combinación de verdad causal y azar compatible con la noción popular de libre albedrío."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Causa y efecto",
+      "text": "Ni determinismo ni azar cuántico producen la libertad que la gente cree tener: en ambos casos no somos los autores últimos de lo que hacemos."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Causa y efecto",
+      "text": "Aun sin libre albedrío, las elecciones parecen reales y a veces cambian vidas: hay que explicar esa paradoja."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Elecciones, esfuerzos e intenciones",
+      "text": "¿Importan las elecciones si no somos autores últimos? Podemos distinguir estados volicionales de reflejos automáticos, y la atención consciente importa para planificar y corregir."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Elecciones, esfuerzos e intenciones",
+      "text": "No se puede decidir ir al fisioterapeuta sin darse cuenta del dolor. Aun así, todo el proceso (dolor, pensamientos, terapia) surge sin que el yo consciente lo haya creado. La diferencia entre volición y reflejo no ofrece fundamento para la libertad de la voluntad."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Elecciones, esfuerzos e intenciones",
+      "text": "Confundir determinismo con fatalismo es un error. Sentarse a esperar también es una elección con consecuencias. Las decisiones son estados causales del cerebro que producen resultados reales en el mundo."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Elecciones, esfuerzos e intenciones",
+      "text": "Aun así, la próxima elección emergerá de causas previas que el testigo consciente no trajo a la existencia. La conciencia no nos hace más responsables del próximo pensamiento que de haber nacido."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Elecciones, esfuerzos e intenciones",
+      "text": "Harris relata cambios de vida que parecen prueba de voluntad: dieta, emprendimiento con dominio de 10 dólares , entrenamiento con Tim Ferriss . Reemplazó 20 libras de grasa por músculo."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Elecciones, esfuerzos e intenciones",
+      "text": "No puede explicar por qué funcionó esta vez y no antes. Puedes elegir lo que quieres, pero no elegir qué quieres ni por qué un deseo vence a otro. La voluntad es un fenómeno biológico: tienes exactamente la capacidad de esfuerzo que tienes ahora, ni un ápice más."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Elecciones, esfuerzos e intenciones",
+      "text": "Puedes hacer lo que decidas —pero no puedes decidir qué decidirás."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Elecciones, esfuerzos e intenciones",
+      "text": "Las elecciones importan causalmente, pero cada una surge de un regresión de causas que termina siempre en la oscuridad: no elegimos qué elegimos."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Elecciones, esfuerzos e intenciones",
+      "text": "Si negar el libre albedrío es verdad, el temor es que esa verdad corrompa la moral: Harris examina esa objeción."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "¿La verdad nos haría daño?",
+      "text": "¿Nos volveríamos peores si dejáramos de creer en el libre albedrío? Estudios muestran efectos preocupantes. Leer argumentos contra el libre albedrío puede aumentar la trampa en exámenes ( Vohs & Schooler , 2008 )."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "¿La verdad nos haría daño?",
+      "text": "Otros trabajos ( Baumeister et al., 2009 ) vinculan esa lectura con menos ayuda y más agresividad. La preocupación no es infundada, pero Harris no teme «degradar» la moral de sus lectores."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "¿La verdad nos haría daño?",
+      "text": "Perder la ilusión aumentó su compasión, su perdón y disminuyó el sentido de merecer la buena suerte. En clase de autodefensa, en cambio, un «golpea los ojos» sigue siendo útil. El agresor es víctima de causas previas, pero hay verdades científicas, éticas y prácticas para cada ocasión."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "¿La verdad nos haría daño?",
+      "text": "Conocer las causas del humor o del azúcar en sangre puede mejorar el control práctico sin restaurar libre albedrío. Cambiar inputs (habilidades, relaciones, hábitos de atención) transforma vidas aunque nada sea «libre» en el sentido mítico. Reconocer la ilusión puede, paradójicamente, aumentar la libertad vivida."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "¿La verdad nos haría daño?",
+      "text": "Reconocer que no somos autores últimos puede aumentar compasión y espacio para cambiar, sin caer en fatalismo ni nihilismo."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "¿La verdad nos haría daño?",
+      "text": "Esa compasión no elimina la necesidad de juzgar conductas: la pregunta es cómo responsabilizar sin ilusión."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Responsabilidad moral",
+      "text": "¿Cómo castigar sin creer en un agente autónomo? La Corte Suprema de EE. UU. ( 1978 , caso United States v. Grayson) vincula el libre albedrío al sistema penal."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Responsabilidad moral",
+      "text": "Harris propone responsabilidad sin ilusión. Ser responsable es que la conducta refleje la mente global (creencias, deseos, historial). No que exista un agente inmune a la causalidad."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Responsabilidad moral",
+      "text": "Cinco casos graduales muestran cómo el contexto modula la indignación aunque el cerebro sea siempre la causa. Un niño de 4 años provoca menos furia que un adulto. Un abusado de 12 o un adulto con historial de abuso despiertan más compasión. Un psicópata sin tumor genera otra reacción, pero un psicópata con tumor en corteza prefrontal medial casi «absuelve» porque la lesión parece adventicia."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Responsabilidad moral",
+      "text": "El tumor «absuelve» porque parece adventicio. Entender más causas difumina la línea entre psicópata y paciente con tumor. Encarcelar peligrosos protege a otros sin necesidad de odiar al agente."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Responsabilidad moral",
+      "text": "Retener una cura barata del «mal» en el suministro alimentario solo para castigar sería absurdo. Eso revela cuánto depende la venganza de ignorar causas."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Responsabilidad moral",
+      "text": "El historiador Jared Diamond contrasta dos historias de venganza. En Nueva Guinea, quien se vengó quedó satisfecho. Quien no mató al asesino de su familia en el Holocausto se arrepintió. La retribución pura descansa en una ilusión cognitiva y moral."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Responsabilidad moral",
+      "text": "**Contención** — Alejar peligros sin odiar al agente como autor inmortal."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Responsabilidad moral",
+      "text": "**Disuasión** — Amenazas pueden modificar conducta aunque no haya libre albedrío."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Responsabilidad moral",
+      "text": "**Gradación** — Edad, abuso, intención consciente informan riesgo futuro, no mérito metafísico."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Responsabilidad moral",
+      "text": "Podemos responsabilizar conductas compatibles con el carácter y contener peligros sin creer en un agente autónomo ni en castigo retributivo puro."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Responsabilidad moral",
+      "text": "La misma lógica se extiende a la política: el mérito absoluto del éxito y del fracaso también depende de la suerte."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Política",
+      "text": "¿Qué cambia en política si la suerte es constitutiva? Negar la ilusión tiene implicaciones políticas. Los liberales suelen reconocer la suerte en el éxito."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Política",
+      "text": "Los conservadores a menudo fetichizan el individualismo sin ver cuánta fortuna requiere «trabajar duro». Hace falta inteligencia, salud y no quebrar por enfermedad de un cónyuge. Nadie eligió su genoma, país, salud ni economía familiar."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Política",
+      "text": "Incluso la disciplina para esforzarse es condición neurológica, no mérito. La pereza y la diligencia son estados del cerebro. Aun así, exigir esfuerzo y disuadir a quienes se aprovechan del sistema sin contribuir sigue siendo útil socialmente."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Política",
+      "text": "Podemos tratar a personas como responsables en la medida en que eso cambie comportamientos, sin creer en el libre albedrío. Mejorar la sociedad es trabajar con la naturaleza, porque no hay otra cosa con qué trabajar, no contra ella."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Política",
+      "text": "La suerte es constitutiva de la moralidad misma y debería moderar el mérito absoluto del éxito y del fracaso."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Política",
+      "text": "Harris cierra volviendo a la experiencia íntima: observar de cerca cómo surgen los pensamientos."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Conclusión",
+      "text": "¿Qué queda al observar de cerca cómo surgen los pensamientos? El misterio del libre albedrío no es solo objetivo sino subjetivo. Al observar de cerca, la libertad desaparece."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Conclusión",
+      "text": "Harris «elige» escribir lo que quiera en el resto del libro. Al prestar atención a su flujo de conciencia pregunta: ¿de dónde salió «conejo» y no «elefante»? No sabe la causa de ninguna elección."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Conclusión",
+      "text": "Podría cambiar «conejo» por «elefante», pero tampoco explicaría por qué. Ni la ley de la naturaleza ni el azar parecen libertad. ¿Es libre de sentir que «elefante» es mejor palabra si no lo siente así? No: la palabra solo puede cambiarlo a él, no al revés."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Conclusión",
+      "text": "La ilusión de libre albedrío es, en sí misma, otra ilusión. No sentimos tanta libertad como creemos cuando prestamos atención. Los pensamientos simplemente surgen. De ahí que la introspección cierre el debate más rápido que cualquier argumento abstracto."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Conclusión",
+      "text": "¿Conejo o elefante? No soy libre de sentir que «elefante» es mejor palabra si no lo siente así."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Conclusión",
+      "text": "La verdad sobre nosotros es más extraña: somos tormentas , no capitanes que las gobiernan, y la introspección lo confirma."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Las intenciones aparecen en conciencia como si brotaran del vacío."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "En realidad vienen de causas ocultas que no elegimos ni controlamos."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Por eso podemos reformar justicia y compasión sin el fantasma del autor inmortal."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Reconocerlo no anula elecciones ni esfuerzos: cambia cómo los juzgamos."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Perder la ilusión puede, paradójicamente, aumentar la libertad vivida y la compasión."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La ilusión de libre albedrío es, a su vez, una ilusión"
+    }
+  ]
+}

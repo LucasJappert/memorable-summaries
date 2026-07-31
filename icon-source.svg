@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none" role="img" aria-label="Memorable Summaries">
+  <defs>
+    <linearGradient id="bg" x1="256" y1="0" x2="256" y2="512" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#141b32"/>
+      <stop offset="0.5" stop-color="#0a0e1a"/>
+      <stop offset="1" stop-color="#060810"/>
+    </linearGradient>
+    <radialGradient id="aura" cx="256" cy="190" r="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7c8cf0" stop-opacity="0.38"/>
+      <stop offset="0.5" stop-color="#7c8cf0" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#7c8cf0" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="auraMint" cx="160" cy="280" r="150" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7cf0c8" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#7cf0c8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="auraWarm" cx="360" cy="290" r="140" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f0a87c" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#f0a87c" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="pageL" x1="110" y1="250" x2="256" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a8b4ff"/>
+      <stop offset="1" stop-color="#5a6bd9"/>
+    </linearGradient>
+    <linearGradient id="pageR" x1="402" y1="250" x2="256" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#a3f7dc"/>
+      <stop offset="1" stop-color="#3dbfa0"/>
+    </linearGradient>
+    <linearGradient id="spine" x1="256" y1="250" x2="256" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffd0a8"/>
+      <stop offset="1" stop-color="#d07a48"/>
+    </linearGradient>
+    <linearGradient id="cover" x1="256" y1="410" x2="256" y2="458" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1a2240"/>
+      <stop offset="1" stop-color="#0e1324"/>
+    </linearGradient>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="nodeGlow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="512" height="512" fill="url(#bg)"/>
+  <circle cx="256" cy="190" r="220" fill="url(#aura)"/>
+  <circle cx="160" cy="280" r="150" fill="url(#auraMint)"/>
+  <circle cx="360" cy="290" r="140" fill="url(#auraWarm)"/>
+
+  <ellipse cx="256" cy="444" rx="148" ry="16" fill="#000" opacity="0.38"/>
+
+  <!-- Book cover -->
+  <path
+    d="M88 398 C136 366 208 352 256 378 C304 352 376 366 424 398 V430 C376 402 304 390 256 414 C208 390 136 402 88 430 Z"
+    fill="url(#cover)"
+    stroke="#2a3050"
+    stroke-width="2"
+  />
+
+  <!-- Pages -->
+  <path d="M256 248 C194 216 120 224 82 258 V400 C120 368 194 354 256 384 Z" fill="url(#pageL)"/>
+  <path d="M256 248 C318 216 392 224 430 258 V400 C392 368 318 354 256 384 Z" fill="url(#pageR)"/>
+
+  <!-- Page sheen -->
+  <path d="M256 256 C206 230 144 236 112 260 V376 C144 352 206 340 256 364 Z" fill="#fff" opacity="0.11"/>
+  <path d="M256 256 C306 230 368 236 400 260 V376 C368 352 306 340 256 364 Z" fill="#fff" opacity="0.11"/>
+
+  <!-- Text lines -->
+  <path d="M126 304 H200 M134 332 H208 M144 360 H196" stroke="#eef1ff" stroke-width="7.5" stroke-linecap="round" opacity="0.30"/>
+  <path d="M312 304 H386 M304 332 H378 M316 360 H368" stroke="#eafff7" stroke-width="7.5" stroke-linecap="round" opacity="0.30"/>
+
+  <!-- Spine -->
+  <path d="M256 248 V384" stroke="url(#spine)" stroke-width="11" stroke-linecap="round"/>
+  <path d="M256 256 V372" stroke="#fff6ec" stroke-width="2.5" stroke-linecap="round" opacity="0.38"/>
+
+  <!-- Memory constellation (above the book) -->
+  <g filter="url(#softGlow)">
+    <path
+      d="M256 248 L256 176 M256 176 L178 118 M256 176 L334 118 M256 176 L256 88 M178 118 L132 158 M334 118 L380 158"
+      stroke="#d0d4ec"
+      stroke-width="5.5"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      opacity="0.82"
+    />
+  </g>
+
+  <g filter="url(#nodeGlow)">
+    <circle cx="256" cy="248" r="12" fill="#e8ebf8"/>
+    <circle cx="256" cy="176" r="10" fill="#7c8cf0"/>
+    <circle cx="178" cy="118" r="16" fill="#7cf0c8"/>
+    <circle cx="334" cy="118" r="16" fill="#f0a87c"/>
+    <circle cx="256" cy="88" r="13" fill="#9aa6f5"/>
+    <circle cx="132" cy="158" r="9" fill="#7c8cf0"/>
+    <circle cx="380" cy="158" r="9" fill="#7cf0c8"/>
+  </g>
+
+  <!-- Specular highlights on main nodes -->
+  <circle cx="173" cy="112" r="4" fill="#fff" opacity="0.55"/>
+  <circle cx="329" cy="112" r="4" fill="#fff" opacity="0.45"/>
+  <circle cx="253" cy="84" r="3.2" fill="#fff" opacity="0.5"/>
+  <circle cx="253" cy="172" r="2.6" fill="#fff" opacity="0.45"/>
+
+  <!-- Sparkles -->
+  <circle cx="96" cy="220" r="3.2" fill="#7cf0c8" opacity="0.85"/>
+  <circle cx="416" cy="208" r="2.8" fill="#f0a87c" opacity="0.8"/>
+  <circle cx="440" cy="300" r="2.2" fill="#7c8cf0" opacity="0.7"/>
+  <circle cx="76" cy="320" r="2" fill="#e0e4f0" opacity="0.5"/>
+  <path d="M428 112 L433 124 L445 129 L433 134 L428 146 L423 134 L411 129 L423 124 Z" fill="#e8ebf8" opacity="0.75"/>
+  <path d="M84 140 L87.5 150 L97.5 153.5 L87.5 157 L84 167 L80.5 157 L70.5 153.5 L80.5 150 Z" fill="#7cf0c8" opacity="0.7"/>
+</svg>

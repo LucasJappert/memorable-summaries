@@ -1,0 +1,371 @@
+{
+  "slug": "murmurs-of-earth",
+  "title": "Murmullo de la Tierra",
+  "concepts": [
+    {
+      "title": "Disco de las Voyager",
+      "description": "Registro fonográfico de cobre/dorado con sonido, imágenes y saludos; instrucciones científicas en la cubierta."
+    },
+    {
+      "title": "SETI",
+      "description": "Búsqueda de inteligencia extraterrestre por radio; escuchar es más plausible que dialogar a distancias interestelares."
+    },
+    {
+      "title": "Mensaje de Arecibo",
+      "description": "Bitmap de 1679 caracteres transmitido en 1974; ADN, humano, sistema solar y telescopio emisor."
+    },
+    {
+      "title": "Cápsula del tiempo",
+      "description": "Comunicación con el futuro lejano; tradición desde Esarhaddon hasta la era espacial."
+    },
+    {
+      "title": "Codificación de imágenes",
+      "description": "Fotografías convertidas a señal de audio en los surcos del disco fonográfico."
+    },
+    {
+      "title": "Micrometeoritos",
+      "description": "Principal amenaza al Disco en el vacío; la cubierta de aluminio mitiga el daño."
+    },
+    {
+      "title": "Música como emoción",
+      "description": "Complemento a la ciencia; posible lenguaje de sentimientos humanos."
+    },
+    {
+      "title": "Audiencia dual",
+      "description": "Terrícolas (lectores seguros) vs extraterrestres (probabilidad infinitesimal)."
+    }
+  ],
+  "highlight": "Es un mensaje a las estrellas —y, sobre todo, un espejo de lo que elegimos conservar de nosotros mismos.",
+  "entries": [
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La humanidad fabricó un artefacto que puede sobrevivir eones en el vacío interestelar."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "El Disco Voyager codifica ciencia, imagen, sonido, música y saludo en un solo objeto físico."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Casi ningún extraterrestre lo verá; billones de terrícolas sí, y eso basta para justificar el gesto."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Voyager parte lenta pero irrevocablemente hacia el vacío entre las estrellas."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Enviar tal mensaje solo tiene sentido si se cree en un futuro."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Es un mensaje a las estrellas —y, sobre todo, un espejo de lo que elegimos conservar de nosotros mismos."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Emisarios hacia las estrellas",
+      "text": "¿Qué mensaje físico llevan las sondas Voyager hacia las estrellas? El 20 de agosto de 1977 se lanzó la primera nave Voyager (sonda espacial estadounidense). El 5 de septiembre partió la segunda, ambas hacia el sistema solar exterior. Explorarán de Júpiter a Urano y luego abandonarán el sistema solar como emisarios de la Tierra. A cada una se fijó un disco fonográfico de cobre recubierto de oro."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Emisarios hacia las estrellas",
+      "text": "El registro contiene 118 fotografías de nuestro planeta, nosotros mismos y nuestra civilización. Incluye casi 90 minutos de la música más selecta del mundo. También lleva un ensayo sonoro evolutivo llamado «The Sounds of Earth». Hay saludos en casi sesenta idiomas humanos y uno de ballena, con mensajes del presidente de EE. UU. y del secretario general de la ONU."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Emisarios hacia las estrellas",
+      "text": "Este libro, escrito por quienes diseñaron el contenido del Disco, explica por qué lo hicieron, cómo seleccionaron el repertorio y qué contiene exactamente."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Emisarios hacia las estrellas",
+      "text": "Voyager lleva un mensaje físico a posibles civilizaciones lejanas —y, sobre todo, un espejo para la humanidad que lo envía."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Emisarios hacia las estrellas",
+      "text": "Para entender ese gesto, conviene ver primero por qué la humanidad ha querido hablar con el futuro lejano."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Para tiempos y seres futuros",
+      "text": "¿Por qué enviar un mensaje a civilizaciones que quizá nunca existan? El astrónomo Carl Sagan abre con la tradición de las cápsulas del tiempo (objetos enterrados o sellados para el futuro). Van desde las inscripciones de Esarhaddon en el siglo VII a.C. La tradición llega hasta la Cápsula del Tiempo de la Feria Mundial de Nueva York de 1939 . Comunicar con el futuro expresa esperanza y da perspectiva sobre el significado de nuestras acciones."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Para tiempos y seres futuros",
+      "text": "La era espacial amplía el horizonte a intervalos incomparablemente mayores. Somos jóvenes en un planeta mil veces más viejo, y nuestra civilización técnica dura una diezmilésima parte de la humanidad. Las civilizaciones alienígenas serían radicalmente distintas, pero la física y la química son universales. Por eso la primera comunicación exitosa, si ocurre, será científica."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Para tiempos y seres futuros",
+      "text": "Las naves viajan muy lento, a unos 10 km/s . La radio viaja a la velocidad de la luz, pero recibir monólogos de civilizaciones avanzadas es más plausible que un diálogo interestelar. Antes de Voyager, las sondas Pioneer 10 y 11 (primeras naves en salir del sistema solar) llevaron placas de oro-anodizado. El satélite LAGEOS (un satélite láser para medir la Tierra), con vida útil de 8 millones de años, incluye una placa sobre deriva continental."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Para tiempos y seres futuros",
+      "text": "En diciembre de 1976 , el director del proyecto Voyager, John Casani , pidió a Sagan organizar un mensaje para las dos naves. Un grupo de consultores debatió el contenido. B. M. Oliver señaló que casi ningún extraterrestre verá el mensaje, pero billones de terrícolas sí: su función real es expandir el espíritu humano."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Para tiempos y seres futuros",
+      "text": "En enero de 1977 , en Honolulu, Frank Drake sugirió un disco fonográfico de larga duración. La información grabada en los surcos puede durar eones e incluir imágenes codificadas en audio y música. El disco gira a 16⅔ rpm para albergar unos 90 minutos de música."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Para tiempos y seres futuros",
+      "text": "El Disco Voyager es cápsula del tiempo cósmica: ciencia, arte, sonido y saludo reunidos en un artefacto que puede durar mil millones de años."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Para tiempos y seres futuros",
+      "text": "Ese disco no nació en el vacío: hereda décadas de intentos humanos de hablar al cosmos."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Los cimientos del Disco Voyager",
+      "text": "¿Cómo se llegó de escuchar el espacio a enviar un mensaje físico a bordo de una nave? Frank Drake , pionero del SETI (búsqueda de inteligencia extraterrestre por radio), relata la convergencia. La búsqueda y las técnicas de mensajería interestelar culminan en el Disco Voyager. La convicción de que hay vida más allá de la Tierra impulsa codificar información comprensible sin contacto previo."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Los cimientos del Disco Voyager",
+      "text": "En 1959 , Morrison y Coconni propusieron buscar señales de radio interestelares. Drake inició el Proyecto OZMA (el primer intento sistemático de escuchar señales alienígenas) en 1960 . En la conferencia de Green Bank de 1961 nació el «Orden del Delfín» y las ecuaciones básicas del SETI. Pronto Drake ideó enviar imágenes como secuencias de puntos blancos y negros: un lenguaje más simple que transmitir π o números primos."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Los cimientos del Disco Voyager",
+      "text": "La placa de Pioneer 10/11 de 1972 incluyó un mapa de púlsares para datar el mensaje. Las figuras humanas las dibujó Linda Salzman Sagan . La reacción pública enseñó humildad, con censura de desnudos y críticas de representatividad."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Los cimientos del Disco Voyager",
+      "text": "En noviembre de 1974 , en la rededicación del radiotelescopio de Arecibo (Puerto Rico), se transmitió el primer mensaje humano deliberado al espacio. Era un bitmap de 1679 caracteres, dispuestos en una cuadrícula de 73×23 . Incluía números, ADN, figura humana, sistema solar y el propio telescopio. El mensaje iba dirigido al cúmulo Messier 13, a 25.000 años-luz."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Los cimientos del Disco Voyager",
+      "text": "Carl Sagan actuó como extraterrestre de prueba en un almuerzo y decodificó el mensaje. No fue un intento serio de contacto, sino demostración de capacidad técnica. La portada del Disco Voyager repite esta lógica: instrucciones científicas para reproducir el registro, heredera de Pioneer y Arecibo."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Los cimientos del Disco Voyager",
+      "text": "Por eso, antes del Disco físico, Arecibo demostró que podemos hablar al cosmos en el lenguaje de la matemática y la física."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Los cimientos del Disco Voyager",
+      "text": "Si el cosmos puede leer matemáticas, el disco debe enseñar quiénes somos sin suponer contexto terrestre."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Imágenes de la Tierra",
+      "text": "¿Cómo explicar la Tierra a una mente sin contexto previo? El artista y diseñador Jon Lomberg describe cómo seleccionar y codificar 118 imágenes en el ancho de banda del disco. El reto era pensar como un extraterrestre sin saber nada de nosotros, con apenas seis semanas de plazo."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Imágenes de la Tierra",
+      "text": "El equipo adoptó el ejercicio mental de «ser el extraterrestre». Seis imágenes originales crecieron a más de cien. Drake y Boriakoff redujeron el tiempo de grabación a 8 segundos por imagen. Colorado Video convirtió las fotos en señal de audio sin costo. Se evitó deliberadamente la guerra y la pobreza. También se excluyeron declaraciones políticas y religión explícita: el mensaje debía sobrevivirnos como lo mejor de la humanidad, no lo peor."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Imágenes de la Tierra",
+      "text": "La secuencia abre con matemáticas básicas (diccionario numérico). Sigue con química atmosférica, estructura del ADN (la molécula que guarda la información genética) y replicación celular. Luego muestra anatomía humana (láminas del World Book), reproducción humana, paisajes, arquitectura y actividades cotidianas. La NASA rechazó una fotografía de dos desnudos. Se conservó la silueta para no romper la secuencia reproductiva."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Imágenes de la Tierra",
+      "text": "**Apertura matemática** — Números, operaciones y unidades como diccionario para imágenes posteriores."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Imágenes de la Tierra",
+      "text": "**Biología** — ADN, división celular, anatomía y secuencia de reproducción humana."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Imágenes de la Tierra",
+      "text": "**Civilización** — Ciudades, transporte, comida, familia, ciencia y el propio Voyager."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Imágenes de la Tierra",
+      "text": "Cada imagen fue debatida con dos preguntas: si representa diversidad y si evita chauvinismo occidental. Los autores escribieron «cytosine» con S en el diagrama del ADN para evitar ambigüedad química. Los números del atlas anatómico quedaron en las láminas por falta de tiempo para pintarlos."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Imágenes de la Tierra",
+      "text": "Las imágenes no son postal turística: son lección autocontenida sobre quiénes somos, diseñada para mentes sin contexto terrestre."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Imágenes de la Tierra",
+      "text": "Tras enseñar con imágenes, el disco añade la voz humana directa en decenas de idiomas."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Saludos de una Voyager",
+      "text": "¿Cómo saludar al cosmos sin elegir un solo idioma? Linda Salzman Sagan coordinó los saludos hablados como celebración del espíritu humano gregario. Somos, dice el libro, como Robinson Crusoe (el náufrago de la novela de Defoe) en la isla Tierra. Gritamos al horizonte la pregunta «¿Hay alguien en casa?» El tono busca ser más festivo que un simple hola y menos sombrío que un suspiro."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Saludos de una Voyager",
+      "text": "Se grabaron más de 55 saludos breves en idiomas distintos, sin guion fijo: cada hablante elegía sus palabras. Se priorizaron los 25 idiomas más hablados del mundo. Steven Soter aportó la lista. Luego entraron tantos más como el tiempo permitió. Incluso sumerio, acadio, hitita y latín entraron por valor histórico. El mandarín suena casual, como una postal: «Esperamos que todos estén bien. Vengan a visitarnos cuando tengan tiempo»."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Saludos de una Voyager",
+      "text": "El equipo sabía que ningún lingüista alienígena podría descifrar la mayoría de los idiomas. Aun así prefirió un coro planetario a uno o dos idiomas con diccionario, que habría levantado la pregunta de cuáles elegir. Los saludos forman un Gestalt (un todo que se percibe como unidad) auditivo: cada cultura es una voz en el coro."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Saludos de una Voyager",
+      "text": "Las sesiones en Cornell generaron camaradería entre participantes de todo el mundo. La primera fue el 8 de junio de 1977. La segunda, el 13 del mismo mes. Bishun Khare reclutó casi solo a los hablantes indios. El suajili quedó fuera por cancelaciones de último minuto, una omisión lamentable. También se incluyeron mensajes del presidente Carter, del secretario general Kurt Waldheim y cantos de ballena jorobada de Roger Payne ."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Saludos de una Voyager",
+      "text": "Decir «hola» al cosmos exigió un coro multilingüe: diversidad humana como gesto, no como manual de descifrado."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Saludos de una Voyager",
+      "text": "Después de las palabras humanas, el disco narra la Tierra con sonidos evolutivos."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Los sonidos de la Tierra",
+      "text": "¿Qué suena un planeta entero en doce minutos? Ann Druyan produjo «The Sounds of Earth», un ensayo sonoro de 12 minutos concebido para dos audiencias: humanos que reconocen y extraterrestres que intuyen. Recuerda las palabras de Shakespeare en The Tempest : la isla está llena de ruidos, sonidos y aires dulces."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Los sonidos de la Tierra",
+      "text": "La selección comenzó con una lluvia de onomatopeyas en la mesa de los Sagan. Después el equipo recorrió bibliotecas de sonido, universidades y grabaciones de campo. Roger Payne aportó el saludo de ballena grabado en Bermuda en 1970 . Alan Botto proporcionó el despegue del Saturno V con la voz «Fly, bird» en Mission Control. Algunos colaboradores rechazaron participar por desconfianza hacia el gobierno. Otros exigieron dinero que el proyecto no tenía."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Los sonidos de la Tierra",
+      "text": "En la Biblioteca del Congreso, Druyan y Timothy Ferris oyeron una grabación de campo de la Primera Guerra Mundial y debatieron si incluir violencia. Murry Sidlin insistió en enviar «lo mejor de nosotros», pero esa noche no hubo conclusión. El montaje sigue una estructura evolutiva amplia, de lo geológico a lo biológico y luego a lo tecnológico. La escala temporal real dejaría casi todo el disco en olas y viento."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Los sonidos de la Tierra",
+      "text": "**Música de las Esferas** — Tonos de Kepler (Spiegel/Bell Labs) abren el ensayo."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Los sonidos de la Tierra",
+      "text": "**Vida y humanidad** — De volcanes y grillos a herramientas de piedra, fuego y habla !Kung."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Los sonidos de la Tierra",
+      "text": "**Tecnología** — Morse «Ad astra per aspera», trenes, cohete, beso, latidos de bebé, EEG de Druyan, pulsar CP1133 cierra."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Los sonidos de la Tierra",
+      "text": "Los sonidos narran la historia de un planeta: de la física elemental al rugido de un despegue espacial."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Los sonidos de la Tierra",
+      "text": "Si los sonidos cuentan la evolución, la música debe expresar lo que la ciencia no alcanza."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "La música de Voyager",
+      "text": "¿Qué música representa a toda la humanidad en noventa minutos? Timothy Ferris documenta la selección musical del disco, unos 87,5 minutos enviados a las estrellas. Los criterios fueron amplitud cultural y pasión genuina. El musicólogo Robert Brown lo resumió así: «Si no enviamos lo que nos importa profundamente, ¿para qué enviar nada?»"
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "La música de Voyager",
+      "text": "El corte a 16⅔ rpm triplicó el tiempo disponible, pero todo debía elegirse en menos de dos meses. La mitad del disco es música no occidental gracias a Alan Lomax , Brown y otros asesores. Debates maratonianos enfrentaron jazz, rock, ópera y música folklórica. Se descartó «Here Comes the Sun» de los Beatles por problemas de copyright. Horas antes del corte del disco maestro, Carol Kulig localizó el coro georgiano «Tchakrulo», que reemplazó una pieza soviética más derivativa."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "La música de Voyager",
+      "text": "La secuencia abre con el Brandenburg Concerto No. 2 (segundo concierto de Bach) y cierra con la Cavatina (movimiento lírico de Beethoven). Los dos primeros compases del disco son precisamente esa Cavatina."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "La música de Voyager",
+      "text": "Además, el repertorio abarca gamelán javanés, canto de iniciación pigmea, raga indio y ch'in chino «Flowing Streams». Incluye también a Louis Armstrong, Chuck Berry («Johnny B. Goode»), Stravinsky y Mozart. Cierra «Dark Was the Night» de Blind Willie Johnson. En el espacio entre surcos finales se grabó la dedicatoria «To the makers of music—all worlds, all times»."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "La música de Voyager",
+      "text": "«Para los creadores de la música —todos los mundos, todos los tiempos.»"
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "La música de Voyager",
+      "text": "La música del disco expresa lo que la ciencia no alcanza: emociones humanas elegidas con pasión, no por deber protocolario."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "La música de Voyager",
+      "text": "Ese mensaje viaja gracias a una misión científica que primero debe explorar el sistema solar exterior."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "La misión Voyager al sistema solar exterior",
+      "text": "¿Por qué una sonda científica puede convertirse en emisaria interestelar? Carl Sagan describe la ciencia que hace posible el viaje interestelar. La Tierra es un planeta terrestre (rocoso y pequeño, como Marte o Venus). Más allá de Marte reinan los gigantes gaseosos: Júpiter, Saturno, Urano y Neptuno, con masas y atmósferas radicalmente distintas."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "La misión Voyager al sistema solar exterior",
+      "text": "Júpiter tiene 317 veces la masa terrestre y emite más energía de la que recibe del Sol. Sus nubes de colores pueden contener moléculas orgánicas formadas por rayos ultravioleta y descargas eléctricas, incluidos aminoácidos. Titán, luna de Saturno, tiene atmósfera densa de metano. Sus mares podrían albergar materia orgánica acumulada durante eones. En 1976 se descubrieron anillos alrededor de Urano, lo que alivió la pregunta de por qué solo Saturno los tenía."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "La misión Voyager al sistema solar exterior",
+      "text": "Las Voyager llevan 11 experimentos científicos, cada uno con un equipo que trabajó casi una década. Las trayectorias asistidas por gravedad de Júpiter y Saturno aceleran las naves hacia escape interestelar. Por eso, ese accidente de mecánica celeste hizo posible el Disco. Los compromisos entre objetivos científicos son dolorosos: volar cerca de Ío, ocultar Saturno tras sus anillos o alcanzar Urano excluyen otras mediciones igualmente valiosas."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "La misión Voyager al sistema solar exterior",
+      "text": "Voyager es simultáneamente exploradora del sistema solar exterior y mensajera al vacío entre las estrellas."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "La misión Voyager al sistema solar exterior",
+      "text": "Cuando la nave ya parte, queda preguntarse cuánto durará el mensaje que lleva fijado afuera."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Epílogo",
+      "text": "¿Sobrevivirá el Disco al vacío interestelar durante eones? Al ver la llama final del cohete Titan partir de Cabo Cañaveral, Sagan contempló el destino del Disco. Fijado al exterior de la nave, enfrenta rayos cósmicos y radiación solar. Sobre todo, enfrenta micrometeoritos (partículas del tamaño del polvo de cometa que llenan el espacio interplanetario)."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Epílogo",
+      "text": "A unos 15 km/s , sin cubierta de aluminio, el disco acumularía daño en un 10 % de su superficie en un año-luz. La funda de 0,08 cm de aluminio limita el daño a menos del 2 % a esa distancia. El lado interior, protegido, sobrevive esencialmente intacto unos 10⁹ años: ahí están saludos, sonidos y el primer tercio de la música."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Epílogo",
+      "text": "Voyager 1 (la primera sonda en salir del sistema solar) saldrá hacia Ofiuco. Voyager 2 (la que visitó Urano y Neptuno) irá hacia Capricornio."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Epílogo",
+      "text": "En unos 40.000 años, la enana roja AC+79 3888 estará a solo 3 años-luz del Sol. Voyager 1 pasará a 1,7 años-luz de ella. Si esa estrella tiene planetas, una maniobra final podría dirigir la nave hacia su sistema en unos 60.000 años."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Epílogo",
+      "text": "Por eso, quien encuentre el Disco sabrá que enviar tal mensaje solo tiene sentido con pasión por el futuro. Revelará una especie con esperanza, perseverancia, inteligencia modesta, generosidad y deseo genuino de contacto con el cosmos."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Epílogo",
+      "text": "El mensaje es frágil y eterno a la vez: un susurro de cobre y oro atravesando el vacío interestelar."
+    }
+  ]
+}

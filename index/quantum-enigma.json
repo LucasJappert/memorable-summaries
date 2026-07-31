@@ -1,0 +1,494 @@
+{
+  "slug": "quantum-enigma",
+  "title": "Enigma cuántico: la física se encuentra con la conciencia",
+  "concepts": [
+    {
+      "title": "Función de onda",
+      "description": "Descripción completa del objeto cuántico; ondulosidad = probabilidad objetiva de hallarlo."
+    },
+    {
+      "title": "Superposición",
+      "description": "Estado simultáneo de propiedades clásicamente incompatibles hasta la medición."
+    },
+    {
+      "title": "Colapso",
+      "description": "La observación concentra la onda en un resultado concreto."
+    },
+    {
+      "title": "Interpretación de Copenhague",
+      "description": "Uso pragmático de la cuántica sin exigir realismo para lo microscópico."
+    },
+    {
+      "title": "Entrelazamiento",
+      "description": "Correlaciones instantáneas entre sistemas que interactuaron; EPR y Bell."
+    },
+    {
+      "title": "Desigualdad de Bell",
+      "description": "Límite para teorías locales realistas; violada experimentalmente."
+    },
+    {
+      "title": "Complementariedad",
+      "description": "Aspectos onda y partícula mutuamente excluyentes pero ambos necesarios."
+    },
+    {
+      "title": "Problema difícil",
+      "description": "Por qué hay experiencia subjetiva además de procesos cerebrales (Chalmers)."
+    },
+    {
+      "title": "FAPP",
+      "description": "«For all practical purposes»: solución pragmática que evita el fondo filosófico."
+    },
+    {
+      "title": "Principio antrópico",
+      "description": "El cosmos parece afinado para la vida; explicación por selección u observación."
+    }
+  ],
+  "highlight": "La física encontró un esqueleto en el armario, y cerrar la puerta no lo hace desaparecer.",
+  "entries": [
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Presentando el enigma",
+      "text": "¿Por qué un libro sobre física puede ser controvertido si sus datos no lo son? Los autores insisten en separar hechos de significado. La mecánica cuántica (la teoría que describe átomos y luz) es experimentalmente indiscutida. Lo disputado es el enigma cuántico (el misterio filosófico que esos hechos implican). Es el esqueleto en el armario de la física. Choca con la conciencia (la experiencia subjetiva de percibir y elegir)."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Presentando el enigma",
+      "text": "La cuántica es la teoría más exitosa de la ciencia. Ninguna predicción falló jamás. Un tercio de la economía depende de productos basados en ella. Aun así, sus experimentos desafían el sentido común. Un objeto no puede estar en dos lugares a la vez. Lo que ocurre aquí no debería depender de lo que pasa lejos. Debe haber un mundo real «ahí fuera» aunque no lo miremos. La mecánica cuántica cuestiona cada intuición al sugerir que la observación consciente crea la realidad física observada."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Presentando el enigma",
+      "text": "El físico Eugene Wigner formuló el punto con crudeza. Al extender la teoría al microscópico, la conciencia volvió a ocupar un lugar central. No fue posible formular la mecánica cuántica de modo plenamente consistente sin referencia a ella. La comunidad física no acepta estudiar la conciencia como disciplina. Pero la discusión que une cuántica y conciencia no desaparece. Los autores describen hechos y teoría en lenguaje no técnico. Exploran interpretaciones rivales y admiten su sesgo. Ese vínculo merece atención."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Presentando el enigma",
+      "text": "Si la mecánica cuántica resistiera una formulación precisa y un dedo inamovible señalara fuera del tema, hacia la mente del observador, los escritos hindúes, Dios o la gravedad, ¿no sería eso muy, muy interesante?"
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Presentando el enigma",
+      "text": "El enigma cuántico no es filosofía gratuita sino un hecho experimental que coloca a la física frente a la conciencia."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Presentando el enigma",
+      "text": "Antes de abrir ese armario, los autores muestran por qué Einstein lo llamó «fantasmal»."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Einstein lo llamó «fantasmal»",
+      "text": "¿Por qué Einstein rechazó la cuántica si funcionaba tan bien? A fines de los 1950 , el joven Bruce Rosenblum pasó una tarde con Einstein en Princeton. El físico preguntó por el curso de mecánica cuántica y por el tratamiento filosófico de David Bohm. Los estudiantes habían sido instruidos a saltar esa parte y concentrarse en la formulación matemática. La conversación terminó pronto. Años después Rosenblum comprendió que Einstein quería hablar de las implicaciones «fantasmales» que la teoría negaba del mundo real."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Einstein lo llamó «fantasmal»",
+      "text": "La cuántica no es una teoría más. Es el marco sobre el que descansa toda la física moderna. Einstein se inquietaba porque, según la teoría, si observas un átomo en un lugar, fue tu mirada la que lo puso ahí. No estaba antes. ¿Aplica eso a cosas grandes? En principio sí. Einstein preguntó medio en broma si la Luna solo existe cuando la miramos."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Einstein lo llamó «fantasmal»",
+      "text": "El libro se centra en la negación aparente de un mundo físico independiente de la observación. El físico Erwin Schrödinger ilustró el absurdo con su gato vivo y muerto a la vez hasta que alguien mira. Niels Bohr respondió que quien no se horroriza por la cuántica no la entendió. La mayoría de físicos evitan esas implicaciones enseñando solo el cálculo. Richard Feynman admitió que nadie entiende la mecánica cuántica. El enigma lleva ocho décadas sin resolverse."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Einstein lo llamó «fantasmal»",
+      "text": "Einstein rechazó la cuántica no por el azar sino porque parecía negar una realidad física independiente de quien observa."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Einstein lo llamó «fantasmal»",
+      "text": "Los autores ilustran ese absurdo aparente con una parábola antes de entrar en la matemática."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "La visita a Neg Ahne Poc",
+      "text": "¿Puede la elección de una pregunta cambiar la realidad observada? Antes de la matemática, los autores cuentan una parábola. Un físico escéptico visita Neg Ahne Poc («Copenhague» al revés), un lugar ficticio con tecnología que muestra fenómenos cuánticos con objetos grandes. El Rhob (el anfitrión local) prepara un estado sin observación y luego deja elegir al visitante qué pregunta hacer."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "La visita a Neg Ahne Poc",
+      "text": "Si pregunta en qué cabaña está la pareja, siempre la encuentra junta en una sola. Si pregunta en cuál está el hombre y en cuál la mujer, los ve separados. Puede repetir el experimento y elegir libremente cada vez. El resultado siempre corresponde a la pregunta elegida, no a la otra que podría haber hecho. El visitante queda desconcertado. Se pregunta si, antes de preguntar, estaban juntos o separados."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "La visita a Neg Ahne Poc",
+      "text": "El Rhob responde con la lógica de Bohr. La ciencia no debe dar respuestas a experimentos no realizados. La observación libremente elegida determina la realidad revelada. Neg Ahne Poc no existe. La tecnología actual limita la demostración a objetos pequeños. En principio, la cuántica describe también objetos grandes. Por eso la parábola anticipa el experimento de dos cajas y la interpretación de Copenhague."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "La visita a Neg Ahne Poc",
+      "text": "La elección libre del experimento parece determinar si la realidad previa es concentrada o distribuida, igual que en la cuántica microscópica."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "La visita a Neg Ahne Poc",
+      "text": "Para entender por qué eso choca con el sentido común, hay que ver de dónde viene nuestro marco clásico."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Nuestro mundo newtoniano",
+      "text": "¿Por qué la cuántica nos parece tan extraña? Choca con el mundo newtoniano (la imagen clásica de espacio, tiempo, causa y efecto) forjada desde el siglo XVII . Esas intuiciones aún moldean nuestro pensamiento. Para entender el desafío, hay que ver de dónde viene ese marco."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Nuestro mundo newtoniano",
+      "text": "La ciencia griega buscó leyes de la naturaleza. El filósofo Aristóteles eligió principios «autoevidentes» sin mecanismo de consenso experimental. Galileo rompió ese patrón. Las teorías deben aceptarse o rechazarse por pruebas, no por intuición ni autoridad. Sus experimentos, como la caída de cuerpos desde la Torre de Pisa, mostraron que sin fricción los objetos caen igual y continúan en movimiento recto."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Nuestro mundo newtoniano",
+      "text": "Isaac Newton unificó caídas y órbitas en una ley universal del movimiento (la misma regla para una manzana y la Luna). La física clásica predice con precisión objetos mucho mayores que átomos. Pero es solo una aproximación: no funciona para lo que está hecho de átomos. Como Copérnico y Darwin, la cuántica tiene relevancia cultural inmediata. Trata del aquí y ahora, e incluso del núcleo de nuestra humanidad."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Nuestro mundo newtoniano",
+      "text": "Galileo y Newton fijaron que la ciencia se juzga por experimentos, pero el mundo clásico que heredamos resultó ser solo una aproximación fundamentalmente defectuosa."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Nuestro mundo newtoniano",
+      "text": "El siglo XIX amplió ese marco con luz y campos, y allí apareció la primera grieta."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "El resto de la física clásica",
+      "text": "¿Cómo la luz preparó el terreno para la cuántica? Antes de ella, el siglo XIX describió el mundo con campos (influencias que llenan el espacio, como un imán)."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "El resto de la física clásica",
+      "text": "También usó ondas (perturbaciones que se propagan) y la energía (capacidad de producir cambio o movimiento) como magnitudes centrales. La historia de la luz es el caso más decisivo. Thomas Young demostró interferencia y naturaleza ondulatoria. James Clerk Maxwell unificó electricidad y magnetismo en ondas electromagnéticas."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "El resto de la física clásica",
+      "text": "La radiación del cuerpo negro exhibía la catástrofe ultravioleta: la física clásica predecía energía infinita en frecuencias altas. La luz parecía onda, pero también corpúsculo. Esa dualidad no quedó confinada a la luz. El físico Louis de Broglie propuso que toda materia tiene longitud de onda λ = h/p."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "El resto de la física clásica",
+      "text": "El experimento de dos rendijas es la demostración arquetípica. Cada fotón o electrón pasa por ambas rendijas y produce un patrón de interferencia. Cuando se detecta por cuál pasó, el patrón ya no aparece. La física clásica no puede contener ambos comportamientos. Por eso la cuántica nacería al forzarse a explicar estos hechos."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "El resto de la física clásica",
+      "text": "La física clásica del siglo XIX preparó el terreno, pero sus leyes chocaron con hechos que solo la cuántica pudo resolver."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "El resto de la física clásica",
+      "text": "Planck y Einstein rompieron el supuesto clásico de continuidad y abrieron la revolución cuántica."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Hola, mecánica cuántica",
+      "text": "¿Cómo nació la cuántica si nadie la buscaba? En 1900 , Max Planck resolvió la radiación del cuerpo negro con una «hipótesis desesperada». La energía se intercambia solo en múltiplos de hf. Violaba nociones básicas de la física clásica, pero funcionaba."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Hola, mecánica cuántica",
+      "text": "Albert Einstein tomó en serio esa idea en 1905 . Propuso que la luz es un chorro de fotones (paquetes discretos de luz) reales. La comunidad lo llamó temerario porque la luz también se demostraba onda. Niels Bohr aplicó cuantos a los átomos. Ernest Rutherford mostró un núcleo compacto con electrones alrededor. El modelo orbital necesitaba saltos cuánticos que Schrödinger detestaba."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Hola, mecánica cuántica",
+      "text": "De Broglie extendió la dualidad a la materia con electrones de longitud de onda. La interferencia de electrones confirmó que la dualidad no es solo de la luz. En los 1920 emergió la mecánica cuántica moderna. Entonces el enigma apareció cuando la teoría involucró explícitamente el acto de observación."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Hola, mecánica cuántica",
+      "text": "Planck y Einstein forzaron la cuántica al romper el supuesto clásico de energía y luz continuas."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Hola, mecánica cuántica",
+      "text": "Schrödinger tradujo esa revolución en una ecuación que gobierna la función de onda."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "La ecuación de Schrödinger",
+      "text": "¿Qué es un objeto cuántico antes de medirlo? En 1926 , Erwin Schrödinger presentó su ecuación como nueva ley universal del movimiento. La ecuación se reduce a Newton para objetos grandes y gobierna todo lo demás a escala atómica. La representación matemática es la función de onda (la descripción completa del objeto cuántico). En un sentido muy real la función de onda es el objeto, porque no hay átomo aparte de ella."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "La ecuación de Schrödinger",
+      "text": "La ondulosidad (el cuadrado de la amplitud de la función de onda) indica dónde es probable encontrar el objeto. Hay una diferencia crucial con la probabilidad clásica. La ondulosidad cuántica es objetiva, la misma para todos, y no hay objeto detrás de la probabilidad. Antes de mirar, el átomo no estaba en ese lugar. La observación lo trajo allí para todos."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "La ecuación de Schrödinger",
+      "text": "En el experimento de dos cajas, la onda del átomo se divide en ambas. Una interferencia demuestra que estuvo en las dos a la vez. Al mirar en una caja, encuentras el átomo entero o ninguno, y la superposición colapsa. Schrödinger interpretó mal la onda como materia difusa. La interpretación aceptada es la de Max Born , que define probabilidad objetiva. Unos aceptan el pragmatismo copenhagués y otros se inquietan ante la negación de la realidad ordinaria."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "La ecuación de Schrödinger",
+      "text": "Nadie entiende la mecánica cuántica."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "La ecuación de Schrödinger",
+      "text": "La función de onda es el objeto, y observar colapsa su ondulosidad en una realidad que no existía antes de la medición."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "La ecuación de Schrödinger",
+      "text": "Antes de abrir el armario filosófico, los autores muestran por qué la cuántica sostiene un tercio de la economía."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Un tercio de nuestra economía",
+      "text": "¿Por qué importa la cuántica más allá del debate filosófico? No es curiosidad: es la base de la ciencia y la tecnología modernas. John Preskill la llamó el logro intelectual coronado del siglo pasado. Un tercio de la economía nacional depende de dispositivos cuánticos."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Un tercio de nuestra economía",
+      "text": "El láser (un haz de luz amplificado por emisión estimulada) mezcla fotones compactos y ondas extendidas. Sus espejos deben espaciarse en múltiplos de media longitud de onda. El transistor (el interruptor electrónico que hizo posibles los chips) revolucionó la electrónica. Los electrones de valencia se extienden por todo el cristal de silicio como ondas, aunque los ingenieros los traten también como partículas localizadas según convenga."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Un tercio de nuestra economía",
+      "text": "La resonancia magnética (imagen médica por campos magnéticos, la MRI) pone núcleos de hidrógeno en superposición de estados magnéticos y lee la radiación de retorno. La precisión del cálculo del momento magnético del electrón alcanza una parte en un billón. Por eso también apunta la computación cuántica, que explota superposición para resolver problemas intratables. Los ingenieros cultivan una «esquizofrenia benigna»: onda o partícula según el problema, sin enfrentar el enigma."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Un tercio de nuestra economía",
+      "text": "La cuántica funciona perfectamente en la práctica, aunque sus fundadores eviten el enigma al enseñarla."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "Un tercio de nuestra economía",
+      "text": "Esa utilidad pragmática choca con la interpretación de Copenhague, el marco ortodoxo del problema."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "La interpretación de Copenhague",
+      "text": "¿Cómo hace la física aceptable que la observación cree la realidad microscópica? El diálogo «Our Skeleton in the Closet» caricaturiza un experimento real. Un objeto pequeño puede mostrarse en una caja o en dos según la elección experimental. La interpretación de Copenhague (el marco ortodoxo liderado por Bohr) hace aceptable que la realidad física dependa de la observación."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "La interpretación de Copenhague",
+      "text": "Copenhague descansa en tres pilares. El primero es la interpretación probabilística. La ondulosidad es probabilidad objetiva de hallar el objeto, y Pascual Jordan dijo que las observaciones no solo perturban sino que producen lo medido. El segundo es el principio de incertidumbre (límite de Heisenberg: no se puede conocer posición y velocidad a la vez con precisión total). El microscopio de Heisenberg impide refutar la teoría. El tercero es la complementariedad (onda y partícula son descripciones mutuamente excluyentes pero ambas necesarias)."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "La interpretación de Copenhague",
+      "text": "Copenhague redefine la meta de la ciencia. Ya no busca explicar cómo es la naturaleza, sino lo que podemos decir de ella. Murray Gell-Mann acusó a Bohr de haber lavado el cerebro de una generación. Hoy la tecnología invade la zona entre lo clásico y lo cuántico, y se ven átomos individuales con STM. La actitud dominante sigue siendo «cállate y calcula», pero más físicos jóvenes exploran alternativas."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "La interpretación de Copenhague",
+      "text": "Copenhague hace pragmáticamente aceptable que la observación cree la realidad microscópica, a costa del realismo científico ."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "La interpretación de Copenhague",
+      "text": "Schrödinger llevó ese absurdo aparente a escala macroscópica con su gato en la caja."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "El gato polémico de Schrödinger",
+      "text": "¿Qué pasa si la cuántica aplica también a objetos grandes? Schrödinger contó la historia del gato en la caja (paradoja de 1935 ) para mostrar el absurdo a escala macroscópica. Un átomo en superposición de decaer o no dispara un mecanismo que puede matar al gato. Según la ecuación, el sistema entero queda en superposición de gato vivo y muerto hasta que alguien abre la caja."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "El gato polémico de Schrödinger",
+      "text": "Encontrar el gato muerto crearía una historia retrospectiva de rigor mortis. Encontrarlo vivo crearía una de hambre creciente. Schrödinger no proponía esto como modelo del mundo, sino como reducción al absurdo. La respuesta ortodoxa insiste en que nunca vemos superposiciones macroscópicas. Para todos los fines prácticos, los objetos grandes siempre están siendo observados."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "El gato polémico de Schrödinger",
+      "text": "La cuántica se aplica cada vez a sistemas mayores. La paradoja del gato obliga a preguntar si hay un límite físico al colapso o si la teoría necesita completarse. Por eso conecta directamente con el argumento EPR sobre si existe realidad antes de mirar."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "El gato polémico de Schrödinger",
+      "text": "El gato expone que, si la cuántica es universal, la superposición y el colapso no son solo curiosidades del átomo."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "El gato polémico de Schrödinger",
+      "text": "Einstein, Podolsky y Rosen atacaron ese punto con un argumento sobre realidad antes de la medición."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Buscando un mundo real",
+      "text": "¿Puede haber realidad física antes de observar? En 1935 , Einstein, Podolsky y Rosen publicaron el artículo EPR (el argumento Einstein–Podolsky–Rosen) como un rayo sobre Copenhague. Preguntaron si la descripción cuántica puede considerarse completa. Su criterio afirma que, sin perturbar un sistema, una predicción cierta implica un elemento de realidad física."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Buscando un mundo real",
+      "text": "Los fotones en estado gemelo exhiben la misma polarización a distancia. La cuántica dice que ninguno tenía polarización definida antes de medir. Alice puede medir primero y predecir con certeza el resultado de Bob sin contacto físico posible. Entonces la polarización de Bob parece ser realidad física no descrita por la teoría. EPR concluyó que la cuántica es incompleta y que debe haber variables ocultas."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Buscando un mundo real",
+      "text": "Bohr respondió redefiniendo «sin perturbar». No hace falta una fuerza mecánica: la observación remota de Alice cambia las condiciones de predicción de Bob. Einstein llamó a esas influencias «fuerzas de vudú» e «interacciones fantasmales». Ambos coincidirían en los datos, y la disputa era interpretativa. Einstein no cedió hasta su muerte."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Buscando un mundo real",
+      "text": "EPR argumenta que, si hay realidad física antes de observar, la mecánica cuántica es incompleta ."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Buscando un mundo real",
+      "text": "John Bell convirtió esa disputa filosófica en una predicción que se puede probar en laboratorio."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Interacciones fantasmales",
+      "text": "¿Puede el realismo local sobrevivir a los experimentos? John Stewart Bell transformó la disputa filosófica en predicción experimental. Su teorema parte de dos supuestos. El primero es la realidad (las propiedades existen antes de medir). El segundo es la separabilidad (objetos separados no se afectan al instante). De ellos dedujo la desigualdad de Bell (límite numérico para teorías locales realistas), verificable en laboratorio."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Interacciones fantasmales",
+      "text": "Los experimentos con fotones gemelos de Alain Aspect y otros violaron la desigualdad. Nuestro mundo no puede tener simultáneamente realidad local y separabilidad. Las «interacciones fantasmales» de Einstein existen: objetos que interactuaron siguen influyéndose instantáneamente, aunque no permiten enviar información más rápida que la luz."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Interacciones fantasmales",
+      "text": "Por eso Bell advirtió contra la trampa FAPP («for all practical purposes»): aceptar soluciones pragmáticas que evaden el fondo del problema. Su teorema es quizá el descubrimiento más profundo de la segunda mitad del siglo XX en ciencia. Confirmó que la negación einsteiniana de la cuántica completa no puede salvarse con variables ocultas locales."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Interacciones fantasmales",
+      "text": "Bell convirtió el realismo local en predicción experimental, y la naturaleza violó su desigualdad."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Interacciones fantasmales",
+      "text": "Si ninguna interpretación elimina el enigma, conviene recorrer las nueve principales."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Nueve interpretaciones actuales",
+      "text": "¿Alguna interpretación elimina por completo el encuentro con la conciencia? Ninguna lo logra del todo. Cada una resuelve el enigma solo FAPP o lo reubica. El campo es contencioso. Incluye Copenhague extremo, muchos mundos y la interpretación de Bohm con variables ocultas no locales. También GRW, Ithaca de Mermin, lógica cuántica e interpretación transaccional."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Nueve interpretaciones actuales",
+      "text": "David Bohm mostró que variables ocultas son posibles, pero su fuerza cuántica conecta cada partícula con todo el universo instantáneamente. Los muchos mundos evitan el colapso postulando que cada medición divide al observador en ramas que ven todos los resultados. John Wheeler habló de un universo «participativo», pero inmediatamente aclaró que la «conciencia» no debe confundirse con el fenómeno cuántico medible."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Nueve interpretaciones actuales",
+      "text": "La mayoría de físicos evitan la palabra conciencia y minimizan el enigma para no asociarse con películas como What the Bleep? Pero, como dijo Bell, cada interpretación involucra conciencia de algún modo. Cuando los expertos no coinciden, el lector puede elegir su experto o especular con modestia."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Nueve interpretaciones actuales",
+      "text": "Ninguna interpretación evade del todo el encuentro cuántica–conciencia. Solo lo empaqueta de modo distinto."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Nueve interpretaciones actuales",
+      "text": "Para unir ambos misterios, hay que preguntar qué es la conciencia en primer lugar."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "¿Qué es la conciencia?",
+      "text": "¿Por qué el enigma cuántico necesita hablar de conciencia? La conciencia no tiene definición acordada en ciencia. Los autores la usan como conciencia o sensación de experiencia (awareness). El enigma la necesita porque la observación parece requerir un observador que elija el experimento. Eso presupone libre albedrío (capacidad real de elegir entre opciones)."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "¿Qué es la conciencia?",
+      "text": "La física newtoniana es determinista. Un ojo que todo lo ve podría predecir el futuro sin dejar lugar al libre albedrío. La cuántica introduce azar, pero el azar no es elección libre. El filósofo David Chalmers formuló el problema difícil (por qué hay experiencia subjetiva además de procesos cerebrales). Francis Crick redujo la conciencia a actividad neuronal, y Chalmers niega que los correlatos neurales basten."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "¿Qué es la conciencia?",
+      "text": "Desde el filósofo George Berkeley (esse est percipi) hasta el behaviorismo y el test de Turing, la mente fue ignorada o reducida. Hoy la neuroimagen (fMRI, PET) correlaciona actividad cerebral con reportes de experiencia, pero no explica el qualia (la cualidad subjetiva de lo que se siente). Los experimentos de Benjamin Libet sobre el potencial de readiness sugieren que el cerebro inicia la acción antes del reporte consciente de decidir. Aun así, el resultado es ambiguo como prueba contra el libre albedrío. El problema difícil de la conciencia parece paralelo al problema difícil de la observación cuántica."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "¿Qué es la conciencia?",
+      "text": "El problema difícil de la conciencia y el libre albedrío son paralelos al enigma cuántico de la observación."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "¿Qué es la conciencia?",
+      "text": "Von Neumann llevó ese paralelismo al argumento de que solo la conciencia termina la cadena de medición."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "El misterio se encuentra con el enigma",
+      "text": "¿Qué colapsa una superposición cuántica si todo aparato obedece la cuántica? John von Neumann demostró en 1932 que ningún aparato físico que obedezca la cuántica colapsa una superposición. La cadena de von Neumann (la secuencia instrumento–objeto que sigue en superposición) extiende el estado superpuesto indefinidamente. Solo algo fuera de la evolución de Schrödinger, la conciencia, parece producir un resultado único."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "El misterio se encuentra con el enigma",
+      "text": "Un robot o contador Geiger aislado del mundo solo se entrelaza con el sistema medido y no observa de verdad. Las teorías de Roger Penrose y Stuart Hameroff proponen reducción objetiva (OR) por gravedad cuántica en microtúbulos neuronales. Henry Stapp postula dos realidades, física y mental, donde la intención consciente elige el estado que colapsa."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "El misterio se encuentra con el enigma",
+      "text": "Los humanos parecemos construidos para experimentar solo posición y tiempo. Eso explica por qué nuestros instrumentos muestran resultados localizados. Analogías entre mente y cuántica estimulan conjeturas, pero no prueban nada. La interpretación psicológica reduce el enigma a un bloqueo cognitivo nuestro."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "El misterio se encuentra con el enigma",
+      "text": "Von Neumann hizo inevitable el encuentro: solo la conciencia parece capaz de terminar la cadena de medición cuántica."
+    },
+    {
+      "sectionId": "cap14",
+      "sectionTitle": "El misterio se encuentra con el enigma",
+      "text": "Si la observación crea lo microscópico y la cuántica es universal, el enigma escala al cosmos entero."
+    },
+    {
+      "sectionId": "cap15",
+      "sectionTitle": "Conciencia y el cosmos cuántico",
+      "text": "¿Llega el enigma de la observación al universo entero? Si la observación crea lo microscópico y la cuántica es universal, el enigma escala al cosmos. Martin Rees sugirió que el universo solo pudo existir si alguien lo observaba, aunque los observadores llegaran miles de millones de años después. La cosmología cuántica escribe funciones de onda para el universo entero."
+    },
+    {
+      "sectionId": "cap15",
+      "sectionTitle": "Conciencia y el cosmos cuántico",
+      "text": "Los agujeros negros con radiación de Hawking y el Big Bang exigen unir relatividad general y cuántica. La energía oscura (la fuerza que acelera la expansión del universo, cerca del 70% del total) complica aún más ese reto. El universo observable parece finamente afinado para la vida. Penrose estima probabilidades del orden de 1 en 10^10^123. El principio antrópico (explicación por selección de universos habitables) tiene versión débil y fuerte. La débil explica retrospectivamente. La fuerte sugiere que solo podemos observar un cosmos habitable."
+    },
+    {
+      "sectionId": "cap15",
+      "sectionTitle": "Conciencia y el cosmos cuántico",
+      "text": "John Wheeler preguntó si mirar hoy «ahora» da realidad a lo ocurrido «entonces» en el Big Bang. Matizó que el ojo podría ser un fragmento de mica, no un ser consciente. Los autores cierran con modestia. La cuántica funciona FAPP, pero si se toma en serio bafía. Schrödinger ya pedía buscar salida sin miedo a la burla del «racionalista sabio»."
+    },
+    {
+      "sectionId": "cap15",
+      "sectionTitle": "Conciencia y el cosmos cuántico",
+      "text": "Hay más cosas en el cielo y en la tierra, Horacio, que las que sueñan vuestras filosofías."
+    },
+    {
+      "sectionId": "cap15",
+      "sectionTitle": "Conciencia y el cosmos cuántico",
+      "text": "Si la cuántica es universal, especulaciones cosmológicas llevan el enigma de la observación al universo entero."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La mecánica cuántica funciona sin fallar, pero si la tomamos en serio nos dice algo perturbador."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La observación parece crear la realidad física, y ninguna interpretación evade del todo ese encuentro con la conciencia."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "El enigma no es misticismo barato: son hechos experimentales con una cadena lógica que desafía el realismo ingenuo."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Copérnico nos sacó del centro del cosmos, y la cuántica podría devolvernos un papel más misterioso."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Las conclusiones siguen abiertas, pero ignorar la pregunta ya no es opción honesta."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La física encontró un esqueleto en el armario, y cerrar la puerta no lo hace desaparecer."
+    }
+  ]
+}

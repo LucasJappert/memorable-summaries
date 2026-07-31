@@ -1,0 +1,524 @@
+{
+  "slug": "what-is-life",
+  "title": "¿Qué es la vida?",
+  "concepts": [
+    {
+      "title": "Cristal aperiódico",
+      "description": "Estructura molecular con orden complejo sin repetición periódica; portador del código genético."
+    },
+    {
+      "title": "Estructura estadística / regla √n",
+      "description": "Leyes macroscópicas emergen de millones de átomos; error relativo ~1/√n."
+    },
+    {
+      "title": "Gen / locus / alelo",
+      "description": "Unidad hereditaria en cromosoma; diferencia discreta entre variantes; base de mutación."
+    },
+    {
+      "title": "Mutación cuántica / isomerismo",
+      "description": "Cambio discontinuo por reordenamiento molecular con umbral W; analogía de Vries con saltos cuánticos."
+    },
+    {
+      "title": "W/kT y tiempo de expectativa",
+      "description": "Ratio fija estabilidad térmica del gen; τe^(W/kT) explica duración hereditaria y efecto temperatura/rayos X."
+    },
+    {
+      "title": "Entropía negativa",
+      "description": "Vida mantiene baja entropía importando orden (alimento, luz) y exportando entropía (calor)."
+    },
+    {
+      "title": "Orden desde orden vs. orden desde desorden",
+      "description": "Dos vías de regularidad; vida y cromosomas usan la primera; física térmica la segunda."
+    },
+    {
+      "title": "Objetivación",
+      "description": "Exclusión del sujeto del modelo científico; habilita predicción pero excluye mente, valor y cualidades sensibles."
+    },
+    {
+      "title": "Mneme / novedad y conciencia",
+      "description": "Lo repetido se inconsciente; lo nuevo (aprendizaje, evolución) permanece consciente."
+    },
+    {
+      "title": "Unidad de la mente (Atman = Brahman)",
+      "description": "Resolución de paradoja aritmética de conciencias múltiples; compatible con epílogo y cap. 11."
+    }
+  ],
+  "highlight": "La unidad de la conciencia es la clave para entender permanencia del código, ética, evolución futura y límites de lo que la ciencia puede decir sobre lo religioso",
+  "entries": [
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Prefacio",
+      "text": "¿Por qué un especialista se atreve a escribir sobre vida y mente?"
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Prefacio",
+      "text": "Erwin Schrödinger renuncia a la «noblesse oblige» de hablar solo de lo que se domina. Heredamos de nuestros antepasados el anhelo de un saber unificado. En los últimos dos siglos el conocimiento se multiplicó en anchura y profundidad. Ya no cabe en una sola cabeza."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Prefacio",
+      "text": "La salida, dice Schrödinger, es que algunos se arriesguen a una síntesis con conocimiento incompleto. El riesgo de parecer necio es el precio de no perder el objetivo de unificar lo conocido. El libro nació de conferencias en Dublín en septiembre de 1944 ."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Prefacio",
+      "text": "Las dificultades del inglés no son triviales. Los titulares marginales debían resumir secciones, pero el texto de cada capítulo debe leerse en continuo. El epígrafe de Spinoza (Ética IV, prop. 67) fija el tono: meditar sobre la vida, no sobre la muerte."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Prefacio",
+      "text": "Un físico puede y debe intentar la síntesis interdisciplinar porque el saber especializado ya no cabe en una cabeza y perderíamos la meta de un conocimiento unificado."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Prefacio",
+      "text": "Tras disculparse por el atrevimiento, el capítulo 1 plantea la gran pregunta biológica que animará toda la primera parte."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "El enfoque del físico clásico",
+      "text": "¿Cómo pueden contabilizarse física y química los eventos dentro de un organismo?"
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "El enfoque del físico clásico",
+      "text": "La pregunta central es cómo explicar lo que ocurre en el espacio y el tiempo dentro del límite de un ser vivo. La respuesta preliminar de Schrödinger es positiva. La incapacidad actual de la física no prueba imposibilidad. La explica porque los arreglos atómicos vitales difieren radicalmente de los estudiados en el laboratorio."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "El enfoque del físico clásico",
+      "text": "La diferencia clave es la estructura estadística (el tipo de orden que permite leyes aproximadas en sistemas grandes). El cromosoma puede llamarse cristal aperiódico : no repite un patrón como el papel tapiz, sino un diseño complejo como un tapiz de Rafael. Schrödinger propone partir del «físico ingenuo» que pregunta por qué los átomos son tan pequeños. En realidad pregunta por qué nuestros cuerpos son tan grandes comparados con ellos."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "El enfoque del físico clásico",
+      "text": "El pensamiento ordenado exige leyes físicas aproximadas basadas en promedios de muchos átomos. El calor molecular perturba sistemas pequeños. Schrödinger ilustra con paramagnetismo, movimiento browniano, difusión y balance de torsión. La regla √n (error relativo proporcional a 1/√n) fija la precisión según cuántos átomos cooperan."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "El enfoque del físico clásico",
+      "text": "La imposibilidad actual de la física para explicar la vida no prueba que sea imposible, sino que los organismos dependen de estructuras atómicas cuyo estatuto estadístico difiere de la materia inerte."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "El enfoque del físico clásico",
+      "text": "Si hace falta tantos átomos para leyes fiables, el capítulo 2 pregunta cómo encaja eso con lo que la genética revela sobre grupos minúsculos pero decisivos."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "El mecanismo hereditario",
+      "text": "¿Cómo encajan los hechos genéticos con la exigencia de «muchos átomos» de la física?"
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "El mecanismo hereditario",
+      "text": "La expectativa del físico ingenuo parecía trivial porque cada célula contiene un número cosmológico de átomos. Hoy sabemos que grupos increíblemente pequeños gobiernan el patrón hereditario. Los cromosomas (hebras que portan el código genético) contienen el guion completo del desarrollo. Son código y poder ejecutivo a la vez."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "El mecanismo hereditario",
+      "text": "El cuerpo crece por mitosis (división celular que duplica cromosomas). En humanos hay 48 cromosomas. Bastan ~ 50–60 divisiones desde el huevo hasta el adulto."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "El mecanismo hereditario",
+      "text": "La meiosis (división reductiva) produce gametos haploides y la fecundación restaura la diploidía. El crossing-over, intercambio de tramos entre cromosomas homólogos, permite mapas de ligamiento. El gen ocupa un locus, sitio en el cromosoma. Dos estimaciones dan ~ 300 Å de lado (~ 10⁶ átomos), demasiado pequeño para estadística clásica. Aun así, el patrimonio genético se transmite con permanencia casi absoluta durante siglos."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "El mecanismo hereditario",
+      "text": "Contrariamente a lo que un físico estadístico esperaría, grupos minúsculos de átomos en los genes gobiernan con ley estricta el patrón hereditario cuatridimensional del organismo."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "El mecanismo hereditario",
+      "text": "La permanencia del código solo se explica plenamente si admitimos cambios discretos —las mutaciones— como material de la selección."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Mutaciones",
+      "text": "¿Qué tipo de cambio hereditario alimenta la selección natural y cómo se localiza?"
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Mutaciones",
+      "text": "Darwin se equivocó al pensar que las variaciones continuas pequeñas eran heredadas. En cebada pura, seleccionar awns largos o cortos no desplaza la curva. Las mutaciones de de Vries ( 1902 ) son discontinuas: saltos sin formas intermedias. Recuerdan a la física cuántica. De hecho, son saltos cuánticos en la molécula genética."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Mutaciones",
+      "text": "Las mutaciones se heredan perfectamente y afectan un solo cromosoma homólogo. En cruces, la mitad de la descendencia las muestra. Muchas son recesivas (latentes en heterocigosis) y solo se manifiestan en homocigosis. La consanguinidad concentra alelos dañinos con riesgo 1:16 en incesto."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Mutaciones",
+      "text": "Mendel publicó sus leyes en 1866 , olvidadas hasta 1900 . Las mutaciones deben ser raras para que la selección funcione. Los rayos X multiplican la tasa. Timoféëff-Ressovsky formuló en 1934 dos leyes: proporcionalidad con la dosis y evento único en ~ 10³ átomos según Delbrück."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Mutaciones",
+      "text": "La evolución darwiniana depende de mutaciones discontinuas y heredables cuyas leyes de inducción por rayos X apuntan a un evento molecular único y cuántico."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "Mutaciones",
+      "text": "Si un gen tiene solo miles de átomos y muta por saltos, el capítulo 4 pregunta cómo puede ser tan estable durante siglos."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Evidencia mecanocuántica",
+      "text": "¿Cómo reconciliar pocos átomos con regularidad y durabilidad hereditaria?"
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Evidencia mecanocuántica",
+      "text": "El labio Habsburgo se transmitió siglos a ~ 37 °C . Un físico del siglo XIX no tenía respuesta sin química cuántica. Por eso, la teoría cuántica de Planck ( 1900 ) funda la herencia. Los sistemas pequeños poseen niveles discretos. Las transiciones son saltos cuánticos (cambios discretos de energía, no graduales)."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Evidencia mecanocuántica",
+      "text": "Las moléculas estables requieren energía W para cambiar de configuración. El tiempo de expectativa depende de W/kT según Polanyi-Wigner. A mayor W/kT, el tiempo crece exponencialmente desde fracciones de segundo hasta decenas de miles de años. Los isómeros del propanol ilustran umbrales entre alelos."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Evidencia mecanocuántica",
+      "text": "Las vibraciones finas no cuentan. Solo interesan transiciones isoméricas con umbral entre configuraciones. El salto cuántico entre alelos es la mutación. Heitler-London ( 1926–27 ) explica el enlace químico que sostiene esa estabilidad."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Evidencia mecanocuántica",
+      "text": "La permanencia milagrosa de los genes solo se comprende con estados discretos, estabilidad térmica según W/kT e isomerismo con umbral energético entre alelos."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Evidencia mecanocuántica",
+      "text": "Delbrück convertirá este esquema en modelo explícito del gen y lo contrastará con los datos genéticos."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El modelo de Delbrück",
+      "text": "¿Resiste el modelo molecular la comparación con la genética experimental?"
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El modelo de Delbrück",
+      "text": "El gen es una molécula gigante con cambios discretos por reordenamiento isomérico. Los umbrales altos hacen raras las mutaciones espontáneas, y no hay alternativa molecular para la permanencia del código. Por eso, Schrödinger resume que molécula equivale a sólido y cristal, mientras gas equivale a líquido amorfo."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El modelo de Delbrück",
+      "text": "El gen es un sólido aperiódico (estructura ordenada sin repetición periódica). La analogía Morse muestra cuánta información cabe en pocos átomos. Los umbrales ~ 0,9–1,8 eV a temperatura ambiente explican estabilidad de siglos. La radiación natural no basta para la tasa espontánea. Los mutantes inestables mutan más con el calor (factor van't Hoff ~ 2,5 por +10 °C)."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El modelo de Delbrück",
+      "text": "Los rayos X producen ionización (~ 30 eV ) en volumen ~10 distancias atómicas. Eso supera el umbral local. Las mutaciones reversibles pueden tener umbrales distintos según el alelo inicial. En conjunto, el modelo de Delbrück resiste las pruebas."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El modelo de Delbrück",
+      "text": "El gen es una molécula gigante cuyas reordenaciones isoméricas raras son mutaciones. El modelo cuántico-molecular no tiene alternativa y encaja con estabilidad, temperatura, rayos X y reversibilidad."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "El modelo de Delbrück",
+      "text": "El modelo explica estabilidad del código, pero no cómo opera el desarrollo; de ahí la pregunta termodinámica del capítulo 6."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Orden, desorden y entropía",
+      "text": "¿Cómo evita un organismo el decaimiento termodinámico hacia el equilibrio?"
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Orden, desorden y entropía",
+      "text": "Del modelo molecular emerge una conclusión general. La vida no elude las leyes físicas, pero puede implicar un principio distinto de orden. La vida se apoya en orden molecular cuántico, no solo en estadística disgregadora. Schrödinger lo llama «orden basado en orden»."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Orden, desorden y entropía",
+      "text": "Un sistema aislado tiende al equilibrio. La entropía (medida de desorden, k log D según Boltzmann) crece hasta el máximo. La vida evita la muerte alimentándose de entropía negativa, es decir orden del ambiente. El alimento aporta compuestos orgánicos muy ordenados. El calor corporal exporta entropía sobrante."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Orden, desorden y entropía",
+      "text": "Colegas físicos dudaron del término «entropía negativa». Simon señaló que no basta carbón: hace falta la vía metabólica. La energía libre también importa para reponer calor disipado. La temperatura corporal alta acelera reacciones (van't Hoff) y acelera eliminar entropía."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Orden, desorden y entropía",
+      "text": "La vida no elude las leyes físicas pero se sostiene extrayendo entropía negativa del ambiente mediante metabolismo, sobre estructuras moleculares cuánticas."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Orden, desorden y entropía",
+      "text": "¿Significa esto nuevas leyes físicas en el organismo o una forma distinta de orden ya presente en la física?"
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "¿Obedece la vida a las leyes de la física?",
+      "text": "¿Hay que postular fuerzas vitales o leyes no físicas?"
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "¿Obedece la vida a las leyes de la física?",
+      "text": "La vida funciona de modo no reducible a leyes ordinarias, no por fuerzas nuevas sino por construcción distinta. Schrödinger lo compara con un motor eléctrico frente a uno térmico. Un grupo minúsculo de átomos gobierna el desarrollo."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "¿Obedece la vida a las leyes de la física?",
+      "text": "Hay dos mecanismos de orden. El orden desde el desorden (estadístico) y el orden desde el orden (dinámico). Los relojes y planetas parecen dinámicos, pero en realidad son estadísticos salvo a T→0 (teorema de Nernst). A temperatura ambiente un reloj de péndulo funciona «dinámicamente» porque es sólido."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "¿Obedece la vida a las leyes de la física?",
+      "text": "El cromosoma es un sólido aperiódico retirado del desorden térmico. Schrödinger advierte que no debemos reducir la mente a «engranajes». La distribución poética de cromosomas en células subraya lo sin precedente. La vida obedece a la física conocida con el principio orden-desde-orden de la mecánica cuántica."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "¿Obedece la vida a las leyes de la física?",
+      "text": "La vida obedece a la física conocida, pero se apoya en el principio orden-desde-orden en sólidos aperiódicos, no solo en el orden-desde-desorden estadístico."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "¿Obedece la vida a las leyes de la física?",
+      "text": "Si el cuerpo es mecanismo estadístico, el epílogo pregunta cómo compatibilizar eso con libertad y responsabilidad."
+    },
+    {
+      "sectionId": "epilogo",
+      "sectionTitle": "Sobre determinismo y libre albedrío",
+      "text": "¿Son compatibles mecanismo físico y libre albedrío?"
+    },
+    {
+      "sectionId": "epilogo",
+      "sectionTitle": "Sobre determinismo y libre albedrío",
+      "text": "Los procesos corporales son estadístico-deterministas. La indeterminación cuántica no importa biológicamente salvo en mutaciones. Mi cuerpo funciona como mecanismo según leyes naturales, y yo dirijo sus movimientos sintiéndome responsable. De ahí sigue que yo controlo el movimiento de los átomos."
+    },
+    {
+      "sectionId": "epilogo",
+      "sectionTitle": "Sobre determinismo y libre albedrío",
+      "text": "En terminología cristiana suena a blasfemia decir «soy Dios Todopoderoso». Pero es la lectura biológica más cercana a inmortalidad. La doctrina Upanishad Atman = Brahman tiene 2500 años. La conciencia nunca aparece en plural. La pluralidad de cuerpos sugiere muchas almas, pero Schrödinger la considera absurda."
+    },
+    {
+      "sectionId": "epilogo",
+      "sectionTitle": "Sobre determinismo y libre albedrío",
+      "text": "La alternativa es una sola mente. La pluralidad sería Maya, ilusión, como un mismo pico visto desde valles distintos. Schrödinger alinea esto con la filosofía perenne de Aldous Huxley. Kant es criticado por la «imagen del árbol» que separa sujeto y objeto."
+    },
+    {
+      "sectionId": "epilogo",
+      "sectionTitle": "Sobre determinismo y libre albedrío",
+      "text": "Aunque los procesos corporales son estadístico-deterministas, la inferencia coherente con la experiencia de agencia es que el Yo consciente dirige los átomos según las leyes naturales."
+    },
+    {
+      "sectionId": "epilogo",
+      "sectionTitle": "Sobre determinismo y libre albedrío",
+      "text": "Si la mente no es mero epifenómeno cerebral, el capítulo 8 pregunta qué procesos materiales acompañan la conciencia."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Base física de la conciencia",
+      "text": "¿Qué procesos materiales están ligados a conciencia?"
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Base física de la conciencia",
+      "text": "El mundo es construcción de sensaciones y percepciones. Solo se manifiesta en cerebros. No todo proceso nervioso acompaña conciencia. Lo repetido desaparece de ella según la Mneme (memoria por repetición) de Semon. Respiración, llanto y hábitos ontogenéticos son inconscientes."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Base física de la conciencia",
+      "text": "Lo nuevo permanece consciente. El niño aprende a caminar con atención plena. El adulto se viste pensando en otra cosa. Schrödinger cita al matemático que se acostó tras quitarse la camisa en una fiesta. El sistema nervioso es la punta vegetativa evolutiva de la especie."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Base física de la conciencia",
+      "text": "Schrödinger extiende la noción a procesos orgánicos nuevos, no solo nerviosos. La conciencia es fenómeno de la zona evolutiva. Esto abre vía a la ética porque el «debes» choca con el yo primitivo. Cada día somos cincel y escultura a la vez. La conciencia y la discordia interior son proporcionales."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Base física de la conciencia",
+      "text": "La conciencia acompaña procesos orgánicos novedosos, sobre todo nerviosos en aprendizaje. No acompaña toda actividad fisiológica. Es fenómeno de la zona evolutiva, no de rutina memorizada."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Base física de la conciencia",
+      "text": "Si conciencia marca lo evolutivo, el capítulo 9 pregunta cómo influye el comportamiento en la evolución futura."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "El futuro del entendimiento",
+      "text": "¿Sigue evolucionando la especie humana y depende de nosotros?"
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "El futuro del entendimiento",
+      "text": "Nuestro cerebro probablemente no es el óptimo final. Algunas especies llegaron a callejones sin salida evolutivos. En humanos, mutaciones raras y selección positiva parecen bloqueadas. Guerra, medicina y protección social eliminan selección."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "El futuro del entendimiento",
+      "text": "El darwinismo parece sombrío frente al Lamarckismo porque lo adquirido no se hereda. Aun así el comportamiento canaliza la selección. Schrödinger lo llama Lamarckismo fingido. El órgano usado se fija genéticamente junto con el hábito. Las flores peludas suben la ladera y las aves en árboles refuerzan el vuelo."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "El futuro del entendimiento",
+      "text": "En humanos, la estupidización industrial amenaza degeneración intelectual. Julian Huxley advierte que sin selección las mutaciones degenerativas se acumulan. Depende de nosotros. Las charlas BBC de 1950 originaron este capítulo."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "El futuro del entendimiento",
+      "text": "El comportamiento canaliza la selección y simula Lamarckismo. En el hombre la evolución no está cerrada sino amenazada por eugenesia negativa, guerra y estupidización industrial."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "El futuro del entendimiento",
+      "text": "Para pensar mente y ciencia hace falta examinar cómo la ciencia construye su objeto excluyendo al sujeto."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "El principio de objetivación",
+      "text": "¿Cómo construye la ciencia su imagen del mundo y qué precio paga?"
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "El principio de objetivación",
+      "text": "La ciencia occidental hereda de los griegos naturaleza inteligible y objetivación (exclusión del sujeto del modelo). Construimos un mundo objetivo retirándonos como observadores. Mi cuerpo y los de otros entran en ese mundo, lo que genera paradojas."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "El principio de objetivación",
+      "text": "El mundo científico carece de color, sonido y calor. Tampoco hay lugar donde mente actúe sobre materia, como muestran Sherrington y Spinoza. Eddington contrasta el escritorio familiar con el de átomos en el vacío."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "El principio de objetivación",
+      "text": "La incertidumbre cuántica no reintroduce al sujeto como observador activo. Schrödinger concluye que el mismo elemento compone mente y mundo. Sujeto y objeto son uno. Jung lamenta la exclusión del alma. Schrödinger prefiere retirada gradual."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "El principio de objetivación",
+      "text": "La ciencia descansa en objetivación, es decir excluir al sujeto del mundo construido. Eso simplifica el dominio natural pero genera antinomias como mundo sin color y mente que no actúa sobre materia."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "El principio de objetivación",
+      "text": "La exclusión del sujeto produce la paradoja aritmética de muchas mentes y un solo mundo."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "La paradoja aritmética: la unidad de la mente",
+      "text": "¿Por qué hay pluralidad aparente de conciencias si el mundo es uno?"
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "La paradoja aritmética: la unidad de la mente",
+      "text": "La mente no cabe en el cuadro científico porque es ella quien lo construye. Aparece entonces la paradoja aritmética de muchas conciencias y un solo mundo. Leibniz y sus mónadas sin ventanas es un escape poco atractivo."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "La paradoja aritmética: la unidad de la mente",
+      "text": "La alternativa Upanishad postula una sola mente. Aziz Nasafi (s. XIII) habla de luz única tras ventanas distintas. Sherrington muestra células como vidas unitarias, pero no hay pluralidad mental. El parpadeo binocular a 60 Hz frente al monocular revela sub-cerebros visuales sin mentes separadas."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "La paradoja aritmética: la unidad de la mente",
+      "text": "El mundo científico carece de valores éticos y estéticos. «No hay bien ni mal sino pensamiento lo hace.» La entropía universal y la mente finita inquietan. Schrödinger compara al artista dentro de su obra (Homero, Dürer). Hablar de indestructibilidad de la mente es religión, no ciencia, pero apoyada en investigación desinteresada."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "La paradoja aritmética: la unidad de la mente",
+      "text": "La paradoja de muchas conciencias y un solo mundo se resuelve admitiendo una sola mente. La ciencia objetivada no puede contener al sujeto que la produce."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "La paradoja aritmética: la unidad de la mente",
+      "text": "Si mente escapa al tiempo-espacio del modelo, el capítulo 12 pregunta qué puede decir ciencia sobre religión."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Ciencia y religión",
+      "text": "¿Puede la ciencia informar actitudes religiosas razonables?"
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Ciencia y religión",
+      "text": "La ciencia ayuda a desmaterializar dogmas. Mapas medievales con infierno y cielo físicos cedieron ante geología y astronomía. La contribución mayor es la idealización del tiempo. Platón vio verdades matemáticas como atemporales. El teorema de Goldbach o la intersección de alturas de un triángulo no «nacen» al descubrirlos."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Ciencia y religión",
+      "text": "Kant enseñó idealidad de espacio y tiempo como formas de intuición. Eso libera creer en lo no espacio-temporal. La experiencia no sobrevive la destrucción del cuerpo en sentido temporal. Fuera del tiempo, la noción de «después» carece de sentido. Einstein debilitó simultaneidad absoluta con regiones de simultaneidad potencial."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Ciencia y religión",
+      "text": "Boltzmann y Gibbs explicaron la flecha del tiempo como estadística, no insertada en mecanismos reversibles. El tiempo fluye donde la estadística lo define. Schrödinger cree que la física actual sugiere indestructibilidad de la mente frente al tiempo. No responde si hay vida tras muerte, solo remueve obstáculos conceptuales."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Ciencia y religión",
+      "text": "La ciencia no demuestra dogmas religiosos pero ayuda a desmaterializarlos y, vía idealización del tiempo, sugiere que la mente no está subordinada al tirano temporal."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Ciencia y religión",
+      "text": "Un caso concreto del precio de la objetivación es la desaparición de cualidades sensibles del mundo científico."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "El misterio de las cualidades sensibles",
+      "text": "¿Por qué el mundo científico carece de las cualidades que nos dieron acceso a él?"
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "El misterio de las cualidades sensibles",
+      "text": "Todo conocimiento científico parte de percepción sensorial. El modelo físico excluye color, sabor y sonido desde el primer paso con rejilla de difracción, no con el ojo."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "El misterio de las cualidades sensibles",
+      "text": "Amarillo equivale a λ≈ 590 nm , no a la sensación de amarillo. Mezclas aditivas y triángulo de colores muestran que la sensación no se deduce de longitudes de onda. Ni fisiología contiene «amarillo» en descripción objetiva."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "El misterio de las cualidades sensibles",
+      "text": "El oído discrimina timbre y octavas con la cóclea amortiguada. Abejas ven ultravioleta y detectan polarización según Frisch. Murciélagos usan ultrasonido. Demócrito (fr. 125) decía que ostensiblemente hay color pero en realidad solo átomos y vacío."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "El misterio de las cualidades sensibles",
+      "text": "Todo conocimiento científico parte de la percepción sensorial, pero el modelo físico excluye las cualidades sensibles desde el primer paso. Las teorías facilitan memoria de hechos medidos y nunca explican color, sabor ni sonido vividos."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Vida, herencia, metabolismo y conciencia no contradicen la física, pero exigen dos principios de orden distintos."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "El código genético es un sólido aperiódico cuántico; la vida se alimenta de entropía negativa; la mente construye el mundo excluyéndose a sí misma."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Schrödinger une física cuántica, genética y filosofía sin postular fuerzas vitales ni abandonar rigor."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "El observador no puede entrar en su propio cuadro sin paradojas: las cualidades sensibles, el libre albedrío y el sentido quedan fuera del modelo, no fuera de la experiencia."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Meditar sobre la vida —no sobre la muerte— sigue siendo el mandato spinozista que abre y cierra la obra."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "La unidad de la conciencia es la clave para entender permanencia del código, ética, evolución futura y límites de lo que la ciencia puede decir sobre lo religioso"
+    }
+  ]
+}

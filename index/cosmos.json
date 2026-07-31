@@ -1,0 +1,460 @@
+{
+  "slug": "cosmos",
+  "title": "Cosmos",
+  "concepts": [
+    {
+      "title": "Cosmos",
+      "description": "Todo lo que fue, es o será; universo en sentido total."
+    },
+    {
+      "title": "Año-luz",
+      "description": "Distancia que recorre la luz en un año (~10¹³ km)."
+    },
+    {
+      "title": "Selección natural",
+      "description": "Mecanismo evolutivo: el ambiente favorece variantes hereditarias."
+    },
+    {
+      "title": "Leyes de la naturaleza",
+      "description": "Patrones regulares que permiten ciencia y predicción."
+    },
+    {
+      "title": "Big Bang",
+      "description": "Expansión originaria del universo desde alta densidad."
+    },
+    {
+      "title": "Nucleosíntesis estelar",
+      "description": "Forja de elementos pesados en el interior de las estrellas."
+    },
+    {
+      "title": "Bit",
+      "description": "Unidad mínima de información (sí/no)."
+    },
+    {
+      "title": "SETI",
+      "description": "Búsqueda de señales de civilizaciones extraterrestres."
+    },
+    {
+      "title": "Perspectiva cósmica",
+      "description": "Ver la humanidad en escala de tiempo y espacio universal."
+    }
+  ],
+  "highlight": "El universo no es remoto: somos parte de él",
+  "entries": [
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Introducción",
+      "text": "¿Por qué la ciencia debería importarle a quien no es especialista? Sagan abre con una cita del filósofo romano Séneca ( siglo I ): los misterios de la naturaleza no se revelan de una sola vez. Nuestros ancestros conectaban lo cotidiano con lo cósmico. Hoy la ciencia muestra un universo vasto. Parece alejarnos, pero también prueba que somos parte del Cosmos (todo lo que fue, es o será), nacidos de él."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Introducción",
+      "text": "En 1976 , el astrónomo Sagan formaba parte del equipo de la misión Viking a Marte. Vio que el público apenas se enteraba de un hito trascendental. Con B. Gentry Lee impulsó una serie de televisión para comunicar ciencia. Nació Cosmos , trece episodios con mirada humana amplia. Al escribir el libro, estimaba 140 millones de espectadores en todo el mundo."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Introducción",
+      "text": "La esencia de la ciencia es autocorrección: nuevas observaciones resuelven viejos misterios. El libro y la serie evolucionaron juntos. El texto profundiza más. Sagan insiste en que nuestra suerte depende de entender la ciencia. Comprender, además, es un placer evolutivo ligado a la supervivencia."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Introducción",
+      "text": "«El Cosmos es todo lo que fue, es o será. Nuestras más débiles contemplaciones del Cosmos nos estremecen: hay un cosquilleo en la columna, un nudo en la garganta, como un recuerdo lejano de caer desde una altura.»"
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Introducción",
+      "text": "Comprender el Cosmos no es un lujo de especialistas. Es un placer evolutivo y una condición de supervivencia que merece comunicarse a todos."
+    },
+    {
+      "sectionId": "prefacio",
+      "sectionTitle": "Introducción",
+      "text": "Ese viaje empieza midiendo cuán pequeños somos frente al universo y cuán extrañamente privilegiados en la Tierra."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Orillas del océano cósmico",
+      "text": "¿Qué tan grande es el universo frente a nuestro planeta? El Cosmos desborda la comprensión ordinaria. Perdidos entre inmensidad y eternidad flota nuestro hogar. La superficie terrestre es la orilla del océano cósmico: apenas mojamos los tobillos, pero el océano llama. Las distancias se miden con la velocidad de la luz (casi 300.000 km por segundo). Un año-luz (distancia que la luz recorre en un año) son unos 10 billones de kilómetros."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Orillas del océano cósmico",
+      "text": "Hay unas 100 mil millones de galaxias. Cada una tiene un promedio de 100 mil millones de estrellas. Quizá haya tantos planetas como estrellas. La probabilidad de caer en un planeta, insertados al azar en el Cosmos, es menor que una entre 10³³ . Sagan recorre el Grupo Local y el Sistema Solar. Regresa a la Tierra, el único mundo donde sabemos que la materia cobró vida y conciencia."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Orillas del océano cósmico",
+      "text": "En el siglo III a.C. , el matemático Eratóstenes midió la circunferencia terrestre en Alejandría. Comparó sombras en Asuán y Alejandría el mismo día. Obtuvo unos 40.000 km , con error mínimo. La Biblioteca de Alejandría reunió el saber de la Antigüedad antes de su destrucción. Sagan lamentará esa pérdida más adelante."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Orillas del océano cósmico",
+      "text": "Somos una parte ínfima pero consciente del Cosmos, y la Tierra es la orilla desde la que apenas empezamos a explorarlo."
+    },
+    {
+      "sectionId": "cap1",
+      "sectionTitle": "Orillas del océano cósmico",
+      "text": "Si somos tan pequeños en escala cósmica, la pregunta siguiente es cómo surgió la vida en este rincón privilegiado."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Una voz en la fuga cósmica",
+      "text": "¿Cómo surgió la vida en la Tierra? Las moléculas orgánicas se detectan en nubes interestelares. El «material de la vida» parece estar en todas partes. Toda la vida terrestre comparte química orgánica y herencia evolutiva común. Los biólogos estudian una sola voz en la música de la vida. ¿Hay una fuga cósmica (muchas melodías biológicas independientes) con miles de millones de voces?"
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Una voz en la fuga cósmica",
+      "text": "Sagan ilustra la selección artificial (cuando los humanos eligen qué organismos se reproducen) con los cangrejos Heike del mar interior de Japón. Los pescadores devolvían al mar los ejemplares cuyo caparazón parecía rostro samurái. Eso favoreció esa forma generación tras generación. Los humanos transformaron plantas y animales en milenios. La selección natural (el ambiente favorece variantes hereditarias) operó, en cambio, miles de millones de años. Por eso esa comparación explica toda la diversidad biológica."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Una voz en la fuga cósmica",
+      "text": "El naturalista Charles Darwin y el biólogo Alfred Russel Wallace propusieron que el ambiente selecciona variaciones hereditarias. Las mutaciones aportan materia prima. El registro fósil muestra que muchas más especies se extinguieron que las que existen hoy. La evolución es hecho, no mera teoría. El mecanismo principal es la selección natural."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Una voz en la fuga cósmica",
+      "text": "Toda la vida terrestre comparte un mismo origen y se explica por selección natural, sin necesidad de ningún diseñador."
+    },
+    {
+      "sectionId": "cap2",
+      "sectionTitle": "Una voz en la fuga cósmica",
+      "text": "La vida obedece leyes naturales, y el cielo nocturno fue el primer laboratorio donde la humanidad las buscó."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "La armonía de los mundos",
+      "text": "¿Por qué el cielo parece ordenado y predecible? Vivimos en un universo intermedio. Las cosas cambian según leyes de la naturaleza (patrones regulares que permiten predecir), no al azar ni con rigidez absoluta. En la prehistoria, el cielo nocturno ofreció patrones útiles para cazar y sembrar. Monumentos como Chaco Canyon, Stonehenge o Chichén Itzá calendan solsticios y equinoccios."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "La armonía de los mundos",
+      "text": "Los planetas «vagabundos» inspiraron astrología: creencia de que configuran destinos personales e imperios. Sagan demuestra su vaciedad. Columnas rivales dan consejos contradictorios. Gemelos idénticos bajo el mismo horóscopo tienen destinos opuestos. La astrología moderna ignora precesión, descubrimientos desde Ptolomeo y se confunde con la astronomía."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "La armonía de los mundos",
+      "text": "El astrónomo Ptolomeo modeló un cosmos geocéntrico con epiciclos. Johannes Kepler heredó las observaciones de Tycho Brahe y renunció a sus figuras geométricas favoritas cuando los datos lo obligaron. Encontró que los planetas siguen elípses con el Sol en un foco. El cuadrado de los periodos es proporcional al cubo de las distancias. Isaac Newton unificó cielo y tierra con la gravitación universal. Por tanto, las leyes celestes rigen también en la Tierra."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "La armonía de los mundos",
+      "text": "«No preguntemos para qué cantan los pájaros: cantan porque nacieron para cantar. Así la mente humana se afana por penetrar los secretos de los cielos.»"
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "La armonía de los mundos",
+      "text": "La astronomía conecta la Tierra con el Cosmos mediante leyes universales. La astrología es pseudociencia sin evidencia."
+    },
+    {
+      "sectionId": "cap3",
+      "sectionTitle": "La armonía de los mundos",
+      "text": "Esas leyes no garantizan un mundo apacible: el registro planetario está lleno de catástrofes."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Cielo e infierno",
+      "text": "¿Qué tan estable es realmente nuestro planeta? La Tierra parece apacible, pero el registro geológico muestra catástrofes devastadoras. El 30 de junio de 1908 , una explosión en Siberia central (evento de Tunguska) arrasó unos 2.000 km² de bosque. La onda de choque circundó la Tierra dos veces. Lo impensable en un siglo puede ser inevitable en cien millones de años."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Cielo e infierno",
+      "text": "Los volcanes, terremotos y colisiones de asteroides remodelan mundos. Venus tiene un efecto invernadero descontrolado. Marte perdió su atmósfera. Los humanos hemos alcanzado la dudosa distinción de poder provocar desastres propios, deliberados o accidentales. Sagan recorre mitologías de cielo e infierno como metáforas del poder destructivo natural y humano."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Cielo e infierno",
+      "text": "El clima terrestre es un sistema delicado. Pequeños cambios pueden desencadenar eras glaciales o calentamientos. Comprender estos procesos no es alarmismo: es prudencia cósmica. Los planetas vecinos son lecciones sobre caminos que la Tierra podría haber seguido."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Cielo e infierno",
+      "text": "Ningún mundo es estable, y el efecto invernadero de Venus advierte adónde podría llevar a la Tierra un cambio climático descontrolado."
+    },
+    {
+      "sectionId": "cap4",
+      "sectionTitle": "Cielo e infierno",
+      "text": "Entre esos vecinos planetarios, Marte concentra la esperanza y la frustración de buscar vida más allá de la Tierra."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Blues de un planeta rojo",
+      "text": "¿Hay vida en el planeta rojo? Marte fascinó a la humanidad entera: «canales» interpretados como irrigación, novelas de H. G. Wells , obsesión popular. Muchos quieren vida en Marte. Otros no. Las pasiones han desgastado la tolerancia a la ambigüedad científica. Sagan participó en el proyecto Viking: dos naves aterrizaron en 1976 , primera exploración robótica de otro mundo."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Blues de un planeta rojo",
+      "text": "Los resultados fueron espectaculares pero no concluyentes sobre vida microbiana. El cielo marciano es rosa-amarillento, no azul. Los paisajes son desolados y hermosos. La prensa perdió interés ante la falta de respuesta definitiva. Sagan defiende que la exploración planetaria satisface una curiosidad profundamente humana y esencial para entender nuestro origen."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Blues de un planeta rojo",
+      "text": "Marte guarda evidencia de ríos antiguos, volcanes gigantes y cambios climáticos drásticos. Estudiarlo es leer el pasado de un mundo vecino que pudo haber sido más hospitalario. La búsqueda continúa con orbitadores y rovers posteriores a la época del libro."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Blues de un planeta rojo",
+      "text": "Nadie sabe aún si hay vida en Marte. La ciencia exige paciencia ante la incertidumbre, no certezas apresuradas."
+    },
+    {
+      "sectionId": "cap5",
+      "sectionTitle": "Blues de un planeta rojo",
+      "text": "Mientras Marte se explora desde cerca, otras naves ya llevan relatos desde los confines del Sistema Solar."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Relatos de viajeros",
+      "text": "¿Cómo se exploran mundos sin enviar humanos? «¿Existen muchos mundos o uno solo?» preguntaba el filósofo Alberto Magno en el siglo XIII. La humanidad sueña con viajar más allá de la Tierra desde John Wilkins y Christiaan Huygens hasta hoy. Empezamos a navegar el mar del espacio con robots inteligentes: las naves Voyager, controladas desde el JPL en Pasadena."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Relatos de viajeros",
+      "text": "En 1979 , Voyager 2 encontró el sistema joviano tras dos años de viaje interestelar. La nave pesa menos de una tonelada. Usa energía nuclear lejos del Sol y lleva millones de piezas con redundancia. Recorre trayectorias calculadas con precisión asombrosa. Cada planeta visitado reveló mundos inesperados: volcanes en Io, hielo fracturado en Europa, anillos complejos."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Relatos de viajeros",
+      "text": "Estas misiones son los «relatos de viajeros» modernos: informes desde fronteras donde ningún humano ha estado. Nos permiten juzgar la Tierra desde fuera y relativizar lo que llamamos grande. El costo es ínfimo comparado con gastos militares. El beneficio es perspectiva cósmica."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Relatos de viajeros",
+      "text": "Las naves robóticas son los exploradores de nuestro tiempo, porque extienden los sentidos humanos a mundos inalcanzables por un costo ínfimo."
+    },
+    {
+      "sectionId": "cap6",
+      "sectionTitle": "Relatos de viajeros",
+      "text": "Esos viajeros modernos descansan sobre un legado más antiguo: la tradición de preguntar sin invocar dioses."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "La columna vertebral de la noche",
+      "text": "¿Dónde nació la ciencia? Los antiguos griegos de Jonia inventaron la tradición científica (buscar leyes naturales sin invocar dioses en cada fenómeno). Demócrito propuso átomos e innumerables mundos. Aristarco situó al Sol en el centro. Los dioses, decía un pensador, eran causas ocultas invocadas cuando se pierde el hilo causal."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "La columna vertebral de la noche",
+      "text": "Los jónicos fueron expulsados de sus ciudades por ideas subversivas, pero su legado perduró. La Vía Láctea era «la columna vertebral de la noche» para culturas que veían el cielo como un gran animal que nos contiene. Sagan contrasta mitos de creación (Popol Vuh, Edda) con el método de preguntar cómo funciona el mundo sin pretender respuestas finales."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "La columna vertebral de la noche",
+      "text": "La ciencia nació cuando algunos humanos aceptaron que no sabían y empezaron a preguntar. Esa humildad radical, no la certeza dogmática, abrió el camino a la astronomía, la biología y la física modernas. Debemos recordar a quienes pagaron el precio de pensar libremente."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "La columna vertebral de la noche",
+      "text": "«Preferiría entender una sola causa que ser rey de Persia.»"
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "La columna vertebral de la noche",
+      "text": "La ciencia nació cuando los jonios se atrevieron a buscar causas naturales en vez de invocar dioses, y esa humildad abrió el camino que el dogma cerraba."
+    },
+    {
+      "sectionId": "cap7",
+      "sectionTitle": "La columna vertebral de la noche",
+      "text": "Esa tradición de preguntar también transforma cómo imaginamos moverse por el espacio y el tiempo."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Viajes por el espacio y el tiempo",
+      "text": "¿Qué veríamos si pudiéramos viajar entre las estrellas? Un puñado de arena contiene unos 10.000 granos. Las estrellas visibles a simple vista son del mismo orden, pero es una fracción minúscula del total. Las constelaciones son agrupaciones arbitrarias: cambiarían si viajáramos años-luz. Los ordenadores pueden simular esos viajes. Algún día quizá naves reales vean cielos que ningún humano ha contemplado."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Viajes por el espacio y el tiempo",
+      "text": "La relatividad de Albert Einstein muestra que espacio y tiempo están entrelazados. Acercarse a la velocidad de la luz comprime el tiempo para el viajero respecto a quienes quedan en la Tierra. Viajar al futuro es posible en principio. El pasado permanece inaccesible. Las mareas recuerdan la gravedad de Luna y Sol. La playa conecta espacio y tiempo geológico."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Viajes por el espacio y el tiempo",
+      "text": "Si todas las estrellas del universo superan a todos los granos de arena terrestres, nuestra insignificancia es real. Pero también lo es nuestra capacidad de comprenderlo. La ciencia convierte la distancia cósmica en conocimiento medible."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Viajes por el espacio y el tiempo",
+      "text": "Moverse en el espacio altera el cielo. Moverse cerca de la luz altera el reloj: el Cosmos une espacio y tiempo."
+    },
+    {
+      "sectionId": "cap8",
+      "sectionTitle": "Viajes por el espacio y el tiempo",
+      "text": "Para entender de dónde venimos químicamente, hay que seguir la vida y la muerte de las estrellas."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Vidas de las estrellas",
+      "text": "¿De dónde salieron los átomos de nuestro cuerpo? Sagan recuerda una frase atribuida a él: «Para hacer una tarta de manzana desde cero, primero hay que inventar el universo». Todo átomo de la corteza terrestre, excepto el hidrógeno, se forjó en estrellas. Las estrellas son cocinas cósmicas donde el hidrógeno del Big Bang se cocina en elementos más pesados."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Vidas de las estrellas",
+      "text": "En Cambridge, hacia 1910 , se descubrió la estructura del átomo: nube de electrones y núcleo diminuto pero masivo. Las estrellas condensan gas, encienden fusión nuclear y viven millones o miles de millones de años. Las supernovas dispersan elementos pesados. Cada persona lleva átomos de estrellas ancestralmente explotadas."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Vidas de las estrellas",
+      "text": "El Sol es una estrella de secuencia principal de unos 4.600 millones de años. Le queda vida estable antes de convertirse en gigante roja. Comprender las estrellas es comprender nuestro origen químico y nuestro destino a escala de eones."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Vidas de las estrellas",
+      "text": "«Somos polvo de estrellas.»"
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Vidas de las estrellas",
+      "text": "Cada átomo pesado de nuestro cuerpo se cocinó dentro de una estrella, así que somos literalmente polvo de estrellas."
+    },
+    {
+      "sectionId": "cap9",
+      "sectionTitle": "Vidas de las estrellas",
+      "text": "Las estrellas nos cuentan el pasado; la cosmología pregunta por el origen y el destino del universo entero."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Al borde de lo eterno",
+      "text": "¿Tuvo el universo un comienzo? Hace 10-20 mil millones de años ocurrió el Big Bang (expansión originaria desde alta densidad): todo el universo ocupó un volumen minúsculo. Por qué ocurrió es el mayor misterio. Que ocurrió está razonablemente claro. El universo se expande desde entonces. No hay «exterior» observable."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Al borde de lo eterno",
+      "text": "La radiación del fuego primordial se enfrió hasta convertirse en el fondo cósmico de microondas (señal tenue del universo infantil), detectable hoy con radiotelescopios. Sagan explora si hay materia suficiente para frenar la expansión (universo cerrado) o si expandirá para siempre. Los neutrinos con masa podrían contribuir a la densidad total."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Al borde de lo eterno",
+      "text": "Filósofos e hindúes debatieron desde hace milenios si el cosmos es eterno o creado. La cosmología moderna ofrece evidencia empírica. Estamos «al borde de lo eterno» en el sentido de vislumbrar los límites del tiempo cósmico."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Al borde de lo eterno",
+      "text": "El universo tuvo un comienzo y su destino depende de cuánta materia contiene, y la cosmología responde con evidencia lo que antes solo respondían los mitos."
+    },
+    {
+      "sectionId": "cap10",
+      "sectionTitle": "Al borde de lo eterno",
+      "text": "Si el cosmos tiene historia, también importa cómo las civilizaciones guardan y pierden lo que aprendieron."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Persistencia de la memoria",
+      "text": "¿Qué papel juega la información en la supervivencia? En el Cosmos podrían existir millones de mundos habitados por seres muy distintos y avanzados. La inteligencia no es solo información sino juicio. Sagan introduce el bit (unidad mínima de información: sí o no a una pregunta inequívoca). Este libro contiene unos 10⁷ bits. Una hora de TV unos 10¹² ."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Persistencia de la memoria",
+      "text": "El ADN (código químico de instrucciones heredadas) es la memoria biológica por excelencia. El cerebro humano almacena recuerdos en conexiones sinápticas. La evolución produjo órganos cada vez más capaces de registrar y transmitir experiencia. La destrucción de la Biblioteca de Alejandría (cientos de miles de volúmenes perdidos) ilustra lo frágil que es el conocimiento acumulado."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Persistencia de la memoria",
+      "text": "Las civilizaciones avanzadas deben preservar su memoria colectiva contra catástrofes naturales y autoinfligidas. Por eso la información es supervivencia cultural: sin memoria colectiva, cada generación recomienza desde cero."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Persistencia de la memoria",
+      "text": "Conocer y recordar es sobrevivir a escala civilizatoria. La memoria es el contrapeso a la fragilidad humana."
+    },
+    {
+      "sectionId": "cap11",
+      "sectionTitle": "Persistencia de la memoria",
+      "text": "La memoria también alimenta la pregunta más audaz: si otras civilizaciones dejan señales en el cielo."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Enciclopedia galáctica",
+      "text": "¿Podemos comunicarnos con civilizaciones estelares? Sagan imagina la Enciclopedia Galáctica (repositorio de conocimiento de muchas especies). El SETI (búsqueda de inteligencia extraterrestre por radio) busca señales artificiales. Un mensaje podría ser un «principito»: lenguaje matemático universal antes que palabras."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Enciclopedia galáctica",
+      "text": "Las matemáticas parecen la lingua franca del Cosmos: primos, π, leyes físicas. Un mensaje podría describir una civilización alienígena en la entrada 3.267 de la Enciclopedia. Recibir tal señal transformaría nuestra autocomprensión más que cualquier conquista territorial."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Enciclopedia galáctica",
+      "text": "También debemos considerar si somos capaces de interpretar mensajes sin proyectar nuestros miedos. La búsqueda de señales exige paciencia intergeneracional: las distancias estelares implican conversaciones de décadas o siglos."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Enciclopedia galáctica",
+      "text": "**SETI** — Búsqueda de inteligencia extraterrestre mediante radiotelescopios."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Enciclopedia galáctica",
+      "text": "**Lenguaje matemático** — Hipótesis de comunicación interespecie basada en invariantes físicas."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Enciclopedia galáctica",
+      "text": "**Enciclopedia Galáctica** — Metáfora de repositorio cósmico de culturas múltiples."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Enciclopedia galáctica",
+      "text": "Buscar señales de otras civilizaciones es una apuesta razonable, y hallar una transformaría nuestra autocomprensión más que cualquier conquista territorial."
+    },
+    {
+      "sectionId": "cap12",
+      "sectionTitle": "Enciclopedia galáctica",
+      "text": "Toda esa perspectiva cósmica converge en una pregunta política: quién habla por la especie entera."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "¿Quién habla por la Tierra?",
+      "text": "¿Quién representa a la humanidad frente al Cosmos? Las naciones tienen voceros. ¿Quién habla por la especie humana? ¿Quién habla por la Tierra? Sagan recorre la historia de la autodestrucción potencial. Las armas nucleares pueden aniquilar la civilización. El gasto militar eclipsa la exploración espacial. La intolerancia destruye el saber acumulado."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "¿Quién habla por la Tierra?",
+      "text": "El astrónomo Ptolomeo y los cosmonautas marcan dos extremos de nuestra historia. Entre ambos, la perspectiva cósmica reduce la vanidad de reyes y naciones. «Somos polvo de estrellas contemplándose a sí mismo.» Esa comprensión debería fomentar humildad y cooperación, no rivalidad suicida. La humanidad es joven. Aún puede elegir su camino."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "¿Quién habla por la Tierra?",
+      "text": "La serie y el libro son un experimento optimista: confiar en la inteligencia pública, en que las preguntas profundas excitan a millones. Por eso sobrevivir y florecer exige entender el Cosmos y nuestra responsabilidad dentro de él. Alguien debe hablar por la Tierra, y ese alguien somos nosotros."
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "¿Quién habla por la Tierra?",
+      "text": "«La exploración del Cosmos es un viaje de autodescubrimiento.»"
+    },
+    {
+      "sectionId": "cap13",
+      "sectionTitle": "¿Quién habla por la Tierra?",
+      "text": "Somos la forma en que el Cosmos se conoce a sí mismo. Destruirnos sería silenciar esa voz única."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Somos polvo de estrellas que ha aprendido a conocerse."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Por eso la ciencia nos reconecta con el Cosmos del que nacimos."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Explorar el espacio es, entonces, un viaje de regreso a casa."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Entender la ciencia es condición de supervivencia y deleite."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "Debemos hablar por la Tierra con humildad cósmica."
+    },
+    {
+      "sectionId": "cierre",
+      "sectionTitle": "Cierre",
+      "text": "El universo no es remoto: somos parte de él"
+    }
+  ]
+}
