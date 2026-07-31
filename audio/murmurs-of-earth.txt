@@ -6,7 +6,7 @@ La humanidad fabricó un artefacto que puede sobrevivir eones en el vacío inter
 
 El Disco Voyager codifica ciencia, imagen, sonido, música y saludo en un solo objeto físico.
 
-Es mensaje a las estrellas —y, sobre todo, un espejo de lo que elegimos conservar de nosotros mismos.
+Es un mensaje a las estrellas —y, sobre todo, un espejo de lo que elegimos conservar de nosotros mismos.
 
 Casi ningún extraterrestre lo verá; billones de terrícolas sí, y eso basta para justificar el gesto.
 
@@ -68,7 +68,7 @@ Año 1972. Pioneer 10/11 llevan placas interestelares al espacio.
 
 Año 1974. Mensaje de Arecibo: 1679 bits hacia Messier 13.
 
-Idea clave: Antes del Disco físico, Arecibo demostró que podemos hablar al cosmos en el lenguaje de la matemática y la física.
+Idea clave: Por eso, antes del Disco físico, Arecibo demostró que podemos hablar al cosmos en el lenguaje de la matemática y la física.
 
 Si el cosmos puede leer matemáticas, el disco debe enseñar quiénes somos sin suponer contexto terrestre.
 
@@ -116,7 +116,7 @@ Capítulo cinco. Los sonidos de la Tierra
 
 ¿Qué suena un planeta entero en doce minutos? Ann Druyan produjo The Sounds of Earth, un ensayo sonoro de 12 minutos concebido para dos audiencias: humanos que reconocen y extraterrestres que intuyen. Recuerda las palabras de Shakespeare en The Tempest: la isla está llena de ruidos, sonidos y aires dulces.
 
-La selección comenzó con una lluvia de onomatopeyas en la mesa de los Sagan. Luego el equipo recorrió bibliotecas de sonido, universidades y grabaciones de campo. Roger Payne aportó el saludo de ballena grabado en Bermuda en 1970. Alan Botto proporcionó el despegue del Saturno V con la voz Fly, bird en Mission Control. Algunos colaboradores rechazaron participar por desconfianza hacia el gobierno. Otros exigieron dinero que el proyecto no tenía.
+La selección comenzó con una lluvia de onomatopeyas en la mesa de los Sagan. Después el equipo recorrió bibliotecas de sonido, universidades y grabaciones de campo. Roger Payne aportó el saludo de ballena grabado en Bermuda en 1970. Alan Botto proporcionó el despegue del Saturno V con la voz Fly, bird en Mission Control. Algunos colaboradores rechazaron participar por desconfianza hacia el gobierno. Otros exigieron dinero que el proyecto no tenía.
 
 En la Biblioteca del Congreso, Druyan y Timothy Ferris oyeron una grabación de campo de la Primera Guerra Mundial y debatieron si incluir violencia. Murry Sidlin insistió en enviar lo mejor de nosotros, pero esa noche no hubo conclusión. El montaje sigue una estructura evolutiva amplia, de lo geológico a lo biológico y luego a lo tecnológico. La escala temporal real dejaría casi todo el disco en olas y viento.
 
@@ -136,7 +136,9 @@ Capítulo seis. La música de Voyager
 
 El corte a 16⅔ rpm triplicó el tiempo disponible, pero todo debía elegirse en menos de dos meses. La mitad del disco es música no occidental gracias a Alan Lomax, Brown y otros asesores. Debates maratonianos enfrentaron jazz, rock, ópera y música folklórica. Se descartó Here Comes the Sun de los Beatles por problemas de copyright. Horas antes del corte del disco maestro, Carol Kulig localizó el coro georgiano Tchakrulo, que reemplazó una pieza soviética más derivativa.
 
-La secuencia abre con el Brandenburg Concerto No. 2 (segundo concierto de Bach) de Bach y cierra con la Cavatina (movimiento lírico de Beethoven) de Beethoven. Los dos primeros compases del disco son precisamente esa Cavatina. El repertorio incluye gamelán javanés, canto de iniciación pigmea y raga indio. También lleva ch'in chino Flowing Streams, Louis Armstrong, Chuck Berry (Johnny B. Goode), Stravinsky y Mozart. Cierra Dark Was the Night de Blind Willie Johnson. En el espacio entre surcos finales se grabó la dedicatoria To the makers of music—all worlds, all times.
+La secuencia abre con el Brandenburg Concerto No. 2 (segundo concierto de Bach) y cierra con la Cavatina (movimiento lírico de Beethoven). Los dos primeros compases del disco son precisamente esa Cavatina.
+
+Además, el repertorio abarca gamelán javanés, canto de iniciación pigmea, raga indio y ch'in chino Flowing Streams. Incluye también a Louis Armstrong, Chuck Berry (Johnny B. Goode), Stravinsky y Mozart. Cierra Dark Was the Night de Blind Willie Johnson. En el espacio entre surcos finales se grabó la dedicatoria To the makers of music—all worlds, all times.
 
 Cita: Para los creadores de la música —todos los mundos, todos los tiempos. — Dedicatoria grabada en el Disco Voyager
 
@@ -150,7 +152,7 @@ Capítulo siete. La misión Voyager al sistema solar exterior
 
 Júpiter tiene 317 veces la masa terrestre y emite más energía de la que recibe del Sol. Sus nubes de colores pueden contener moléculas orgánicas formadas por rayos ultravioleta y descargas eléctricas, incluidos aminoácidos. Titán, luna de Saturno, tiene atmósfera densa de metano. Sus mares podrían albergar materia orgánica acumulada durante eones. En 1976 se descubrieron anillos alrededor de Urano, lo que alivió la pregunta de por qué solo Saturno los tenía.
 
-Las Voyager llevan 11 experimentos científicos, cada uno con un equipo que trabajó casi una década. Las trayectorias asistidas por gravedad de Júpiter y Saturno aceleran las naves hacia escape interestelar. Ese accidente de mecánica celeste hizo posible el Disco. Los compromisos entre objetivos científicos son dolorosos: volar cerca de Ío, ocultar Saturno tras sus anillos o alcanzar Urano excluyen otras mediciones igualmente valiosas.
+Las Voyager llevan 11 experimentos científicos, cada uno con un equipo que trabajó casi una década. Las trayectorias asistidas por gravedad de Júpiter y Saturno aceleran las naves hacia escape interestelar. Por eso, ese accidente de mecánica celeste hizo posible el Disco. Los compromisos entre objetivos científicos son dolorosos: volar cerca de Ío, ocultar Saturno tras sus anillos o alcanzar Urano excluyen otras mediciones igualmente valiosas.
 
 🪐. Gigantes gaseosos
 
@@ -172,7 +174,7 @@ Voyager 1 (la primera sonda en salir del sistema solar) saldrá hacia Ofiuco. Vo
 
 En unos 40.000 años, la enana roja AC+79 3888 estará a solo 3 años-luz del Sol. Voyager 1 pasará a 1,7 años-luz de ella. Si esa estrella tiene planetas, una maniobra final podría dirigir la nave hacia su sistema en unos 60.000 años.
 
-Quien encuentre el Disco sabrá que enviar tal mensaje solo tiene sentido con pasión por el futuro. Revelará una especie con esperanza, perseverancia, inteligencia modesta, generosidad y deseo genuino de contacto con el cosmos.
+Por eso, quien encuentre el Disco sabrá que enviar tal mensaje solo tiene sentido con pasión por el futuro. Revelará una especie con esperanza, perseverancia, inteligencia modesta, generosidad y deseo genuino de contacto con el cosmos.
 
 Idea clave: El mensaje es frágil y eterno a la vez: un susurro de cobre y oro atravesando el vacío interestelar.
 

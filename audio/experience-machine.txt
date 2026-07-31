@@ -2,9 +2,9 @@ La máquina de la experiencia, de Andy Clark.
 
 La idea central
 
-No percibimos el mundo como una ventana transparente.
+En suma, no percibimos el mundo como una ventana transparente.
 
-Lo construimos en cada instante mezclando predicciones del cerebro con señales sensoriales corregidas por error.
+Por eso lo construimos en cada instante mezclando predicciones del cerebro con señales sensoriales corregidas por error.
 
 Somos océanos de predicción orquestados por cerebro, cuerpo y mundo
 
@@ -36,7 +36,7 @@ Capítulo uno. Abrir la máquina de predicción
 
 La alarma no suena y no hay pájaros reales tras el doble vidrio. Esas alucinaciones breves se corrigen cuando llega evidencia de silencio. Surgen señales de error de predicción, o sea, la diferencia entre lo esperado y lo que llega por los sentidos. Cuando las expectativas son fuertes o la evidencia es sutil, la predicción puede sobreescribir la señal real.
 
-El cerebro no espera pasivamente. Intenta alucinar el mundo y deja que los sentidos empuen el pincel cuando falla. Durante décadas dominó el modelo de la cámara inteligente, la visión clásica de que la información visual sube capa a capa desde la retina. David Marr y Descartes (1664) pensaron así.
+Así que el cerebro no espera pasivamente. Intenta alucinar el mundo y deja que los sentidos empuen el pincel cuando falla. Durante décadas dominó el modelo de la cámara inteligente, la visión clásica de que la información visual sube capa a capa desde la retina. David Marr y Descartes (1664) pensaron así.
 
 El procesamiento predictivo invierte el flujo. Las predicciones profundas bajan hasta la piel y los ojos, y solo sube lo inesperado. Esa lógica recuerda la codificación predictiva lineal de Claude Shannon (1948) o formatos como JPEG y MP3. En una cuadrícula ambigua, ver 13 o B cambia la experiencia del mismo trazo central. Escuchar White Christmas distorsionado muestra cómo el conocimiento previo transforma lo auditivo.
 
@@ -92,7 +92,7 @@ La homeostasis, o sea, mantener rangos vitales estables, la desarrolló Claude B
 
 El sistema interoceptivo informa vísceras, glucosa y temperatura. El exteroceptivo mira afuera. El proprioceptivo guía postura. La valencia, lo atractivo frente a lo repulsivo, refleja si vamos mejor o peor de lo esperado al reducir error. La curiosidad explora cuando el error es manejable y prometedor.
 
-Las emociones integran señales corporales con predicciones de causa. Un corazón acelerado en el gimnasio frente a un posible infarto produce sentimientos distintos. No hay sentimiento crudo previo al reencuadre. El córtex insular anterior integra interocepción, acción y percepción externa en bucles cortico-subcorticales. No opera como jerarquía donde la razón reprime emoción primitiva.
+Por eso las emociones integran señales corporales con predicciones de causa. Un corazón acelerado en el gimnasio frente a un posible infarto produce sentimientos distintos. No hay sentimiento crudo previo al reencuadre. El córtex insular anterior integra interocepción, acción y percepción externa en bucles cortico-subcorticales. No opera como jerarquía donde la razón reprime emoción primitiva.
 
 🫀. Interocepción
 

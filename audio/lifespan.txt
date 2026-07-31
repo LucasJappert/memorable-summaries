@@ -6,7 +6,7 @@ El envejecimiento no es el precio inevitable de vivir.
 
 Es una pérdida tratable de información que las células olvidan leer.
 
-envejecer es una enfermedad, y las enfermedades se tratan
+Envejecer es una enfermedad, y las enfermedades se tratan
 
 Podemos activar circuitos ancestrales con estilo de vida, fármacos y reprogramación celular.
 
@@ -28,7 +28,7 @@ Los niños entienden la irreversibilidad entre los 5 y 7 años. Luego entierran 
 
 Sinclair se pregunta si pudiéramos ser jóvenes más tiempo. No solo años, sino décadas, sin que el final se parezca al declive que ya conocemos.
 
-Cita: No one tells you what it is like to die. Why doesn't anyone tell you? — David Sinclair
+Cita: Nadie te cuenta cómo es morir. ¿Por qué nadie lo dice? — David Sinclair
 
 Idea clave: El envejecimiento tal como lo vivimos roba décadas de vitalidad y no debe aceptarse como destino natural.
 
@@ -158,7 +158,7 @@ El pionero Mark Boguski acuñó la medicina de precisión (tratamiento según el
 
 La secuenciación cayó de miles de millones de dólares a menos de 100 dólares en un dispositivo del tamaño de una barra de chocolate. Pronto dirá qué comer, qué microbioma cultivar y qué fármaco evitar. Por ejemplo, la deficiencia de G6PD en 300 millones de personas, donde antipalúdicos comunes provocan hemólisis.
 
-Terapias como CAR-T y checkpoint inhibitors (usados en el melanoma cerebral de Jimmy Carter) muestran remisiones superiores al 80 % en algunos cánceres. Wearables detectarán arritmias. Analizadores de aliento, infecciones. El reloj epigenético (medida de edad biológica por metilación del ADN) anticipará el declive antes de que sea irreversible.
+Terapias como CAR-T e inhibidores de puntos de control inmunitario muestran remisiones superiores al 80 % en algunos cánceres. Uno de esos casos fue el melanoma cerebral de Jimmy Carter. Además, los dispositivos portátiles detectarán arritmias y los analizadores de aliento, infecciones. El reloj epigenético (medida de edad biológica por metilación del ADN) anticipará el declive antes de que sea irreversible.
 
 Idea clave: La medicina de precisión permitirá diagnosticar y tratar antes de que el declive sea irreversible.
 
@@ -204,13 +204,13 @@ Capítulo diez. Conclusión
 
 ¿Qué laboratorios ya mueven la promesa de la longevidad? El de Sinclair en Harvard, en el noveno piso del New Research Building, reúne a entre 30 y 40 científicos de todo el mundo.
 
-Jae-Hyun Yang aceleró el reloj epigenético en ratones ICE. Yuancheng Lu reprogramó animales viejos con virus modificado. Michael Bonkowski tiene el récord de ratón longevo: 5 años.
+Entre ellos, Jae-Hyun Yang aceleró el reloj epigenético en ratones ICE y Yuancheng Lu reprogramó animales viejos con virus modificado. Michael Bonkowski tiene el récord de ratón longevo: 5 años.
 
-João Amorim prueba si resveratrol activa SIRT1 directamente. Lindsay Wu restauró fertilidad con NMN.
+También João Amorim prueba si el resveratrol activa SIRT1 directamente, mientras que Lindsay Wu restauró fertilidad con NMN.
 
-No es un laboratorio aislado. El Glenn Center en Harvard y MIT, el Buck Institute en California y centros en cada universidad importante forman un campo global. Industria privada busca fármacos con IA. La financiación pública para envejecimiento sigue siendo gota frente a cáncer o Alzheimer. Hace una década casi nadie trabajaba esto. Hoy es campo global.
+Pero no es un laboratorio aislado. El Glenn Center en Harvard y MIT, el Buck Institute en California y centros en cada universidad importante forman un campo global. Además, la industria privada busca fármacos con IA. La financiación pública para envejecimiento sigue siendo gota frente a cáncer o Alzheimer. Hace una década casi nadie trabajaba esto. Hoy es campo global.
 
-Susan DeStefano, cristiana devota que cree que curar enfermos es obra de Dios, gestiona el caos administrativo. La diversidad de creencias y orígenes no impide la convicción compartida. La vitalidad prolongada viene en camino. La pregunta ya no es si, sino cuándo y para quién.
+Susan DeStefano, cristiana devota que cree que curar enfermos es obra de Dios, gestiona el caos administrativo. La diversidad de creencias y orígenes no impide la convicción compartida. Por eso la vitalidad prolongada viene en camino: la pregunta ya no es si, sino cuándo y para quién.
 
 Idea clave: Cientos de laboratorios en el mundo ya hacen inevitable una humanidad con vitalidad prolongada.
 
@@ -230,7 +230,7 @@ Reloj epigenético. Metilación del ADN que mide edad biológica vs cronológica
 
 Medicina de precisión. Diagnóstico y tratamiento según genoma y datos individuales.
 
-Healthspan. Años de vida activa y sana, no solo conteo total.
+Vida saludable (healthspan). Años de vida activa y sana, no solo conteo total.
 
 Inflammaging. Inflamación crónica de bajo grado impulsada por senescencia.
 

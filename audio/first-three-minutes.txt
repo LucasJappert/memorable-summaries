@@ -10,7 +10,7 @@ El equilibrio térmico borra la memoria del instante inicial, pero deja predicci
 
 Antes del centésimo de segundo un velo de física de partículas limita lo calculable; después, la historia es numérica y verificable.
 
-El cosmos parece más comprensible cuanto más lejos miramos —y, para Weinberg, más carente de propósito trascendente.
+Por eso el cosmos parece más comprensible cuanto más lejos miramos —y, para Weinberg, más carente de propósito trascendente.
 
 Entender ese origen eleva la vida humana del absurdo hacia la tragedia.
 
@@ -36,7 +36,7 @@ La Edda menor (mitos nórdicos compilados ~1220 por Snorri Sturleson) explica el
 
 En la última década todo cambió. Existe un modelo estándar del universo temprano, similar al big bang pero con una receta específica de contenidos. Lo aceptaron por presión de datos, no por modas filosóficas. Al inicio hubo una explosión simultánea en todo el espacio: cada partícula se alejó de las demás.
 
-A ~10⁻² s y ~10¹¹ °C, la materia era una sopa de electrones, positrones, neutrinos y fotones en equilibrio dinámico. Había ~10⁹ fotones por partícula nuclear, dato tomado de la observación del CMB.
+A ~10⁻² s y ~10¹¹ °C, la materia era una sopa de electrones, positrones, neutrinos y fotones en equilibrio dinámico. Había ~10⁹ fotones por partícula nuclear, dato tomado de la observación del fondo de radiación cósmica de microondas (CMB).
 
 Al cabo de tres minutos quedaban ~73 % hidrógeno y ~27 % helio. El modelo deja vaguedad vergonzosa en el instante inicial y exige fijar condiciones iniciales, sobre todo el ratio fotones/nucleones. El estado estacionario (Bondi, Gold, Hoyle) evitaba el problema negando un universo temprano. Los capítulos 2 y 3 describirán las dos pistas observacionales que impusieron el modelo estándar: la recesión galáctica y la radiación estática universal.
 
@@ -52,7 +52,9 @@ El cielo nocturno parece inmutable, pero es ilusión. Las galaxias se alejan con
 
 Johann Christian Doppler lo propuso en 1842. William Huggins lo aplicó a estrellas en 1868.
 
-Edwin Hubble resolvió la nebulosa de Andrómeda (M31) en estrellas en 1923, usando variables Cefeidas. Estaba a millones de años luz: una galaxia como la nuestra. Slipher había medido corrimientos al rojo. En 1929, Hubble anunció que los corrimientos crecen con la distancia.
+Edwin Hubble resolvió la nebulosa de Andrómeda (M31) en estrellas en 1923, usando variables Cefeidas: estrellas pulsantes cuya luminosidad revela la distancia. Estaba a millones de años luz: una galaxia como la nuestra.
+
+Vesto Slipher ya había medido corrimientos al rojo. En 1929, Hubble anunció que esos corrimientos crecen con la distancia.
 
 El principio cosmológico (homogeneidad e isotropía a escala de cúmulos) exige esa proporcionalidad: la ley de Hubble. Con H₀ ~15 km/s por millón de años luz, la edad característica es ~20.000 millones de años, menor si la gravedad frena la expansión.
 
@@ -72,7 +74,7 @@ Robert Dicke y Jim Peebles en Princeton habían predicho radiación residual del
 
 A los ~700.000 años de equilibrio térmico, a ~3000 K, el universo alcanzó la recombinación. Entonces electrones y núcleos formaron átomos, y el universo se volvió transparente.
 
-Medidas en decenas de longitudes de onda confirman distribución de cuerpo negro (Planck) a ~3 K. La excitación rotacional del CN en Oph (~2,3 K, 1941) anticipó el resultado. Hay ~550.000 fotones/litro y entre 100 y 20.000 millones fotones por protón.
+Medidas en decenas de longitudes de onda confirman distribución de cuerpo negro (Planck) a ~3 K. La excitación rotacional del cianuro (CN) en la nebulosa de Ofiuco (~2,3 K, 1941) anticipó el resultado. Hay ~550.000 fotones/litro y entre 100 y 20.000 millones fotones por protón.
 
 Ese ratio, casi constante, gobernará la nucleosíntesis. La masa de Jeans impedía formar galaxias antes de átomos estables. La transición radiación/materia (~4000 K) y la transparencia (~3000 K) coinciden sin explicación clara.
 
@@ -114,7 +116,9 @@ A ~14 s y 3×10⁹ K, la aniquilación e⁺e⁻ calienta los fotones. El cuello 
 
 Poco después, al ~0,9×10⁹ K, llega ~3 min 46 s. Entonces el deuterio se estabiliza y la cadena p+n → D → He ensambla ~26 % de helio primordial. La fracción final varía entre 22 y 28 % según la densidad. No hay núcleos estables con 5 u 8 partículas.
 
-Peebles (1965) y Wagoner–Fowler–Hoyle calcularon el helio cosmológico, y la abundancia estelar (~20–30 % He) encaja. El deuterio (~20 ppm, Copernicus 1973) sugiere universo abierto, pero Weinberg duda inferir densidad solo del deuterio. El fondo de neutrinos (~2 K, 71,38 % de la temperatura fotónica) sería confirmación decisiva pero indetectable. El principio cosmológico no está probado antes del primer segundo, y los modelos mixmaster de Misner son especulativos.
+Peebles (1965) y Wagoner–Fowler–Hoyle calcularon el helio cosmológico, y la abundancia estelar (~20–30 % He) encaja con la predicción.
+
+El deuterio (~20 ppm, satélite Copernicus, 1973) sugiere un universo abierto, pero Weinberg duda de inferir la densidad solo a partir del deuterio. El fondo de neutrinos (~2 K, 71,38 % de la temperatura fotónica) sería una confirmación decisiva, aunque indetectable con la tecnología de entonces. Además, el principio cosmológico no está probado antes del primer segundo, y los modelos mixmaster de Misner (universo caótico con expansiones desiguales) siguen siendo especulativos.
 
 ~26 %. Helio primordial (predicción central)
 
@@ -132,7 +136,7 @@ Capítulo seis. Una digresión histórica
 
 Alpher y Herman predijeron ~5 K en 1948. Recalcularon en 1953. Dicke fijó límite menor que 20 K en 1946. La tecnología viable existía desde mediados de los años cuarenta y cincuenta. Penzias y Wilson desconocían la predicción. En 1964, Zeldovich, Hoyle, Tayler y Peebles redescubrieron la conexión mientras Penzias y Wilson ya observaban.
 
-Tres razones explican la omisión. La primera es que la teoría de Gamow intentaba sintetizar todos los elementos en el big bang. Perdió credibilidad cuando Fermi y Turkevich mostraron que no hay núcleos estables con 5 u 8 partículas. La nucleosíntesis estelar (Salpeter, Burbidge, Fowler y Hoyle) monopolizó prestigio. La segunda fue fallas de comunicación entre teoría y experimento. Zeldovich malinterpretó sky temperature de Ohm como menor que 1 K. La tercera fue resistencia a tomar en serio el universo temprano como tema respetable.
+Tres razones explican la omisión. La primera es que la teoría de Gamow intentaba sintetizar todos los elementos en el big bang. Perdió credibilidad cuando Fermi y Turkevich mostraron que no hay núcleos estables con 5 u 8 partículas. La nucleosíntesis estelar (Salpeter, Burbidge, Fowler y Hoyle) monopolizó prestigio. La segunda fue fallas de comunicación entre teoría y experimento. Zeldovich malinterpretó la temperatura del cielo medida por Ohm como menor que 1 K. La tercera fue resistencia a tomar en serio el universo temprano como tema respetable.
 
 Hoyle y Tayler calcularon ~36 % de helio cosmológico en 1964 sin inferir el CMB. Gamow citó ~7 K en 1953 con argumento matemático falaz. Weinberg concluye que el descubrimiento de 1965 nos obligó a tomar en serio que hubo un universo temprano. El error habitual en física no es tomar las teorías demasiado en serio, sino no tomarlas lo bastante.
 
@@ -180,7 +184,11 @@ Capítulo nueve. Postfacio: cosmología desde 1976
 
 El esquema general sigue vigente desde 1976. Incluye expansión, CMB como cuerpo negro y nucleosíntesis a ~3 min. La anisotropía del CMB confirma movimiento de la galaxia ~400 km/s hacia Virgo. H₀ posiblemente ronda ~30 km/s/Mly, aunque no es universalmente aceptado. La densidad total equivale a ~⅓–½ de la crítica, y los bariones aportan solo pocos %. Aparece entonces una paradoja. ¿Dónde está la masa faltante?
 
-Entre los candidatos a masa oscura figuran neutrinos masivos (~10–40 eV, Novosibirsk) y photinos. Vera Rubin mostró velocidades rotacionales altas en galaxias. Violación de bariones/leptones y generación cosmológica de bariones (Sakharov, Yoshimura) explicarían el ratio ~10⁻⁹ sin fijarlo ad hoc. Alan Guth propuso inflación (expansión ultrarrápida inicial) y superenfriamiento para homogeneidad, monopolos magnéticos y abundancia de materia.
+Entre los candidatos a masa oscura figuran neutrinos masivos (10–40 eV, según experimentos en Novosibirsk) y photinos, partículas supersimétricas hipotéticas.
+
+Vera Rubin mostró velocidades rotacionales altas en galaxias. La violación de bariones/leptones y la generación cosmológica de bariones (Sakharov, Yoshimura) explicarían el ratio ~10⁻⁹ sin fijarlo ad hoc.
+
+Alan Guth propuso inflación (expansión ultrarrápida inicial) y superenfriamiento para homogeneidad, monopolos magnéticos y abundancia de materia.
 
 La formación de galaxias sigue sin resolver: la Vía Láctea y M31 siguen burlando nuestra ignorancia. Valores teóricos y experimentales del ratio bariones/fotones aún son demasiado inciertos para un test crítico. El progreso llena vacíos observacionales y empuja teoría hacia GUT e inflación, sin alterar el esquema central de 1977.
 

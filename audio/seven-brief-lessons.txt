@@ -6,6 +6,8 @@ La física del siglo XX nos regaló dos teorías prodigiosas pero incompatibles.
 
 Relatividad y cuántica redefinieron espacio, tiempo, materia y azar.
 
+La ciencia no nos extrae del mundo: nos muestra de qué estamos hechos
+
 Seguimos buscando el lenguaje que las una y qué somos dentro de ese cosmos.
 
 En el borde del océano de lo desconocido brilla el misterio.
@@ -40,7 +42,7 @@ Capítulo dos. Quanta (mecánica cuántica)
 
 ¿Por qué la mecánica cuántica funciona tan bien y aún nos deja confusos? La relatividad general es una gema de una sola mente. La cuántica, en cambio, es un éxito experimental enorme envuelto en misterio. Nació en 1900, cuando Max Planck repartió la energía en cuantos (paquetes discretos) para explicar la luz de un cuerpo caliente.
 
-Einstein (1905) mostró que esos paquetes de luz son reales: los fotones (partículas de luz). En Copenhague, Niels Bohr comprendió que los electrones solo ocupan ciertos niveles de energía. Werner Heisenberg fue más radical: el electrón no está siempre ahí, sino que aparece al interactuar. De esa idea sale toda la química.
+Einstein (1905) mostró que esos paquetes de luz son reales: los fotones (partículas de luz). En Copenhague, Niels Bohr comprendió que los electrones solo ocupan ciertos niveles de energía. Werner Heisenberg fue más radical: el electrón no está siempre ahí, sino que aparece al interactuar. De ahí sale toda la química.
 
 La probabilidad quedó en el corazón de la física. Einstein nominó a Heisenberg al Nobel, pero rechazó la interpretación: Dios no juega a los dados. Bohr defendió que la realidad es relacional. Un siglo después seguimos sin acuerdo: ¿realidad indescribible, teoría incompleta o interacción como esencia?
 
@@ -64,7 +66,7 @@ Capítulo cuatro. Partículas (Modelo Estándar)
 
 ¿Cuántos tipos de ladrillos hacen falta para construir lo tangible? Todo lo que tocamos está hecho de electrones y quarks (piezas que forman protones y neutrones). Los gluones pegan esos quarks. Junto con fotones, neutrinos y el bosón de Higgs (detectado en 2013 en el CERN), hay menos de diez tipos de piezas elementales.
 
-Esas partículas no son piedras eternas. Son excitaciones efímeras de campos cuánticos: un vacío que nunca está del todo vacío. El Modelo Estándar (años 1970) predice con precisión extraordinaria lo medido en el laboratorio. Aun así parece parcheado, y algunos trucos matemáticos dejan mal sabor.
+Esas partículas no son piedras eternas. Son excitaciones efímeras de campos cuánticos en un vacío que nunca está del todo vacío. El Modelo Estándar (años 1970) predice con precisión extraordinaria lo medido en el laboratorio. Aun así parece parcheado, y algunos trucos matemáticos dejan mal sabor.
 
 Su gran límite es la materia oscura: masa que atrae gravitatoriamente alrededor de las galaxias pero no encaja en las partículas conocidas. Teorías elegantes fallaron en experimentos clave. Por eso el mapa de la materia sigue incompleto.
 
@@ -100,9 +102,9 @@ Capítulo siete. Nosotros (cierre reflexivo)
 
 ¿Qué somos en un cosmos de cuantos y campos? Observadores que construyen una fotografía de la realidad. Nodos en una red de intercambio de información. Parte integral del mundo, no espectadores externos.
 
-Schelling creía que el hombre era la cumbre de la naturaleza. Hoy sabemos que somos un rincón remoto, parientes de mariposas y álamos. Kant pensaba categorías universales, pero esas categorías evolucionan con nuestra especie. La ciencia no es ficción de campamento: sigue rastros, dispuesta a corregir el rumbo si aparece una pista mejor.
+El filósofo Schelling creía que el hombre era la cumbre de la naturaleza. Hoy sabemos que somos un rincón remoto, parientes de mariposas y álamos. Kant suponía categorías del entendimiento universales, pero esas categorías evolucionan con nuestra especie. Por eso la ciencia no es ficción de campamento: sigue rastros y corrige el rumbo si aparece una pista mejor.
 
-La libertad no viola las leyes naturales: actuar según procesos neuronales internos. Para Spinoza, el yo es ese complejo neuronal. La consciencia sigue abierta. Valores, lágrimas y música son reales precisamente por ser naturaleza. Somos una especie curiosa, quizá breve, pero en casa.
+La libertad no viola las leyes naturales: consiste en actuar según procesos neuronales internos. Para Spinoza, el yo es ese complejo neuronal. La consciencia, en cambio, sigue siendo un frente abierto. Valores, lágrimas y música son reales precisamente por ser naturaleza. Somos una especie curiosa, quizá breve, pero en casa.
 
 Cita: No estamos hechos de algo distinto a la naturaleza; somos naturaleza, en una de sus infinitas variaciones. — Carlo Rovelli
 

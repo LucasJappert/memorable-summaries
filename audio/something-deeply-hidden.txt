@@ -48,7 +48,7 @@ Capítulo dos. La formulación valiente
 
 ¿Qué pasa si la función de onda es la realidad completa y nunca colapsa? En la conferencia de Solvay de 1927, el físico Niels Bohr defendió usar la cuántica solo para probabilidades de medición. Albert Einstein exigía una descripción completa de la realidad. Carroll reconstruye el camino hacia la mecánica cuántica austera (AQM: solo función de onda y ecuación de Schrödinger, sin colapsos).
 
-Si la función de onda es la realidad y no hay colapsos, medir es una interacción física ordinaria. Un electrón en superposición se entrelaza con el aparato y con el observador. Todos quedan en superposición correlacionada. La salida aparente es que el observador nunca siente estar en superposición. Eso llevó a inventar reglas de colapso.
+Si la función de onda es la realidad y no hay colapsos, entonces medir es una interacción física ordinaria. Un electrón en superposición se entrelaza con el aparato y con el observador. Todos quedan en superposición correlacionada. La salida aparente es que el observador nunca siente estar en superposición. Eso llevó a inventar reglas de colapso.
 
 La reinterpretación valiente es la de Hugh Everett en 1957. Tras la interacción no hay un observador dividido en estados mentales contradictorios. Hay múltiples ramas (copias separadas del universo) del estado universal. Cada rama tiene un observador que vio un resultado definido. No se añadieron mundos al formalismo. Ya estaban implícitos en la superposición desde el principio.
 
@@ -88,7 +88,7 @@ Capítulo cuatro. Incertidumbre y complementariedad
 
 ¿Por qué posición y momento no pueden definirse a la vez? El principio de incertidumbre no dice que todo es incierto. Dice que posición (dónde está un objeto) y momento (masa por velocidad) no pueden definirse a la vez en un mismo estado. No es ignorancia medible. Son cantidades que no existen a la vez en la ontología cuántica.
 
-En la doble rendija, electrones individuales dibujan un patrón de interferencia como ondas. Impactan como partículas. Cuando detectamos por qué rendija pasan, la interferencia desaparece. El entrelazamiento con el detector destruye la superposición espacial. El experimento refuta la idea de que Ψ solo codifica ignorancia sobre una trayectoria clásica oculta.
+Por eso, en la doble rendija, electrones individuales dibujan un patrón de interferencia como ondas. Impactan como partículas. Cuando detectamos por qué rendija pasan, la interferencia desaparece. El entrelazamiento con el detector destruye la superposición espacial. El experimento refuta la idea de que Ψ solo codifica ignorancia sobre una trayectoria clásica oculta.
 
 El espín ofrece el modelo más simple. Es una propiedad interna con solo dos valores según el eje elegido. La función de onda es un vector en un espacio abstracto de resultados. La regla de Born equivale a Pitágoras: las amplitudes al cuadrado suman 1. Bohr llamó complementariedad al hecho de que descripciones igualmente válidas no pueden aplicarse a la vez.
 
@@ -124,7 +124,7 @@ Capítulo seis. Decoherencia y mundos paralelos
 
 ¿Por qué un aparato macroscópico nunca parece estar en superposición? Hugh Everett propuso en 1957 que el universo entero tiene una sola función de onda, sin región clásica externa. La medición es entrelazamiento entre sistema, aparato y entorno. Everett aún no conocía la decoherencia (la pérdida de interferencia entre ramas por entrelazamiento con el entorno). La introdujo Hans Dieter Zeh en 1970.
 
-Un aparato macroscópico en superposición interactúa con aire, fotones y calor. El entorno se entrelaza de forma distinta con cada rama. Eso impide la interferencia (la superposición visible de ondas que se refuerzan o cancelan) entre ellas. Así se definen mundos separados. Ramas decoherentes no pueden afectarse mutuamente. La medición no es mística ni requiere conciencia. Basta un grano de polvo entrelazado con el ambiente.
+Por eso, un aparato macroscópico en superposición interactúa con aire, fotones y calor. El entorno se entrelaza de forma distinta con cada rama. Eso impide la interferencia (la superposición visible de ondas que se refuerzan o cancelan) entre ellas. Así se definen mundos separados. Ramas decoherentes no pueden afectarse mutuamente. La medición no es mística ni requiere conciencia. Basta un grano de polvo entrelazado con el ambiente.
 
 La historia humana del descubrimiento es dramática. John Wheeler suavizó la tesis para no herir a Bohr. Everett dejó la academia y murió joven en 1982. Bryce DeWitt popularizó la etiqueta Many-Worlds en los años 70. Carroll estima ramificaciones astronómicas por decaimientos radiactivos en el cuerpo. El peso de cada rama (amplitud al cuadrado) mantiene la economía total.
 
@@ -170,7 +170,7 @@ Carroll concede virtudes a cada vía. Apuesta por Everett porque solo asume Ψ y
 
 QBism. Ψ como creencia del agente; sin realidad objetiva compartida.
 
-Idea clave: Las alternativas eliminan mundos añadiendo dinámica, variables o negando la ontología de Ψ, pero pagan complejidad y rigidez frente a la plug-and-play everettiana.
+Idea clave: Las alternativas eliminan mundos añadiendo dinámica, variables o negando la ontología de Ψ, pero pagan complejidad y rigidez frente a la formulación everettiana modular.
 
 Con la apuesta por Everett hecha, Carroll pregunta cómo emerge el espacio clásico desde la función de onda.
 
@@ -212,7 +212,7 @@ Carroll invierte el enfoque habitual: en lugar de cuantizar la gravedad, extrae 
 
 Capítulo 13. Gravedad dentro de la mecánica cuántica
 
-¿Por qué cuantizar la relatividad general choca con infinitos y con la falta de un espacio de fondo fijo? Carroll invierte el problema. Parte de Ψ abstracta y extrae geometría. En 1995, el físico Ted Jacobson mostró un resultado clave. Si la entropía de entrelazamiento de una región es proporcional al área de su frontera, se puede derivar la ecuación de Einstein.
+¿Por qué cuantizar la relatividad general choca con infinitos y con la falta de un espacio de fondo fijo? Por eso, Carroll invierte el problema: parte de Ψ abstracta y extrae geometría. En 1995, el físico Ted Jacobson mostró un resultado clave. Si la entropía de entrelazamiento de una región es proporcional al área de su frontera, se puede derivar la ecuación de Einstein.
 
 La estrategia It from Qubit descompone el Hamiltoniano en grados de libertad que interactúan solo con vecinos. Eso define una red y, vía entropía de subregiones, una métrica (la descripción matemática de distancias y curvatura del espacio). Trabajos recientes de Cao, Carroll y Michalakis especifican condiciones bajo las cuales la geometría obedece relatividad general a bajas energías.
 

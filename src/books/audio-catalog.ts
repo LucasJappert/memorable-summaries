@@ -1,6 +1,5 @@
 /** Slugs con narración TTS en public/audio/<slug>.mp3
- *  Solo audios regenerados post-rewrite (batch .ok).
- *  MP3 stale pueden existir en disco pero no se listan aquí.
+ *  Solo audios con resumen publicado (ignora previews/samples).
  */
 export const BOOKS_WITH_AUDIO = new Set<string>([
   '21-lessons',
@@ -19,10 +18,10 @@ export const BOOKS_WITH_AUDIO = new Set<string>([
   'darwins-dangerous-idea',
   'death',
   'determined',
-  'ego-tunnel',
   'eerie-silence',
-  'elegant-universe',
+  'ego-tunnel',
   'el-gran-diseno',
+  'elegant-universe',
   'emergent-multiverse',
   'emperors-new-mind',
   'experience-machine',

@@ -18,7 +18,7 @@ Prefacio. ¿Por qué es la vida como es?
 
 ¿Por qué toda la vida compleja en la Tierra desciende de un solo ancestro ya sofisticado? Lane abre con un agujero negro (un vacío sin explicación) en el corazón de la biología. Árboles, abejas y hongos comparten una célula ancestral que surgió una sola vez hace unos 4 000 millones de años.
 
-La vida apareció hacia los 4 000 millones de años. Permaneció atrapada en la simplicidad bacteriana más de 2 000 millones. Plantas, animales, hongos y protistas (organismos eucariotas diversos) descienden de un único ancestro hace 1 500–2 000 millones de años. No hay eslabones perdidos entre bacterias simples y todo lo demás. Gastamos miles de millones en biomedicina sin entender cómo evolucionaron las piezas de la célula.
+La vida apareció hacia los 4 000 millones de años. Permaneció atrapada en la simplicidad bacteriana más de 2 000 millones. Plantas, animales, hongos y protistas (organismos eucariotas diversos) descienden de un único ancestro hace 1 500–2 000 millones de años. No hay eslabones perdidos entre bacterias simples y todo lo demás. Por eso gastamos miles de millones en biomedicina sin entender cómo evolucionaron las piezas de la célula.
 
 Tres revoluciones moldearon el panorama. En 1967, Lynn Margulis propuso la endosimbiosis (la incorporación de una célula dentro de otra). Carl Woese dividió la vida en tres dominios. La genómica moderna confirmó la predicción de Bill Martin en 1998. El huésped era un arquea simple que incorporó la bacteria ancestro de las mitocondrias.
 
@@ -32,11 +32,11 @@ Capítulo uno. ¿Qué es la vida?
 
 ¿Por qué la biología evolutiva predice tan poco sobre la vida en otros planetas? Los telescopios de SETI (búsqueda de señales extraterrestres) en California escuchan el cosmos. Sus preguntas rebotan sobre la biología terrestre. La biología conoce la historia molecular, pero no distingue bien azar de ley física.
 
-El físico Erwin Schrödinger publicó What is Life? en 1944. Propuso que la vida elude localmente la entropía mediante los genes como cristal aperiódico portador de código. La era del ADN comenzó en 1953 con la estructura de la doble hélice. Eso convirtió la biología en ciencia de la información. Los genomas varían enormemente. Sin límites estructurales impuestos por la información, la biología no puede predecir la vida en otros planetas.
+El físico Erwin Schrödinger publicó ¿Qué es la vida? en 1944. Propuso que la vida elude localmente la entropía mediante los genes como cristal aperiódico portador de código. La era del ADN comenzó en 1953 con la estructura de la doble hélice. Eso convirtió la biología en ciencia de la información. Los genomas varían enormemente. Sin límites estructurales impuestos por la información, la biología no puede predecir la vida en otros planetas.
 
 La historia temprana de la Tierra (~4 500 millones de años) muestra océanos desde los cristales de circón más antiguos. La vida aparece hacia los 3 800–3 500 millones de años. Hacia los 3 200 millones, las bacterias ya dominaban casi todas las vías metabólicas. La fotosíntesis oxigénica desencadenó el Gran Evento de Oxidación (la subida de oxígeno atmosférico hace ~2 400 millones de años). Ese oxígeno transformó el planeta.
 
-La versión textbook dice que el oxígeno liberó restricciones y permitió células complejas por endosimbiosis gradual. Lane la considera incorrecta. El oxígeno no parece haber sido la clave. De serlo, veríamos muchos orígenes independientes de algas, hongos o fagocitos. La evidencia apunta a una radiación monofilética (un solo origen eucariota con estasis prolongada). Los archezoa (como Giardia) no son eslabones perdidos: perdieron mitocondrias por evolución reductiva.
+La versión de manual dice que el oxígeno liberó restricciones y permitió células complejas por endosimbiosis gradual. Lane la considera incorrecta. El oxígeno no parece haber sido la clave. De serlo, veríamos muchos orígenes independientes de algas, hongos o fagocitos. La evidencia apunta a una radiación monofilética (un solo origen eucariota con estasis prolongada). Los archezoa (como Giardia) no son eslabones perdidos: perdieron mitocondrias por evolución reductiva.
 
 🕳️. Agujero negro evolutivo
 
@@ -210,7 +210,7 @@ Año ~2 400 Ma. Gran Evento de Oxidación; oxígeno atmosférico.
 
 Año ~2 000 Ma. Fin de la estasis bacteriana morfológica; inicio eucariotas.
 
-Año 1944. Schrödinger publica What is Life?
+Año 1944. Schrödinger publica ¿Qué es la vida?
 
 Año 1953. Miller-Urey y estructura del ADN (Watson y Crick).
 
@@ -242,4 +242,4 @@ Ursula Mittwoch, Sexo determinado por tasa metabólica y crecimiento.
 
 J. B. S. Haldane, Regla de Haldane (1922) en híbridos.
 
-Erwin Schrödinger, What is Life? (1944); genes y entropía.
+Erwin Schrödinger, ¿Qué es la vida? (1944); genes y entropía.

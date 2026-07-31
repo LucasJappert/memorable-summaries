@@ -69,14 +69,20 @@ ok_n=$(ls "$LOG_DIR"/*.ok 2>/dev/null | wc -l)
 fail_n=$(ls "$LOG_DIR"/*.fail 2>/dev/null | wc -l)
 echo "OK=$ok_n FAIL=$fail_n"
 
-# Actualizar catálogo con todos los MP3 presentes
+# Actualizar catálogo solo con MP3 que tienen summaries/<slug>.md (evita previews/samples)
 python3 <<'PY'
 from pathlib import Path
 root = Path(".")
-mp3s = sorted(p.stem for p in (root / "public" / "audio").glob("*.mp3"))
+mp3s = sorted(
+    p.stem
+    for p in (root / "public" / "audio").glob("*.mp3")
+    if (root / "summaries" / f"{p.stem}.md").exists()
+)
 out = root / "src" / "books" / "audio-catalog.ts"
 lines = [
-    "/** Slugs con narración TTS en public/audio/<slug>.mp3 */",
+    "/** Slugs con narración TTS en public/audio/<slug>.mp3",
+    " *  Solo audios con resumen publicado (ignora previews/samples).",
+    " */",
     "export const BOOKS_WITH_AUDIO = new Set<string>([",
 ]
 for s in mp3s:

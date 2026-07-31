@@ -4,11 +4,13 @@ La idea central
 
 La astrobiología no empieza en el telescopio: empieza en el registro fósil terrestre.
 
-Cada capítulo aporta un tipo de biosignatura: morfológica, química, sedimentaria o isotópica.
+Por eso, cada capítulo aporta un tipo de biosignatura: morfológica, química, sedimentaria o isotópica.
 
-Estromatolitos, seeps de metano, endolitos y ventanas martianas son piezas de un mismo mapa.
+La Tierra es la única referencia confirmada; extrapolar exige humildad proporcional a la distancia en tiempo y espacio.
 
-ALH84001 y NanoSIMS recuerdan que la evidencia rara vez es inequívoca al primer aviso.
+Estromatolitos, filtraciones de metano, endolitos y ventanas marcianas son piezas de un mismo mapa.
+
+Además, ALH84001 y NanoSIMS recuerdan que la evidencia rara vez es inequívoca al primer aviso.
 
 Buscar vida más allá de la Tierra es, ante todo, aprender a leer la vida que ya dejó huella aquí.
 
@@ -16,7 +18,7 @@ Prefacio. Registros terrestres, búsqueda extraterrestre
 
 ¿Cómo buscar vida en otros planetas sin un manual confiable? Los editores Joseph Seckbach y Maud M. Walsh presentan el volumen 12 de la serie COLE. Es un compendio sobre el registro de vida en la Tierra como guía para investigar biosignaturas (evidencias de vida pasada o presente) en el cosmos.
 
-La astrobiología (ciencia que estudia el origen y la distribución de la vida) integra astronomía, química y ciencias planetarias. Este libro reúne a 30 contribuyentes de 16 países. Cubre geología, biología y ciencias espaciales en tres bloques. Cierra con capítulos sobre Marte y perspectivas generales.
+La astrobiología (ciencia que estudia el origen y la distribución de la vida) integra astronomía, química y ciencias planetarias. Además, este libro reúne a 30 contribuyentes de 16 países. Cubre geología, biología y ciencias espaciales en tres bloques. Cierra con capítulos sobre Marte y perspectivas generales.
 
 Idea clave: El registro fósil terrestre calibra qué buscar, dónde buscarlo y con qué cautela interpretarlo fuera de la Tierra.
 
@@ -54,7 +56,7 @@ Capítulo tres. Barberton: desenredar el registro fósil microbiano
 
 El capítulo documenta dos casos concretos. Hongos colonizaron superficies internas de roca tras la litificación. Bacterias modernas precipitaron óxidos de hierro y manganeso sobre material arcaico removilizado. Las formaciones Hooggenoeg y Kromberg del Grupo Onverwacht conservan texturas primarias. No están inmunes a sobreimpresión biológica tardía.
 
-Con biomarcadores químicos cada vez más sensibles, discriminar actividad sindeposicional de procesos posteriores es crítico para astrobiología.
+Por eso, con biomarcadores químicos cada vez más sensibles, discriminar actividad sindeposicional de procesos posteriores es crítico para astrobiología.
 
 Idea clave: Un microfósil arcaico exige demostrar que la señal es contemporánea al depósito, no un invasor post-Arcaico.
 
@@ -96,7 +98,7 @@ Capítulo seis. Fosfatización de microfósiles e implicaciones astrobiológicas
 
 La biosfera Arcaico-Proterozoica (3,5–0,54 Ga) fue casi enteramente microbiana. Butterfield identifica seis estilos de preservación excepcional. La fosfatización tridimensional de la Formación Doushantuo (~635–551 Ma) es una de las más potentes.
 
-Hay que priorizar ventanas fosfáticas análogas si hubo organismos extraterrestres microscópicos.
+Por tanto, hay que priorizar ventanas fosfáticas análogas si hubo organismos extraterrestres microscópicos.
 
 Idea clave: En mundos antiguos, la evidencia morfológica de vida será microscópica, blanda y excepcionalmente preservada, no fósil clásico.
 
@@ -120,7 +122,7 @@ Capítulo ocho. Comunidades microbianas de estromatolitos
 
 Los estromatolitos dominaron el registro macrofósil precámbrico. Su declive coincide con cambios químicos del océano y con pastoreo por metazoos. Persisten hoy en ambientes extremos como Shark Bay y Yellowstone, donde hay pocos consumidores.
 
-Perfilado lipídico y diversidad microbiana en mantos modernos vinculan firmas químicas estables con componentes bióticos. Eso une geología y microbiología.
+Además, el perfilado lipídico y diversidad microbiana en mantos modernos vinculan firmas químicas estables con componentes bióticos. Eso une geología y microbiología.
 
 Idea clave: Estromatolito moderno, microfósil antiguo y biomarcador lipídico forman la tríada clásica de biosignatura sedimentaria.
 
@@ -144,7 +146,7 @@ Capítulo diez. Rasgos de mantos cianobacterianos en siliciclásticos
 
 El registro muestra cianobacterias oxigénicas desde ~3,5 Ga. Eso sigue a eventos estabilizadores planetarios (~3.850 Ma). Los ambientes áridos extremos preservaron proxies de desecación, inundación flash y cicatrización de grietas en areniscas finas.
 
-Esos rasgos sedimentarios complementan el registro carbonático de estromatolitos. Amplían el catálogo de biosignaturas para Marte.
+Además, esos rasgos sedimentarios complementan el registro carbonático de estromatolitos. Amplían el catálogo de biosignaturas para Marte.
 
 Idea clave: Mats microbianos dejan huellas físicas en sedimentos clásticos, no solo en carbonatos laminados.
 
@@ -166,9 +168,9 @@ Capítulo 12. Microorganismos en el subsuelo antiguo — ¿y en el espacio?
 
 ¿Dónde buscar vida hoy en planetas desérticos y radiados? Helga Stan-Lotter y coautores revisan la vida intraterrestre (microbios que habitan bajo la superficie) en granito, permafrost, cuevas y minas. El modelo importa para subsuelos marcianos y el océano subsuperficial de Europa.
 
-Las superficies de planetas sin atmósfera protectora, como Marte, están esterilizadas por rayos UV. El subsuelo promete refugio. Preguntas abiertas: ¿son los microbios tan antiguos como la roca? ¿Existen formas dormantes distintas de endosporas?
+Las superficies de planetas sin atmósfera protectora, como Marte, están esterilizadas por rayos UV. Por eso, el subsuelo promete refugio. Preguntas abiertas: ¿son los microbios tan antiguos como la roca? ¿Existen formas dormantes distintas de endosporas?
 
-Investigación aplicada en residuos radiactivos y acuíferos contaminados informa instrumentos y estrategias. Ayuda a buscar organics y vida en profundidad extraterrestre.
+Investigación aplicada en residuos radiactivos y acuíferos contaminados informa instrumentos y estrategias. También ayuda a buscar materia orgánica y vida en profundidad extraterrestre.
 
 Idea clave: Si hay vida en Marte hoy, lo más probable es intraterrestre, protegida del UV y de la desecación superficial.
 
@@ -210,7 +212,7 @@ Capítulo 15. Microorganismos fósiles en filtraciones de metano
 
 ¿Qué significa detectar metano en la atmósfera marciana? Roberto Barbieri y Barbara Cavalazzi conectan ese gas con ecosistemas de cold seeps (filtraciones frías ricas en metano) terrestres. Esas comunidades quimiosintéticas dejan registro fósil desde el Paleozoico inferior.
 
-Los carbonatos authigénicos derivados de metano precipitan con comunidades microbianas que fijan la base trófica. Arqueas metanotróficas y consorcios simbióticos con metazoos participan en el proceso. El interés se extiende a Europa, Titán y Marte.
+Además, los carbonatos authigénicos derivados de metano precipitan con comunidades microbianas que fijan la base trófica. Arqueas metanotróficas y consorcios simbióticos con metazoos participan en el proceso. El interés se extiende a Europa, Titán y Marte.
 
 Si la vida marciana fue microbiana y hubo periodos húmedos, los ecosistemas tipo filtración de metano son análogos prioritarios. Su potencial de fosilización por interacciones microbio-mineral es alto.
 
@@ -230,7 +232,7 @@ Capítulo 16. Endolitos en ambientes áridos terrestres
 
 Migran a fracturas y poros donde hay humedad, nutrientes y protección contra UV, sequedad y variaciones térmicas. Fósiles endolíticos se conocen desde el Proterozoico tardío (Formación Eleonora Bay, Groenlandia).
 
-La detección de sulfatos (sales de azufre) en Marte impulsa el interés en evaporitas continentales. Podrían haber albergado endolitos en el pasado o aún hoy.
+Por eso, la detección de sulfatos (sales de azufre) en Marte impulsa el interés en evaporitas continentales. Podrían haber albergado endolitos en el pasado o aún hoy.
 
 Idea clave: El endolito es una estrategia de supervivencia en desierto. Marte árido y radiado favorece la misma lógica de refugio interno.
 
@@ -240,7 +242,7 @@ Capítulo 17. Bacterias magnetotácticas y terraformación
 
 ¿Podrían bacterias orientadas por imanes ayudar a modificar otro planeta? Ioan I. Ardelean y coautores revisan bacterias magnetotácticas (microbios que navegan según el campo magnético gracias a imanes internos). Richard Blakemore las describió en 1975.
 
-Proponen su potencial en terraformación de Marte por respiración con nitratos o hierro, fijación de CO₂ en oscuridad y uso de nitrógeno molecular. Complementarían fototróficos y extremófilos ya considerados candidatos.
+Además, proponen su potencial en terraformación de Marte por respiración con nitratos o hierro, fijación de CO₂ en oscuridad y uso de nitrógeno molecular. Complementarían fototróficos y extremófilos ya considerados candidatos.
 
 La magnetotaxis podría ayudar a navegar hacia condiciones óptimas si existiera un campo magnético planetario utilizable.
 
@@ -266,7 +268,7 @@ Capítulo 19. Formas de vida cósmicas
 
 Formula una cadena conceptual que enlaza interacciones virtuales, acoplamientos biológicos y aumento de organización. Extiende la noción de vida al Sol, a ciclos estelares y a formas intermitentes u ocultas en el vacío.
 
-Es una posición minoritaria y altamente especulativa dentro del volumen. Ilustra el espectro filosófico de la astrobiología más allá del empirismo geológico.
+Sin embargo, es una posición minoritaria y altamente especulativa dentro del volumen. Ilustra el espectro filosófico de la astrobiología más allá del empirismo geológico.
 
 Idea clave: Grandpierre amplía vida más allá de la bioquímica terrestre: útil como contraste metodológico, no como guía operativa de misión.
 
@@ -276,7 +278,7 @@ Capítulo 20. Huellas astronómicas y astrobiológicas en el registro fósil
 
 ¿Dejó el Sol y el espacio una firma en la historia de la vida? Julian Chela-Flores y coautores integran clima espacial (variaciones solares y cósmicas que afectan atmósferas) con núcleos de hielo, anillos de árboles y materiales extraterrestres.
 
-Meteoritos, lunares y cometas conservan implantes iónicos y radionúcleidos de rayos cósmicos. Archivos terrestres como sedimentos marinos, corales y nódulos de manganeso registran proxies climáticos detallados.
+Además, meteoritos, lunares y cometas conservan implantes iónicos y radionúcleidos de rayos cósmicos. Archivos terrestres como sedimentos marinos, corales y nódulos de manganeso registran proxies climáticos detallados.
 
 El clima espacial y la actividad solar temprana son factores en el origen y evolución de la biosfera. Unen astronomía y paleobiología.
 
@@ -284,11 +286,11 @@ Idea clave: La vida no evolucionó aislada del entorno cósmico: el Sol y el cli
 
 Si el cosmos influyó en la biosfera, conviene no atribuir cada catástrofe biológica a un impacto extraterrestre.
 
-Capítulo 20. ¿Los impactos causan la mayoría de extinciones masivas?
+Capítulo 21. ¿Los impactos causan la mayoría de extinciones masivas?
 
 ¿Basta un asteroide para explicar cada gran extinción? Donald R. Prothero cuestiona la moda de atribuir extinciones masivas a impactos. Solo el límite Cretácico-Paleógeno (~65 Ma) tiene evidencia impactante sólida.
 
-Horizontes propuestos en otras grandes extinciones resultaron de edad o tamaño incorrectos. Muchos impactos del Eoceno tardío no causaron extinción. Las erupciones de basalto de inundación tampoco explican todos los eventos.
+Sin embargo, horizontes propuestos en otras grandes extinciones resultaron de edad o tamaño incorrectos. Muchos impactos del Eoceno tardío no causaron extinción. Las erupciones de basalto de inundación tampoco explican todos los eventos.
 
 Cada extinción masiva muestra un patrón distinto. Los modelos únicos, ya sea impacto, volcanismo o cambios de CO₂/O₂, fallan como explicación universal. Es una lección de humildad para correlacionar catástrofes cósmicas y evolución biológica.
 
@@ -296,23 +298,23 @@ Idea clave: Un impacto no implica extinción automática. La astrobiología debe
 
 Los cometas, además de destruir, pueden haber aportado la química que precedió a la vida.
 
-Capítulo 21. Irradiación de analogos cometarios y origen de la vida
+Capítulo 22. Irradiación de analogos cometarios y origen de la vida
 
 ¿Puede la luz ultravioleta crear vida química en hielos cometarios? María Colín-García y coautores estudian cómo la irradiación UV (radiación ultravioleta) de hielos análogos a cometas genera compuestos orgánicos relevantes para la evolución química prebiótica.
 
-Los cometas, casi coetáneos con el sistema solar, pueden haber aportado materia orgánica a la Tierra primitiva. La hipótesis se remonta a J. Oró en 1961. Los impactos son paradójicos: entregan organics y gases nobles pero también pueden extinguir vida.
+Los cometas, casi coetáneos con el sistema solar, pueden haber aportado materia orgánica a la Tierra primitiva. La hipótesis se remonta a J. Oró en 1961. Los impactos son paradójicos: entregan materia orgánica y gases nobles pero también pueden extinguir vida.
 
 Experimentos de irradiación en laboratorio complementan modelos atmosféricos terrestres. Ayudan a entender síntesis abiótica y aporte extraterrestre.
 
-Idea clave: Cometa significa química prebiótica en hielo y posible entrega de organics, pero también agente de destrucción masiva.
+Idea clave: Cometa significa química prebiótica en hielo y posible entrega de materia orgánica, pero también agente de destrucción masiva.
 
 Antes de cualquier biosfera, el universo mismo tuvo un origen en el tiempo que condiciona toda búsqueda de vida.
 
-Capítulo 22. El Big Bang en el tiempo cero
+Capítulo 23. El Big Bang en el tiempo cero
 
 ¿Qué condición cosmológica precede a cualquier biosfera? Peter R. Bahn y Steven H. Pravdo tratan la radiación cósmica de fondo (~14 Ga) como el fósil más antiguo. El Big Bang es la condición de frontera necesaria para la vida.
 
-Los premios Nobel de 1965 y 2006 consolidaron un universo con inicio hace ~14 mil millones de años. Reconocieron la detección y el detalle de la radiación cósmica de fondo frente a la teoría del estado estacionario.
+Además, los premios Nobel de 1965 y 2006 consolidaron un universo con inicio hace ~14 mil millones de años. Reconocieron la detección y el detalle de la radiación cósmica de fondo frente a la teoría del estado estacionario.
 
 En la singularidad inicial no hay espacio-tiempo operativo para causalidad clásica. Es conclusión filosófica sobre un evento no causado.
 
@@ -320,19 +322,19 @@ Idea clave: Condición cosmológica previa a cualquier biosfera: universo con or
 
 Desde la cosmología hasta el microfósil, la pregunta es si las moléculas son solo registro o también memoria viva.
 
-Capítulo 23. Improntas moleculares: ¿vivas o no vivas?
+Capítulo 24. Improntas moleculares: ¿vivas o no vivas?
 
 ¿Es una biosignatura lo mismo que memoria biológica activa? Koichiro Matsuno distingue improntas moleculares (rastros químicos leídos por el científico) de memoria descifrada por un cuerpo material interno a la organización viva.
 
 Los átomos son reliquias del Big Bang. El ADN de dinosaurios puede reiniciar síntesis proteica en un ribosoma adecuado. Eso borra la frontera entre registro pasivo y agencia biológica.
 
-Las improntas moleculares, lejos de ser solo obstáculo, pueden identificar unidades materiales capaces de buscar contextos donde encajar. Es marco para el origen de la vida en contexto cosmológico.
+Por eso, las improntas moleculares, lejos de ser solo obstáculo, pueden identificar unidades materiales capaces de buscar contextos donde encajar. Es marco para el origen de la vida en contexto cosmológico.
 
 Idea clave: La biosignatura molecular puede ser evidencia externa para el científico o memoria operativa para el sistema vivo.
 
 El caso que más movió al público sobre vida marciana llegó en un meteorito del desierto antártico.
 
-Capítulo 24. El caso ALH84001 por vida en Marte
+Capítulo 25. El caso ALH84001 por vida en Marte
 
 ¿Qué enseñó el meteorito que reabrió el debate sobre vida en Marte? Alfonso F. Davila y coautores repasan ALH84001 (meteorito marciano con carbonatos y estructuras nanoescala). En 1996 alimentó la controversia sobre vida marciana fossilizada.
 
@@ -344,13 +346,13 @@ Idea clave: El meteorito ALH84001 dejó una lección sobre cautela: señales amb
 
 Si alguna señal sobrevivió en Marte, hay que saber en qué roca y en qué era buscarla.
 
-Capítulo 25. Ventanas de preservación paleobiológica en Marte
+Capítulo 26. Ventanas de preservación paleobiológica en Marte
 
 ¿Dónde conviene buscar huellas de vida en un planeta entero? David C. Fernández-Remolar y coautores mapean ventanas de preservación (contextos rocosos que retienen trazas biológicas) en el registro geológico marciano según mineralogía orbital e in situ.
 
 Marte albergó hidrología activa en eras pasadas: deltas, sistemas fluviales y lacustres. Los terrenos noaquianos (>~3,8 Ga) concentran filosilicatos en estratos arcaicos. En el Hesperiano (3,8–3,0 Ga) predominan sulfatos ferríferos. Son ambientes distintos para trazas paleobiológicas.
 
-Integrar geomorfología, mineralogía y geoquímica define dónde buscar texturas organosedimentarias, quimiofósiles o moléculas orgánicas preservables.
+Por eso, integrar geomorfología, mineralogía y geoquímica define dónde buscar texturas organosedimentarias, quimiofósiles o moléculas orgánicas preservables.
 
 Idea clave: No buscar vida en Marte genérico: buscar la ventana mineralógica y temporal correcta.
 
@@ -408,7 +410,7 @@ Año 1965. Penzias y Wilson detectan la radiación cósmica de fondo.
 
 Año 1996. Controversia ALH84001: posibles biosignaturas en meteorito marciano.
 
-Año 2004–2005. Detección de metano en atmósfera marciana; impulso a analogos de cold seeps.
+Año 2004–2005. Detección de metano en atmósfera marciana; impulso a análogos de filtraciones de metano.
 
 Año 2009. Publicación del volumen From Fossils to Astrobiology (Springer COLE 12).
 

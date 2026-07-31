@@ -8,7 +8,7 @@ Leer y modular circuitos cerebrales ya no pertenece a la ficción, sino al labor
 
 Comprender la conciencia puede ser el proyecto más transformador y más delicado de nuestra especie.
 
-Sin ética, la neurotecnología puede vigilar y manipular; con ética, puede curar y liberar.
+Por eso, sin ética, la neurotecnología puede vigilar y manipular; con ética, puede curar y liberar.
 
 La próxima revolución científica medirá menos kilómetros y más conexiones sinápticas.
 
@@ -94,7 +94,7 @@ Capítulo cuatro. Telequinesis: mente sobre materia
 
 El caso de Cathy Hutchinson usó BrainGate (interfaz invasiva que traduce intención motora en señales robóticas). Una persona tetrapléjica pudo guiar un brazo robótico y beber por sí misma.
 
-En paralelo, el neurocientífico Miguel Nicolelis conectó cerebros y máquinas en tiempo real. Exploró redes cerebro-a-cerebro. El horizonte incluye exoesqueletos (estructuras externas que amplifican o reemplazan movimiento) y prótesis con retroalimentación sensorial.
+A partir de ahí, el neurocientífico Miguel Nicolelis conectó cerebros y máquinas en tiempo real. Exploró redes cerebro-a-cerebro. El horizonte incluye exoesqueletos (estructuras externas que amplifican o reemplazan movimiento) y prótesis con retroalimentación sensorial.
 
 Kaku extiende la idea a la materia programable (materiales que cambian forma bajo control computacional). La intención mental podría gobernar entornos adaptativos, desde rehabilitación hasta exploración peligrosa.
 
@@ -380,7 +380,7 @@ Año 2010-2013. Experimentos de Gallant y otros grupos reconstruyen imágenes y 
 
 Año 2012. BrainGate populariza casos clínicos de control robótico por pacientes con parálisis severa.
 
-Año 2013. Se anuncian BRAIN Initiative (EE. UU.) y Human Brain Project (UE) como programas a gran escala.
+Año 2013. EE. UU. y la UE lanzan megaproyectos de cartografía cerebral: la Iniciativa BRAIN y el Proyecto Cerebro Humano.
 
 Año 2014. Publicación de *The Future of the Mind* y síntesis pública del nuevo paradigma neurotecnológico.
 

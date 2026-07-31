@@ -4,9 +4,9 @@ La idea central
 
 Aprender es ajustar modelos internos jerárquicos minimizando error, sobre un cerebro ya estructurado al nacer.
 
-La escuela recicla circuitos evolutivos hacia cultura simbólica; las máquinas aún no igualan nuestra abstracción ni eficiencia.
+Por eso, la escuela recicla circuitos evolutivos hacia cultura simbólica; las máquinas aún no igualan nuestra abstracción ni eficiencia.
 
-Atención, compromiso activo, feedback correctivo y consolidación —incluido el sueño— son los cuatro pilares de toda enseñanza eficaz.
+Atención, compromiso activo, retroalimentación correctiva y consolidación —incluido el sueño— son los cuatro pilares de toda enseñanza eficaz.
 
 Negar la ciencia del aprendizaje perjudica a millones de niños.
 
@@ -128,7 +128,7 @@ Capítulo seis. Recicla tu cerebro
 
 ¿Cómo encaja la lectura o las matemáticas en un cerebro evolutivo? Los adultos analfabetos difieren en memoria verbal, reconocimiento de formas y espejos. Leer mejora la memoria, no la arruina: Platón se equivocaba. La escolarización transforma el sentido numérico. La recta numérica exacta y n+1 son logros culturales, no innatos.
 
-La hipótesis del reciclaje neuronal (cada invención cultural busca un nicho en circuitos ya existentes) explica cómo el alfabeto reconvierte áreas evolutivas. Lo mismo ocurre con las cifras. Esos circuitos deben ser lo bastante similares y flexibles. Leer recicla áreas visuales hacia el área de forma visual de palabras (región que reconoce letras y palabras escritas). Calcular recicla circuitos de cantidad.
+Por eso, la hipótesis del reciclaje neuronal (cada invención cultural busca un nicho en circuitos ya existentes) explica cómo el alfabeto reconvierte áreas evolutivas. Lo mismo ocurre con las cifras. Esos circuitos deben ser lo bastante similares y flexibles. Leer recicla áreas visuales hacia el área de forma visual de palabras (región que reconoce letras y palabras escritas). Calcular recicla circuitos de cantidad.
 
 A diferencia de la exaptación evolutiva (adaptación genética lenta), el reciclaje ocurre en días o años dentro de un individuo. No cualquier circuito sirve para cualquier cultura. El escritor Vladimir Nabokov subrayaba lo milagroso de que signos escritos contengan mundos enteros.
 
@@ -142,7 +142,7 @@ Capítulo siete. Atención
 
 En 2014, Yoshua Bengio y Kyunghyun Cho integraron atención en traducción automática. La IA ilumina píxeles o palabras relevantes. En humanos, la atención consciente amplifica disparos hasta la corteza prefrontal. Eso favorece potenciación a largo plazo.
 
-Lo no atendido queda confinado a áreas sensoriales tempranas. Los sistemas de alerta químicos pueden reabrir plasticidad, como mostraron los experimentos de Michael Merzenich en ratones. Una pasión temprana puede invadir mapas corticales vecinos. El docente debe capturar y guiar la atención, eliminando distracciones innecesarias.
+Pero lo no atendido queda confinado a áreas sensoriales tempranas. Por eso, los sistemas de alerta químicos pueden reabrir plasticidad, como mostraron los experimentos de Michael Merzenich en ratones. Una pasión temprana puede invadir mapas corticales vecinos. El docente debe capturar y guiar la atención, eliminando distracciones innecesarias.
 
 Idea clave: Sin atención correcta no hay aprendizaje profundo: la información debe amplificarse antes de consolidarse.
 
@@ -162,11 +162,11 @@ En el experimento de profundidad de procesamiento (cuán hondo se analiza el sig
 
 ~75 %. Recuerdo si juzgan si es animal
 
-Henry Roediger mostró que la dificultad deseable mejora la retención. La pasividad deja huellas mínimas, pero hace falta currículo estructurado que guíe la exploración.
+Además, Henry Roediger mostró que la dificultad deseable mejora la retención. Por eso, la pasividad deja huellas mínimas, pero hace falta currículo estructurado que guíe la exploración.
 
 Idea clave: El cerebro aprende formulando modelos y sometiéndolos a prueba activa, no acumulando datos pasivamente.
 
-Las predicciones activas solo sirven si el error las corrige con feedback adecuado.
+Las predicciones activas solo sirven si el error las corrige con retroalimentación adecuada.
 
 Capítulo nueve. Retroalimentación del error
 
@@ -174,11 +174,11 @@ Capítulo nueve. Retroalimentación del error
 
 En 1972, Robert Rescorla y Allan Wagner mostraron que el cerebro aprende solo si hay error de predicción (sorpresa ante un resultado inesperado). Los organismos condicionan cuando los eventos violan expectativas. La sorpresa impulsa el condicionamiento pavloviano y las reglas delta del aprendizaje automático.
 
-Los cuatro pilares se entrelazan en un ciclo. La atención selecciona, el compromiso activo genera predicciones y el error las corrige. Castigar errores con notas o estigma destruye plasticidad emocional. El feedback debe ser correctivo, no punitivo.
+Por eso, los cuatro pilares se entrelazan en un ciclo. La atención selecciona, el compromiso activo genera predicciones y el error las corrige. Pero castigar errores con notas o estigma destruye plasticidad emocional: la retroalimentación debe ser correctiva, no punitiva.
 
 Cita: Pensar es pasar de un error al siguiente. — Alain, Propos sur l'éducation (1932)
 
-Idea clave: La calidad del feedback correctivo, no la humillación, determina la velocidad de aprendizaje.
+Idea clave: La calidad de la retroalimentación correctiva, no la humillación, determina la velocidad de aprendizaje.
 
 Corregido el modelo, falta consolidarlo, es decir automatizar lo aprendido y dejarlo fijo con el tiempo.
 
@@ -190,7 +190,7 @@ Lo consciente y lento se automatiza. Los lectores expertos liberan corteza parie
 
 Los experimentos de Jenkins y Dallenbach (1924) muestran que el sueño (estado en el que el cerebro repasa lo aprendido) consolida memoria. Distribuir el estudio y dormir multiplica la retención. De noche el cerebro repasa modelos en bucle.
 
-Según Dehaene, la mejora nocturna puede alcanzar un factor de 10 a 100. Consolidar no es trivializar: libera corteza para razonamiento superior.
+Según Dehaene, la mejora nocturna puede alcanzar un factor de 10 a 100. Por eso, consolidar no es trivializar: libera corteza para razonamiento superior.
 
 ~3 años. Pasar de lectura serial a paralela
 

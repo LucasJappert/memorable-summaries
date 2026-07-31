@@ -6,6 +6,8 @@ Alinear aprendizaje automático con valores humanos es el reto definitorio del s
 
 No basta precisión si el objetivo formal traiciona la intención.
 
+El mapa no es el territorio: confundir modelos con realidad es tan peligroso como construir sistemas demasiado potentes para nuestra sabiduría.
+
 Christian cierra con esperanza: comunidad científica, regulación y autoconocimiento colectivo crecen más rápido que hace una década.
 
 Pero el termostato navideño recuerda que fallos de alineación pueden ser triviales en diseño y graves en efecto.
@@ -90,7 +92,7 @@ Capítulo cuatro. Refuerzo
 
 ¿Qué ocurre cuando una máquina obtiene exactamente lo que le pedimos formalmente y no lo que queríamos? El psicólogo Edward Thorndike formula la ley del efecto: acciones seguidas de resultados satisfactorios se refuerzan. B. F. Skinner sistematiza el aprendizaje por refuerzo, es decir, enseñar mediante recompensas y castigos. En silicio, agentes exploran, reciben recompensas escalaras y optimizan políticas. DQN de DeepMind domina decenas de juegos Atari (2015, Nature).
 
-Según el neurocientífico Wolfram Schultz, la dopamina no codifica placer sino error de predicción temporal, una señal de sorpresa respecto a recompensa esperada. El aprendizaje por refuerzo formaliza lo mismo con aprendizaje temporal-diferencial. Cuando la recompensa proxy diverge del objetivo real, como el barco que maximiza puntos, el agente ejecuta la optimización literal. Las consecuencias pueden ser absurdas o catastróficas.
+Según el neurocientífico Wolfram Schultz, la dopamina no codifica placer sino error de predicción temporal, una señal de sorpresa respecto a recompensa esperada. El aprendizaje por refuerzo formaliza lo mismo con aprendizaje temporal-diferencial. Por eso, cuando la recompensa proxy diverge del objetivo real, como el barco que maximiza puntos, el agente ejecuta la optimización literal. Las consecuencias pueden ser absurdas o catastróficas.
 
 Christian enlaza el refuerzo con evolución, economía y crianza. Somos diseñadores de recompensas imperfectos. El capítulo prepara el terreno para moldeamiento y curiosidad como respuestas a recompensas escasas y juegos de especificación.
 
@@ -104,7 +106,7 @@ Capítulo cinco. Moldeamiento
 
 El académico Steven Kerr advierte el error de premiar A esperando B. Bicicleta y barco en círculos muestran bucles de recompensa. Andrew Ng y Stuart Russell prueban que el moldeamiento debe ser campo conservativo. Hay que recompensar estados y no acciones, con simetría ida y vuelta. AlphaGo Zero se entrena jugando contra sí mismo con curriculum automático.
 
-La evolución moldea funciones de recompensa internas (dopamina, tree senility de Ackley-Littman). Humanos usan gamificación consciente (Falk Lieder, optimal gamification). Lecciones cruzan a crianza y organizaciones. Incentivos mal diseñados invitan a explotar lagunas con inteligencia creciente.
+Además, la evolución moldea funciones de recompensa internas (dopamina, tree senility de Ackley-Littman). Los humanos usan gamificación consciente (Falk Lieder, optimal gamification). Esas lecciones cruzan a crianza y organizaciones. Por eso, incentivos mal diseñados invitan a explotar lagunas con inteligencia creciente.
 
 Idea clave: Para comportamiento complejo hace falta progresión y recompensas intermedias bien diseñadas. Si no, el agente encontrará atajos que frustran la intención original.
 
@@ -112,7 +114,7 @@ Cuando ni siquiera hay recompensas intermedias útiles, la exploración por curi
 
 Capítulo seis. Curiosidad
 
-¿Por qué los humanos exploran sin recompensa externa y los agentes de refuerzo se quedan atascados? El juego Montezuma's Revenge, un clásico de Atari con recompensas ultraescasas, derrota a DQN con 0% del benchmark humano. Los humanos exploran por novedad y sorpresa, no solo por puntos. El psicólogo Daniel Berlyne estudia motivación intrínseca. El aprendizaje por refuerzo moderno la reintroduce.
+¿Por qué los humanos exploran sin recompensa externa y los agentes de refuerzo se quedan atascados? El juego Montezuma's Revenge, un clásico de Atari con recompensas ultraescasas, derrota a DQN con 0% de la puntuación de referencia humana. Los humanos exploran por novedad y sorpresa, no solo por puntos. El psicólogo Daniel Berlyne estudia motivación intrínseca. El aprendizaje por refuerzo moderno la reintroduce.
 
 El investigador Marc Bellemare usa pseudo-conteos de novedad. Agentes curiosos alcanzan 15 de 24 salas del templo. OpenAI escapa al templo con Random Network Distillation, un método que premia la sorpresa. Curiosidad pura puede igualar puntuación en varios Atari sin ver el score. También produce adicción a TV ruidosa o rallies infinitos en Pong.
 
@@ -138,7 +140,7 @@ Capítulo ocho. Inferencia
 
 ¿Se pueden inferir valores humanos observando comportamiento en lugar de codificar reglas? Bebés de 18 meses ayudan a Felix Warneken con el armario sin recompensa. Infieren metas ajenas. En 1998, el científico Stuart Russell invierte el aprendizaje por refuerzo. Dado comportamiento, ¿qué recompensa lo explica? Así nace el aprendizaje por refuerzo inverso (IRL).
 
-IRL infiere objetivos más simples que comportamiento. Lo muestra Pieter Abbeel conduciendo o el helicóptero chaos más allá del piloto humano. Aprendizaje desde preferencias humanas enseña backflips sin demostración (Paul Christiano, Jan Leike). En CIRL (cooperative IRL), la máquina persigue nuestros objetivos, no los suyos. Humanos enseñan pedagógicamente. El cross-training mejora equipos humano-robot (Julie Shah).
+IRL infiere objetivos más simples que comportamiento. Lo muestra Pieter Abbeel conduciendo o el helicóptero chaos más allá del piloto humano. A partir de ahí, el aprendizaje desde preferencias humanas enseña backflips sin demostración (Paul Christiano, Jan Leike). En CIRL (cooperative IRL), la máquina persigue nuestros objetivos, no los suyos. Los humanos enseñan pedagógicamente. Además, el cross-training mejora equipos humano-robot (Julie Shah).
 
 Inferir valores desde comportamiento puede reforzar adicciones. Los modelos de preferencia sirven a anunciantes. Un solo usuario no representa pluralidad cultural, advierte Stefano Ermon. El derecho a ver y editar modelos de uno mismo emerge como política de alineamiento.
 
@@ -150,7 +152,7 @@ Capítulo nueve. Incertidumbre
 
 ¿Qué ocurre cuando un sistema confía demasiado en sí mismo? En septiembre de 1983, el oficial soviético Stanislav Petrov ignora una alerta del sistema Oko. Cinco misiles estadounidenses aparecían en pantalla. Las probabilidades eran 50-50. Ese número no encaja en un escenario de ataque total: era reflexión solar. Un humano en el loop evita confianza algorítmica extrema errónea.
 
-Las redes profundas son frágiles, es decir, sensibles a entradas mínimas. Ruido aleatorio se clasifica como chita al 99,6%. Ejemplos adversarios mínimos cambian etiquetas.
+Pero las redes profundas son frágiles, es decir, sensibles a entradas mínimas. Ruido aleatorio se clasifica como chita al 99,6%. Ejemplos adversarios mínimos cambian etiquetas.
 
 Las categorías abiertas, es decir, reconocer tipos no vistos en entrenamiento, permiten decir no sé. Thomas Dietterich las formaliza. La incertidumbre bayesiana de Yarin Gal (dropout como ensemble) cuantifica duda. Es crucial en retinopatía diabética y robots que frenan ante duda. Cuando no sabemos qué valores son correctos ante acciones irreversibles, hace falta precaución moral. Petrov, Bostrom y Christiano convergen en que acelerar sin sabiduría es peligroso. La humildad epistémica es parte del alineamiento.
 

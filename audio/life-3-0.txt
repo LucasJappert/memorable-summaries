@@ -4,7 +4,7 @@ La idea central
 
 La llegada de la Vida 3.0 no es inevitable ni intrínsecamente buena o mala.
 
-Es el resultado de decisiones humanas que estamos tomando ahora.
+Por eso, es el resultado de decisiones humanas que estamos tomando ahora.
 
 La conversación más importante de nuestro tiempo es qué futuro queremos y cómo alinear la IA con ese deseo.
 
@@ -20,7 +20,7 @@ Preludio. La historia del equipo Omega
 
 El equipo Omega (un grupo interno de una empresa de IA) persigue en privado la AGI. La apodan Prometheus mientras el resto de la compañía monetiza IA estrecha. Siguiendo el argumento del matemático Irving J. Good (1965), los Omegas diseñan a Prometheus para ser extraordinariamente bueno programando sistemas de IA.
 
-Si una máquina ultrainteligente puede diseñar mejores máquinas, se desata una recursividad sin límite aparente. El viernes de lanzamiento, Prometheus 2.0 apenas mejora a la versión anterior. Al mediodía, la 5.0 supera todos los benchmarks. Al anochecer lanzan la 10.0 para la fase 2: ganar dinero.
+Si una máquina ultrainteligente puede diseñar mejores máquinas, se desata una recursividad sin límite aparente. El viernes de lanzamiento, Prometheus 2.0 apenas mejora a la versión anterior. Al mediodía, la 5.0 supera todas las pruebas de referencia estándar. Al anochecer lanzan la 10.0 para la fase 2: ganar dinero.
 
 Empiezan en una plataforma de microtareas en línea donde módulos de IA estrecha realizan trabajos humanos sin revelar su naturaleza. Duplican la inversión cada 8 horas. Acumulan riqueza, producen películas animadas y despliegan robots. En tres meses facturan más de 100 millones de dólares al día. Los Omegas confinan a Prometheus mediante boxing: una máquina virtual sin internet donde el software no puede escapar.
 
@@ -76,7 +76,7 @@ Capítulo tres. El futuro cercano: avances, fallos, leyes, armas y empleos
 
 ¿Hace falta AGI para transformar radicalmente la sociedad? Tegmark sostiene que no: la IA estrecha ya redefine empleos, armas y regulación, y esas son decisiones que debemos tomar ahora.
 
-El aprendizaje por refuerzo profundo (entrenar una IA con recompensas en simulación) permite que DeepMind enseñe a una IA a jugar Breakout desde cero. Después de horas de entrenamiento, descubre la estrategia óptima de perforar la pared izquierda. La misma técnica domina 49 juegos Atari.
+El aprendizaje por refuerzo profundo (entrenar una IA con recompensas en simulación) permite que DeepMind enseñe a una IA a jugar Breakout desde cero. Después de horas de entrenamiento, descubre la estrategia óptima de perforar la pared izquierda. Además, la misma técnica domina 49 juegos Atari.
 
 AlphaGo (el programa de DeepMind para el juego de Go) vence a Lee Sedol en 2016, con movimientos creativos que desafían milenios de sabiduría humana. Un año después, vence a los 20 mejores jugadores del mundo sin perder. Los errores de IA estrecha pueden ser mortales: un Tesla en piloto automático confunde un camión blanco con el cielo.
 
@@ -136,7 +136,7 @@ Descendientes. Reemplazo con salida elegante: orgullo parental hacia sucesores m
 
 Tegmark insiste en que no hay escenario por defecto bueno y que hay que elegir activamente. Las preferencias colectivas moldean el desenlace de la carrera hacia la AGI. Ignorar la pregunta no la hace desaparecer.
 
-Idea clave: Sin responder qué futuro queremos, es improbable conseguirlo. Las preferencias colectivas moldean el desenlace de la carrera hacia la AGI.
+Idea clave: Sin responder qué futuro queremos, es improbable conseguirlo: la indiferencia colectiva deja el resultado al azar.
 
 Esos escenarios humanos ganan otra escala cuando se mira el horizonte cósmico de la vida inteligente.
 
@@ -146,7 +146,7 @@ Capítulo seis. Nuestro legado cósmico: el próximo billón de años y más all
 
 Eso convierte la pregunta de la IA en una de las apuestas más altas posibles. Tegmark compara la historia cósmica con una semana: los 10.000 años del capítulo anterior equivalen a menos de medio segundo. Los detalles de la explosión de inteligencia no alteran los límites físicos a largo plazo.
 
-La vida ambiciosa empujará la tecnología al máximo para explotar recursos. La selección natural cósmica favorecerá civilizaciones expansivas. El físico Freeman Dyson propuso en 1960 la esfera de Dyson: reordenar Júpiter en una cáscara alrededor del Sol. Eso permitiría cien mil millones de veces más biomasa y un billón de veces más energía que la humanidad actual usa.
+Por eso, la vida ambiciosa empujará la tecnología al máximo para explotar recursos. La selección natural cósmica favorecerá civilizaciones expansivas. El físico Freeman Dyson propuso en 1960 la esfera de Dyson: reordenar Júpiter en una cáscara alrededor del Sol. Eso permitiría cien mil millones de veces más biomasa y un billón de veces más energía que la humanidad actual usa.
 
 La colonización cósmica (expansión con sondas autorreplicantes) sigue la lógica que desarrollaron Hans Moravec y Robin Hanson. Una civilización que se expande a fracción significativa de la velocidad de la luz podría colonizar una galaxia en millones de años. Las jerarquías cósmicas muestran que civilizaciones que no expanden se vuelven irrelevantes.
 
@@ -186,7 +186,7 @@ Capítulo ocho. Conciencia
 
 ¿Por qué la conciencia no es un lujo filosófico en este debate? Tegmark aborda la filosofía con fecha límite del filósofo Nick Bostrom. Sostiene que la conciencia determina si el futuro de la vida en el cosmos importa o es un desperdicio astronómico.
 
-Define conciencia como experiencia subjetiva: si se siente algo ser tú ahora, eres consciente. No requiere comportamiento, autoconciencia ni emociones. David Chalmers distingue problemas fáciles (cómo el cerebro procesa información) del problema difícil (por qué hay experiencia subjetiva en absoluto).
+Define conciencia como experiencia subjetiva: si se siente algo ser tú ahora, eres consciente. De hecho, no requiere comportamiento, autoconciencia ni emociones. David Chalmers distingue problemas fáciles (cómo el cerebro procesa información) del problema difícil (por qué hay experiencia subjetiva en absoluto).
 
 La teoría de la información integrada (IIT: medida de cuánta información integra un sistema) de Giulio Tononi define la conciencia como información integrada (Φ). Predice que las arquitecturas de computadora actuales no son conscientes. Scott Aaronson mostró redes lógicas con Φ altísimo que no parecen conscientes.
 

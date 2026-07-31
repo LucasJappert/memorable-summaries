@@ -34,7 +34,7 @@ Capítulo uno. Introducción
 
 El ejemplo de la mariposa monarca resume la dificultad. Migra hasta 3.000 millas hacia zonas de invernada precisas. El ciclo completo puede tomar 3–5 generaciones. La ruta no puede explicarse solo por aprendizaje individual.
 
-Hay información de desarrollo ya incorporada antes del aprendizaje. El autor estructura el libro en diez seminarios ficticios. Participan un neurocientífico, una genetista del desarrollo, un ingeniero de robots y un investigador de IA.
+Por eso, hay información de desarrollo ya incorporada antes del aprendizaje. El autor estructura el libro en diez seminarios ficticios. Participan un neurocientífico, una genetista del desarrollo, un ingeniero de robots y un investigador de IA.
 
 Un seminario histórico recorre las dicotomías que enmarcan el debate. Aparecen el procesamiento simbólico frente al conexionismo. Roger Sperry, neurocientífico pionero, reclamó cableado específico frente a redes aleatorias aprendidas.
 
@@ -86,7 +86,7 @@ Mecanismos como la señalización Notch permiten romper simetrías mediante inhi
 
 Esto se conecta con el concepto de penetrancia (grado en que una mutación se expresa en el fenotipo). Una mutación puede no manifestarse igual en todos los individuos por dependencia de contexto, umbrales y procesos estocásticos.
 
-La información relevante no es absoluta. Depende del nivel donde se evalúa el fenotipo.
+De ahí que la información relevante no sea absoluta: depende del nivel donde se evalúa el fenotipo.
 
 Idea clave: La precisión biológica suele surgir de ruido más selección, no de control perfecto sin variación.
 
@@ -122,9 +122,7 @@ Seymour Benzer, genetista pionero, fundó la neurogenética conductual en Drosop
 
 Aparecen dos clases de mutaciones. Casos como period y timeless (genes del reloj circadiano molecular) enlazan mecanismo y conducta directamente. Otros, como mutaciones en enzimas metabólicas o en el factor fruitless, alteran conducta a través de cascadas de crecimiento impredecibles.
 
-La evolución selecciona la salida fenotípica y no predice la trayectoria interna. Stephen Wolfram, investigador de sistemas complejos, subestimó esto al concluir que la evolución no puede reprogramar sistemas tan complejos como rule 110. La selección no necesita predecir.
-
-Solo evalúa el resultado tras el crecimiento completo.
+La evolución selecciona la salida fenotípica y no predice la trayectoria interna. Stephen Wolfram, investigador de sistemas complejos, subestimó esto al concluir que la evolución no puede reprogramar sistemas tan complejos como rule 110. Por eso, la selección no necesita predecir el camino interno. Solo evalúa el resultado tras el crecimiento completo.
 
 Idea clave: Una mutación puede reprogramar conducta sin que su función molecular explique linealmente esa conducta.
 
@@ -174,7 +172,7 @@ Capítulo ocho. Autoensamblaje vs construir y entrenar
 
 La IA dominante usa la primera. El cerebro biológico combina crecimiento, poda, actividad y aprendizaje. Las ANN tienen topología prefijada desde el perceptrón de Frank Rosenblatt (1958) hasta las redes convolucionales actuales. Sus conexiones iniciales suelen ser aleatorias.
 
-El cerebro biológico nunca arranca de ese modo. El número de neuronas, los tipos celulares y las conexiones cambian mientras aprende. Una red de clasificación de imágenes con 650.000 neuronas supera a una mosca en visión.
+Por el contrario, el cerebro biológico nunca arranca de ese modo: el número de neuronas, los tipos celulares y las conexiones cambian mientras aprende. Una red de clasificación de imágenes con 650.000 neuronas supera a una mosca en visión.
 
 El cerebro de Drosophila tiene ~100.000 neuronas e integra vuelo, cortejo, metabolismo y más. La brecha entre IA de tarea única e inteligencia de insecto es mayor que entre mosca y humano.
 
@@ -192,7 +190,7 @@ Capítulo nueve. Fronteras finales
 
 Sobre whole brain emulation (copia computacional del cerebro entero), Hiesinger advierte que cualquier simulación depende de atajos de nivel. Cuanto más se recorta detalle dinámico, más se restringe qué clase de inteligencia puede emerger o preservarse.
 
-Las interfaces corticales actuales estimulan regiones, no células específicas. La integración requiere coaprendizaje en el tiempo, no solo hardware. Crecer juntos (desarrollo) y aprender juntos (función) son procesos distintos que no se pueden acortar arbitrariamente.
+Por eso, las interfaces corticales actuales estimulan regiones, no células específicas. La integración requiere coaprendizaje en el tiempo, no solo hardware. Crecer juntos (desarrollo) y aprender juntos (función) son procesos distintos que no se pueden acortar arbitrariamente.
 
 Hiesinger explora el sesgo cognitivo (distorsión sistemática del juicio por la historia de aprendizaje). Los sesgos no son solo fallas. Son resultado natural de un sistema que aprende secuencialmente y prioriza coherencia con su historia.
 

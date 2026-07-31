@@ -8,6 +8,8 @@ Paley tenía razón en la pregunta, pero se equivocó en la respuesta.
 
 La selección natural es el relojero ciego: sin mente, sin plan, sin visión.
 
+Acumula pequeños cambios aleatorios filtrados por supervivencia y reproducción
+
 Ninguna otra teoría conocida explica, en principio, la complejidad adaptativa.
 
 El misterio de nuestra existencia está resuelto, aunque sigamos añadiendo notas a pie de página.
@@ -84,7 +86,7 @@ Capítulo cuatro. Trazando rutas por el espacio animal
 
 ¿Puede un ojo complejo surgir por pasos graduales? Muchos dudan de ello. Dawkins reformula el problema con una serie de preguntas sobre el espacio animal (el espacio de todas las formas posibles de cuerpos).
 
-¿Pudo el ojo humano surgir de la nada en un paso? No: las probabilidades son astronómicas. ¿De algo ligeramente distinto, X? Sí, si X es suficientemente parecido. Repitiendo la pregunta con pasos cada vez menores, se traza una cadena de Xs desde sin ojo hasta el ojo moderno.
+¿Pudo el ojo humano surgir de la nada en un paso? No: las probabilidades son astronómicas. ¿De algo ligeramente distinto, X? Sí, si X es suficientemente parecido. Por eso, repitiendo la pregunta con pasos cada vez menores, se traza una cadena de Xs desde sin ojo hasta el ojo moderno.
 
 Con suficientes generaciones, medidas en miles de millones, la transición es plausible. Cada mutación modifica un proceso embriológico existente. Cuanto menor el cambio, más plausible embriológicamente. Y cada intermediario debe funcionar lo bastante bien como para ayudar a sobrevivir y reproducirse.
 
@@ -102,7 +104,7 @@ Capítulo cinco. El poder y los archivos
 
 ¿Qué hay realmente en el corazón de un ser vivo? Llueve ADN en el jardín del autor: semillas de sauce flotan por el canal de Oxford. Lo que importa no es la celulosa del paracaídas, sino las instrucciones digitales para construir sauces que las esparcen.
 
-La vieja noción de protoplasma (sustancia viva misteriosa e indivisible) está muerta como el flogisto. Lo especial de la vida no es la sustancia, sino la información: instrucciones digitales en un medio de almacenamiento con muchas posiciones discretas. Los genes son tecnología de la información.
+La vieja noción de protoplasma (sustancia viva misteriosa e indivisible) está muerta como el flogisto. De ahí que lo especial de la vida no sea la sustancia, sino la información. Son instrucciones digitales en un medio de almacenamiento con muchas posiciones discretas. Los genes son tecnología de la información.
 
 Gregor Mendel, el monje botánico, descubrió la herencia digital: no mezclamos rasgos de padres, los recibimos en partículas discretas. Fleeming Jenkin argumentó en 1867 que la herencia mezcladora, creída en tiempos de Darwin, casi descartaba la selección natural. La genética particulada salvó el darwinismo moderno.
 
@@ -116,7 +118,7 @@ Capítulo seis. Orígenes y milagros
 
 ¿Cuánta suerte puede postularse en el origen de la vida? Los milagros son sucesos naturales en el extremo improbable del espectro. Cuánto azar podemos postular depende del tiempo y las oportunidades disponibles. La selección acumulativa convierte sucesos aceptablemente afortunados en un producto final que parece imposiblemente milagroso.
 
-La selección acumulativa necesitó arrancar con un primer paso de azar puro. Ahí está la paradoja del origen de la vida: la replicación exige maquinaria compleja (ADN, proteínas, RNA). Y la única vía conocida hacia tal complejidad es la selección acumulativa.
+La selección acumulativa necesitó arrancar con un primer paso de azar puro. Ahí está la paradoja del origen de la vida: la replicación exige maquinaria compleja (ADN, proteínas, RNA). Pero la única vía conocida hacia tal complejidad es la selección acumulativa.
 
 Invocar un diseñador sobrenatural no explica nada: un Dios capaz de diseñar esa maquinaria sería al menos tan complejo como ella. Cuánta suerte máxima podemos permitirnos en un solo paso es una pregunta legítima. El mono que escribe Methinks it is like a weasel de un golpe (~1040) es demasiado.
 
@@ -136,7 +138,7 @@ Capítulo siete. Evolución constructiva
 
 ¿La selección natural solo elimina lo defectuoso? Algunos ven la selección natural solo como fuerza negativa, comparable al escultor que quita mármol. La mutación (cambio aleatorio en el ADN) introduce variación nueva. Juntas pueden construir complejidad en dos vías.
 
-Un gen solo tiene efecto sobre una estructura ya existente. Desde el punto de vista de cada gen, el ambiente más importante son los otros genes de la población. Genes que colaboran en vías bioquímicas o en equipos evolucionan juntos. Un equipo dominante resiste ser desplazado por alternativas equivalentes.
+Un gen solo tiene efecto sobre una estructura ya existente. Por eso, desde el punto de vista de cada gen, el ambiente más importante son los otros genes de la población. Genes que colaboran en vías bioquímicas o en equipos evolucionan juntos. Un equipo dominante resiste ser desplazado por alternativas equivalentes.
 
 Los genotipos coadaptados (conjuntos de genes que funcionan bien juntos) explican por qué dientes de carnívoro van con intestino carnívoro. Las carreras armamentísticas (escalada evolutiva entre rivales) escalan la complejidad como una espiral. Cada mejora de un bando selecciona contramedidas en el otro.
 
@@ -168,7 +170,7 @@ Capítulo nueve. Desinflando el punctuationismo
 
 ¿Es el punctuationismo un rival del darwinismo? Dawkins parodia a historiadores punctuationistas bíblicos que acusan a los gradualistas de creer que los israelitas avanzaban 24 yardas al día sin parar. La parábola satiriza el punctuationismo evolutivo: no es tan revolucionario ni tan opuesto a Darwin como su publicidad sugiere.
 
-Los punctuationistas, muchos paleontólogos, enfatizan estasis (periodos largos sin cambio visible en el registro fósil) y cambios rápidos en eventos de especiación. Los gradualistas de paja avanzarían a ritmo constante generación tras generación. En realidad, casi todos los darwinianos son gradualistas en el sentido de que no hay saltos macromutacionales milagrosos.
+Los punctuationistas, muchos paleontólogos, enfatizan estasis (periodos largos sin cambio visible en el registro fósil) y cambios rápidos en eventos de especiación. Los gradualistas de paja avanzarían a ritmo constante generación tras generación. En cambio, casi todos los darwinianos son gradualistas en el sentido de que no hay saltos macromutacionales milagrosos.
 
 El registro fósil es incompleto por naturaleza. La datación radiométrica (carbono-14, potasio-argón, uranio-plomo) permite pruebas temporales. Un fósil humano auténtico en rocas de 500 millones de años destruiría la evolución: prueba de que la teoría es falsable. La controversia real es menor de lo que venden las revistas.
 

@@ -68,7 +68,7 @@ Capítulo tres. La naturaleza de la ciencia normal
 
 El paradigma rara vez se replica como un molde gramatical. Funciona más como un precedente judicial que se articula bajo condiciones nuevas. Al inicio promete éxito en casos seleccionados. La ciencia normal actualiza esa promesa precisando hechos y acercando datos a la teoría.
 
-Kuhn distingue tres focos empíricos principales. Uno es medir hechos especialmente reveladores, como posiciones estelares o pesos combinantes. Otro es contrastar predicción y observación, como en el paralaje o la máquina de Atwood. Un tercero es articular la teoría mediante constantes, leyes cuantitativas o resolución de ambigüedades.
+Por eso Kuhn distingue tres focos empíricos principales. Uno es medir hechos especialmente reveladores, como posiciones estelares o pesos combinantes. Otro es contrastar predicción y observación, como en el paralaje o la máquina de Atwood. Un tercero es articular la teoría mediante constantes, leyes cuantitativas o resolución de ambigüedades.
 
 En el plano teórico, buena parte del trabajo desarrolla las consecuencias matemáticas del paradigma. No busca inventar teorías nuevas. Después del Principia, generaciones europeas refinan la mecánica celeste. Esa visión estrecha concentra talento donde el paradigma asegura solución.
 
@@ -96,7 +96,7 @@ Capítulo cinco. La prioridad de los paradigmas
 
 El historiador encuentra paradigmas en ejemplos recurrentes de libros, cursos y laboratorio, pero extraer reglas explícitas compartidas es frustrante. Científicos eminentes pueden coincidir en un logro paradigmático y discrepar sobre su interpretación abstracta. Aun así, la ciencia normal funciona.
 
-Según Wittgenstein, no hay rasgos necesarios y suficientes para juego o silla. Hay parecidos de familia. Igual ocurre con problemas y técnicas de una tradición. Los científicos aprenden force o mass resolviendo problemas modelo. Por eso el paradigma concreto es anterior y más vinculante que las reglas.
+Según Wittgenstein, no hay rasgos necesarios y suficientes para juego o silla. Hay parecidos de familia. Igual ocurre con problemas y técnicas de una tradición. Los científicos aprenden qué es la fuerza o la masa resolviendo problemas modelo. Por eso el paradigma concreto es anterior y más vinculante que las reglas.
 
 Cuando el paradigma está seguro, nadie discute reglas. En pre-paradigma o crisis, los debates sobre métodos reaparecen. Un químico y un físico pueden responder distinto si un átomo de helio es molécula. Cada uno ve la pregunta desde su formación. Revoluciones pequeñas en una subspecialidad no conmocionan a toda la física.
 
@@ -220,7 +220,7 @@ Capítulo 14. Postscript (1969)
 
 ¿Qué matizó Kuhn siete años después sobre paradigma, racionalidad y revolución?
 
-Reconoce circularidad inicial entre paradigma y comunidad. Propone empezar por estructura comunitaria, especialidades de unos cien miembros o menos. Luego hallar compromisos compartidos. Introduce matriz disciplinar, es decir la constelación de valores, técnicas y exemplars de una especialidad.
+Kuhn reconoce la circularidad inicial entre paradigma y comunidad. Por eso propone empezar por la estructura comunitaria, especialidades de unos cien miembros o menos, y luego hallar compromisos compartidos. Introduce la matriz disciplinar, es decir la constelación de valores, técnicas y exemplars de una especialidad.
 
 Distingue paradigma-exemplar del sentido sociológico. Retracta parcialmente la idea de un periodo sin paradigma. Todas las escuelas tienen algo paradigmático. Cambia la naturaleza del paradigma al madurar el campo. Revoluciones pueden ser pequeñas en comunidades de unas veinticinco personas. Crisis no siempre es prerequisito absoluto.
 

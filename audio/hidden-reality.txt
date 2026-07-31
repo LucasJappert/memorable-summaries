@@ -14,7 +14,7 @@ Medir importa, pero también saber cuándo una explicación indirecta es la úni
 
 Al final, explorar lo extremo nos recuerda que la experiencia cotidiana no es juez suficiente de lo real.
 
-Prefacio. Más allá de la apariencia cotidiana
+Prefacio. Prefacio
 
 ¿Puede la experiencia cotidiana ocultar la naturaleza profunda de la realidad? Para finales del siglo XX, la física ya había mostrado que sí. Brian Greene, físico de cuerdas y divulgador, abre *The Hidden Reality* con esa lección. Anuncia un recorrido accesible hacia una posibilidad que antes parecía ciencia ficción: que nuestro universo no sea el único.
 
@@ -50,7 +50,7 @@ Capítulo dos. Gemelos sin fin
 
 ¿Puede un espacio infinito obligarnos a existir otra vez, muy lejos? Si el cosmos no tiene fin, más allá de nuestro horizonte cósmico (el límite de la luz que alcanzamos) deben existir parches iguales al nuestro.
 
-Entonces habría copias tuyas leyendo este resumen, y variantes casi iguales o radicalmente distintas.
+Por eso, en un cosmos infinito deben existir copias tuyas leyendo este resumen, junto con variantes casi iguales o radicalmente distintas.
 
 Greene repasa cosmología básica. Lemaître mostró con la relatividad general de Einstein que el universo puede expandirse. Friedmann lo formalizó matemáticamente. Hubble lo confirmó observacionalmente en 1929. El principio cosmológico (la suposición de que el cosmos es homogéneo a gran escala) simplifica el análisis.
 
@@ -120,7 +120,7 @@ Los choques entre branas paralelas, el big splat de Paul Steinhardt y colaborado
 
 Los campos flux multiplican las formas posibles del vacío. Eso abre unas ~10^500 atuendos para dimensiones extra. Agudiza el problema de selección y abre la puerta al multiverso paisaje del capítulo 6.
 
-🍞. Braneworld
+🍞. Mundo-rebanada
 
 🔄. Multiverso cíclico
 
@@ -130,7 +130,7 @@ Idea clave: Branas y dualidades revelan universos paralelos separados por dimens
 
 Si hay millones de formas posibles del vacío, la pregunta urgente pasa a ser por qué la constante cosmológica medida es tan minúscula.
 
-Capítulo seis. Nueva luz sobre una vieja constante
+Capítulo seis. Nuevo pensamiento sobre una vieja constante
 
 ¿Por qué la expansión del universo acelera con una fuerza tan débil? En 1998, supernovas tipo Ia lejanas mostraron aceleración desde hace ~7 mil millones de años. La energía oscura (energía del vacío repulsiva) domina el universo. La constante cosmológica Λ mide ~10^-123 en unidades de Planck.
 
@@ -164,7 +164,7 @@ Idea clave: Multiversos pueden ser científicos si emergen de teorías contrasta
 
 Una ruta histórica distinta al multiverso viene de la cuántica misma: si Schrödinger gobierna también a los observadores, cada medición abre ramas paralelas.
 
-Capítulo ocho. Los muchos mundos cuánticos
+Capítulo ocho. Los muchos mundos de la medición cuántica
 
 ¿Por qué la cuántica predice probabilidades pero nos muestra un solo resultado? El experimento de doble rendija muestra interferencia: cada electrón siente ambas rendijas. Max Born interpretó la onda como probabilidad, y la medición parece colapsar la onda a un resultado.
 
@@ -194,11 +194,11 @@ Idea clave: La entropía de agujeros negros escala con el área, no con el volum
 
 Si la información basta para describir un cosmos, la pregunta final es si civilizaciones avanzadas podrían crear o simular universos enteros.
 
-Capítulo diez. Universos, computadoras y matemática
+Capítulo diez. Universos, computadoras y realidad matemática
 
 ¿Podrían civilizaciones avanzadas crear universos enteros? La inflación sugiere una semilla de ~10 gramos de inflatón en ~10^-26 cm. Guth y Farhi encontraron que haría falta un agujero blanco (el reverso temporal de un agujero negro) para arrancar la expansión. Ese obstáculo parece prácticamente insuperable.
 
-Crear burbujas inflacionarias aisladas dejaría solo un agujero negro aparente en el laboratorio. Eso haría imposible verificar el hijo cósmico. Es más plausible considerar universos simulados (realidades generadas por cómputo con suficiente potencia). El functionalismo sostiene que la mente es procesamiento de información y que no importa si el sustrato es carbono o silicio.
+Crear burbujas inflacionarias aisladas dejaría solo un agujero negro aparente en el laboratorio, así que sería imposible verificar el hijo cósmico. Por eso, es más plausible considerar universos simulados (realidades generadas por cómputo con suficiente potencia). El functionalismo (la idea de que la mente es procesamiento de información) sostiene que no importa si ese procesamiento ocurre en carbono o en silicio.
 
 El filósofo Nick Bostrom argumenta que, si las simulaciones conscientes son baratas, la mayoría de seres sintientes serían simulados. Eso sugiere estadísticamente que podríamos estar en uno. Detectarlo sería casi imposible salvo fallos de malla.
 
@@ -238,7 +238,7 @@ Multiverso acolchado. Repeticiones por espacio infinito y configuraciones finita
 
 Multiverso inflacionario. Burbujas eternas separadas más rápido que la luz; interiores posiblemente infinitos.
 
-Braneworld. Universo en una brana; gravedad se filtra por dimensiones extra.
+Mundo-rebanada. Universo en una brana; gravedad se filtra por dimensiones extra.
 
 Multiverso paisaje. ~10^500 vacíos de cuerdas + inflación + túnel cuántico.
 

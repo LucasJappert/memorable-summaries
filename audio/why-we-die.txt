@@ -6,7 +6,7 @@ Morimos porque el cuerpo acumula daño y la evolución diseñó cuerpos desechab
 
 La biología molecular ya identifica telómeros, epigenética, mitocondrias y senescencia como palancas del declive.
 
-podemos ralentizar el envejecimiento, pero extender la vida sin pensar la sociedad sería peligroso
+Podemos ralentizar el envejecimiento, pero extender la vida sin pensar la sociedad sería peligroso
 
 La criogenia promete sin evidencia; la ciencia seria exige ensayos, no profetas.
 
@@ -20,7 +20,7 @@ Prólogo. Introducción
 
 Toda cultura niega la finalidad de la muerte. El filósofo Stephen Cave describe cuatro planes para afrontarla. Vivir lo más posible, renacer en otro cuerpo, conservar un alma inmortal o dejar legado biológico y cultural. La conciencia de la propia muerte requirió cerebro autorreflexivo y lenguaje. Vivimos en negación mediante eufemismos, hospitales alejados y distracciones.
 
-El Ilustracionismo desplazó la fe hacia la ciencia, pero el legado no basta porque los hijos son otros seres conscientes. Plan A, que consiste en evitar accidentes y enfermedades, sigue vigente. En 150 años duplicamos la esperanza de vida reduciendo mortalidad infantil. Pero alargar el máximo (~120 años) es otro reto. La revolución genética plantea si podemos frenar el envejecimiento. Más de 300 000 artículos y 700 startups surgieron en una década. El químico Venki Ramakrishnan se pregunta si no es arrogancia pretender vencer la muerte. Un virus como el COVID-19 recuerda que la evolución no nos debe nada.
+La Ilustración desplazó la fe hacia la ciencia, pero el legado no basta porque los hijos son otros seres conscientes. Plan A, que consiste en evitar accidentes y enfermedades, sigue vigente. En 150 años duplicamos la esperanza de vida reduciendo mortalidad infantil. Pero alargar el máximo (~120 años) es otro reto. La revolución genética plantea si podemos frenar el envejecimiento. Más de 300 000 artículos y 700 startups surgieron en una década. El químico Venki Ramakrishnan se pregunta si no es arrogancia pretender vencer la muerte. Un virus como el COVID-19 recuerda que la evolución no nos debe nada.
 
 Idea clave: Por primera vez la biología ofrece palancas reales sobre el envejecimiento, pero la sociedad no está preparada para sus consecuencias.
 
@@ -52,7 +52,7 @@ Capítulo tres. Destruyendo el controlador maestro
 
 ¿Qué ocurre cuando una célula pierde el control central de su programa? Hampi, gran ciudad del sur de India, colapsó cuando perdió gobierno, como una célula sin regulación. Los genes (unidades de información heredada) no solo transmiten rasgos, sino que dan instrucciones para construir y mantener un organismo.
 
-Hasta 1953, el ADN era misterio. Los biólogos James Watson y Francis Crick dedujeron la doble hélice: A-T, C-G, cada hebra copia a la otra. El mensaje se transcribe y los ribosomas ensamblan proteínas (moléculas que ejecutan casi todas las funciones vitales). Estas se pliegan solas en formas funcionales —milagro que Ramakrishnan estudió toda su carrera.
+Hasta 1953, el ADN era misterio. Los biólogos James Watson y Francis Crick dedujeron la doble hélice: A-T, C-G, cada hebra copia a la otra. El mensaje se transcribe y los ribosomas ensamblan proteínas (moléculas que ejecutan casi todas las funciones vitales). Estas se pliegan solas en formas funcionales. Es un milagro que Ramakrishnan estudió toda su carrera.
 
 El genoma no dicta como un plano rígido, sino que forma una red que responde al entorno. El ADN se deteriora con el tiempo, y las mutaciones son errores de letras que alteran el significado. Por eso el programa no puede correr eternamente sin fallos.
 
@@ -76,7 +76,7 @@ Capítulo cinco. Reiniciando el reloj biológico
 
 ¿El genoma humano es un destino escrito o un programa que se puede reprogramar? En junio de 2000, Clinton y Blair anunciaron el borrador del genoma humano. El ADN no es libro legible: flujo sin puntuación, 2 % codifica proteínas, resto basura aún enigma.
 
-Gemelos idénticos muestran que el genoma no es destino: pueden diferir en esquizofrenia pese a mismos genes. La epigenética (capa de control sobre los genes) explica por qué una célula piel no vuelve a ser neurona. El biólogo Conrad Waddington (1942) imaginó una bola rodando por valles del desarrollo. Es difícil subir de nuevo.
+Por eso, gemelos idénticos muestran que el genoma no es destino: pueden diferir en esquizofrenia pese a mismos genes. La epigenética (capa de control sobre los genes) explica por qué una célula piel no vuelve a ser neurona. El biólogo Conrad Waddington (1942) imaginó una bola rodando por valles del desarrollo. Es difícil subir de nuevo.
 
 La clonación (1952, rana) y los factores Yamanaka demostraron que el núcleo de célula especializada puede reprogramarse a estado pluripotente. No es Lamarckismo: son cambios reversibles en control génico, no en secuencia. La pregunta es hasta dónde se puede rebobinar sin tumores.
 
@@ -126,7 +126,7 @@ Capítulo nueve. El polizón dentro de nosotros
 
 Las mitocondrias convierten carbohidratos en ATP (moneda energética universal de la célula). El cuerpo genera aproximadamente su peso en ATP al día. El cerebro consume una quinta parte. La producción usa un gradiente de protones y una turbina molecular llamada ATP sintasa.
 
-Perdieron la mayoría de genes al núcleo host. El minúsculo ADN mitocondrial muta y causa enfermedades. Se heredan solo de madre. Reino Unido legalizó bebés de tres padres. Mitocondrias fusionan y dividen. Sus defectos se segregan. Por eso su desgaste impulsa envejecimiento.
+Las mitocondrias perdieron la mayoría de genes al núcleo anfitrión. Su minúsculo ADN mitocondrial muta y causa enfermedades. Se heredan solo de madre. Reino Unido legalizó bebés de tres padres. Mitocondrias fusionan y dividen. Sus defectos se segregan. Por eso su desgaste impulsa envejecimiento.
 
 Idea clave: Las mitocondrias nos dan energía, pero su daño acumulado contribuye al declive.
 
@@ -164,7 +164,7 @@ Extender vida sin comprimir morbilidad (acortar años enfermos, no solo alargar 
 
 Sobre la sobrepoblación, Japón vive más pero su población cae desde 2010. Carreras más largas son la salida si jubilación a los 65 es insostenible.
 
-Un obrero de sesenta y cinco años no desea otros cincuenta de faena física. En dos mil veintitrés, en Francia marcharon 1,2 millones contra subir la jubilación de sesenta y dos a sesenta y cuatro años.
+Un obrero de sesenta y cinco años no desea otros cincuenta de faena física. En 2023, en Francia marcharon 1,2 millones contra subir la jubilación de sesenta y dos a sesenta y cuatro años.
 
 Idea clave: Podemos ralentizar el envejecimiento, pero la sociedad debe decidir conscientemente cómo repartir años extra sin agravar desigualdad.
 

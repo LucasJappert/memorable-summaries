@@ -4,11 +4,13 @@ La idea central
 
 El envejecimiento no es un reloj misterioso ni un castigo inevitable.
 
-Es un conjunto de procesos biológicos que la ciencia ya puede ralentizar en el laboratorio.
+De hecho, es un conjunto de procesos biológicos que la ciencia ya puede ralentizar en el laboratorio.
+
+Curar el envejecimiento sería la mayor revolución médica desde los antibióticos
 
 La cura no llegará en una píldora milagrosa, sino como un rompecabezas de terapias que se renuevan con cada generación.
 
-Mientras tanto, estilo de vida y política pública pueden comprarnos años para llegar a esas medicinas.
+Por eso, mientras tanto, estilo de vida y política pública pueden comprarnos años para llegar a esas medicinas.
 
 El objetivo final es la senescencia negligible: envejecer sin perder salud solo por haber cumplido años.
 
@@ -34,7 +36,7 @@ La victoria sobre infecciosas, vacunas, nutrición y el declive del tabaco dupli
 
 En 1960 había 150 millones de personas mayores de 65. En 2020 eran 700 millones.
 
-El modelo educación-trabajo-jubilación quedó obsoleto. La edad de pensión de 65 años en el Reino Unido no cambió casi un siglo. Mientras tanto, la esperanza de vida subió 23 años. Un adulto mayor de 80 cuesta al sistema sanitario unas cinco veces más que uno de 30. Aun así, la discapacidad grave en muy ancianos ha bajado.
+El modelo educación-trabajo-jubilación quedó obsoleto. La edad de pensión de 65 años en el Reino Unido no cambió casi un siglo. Mientras tanto, la esperanza de vida subió 23 años. Un adulto mayor de 80 cuesta al sistema sanitario unas cinco veces más que uno de 30. Aun así, la discapacidad grave en muy ancianos ha bajado, aunque la leve (artritis u otras molestias) parece aumentar.
 
 Nunca hubo fármacos aprobados específicamente contra el envejecimiento. Los reguladores solo autorizan tratamientos para enfermedades concretas. En 2018 la OMS añadió el código XT9T (clasificación internacional para condiciones relacionadas con la edad). Extrapolar la tendencia actual sugiere que muchos nacidos este siglo podrían llegar al siglo XXII en países ricos.
 
@@ -120,7 +122,7 @@ Donde la limpieza no basta, hay que reponer lo que el cuerpo ya no produce con l
 
 Capítulo seis. Dentro lo nuevo
 
-¿Qué pasa cuando eliminar no basta y hay que reponer? A veces hay que regenerar tejidos. Las células madre (células capaces de diferenciarse en tipos especializados) y los trasplantes de médula ósea ya salvan vidas. Shinya Yamanaka (2006) permitió revertir células adultas a estado pluripotente (iPSC) sin rechazo inmune si provienen del propio paciente.
+¿Qué pasa cuando eliminar no basta y hay que reponer? Por eso, a veces hay que regenerar tejidos. Las células madre (células capaces de diferenciarse en tipos especializados) y los trasplantes de médula ósea ya salvan vidas. Shinya Yamanaka (2006) permitió revertir células adultas a estado pluripotente (iPSC) sin rechazo inmune si provienen del propio paciente.
 
 Ensayos con células RPE derivadas de madre embrionaria mejoraron la visión en degeneración macular. Parkinson avanza con neuronas dopaminérgicas desde iPSC. La involutión del timo (glándula que madura linfocitos T) explica por qué las vacunas fallan en ancianos. Hormonas, el gen FOXN1 o un timo cultivado en laboratorio podrían rejuvenecer la inmunidad.
 
@@ -136,7 +138,7 @@ Capítulo siete. Reparaciones en marcha
 
 ¿Se pueden reparar los daños sin reemplazar todo el tejido? Los telómeros (capas protectoras en los extremos de los cromosomas) se acortan en cada división. Eventualmente provocan senescencia o muerte celular.
 
-Elizabeth Blackburn y Carol Greider descubrieron la telomerasa (enzima que alarga telómeros) en 1984. Ganaron el Nobel en 2009. El cáncer explota esa enzima en el 90 % de tumores.
+Elizabeth Blackburn y Carol Greider descubrieron la telomerasa en 1984. Ganaron el Nobel en 2009. El cáncer explota esa enzima en el 90 % de tumores.
 
 María Blasco mostró que telomerasa más genes protectores extendió la vida de ratones un 40 % sin más cáncer. La parabiosis heterocrónica (suturar ratones jóvenes y viejos) rejuveneció músculo, hígado y cerebro. Lo logró al cambiar señales sanguíneas, no al trasplantar células jóvenes. El plasma joven solo no basta: la sangre vieja también envenena.
 
@@ -184,11 +186,13 @@ No fumar. Resta ~10 años; acelera casi todas las marcas (ADN, telómeros, senes
 
 Peso saludable. La grasa visceral secreta inflamación; el IMC alto resta años y empeora diabetes.
 
+Alcohol con moderación. Beber en exceso acorta la vida; la moderación forma parte del perfil de bajo riesgo.
+
 Ejercicio. Incluso 30 minutos diarios reducen mortalidad; fortalece músculo, mitocondrias, telómeros y recambia colágeno.
 
-Sueño (7–8 h). El cerebro elimina amiloide al dormir; cataratas alteran ritmos circadianos.
+Alimentación saludable. Una dieta equilibrada limita lo que la restricción calórica extrema intenta lograr sin ayunar.
 
-Vacunas e higiene. Menos infecciones significa menos inflamación crónica de por vida.
+Además, dormir 7–8 horas ayuda al cerebro a eliminar amiloide, y vacunarse reduce la inflamación crónica que acelera el envejecimiento.
 
 La restricción calórica extrema en humanos sigue sin prueba de longevidad. Los macacos NIA frente a Wisconsin muestran que una dieta ya sana limita ganancias extra. El ayuno intermitente puede ayudar a algunos, con riesgos inmunes y óseos. Los suplementos antioxidantes generales no funcionan e incluso dañan (vitamina E, beta-caroteno).
 
@@ -200,7 +204,7 @@ Los hábitos individuales no bastan sin convertir la ciencia en medicina regulad
 
 Capítulo 11. De la ciencia a la medicina
 
-¿Qué falta para que la biogerontología llegue a la clínica? La disciplina necesita visibilidad y dinero. El NIA (Instituto Nacional sobre el Envejecimiento de EE. UU.) recibe unos 6 % del presupuesto del NIH. El envejecimiento causa unos 85 % de muertes.
+¿Qué falta para que la biogerontología llegue a la clínica? Por eso, la disciplina necesita visibilidad y dinero. El NIA (Instituto Nacional sobre el Envejecimiento de EE. UU.) recibe unos 6 % del presupuesto del NIH. El envejecimiento causa unos 85 % de muertes.
 
 Los reguladores no aprueban fármacos contra el envejecimiento. El ensayo TAME (Targeting Aging with Metformin) testará metformina en 3.000 adultos de 65–80 años. Lo lidera el geriatra Nir Barzilai. Medirá aparición tardía de cáncer, cardiovascular y demencia. Busca establecer precedente con la FDA aunque el efecto sea modesto.
 

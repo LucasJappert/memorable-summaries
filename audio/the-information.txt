@@ -36,7 +36,7 @@ Capítulo uno. Tambores que hablan
 
 Nadie hablaba simplemente en el tambor. Decían haz volver tus pies por donde fueron en lugar de vuelve a casa. Durante siglos, europeos no entendieron que era lenguaje. El misionero lingüista John F. Carrington descubrió que los tambores mapean lenguas tonales, es decir, donde el tono distingue palabras como luna y pollo.
 
-Al perder consonantes y vocales, cada golpe ambiguo exige redundancia, es decir, frases fijas que despejan el sentido (la luna mira a la tierra). Por eso los mensajes drum son unas ocho veces más largos que el habla. Ralph Hartley en Bell Labs formuló H = n log s: cuantos menos símbolos, más hay que enviar.
+Al perder consonantes y vocales, cada golpe ambiguo exige redundancia, es decir, frases fijas que despejan el sentido (la luna mira a la tierra). Por eso los mensajes de tambor son unas ocho veces más largos que el habla. Ralph Hartley en Bell Labs formuló H = n log s: cuantos menos símbolos, más hay que enviar.
 
 🥁. Tambor tonal
 
@@ -52,7 +52,7 @@ Capítulo dos. La persistencia de la palabra
 
 ¿Qué pierde y qué gana una cultura cuando las palabras dejan de ser solo sonido?
 
-Walter J. Ong invitaba a imaginar una cultura sin buscar nada. En la oralidad primaria, las palabras no tienen presencia visual. Escribir las fijó en arcilla, papiro o papel. De ahí surgieron historia, ley y abstracción. Platón, por boca de Sócrates, temió que la escritura debilitara la memoria viva.
+Walter J. Ong invitaba a imaginar una cultura sin buscar nada. En la oralidad primaria, las palabras no tienen presencia visual. Escribir las fijó en arcilla, papiro o papel. De ahí que surgieran historia, ley y abstracción. Platón, por boca de Sócrates, temió que la escritura debilitara la memoria viva.
 
 Milman Parry demostró que Homero cantó epopeyas sin letras. Transcribirlas fue un trueno cultural. Eric Havelock vio en Aristóteles el nacimiento del pensamiento categorial. El alfabeto, inventado una sola vez cerca del Mediterráneo, redujo símbolos a sonidos mínimos y se propagó como virus.
 
@@ -66,7 +66,7 @@ Capítulo tres. Dos diccionarios
 
 En 1604, el párroco Robert Cawdrey publicó A Table Alphabeticall con 2.500 palabras difíciles para damas y clérigos. Antes, cony podía escribirse de una docena de maneras. La imprenta impuso formas correctas. El verbo spell, es decir deletrear, pasó de hablar a escribir letra por letra.
 
-Samuel Johnson, casi dos siglos después, completó el gran diccionario inglés con citas literarias y norma social. Gottfried Leibniz distinguió orden alfabético (de palabra a cosa) y orden natural (de cosa a palabra). El alfabeto habilitó catálogos, índices y la búsqueda binaria antes de las computadoras.
+Samuel Johnson, casi dos siglos después, completó el gran diccionario inglés con citas literarias y norma social. Gottfried Leibniz distinguió orden alfabético (de palabra a cosa) y orden natural (de cosa a palabra). Por eso el alfabeto habilitó catálogos, índices y la búsqueda binaria antes de las computadoras.
 
 Idea clave: El diccionario convirtió el lenguaje en base de datos consultable gracias al orden alfabético.
 
@@ -76,9 +76,9 @@ Capítulo cuatro. Lanzar el pensamiento a ruedas
 
 ¿Puede una máquina de vapor fabricar números y pensamiento?
 
-Charles Babbage fue un genio errático de la era del vapor. Diseñó el Difference Engine y el Analytical Engine. Miles de engranajes imprimirían tablas sin error humano. El Estado británico financió y luego canceló el proyecto tras veinte años. Sus tablas de logaritmos y seguros anticiparon economía del cálculo precomputado.
+Charles Babbage fue un genio errático de la era del vapor. Diseñó el Difference Engine y el Analytical Engine. Miles de engranajes imprimirían tablas sin error humano. Por eso el Estado británico financió el proyecto, aunque luego lo canceló tras veinte años. Sus tablas de logaritmos y seguros anticiparon economía del cálculo precomputado.
 
-Ada Lovelace vio más allá del número: la máquina analítica manipularía símbolos y podría componer música si se le dieran reglas. Separó datos e instrucciones antes de que existiera software. Babbage preguntó irónicamente si meter figuras equivocadas produciría respuestas correctas — confusión que persiste hoy.
+Por eso Ada Lovelace vio más allá del número: la máquina analítica manipularía símbolos y podría componer música si se le dieran reglas. Separó datos e instrucciones antes de que existiera software. Babbage preguntó irónicamente si meter figuras equivocadas produciría respuestas correctas — confusión que persiste hoy.
 
 Idea clave: Babbage y Lovelace concibieron la computación como manipulación simbólica, no solo aritmética.
 
@@ -90,7 +90,7 @@ Capítulo cinco. Un sistema nervioso para la Tierra
 
 En 1846, tres empleados en Jersey City manejaban todo el tráfico telegráfico de Nueva York. Solo tenían un par de hilos. Samuel Morse y Alfred Vail diseñaron un alfabeto de puntos, rayas y pausas. Contaron tipos en una imprenta de Morristown. E y T recibieron señales cortas por ser frecuentes.
 
-Antes, los hermanos Chappe en Francia usaron brazos mecánicos visibles. Su código binario de posiciones precedió al eléctrico. El telégrafo nuevo exigió traducir lenguaje a impulsos. Metáforas biológicas de Hawthorne y Scientific American resultaron proféticas. Cables como nervios, nación como cuerpo.
+Antes, los hermanos Chappe en Francia usaron brazos mecánicos visibles. Su código binario de posiciones precedió al eléctrico. Por eso el telégrafo nuevo exigió traducir lenguaje a impulsos. Metáforas biológicas de Hawthorne y Scientific American resultaron proféticas. Cables como nervios, nación como cuerpo.
 
 Idea clave: El telégrafo obligó a inventar códigos que mapean lenguaje sobre un canal eléctrico limitado.
 
@@ -102,7 +102,7 @@ Capítulo seis. Nuevos cables, nueva lógica
 
 Claude Shannon, hijo de un juez en Gaylord, construyó un telégrafo casero con alambre de cercas y código Morse. En MIT aplicó el álgebra de George Boole a circuitos eléctricos (1937). James Clerk Maxwell ya había notado la simetría perfecta: dos teléfonos, un hilo, dos conversadores.
 
-Cooperativas rurales convirtieron cercas en líneas telefónicas. Telégrafo, teléfono y radio reconfiguraron la topología social. Shannon leyó códigos en Poe y criptogramas. La lógica simbólica se cruzó con relés y ruido de circuito. Este capítulo une física, ingeniería y juego intelectual antes de la guerra.
+Cooperativas rurales convirtieron cercas en líneas telefónicas. Telégrafo, teléfono y radio reconfiguraron la topología social. Shannon leyó códigos en Poe y criptogramas. Así que la lógica simbólica se cruzó con relés y ruido de circuito. Este capítulo une física, ingeniería y juego intelectual antes de la guerra.
 
 Idea clave: Shannon heredó la tradición de traducir señales físicas en símbolos manipulables.
 
@@ -112,9 +112,11 @@ Capítulo siete. Teoría de la información
 
 ¿Qué mide un bit si el significado del mensaje queda fuera de la ecuación?
 
-Shannon analizó el sistema X que cifraba la voz Roosevelt-Churchill y probó su seguridad. Alan Turing mostró su paper de 1936 sobre números computables y la máquina universal U que simula cualquier computadora. Turing demostró que la mayoría de números son incalculables y que el Entscheidungsproblem de Hilbert tiene respuesta negativa.
+Shannon analizó el sistema X que cifraba la voz Roosevelt-Churchill y probó su seguridad. Alan Turing mostró su paper de 1936 sobre números computables y la máquina universal U que simula cualquier computadora. Entonces demostró que la mayoría de números son incalculables y que el Entscheidungsproblem de Hilbert tiene respuesta negativa.
 
-Shannon definió información como elección entre mensajes posibles. El significado es irrelevante al problema de ingeniería. Estimó ~50% de redundancia en inglés. De ahí el cartel if u cn rd ths. Introdujo entropía H, capacidad de canal y teorema de codificación. En paralelo, el Bombe de Turing quebró Enigma. Procesaba interceptos a escala industrial.
+Shannon definió información como elección entre mensajes posibles. El significado es irrelevante al problema de ingeniería. Estimó ~50% de redundancia en inglés. De ahí el cartel if u cn rd ths. Introdujo entropía H, capacidad de canal y teorema de codificación.
+
+En paralelo, el Bombe de Turing quebró Enigma y procesaba interceptos a escala industrial.
 
 🎰. Bit
 
@@ -130,7 +132,7 @@ Capítulo ocho. El giro informacional
 
 ¿Por qué la teoría de Shannon desató la cibernética y el mito del cerebro electrónico?
 
-Norbert Wiener acuñó cibernética, es decir el estudio del control y la comunicación, del griego timonel, en 1948. Unifica control y comunicación en animales y máquinas. Su libro fue bestseller. Su libro fue bestseller. Time lo retrató como profeta de ENIAC y Mark I. Wiener vio retroalimentación negativa estabilizando sistemas. Aplicaba desde cañones antiaéreos hasta neuronas, como el regulador de Maxwell.
+Norbert Wiener acuñó cibernética, es decir el estudio del control y la comunicación, del griego timonel, en 1948. Unifica control y comunicación en animales y máquinas. Su libro fue un éxito de ventas. Time lo retrató como profeta de ENIAC y Mark I. Wiener vio retroalimentación negativa estabilizando sistemas. Aplicaba desde cañones antiaéreos hasta neuronas, como el regulador de Maxwell.
 
 Las conferencias Macy reunieron a Mead, Bateson, von Neumann y McCulloch. Warren McCulloch modeló neuronas como relés binarios. J. C. R. Licklider cuantizó voz en ~60 bits/s. Gerard advirtió contra equiparar cerebro y computadora. Aun así el término teoría de la información se extendió más allá de la ingeniería.
 
@@ -142,9 +144,9 @@ Capítulo nueve. Entropía y sus demonios
 
 ¿Por qué Shannon tomó prestada la entropía termodinámica para medir mensajes?
 
-Rudolf Clausius acuñó entropía en 1865 como energía unavailable para trabajo. Lord Kelvin anunció la muerte térmica del universo. James Clerk Maxwell imaginó un ser finito que ordena moléculas en una caja de gas. Ese demonio de Maxwell (ente imaginario) convierte azar en propósito usando información.
+Rudolf Clausius acuñó entropía en 1865 como energía no disponible para trabajo. Lord Kelvin anunció la muerte térmica del universo. James Clerk Maxwell imaginó un ser finito que ordena moléculas en una caja de gas. Ese demonio de Maxwell (ente imaginario) convierte azar en propósito usando información. Por eso medir y borrar memoria tiene un coste termodinámico.
 
-Leó Szilárd mostró que medir y borrar memoria cuesta k log 2 por bit. La información no es gratuita. La mezcla irreversible de gas es probabilística. Hay vastly más microestados desordenados. Shannon reinventó la matemática sin leer a Szilárd, pero el puente estaba listo.
+Leó Szilárd mostró que medir y borrar memoria cuesta k log 2 por bit. La información no es gratuita. La mezcla irreversible de gas es probabilística: hay muchísimos más microestados desordenados. Shannon reinventó la matemática sin leer a Szilárd, pero el puente estaba listo.
 
 Idea clave: Ordenar el mundo exige pagar en bits: el demonio une termodinámica e información.
 
@@ -154,9 +156,9 @@ Capítulo diez. El código de la vida
 
 ¿Cómo pasó la herencia de partículas a instrucciones digitales en cuatro letras?
 
-Wilhelm Johannsen inventó gene en 1910 para separar potencial hereditario de rasgos personales. Erwin Schrödinger comparó genes con código Morse en What Is Life?. En 1953, Watson y Crick publicaron la doble hélice. Las secuencias A, C, G, T son complementarias y replicables.
+Wilhelm Johannsen inventó gene en 1910 para separar potencial hereditario de rasgos personales. Erwin Schrödinger comparó genes con código Morse en What Is Life?. Por eso en 1953 Watson y Crick publicaron la doble hélice: las secuencias A, C, G, T son complementarias y replicables.
 
-George Gamow fundó el RNA Tie Club para descifrar tripletes codón-aminoácido. La solución llegó en los 60 con redundancia genética tolerante a errores. Crick formuló el Dogma Central. ADN produce ARN y luego proteína. La biología molecular adoptó bits, ruido y canal sin dejar de ser química.
+George Gamow fundó el RNA Tie Club para descifrar tripletes codón-aminoácido. La solución llegó en los 60 con redundancia genética tolerante a errores. Crick formuló entonces el Dogma Central. ADN produce ARN y luego proteína. Así la biología molecular adoptó bits, ruido y canal sin dejar de ser química.
 
 Idea clave: El ADN es información cuya función principal es almacenar y transmitir instrucciones.
 
@@ -166,9 +168,9 @@ Capítulo 11. Al estanque de los memes
 
 ¿Existe evolución más allá de genes y qué son los memes?
 
-Jacques Monod situó una reino abstracto de ideas sobre la biosfera. Richard Dawkins propuso el meme, es decir una unidad cultural replicable, al cerrar The Selfish Gene en 1976. Salta de cerebro a cerebro por imitación. Melodías, frases (Read my lips) y creencias compiten por atención limitada.
+Jacques Monod situó un reino abstracto de ideas sobre la biosfera. Richard Dawkins propuso el meme, es decir una unidad cultural replicable, al cerrar The Selfish Gene en 1976. Salta de cerebro a cerebro por imitación. Melodías, frases (Read my lips) y creencias compiten por atención limitada.
 
-Daniel Dennett comparó cerebros con composteras de larvas ajenas. Douglas Hofstadter popularizó viral text. Los memes no son verdaderos por definición y pueden ser perjudiciales. Dawkins actualizó el soup primordial de memes. Pasó de cerebros humanos a discos, redes y virus informáticos.
+Daniel Dennett comparó cerebros con composteras de larvas ajenas. Douglas Hofstadter popularizó el texto viral. Así que los memes no son verdaderos por definición y pueden ser perjudiciales. Dawkins actualizó el soup primordial de memes. Pasó de cerebros humanos a discos, redes y virus informáticos.
 
 Idea clave: Los memes extienden la lógica replicadora más allá del ácido nucleico hacia la cultura.
 
@@ -178,7 +180,7 @@ Capítulo 12. El sentido del azar
 
 ¿Qué significa aleatorio cuando todo parece azar, información y caos a la vez?
 
-Gregory Chaitin, adolescente, leyó Gödel's Proof. Conectó incompletitud, incertidumbre cuántica y entropía de Shannon. Kurt Gödel demostró que toda matemática formal genera enunciados indemostrables. Turing mostró números incalculables. Chaitin definió aleatoriedad algorítmica. Lo comprimible no es aleatorio.
+Gregory Chaitin, adolescente, leyó Gödel's Proof. De este modo conectó incompletitud, incertidumbre cuántica y entropía de Shannon. Kurt Gödel demostró que toda matemática formal genera enunciados indemostrables. Turing mostró números incalculables. Por eso Chaitin definió aleatoriedad algorítmica: lo comprimible no es aleatorio.
 
 John von Neumann admitió que generar dígitos aleatorios con algoritmos es estar en estado de pecado. RAND publicó A Million Random Digits en 1955 con ruleta electrónica. Humanos detectan patrones donde no los hay. Shannon mostró que un mensaje repetitivo sorprende menos que uno impredecible de igual longitud.
 
@@ -192,19 +194,19 @@ Capítulo 13. La información es física
 
 Christopher Fuchs y otros replantean la mecánica cuántica desde teoría de información. John Archibald Wheeler sugirió que preguntas sí/no participan en crear realidad. El entrelazamiento, es decir correlación cuántica a distancia, une partículas separadas. Los qubits (bits cuánticos) generalizan la informática clásica.
 
-Seth Lloyd estima operaciones y bits cósmicos. Los agujeros negros devoran información y desafían termodinámica. Computación cuántica trata leyes físicas como algoritmos. Gleick cierra el arco del tambor tonal al bit fundamental de la existencia.
+Seth Lloyd estima operaciones y bits cósmicos. Los agujeros negros devoran información y desafían termodinámica. Computación cuántica trata leyes físicas como algoritmos. Por eso Gleick cierra el arco del tambor tonal al bit fundamental de la existencia.
 
 Idea clave: Información deja de ser metáfora y se vuelve ingrediente físico de partículas y espaciotiempo.
 
-Tener bits everywhere no garantiza saber: llega el diluvio.
+Tener bits por doquier no garantiza saber: llega el diluvio.
 
 Capítulo 14. Después del diluvio
 
 ¿Qué ocurre cuando toda información existe y nada se olvida?
 
-Jorge Luis Borges imaginó la Biblioteca de Babel. Contiene todos los libros posibles y ninguna verdad seleccionable. Wikipedia genera páginas de desambiguación sin fin. Babel, Torre de Babel, isla australiana, planeta Star Trek.
+Jorge Luis Borges imaginó la Biblioteca de Babel: contiene todos los libros posibles y ninguna verdad seleccionable. Wikipedia genera páginas de desambiguación sin fin, como si cada nombre propio exigiera su propia enciclopedia.
 
-Tlön de Borges mezcla ficción y hecho en ciclopedia falsa. Tener catálogo completo no es conocimiento. Es parálisis. Gleick conecta glut contemporáneo con ansiedad antigua. Acentúa volumen y persistencia digital sin precedente.
+Tlön de Borges mezcla ficción y hecho en ciclopedia falsa. Tener catálogo completo no es conocimiento: es parálisis. Por eso Gleick conecta el glut contemporáneo con ansiedad antigua y acentúa volumen y persistencia digital sin precedente.
 
 Idea clave: El exceso informacional reproduce la Biblioteca de Babel: todo está, nada se elige solo.
 
@@ -214,9 +216,9 @@ Capítulo 15. Noticias nuevas cada día
 
 ¿La imprenta y los medios modernos empeoraron realmente la comunicación humana?
 
-Carl Bridenbaugh, presidente de la Asociación Histórica Americana en 1962, lamentó amnesia histórica. Temió Kodak y radios de transistor. Elizabeth Eisenstein trabajó quince años. En The Printing Press as an Agent of Change (1979) demostró que Gutenberg catalizó Reforma, ciencia moderna y alfabetización masiva.
+Carl Bridenbaugh, presidente de la Asociación Histórica Americana en 1962, lamentó amnesia histórica. Temió Kodak y radios de transistor. Elizabeth Eisenstein trabajó quince años en The Printing Press as an Agent of Change (1979). Demostró que Gutenberg catalizó Reforma, ciencia moderna y alfabetización masiva.
 
-Cada gran tecnología inspiró euforia y queja de exceso. La prensa, el telégrafo, el teléfono, la TV e Internet repiten el patrón. Eisenstein situó la imprenta en el centro histórico. McLuhan comparó era eléctrica con era tipográfica elisabetiana. Vivimos dos formas de experiencia a la vez.
+Por eso cada gran tecnología inspiró euforia y queja de exceso. La prensa, el telégrafo, el teléfono, la TV e Internet repiten el patrón. Eisenstein situó la imprenta en el centro histórico. McLuhan comparó era eléctrica con era tipográfica elisabetiana. Vivimos dos formas de experiencia a la vez.
 
 Idea clave: La sobrecarga informacional es recurrente y la imprenta fue el primer diluvio moderno medible.
 
@@ -254,7 +256,7 @@ Meme Replicador cultural transmitido por imitación y medios.
 
 Cibernética Estudio unificado de control y comunicación en máquinas y seres vivos.
 
-Demonio de Maxwell Thought experiment que convierte información en orden local.
+Demonio de Maxwell Experimento mental que convierte información en orden local.
 
 Glut informacional Exceso de datos que dificulta seleccionar significado.
 

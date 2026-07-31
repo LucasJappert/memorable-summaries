@@ -4,15 +4,15 @@ La idea central
 
 La mente no es una calculadora racional sino un escenario donde un pensamiento rápido e intuitivo domina al deliberado.
 
-Reconocer sesgos, usar la visión externa, fórmulas simples y mejores marcos puede mejorar juicios sin negar nuestra inteligencia cotidiana.
+Por eso reconocer sesgos, usar la visión externa, fórmulas simples y mejores marcos puede mejorar juicios sin negar nuestra inteligencia cotidiana.
 
 Pensar bien exige nombrar los errores del Sistema 1 y activar con parsimonia al Sistema 2.
 
-Tres distinciones recapitulan el libro: dos yoes, econs frente a humanos, dos sistemas.
+De ahí que tres distinciones recapitulen el libro: dos yoes, econs frente a humanos, dos sistemas.
 
 Las organizaciones pueden educar el chisme informado en lugar de confiar ciegamente en intuición o narrativas.
 
-La humildad ante el azar es tan importante como cualquier técnica.
+Por eso la humildad ante el azar es tan importante como cualquier técnica.
 
 Prefacio. Introducción
 
@@ -226,7 +226,7 @@ Capítulo 17. Regresión a la media
 
 Un instructor de vuelo israelí notó que tras elogiar maniobras buenas venía una peor. Cuando gritaba por errores venía mejora, y concluyó que castigo funciona. Kahneman vio regresión a la media, es decir tendencia al promedio tras extremos. Después de desempeño extremo, el siguiente resultado suele acercarse al promedio por azar.
 
-En la demostración con monedas al blanco, quien acertó mucho la primera vez suele empeorar la segunda sin intervención. La retroalimentación de la vida es perversa. Somos amables cuando otros nos complacen y duros cuando fallan, confundiendo regresión con efecto propio.
+Por eso, en la demostración con monedas al blanco, quien acertó mucho la primera vez suele empeorar la segunda sin intervención. La retroalimentación de la vida es perversa. Somos amables cuando otros nos complacen y duros cuando fallan, confundiendo regresión con efecto propio.
 
 Idea clave: Tras extremos el azar empuja al promedio, y confundimos regresión con efecto de elogio o castigo.
 
@@ -238,7 +238,7 @@ Capítulo 18. Domar las predicciones intuitivas
 
 Predicciones intuitivas son no regresivas, es decir sin corregir hacia el promedio. Entrevistas generan confianza extrema en GPA futuro aunque correlación sea modesta. Deberíamos mover predicciones hacia la media del grupo con peso según validez del dato.
 
-Paul Meehl mostró que reglas estadísticas vencen a clínicos. Kahneman propone corrección explícita que combina impresión subjetiva con promedio poblacional. Extremos solo se justifican con evidencia muy fuerte. Cierra Parte II con remedio parcial contra heurísticas.
+Paul Meehl mostró que reglas estadísticas vencen a clínicos. Entonces Kahneman propone corrección explícita que combina impresión subjetiva con promedio poblacional. Extremos solo se justifican con evidencia muy fuerte. Cierra Parte II con remedio parcial contra heurísticas.
 
 Idea clave: Intuición predice sin regresar, y mezclar señal débil con promedio poblacional vence entrevistas confiadas.
 
@@ -286,9 +286,9 @@ Capítulo 22. Intuición experta: ¿cuándo confiar?
 
 Herbert Simon definió que la intuición es reconocimiento tras miles de horas. Bomberos, maestros de ajedrez y médicos en casos repetitivos leen señales almacenadas. Requiere entorno regular, es decir contexto con patrones repetibles, y práctica con feedback, es decir retroalimentación clara y rápida.
 
-El CIO que compró Ford porque le gustaron autos en feria muestra intuición inválida. El mercado accionario es irregular y el feedback ruidoso. Confianza subjetiva no garantiza acierto. Validar intuición exige preguntar si el entorno permite aprender regularidades.
+El CIO que compró Ford porque le gustaron autos en feria muestra intuición inválida. El mercado accionario es irregular y la retroalimentación es ruidosa. Confianza subjetiva no garantiza acierto. Validar intuición exige preguntar si el entorno permite aprender regularidades.
 
-Idea clave: Intuición fiable es reconocimiento entrenado, y sin entorno regular y feedback la confianza subjetiva engaña.
+Idea clave: Intuición fiable es reconocimiento entrenado, y sin entorno regular ni retroalimentación clara la confianza subjetiva engaña.
 
 Los planes ignoran estadísticas de proyectos similares porque caen en visión interna.
 
@@ -298,7 +298,7 @@ Capítulo 23. La visión externa
 
 La falacia de planificación, es decir subestimar plazos y costos, usa visión interna. El caso único, las mejores intenciones y los obstáculos subestimados dominan. Kahneman diseñó currículo en Israel con estimaciones irreales. La visión externa, es decir estimar con estadísticas de casos similares, pregunta cuánto tomaron proyectos similares.
 
-El premortem, es decir imaginar fracaso antes de empezar, pide listar causas antes de arrancar. Mitiga sobreconfianza grupal. Combinar visión externa y premortem mejora pronósticos organizacionales sin negar ambición.
+El premortem, es decir imaginar fracaso antes de empezar, pide listar causas antes de arrancar. Mitiga sobreconfianza grupal. Por eso combinar visión externa y premortem mejora pronósticos organizacionales sin negar ambición.
 
 Idea clave: Planificar mirando solo este caso sesga, y estadísticas de proyectos similares corrigen optimismo.
 
@@ -332,7 +332,7 @@ Capítulo 26. Teoría de las perspectivas
 
 ¿Cómo elegimos realmente entre riesgos y certezas?
 
-La teoría de perspectivas, es decir modelo de elección con referencia, define valor sobre ganancias y pérdidas respecto a referencia. En ganancias preferimos certeza sobre apuesta arriesgada. En pérdidas preferimos apuesta arriesgada sobre pérdida segura.
+La teoría de perspectivas, es decir modelo de elección con referencia, define valor sobre ganancias y pérdidas respecto a referencia. Por eso, en ganancias preferimos certeza sobre apuesta arriesgada, y en pérdidas preferimos apuesta arriesgada sobre pérdida segura.
 
 Problemas idénticos en riqueza final para Bernoulli producen respuestas distintas. El marco de ganancia versus pérdida cambia preferencia. La curva de valor en S es cóncava en ganancias y convexa en pérdidas. Las pérdidas duelen más que las ganancias equivalentes.
 
@@ -346,7 +346,7 @@ Capítulo 27. El efecto dotación
 
 En el efecto dotación, es decir que poseer aumenta valor subjetivo, tener un bien lo hace valer más que para quien no lo tiene. Punto de referencia se ancla en status quo. Vender implica pérdida relativa, no intercambio simétrico.
 
-Comerciantes aprenden a pensar como traders, moviendo referencia. Endowment explica inercia legal y negociación porque renunciar a lo actual duele más que obtener equivalente. No es universal pero es robusto.
+Comerciantes aprenden a pensar como negociadores, moviendo referencia. El efecto dotación explica inercia legal y negociación porque renunciar a lo actual duele más que obtener equivalente. No es universal pero es robusto.
 
 Idea clave: Poseer cambia referencia y valor, y renunciar pesa como pérdida aunque el intercambio sea neutro en dinero.
 
@@ -452,7 +452,7 @@ Capítulo 36. La vida como historia
 
 ¿Por qué un final feliz redime una biografía en nuestra mente?
 
-En el caso Jen, años felices más años tristes mejoran evaluación total si se agregan años felices al final. Eso ocurre aunque aumente sufrimiento experimentado. Colonoscopia extendida con final menos doloroso hace recuerdo mejor y aumenta probabilidad de repetir.
+Por eso, en el caso Jen, años felices más años tristes mejoran evaluación total si se agregan años felices al final. Eso ocurre aunque aumente sufrimiento experimentado. Colonoscopia extendida con final menos doloroso hace recuerdo mejor y aumenta probabilidad de repetir.
 
 Vacaciones amnésicas importan poco al yo recordador aunque fueron placenteras. Evaluamos óperas y vidas por momentos salientes. Políticas que solo miran satisfacción recordada ignoran sufrimiento real.
 
@@ -510,15 +510,15 @@ Cronología
 
 1969 Kahneman invita a Tversky; nace colaboración en Jerusalén.
 
-1974 Judgment Under Uncertainty: Heuristics and Biases en Science.
+1974 Juicio bajo incertidumbre: heurísticas y sesgos en Science.
 
-1979 Prospect Theory: An Analysis of Decision Under Risk.
+1979 Teoría de perspectivas: un análisis de la decisión bajo riesgo.
 
 1996 Muere Amos Tversky, 59 años.
 
 2002 Nobel de Economía a Kahneman.
 
-2011 Publicación de Thinking, Fast and Slow.
+2011 Publicación de Pensar rápido, pensar despacio.
 
 Figuras clave
 

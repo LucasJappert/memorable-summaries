@@ -6,6 +6,8 @@ La tesis de Deutsch es que la realidad se vuelve inteligible solo cuando unimos 
 
 Ese cruce reemplaza la búsqueda de certezas finales por un programa de mejora constante de explicaciones.
 
+La realidad no se entiende acumulando datos, sino creando explicaciones cada vez mejores y más difíciles de reemplazar.
+
 En ese marco, los universos paralelos, los límites del cálculo y la vida como información replicable dejan de ser temas separados.
 
 La racionalidad no garantiza infalibilidad, pero sí progreso crítico.
@@ -80,7 +82,7 @@ Capítulo cinco. Universalidad y límites del cálculo
 
 ¿Hasta dónde llega la realidad virtual? Deutsch da una respuesta doble, con un techo altísimo y un límite tajante. Por un lado formula el principio de Turing (la tesis de que es físicamente posible simular cualquier entorno posible). Ese generador universal podría reproducir cualquier entorno físicamente posible.
 
-La razón es la máquina universal de Turing, un único objeto capaz de imitar a cualquier otro. Esa universalidad es lo que hace comprensible la realidad. Una parte del mundo puede modelar a todas las demás. Por otro lado, un argumento diagonal (razonamiento al estilo de Cantor y Turing) muestra un límite. La inmensa mayoría de entornos lógicamente posibles nunca podrán renderizarse. Deutsch los llama entornos Cantgotu. La universalidad es enorme, aunque no abarca todo lo imaginable.
+Por eso, la razón es la máquina universal de Turing, un único objeto capaz de imitar a cualquier otro. Esa universalidad es lo que hace comprensible la realidad: una parte del mundo puede modelar a todas las demás. Por otro lado, un argumento diagonal (razonamiento al estilo de Cantor y Turing) muestra un límite. La inmensa mayoría de entornos lógicamente posibles nunca podrán renderizarse. Deutsch los llama entornos Cantgotu. La universalidad es enorme, aunque no abarca todo lo imaginable.
 
 Idea clave: La computación puede ser universal dentro de lo físicamente posible, aunque casi todo lo lógicamente posible quede para siempre fuera de su alcance.
 
@@ -212,7 +214,7 @@ Año 1957. Everett presenta la interpretación de muchos mundos.
 
 Año 1985. Deutsch publica un artículo fundacional de computación cuántica universal.
 
-Año 1997. Se publica *The Fabric of Reality*.
+Año 1997. Deutsch publica *El tejido de la realidad*.
 
 Figuras clave
 

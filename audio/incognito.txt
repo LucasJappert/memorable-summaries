@@ -30,7 +30,7 @@ Capítulo uno. Hay alguien en mi cabeza, pero no soy yo
 
 ¿Quién conduce el barco si casi todo ocurre sin que lo notes? El cerebro pesa unos 1,4 kg y contiene cientos de miles de millones de neuronas. Cada una es tan compleja como una ciudad. Una célula típica hace unas 10 000 conexiones.
 
-En 1949, Arthur Alberts grabó música en África occidental. Un nativo acusó al magnetófono de robarle la lengua. Igual que la voz es física aunque parezca etérea, los pensamientos dependen de sustancia cerebral. El sueño profundo los elimina. El alcohol o el café los modulan. Una lesión del tamaño de un meñique puede cambiar la música, el color o el riesgo que percibes.
+En 1949, Arthur Alberts grabó música en África occidental. Por eso, un habitante local acusó al magnetófono de robarle la lengua. Igual que la voz es física aunque parezca etérea, los pensamientos dependen de sustancia cerebral. El sueño profundo los elimina. El alcohol o el café los modulan. Una lesión del tamaño de un meñique puede cambiar la música, el color o el riesgo que percibes.
 
 Un experimento reciente mostró que hombres califican fotos de mujeres. Las pupilas dilatadas (señal de excitación sexual) las eligen como más atractivas. Ninguno puede explicar por qué. Algo en el cerebro sabía lo que la conciencia ignoraba. La conciencia es como un periódico ligero (USA Today): resume lo ya decidido en coaliciones neuronales, y llegas tarde a la información.
 
@@ -38,7 +38,7 @@ Galileo observó en 1610 las lunas de Júpiter y destrozó el geocentrismo. Eagl
 
 Conciencia mínima. El yo consciente es la parte más pequeña de la actividad cerebral; la mayoría opera sin permiso de acceso.
 
-🎙️. Tremendous magic
+🎙️. Magia tremenda
 
 🌙. Analogía Galileo
 
@@ -84,7 +84,7 @@ Antoine Bechara mostró que la conductancia cutánea advierte de mazos malos ~13
 
 🎯. Intuición corporal
 
-🎾. CEO vs. robot
+🎾. Directivo vs. robot
 
 Cita: No puedo abarcar todo lo que soy. — Agustín de Hipona
 
@@ -104,7 +104,7 @@ En belleza, la proporción cintura-cadera ~0,67–0,8 atrae. La dilatación pupi
 
 Instinto vs. automatización. Instintos vienen en el ADN; automatizar (bicicleta, tenis) ocurre en la vida; ambos quedan fuera del acceso consciente.
 
-Instinct blindness. Cosmides/Tooby: no vemos los programas que más nos gobiernan porque funcionan demasiado bien.
+Ceguera instintiva. Cosmides/Tooby: no vemos los programas que más nos gobiernan porque funcionan demasiado bien.
 
 James. Hacer extraño lo natural: preguntar por qué sonreímos, por qué palpita el corazón ante multitudes.
 
@@ -122,7 +122,7 @@ Daniel Kahneman y Amos Tversky mostraron que la gente prefiere $100 ahora frente
 
 En el cerebro dividido (Roger Sperry, Nobel), los hemisferios pueden aprender por separado. La mano derecha elige manzana, la izquierda lápiz. Gazzaniga/LeDoux mostraron que, ante gallina y pala de nieve, el hemisferio izquierdo inventa: Necesitas pala para limpiar el gallinero. La anosognosia (negar una discapacidad propia) ilustra a William O. Douglas, quien negaba su parálisis. El cerebro fabrica narrativas coherentes (test de Stroop, lápiz entre dientes).
 
-⚖️. Team of rivals
+⚖️. Equipo de rivales
 
 ⏳. Ulises
 
@@ -142,7 +142,7 @@ El gen peligroso que multiplica por 8–44 la violencia es el cromosoma Y. La me
 
 Benjamin Libet registró un potencial de readiness ~1 s antes del impulso consciente de mover el dedo. El veto de Libet no salva el libre albedrío con evidencia. El automatismo suficiente (margen mínimo de libre albedrío sobre maquinaria automática) sostiene que la política legal puede prescindir de él, aunque existiera libre albedrío.
 
-Eagleman propone sustituir la culpabilidad (castigo por merecer) por la modificabilidad (¿puede cambiar el cerebro y reincidir?). Sentencia prospectiva con tablas actuariales para delitos sexuales (mejor que psiquiatras). El prefrontal workout usa neurofeedback para fortalecer control de impulsos frente a lobotomía. En todo caso, explicar ≠ exculpar: aún hay que apartar a los peligrosos.
+Eagleman propone sustituir la culpabilidad (castigo por merecer) por la modificabilidad (¿puede cambiar el cerebro y reincidir?). Sentencia prospectiva con tablas actuariales para delitos sexuales (mejor que psiquiatras). El entrenamiento prefrontal usa neurofeedback (retroalimentación cerebral en tiempo real) para fortalecer el control de impulsos frente a la lobotomía. En todo caso, explicar ≠ exculpar: aún hay que apartar a los peligrosos.
 
 Año 1966. Whitman en la torre de Texas; tumor en amígdala
 
@@ -178,7 +178,7 @@ Memoria implícita. Saber hacer sin poder declarar cómo (cambiar de carril, Tet
 
 Inferencia inconsciente. El cerebro completa datos sensoriales con suposiciones previas (Helmholtz).
 
-Team of rivals. Subpoblaciones neuronales compiten por el control del comportamiento.
+Equipo de rivales. Subpoblaciones neuronales compiten por el control del comportamiento.
 
 Contrato de Ulises. El yo presente ata al futuro contra tentaciones (club navideño, depósito).
 
@@ -186,7 +186,7 @@ Automatismo suficiente. El libre albedrío, si existe, es marginal; la política
 
 Modificabilidad. Criterio prospectivo para castigo/rehabilitación: ¿puede cambiar el cerebro?
 
-Instinct blindness. Invisibilidad de programas evolutivos que funcionan demasiado bien.
+Ceguera instintiva. Invisibilidad de programas evolutivos que funcionan demasiado bien.
 
 Emergencia. Mente no reducible a piezas; propiedades nuevas del sistema completo.
 
@@ -198,13 +198,13 @@ Año 1610. Galileo observa lunas de Júpiter; caída del geocentrismo
 
 Año 1646–1716. Leibniz: percepciones petites, apetencias inconscientes
 
-Año 1765. Publicación póstuma de Leibniz, New Essays
+Año 1765. Publicación póstuma de Leibniz, Nuevos ensayos
 
-Año 1895. Freud y Breuer: Studies on Hysteria; iceberg mental
+Año 1895. Freud y Breuer: Estudios sobre la histeria; metáfora del iceberg mental
 
-Año 1900. Freud: The Interpretation of Dreams
+Año 1900. Freud: La interpretación de los sueños
 
-Año 1949. Alberts graba música en África; metáfora tremendous magic
+Año 1949. Alberts graba música en África; metáfora de la magia tremenda
 
 Año 1960s. Libet: actividad cerebral antes del impulso consciente
 
@@ -212,7 +212,7 @@ Año 1961. Primera cirugía de cerebro dividido en humanos (epilepsia)
 
 Año 1966. Masacre de la torre de Texas (Whitman)
 
-Año 1981. Gazzaniga/LeDoux: narrador post hoc en split-brain
+Año 1981. Gazzaniga/LeDoux: narrador post hoc en cerebro dividido
 
 Año 2004. Jones: egotismo implícito en matrimonios por inicial
 

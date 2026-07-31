@@ -2,11 +2,13 @@ El orden del tiempo, de Carlo Rovelli.
 
 La idea central
 
-El tiempo que habitamos —uniforme, con presente universal y flecha irreversible— es una aproximación en capas de un mundo de eventos sin variable temporal privilegiada.
+El tiempo que habitamos —uniforme, con presente universal y flecha irreversible— no es una propiedad elemental del cosmos.
+
+Es una aproximación en capas de un mundo de eventos sin variable temporal privilegiada.
 
 Lo que llamamos tiempo emerge de nuestra perspectiva borrosa, entrópica y humana
 
-La física desmonta el reloj cósmico pieza a pieza y lo reconstruye desde la memoria.
+Por eso la física desmonta el reloj cósmico pieza a pieza y lo reconstruye desde la memoria.
 
 Al final del viaje, la emoción del tiempo podría ser precisamente lo que el tiempo es para nosotros.
 
@@ -16,7 +18,7 @@ Prefacio. Quizá el tiempo sea el mayor misterio
 
 ¿Qué escuchamos cuando escuchamos pasar el tiempo? Rovelli se detiene y siente el paso de los segundos, las horas, los años. Ese tiempo íntimo, uniforme y con pasado fijo y futuro abierto, parece la columna vertebral del universo.
 
-La realidad suele ser distinta a lo que parece. La Tierra parece plana. El Sol parece girar en el cielo. Del mismo modo, el tiempo no fluye como creemos. En los libros de física que leyó de joven descubrió algo asombroso: el tiempo funciona de otra manera, y aún no sabemos del todo cómo.
+La realidad suele ser distinta a lo que parece. La Tierra parece plana. El Sol parece girar en el cielo. Del mismo modo, el tiempo no fluye como creemos. Por eso, en los libros de física que leyó de joven, descubrió algo asombroso. El tiempo funciona de otra manera, y aún no sabemos del todo cómo.
 
 El libro tiene tres partes desiguales. En la primera, el tiempo familiar se derrite como un copo de nieve entre los dedos. En la segunda, queda un paisaje casi despojado de temporalidad. En la tercera, el viaje de regreso: buscar al culpable que creó el tiempo que conocemos. En Edipo rey, el detective podría ser el propio culpable.
 
@@ -54,7 +56,7 @@ Ludwig Boltzmann interpretó la entropía estadísticamente. A escala microscóp
 
 Δ S ≥ 0. Segundo principio: la entropía no decrece en procesos aislados
 
-1824. Sadi Carnot publica Reflexions on the Motive Power of Fire
+1824. Sadi Carnot publica Reflexiones sobre la fuerza motriz del fuego
 
 Idea clave: La diferencia entre pasado y futuro no está en la gramática profunda de la física, sino en la termodinámica y en nuestra visión borrosa del detalle microscópico.
 
@@ -80,7 +82,7 @@ Capítulo cuatro. Pérdida de la independencia
 
 Aristóteles decía que el tiempo es la medida del cambio. Isaac Newton postuló un tiempo absoluto, verdadero y matemático, que fluye sin las cosas. Gottfried Leibniz replicó que el tiempo es el orden de las sucesiones, no un escenario autónomo.
 
-Einstein, en la oficina de patentes suiza, unificó ambas intuiciones. El espacio-tiempo (la unión de espacio y tiempo en una sola geometría) no es un escenario fijo. Es el campo gravitatorio (la entidad física que la gravedad describe), dinámico, curvo y verificable. Pierde sentido preguntar si el tiempo existe sin el mundo.
+Einstein, en la oficina de patentes suiza, unificó ambas intuiciones. Entonces el espacio-tiempo (la unión de espacio y tiempo en una sola geometría) deja de ser un escenario fijo. Es el campo gravitatorio (la entidad física que la gravedad describe), dinámico, curvo y verificable. Por eso pierde sentido preguntar si el tiempo existe sin el mundo.
 
 Einstein advirtió en 1916 que la relatividad no puede ser la última palabra. Ese campo gravitatorio debe tener propiedades cuánticas. El cuarto estrato perdido es la independencia: tiempo y espacio ya no son el escenario absoluto de Newton.
 
@@ -102,7 +104,7 @@ El primer pilar es la granularidad: tiempo y espacio tienen escala mínima. El t
 
 El segundo pilar es la indeterminación: pueden superponerse configuraciones espaciotemporales distintas. El tercero es la relatividad relacional: las duraciones concretas surgen al interactuar, no antes. En la gravedad cuántica de bucles (el enfoque en el que trabaja Rovelli) el espacio-tiempo pierde continuidad, presente único e independencia.
 
-No hay teoría cuántica de la gravedad universalmente aceptada ni confirmada en laboratorio. El desmoronamiento de la Parte I queda completo: unidad, dirección, presente, independencia y continuidad caen uno tras otro. Eso abre la Parte II, un mundo sin variable temporal fundamental.
+No hay teoría cuántica de la gravedad universalmente aceptada ni confirmada en laboratorio. Aun así, el desmoronamiento de la Parte I queda completo. Caen uno tras otro la unidad, la dirección, el presente, la independencia y la continuidad. Por eso se abre la Parte II, un mundo sin variable temporal fundamental.
 
 Idea clave: La cuantización destruye lo que restaba del tiempo clásico: granularidad, superposición e interactividad relacional desarman el andamiaje temporal.
 
@@ -186,7 +188,7 @@ El Sol envía un fotón caliente. La Tierra emite unos diez fotones más fríos.
 
 La vida es una red de procesos que consume baja entropía. Las trazas (huellas, registros) solo son posibles con procesos irreversibles donde interviene el calor. La causa, para Bertrand Russell, no es ley elemental sino herramienta estadística ligada a baja entropía pasada.
 
-A nivel fundamental solo hay regularidades simétricas en el tiempo. Causa, memoria y flecha son efectivos emergentes de esa particularidad entrópica. Δ S ≥ 0 vuelve aquí como motor del devenir concreto.
+A nivel fundamental solo hay regularidades simétricas en el tiempo. Por eso causa, memoria y flecha son efectivos emergentes de esa particularidad entrópica. De ahí que Δ S ≥ 0 vuelva aquí como motor del devenir concreto.
 
 ☀️. Sol
 
@@ -206,7 +208,7 @@ En el diálogo de Nāgasena con el rey Milinda, el carro no es una pieza sino re
 
 Agustín, en las Confesiones XI, confiesa no saber qué es el tiempo mientras no lo mide. Husserl analizó la retención y la protención. Marcel Proust, con la madeleine, mostró que la realidad se forma por la memoria: solo por la memoria.
 
-La objeción de que primero existe un tiempo físico global pierde fuerza si la física desmonta ese tiempo. Antes que seres racionales, somos hambre, vínculo, vida. El flujo subjetivo emerge del rastro entrópico en el cerebro.
+La objeción de que primero existe un tiempo físico global pierde fuerza si la física desmonta ese tiempo. Antes que seres racionales, somos hambre, vínculo, vida. Por eso el flujo subjetivo emerge del rastro entrópico en el cerebro.
 
 Cita: La realidad se forma solo por la memoria.
 
@@ -232,7 +234,7 @@ Epílogo. La hermana del sueño
 
 ¿Cómo habitar la finitud temporal sin las ilusiones que la ciencia desmontó? En el Mahābhārata, el espíritu Yaksa pregunta cuál es el mayor misterio. Yudhistira responde: cada día mueren innumerables personas, y quienes quedan viven como inmortales.
 
-Rovelli, a los sesenta años, no teme la muerte como temió nunca del todo. La teme menos que el sufrimiento o la vejez sin amor. Bach, en la cantata BWV 56, llama a la muerte hermana del sueño: una hermana bondadosa que cierra los ojos.
+Rovelli, a los sesenta años, no teme la muerte como temió nunca del todo. La teme menos que el sufrimiento o la vejez sin amor. Entonces Bach, en la cantata BWV 56, llama a la muerte hermana del sueño: una hermana bondadosa que cierra los ojos.
 
 El miedo a la muerte parece un error evolutivo. Nuestros lóbulos frontales hipertrofiados anticipan lo inevitable y disparan terror. La razón aclara ideas sin generar los motivos. Primero somos sed de vida, hambre, amor y pertenencia. Después, quizá, razonamos.
 
@@ -274,7 +276,7 @@ Año ~IV a.C.. Aristóteles: tiempo como medida del cambio.
 
 Año 1793-01-16. Condena a muerte de Luis XVI; Lazare Carnot en la Convención.
 
-Año 1824. Sadi Carnot: Reflexions on the Motive Power of Fire.
+Año 1824. Sadi Carnot: Reflexiones sobre la fuerza motriz del fuego.
 
 Año 1883. Adopción de zonas horarias en ferrocarriles.
 
@@ -314,7 +316,7 @@ Bryce DeWitt y John Wheeler, Ecuación de Wheeler-DeWitt (1967)
 
 Roger Penrose y Alain Connes, Tiempo cuántico y flujo no conmutativo
 
-Hans Reichenbach, The Direction of Time · miedo al tiempo
+Hans Reichenbach, La dirección del tiempo · miedo al tiempo
 
 Carlo Rovelli, Gravedad cuántica de bucles · narrador del libro
 

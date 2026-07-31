@@ -10,7 +10,7 @@ La unidad de la conciencia es la clave para entender permanencia del código, é
 
 Schrödinger une física cuántica, genética y filosofía sin postular fuerzas vitales ni abandonar rigor.
 
-El observador no puede entrar en su propio cuadro sin paradojas: qualia, libre albedrío y sentido quedan fuera del modelo, no fuera de la experiencia.
+El observador no puede entrar en su propio cuadro sin paradojas: las cualidades sensibles, el libre albedrío y el sentido quedan fuera del modelo, no fuera de la experiencia.
 
 Meditar sobre la vida —no sobre la muerte— sigue siendo el mandato spinozista que abre y cierra la obra.
 
@@ -84,7 +84,7 @@ Capítulo cuatro. Evidencia mecanocuántica
 
 ¿Cómo reconciliar pocos átomos con regularidad y durabilidad hereditaria?
 
-El labio Habsburgo se transmitió siglos a ~37 °C. Un físico del siglo XIX no tenía respuesta sin química cuántica. La teoría cuántica de Planck (1900) funda la herencia. Los sistemas pequeños poseen niveles discretos. Las transiciones son saltos cuánticos (cambios discretos de energía, no graduales).
+El labio Habsburgo se transmitió siglos a ~37 °C. Un físico del siglo XIX no tenía respuesta sin química cuántica. Por eso, la teoría cuántica de Planck (1900) funda la herencia. Los sistemas pequeños poseen niveles discretos. Las transiciones son saltos cuánticos (cambios discretos de energía, no graduales).
 
 Las moléculas estables requieren energía W para cambiar de configuración. El tiempo de expectativa depende de W/kT según Polanyi-Wigner. A mayor W/kT, el tiempo crece exponencialmente desde fracciones de segundo hasta decenas de miles de años. Los isómeros del propanol ilustran umbrales entre alelos.
 
@@ -98,7 +98,7 @@ Capítulo cinco. El modelo de Delbrück
 
 ¿Resiste el modelo molecular la comparación con la genética experimental?
 
-El gen es una molécula gigante con cambios discretos por reordenamiento isomérico. Los umbrales altos hacen raras las mutaciones espontáneas. No hay alternativa molecular para la permanencia del código. Schrödinger resume que molécula equivale a sólido y cristal, mientras gas equivale a líquido amorfo.
+El gen es una molécula gigante con cambios discretos por reordenamiento isomérico. Los umbrales altos hacen raras las mutaciones espontáneas, y no hay alternativa molecular para la permanencia del código. Por eso, Schrödinger resume que molécula equivale a sólido y cristal, mientras gas equivale a líquido amorfo.
 
 El gen es un sólido aperiódico (estructura ordenada sin repetición periódica). La analogía Morse muestra cuánta información cabe en pocos átomos. Los umbrales ~0,9–1,8 eV a temperatura ambiente explican estabilidad de siglos. La radiación natural no basta para la tasa espontánea. Los mutantes inestables mutan más con el calor (factor van't Hoff ~2,5 por +10 °C).
 
@@ -238,7 +238,7 @@ Cita: Ostensiblemente hay color, ostensiblemente dulzura, ostensiblemente amargo
 
 Cita: — Demócrito (fr. 125, vía Galeno)
 
-Idea clave: Todo conocimiento científico parte de la percepción sensorial, pero el modelo físico excluye qualia. Las teorías facilitan memoria de hechos medidos y nunca explican las cualidades sensibles.
+Idea clave: Todo conocimiento científico parte de la percepción sensorial, pero el modelo físico excluye las cualidades sensibles desde el primer paso. Las teorías facilitan memoria de hechos medidos y nunca explican color, sabor ni sonido vividos.
 
 Conceptos clave
 
@@ -256,7 +256,7 @@ Entropía negativa. Vida mantiene baja entropía importando orden (alimento, luz
 
 Orden desde orden vs. orden desde desorden. Dos vías de regularidad; vida y cromosomas usan la primera; física térmica la segunda.
 
-Objetivación. Exclusión del sujeto del modelo científico; habilita predicción pero excluye mente, valor y qualia.
+Objetivación. Exclusión del sujeto del modelo científico; habilita predicción pero excluye mente, valor y cualidades sensibles.
 
 Mneme / novedad y conciencia. Lo repetido se inconsciente; lo nuevo (aprendizaje, evolución) permanece consciente.
 
@@ -286,7 +286,7 @@ Año 1946. Huxley: *The Perennial Philosophy*
 
 Año 1950. Charlas BBC que originan *Mind and Matter*
 
-Año 1954. Schrödinger: *Nature and the Greeks*
+Año 1954. Schrödinger publica *La naturaleza y los griegos*
 
 Año 1958. Publicación de *Mind and Matter*
 

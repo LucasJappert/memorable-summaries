@@ -6,9 +6,9 @@ La vida inteligente no es un accidente cósmico aislado.
 
 Requiere estrellas que forjen carbono, planetas estables en la zona habitable y millones de años de evolución en tierra firme.
 
-Si las leyes de la naturaleza son universales, la inteligencia debería ser frecuente; si no la vemos, el cuello de botella es la supervivencia de las civilizaciones tecnológicas, no el origen de la vida.
+Si las leyes de la naturaleza son universales, la inteligencia debería ser frecuente; pero si no la vemos, el cuello de botella es la supervivencia de las civilizaciones tecnológicas, no el origen de la vida.
 
-La paradoja de Fermi no prueba nuestra singularidad.
+Por eso la paradoja de Fermi no prueba nuestra singularidad.
 
 Prueba que el conocimiento sin responsabilidad es letal.
 
@@ -32,7 +32,7 @@ Capítulo uno. Estrellas, galaxias y origen de los elementos químicos
 
 ¿De dónde salen los átomos que forman planetas y seres vivos? La vida, aquí y probablemente en otros mundos, surge en estrecha asociación con planetas, estrellas y galaxias. Comprender esa historia química es el primer paso de la astrobiología.
 
-Hace unos 14 mil millones de años el universo apareció en el Big Bang (origen caliente y denso del espacio, el tiempo y la materia). La ley de Hubble confirma ese origen expansivo. El astrónomo Edwin Hubble la formuló en 1924. La radiación cósmica de fondo de 3 K apunta en la misma dirección.
+Hace unos 14 mil millones de años el universo apareció en el Big Bang (origen caliente y denso del espacio, el tiempo y la materia). La ley de Hubble confirma ese origen expansivo. El astrónomo Edwin Hubble la formuló en 1924. Además, la radiación cósmica de fondo de 3 K apunta en la misma dirección.
 
 Al terminar una edad oscura de unos mil millones de años aparecieron las primeras estrellas, la población III (formadas solo de hidrógeno y helio). Eran muy masivas y de vida corta. Fusionaron elementos hasta el hierro y los expulsaron en supernovas. Generaciones sucesivas enriquecieron el medio interestelar hasta formar estrellas ricas en metales como el Sol.
 
@@ -54,7 +54,7 @@ Capítulo dos. Formación de planetas
 
 ¿Cómo nacen los planetas a partir de polvo interestelar? No se forman solos. Son subproducto del colapso gravitacional de gas y polvo, que produce discos de acreción alimentando la protostrella y dando origen a planetesimales.
 
-En el disco solar (el anillo de gas y polvo que rodea una estrella joven), la fricción desacelera la rotación. La materia migra hacia la estrella. La temperatura decrece con la distancia. Cerca del Sol, a menos de 3 AU, se acumulan silicatos y hierro. Más allá de la línea de hielo (donde el agua se congela, ~150 K) dominan los granos helados.
+En el disco solar (el anillo de gas y polvo que rodea una estrella joven), la fricción desacelera la rotación. La materia migra hacia la estrella y, por eso, la temperatura decrece con la distancia. Cerca del Sol, a menos de 3 AU, se acumulan silicatos y hierro. Más allá de la línea de hielo (donde el agua se congela, ~150 K) dominan los granos helados.
 
 El polvo sedimenta en el plano ecuatorial. Las fuerzas eléctricas aglutinan granos hasta planetesimales de unos 10 km en unos 100 000 años. Simulaciones de George Wetherill muestran que de unos quinientos planetesimales entre 0,4 y 2 AU quedan pocos protoplanetas en decenas de millones de años.
 
@@ -76,7 +76,7 @@ Capítulo tres. La Tierra
 
 ¿Qué hace de la Tierra un escenario plausible para la inteligencia tecnológica? La vida está ligada a planetas terrestres. Ulmschneider destaca tres propiedades esenciales. La tectónica de placas (convección del manto que crea continentes) divide tierra y mar. Una Luna estabiliza el eje de rotación. Las condiciones primitivas permitieron el origen de la vida.
 
-La acumulación por planetesimales terminó unos 30–40 Ma después del inicio del sistema solar (4.567 Ga). El bombardeo intenso duró unos 600 Ma más. Impactos del tamaño de Ceres o Marte vaporizaban océanos enteros.
+La acumulación por planetesimales terminó unos 30–40 Ma después del inicio del sistema solar (4.567 Ga). Pero el bombardeo intenso duró unos 600 Ma más. Impactos del tamaño de Ceres o Marte vaporizaban océanos enteros.
 
 La Luna se formó por impacto de un planetesimal del tamaño de Marte hace 4.527 Ga. Las mareas frenaron la rotación de unas cinco horas a veinticuatro horas y alejaron la Luna hasta unos sesenta y tres radios terrestres. La sismología revela núcleo de hierro-níquel, manto silicatado y corteza.
 
@@ -100,7 +100,7 @@ Capítulo cuatro. Búsqueda de exoplanetas
 
 ¿Cuántos planetas orbitan otras estrellas? Antes de 1995 los exoplanetas eran solo teóricos. En octubre de 2005 ya se habían detectado más de 165. Orbitaban estrellas de secuencia principal. Casi todos eran tipo Júpiter e inhóspitos para la vida.
 
-Un tercio de los exoplanetas detectados supera dos masas jovianas. El más pequeño (Gliese 876 d) tiene 7,3 masas terrestres. Curiosamente, la mitad orbita dentro de 0,5 AU, mucho más cerca que Mercurio. Esto contradice la teoría clásica de formación joviana más allá de 3 AU.
+Un tercio de los exoplanetas detectados supera dos masas jovianas. El más pequeño (Gliese 876 d) tiene 7,3 masas terrestres. Curiosamente, la mitad orbita dentro de 0,5 AU, mucho más cerca que Mercurio. Por eso contradice la teoría clásica de formación joviana más allá de 3 AU.
 
 Ulmschneider interpreta los Júpiteres calientes como evidencia de migración y sesgo observacional, no como la distribución real de planetas en la galaxia. Los métodos incluyen velocidad radial (variaciones Doppler en la luz estelar) y tránsitos (atenuación periódica del brillo al pasar el planeta). Misiones como Gaia, Kepler, Darwin y TPF apuntan a planetas terrestres y atmósferas con agua u ozono.
 
@@ -138,7 +138,7 @@ Tener el escenario correcto no basta: hay que explicar cómo la química abióti
 
 Capítulo seis. Vida y su origen en la Tierra
 
-¿Qué es la vida y cómo pudo surgir de la química? Al secuenciar organismos primitivos, incluidas micoplasmas con unos trescientos genes, la definición precisa está al alcance. Fenomenológicamente implica metabolismo y crecimiento. También uso de energía, individualidad, reproducción y mutación en ambiente abiótico. Los virus no califican.
+¿Qué es la vida y cómo pudo surgir de la química? Al secuenciar genomas de organismos primitivos, incluidas micoplasmas con unos trescientos genes, la definición precisa está al alcance. Fenomenológicamente implica metabolismo y crecimiento. También uso de energía, individualidad, reproducción y mutación en ambiente abiótico. Los virus no califican.
 
 La bioquímica terrestre se basa en cuatro clases de compuestos: proteínas, carbohidratos, lípidos y ácidos nucleicos. El código genético traduce tripletes en aminoácidos. El ATP es la moneda energética. El experimento Urey-Miller (1953) sintetizó aminoácidos abióticos en atmósfera reductora simulada.
 
@@ -164,7 +164,7 @@ Capítulo siete. Evolución
 
 Charles Darwin argumentó que mutaciones aleatorias del ADN producen variantes y la selección favorece las más eficientes. Ulmschneider sostiene que la convergencia evolutiva (aparición independiente de rasgos similares bajo presiones parecidas) demuestra que la selección también gobierna la evolución a largo plazo. La inteligencia comparable en cuervos y monos es un ejemplo.
 
-Entre los hitos figuran la endosimbiosis hacia eucariotas y el oxígeno como catástrofe ambiental (~2,4 Ga). También la multicelularidad y los genes reguladores del desarrollo (~630–542 Ma). Más tarde, plantas y animales conquistaron la tierra (~470 Ma). El evento K/T (65 Ma) extinguió dinosaurios no aviares y abrió camino a mamíferos.
+Entre los hitos figura la endosimbiosis hacia eucariotas, seguida del oxígeno como catástrofe ambiental (~2,4 Ga). Más tarde llegaron la multicelularidad y los genes reguladores del desarrollo (~630–542 Ma). Por último, plantas y animales conquistaron la tierra (~470 Ma). El evento K/T (65 Ma) extinguió dinosaurios no aviares y abrió camino a mamíferos.
 
 La inteligencia humana requiere visión estereoscópica, bipedestación con manos libres, vida social, lenguaje y cultura de herramientas. El volumen cerebral se triplicó desde Australopithecus.
 
@@ -192,7 +192,7 @@ En el Sistema Solar, el satélite Europa (luna helada de Júpiter con océano su
 
 Las misiones Viking (1976) no detectaron vida en Marte. Los meteoritos marcianos (ALH84001) suscitaron debate sobre fósiles microscópicos. Fuera del Sistema Solar conviene detectar agua y ozono como biosignaturas (compuestos atmosféricos fuera del equilibrio termodinámico que sugieren vida).
 
-James Lovelock (1965) señaló que la vida produce compuestos inesperados. El metano terrestre es diez elevado a catorce veces más abundante de lo esperado. Miles de avistamientos de objetos voladores no identificados se reportaron desde 1947. El informe Condon (1969) concluyó que veintiún años de estudio no añadieron conocimiento científico.
+James Lovelock (1965) señaló que la vida produce compuestos inesperados. El metano terrestre es un billón de veces más abundante de lo esperado en equilibrio químico. Miles de avistamientos de objetos voladores no identificados se reportaron desde 1947. El informe Condon (1969) concluyó que veintiún años de estudio no añadieron conocimiento científico.
 
 Viking. Tres experimentos bioquímicos en Marte; resultados ambiguos, interpretados como abióticos.
 
@@ -212,7 +212,7 @@ La colonización del Sistema Solar incluye estaciones espaciales, bases lunares 
 
 El dominio biológico avanza con la secuenciación del genoma humano (2001–2003, unos treinta mil genes) y la creación de vida mínima en laboratorio. Los peligros externos (supernovas, rayos gamma, impactos) son poco probables como extinción total.
 
-Los peligros internos son los formidables: daño ambiental, invenciones incontrolables, guerra y terrorismo. Ulmschneider propone distribuir la humanidad en colonias espaciales, controlar armas de destrucción masiva y educar la responsabilidad social. El factor L de Drake (duración media de una civilización tecnológica comunicante) es el más incierto de la ecuación de Drake.
+Los peligros internos, sin embargo, son los formidables. Entre ellos figuran el daño ambiental, las invenciones incontrolables, la guerra y el terrorismo. Ulmschneider propone distribuir la humanidad en colonias espaciales, controlar armas de destrucción masiva y educar la responsabilidad social. El factor L de Drake (duración media de una civilización tecnológica comunicante) es el más incierto de la ecuación de Drake.
 
 ☢️. Guerra y terrorismo
 
@@ -278,7 +278,7 @@ Año 4,527 Ga. Impacto gigante que forma la Luna.
 
 Año ~3,8 Ga. Primeras evidencias geoquímicas de vida.
 
-Año ~2,4 Ga. Evento de Great Oxidation; atmósfera rica en oxígeno.
+Año ~2,4 Ga. Gran oxidación; atmósfera rica en O₂.
 
 Año 1953. Experimento Urey-Miller: síntesis abiótica de aminoácidos.
 

@@ -66,7 +66,9 @@ El siglo XIX amplió ese marco con luz y campos, y allí apareció la primera gr
 
 Capítulo cuatro. El resto de la física clásica
 
-¿Cómo la luz preparó el terreno para la cuántica? Antes de ella, el siglo XIX consolidó una imagen del mundo en términos de campos (influencias que llenan el espacio, como un imán). También usó ondas (perturbaciones que se propagan) y energía (capacidad de producir cambio o movimiento). La historia de la luz es central. Thomas Young demostró interferencia y naturaleza ondulatoria. James Clerk Maxwell unificó electricidad y magnetismo en ondas electromagnéticas.
+¿Cómo la luz preparó el terreno para la cuántica? Antes de ella, el siglo XIX describió el mundo con campos (influencias que llenan el espacio, como un imán).
+
+También usó ondas (perturbaciones que se propagan) y la energía (capacidad de producir cambio o movimiento) como magnitudes centrales. La historia de la luz es el caso más decisivo. Thomas Young demostró interferencia y naturaleza ondulatoria. James Clerk Maxwell unificó electricidad y magnetismo en ondas electromagnéticas.
 
 La radiación del cuerpo negro exhibía la catástrofe ultravioleta: la física clásica predecía energía infinita en frecuencias altas. La luz parecía onda, pero también corpúsculo. Esa dualidad no quedó confinada a la luz. El físico Louis de Broglie propuso que toda materia tiene longitud de onda λ = h/p.
 
@@ -114,7 +116,7 @@ Capítulo siete. Un tercio de nuestra economía
 
 El láser (un haz de luz amplificado por emisión estimulada) mezcla fotones compactos y ondas extendidas. Sus espejos deben espaciarse en múltiplos de media longitud de onda. El transistor (el interruptor electrónico que hizo posibles los chips) revolucionó la electrónica. Los electrones de valencia se extienden por todo el cristal de silicio como ondas, aunque los ingenieros los traten también como partículas localizadas según convenga.
 
-La resonancia magnética (imagen médica por campos magnéticos, la MRI) pone núcleos de hidrógeno en superposición de estados magnéticos y lee la radiación de retorno. La precisión del cálculo del momento magnético del electrón alcanza una parte en un billón. Los ingenieros cultivan una esquizofrenia benigna: onda o partícula según el problema, sin enfrentar el enigma.
+La resonancia magnética (imagen médica por campos magnéticos, la MRI) pone núcleos de hidrógeno en superposición de estados magnéticos y lee la radiación de retorno. La precisión del cálculo del momento magnético del electrón alcanza una parte en un billón. Por eso también apunta la computación cuántica, que explota superposición para resolver problemas intratables. Los ingenieros cultivan una esquizofrenia benigna: onda o partícula según el problema, sin enfrentar el enigma.
 
 ~⅓. Economía basada en productos cuánticos
 
@@ -168,7 +170,7 @@ Capítulo 11. Interacciones fantasmales
 
 Los experimentos con fotones gemelos de Alain Aspect y otros violaron la desigualdad. Nuestro mundo no puede tener simultáneamente realidad local y separabilidad. Las interacciones fantasmales de Einstein existen: objetos que interactuaron siguen influyéndose instantáneamente, aunque no permiten enviar información más rápida que la luz.
 
-Bell advirtió contra la trampa FAPP (for all practical purposes): aceptar soluciones pragmáticas que evaden el fondo del problema. Su teorema es quizá el descubrimiento más profundo de la segunda mitad del siglo XX en ciencia. Confirmó que la negación einsteniana de la cuántica completa no puede salvarse con variables ocultas locales.
+Por eso Bell advirtió contra la trampa FAPP (for all practical purposes): aceptar soluciones pragmáticas que evaden el fondo del problema. Su teorema es quizá el descubrimiento más profundo de la segunda mitad del siglo XX en ciencia. Confirmó que la negación einsteiniana de la cuántica completa no puede salvarse con variables ocultas locales.
 
 Idea clave: Bell convirtió el realismo local en predicción experimental, y la naturaleza violó su desigualdad.
 
@@ -198,7 +200,7 @@ Capítulo 13. ¿Qué es la conciencia?
 
 La física newtoniana es determinista. Un ojo que todo lo ve podría predecir el futuro sin dejar lugar al libre albedrío. La cuántica introduce azar, pero el azar no es elección libre. El filósofo David Chalmers formuló el problema difícil (por qué hay experiencia subjetiva además de procesos cerebrales). Francis Crick redujo la conciencia a actividad neuronal, y Chalmers niega que los correlatos neurales basten.
 
-Desde el filósofo George Berkeley (esse est percipi) hasta el behaviorismo y el test de Turing, la mente fue ignorada o reducida. Hoy la neuroimagen (fMRI, PET) correlaciona actividad cerebral con reportes de experiencia, pero no explica el qualia. El problema difícil de la conciencia parece paralelo al problema difícil de la observación cuántica.
+Desde el filósofo George Berkeley (esse est percipi) hasta el behaviorismo y el test de Turing, la mente fue ignorada o reducida. Hoy la neuroimagen (fMRI, PET) correlaciona actividad cerebral con reportes de experiencia, pero no explica el qualia (la cualidad subjetiva de lo que se siente). Los experimentos de Benjamin Libet sobre el potencial de readiness sugieren que el cerebro inicia la acción antes del reporte consciente de decidir. Aun así, el resultado es ambiguo como prueba contra el libre albedrío. El problema difícil de la conciencia parece paralelo al problema difícil de la observación cuántica.
 
 Idea clave: El problema difícil de la conciencia y el libre albedrío son paralelos al enigma cuántico de la observación.
 
