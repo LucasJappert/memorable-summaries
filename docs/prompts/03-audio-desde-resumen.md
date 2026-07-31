@@ -56,6 +56,15 @@ Qué **sí**: intro título/autor, títulos de sección, párrafos, citas.
 
 **Reglas:** no inventar contenido; no resumir más; español latino; tono divulgativo.
 
+### Ritmo y títulos (parser + concat)
+
+El script aplica esto automáticamente; no hace falta editar el `.txt` a mano:
+
+1. **Sin prefijos duplicados** — `num: 00` + título «Prólogo e…» → narrar solo el título (no «Prólogo. Prólogo e…»). Igual si el título ya empieza con «Capítulo N».
+2. **Un párrafo = clip(s) propios** — no fusionar títulos cortos con el párrafo siguiente (evita «La idea central La IA…» corrido).
+3. **Pausas al concatenar** — ~350 ms entre clips; ~700 ms después de títulos estructurales (`La idea central`, `Prólogo…`, `Capítulo…`, `Idea clave:`, `Cita:`).
+4. **No usar SSML ni `…` artificiales** para forzar pausas: OmniVoice recibe texto plano; el silencio es PCM en el concat.
+
 ---
 
 ## Paso 2 — TTS OmniVoice (un libro)

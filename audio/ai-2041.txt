@@ -6,13 +6,15 @@ La IA no trae un futuro único predeterminado.
 
 Trae herramientas poderosas cuyo resultado depende de cómo las diseñemos, regulamos e imaginemos.
 
+El futuro no está escrito, pero sí exige decisiones colectivas ahora
+
 Lee y Chen muestran escenarios plausibles para 2041, desde sesgos actuariales hasta plenitud energética.
 
 La ficción abre la empatía; el análisis fija límites técnicos reales: no AGI ni singularidad para 2041, pero sí transformación profunda del trabajo, los datos y la economía.
 
 El mensaje final es simbiosis: humanos aportando creatividad, empatía y propósito mientras la IA automatiza lo rutinario.
 
-Prólogo. Prólogo e introducciones
+Prólogo e introducciones
 
 ¿Cómo imaginar el futuro de la IA sin caer en el pánico de Hollywood ni en la ceguera optimista? El inversor y experto en IA Kai-Fu Lee y el novelista Chen Qiufan combinan diez relatos ambientados en 2041 con ensayos técnicos. No es ficción alejada, sino ficción científica basada en tecnologías con más del 80 % de probabilidad de madurar en veinte años.
 
@@ -54,7 +56,7 @@ Capítulo dos. Dioses tras las máscaras
 
 La historia anticipa un mundo donde el ojo humano ya no distingue lo real. Reconocimiento facial en transporte, deepfakes políticos y biometría avanzada conviven con jóvenes que usan máscaras impresas en 3D para evadir vigilancia. Amaka aprende que la tecnología puede servir al engaño o a la verdad colectiva. Elige desmontar una mentira creando otra que expone la artificiosidad del poder mediático.
 
-Lee explica la visión por computadora, es decir software que interpreta imágenes mediante filtros jerárquicos. Esos filtros detectan rasgos desde líneas hasta objetos completos. Los GAN entrenan un falsificador contra un detective hasta equilibrio. Hoy muchos deepfakes son detectables. En 2041, la carrera dependerá del cómputo disponible, como ventanas antibalas frente a granadas.
+Lee explica la visión por computadora, es decir software que interpreta imágenes mediante filtros jerárquicos. Esos filtros detectan rasgos desde líneas hasta objetos completos. Los GAN entrenan un falsificador contra un detective hasta equilibrio. Sin embargo, hoy muchos deepfakes son detectables. En 2041, la carrera dependerá del cómputo disponible, como ventanas antibalas frente a granadas.
 
 🎭. Deepfake
 
@@ -94,7 +96,7 @@ Capítulo cuatro. Amor sin contacto
 
 El relato extrapola una aceleración pandémica con telemedicina, laboratorios robóticos 24/7, diagnóstico por IA y distanciamiento laboral permanente. Lee argumenta que la salud será el sector más transformado para 2041 gracias a digitalización masiva de historiales, wearables y secuenciación genómica.
 
-AlphaFold 2 (2020) resolvió el plegamiento proteico, un desafío de cincuenta años, y aceleró fármacos y vacunas. La IA superará radiólogos y patólogos antes que médicos generales. Las cirugías robóticas pasaron del 1,8 % al 15,1 % entre 2012 y 2018. IBM Watson fracasó al entrenarse con datos didácticos pequeños en lugar de resultados clínicos reales.
+AlphaFold 2 (2020) resolvió el plegamiento proteico, un desafío de cincuenta años, y aceleró fármacos y vacunas. La IA superará radiólogos y patólogos antes que médicos generales. Entre 2012 y 2018, las cirugías robóticas pasaron del 1,8 % al 15,1 %. Pero IBM Watson fracasó al entrenarse con datos didácticos pequeños en lugar de resultados clínicos reales.
 
 31 → 72 años. Expectativa de vida global (1900–2017)
 
@@ -142,7 +144,7 @@ L4. Autonomía en rutas geocercadas (robobuses, minas).
 
 L5. Sin volante; requiere ciudad aumentada y regulación madura.
 
-Chamal descubre que humanos y IA cometen errores distintos. La IA carece de sentido común contextual. El humano carece de consistencia y de memoria colectiva de billones de kilómetros. Lee aboga por debate público sobre trade-offs antes de prohibir conducción humana en autopistas.
+Chamal descubre que humanos y IA cometen errores distintos. La IA carece de sentido común contextual. El humano carece de consistencia y de memoria colectiva de billones de kilómetros. Por eso, Lee aboga por debate público sobre trade-offs antes de prohibir conducción humana en autopistas.
 
 Idea clave: La autonomía total no llegará de un golpe mágico sino de décadas de datos, infraestructura inteligente y reglas que acepten vidas salvadas a largo plazo.
 
@@ -242,11 +244,11 @@ Vehículo autónomo L5. Conducción plena sin humano; requiere datos, ciudad aum
 
 Armas autónomas. Sistemas letales sin humano en el bucle; riesgo existencial y carrera armamentista.
 
-3R. Relearn, recalibrate, renaissance: estrategia ante desplazamiento laboral.
+3R. Reaprender, recalibrar, renacer: estrategia ante desplazamiento laboral.
 
-Plenitude. Post-escasez tecnológica con necesidades cubiertas y trabajo opcional.
+Plenitud. Post-escasez tecnológica con necesidades cubiertas y trabajo opcional.
 
-Privacidad computacional. Federated learning, TEE y cifrado para entrenar IA sin centralizar datos sensibles.
+Privacidad computacional. Aprendizaje federado, entornos de ejecución confiables (TEE) y cifrado para entrenar IA sin centralizar datos sensibles.
 
 Cronología de la IA y el horizonte 2041
 

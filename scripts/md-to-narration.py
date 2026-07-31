@@ -74,6 +74,22 @@ DEFAULT_API_URL = "https://lucas-ai-api.eu1.netbird.services"
 TTS_TIMEOUT_SEC = 120.0
 TTS_RETRIES = 3
 
+# Pausas al concatenar clips (PCM silencio; no dependen del modelo TTS).
+PAUSE_MS_BETWEEN_CHUNKS = 350
+PAUSE_MS_AFTER_HEADING = 700
+
+# Títulos / etiquetas estructurales: clip propio + pausa larga después.
+_STRUCTURAL_HEADING_RE = re.compile(
+    r"^(?:"
+    r"la idea central|"
+    r"pr[oó]logo\b|"
+    r"cap[ií]tulo\s+\w+|"
+    r"idea clave:|"
+    r"cita:"
+    r")",
+    re.IGNORECASE,
+)
+
 NUM_WORDS = {
     "00": "prólogo",
     "01": "uno",
@@ -191,13 +207,30 @@ def section_heading(num: str, title: str) -> str:
     if num in {"✦", "◈", "—"}:
         return title
     if num.lower() == "prólogo" or num == "00":
-        return f"Prólogo. {title}" if title else "Prólogo"
+        if not title:
+            return "Prólogo"
+        # Evitar "Prólogo. Prólogo e introducciones"
+        if re.match(r"^pr[oó]logo\b", title, re.IGNORECASE):
+            return title
+        return f"Prólogo. {title}"
     if re.fullmatch(r"\d{2}", num):
         word = NUM_WORDS.get(num, num)
+        if not title:
+            return f"Capítulo {word}"
+        # Evitar "Capítulo uno. Capítulo uno: …"
+        if re.match(rf"^cap[ií]tulo\s+{re.escape(word)}\b", title, re.IGNORECASE):
+            return title
+        if re.match(rf"^cap[ií]tulo\s+{int(num)}\b", title, re.IGNORECASE):
+            return title
         return f"Capítulo {word}. {title}"
     if num:
         return f"{num}. {title}"
     return title
+
+
+def is_structural_heading(para: str) -> bool:
+    """True si el párrafo es un título/etiqueta que debe ir solo y con pausa larga."""
+    return bool(_STRUCTURAL_HEADING_RE.match(para.strip()))
 
 
 def narrate_table(rows: list[list[str]], kind: str) -> list[str]:
@@ -443,60 +476,67 @@ def _split_sentences(text: str) -> list[str]:
     return [p.strip() for p in parts if p.strip()]
 
 
-def split_chunks_short(text: str, max_size: int = OMNI_CHUNK_MAX) -> list[str]:
-    """Parte en clips cortos (≤~15s) cortando en párrafos y oraciones."""
+def split_chunks_short(
+    text: str, max_size: int = OMNI_CHUNK_MAX
+) -> tuple[list[str], list[bool]]:
+    """Parte en clips cortos (≤~15s).
+
+    No fusiona párrafos distintos (evita «La idea central La IA…»).
+    Títulos estructurales van en clip propio; el flag indica pausa larga *después*.
+    """
     paragraphs = [p.strip() for p in text.split("\n\n") if p.strip()]
     chunks: list[str] = []
-    current = ""
+    after_heading: list[bool] = []
 
-    def flush() -> None:
-        nonlocal current
-        if current.strip():
-            chunks.append(current.strip())
-            current = ""
-
-    def append_piece(piece: str) -> None:
-        nonlocal current
+    def emit(piece: str, *, heading: bool = False) -> None:
         piece = piece.strip()
         if not piece:
             return
-        if not current:
-            current = piece
-            return
-        candidate = f"{current} {piece}"
-        if len(candidate) <= max_size:
-            current = candidate
-        else:
-            flush()
-            current = piece
+        chunks.append(piece)
+        after_heading.append(heading)
 
     for para in paragraphs:
-        if len(para) <= max_size:
-            append_piece(para)
-            if len(current) >= max_size * 0.7:
-                flush()
+        heading = is_structural_heading(para)
+        if heading and len(para) <= max_size:
+            emit(para, heading=True)
             continue
-        for sentence in _split_sentences(para):
-            if len(sentence) <= max_size:
-                append_piece(sentence)
-                continue
-            # Oración muy larga: partir por comas / espacios
-            buf = ""
-            for token in re.split(r"(?<=[,;:])\s+|\s+", sentence):
-                if not token:
-                    continue
-                nxt = f"{buf} {token}".strip() if buf else token
-                if len(nxt) <= max_size:
-                    buf = nxt
-                else:
-                    if buf:
-                        append_piece(buf)
-                    buf = token
-            if buf:
-                append_piece(buf)
 
-    flush()
-    return chunks
+        if len(para) <= max_size:
+            emit(para, heading=False)
+            continue
+
+        # Párrafo largo: empaquetar oraciones hasta max_size (mismo párrafo).
+        current = ""
+        for sentence in _split_sentences(para):
+            pieces = [sentence] if len(sentence) <= max_size else []
+            if not pieces:
+                buf = ""
+                for token in re.split(r"(?<=[,;:])\s+|\s+", sentence):
+                    if not token:
+                        continue
+                    nxt = f"{buf} {token}".strip() if buf else token
+                    if len(nxt) <= max_size:
+                        buf = nxt
+                    else:
+                        if buf:
+                            pieces.append(buf)
+                        buf = token
+                if buf:
+                    pieces.append(buf)
+            for piece in pieces:
+                if not current:
+                    current = piece
+                else:
+                    candidate = f"{current} {piece}"
+                    if len(candidate) <= max_size:
+                        current = candidate
+                    else:
+                        emit(current, heading=False)
+                        current = piece
+        if current:
+            emit(current, heading=False)
+
+    return chunks, after_heading
 
 
 def setup_hermes_import() -> None:
@@ -522,17 +562,39 @@ def probe_duration(path: Path) -> float:
     return float(out)
 
 
-def concat_wavs(paths: list[Path], out_path: Path) -> None:
-    """Concatena WAVs PCM del mismo formato (OmniVoice: mono 24 kHz)."""
+def silence_pcm(
+    *,
+    nchannels: int,
+    sampwidth: int,
+    framerate: int,
+    duration_ms: int,
+) -> bytes:
+    n_frames = int(framerate * duration_ms / 1000)
+    return b"\x00" * (n_frames * nchannels * sampwidth)
+
+
+def concat_wavs(
+    paths: list[Path],
+    out_path: Path,
+    *,
+    after_heading: list[bool] | None = None,
+    gap_ms: int = PAUSE_MS_BETWEEN_CHUNKS,
+    heading_gap_ms: int = PAUSE_MS_AFTER_HEADING,
+) -> None:
+    """Concatena WAVs PCM del mismo formato (OmniVoice: mono 24 kHz) con silencios."""
     if not paths:
         raise SystemExit("No hay chunks para concatenar")
 
     with wave.open(str(paths[0]), "rb") as first:
         params = first.getparams()
 
+    flags = after_heading or [False] * len(paths)
+    if len(flags) != len(paths):
+        raise SystemExit("after_heading no coincide con la cantidad de chunks")
+
     with wave.open(str(out_path), "wb") as out:
         out.setparams(params)
-        for path in paths:
+        for i, path in enumerate(paths):
             with wave.open(str(path), "rb") as src:
                 if (
                     src.getnchannels() != params.nchannels
@@ -541,6 +603,16 @@ def concat_wavs(paths: list[Path], out_path: Path) -> None:
                 ):
                     raise SystemExit(f"Formato distinto en {path}")
                 out.writeframes(src.readframes(src.getnframes()))
+            if i < len(paths) - 1:
+                ms = heading_gap_ms if flags[i] else gap_ms
+                out.writeframes(
+                    silence_pcm(
+                        nchannels=params.nchannels,
+                        sampwidth=params.sampwidth,
+                        framerate=params.framerate,
+                        duration_ms=ms,
+                    )
+                )
 
 
 # Nivel tipo podcast (~YouTube/Spotify speech). No regenera TTS: solo WAV→MP3.
@@ -630,15 +702,20 @@ def run_tts_omnivoice(
     force: bool = False,
     voice: str | None = None,
 ) -> None:
-    chunks = split_chunks_short(text)
+    chunks, after_heading = split_chunks_short(text)
     chunk_dir = AUDIO_DIR / slug / "chunks"
     if force and chunk_dir.exists():
         shutil.rmtree(chunk_dir)
     chunk_dir.mkdir(parents=True, exist_ok=True)
 
     voice_label = voice or "(default API)"
+    n_headings = sum(1 for h in after_heading if h)
     print(f"OmniVoice via lucas-ai-api ({api_base_url()}) voice={voice_label}")
-    print(f"Clips: {len(chunks)} (máx {OMNI_CHUNK_MAX} chars)")
+    print(
+        f"Clips: {len(chunks)} (máx {OMNI_CHUNK_MAX} chars; "
+        f"{n_headings} títulos; pausa {PAUSE_MS_BETWEEN_CHUNKS}ms / "
+        f"{PAUSE_MS_AFTER_HEADING}ms tras título)"
+    )
     bearer = api_key()
 
     wav_paths: list[Path] = []
@@ -662,7 +739,7 @@ def run_tts_omnivoice(
 
     out_wav = AUDIO_DIR / f"{slug}.wav"
     print(f"Concatenando {len(wav_paths)} chunks → {out_wav}")
-    concat_wavs(wav_paths, out_wav)
+    concat_wavs(wav_paths, out_wav, after_heading=after_heading)
 
     duration = probe_duration(out_wav)
     size_mb = out_wav.stat().st_size / (1024 * 1024)
